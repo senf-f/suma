@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block main %}
+<h1>Glosar</h1>
+<p class="lead">Stalni prijevodi stručnih pojmova, korišteni u cijelom tekstu.</p>
+{% if terms %}
+<table class="glossary">
+  <thead><tr><th>Latinski</th><th>Hrvatski</th><th>Druge mogućnosti</th><th>Napomena</th></tr></thead>
+  <tbody>
+  {% for t in terms %}
+  <tr>
+    <td lang="la">{{ t.la }}</td>
+    <td><strong>{{ t.hr }}</strong></td>
+    <td>{{ t.alternatives|join(", ") }}</td>
+    <td>{{ t.note }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p class="missing">Glosar još nije odobren.</p>
+{% endif %}
+{% endblock %}

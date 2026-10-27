@@ -58,6 +58,18 @@ def cmd_translate(args) -> None:
         raise SystemExit("Some articles failed; run the same command again to retry only those.")
 
 
+def cmd_build(args) -> None:
+    import subprocess
+    import sys
+
+    from suma.reader import build
+
+    out = Path(args.out)
+    build(DATA / "latin", Path(args.hr), DATA / "glossary.yaml", out)
+    subprocess.run([sys.executable, "-m", "pagefind", "--site", str(out)], check=True)
+    print(f"Site built in {out}; open {out / 'index.html'}")
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="suma", description="Summa Theologiae translation pipeline")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -74,6 +86,10 @@ def build_parser() -> argparse.ArgumentParser:
     p_tr.add_argument("--yes", action="store_true", help="submit without asking for confirmation")
     p_tr.add_argument("--collect", metavar="BATCH_ID", help="collect results of an already submitted batch")
     p_tr.set_defaults(func=cmd_translate)
+    p_build = sub.add_parser("build", help="render the reader site into dist/ and index it")
+    p_build.add_argument("--out", default="dist")
+    p_build.add_argument("--hr", default=str(DATA / "hr"), help="translations directory")
+    p_build.set_defaults(func=cmd_build)
     return parser
 
 

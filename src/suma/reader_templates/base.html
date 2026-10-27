@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }} · Suma teologije</title>
+<link rel="stylesheet" href="{{ root }}static/style.css">
+<link rel="stylesheet" href="{{ root }}pagefind/pagefind-ui.css">
+</head>
+<body>
+<header class="site">
+  <a class="brand" href="{{ root }}index.html">Suma teologije</a>
+  <nav>
+    <a href="{{ root }}index.html">Sadržaj</a>
+    <a href="{{ root }}glosar.html">Glosar</a>
+  </nav>
+  <div class="controls">
+    {% if models|length > 1 %}
+    <label>Prijevod
+      <select id="model-switch">
+        {% for m in models %}<option value="{{ m.id }}">{{ m.label }}</option>{% endfor %}
+      </select>
+    </label>
+    {% endif %}
+    <label><input type="checkbox" id="latin-toggle" checked> Latinski</label>
+  </div>
+  <div id="search"></div>
+</header>
+<main{% block main_attrs %}{% endblock %}>
+{% block main %}{% endblock %}
+</main>
+<footer class="site">Strojni prijevod (pilot), u izradi. Latinski tekst: Corpus Thomisticum.</footer>
+<script src="{{ root }}pagefind/pagefind-ui.js"></script>
+<script>window.SUMA_ROOT = "{{ root }}";</script>
+<script src="{{ root }}static/reader.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block main %}
+<h1>Suma teologije</h1>
+<p class="lead">Toma Akvinski, <i>Summa theologiae</i>. Hrvatski prijevod uz latinski izvornik.</p>
+
+{% for entry in toc %}
+{% if loop.first or entry.question.part != loop.previtem.question.part %}
+<h2>{{ part_labels[entry.question.part] }}</h2>
+{% endif %}
+<div class="toc-q">
+  <a class="toc-title" href="{{ entry.href }}">Pitanje {{ entry.question.question }}</a>
+  <span class="toc-articles">
+    {% for s in entry.sections if s.anchor %}<a href="{{ entry.href }}#{{ s.anchor }}">{{ s.heading|replace("Članak ", "čl. ") }}</a>{% endfor %}
+  </span>
+</div>
+{% endfor %}
+{% endblock %}
