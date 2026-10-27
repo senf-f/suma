@@ -105,6 +105,47 @@ def test_nothing_to_do_submits_nothing(data_dir):
     assert summary.written == 0
 
 
+def test_collect_handles_multi_part_ids(data_dir):
+    q90 = {"id": "I-II.q90", "part": "I-II", "question": 90,
+           "units": [{"id": "I-II.q90.a4.resp", "kind": "resp", "text": "Respondeo dicendum quod lex"}]}
+    (data_dir / "latin" / "I-II").mkdir()
+    (data_dir / "latin" / "I-II" / "q090.json").write_text(json.dumps(q90), encoding="utf-8")
+
+    summary = run_translate("I-II.q90", "opus", FakeBatchClient(translate_all), yes=True,
+                            data_dir=data_dir, poll_seconds=0, sleep=lambda s: None)
+
+    assert summary.failed == []
+    stored = json.loads((data_dir / "hr" / MODEL / "I-II" / "q090.json").read_text(encoding="utf-8"))
+    assert stored["units"]["I-II.q90.a4.resp"]["text"] == "HR I-II.q90.a4.resp"
+
+
+def test_refuses_resubmit_while_batch_uncollected(data_dir):
+    class Interrupted(Exception):
+        pass
+
+    def interrupt(seconds):
+        raise Interrupted
+
+    stuck = FakeBatchClient(translate_all)
+    stuck.messages.batches.polls_before_end = 5
+    with pytest.raises(Interrupted):
+        run_translate("I.q1-13", "opus", stuck, yes=True, data_dir=data_dir, poll_seconds=0, sleep=interrupt)
+
+    again = FakeBatchClient(translate_all)
+    with pytest.raises(RuntimeError, match="--collect msgbatch_1"):
+        run(again, data_dir)
+    assert again.messages.batches.created == []
+
+
+def test_collected_batch_allows_new_submission(data_dir):
+    run(FakeBatchClient(missing_id_reply), data_dir)
+
+    retry = FakeBatchClient(translate_all)
+    run(retry, data_dir)
+
+    assert len(retry.messages.batches.created) == 1
+
+
 def test_estimate_applies_batch_discount():
     request = {"params": {"model": MODEL, "system": [], "messages": [{"role": "user", "content": "x:\n[]"}]}}
     client = FakeBatchClient(translate_all, input_tokens=1_000_000)

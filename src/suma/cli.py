@@ -1,4 +1,5 @@
 import argparse
+import sys
 from pathlib import Path
 
 DATA = Path("data")
@@ -94,6 +95,9 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def main(argv: list[str] | None = None) -> None:
+    # Windows consoles and pipes default to cp1250, which can't print Croatian or "≈".
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     args = build_parser().parse_args(argv)
     if not hasattr(args, "func"):
         raise SystemExit(f"'{args.command}' is not implemented yet")

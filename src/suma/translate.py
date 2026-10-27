@@ -5,7 +5,7 @@ from pathlib import Path
 
 from suma.glossary import load_glossary
 from suma.ids import parse_range
-from suma.llm import MODELS, usage_cost
+from suma.llm import MODELS, message_cost, usage_cost
 from suma.prompt import PROMPT_VERSION, TranslationError, build_requests, request_unit_ids, request_units, validate
 from suma.store import done_ids, write_units
 
@@ -54,6 +54,13 @@ def run_translate(
     data_dir: Path = Path("data"),
 ) -> Summary:
     model = MODELS[model_key]
+    for path in sorted((data_dir / "batches").glob("*.json")):
+        pending = json.loads(path.read_text(encoding="utf-8"))
+        if pending["model"] == model and not pending.get("collected"):
+            raise RuntimeError(
+                f"Batch {path.stem} for {model} was submitted but never collected; "
+                f"run `suma translate --collect {path.stem}` instead of submitting again"
+            )
     glossary_version, terms = load_glossary(data_dir / "glossary.yaml")
     done = done_ids(model, PROMPT_VERSION, glossary_version, data_dir / "hr")
     requests = build_requests(_latin_files(data_dir, range_spec), model, (glossary_version, terms), done)
@@ -86,7 +93,8 @@ def run_translate(
 def collect(
     batch_id: str, client, poll_seconds: int = 60, sleep=time.sleep, data_dir: Path = Path("data")
 ) -> Summary:
-    record = json.loads((data_dir / "batches" / f"{batch_id}.json").read_text(encoding="utf-8"))
+    record_path = data_dir / "batches" / f"{batch_id}.json"
+    record = json.loads(record_path.read_text(encoding="utf-8"))
     model = record["model"]
 
     while client.messages.batches.retrieve(batch_id).processing_status != "ended":
@@ -99,17 +107,20 @@ def collect(
         if result.type != "succeeded":
             summary.failed.append((entry.custom_id, result.type))
             continue
-        usage = result.message.usage
-        summary.usd_actual += usage_cost(model, usage.input_tokens, usage.output_tokens, batch=True)
+        summary.usd_actual += message_cost(model, result.message.usage, batch=True)
+        expected = record["expected"][entry.custom_id]
         try:
-            units = validate(record["expected"][entry.custom_id], result.message)
+            units = validate(expected, result.message)
         except TranslationError as exc:
             summary.failed.append((entry.custom_id, str(exc)))
             continue
-        part, question = entry.custom_id.split("-")[:2]
+        part, question = expected[0].split(".")[:2]
         write_units(
             model, part, int(question[1:]), units,
             record["prompt_version"], record["glossary_version"], data_dir / "hr",
         )
         summary.written += len(units)
+
+    record["collected"] = True
+    record_path.write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")
     return summary
