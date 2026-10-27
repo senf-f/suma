@@ -100,9 +100,13 @@ def build_requests(
     return requests
 
 
-def request_unit_ids(request: dict) -> list[str]:
+def request_units(request: dict) -> list[dict]:
     content = request["params"]["messages"][0]["content"]
-    return [u["id"] for u in json.loads(content[content.index("["):])]
+    return json.loads(content[content.index("["):])
+
+
+def request_unit_ids(request: dict) -> list[str]:
+    return [u["id"] for u in request_units(request)]
 
 
 def validate(expected_ids: list[str], message) -> dict[str, str]:

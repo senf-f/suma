@@ -41,6 +41,23 @@ def cmd_glossary(args) -> None:
     print("Review it, then save as data/glossary.yaml to approve.")
 
 
+def cmd_translate(args) -> None:
+    import anthropic
+
+    from suma.translate import collect, run_translate
+
+    client = anthropic.Anthropic()
+    if args.collect:
+        summary = collect(args.collect, client, data_dir=DATA)
+    else:
+        summary = run_translate(args.range, args.model, client, yes=args.yes, data_dir=DATA)
+    print(f"written: {summary.written} units, actual cost ${summary.usd_actual:.2f}")
+    for custom_id, reason in summary.failed:
+        print(f"FAILED {custom_id}: {reason}")
+    if summary.failed:
+        raise SystemExit("Some articles failed; run the same command again to retry only those.")
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="suma", description="Summa Theologiae translation pipeline")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -51,7 +68,12 @@ def build_parser() -> argparse.ArgumentParser:
     p_gloss = sub.add_parser("glossary", help="draft a glossary from the parsed slice")
     p_gloss.add_argument("--model", choices=["opus", "sonnet"], default="opus")
     p_gloss.set_defaults(func=cmd_glossary)
-    sub.add_parser("translate", help="translate a range via the Batch API")
+    p_tr = sub.add_parser("translate", help="translate a range via the Batch API")
+    p_tr.add_argument("--model", choices=["opus", "sonnet"], default="opus")
+    p_tr.add_argument("--range", default="I.q1-13")
+    p_tr.add_argument("--yes", action="store_true", help="submit without asking for confirmation")
+    p_tr.add_argument("--collect", metavar="BATCH_ID", help="collect results of an already submitted batch")
+    p_tr.set_defaults(func=cmd_translate)
     return parser
 
 
