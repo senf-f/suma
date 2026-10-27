@@ -32,7 +32,7 @@ minimal reader to judge quality before paying for the full run (~$60–80 Opus 5
 pipeline/                 Python package, CLI entry points per stage
 data/
   cache/                  raw Corpus Thomisticum HTML (gitignored)
-  latin/I/q001.json …     parsed source (committed)
+  latin/I/q001.json …     parsed source (gitignored, see Rights)
   glossary.draft.yaml     model proposals
   glossary.yaml           approved glossary
   hr/<model>/I/q001.json  translations, one directory per model
@@ -46,8 +46,8 @@ tests/
 
 Each translatable unit has a stable ID used in data files, URLs, anchors and issues:
 
-- `I.q2` question title, `I.q2.pr` question prologue (list of articles)
-- `I.q2.a3` article title
+- `I.q2.pr` question prologue (list of articles). Corpus Thomisticum has no separate
+  question or article titles; the reader shows "Pitanje 2" / "Članak 3".
 - `I.q2.a3.obj1` … objections, `I.q2.a3.sc` sed contra, `I.q2.a3.resp` respondeo,
   `I.q2.a3.ad1` … replies
 
@@ -59,8 +59,12 @@ Latin file shape (`data/latin/I/q002.json`):
            {"id": "I.q2.a3.obj1", "kind": "obj", "text": "..."}]}
 ```
 
-Translation files mirror this, holding `{id, text}` per unit plus metadata:
-`model`, `prompt_version`, `glossary_version`, `created_at`.
+Translation files mirror this, keyed by unit ID, with per-unit metadata
+(`prompt_version`, `glossary_version`, `created_at`) and the `model` at file level.
+
+**Rights:** the Corpus Thomisticum footer reserves rights on its digital edition. Until
+permission is obtained or another public-domain source is used, `data/cache/` and
+`data/latin/` are gitignored and nothing is deployed publicly.
 
 ## Pipeline stages
 
