@@ -1,0 +1,28 @@
+[project]
+name = "suma"
+version = "0.1.0"
+description = "Croatian translation pipeline and reader for the Summa Theologiae"
+authors = [
+    { name = "mate.mrse", email = "mate.mrse@intis.hr" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=2.3.0",
+    "httpx>=0.28.1",
+    "jinja2>=3.1.6",
+    "pagefind[extended]>=1.5.2",
+    "pyyaml>=6.0.3",
+    "selectolax>=1.0.2",
+]
+
+[project.scripts]
+suma = "suma.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.13.0,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
