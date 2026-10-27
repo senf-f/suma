@@ -14,6 +14,8 @@ from suma.ids import article_of, custom_id, label_to_id, parse_range
         ("I q. 2 a. 3 co.", "I.q2.a3.resp"),
         ("I q. 2 a. 3 ad 3", "I.q2.a3.ad3"),
         ("I-II q. 90 a. 4 co.", "I-II.q90.a4.resp"),
+        ("I q. 1 a. 4 ad arg.", "I.q1.a4.adarg"),
+        ("I q. 3 a. 2 s. c. 2", "I.q3.a2.sc2"),
     ],
 )
 def test_label_to_id(label, expected):
