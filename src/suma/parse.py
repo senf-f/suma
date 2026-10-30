@@ -7,6 +7,7 @@ from selectolax.lexbor import LexborHTMLParser as HTMLParser
 from suma.ids import label_to_id
 
 _WS = re.compile(r"\s+")
+CT_BASE = "https://www.corpusthomisticum.org"
 
 
 def _kind(unit_id: str) -> str:
@@ -17,17 +18,22 @@ def _kind(unit_id: str) -> str:
     return last
 
 
-def parse_page(html_bytes: bytes) -> list[dict]:
+def parse_page(html_bytes: bytes, page: str) -> list[dict]:
     tree = HTMLParser(html_bytes.decode("iso-8859-1"))
     units = []
     for p in tree.css("p[title]"):
-        unit_id = label_to_id(p.attributes["title"])
+        label = p.attributes["title"]
+        unit_id = label_to_id(label)
+        anchor = p.css_first("a[name]")
+        if anchor is None:
+            raise ValueError(f"No passage anchor for {label!r}")
+        source = f"{CT_BASE}/{page}#{anchor.attributes['name']}"
         for ref in p.css("span.ref"):
             ref.decompose()
         for italic in p.css("i"):
             italic.replace_with(f"*{italic.text()}*")
         text = _WS.sub(" ", p.text()).strip()
-        units.append({"id": unit_id, "kind": _kind(unit_id), "text": text})
+        units.append({"id": unit_id, "kind": _kind(unit_id), "text": text, "source": source})
     return units
 
 

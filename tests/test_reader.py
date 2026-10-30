@@ -1,5 +1,5 @@
 import re
-from urllib.parse import parse_qs, urlsplit
+from urllib.parse import parse_qs, unquote, urlsplit
 
 import pytest
 
@@ -22,8 +22,21 @@ def site(latin_q2, tmp_path):
     return out
 
 
+@pytest.fixture
+def site_with_latin(latin_q2, tmp_path):
+    hr = tmp_path / "hr"
+    write_units(OPUS, "I", 2, {"I.q2.a3.ad1": "Na prvo"}, "1", 1, hr)
+    out = tmp_path / "dist-la"
+    build(latin_q2, hr, tmp_path / "none.yaml", out, with_latin=True)
+    return out
+
+
 def page(site):
     return (site / "I" / "q002.html").read_text(encoding="utf-8")
+
+
+def latin_page(site):
+    return page(site)
 
 
 def test_question_page_has_anchors_and_models(site):
@@ -36,10 +49,32 @@ def test_question_page_has_anchors_and_models(site):
     assert "Članak 3" in html
 
 
-def test_italics_rendered_and_escaped(site):
+def test_italics_rendered_and_escaped(site, site_with_latin):
+    assert "<em>Ja sam koji jesam</em>" in page(site)
+    assert "<em>verba ficta ad probandum</em>" in latin_page(site_with_latin)
+
+
+def test_public_build_contains_no_latin_text(site):
+    # Corpus Thomisticum permits publishing the translation but not its Latin text.
+    for path in site.rglob("*"):
+        if path.is_file() and path.suffix in {".html", ".js", ".json"}:
+            text = unquote(path.read_text(encoding="utf-8")).lower()
+            assert "textus fictus" not in text, path
+            assert "verba ficta" not in text, path
+    assert 'id="latin-toggle"' not in page(site)
+    assert 'class="la-btn"' not in page(site)
+
+
+def test_units_link_to_latin_passage(site):
     html = page(site)
-    assert "<em>Ja sam koji jesam</em>" in html
-    assert "<em>ego sum qui sum</em>" in html
+    assert 'href="https://www.corpusthomisticum.org/sth1002.html#28319"' in html
+    assert "Latinski izvornik" in html
+
+
+def test_local_build_with_latin_shows_parallel_text(site_with_latin):
+    html = latin_page(site_with_latin)
+    assert 'id="latin-toggle"' in html
+    assert "Praeterea, textus fictus secundae obiectionis." in html
 
 
 def test_html_in_text_is_escaped(latin_q2, tmp_path):
@@ -86,19 +121,20 @@ def body_of(url):
 
 
 def test_issue_url_truncates_long_units():
-    url = issue_url("senf-f/suma", "I.q2.a3.resp", "L" * 5000, "H" * 5000, OPUS,
-                    "https://senf-f.github.io/suma/I/q002.html")
+    url = issue_url("senf-f/suma", "I.q2.a3.resp", "https://www.corpusthomisticum.org/sth1002.html#28318",
+                    "H" * 5000, OPUS, "https://senf-f.github.io/suma/I/q002.html")
     assert len(url) < 8000
     title, body, _ = body_of(url)
     assert title == "[prijedlog] I q.2 a.3 odgovor"
     assert "…" in body
     assert "https://senf-f.github.io/suma/I/q002.html#I.q2.a3.resp" in body
     assert OPUS in body
+    assert "https://www.corpusthomisticum.org/sth1002.html#28318" in body
 
 
 def test_issue_url_encoding_roundtrip():
     hr = "Čini se & da\nnije \"tako\" #1"
-    url = issue_url("senf-f/suma", "I.q2.a3.ad1", "Ad primum", hr, OPUS, "https://x/I/q002.html")
+    url = issue_url("senf-f/suma", "I.q2.a3.ad1", "https://ct/sth1002.html#1", hr, OPUS, "https://x/I/q002.html")
     assert url.startswith("https://github.com/senf-f/suma/issues/new?")
     title, body, query = body_of(url)
     assert hr in body

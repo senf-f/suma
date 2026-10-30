@@ -11,5 +11,5 @@ FIXTURE = Path(__file__).parent / "fixtures" / "sth_sample.html"
 def latin_q2(tmp_path) -> Path:
     """data/latin-style dir holding I/q002.json (prologue + article 3) built from the fixture page."""
     latin_dir = tmp_path / "latin"
-    write_latin(parse_page(FIXTURE.read_bytes()), "I", 1, 13, latin_dir)
+    write_latin(parse_page(FIXTURE.read_bytes(), "sth1002.html"), "I", 1, 13, latin_dir)
     return latin_dir

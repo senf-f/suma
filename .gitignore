@@ -1,6 +1,7 @@
 data/cache/
 data/latin/
 dist/
+dist-*/
 .venv/
 __pycache__/
 .pytest_cache/

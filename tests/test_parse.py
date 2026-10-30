@@ -10,7 +10,7 @@ FIXTURE = Path(__file__).parent / "fixtures" / "sth_sample.html"
 
 @pytest.fixture
 def units():
-    return parse_page(FIXTURE.read_bytes())
+    return parse_page(FIXTURE.read_bytes(), "sth1002.html")
 
 
 def test_parse_ids_in_order(units):
@@ -36,12 +36,12 @@ def test_ref_span_removed(units):
 
 def test_italics_become_asterisks(units):
     sc = units[3]["text"]
-    assert sc == "Sed contra est quod dicitur Exodi III, ex persona Dei, *ego sum qui sum*."
+    assert sc == "Sed contra est quod dicitur in exemplo, *verba ficta ad probandum*."
 
 
 def test_entities_and_latin1_decoded():
-    html = '<P TITLE="I q. 3 pr.">Caes&aacute;r \xe6qualis\n  dixit.</P>'.encode("iso-8859-1")
-    [unit] = parse_page(html)
+    html = '<P TITLE="I q. 3 pr."><A NAME="1"></A>Caes&aacute;r \xe6qualis\n  dixit.</P>'.encode("iso-8859-1")
+    [unit] = parse_page(html, "x.html")
     assert unit["text"] == "Caesár æqualis dixit."
 
 
@@ -58,10 +58,20 @@ def test_write_latin_respects_range(units, tmp_path):
 
 
 def test_kind_for_reply_to_all_and_numbered_sed_contra():
-    html = b'<P TITLE="I q. 1 a. 4 ad arg.">x</P><P TITLE="I q. 3 a. 2 s. c. 2">y</P>'
-    assert [u["kind"] for u in parse_page(html)] == ["ad", "sc"]
+    html = b'<P TITLE="I q. 1 a. 4 ad arg."><A NAME="1"></A>x</P><P TITLE="I q. 3 a. 2 s. c. 2"><A NAME="2"></A>y</P>'
+    assert [u["kind"] for u in parse_page(html, "x.html")] == ["ad", "sc"]
 
 
 def test_unknown_label_raises():
     with pytest.raises(ValueError):
-        parse_page(b'<P TITLE="I q. 2 a. 3 xyz">text</P>')
+        parse_page(b'<P TITLE="I q. 2 a. 3 xyz"><A NAME="1"></A>text</P>', "x.html")
+
+
+def test_unit_links_to_its_source_passage(units):
+    assert units[0]["source"] == "https://www.corpusthomisticum.org/sth1002.html#28298"
+    assert units[5]["source"] == "https://www.corpusthomisticum.org/sth1002.html#28319"
+
+
+def test_missing_passage_anchor_raises():
+    with pytest.raises(ValueError, match="I q. 2 pr."):
+        parse_page(b'<P TITLE="I q. 2 pr.">text</P>', "x.html")

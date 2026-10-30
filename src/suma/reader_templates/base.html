@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="{{ root }}static/style.css">
 <link rel="stylesheet" href="{{ root }}pagefind/pagefind-ui.css">
 </head>
-<body>
+<body{% if with_latin %} class="with-la"{% endif %}>
 <header class="site">
   <a class="brand" href="{{ root }}index.html">Suma teologije</a>
   <nav>
@@ -22,14 +22,14 @@
       </select>
     </label>
     {% endif %}
-    <label><input type="checkbox" id="latin-toggle" checked> Latinski</label>
+    {% if with_latin %}<label><input type="checkbox" id="latin-toggle" checked> Latinski</label>{% endif %}
   </div>
   <div id="search"></div>
 </header>
 <main{% block main_attrs %}{% endblock %}>
 {% block main %}{% endblock %}
 </main>
-<footer class="site">Strojni prijevod (pilot), u izradi. Latinski tekst: Corpus Thomisticum.</footer>
+<footer class="site">Strojni prijevod (pilot), u izradi. Prevedeno s latinskog teksta izdanja <a href="https://www.corpusthomisticum.org/">Corpus Thomisticum</a> (© Fundación Tomás de Aquino), uz dopuštenje.</footer>
 <script src="{{ root }}pagefind/pagefind-ui.js"></script>
 <script>window.SUMA_ROOT = "{{ root }}";</script>
 <script src="{{ root }}static/reader.js"></script>

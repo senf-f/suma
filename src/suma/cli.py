@@ -21,7 +21,7 @@ def cmd_parse(args) -> None:
     part, q_from, q_to = parse_range(args.range)
     units = []
     for page in PILOT_PAGES:
-        units.extend(parse_page((DATA / "cache" / page).read_bytes()))
+        units.extend(parse_page((DATA / "cache" / page).read_bytes(), page))
     written = write_latin(units, part, q_from, q_to, DATA / "latin")
     print(f"{len(written)} questions written to {DATA / 'latin'}")
 
@@ -66,9 +66,11 @@ def cmd_build(args) -> None:
     from suma.reader import build
 
     out = Path(args.out)
-    build(DATA / "latin", Path(args.hr), DATA / "glossary.yaml", out)
+    build(DATA / "latin", Path(args.hr), DATA / "glossary.yaml", out, with_latin=args.with_latin)
     subprocess.run([sys.executable, "-m", "pagefind", "--site", str(out)], check=True)
     print(f"Site built in {out}; open {out / 'index.html'}")
+    if args.with_latin:
+        print("Contains Corpus Thomisticum Latin: local review only, do not deploy or share.")
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -90,6 +92,9 @@ def build_parser() -> argparse.ArgumentParser:
     p_build = sub.add_parser("build", help="render the reader site into dist/ and index it")
     p_build.add_argument("--out", default="dist")
     p_build.add_argument("--hr", default=str(DATA / "hr"), help="translations directory")
+    p_build.add_argument(
+        "--with-latin", action="store_true", help="add the parallel Latin column (local review only, never deploy)"
+    )
     p_build.set_defaults(func=cmd_build)
     return parser
 

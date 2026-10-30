@@ -5,10 +5,11 @@ Date: 2026-10-25 · Source idea: senf-f/ideje#13
 ## Goal
 
 A readable Croatian translation of Aquinas' *Summa Theologiae*, AI-generated from the
-Latin and presented as a parallel-text edition that readers can help improve.
+Latin and presented as an edition that readers can help improve.
 
 - **Audience:** general Croatian readers (students, clergy, laypeople) — readability first.
-- **Edition qualities:** Latin/Croatian side by side, a fixed approved glossary, stable citable unit IDs.
+- **Edition qualities:** every unit linked to its Latin passage on Corpus Thomisticum, a fixed approved
+  glossary, stable citable unit IDs.
 
 This spec covers only the **pilot**: Prima Pars q.1–13, translated by two models, with a
 minimal reader to judge quality before paying for the full run (~$60–80 Opus 5.5 batch).
@@ -56,15 +57,18 @@ Latin file shape (`data/latin/I/q002.json`):
 ```json
 {"id": "I.q2", "part": "I", "question": 2,
  "units": [{"id": "I.q2", "kind": "title", "text": "..."},
-           {"id": "I.q2.a3.obj1", "kind": "obj", "text": "..."}]}
+           {"id": "I.q2.a3.obj1", "kind": "obj", "text": "...",
+            "source": "https://www.corpusthomisticum.org/sth1002.html#28315"}]}
 ```
 
 Translation files mirror this, keyed by unit ID, with per-unit metadata
 (`prompt_version`, `glossary_version`, `created_at`) and the `model` at file level.
 
-**Rights:** the Corpus Thomisticum footer reserves rights on its digital edition. Until
-permission is obtained or another public-domain source is used, `data/cache/` and
-`data/latin/` are gitignored and nothing is deployed publicly.
+**Rights (Corpus Thomisticum reply, 2026-10-30):** we may use their text as the translation
+source, publish the Croatian translation, and link to each Latin passage
+(`sthNNNN.html#<passage number>`). We may **not** publish or share the Latin text itself.
+Therefore: `data/cache/` and `data/latin/` stay gitignored; test fixtures use invented Latin;
+the public site, its search index and suggestion issues contain no Latin, only links.
 
 ## Pipeline stages
 
@@ -94,15 +98,17 @@ that failed is never written as translated.
 
 `site/build.py` renders one page per question from `data/latin` and `data/hr/*`.
 
-- Parallel layout: Croatian left, Latin right, aligned per unit. A toggle hides the Latin.
-  On narrow screens the Latin stacks below and can be revealed per unit.
+- One column of Croatian; each unit has a "Latinski izvornik ↗" link to its passage on
+  Corpus Thomisticum.
+- `suma build --with-latin` adds the parallel Latin column (toggle; per-unit reveal on narrow
+  screens) for the owner's local review only. Such a build is never deployed or shared.
 - Model switch (Opus / Sonnet), remembered in localStorage.
 - Navigation: table of contents → question → article; previous/next links.
 - Every unit has an anchor (`#I.q2.a3.ad1`) and a "copy citation" button.
 - Glossary page listing approved terms.
-- Pagefind index over the built HTML, both languages.
+- Pagefind index over the built HTML (Croatian only).
 - "Predloži poboljšanje" link per unit opening a pre-filled GitHub issue
-  (`/issues/new?title=…&body=…`) containing the unit ID, Latin, current Croatian, model,
+  (`/issues/new?title=…&body=…`) containing the unit ID, a link to the Latin passage, current Croatian, model,
   and an empty suggestion field.
 - Interface text in Croatian.
 

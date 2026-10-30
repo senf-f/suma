@@ -58,8 +58,9 @@ h2 { font-size: 1.35rem; margin: 40px 0 12px; padding-bottom: 6px; border-bottom
 
 .unit {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-areas: "meta meta" "hr la";
+  grid-template-columns: 1fr;
+  grid-template-areas: "meta" "hr";
+  max-width: 760px;
   gap: 4px 32px;
   padding: 12px 0;
   border-bottom: 1px dotted var(--rule);
@@ -82,15 +83,19 @@ button.cite, button.la-btn {
   cursor: pointer;
 }
 button.la-btn { display: none; }
+.meta .source { font-size: 13px; }
 .suggest { font: 13px var(--sans); }
+
+/* Parallel Latin column: local review builds only (suma build --with-latin). */
+body.with-la .unit { grid-template-columns: 1fr 1fr; grid-template-areas: "meta meta" "hr la"; max-width: none; }
 .missing { color: var(--muted); font-style: italic; }
 
-body.hide-la .unit { grid-template-columns: 1fr; grid-template-areas: "meta" "hr"; max-width: 760px; }
+body.with-la.hide-la .unit { grid-template-columns: 1fr; grid-template-areas: "meta" "hr"; max-width: 760px; }
 body.hide-la .la, body.hide-la .la-btn { display: none !important; }
 
 @media (max-width: 899px) {
   body { font-size: 17px; }
-  .unit { grid-template-columns: 1fr; grid-template-areas: "meta" "hr" "la"; }
+  body.with-la .unit { grid-template-columns: 1fr; grid-template-areas: "meta" "hr" "la"; }
   .la { display: none; }
   .unit.show-la .la { display: block; }
   button.la-btn { display: inline-block; }

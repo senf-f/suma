@@ -80,12 +80,13 @@ def _excerpt(text: str) -> str:
     return text if len(text) <= ISSUE_EXCERPT else text[:ISSUE_EXCERPT].rstrip() + "…"
 
 
-def issue_url(repo: str, unit_id: str, latin: str, hr: str, model: str, page_url: str) -> str:
+def issue_url(repo: str, unit_id: str, source: str, hr: str, model: str, page_url: str) -> str:
+    # Link to the Latin, never quote it: Corpus Thomisticum does not permit republishing its text.
     body = (
         f"**Jedinica:** {unit_id}\n"
         f"**Model:** {model}\n"
-        f"**Poveznica:** {page_url}#{unit_id}\n\n"
-        f"### Latinski\n{_excerpt(latin)}\n\n"
+        f"**Poveznica:** {page_url}#{unit_id}\n"
+        f"**Latinski izvornik:** {source}\n\n"
         f"### Trenutni prijevod\n{_excerpt(hr)}\n\n"
         "### Prijedlog\n\n\n"
         "### Obrazloženje\n\n"
@@ -133,7 +134,7 @@ def _sections(question: dict, translations: dict, repo: str, page_url: str) -> l
             versions.append({
                 "model": model,
                 "text": text,
-                "issue": issue_url(repo, unit["id"], unit["text"], text, model, page_url) if text else None,
+                "issue": issue_url(repo, unit["id"], unit["source"], text, model, page_url) if text else None,
             })
         if not versions:
             versions.append({"model": "", "text": None, "issue": None})
@@ -141,6 +142,7 @@ def _sections(question: dict, translations: dict, repo: str, page_url: str) -> l
             "id": unit["id"],
             "label": unit_label(last),
             "cite": citation(unit["id"]),
+            "source": unit["source"],
             "latin": unit["text"],
             "translations": versions,
         })
@@ -154,7 +156,9 @@ def build(
     out_dir: Path,
     repo: str = "senf-f/suma",
     site_url: str = "https://senf-f.github.io/suma",
+    with_latin: bool = False,
 ) -> None:
+    """Render the reader. with_latin adds the parallel Latin column: local review only, never deploy it."""
     env = Environment(loader=PackageLoader("suma", "reader_templates"), autoescape=True)
     env.filters["md_em"] = md_em
     translations = _load_translations(hr_dir)
@@ -180,6 +184,7 @@ def build(
             root="../",
             title=f"{question['part']}, pitanje {question['question']}",
             models=models,
+            with_latin=with_latin,
             part_label=PART_LABELS[question["part"]],
             q=question,
             sections=sections,
