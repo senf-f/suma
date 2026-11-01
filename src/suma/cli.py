@@ -2,6 +2,8 @@ import argparse
 import sys
 from pathlib import Path
 
+from suma.llm import MODELS
+
 DATA = Path("data")
 
 
@@ -81,10 +83,10 @@ def build_parser() -> argparse.ArgumentParser:
     p_parse.add_argument("--range", default="I.q1-13")
     p_parse.set_defaults(func=cmd_parse)
     p_gloss = sub.add_parser("glossary", help="draft a glossary from the parsed slice")
-    p_gloss.add_argument("--model", choices=["opus", "sonnet"], default="opus")
+    p_gloss.add_argument("--model", choices=sorted(MODELS), default="opus")
     p_gloss.set_defaults(func=cmd_glossary)
     p_tr = sub.add_parser("translate", help="translate a range via the Batch API")
-    p_tr.add_argument("--model", choices=["opus", "sonnet"], default="opus")
+    p_tr.add_argument("--model", choices=sorted(MODELS), default="opus")
     p_tr.add_argument("--range", default="I.q1-13")
     p_tr.add_argument("--yes", action="store_true", help="submit without asking for confirmation")
     p_tr.add_argument("--collect", metavar="BATCH_ID", help="collect results of an already submitted batch")

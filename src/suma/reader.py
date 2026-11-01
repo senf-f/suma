@@ -11,7 +11,7 @@ from suma.llm import load_question
 
 PART_ORDER = ["I", "I-II", "II-II", "III"]
 PART_LABELS = {"I": "Prvi dio", "I-II": "Prvi dio Drugoga dijela", "II-II": "Drugi dio Drugoga dijela", "III": "Treći dio"}
-MODEL_LABELS = {"claude-opus-5-5": "Opus 5.5", "claude-sonnet-5-5": "Sonnet 5.5"}
+MODEL_LABELS = {"claude-opus-5-5": "Opus 5.5", "claude-sonnet-5-5": "Sonnet 5.5", "claude-haiku-5-5": "Haiku 5.5"}
 ISSUE_EXCERPT = 1500
 _EM = re.compile(r"\*(.+?)\*")
 

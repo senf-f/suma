@@ -20,3 +20,12 @@ def test_message_cost_counts_cache_tokens():
 def test_message_cost_tolerates_missing_cache_fields():
     usage = SimpleNamespace(input_tokens=1_000_000, output_tokens=0)
     assert message_cost("claude-sonnet-5-5", usage) == pytest.approx(2.0)
+
+
+def test_haiku_is_a_pilot_model():
+    from suma.cli import build_parser
+    from suma.llm import MODELS, usage_cost
+
+    assert MODELS["haiku"] == "claude-haiku-5-5"
+    assert usage_cost("claude-haiku-5-5", 1_000_000, 1_000_000) == pytest.approx(0.60)
+    assert build_parser().parse_args(["translate", "--model", "haiku"]).model == "haiku"

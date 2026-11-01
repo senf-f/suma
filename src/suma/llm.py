@@ -1,9 +1,10 @@
 import json
 
-MODELS = {"opus": "claude-opus-5-5", "sonnet": "claude-sonnet-5-5"}
+MODELS = {"opus": "claude-opus-5-5", "sonnet": "claude-sonnet-5-5", "haiku": "claude-haiku-5-5"}
 
 # USD per million tokens (input, output), standard rates before the 50% batch discount.
-PRICES = {"claude-opus-5-5": (4.0, 20.0), "claude-sonnet-5-5": (2.0, 10.0)}
+# Haiku 5.5 rate holds for prompts up to 100K tokens; our per-article requests stay far below that.
+PRICES = {"claude-opus-5-5": (4.0, 20.0), "claude-sonnet-5-5": (2.0, 10.0), "claude-haiku-5-5": (0.10, 0.50)}
 
 
 def response_text(message) -> str:
