@@ -16,6 +16,11 @@ from suma.ids import article_of, custom_id, label_to_id, parse_range
         ("I-II q. 90 a. 4 co.", "I-II.q90.a4.resp"),
         ("I q. 1 a. 4 ad arg.", "I.q1.a4.adarg"),
         ("I q. 3 a. 2 s. c. 2", "I.q3.a2.sc2"),
+        # single-article questions (I q.71-72) have no "a." in the label: treat as article 1
+        ("I q. 71 arg. 1", "I.q71.a1.obj1"),
+        ("I q. 71 s. c.", "I.q71.a1.sc"),
+        ("I q. 72 co.", "I.q72.a1.resp"),
+        ("I q. 72 ad 3", "I.q72.a1.ad3"),
     ],
 )
 def test_label_to_id(label, expected):

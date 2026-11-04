@@ -46,3 +46,51 @@ def test_fetch_raises_on_http_error(tmp_path):
         fetch_pages(["missing.html"], tmp_path, client, sleep=lambda s: None)
 
     assert list(tmp_path.iterdir()) == []
+
+
+NAV = (
+    b'<P>\n<A HREF="{prev}"><IMG SRC="icons/ageretro.gif" ALT="age retro"></A>\n&nbsp;\n'
+    b'<A HREF="{next}"><IMG SRC="icons/ageultra.gif" ALT="age ultra"></A>'
+)
+
+
+def nav(prev: str, nxt: str) -> bytes:
+    return NAV.replace(b"{prev}", prev.encode()).replace(b"{next}", nxt.encode())
+
+
+def test_next_page_reads_age_ultra_link():
+    from suma.fetch import next_page
+
+    assert next_page(nav("sth1002.html", "sth1015.html")) == "sth1015.html"
+    assert next_page(b"<P>no navigation here</P>") is None
+
+
+def test_fetch_part_follows_chain_and_stops_at_next_part(tmp_path):
+    from suma.fetch import fetch_part
+
+    site = {
+        "sth1001.html": nav("index.html", "sth1002.html"),
+        "sth1002.html": nav("sth1001.html", "sth1003.html"),
+        "sth1003.html": nav("sth1002.html", "sth2001.html"),
+    }
+    requested = []
+
+    def handler(request):
+        page = request.url.path.lstrip("/")
+        requested.append(page)
+        return httpx.Response(200, content=site[page])
+
+    (tmp_path / "sth1001.html").write_bytes(site["sth1001.html"])  # cached: read, not refetched
+    sleeps = []
+    paths = fetch_part("I", tmp_path, make_client(handler), sleep=sleeps.append)
+
+    assert [p.name for p in paths] == ["sth1001.html", "sth1002.html", "sth1003.html"]
+    assert requested == ["sth1002.html", "sth1003.html"]
+    assert len(sleeps) == 1
+
+
+def test_fetch_part_rejects_unknown_part(tmp_path):
+    from suma.fetch import fetch_part
+
+    with pytest.raises(ValueError):
+        fetch_part("II-II", tmp_path, make_client(lambda r: httpx.Response(404)))

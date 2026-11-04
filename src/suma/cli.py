@@ -8,22 +8,28 @@ DATA = Path("data")
 
 
 def cmd_fetch(args) -> None:
-    from suma.fetch import PILOT_PAGES, fetch_pages, make_client
+    from suma.fetch import PILOT_PAGES, fetch_pages, fetch_part, make_client
 
     with make_client() as client:
-        paths = fetch_pages(PILOT_PAGES, DATA / "cache", client)
+        if args.part:
+            paths = fetch_part(args.part, DATA / "cache", client)
+        else:
+            paths = fetch_pages(PILOT_PAGES, DATA / "cache", client)
     print(f"{len(paths)} pages in {DATA / 'cache'}")
 
 
 def cmd_parse(args) -> None:
-    from suma.fetch import PILOT_PAGES
+    from suma.fetch import PARTS
     from suma.ids import parse_range
     from suma.parse import parse_page, write_latin
 
     part, q_from, q_to = parse_range(args.range)
+    pages = sorted((DATA / "cache").glob(f"{PARTS[part][1]}*.html"))
+    if not pages:
+        raise SystemExit(f"No cached pages for part {part}; run `suma fetch --part {part}` first")
     units = []
-    for page in PILOT_PAGES:
-        units.extend(parse_page((DATA / "cache" / page).read_bytes(), page))
+    for page in pages:
+        units.extend(parse_page(page.read_bytes(), page.name))
     written = write_latin(units, part, q_from, q_to, DATA / "latin")
     print(f"{len(written)} questions written to {DATA / 'latin'}")
 
@@ -78,7 +84,9 @@ def cmd_build(args) -> None:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="suma", description="Summa Theologiae translation pipeline")
     sub = parser.add_subparsers(dest="command", required=True)
-    sub.add_parser("fetch", help="download Corpus Thomisticum pages into data/cache").set_defaults(func=cmd_fetch)
+    p_fetch = sub.add_parser("fetch", help="download Corpus Thomisticum pages into data/cache")
+    p_fetch.add_argument("--part", help="follow the page chain of a whole Part (e.g. I) instead of the pilot pages")
+    p_fetch.set_defaults(func=cmd_fetch)
     p_parse = sub.add_parser("parse", help="parse cached pages into data/latin")
     p_parse.add_argument("--range", default="I.q1-13")
     p_parse.set_defaults(func=cmd_parse)

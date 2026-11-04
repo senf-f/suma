@@ -1,3 +1,4 @@
+import re
 import time
 from pathlib import Path
 
@@ -6,6 +7,15 @@ import httpx
 BASE_URL = "https://www.corpusthomisticum.org/"
 USER_AGENT = "suma-pilot (personal research; contact via github.com/senf-f)"
 PILOT_PAGES = ["sth1001.html", "sth1002.html", "sth1003.html"]
+# First page and file-name prefix of each Part. Only Part I is verified so far.
+PARTS = {"I": ("sth1001.html", "sth1")}
+_NEXT_LINK = re.compile(rb'HREF="([^"]+)"><IMG SRC="icons/ageultra\.gif"', re.IGNORECASE)
+
+
+def next_page(html: bytes) -> str | None:
+    """The page the "age ultra" (next) arrow points to, if any."""
+    match = _NEXT_LINK.search(html)
+    return match.group(1).decode("ascii") if match else None
 
 
 def make_client() -> httpx.Client:
@@ -35,4 +45,28 @@ def fetch_pages(
         partial.write_bytes(response.content)
         partial.replace(target)
         downloaded += 1
+    return paths
+
+
+def fetch_part(
+    part: str,
+    cache_dir: Path,
+    client: httpx.Client,
+    delay: float = 2.0,
+    sleep=time.sleep,
+) -> list[Path]:
+    """Follow the next-page links from a Part's first page until they leave the Part."""
+    if part not in PARTS:
+        raise ValueError(f"Unknown or unverified part {part!r}; known: {sorted(PARTS)}")
+    page, prefix = PARTS[part]
+    paths: list[Path] = []
+    downloaded = 0
+    while page and page.startswith(prefix) and cache_dir / page not in paths:
+        if not (cache_dir / page).exists() and downloaded:
+            sleep(delay)
+        was_cached = (cache_dir / page).exists()
+        [path] = fetch_pages([page], cache_dir, client, delay=delay, sleep=sleep)
+        downloaded += not was_cached
+        paths.append(path)
+        page = next_page(path.read_bytes())
     return paths

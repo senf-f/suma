@@ -2,7 +2,7 @@ import re
 
 _LABEL = re.compile(
     r"^(I|I-II|II-II|III) q\. (\d+) "
-    r"(?:(pr)\.|a\. (\d+) (?:arg\. (\d+)|(s\. c\.)(?: (\d+))?|(co\.)|ad (\d+|arg\.)))$"
+    r"(?:(pr)\.|(?:a\. (\d+) )?(?:arg\. (\d+)|(s\. c\.)(?: (\d+))?|(co\.)|ad (\d+|arg\.)))$"
 )
 _RANGE = re.compile(r"^(I|I-II|II-II|III)\.q(\d+)(?:-(\d+))?$")
 
@@ -15,7 +15,7 @@ def label_to_id(label: str) -> str:
     base = f"{part}.q{int(q)}"
     if pr:
         return f"{base}.pr"
-    base = f"{base}.a{int(art)}"
+    base = f"{base}.a{int(art) if art else 1}"  # no "a." = single-article question
     if obj:
         return f"{base}.obj{int(obj)}"
     if sc:
