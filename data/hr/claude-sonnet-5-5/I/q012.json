@@ -1,0 +1,648 @@
+{
+  "model": "claude-sonnet-5-5",
+  "question": 12,
+  "units": {
+    "I.q12.pr": {
+      "text": "Budući da smo u prethodnim pitanjima razmotrili kakav je Bog sam po sebi, preostaje razmotriti kakav je u našoj spoznaji, to jest kako ga spoznaju stvori. O tome se pita trinaest stvari. Prvo: može li ikoji stvoreni um gledati Božju bit. Drugo: gleda li um Božju bit pomoću nekog stvorenog spoznajnog lika. Treće: može li se Božja bit vidjeti tjelesnim okom. Četvrto: je li ikoja stvorena umna supstancija svojim naravnim sposobnostima dostatna da gleda Božju bit. Peto: treba li stvoreni um za gledanje Božje biti neko stvoreno svjetlo. Šesto: vidi li među onima koji gledaju Božju bit jedan savršenije od drugoga. Sedmo: može li ikoji stvoreni um obuhvatiti Božju bit. Osmo: spoznaje li stvoreni um koji gleda Božju bit u njoj sve. Deveto: spoznaje li ono što tamo spoznaje pomoću nekih sličnosti. Deseto: spoznaje li istodobno sve što u Bogu vidi. Jedanaesto: može li ikoji čovjek u stanju ovoga života vidjeti Božju bit. Dvanaesto: možemo li naravnim razumom spoznati Boga u ovome životu. Trinaesto: postoji li u sadašnjem životu, povrh spoznaje naravnoga razuma, neka spoznaja Boga po milosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nijedan stvoreni um ne može gledati Boga po biti. Zlatousti, naime, tumačeći u komentaru na Ivana ono što stoji u Iv 1: *Boga nitko nikada nije vidio*, kaže: *Ono što Bog jest, nisu vidjeli ni proroci, ni anđeli, ni arkanđeli; jer kako će ono što je stvoriva naravi vidjeti ono što je nestvorivo?* I Dionizije, u 1. poglavlju O božanskim imenima, govoreći o Bogu, kaže: *Njega nema ni osjet, ni mašta, ni mnijenje, ni razum, ni znanost.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a1.obj2": {
+      "text": "Osim toga, svako beskonačno, kao takvo, jest nepoznato. Ali Bog je beskonačan, kao što je gore pokazano. Dakle, po sebi je nepoznat.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a1.obj3": {
+      "text": "Osim toga, stvoreni um može spoznavati samo ono što postoji, jer prvo što pada u shvaćanje uma jest biće. Ali Bog nije nešto postojeće, nego je iznad postojećega, kako kaže Dionizije. Dakle, nije umljiv, nego je iznad svakoga uma.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a1.obj4": {
+      "text": "Osim toga, između onoga koji spoznaje i spoznatoga mora postojati neka razmjernost, jer je spoznato savršenost onoga koji spoznaje. Ali između stvorenoga uma i Boga nema nikakve razmjernosti, jer su razmaknuti u beskonačnost. Dakle, stvoreni um ne može vidjeti Božju bit.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a1.sc": {
+      "text": "Ali protiv toga stoji ono što se kaže u 1 Iv 3: *Vidjet ćemo ga onakva kakav jest.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a1.resp": {
+      "text": "Odgovaram: treba reći da je, budući da je svaka stvar spoznatljiva u onoj mjeri u kojoj je u činu, Bog, koji je čisti čin bez ikakve primjese mogućnosti, ukoliko je to na njemu samom, najspoznatljiviji. No ono što je u sebi najspoznatljivije, nekom umu nije spoznatljivo zbog preobilja umljivoga nad umom, kao što sunce, koje je najviše vidljivo, šišmiš ne može vidjeti zbog preobilja svjetla. Imajući to na umu, neki su tvrdili da nikakav stvoreni um ne može vidjeti Božju bit. Ali to se neprikladno kaže. Budući da se konačno čovjekovo blaženstvo sastoji u njegovu najvišem djelovanju, a to je djelovanje uma, ako stvoreni um nikada ne može vidjeti Božju bit, onda ili nikada neće postići blaženstvo, ili će se njegovo blaženstvo sastojati u nečem drugom, a ne u Bogu. A to je tuđe vjeri. U njemu je naime konačna savršenost razumnoga stvora, jer mu je on počelo bitka: svaka je stvar utoliko savršena ukoliko dosiže svoje počelo. Slično je to i protiv razuma. U čovjeku postoji naravna želja da spozna uzrok kad promatra učinak, i iz toga se u ljudima rađa čuđenje. Ako dakle um razumnoga stvora ne bi mogao doprijeti do prvoga uzroka stvari, ostala bi isprazna želja naravi. Stoga treba bezuvjetno priznati da blaženi gledaju Božju bit.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da oba autoriteta govore o gledanju koje je obuhvaćanje. Zato Dionizije neposredno prije navedenih riječi kaže: *Za sve je on posvema neobuhvatljiv, i nema ga ni osjet*, i tako dalje. A Zlatousti nešto poslije navedenih riječi dodaje: *Gledanjem ovdje naziva najsigurnije promatranje i obuhvaćanje Oca, onoliko koliko ga Otac ima o Sinu.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a1.ad2": {
+      "text": "Na drugo treba reći da je beskonačno koje potječe od tvari nedovršene formom po sebi nepoznato, jer je svaka spoznaja po formi. Ali beskonačno koje potječe od forme neograničene tvarju jest po sebi najviše poznato. A Bog je beskonačan na ovaj način, a ne na prvi, kako je jasno iz prethodnoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a1.ad3": {
+      "text": "Na treće treba reći da se za Boga ne kaže da nije postojeći tako kao da ni na koji način ne postoji, nego zato što je iznad svega postojećega, ukoliko je svoj bitak. Stoga iz toga ne slijedi da se ni na koji način ne može spoznati, nego da nadilazi svaku spoznaju, a to znači da ga se ne može obuhvatiti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a1.ad4": {
+      "text": "Na četvrto treba reći da se razmjernost kaže na dva načina. Na jedan način, to je određeni odnos jedne kolikoće prema drugoj; u tom su smislu dvostruko, trostruko i jednako vrste razmjernosti. Na drugi način, razmjernost se naziva svaki odnos jednoga prema drugome. I tako može postojati razmjernost stvora prema Bogu, ukoliko se prema njemu odnosi kao učinak prema uzroku i kao mogućnost prema činu. I prema tome stvoreni um može biti razmjeran spoznavanju Boga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da stvoreni um gleda Božju bit pomoću neke sličnosti. Kaže se naime u 1 Iv 3: *Znamo da ćemo, kad se pokaže, biti njemu slični i da ćemo ga vidjeti onakva kakav jest.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a2.obj2": {
+      "text": "Osim toga, Augustin kaže u 9. knjizi O Trojstvu: *Kad spoznajemo Boga, u nama nastaje neka Božja sličnost.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a2.obj3": {
+      "text": "Osim toga, um u činu jest umljivo u činu, kao što je osjet u činu osjetno u činu. A to nije drukčije nego ukoliko se osjet oblikuje sličnošću osjetne stvari, a um sličnošću shvaćene stvari. Dakle, ako stvoreni um Boga gleda u činu, mora ga gledati pomoću neke sličnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a2.sc": {
+      "text": "Ali protiv toga stoji ono što kaže Augustin u 15. knjizi O Trojstvu: kad apostol kaže *sada vidimo kroz zrcalo u zagonetki*, onda se pod imenom zrcala i zagonetke mogu razumjeti sve sličnosti koje on time označuje, a koje su prilagođene shvaćanju Boga. Ali gledati Boga po biti nije gledanje zagonetno ni zrcalno, nego mu se suprotstavlja. Dakle, božanska bit ne gleda se pomoću sličnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a2.resp": {
+      "text": "Odgovaram: treba reći da su za gledanje, i osjetilno i umsko, potrebne dvije stvari, naime snaga gledanja i sjedinjenje viđene stvari s gledanjem; jer se gledanje u činu ne zbiva drukčije nego tako da je viđena stvar na neki način u onome koji gleda. U tjelesnim stvarima očito je da viđena stvar ne može biti u onome koji gleda po svojoj biti, nego samo po svojoj sličnosti, kao što je u oku sličnost kamena, po kojoj se zbiva gledanje u činu, a ne sama supstancija kamena. Kad bi pak jedna te ista stvar bila i počelo snage gledanja i viđena stvar, onaj koji gleda morao bi od te stvari imati i snagu gledanja i formu kojom gleda. A jasno je da je Bog i začetnik umne snage i da ga um može gledati. I budući da sama umna snaga stvora nije Božja bit, ostaje da je ona neka sudjelovana sličnost onoga koji je prvi um. Zato se i umna snaga stvora naziva nekim umljivim svjetlom, kao izvedenim iz prvoga svjetla, bilo da se to razumije o naravnoj snazi, bilo o nekoj savršenosti koja je dodana milošću ili slavom. Dakle, za gledanje Boga potrebna je neka Božja sličnost sa strane moći gledanja, to jest ona kojom je um sposoban gledati Boga. Ali sa strane viđene stvari, koju je nužno na neki način sjediniti s onim koji gleda, Božja se bit ne može vidjeti ni pomoću kakve stvorene sličnosti. Prvo, jer, kao što kaže Dionizije u 1. poglavlju O božanskim imenima, pomoću sličnosti nižega reda stvari više se ni na koji način ne mogu spoznati, kao što se pomoću lika tijela ne može spoznati bit netjelesne stvari. Mnogo se manje dakle pomoću ikakvog stvorenog lika može vidjeti Božja bit. Drugo, jer je Božja bit sam njegov bitak, kao što je gore pokazano, a to ne može pripadati nijednoj stvorenoj formi. Nijedna stvorena forma ne može dakle biti sličnost koja bi onome koji gleda predočavala Božju bit. Treće, jer je božanska bit nešto neomeđeno, koje u sebi preobilno sadrži sve što stvoreni um može označiti ili shvatiti. A to se ni na koji način ne može predočiti nikakvim stvorenim likom, jer je svaka stvorena forma određena prema nekom pojmu, bilo mudrosti, bilo snage, bilo samoga bitka, ili nečeg sličnog. Stoga reći da se Bog gleda pomoću sličnosti znači reći da se božanska bit ne gleda, što je kriva tvrdnja. Treba dakle reći da je za gledanje Božje biti potrebna neka sličnost sa strane moći gledanja, naime svjetlo slave, koje krijepi um da gleda Boga, o čemu se u Psalmu kaže: *U tvojoj svjetlosti vidjet ćemo svjetlost.* No Božja se bit ne može vidjeti pomoću nikakve stvorene sličnosti koja bi predočavala samu božansku bit kakva je u sebi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj autoritet govori o sličnosti koja nastaje sudjelovanjem u svjetlu slave.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a2.ad2": {
+      "text": "Na drugo treba reći da Augustin ondje govori o spoznaji Boga koja se ima na putu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a2.ad3": {
+      "text": "Na treće treba reći da je božanska bit sam bitak. Stoga, kao što se druge umljive forme, koje nisu svoj bitak, sjedinjuju s umom prema nekom bitku kojim oblikuju sam um i čine ga u činu, tako se božanska bit sjedinjuje sa stvorenim umom kao shvaćeno u činu, sama po sebi čineći um u činu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se Božja bit može vidjeti tjelesnim okom. Kaže se naime u Job 19: *U svome tijelu vidjet ću Boga*, itd.; i u 42: *Ušima sam te slušao, a sada te vidi moje oko.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a3.obj2": {
+      "text": "Osim toga, Augustin kaže u posljednjoj knjizi O državi Božjoj, pogl. 29: *Moć onih očiju* (to jest proslavljenih) *bit će stoga snažnija, ne da bi oštrije vidjele nego što se za neke zmije ili orlove kaže da vide (jer ma kolika oštrina gledanja krijepila te životinje, ne mogu vidjeti ništa drugo osim tijela), nego da vide i netjelesno.* A tko god može vidjeti netjelesno, može se uzdignuti do gledanja Boga. Dakle, proslavljeno oko može vidjeti Boga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a3.obj3": {
+      "text": "Osim toga, Bog može biti viđen od čovjeka maštovnim gledanjem; kaže se naime u Iz 6: *Vidjeh Gospodina gdje sjedi na prijestolju*, i tako dalje. Ali maštovno gledanje ima podrijetlo u osjetu, *jer je mašta gibanje nastalo od osjeta prema činu*, kako se kaže u 3. knjizi O duši. Dakle, Bog se može vidjeti osjetnim gledanjem.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a3.sc": {
+      "text": "Ali protiv toga stoji ono što kaže Augustin u knjizi O gledanju Boga, Paulini: *Boga nitko nikada nije vidio, ni u ovome životu onakva kakav jest, ni u životu anđela onako kako se vide ove vidljive stvari koje se razabiru tjelesnim gledanjem.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a3.resp": {
+      "text": "Odgovaram: treba reći da je nemoguće da se Bog vidi osjetom vida ili bilo kojim drugim osjetom ili moći osjetilnoga dijela. Svaka je takva moć naime čin tjelesnoga organa, kao što će se reći poslije. A čin je razmjeran onome čiji je čin. Zato nijedna takva moć ne može se protegnuti iznad tjelesnoga. Bog je pak netjelesan, kao što je gore pokazano. Stoga se ne može vidjeti ni osjetom ni maštom, nego samo umom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kad se kaže *u svome tijelu vidjet ću Boga, svoga spasitelja*, ne misli se da će Boga vidjeti tjelesnim okom, nego da će Boga vidjeti dok je u tijelu, nakon uskrsnuća. Slično, što se kaže: *sada te vidi moje oko*, razumije se o oku duha, kao što apostol kaže u Ef 1: *Neka vam dadne duha mudrosti u spoznanju njega, prosvijetljene oči srca vašega.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a3.ad2": {
+      "text": "Na drugo treba reći da Augustin govori istražujući te riječi i uz uvjet. To je jasno iz onoga što prethodi: *Te će oči dakle biti daleko drukčije moći* (to jest proslavljene oči), *ako će se pomoću njih vidjeti ona netjelesna narav.* No poslije to određuje, rekavši: *Vrlo je vjerojatno da ćemo tada tako vidjeti zemaljska tijela novoga neba i nove zemlje da s najvećom jasnoćom vidimo Boga, posvuda prisutna i upravljača i svega tjelesnoga; ne kao što se sada Božje nevidljivo promatra shvaćeno iz onoga što je stvoreno, nego kao ljude među kojima živimo i koji pokazuju životna gibanja: čim ih ugledamo, ne vjerujemo da žive, nego vidimo.* Iz toga je jasno da on shvaća da će proslavljene oči vidjeti Boga onako kako sada naše oči vide nečiji život. A život se ne vidi tjelesnim okom kao po sebi vidljivo, nego kao osjetno akcidentalno, što se doduše ne spoznaje osjetom, nego odmah uz osjet nekom drugom spoznajnom snagom. A da se, čim se vide tijela, božanska prisutnost iz njih odmah spozna umom, zbiva se iz dva razloga: zbog oštroumnosti uma i zbog prosjaja božanske jasnoće u obnovljenim tijelima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a3.ad3": {
+      "text": "Na treće treba reći da se u maštovnom gledanju ne vidi Božja bit, nego se u mašti oblikuje neka forma koja predočava Boga prema nekom načinu sličnosti, kao što se u božanskim Pismima božanske stvari preneseno opisuju pomoću osjetnih stvari.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da neki stvoreni um svojim naravnim sposobnostima može gledati božansku bit. Dionizije naime kaže u 4. poglavlju O božanskim imenima da je anđeo čisto, najjasnije zrcalo, *koje prima svu, ako je dopušteno tako reći, ljepotu Božju*. Ali svaka se stvar vidi kad se vidi njezino zrcalo. Budući dakle da anđeo svojim naravnim sposobnostima shvaća samoga sebe, čini se da svojim naravnim sposobnostima shvaća i božansku bit.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a4.obj2": {
+      "text": "Osim toga, ono što je najviše vidljivo postaje nama manje vidljivo zbog nedostatka našega vida, tjelesnoga ili umskoga. Ali anđelov um ne trpi nikakav nedostatak. Budući dakle da je Bog po sebi najviše umljiv, čini se da je i anđelu najviše umljiv. Ako dakle može shvaćati ostalo umljivo svojim naravnim sposobnostima, mnogo više Boga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a4.obj3": {
+      "text": "Osim toga, tjelesni osjet ne može se uzdignuti do shvaćanja netjelesne supstancije jer je ona iznad njegove naravi. Ako je dakle gledati Boga po biti iznad naravi bilo kojega stvorenoga uma, čini se da nijedan stvoreni um ne može doprijeti do gledanja Božje biti, što je kriva tvrdnja, kako je jasno iz rečenoga. Čini se dakle da je stvorenom umu naravno gledati božansku bit.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a4.sc": {
+      "text": "Ali protiv toga stoji ono što se kaže u Rim 6: *Milost je Božja život vječni.* A život vječni sastoji se u gledanju božanske biti, prema onome iz Iv 17: *A ovo je život vječni: da upoznaju tebe, jedinoga pravoga Boga*, i tako dalje. Dakle, gledati Božju bit stvorenom umu pripada po milosti, a ne po naravi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a4.resp": {
+      "text": "Odgovaram: treba reći da je nemoguće da ikoji stvoreni um svojim naravnim sposobnostima vidi Božju bit. Spoznaja se naime zbiva ukoliko je spoznato u onome koji spoznaje. A spoznato je u onome koji spoznaje prema načinu onoga koji spoznaje. Zato je spoznaja svakoga spoznavatelja prema načinu njegove naravi. Ako dakle način bitka neke spoznate stvari nadilazi način naravi onoga koji spoznaje, spoznaja te stvari mora biti iznad naravi toga spoznavatelja. Načina je pak bitka stvari mnogo. Neke su naime stvari kojih narav ima bitak samo u ovoj pojedinačnoj tvari, a takve su sva tjelesna bića. Neke su pak stvari kojih su naravi po sebi samostojeće, ne u kakvoj tvari, ali koje nisu svoj bitak, nego imaju bitak; a takve su netjelesne supstancije koje nazivamo anđelima. A samo je Bogu vlastit način bitka da je svoj samostojeći bitak. Dakle, stvari koje nemaju bitak osim u pojedinačnoj tvari spoznavati nam je urođeno, zato što je naša duša, kojom spoznajemo, forma neke tvari. Ona ima dvije spoznajne snage. Jedna je čin nekoga tjelesnog organa; njoj je urođeno spoznavati stvari ukoliko su u pojedinačnoj tvari, zbog čega osjet spoznaje samo pojedinačno. Druga je njezina spoznajna snaga um, koji nije čin nikakvoga tjelesnog organa. Stoga nam je umom urođeno spoznavati naravi koje doista nemaju bitak osim u pojedinačnoj tvari, ali ne ukoliko su u pojedinačnoj tvari, nego ukoliko su od nje odvojene apstrahiranjem uma. Zato prema umu možemo takve stvari spoznavati u općem, što je iznad sposobnosti osjeta. A anđeoskom je umu urođeno spoznavati naravi koje ne postoje u tvari. To je iznad naravne sposobnosti uma ljudske duše prema stanju sadašnjega života, u kojem je sjedinjena s tijelom. Ostaje dakle da je spoznavati sam samostojeći bitak urođeno samo božanskom umu i da je iznad naravne sposobnosti svakoga stvorenog uma, jer nijedan stvor nije svoj bitak, nego ima sudjelovani bitak. Stvoreni um stoga ne može gledati Boga po biti, osim ukoliko se Bog svojom milošću povezuje sa stvorenim umom kao umljivo od njega.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je taj način spoznavanja Boga anđelu urođen, naime da ga spoznaje po njegovoj sličnosti koja prosijava u samom anđelu. Ali spoznavati Boga pomoću neke stvorene sličnosti nije spoznavati Božju bit, kao što je gore pokazano. Stoga ne slijedi da anđeo svojim naravnim sposobnostima može spoznati Božju bit.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a4.ad2": {
+      "text": "Na drugo treba reći da anđelov um nema nedostatka ako se nedostatak shvati kao lišenost, to jest da nema ono što bi trebao imati. Ako se pak shvati kao nijekanje, onda se svaki stvor, u usporedbi s Bogom, nalazi manjkav, jer nema onu uzvišenost koja se nalazi u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a4.ad3": {
+      "text": "Na treće treba reći da osjet vida, jer je posve tvaran, ni na koji se način ne može uzdignuti do nečega netvarnog. Ali naš ili anđeoski um, jer je po naravi donekle uzdignut iznad tvari, može se milošću uzdignuti iznad svoje naravi do nečega višega. Znak je tome što vid ni na koji način ne može u apstrakciji spoznati ono što spoznaje u konkretnosti; ne može naime nikako opaziti narav osim kao ovu. Ali naš um može u apstrakciji razmatrati ono što spoznaje u konkretnosti. Iako naime spoznaje stvari koje imaju formu u tvari, ipak složeno razlaže na jedno i drugo i razmatra samu formu po sebi. I slično anđeoski um, iako mu je urođeno spoznavati bitak konkretan u nekoj naravi, ipak može umom izlučiti sam bitak, spoznajući da je jedno on sam, a drugo njegov bitak. I zato, budući da je stvoreni um po svojoj naravi sposoban shvaćati konkretnu formu i konkretan bitak u apstrakciji, na način nekoga razlaganja, može se milošću uzdignuti da spoznaje odvojenu samostojeću supstanciju i odvojeni samostojeći bitak.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da stvorenom umu za gledanje Božje biti nije potrebno nikakvo stvoreno svjetlo. Ono što je u osjetnim stvarima po sebi svjetlosno ne treba drugo svjetlo da bi se vidjelo; dakle ni u umljivim stvarima. Ali Bog je umljiva svjetlost. Dakle, ne vidi se pomoću nekog stvorenog svjetla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a5.obj2": {
+      "text": "Osim toga, kad se Bog vidi posredstvom, ne vidi se po svojoj biti. Ali kad se vidi pomoću nekog stvorenog svjetla, vidi se posredstvom. Dakle, ne vidi se po svojoj biti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a5.obj3": {
+      "text": "Osim toga, ništa ne priječi da stvoreno bude naravno nekom stvoru. Ako se dakle Božja bit vidi pomoću nekog stvorenog svjetla, to svjetlo moći će biti naravno nekom stvoru. I tako taj stvor neće trebati nikakvo drugo svjetlo za gledanje Boga, što je nemoguće. Nije dakle nužno da svaki stvor za gledanje Božje biti zahtijeva dodano svjetlo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a5.sc": {
+      "text": "Ali protiv toga stoji ono što se kaže u Psalmu: *U tvojoj svjetlosti vidjet ćemo svjetlost.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a5.resp": {
+      "text": "Odgovaram: treba reći da sve što se uzdiže do nečega što nadilazi njegovu narav mora biti raspoloženo nekom raspoloživošću koja je iznad njegove naravi; kao što, ako zrak treba primiti formu vatre, mora biti raspoložen nekom raspoloživošću za takvu formu. Kad pak neki stvoreni um vidi Boga po biti, sama Božja bit postaje umljiva forma uma. Stoga mu se mora dodati neka nadnaravna raspoloživost da bi se uzdigao do tolike uzvišenosti. Budući dakle da naravna snaga stvorenoga uma nije dostatna za gledanje Božje biti, kako je pokazano, mora mu se po božanskoj milosti pridodati snaga shvaćanja. To povećanje umne snage nazivamo prosvjetljenjem uma; kao što se i samo umljivo naziva svjetlom ili svjetlošću. A to je svjetlo o kojemu se kaže u Otk 21: *jer će je jasnoća Božja prosvijetliti*, to jest društvo blaženih koji gledaju Boga. I prema tom svjetlu postaju bogoliki, to jest slični Bogu, prema onome iz 1 Iv 3: *Kad se pokaže, bit ćemo njemu slični i vidjet ćemo ga onakva kakav jest.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je stvoreno svjetlo potrebno za gledanje Božje biti, ne zato da bi se tim svjetlom Božja bit učinila umljivom, ona koja je po sebi umljiva, nego zato da um postane moćan shvaćati, na način na koji moć postaje moćnija za djelovanje po habitusu; kao što je i tjelesno svjetlo potrebno u vanjskom vidu, ukoliko čini prozirno posredstvo u činu, da bi ga mogla pokrenuti boja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a5.ad2": {
+      "text": "Na drugo treba reći da se to svjetlo ne zahtijeva za gledanje Božje biti kao sličnost u kojoj bi se Bog vidio, nego kao neka savršenost uma koja ga krijepi za gledanje Boga. I zato se može reći da nije posredstvo u kojemu se Bog vidi, nego pod kojim se vidi. A to ne ukida neposredno gledanje Boga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a5.ad3": {
+      "text": "Na treće treba reći da raspoloživost za formu vatre ne može biti naravna osim onome što ima formu vatre. Stoga svjetlo slave ne može biti naravno stvoru, osim ako bi stvor bio božanske naravi, što je nemoguće. Tim svjetlom naime razumni stvor postaje bogolik, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da među onima koji gledaju Božju bit jedan ne vidi savršenije od drugoga. Kaže se naime u 1 Iv 3: *Vidjet ćemo ga onakva kakav jest.* Ali on jest na jedan način. Dakle, na jedan će ga način vidjeti svi. Dakle, ne savršenije i manje savršeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a6.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi Osamdeset tri pitanja da jednu stvar jedan ne može shvaćati više od drugoga. Ali svi koji Boga gledaju po biti shvaćaju Božju bit, jer se Bog vidi umom, a ne osjetom, kako je gore utvrđeno. Dakle, među onima koji gledaju božansku bit jedan ne vidi jasnije od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a6.obj3": {
+      "text": "Osim toga, da se nešto vidi savršenije od drugoga može proizaći iz dvoga: ili sa strane vidljivoga predmeta, ili sa strane snage gledanja onoga koji vidi. Sa strane predmeta tako da se predmet savršenije prima u onome koji vidi, to jest prema savršenijoj sličnosti. To ovdje nema mjesta, jer Bog nije prisutan umu koji gleda njegovu bit pomoću neke sličnosti, nego po njegovoj biti. Ostaje dakle da, ako ga jedan vidi savršenije od drugoga, to bude prema razlici umne moći. I tako slijedi da ga jasnije vidi onaj čija je umna moć po naravi uzvišenija. A to je neprikladno, jer se ljudima u blaženstvu obećava jednakost s anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a6.sc": {
+      "text": "Ali protiv toga stoji da se život vječni sastoji u gledanju Boga, prema onome iz Iv 17: *A ovo je život vječni*, i tako dalje. Dakle, ako svi jednako vide Božju bit, u životu će vječnom svi biti jednaki. Suprotno kaže apostol u 1 Kor 15: *Zvijezda se od zvijezde razlikuje u sjaju.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a6.resp": {
+      "text": "Odgovaram: treba reći da će među onima koji gledaju Boga po biti jedan vidjeti savršenije od drugoga. To doista neće biti pomoću neke savršenije Božje sličnosti u jednome nego u drugome, budući da to gledanje neće biti pomoću nikakve sličnosti, kako je pokazano. Nego će to biti time što će um jednoga imati veću snagu ili sposobnost za gledanje Boga nego um drugoga. Sposobnost gledanja Boga ne pripada stvorenom umu po njegovoj naravi, nego po svjetlu slave, koje um postavlja u neku bogolikost, kako je jasno iz prethodnoga. Stoga će um koji više sudjeluje u svjetlu slave savršenije vidjeti Boga. Više će pak sudjelovati u svjetlu slave onaj tko ima više ljubavi, jer gdje je veća ljubav, ondje je veća želja; a želja na neki način čini onoga koji želi sposobnim i spremnim za primanje željenoga. Stoga će onaj tko bude imao više ljubavi savršenije vidjeti Boga i bit će blaženiji.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kad se kaže *vidjet ćemo ga onakva kakav jest*, prilog *onakva* određuje način gledanja sa strane viđene stvari, tako da je smisao: vidjet ćemo da on jest onako kako jest, jer ćemo vidjeti sam njegov bitak, koji je njegova bit. Ne određuje pak način gledanja sa strane onoga koji vidi, tako da bi smisao bio da će način gledanja biti savršen onako kako je u Bogu savršen način bitka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a6.ad2": {
+      "text": "Na drugo, rješenje je jasno i iz toga. Kad se naime kaže da jednu stvar jedan ne shvaća bolje od drugoga, to je istinito ako se odnosi na način shvaćene stvari, jer tko god shvaća da stvar jest drukčija nego što jest, ne shvaća istinski. Ali nije istinito ako se odnosi na način shvaćanja, jer je shvaćanje jednoga savršenije od shvaćanja drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a6.ad3": {
+      "text": "Na treće treba reći da razlika u gledanju neće biti sa strane predmeta, jer će se svima predočiti isti predmet, naime Božja bit, niti iz različitoga sudjelovanja u predmetu pomoću različitih sličnosti, nego će biti zbog različite sposobnosti uma, ne naravne, nego slavne, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da oni koji gledaju Boga po biti njega obuhvaćaju. Apostol naime kaže u Fil 3: *Trčim ne bih li ga kako obuhvatio.* A nije uzalud trčao, jer sâm kaže u 1 Kor 9: *Tako trčim, ne kao u neizvjesnost.* Dakle, on obuhvaća, a iz istoga razloga i drugi, koje na to poziva rekavši: *Tako trčite da obuhvatite.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a7.obj2": {
+      "text": "Osim toga, kao što kaže Augustin u knjizi O gledanju Boga, Paulini: *Obuhvaća se ono što se tako cijelo vidi da ništa od njega ne ostaje skriveno onome koji vidi.* Ali ako se Bog vidi po biti, vidi se cijeli i ništa od njega ne ostaje skriveno onome koji vidi, budući da je Bog jednostavan. Dakle, tko god ga vidi po biti, obuhvaća ga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a7.obj3": {
+      "text": "Ako se kaže da se vidi cijeli, ali ne cjelovito, protiv toga: cjelovito označuje ili način onoga koji vidi, ili način viđene stvari. Ali onaj tko vidi Boga po biti, vidi ga cjelovito ako se misli na način viđene stvari, jer ga vidi onakva kakav jest, kako je rečeno. Slično ga vidi cjelovito ako se misli na način onoga koji vidi, jer će um čitavom svojom snagom vidjeti Božju bit. Svatko dakle tko vidi Boga po biti, vidjet će ga cjelovito. Dakle, obuhvatit će ga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a7.sc": {
+      "text": "Ali protiv toga stoji ono što se kaže u Jr 32: *Najjači, veliki, moćni, Gospodin nad vojskama ime ti je; velik u savjetu i neshvatljiv u misli.* Dakle, ne može se obuhvatiti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a7.resp": {
+      "text": "Odgovaram: treba reći da je obuhvatiti Boga nemoguće svakom stvorenom umu, *a doprijeti duhom do Boga na bilo koji način veliko je blaženstvo*, kako kaže Augustin. Za objašnjenje toga valja znati da se obuhvaća ono što se savršeno spoznaje. A savršeno se spoznaje ono što se spoznaje onoliko koliko je spoznatljivo. Stoga, ako se ono što je spoznatljivo znanstvenim dokazom drži mnijenjem začetim iz neke vjerojatne osnove, ne obuhvaća se. Primjerice, ako netko dokazom zna da trokut ima tri kuta jednaka dvama pravim, obuhvaća to; ako pak netko o tome ima mnijenje na temelju vjerojatnosti, jer to tako kažu mudri ili mnogi, neće to obuhvatiti, jer ne dopire do onoga savršenog načina spoznaje kojim je to spoznatljivo. A nijedan stvoreni um ne može doprijeti do onoga savršenog načina spoznaje božanske biti kojim je ona spoznatljiva. To je ovako jasno. Svaka je stvar naime spoznatljiva ukoliko je biće u činu. Bog je dakle, čiji je bitak beskonačan, kako je gore pokazano, beskonačno spoznatljiv. Ali nijedan stvoreni um ne može spoznati Boga beskonačno. Stvoreni um naime božansku bit spoznaje savršenije ili manje savršeno ukoliko je obasjan većim ili manjim svjetlom slave. Budući dakle da stvoreno svjetlo slave, primljeno u bilo kojem stvorenom umu, ne može biti beskonačno, nemoguće je da ikoji stvoreni um spoznaje Boga beskonačno. Stoga je nemoguće da Boga obuhvati.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se obuhvaćanje kaže na dva načina. Na jedan način, strogo i u vlastitom smislu, ukoliko je nešto sadržano u onome što obuhvaća. I tako se Bog ni na koji način ne obuhvaća, ni umom ni bilo čime drugim, jer, budući da je beskonačan, ne može biti sadržan u ničemu konačnom, tako da bi ga nešto konačno beskonačno zahvatilo, kao što on sâm beskonačno jest. O obuhvaćanju u tom smislu sada se pita. Na drugi način, obuhvaćanje se uzima šire, ukoliko se obuhvaćanje suprotstavlja progonjenju. Tko naime dosegne nekoga, kad ga već drži, kaže se da ga obuhvaća. I tako blaženi obuhvaćaju Boga, prema onome iz Pj 3: *Uhvatih ga i neću ga pustiti.* I tako treba razumjeti apostolove autoritete o obuhvaćanju. I na taj je način obuhvaćanje jedan od triju darova duše, koji odgovara nadi; kao što gledanje odgovara vjeri, a uživanje ljubavi. Kod nas naime nije sve što se vidi već i držano ili posjedovano, jer se katkad vide udaljene stvari ili one koje nisu u našoj vlasti. Niti pak uživamo u svemu što imamo, ili zato što u tome ne nalazimo zadovoljstvo, ili zato što nisu konačna svrha naše želje, tako da bi našu želju ispunile i smirile. Ali ta tri imaju blaženi u Bogu: i vide ga; i gledajući ga drže ga sebi prisutna, imajući u vlasti da ga uvijek gledaju; i držeći ga uživaju kao u konačnoj svrsi koja ispunjava želju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a7.ad2": {
+      "text": "Na drugo treba reći da se Bog ne naziva neobuhvatljivim zato što bi nešto od njega bilo što se ne vidi, nego zato što se ne vidi tako savršeno koliko je vidljiv. Kao kad se dokaziva stavak spoznaje pomoću neke vjerojatne osnove, nema ničega u njemu što se ne spoznaje, ni subjekta, ni pririka, ni sastava, ali se cijeli ne spoznaje tako savršeno koliko je spoznatljiv. Stoga Augustin, definirajući obuhvaćanje, kaže: *Obuhvaća se gledanjem cjelina koja se tako vidi da ništa od nje ne ostaje skriveno onome koji vidi; ili čije se međe mogu sagledati*, jer se međe nečega sagledavaju kad se u načinu spoznavanja te stvari dođe do kraja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a7.ad3": {
+      "text": "Na treće treba reći da *cjelovito* označuje način predmeta, ne tako da cijeli način predmeta ne bi pao pod spoznaju, nego zato što način predmeta nije način onoga koji spoznaje. Tko dakle vidi Boga po biti, vidi u njemu to da beskonačno postoji i da je beskonačno spoznatljiv, ali taj beskonačni način mu ne pripada, to jest da bi i sâm beskonačno spoznavao, kao što netko može vjerojatno znati da je neki stavak dokaziv, iako ga sâm ne spoznaje dokazom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da oni koji gledaju Boga po biti u Bogu vide sve. Grgur naime kaže u 4. knjizi Dijaloga: *Što je to što ne vide oni koji vide onoga koji sve vidi?* Ali Bog je onaj koji sve vidi. Dakle, koji vide Boga, vide sve.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a8.obj2": {
+      "text": "Isto tako, tko god vidi zrcalo, vidi ono što se u zrcalu odražava. Ali sve što se zbiva ili može zbiti odražava se u Bogu kao u nekom zrcalu, jer on sve spoznaje u samom sebi. Dakle, tko god vidi Boga, vidi sve što jest i što se može zbiti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a8.obj3": {
+      "text": "Osim toga, tko shvaća ono što je veće, može shvatiti i najmanje, kako se kaže u 3. knjizi O duši. Ali sve što Bog čini ili može činiti manje je od njegove biti. Dakle, tko god shvaća Boga, može shvatiti sve što Bog čini ili može činiti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a8.obj4": {
+      "text": "Osim toga, razumni stvor naravno želi znati sve. Ako dakle gledajući Boga ne zna sve, ne smiruje se njegova naravna želja, i tako gledajući Boga neće biti blažen. A to je neprikladno. Gledajući dakle Boga, zna sve.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a8.sc": {
+      "text": "Ali protiv toga stoji da anđeli vide Boga po biti, a ipak ne znaju sve. Niži anđeli naime bivaju od viših čišćeni od neznanja, kako kaže Dionizije u 7. poglavlju Nebeske hijerarhije. Oni također ne znaju kontingentna buduća ni misli srdaca, jer je to svojstvo samoga Boga. Dakle, ne vide svi koji vide Božju bit sve.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a8.resp": {
+      "text": "Odgovaram: treba reći da stvoreni um, gledajući božansku bit, ne vidi u njoj sve što Bog čini ili može činiti. Jasno je naime da se nešto vidi u Bogu ukoliko je u njemu. A sve je ostalo u Bogu kao što su učinci u snazi u svome uzroku. Dakle, ostalo se u Bogu vidi kao učinci u svome uzroku. Ali jasno je da, što se neki uzrok savršenije vidi, to se više njegovih učinaka u njemu može vidjeti. Tko naime ima uzvišen um, čim mu se iznese jedno dokazno načelo, odmah iz njega prima spoznaju mnogih zaključaka, što ne pristaje onome tko ima slabiji um, nego mu se pojedino mora tumačiti. Onaj dakle um može u uzroku spoznati sve učinke uzroka i sve pojmove učinaka koji uzrok obuhvaća cjelovito. A nijedan stvoreni um ne može Boga obuhvatiti cjelovito, kako je pokazano. Nijedan dakle stvoreni um, gledajući Boga, ne može spoznati sve što Bog čini ili može činiti, jer bi to bilo obuhvatiti njegovu snagu. Ali od onoga što Bog čini ili može činiti, to više neki um spoznaje, što savršenije Boga vidi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da Grgur govori s obzirom na dostatnost predmeta, naime Boga, koji, ukoliko je to na njemu, dostatno sadrži i pokazuje sve. Ipak ne slijedi da svatko tko vidi Boga spoznaje sve, jer ga ne obuhvaća savršeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a8.ad2": {
+      "text": "Na drugo treba reći da onaj tko vidi zrcalo ne mora u zrcalu vidjeti sve, osim ako zrcalo svojim vidom obuhvaća.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a8.ad3": {
+      "text": "Na treće treba reći da je, iako je veće vidjeti Boga nego sve ostalo, ipak veće vidjeti Boga tako da se u njemu spoznaje sve, nego vidjeti ga tako da se u njemu ne spoznaje sve, nego manje ili više. Već je naime pokazano da mnoštvo spoznatoga u Bogu slijedi iz načina gledanja njega, savršenijega ili manje savršenoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a8.ad4": {
+      "text": "Na četvrto treba reći da je naravna želja razumnoga stvora usmjerena na znanje svega onoga što pripada savršenosti uma; a to su vrste i rodovi stvari i njihovi pojmovi, koje će u Bogu vidjeti svatko tko gleda božansku bit. A spoznavati ostalo pojedinačno, i njihove misli i djela, nije od savršenosti stvorenoga uma, niti njegova naravna želja na to teži, niti opet na spoznaju onoga što još nije, ali može biti učinjeno od Boga. Ako bi se pak vidio samo Bog, koji je izvor i počelo svega bitka i istine, on bi tako ispunio naravnu želju za znanjem da se ništa drugo ne bi tražilo, i bio bi blažen. Stoga Augustin kaže u 5. knjizi Ispovijesti: nesretan je čovjek koji zna sve ono (to jest stvorove), *a tebe ne zna; blažen je pak onaj tko zna tebe, makar ono ne znao. A tko poznaje i tebe i ono, nije zbog onoga blaženiji, nego je blažen samo zbog tebe.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da oni koji gledaju božansku bit ono što se vidi u Bogu vide pomoću nekih sličnosti. Svaka je spoznaja naime po poistovjećenju onoga koji spoznaje sa spoznatim; jer tako um u činu postaje shvaćeno u činu, a osjet u činu osjetno u činu, ukoliko se oblikuje njegovom sličnošću, kao zjenica sličnošću boje. Ako dakle um onoga koji gleda Boga po biti shvaća u Bogu neke stvore, mora se oblikovati njihovim sličnostima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a9.obj2": {
+      "text": "Osim toga, ono što smo prije vidjeli držimo u sjećanju. Ali Pavao, gledajući u zanosu Božju bit, kako kaže Augustin u 12. knjizi Doslovnog tumačenja Postanka, nakon što je prestao gledati Božju bit, sjetio se mnogo toga što je u tom zanosu vidio; zato sâm kaže da je *čuo neizrecive riječi koje čovjeku nije dopušteno govoriti*, 2 Kor 12. Dakle, mora se reći da su neke sličnosti onoga čega se sjetio ostale u njegovu umu. I iz istoga razloga, kad je u sadašnjosti gledao Božju bit, imao je neke sličnosti ili spoznajne likove onoga što je u njoj vidio.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a9.sc": {
+      "text": "Ali protiv toga stoji da se jednim likom vidi zrcalo i ono što se u zrcalu pojavljuje. Ali sve se u Bogu vidi kao u nekom umljivom zrcalu. Dakle, ako se sâm Bog ne vidi pomoću neke sličnosti, nego po svojoj biti, ni ono što se u njemu vidi ne vidi se pomoću nekih sličnosti ili spoznajnih likova.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a9.resp": {
+      "text": "Odgovaram: treba reći da oni koji vide Boga po biti ono što vide u samoj Božjoj biti ne vide pomoću nekih spoznajnih likova, nego po samoj božanskoj biti sjedinjenoj s njihovim umom. Svaka se stvar naime spoznaje ukoliko je njezina sličnost u onome koji spoznaje. No to se zbiva na dva načina. Budući da su sve stvari koje su slične jednoj te istoj i međusobno slične, spoznajna se snaga može na dva načina poistovjetiti s nečim spoznatljivim. Na jedan način, po njemu samom, kad se izravno oblikuje njegovom sličnošću, i tada se ono spoznaje po sebi. Na drugi način, ukoliko se oblikuje likom nečega što mu je slično, i tada se ne kaže da se stvar spoznaje u samoj sebi, nego u svome sličnom. Druga je naime spoznaja kojom se neki čovjek spoznaje u samom sebi, a druga kojom se spoznaje u svojoj slici. Spoznavati dakle stvari pomoću njihovih sličnosti koje postoje u onome koji spoznaje znači spoznavati ih u njima samima, to jest u njihovim vlastitim naravima; ali spoznavati ih ukoliko njihove sličnosti unaprijed postoje u Bogu znači vidjeti ih u Bogu. I te se dvije spoznaje razlikuju. Stoga prema onoj spoznaji kojom oni koji gledaju Boga po biti spoznaju stvari u samom Bogu, one se ne vide pomoću nekih drugih sličnosti, nego samo po božanskoj biti prisutnoj umu, po kojoj se vidi i Bog.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da se um onoga koji gleda Boga poistovjećuje sa stvarima koje se vide u Bogu ukoliko je sjedinjen s božanskom biti, u kojoj unaprijed postoje sličnosti svih stvari.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a9.ad2": {
+      "text": "Na drugo treba reći da postoje neke spoznajne moći koje iz prvo začetih likova mogu oblikovati druge. Kao što mašta iz unaprijed začetih likova planine i zlata oblikuje lik zlatne planine, a um iz unaprijed začetih likova roda i razlike oblikuje pojam vrste. I slično, iz sličnosti slike možemo u sebi oblikovati sličnost onoga čija je slika. I tako Pavao, ili tko god drugi koji gleda Boga, iz samoga gledanja božanske biti može u sebi oblikovati sličnosti stvari koje se vide u božanskoj biti, a koje su u Pavlu ostale i nakon što je prestao gledati Božju bit. Ipak, to gledanje, kojim se stvari vide pomoću takvih na taj način začetih likova, različito je od gledanja kojim se stvari vide u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:43+00:00"
+    },
+    "I.q12.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da oni koji gledaju Boga po biti ne vide istodobno sve što u njemu vide. Jer, prema Filozofu, može se znati mnogo, ali shvaćati samo jedno. Ali ono što se vidi u Bogu shvaća se, jer se Bog vidi umom. Dakle, ne može se dogoditi da oni koji gledaju Boga istodobno vide mnogo u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a10.obj2": {
+      "text": "Osim toga, Augustin kaže u 8. knjizi Doslovnog tumačenja Postanka da *Bog pokreće duhovni stvor kroz vrijeme*, to jest po shvaćanju i naklonosti. Ali duhovni je stvor anđeo, koji vidi Boga. Dakle, oni koji gledaju Boga shvaćaju i bivaju zahvaćeni naklonošću uzastopno, jer vrijeme podrazumijeva slijed.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a10.sc": {
+      "text": "Ali protiv toga stoji ono što Augustin kaže u posljednjoj knjizi O Trojstvu: *Naše misli neće biti prevrtljive, prelazeći s jednoga na drugo i vraćajući se; nego ćemo svu svoju znanost vidjeti jednim pogledom istodobno.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a10.resp": {
+      "text": "Odgovaram: treba reći da se ono što se vidi u Riječi ne vidi uzastopno, nego istodobno. Za objašnjenje toga valja uzeti u obzir da zato ne možemo istodobno shvaćati mnogo što mnogo shvaćamo pomoću različitih likova; a jedan se um ne može istodobno u činu oblikovati različitim likovima da bi shvaćao pomoću njih, kao što se ni jedno tijelo ne može istodobno oblikovati različitim likovima. Zato se događa da se, kad se neke mnogobrojne stvari mogu shvatiti jednim likom, shvaćaju istodobno; kao što se različiti dijelovi neke cjeline, ako se svaki shvaća vlastitim likom, shvaćaju uzastopno, a ne istodobno; ako se pak svi shvaćaju jednim likom cjeline, shvaćaju se istodobno. Pokazano je pak da se ono što se vidi u Bogu ne vidi pojedino pomoću svojih sličnosti, nego sve pomoću jedne Božje biti. Stoga se vidi istodobno, a ne uzastopno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da shvaćamo samo jedno utoliko ukoliko shvaćamo jednim likom. Ali mnogo toga shvaćenoga jednim likom shvaća se istodobno, kao što u liku čovjeka shvaćamo životinju i razumno, a u liku kuće zid i krov.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a10.ad2": {
+      "text": "Na drugo treba reći da anđeli, s obzirom na naravnu spoznaju kojom spoznaju stvari pomoću različitih likova koji su im usađeni, ne spoznaju sve istodobno, i tako se kreću, prema shvaćanju, kroz vrijeme. Ali ukoliko vide stvari u Bogu, vide ih istodobno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da netko u ovome životu može vidjeti Boga po biti. Jakov naime kaže u Post 32: *Vidio sam Boga licem u lice.* Ali vidjeti licem u lice jest vidjeti po biti, kako je jasno iz onoga što se kaže u 1 Kor 13: *Sada vidimo kroz zrcalo u zagonetki, a tada licem u lice.* Dakle, Bog se u ovome životu može vidjeti po biti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a11.obj2": {
+      "text": "Osim toga, u Br 12 Gospodin kaže o Mojsiju: *Usta u usta govorim s njim, i otvoreno, a ne u zagonetkama i likovima, vidi Boga.* Ali to je vidjeti Boga po biti. Dakle, netko u stanju ovoga života može vidjeti Boga po biti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a11.obj3": {
+      "text": "Osim toga, ono u čemu spoznajemo sve ostalo i po čemu o ostalome sudimo, nama je po sebi poznato. Ali sve i sada spoznajemo u Bogu. Augustin naime kaže u 12. knjizi Ispovijesti: *Ako oboje vidimo da je istinito ono što ti kažeš, i oboje vidimo da je istinito ono što ja kažem, gdje to, pitam, vidimo? Ni ja u tebi, ni ti u meni, nego oboje u onoj nepromjenljivoj istini koja je iznad naših duhova.* On isto, u knjizi O pravoj vjeri, kaže da o svemu sudimo prema božanskoj istini. I u 12. knjizi O Trojstvu kaže da je *zadaća razuma suditi o tim tjelesnim stvarima prema netjelesnim i vječnim pojmovima, koji, da nisu iznad duha, doista ne bi bili nepromjenljivi.* Dakle, i u ovome životu gledamo samoga Boga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a11.obj4": {
+      "text": "Osim toga, prema Augustinu, u 12. knjizi Doslovnog tumačenja Postanka, umskim se gledanjem vide ono što je u duši po svojoj biti. Ali umsko gledanje odnosi se na umljive stvari, ne pomoću nekih sličnosti, nego po njihovim bitima, kako on ondje sâm kaže. Dakle, budući da je Bog po svojoj biti u našoj duši, mi ga vidimo po njegovoj biti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a11.sc": {
+      "text": "Ali protiv toga stoji ono što se kaže u Izl 33: *Čovjek me neće vidjeti i ostati živ.* Glosa kaže: *Dok se ovdje živi smrtno, Bog se može vidjeti pomoću nekih slika, ali ne po samom liku svoje naravi.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a11.resp": {
+      "text": "Odgovaram: treba reći da čovjek, čisti čovjek, ne može vidjeti Boga po biti ako ne bude odvojen od ovoga smrtnog života. Razlog je tome što, kao što je gore rečeno, način spoznaje slijedi način naravi onoga koji spoznaje. A naša duša, dok živimo u ovome životu, ima bitak u tjelesnoj tvari, pa stoga naravno ne spoznaje ništa osim onoga što ima formu u tvari ili što se može spoznati pomoću takvoga. A jasno je da se božanska bit ne može spoznati pomoću naravi tvarnih stvari. Gore je naime pokazano da spoznaja Boga pomoću bilo kakve stvorene sličnosti nije gledanje njegove biti. Stoga je nemoguće da duša čovjeka koji živi u ovome životu vidi Božju bit. Znak je tome što naša duša, što se više odvaja od tjelesnoga, to postaje sposobnija za apstrahirano umljivo. Zato se u snovima i otuđenjima od tjelesnih osjetila više primaju božanske objave i predviđanja budućega. Da se dakle duša uzdigne sve do najvišega umljivog, a to je božanska bit, ne može se dok se služi ovim smrtnim životom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, prema Dionizijevu 4. poglavlju Nebeske hijerarhije, u Pismima kaže da je netko vidio Boga ukoliko su oblikovani neki likovi, osjetni ili maštoviti, koji prema nekoj sličnosti predočavaju nešto božansko. Što dakle Jakov kaže: *vidio sam Boga licem u lice*, treba odnijeti ne na samu božansku bit, nego na lik u kojemu se Bog predočavao. I to samo pripada nekoj uzvišenosti proroštva, da se vidi osoba Boga koji govori, iako maštovitim gledanjem, kako će se poslije pokazati kad budemo govorili o stupnjevima proroštva. Ili Jakov to kaže da označi neku uzvišenost umljivoga motrenja, iznad uobičajenoga stanja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a11.ad2": {
+      "text": "Na drugo treba reći da je, kao što Bog čudesno čini nešto nadnaravno u tjelesnim stvarima, tako i nadnaravno, i mimo uobičajenoga reda, uzdigao do gledanja svoje biti duhove nekih koji žive u ovome tijelu, ali se ne služe osjetilima tijela; kako kaže Augustin u 12. knjizi Doslovnog tumačenja Postanka i u knjizi O gledanju Boga, za Mojsija, koji je bio učitelj Židova, i Pavla, koji je bio učitelj naroda. O tome će se potpunije raspravljati kad budemo govorili o zanosu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a11.ad3": {
+      "text": "Na treće treba reći da se kaže da sve gledamo u Bogu i da o svemu sudimo prema njemu ukoliko sve spoznajemo i prosuđujemo sudjelovanjem u njegovu svjetlu; jer je i samo naravno svjetlo razuma neko sudjelovanje u božanskom svjetlu; kao što također kažemo da sve osjetno gledamo i prosuđujemo u suncu, to jest po svjetlu sunca. Stoga Augustin kaže u 1. knjizi Samogovora: *Predmeti znanosti ne mogu se vidjeti ako ih ne obasja nešto kao njihovo sunce, to jest Bog.* Kao što dakle za osjetno gledanje nečega nije potrebno da se vidi supstancija sunca, tako za umljivo gledanje nečega nije potrebno da se vidi Božja bit.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a11.ad4": {
+      "text": "Na četvrto treba reći da se umsko gledanje odnosi na ono što je u duši po svojoj biti kao umljivo u umu. Na taj je način Bog u duši blaženih, a ne u našoj duši; nego je u njoj po prisutnosti, biti i moći.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da naravnim razumom ne možemo spoznati Boga u ovome životu. Boetije naime kaže u knjizi O utjesi da *razum ne zahvaća jednostavnu formu*. A Bog je najviše jednostavna forma, kako je gore pokazano. Dakle, naravni razum ne može doprijeti do spoznaje njega.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a12.obj2": {
+      "text": "Osim toga, naravnim razumom duša ništa ne shvaća bez maštovne slike, kako se kaže u 3. knjizi O duši. Ali o Bogu, budući da je netjelesan, ne može u nama biti maštovne slike. Dakle, ne možemo ga spoznati naravnom spoznajom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a12.obj3": {
+      "text": "Osim toga, spoznaja koja je po naravnom razumu zajednička je dobrima i zlima, kao što im je zajednička narav. Ali spoznaja Boga pripada samo dobrima, jer Augustin kaže u 1. knjizi O Trojstvu da *oštrina ljudskoga duha ne može se uperiti u tako uzvišenu svjetlost ako se ne očisti pravednošću vjere*. Dakle, Bog se ne može spoznati naravnim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a12.sc": {
+      "text": "Ali protiv toga stoji ono što se kaže u Rim 1: *što se o Bogu može znati, očito je u njima*, to jest što je o Bogu spoznatljivo naravnim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a12.resp": {
+      "text": "Odgovaram: treba reći da naša naravna spoznaja počinje od osjeta, zbog čega se naša naravna spoznaja može protezati samo dotle dokle se može voditi pomoću osjetnoga. Iz osjetnoga pak naš um ne može doprijeti do toga da vidi božansku bit, jer su osjetni stvorovi učinci koji svojom snagom ne izjednačuju Božju snagu kao uzroka. Stoga se iz spoznaje osjetnoga ne može spoznati cijela Božja snaga, i, prema tome, ni vidjeti njegova bit. Ali budući da su njegovi učinci i ovise o uzroku, iz njih možemo doći dotle da o Bogu spoznamo da jest; i da o njemu spoznamo ono što mu nužno pripada ukoliko je prvi uzrok svega, koji nadilazi sve svoje uzrokovano. Stoga o njemu spoznajemo njegov odnos prema stvorovima, naime da je uzrok svega; i razliku stvorova od njega, naime da on nije nešto od onoga što je od njega uzrokovano; i da se to ne uklanja od njega zbog njegova nedostatka, nego zato što ga nadmašuje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da razum ne može doprijeti do jednostavne forme tako da bi o njoj znao što jest, ali o njoj može spoznati da jest.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a12.ad2": {
+      "text": "Na drugo treba reći da se Bog naravnom spoznajom spoznaje pomoću maštovnih slika svojih učinaka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a12.ad3": {
+      "text": "Na treće treba reći da spoznaja Boga po biti, budući da je po milosti, pripada samo dobrima; ali spoznaja o njemu koja je po naravnom razumu može pripadati dobrima i zlima. Stoga Augustin kaže u knjizi Preispitivanja: *Ne odobravam što sam u molitvi rekao: Bože, koji si htio da samo čisti znaju istinu; jer se može odgovoriti da i mnogi nečisti znaju mnogo istinitoga*, naime naravnim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a13.obj1": {
+      "text": "Na trinaesto se ovako postupa. Čini se da milošću nemamo višu spoznaju Boga od one koju imamo naravnim razumom. Dionizije naime kaže u knjizi O mističnoj teologiji da se onaj koji se u ovome životu bolje sjedinjuje s Bogom, s njim sjedinjuje kao s posve nepoznatim; to kaže i za Mojsija, koji je ipak postigao neku uzvišenost u spoznaji milosti. Ali biti povezan s Bogom ne znajući o njemu što jest događa se i naravnim razumom. Dakle, milošću ne spoznajemo Boga potpunije nego naravnim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a13.obj2": {
+      "text": "Osim toga, naravnim razumom ne možemo doći do spoznaje božanskoga osim pomoću maštovnih slika, a tako ni prema spoznaji milosti. Dionizije naime kaže u 1. poglavlju Nebeske hijerarhije da *nam božanska zraka ne može drukčije sjati nego zaogrnuta raznolikošću svetih pokrivala*. Dakle, milošću ne spoznajemo Boga potpunije nego naravnim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a13.obj3": {
+      "text": "Osim toga, naš um se milošću vjere čvrsto veže za Boga. Ali vjera se ne čini spoznajom, jer Grgur kaže u Homilijama da ono što se ne vidi ima vjeru, a ne spoznaju. Dakle, milošću nam se ne dodaje nikakva uzvišenija spoznaja o Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a13.sc": {
+      "text": "Ali protiv toga stoji ono što kaže apostol u 1 Kor 2: *Nama je Bog objavio po svome Duhu* ono što nijedan od knezova ovoga svijeta ne zna, to jest od filozofa, kako tumači Glosa.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a13.resp": {
+      "text": "Odgovaram: treba reći da milošću imamo savršeniju spoznaju o Bogu nego naravnim razumom. To je ovako jasno. Spoznaja koju imamo naravnim razumom zahtijeva dvoje, naime maštovne slike primljene iz osjetnoga i naravno umljivo svjetlo, čijom snagom iz njih apstrahiramo umljive pojmove. I s obzirom na jedno i drugo, ljudska se spoznaja potpomaže objavom milosti. Naime, naravno svjetlo uma jača se ulijevanjem svjetla milosti. A katkad se i maštovne slike u čovjekovoj mašti oblikuju od Boga, izražavajući božanske stvari bolje od onih koje naravno primamo iz osjetnoga, kao što se vidi u proročkim viđenjima. I katkad se također od Boga oblikuju neke osjetne stvari ili čak glasovi da izraze nešto božansko; kao što je na krštenju Duh Sveti bio viđen u liku goluba, a čuo se glas Očev: *Ovo je Sin moj ljubljeni.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a13.ad1": {
+      "text": "Na prvo, dakle, treba reći da, iako objavom milosti u ovome životu ne spoznajemo o Bogu što jest, i tako se s njim povezujemo kao s nepoznatim, ipak ga potpunije spoznajemo ukoliko nam se pokazuje više i uzvišenijih njegovih učinaka; i ukoliko mu pripisujemo nešto iz božanske objave, do čega naravni razum ne dopire, kao da je Bog trojedan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a13.ad2": {
+      "text": "Na drugo treba reći da se iz maštovnih slika, bilo primljenih od osjeta prema naravnom redu, bilo od Boga oblikovanih u mašti, stječe to uzvišenija umska spoznaja što je umljivo svjetlo u čovjeku jače. I tako se objavom iz maštovnih slika prima potpunija spoznaja, zbog ulijevanja božanskoga svjetla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    },
+    "I.q12.a13.ad3": {
+      "text": "Na treće treba reći da je vjera neka spoznaja ukoliko je um vjerom određen na nešto spoznatljivo. Ali to određenje na jedno ne proizlazi iz gledanja onoga koji vjeruje, nego iz gledanja onoga kome se vjeruje. I tako, ukoliko nedostaje gledanje, manjka joj pojam spoznaje koja je u znanosti, jer znanost određuje um na jedno gledanjem i uvidom u prva načela.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:44+00:00"
+    }
+  }
+}

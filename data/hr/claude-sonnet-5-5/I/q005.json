@@ -1,0 +1,348 @@
+{
+  "model": "claude-sonnet-5-5",
+  "question": 5,
+  "units": {
+    "I.q5.pr": {
+      "text": "Zatim se pita o dobru, i to prvo o dobru općenito, drugo o Božjoj dobroti. O prvome se pita šest stvari. Prvo, jesu li dobro i biće isto u stvarnosti. Drugo, uz pretpostavku da se razlikuju samo po pojmu, što je prije po pojmu, dobro ili biće. Treće, uz pretpostavku da je biće prije, je li svako biće dobro. Četvrto, na koji se uzrok svodi pojam dobra. Peto, sastoji li se pojam dobra u mjeri, vrsti i redu. Šesto, kako se dobro dijeli na čestito, korisno i ugodno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se dobro u stvarnosti razlikuje od bića. Boetije naime u knjizi O sedmicama kaže: *Uviđam da je u stvarima jedno to što su dobre, a drugo to što jesu.* Dakle, dobro i biće razlikuju se u stvarnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a1.obj2": {
+      "text": "Osim toga, ništa se ne oblikuje samim sobom. Ali dobro se naziva oblikovanjem bića, kao što stoji u komentaru Knjige o uzrocima. Dakle, dobro se u stvarnosti razlikuje od bića.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a1.obj3": {
+      "text": "Osim toga, dobro prima više i manje. Bitak pak ne prima više i manje. Dakle, dobro se u stvarnosti razlikuje od bića.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a1.sc": {
+      "text": "Ali protiv toga je što Augustin u knjizi O kršćanskom nauku kaže da *koliko jesmo, toliko smo dobri*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a1.resp": {
+      "text": "Odgovaram: treba reći da su dobro i biće isto u stvarnosti, a razlikuju se samo po pojmu. To je ovako jasno. Pojam dobra naime sastoji se u tome da je nešto poželjno, pa Filozof u I. knjizi Etike kaže da je *dobro ono za čim sve teži*. A očito je da je svaka stvar poželjna u onoj mjeri u kojoj je savršena, jer sve teži svojoj savršenosti. Svaka je pak stvar savršena u onoj mjeri u kojoj je u činu, pa je očito da je nešto dobro u onoj mjeri u kojoj je biće, jer je bitak zbiljnost svake stvari, kao što je jasno iz prethodnoga. Stoga je očito da su dobro i biće isto u stvarnosti, ali dobro izriče pojam poželjnoga, koji biće ne izriče.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, iako su dobro i biće isto u stvarnosti, ipak se, jer se razlikuju po pojmu, ne kaže na isti način da je nešto biće bezuvjetno i da je dobro bezuvjetno. Budući da biće naime znači da nešto u vlastitom smislu jest u činu, a čin se u vlastitom smislu odnosi na mogućnost, nešto se bezuvjetno naziva bićem prema onome po čemu se prvo razlikuje od onoga što je samo u mogućnosti. To je pak supstancijalni bitak svake stvari; zato se svaka stvar po svome supstancijalnom bitku bezuvjetno naziva bićem. Po dodanim činima pak za nešto se kaže da jest u nekom pogledu, kao što biti bijel znači biti u nekom pogledu, jer biti bijel ne uklanja bitak u mogućnosti bezuvjetno, budući da pristupa stvari koja već prije postoji u činu. Dobro pak izriče pojam savršenoga, koje je poželjno, a posljedično izriče pojam krajnjega. Zato se ono što je krajnje savršeno naziva dobrim bezuvjetno. A ono što nema krajnju savršenost koju treba imati, iako ima neku savršenost ukoliko je u činu, ipak se ne naziva savršenim bezuvjetno, niti dobrim bezuvjetno, nego u nekom pogledu. Tako se, dakle, po prvome bitku, koji je supstancijalan, nešto naziva bićem bezuvjetno, a dobrim u nekom pogledu, to jest ukoliko je biće; po krajnjem pak činu nešto se naziva bićem u nekom pogledu, a dobrim bezuvjetno. Stoga što Boetije kaže da je *u stvarima jedno to što su dobre, a drugo to što jesu*, treba odnijeti na biti dobar i biti bezuvjetno, jer je po prvom činu nešto biće bezuvjetno, a po krajnjem dobro bezuvjetno. Pa ipak je po prvom činu na neki način dobro, a po krajnjem činu na neki način biće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a1.ad2": {
+      "text": "Na drugo treba reći da se dobro kaže po oblikovanju kad se dobro uzima bezuvjetno, po krajnjem činu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a1.ad3": {
+      "text": "I slično treba reći na treće: dobro se kaže po više i manje prema činu koji se dodaje, na primjer prema znanju ili kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je dobro po pojmu prije od bića. Red imena naime odgovara redu stvari koje su imenima označene. Ali Dionizije među ostalim Božjim imenima stavlja dobro prije bića, kao što je jasno u 3. poglavlju O božanskim imenima. Dakle, dobro je po pojmu prije od bića.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a2.obj2": {
+      "text": "Osim toga, ono je po pojmu prije što se proteže na više stvari. Ali dobro se proteže na više stvari nego biće, jer, kako kaže Dionizije u 5. poglavlju O božanskim imenima, *dobro se proteže na postojeće i nepostojeće, a biće samo na postojeće*. Dakle, dobro je po pojmu prije od bića.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a2.obj3": {
+      "text": "Osim toga, što je općenitije, to je po pojmu prije. Ali čini se da je dobro općenitije od bića, jer dobro ima pojam poželjnoga, a nekima je poželjno upravo ne biti; za Judu se naime kaže u Mt 26: *bilo bi mu dobro da se nije rodio*, i tako dalje. Dakle, dobro je po pojmu prije od bića.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a2.obj4": {
+      "text": "Osim toga, nije poželjan samo bitak, nego i život i mudrost i mnogo toga takvoga, pa se tako čini da je bitak neko partikularno poželjno, a dobro opće. Dakle, dobro je bezuvjetno po pojmu prije od bića.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a2.sc": {
+      "text": "Ali protiv toga je što se kaže u Knjizi o uzrocima da je *prvo među stvorenim stvarima bitak*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a2.resp": {
+      "text": "Odgovaram: treba reći da je biće po pojmu prije od dobra. Pojam naime, označen imenom, jest ono što um pojmi o stvari i što glasom označuje; po pojmu je dakle prije ono što prvo pada u pojmanje uma. Prvo pak u pojmanje uma pada biće, jer je svaka stvar spoznatljiva u onoj mjeri u kojoj je u činu, kao što se kaže u IX. knjizi Metafizike. Stoga je biće vlastiti predmet uma, i tako je prvo umljivo, kao što je zvuk prvo čujno. Tako je, dakle, po pojmu biće prije od dobra.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Dionizije raspravlja o božanskim imenima ukoliko ona o Bogu donose odnos uzroka; Boga naime imenujemo, kako on sam kaže, iz stvorova, kao uzrok iz učinaka. A dobro, budući da ima pojam poželjnoga, donosi odnos svrhovitog uzroka, čija je uzročnost prva, jer djelatnik ne djeluje osim radi svrhe, a djelatnik pokreće tvar prema formi, pa se kaže da je svrha uzrok uzroka. I tako je u uzrokovanju dobro prije od bića, kao svrha prije od forme, i zbog tog razloga se među imenima koja označuju božansku uzročnost dobro stavlja prije bića. A također zato što se, prema platoničarima, koji su, ne razlikujući tvar od lišenosti, govorili da je tvar nebiće, sudjelovanje u dobru proteže na više stvari nego sudjelovanje u biću. Prva tvar naime sudjeluje u dobru, budući da teži za njim (a ništa ne teži osim onome što joj je slično), ali ne sudjeluje u biću, budući da se postavlja kao nebiće. I zato Dionizije kaže da se *dobro proteže na nepostojeće*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a2.ad2": {
+      "text": "Stoga je jasno rješenje na drugo. Ili treba reći da se dobro proteže na postojeće i nepostojeće ne po priricanju, nego po uzročnosti, tako da pod nepostojećim razumijemo ne ono što uopće nije, nego ono što jest u mogućnosti, a nije u činu, jer dobro ima pojam svrhe, u kojoj ne samo da miruje ono što je u činu, nego se prema njoj kreće i ono što nije u činu, nego samo u mogućnosti. Biće pak ne donosi odnos uzroka osim samo formalnoga, bilo da je nutarnji bilo da je uzoran, čija se uzročnost ne proteže osim na ono što je u činu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a2.ad3": {
+      "text": "Na treće treba reći da nebitak po sebi nije poželjan, nego akcidentalno, naime ukoliko je poželjno uklanjanje nekog zla, a to se zlo uklanja nebitkom. Ali uklanjanje zla nije poželjno osim ukoliko je zbog zla netko lišen nekog bitka. Ono što je dakle po sebi poželjno jest bitak, a nebitak je poželjan samo akcidentalno, naime ukoliko se žudi za nekim bitkom kojega čovjek ne može podnijeti biti lišen. I tako se i nebitak akcidentalno naziva dobrim.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a2.ad4": {
+      "text": "Na četvrto treba reći da se život i znanje i drugo takvo žude ukoliko su u činu, pa se u svemu žudi neki bitak. I tako ništa nije poželjno osim bića, i posljedično ništa nije dobro osim bića.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nije svako biće dobro. Dobro naime dodaje nešto biću, kao što je jasno iz rečenoga. A ono što biću nešto dodaje, sužava ga, kao supstancija, kolikoća, kakvoća i drugo takvo. Dakle, dobro sužava biće. Stoga nije svako biće dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a3.obj2": {
+      "text": "Osim toga, nikakvo zlo nije dobro, Iz 5: *Jao vama koji zlo zovete dobrim, a dobro zlim.* Ali neko se biće naziva zlim. Dakle, nije svako biće dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a3.obj3": {
+      "text": "Osim toga, dobro ima pojam poželjnoga. Ali prva tvar nema pojam poželjnoga, nego samo onoga što teži. Dakle, prva tvar nema pojam dobra. Stoga nije svako biće dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a3.obj4": {
+      "text": "Osim toga, Filozof u III. knjizi Metafizike kaže da u matematičkim stvarima nema dobra. Ali matematičke stvari jesu neka bića, inače o njima ne bi bilo znanosti. Dakle, nije svako biće dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a3.sc": {
+      "text": "Ali protiv toga, svako biće koje nije Bog jest Božji stvor. Ali svaki je Božji stvor dobar, kao što se kaže u 1 Tim 4, a Bog je najviše dobar. Dakle, svako je biće dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a3.resp": {
+      "text": "Odgovaram: treba reći da je svako biće, ukoliko je biće, dobro. Svako je naime biće, ukoliko je biće, u činu i na neki način savršeno, jer je svaki čin neka savršenost. A savršeno ima pojam poželjnoga i dobra, kao što je jasno iz rečenoga. Stoga slijedi da je svako biće, ukoliko je takvo, dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da supstancija, kolikoća i kakvoća, i ono što je pod njima sadržano, sužavaju biće primjenjujući biće na neko štostvo ili narav. Na taj način dobro ne dodaje biću nešto, nego samo pojam poželjnoga i savršenosti, što pripada samom bitku u kojoj god naravi bio. Stoga dobro ne sužava biće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a3.ad2": {
+      "text": "Na drugo treba reći da se nijedno biće ne naziva zlim ukoliko je biće, nego ukoliko mu nedostaje neki bitak, kao što se čovjek naziva zlim ukoliko mu nedostaje bitak kreposti, a oko se naziva zlim ukoliko mu nedostaje oštrina vida.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a3.ad3": {
+      "text": "Na treće treba reći da prva tvar, kao što nije biće osim u mogućnosti, tako nije ni dobro osim u mogućnosti. Iako se, prema platoničarima, može reći da je prva tvar nebiće zbog pridružene lišenosti. Ipak sudjeluje u nečemu od dobra, naime u samom redu ili sposobnosti za dobro. I zato joj ne pristaje da bude poželjna, nego da teži.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a3.ad4": {
+      "text": "Na četvrto treba reći da matematičke stvari ne samostoje odvojeno po bitku, jer kad bi samostojale, bilo bi u njima dobro, naime sam njihov bitak. Matematičke su stvari pak odvojene samo po pojmu, ukoliko se apstrahiraju od gibanja i od tvari, i tako se apstrahiraju od pojma svrhe, koja ima pojam pokretača. Nije pak neprikladno da u nekom biću po pojmu nema dobra ili pojma dobra, budući da je pojam bića prije od pojma dobra, kao što je prije rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da dobro nema pojam svrhovitog uzroka, nego prije drugih uzroka. Kao što naime kaže Dionizije u 4. poglavlju O božanskim imenima, *dobro se hvali kao lijepo*. Ali lijepo donosi pojam formalnog uzroka. Dakle, dobro ima pojam formalnog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a4.obj2": {
+      "text": "Osim toga, dobro je širiteljsko svoga bitka, kao što se uzima iz Dionizijevih riječi kojima kaže da je *dobro ono iz čega sve samostoji i jest*. Ali biti širiteljski donosi pojam tvornog uzroka. Dakle, dobro ima pojam tvornog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a4.obj3": {
+      "text": "Osim toga, Augustin u I. knjizi O kršćanskom nauku kaže: *jer je Bog dobar, mi jesmo*. Ali mi smo od Boga kao od tvornog uzroka. Dakle, dobro donosi pojam tvornog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a4.sc": {
+      "text": "Ali protiv toga je što Filozof u II. knjizi Fizike kaže da je *ono radi čega nešto jest kao svrha i dobro drugih stvari*. Dakle, dobro ima pojam svrhovitog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a4.resp": {
+      "text": "Odgovaram: treba reći da, budući da je dobro ono za čim sve teži, a to ima pojam svrhe, očito je da dobro donosi pojam svrhe. Ipak, pojam dobra pretpostavlja pojam tvornog uzroka i pojam formalnog uzroka. Vidimo naime da je ono što je prvo u uzrokovanju posljednje u uzrokovanome: vatra naime grije prije nego što uvede formu vatre, premda toplina u vatri slijedi supstancijalnu formu. U uzrokovanju se pak prvo nalazi dobro i svrha, koja pokreće tvornog uzroka; drugo, radnja tvornog uzroka, koja pokreće prema formi; treće, dolazi forma. Stoga u uzrokovanome mora biti obrnuto: prvo je sama forma, po kojoj je nešto biće; drugo se u njoj razmatra djelotvorna snaga, ukoliko je savršeno u bitku (jer je svaka stvar tada savršena kad može učiniti sebi slično, kao što kaže Filozof u IV. knjizi Meteorologike); treće slijedi pojam dobra, po kojem se u biću utemeljuje savršenost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da su lijepo i dobro u subjektu isto, jer se temelje na istoj stvari, naime na formi, i zbog toga se dobro hvali kao lijepo. Ali po pojmu se razlikuju. Dobro se naime u vlastitom smislu odnosi na težnju, jer je dobro ono za čim sve teži. I zato ima pojam svrhe, jer je težnja kao neko gibanje prema stvari. Lijepo se pak odnosi na spoznajnu moć, jer se lijepim zovu stvari koje se vide i sviđaju. Zato se lijepo sastoji u doličnom razmjeru, jer se osjet veseli stvarima doličnog razmjera kao onome što mu je slično; jer je i osjet neki pojam, i svaka spoznajna moć. A budući da se spoznaja zbiva uspodobljavanjem, a sličnost se odnosi na formu, lijepo u vlastitom smislu pripada pojmu formalnog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a4.ad2": {
+      "text": "Na drugo treba reći da se za dobro kaže da je širiteljsko svoga bitka na onaj način na koji se za svrhu kaže da pokreće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a4.ad3": {
+      "text": "Na treće treba reći da se svatko tko ima volju naziva dobrim ukoliko ima dobru volju, jer volju rabimo za sve što je u nama. Zato se ne naziva dobrim čovjek koji ima dobar um, nego onaj koji ima dobru volju. Volja se pak odnosi na svrhu kao na vlastiti predmet, i tako se ono što se kaže, jer je Bog dobar, mi jesmo, odnosi na svrhoviti uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se pojam dobra ne sastoji u mjeri, vrsti i redu. Dobro se naime i biće razlikuju po pojmu, kao što je prije rečeno. Ali čini se da mjera, vrsta i red pripadaju pojmu bića, jer, kao što se kaže u Mudr 11, *sve si uredio u broju, težini i mjeri*, na što se svode vrsta, mjera i red, jer, kako kaže Augustin u IV. knjizi O Postanku u doslovnom smislu, *mjera svakoj stvari unaprijed određuje mjeru, a broj svakoj stvari daje vrstu, a težina svaku stvar vuče k miru i postojanosti*. Dakle, pojam dobra ne sastoji se u mjeri, vrsti i redu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.obj2": {
+      "text": "Osim toga, sami su mjera, vrsta i red neka dobra. Ako se dakle pojam dobra sastoji u mjeri, vrsti i redu, nužno je da i mjera ima mjeru, vrstu i red, a slično i vrsta i red. Dakle, išlo bi se u beskonačnost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.obj3": {
+      "text": "Osim toga, zlo je lišenost mjere i vrste i reda. Ali zlo ne uklanja dobro potpuno. Dakle, pojam dobra ne sastoji se u mjeri, vrsti i redu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.obj4": {
+      "text": "Osim toga, ono u čemu se sastoji pojam dobra ne može se nazvati zlim. Ali govori se o zloj mjeri, zloj vrsti, zlom redu. Dakle, pojam dobra ne sastoji se u mjeri, vrsti i redu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.obj5": {
+      "text": "Osim toga, mjera, vrsta i red uzrokuju se težinom, brojem i mjerom, kao što je jasno iz navedenog autoriteta Augustina. Ali sva dobra nemaju težinu, broj i mjeru; Ambrozije naime u Heksamerona kaže da je *narav svjetla takva da nije stvorena ni u broju, ni u težini, ni u mjeri*. Dakle, pojam dobra ne sastoji se u mjeri, vrsti i redu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.sc": {
+      "text": "Ali protiv toga je što Augustin u knjizi O naravi dobra kaže: *Ova tri, mjera, vrsta i red, jesu kao opća dobra u stvarima koje je Bog učinio, i tako, gdje su ova tri velika, velika su dobra; gdje su mala, mala su dobra; gdje ih nema, nema dobra.* To ne bi bilo tako da se pojam dobra ne sastoji u njima. Dakle, pojam dobra sastoji se u mjeri, vrsti i redu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.resp": {
+      "text": "Odgovaram: treba reći da se svaka stvar naziva dobrom ukoliko je savršena, jer je tako poželjna, kao što je prije rečeno. Savršenim se pak naziva ono kojemu ništa ne nedostaje prema mjeri njegove savršenosti. Budući da je pak svaka stvar ono što jest po svojoj formi, a forma pretpostavlja neke stvari, a neke iz nje nužno slijede, da bi nešto bilo savršeno i dobro nužno je da ima formu, i ono što se za nju unaprijed traži, i ono što iz nje slijedi. Za formu se unaprijed traži određenost ili razmjerenost počela, bilo tvarnih bilo onih koja je tvore, i to je označeno mjerom, pa se kaže da mjerilo unaprijed određuje mjeru. Sama forma pak označena je vrstom, jer se po formi svaka stvar ustanovljuje u vrsti. I zbog toga se kaže da broj daje vrstu, jer su definicije koje označuju vrstu kao brojevi, prema Filozofu u VIII. knjizi Metafizike; kao što naime jedinica, dodana ili oduzeta, mijenja vrstu broja, tako i u definicijama razlika, dodana ili oduzeta. Za formom pak slijedi nagnuće k svrsi, ili k radnji, ili k nečemu takvom, jer svaka stvar, ukoliko je u činu, djeluje i teži onomu što joj prema njezinoj formi pristaje. A to pripada težini i redu. Stoga se pojam dobra, ukoliko se sastoji u savršenosti, sastoji i u mjeri, vrsti i redu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da ova tri ne slijede biće osim ukoliko je savršeno, i u tom je pogledu dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.ad2": {
+      "text": "Na drugo treba reći da se mjera, vrsta i red nazivaju dobrima na isti način kao i bićima, ne zato što bi sami bili kao samostojeći, nego zato što su po njima druge stvari i bića i dobra. Stoga nije nužno da oni imaju neke druge stvari po kojima bi bili dobri. Ne nazivaju se naime dobrima tako da bi formalno po drugima bili dobri, nego zato što su po njima formalno neke stvari dobre; kao što se bjelina ne naziva bićem zato što bi ona po nečemu bila, nego zato što je ona nešto u nekom pogledu, naime bijelo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.ad3": {
+      "text": "Na treće treba reći da je svaki bitak po nekoj formi, pa po svakom bitku stvari slijede za njom mjera, vrsta i red, kao što čovjek ima vrstu, mjeru i red ukoliko je čovjek; i slično, ukoliko je bijel, slično ima mjeru, vrstu i red; i ukoliko je krepostan, i ukoliko je znalac, i po svemu što se o njemu kaže. Zlo pak lišava nekog bitka, kao što sljepoća lišava bitka vida, pa ne uklanja svaku mjeru, vrstu i red, nego samo mjeru, vrstu i red koji slijede bitak vida.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.ad4": {
+      "text": "Na četvrto treba reći da, kao što kaže Augustin u knjizi O naravi dobra, *svaka je mjera, ukoliko je mjera, dobra* (a tako se može reći i o vrsti i redu), *ali zlom se mjerom, ili zlom vrstom, ili zlim redom nazivaju ili zato što su manji nego što su trebali biti; ili zato što nisu prilagođeni onim stvarima kojima ih treba prilagoditi; tako da se zovu zlima jer su tuđi i neskladni*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a5.ad5": {
+      "text": "Na peto treba reći da se za narav svjetla kaže da je bez broja i težine i mjere, ne bezuvjetno, nego u usporedbi s tjelesnim stvarima, jer se snaga svjetla proteže na sve tjelesne stvari, ukoliko je djelatna kakvoća prvog tijela koje mijenja, naime neba.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se dobro ne dijeli prikladno na čestito, korisno i ugodno. Dobro se naime, kao što kaže Filozof u I. knjizi Etike, dijeli prema deset kategorija. A čestito, korisno i ugodno mogu se naći u jednoj kategoriji. Dakle, dobro se prema njima ne dijeli prikladno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a6.obj2": {
+      "text": "Osim toga, svaka se podjela vrši po suprotnostima. Ali čini se da ova tri nisu suprotna, jer su čestite stvari ugodne, a ništa nečestito nije korisno (što bi ipak bilo nužno kad bi se podjela vršila po suprotnostima, tako da bi se čestito i korisno suprotstavljali), kao što i Tulije kaže u knjizi O dužnostima. Dakle, spomenuta podjela nije prikladna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a6.obj3": {
+      "text": "Osim toga, gdje je jedno radi drugoga, ondje je samo jedno. Ali korisno nije dobro osim radi ugodnoga ili čestitoga. Dakle, korisno se ne treba dijeliti nasuprot ugodnomu i čestitomu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a6.sc": {
+      "text": "Ali protiv toga je što se Ambrozije u knjizi O dužnostima služi ovom podjelom dobra.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a6.resp": {
+      "text": "Odgovaram: treba reći da se čini da je ova podjela u vlastitom smislu podjela ljudskog dobra. Ako ipak pojam dobra promotrimo uzvišenije i općenitije, nalazi se da ova podjela u vlastitom smislu pripada dobru ukoliko je dobro. Dobro je naime nešto ukoliko je poželjno i završetak gibanja težnje. Završetak toga gibanja može se razmotriti iz razmatranja gibanja naravnog tijela. Gibanje naravnog tijela završava se bezuvjetno u krajnjem, a u nekom pogledu i u srednjem, kroz koje se ide do krajnjega što završava gibanje, i naziva se nekim završetkom gibanja ukoliko završava neki dio gibanja. Ono pak što je krajnji završetak gibanja može se uzeti dvojako: ili sama stvar prema kojoj se teži, kao mjesto ili forma; ili mirovanje u toj stvari. Tako se, dakle, u gibanju težnje ono poželjno što završava gibanje težnje u nekom pogledu, kao sredstvo kroz koje se teži prema drugome, naziva korisnim. Ono pak čemu se teži kao krajnjemu, što potpuno završava gibanje težnje, kao neka stvar prema kojoj težnja teži po sebi, naziva se čestitim, jer se čestitim naziva ono što se žudi po sebi. Ono pak što završava gibanje težnje kao mirovanje u željenoj stvari jest užitak.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se dobro, ukoliko je u subjektu isto s bićem, dijeli prema deset kategorija, ali prema vlastitom pojmu njemu pripada ova podjela.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a6.ad2": {
+      "text": "Na drugo treba reći da ova podjela nije po suprotnim stvarima, nego po suprotnim pojmovima. Ipak se u vlastitom smislu ugodnima nazivaju one stvari koje nemaju nikakav drugi pojam poželjnosti osim užitka, budući da su katkad i štetne i nečestite. Korisnima se pak nazivaju one koje u sebi nemaju ono zbog čega bi se žudjele, nego se žude samo ukoliko vode k drugome, kao uzimanje gorkog lijeka. Čestitima se pak nazivaju one koje u samima sebi imaju ono zbog čega se žude.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    },
+    "I.q5.a6.ad3": {
+      "text": "Na treće treba reći da se dobro ne dijeli na ova tri kao jednoznačno, jednako priricano o njima, nego kao analogno, koje se pririče prema prije i kasnije. Po prije se naime pririče o čestitome; sekundarno o ugodnome; treće o korisnome.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T11:55:42+00:00"
+    }
+  }
+}
