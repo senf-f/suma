@@ -1,4 +1,4 @@
-version: 1
+version: 2
 terms:
 - la: esse
   hr: bitak
@@ -69,7 +69,7 @@ terms:
   alternatives:
   - priroda
   note: Croatian theological usage ("dvije naravi"); use "priroda" only for the physical
-    world (natura rerum).
+    world (natura rerum, opera naturae).
 - la: res
   hr: stvar
   alternatives:
@@ -129,7 +129,8 @@ terms:
   hr: tvar
   alternatives:
   - materija
-  note: Materia prima = "prva tvar"; materialis = "tvarni".
+  note: Materia prima = "prva tvar"; materialis = "tvarni"; materia as subject-matter
+    of a science or word = "građa".
 - la: compositio
   hr: sastavljenost
   alternatives:
@@ -157,7 +158,8 @@ terms:
   alternatives:
   - dispozicija
   - sklonost
-  note: Disposition of matter toward form; distinct from habitus.
+  note: Disposition of matter toward form = "raspoloživost"; God's or anyone's arranging
+    of things (disponere) = "raspored" / "raspoređivati"; a state = "stanje".
 - la: habitus
   hr: habitus
   alternatives:
@@ -181,8 +183,8 @@ terms:
   alternatives:
   - krepost
   - moć
-  note: Mostly power/force in q.1-13 ("virtus infinita"); use "krepost" only for moral
-    virtue.
+  note: Power/force = "snaga"; moral virtue = "krepost"; "virtute" meaning "virtually"
+    (not formally) = "virtualno".
 - la: causa
   hr: uzrok
   alternatives: []
@@ -198,13 +200,15 @@ terms:
   alternatives:
   - cilj
   - svršni uzrok
-  note: Finis as cause = "svrha"; "cilj" sounds subjective/intentional.
+  note: Finis as cause = "svrha"; the adjective form of the cause is "svršni uzrok"
+    (never "svrha kao uzrok").
 - la: causa exemplaris / exemplar
   hr: uzorni uzrok
   alternatives:
   - uzor
   - praslika
-  note: God as exemplar of creatures (q.4 a.3).
+  note: God as exemplar cause = "uzorni uzrok"; a plain model/pattern (exemplar vs.
+    exemplata) = "uzor" / "ono što je načinjeno po uzoru".
 - la: causa formalis
   hr: formalni uzrok
   alternatives:
@@ -232,8 +236,8 @@ terms:
   alternatives:
   - kretanje
   - promjena
-  note: 'First way: any passage from potency to act, not just local motion; one note
-    on first use.'
+  note: Physical motion = "gibanje"; motion of the will or appetite (motus voluntatis)
+    = "pokret".
 - la: primum movens
   hr: prvi pokretač
   alternatives:
@@ -520,7 +524,8 @@ terms:
 - la: unum
   hr: jedno
   alternatives: []
-  note: Transcendental (q.11); unitas = "jedinstvo"; multitudo = "mnoštvo".
+  note: Transcendental (q.11); unitas = "jedinstvo", but a numerical unit = "jedinica";
+    multitudo = "mnoštvo".
 - la: verum / veritas
   hr: istinito / istina
   alternatives: []
@@ -582,8 +587,8 @@ terms:
   hr: znanost
   alternatives:
   - znanje
-  note: 'q.1 a.2: sacra doctrina as Aristotelian scientia; "znanje" only for non-technical
-    knowing.'
+  note: A science (q.1, scientia moralis) = "znanost"; God's knowing or ordinary knowing
+    = "znanje".
 - la: sacra doctrina
   hr: sveti nauk
   alternatives:
@@ -694,3 +699,147 @@ terms:
   - primjereno
   - suglasnost
   note: Fittingness arguments; in q.13 convenire = "pristajati".
+- la: processio / procedere
+  hr: izlaženje / izlaziti
+  alternatives:
+  - proizlaženje
+  note: Procession of the divine persons (q.27).
+- la: spiratio / spirare
+  hr: izdahnuće / izdahnuti
+  alternatives:
+  - dahnuće
+  note: Owner's choice; active/passive spiratio = "aktivno / pasivno izdahnuće".
+- la: generatio / genitus
+  hr: rađanje / rođen
+  alternatives:
+  - nastajanje
+  note: Trinitarian generation = "rađanje"; physical coming-to-be (generatio et corruptio)
+    = "nastajanje" (i "propadanje").
+- la: paternitas / filiatio
+  hr: očinstvo / sinovstvo
+  alternatives: []
+  note: Relations in God (q.28, q.40).
+- la: innascibilitas
+  hr: nerođenost
+  alternatives:
+  - nerodivost
+  note: Notion of the Father (q.32-33).
+- la: notio
+  hr: oznaka
+  alternatives:
+  - pojmovna oznaka
+  note: The five notions (q.32 a.3); keep distinct from ratio = "pojam".
+- la: Verbum (divinum)
+  hr: Riječ
+  alternatives: []
+  note: Capitalised for the divine Word; human verbum = "riječ".
+- la: conceptio (mentis)
+  hr: zamisao
+  alternatives:
+  - začeće
+  note: Conception of the intellect; "začeće" only where the biological image is meant
+    (Prov 8).
+- la: Paraclitus
+  hr: Branitelj
+  alternatives:
+  - Tješitelj
+  note: Liturgical Croatian.
+- la: missio
+  hr: poslanje
+  alternatives: []
+  note: Mission of the divine persons (q.43).
+- la: habitudo
+  hr: odnošaj
+  alternatives:
+  - usmjerenost
+  note: Keep distinct from relatio = "odnos".
+- la: respectus
+  hr: usmjerenost
+  alternatives:
+  - obzir
+  note: Keep distinct from relatio and habitudo.
+- la: liberum arbitrium
+  hr: slobodno odlučivanje
+  alternatives:
+  - slobodna volja
+  note: Owner's choice; keeps arbitrium distinct from voluntas. Augustine's De libero
+    arbitrio stays "O slobodnoj volji".
+- la: voluntas beneplaciti / signi
+  hr: volja blagonaklonosti / volja znaka
+  alternatives: []
+  note: q.19 a.11-12.
+- la: caritas
+  hr: ljubav
+  alternatives:
+  - bogoslovna ljubav
+  note: The theological virtue; "bogoslovna ljubav" where it must be marked off from
+    amor. Never "karitas".
+- la: amor / dilectio
+  hr: ljubav
+  alternatives:
+  - naklonost
+  note: Both "ljubav"; where Thomas contrasts them, dilectio = "izabirna ljubav".
+- la: providentia
+  hr: providnost
+  alternatives:
+  - promisao
+  note: q.22.
+- la: praedestinatio / reprobatio
+  hr: predodređenje / odbacivanje
+  alternatives: []
+  note: q.23; praedeterminare = "unaprijed određivati".
+- la: praescientia
+  hr: predznanje
+  alternatives: []
+  note: Praescitus (foreknown to be lost) = "predznan za propast".
+- la: meritum / demeritum
+  hr: zasluga / nezasluga
+  alternatives: []
+  note: q.23.
+- la: sempiternus
+  hr: vjekovječan
+  alternatives: []
+  note: Owner's choice; distinct from aeternus (vječan) and aeviternus (vjekovit).
+- la: potestas
+  hr: vlast
+  alternatives: []
+  note: Keep distinct from potentia = "moć".
+- la: scientia visionis / simplicis intelligentiae
+  hr: znanje gledanja / znanje jednostavnog shvaćanja
+  alternatives: []
+  note: God's knowledge (q.14 a.9).
+- la: intellectus possibilis / agens
+  hr: mogućnosni um / djelatni um
+  alternatives:
+  - mogući um
+  note: q.79.
+- la: connaturalis
+  hr: sunaravan
+  alternatives:
+  - primjeren naravi
+  note: q.12 a.4.
+- la: deiformis
+  hr: bogolik
+  alternatives: []
+  note: q.12.
+- la: transmutatio / transmutabilis
+  hr: preinaka / preinačiv
+  alternatives: []
+  note: Keep distinct from mutatio = "promjena".
+- la: modus, species, ordo
+  hr: način, vrsta i red
+  alternatives: []
+  note: Augustine's triad (q.5 a.5, q.6 a.1); owner's choice. Keep mensura = "mjera"
+    distinct from modus.
+- la: simpliciter / secundum quid
+  hr: naprosto / u nekom pogledu
+  alternatives: []
+  note: Never "jednostavno" (that is simplicitas).
+- la: contraria / opposita
+  hr: protivno / suprotstavljeno
+  alternatives: []
+  note: Keep the two apart (q.17 a.4).
+- la: praedicamentum
+  hr: kategorija
+  alternatives: []
+  note: Ad aliquid (the category of relation) = "prema nečemu".
