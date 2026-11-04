@@ -1,0 +1,696 @@
+version: 1
+terms:
+- la: esse
+  hr: bitak
+  alternatives:
+  - biti
+  - postojanje
+  - opstojnost
+  note: The act of being; keep distinct from ens (biće) and essentia (bit). Infinitive
+    uses ("esse" as verb) may stay "biti".
+- la: ens
+  hr: biće
+  alternatives:
+  - bivstvujuće
+  - ono što jest
+  note: That which has esse; never render as "bitak". Plural entia = "bića".
+- la: essentia
+  hr: bit
+  alternatives:
+  - esencija
+  - bitnost
+  note: '"Deus est suum esse" turns on bit vs bitak; never translate essentia as "bitak".'
+- la: quidditas
+  hr: štostvo
+  alternatives:
+  - bit
+  - kviditet
+  note: Traditional Croatian scholastic coinage; keep separate from essentia only
+    where Thomas contrasts them.
+- la: quod quid est
+  hr: ono što jest
+  alternatives:
+  - štostvo
+  - bit
+  note: Aristotelian formula for the definition/essence of a thing.
+- la: substantia
+  hr: supstancija
+  alternatives:
+  - bivstvo
+  - samostalnost
+  note: Established term; "bivstvo" is archaic.
+- la: accidens
+  hr: akcident
+  alternatives:
+  - pripadak
+  - slučajno svojstvo
+  note: Ontological category; do not confuse with "slučaj" (chance).
+- la: per se
+  hr: po sebi
+  alternatives:
+  - sam po sebi
+  - bitno
+  note: Fixed contrast with per accidens; keep the pair parallel.
+- la: per accidens
+  hr: akcidentalno
+  alternatives:
+  - po akcidentu
+  note: Paired with per se ("po sebi"); use "po akcidentu" where the prepositional
+    contrast with "po sebi" must show.
+- la: per essentiam
+  hr: po biti
+  alternatives:
+  - bitno
+  - po svojoj biti
+  note: Contrasted with per participationem (q.3, q.6) and with per praesentiam/potentiam
+    (q.8).
+- la: natura
+  hr: narav
+  alternatives:
+  - priroda
+  note: Croatian theological usage ("dvije naravi"); use "priroda" only for the physical
+    world (natura rerum).
+- la: res
+  hr: stvar
+  alternatives:
+  - zbilja
+  - predmet
+  note: Default "stvar"; in "secundum rem" vs "secundum rationem" use "u stvarnosti"
+    vs "po pojmu".
+- la: aliquid
+  hr: nešto
+  alternatives:
+  - neka stvar
+  note: Transcendental sense (aliud quid) in q.11; keep plain.
+- la: suppositum
+  hr: supozit
+  alternatives:
+  - nositelj
+  - samostojni subjekt
+  note: Individual subsisting subject of a nature (q.3 a.3); a gloss on first use
+    may help.
+- la: subsistere
+  hr: samostojati
+  alternatives:
+  - subzistirati
+  - opstojati
+  note: Noun subsistentia = "samostojnost"; distinct from existere.
+- la: persona
+  hr: osoba
+  alternatives: []
+  note: Standard; no alternatives.
+- la: actus
+  hr: čin
+  alternatives:
+  - zbiljnost
+  - akt
+  note: In actu = "u činu"; actus purus = "čisti čin". Do not use "djelo".
+- la: potentia (passiva)
+  hr: mogućnost
+  alternatives:
+  - potencija
+  note: 'Correlate of actus: in potentia = "u mogućnosti". Keep separate from active
+    power.'
+- la: potentia (activa)
+  hr: moć
+  alternatives:
+  - sila
+  - snaga
+  note: God's power (q.8 a.3 "per potentiam", q.25); context decides between moć and
+    mogućnost.
+- la: forma
+  hr: forma
+  alternatives:
+  - oblik
+  - lik
+  note: 'Hylomorphic form: forma substantialis = "supstancijalna forma"; formalis
+    = "formalni".'
+- la: materia
+  hr: tvar
+  alternatives:
+  - materija
+  note: Materia prima = "prva tvar"; materialis = "tvarni".
+- la: compositio
+  hr: sastavljenost
+  alternatives:
+  - složenost
+  - sastav
+  note: Key in q.3; compositum = "složeno"/"složenac".
+- la: simplicitas
+  hr: jednostavnost
+  alternatives:
+  - nesloženost
+  note: q.3 title; means absence of composition, not "lakoća".
+- la: perfectio
+  hr: savršenost
+  alternatives:
+  - dovršenost
+  - potpunost
+  note: q.4; perfectum = "savršeno", "potpuno dovršeno" (per-factum).
+- la: imperfectum
+  hr: nesavršeno
+  alternatives:
+  - nedovršeno
+  note: Mirror of perfectio; keep the same root.
+- la: dispositio
+  hr: raspoloživost
+  alternatives:
+  - dispozicija
+  - sklonost
+  note: Disposition of matter toward form; distinct from habitus.
+- la: habitus
+  hr: habitus
+  alternatives:
+  - stečena sposobnost
+  - trajna sklonost
+  note: Avoid "navika" (too behavioural); q.1 a.6 and q.1 a.2 speak of habitus principiorum.
+- la: operatio
+  hr: djelovanje
+  alternatives:
+  - djelatnost
+  - operacija
+  note: Immanent operation; actio (transitive) = "radnja".
+- la: agens
+  hr: djelatnik
+  alternatives:
+  - djelujuće
+  - uzročnik
+  note: Omne agens agit sibi simile = "svaki djelatnik djeluje sebi slično".
+- la: virtus
+  hr: snaga
+  alternatives:
+  - krepost
+  - moć
+  note: Mostly power/force in q.1-13 ("virtus infinita"); use "krepost" only for moral
+    virtue.
+- la: causa
+  hr: uzrok
+  alternatives: []
+  note: Standard.
+- la: causa efficiens
+  hr: tvorni uzrok
+  alternatives:
+  - djelatni uzrok
+  - učinkoviti uzrok
+  note: Second way (q.2 a.3).
+- la: causa finalis / finis
+  hr: svrha
+  alternatives:
+  - cilj
+  - svršni uzrok
+  note: Finis as cause = "svrha"; "cilj" sounds subjective/intentional.
+- la: causa exemplaris / exemplar
+  hr: uzorni uzrok
+  alternatives:
+  - uzor
+  - praslika
+  note: God as exemplar of creatures (q.4 a.3).
+- la: causa formalis
+  hr: formalni uzrok
+  alternatives:
+  - oblični uzrok
+  note: Follows forma = "forma".
+- la: causa materialis
+  hr: tvarni uzrok
+  alternatives:
+  - materijalni uzrok
+  note: Follow the materia/tvar choice.
+- la: effectus
+  hr: učinak
+  alternatives:
+  - posljedica
+  note: '"Ex effectibus" demonstration (q.2 a.2) = "iz učinaka".'
+- la: principium
+  hr: počelo
+  alternatives:
+  - načelo
+  - izvor
+  note: Ontological principle = "počelo"; logical/epistemic principle (principia per
+    se nota) = "načelo".
+- la: motus
+  hr: gibanje
+  alternatives:
+  - kretanje
+  - promjena
+  note: 'First way: any passage from potency to act, not just local motion; one note
+    on first use.'
+- la: primum movens
+  hr: prvi pokretač
+  alternatives:
+  - prvi pokretni uzrok
+  note: Quod ab alio non movetur = "koji nije pokretan od drugoga".
+- la: mobile
+  hr: pokretljivo
+  alternatives:
+  - ono što se giba
+  note: Correlate of movens.
+- la: mutatio / mutabilis
+  hr: promjena / promjenljiv
+  alternatives:
+  - mijena
+  note: q.9; immutabilitas = "nepromjenljivost".
+- la: necessarium
+  hr: nužno
+  alternatives:
+  - neophodno
+  note: Third way; necessarium per se vs ab alio = "nužno po sebi" / "od drugoga".
+- la: possibile esse et non esse
+  hr: moguće da bude i da ne bude
+  alternatives: []
+  note: Third way formula; keep the full phrase.
+- la: contingens
+  hr: kontingentno
+  alternatives:
+  - slučajno
+  - nenužno
+  note: Avoid "slučajno" where it would suggest chance.
+- la: gradus
+  hr: stupanj
+  alternatives:
+  - razina
+  note: 'Fourth way: "stupnjevi" of goodness, truth, nobility.'
+- la: gubernatio
+  hr: upravljanje
+  alternatives:
+  - vođenje
+  note: 'Fifth way: "upravljanje stvarima".'
+- la: ordo
+  hr: red
+  alternatives:
+  - poredak
+  - usmjerenost
+  note: Ordo ad finem = "usmjerenost prema svrsi".
+- la: Deus
+  hr: Bog
+  alternatives: []
+  note: Capitalised; pronouns referring to God lower-case per current Croatian orthography.
+- la: deitas
+  hr: božanstvo
+  alternatives:
+  - božanskost
+  note: Abstract name (q.3 a.3, q.13 a.1); keep distinct from Deus.
+- la: nomen
+  hr: ime
+  alternatives:
+  - naziv
+  note: q.13 "De nominibus Dei" = "O Božjim imenima".
+- la: significare
+  hr: označivati
+  alternatives:
+  - značiti
+  note: Res significata vs modus significandi = "označena stvar" / "način označivanja".
+- la: modus significandi
+  hr: način označivanja
+  alternatives: []
+  note: Central to q.13 a.3.
+- la: praedicare
+  hr: pririći
+  alternatives:
+  - izricati
+  - predicirati
+  note: Croatian logical term (pririk = predicate); "pririče se o Bogu".
+- la: univoce
+  hr: jednoznačno
+  alternatives:
+  - univokno
+  note: q.13 a.5; univocum = "jednoznačan".
+- la: aequivoce
+  hr: dvoznačno
+  alternatives:
+  - istoimeno
+  - ekvivokno
+  note: Pure equivocity; "dvoznačno" is the standard pair to jednoznačno.
+- la: analogice
+  hr: analogno
+  alternatives:
+  - razmjerno
+  - po analogiji
+  note: q.13 a.5-6; per prius et posterius = "prije i kasnije".
+- la: proprie
+  hr: u vlastitom smislu
+  alternatives:
+  - vlastito
+  - doslovno
+  note: Contrasted with metaphorice (q.13 a.3).
+- la: metaphorice
+  hr: preneseno
+  alternatives:
+  - metaforički
+  - u prenesenom smislu
+  note: Paired with "u vlastitom smislu".
+- la: abstractum / concretum
+  hr: apstraktno / konkretno
+  alternatives:
+  - odvojeno / sraslo
+  note: 'Grammatical-logical sense: abstract vs concrete names (q.3 a.3, q.13 a.1).'
+- la: Qui est
+  hr: Onaj koji jest
+  alternatives:
+  - Koji jest
+  note: Ex 3:14 and q.13 a.11; capitalised as a divine name.
+- la: tetragrammaton
+  hr: tetragram
+  alternatives:
+  - četveroslovno ime
+  note: q.13 a.11; transliterate.
+- la: genus
+  hr: rod
+  alternatives: []
+  note: Logical genus; q.3 a.5 "Deus non est in genere" = "Bog nije u rodu".
+- la: species
+  hr: vrsta
+  alternatives:
+  - lik
+  - oblik
+  note: Logical species = "vrsta"; species in cognition (q.12) = "spoznajni lik".
+- la: differentia
+  hr: razlika
+  alternatives:
+  - specifična razlika
+  note: Differentia specifica in definition.
+- la: definitio
+  hr: definicija
+  alternatives:
+  - određenje
+  note: Standard.
+- la: per se notum
+  hr: po sebi poznato
+  alternatives:
+  - samo po sebi razvidno
+  - samoočito
+  note: q.2 a.1 title; keep the q.2 a.1 distinction quoad se / quoad nos ("po sebi"
+    / "za nas").
+- la: demonstratio
+  hr: dokaz
+  alternatives:
+  - dokazivanje
+  - demonstracija
+  note: Demonstratio quia / propter quid = "dokaz da" / "dokaz zašto".
+- la: ratio
+  hr: pojam
+  alternatives:
+  - razlog
+  - razum
+  - smisao
+  - argument
+  note: 'Highly polysemous: concept/notion (ratio boni = pojam dobra), reason (razlog),
+    the faculty (razum). Decide per context, never mechanically.'
+- la: secundum rationem
+  hr: po pojmu
+  alternatives:
+  - pojmovno
+  - u razumu
+  note: Opposed to secundum rem ("u stvarnosti"), e.g. bonum and ens differ only secundum
+    rationem (q.5 a.1).
+- la: relatio
+  hr: odnos
+  alternatives:
+  - relacija
+  note: 'q.13 a.7: real vs rational relation = "stvarni" / "misaoni odnos".'
+- la: quantitas
+  hr: kolikoća
+  alternatives:
+  - količina
+  - kvantiteta
+  note: Category of quantity; quantitas virtutis = "kolikoća snage".
+- la: qualitas
+  hr: kakvoća
+  alternatives:
+  - svojstvo
+  - kvaliteta
+  note: Category of quality.
+- la: participatio
+  hr: sudjelovanje
+  alternatives:
+  - udioništvo
+  - participacija
+  note: Per participationem = "po sudjelovanju"; participare = "imati udjela u".
+- la: similitudo
+  hr: sličnost
+  alternatives:
+  - slika
+  - prilika
+  note: Creature-God likeness (q.4 a.3); in q.12 also the cognitive likeness.
+- la: imago
+  hr: slika
+  alternatives: []
+  note: Gen 1:26 "ad imaginem" = "na sliku".
+- la: privatio
+  hr: lišenost
+  alternatives:
+  - oskudica
+  - privacija
+  note: Evil as privation (q.5 a.3 ad 2).
+- la: negatio / remotio
+  hr: nijekanje / odstranjivanje
+  alternatives:
+  - niječni put
+  note: Via remotionis (q.3 pr., q.13 a.1).
+- la: excessus / eminentia
+  hr: nadmašnost
+  alternatives:
+  - uzvišenost
+  - preuzvišenost
+  note: Per modum excessus = "na način nadmašnosti".
+- la: bonum
+  hr: dobro
+  alternatives: []
+  note: Noun; bonitas = "dobrota".
+- la: appetibile
+  hr: poželjno
+  alternatives:
+  - žudljivo
+  - ono za čim se teži
+  note: Bonum est quod omnia appetunt = "dobro je ono za čim sve teži".
+- la: appetitus / appetere
+  hr: težnja / težiti
+  alternatives:
+  - žudnja
+  - požuda
+  note: Natural tendency; avoid "požuda" (moral overtone).
+- la: malum
+  hr: zlo
+  alternatives: []
+  note: Standard.
+- la: infinitum
+  hr: beskonačno
+  alternatives:
+  - neograničeno
+  - neizmjerno
+  note: q.7; infinitum in actu = "zbiljski beskonačno"; finitum = "konačno".
+- la: ubique
+  hr: posvuda
+  alternatives:
+  - svugdje
+  note: q.8; esse in rebus = "biti u stvarima".
+- la: per praesentiam / per potentiam
+  hr: po prisutnosti / po moći
+  alternatives: []
+  note: q.8 a.3 triad with per essentiam.
+- la: locus
+  hr: mjesto
+  alternatives: []
+  note: Standard; repletio loci = "ispunjanje mjesta".
+- la: immutabilitas
+  hr: nepromjenljivost
+  alternatives:
+  - nepromjenjivost
+  note: q.9 title.
+- la: aeternitas
+  hr: vječnost
+  alternatives: []
+  note: 'Boethius'' definition (q.10 a.1): "interminabilis vitae tota simul et perfecta
+    possessio".'
+- la: aevum
+  hr: vijek
+  alternatives:
+  - vjekovitost
+  - evum
+  note: Measure of angels and incorruptibles (q.10 a.5); must stay distinct from aeternitas
+    (vječnost) and tempus (vrijeme). Aeviternus = "vjekovit".
+- la: tempus
+  hr: vrijeme
+  alternatives: []
+  note: Standard.
+- la: mensura
+  hr: mjera
+  alternatives:
+  - mjerilo
+  note: Very frequent in q.10; mensurari = "biti mjeren".
+- la: unum
+  hr: jedno
+  alternatives: []
+  note: Transcendental (q.11); unitas = "jedinstvo"; multitudo = "mnoštvo".
+- la: verum / veritas
+  hr: istinito / istina
+  alternatives: []
+  note: Transcendental; standard.
+- la: corpus / corporeus
+  hr: tijelo / tjelesan
+  alternatives: []
+  note: q.3 a.1 "Deus non est corpus"; incorporeus = "netjelesan".
+- la: anima
+  hr: duša
+  alternatives: []
+  note: Standard.
+- la: angelus
+  hr: anđeo
+  alternatives: []
+  note: Standard.
+- la: individuum
+  hr: pojedinac
+  alternatives:
+  - jedinka
+  - pojedinačno
+  note: Individuatio = "individuacija"; singulare = "pojedinačno".
+- la: universale
+  hr: opće
+  alternatives:
+  - univerzalno
+  note: Logical universal.
+- la: creatura
+  hr: stvor
+  alternatives:
+  - stvorenje
+  note: '"Stvor" is the theological standard; creator = "Stvoritelj".'
+- la: intellectus
+  hr: um
+  alternatives:
+  - intelekt
+  - razum
+  note: The faculty; keep separate from ratio (razum) where Thomas distinguishes them.
+- la: intelligere
+  hr: shvaćati
+  alternatives:
+  - umski spoznavati
+  - umijevati
+  - razumijevati
+  note: Act of the intellect; use "umski spoznavati" where it must be marked off from
+    sense knowledge.
+- la: intelligibilis / sensibilis
+  hr: umljiv / osjetan
+  alternatives:
+  - shvatljiv / osjetilan
+  note: Objects of intellect vs sense.
+- la: cognoscere / cognitio
+  hr: spoznavati / spoznaja
+  alternatives:
+  - upoznavati
+  - znanje
+  note: Generic term for knowing; scire (scientia) is stricter.
+- la: scientia
+  hr: znanost
+  alternatives:
+  - znanje
+  note: 'q.1 a.2: sacra doctrina as Aristotelian scientia; "znanje" only for non-technical
+    knowing.'
+- la: sacra doctrina
+  hr: sveti nauk
+  alternatives:
+  - sveta znanost
+  - sveta doktrina
+  note: q.1 title; doctrina = "nauk".
+- la: subiectum
+  hr: subjekt
+  alternatives:
+  - podmet
+  - nositelj
+  note: Both the subject of a science (q.1 a.7 "subiectum huius scientiae") and the
+    metaphysical subject of accidents; keep "subjekt" in both.
+- la: obiectum
+  hr: predmet
+  alternatives:
+  - objekt
+  note: Object of a power or habitus; keep distinct from subiectum ("subjekt").
+- la: revelatio / revelare
+  hr: objava / objaviti
+  alternatives: []
+  note: Standard.
+- la: fides
+  hr: vjera
+  alternatives: []
+  note: Articuli fidei = "članci vjere"; praeambula fidei = "predvorja vjere".
+- la: auctoritas
+  hr: autoritet
+  alternatives:
+  - mjerodavnost
+  - svjedočanstvo
+  note: Argument from authority (q.1 a.8); "locus ab auctoritate".
+- la: Scriptura (sacra)
+  hr: (Sveto) pismo
+  alternatives:
+  - Pismo
+  note: Capitalised; canonical books = "kanonske knjige".
+- la: sensus litteralis / historicus
+  hr: doslovni / povijesni smisao
+  alternatives: []
+  note: q.1 a.10.
+- la: sensus spiritualis
+  hr: duhovni smisao
+  alternatives: []
+  note: Divided into allegoricus, moralis, anagogicus.
+- la: allegoricus / moralis / anagogicus
+  hr: alegorijski / moralni / anagoški
+  alternatives:
+  - moralni = tropološki
+  note: q.1 a.10; keep transliterated forms.
+- la: visio (Dei)
+  hr: gledanje
+  alternatives:
+  - viđenje
+  - zrenje
+  note: Visio per essentiam = "gledanje (Boga) po biti"; avoid "vizija".
+- la: lumen gloriae
+  hr: svjetlo slave
+  alternatives:
+  - svjetlost slave
+  note: q.12 a.5; lumen naturale / gratiae = "naravno svjetlo" / "svjetlo milosti".
+- la: comprehendere / comprehensio
+  hr: obuhvatiti / obuhvaćanje
+  alternatives:
+  - potpuno spoznati
+  - dokučiti
+  note: 'q.12 a.7: knowing a thing as fully as it is knowable; never "razumjeti".'
+- la: beatitudo
+  hr: blaženstvo
+  alternatives: []
+  note: Standard.
+- la: gloria
+  hr: slava
+  alternatives: []
+  note: Standard.
+- la: gratia
+  hr: milost
+  alternatives: []
+  note: Standard.
+- la: phantasma
+  hr: maštovna slika
+  alternatives:
+  - fantazma
+  - predodžba
+  note: q.12 a.12-13; imaginatio = "mašta".
+- la: mens
+  hr: duh
+  alternatives:
+  - um
+  - pamet
+  note: Often in Scripture/Augustine quotations; check against intellectus = "um".
+- la: theologia
+  hr: teologija
+  alternatives:
+  - bogoslovlje
+  note: q.1 a.1 ad 2 contrasts theology as part of philosophy with sacra doctrina.
+- la: philosophia / philosophicae disciplinae
+  hr: filozofija / filozofske znanosti
+  alternatives: []
+  note: q.1 a.1.
+- la: Philosophus
+  hr: Filozof
+  alternatives: []
+  note: Refers to Aristotle; keep capitalised, no expansion.
+- la: conveniens / convenientia
+  hr: prikladno / prikladnost
+  alternatives:
+  - primjereno
+  - suglasnost
+  note: Fittingness arguments; in q.13 convenire = "pristajati".
