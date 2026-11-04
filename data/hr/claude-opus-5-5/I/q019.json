@@ -1,0 +1,642 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 19,
+  "units": {
+    "I.q19.pr": {
+      "text": "Nakon razmatranja onoga što pripada Božjem znanju, treba razmotriti ono što pripada Božjoj volji, tako da prvo razmatranje bude o samoj Božjoj volji; drugo, o onome što pripada volji apsolutno; treće, o onome što pripada umu s obzirom na volju. O samoj pak volji pita se dvanaest stvari. Prvo, ima li u Bogu volje. Drugo, hoće li Bog ono što je drugo od njega. Treće, hoće li Bog nužno sve što hoće. Četvrto, je li Božja volja uzrok stvari. Peto, može li se Božjoj volji odrediti neki uzrok. Šesto, ispunja li se Božja volja uvijek. Sedmo, je li Božja volja promjenljiva. Osmo, nameće li Božja volja nužnost stvarima koje hoće. Deveto, ima li u Bogu volje za zla. Deseto, ima li Bog slobodno odlučivanje. Jedanaesto, treba li u Bogu razlikovati volju znaka. Dvanaesto, postavlja li se prikladno pet znakova u vezi s Božjom voljom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u Bogu nema volje. Predmet je, naime, volje svrha i dobro. Ali Bogu se ne može odrediti nikakva svrha. Dakle, volja nije u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a1.obj2": {
+      "text": "Osim toga, volja je neka težnja. A težnja, budući da je usmjerena na stvar koja se nema, označuje nesavršenost, koja ne pristaje Bogu. Dakle, volja nije u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a1.obj3": {
+      "text": "Osim toga, prema Filozofu, u III. knjizi O duši, volja je pokretač koji je i sam pokretan. Ali Bog je prvi nepokretni pokretač, kako se dokazuje u VIII. knjizi Fizike. Dakle, u Bogu nema volje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol, Rim 12: *da raspoznate što je volja Božja*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a1.resp": {
+      "text": "Odgovaram: treba reći da u Bogu ima volje, kao što u njemu ima i uma; volja, naime, slijedi um. Jer kao što naravna stvar ima bitak u činu po svojoj formi, tako i um shvaća u činu po svojoj umljivoj formi. A svaka stvar prema svojoj naravnoj formi ima takav odnošaj da, kad je nema, teži prema njoj, a kad je ima, počiva u njoj. Isto vrijedi i za svaku naravnu savršenost, koja je dobro naravi. I taj se odnošaj prema dobru u stvarima koje nemaju spoznaje naziva naravnom težnjom. Stoga i umna narav ima sličan odnošaj prema dobru zahvaćenom po umljivoj formi: naime, kad ga ima, počiva u njemu, a kad ga nema, traži ga. I jedno i drugo pripada volji. Stoga u svemu što ima um ima volje, kao što u svemu što ima osjetilo ima životinjske težnje. I tako u Bogu mora biti volje, budući da je u njemu um. I kao što je njegovo shvaćanje njegov bitak, tako je i njegovo htijenje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda ništa drugo od Boga nije Božja svrha, ipak je on sam svrha s obzirom na sve što od njega nastaje. I to po svojoj biti, budući da je po svojoj biti dobar, kako je gore pokazano; svrha, naime, ima pojam dobra.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a1.ad2": {
+      "text": "Na drugo treba reći da volja u nama pripada težbenom dijelu, koji, premda je nazvan po težnji, nema samo taj čin da teži za onim što nema, nego i da ljubi ono što ima i da se u tome naslađuje. I u tom se pogledu volja postavlja u Bogu; ona uvijek ima dobro koje je njezin predmet, budući da se ono od nje ne razlikuje po biti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a1.ad3": {
+      "text": "Na treće treba reći da volja kojoj je glavni predmet dobro koje je izvan volje mora biti od nečega pokrenuta. Ali predmet Božje volje jest njegova dobrota, koja je njegova bit. Stoga, budući da je Božja volja njegova bit, ona nije pokretana od nečega drugoga osim sebe, nego samo od sebe, onim načinom govora kojim se shvaćanje i htijenje nazivaju gibanjem. I u tom je smislu Platon rekao da prvi pokretač pokreće sam sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Bog ne hoće ono što je drugo od njega. Božje je, naime, htijenje njegov bitak. Ali Bog nije nešto drugo od sebe. Dakle, ne hoće nešto drugo od sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a2.obj2": {
+      "text": "Osim toga, htjeno pokreće volju kao što poželjno pokreće težnju, kako se kaže u III. knjizi O duši. Ako, dakle, Bog hoće nešto drugo od sebe, njegova će volja biti pokretana od nečega drugoga, što je nemoguće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a2.obj3": {
+      "text": "Osim toga, kojoj je god volji dovoljno neko htjeno, ona ne traži ništa izvan toga. Ali Bogu je dovoljna njegova dobrota, i njegova se volja njome zasićuje. Dakle, Bog ne hoće nešto drugo od sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a2.obj4": {
+      "text": "Osim toga, čin volje umnaža se prema htjenim stvarima. Ako, dakle, Bog hoće sebe i ono što je drugo od njega, slijedi da je čin njegove volje mnogostruk, a posljedično i njegov bitak, koji je njegovo htijenje. A to je nemoguće. Dakle, ne hoće ono što je drugo od njega.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol, 1 Sol 4: *ovo je volja Božja, vaše posvećenje*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a2.resp": {
+      "text": "Odgovaram: treba reći da Bog ne hoće samo sebe, nego i ono što je drugo od njega. To se vidi iz usporedbe koja je prije uvedena. Naravna stvar, naime, nema naravnu sklonost samo s obzirom na vlastito dobro, da ga stekne kad ga nema ili da u njemu počiva kad ga ima, nego i da vlastito dobro razlije na druge, koliko je moguće. Stoga vidimo da svaki djelatnik, ukoliko je u činu i savršen, čini sebi slično. Stoga i to pripada pojmu volje: da dobro koje tko ima priopćuje drugima, koliko je moguće. A to osobito pripada Božjoj volji, od koje, po nekoj sličnosti, potječe svaka savršenost. Stoga, ako naravne stvari, ukoliko su savršene, priopćuju svoje dobro drugima, mnogo više pripada Božjoj volji da svoje dobro po sličnosti priopćuje drugima, koliko je moguće. Tako, dakle, hoće i da on sam bude i da bude drugo. Ali sebe hoće kao svrhu, a drugo kao ono što je usmjereno prema svrsi, ukoliko dolikuje Božjoj dobroti da i drugo ima udjela u njoj.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda je Božje htijenje u stvarnosti njegov bitak, ipak se od njega razlikuje po pojmu, prema različitom načinu shvaćanja i označivanja, kako je jasno iz prethodnoga. Kad, naime, kažem da Bog jest, ne uključuje se odnošaj prema nečemu, kao kad kažem da Bog hoće. I zato, premda nije nešto drugo od sebe, ipak hoće nešto drugo od sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a2.ad2": {
+      "text": "Na drugo treba reći da kod onoga što hoćemo radi svrhe cijeli razlog pokretanja jest svrha, i to je ono što pokreće volju. A to se najviše vidi kod onoga što hoćemo samo radi svrhe. Tko, naime, hoće uzeti gorak napitak, ne hoće u njemu ništa osim zdravlja, i samo to pokreće njegovu volju. Drukčije je kod onoga koji uzima sladak napitak, koji netko može htjeti ne samo radi zdravlja nego i radi njega samoga. Stoga, budući da Bog ono što je drugo od njega ne hoće osim radi svrhe, koja je njegova dobrota, kako je rečeno, ne slijedi da išta drugo pokreće njegovu volju osim njegove dobrote. I tako, kao što ono što je drugo od njega shvaća shvaćajući svoju bit, tako ono što je drugo od njega hoće hoteći svoju dobrotu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a2.ad3": {
+      "text": "Na treće treba reći da iz toga što je Božjoj volji dovoljna njezina dobrota ne slijedi da ne hoće ništa drugo, nego da ništa drugo ne hoće osim radi svoje dobrote. Kao što i Božji um, premda je savršen upravo time što spoznaje Božju bit, ipak u njoj spoznaje drugo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a2.ad4": {
+      "text": "Na četvrto treba reći da, kao što je Božje shvaćanje jedno, jer mnogo toga ne vidi osim u jednome, tako je Božje htijenje jedno i jednostavno, jer mnogo toga ne hoće osim po jednome, a to je njegova dobrota.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da sve što Bog hoće, hoće nužno. Sve je, naime, vječno nužno. Ali sve što Bog hoće, hoće od vječnosti; inače bi njegova volja bila promjenljiva. Dakle, sve što hoće, hoće nužno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.obj2": {
+      "text": "Osim toga, Bog hoće ono što je drugo od njega ukoliko hoće svoju dobrotu. Ali Bog svoju dobrotu hoće nužno. Dakle, i ono što je drugo od njega hoće nužno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.obj3": {
+      "text": "Osim toga, sve što je Bogu naravno, nužno je, jer Bog po sebi nužno jest i počelo je svake nužnosti, kako je gore pokazano. Ali naravno mu je htjeti sve što hoće, jer u Bogu ništa ne može biti mimo naravi, kako se kaže u V. knjizi Metafizike. Dakle, sve što hoće, hoće nužno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.obj4": {
+      "text": "Osim toga, „nije nužno da bude” i „moguće je da ne bude” istovrijedni su. Ako, dakle, nije nužno da Bog hoće nešto od onoga što hoće, moguće je da on to ne hoće; i moguće je da hoće ono što ne hoće. Dakle, Božja je volja kontingentna prema jednome i drugome. I tako je nesavršena, jer je sve kontingentno nesavršeno i promjenljivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.obj5": {
+      "text": "Osim toga, iz onoga što je neodređeno prema jednome i drugome ne slijedi nikakva radnja ako ga nešto drugo ne nagne prema jednome, kako kaže Komentator u II. knjizi Fizike. Ako se, dakle, Božja volja u nekim stvarima odnosi neodređeno prema jednome i drugome, slijedi da je nešto drugo određuje prema učinku. I tako ima neki prethodni uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.obj6": {
+      "text": "Osim toga, sve što Bog zna, zna nužno. Ali kao što je Božje znanje njegova bit, tako je i Božja volja. Dakle, sve što Bog hoće, hoće nužno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol, Ef 1: *koji sve čini prema naumu svoje volje*. A ono što činimo iz nauma volje, ne hoćemo nužno. Dakle, Bog ne hoće nužno sve što hoće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.resp": {
+      "text": "Odgovaram: treba reći da se nešto naziva nužnim na dva načina: naime, apsolutno i pod pretpostavkom. Apsolutno nužnim prosuđuje se nešto iz odnošaja termina, na primjer zato što je pririk u definiciji subjekta, kao što je nužno da je čovjek životinja; ili zato što subjekt pripada pojmu pririka, kao što je nužno da je broj paran ili neparan. Ali na taj način nije nužno da Sokrat sjedi. Stoga to nije apsolutno nužno, ali se može nazvati nužnim pod pretpostavkom: uz pretpostavku, naime, da sjedi, nužno je da sjedi dok sjedi. U pogledu, dakle, onoga što Bog hoće, treba razmotriti ovo: apsolutno je nužno da Bog nešto hoće, ali to ne vrijedi za sve što hoće. Božja volja, naime, ima nužan odnošaj prema njegovoj dobroti, koja je njezin vlastiti predmet. Stoga Bog nužno hoće da njegova dobrota bude, kao što i naša volja nužno hoće blaženstvo. Kao što i svaka druga moć ima nužan odnošaj prema vlastitom i glavnom predmetu, kao vid prema boji, jer pripada njezinu pojmu da teži prema njemu. Ono pak što je drugo od njega Bog hoće ukoliko je usmjereno prema njegovoj dobroti kao prema svrsi. A ono što je usmjereno prema svrsi ne hoćemo nužno kad hoćemo svrhu, osim ako je takvo da bez njega svrha ne može biti: kao što hoćemo hranu kad hoćemo održanje života, i lađu kad hoćemo prijeći more. Ali ne hoćemo tako nužno ono bez čega svrha može biti, kao konja za putovanje, jer bez njega možemo ići; i isti je razlog i u drugim stvarima. Stoga, budući da je Božja dobrota savršena i može biti bez drugoga, jer joj od drugoga ne pridolazi nikakva savršenost, slijedi da nije apsolutno nužno da on hoće ono što je drugo od njega. Pa ipak je to nužno pod pretpostavkom: uz pretpostavku, naime, da hoće, ne može ne htjeti, jer se njegova volja ne može promijeniti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da iz toga što Bog nešto hoće od vječnosti ne slijedi da je nužno da on to hoće, osim pod pretpostavkom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.ad2": {
+      "text": "Na drugo treba reći da, premda Bog nužno hoće svoju dobrotu, ipak ne hoće nužno ono što hoće radi svoje dobrote, jer njegova dobrota može biti bez drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.ad3": {
+      "text": "Na treće treba reći da Bogu nije naravno htjeti nešto od onoga drugoga što ne hoće nužno. Ali to nije ni nenaravno ni protiv naravi, nego je voljno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.ad4": {
+      "text": "Na četvrto treba reći da katkad neki nužni uzrok ima nenužan odnošaj prema nekom učinku, a to je zbog nedostatka učinka, a ne zbog nedostatka uzroka. Kao što snaga sunca ima nenužan odnošaj prema nečemu od onoga što se ovdje događa kontingentno, ne zbog nedostatka sunčeve snage, nego zbog nedostatka učinka koji ne proizlazi nužno iz uzroka. I slično, to što Bog ne hoće nužno nešto od onoga što hoće ne događa se zbog nedostatka Božje volje, nego zbog nedostatka koji pripada htjenome po njegovu pojmu: naime, zato što je takvo da bez njega može biti savršena Božja dobrota. A taj nedostatak prati svako stvoreno dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.ad5": {
+      "text": "Na peto, dakle, treba reći da uzrok koji je sam po sebi kontingentan mora biti određen od nečega izvanjskoga prema učinku. Ali Božja volja, koja sama po sebi ima nužnost, određuje samu sebe prema htjenome, prema kojemu ima nenužan odnošaj.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a3.ad6": {
+      "text": "Na šesto treba reći da, kao što je Božji bitak sam po sebi nužan, tako su i Božje htijenje i Božje znanje; ali Božje znanje ima nužan odnošaj prema znanim stvarima, a Božje htijenje prema htjenim stvarima nema. A to je zato što se znanje ima o stvarima prema tome kako su u onome koji zna, dok se volja odnosi prema stvarima prema tome kako su u sebi samima. Budući, dakle, da sve drugo ima nužan bitak prema tome kako je u Bogu, a prema tome kako je u sebi samome nema apsolutne nužnosti tako da bi bilo nužno po sebi samome, zbog toga Bog sve što zna, zna nužno, ali sve što hoće, ne hoće nužno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da Božja volja nije uzrok stvari. Dionizije, naime, kaže u IV. poglavlju O Božjim imenima: *kao što naše sunce, ne rasuđujući niti unaprijed birajući, nego samim svojim bitkom obasjava sve što može imati udjela u njegovu svjetlu, tako i Božje dobro samom svojom biti šalje svemu što postoji zrake svoje dobrote*. Ali sve što djeluje po volji djeluje kao onaj koji rasuđuje i unaprijed bira. Dakle, Bog ne djeluje po volji. Dakle, Božja volja nije uzrok stvari.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a4.obj2": {
+      "text": "Osim toga, ono što jest po biti prvo je u svakom redu, kao što je u redu užarenih stvari prvo ono što je vatra po biti. Ali Bog je prvi djelatnik. Dakle, on je djelatnik po svojoj biti, koja je njegova narav. Djeluje, dakle, po naravi, a ne po volji. Prema tome, Božja volja nije uzrok stvari.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a4.obj3": {
+      "text": "Osim toga, sve što je uzrok nečega time što je takvo, uzrok je po naravi, a ne po volji: vatra je, naime, uzrok grijanja zato što je topla, a graditelj je uzrok kuće zato što je hoće napraviti. Ali Augustin kaže u I. knjizi O kršćanskom nauku: *zato što je Bog dobar, mi jesmo*. Dakle, Bog je uzrok stvari po svojoj naravi, a ne po volji.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a4.obj4": {
+      "text": "Osim toga, jedna stvar ima jedan uzrok. Ali uzrok je stvorenih stvari Božje znanje, kako je gore rečeno. Dakle, Božju volju ne treba postavljati kao uzrok stvari.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mudr 11: *kako bi išta moglo opstati da ti nisi htio?*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a4.resp": {
+      "text": "Odgovaram: treba reći da je nužno reći da je Božja volja uzrok stvari i da Bog djeluje po volji, a ne po nužnosti naravi, kako su neki mislili. To se može pokazati na tri načina. Prvo, iz samoga reda djelatnih uzroka. Budući, naime, da i um i narav djeluju radi svrhe, kako se dokazuje u II. knjizi Fizike, nužno je da djelatniku po naravi neki viši um unaprijed odredi svrhu i sredstva nužna za svrhu, kao što strijelac strijeli unaprijed određuje svrhu i točno određen način. Stoga je nužno da djelatnik po umu i volji bude prije djelatnika po naravi. Stoga, budući da je Bog prvi u redu djelatnikâ, nužno je da djeluje po umu i volji. Drugo, iz pojma naravnoga djelatnika, kojemu pripada da proizvodi jedan učinak, jer narav djeluje na jedan te isti način ako nije spriječena. A to je zato što djeluje prema tome kakva jest; stoga, dok god je takva, ne čini drugo nego takvo. Svaki, naime, djelatnik po naravi ima određen bitak. Budući, dakle, da Božji bitak nije određen, nego u sebi sadrži svu savršenost bitka, ne može biti da djeluje po nužnosti naravi, osim ako bi možda uzrokovao nešto neodređeno i beskonačno u bitku; a to je nemoguće, kako je jasno iz prethodnoga. Dakle, ne djeluje po nužnosti naravi, nego određeni učinci proizlaze iz njegove beskonačne savršenosti prema odredbi njegove volje i uma. Treće, iz odnošaja učinaka prema uzroku. Učinci, naime, proizlaze iz djelatnoga uzroka utoliko ukoliko u njemu unaprijed postoje, jer svaki djelatnik djeluje sebi slično. A učinci unaprijed postoje u uzroku na način uzroka. Stoga, budući da je Božji bitak samo njegovo shvaćanje, njegovi učinci unaprijed postoje u njemu na umljiv način. Stoga i proizlaze iz njega na umljiv način. I tako, posljedično, na način volje, jer njegova sklonost da učini ono što je umom zamišljeno pripada volji. Božja je, dakle, volja uzrok stvari.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Dionizije tim riječima ne namjerava isključiti izbor iz Boga naprosto, nego u nekom pogledu, naime ukoliko svoju dobrotu ne priopćuje samo nekima, nego svima, ukoliko, naime, izbor uključuje neko razlučivanje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a4.ad2": {
+      "text": "Na drugo treba reći da, budući da je Božja bit njegovo shvaćanje i htijenje, iz same činjenice da djeluje po svojoj biti slijedi da djeluje na način uma i volje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a4.ad3": {
+      "text": "Na treće treba reći da je dobro predmet volje. Utoliko se, dakle, kaže „zato što je Bog dobar, mi jesmo” ukoliko je njegova dobrota njemu razlog htijenja svega drugoga, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a4.ad4": {
+      "text": "Na četvrto treba reći da je jednomu te istomu učinku, i u nama, uzrok znanje kao ono koje upravlja, kojim se zamišlja forma djela, i volja kao ona koja zapovijeda, jer forma, ukoliko je samo u umu, nije određena da bude ili ne bude u zbilji osim po volji. Stoga spekulativni um ne kaže ništa o djelovanju. A moć je uzrok kao ona koja izvršava, jer imenuje neposredno počelo djelovanja. Ali sve je to u Bogu jedno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se Božjoj volji može odrediti neki uzrok. Augustin, naime, kaže u knjizi Osamdeset i tri pitanja: *tko bi se usudio reći da je Bog sve stvorio nerazumno?* Ali voljnom djelatniku ono što je razlog djelovanja ujedno je i uzrok htijenja. Dakle, Božja volja ima neki uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a5.obj2": {
+      "text": "Osim toga, kod onoga što čini onaj koji hoće, a koji nešto hoće ni zbog kakva uzroka, ne treba određivati drugi uzrok osim volje onoga koji hoće. Ali Božja je volja uzrok svih stvari, kako je pokazano. Ako, dakle, njegova volja nema nikakva uzroka, ni u jednoj naravnoj stvari neće trebati tražiti drugi uzrok osim same Božje volje. I tako bi bile suvišne sve znanosti koje nastoje odrediti uzroke nekih učinaka, što se čini neprikladnim. Dakle, Božjoj se volji može odrediti neki uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a5.obj3": {
+      "text": "Osim toga, ono što čini onaj koji hoće, a ne zbog kakva uzroka, ovisi o njegovoj pukoj volji. Ako, dakle, Božja volja nema nikakva uzroka, slijedi da sve što nastaje ovisi o njegovoj pukoj volji i nema nikakva drugog uzroka. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Osamdeset i tri pitanja: *svaki je tvorni uzrok veći od onoga što se tvori; ništa pak nije veće od Božje volje; dakle, ne treba tražiti njezin uzrok*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a5.resp": {
+      "text": "Odgovaram: treba reći da Božja volja ni na koji način nema uzroka. Da bi to bilo jasno, treba razmotriti da, budući da volja slijedi um, na isti način biva da nešto bude uzrok onomu koji hoće da hoće i onomu koji shvaća da shvaća. U umu je pak ovako: ako odvojeno shvaća načelo i odvojeno zaključak, shvaćanje načela uzrok je znanja zaključka. Ali kad bi um u samom načelu promatrao zaključak, zahvaćajući oboje jednim pogledom, u njemu znanje zaključka ne bi bilo uzrokovano uvidom u načela, jer ista stvar nije uzrok same sebe. Ali ipak bi shvaćao da su načela uzroci zaključka. Slično je i sa strane volje, kod koje se svrha odnosi prema onome što je usmjereno prema svrsi kao u umu načela prema zaključcima. Stoga, ako netko jednim činom hoće svrhu, a drugim činom ono što je usmjereno prema svrsi, htijenje svrhe bit će mu uzrok htijenja onoga što je usmjereno prema svrsi. Ali ako jednim činom hoće svrhu i ono što je usmjereno prema svrsi, to ne bi moglo biti, jer ista stvar nije uzrok same sebe. Pa ipak će biti istinito reći da hoće usmjeriti prema svrsi ono što je usmjereno prema svrsi. A Bog, kao što jednim činom shvaća sve u svojoj biti, tako jednim činom hoće sve u svojoj dobroti. Stoga, kao što u Bogu shvaćanje uzroka nije uzrok shvaćanja učinaka, nego on shvaća učinke u uzroku, tako ni htijenje svrhe nije njemu uzrok htijenja onoga što je usmjereno prema svrsi, ali ipak hoće da ono što je usmjereno prema svrsi bude usmjereno prema svrsi. Hoće, dakle, da ovo bude radi ovoga, ali ne hoće ovo radi ovoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Božja volja razumna, ne zato što bi Bogu nešto bilo uzrok htijenja, nego ukoliko hoće da jedno bude radi drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a5.ad2": {
+      "text": "Na drugo treba reći da, budući da Bog hoće da učinci budu takvi da proizlaze iz određenih uzroka, kako bi se u stvarima očuvao red, nije suvišno, i uz Božju volju, tražiti druge uzroke. Bilo bi ipak suvišno kad bi se drugi uzroci tražili kao prvi i kao neovisni o Božjoj volji. I u tom smislu govori Augustin u III. knjizi O Trojstvu: *svidjelo se ispraznosti filozofa pripisivati kontingentne učinke i drugim uzrocima, jer nikako nisu mogli vidjeti uzrok viši od svih drugih, to jest Božju volju*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a5.ad3": {
+      "text": "Na treće treba reći da, budući da Bog hoće da učinci budu radi uzroka, svi učinci koji pretpostavljaju neki drugi učinak ne ovise samo o Božjoj volji, nego i o nečem drugom. Ali prvi učinci ovise samo o Božjoj volji. Na primjer, ako kažemo da je Bog htio da čovjek ima ruke da bi služile umu izvodeći različita djela; i htio je da ima um da bi bio čovjek; i htio je da bude čovjek da bi uživao u njemu, ili radi dovršenja svemira. A to se ne može svesti na druge, daljnje stvorene svrhe. Stoga takve stvari ovise o pukoj Božjoj volji, a druge i o redu drugih uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se Božja volja ne ispunja uvijek. Apostol, naime, kaže u 1 Tim 2: *Bog hoće da se svi ljudi spase i dođu do spoznaje istine*. Ali to se tako ne događa. Dakle, Božja se volja ne ispunja uvijek.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a6.obj2": {
+      "text": "Osim toga, kao što se znanje odnosi prema istinitom, tako se volja odnosi prema dobru. Ali Bog zna sve istinito. Dakle, hoće svako dobro. Ali ne nastaje svako dobro, jer mnoga dobra mogu nastati koja ne nastaju. Dakle, Božja se volja ne ispunja uvijek.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a6.obj3": {
+      "text": "Osim toga, Božja volja, budući da je prvi uzrok, ne isključuje posredne uzroke, kako je rečeno. Ali učinak prvoga uzroka može biti spriječen nedostatkom drugotnoga uzroka, kao što je učinak pokretačke snage spriječen zbog slabosti noge. Dakle, i učinak Božje volje može biti spriječen zbog nedostatka drugotnih uzroka. Dakle, Božja se volja ne ispunja uvijek.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 113: *sve što je god Bog htio, učinio je*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a6.resp": {
+      "text": "Odgovaram: treba reći da se Božja volja nužno uvijek ispunja. Da bi to bilo jasno, treba razmotriti da, budući da se učinak suobličuje djelatniku po svojoj formi, isti je razlog kod djelatnih uzroka kao i kod formalnih uzroka. A kod formi je ovako: premda nešto može izostati od neke posebne forme, ipak od opće forme ništa ne može izostati; može, naime, biti nešto što nije čovjek ili živo, ali ne može biti nešto što ne bi bilo biće. Stoga se to isto mora događati i kod djelatnih uzroka. Nešto, naime, može nastati izvan reda nekog posebnog djelatnog uzroka, ali ne izvan reda općega uzroka, pod kojim su obuhvaćeni svi posebni uzroci. Jer ako neki posebni uzrok izostane od svojega učinka, to je zbog nekog drugog posebnog uzroka koji ga priječi, a koji je sadržan pod redom općega uzroka; stoga učinak ni na koji način ne može izaći iz reda općega uzroka. A to je jasno i kod tjelesnih stvari. Može, naime, biti spriječeno da neka zvijezda proizvede svoj učinak; ali ipak, koji god učinak slijedio u tjelesnim stvarima od tjelesnog uzroka koji priječi, on se mora preko nekih posrednih uzroka svesti na opću snagu prvoga neba. Budući, dakle, da je Božja volja opći uzrok svih stvari, nemoguće je da Božja volja ne postigne svoj učinak. Stoga ono što se čini da odstupa od Božje volje prema jednom redu, ponovno upada u nju prema drugom redu: kao grešnik, koji, koliko je do njega, griješeći odstupa od Božje volje, upada u red Božje volje kad biva kažnjen po njezinoj pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ona Apostolova riječ da Bog hoće da se svi ljudi spase itd. može shvatiti na tri načina. Na jedan način, tako da bude riječ o prilagođenoj razdiobi, prema ovom smislu: Bog hoće da se spase svi ljudi koji se spašavaju; ne zato što ne bi bilo nijednoga čovjeka za kojega ne bi htio da se spasi, nego zato što se ne spašava nitko za kojega on ne bi htio da se spasi, kako kaže Augustin. Drugo, može se shvatiti tako da se razdioba odnosi na rodove pojedinaca, a ne na pojedince rodova, prema ovom smislu: Bog hoće da se spase ljudi iz svakoga staleža, muškarci i žene, Židovi i pogani, mali i veliki; ali ipak ne svi iz pojedinih staleža. Treće, prema Damascenu, shvaća se o prethodnoj volji, a ne o posljedičnoj volji. Ta se razlika, doduše, ne uzima sa strane same Božje volje, u kojoj ništa nije prije ili kasnije, nego sa strane htjenih stvari. Da bi se to shvatilo, treba razmotriti da je svaka stvar htjena od Boga utoliko ukoliko je dobra. A nešto može u svojem prvom razmatranju, ukoliko se razmatra apsolutno, biti dobro ili zlo, a ipak se, kad se razmatra zajedno s nečim pridodanim, što je posljedično razmatranje o njemu, odnositi suprotno. Kao što je, prema apsolutnom razmatranju, dobro da čovjek živi, a zlo da čovjek bude ubijen; ali ako se za nekoga čovjeka doda da je ubojica ili da živi na pogibelj zajednice, tada je dobro da bude ubijen, a zlo da živi. Stoga se može reći da pravedni sudac prethodno hoće da svaki čovjek živi, ali posljedično hoće da ubojica bude obješen. Slično Bog prethodno hoće da se svaki čovjek spasi, ali posljedično hoće da neki budu osuđeni, prema zahtjevu svoje pravednosti. Ali ono što hoćemo prethodno, ne hoćemo naprosto, nego u nekom pogledu. Jer volja se odnosi prema stvarima prema tome kako su u sebi samima, a u sebi samima one su u pojedinačnom; stoga nešto hoćemo naprosto utoliko ukoliko to hoćemo uzevši u obzir sve pojedinačne okolnosti, a to je htjeti posljedično. Stoga se može reći da pravedni sudac naprosto hoće da ubojica bude obješen, ali bi u nekom pogledu htio da živi, naime ukoliko je čovjek. Stoga se to prije može nazvati pukom željom nego apsolutnom voljom. I tako je jasno da sve što Bog naprosto hoće, biva, premda ono što hoće prethodno ne biva.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a6.ad2": {
+      "text": "Na drugo treba reći da je čin spoznajne snage prema tome kako je spoznato u onome koji spoznaje, a čin težbene snage usmjeren je prema stvarima prema tome kako su u sebi samima. A sve što može imati pojam bića i istinitoga, sve je to virtualno u Bogu; ali ne postoji sve to u stvorenim stvarima. I zato Bog spoznaje sve istinito, ali ne hoće svako dobro, osim ukoliko hoće sebe, u kojemu virtualno postoji svako dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a6.ad3": {
+      "text": "Na treće treba reći da prvi uzrok može biti spriječen u svojem učinku nedostatkom drugotnoga uzroka onda kad nije općenito prvi, obuhvaćajući pod sobom sve uzroke; jer da je takav, učinak ni na koji način ne bi mogao izbjeći njegovu redu. A tako je s Božjom voljom, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da je Božja volja promjenljiva. Gospodin, naime, kaže u Post 6: *kajem se što sam stvorio čovjeka*. Ali tko god se kaje zbog onoga što je učinio, ima promjenljivu volju. Dakle, Bog ima promjenljivu volju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a7.obj2": {
+      "text": "Osim toga, u Jer 18 govori se u ime Gospodnje: *govorit ću protiv naroda i protiv kraljevstva, da ga iskorijenim, razorim i uništim; ali ako se taj narod pokaje za svoje zlo, pokajat ću se i ja za zlo koje sam namislio da mu učinim*. Dakle, Bog ima promjenljivu volju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a7.obj3": {
+      "text": "Osim toga, sve što Bog čini, čini voljno. Ali Bog ne čini uvijek isto: katkad je, naime, zapovjedio da se obdržavaju propisi Zakona, a katkad je to zabranio. Dakle, ima promjenljivu volju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a7.obj4": {
+      "text": "Osim toga, Bog ne hoće nužno ono što hoće, kako je gore rečeno. Dakle, može isto i htjeti i ne htjeti. Ali sve što ima mogućnost za suprotnosti promjenljivo je: kao što je ono što može biti i ne biti promjenljivo po supstanciji, a ono što može biti ovdje i ne biti ovdje promjenljivo po mjestu. Dakle, Bog je promjenljiv po volji.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Br 23: *Bog nije kao čovjek da bi lagao, ni kao sin čovječji da bi se mijenjao*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a7.resp": {
+      "text": "Odgovaram: treba reći da je Božja volja posve nepromjenljiva. Ali u vezi s tim treba razmotriti da je jedno mijenjati volju, a drugo htjeti promjenu nekih stvari. Netko, naime, može, dok ista volja nepokretno ostaje, htjeti da sada bude ovo, a poslije da bude suprotno. Ali tada bi se volja promijenila kad bi netko počeo htjeti ono što prije nije htio ili prestao htjeti ono što je htio. A to se ne može dogoditi osim ako se pretpostavi promjena bilo sa strane spoznaje, bilo u raspoloživosti supstancije samoga onoga koji hoće. Budući, naime, da je volja usmjerena na dobro, netko na dva načina može iznova početi nešto htjeti. Na jedan način tako da mu to iznova počne biti dobro. A to nije bez njegove promjene: kao što, kad nastupi hladnoća, počne biti dobro sjediti uz vatru, što prije nije bilo. Na drugi način tako da iznova spozna da mu je to dobro, premda to prije nije znao; zato se, naime, savjetujemo da bismo znali što nam je dobro. A gore je pokazano da su i Božja supstancija i njegovo znanje posve nepromjenljivi. Stoga je nužno da je njegova volja posve nepromjenljiva.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da tu Gospodinovu riječ treba shvatiti preneseno, prema sličnosti s nama: kad se, naime, kajemo, razaramo ono što smo učinili. Premda to može biti i bez promjene volje, budući da i neki čovjek, bez promjene volje, katkad hoće nešto učiniti, ujedno namjeravajući to poslije razoriti. Tako se, dakle, kaže da se Bog pokajao, prema sličnosti djelovanja, ukoliko je čovjeka kojega je stvorio potopom izbrisao s lica zemlje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a7.ad2": {
+      "text": "Na drugo treba reći da Božja volja, budući da je prvi i opći uzrok, ne isključuje posredne uzroke, u čijoj je snazi da se proizvode neki učinci. Ali budući da svi posredni uzroci ne dosežu snagu prvoga uzroka, mnogo je toga u Božjoj snazi, znanju i volji što nije sadržano pod redom nižih uzroka, kao uskrišenje Lazarovo. Stoga je netko, gledajući na niže uzroke, mogao reći: Lazar neće uskrsnuti; a gledajući na prvi, Božji uzrok, mogao je reći: Lazar će uskrsnuti. I jedno i drugo od toga Bog hoće: naime, da nešto katkad bude buduće prema nižem uzroku, što ipak neće biti buduće prema višem uzroku; ili obratno. Tako, dakle, treba reći da Bog katkad navješćuje da će nešto biti, prema tome kako je to sadržano u redu nižih uzroka, na primjer prema raspoloživosti naravi ili zasluga, a to se ipak ne događa, jer je drukčije u višem, Božjem uzroku. Kao kad je navijestio Ezekiji: *uredi svoju kuću, jer ćeš umrijeti i nećeš živjeti*, kako stoji u Iz 38; ali ipak se nije tako dogodilo, jer je od vječnosti drukčije bilo u Božjem znanju i volji, koja je nepromjenljiva. Zbog toga Grgur kaže da *Bog preinačuje presudu, ali ne mijenja naum*, naime naum svoje volje. Ono, dakle, što kaže: pokajat ću se i ja, shvaća se kao rečeno preneseno; jer za ljude se, kad ne izvrše ono čime su zaprijetili, čini da se kaju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a7.ad3": {
+      "text": "Na treće treba reći da se iz toga razloga ne može zaključiti da Bog ima promjenljivu volju, nego da hoće promjenu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a7.ad4": {
+      "text": "Na četvrto treba reći da, premda nije apsolutno nužno da Bog nešto hoće, ipak je to nužno pod pretpostavkom, zbog nepromjenljivosti Božje volje, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da Božja volja stvarima koje hoće nameće nužnost. Augustin, naime, kaže u Enhiridiju: *nitko se ne spašava osim onoga za kojega Bog bude htio da se spasi. I zato ga treba moliti da htjedne, jer nužno je da se dogodi ako bude htio*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a8.obj2": {
+      "text": "Osim toga, svaki uzrok koji ne može biti spriječen nužno proizvodi svoj učinak, jer i narav uvijek čini isto ako je nešto ne priječi, kako se kaže u II. knjizi Fizike. Ali Božja volja ne može biti spriječena; Apostol, naime, kaže u Rim 9: *jer tko se opire njegovoj volji?* Dakle, Božja volja nameće nužnost stvarima koje hoće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a8.obj3": {
+      "text": "Osim toga, ono što ima nužnost od nečega prethodnoga apsolutno je nužno: kao što je nužno da životinja umre, jer je sastavljena od suprotnosti. Ali stvari koje je Bog stvorio odnose se prema Božjoj volji kao prema nečemu prethodnom, od čega imaju nužnost, budući da je istinita ova pogodbena izjava: ako Bog nešto hoće, to jest; a svaka istinita pogodbena izjava nužna je. Slijedi, dakle, da je sve što Bog hoće apsolutno nužno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a8.sc": {
+      "text": "Ali protiv toga: sva dobra koja nastaju Bog hoće da nastanu. Ako, dakle, njegova volja nameće nužnost stvarima koje hoće, slijedi da se sva dobra događaju nužno. I tako propada slobodno odlučivanje i promišljanje i sve takvo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a8.resp": {
+      "text": "Odgovaram: treba reći da Božja volja nameće nužnost nekim stvarima koje hoće, ali ne svima. Razlog toga neki su htjeli odrediti iz posrednih uzroka: da je ono što proizvodi po nužnim uzrocima nužno, a ono što proizvodi po kontingentnim uzrocima kontingentno. Ali to se ne čini dovoljno rečeno, iz dvaju razloga. Prvo, zato što je učinak nekog prvog uzroka kontingentan zbog drugotnog uzroka po tome što je učinak prvoga uzroka spriječen nedostatkom drugotnoga uzroka, kao što je snaga sunca spriječena nedostatkom biljke. A nikakav nedostatak drugotnoga uzroka ne može spriječiti da Božja volja proizvede svoj učinak. Drugo, zato što bi, ako bi se razlikovanje kontingentnih stvari od nužnih svodilo samo na drugotne uzroke, slijedilo da je to mimo Božje nakane i volje, što je neprikladno. I zato je bolje reći da se to događa zbog djelotvornosti Božje volje. Kad je, naime, neki uzrok djelotvoran za djelovanje, učinak slijedi uzrok ne samo prema onome što nastaje nego i prema načinu nastajanja ili bitka; jer zbog slabosti djelatne snage u sjemenu događa se da se sin rodi nesličan ocu u akcidentima, koji pripadaju načinu bitka. Budući, dakle, da je Božja volja najdjelotvornija, ne slijedi samo da nastaje ono što Bog hoće da nastane, nego i da nastaje na onaj način na koji Bog hoće da nastane. A Bog hoće da neke stvari nastaju nužno, a neke kontingentno, da bi bio red u stvarima, radi dovršenosti svemira. I zato je nekim učincima prilagodio nužne uzroke, koji ne mogu zatajiti, iz kojih učinci nužno proizlaze, a nekima je prilagodio kontingentne uzroke koji mogu zatajiti, iz kojih učinci kontingentno proizlaze. Dakle, učinci koje Bog hoće ne događaju se kontingentno zato što su bliži uzroci kontingentni, nego je Bog za njih pripravio kontingentne uzroke zato što je htio da se oni događaju kontingentno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da se po onoj Augustinovoj riječi treba shvatiti nužnost u stvarima koje Bog hoće, ne apsolutna, nego pogodbena; nužno je, naime, da je istinita ova pogodbena izjava: ako Bog ovo hoće, nužno je da ovo bude.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a8.ad2": {
+      "text": "Na drugo treba reći da iz same činjenice da se ništa ne opire Božjoj volji slijedi ne samo da nastaje ono što Bog hoće da nastane, nego i da kontingentno ili nužno nastaje ono za što on hoće da tako nastane.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a8.ad3": {
+      "text": "Na treće treba reći da ono što je kasnije ima nužnost od onoga što je prije, prema načinu onoga što je prije. Stoga i ono što nastaje od Božje volje ima onakvu nužnost kakvu Bog hoće da ima: naime, ili apsolutnu ili samo pogodbenu. I tako nije sve apsolutno nužno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da Božja volja jest volja za zla. Bog, naime, hoće svako dobro koje nastaje. Ali dobro je da zla nastaju; Augustin, naime, kaže u Enhiridiju: *premda ono što je zlo, ukoliko je zlo, nije dobro, ipak je dobro da ne postoje samo dobra nego i zla*. Dakle, Bog hoće zla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a9.obj2": {
+      "text": "Osim toga, Dionizije kaže u IV. poglavlju O Božjim imenima: zlo će pridonositi savršenosti svega (to jest svemira). I Augustin kaže u Enhiridiju: *iz svega se sastoji divna ljepota cjeline; u njoj i ono što se naziva zlom, dobro uređeno i postavljeno na svoje mjesto, uzvišenije ističe dobra, tako da se više sviđaju i da su hvalevrjednija kad se uspoređuju sa zlima*. Ali Bog hoće sve što pripada savršenosti i ljepoti svemira, jer to je ono što Bog najviše hoće u stvorovima. Dakle, Bog hoće zla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a9.obj3": {
+      "text": "Osim toga, da zla nastaju i da ne nastaju kontradiktorno je suprotstavljeno. Ali Bog ne hoće da zla ne nastaju, jer se, budući da neka zla nastaju, Božja volja ne bi uvijek ispunjala. Dakle, Bog hoće da zla nastaju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a9.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Osamdeset i tri pitanja: *ni po jednom mudrom čovjeku kao začetniku čovjek ne postaje gori; a Bog je izvrsniji od svakoga mudrog čovjeka; mnogo manje, dakle, netko postaje gori kad je Bog začetnik. A kad se kaže da je on začetnik, kaže se da on to hoće*. Dakle, čovjek ne postaje gori kad Bog to hoće. A poznato je da svakim zlom nešto postaje gore. Dakle, Bog ne hoće zla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a9.resp": {
+      "text": "Odgovaram: treba reći da, budući da je pojam dobra pojam poželjnoga, kako je gore rečeno, a zlo je suprotstavljeno dobru, nemoguće je da se za ikakvim zlom, ukoliko je takvo, teži, bilo naravnom težnjom, bilo životinjskom, bilo umnom, a to je volja. Ali za nekim se zlom teži akcidentalno, ukoliko prati neko dobro. I to se vidi u svakoj težnji. Naravni djelatnik, naime, ne smjera na lišenost ili propadanje, nego na formu s kojom je spojena lišenost druge forme, i na nastanak jednoga, koji je propadanje drugoga. I lav, ubijajući jelena, smjera na hranu, s kojom je spojeno ubijanje životinje. Slično bludnik smjera na užitak, s kojim je spojena izopačenost krivnje. A zlo koje je spojeno s nekim dobrom jest lišenost drugoga dobra. Nikada se, dakle, ne bi težilo za zlom, ni akcidentalno, kad se za dobrom s kojim je zlo spojeno ne bi težilo više nego za dobrom kojega se lišava zlom. A Bog ne hoće nikakvo dobro više od svoje dobrote; ipak hoće neko dobro više od nekoga drugog dobra. Stoga zlo krivnje, koje lišava usmjerenosti prema Božjem dobru, Bog ni na koji način ne hoće. Ali zlo naravnoga nedostatka ili zlo kazne hoće, hoteći neko dobro s kojim je spojeno takvo zlo: kao što, hoteći pravednost, hoće kaznu; i hoteći da se očuva red naravi, hoće da neke stvari naravno propadaju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da su neki rekli da, premda Bog ne hoće zla, ipak hoće da zla budu ili nastaju, jer, premda zla nisu dobra, ipak je dobro da zla budu ili nastaju. To su govorili zato što je ono što je u sebi zlo usmjereno prema nekom dobru, a vjerovali su da se taj red uključuje u ono što se kaže: da zla budu ili nastaju. Ali to se ne kaže ispravno. Jer zlo nije usmjereno prema dobru po sebi, nego po akcidentu. Mimo nakane je, naime, onoga koji griješi da iz toga slijedi neko dobro, kao što je bilo mimo nakane tiranâ da je iz njihovih progona zasjala strpljivost mučenika. I zato se ne može reći da se takav red prema dobru uključuje time što se kaže da je dobro da zlo bude ili nastaje, jer se ništa ne prosuđuje prema onome što mu pripada po akcidentu, nego prema onome što mu pripada po sebi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a9.ad2": {
+      "text": "Na drugo treba reći da zlo pridonosi savršenosti i ljepoti svemira samo akcidentalno, kako je rečeno. Stoga i ono što kaže Dionizije, da zlo pridonosi savršenosti svemira, on izvodi kao zaključak dovodeći, takoreći, do nečega neprikladnog.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a9.ad3": {
+      "text": "Na treće treba reći da, premda su to da zla nastaju i to da zla ne nastaju kontradiktorno suprotstavljeni, ipak htjeti da zla nastaju i htjeti da zla ne nastaju nisu kontradiktorno suprotstavljeni, budući da je jedno i drugo jesno. Bog, dakle, niti hoće da zla nastaju niti hoće da zla ne nastaju, nego hoće dopustiti da zla nastaju. A to je dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da Bog nema slobodno odlučivanje. Jeronim, naime, kaže u homiliji o rasipnom sinu: *jedini je Bog onaj na koga grijeh ne pada niti može pasti; sve drugo, budući da ima slobodno odlučivanje, može se prikloniti na jednu i na drugu stranu*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a10.obj2": {
+      "text": "Osim toga, slobodno je odlučivanje sposobnost razuma i volje kojom se bira dobro i zlo. Ali Bog ne hoće zlo, kako je rečeno. Dakle, slobodnoga odlučivanja nema u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a10.sc": {
+      "text": "Ali protiv toga je ono što kaže Ambrozije u knjizi O vjeri: *Duh Sveti dijeli svakomu kako hoće, to jest po odlučivanju slobodne volje, a ne u pokornosti nužnosti*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a10.resp": {
+      "text": "Odgovaram: treba reći da slobodno odlučivanje imamo s obzirom na ono što ne hoćemo nužno ili po naravnom nagonu. Ne pripada, naime, slobodnom odlučivanju to što hoćemo biti sretni, nego naravnom nagonu. Stoga se ni za druge životinje, koje se naravnim nagonom pokreću prema nečemu, ne kaže da se pokreću slobodnim odlučivanjem. Budući, dakle, da Bog svoju dobrotu hoće nužno, a drugo ne nužno, kako je gore pokazano, s obzirom na ono što ne hoće nužno ima slobodno odlučivanje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da Jeronim, čini se, isključuje iz Boga slobodno odlučivanje ne naprosto, nego samo u pogledu toga da se skrene u grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a10.ad2": {
+      "text": "Na drugo treba reći da, budući da se zlo krivnje naziva tako po odvraćanju od Božje dobrote, po kojoj Bog hoće sve, kako je gore pokazano, očito je da je nemoguće da on hoće zlo krivnje. Pa ipak se odnosi prema suprotnostima, ukoliko može htjeti da ovo bude ili da ne bude. Kao što i mi, ne griješeći, možemo htjeti sjediti i ne htjeti sjediti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da u Bogu ne treba razlikovati volju znaka. Kao što je, naime, Božja volja uzrok stvari, tako je i znanje. Ali sa strane Božjega znanja ne određuju se nikakvi znakovi. Dakle, ni sa strane Božje volje ne treba određivati nikakve znakove.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a11.obj2": {
+      "text": "Osim toga, svaki znak koji se ne slaže s onim čiji je znak lažan je. Ako se, dakle, znakovi koji se određuju u vezi s Božjom voljom ne slažu s Božjom voljom, lažni su; a ako se slažu, suvišno se određuju. Dakle, ne treba određivati nikakve znakove u vezi s Božjom voljom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a11.sc": {
+      "text": "Ali protiv toga je to što je Božja volja jedna, budući da je ona Božja bit. A katkad se označuje u množini, kao kad se kaže: *velika su djela Gospodnja, probrana po svim voljama njegovim*. Dakle, nužno je da se katkad znak volje uzima umjesto volje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a11.resp": {
+      "text": "Odgovaram: treba reći da se o Bogu nešto govori u vlastitom smislu, a nešto prema metafori, kako je jasno iz prethodnoga. A kad se neke ljudske strasti preneseno uzimaju u pririkanje o Bogu, to biva prema sličnosti učinka; stoga se ono što je u nama znak takve strasti u Bogu preneseno označuje imenom te strasti. Kao što kod nas oni koji su srditi obično kažnjavaju, pa je samo kažnjavanje znak srdžbe, i zbog toga se samo kažnjavanje, kad se pripisuje Bogu, označuje imenom srdžbe. Slično se ono što je u nama obično znak volje katkad u Bogu preneseno naziva voljom. Kao što, kad netko nešto zapovijeda, to je znak da hoće da se to učini; stoga se Božja zapovijed katkad preneseno naziva Božjom voljom, prema onome iz Mt 6: *budi volja tvoja, kako na nebu tako i na zemlji*. Ali između volje i srdžbe razlika je u tome što se srdžba o Bogu nikada ne govori u vlastitom smislu, jer u svojem glavnom značenju uključuje strast, dok se volja o Bogu govori u vlastitom smislu. I zato se u Bogu razlikuje volja rečena u vlastitom smislu i volja rečena preneseno. Volja rečena u vlastitom smislu naziva se voljom blagonaklonosti, a volja rečena preneseno jest volja znaka, zato što se sam znak volje naziva voljom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da znanje nije uzrok onoga što nastaje osim po volji; ne činimo, naime, ono što znamo ako to ne htjednemo. I zato se znak ne pripisuje znanju kao što se pripisuje volji.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a11.ad2": {
+      "text": "Na drugo treba reći da se znakovi volje nazivaju Božjim voljama ne zato što bi bili znakovi da Bog hoće, nego zato što se ono što je u nama obično znak htijenja u Bogu naziva Božjim voljama. Kao što kažnjavanje nije znak da je u Bogu srdžba, nego se kažnjavanje, upravo zato što je u nama znak srdžbe, u Bogu naziva srdžbom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da se neprikladno u vezi s Božjom voljom postavlja pet znakova, naime: zabrana, zapovijed, savjet, djelovanje i dopuštenje. Jer ono isto što nam Bog zapovijeda ili savjetuje katkad čini u nama, a ono isto što zabranjuje katkad dopušta. Dakle, ne treba ih dijeliti kao suprotne jedne drugima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a12.obj2": {
+      "text": "Osim toga, Bog ništa ne čini osim hoteći, kako se kaže u Mudr 11. Ali volja znaka razlikuje se od volje blagonaklonosti. Dakle, djelovanje ne treba biti obuhvaćeno pod voljom znaka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a12.obj3": {
+      "text": "Osim toga, djelovanje i dopuštenje zajednički pripadaju svim stvorovima, jer Bog djeluje u svima i u svima dopušta da nešto nastaje. Ali zapovijed, savjet i zabrana pripadaju samo razumnom stvoru. Dakle, ne ulaze prikladno u jednu diobu, budući da nisu istoga reda.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a12.obj4": {
+      "text": "Osim toga, zlo se događa na više načina nego dobro, jer se dobro događa na jedan način, a zlo na svakojake načine, kako je jasno kod Filozofa u II. knjizi Etike i kod Dionizija u IV. poglavlju O Božjim imenima. Neprikladno se, dakle, s obzirom na zlo određuje samo jedan znak, naime zabrana, a s obzirom na dobro dva znaka, naime savjet i zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a12.resp": {
+      "text": "Odgovaram: treba reći da se takvim znakovima volje nazivaju oni kojima obično pokazujemo da nešto hoćemo. A netko može očitovati da nešto hoće ili sam po sebi ili po drugome. Sam po sebi, ukoliko nešto čini, bilo izravno, bilo neizravno i akcidentalno. Izravno, kad po sebi nešto čini; i u tom se pogledu kaže da je znak djelovanje. Neizravno pak, ukoliko ne priječi djelovanje; jer onaj koji uklanja ono što priječi naziva se akcidentalnim pokretačem, kako se kaže u VIII. knjizi Fizike. I u tom se pogledu kaže da je znak dopuštenje. Po drugome pak očituje da nešto hoće ukoliko drugoga usmjerava da nešto učini, bilo nužnim navođenjem, što biva zapovijedanjem onoga što netko hoće i zabranjivanjem suprotnoga, bilo nekim uvjeravajućim navođenjem, što pripada savjetu. Budući, dakle, da se na te načine očituje da netko nešto hoće, zbog toga se tih pet katkad naziva imenom Božje volje, kao znakovi volje. Da se, naime, zapovijed, savjet i zabrana nazivaju Božjom voljom, jasno je iz onoga što se kaže u Mt 6: *budi volja tvoja, kako na nebu tako i na zemlji*. A da se dopuštenje ili djelovanje nazivaju Božjom voljom, jasno je iz Augustina, koji kaže u Enhiridiju: *ništa ne biva ako Svemogući ne htjedne da bude, bilo dopuštajući da bude, bilo čineći*. Ili se može reći da se dopuštenje i djelovanje odnose na sadašnje: dopuštenje na zlo, a djelovanje na dobro; a na buduće zabrana s obzirom na zlo, zapovijed s obzirom na nužno dobro, a savjet s obzirom na preobilno dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da ništa ne priječi da netko u vezi s istom stvari na različite načine očituje da nešto hoće, kao što se nalazi mnogo imena koja označuju isto. Stoga ništa ne priječi da isto potpada pod zapovijed i savjet i djelovanje, i pod zabranu ili dopuštenje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a12.ad2": {
+      "text": "Na drugo treba reći da, kao što se za Boga može preneseno označiti da hoće ono što ne hoće voljom uzetom u vlastitom smislu, tako se može preneseno označiti da hoće ono što u vlastitom smislu hoće. Stoga ništa ne priječi da o istome bude i volja blagonaklonosti i volja znaka. Ali djelovanje je uvijek isto s voljom blagonaklonosti, a zapovijed ili savjet nisu: kako zato što se ono prvo odnosi na sadašnje, a ovo drugo na buduće, tako i zato što je ono prvo po sebi učinak volje, a ovo drugo po drugome, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a12.ad3": {
+      "text": "Na treće treba reći da je razumni stvor gospodar svojega čina, i zato se u vezi s njim određuju neki posebni znakovi Božje volje, ukoliko Bog razumnoga stvora usmjerava da djeluje voljno i sam po sebi. Ali drugi stvorovi ne djeluju osim pokrenuti Božjim djelovanjem, i zato kod drugih nemaju mjesta osim djelovanje i dopuštenje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q19.a12.ad4": {
+      "text": "Na četvrto treba reći da se svako zlo krivnje, premda se događa na mnogo načina, ipak slaže u tome što se ne slaže s Božjom voljom; i zato se s obzirom na zla određuje jedan znak, naime zabrana. Ali dobra se na različite načine odnose prema Božjoj dobroti. Jer neka su takva da bez njih ne možemo postići uživanje Božje dobrote, i s obzirom na njih je zapovijed. A neka su takva da po njima to savršenije postižemo, i s obzirom na njih je savjet. Ili treba reći da savjet nije samo o postizanju boljih dobara, nego i o izbjegavanju manjih zala.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    }
+  }
+}

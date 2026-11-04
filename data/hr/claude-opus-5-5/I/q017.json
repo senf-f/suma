@@ -1,0 +1,198 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 17,
+  "units": {
+    "I.q17.pr": {
+      "text": "Zatim se pita o lažnosti. U vezi s tim pitaju se četiri stvari. Prvo, je li lažnost u stvarima. Drugo, je li u osjetu. Treće, je li u umu. Četvrto, o suprotstavljenosti istinitoga i lažnoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da lažnost nije u stvarima. Augustin, naime, u knjizi Razgovori sa samim sobom kaže: *ako je istinito ono što jest, zaključit će se da lažnoga nema nigdje, ma tko se tome protivio*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a1.obj2": {
+      "text": "Osim toga, lažno se naziva po varanju. Ali stvari ne varaju, kako kaže Augustin u knjizi O pravoj religiji, *jer ne pokazuju ništa drugo osim svojeg izgleda*. Dakle, lažno se ne nalazi u stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a1.obj3": {
+      "text": "Osim toga, istinito se u stvarima govori po odnosu prema Božjem umu, kako je gore rečeno. Ali svaka stvar, ukoliko jest, nasljeduje Boga. Dakle, svaka je stvar istinita, bez lažnosti. I tako nijedna stvar nije lažna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O pravoj religiji, da je *svako tijelo istinito tijelo i lažno jedinstvo*, jer nasljeduje jedinstvo, a nije jedinstvo. Ali svaka stvar nasljeduje Božju dobrotu i zaostaje za njom. Dakle, u svim je stvarima lažnost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a1.resp": {
+      "text": "Odgovaram: treba reći da, budući da su istinito i lažno suprotstavljeni, a suprotstavljeno se odnosi na isto, nužno je da se lažnost najprije traži ondje gdje se najprije nalazi istina, to jest u umu. A u stvarima nema ni istine ni lažnosti osim po usmjerenosti prema umu. I budući da se svaka stvar prema onome što joj pripada po sebi imenuje jednostavno, a prema onome što joj pripada akcidentalno imenuje se samo u nekom pogledu, stvar bi se mogla nazvati jednostavno lažnom po odnosu prema umu o kojem ovisi, s kojim je u odnosu po sebi; a u usmjerenosti prema drugom umu, s kojim je u odnosu akcidentalno, ne bi se mogla nazvati lažnom osim u nekom pogledu. A naravne stvari ovise o Božjem umu kao što umjetne stvari ovise o ljudskom umu. Umjetne se, dakle, stvari nazivaju lažnima jednostavno i po sebi ukoliko zaostaju za formom umijeća; stoga se kaže da neki umjetnik čini lažno djelo kad zaostaje u djelovanju umijeća. Ali na taj se način u stvarima koje ovise o Bogu ne može naći lažnost po odnosu prema Božjem umu, budući da sve što se u stvarima događa proizlazi iz odredbe Božjeg uma, osim možda samo u voljnim djelatnicima, u čijoj je vlasti izmaknuti se odredbi Božjeg uma; u tome se sastoji zlo krivnje, prema čemu se sami grijesi u Pismu nazivaju lažnostima i lažima, prema onome iz Psalma 4: *zašto ljubite ispraznost i tražite laž?* Kao što se, suprotno tome, kreposno djelovanje naziva istinom života, ukoliko je podložno redu Božjeg uma, kao što se kaže u Iv 3: *tko čini istinu, dolazi k svjetlu*. Ali po usmjerenosti prema našem umu, s kojim su naravne stvari u odnosu akcidentalno, mogu se nazvati lažnima, ne jednostavno, nego u nekom pogledu. I to na dva načina. Na jedan način, prema pojmu označenoga, tako da se u stvarima lažnim naziva ono što se označuje ili predočuje lažnim govorom ili lažnim shvaćanjem. Na taj se način za svaku stvar može reći da je lažna s obzirom na ono što joj ne pripada, kao kad bismo rekli da je dijagonala lažno sumjerljiva, kako kaže Filozof u V. knjizi Metafizike; i kao što Augustin u knjizi Razgovori sa samim sobom kaže da je *glumac u tragediji lažni Hektor*. Kao što se, obratno, za svaku stvar može reći da je istinita prema onome što joj pripada. Na drugi način, na način uzroka. I tako se lažnom naziva stvar koja je po naravi takva da o sebi stvara lažno mnijenje. I budući da nam je prirođeno suditi o stvarima po onome što se izvana pokazuje, jer naša spoznaja potječe od osjeta, koji se najprije i po sebi odnosi na izvanjske akcidente, zato se ono što u izvanjskim akcidentima ima sličnost s drugim stvarima naziva lažnim s obzirom na te stvari; kao što je žuč lažni med, a kositar lažno srebro. I prema tome Augustin u knjizi Razgovori sa samim sobom kaže da *lažnima nazivamo one stvari koje zahvaćamo kao istini slične*. A Filozof u V. knjizi Metafizike kaže da se *lažnim naziva sve što je po naravi prikladno da se pričinja ili kakvo nije ili kao ono što nije*. I na taj se način i čovjek naziva lažnim, ukoliko voli lažna mnijenja ili govore. Ali ne zato što ih može izmišljati, jer bi se tako i mudri i učeni nazivali lažnima, kako se kaže u V. knjizi Metafizike.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se stvar, u odnosu prema umu, prema onome što jest naziva istinitom, a prema onome što nije naziva lažnom. *Stoga je istinski glumac u tragediji lažni Hektor*, kako se kaže u II. knjizi Razgovora sa samim sobom. Kao što se, dakle, u onome što jest nalazi neki nebitak, tako se u onome što jest nalazi i neki pojam lažnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a1.ad2": {
+      "text": "Na drugo treba reći da stvari ne varaju po sebi, nego akcidentalno. Daju, naime, povod lažnosti time što nose sličnost s onim čije postojanje nemaju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a1.ad3": {
+      "text": "Na treće treba reći da se stvari ne nazivaju lažnima po odnosu prema Božjem umu, što bi značilo da su lažne jednostavno, nego po odnosu prema našem umu, što znači da su lažne u nekom pogledu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a1.ad4": {
+      "text": "Na četvrto, što se iznosi kao protudokaz, treba reći da manjkava sličnost ili predočba ne uvodi pojam lažnosti osim ukoliko pruža povod lažnom mnijenju. Stoga se stvar ne naziva lažnom gdje god postoji sličnost, nego gdje god postoji takva sličnost koja je po naravi takva da stvara lažno mnijenje, ne u bilo koga, nego u većini slučajeva.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da u osjetu nema lažnosti. Augustin, naime, u knjizi O pravoj religiji kaže: *ako svi tjelesni osjeti javljaju onako kako su pogođeni, ne znam što bismo od njih trebali više zahtijevati*. I tako se čini da nas osjeti ne varaju. I tako lažnosti nema u osjetu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a2.obj2": {
+      "text": "Osim toga, Filozof u IV. knjizi Metafizike kaže da *lažnost nije svojstvena osjetu, nego mašti*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a2.obj3": {
+      "text": "Osim toga, u nesloženome nema ni istinitoga ni lažnoga, nego samo u složenome. Ali sastavljati i rastavljati ne pripada osjetu. Dakle, u osjetu nema lažnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Razgovori sa samim sobom: *očito je da se u svim osjetima varamo jer nas zavodi sličnost*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a2.resp": {
+      "text": "Odgovaram: treba reći da lažnost u osjetu ne treba tražiti drukčije nego onako kako je ondje istina. A istina nije u osjetu tako da bi osjet spoznavao istinu, nego ukoliko ima istinito zahvaćanje osjetnih stvari, kako je gore rečeno. To se pak događa time što zahvaća stvari kakve jesu. Stoga se događa da je lažnost u osjetu zbog toga što zahvaća ili prosuđuje stvari drukčije nego što jesu. A tako se odnosi prema spoznavanju stvari ukoliko je sličnost stvari u osjetu. Sličnost je pak neke stvari u osjetu na tri načina. Na jedan način, najprije i po sebi, kao što je u vidu sličnost boja i drugih vlastitih osjetnih predmeta. Na drugi način, po sebi, ali ne najprije, kao što je u vidu sličnost lika ili veličine i drugih zajedničkih osjetnih predmeta. Na treći način, ni najprije ni po sebi, nego akcidentalno, kao što je u vidu sličnost čovjeka, ne ukoliko je čovjek, nego ukoliko se ovome obojenome događa da bude čovjek. I u pogledu vlastitih osjetnih predmeta osjet nema lažnu spoznaju osim akcidentalno i u manjem broju slučajeva, naime zbog toga što zbog neraspoloživosti organa ne prima prikladno osjetnu formu, kao što i druge trpne stvari zbog svoje neraspoloživosti manjkavo primaju utisak djelatnikâ. I odatle je to što se bolesnima, zbog pokvarenosti jezika, slatko čini gorkim. A o zajedničkim osjetnim predmetima i o onima koji su osjetni akcidentalno može biti lažan sud i u osjetu koji je ispravno raspoložen, jer se osjet ne odnosi na njih izravno, nego akcidentalno ili posljedično, ukoliko se odnosi na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da to što je osjet pogođen jest samo njegovo osjećanje. Stoga iz toga što osjeti javljaju onako kako su pogođeni slijedi da se ne varamo u sudu kojim sudimo da nešto osjećamo. Ali iz toga što je osjet katkad pogođen drukčije nego što stvar jest, slijedi da nam katkad javlja stvar drukčije nego što jest. I zbog toga nas osjet vara u pogledu stvari, a ne u pogledu samog osjećanja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a2.ad2": {
+      "text": "Na drugo treba reći da se kaže da lažnost nije svojstvena osjetu jer se on ne vara u pogledu vlastitog predmeta. Stoga se u drugom prijevodu jasnije kaže da *osjet vlastitoga osjetnog predmeta nije lažan*. A mašti se pripisuje lažnost jer predočuje sličnost stvari i kad je ona odsutna; stoga, kad se netko okrene sličnosti stvari kao samoj stvari, iz takvog zahvaćanja proizlazi lažnost. Stoga i Filozof u V. knjizi Metafizike kaže da se sjene, slike i snovi nazivaju lažnima ukoliko ne postoje stvari čiju sličnost imaju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a2.ad3": {
+      "text": "Na treće treba reći da taj razlog dokazuje da lažnost nije u osjetu kao u onome koji spoznaje istinito i lažno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da lažnost nije u umu. Augustin, naime, u knjizi Osamdeset i tri pitanja kaže: *svatko tko se vara ne shvaća ono u čemu se vara*. Ali za lažno se kaže da je u nekoj spoznaji ukoliko se po njoj varamo. Dakle, u umu nema lažnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a3.obj2": {
+      "text": "Osim toga, Filozof u III. knjizi O duši kaže da je um uvijek ispravan. Nema, dakle, lažnosti u umu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u III. knjizi O duši, da *gdje je sastavljanje pojmova, ondje je istinito i lažno*. Ali sastavljanje pojmova je u umu. Dakle, istinito i lažno je u umu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što stvar ima bitak po vlastitoj formi, tako spoznajna snaga ima spoznavanje po sličnosti spoznate stvari. Stoga, kao što naravna stvar ne zaostaje za bitkom koji joj pripada po njezinoj formi, ali može zaostajati u nekim akcidentalnim ili posljedičnim svojstvima, kao što čovjek može zaostajati u tome da ima dvije noge, ali ne u tome da bude čovjek, tako ni spoznajna snaga ne zaostaje u spoznavanju s obzirom na onu stvar čijom je sličnošću oblikovana, ali može zaostajati u pogledu nečega što iz nje slijedi ili joj je akcidentalno. Kao što je rečeno da se vid ne vara u pogledu vlastitoga osjetnog predmeta, nego u pogledu zajedničkih osjetnih predmeta, koji se prema njemu odnose kao posljedični, i u pogledu onoga što je osjetno akcidentalno. A kao što se osjet izravno oblikuje sličnošću vlastitih osjetnih predmeta, tako se um oblikuje sličnošću štostva stvari. Stoga se um ne vara u pogledu onoga što jest, kao što se ni osjet ne vara u pogledu vlastitih osjetnih predmeta. Ali u sastavljanju ili rastavljanju može se prevariti kad stvari čije štostvo shvaća pripisuje nešto što iz njega ne slijedi ili što mu je suprotstavljeno. Tako se, naime, um odnosi prema prosuđivanju o takvim stvarima kao osjet prema prosuđivanju o zajedničkim osjetnim predmetima ili o onima koji su osjetni akcidentalno. Ipak uz onu razliku koja je gore rečena u vezi s istinom: da lažnost u umu može biti ne samo zato što je spoznaja uma lažna, nego zato što je um spoznaje, kao i istinu, dok u osjetu lažnost nije kao spoznata, kako je rečeno. A budući da je lažnost uma po sebi samo u pogledu sastavljanja uma, akcidentalno i u djelovanju uma kojim spoznaje ono što jest može biti lažnost, ukoliko se ondje primiješa sastavljanje uma. A to može biti na dva načina. Na jedan način, ukoliko um definiciju jednoga pripisuje drugome, kao kad bi definiciju kruga pripisao čovjeku. Stoga je definicija jedne stvari lažna o drugoj. Na drugi način, ukoliko međusobno sastavlja dijelove definicije koji se ne mogu zajedno spojiti; tako, naime, definicija nije lažna samo s obzirom na neku stvar, nego je lažna u sebi. Kao kad bi oblikovao ovakvu definiciju: razumno četveronožno živo biće; um je lažan tako definirajući zato što je lažan u oblikovanju ovoga sastavljanja: neko razumno živo biće je četveronožno. I zbog toga u spoznavanju jednostavnih štostava um ne može biti lažan, nego je ili istinit ili posve ništa ne shvaća.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da je štostvo stvari vlastiti predmet uma, zbog toga se u vlastitom smislu kaže da nešto shvaćamo onda kad o tome sudimo svodeći ga na ono što jest, kao što se događa u dokazima, u kojima nema lažnosti. I na taj se način shvaća Augustinova riječ da svatko tko se vara ne shvaća ono u čemu se vara, a ne tako da se nitko ni u jednom djelovanju uma ne vara.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a3.ad2": {
+      "text": "Na drugo treba reći da je um uvijek ispravan ukoliko je um načelâ, u pogledu kojih se ne vara iz istog razloga iz kojeg se ne vara u pogledu onoga što jest. Jer po sebi poznata načela jesu ona koja se spoznaju odmah čim se shvate termini, zbog toga što se pririk stavlja u definiciju subjekta.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da istinito i lažno nisu protivni. Istinito i lažno, naime, suprotstavljeni su kao ono što jest i ono što nije, *jer istinito je ono što jest*, kako kaže Augustin. Ali ono što jest i ono što nije nisu suprotstavljeni kao protivni. Dakle, istinito i lažno nisu protivni.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a4.obj2": {
+      "text": "Osim toga, jedno od protivnih nije u drugome. Ali lažno je u istinitome, jer, kako kaže Augustin u knjizi Razgovori sa samim sobom, *glumac u tragediji ne bi bio lažni Hektor kad ne bi bio istinski glumac u tragediji*. Dakle, istinito i lažno nisu protivni.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a4.obj3": {
+      "text": "Osim toga, u Bogu nema nikakve protivnosti: ništa, naime, nije protivno Božjoj supstanciji, kako kaže Augustin u XII. knjizi O Božjoj državi. Ali Bogu je suprotstavljena lažnost: idol se, naime, u Pismu naziva laž, Jr 8: *prigrlili su laž*; Glosa: *to jest idole*. Dakle, istinito i lažno nisu protivni.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u II. knjizi O tumačenju: on, naime, postavlja da je lažno mnijenje protivno istinitome.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a4.resp": {
+      "text": "Odgovaram: treba reći da su istinito i lažno suprotstavljeni kao protivni, a ne kao jesni i niječni iskaz, kako su neki govorili. Da to bude jasno, treba znati da nijekanje niti postavlja nešto niti sebi određuje neki subjekt. I zbog toga se može reći kako o biću tako i o ne-biću, kao ono što ne vidi i ono što ne sjedi. Lišenost pak ne postavlja nešto, ali sebi određuje subjekt: ona je, naime, nijekanje u subjektu, kako se kaže u IV. knjizi Metafizike; slijepim se, naime, naziva samo ono što je po naravi takvo da vidi. Protivno pak i postavlja nešto i određuje subjekt: crno je, naime, neka vrsta boje. A lažno nešto postavlja. Lažno je, naime, kako kaže Filozof u IV. knjizi Metafizike, po tome što se kaže ili se čini da jest nešto što nije, ili da nije ono što jest. Kao što, naime, istinito postavlja poimanje izjednačeno sa stvari, tako lažno postavlja poimanje stvari koje nije s njom izjednačeno. Stoga je očito da su istinito i lažno protivni.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ono što je u stvarima istina stvari, a ono što jest kao zahvaćeno jest istinito uma, u kojem je najprije istina. Stoga je i lažno ono što nije kao zahvaćeno. A zahvaćati bitak i nebitak ima protivnost, kao što Filozof u II. knjizi O tumačenju dokazuje da je ovom mnijenju, dobro je dobro, protivno ovo: dobro nije dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a4.ad2": {
+      "text": "Na drugo treba reći da lažno nije utemeljeno u istinitome koje mu je protivno, kao što ni zlo nije utemeljeno u dobru koje mu je protivno, nego u onome što mu je podložno. A to se kod obojega događa zato što su istinito i dobro opći i zamjenljivi s bićem; stoga, kao što je svaka lišenost utemeljena u subjektu koji je biće, tako je svako zlo utemeljeno u nekom dobru, a svako lažno u nečem istinitom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q17.a4.ad3": {
+      "text": "Na treće treba reći da, budući da su protivno i ono što je suprotstavljeno po lišenosti po naravi takvi da se odnose na isto, zato Bogu, kako se razmatra u sebi, nije ništa protivno, ni s obzirom na njegovu dobrotu ni s obzirom na njegovu istinu, jer u njegovu umu ne može biti nikakve lažnosti. Ali u našem zahvaćanju ima nešto protivno, jer istinitom mnijenju o njemu protivno je lažno mnijenje. I tako se za idole kaže da su laži suprotstavljene Božjoj istini, ukoliko je lažno mnijenje o idolima protivno istinitom mnijenju o Božjem jedinstvu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    }
+  }
+}

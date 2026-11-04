@@ -1,0 +1,162 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 24,
+  "units": {
+    "I.q24.pr": {
+      "text": "Zatim treba razmotriti knjigu života. U vezi s tim postavljaju se tri pitanja. Prvo, što je knjiga života. Drugo, kojega je života ona knjiga. Treće, može li netko biti izbrisan iz knjige života.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da knjiga života nije isto što i predodređenje. Kaže se, naime, u Sir 24: *sve je to knjiga života*; Glosa: *to jest Novi i Stari zavjet*. A to nije predodređenje. Dakle, knjiga života nije isto što i predodređenje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a1.obj2": {
+      "text": "Osim toga, Augustin u XX. knjizi O Božjem gradu kaže da je knjiga života neka Božja sila po kojoj će biti *da se svakome njegova dobra ili zla djela dozovu u pamćenje*. Ali Božja sila, čini se, ne pripada predodređenju, nego više atributu moći. Dakle, knjiga života nije isto što i predodređenje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a1.obj3": {
+      "text": "Osim toga, predodređenju se suprotstavlja odbacivanje. Kad bi, dakle, knjiga života bila predodređenje, postojala bi knjiga smrti, kao što postoji knjiga života.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Glosi o onom mjestu Psalma 68, *neka se izbrišu iz knjige živih: ta je knjiga Božje znanje kojim je za život predodredio one koje je unaprijed znao*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a1.resp": {
+      "text": "Odgovaram: treba reći da se o knjizi života u Bogu govori preneseno, prema sličnosti uzetoj od ljudskih stvari. Kod ljudi je, naime, uobičajeno da se oni koji su izabrani za nešto upisuju u knjigu, kao vojnici ili vijećnici, koje su nekoć nazivali upisanim ocima. A iz rečenoga je očito da su svi predodređeni izabrani od Boga da imaju vječni život. Samo se, dakle, upisivanje predodređenih naziva knjigom života. Za nešto se pak preneseno kaže da je upisano u nečijem umu kad ga on čvrsto drži u pamćenju, prema onoj riječi Izr 3: *ne zaboravi moga zakona, i neka srce tvoje čuva moje zapovijedi*; a malo poslije slijedi: *ispiši ih na ploče svojega srca*. Jer se i u tvarnim knjigama nešto upisuje kao pomoć pamćenju. Stoga se samo Božje znanje, kojim čvrsto zadržava to da je neke predodredio za vječni život, naziva knjigom života. Jer kao što je pismo knjige znak onoga što treba učiniti, tako je Božje znanje neki znak kod njega samoga o onima koje treba dovesti do vječnoga života, prema onoj riječi 2 Tim 2: *čvrst stoji temelj Božji, imajući ovaj pečat: Gospodin zna koji su njegovi*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se knjiga života može shvatiti na dva načina. Na jedan način, kao upisivanje onih koji su izabrani za život, i tako sada govorimo o knjizi života. Na drugi se način knjigom života može nazvati upisivanje onoga što vodi u život. I to dvojako: ili kao onoga što treba činiti, i tako se Novi i Stari zavjet naziva knjigom života; ili kao onoga što je već učinjeno, i tako se ona Božja sila po kojoj će biti da se svakome njegova djela dozovu u pamćenje naziva knjigom života. Kao što se i knjigom vojništva može nazvati ili ona u koju se upisuju oni koji su izabrani za vojništvo, ili ona u kojoj se izlaže vojničko umijeće, ili ona u kojoj se pripovijedaju djela vojnika.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a1.ad2": {
+      "text": "Odatle je očito rješenje drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a1.ad3": {
+      "text": "Na treće treba reći da nije uobičajeno upisivati one koji se odbacuju, nego one koji se izabiru. Stoga odbacivanju ne odgovara knjiga smrti, kao što predodređenju odgovara knjiga života.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a1.ad4": {
+      "text": "Na četvrto treba reći da se knjiga života razlikuje od predodređenja po pojmu. Ona, naime, uključuje znanje o predodređenju, kao što je očito i iz navedene Glose.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da knjiga života nije samo s obzirom na život slave predodređenih. Knjiga je, naime, života znanje o životu. Ali Bog po svojem životu spoznaje svaki drugi život. Dakle, o knjizi se života govori ponajprije s obzirom na Božji život, a ne samo s obzirom na život predodređenih.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a2.obj2": {
+      "text": "Osim toga, kao što je život slave od Boga, tako je i život naravi. Ako se, dakle, znanje o životu slave naziva knjigom života, i znanje o životu naravi zvat će se knjigom života.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a2.obj3": {
+      "text": "Osim toga, neki su izabrani za milost koji nisu izabrani za život slave, kao što je očito iz onoga što se kaže u Iv 6: *nisam li ja vas dvanaestoricu izabrao, a jedan je od vas đavao?* Ali knjiga je života upisivanje Božjega izabranja, kao što je rečeno. Dakle, ona je i s obzirom na život milosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a2.sc": {
+      "text": "Ali protiv toga je to što je knjiga života znanje o predodređenju, kao što je rečeno. Ali predodređenje se ne odnosi na život milosti osim ukoliko je on usmjeren prema slavi; jer nisu predodređeni oni koji imaju milost, a ne postignu slavu. O knjizi se, dakle, života govori samo s obzirom na slavu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a2.resp": {
+      "text": "Odgovaram: treba reći da knjiga života, kao što je rečeno, uključuje neko upisivanje ili znanje o onima koji su izabrani za život. A netko se izabire za ono što mu ne pristaje po njegovoj naravi. I opet, ono za što se netko izabire ima pojam svrhe; jer se vojnik ne izabire ili ne upisuje zato da bude naoružan, nego zato da se bori, jer to je vlastita služba prema kojoj je vojništvo usmjereno. A svrha koja je iznad naravi jest život slave, kao što je gore rečeno. Stoga se knjiga života u vlastitom smislu odnosi na život slave.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Božji život, čak i ukoliko je slavni život, Bogu naravan. Stoga s obzirom na nj nema izabranja, pa prema tome ni knjige života. Ne kažemo, naime, da je neki čovjek izabran da ima osjetilo ili nešto od onoga što prati narav.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a2.ad2": {
+      "text": "Stoga je po tome očito i rješenje drugoga. S obzirom na naravni život, naime, nema izabranja ni knjige života.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a2.ad3": {
+      "text": "Na treće treba reći da život milosti nema pojam svrhe, nego pojam onoga što je radi svrhe. Stoga se za nekoga ne kaže da je izabran za život milosti, osim ukoliko je život milosti usmjeren prema slavi. I zbog toga se za one koji imaju milost, a otpadnu od slave, ne kaže da su izabrani naprosto, nego u nekom pogledu. I slično se za njih ne kaže da su upisani u knjigu života naprosto, nego u nekom pogledu; ukoliko, naime, u Božjoj odredbi i znanju postoji o njima to da će imati neku usmjerenost prema vječnom životu, po sudjelovanju u milosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q24.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nitko ne biva izbrisan iz knjige života. Augustin, naime, kaže u XX. knjizi O Božjem gradu da je *Božje predznanje, koje se ne može prevariti, knjiga života*. Ali od Božjega predznanja ne može se ništa oduzeti, kao ni od predodređenja. Dakle, ni iz knjige života ne može netko biti izbrisan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:15+00:00"
+    },
+    "I.q24.a3.obj2": {
+      "text": "Osim toga, što god je u nečemu, u njemu je na način onoga u čemu jest. Ali knjiga je života nešto vječno i nepromjenljivo. Dakle, što god je u njoj, nije ondje vremenito, nego nepomično i neizbrisivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:15+00:00"
+    },
+    "I.q24.a3.obj3": {
+      "text": "Osim toga, brisanje se suprotstavlja pisanju. Ali netko ne može iznova biti upisan u knjigu života. Dakle, ni odande ne može biti izbrisan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:15+00:00"
+    },
+    "I.q24.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 68: *neka se izbrišu iz knjige živih*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:15+00:00"
+    },
+    "I.q24.a3.resp": {
+      "text": "Odgovaram: treba reći da neki kažu da iz knjige života nitko ne može biti izbrisan po istini stvari, ali netko može biti izbrisan po mnijenju ljudi. U Pismu je, naime, uobičajeno da se za nešto kaže da se događa kad postane poznato. I prema tome se za neke kaže da su upisani u knjigu života, ukoliko ljudi mniju da su ondje upisani, zbog sadašnje pravednosti koju u njima vide. A kad se pokaže, bilo u ovome dobu bilo u budućem, da su od te pravednosti otpali, kaže se da su odande izbrisani. I tako se takvo brisanje tumači i u Glosi o onom mjestu Psalma 68: *neka se izbrišu iz knjige živih*. Ali budući da se to da netko ne bude izbrisan iz knjige života ubraja među nagrade pravednika, prema onoj riječi Otk 3: *tko pobijedi, bit će tako odjeven u bijele haljine, i neću izbrisati njegova imena iz knjige života*; a ono što se obećava svetima nije samo u mnijenju ljudi; može se reći da biti izbrisan ili ne biti izbrisan iz knjige života ne treba odnositi samo na mnijenje ljudi, nego i na samu stvar. Knjiga je, naime, života upisivanje onih koji su usmjereni prema vječnom životu. A prema njemu je netko usmjeren iz dvoga: naime iz Božjega predodređenja, i ta usmjerenost nikada ne izostaje; i iz milosti. Tko god, naime, ima milost, time je samim dostojan vječnoga života. I ta usmjerenost katkad izostaje, jer su neki po milosti koju su imali usmjereni da imaju vječni život, od kojega ipak otpadaju smrtnim grijehom. Oni, dakle, koji su usmjereni da imaju vječni život iz Božjega predodređenja naprosto su upisani u knjigu života, jer su ondje upisani kao oni koji će imati vječni život u njemu samome. I oni nikada ne bivaju izbrisani iz knjige života. A za one koji su usmjereni da imaju vječni život, ne iz Božjega predodređenja, nego samo iz milosti, kaže se da su upisani u knjigu života ne naprosto, nego u nekom pogledu, jer su ondje upisani kao oni koji će imati vječni život ne u njemu samome, nego u njegovu uzroku. I takvi mogu biti izbrisani iz knjige života, tako da se brisanje ne odnosi na Božje znanje, kao da Bog nešto unaprijed zna, a poslije ne zna, nego na znanu stvar; naime zato što Bog zna da je netko najprije usmjeren prema vječnom životu, a poslije nije usmjeren, kad otpadne od milosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:15+00:00"
+    },
+    "I.q24.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se brisanje, kao što je rečeno, ne odnosi na knjigu života s obzirom na predznanje, kao da u Bogu postoji neka promjenljivost, nego s obzirom na ono što je unaprijed znano, a to je promjenljivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:15+00:00"
+    },
+    "I.q24.a3.ad2": {
+      "text": "Na drugo treba reći da, iako su stvari u Bogu nepromjenljivo, ipak su u sebi promjenljive. I na to se odnosi brisanje iz knjige života.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:15+00:00"
+    },
+    "I.q24.a3.ad3": {
+      "text": "Na treće treba reći da se na onaj način na koji se za nekoga kaže da biva izbrisan iz knjige života može reći da ondje biva iznova upisan: bilo po mnijenju ljudi, bilo ukoliko iznova počinje imati usmjerenost prema vječnom životu po milosti. A i to je obuhvaćeno Božjim znanjem, premda ne iznova.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:15+00:00"
+    }
+  }
+}

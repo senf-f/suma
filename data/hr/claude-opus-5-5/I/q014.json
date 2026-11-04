@@ -1,0 +1,762 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 14,
+  "units": {
+    "I.q14.pr": {
+      "text": "Nakon razmatranja onoga što pripada božanskoj supstanciji, preostaje razmotriti ono što pripada njezinu djelovanju. Budući da je neko djelovanje takvo da ostaje u onome koji djeluje, a neko pak prelazi u izvanjski učinak, najprije ćemo raspravljati o znanju i volji (jer shvaćanje je u onome koji shvaća, a htijenje u onome koji hoće); a potom o Božjoj moći, koja se promatra kao počelo božanskog djelovanja koje prelazi u izvanjski učinak. A budući da je shvaćanje neka vrsta života, nakon razmatranja božanskog znanja trebat će razmotriti božanski život. I budući da se znanje odnosi na ono što je istinito, trebat će razmotriti i istinu i neistinu. Nadalje, budući da je sve spoznato u onome koji spoznaje, a pojmovi stvari, ukoliko su u Bogu koji spoznaje, nazivaju se idejama, s razmatranjem znanja trebat će povezati i razmatranje o idejama. O znanju se pak pita šesnaest pitanja. Prvo, ima li u Bogu znanja. Drugo, shvaća li Bog sama sebe. Treće, obuhvaća li sebe. Četvrto, je li njegovo shvaćanje njegova supstancija. Peto, shvaća li ono što je drugo od njega. Šesto, ima li o tome vlastitu spoznaju. Sedmo, je li Božje znanje diskurzivno. Osmo, je li Božje znanje uzrok stvari. Deveto, odnosi li se Božje znanje na ono što nije. Deseto, odnosi li se na zla. Jedanaesto, odnosi li se na pojedinačno. Dvanaesto, odnosi li se na beskonačno. Trinaesto, odnosi li se na kontingentno buduće. Četrnaesto, odnosi li se na izrecivo. Petnaesto, je li Božje znanje promjenljivo. Šesnaesto, ima li Bog o stvarima spekulativno ili praktično znanje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u Bogu nema znanja. Znanje je, naime, habitus, a on ne pristaje Bogu, budući da je on nešto srednje između mogućnosti i čina. Dakle, znanje nije u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a1.obj2": {
+      "text": "Osim toga, znanje, budući da se odnosi na zaključke, jest neka spoznaja koju je prouzročilo nešto drugo, naime spoznaja načela. Ali u Bogu nema ničega prouzročenog. Dakle, znanje nije u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a1.obj3": {
+      "text": "Osim toga, svako je znanje ili opće ili posebno. Ali u Bogu nema općeg i posebnog, kao što je jasno iz prethodnoga; dakle, u Bogu nema znanja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a1.sc": {
+      "text": "Ali protiv toga je ono što Apostol kaže u Rim 11: *O dubino bogatstva mudrosti i znanja Božjega!*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a1.resp": {
+      "text": "Odgovaram: treba reći da je u Bogu znanje na najsavršeniji način. Da bi to bilo jasno, treba uzeti u obzir da se bića koja spoznaju razlikuju od onih koja ne spoznaju po tome što ona koja ne spoznaju nemaju ništa osim samo svoje forme, dok je ono što spoznaje po naravi sposobno imati i formu druge stvari, jer je spoznajni lik spoznatoga u onome koji spoznaje. Stoga je očito da je narav stvari koja ne spoznaje stješnjenija i ograničenija, a narav stvari koje spoznaju ima veću širinu i protežnost. Zbog toga Filozof kaže u III. knjizi O duši da je *duša na neki način sve*. A stješnjenost forme dolazi od tvari. Zato smo i gore rekli da se forme, ukoliko su netvarnije, utoliko više približuju nekoj beskonačnosti. Jasno je, dakle, da je netvarnost neke stvari razlog zašto je ona spoznajna; i prema načinu netvarnosti jest način spoznaje. Zato se u II. knjizi O duši kaže da biljke ne spoznaju zbog svoje tvarnosti. Osjetilo je pak spoznajno, jer prima spoznajne likove bez tvari, a um je još više spoznajan, jer je više odijeljen od tvari i nepomiješan, kako se kaže u III. knjizi O duši. Stoga, budući da je Bog na vrhuncu netvarnosti, kao što je jasno iz prethodnoga, slijedi da je on na vrhuncu spoznaje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da su savršenosti koje proizlaze od Boga u stvorove u Bogu na uzvišeniji način, kao što je gore rečeno, potrebno je da se, kad god se Bogu pripiše neko ime uzeto od bilo koje savršenosti stvora, iz njegova značenja isključi sve ono što pripada nesavršenom načinu koji pristaje stvoru. Stoga znanje u Bogu nije kakvoća ili habitus, nego supstancija i čisti čin.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a1.ad2": {
+      "text": "Na drugo treba reći da ono što je u stvorovima razdijeljeno i mnogostruko, u Bogu je jednostavno i sjedinjeno, kao što je gore rečeno. Čovjek pak, prema različitim spoznatim predmetima, ima različite spoznaje: ukoliko spoznaje načela, kaže se da ima uvid; ukoliko spoznaje zaključke, da ima znanost; ukoliko spoznaje najviši uzrok, da ima mudrost; ukoliko spoznaje ono što treba činiti, da ima savjet ili razboritost. Ali sve to Bog spoznaje jednom i jednostavnom spoznajom, kao što će se niže pokazati. Stoga se jednostavna Božja spoznaja može nazvati svim tim imenima, ali tako da se iz svakoga od njih, ukoliko ulazi u božansko pririćivanje, isključi sve što je nesavršenost, a zadrži sve što je savršenost. I prema tome se kaže u Job 12: *U njega je mudrost i jakost; on ima savjet i uvid.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a1.ad3": {
+      "text": "Na treće treba reći da je znanje prema načinu onoga koji spoznaje, jer je znano u onome koji zna prema načinu onoga koji zna. I zato, budući da je način božanske biti uzvišeniji od načina na koji postoje stvorovi, božansko znanje nema način stvorenog znanja, tako da bi bilo opće ili posebno, ili u habitusu ili u mogućnosti, ili uređeno prema nekom takvom načinu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Bog ne shvaća sebe. Kaže se, naime, u Knjizi o uzrocima da se *svaki znalac koji zna svoju bit vraća svojoj biti potpunim povratkom*. Ali Bog ne izlazi izvan svoje biti, niti se na bilo koji način giba, pa mu tako ne pristaje vraćati se svojoj biti. Dakle, on ne zna svoju bit.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a2.obj2": {
+      "text": "Osim toga, shvaćanje je neko trpljenje i gibanje, kako se kaže u III. knjizi O duši; znanje je također upriličenje znanoj stvari, a znano je također savršenost onoga koji zna. Ali ništa se ne giba, niti trpi, niti usavršava samo od sebe; niti je išta samo sebi sličnost, kako kaže Hilarije. Dakle, Bog ne zna sama sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a2.obj3": {
+      "text": "Osim toga, Bogu smo slični ponajviše po umu, jer smo po duhu na sliku Božju, kako kaže Augustin. Ali naš um ne shvaća sebe drukčije nego kako shvaća drugo, kako se kaže u III. knjizi O duši. Dakle, ni Bog ne shvaća sebe, osim možda shvaćajući drugo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1 Kor 2: *Što je Božje, nitko ne zna osim Duha Božjega.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a2.resp": {
+      "text": "Odgovaram: treba reći da Bog shvaća sebe po samom sebi. Da bi to bilo jasno, treba znati sljedeće. Premda je u djelovanjima koja prelaze u izvanjski učinak predmet djelovanja, koji se označuje kao završetak, nešto izvan onoga koji djeluje, ipak je u djelovanjima koja su u onome koji djeluje predmet, koji se označuje kao završetak djelovanja, u samom onome koji djeluje; i ukoliko je u njemu, utoliko je djelovanje u činu. Zato se u knjizi O duši kaže da je osjetno u činu osjetilo u činu, a umljivo u činu um u činu. Nešto, naime, osjećamo ili shvaćamo u činu po tome što se naš um ili osjetilo u činu oformljuje spoznajnim likom osjetnoga ili umljivoga. I samo se po tome osjetilo ili um razlikuje od osjetnoga ili umljivoga što je i jedno i drugo u mogućnosti. Budući, dakle, da Bog nema ničega od mogućnosti, nego je čisti čin, potrebno je da su u njemu um i shvaćeno posve isto, i to tako da niti mu nedostaje umljivi spoznajni lik, kao što nedostaje našem umu kad shvaća u mogućnosti; niti je umljivi spoznajni lik nešto drugo od supstancije božanskog uma, kao što se događa u našem umu kad zbiljski shvaća; nego je sam umljivi spoznajni lik sam božanski um. I tako on shvaća sebe po samom sebi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da vraćati se svojoj biti nije ništa drugo nego da stvar samostoji u sebi samoj. Forma se, naime, ukoliko usavršava tvar dajući joj bitak, na neki način izlijeva na nju, a ukoliko ima bitak u sebi samoj, vraća se u sebe samu. Spoznajne snage, dakle, koje nisu samostojne, nego su čini nekih organa, ne spoznaju same sebe, kao što je očito kod pojedinih osjetila. Ali spoznajne snage koje samostoje po sebi spoznaju same sebe. I zbog toga se u Knjizi o uzrocima kaže da se *onaj koji zna svoju bit vraća svojoj biti*. A samostojati po sebi ponajviše pristaje Bogu. Stoga se, prema tom načinu govora, on ponajviše vraća svojoj biti i spoznaje sama sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a2.ad2": {
+      "text": "Na drugo treba reći da se gibati i trpjeti uzimaju dvoznačno kad se kaže da je shvaćanje neko gibanje ili trpljenje, kako se kaže u III. knjizi O duši. Shvaćanje, naime, nije gibanje koje je čin nesavršenoga, koje ide od jednoga prema drugome, nego čin savršenoga, koji postoji u samom djelatniku. Slično tome, i to što se um usavršava umljivim ili mu se upriličuje pristaje umu koji je katkad u mogućnosti; jer se po tome što je u mogućnosti razlikuje od umljivoga i upriličuje mu se po umljivom spoznajnom liku, koji je sličnost shvaćene stvari, te se njime usavršava kao mogućnost činom. Ali božanski um, koji ni na koji način nije u mogućnosti, ne usavršava se umljivim niti mu se upriličuje, nego je sam svoja savršenost i svoje umljivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a2.ad3": {
+      "text": "Na treće treba reći da naravni bitak ne pripada prvoj tvari, koja je u mogućnosti, osim ukoliko je po formi svedena u čin. A naš se mogućnosni um u redu umljivih stvari odnosi kao prva tvar u redu naravnih stvari, zato što je u mogućnosti prema umljivom kao prva tvar prema naravnom. Stoga naš mogućnosni um ne može imati umsko djelovanje osim ukoliko se usavrši umljivim spoznajnim likom nečega. I tako shvaća sama sebe po umljivom spoznajnom liku, kao i drugo; očito je, naime, da po tome što spoznaje umljivo shvaća svoje vlastito shvaćanje, a po činu spoznaje umsku moć. Bog je pak kao čisti čin kako u redu onoga što postoji tako i u redu umljivoga, i zato shvaća sama sebe po samom sebi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da Bog ne obuhvaća sama sebe. Augustin, naime, kaže u knjizi Osamdeset i tri pitanja da je ono što obuhvaća sebe sebi konačno. Ali Bog je na sve načine beskonačan. Dakle, ne obuhvaća sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a3.obj2": {
+      "text": "Ako se kaže da je Bog beskonačan za nas, a za sebe konačan, protiv toga stoji: svaka je stvar istinitija onakva kakva je kod Boga nego onakva kakva je kod nas. Ako je, dakle, Bog sam sebi konačan, a nama beskonačan, istinitije je da je Bog konačan nego da je beskonačan. A to je protiv onoga što je prije utvrđeno. Dakle, Bog ne obuhvaća sama sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a3.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže na istome mjestu: *Sve što shvaća sebe, obuhvaća sebe.* Ali Bog shvaća sebe. Dakle, obuhvaća sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a3.resp": {
+      "text": "Odgovaram: treba reći da Bog savršeno obuhvaća sama sebe. To je jasno ovako. Za nešto se kaže da je obuhvaćeno kad se dođe do kraja njegove spoznaje, a to je kad se stvar spoznaje tako savršeno kako je spoznatljiva. Tako se dokaziv sud obuhvaća kad se zna dokazom, a ne kad se spoznaje nekim vjerojatnim razlogom. Očito je pak da Bog sebe spoznaje tako savršeno kako je savršeno spoznatljiv. Svaka je stvar, naime, spoznatljiva prema načinu svojega čina; jer se nešto ne spoznaje ukoliko je u mogućnosti, nego ukoliko je u činu, kako se kaže u IX. knjizi Metafizike. A tolika je Božja snaga u spoznavanju kolika je njegova zbiljnost u postojanju; jer je Bog spoznajan po tome što je u činu i odijeljen od svake tvari i mogućnosti, kao što je pokazano. Stoga je očito da sebe spoznaje toliko koliko je spoznatljiv. I zbog toga savršeno obuhvaća sama sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da obuhvatiti, ako se uzme u vlastitom smislu, označuje nešto što ima i uključuje drugo. I tako je potrebno da je sve obuhvaćeno konačno, kao i sve uključeno. Ali za Boga se ne kaže da je obuhvaćen od samoga sebe tako da bi njegov um bio nešto drugo od njega i da bi ga zahvaćao i uključivao. Nego takve izraze treba tumačiti putem nijekanja. Kao što se, naime, kaže da je Bog u samom sebi jer ga ništa izvanjsko ne sadržava, tako se kaže da je obuhvaćen od samoga sebe jer ništa njegovo nije skriveno pred njim. Augustin, naime, kaže u knjizi O gledanju Boga: *Cjelina se obuhvaća gledanjem kad se tako gleda da ništa od nje nije skriveno pred onim koji gleda.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a3.ad2": {
+      "text": "Na drugo treba reći da, kad se kaže da je Bog sebi konačan, to treba shvatiti prema nekoj sličnosti razmjera: jer se on u tome što ne nadilazi svoj um odnosi onako kako se nešto konačno odnosi u tome što ne nadilazi konačni um. Ali ne kaže se da je Bog sebi konačan u tom smislu da bi on shvaćao sebe kao nešto konačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da samo Božje shvaćanje nije njegova supstancija. Shvaćanje je, naime, neko djelovanje. A djelovanje označuje nešto što proizlazi od onoga koji djeluje. Dakle, samo Božje shvaćanje nije sama Božja supstancija.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a4.obj2": {
+      "text": "Osim toga, kad netko shvaća da shvaća, to nije shvaćanje nečega velikoga ili glavnog shvaćenog predmeta, nego shvaćanje nečega drugotnoga i sporednoga. Ako je, dakle, Bog samo shvaćanje, shvaćati Boga bit će kao kad shvaćamo shvaćanje. I tako shvaćati Boga neće biti nešto veliko.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a4.obj3": {
+      "text": "Osim toga, svako je shvaćanje shvaćanje nečega. Kad, dakle, Bog shvaća sebe, ako on sam nije ništa drugo nego svoje shvaćanje, on shvaća da shvaća, i shvaća da shvaća da shvaća sebe, i tako u beskonačnost. Dakle, samo Božje shvaćanje nije njegova supstancija.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u VII. knjizi O Trojstvu: *Bogu je biti isto što i biti mudar.* A biti mudar isto je što i shvaćati. Dakle, Bogu je biti isto što i shvaćati. Ali Božji je bitak njegova supstancija, kao što je gore pokazano. Dakle, Božje je shvaćanje njegova supstancija.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a4.resp": {
+      "text": "Odgovaram: treba reći da je nužno reći kako je Božje shvaćanje njegova supstancija. Jer kad bi Božje shvaćanje bilo nešto drugo od njegove supstancije, bilo bi potrebno, kako kaže Filozof u XII. knjizi Metafizike, da nešto drugo bude čin i savršenost božanske supstancije, prema čemu bi se božanska supstancija odnosila kao mogućnost prema činu (što je posve nemoguće); jer je shvaćanje savršenost i čin onoga koji shvaća. A kako je to, treba razmotriti. Kao što je, naime, gore rečeno, shvaćanje nije radnja koja ide prema nečemu izvanjskom, nego ostaje u onome koji djeluje kao njegov čin i savršenost, kao što je bitak savršenost onoga što postoji; jer kao što bitak prati formu, tako shvaćanje slijedi umljivi spoznajni lik. A u Bogu nema forme koja bi bila nešto drugo od njegova bitka, kao što je gore pokazano. Stoga, budući da je sama njegova bit također umljivi spoznajni lik, kao što je rečeno, nužno slijedi da je samo njegovo shvaćanje njegova bit i njegov bitak. I tako je iz svega prethodno rečenoga jasno da su u Bogu um, i ono što se shvaća, i umljivi spoznajni lik, i samo shvaćanje posve jedno te isto. Stoga je jasno da se time što se za Boga kaže da shvaća ne postavlja nikakvo mnoštvo u njegovu supstanciju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da shvaćanje nije djelovanje koje izlazi iz samoga onoga koji djeluje, nego koje ostaje u njemu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a4.ad2": {
+      "text": "Na drugo treba reći da, kad se shvaća ono shvaćanje koje nije samostojno, ne shvaća se nešto veliko, kao kad shvaćamo svoje shvaćanje. I zato nije jednako sa samim božanskim shvaćanjem, koje je samostojno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a4.ad3": {
+      "text": "I time je jasan odgovor na treće. Jer božansko shvaćanje, koje samostoji u sebi samom, jest shvaćanje sebe samoga, a ne nečega drugoga, tako da bi trebalo ići u beskonačnost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da Bog ne spoznaje ono što je drugo od njega. Sve što je drugo od Boga, naime, izvan njega je. Ali Augustin kaže u knjizi Osamdeset i tri pitanja: *Bog ništa ne motri izvan sebe samoga.* Dakle, ne spoznaje ono što je drugo od njega.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a5.obj2": {
+      "text": "Osim toga, shvaćeno je savršenost onoga koji shvaća. Ako, dakle, Bog shvaća ono što je drugo od njega, nešto drugo bit će Božja savršenost, i plemenitije od njega. A to je nemoguće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a5.obj3": {
+      "text": "Osim toga, samo shvaćanje dobiva vrstu od umljivoga, kao i svaki drugi čin od svojega predmeta; stoga je i samo shvaćanje utoliko plemenitije ukoliko je plemenitije ono samo što se shvaća. Ali Bog je samo svoje shvaćanje, kao što je jasno iz rečenoga. Ako, dakle, Bog shvaća nešto drugo od sebe, sam Bog dobiva vrstu od nečega drugoga od sebe, što je nemoguće. Dakle, ne shvaća ono što je drugo od njega.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Heb 4: *Sve je golo i otkriveno očima njegovim.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a5.resp": {
+      "text": "Odgovaram: treba reći da je nužno da Bog spoznaje ono što je drugo od njega. Očito je, naime, da on savršeno shvaća sama sebe; inače njegov bitak ne bi bio savršen, budući da je njegov bitak njegovo shvaćanje. A ako se nešto savršeno spoznaje, nužno je da se savršeno spoznaje njegova snaga. A snaga se neke stvari ne može savršeno spoznati ako se ne spoznaje ono na što se ta snaga proteže. Stoga, budući da se božanska snaga proteže na drugo, zato što je ona prvi tvorni uzrok svih bića, kao što je jasno iz prethodno rečenoga, nužno je da Bog spoznaje ono što je drugo od njega. A to postaje još očitije ako se doda da je sam bitak prvoga djelatnog uzroka, naime Boga, njegovo shvaćanje. Stoga je nužno da bilo koji učinci koji unaprijed postoje u Bogu kao u prvom uzroku budu u samom njegovu shvaćanju, i da sve bude u njemu na umljiv način; jer sve što je u drugome, u njemu je prema načinu onoga u čemu jest. A da bi se znalo kako spoznaje ono što je drugo od njega, treba uzeti u obzir da se nešto spoznaje na dva načina: na jedan način u samom sebi, na drugi način u drugome. U samom se sebi nešto spoznaje kad se spoznaje po vlastitom spoznajnom liku primjerenom samome spoznatljivom, kao kad oko vidi čovjeka po spoznajnom liku čovjeka. A u drugome se vidi ono što se vidi po spoznajnom liku onoga što ga sadržava, kao kad se dio vidi u cjelini po spoznajnom liku cjeline, ili kad se čovjek vidi u zrcalu po spoznajnom liku zrcala, ili na bilo koji drugi način na koji se događa da se nešto vidi u drugome. Tako, dakle, treba reći da Bog vidi sebe u samom sebi, jer vidi sebe po svojoj biti. A ono što je drugo od njega ne vidi u njemu samome, nego u samom sebi, ukoliko njegova bit sadržava sličnost onoga što je drugo od njega.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustinovu riječ, kad kaže da Bog ništa ne motri izvan sebe, ne treba tako shvatiti kao da ne motri ništa što je izvan njega, nego da ono što je izvan njega samoga ne motri drukčije nego u samom sebi, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a5.ad2": {
+      "text": "Na drugo treba reći da je shvaćeno savršenost onoga koji shvaća ne po svojoj supstanciji, nego po svojem spoznajnom liku, po kojem je u umu kao njegova forma i savršenost; *jer nije kamen u duši, nego njegov spoznajni lik*, kako se kaže u III. knjizi O duši. A ono što je drugo od Boga Bog shvaća ukoliko Božja bit sadržava njihove spoznajne likove, kao što je rečeno. Stoga ne slijedi da je išta drugo savršenost božanskog uma osim same Božje biti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a5.ad3": {
+      "text": "Na treće treba reći da samo shvaćanje ne dobiva vrstu od onoga što se shvaća u drugome, nego od glavnoga shvaćenog predmeta, u kojem se shvaća drugo. Shvaćanje, naime, utoliko dobiva vrstu od svojega predmeta ukoliko je umljiva forma počelo umskog djelovanja; jer svako djelovanje dobiva vrstu od forme koja je počelo djelovanja, kao grijanje od topline. Stoga umsko djelovanje dobiva vrstu od one umljive forme koja čini um u činu. A to je spoznajni lik glavnoga shvaćenog predmeta, koji u Bogu nije ništa drugo nego njegova bit, u kojoj su obuhvaćeni svi spoznajni likovi stvari. Stoga nije potrebno da samo božansko shvaćanje, ili radije sam Bog, dobiva vrstu od čega drugoga osim od božanske biti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da Bog ne spoznaje ono što je drugo od njega vlastitom spoznajom. On, naime, spoznaje ono što je drugo od njega, kao što je rečeno, ukoliko je ono drugo od njega u njemu. Ali ono drugo od njega u njemu je kao u prvom zajedničkom i općem uzroku. Dakle, i ono drugo Bog spoznaje kao u prvom i općem uzroku. A to je spoznavati općenito, a ne vlastitom spoznajom. Dakle, Bog spoznaje ono što je drugo od njega općenito, a ne vlastitom spoznajom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a6.obj2": {
+      "text": "Osim toga, koliko je bit stvora udaljena od božanske biti, toliko je božanska bit udaljena od biti stvora. Ali po biti stvora ne može se spoznati božanska bit, kao što je gore rečeno. Dakle, ni po božanskoj biti ne može se spoznati bit stvora. I tako, budući da Bog ništa ne spoznaje osim po svojoj biti, slijedi da ne spoznaje stvor prema njegovoj biti, tako da bi o njemu spoznao što jest, a to znači imati vlastitu spoznaju o stvari.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a6.obj3": {
+      "text": "Osim toga, vlastita se spoznaja o stvari ima samo po njezinu vlastitom pojmu. Ali budući da Bog sve spoznaje po svojoj biti, ne čini se da svaku stvar spoznaje po vlastitom pojmu; jer isto ne može biti vlastiti pojam mnogih i različitih stvari. Dakle, Bog nema vlastitu spoznaju o stvarima, nego zajedničku; jer spoznavati stvari ne po vlastitom pojmu znači spoznavati stvari samo općenito.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a6.sc": {
+      "text": "Ali protiv toga: imati vlastitu spoznaju o stvarima znači spoznavati stvari ne samo općenito, nego ukoliko su međusobno različite. A Bog tako spoznaje stvari. Zato se u Heb 4 kaže da *prodire sve do rastavljanja duha i duše, zglobova i moždine; i razlučuje misli i nakane srca; i nema stvora koji bi bio nevidljiv pred njegovim licem*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a6.resp": {
+      "text": "Odgovaram: treba reći da su u tome neki zabludjeli, govoreći da Bog ono što je drugo od njega ne spoznaje drukčije nego općenito, naime ukoliko su to bića. Kao što bi, naime, vatra, kad bi spoznavala samu sebe kao počelo topline, spoznavala narav topline i sve drugo ukoliko je toplo, tako i Bog, ukoliko spoznaje sebe kao počelo bitka, spoznaje narav bića i sve drugo ukoliko su bića. Ali to ne može biti. Jer shvaćati nešto općenito, a ne posebno, znači nesavršeno nešto spoznavati. Zato naš um, dok se iz mogućnosti svodi u čin, prije dolazi do opće i nerazgovijetne spoznaje o stvarima nego do vlastite spoznaje stvari, napredujući kao od nesavršenoga prema savršenome, kao što je jasno u I. knjizi Fizike. Kad bi, dakle, Božja spoznaja o stvarima drugima od njega bila samo općenita, a ne posebna, slijedilo bi da njegovo shvaćanje nije na sve načine savršeno, a posljedično ni njegov bitak, što je protiv onoga što je gore pokazano. Treba, dakle, reći da ono što je drugo od njega spoznaje vlastitom spoznajom; ne samo ukoliko ima zajedništvo u pojmu bića, nego ukoliko se jedno razlikuje od drugoga. A da bi to bilo jasno, treba uzeti u obzir da se neki, želeći pokazati da Bog po jednome spoznaje mnogo, služe nekim primjerima, recimo da bi središte, kad bi spoznavalo samo sebe, spoznavalo sve crte koje izlaze iz središta; ili da bi svjetlost, kad bi spoznavala samu sebe, spoznavala sve boje. Ali ti primjeri, premda su u nečemu slični, naime u pogledu opće uzročnosti, ipak zakazuju u tome što mnoštvo i različitost nisu prouzročeni od onoga jednoga općeg počela u pogledu onoga što je počelo razlikovanja, nego samo u pogledu onoga u čemu imaju zajedništvo. Različitost boja, naime, nije prouzročena samo od svjetlosti, nego od različite raspoloživosti prozirnoga sredstva koje prima, a slično i različitost crta od različita položaja. I odatle dolazi da se takva različitost i mnoštvo ne mogu spoznati u svojem počelu vlastitom spoznajom, nego samo općenito. Ali u Bogu nije tako. Gore je, naime, pokazano da sve što je savršenosti u bilo kojem stvoru u cjelini unaprijed postoji i sadržano je u Bogu na izvrstan način. A savršenosti ne pripada samo ono u čemu stvorovi imaju zajedništvo, naime sam bitak, nego i ono po čemu se stvorovi međusobno razlikuju, kao što su živjeti, shvaćati i slično, po čemu se živa bića razlikuju od neživih, a ona koja shvaćaju od onih koja ne shvaćaju. I svaka forma, po kojoj se bilo koja stvar konstituira u vlastitoj vrsti, jest neka savršenost. I tako sve unaprijed postoji u Bogu, ne samo u pogledu onoga što je svemu zajedničko, nego i u pogledu onoga po čemu se stvari razlikuju. I tako, budući da Bog u sebi sadržava sve savršenosti, Božja se bit odnosi prema svim bitima stvari ne kao zajedničko prema vlastitome, kao jedinica prema brojevima ili središte prema crtama, nego kao savršeni čin prema nesavršenima, kao kad bih rekao čovjek prema životinji, ili šestica, koja je savršen broj, prema nesavršenim brojevima sadržanima pod njom. A očito je da se po savršenom činu mogu spoznati nesavršeni čini, ne samo općenito, nego i vlastitom spoznajom. Tako onaj koji spoznaje čovjeka spoznaje životinju vlastitom spoznajom, a onaj koji spoznaje šesticu spoznaje trojku vlastitom spoznajom. Tako, dakle, budući da Božja bit ima u sebi sve što je savršenosti u biti bilo koje druge stvari, i još više, Bog u samom sebi može sve spoznati vlastitom spoznajom. Vlastita se, naime, narav svake stvari sastoji u tome što na neki način ima udjela u božanskoj savršenosti. A Bog ne bi savršeno spoznavao sama sebe kad ne bi spoznavao na koje sve načine drugi mogu imati udjela u njegovoj savršenosti; niti bi savršeno znao samu narav bitka kad ne bi spoznavao sve načine bitka. Stoga je očito da Bog spoznaje sve stvari vlastitom spoznajom, ukoliko se razlikuju od drugih.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se to da spoznavatelj spoznaje nešto tako kako je ono u spoznavatelju može shvatiti na dva načina. Na jedan način, ukoliko ovaj prilog „tako” uključuje način spoznaje sa strane spoznate stvari. I tako je to neistinito. Jer onaj koji spoznaje ne spoznaje uvijek spoznato prema onom bitku koji ono ima u onome koji spoznaje; oko, naime, ne spoznaje kamen prema bitku koji on ima u oku, nego po spoznajnom liku kamena koji ima u sebi spoznaje kamen prema bitku koji on ima izvan oka. A ako onaj koji spoznaje i spoznaje spoznato prema bitku koji ono ima u onome koji spoznaje, ipak ga jednako tako spoznaje prema bitku koji ono ima izvan onoga koji spoznaje; kao što um spoznaje kamen prema umljivom bitku koji on ima u umu, ukoliko spoznaje da shvaća, ali ipak spoznaje bitak kamena u njegovoj vlastitoj naravi. Ako se pak shvati tako da ovaj prilog „tako” uključuje način sa strane onoga koji spoznaje, istinito je da onaj koji spoznaje spoznaje spoznato samo tako kako je ono u onome koji spoznaje; jer što je spoznato savršenije u onome koji spoznaje, to je savršeniji način spoznaje. Tako, dakle, treba reći da Bog ne samo spoznaje da su stvari u njemu samome, nego po tome što u sebi sadržava stvari spoznaje ih u njihovoj vlastitoj naravi; i to utoliko savršenije ukoliko je svaka stvar savršenije u njemu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a6.ad2": {
+      "text": "Na drugo treba reći da se bit stvora odnosi prema Božjoj biti kao nesavršeni čin prema savršenome. I zato bit stvora ne vodi dostatno do spoznaje božanske biti, nego obratno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a6.ad3": {
+      "text": "Na treće treba reći da se isto ne može uzeti kao pojam različitih stvari na način primjerenosti. Ali božanska je bit nešto što nadilazi sve stvorove. Stoga se može uzeti kao vlastiti pojam svake pojedine stvari, ukoliko različiti stvorovi na različit način mogu imati udjela u njoj ili je nasljedovati.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da je Božje znanje diskurzivno. Božje znanje, naime, nije znanje u habitusu, nego shvaćanje u činu. Ali prema Filozofu, u II. knjizi Topike, u habitusu se može znati mnogo toga istodobno, a u činu shvaćati samo jedno. Budući, dakle, da Bog spoznaje mnogo toga, jer i sebe i drugo, kao što je pokazano, čini se da ne shvaća sve istodobno, nego da prelazi od jednoga na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a7.obj2": {
+      "text": "Osim toga, spoznavati učinak po uzroku svojstveno je znanju onoga koji zaključuje prelazeći s jednoga na drugo. Ali Bog spoznaje drugo po samom sebi, kao učinak po uzroku. Dakle, njegova je spoznaja diskurzivna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a7.obj3": {
+      "text": "Osim toga, Bog savršenije zna svaki stvor nego što ga mi znamo. Ali mi u stvorenim uzrocima spoznajemo njihove učinke i tako od uzroka prelazimo na prouzročeno. Dakle, čini se da je slično i u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a7.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u XV. knjizi O Trojstvu: *Bog ne vidi sve djelomično ili pojedinačno, kao da pogled izmjenjuje odavde onamo i odande ovamo; nego vidi sve istodobno.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a7.resp": {
+      "text": "Odgovaram: treba reći da u božanskom znanju nema nikakva diskurzivnog prelaženja. To je jasno ovako. U našem je znanju, naime, dvostruko prelaženje. Jedno samo po slijedu, kao kad se, pošto nešto shvatimo u činu, okrenemo shvaćanju nečega drugoga. Drugo je prelaženje po uzročnosti, kao kad po načelima dolazimo do spoznaje zaključaka. Prvo prelaženje ne može pristajati Bogu. Jer mnogo toga što shvaćamo uzastopno, ako se svako od toga promatra u samom sebi, shvaćamo sve istodobno ako to shvaćamo u nečemu jednome, recimo ako dijelove shvaćamo u cjelini, ili ako različite stvari vidimo u zrcalu. A Bog sve vidi u jednome, koje je on sam, kao što je utvrđeno. Stoga sve vidi istodobno, a ne uzastopno. Slično tako ni drugo prelaženje ne može pristajati Bogu. Prvo, zato što drugo prelaženje pretpostavlja prvo; jer oni koji idu od načela prema zaključcima ne razmatraju istodobno i jedno i drugo. Zatim, zato što je takvo prelaženje svojstveno onome koji ide od poznatoga prema nepoznatome. Stoga je očito da se, kad se spoznaje prvo, još ne zna drugo. I tako se drugo ne spoznaje u prvome, nego iz prvoga. A završetak je prelaženja kad se drugo vidi u prvome, pošto su učinci svedeni na uzroke; i tada prelaženje prestaje. Stoga, budući da Bog vidi svoje učinke u samom sebi kao u uzroku, njegova spoznaja nije diskurzivna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda je samo jedno shvaćanje u samom sebi, ipak se događa da se mnogo toga shvaća u nečemu jednome, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a7.ad2": {
+      "text": "Na drugo treba reći da Bog ne spoznaje nepoznate učinke po uzroku kao prije spoznatom, nego ih spoznaje u uzroku. Stoga je njegova spoznaja bez diskurzivnog prelaženja, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a7.ad3": {
+      "text": "Na treće treba reći da Bog učinke stvorenih uzroka vidi doduše u samim uzrocima, mnogo bolje nego mi, ali ipak ne tako da bi spoznaja učinaka u njemu bila prouzročena spoznajom stvorenih uzroka, kao u nama. Stoga njegovo znanje nije diskurzivno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da Božje znanje nije uzrok stvari. Origen, naime, kaže u komentaru Poslanice Rimljanima: *Nešto neće biti zato što Bog zna da će biti; nego, budući da će biti, zato ga Bog zna prije nego što se dogodi.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a8.obj2": {
+      "text": "Osim toga, kad je postavljen uzrok, postavljen je i učinak. Ali Božje je znanje vječno. Ako je, dakle, Božje znanje uzrok stvorenih stvari, čini se da su stvorovi od vječnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a8.obj3": {
+      "text": "Osim toga, znatljivo je prije znanja i njegova je mjera, kako se kaže u X. knjizi Metafizike. Ali ono što je kasnije i mjereno ne može biti uzrok. Dakle, Božje znanje nije uzrok stvari.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XV. knjizi O Trojstvu: *Sve stvorove, i duhovne i tjelesne, Bog ne zna zato što jesu, nego oni jesu zato što ih on zna.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a8.resp": {
+      "text": "Odgovaram: treba reći da je Božje znanje uzrok stvari. Božje se znanje, naime, odnosi prema svim stvorenim stvarima kao što se znanje umjetnika odnosi prema umjetninama. A znanje je umjetnika uzrok umjetnina zato što umjetnik djeluje svojim umom; stoga je potrebno da forma u umu bude počelo djelovanja, kao što je toplina počelo grijanja. Ali treba uzeti u obzir da naravna forma, ukoliko je forma koja ostaje u onome čemu daje bitak, ne znači počelo radnje, nego ukoliko ima nagnuće prema učinku. I slično tako umljiva forma ne znači počelo radnje ukoliko je samo u onome koji shvaća, ako joj se ne pridruži nagnuće prema učinku, koje dolazi od volje. Budući da se, naime, umljiva forma odnosi prema suprotnostima (jer je isto znanje o suprotnostima), ne bi proizvela određeni učinak kad ne bi bila određena na jedno težnjom, kako se kaže u IX. knjizi Metafizike. Očito je pak da Bog uzrokuje stvari svojim umom, budući da je njegov bitak njegovo shvaćanje. Stoga je nužno da je njegovo znanje uzrok stvari ukoliko je s njim povezana volja. Zato se Božje znanje, ukoliko je uzrok stvari, obično naziva znanjem odobravanja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Origen govorio imajući u vidu pojam znanja, kojem ne pripada pojam uzročnosti osim ako se pridruži volja, kao što je rečeno. A ono što kaže, da Bog nešto unaprijed zna zato što će biti, treba shvatiti prema uzroku slijeda, a ne prema uzroku bitka. Slijedi, naime, ako će nešto biti, da je Bog to unaprijed znao; ali ipak buduće stvari nisu uzrok tome da Bog zna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a8.ad2": {
+      "text": "Na drugo treba reći da je Božje znanje uzrok stvari ukoliko su stvari u znanju. A u Božjem znanju nije bilo to da stvari budu od vječnosti. Stoga, premda je Božje znanje vječno, ipak ne slijedi da su stvorovi od vječnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a8.ad3": {
+      "text": "Na treće treba reći da su naravne stvari posrednice između Božjega znanja i našega znanja; mi, naime, znanje primamo od naravnih stvari, kojima je Bog po svojem znanju uzrok. Stoga, kao što je naravno znatljivo prije našega znanja i njegova je mjera, tako je Božje znanje prije naravnih stvari i njihova je mjera. Kao što je neka kuća posrednica između znanja umjetnika koji ju je napravio i znanja onoga koji o njoj stječe spoznaju iz nje same, već napravljene.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da Bog nema znanja o nebićima. Božje se znanje, naime, odnosi samo na ono što je istinito. Ali istinito i biće se zamjenjuju. Dakle, Božje se znanje ne odnosi na nebića.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a9.obj2": {
+      "text": "Osim toga, znanje zahtijeva sličnost između onoga koji zna i znanoga. Ali ono što nije ne može imati nikakvu sličnost s Bogom, koji je sam bitak. Dakle, ono što nije Bog ne može znati.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a9.obj3": {
+      "text": "Osim toga, Božje je znanje uzrok onoga što on zna. Ali nije uzrok nebića, jer nebiće nema uzroka. Dakle, Bog nema znanja o nebićima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a9.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Rim 4: *koji zove ono što nije kao ono što jest*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a9.resp": {
+      "text": "Odgovaram: treba reći da Bog zna sve što jest na bilo koji način. A ništa ne priječi da ono što nije naprosto na neki način bude. Naprosto je, naime, ono što jest u činu. A ono što nije u činu jest u mogućnosti, bilo samoga Boga bilo stvora; bilo u djelatnoj mogućnosti, bilo u trpnoj, bilo u mogućnosti mnijenja ili zamišljanja ili bilo kakva označivanja. Sve, dakle, što može učiniti, misliti ili reći stvor, i također sve što on sam može učiniti, sve to Bog spoznaje, čak i ako nije u činu. I utoliko se može reći da ima znanje i o nebićima. Ali kod onoga što nije u činu treba uočiti neku razliku. Neke stvari, naime, premda sada nisu u činu, ipak su bile ili će biti; i za sve to se kaže da ih Bog zna znanjem gledanja. Jer, budući da se Božje shvaćanje, koje je njegov bitak, mjeri vječnošću, koja, postojeći bez slijeda, obuhvaća cijelo vrijeme, Božji se sadašnji pogled proteže na cijelo vrijeme i na sve što jest u bilo kojem vremenu, kao na ono što mu je prisutno podloženo. A neke su stvari u mogućnosti Boga ili stvora, ali ipak niti jesu, niti će biti, niti su bile. I s obzirom na njih ne kaže se da ima znanje gledanja, nego znanje jednostavnog shvaćanja. To se kaže zato što ono što se kod nas vidi ima zaseban bitak izvan onoga koji vidi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono što nije u činu ima istinitost ukoliko je u mogućnosti; istinito je, naime, da je ono u mogućnosti. I tako ga Bog zna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a9.ad2": {
+      "text": "Na drugo treba reći da, budući da je Bog sam bitak, svaka stvar utoliko jest ukoliko ima udjela u Božjoj sličnosti, kao što je svaka stvar utoliko topla ukoliko ima udjela u toplini. Tako Bog spoznaje i ono što je u mogućnosti, čak i ako nije u činu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a9.ad3": {
+      "text": "Na treće treba reći da je Božje znanje uzrok stvari kad mu se pridruži volja. Stoga nije potrebno da sve što Bog zna jest, ili je bilo, ili će biti, nego samo ono što hoće da bude ili dopušta da bude. I nadalje, u Božjem znanju nije to da te stvari budu, nego da mogu biti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da Bog ne spoznaje zla. Filozof, naime, kaže u III. knjizi O duši da um koji nije u mogućnosti ne spoznaje lišenost. Ali zlo je lišenost dobra, kako kaže Augustin. Budući, dakle, da Božji um nikada nije u mogućnosti, nego uvijek u činu, kao što je jasno iz rečenoga, čini se da Bog ne spoznaje zla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a10.obj2": {
+      "text": "Osim toga, svako je znanje ili uzrok znanoga ili je od njega prouzročeno. Ali Božje znanje nije uzrok zla, niti je prouzročeno od zla. Dakle, Božje se znanje ne odnosi na zla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a10.obj3": {
+      "text": "Osim toga, sve što se spoznaje spoznaje se po svojoj sličnosti ili po svojoj suprotnosti. A što god Bog spoznaje, spoznaje po svojoj biti, kao što je jasno iz rečenoga. Ali božanska bit niti je sličnost zla, niti joj se zlo suprotstavlja; božanskoj biti, naime, ništa nije protivno, kako kaže Augustin u XII. knjizi O Božjem gradu. Dakle, Bog ne spoznaje zla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a10.obj4": {
+      "text": "Osim toga, ono što se ne spoznaje po samom sebi, nego po drugome, spoznaje se nesavršeno. Ali Bog ne spoznaje zlo po njemu samome, jer bi tada bilo potrebno da zlo bude u Bogu; potrebno je, naime, da spoznato bude u onome koji spoznaje. Ako se, dakle, spoznaje po drugome, naime po dobru, on će ga spoznavati nesavršeno, što je nemoguće, jer nijedna Božja spoznaja nije nesavršena. Dakle, Božje se znanje ne odnosi na zla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a10.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izr 15: *Podzemlje i propast pred Bogom su.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a10.resp": {
+      "text": "Odgovaram: treba reći da onaj koji nešto savršeno spoznaje mora spoznavati sve što se tome može dogoditi. A postoje neka dobra kojima se može dogoditi da budu pokvarena zlima. Stoga Bog ne bi savršeno spoznavao dobra kad ne bi spoznavao i zla. A svaka je stvar spoznatljiva onako kako jest. Stoga, budući da je bitak zla u tome što je lišenost dobra, Bog po samom tome što spoznaje dobra spoznaje i zla, kao što se po svjetlosti spoznaje tama. Zato Dionizije kaže u VII. poglavlju O Božjim imenima: *Bog po samom sebi prima gledanje tame, ne videći tamu odakle drugdje nego od svjetla.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozofovu riječ treba shvatiti tako da um koji nije u mogućnosti ne spoznaje lišenost po lišenosti koja postoji u njemu. I to se slaže s onim što je ondje prije rekao, da se točka i sve nedjeljivo spoznaje po lišenosti podijeljenosti. To dolazi otuda što jednostavne i nedjeljive forme nisu u činu u našem umu, nego samo u mogućnosti; jer kad bi bile u činu u našem umu, ne bi se spoznavale po lišenosti. I tako odijeljene supstancije spoznaju jednostavne stvari. Bog, dakle, ne spoznaje zlo po lišenosti koja postoji u njemu, nego po suprotnom dobru.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a10.ad2": {
+      "text": "Na drugo treba reći da Božje znanje nije uzrok zla, nego je uzrok dobra po kojem se spoznaje zlo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a10.ad3": {
+      "text": "Na treće treba reći da, premda se zlo ne suprotstavlja božanskoj biti, koja se ne može pokvariti zlom, ipak se suprotstavlja Božjim učincima; njih on spoznaje po svojoj biti i, spoznajući njih, spoznaje suprotna zla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a10.ad4": {
+      "text": "Na četvrto treba reći da spoznavati nešto samo po drugome pripada nesavršenoj spoznaji ako je to po sebi spoznatljivo. Ali zlo nije po sebi spoznatljivo, jer pojmu zla pripada to da je lišenost dobra. I tako se ne može ni definirati ni spoznati osim po dobru.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da Bog ne spoznaje pojedinačno. Božanski je um, naime, netvarniji od ljudskoga uma. Ali ljudski um zbog svoje netvarnosti ne spoznaje pojedinačno, nego, kako se kaže u II. knjizi O duši, *razum se odnosi na opće, a osjetilo na pojedinačno*. Dakle, Bog ne spoznaje pojedinačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a11.obj2": {
+      "text": "Osim toga, u nama su spoznajne za pojedinačno samo one snage koje primaju spoznajne likove neapstrahirane od tvarnih uvjeta. Ali stvari su u Bogu ponajviše apstrahirane od svake tvarnosti. Dakle, Bog ne spoznaje pojedinačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a11.obj3": {
+      "text": "Osim toga, svaka je spoznaja po nekoj sličnosti. Ali ne čini se da je u Bogu sličnost pojedinačnih stvari ukoliko su pojedinačne, jer je počelo pojedinačnosti tvar, koja je, budući da je biće samo u mogućnosti, posve neslična Bogu, koji je čisti čin. Dakle, Bog ne može spoznavati pojedinačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a11.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izr 16: *Svi su putovi ljudi otvoreni očima njegovim.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a11.resp": {
+      "text": "Odgovaram: treba reći da Bog spoznaje pojedinačno. Sve savršenosti koje se nalaze u stvorovima, naime, unaprijed postoje u Bogu na uzvišeniji način, kao što je jasno iz rečenoga. A spoznavati pojedinačno pripada našoj savršenosti. Stoga je nužno da Bog spoznaje pojedinačno. I Filozof, naime, smatra neprikladnim da mi spoznajemo nešto što Bog ne bi spoznavao. Zato protiv Empedokla dokazuje, u I. knjizi O duši i u III. knjizi Metafizike, da bi se dogodilo da je Bog najnerazumniji kad ne bi poznavao nesklad. Ali savršenosti koje su u nižim stvarima razdijeljene, u Bogu postoje jednostavno i sjedinjeno. Stoga, premda mi jednom moći spoznajemo opće i netvarno, a drugom pojedinačno i tvarno, ipak Bog svojim jednostavnim umom spoznaje i jedno i drugo. Ali neki su, želeći pokazati kako to može biti, rekli da Bog spoznaje pojedinačno po općim uzrocima; jer u nekoj pojedinačnoj stvari nema ničega što ne bi nastalo iz nekoga općeg uzroka. I navode primjer: kao kad bi neki astronom spoznavao sva opća gibanja neba, mogao bi unaprijed navijestiti sve buduće pomrčine. Ali to nije dovoljno. Jer pojedinačne stvari iz općih uzroka dobivaju neke forme i snage, koje se, koliko god međusobno bile povezane, ne individuiraju drukčije nego po individualnoj tvari. Stoga onaj tko bi spoznavao Sokrata po tome što je bijel, ili što je Sofroniskov sin, ili po bilo čemu drugome što se tako kaže, ne bi ga spoznavao ukoliko je ovaj čovjek. Stoga, na spomenuti način, Bog ne bi spoznavao pojedinačno u njegovoj pojedinačnosti. Drugi su pak rekli da Bog spoznaje pojedinačno primjenjujući opće uzroke na posebne učinke. Ali to nije ništa. Jer nitko ne može primijeniti nešto na drugo ako to prethodno ne spoznaje; stoga spomenuta primjena ne može biti razlog spoznavanja posebnoga, nego pretpostavlja spoznaju pojedinačnoga. I zato treba reći drukčije: budući da je Bog uzrok stvari po svojem znanju, kao što je rečeno, Božje se znanje proteže utoliko ukoliko se proteže njegova uzročnost. Stoga, budući da se Božja djelatna snaga proteže ne samo na forme, od kojih se uzima opći pojam, nego sve do tvari, kao što će se niže pokazati, nužno je da se Božje znanje proteže sve do pojedinačnih stvari, koje se individuiraju po tvari. Budući, naime, da on zna ono što je drugo od njega po svojoj biti, ukoliko je ona sličnost stvari kao njihovo djelatno počelo, nužno je da je njegova bit dostatno počelo spoznavanja svega što po njemu nastaje, ne samo općenito, nego i pojedinačno. I bilo bi slično sa znanjem umjetnika kad bi ono proizvodilo cijelu stvar, a ne samo formu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da naš um apstrahira umljivi spoznajni lik od počela individuacije; stoga umljivi spoznajni lik našega uma ne može biti sličnost individualnih počela. I zbog toga naš um ne spoznaje pojedinačno. Ali umljivi spoznajni lik božanskog uma, koji je Božja bit, nije netvaran po apstrakciji, nego po samom sebi, i počelo je svih počela koja ulaze u sastavljenost stvari, bilo da su to počela vrste, bilo počela pojedinca. Stoga po njemu Bog spoznaje ne samo opće, nego i pojedinačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a11.ad2": {
+      "text": "Na drugo treba reći da, premda spoznajni lik božanskog uma po svojem bitku nema tvarnih uvjeta, kao spoznajni likovi primljeni u mašti i osjetilu, ipak se snagom proteže na netvarno i tvarno, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a11.ad3": {
+      "text": "Na treće treba reći da tvar, premda se po svojoj mogućnosnosti udaljuje od Božje sličnosti, ipak, ukoliko i tako ima bitak, zadržava neku sličnost božanskog bitka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da Bog ne može spoznavati beskonačno. Beskonačno je, naime, ukoliko je beskonačno, nepoznato; jer je beskonačno ono izvan čije se kolikoće, koliko god je od nje uzeli, uvijek može uzeti još nešto, kako se kaže u III. knjizi Fizike. I Augustin kaže u XII. knjizi O Božjem gradu: *Što god se znanjem obuhvaća, ograničuje se obuhvaćanjem onoga koji zna.* Ali beskonačno se ne može ograničiti. Dakle, ne može se obuhvatiti Božjim znanjem.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a12.obj2": {
+      "text": "Ako se kaže da je ono što je u sebi beskonačno konačno za Božje znanje, protiv toga stoji: pojam je beskonačnoga da je neprolazivo, a konačnoga da je prolazivo, kako se kaže u III. knjizi Fizike. Ali beskonačno ne može proći ni konačno ni beskonačno, kao što se dokazuje u VI. knjizi Fizike. Dakle, beskonačno ne može biti konačno ni za konačno, ni za beskonačno. I tako beskonačno nije konačno za Božje znanje, koje je beskonačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a12.obj3": {
+      "text": "Osim toga, Božje je znanje mjera onoga što se zna. Ali protivno je pojmu beskonačnoga da bude mjereno. Dakle, Bog ne može znati beskonačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a12.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XII. knjizi O Božjem gradu: *Premda beskonačnih brojeva nema broja, ipak nije neobuhvatljivo onome čijem znanju nema broja.*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a12.resp": {
+      "text": "Odgovaram: treba reći da, budući da Bog zna ne samo ono što je u činu, nego i ono što je u mogućnosti, bilo njegovoj bilo stvorovoj, kao što je pokazano, a poznato je da je toga beskonačno mnogo, nužno je reći da Bog zna beskonačno. I premda se znanje gledanja, koje se odnosi samo na ono što jest, ili će biti, ili je bilo, ne odnosi na beskonačno, kako neki kažu, budući da ne tvrdimo da je svijet bio od vječnosti, niti da će rađanje i gibanje trajati u vječnost tako da bi se pojedinci umnožavali u beskonačnost, ipak, ako se pomnije razmotri, nužno je reći da Bog i znanjem gledanja zna beskonačno. Jer Bog zna i misli i čuvstva srdaca, koja će se umnožavati u beskonačnost, budući da razumni stvorovi ostaju bez kraja. A tako je zato što se spoznaja bilo kojega spoznavatelja proteže prema načinu forme koja je počelo spoznaje. Osjetni spoznajni lik, naime, koji je u osjetilu, sličnost je samo jednoga pojedinca; stoga se po njemu može spoznati samo jedan pojedinac. A umljivi spoznajni lik našega uma sličnost je stvari s obzirom na narav vrste, u kojoj mogu imati udjela beskonačno mnoge pojedinačne stvari; stoga naš um po umljivom spoznajnom liku čovjeka na neki način spoznaje beskonačno mnogo ljudi. Ali ipak ne ukoliko se međusobno razlikuju, nego ukoliko imaju zajedništvo u naravi vrste; zbog toga što umljivi spoznajni lik našega uma nije sličnost ljudi s obzirom na individualna počela, nego samo s obzirom na počela vrste. A božanska bit, po kojoj božanski um shvaća, dostatna je sličnost svega što jest ili može biti, ne samo s obzirom na zajednička počela, nego i s obzirom na vlastita počela svake pojedine stvari, kao što je pokazano. Stoga slijedi da se Božje znanje proteže na beskonačno, i to ukoliko se međusobno razlikuje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da *pojam beskonačnoga pristaje kolikoći*, prema Filozofu u I. knjizi Fizike. A pojmu kolikoće pripada red dijelova. Spoznavati, dakle, beskonačno na način beskonačnoga znači spoznavati dio za dijelom. I tako se beskonačno nikako ne može spoznati, jer koliko god se dijelova uzme, uvijek ostaje nešto izvan onoga koji uzima. Ali Bog ne spoznaje beskonačno ili beskonačne stvari tako kao da nabraja dio za dijelom, budući da sve spoznaje istodobno, a ne uzastopno, kao što je gore rečeno. Stoga ništa ne priječi da on spoznaje beskonačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a12.ad2": {
+      "text": "Na drugo treba reći da prolaženje uključuje neki slijed u dijelovima; i odatle dolazi da se beskonačno ne može proći ni od konačnoga ni od beskonačnoga. Ali za pojam obuhvaćanja dostatna je primjerenost, jer se kaže da je obuhvaćeno ono čega ništa nije izvan onoga koji obuhvaća. Stoga nije protivno pojmu beskonačnoga da bude obuhvaćeno od beskonačnoga. I tako se za ono što je u sebi beskonačno može reći da je konačno za Božje znanje kao obuhvaćeno, ali ne kao prolazivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a12.ad3": {
+      "text": "Na treće treba reći da je Božje znanje mjera stvari, ne kolikoćom, a takve mjere beskonačno doista nema, nego zato što mjeri bit i istinu stvari. Svaka stvar, naime, utoliko ima istine svoje naravi ukoliko nasljeduje Božje znanje, kao što umjetnina ukoliko se slaže s umijećem. A uzevši da bi postojale neke beskonačne stvari u činu po broju, recimo beskonačno mnogo ljudi, ili po neprekinutoj kolikoći, kao kad bi postojao beskonačan zrak, kako su rekli neki stari, ipak je očito da bi one imale određen i konačan bitak, jer bi njihov bitak bio ograničen na neke određene naravi. Stoga bi bile mjerljive prema Božjem znanju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a13.obj1": {
+      "text": "Na trinaesto se ovako postupa. Čini se da se Božje znanje ne odnosi na kontingentno buduće. Iz nužnog uzroka, naime, proizlazi nužan učinak. Ali Božje je znanje uzrok onoga što se zna, kao što je gore rečeno. Budući, dakle, da je ono nužno, slijedi da je ono što on zna nužno. Dakle, Božje se znanje ne odnosi na kontingentno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a13.obj2": {
+      "text": "Osim toga, u svakom pogodbenom sudu čiji je prednjak apsolutno nužan, posljedak je apsolutno nužan. Prednjak se, naime, prema posljetku odnosi kao načela prema zaključku; a iz nužnih načela ne slijedi drukčiji nego nužan zaključak, kao što se dokazuje u I. knjizi Druge analitike. Ali ovo je neki istinit pogodbeni sud: ako je Bog znao da će to biti, to će biti; jer se Božje znanje odnosi samo na ono što je istinito. A prednjak je ovoga pogodbenog suda apsolutno nužan, i zato što je vječan, i zato što se označuje kao prošlo. Dakle, i posljedak je apsolutno nužan. Prema tome, sve što Bog zna nužno je. I tako se Božje znanje ne odnosi na kontingentno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a13.obj3": {
+      "text": "Osim toga, sve što Bog zna nužno jest, jer i sve što mi znamo nužno jest, a Božje je znanje izvjesnije od našega znanja. Ali ništa kontingentno buduće nije nužno. Dakle, Bog ne zna ništa kontingentno buduće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a13.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 32: *koji je oblikovao srce svakoga od njih, koji razumije sva djela njihova*, naime ljudi. Ali ljudska su djela kontingentna, jer su podložna slobodnom odlučivanju. Dakle, Bog zna kontingentno buduće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a13.resp": {
+      "text": "Odgovaram: treba reći da, budući da je gore pokazano kako Bog zna sve, ne samo ono što je u činu, nego i ono što je u mogućnosti njegovoj ili stvorovoj, a nešto je od toga za nas kontingentno buduće, slijedi da Bog spoznaje kontingentno buduće. Da bi to bilo jasno, treba uzeti u obzir da se nešto kontingentno može promatrati na dva načina. Na jedan način, u samom sebi, ukoliko je već u činu. I tako se ne promatra kao buduće, nego kao sadašnje; niti kao kontingentno prema jednome ili drugome, nego kao određeno na jedno. I zbog toga tako može nepogrešivo biti podloženo izvjesnoj spoznaji, primjerice osjetilu vida, kao kad vidim da Sokrat sjedi. Na drugi se način kontingentno može promatrati kako je u svojem uzroku. I tako se promatra kao buduće i kao kontingentno koje još nije određeno na jedno, jer se kontingentni uzrok odnosi prema suprotnostima. I tako kontingentno nije s izvjesnošću podloženo nikakvoj spoznaji. Stoga onaj tko spoznaje kontingentan učinak samo u njegovu uzroku nema o njemu drugo nego nagađajuću spoznaju. A Bog spoznaje sve kontingentno ne samo kako je u svojim uzrocima, nego i kako je svako od toga u činu u samom sebi. I premda kontingentne stvari postaju u činu uzastopno, ipak Bog ne spoznaje kontingentno uzastopno, kako jest u svojem bitku, kao mi, nego istodobno. Jer se njegova spoznaja mjeri vječnošću, kao i njegov bitak; a vječnost, postojeći sva istodobno, obuhvaća cijelo vrijeme, kao što je gore rečeno. Stoga je sve što je u vremenu Bogu od vječnosti prisutno, ne samo s toga razloga što ima pojmove stvari prisutne kod sebe, kako neki kažu, nego zato što se njegov pogled od vječnosti proteže na sve kako je u svojoj prisutnosti. Stoga je očito da Bog i nepogrešivo spoznaje kontingentno, ukoliko je podloženo božanskom pogledu prema svojoj prisutnosti, a ipak je to kontingentno buduće u usporedbi sa svojim uzrocima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a13.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda je najviši uzrok nužan, ipak učinak može biti kontingentan zbog kontingentnoga bližeg uzroka; kao što je klijanje biljke kontingentno zbog kontingentnoga bližeg uzroka, premda je gibanje sunca, koje je prvi uzrok, nužno. I slično je ono što Bog zna kontingentno zbog bližih uzroka, premda je Božje znanje, koje je prvi uzrok, nužno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a13.ad2": {
+      "text": "Na drugo treba reći da neki kažu kako ovaj prednjak, Bog je znao ovo kontingentno buduće, nije nužan, nego kontingentan, jer, premda je prošao, ipak uključuje odnos prema budućem. Ali to mu ne oduzima nužnost, jer ono što je imalo odnos prema budućem nužno je to imalo, premda buduće katkad i ne slijedi. Drugi pak kažu da je ovaj prednjak kontingentan zato što je sastavljen od nužnoga i kontingentnoga, kao što je kontingentna ova izreka: Sokrat je bijel čovjek. Ali ni to nije ništa. Jer kad se kaže: Bog je znao da će biti ovo kontingentno, kontingentno se ondje postavlja samo kao građa glagola, a ne kao glavni dio suda; stoga njegova kontingentnost ili nužnost ništa ne znači za to je li sud nužan ili kontingentan, istinit ili neistinit. Isto tako, naime, može biti istinito da sam rekao da je čovjek magarac kao i da sam rekao da Sokrat trči ili da Bog jest; a isti je razlog za nužno i kontingentno. Stoga treba reći da je ovaj prednjak apsolutno nužan. Ali ipak ne slijedi, kako neki kažu, da je posljedak apsolutno nužan, jer je prednjak udaljeni uzrok posljetka, koji je zbog bližeg uzroka kontingentan. Ali ni to nije ništa. Bio bi, naime, neistinit pogodbeni sud čiji bi prednjak bio nužan udaljeni uzrok, a posljedak kontingentan učinak, recimo kad bih rekao: ako se sunce giba, trava će niknuti. I zato treba reći drukčije: kad se u prednjaku postavlja nešto što pripada činu duše, posljedak treba uzeti ne kakav je u sebi, nego kakav je u duši; jer jedno je bitak stvari u njoj samoj, a drugo bitak stvari u duši. Recimo, ako kažem: ako duša nešto shvaća, to je netvarno, treba shvatiti da je to netvarno ukoliko je u umu, a ne ukoliko je u samom sebi. I slično, ako kažem: ako je Bog nešto znao, to će biti, posljedak treba shvatiti kako je podložen božanskom znanju, naime kako je u svojoj prisutnosti. I tako je nužan, kao i prednjak; *jer sve što jest, dok jest, nužno jest*, kako se kaže u I. knjizi O tumačenju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a13.ad3": {
+      "text": "Na treće treba reći da ono što se vremenski svodi u čin mi spoznajemo uzastopno u vremenu, a Bog u vječnosti, koja je iznad vremena. Stoga nama, jer spoznajemo kontingentno buduće ukoliko je takvo, ono ne može biti izvjesno, nego samo Bogu, čije je shvaćanje u vječnosti iznad vremena. Kao što onaj koji ide putem ne vidi one koji dolaze za njim, ali onaj koji s neke visine motri cijeli put vidi istodobno sve koji prolaze putem. I zato ono što mi znamo mora biti nužno i prema onome kakvo je u sebi, jer ono što je u sebi kontingentno buduće mi ne možemo znati. Ali ono što Bog zna mora biti nužno prema načinu na koji je podloženo božanskom znanju, kao što je rečeno, a ne apsolutno, ukoliko se promatra u vlastitim uzrocima. Stoga se i ovaj sud: sve što Bog zna nužno jest, obično razlikuje. Jer može se odnositi na stvar ili na izreku. Ako se shvati o stvari, on je razdijeljen i neistinit, i smisao je: svaka stvar koju Bog zna nužna je. Ili se može shvatiti o izreci, i tako je složen i istinit; i smisao je: ova izreka, da je nešto znano od Boga, nužna je. Ali neki se protive, govoreći da to razlikovanje ima mjesta kod formi koje su odvojive od subjekta; kao kad bih rekao: bijelo može biti crno. To je doduše o izreci neistinito, a o stvari istinito; jer stvar koja je bijela može biti crna, ali ova izreka, da je bijelo crno, nikada ne može biti istinita. A kod formi neodvojivih od subjekta spomenuto razlikovanje nema mjesta; kao kad bih rekao: crni gavran može biti bijel, jer je u oba smisla neistinito. A biti znan od Boga neodvojivo je od stvari, jer ono što je znano od Boga ne može biti neznano. Taj bi prigovor imao mjesta kad bi ono što kažem „znano” uključivalo neku raspoloživost koja prianja uz subjekt. Ali budući da uključuje čin onoga koji zna, samoj znanoj stvari, premda je uvijek znana, može se pripisati nešto po sebi što joj se ne pripisuje ukoliko stoji pod činom znanja; kao što se kamenu po sebi pripisuje tvarni bitak, koji mu se ne pripisuje ukoliko je umljiv.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a14.obj1": {
+      "text": "Na četrnaesto se ovako postupa. Čini se da Bog ne spoznaje izrecivo. Spoznavati izrecivo, naime, pristaje našem umu ukoliko sastavlja i rastavlja. Ali u božanskom umu nema nikakve sastavljenosti. Dakle, Bog ne spoznaje izrecivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a14.obj2": {
+      "text": "Osim toga, svaka spoznaja nastaje po nekoj sličnosti. Ali u Bogu nema nikakve sličnosti izrecivoga, budući da je posve jednostavan. Dakle, Bog ne spoznaje izrecivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a14.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 93: *Gospodin zna misli ljudi.* A izrecivo je sadržano u mislima ljudi. Dakle, Bog spoznaje izrecivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a14.resp": {
+      "text": "Odgovaram: treba reći da, budući da je oblikovanje izrecivoga u moći našega uma, a Bog zna sve što je u mogućnosti njegovoj ili stvorovoj, kao što je gore rečeno, nužno je da Bog zna sve izrecivo što se može oblikovati. Ali kao što zna tvarno netvarno i složeno jednostavno, tako zna izrecivo ne na način izrecivoga, tj. kao da bi u njegovu umu bilo sastavljanje ili rastavljanje izrecivoga, nego svako spoznaje jednostavnim shvaćanjem, shvaćajući bit svake stvari. Kao kad bismo mi samim tim što shvaćamo što je čovjek shvaćali sve što se o čovjeku može pririći. To se doduše ne događa u našem umu, koji prelazi s jednoga na drugo, zbog toga što umljivi spoznajni lik tako predočuje jedno da ne predočuje drugo. Stoga, shvaćajući što je čovjek, ne shvaćamo samim time i ostalo što mu pripada, nego odijeljeno, u nekom slijedu. I zbog toga ono što shvaćamo zasebno moramo svesti u jedno na način sastavljanja ili rastavljanja, oblikujući iskaz. Ali spoznajni lik božanskog uma, naime njegova bit, dostatan je da pokaže sve. Stoga, shvaćajući svoju bit, spoznaje biti svih stvari i sve što im se može dogoditi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a14.ad1": {
+      "text": "Na prvo, dakle, treba reći da bi taj razlog vrijedio kad bi Bog spoznavao izrecivo na način izrecivoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a14.ad2": {
+      "text": "Na drugo treba reći da sastavljenost izrecivoga označuje neki bitak stvari; i tako je Bog po svojem bitku, koji je njegova bit, sličnost svega onoga što se označuje izrecivim.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a15.obj1": {
+      "text": "Na petnaesto se ovako postupa. Čini se da je Božje znanje promjenljivo. Znanje se, naime, izriče u odnosu prema znatljivom. Ali ono što uključuje odnos prema stvoru kaže se o Bogu vremenito i mijenja se prema mijenjanju stvorova. Dakle, Božje je znanje promjenljivo prema mijenjanju stvorova.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a15.obj2": {
+      "text": "Osim toga, što god Bog može učiniti, može i znati. Ali Bog može učiniti više nego što čini. Dakle, može znati više nego što zna. I tako se njegovo znanje može mijenjati povećanjem i smanjenjem.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a15.obj3": {
+      "text": "Osim toga, Bog je znao da će se Krist roditi. A sada ne zna da će se Krist roditi, jer nije istina da će se Krist roditi. Dakle, Bog ne zna sve što je znao. I tako se čini da je Božje znanje promjenljivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a15.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Jak 1, da *kod Boga nema promjene ni sjene izmjene*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a15.resp": {
+      "text": "Odgovaram: treba reći da, budući da je Božje znanje njegova supstancija, kao što je jasno iz rečenoga, kao što je njegova supstancija posve nepromjenljiva, kao što je gore pokazano, tako i njegovo znanje mora biti posve nepromjenljivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a15.ad1": {
+      "text": "Na prvo, dakle, treba reći da Gospodar i Stvoritelj i slično uključuju odnose prema stvorovima kakvi su u sebi samima. Ali Božje znanje uključuje odnos prema stvorovima kakvi su u Bogu; jer svaka je stvar shvaćena u činu po tome što je u onome koji shvaća. A stvorene su stvari u Bogu nepromjenljivo, a u sebi samima promjenljivo. Ili treba reći drukčije: Gospodar i Stvoritelj i slično uključuju odnose koji slijede čine za koje se shvaća da završavaju u samim stvorovima kakvi su u sebi samima; i zato se takvi odnosi o Bogu izriču različito, prema mijenjanju stvorova. Ali znanje i ljubav i slično uključuju odnose koji slijede čine za koje se shvaća da su u Bogu; i zato se o Bogu pririču nepromjenljivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a15.ad2": {
+      "text": "Na drugo treba reći da Bog zna i ono što može učiniti, a ne čini. Stoga iz toga što može učiniti više nego što čini ne slijedi da može znati više nego što zna, osim ako se to odnosi na znanje gledanja, po kojem se kaže da zna ono što je u činu u nekom vremenu. Ali iz toga što zna da može biti nešto što nije, ili da može ne biti ono što jest, ne slijedi da je njegovo znanje promjenljivo, nego da spoznaje promjenljivost stvari. Kad bi pak bilo nešto što Bog prije ne bi bio znao, a poslije bi znao, njegovo bi znanje bilo promjenljivo. Ali to ne može biti, jer sve što jest ili može biti u nekom vremenu Bog zna u svojoj vječnosti. I zato, samim time što se postavlja da nešto jest u bilo kojem vremenu, treba postaviti da je od vječnosti znano od Boga. I zato ne treba dopustiti da Bog može znati više nego što zna, jer taj sud uključuje da prije nije znao, a poslije zna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a15.ad3": {
+      "text": "Na treće treba reći da su stari nominalisti govorili da je isto izrecivo: Krist se rađa, Krist će se roditi i Krist je rođen, jer se tim trima označuje ista stvar, naime Kristovo rođenje. I prema tome slijedi da Bog zna sve što je znao, jer sada zna da je Krist rođen, što označuje isto što i da će se Krist roditi. Ali to je mnijenje neistinito. Prvo, zato što različitost dijelova govora uzrokuje različitost izrecivoga. Zatim i zato što bi slijedilo da bi sud koji je jednom istinit bio uvijek istinit, što je protiv Filozofa, koji kaže da je ova rečenica, Sokrat sjedi, istinita dok on sjedi, a ista je neistinita kad on ustane. I zato treba dopustiti da ovo nije istinito: sve što je Bog znao, zna, ako se to odnosi na izrecivo. Ali iz toga ne slijedi da je Božje znanje promjenljivo. Kao što je, naime, bez promjene božanskog znanja to da on zna da jedna te ista stvar katkad jest, a katkad nije, tako je bez promjene božanskog znanja to da zna da je neko izrecivo katkad istinito, a katkad neistinito. Božje bi znanje zbog toga bilo promjenljivo kad bi spoznavao izrecivo na način izrecivoga, sastavljajući i rastavljajući, kao što se događa u našem umu. Zato se naša spoznaja mijenja, bilo s obzirom na istinu i neistinu, recimo ako nakon promjene stvari zadržimo isto mnijenje o toj stvari, bilo s obzirom na različita mnijenja, kao kad najprije mnijemo da netko sjedi, a poslije mnijemo da ne sjedi. Ništa od toga ne može biti u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a16.obj1": {
+      "text": "Na šesnaesto se ovako postupa. Čini se da Bog o stvarima nema spekulativno znanje. Božje je znanje, naime, uzrok stvari, kao što je gore pokazano. Ali spekulativno znanje nije uzrok znanih stvari. Dakle, Božje znanje nije spekulativno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a16.obj2": {
+      "text": "Osim toga, spekulativno znanje nastaje apstrakcijom od stvari, a to ne pristaje božanskom znanju. Dakle, Božje znanje nije spekulativno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a16.sc": {
+      "text": "Ali protiv toga: Bogu treba pripisati sve što je plemenitije. Ali spekulativno je znanje plemenitije od praktičnoga, kao što je jasno iz Filozofa na početku Metafizike. Dakle, Bog ima o stvarima spekulativno znanje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a16.resp": {
+      "text": "Odgovaram: treba reći da je neko znanje samo spekulativno, neko samo praktično, a neko pak u nečemu spekulativno, a u nečemu praktično. Da bi to bilo jasno, treba znati da se neko znanje može nazvati spekulativnim na tri načina. Prvo, sa strane znanih stvari, koje onaj koji zna ne može proizvesti, kao što je čovjekovo znanje o naravnim ili božanskim stvarima. Drugo, s obzirom na način znanja, recimo kad bi graditelj razmatrao kuću definirajući je, raščlanjujući je i razmatrajući njezine opće pririke. To je, naime, razmatrati ono što se može proizvesti na spekulativan način, a ne ukoliko se može proizvesti; jer nešto se može proizvesti primjenom forme na tvar, a ne raščlambom složenoga na opća formalna počela. Treće, s obzirom na svrhu; *jer se praktični um razlikuje od spekulativnoga po svrsi*, kako se kaže u III. knjizi O duši. Praktični je um, naime, usmjeren prema svrsi djelovanja, a svrha je spekulativnog uma razmatranje istine. Stoga, ako bi neki graditelj razmatrao kako bi se mogla napraviti neka kuća, ne usmjeravajući to prema svrsi djelovanja, nego samo radi spoznavanja, to će s obzirom na svrhu biti spekulativno razmatranje, premda o stvari koja se može proizvesti. Znanje, dakle, koje je spekulativno s obzirom na samu znanu stvar, samo je spekulativno. A ono koje je spekulativno bilo po načinu bilo po svrsi, u nekom je pogledu spekulativno, a u nekom pogledu praktično. A kad je usmjereno prema svrsi djelovanja, naprosto je praktično. Prema tome, dakle, treba reći da Bog o samom sebi ima samo spekulativno znanje, jer on sam nije nešto što se može proizvesti. A o svemu drugome ima i spekulativno i praktično znanje. Spekulativno s obzirom na način; jer sve što mi u stvarima spekulativno spoznajemo definirajući i raščlanjujući, sve to Bog zna mnogo savršenije. Ali o onome što doduše može učiniti, ali ne čini ni u kojem vremenu, nema praktično znanje, ukoliko se praktično znanje naziva tako po svrsi. A tako ima praktično znanje o onome što čini u nekom vremenu. Zla pak, premda ih on ne može proizvesti, ipak potpadaju pod njegovu praktičnu spoznaju, kao i dobra, ukoliko ih dopušta ili priječi ili usmjeruje; kao što i bolesti potpadaju pod praktično znanje liječnika, ukoliko ih svojim umijećem liječi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a16.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Božje znanje uzrok, doduše ne samoga sebe, nego drugoga: nečega u činu, naime onoga što nastaje u nekom vremenu; a nečega snagom, naime onoga što on može učiniti, a ipak nikada ne nastaje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a16.ad2": {
+      "text": "Na drugo treba reći da to što je znanje primljeno od znanih stvari ne pripada spekulativnom znanju po sebi, nego akcidentalno, ukoliko je ljudsko.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q14.a16.ad3": {
+      "text": "A na ono što se prigovara u suprotnom smislu treba reći da se o onome što se može proizvesti nema savršenog znanja ako se ne zna ukoliko se može proizvesti. I zato, budući da je Božje znanje na sve načine savršeno, potrebno je da on zna ono što on može proizvesti ukoliko je takvo, a ne samo ukoliko je predmet promatranja. Ali ipak se time ne odstupa od plemenitosti spekulativnog znanja, jer sve drugo od sebe vidi u samom sebi, a sama sebe spoznaje spekulativno; i tako u spekulativnom znanju samoga sebe ima i spekulativnu i praktičnu spoznaju svega drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    }
+  }
+}

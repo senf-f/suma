@@ -1,0 +1,240 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 20,
+  "units": {
+    "I.q20.pr": {
+      "text": "Zatim valja razmotriti ono što se apsolutno odnosi na Božju volju. U težnjenom dijelu nalaze se u nama i strasti duše, kao radost, ljubav i slično, i habitusi moralnih kreposti, kao pravednost, jakost i slično. Zato ćemo najprije razmotriti Božju ljubav, a zatim Božju pravednost i njegovo milosrđe. O prvome se pitaju četiri stvari. Prvo, ima li u Bogu ljubavi. Drugo, ljubi li on sve. Treće, ljubi li jedno više nego drugo. Četvrto, ljubi li više ono što je bolje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u Bogu nema ljubavi. Naime, u Bogu nema nikakve strasti. A ljubav je strast. Dakle, u Bogu nema ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a1.obj2": {
+      "text": "Osim toga, ljubav, srdžba, žalost i slično međusobno se razlikuju kao članovi iste podjele. Ali žalost i srdžba govore se o Bogu samo preneseno. Dakle, ni ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a1.obj3": {
+      "text": "Osim toga, Dionizije kaže u IV. poglavlju spisa O božanskim imenima: *ljubav je sila koja sjedinjuje i spaja*. A to u Bogu ne može imati mjesta, budući da je on jednostavan. Dakle, u Bogu nema ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1 Iv 4: *Bog je ljubav*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a1.resp": {
+      "text": "Odgovaram: treba reći da je nužno postaviti ljubav u Bogu. Naime, prvi pokret volje i svake težnjene snage jest ljubav. Čin volje i svake težnjene snage usmjeren je prema dobru i zlu kao prema vlastitim predmetima; ali dobro je glavnije i po sebi predmet volje i težnje, a zlo drugotno i po nečem drugom, to jest ukoliko se protivi dobru. Zato po naravi moraju biti prvotniji oni čini volje i težnje koji se odnose na dobro od onih koji se odnose na zlo, kao radost od žalosti i ljubav od mržnje. Jer ono što je po sebi uvijek je prvotnije od onoga što je po nečem drugom. Nadalje, ono što je općenitije po naravi je prvotnije; zato je i um prije usmjeren prema općoj istini nego prema nekim posebnim istinama. A postoje neki čini volje i težnje koji se odnose na dobro pod nekim posebnim uvjetom: tako su radost i užitak o prisutnom i posjedovanom dobru, a želja i nada o dobru koje još nije postignuto. Ljubav se pak odnosi na dobro uopće, bilo da je posjedovano bilo da nije posjedovano. Zato je ljubav po naravi prvi čin volje i težnje. I zbog toga svi drugi težnjeni pokreti pretpostavljaju ljubav kao prvi korijen. Nitko, naime, ne želi nešto osim ljubljenog dobra, niti se tko raduje osim ljubljenom dobru. Ni mržnja nije ni o čemu drugom nego o onome što se protivi ljubljenoj stvari. Isto je tako očito da se žalost i ostalo tome slično svodi na ljubav kao na prvo počelo. Zato u čemu god postoji volja ili težnja, mora postojati ljubav: jer kad se ukloni prvo, uklanja se i ostalo. A pokazano je da u Bogu postoji volja. Zato je nužno u njemu postaviti ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da spoznajna snaga ne pokreće osim posredstvom težnjene. I kao što u nama opći razum pokreće posredstvom posebnog razuma, kako se kaže u III. knjizi O duši, tako umska težnja, koja se zove volja, pokreće u nama posredstvom osjetilne težnje. Zato je u nama najbliži pokretač tijela osjetilna težnja. Stoga čin osjetilne težnje uvijek prati neka tjelesna promjena, i to ponajviše oko srca, koje je prvo počelo gibanja u životinji. Tako se, dakle, čini osjetilne težnje, ukoliko imaju pridruženu tjelesnu promjenu, nazivaju strastima, ali ne i čini volje. Ljubav, dakle, i radost i užitak, ukoliko označuju čine osjetilne težnje, jesu strasti, ali ne ukoliko označuju čine umske težnje. I tako se postavljaju u Bogu. Zato Filozof kaže u VII. knjizi Etike da se *Bog raduje jednim i jednostavnim djelovanjem*. I iz istoga razloga ljubi bez strasti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a1.ad2": {
+      "text": "Na drugo treba reći da u strastima osjetilne težnje treba razmatrati nešto kao tvarno, to jest tjelesnu promjenu, i nešto kao formalno, što je sa strane težnje. Tako je u srdžbi, kako se kaže u I. knjizi O duši, tvarno uzavrelost krvi oko srca ili nešto slično, a formalno težnja za osvetom. Ali opet, sa strane onoga što je formalno, u nekima od njih označuje se neka nesavršenost, kao u želji, koja je za neposjedovanim dobrom, i u žalosti, koja je zbog posjedovanog zla. Isti je slučaj i sa srdžbom, koja pretpostavlja žalost. Neke pak ne označuju nikakvu nesavršenost, kao ljubav i radost. Budući da, dakle, ništa od toga ne pristaje Bogu s obzirom na ono što je u njima tvarno, kako je rečeno, ono što i formalno uključuje nesavršenost ne može pristajati Bogu osim preneseno, zbog sličnosti učinka, kako je gore rečeno. A ono što ne uključuje nesavršenost govori se o Bogu u vlastitom smislu, kao ljubav i radost, ali ipak bez strasti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a1.ad3": {
+      "text": "Na treće treba reći da je čin ljubavi uvijek usmjeren na dvoje: na dobro koje tko hoće nekome i na onoga kome hoće dobro. Jer to u vlastitom smislu znači ljubiti nekoga: htjeti mu dobro. Zato, kada tko ljubi sebe, hoće dobro sebi. I tako nastoji to dobro sjediniti sa sobom koliko može. I utoliko se ljubav naziva sjedinjujućom silom, i u Bogu, ali bez sastavljenosti, jer dobro koje on hoće sebi nije ništa drugo nego on sam, koji je dobar po svojoj biti, kako je gore pokazano. A kada tko ljubi drugoga, hoće dobro njemu. I tako postupa s njim kao sa samim sobom, upravljajući dobro na njega kao na samoga sebe. I utoliko se ljubav naziva spajajućom silom, jer drugoga pridružuje sebi, odnoseći se prema njemu kao prema samome sebi. I tako je i božanska ljubav spajajuća sila, bez sastavljenosti koja bi bila u Bogu, ukoliko drugima hoće dobra.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Bog ne ljubi sve. Jer, prema Dioniziju u IV. poglavlju spisa O božanskim imenima, ljubav stavlja onoga koji ljubi izvan njega samoga i na neki ga način prenosi u ljubljeno. A neprikladno je reći da se Bog, stavljen izvan sebe, prenosi u drugo. Dakle, neprikladno je reći da Bog ljubi nešto drugo od sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a2.obj2": {
+      "text": "Osim toga, Božja je ljubav vječna. Ali ono što je drugo od Boga nije od vječnosti osim u Bogu. Dakle, Bog to ne ljubi osim u samome sebi. Ali ukoliko je u njemu, nije nešto drugo od njega. Dakle, Bog ne ljubi ništa drugo od samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a2.obj3": {
+      "text": "Osim toga, dvojaka je ljubav: ljubav požude i ljubav prijateljstva. Ali Bog ne ljubi nerazumne stvorove ljubavlju požude, jer ne treba ništa izvan sebe; a ni ljubavlju prijateljstva, jer se ono ne može imati prema nerazumnim stvarima, kako je jasno iz Filozofa u VIII. knjizi Etike. Dakle, Bog ne ljubi sve.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a2.obj4": {
+      "text": "Osim toga, u Psalmu se kaže: *mrziš sve koji čine nepravdu*. A ništa se ne mrzi i ljubi u isto vrijeme. Dakle, Bog ne ljubi sve.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mudr 11: *ljubiš sve što postoji i ne mrziš ništa od onoga što si učinio*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a2.resp": {
+      "text": "Odgovaram: treba reći da Bog ljubi sve što postoji. Jer sve što postoji, ukoliko jest, dobro je: sam bitak svake stvari neko je dobro, a isto tako i svaka njezina savršenost. A gore je pokazano da je Božja volja uzrok svih stvari, pa tako nešto mora imati bitak ili bilo koje dobro utoliko ukoliko ga Bog hoće. Bog, dakle, svakomu postojećem hoće neko dobro. Zato, budući da ljubiti nije ništa drugo nego htjeti nekomu dobro, očito je da Bog ljubi sve što jest. Ali ne na isti način kao mi. Budući da naša volja nije uzrok dobrote stvari, nego je ona pokreće kao predmet, naša ljubav, kojom nekomu hoćemo dobro, nije uzrok njegove dobrote, nego obratno: njegova dobrota, bilo istinska bilo pretpostavljena, izaziva ljubav kojom hoćemo da mu se i sačuva dobro koje ima i pridoda ono koje nema, i za to djelujemo. Ali Božja ljubav ulijeva i stvara dobrotu u stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj koji ljubi biva izvan sebe prenesen u ljubljeno utoliko što ljubljenome hoće dobro i djeluje svojom providnošću kao i za sebe. Zato i Dionizije kaže u IV. poglavlju spisa O božanskim imenima: *treba se usuditi radi istine reći i ovo: da i sam uzrok svega, zbog obilja ljubeće dobrote, izlazi izvan sebe samoga prema svemu što postoji svojim providnostima*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a2.ad2": {
+      "text": "Na drugo treba reći da, premda stvorovi od vječnosti nisu bili osim u Bogu, ipak je Bog time što su od vječnosti bili u Bogu od vječnosti spoznao stvari u njihovim vlastitim naravima i na isti ih način ljubio. Kao što i mi po sličnostima stvari koje su u nama spoznajemo stvari koje postoje u sebi samima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a2.ad3": {
+      "text": "Na treće treba reći da se prijateljstvo može imati samo prema razumnim stvorovima, u kojima može biti uzvraćanja ljubavi i zajedništva u djelima života, i kojima se može dogoditi da im bude dobro ili zlo, prema sudbini i sreći; kao što se i dobrohotnost u vlastitom smislu odnosi na njih. Nerazumni pak stvorovi ne mogu dosegnuti do toga da ljube Boga, ni do zajedništva u umskom i blaženom životu kojim Bog živi. Tako, dakle, Bog, govoreći u vlastitom smislu, ne ljubi nerazumne stvorove ljubavlju prijateljstva, nego ljubavlju koja je kao ljubav požude, ukoliko ih usmjeruje prema razumnim stvorovima, pa i prema sebi samome; ne kao da ih treba, nego zbog svoje dobrote i naše koristi. Jer mi žudimo za nečim i za sebe i za druge.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a2.ad4": {
+      "text": "Na četvrto treba reći da ništa ne priječi da se jedno te isto u jednom pogledu ljubi, a u drugom mrzi. Bog pak ljubi grešnike ukoliko su neke naravi: tako, naime, i jesu i od njega su. A ukoliko su grešnici, nisu, nego zaostaju za bitkom, i to u njima nije od Boga. Zato ih s tog vidika on mrzi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da Bog jednako ljubi sve. Kaže se, naime, u Mudr 6: *jednako se brine za sve*. Ali Božja providnost koju ima o stvarima proizlazi iz ljubavi kojom ljubi stvari. Dakle, jednako ljubi sve.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a3.obj2": {
+      "text": "Osim toga, Božja je ljubav njegova bit. Ali Božja bit ne prima više i manje. Dakle, ni njegova ljubav. Ne ljubi, dakle, neke stvari više od drugih.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a3.obj3": {
+      "text": "Osim toga, kao što se Božja ljubav proteže na stvorene stvari, tako i znanje i volja. Ali ne kaže se da Bog zna neke stvari više nego druge, niti da ih više hoće. Dakle, ni neke ne ljubi više od drugih.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u tumačenju Ivana: *Bog ljubi sve što je učinio; a među time više ljubi razumne stvorove; a od njih još više one koji su udovi njegova Jedinorođenca; a mnogo više samoga svojega Jedinorođenca*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a3.resp": {
+      "text": "Odgovaram: treba reći da se, budući da ljubiti znači htjeti nekomu dobro, nešto može više ili manje ljubiti na dva načina. Na jedan način, sa strane samoga čina volje, koji je više ili manje snažan. I tako Bog ne ljubi neke stvari više od drugih, jer sve ljubi jednim i jednostavnim činom volje, koji je uvijek jednak. Na drugi način, sa strane samoga dobra koje tko hoće ljubljenome. I tako se kaže da nekoga ljubimo više od drugoga kada mu hoćemo veće dobro, premda ne snažnijom voljom. I na taj je način nužno reći da Bog neke stvari ljubi više od drugih. Budući da je Božja ljubav uzrok dobrote stvari, kako je rečeno, ne bi nešto bilo bolje od drugoga kad Bog ne bi jednomu htio veće dobro nego drugomu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se kaže kako se Bog jednako brine za sve, ne zato što svojom brigom svima jednaka dobra dijeli, nego zato što svime upravlja s jednakom mudrošću i dobrotom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a3.ad2": {
+      "text": "Na drugo treba reći da se taj razlog odnosi na jakost ljubavi sa strane čina volje, koji je božanska bit. Ali dobro koje Bog hoće stvoru nije božanska bit. Zato ništa ne priječi da ono raste ili se umanjuje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a3.ad3": {
+      "text": "Na treće treba reći da shvaćati i htjeti označuju samo čine, a u svojem značenju ne uključuju neke predmete po čijoj bi se raznolikosti moglo reći da Bog više ili manje zna ili hoće, kako je rečeno o ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da Bog ne ljubi uvijek više ono što je bolje. Očito je, naime, da je Krist bolji od cijeloga ljudskog roda, budući da je Bog i čovjek. Ali Bog je više ljubio ljudski rod nego Krista, jer se kaže u Rim 8: *svojega vlastitoga Sina nije poštedio, nego ga je predao za sve nas*. Dakle, Bog ne ljubi uvijek više ono što je bolje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.obj2": {
+      "text": "Osim toga, anđeo je bolji od čovjeka; zato se u Psalmu 8 kaže o čovjeku: *malo si ga umanjio od anđela*. Ali Bog je više ljubio čovjeka nego anđela, jer se kaže u Heb 2: *nigdje ne prihvati anđele, nego prihvati potomstvo Abrahamovo*. Dakle, Bog ne ljubi uvijek više ono što je bolje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.obj3": {
+      "text": "Osim toga, Petar je bio bolji od Ivana, jer je više ljubio Krista. Zato je Gospodin, znajući da je to istina, upitao Petra govoreći: *Šimune Ivanov, ljubiš li me više nego ovi?* Ali ipak je Krist više ljubio Ivana nego Petra; jer, kako kaže Augustin o onome mjestu Iv 21: *Šimune Ivanov, ljubiš li me? Upravo se tim znakom Ivan razlikuje od ostalih učenika: ne da je samo njega ljubio, nego da ga je ljubio više od ostalih*. Dakle, ne ljubi uvijek više ono što je bolje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.obj4": {
+      "text": "Osim toga, nevin je bolji od pokornika, *jer je pokora druga daska nakon brodoloma*, kako kaže Jeronim. Ali Bog više ljubi pokornika nego nevinoga, jer mu se više raduje; kaže se, naime, u Lk 15: *kažem vam da će biti veća radost na nebu zbog jednoga grešnika koji se kaje nego zbog devedeset i devet pravednika kojima ne treba pokore*. Dakle, Bog ne ljubi uvijek više ono što je bolje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.obj5": {
+      "text": "Osim toga, bolji je pravednik za kojega je unaprijed poznato da će propasti nego predodređeni grešnik. Ali Bog više ljubi predodređenoga grešnika, jer mu hoće veće dobro, to jest vječni život. Dakle, Bog ne ljubi uvijek više ono što je bolje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.sc": {
+      "text": "Ali protiv toga, svaka stvar ljubi sebi slično, kako je jasno iz onoga što stoji u Sir 13: *svako živo biće ljubi sebi slično*. Ali nešto je utoliko bolje ukoliko je Bogu sličnije. Dakle, Bog više ljubi ono što je bolje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.resp": {
+      "text": "Odgovaram: treba reći da je prema rečenome nužno reći da Bog više ljubi ono što je bolje. Rečeno je, naime, da to što Bog nešto više ljubi nije ništa drugo nego da mu hoće veće dobro, jer je Božja volja uzrok dobrote u stvarima. I tako su neke stvari bolje po tome što im Bog hoće veće dobro. Odatle slijedi da više ljubi ono što je bolje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Bog ljubi Krista ne samo više nego cijeli ljudski rod, nego i više nego svu cjelokupnost stvorova, jer mu je, naime, htio veće dobro: dao mu je ime koje je iznad svakoga imena, da bude pravi Bog. I njegovoj uzvišenosti nije ništa nestalo time što ga je Bog predao u smrt za spasenje ljudskoga roda; štoviše, time je postao slavni pobjednik: *jer vlast je postala na njegovu ramenu*, kako se kaže u Iz 9.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.ad2": {
+      "text": "Na drugo treba reći da ljudsku narav koju je Božja Riječ uzela u Kristovoj osobi, prema rečenome, Bog ljubi više nego sve anđele, i ona je bolja, ponajviše zbog sjedinjenja. Ali govoreći o ljudskoj naravi općenito i uspoređujući je s anđeoskom, s obzirom na usmjerenost prema milosti i slavi nalazi se jednakost, budući da je ista mjera čovjeka i anđela, kako se kaže u Otk 21; ipak tako da se u tome neki anđeli nalaze vrsniji od nekih ljudi, a neki ljudi od nekih anđela. Ali s obzirom na stanje naravi, anđeo je bolji od čovjeka. I Bog nije uzeo ljudsku narav zato što bi čovjeka apsolutno više ljubio, nego zato što mu je to više trebalo. Kao što dobar domaćin daje bolesnome sluzi nešto dragocjenije što ne daje zdravome sinu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.ad3": {
+      "text": "Na treće treba reći da se ta dvojba o Petru i Ivanu rješava na mnogo načina. Augustin to, naime, odnosi na otajstvo, govoreći da djelatni život, koji se označuje Petrom, više ljubi Boga nego kontemplativni život, koji se označuje Ivanom, jer više osjeća tjeskobe sadašnjega života i žarče želi da ih se oslobodi i da ide k Bogu. Kontemplativni pak život Bog više ljubi, jer ga više čuva: on, naime, ne završava zajedno sa životom tijela, kao djelatni život. Neki pak kažu da je Petar više ljubio Krista u udovima, i tako ga je i Krist više ljubio, pa mu je zato povjerio Crkvu; Ivan je pak više ljubio Krista u njemu samome, i tako ga je on i više ljubio, pa mu je zato povjerio majku. Drugi pak kažu da je neizvjesno tko je od njih više ljubio Krista bogoslovnom ljubavlju, i isto tako koga je Bog više ljubio s obzirom na veću slavu vječnoga života. Ali za Petra se kaže da je više ljubio s obzirom na neku spremnost ili žar, a za Ivana da je bio više ljubljen s obzirom na neke znakove prisnosti koje mu je Krist više iskazivao zbog njegove mladosti i čistoće. Drugi pak kažu da je Krist više ljubio Petra s obzirom na izvrsniji dar ljubavi, a Ivana više s obzirom na dar uma. Zato je Petar naprosto bio bolji i više ljubljen, a Ivan u nekom pogledu. Ipak se čini drskim o tome suditi, jer, kako se kaže u Izr 16, *Gospodin je onaj koji važe duhove*, i nitko drugi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.ad4": {
+      "text": "Na četvrto treba reći da se pokornici i nevini odnose kao ono što nadmašuje i ono što je nadmašeno. Jer bili nevini ili pokornici, bolji su i više ljubljeni oni koji imaju više milosti. Ipak, uz ostale jednake uvjete, nevinost je dostojnija i više ljubljena. Ipak se kaže da se Bog više raduje pokorniku nego nevinome, jer pokornici najčešće ustaju oprezniji, ponizniji i gorljiviji. Zato Grgur na istome mjestu kaže da *vojskovođa u boju više ljubi onoga vojnika koji se nakon bijega okrene i hrabro navaljuje na neprijatelja, nego onoga koji nikada nije pobjegao, ali nikada nije ni hrabro postupio*. Ili, iz drugoga razloga: jer je jednak dar milosti veći kad se usporedi s pokornikom, koji je zaslužio kaznu, nego s nevinim, koji je nije zaslužio. Kao što je sto maraka veći dar ako se daju siromahu nego ako se daju kralju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    },
+    "I.q20.a4.ad5": {
+      "text": "Na peto treba reći da, budući da je Božja volja uzrok dobrote u stvarima, dobrotu onoga koga Bog ljubi treba prosuđivati prema onome vremenu u kojem mu iz božanske dobrote treba biti dano neko dobro. Prema onome, dakle, vremenu u kojem predodređenom grešniku iz božanske volje treba biti dano veće dobro, on je bolji, premda je prema nekom drugom vremenu gori; jer prema nekom vremenu nije ni dobar ni zao.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:14+00:00"
+    }
+  }
+}

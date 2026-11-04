@@ -1,0 +1,390 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 16,
+  "units": {
+    "I.q16.pr": {
+      "text": "Budući pak da je znanje o istinitome, nakon razmatranja Božjeg znanja treba istražiti istinu. U vezi s njom pita se osam stvari. Prvo, je li istina u stvari ili samo u umu. Drugo, je li samo u umu koji sastavlja i rastavlja. Treće, o odnosu istinitoga prema biću. Četvrto, o odnosu istinitoga prema dobru. Peto, je li Bog istina. Šesto, jesu li sve stvari istinite jednom istinom ili s više njih. Sedmo, o vječnosti istine. Osmo, o njezinoj nepromjenljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da istina nije samo u umu, nego više u stvarima. Augustin, naime, u knjizi Razgovori sa samim sobom odbacuje ovo određenje istinitoga: istinito je ono što se vidi; jer prema tome kamenje koje je u najskrovitijem krilu zemlje ne bi bilo istinsko kamenje, budući da se ne vidi. Odbacuje i ovo: istinito je ono što se tako odnosi kako se pričinja onome koji spoznaje, ako hoće i može spoznati; jer bi prema tome slijedilo da ništa ne bi bilo istinito kad nitko ne bi mogao spoznati. I ovako definira istinito: istinito je ono što jest. I tako se čini da je istina u stvarima, a ne u umu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a1.obj2": {
+      "text": "Osim toga, što god je istinito, istinito je po istini. Ako je, dakle, istina samo u umu, ništa neće biti istinito osim ukoliko se shvaća; a to je zabluda drevnih filozofa, koji su govorili da je istinito sve što se pričinja. Iz toga slijedi da su proturječne tvrdnje istodobno istinite, budući da se različitima istodobno pričinja da su proturječne tvrdnje istinite.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a1.obj3": {
+      "text": "*Osim toga, ono zbog čega je svaka stvar takva, i samo je u većoj mjeri takvo*, kako je jasno u I. knjizi Druge analitike. *Ali zbog toga što stvar jest ili nije, mnijenje ili govor jest istinit ili lažan*, prema Filozofu u Kategorijama. Dakle, istina je više u stvarima nego u umu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a1.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u VI. knjizi Metafizike, da *istinito i lažno nisu u stvarima, nego u umu*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a1.resp": {
+      "text": "Odgovaram: treba reći da, kao što dobro imenuje ono prema čemu teži težnja, tako istinito imenuje ono prema čemu teži um. A između težnje i uma, odnosno bilo koje spoznaje, razlika je u tome što je spoznaja ukoliko je spoznato u onome koji spoznaje, dok je težnja ukoliko je onaj koji teži nagnut prema samoj stvari za kojom teži. I tako je završetak težnje, a to je dobro, u poželjnoj stvari, dok je završetak spoznaje, a to je istinito, u samom umu. Kao što je pak dobro u stvari ukoliko ima usmjerenost prema težnji, pa se zbog toga pojam dobrote prenosi s poželjne stvari na težnju, tako da se težnja naziva dobrom ukoliko je težnja za dobrim, tako je, budući da je istinito u umu ukoliko je um suobličen shvaćenoj stvari, nužno da se pojam istinitoga prenese s uma na shvaćenu stvar, tako da se i shvaćena stvar naziva istinitom ukoliko ima neku usmjerenost prema umu. A shvaćena stvar može imati usmjerenost prema nekom umu ili po sebi ili akcidentalno. Po sebi ima usmjerenost prema umu o kojem ovisi po svojem bitku, a akcidentalno prema umu kojemu je spoznatljiva. Kao kad bismo rekli da se kuća po sebi odnosi prema umu umjetnika, a akcidentalno prema umu o kojem ne ovisi. A sud o stvari ne uzima se prema onome što joj pripada akcidentalno, nego prema onome što joj pripada po sebi. Stoga se svaka stvar naziva istinitom apsolutno prema usmjerenosti na um o kojem ovisi. I odatle je to što se umjetne stvari nazivaju istinitima po usmjerenosti prema našem umu: naziva se, naime, istinitom kuća koja postiže sličnost s formom koja je u duhu umjetnika, a istinitim se naziva govor ukoliko je znak istinitog uma. I slično se kaže da su naravne stvari istinite ukoliko postižu sličnost s likovima koji su u Božjem duhu: naziva se, naime, istinitim kamenom onaj koji postiže vlastitu narav kamena, prema prethodnoj zamisli Božjeg uma. Tako je, dakle, istina na prvom mjestu u umu, a na drugom u stvarima, ukoliko se one odnose prema umu kao prema počelu. I prema tome se istina različito određuje. Augustin, naime, u knjizi O pravoj religiji kaže da je *istina ono čime se pokazuje ono što jest*. A Hilarije kaže da je *istinito ono što objavljuje ili očituje bitak*. I to pripada istini ukoliko je u umu. A istini stvari prema usmjerenosti na um pripada Augustinova definicija u knjizi O pravoj religiji: *istina je najviša sličnost počela, koja je bez ikakve nesličnosti*. I neka Anselmova definicija: *istina je ispravnost koju jedino duh može opaziti*; jer ispravno je ono što se slaže s počelom. I neka Avicenina definicija: *istina svake stvari jest svojstvo njezina bitka koji joj je ustanovljen*. A ono što se kaže da je istina izjednačenost stvari i uma, može pripadati i jednome i drugome.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori o istini stvari i iz pojma te istine isključuje odnos prema našem umu. Jer ono što je akcidentalno, isključuje se iz svake definicije.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a1.ad2": {
+      "text": "Na drugo treba reći da drevni filozofi nisu govorili da vrste naravnih stvari proizlaze iz nekog uma, nego da nastaju slučajno; a budući da su uviđali da istinito uključuje odnos prema umu, bili su prisiljeni istinu stvari smjestiti u usmjerenost prema našem umu. Iz toga su slijedile neprikladnosti koje Filozof iznosi u IV. knjizi Metafizike. Te se neprikladnosti, međutim, ne događaju ako postavimo da se istina stvari sastoji u odnosu prema Božjem umu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a1.ad3": {
+      "text": "Na treće treba reći da, premda istinu našeg uma uzrokuje stvar, ipak ne treba da se pojam istine prije nalazi u stvari, kao što se ni pojam zdravlja ne nalazi prije u lijeku nego u živom biću; zdravlje, naime, uzrokuje snaga lijeka, a ne njegovo zdravlje, budući da on nije jednoznačan djelatnik. I slično istinu uma uzrokuje bitak stvari, a ne njezina istina. Stoga Filozof kaže da je mnijenje i govor istinit *zbog toga što stvar jest, a ne zbog toga što je stvar istinita*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da istina nije samo u umu koji sastavlja i rastavlja. Filozof, naime, u III. knjizi O duši kaže da, kao što su osjeti uvijek istiniti o svojim vlastitim osjetnim predmetima, tako je i um istinit o onome što jest. Ali sastavljanja i rastavljanja nema ni u osjetu ni u umu koji spoznaje ono što jest. Dakle, istina nije samo u sastavljanju i rastavljanju uma.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a2.obj2": {
+      "text": "Osim toga, Izak u knjizi O definicijama kaže da je istina izjednačenost stvari i uma. Ali kao što se stvarima može izjednačiti shvaćanje složenoga, tako i shvaćanje nesloženoga, pa i osjet koji osjeća stvar kakva jest. Dakle, istina nije samo u sastavljanju i rastavljanju uma.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u VI. knjizi Metafizike, da u pogledu jednostavnoga i onoga što jest nema istine ni u umu ni u stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a2.resp": {
+      "text": "Odgovaram: treba reći da je istinito, kako je rečeno, prema svojem prvom pojmu u umu. A budući da je svaka stvar istinita ukoliko ima vlastitu formu svoje naravi, nužno je da um, ukoliko spoznaje, bude istinit ukoliko ima sličnost spoznate stvari, koja je njegova forma ukoliko spoznaje. I zbog toga se istina definira suobličenošću uma i stvari. Stoga spoznati tu suobličenost znači spoznati istinu. Nju pak osjet nikako ne spoznaje: premda, naime, vid ima sličnost vidljivoga, ipak ne spoznaje odnos koji postoji između viđene stvari i onoga što on sam o njoj zahvaća. Um, međutim, može spoznati svoju suobličenost s umljivom stvari, ali je ipak ne zahvaća ukoliko o nečemu spoznaje ono što jest; nego tek kad sudi da se stvar tako odnosi kakva je forma koju o stvari zahvaća, tada prvi put spoznaje i izriče istinito. A to čini sastavljajući i rastavljajući: u svakoj, naime, propoziciji neku formu označenu pririkom ili pridaje nekoj stvari označenoj subjektom ili je od nje odstranjuje. I zato se dobro nalazi da je osjet istinit o nekoj stvari, ili um spoznajući ono što jest, ali ne tako da spoznaje ili izriče istinito. I slično je sa složenim ili nesloženim izrazima. Istina, dakle, može biti u osjetu ili u umu koji spoznaje ono što jest kao u nekoj istinitoj stvari, ali ne kao spoznato u onome koji spoznaje, a to uključuje ime istinitoga; savršenost je, naime, uma istinito kao spoznato. I zato, govoreći u vlastitom smislu, istina je u umu koji sastavlja i rastavlja, a ne u osjetu ni u umu koji spoznaje ono što jest.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a2.adarg": {
+      "text": "I time je jasno rješenje prigovora.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da istinito i biće nisu zamjenljivi. Istinito je, naime, u vlastitom smislu u umu, kako je rečeno. A biće je u vlastitom smislu u stvarima. Dakle, nisu zamjenljivi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a3.obj2": {
+      "text": "Osim toga, ono što se proteže na biće i ne-biće nije zamjenljivo s bićem. Ali istinito se proteže na biće i ne-biće: istinito je, naime, da ono što jest jest i da ono što nije nije. Dakle, istinito i biće nisu zamjenljivi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a3.obj3": {
+      "text": "Osim toga, čini se da nije zamjenljivo ono što se odnosi kao prije i kasnije. Ali čini se da je istinito prije nego biće: biće se, naime, ne shvaća osim pod pojmom istinitoga. Dakle, čini se da nisu zamjenljivi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u II. knjizi Metafizike, da je isto stanje stvari u bitku i u istini.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što dobro ima pojam poželjnoga, tako istinito ima usmjerenost prema spoznaji. A svaka je stvar spoznatljiva utoliko koliko ima bitka. I zbog toga se kaže u III. knjizi O duši da je duša na neki način sve po osjetu i umu. I zato je, kao što je dobro zamjenljivo s bićem, tako i istinito. Ali ipak, kao što dobro biću dodaje pojam poželjnoga, tako istinito dodaje odnos prema umu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je istinito u stvarima i u umu, kako je rečeno. A istinito koje je u stvarima zamjenljivo je s bićem po supstanciji. Ali istinito koje je u umu zamjenljivo je s bićem kao ono što očituje s onim što je očitovano; to, naime, pripada pojmu istinitoga, kako je rečeno. Premda bi se moglo reći da je i biće u stvarima i u umu, kao i istinito, iako je istinito na prvom mjestu u umu, a biće na prvom mjestu u stvarima. A to se događa zbog toga što se istinito i biće razlikuju po pojmu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a3.ad2": {
+      "text": "Na drugo treba reći da ne-biće nema u sebi ono po čemu bi se spoznalo, nego se spoznaje ukoliko ga um čini spoznatljivim. Stoga je istinito utemeljeno u biću ukoliko je ne-biće neko biće razuma, to jest zahvaćeno razumom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a3.ad3": {
+      "text": "Na treće treba reći da se, kad se kaže da se biće ne može zahvatiti bez pojma istinitoga, to može shvatiti na dva načina. Na jedan način, tako da se biće ne zahvaća a da pojam istinitoga ne prati zahvaćanje bića. I u tom je smislu taj izričaj istinit. Na drugi bi se način moglo shvatiti tako da se biće ne bi moglo zahvatiti kad se ne bi zahvaćao pojam istinitoga. A to je lažno. Ali istinito se ne može zahvatiti ako se ne zahvaća pojam bića, jer biće ulazi u pojam istinitoga. I slično je kao kad bismo umljivo usporedili s bićem. Ne može se, naime, shvatiti biće a da biće nije umljivo, ali ipak se biće može shvatiti a da se ne shvaća njegova umljivost. I slično je shvaćeno biće istinito, ali ipak se shvaćanjem bića ne shvaća istinito.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je dobro po pojmu prije nego istinito. Ono, naime, što je općenitije, po pojmu je prije, kako je jasno iz I. knjige Fizike. Ali dobro je općenitije nego istinito: istinito je, naime, neko dobro, to jest dobro uma. Dakle, dobro je po pojmu prije nego istinito.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a4.obj2": {
+      "text": "Osim toga, dobro je u stvarima, a istinito u sastavljanju i rastavljanju uma, kako je rečeno. Ali ono što je u stvari prethodi onome što je u umu. Dakle, dobro je po pojmu prije nego istinito.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a4.obj3": {
+      "text": "Osim toga, istina je neka vrsta kreposti, kako je jasno u IV. knjizi Etike. Ali krepost je obuhvaćena dobrim: ona je, naime, dobra kakvoća duha, kako kaže Augustin. Dakle, dobro je prije nego istinito.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a4.sc": {
+      "text": "Ali protiv toga, ono što je u više stvari po pojmu je prije. Ali istinito je u nekim stvarima u kojima nema dobra, naime u matematičkim predmetima. Dakle, istinito je prije nego dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a4.resp": {
+      "text": "Odgovaram: treba reći da, premda su dobro i istinito po supozitu zamjenljivi s bićem, ipak se razlikuju po pojmu. I prema tome je istinito, govoreći apsolutno, prije nego dobro. To se vidi iz dvoga. Prvo, iz toga što je istinito bliže biću, koje je prvo, nego dobro. Istinito se, naime, odnosi na sam bitak jednostavno i neposredno, dok pojam dobra slijedi bitak ukoliko je on na neki način savršen; tako je, naime, poželjan. Drugo, to se vidi iz toga što spoznaja po naravi prethodi težnji. Stoga, budući da se istinito odnosi na spoznaju, a dobro na težnju, istinito će po pojmu biti prije nego dobro.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da volja i um uzajamno uključuju jedno drugo: um, naime, shvaća volju, a volja hoće da um shvaća. Tako, dakle, među onim što je usmjereno prema predmetu volje sadržano je i ono što pripada umu, i obratno. Stoga je u redu poželjnoga dobro kao opće, a istinito kao posebno, dok je u redu umljivoga obratno. Iz toga, dakle, što je istinito neko dobro, slijedi da je dobro prije u redu poželjnoga, ali ne da je prije jednostavno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a4.ad2": {
+      "text": "Na drugo treba reći da je nešto prije po pojmu prema tome što prije ulazi u um. A um najprije zahvaća samo biće; drugo, zahvaća da shvaća biće; i treće, zahvaća da teži za bićem. Stoga je prvo pojam bića, drugo pojam istinitoga, treće pojam dobra, premda je dobro u stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a4.ad3": {
+      "text": "Na treće treba reći da krepost koja se zove istina nije opća istina, nego neka istina prema kojoj čovjek u riječima i djelima pokazuje sebe kakav jest. A istina života naziva se tako u posebnom smislu, ukoliko čovjek u svojem životu ispunja ono na što je usmjeren po Božjem umu, kao što je također rečeno da je istina u ostalim stvarima. A istina pravednosti jest ukoliko čovjek čuva ono što duguje drugome prema redu zakonâ. Stoga od tih posebnih istina ne treba prelaziti na opću istinu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da Bog nije istina. Istina se, naime, sastoji u sastavljanju i rastavljanju uma. Ali u Bogu nema sastavljanja i rastavljanja. Dakle, u njemu nema istine.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a5.obj2": {
+      "text": "Osim toga, istina je, prema Augustinu u knjizi O pravoj religiji, sličnost počela. Ali Bog nema sličnosti s počelom. Dakle, u Bogu nema istine.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a5.obj3": {
+      "text": "Osim toga, što god se govori o Bogu, govori se o njemu kao o prvom uzroku svega, kao što je Božji bitak uzrok svakoga bitka, a njegova dobrota uzrok svakoga dobra. Ako je, dakle, u Bogu istina, onda će sve istinito biti od njega. Ali istinito je da netko griješi. Dakle, to će biti od Boga. A očito je da je to lažno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Gospodin, Iv 14: *Ja sam put, istina i život*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a5.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, istina nalazi u umu ukoliko zahvaća stvar kakva jest, a u stvari ukoliko ima bitak koji se može suobličiti umu. A to se u najvišoj mjeri nalazi u Bogu. Njegov, naime, bitak nije samo suobličen njegovu umu, nego je i samo njegovo shvaćanje; a njegovo je shvaćanje mjera i uzrok svakoga drugog bitka i svakoga drugog uma; i on je sam svoj bitak i shvaćanje. Stoga slijedi ne samo da je u njemu istina, nego da je on sam najviša i prva istina.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda u Božjem umu nema sastavljanja i rastavljanja, ipak on svojim jednostavnim shvaćanjem sudi o svemu i spoznaje sve složeno. I tako je u njegovu umu istina.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a5.ad2": {
+      "text": "Na drugo treba reći da je istinito našega uma ukoliko je suobličeno svojem počelu, to jest stvarima, od kojih prima spoznaju. I istina je stvari ukoliko su suobličene svojem počelu, to jest Božjem umu. Ali to se, govoreći u vlastitom smislu, ne može reći o Božjoj istini, osim možda ukoliko se istina pripisuje Sinu, koji ima počelo. Ako pak govorimo o istini izrečenoj bitno, to se ne može shvatiti osim ako se jesni iskaz razriješi u niječni, kao kad se kaže: Otac je od sebe, jer nije od drugoga. I slično se Božja istina može nazvati sličnošću počela ukoliko njegov bitak nije nesličan njegovu umu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a5.ad3": {
+      "text": "Na treće treba reći da ne-biće i lišenosti nemaju istinu sami od sebe, nego samo od zahvaćanja uma. A svako je zahvaćanje uma od Boga; stoga što god ima istine u tome kad kažem: istinito je da ovaj čini bludnost, sve je od Boga. Ali ako bi se zaključivalo: dakle, to što ovaj čini bludnost od Boga je, to je varka akcidenta.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da postoji samo jedna istina po kojoj je sve istinito. Jer, prema Augustinu, ništa nije veće od ljudskog duha osim Boga. Ali istina je veća od ljudskog duha; inače bi duh sudio o istini, a on zapravo o svemu sudi prema istini, a ne prema samome sebi. Dakle, samo je Bog istina. Dakle, nema druge istine osim Boga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a6.obj2": {
+      "text": "Osim toga, Anselmo u knjizi O istini kaže da se istina odnosi prema istinitim stvarima kao što se vrijeme odnosi prema vremenitim stvarima. Ali jedno je vrijeme svih vremenitih stvari. Dakle, jedna je istina po kojoj je sve istinito.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 11: *umanjene su istine od sinova ljudskih*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a6.resp": {
+      "text": "Odgovaram: treba reći da je na neki način jedna istina po kojoj je sve istinito, a na neki način nije. Da to bude jasno, treba znati da se, kad se nešto pririče jednoznačno o mnogima, to nalazi u svakom od njih prema vlastitom pojmu, kao živo biće u svakoj vrsti živih bića. Ali kad se nešto govori analogno o mnogima, to se prema vlastitom pojmu nalazi samo u jednom od njih, prema kojemu se ostala imenuju. Kao što se zdravo govori o živom biću, o mokraći i o lijeku, ne zato što bi zdravlje bilo igdje osim samo u živom biću, nego se prema zdravlju živog bića lijek naziva zdravim ukoliko proizvodi to zdravlje, a mokraća ukoliko označuje to zdravlje. I premda zdravlja nema ni u lijeku ni u mokraći, ipak je u oboje nešto po čemu ono prvo proizvodi, a ovo drugo označuje zdravlje. A rečeno je da je istina prije u umu, a kasnije u stvarima, ukoliko su usmjerene prema Božjem umu. Ako, dakle, govorimo o istini kako postoji u umu, prema vlastitom pojmu, tada je u mnogim stvorenim umovima mnogo istina; pa i u jednom te istom umu, prema mnogim spoznatim stvarima. Stoga Glosa uz ono iz Psalma 11, *umanjene su istine od sinova ljudskih* itd., kaže da kao što od jednog ljudskog lica nastaje više sličnosti u zrcalu, tako od jedne Božje istine nastaje više istina. Ako pak govorimo o istini kako je u stvarima, tada su sve istinite jednom prvom istinom, kojoj je svaka stvar slična prema svojoj bićevnosti. I tako, premda je više biti ili formi stvari, ipak je jedna istina Božjeg uma prema kojoj se sve stvari nazivaju istinitima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da duša ne sudi o svim stvarima prema bilo kojoj istini, nego prema prvoj istini, ukoliko se ona u njoj odražava kao u zrcalu, prema prvim umljivim stvarima. Stoga slijedi da je prva istina veća od duše. Pa ipak je i stvorena istina, koja je u našem umu, veća od duše, ne jednostavno, nego u nekom pogledu, ukoliko je njezina savršenost; kao što bi se i znanje moglo nazvati većim od duše. Ali istinito je da nijedna samostojeća stvar nije veća od razumskog duha osim Boga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a6.ad2": {
+      "text": "Na drugo treba reći da je Anselmova izreka istinita ukoliko se stvari nazivaju istinitima po odnosu prema Božjem umu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da je stvorena istina vječna. Augustin, naime, u knjizi O slobodnoj volji kaže da ništa nije vječnije od pojma kruga i od toga da su dva i tri pet. Ali istina tih stvari jest stvorena istina. Dakle, stvorena je istina vječna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a7.obj2": {
+      "text": "Osim toga, sve što jest uvijek, vječno je. Ali opće je posvuda i uvijek. Dakle, ono je vječno. Dakle, i istinito, koje je u najvišoj mjeri opće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a7.obj3": {
+      "text": "Osim toga, za ono što je istinito u sadašnjosti uvijek je bilo istinito da će biti. Ali kao što je istina propozicije o sadašnjem stvorena istina, tako je i istina propozicije o budućem. Dakle, neka je stvorena istina vječna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a7.obj4": {
+      "text": "Osim toga, sve što je bez početka i svršetka, vječno je. Ali istina iskazâ je bez početka i svršetka. Jer, ako je istina započela kad prije nije bila, bilo je istinito da istine nema, i to je, dakako, bilo istinito po nekoj istini; i tako je istina bila prije nego što je započela. I slično, ako se postavi da istina ima svršetak, slijedi da ona jest nakon što je prestala: bit će, naime, istinito da istine nema. Dakle, istina je vječna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a7.sc": {
+      "text": "Ali protiv toga je to što je samo Bog vječan, kako je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a7.resp": {
+      "text": "Odgovaram: treba reći da istina iskazâ nije ništa drugo nego istina uma. Iskaz je, naime, i u umu i u glasu. Ukoliko je u umu, ima istinu po sebi. A ukoliko je u glasu, naziva se istinitim iskazom ukoliko označuje neku istinu uma, a ne zbog neke istine koja bi postojala u iskazu kao u subjektu. Kao što se mokraća naziva zdravom ne prema zdravlju koje bi bilo u njoj, nego prema zdravlju živog bića, koje ona označuje. Slično je i gore rečeno da se stvari nazivaju istinitima prema istini uma. Stoga, kad nijedan um ne bi bio vječan, nijedna istina ne bi bila vječna. Ali budući da je samo Božji um vječan, samo u njemu istina ima vječnost. Niti zbog toga slijedi da je nešto drugo vječno osim Boga, jer je istina Božjeg uma sam Bog, kako je gore pokazano.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da pojam kruga i to da su dva i tri pet imaju vječnost u Božjem duhu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a7.ad2": {
+      "text": "Na drugo treba reći da se to da nešto jest uvijek i posvuda može shvatiti na dva načina. Na jedan način, zato što ima u sebi ono po čemu se proteže na svako vrijeme i na svako mjesto, kao što Bogu pripada da bude posvuda i uvijek. Na drugi način, zato što nema u sebi ono po čemu bi bilo određeno na neko mjesto ili vrijeme; kao što se za prvu tvar kaže da je jedna, ne zato što ima jednu formu, kao što je čovjek jedan jedinstvom jedne forme, nego odstranjivanjem svih formi koje razlikuju. I na taj se način za bilo koje opće kaže da jest posvuda i uvijek, ukoliko opće apstrahira od ovdje i sada. Ali iz toga ne slijedi da je ono vječno, osim u umu, ako je neki um vječan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a7.ad3": {
+      "text": "Na treće treba reći da je ono što sada jest bilo buduće prije nego što je bilo po tome što je u njegovu uzroku bilo da nastane. Stoga, kad bi se uklonio uzrok, ne bi bilo buduće da to nastane. A samo je prvi uzrok vječan. Stoga iz toga ne slijedi da je za ono što jest uvijek bilo istinito da će biti, osim ukoliko je u vjekovječnom uzroku bilo da će biti. A taj je uzrok samo Bog.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a7.ad4": {
+      "text": "Na četvrto treba reći da, budući da naš um nije vječan, ni istina iskazâ koje mi oblikujemo nije vječna, nego je nekoć započela. I prije nego što je takva istina bila, nije bilo istinito reći da takve istine nema, osim od strane Božjeg uma, u kojem je jedino istina vječna. Ali sada je istinito reći da istine tada nije bilo. A to nije istinito osim po istini koja je sada u našem umu, a ne po nekoj istini sa strane stvari. Jer to je istina o ne-biću; a ne-biće nema od sebe da bude istinito, nego samo od uma koji ga zahvaća. Stoga je istinito reći da istine nije bilo utoliko ukoliko njezin nebitak zahvaćamo kao nešto što prethodi njezinu bitku.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da je istina nepromjenljiva. Augustin, naime, u II. knjizi O slobodnoj volji kaže da istina nije jednaka duhu, jer bi bila promjenljiva, kao i duh.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a8.obj2": {
+      "text": "Osim toga, ono što ostaje nakon svake promjene nepromjenljivo je, kao što je prva tvar nerođena i nepropadljiva, jer ostaje nakon svakog nastajanja i propadanja. Ali istina ostaje nakon svake promjene, jer je nakon svake promjene istinito reći da nešto jest ili da nije. Dakle, istina je nepromjenljiva.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a8.obj3": {
+      "text": "Osim toga, ako se istina iskaza mijenja, mijenja se ponajviše s promjenom stvari. Ali tako se ne mijenja. Istina je, naime, prema Anselmu, neka ispravnost, ukoliko nešto ispunja ono što je o njemu u Božjem duhu. A ova propozicija, Sokrat sjedi, prima od Božjeg duha to da označuje da Sokrat sjedi, a to označuje i kad on ne sjedi. Dakle, istina propozicije nikako se ne mijenja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a8.obj4": {
+      "text": "Osim toga, gdje je isti uzrok, tu je i isti učinak. Ali ista je stvar uzrok istine ovih triju propozicija: Sokrat sjedi, sjedit će i sjedio je. Dakle, njihova je istina ista. Ali jedna od njih mora biti istinita. Dakle, istina tih propozicija ostaje nepromjenljivo. A s istog razloga i istina bilo koje druge propozicije.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 11: *umanjene su istine od sinova ljudskih*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a8.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, istina u vlastitom smislu samo u umu, a stvari se nazivaju istinitima prema istini koja je u nekom umu. Stoga promjenljivost istine treba razmatrati u vezi s umom. A njegova se istina sastoji u tome da ima suobličenost sa shvaćenim stvarima. Ta se suobličenost, kao i svaka druga sličnost, može mijenjati na dva načina, promjenom jednoga od dvaju krajeva. Stoga se na jedan način istina mijenja sa strane uma, time što netko o stvari koja se jednako odnosi prihvati drugo mnijenje; na drugi način, ako se, dok mnijenje ostaje isto, stvar promijeni. I na oba načina nastaje promjena od istinitoga u lažno. Ako je, dakle, neki um u kojem ne može biti izmjenjivanja mnijenja, ili čijem poimanju ne može izmaknuti nijedna stvar, u njemu je nepromjenljiva istina. A takav je Božji um, kako je jasno iz prethodnoga. Stoga je istina Božjeg uma nepromjenljiva. A istina našeg uma je promjenljiva. Ne kao da bi ona sama bila subjekt promjene, nego ukoliko se naš um mijenja od istine u lažnost; tako se, naime, i forme mogu nazvati promjenljivima. A istina Božjeg uma, prema kojoj se naravne stvari nazivaju istinitima, posve je nepromjenljiva.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori o Božjoj istini.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a8.ad2": {
+      "text": "Na drugo treba reći da su istinito i biće zamjenljivi. Stoga, kao što biće ne nastaje niti propada po sebi, nego akcidentalno, ukoliko ovo ili ono biće propada ili nastaje, kako se kaže u I. knjizi Fizike, tako se i istina mijenja, ne tako da ne bi ostala nikakva istina, nego zato što ne ostaje ona istina koja je prije bila.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a8.ad3": {
+      "text": "Na treće treba reći da propozicija nema istinu samo onako kako se kaže da je imaju druge stvari, ukoliko ispunjaju ono što je o njima određeno od Božjeg uma, nego se kaže da ima istinu na neki poseban način, ukoliko označuje istinu uma. A ta se sastoji u suobličenosti uma i stvari. Kad se ona ukloni, mijenja se istina mnijenja, a posljedično i istina propozicije. Tako je, dakle, ova propozicija, Sokrat sjedi, dok on sjedi, istinita i istinom stvari, ukoliko je neki glas koji nešto označuje, i istinom označivanja, ukoliko označuje istinito mnijenje. A kad Sokrat ustane, ostaje prva istina, ali se mijenja druga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    },
+    "I.q16.a8.ad4": {
+      "text": "Na četvrto treba reći da se Sokratovo sjedenje, koje je uzrok istine ove propozicije, Sokrat sjedi, ne odnosi na isti način dok Sokrat sjedi, nakon što je sjedio i prije nego što je sjeo. Stoga se i istina koju ono uzrokuje različito odnosi i različito se označuje propozicijama o sadašnjem, prošlom i budućem. Stoga ne slijedi, premda je jedna od triju propozicija istinita, da ista istina ostaje nepromjenljiva.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T15:06:13+00:00"
+    }
+  }
+}
