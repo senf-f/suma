@@ -1,0 +1,264 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 8,
+  "units": {
+    "I.q8.pr": {
+      "text": "Budući pak da se čini kako beskonačnom pristaje da bude posvuda i u svemu, treba razmotriti pristaje li to Bogu. I u vezi s tim pitaju se četiri stvari. Prvo, je li Bog u svim stvarima. Drugo, je li Bog posvuda. Treće, je li Bog posvuda po biti, moći i prisutnosti. Četvrto, je li biti posvuda svojstveno Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da Bog nije u svim stvarima. Ono, naime, što je iznad svega, nije u svim stvarima. Ali Bog je iznad svega, prema onome iz Psalma: *Gospodin je uzvišen nad svim narodima,* i tako dalje. Dakle, Bog nije u svim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a1.obj2": {
+      "text": "Osim toga, ono što je u nečemu, sadržano je u tome. Ali Bog nije sadržan u stvarima, nego radije on sadrži stvari. Dakle, Bog nije u stvarima, nego su radije stvari u njemu. Stoga Augustin u knjizi Osamdeset i tri pitanja kaže: *u njemu je radije sve, nego što je on igdje*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a1.obj3": {
+      "text": "Osim toga, što je neki djelatnik snažniji, to njegova radnja seže do udaljenijega. Ali Bog je najsnažniji djelatnik. Dakle, njegova radnja može doseći i do onoga što je od njega udaljeno, i nije nužno da on bude u svemu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a1.obj4": {
+      "text": "Osim toga, demoni su neke stvari. Ali Bog ipak nije u demonima; nema, naime, zajedništva svjetla s tamom, kako se kaže u Drugoj poslanici Korinćanima 6. Dakle, Bog nije u svim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a1.sc": {
+      "text": "Ali protiv toga: gdje god nešto djeluje, ondje jest. Ali Bog djeluje u svemu, prema onome iz Izaije 26: *sva si naša djela učinio u nama, Gospodine*. Dakle, Bog je u svim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a1.resp": {
+      "text": "Odgovaram: treba reći da je Bog u svim stvarima, ne doduše kao dio biti ili kao akcident, nego kao što je djelatnik prisutan onome na što djeluje. Nužno je, naime, da svaki djelatnik bude povezan s onim na što neposredno djeluje i da ga svojom snagom dotiče; stoga se u VII. knjizi Fizike dokazuje da pokrenuto i pokretač moraju biti zajedno. Budući pak da je Bog sam bitak po svojoj biti, nužno je da stvoreni bitak bude njegov vlastiti učinak, kao što je paljenje vlastiti učinak vatre. A taj učinak Bog uzrokuje u stvarima ne samo kad one prvi put počinju biti, nego sve dok se uzdržavaju u bitku, kao što sunce uzrokuje svjetlo u zraku sve dok zrak ostaje osvijetljen. Dakle, dokle god stvar ima bitak, dotle je nužno da joj Bog bude prisutan, prema načinu na koji ona ima bitak. A bitak je ono što je svakoj stvari najintimnije i što je od svega najdublje prisutno u svemu, budući da je formalno s obzirom na sve što je u stvari, kako je jasno iz gore rečenoga. Stoga je nužno da Bog bude u svim stvarima, i to intimno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Bog iznad svega po uzvišenosti svoje naravi, a ipak je u svim stvarima kao onaj koji uzrokuje bitak svega, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a1.ad2": {
+      "text": "Na drugo treba reći da, iako se za tjelesne stvari kaže da su u nečemu kao u onome što ih sadrži, duhovne stvari ipak sadrže ono u čemu jesu, kao što duša sadrži tijelo. Stoga je i Bog u stvarima kao onaj koji sadrži stvari. Ipak se, po nekoj sličnosti s tjelesnim stvarima, kaže da je sve u Bogu, utoliko što je njime sadržano.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a1.ad3": {
+      "text": "Na treće treba reći da radnja nijednoga djelatnika, ma koliko snažnog, ne seže do nečega udaljenoga, osim ukoliko na to djeluje preko posrednika. A najvećoj Božjoj snazi pripada to da neposredno djeluje u svemu. Stoga ništa nije od njega udaljeno tako kao da ne bi imalo Boga u sebi. Ipak se kaže da su stvari udaljene od Boga po nesličnosti naravi ili milosti, kao što je i on iznad svega po uzvišenosti svoje naravi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a1.ad4": {
+      "text": "Na četvrto treba reći da se u demonima razumije i narav, koja je od Boga, i izobličenost krivnje, koja nije od njega. I zato ne treba bezuvjetno dopustiti da je Bog u demonima, nego s ovim dodatkom: ukoliko su neke stvari. A za stvari koje imenuju neizobličenu narav treba bezuvjetno reći da je Bog u njima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Bog nije posvuda. Biti posvuda, naime, označuje biti na svakom mjestu. Ali biti na svakom mjestu ne pristaje Bogu, kojemu ne pristaje biti na mjestu; netjelesne stvari, naime, kako kaže Boetije u knjizi O hebdomadama, nisu na mjestu. Dakle, Bog nije posvuda.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a2.obj2": {
+      "text": "Osim toga, kako se vrijeme odnosi prema onome što je slijedno, tako se mjesto odnosi prema onome što je trajno. Ali jedno nedjeljivo radnje ili gibanja ne može biti u različitim vremenima. Dakle, ni jedno nedjeljivo u rodu trajnih stvari ne može biti na svim mjestima. A božanski bitak nije slijedan, nego trajan. Dakle, Bog nije na više mjesta. I tako nije posvuda.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a2.obj3": {
+      "text": "Osim toga, od onoga što je negdje cijelo, ništa nije izvan toga mjesta. Ali Bog, ako je na nekom mjestu, ondje je cijeli; nema, naime, dijelova. Dakle, ništa od njega nije izvan toga mjesta. Dakle, Bog nije posvuda.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Jeremiji 23: *nebo i zemlju ja ispunjam*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a2.resp": {
+      "text": "Odgovaram: treba reći da, budući da je mjesto neka stvar, to da je nešto na mjestu može se shvatiti dvojako: ili na način drugih stvari, to jest kao što se kaže da je nešto u drugim stvarima na bilo koji način, kao što su akcidenti mjesta na mjestu; ili na način svojstven mjestu, kao što je smješteno na mjestu. Na oba načina, u nekom smislu, Bog je na svakom mjestu, a to je biti posvuda. Prvo, kao što je u svim stvarima dajući im bitak i snagu i djelovanje, tako je na svakom mjestu dajući mu bitak i snagu da smješta. Isto tako, smještene su stvari na mjestu utoliko što ispunjaju mjesto, i Bog ispunja svako mjesto. Ne kao tijelo; za tijelo se, naime, kaže da ispunja mjesto utoliko što ne trpi uza se drugo tijelo; ali time što je Bog na nekom mjestu ne isključuje se da i druge stvari budu ondje; štoviše, on ispunja sva mjesta upravo time što daje bitak svim smještenim stvarima, koje ispunjaju sva mjesta.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da netjelesne stvari nisu na mjestu po dodiru dimenzionalne kolikoće, kao tijela, nego po dodiru snage.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a2.ad2": {
+      "text": "Na drugo treba reći da je nedjeljivo dvojako. Jedno je ono koje je granica neprekinutoga, kao točka u trajnim stvarima i trenutak u slijednima. I takvo nedjeljivo u trajnim stvarima, budući da ima određen položaj, ne može biti u više dijelova mjesta ili na više mjesta; i slično nedjeljivo radnje ili gibanja, budući da ima određen red u gibanju ili radnji, ne može biti u više dijelova vremena. Drugo je pak nedjeljivo ono koje je izvan cijeloga roda neprekinutoga, i na taj se način za netjelesne supstancije, kao što su Bog, anđeo i duša, kaže da su nedjeljive. Takvo se, dakle, nedjeljivo ne primjenjuje na neprekinuto kao nešto njegovo, nego ukoliko ga dotiče svojom snagom. Stoga, prema tome kako se njegova snaga može protezati na jedno ili na mnogo, na malo ili na veliko, prema tome je na jednom ili na više mjesta, i na malom ili velikom mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a2.ad3": {
+      "text": "Na treće treba reći da se cjelina kaže s obzirom na dijelove. A dio je dvojak: naime dio biti, kao što se forma i tvar nazivaju dijelovima složenca, a rod i razlika dijelovima vrste; a također i dio kolikoće, na koji se, naime, dijeli neka kolikoća. Ono, dakle, što je cijelo na nekom mjestu cjelovitošću kolikoće, ne može biti izvan toga mjesta, jer je kolikoća smještenoga sumjerna kolikoći mjesta; stoga nema cjelovitosti kolikoće ako nema cjelovitosti mjesta. Ali cjelovitost biti nije sumjerna cjelovitosti mjesta. Stoga nije nužno da ono što je u nečemu cijelo cjelovitošću biti nikako ne bude izvan toga. Kao što se to vidi i u akcidentalnim formama, koje akcidentalno imaju kolikoću: bjelina je, naime, cijela u bilo kojem dijelu površine, ako se uzme cjelovitost biti, jer se po savršenom pojmu svoje vrste nalazi u bilo kojem dijelu površine; ako se pak uzme cjelovitost po kolikoći, koju ima akcidentalno, tada nije cijela u bilo kojem dijelu površine. A u netjelesnim supstancijama nema cjelovitosti, ni po sebi ni akcidentalno, osim po savršenom pojmu biti. I zato, kao što je duša cijela u bilo kojem dijelu tijela, tako je Bog cijeli u svemu i u svakoj pojedinoj stvari.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se loše navode načini na koje Bog postoji u stvarima kad se kaže da je Bog u svim stvarima po biti, moći i prisutnosti. Po biti je, naime, u nečemu ono što je u njemu bitno. A Bog nije bitno u stvarima; on, naime, ne pripada biti nijedne stvari. Dakle, ne treba reći da je Bog u stvarima po biti, prisutnosti i moći.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a3.obj2": {
+      "text": "Osim toga, biti prisutan nekoj stvari znači ovo: ne izostajati od nje. Ali i to da je Bog po biti u stvarima znači ovo: ne izostajati ni od jedne stvari. Dakle, isto je da je Bog u svemu po biti i po prisutnosti. Suvišno je, dakle, bilo reći da je Bog u stvarima po biti, prisutnosti i moći.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a3.obj3": {
+      "text": "Osim toga, kao što je Bog počelo svih stvari po svojoj moći, tako je i po znanju i volji. Ali ne kaže se da je Bog u stvarima po znanju i volji. Dakle, ni po moći.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a3.obj4": {
+      "text": "Osim toga, kao što je milost neka savršenost nadodana supstanciji stvari, tako ima i mnogo drugih nadodanih savršenosti. Ako se, dakle, kaže da je Bog na poseban način u nekima po milosti, čini se da bi prema svakoj savršenosti trebalo uzeti poseban način na koji Bog jest u stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a3.sc": {
+      "text": "Ali protiv toga je ono što Grgur kaže u tumačenju Pjesme nad pjesmama: *Bog je na zajednički način u svim stvarima prisutnošću, moću i supstancijom, ali se na prisan način kaže da je u nekima po milosti*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a3.resp": {
+      "text": "Odgovaram: treba reći da se za Boga kaže da je u nekoj stvari dvojako. Na jedan način, na način djelatnoga uzroka, i tako je u svim stvarima koje je on stvorio. Na drugi način, kao što je predmet djelovanja u onome koji djeluje, što je svojstveno djelovanjima duše, ukoliko je spoznato u onome koji spoznaje, a željeno u onome koji želi. Na ovaj drugi način, dakle, Bog je na poseban način u razumnom stvoru, koji ga spoznaje i ljubi činom ili habitusom. I budući da to razumni stvor ima po milosti, kako će se niže vidjeti, kaže se da je on na taj način u svetima po milosti. A kako je u drugim stvarima koje je stvorio, treba razmotriti na temelju onoga što se kaže o ljudskim stvarima. Za kralja se, naime, kaže da je u cijelom svom kraljevstvu po svojoj moći, iako nije posvuda prisutan. Po svojoj se pak prisutnosti kaže da je netko u svemu što je pred njegovim pogledom, kao što se za sve što je u nekoj kući kaže da je prisutno nekome tko ipak nije po svojoj supstanciji u svakom dijelu kuće. Po supstanciji pak ili biti kaže se da je nešto na mjestu na kojem se nalazi njegova supstancija. Bilo je, dakle, nekih, naime manihejaca, koji su govorili da su božanskoj vlasti podložne duhovne i netjelesne stvari, a za vidljive i tjelesne govorili su da su podložne vlasti suprotnoga počela. Protiv njih, dakle, treba reći da je Bog u svemu po svojoj moći. Bilo je pak drugih koji, iako su vjerovali da je sve podložno božanskoj moći, ipak nisu protezali božansku providnost sve do ovih nižih tijela; u njihovo se ime kaže u Jobu 22: *obilazi oko stožera neba, a naše ne promatra*. I protiv njih je trebalo reći da je on u svemu po svojoj prisutnosti. Bilo je pak drugih koji su, iako su govorili da sve pripada Božjoj providnosti, ipak postavili da nije sve neposredno stvorio Bog, nego da je on neposredno stvorio prve stvorove, a oni su stvorili druge. I protiv njih treba reći da je on u svemu po biti. Tako je, dakle, u svemu po moći, utoliko što je sve podloženo njegovoj vlasti. Po prisutnosti je u svemu, utoliko što je sve golo i otkriveno njegovim očima. U svemu je po biti, utoliko što je prisutan svemu kao uzrok bitka, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se kaže da je Bog u svemu po biti, ne doduše po biti stvari, kao da pripada njihovoj biti, nego po svojoj biti, jer je njegova supstancija prisutna svemu kao uzrok bitka, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a3.ad2": {
+      "text": "Na drugo treba reći da se nešto može nazvati prisutnim nečemu ukoliko je pod njegovim pogledom, iako je od njega udaljeno po svojoj supstanciji, kako je rečeno. I zato je trebalo postaviti dva načina, naime po biti i po prisutnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a3.ad3": {
+      "text": "Na treće treba reći da pojmu znanja i volje pripada to da je znano u onome koji zna, a hoćeno u onome koji hoće; stoga su po znanju i volji prije stvari u Bogu nego Bog u stvarima. Ali pojmu moći pripada to da je počelo djelovanja na drugo; stoga se po moći djelatnik odnosi prema vanjskoj stvari i primjenjuje se na nju. I tako se može reći da je djelatnik po moći u drugome.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a3.ad4": {
+      "text": "Na četvrto treba reći da nijedna druga savršenost nadodana supstanciji, osim milosti, ne čini da Bog bude u nečemu kao spoznati i ljubljeni predmet; i zato samo milost čini osobit način na koji Bog jest u stvarima. Postoji pak još jedan osobit način na koji Bog jest u čovjeku, po sjedinjenju, o kojem će se načinu raspravljati na njegovu mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da biti posvuda nije svojstveno Bogu. Opće je, naime, prema Filozofu, posvuda i uvijek; i prva tvar, budući da je u svim tijelima, jest posvuda. A ni jedno ni drugo od toga nije Bog, kako je jasno iz prethodnoga. Dakle, biti posvuda nije svojstveno Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.obj2": {
+      "text": "Osim toga, broj je u izbrojenim stvarima. Ali cijeli je svemir ustanovljen u broju, kako je jasno iz Knjige mudrosti 11. Dakle, postoji neki broj koji je u cijelom svemiru, i tako posvuda.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.obj3": {
+      "text": "Osim toga, cijeli je svemir neko cjelovito savršeno tijelo, kako se kaže u I. knjizi O nebu i svijetu. Ali cijeli je svemir posvuda, jer izvan njega nema nikakvoga mjesta. Dakle, nije samo Bog posvuda.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.obj4": {
+      "text": "Osim toga, kad bi neko tijelo bilo beskonačno, ne bi bilo nikakvoga mjesta izvan njega. Dakle, bilo bi posvuda. I tako se čini da biti posvuda nije svojstveno Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.obj5": {
+      "text": "*Osim toga, duša*, kako kaže Augustin u VI. knjizi O Trojstvu, *cijela je u cijelom tijelu i cijela u bilo kojem njegovu dijelu*. Kad, dakle, na svijetu ne bi bilo nego samo jedno živo biće, njegova bi duša bila posvuda. I tako biti posvuda nije svojstveno Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.obj6": {
+      "text": "Osim toga, kako kaže Augustin u poslanici Volusijanu, *gdje duša vidi, ondje osjeća; i gdje osjeća, ondje živi; i gdje živi, ondje jest*. Ali duša vidi gotovo posvuda, jer postupno vidi čak i cijelo nebo. Dakle, duša je posvuda.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Ambrozije u knjizi O Duhu Svetome: *tko bi se usudio reći da je Duh Sveti stvor, on koji je u svemu i posvuda i uvijek, što je zacijelo svojstveno božanstvu?*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.resp": {
+      "text": "Odgovaram: treba reći da je biti posvuda prvotno i po sebi svojstveno Bogu. A kažem da je prvotno posvuda ono što je posvuda cijelo samo po sebi. Kad bi, naime, nešto bilo posvuda tako da različitim dijelovima postoji na različitim mjestima, ne bi bilo prvotno posvuda, jer ono što nečemu pristaje zbog njegova dijela, ne pristaje mu prvotno; kao kad je čovjek bijel po zubu, bjelina ne pristaje prvotno čovjeku, nego zubu. A po sebi posvuda nazivam ono čemu biti posvuda ne pristaje akcidentalno, zbog neke učinjene pretpostavke; jer bi tako zrno prosa bilo posvuda, uz pretpostavku da ne postoji nikakvo drugo tijelo. Po sebi, dakle, nečemu pristaje biti posvuda kad je ono takvo da, uz bilo koju postavku, slijedi da je ono posvuda. I to u vlastitom smislu pristaje Bogu. Jer koliko god se mjesta postavilo, čak i kad bi se uz ova koja postoje postavilo beskonačno mnogo drugih, Bog bi morao biti u svima, jer ništa ne može biti osim po njemu. Tako, dakle, biti posvuda prvotno i po sebi pristaje Bogu i svojstveno mu je, jer koliko god se mjesta postavilo, nužno je da Bog bude u svakome, ne po dijelu, nego po samom sebi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da su opće i prva tvar doduše posvuda, ali ne po istom bitku.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.ad2": {
+      "text": "Na drugo treba reći da broj, budući da je akcident, nije na mjestu po sebi, nego akcidentalno. I nije cijeli u bilo kojoj od izbrojenih stvari, nego po dijelu. I tako ne slijedi da je prvotno i po sebi posvuda.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.ad3": {
+      "text": "Na treće treba reći da je cijelo tijelo svemira posvuda, ali ne prvotno, jer nije cijelo na bilo kojem mjestu, nego po svojim dijelovima. A ni po sebi, jer kad bi se postavila neka druga mjesta, ono ne bi bilo u njima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.ad4": {
+      "text": "Na četvrto treba reći da bi beskonačno tijelo, kad bi postojalo, bilo posvuda, ali po svojim dijelovima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.ad5": {
+      "text": "Na peto treba reći da bi, kad bi postojalo samo jedno živo biće, njegova duša bila posvuda doduše prvotno, ali akcidentalno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q8.a4.ad6": {
+      "text": "Na šesto treba reći da se, kad se kaže da duša negdje vidi, to može shvatiti dvojako. Na jedan način, tako da prilog „negdje“ određuje čin viđenja sa strane predmeta. I tako je istina da, dok vidi nebo, vidi na nebu, i iz istoga razloga osjeća na nebu. Ipak ne slijedi da na nebu živi ili jest, jer živjeti i biti ne uključuju čin koji prelazi na vanjski predmet. Na drugi način može se shvatiti tako da prilog određuje čin onoga koji vidi, ukoliko izlazi iz onoga koji vidi. I tako je istina da duša, gdje osjeća i vidi, ondje jest i živi, prema tom načinu govora. I tako ne slijedi da je posvuda.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    }
+  }
+}

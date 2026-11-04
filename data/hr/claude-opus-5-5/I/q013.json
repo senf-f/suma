@@ -1,0 +1,636 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 13,
+  "units": {
+    "I.q13.pr": {
+      "text": "Nakon što smo razmotrili ono što se odnosi na spoznaju Boga, valja prijeći na razmatranje Božjih imena, jer svaku stvar imenujemo onako kako je spoznajemo. O tome se, dakle, pita dvanaest stvari. Prvo, možemo li mi Boga imenovati. Drugo, pririču li se neka imena koja se kažu o Bogu o njemu supstancijalno. Treće, kažu li se neka imena koja se kažu o Bogu o njemu u vlastitom smislu ili mu se sva pripisuju preneseno. Četvrto, jesu li mnoga imena koja se kažu o Bogu istoznačnice. Peto, kažu li se neka imena o Bogu i o stvorovima jednoznačno ili dvoznačno. Šesto, pretpostavivši da se kažu analogno, kažu li se prije o Bogu ili o stvorovima. Sedmo, kažu li se neka imena o Bogu vremenito. Osmo, je li ime „Bog“ ime naravi ili djelovanja. Deveto, je li ime „Bog“ priopćivo ime. Deseto, uzima li se jednoznačno ili dvoznačno ukoliko označuje Boga po naravi, po sudjelovanju i po mnijenju. Jedanaesto, je li ime „Onaj koji jest“ najvlastitije Božje ime. Dvanaesto, mogu li se o Bogu oblikovati potvrdni iskazi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da Bogu ne pristaje nikakvo ime. Dionizije, naime, u 1. poglavlju spisa O Božjim imenima kaže da za njega nema ni imena ni mnijenja. A u Izrekama 30 kaže se: *Koje je ime njegovo i koje je ime sina njegova, ako znaš?*",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a1.obj2": {
+      "text": "Osim toga, svako se ime kaže ili apstraktno ili konkretno. Ali imena koja označuju konkretno ne pristaju Bogu, budući da je jednostavan; a ne pristaju mu ni imena koja označuju apstraktno, jer ne označuju nešto savršeno što samostoji. Dakle, nikakvo se ime ne može reći o Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a1.obj3": {
+      "text": "Osim toga, imenice označuju supstanciju s kakvoćom; glagoli i participi označuju s vremenom; zamjenice pak s pokazivanjem ili s odnošenjem. Ništa od toga ne pristaje Bogu, jer je bez kakvoće i bez ikakva akcidenta, i bez vremena; ne može se osjetilima zahvatiti tako da bi se mogao pokazati; niti se može označiti odnosno, budući da odnosne riječi podsjećaju na nešto prije rečeno, bilo na imenice, bilo na participe, bilo na pokazne zamjenice. Dakle, Boga mi nikako ne možemo imenovati.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izlasku 15: *Gospodin je kao ratnik, Svemogući ime mu je*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a1.resp": {
+      "text": "Odgovaram: treba reći da su, prema Filozofu, glasovi znakovi umskih pojmova, a umski su pojmovi sličnosti stvari. Tako je jasno da se glasovi odnose na stvari koje treba označiti posredstvom umskoga poimanja. Prema tome, ukoliko nešto možemo umom spoznati, utoliko to možemo i imenovati. A gore je pokazano da Boga u ovom životu ne možemo gledati po njegovoj biti, nego ga spoznajemo iz stvorova, po odnosu počela, i na način nadmašnosti i odstranjivanja. Tako ga, dakle, možemo imenovati iz stvorova, ali ne tako da bi ime koje ga označuje izražavalo Božju bit onakvu kakva jest, kao što ime „čovjek“ svojim značenjem izražava bit čovjeka onakvu kakva jest: ono, naime, označuje njegovu definiciju, koja očituje njegovu bit; jer pojam koji ime označuje jest definicija.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se o Bogu kaže da nema imena ili da je iznad imenovanja iz toga razloga što je njegova bit iznad onoga što o Bogu shvaćamo i glasom označujemo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a1.ad2": {
+      "text": "Na drugo treba reći da, budući da do spoznaje Boga dolazimo iz stvorova i iz njih ga imenujemo, imena koja pripisujemo Bogu označuju na onaj način koji pristaje tvarnim stvorovima, čija nam je spoznaja sunaravna, kao što je gore rečeno. A budući da su u takvim stvorovima ono što je savršeno i što samostoji složenci, dok forma u njima nije nešto potpuno što samostoji, nego prije ono po čemu nešto jest, odatle dolazi da sva imena koja smo nadjenuli da označe nešto potpuno što samostoji označuju konkretno, kako pristaje složenima; a ona koja se nadijevaju da označe jednostavne forme označuju nešto ne kao ono što samostoji, nego kao ono po čemu nešto jest, kao što „bjelina“ označuje ono po čemu je nešto bijelo. Budući da je, dakle, Bog i jednostavan i samostojeći, pripisujemo mu i apstraktna imena, da označimo njegovu jednostavnost, i konkretna imena, da označimo njegovu samostojnost i savršenost, premda i jedna i druga imena zaostaju za njegovim načinom bivanja, kao što ga ni naš um u ovom životu ne spoznaje onakva kakav jest.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a1.ad3": {
+      "text": "Na treće treba reći da označivati supstanciju s kakvoćom znači označivati supozit s određenom naravi ili formom u kojoj samostoji. Stoga, kao što se o Bogu neke stvari kažu konkretno da bi se označila njegova samostojnost i savršenost, kao što je već rečeno, tako se o Bogu kažu i imena koja označuju supstanciju s kakvoćom. A glagoli i participi koji suoznačuju vrijeme kažu se o njemu zato što vječnost uključuje svako vrijeme: kao što, naime, jednostavne samostojeće stvarnosti ne možemo zahvatiti ni označiti drukčije nego na način složenih, tako ni jednostavnu vječnost ne možemo shvatiti ni glasom izraziti drukčije nego na način vremenitih stvari; a to zbog sunaravnosti našega uma sa složenim i vremenitim stvarima. Pokazne se pak zamjenice kažu o Bogu ukoliko pokazuju na ono što se shvaća, a ne na ono što se osjeća: jer ukoliko ga mi shvaćamo, utoliko potpada pod pokazivanje. I tako, na onaj isti način na koji se o Bogu kažu imenice, participi i pokazne zamjenice, može se on označiti i odnosnim zamjenicama.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se nikakvo ime ne kaže o Bogu supstancijalno. Damaščanin, naime, kaže: *Svako od onoga što se kaže o Bogu treba da ne označuje što on jest po supstanciji, nego da pokazuje što on nije, ili neki odnos, ili nešto od onoga što prati narav ili djelovanje*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a2.obj2": {
+      "text": "Osim toga, Dionizije u 1. poglavlju spisa O Božjim imenima kaže: *Naći ćeš da svaki hvalospjev svetih bogoslova dijeli Božja imena, očitujući ih i hvaleći, prema dobrotvornim izlascima Bogovlađa*; a smisao je da se imena koja sveti naučitelji uzimaju za Božju hvalu razlikuju prema izlascima samoga Boga. Ali ono što označuje izlazak neke stvari ne označuje ništa što pripada njezinoj biti. Dakle, imena koja se kažu o Bogu ne kažu se o njemu supstancijalno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a2.obj3": {
+      "text": "Osim toga, nešto imenujemo onako kako ga shvaćamo. Ali Boga u ovom životu ne shvaćamo po njegovoj supstanciji. Dakle, ni nijedno ime koje smo nadjenuli ne kaže se o Bogu po njegovoj supstanciji.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u 6. knjizi O Trojstvu: *Bogu je biti isto što i biti jak ili biti mudar, i što god bi rekao o onoj jednostavnosti, čime se označuje njegova supstancija*. Dakle, sva takva imena označuju Božju supstanciju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a2.resp": {
+      "text": "Odgovaram: treba reći da je za imena koja se o Bogu kažu niječno, ili koja označuju njegov odnos prema stvoru, očito da ni na koji način ne označuju njegovu supstanciju, nego odstranjivanje nečega od njega, ili njegov odnos prema drugomu, ili prije odnos nečega prema njemu. Ali o imenima koja se o Bogu kažu apsolutno i potvrdno, kao „dobar“, „mudar“ i slično, neki su bili različitih mnijenja. Neki su, naime, rekli da su sva ta imena, premda se o Bogu kažu potvrdno, ipak više pronađena zato da se nešto od Boga odstrani nego da se nešto u njemu postavi. Stoga kažu da, kad kažemo da je Bog živ, označujemo da Bog ne postoji na način na koji postoje neživotne stvari; i slično treba shvatiti i kod ostalih. To je postavio rabi Mojsije. Drugi pak kažu da su ta imena nadjenuta da označe njegov odnos prema stvorenome, tako da, kad kažemo „Bog je dobar“, smisao bude: Bog je uzrok dobrote u stvarima. I isti je razlog kod ostalih. No i jedno i drugo od toga čini se neprikladnim, iz triju razloga. Prvo, zato što se ni prema jednom od tih stajališta ne bi mogao navesti razlog zašto bi se neka imena prije kazivala o Bogu nego druga. Jer on je uzrok tijela kao što je uzrok dobara; stoga, ako se, kad se kaže „Bog je dobar“, ne označuje ništa drugo nego da je Bog uzrok dobara, moći će se jednako reći da je Bog tijelo, jer je uzrok tijela. Isto tako, time što se kaže da je tijelo, odstranjuje se da je biće samo u mogućnosti, kao prva tvar. Drugo, zato što bi slijedilo da se sva imena koja se kažu o Bogu kažu o njemu kasnije, kao što se „zdravo“ kasnije kaže o lijeku, zato što označuje samo to da je uzrok zdravlja u živom biću, o kojem se „zdravo“ kaže prije. Treće, zato što je to protiv nakane onih koji govore o Bogu. Oni, naime, kad kažu da je Bog živ, hoće reći nešto drugo nego da je uzrok našega života ili da se razlikuje od neživotnih tijela. Zato treba reći drukčije, naime da takva imena doista označuju Božju supstanciju i pririču se o Bogu supstancijalno, ali zaostaju u njegovu predočivanju. To je jasno ovako. Imena, naime, označuju Boga onako kako ga naš um spoznaje. A naš um, budući da Boga spoznaje iz stvorova, spoznaje ga onako kako ga stvorovi predočuju. A gore je pokazano da Bog u sebi unaprijed ima sve savršenosti stvorova, kao onaj koji je naprosto i sveopće savršen. Stoga ga svaki stvor utoliko predočuje i utoliko mu je sličan ukoliko ima neku savršenost; ali ne tako da ga predočuje kao nešto iste vrste ili roda, nego kao nadmašno počelo, za čijom formom učinci zaostaju, ali kojemu učinci ipak postižu neku sličnost; kao što forme nižih tijela predočuju snagu Sunca. To je gore izloženo kad se raspravljalo o Božjoj savršenosti. Tako, dakle, spomenuta imena označuju Božju supstanciju, ali nesavršeno, kao što je i stvorovi nesavršeno predočuju. Kad se, dakle, kaže „Bog je dobar“, smisao nije: Bog je uzrok dobrote, ili: Bog nije zao, nego je smisao: ono što u stvorovima nazivamo dobrotom unaprijed postoji u Bogu, i to na viši način. Stoga iz toga ne slijedi da Bogu pristaje biti dobar ukoliko uzrokuje dobrotu, nego prije obratno: budući da je dobar, razlijeva dobrotu na stvari, prema onoj Augustinovoj u spisu O kršćanskom nauku: *Ukoliko je on dobar, mi jesmo*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Damaščanin zato kaže da ta imena ne označuju što Bog jest, jer nijedno od tih imena ne izražava savršeno što Bog jest, nego svako od njih označuje ga nesavršeno, kao što ga i stvorovi nesavršeno predočuju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a2.ad2": {
+      "text": "Na drugo treba reći da je u značenju imena katkad jedno ono od čega se ime nadijeva da označuje, a drugo ono što ime nadjenuto označuje: tako se ime „kamen“ nadijeva od toga što ozljeđuje nogu, ali se ne nadijeva zato da označuje ono što ozljeđuje nogu, nego da označi neku vrstu tijela; inače bi sve što ozljeđuje nogu bilo kamen. Tako, dakle, treba reći da se takva Božja imena doista nadijevaju od izlazaka božanstva: jer kao što stvorovi, prema različitim izlascima savršenosti, predočuju Boga, premda nesavršeno, tako i naš um, prema svakom pojedinom izlasku, Boga spoznaje i imenuje. Ali ipak ta imena ne nadijeva zato da označi same izlaske, tako da bi, kad se kaže „Bog je živ“, smisao bio: od njega izlazi život; nego zato da označi samo počelo stvari, ukoliko u njemu unaprijed postoji život, premda na uzvišeniji način nego što se shvaća ili označuje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a2.ad3": {
+      "text": "Na treće treba reći da Božju bit u ovom životu ne možemo spoznati onakvu kakva je u sebi, nego je spoznajemo onako kako se predočuje u savršenostima stvorova. I tako je označuju imena koja smo nadjenuli.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se nikakvo ime ne kaže o Bogu u vlastitom smislu. Sva su, naime, imena koja kažemo o Bogu uzeta od stvorova, kao što je rečeno. Ali imena stvorova kažu se o Bogu preneseno, kao kad se kaže da je Bog kamen, ili lav, ili nešto takvo. Dakle, sva imena koja se kažu o Bogu kažu se preneseno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a3.obj2": {
+      "text": "Osim toga, nikakvo se ime ne kaže u vlastitom smislu o onome od čega se istinitije odstranjuje nego što se o njemu pririče. Ali sva takva imena, „dobar“, „mudar“ i slična, istinitije se od Boga odstranjuju nego što se o njemu pririču, kao što je jasno iz Dionizija, u 2. poglavlju spisa O nebeskoj hijerarhiji. Dakle, nijedno se od tih imena ne kaže o Bogu u vlastitom smislu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a3.obj3": {
+      "text": "Osim toga, imena tijela kažu se o Bogu samo preneseno, budući da je netjelesan. Ali sva takva imena uključuju neke tjelesne uvjete: označuju, naime, s vremenom, i sa sastavljenošću, i s drugim takvim stvarima, koje su uvjeti tijela. Dakle, sva se takva imena kažu o Bogu preneseno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Ambrozije u 2. knjizi O vjeri: *Ima nekih imena koja očito pokazuju svojstvo božanstva, i nekih koja izražavaju jasnu istinu Božjega veličanstva; a ima drugih koja se o Bogu kažu prenosno, po sličnosti*. Dakle, ne kažu se sva imena o Bogu preneseno, nego se neka kažu u vlastitom smislu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, Boga spoznajemo iz savršenosti koje od njega izlaze u stvorove; a te su savršenosti u Bogu na uzvišeniji način nego u stvorovima. Naš pak um zahvaća ih onako kako su u stvorovima, i kako ih zahvaća, tako ih imenima i označuje. U imenima, dakle, koja pripisujemo Bogu treba razmotriti dvoje: same označene savršenosti, kao što su dobrota, život i slično, i način označivanja. Što se, dakle, tiče onoga što takva imena označuju, ona pristaju Bogu u vlastitom smislu, i to u vlastitijem smislu nego samim stvorovima, i o njemu se kažu prije. A što se tiče načina označivanja, ne kažu se o Bogu u vlastitom smislu, jer imaju način označivanja koji pristaje stvorovima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da neka imena označuju takve savršenosti koje od Boga izlaze u stvorene stvari tako da je sam nesavršeni način na koji stvor ima udjela u Božjoj savršenosti uključen u samo značenje imena, kao što „kamen“ označuje nešto što je tvarno biće; i takva imena mogu se pripisati Bogu samo preneseno. A neka imena označuju same savršenosti apsolutno, a da u njihovo značenje nije uključen nikakav način sudjelovanja, kao „biće“, „dobro“, „živo“ i slično; i takva se o Bogu kažu u vlastitom smislu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a3.ad2": {
+      "text": "Na drugo treba reći da Dionizije zato kaže da se takva imena niječu o Bogu jer ono što se imenom označuje ne pristaje njemu na onaj način na koji ime označuje, nego na uzvišeniji način. Stoga Dionizije na istom mjestu kaže da je Bog iznad svake supstancije i života.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a3.ad3": {
+      "text": "Na treće treba reći da ona imena koja se o Bogu kažu u vlastitom smislu uključuju tjelesne uvjete ne u samome onom što ime označuje, nego s obzirom na način označivanja. A ona koja se o Bogu kažu preneseno uključuju tjelesni uvjet u samome onom što označuju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da su ta imena koja se kažu o Bogu istoznačnice. Istoznačnicama se, naime, nazivaju imena koja označuju posve isto. Ali ta imena koja se kažu o Bogu označuju u Bogu posve isto, jer je Božja dobrota njegova bit, a tako i mudrost. Dakle, ta su imena posve istoznačna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a4.obj2": {
+      "text": "Ako se kaže da ta imena označuju isto u stvarnosti, ali po različitim pojmovima, protiv toga stoji: pojam kojemu ništa ne odgovara u stvari jest isprazan; ako su, dakle, ti pojmovi mnogi, a stvar je jedna, čini se da su ti pojmovi isprazni.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a4.obj3": {
+      "text": "Osim toga, više je jedno ono što je jedno u stvarnosti i po pojmu nego ono što je jedno u stvarnosti, a mnogostruko po pojmu. Ali Bog je u najvećoj mjeri jedan. Dakle, čini se da nije jedan u stvarnosti, a mnogostruk po pojmu. I tako imena koja se kažu o Bogu ne označuju različite pojmove, pa su stoga istoznačnice.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a4.sc": {
+      "text": "Ali protiv toga: sve istoznačnice, kad se jedna drugoj pridruže, dovode do praznoslovlja, kao kad bi se reklo „haljina odjeća“. Kad bi, dakle, sva imena koja se kažu o Bogu bila istoznačnice, ne bi se moglo prikladno reći „dobri Bog“ ili nešto slično; a ipak je napisano u Jeremiji 32: *Najjači, veliki, moćni, Gospodin nad vojskama ime ti je*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a4.resp": {
+      "text": "Odgovaram: treba reći da takva imena koja se kažu o Bogu nisu istoznačnice. To bi doduše bilo lako uvidjeti kad bismo rekli da su takva imena uvedena zato da nešto odstrane ili da naznače odnos uzroka prema stvorovima: tako bi, naime, pojmovi tih imena bili različiti prema različitome što se niječe ili prema različitim suoznačenim učincima. Ali i prema onome što je rečeno, da takva imena označuju Božju supstanciju, premda nesavršeno, također je posve jasno, na temelju prethodnoga, da imaju različite pojmove. Pojam, naime, koji ime označuje jest umsko poimanje stvari označene imenom. A naš um, budući da Boga spoznaje iz stvorova, oblikuje, da bi shvatio Boga, poimanja razmjerna savršenostima koje od Boga izlaze u stvorove. Te savršenosti unaprijed postoje u Bogu ujedinjeno i jednostavno, a u stvorovima se primaju razdijeljeno i mnogostruko. Kao što, dakle, različitim savršenostima stvorova odgovara jedno jednostavno počelo, koje različite savršenosti stvorova predočuju raznoliko i mnogostruko, tako raznolikim i mnogostrukim poimanjima našega uma odgovara jedno posve jednostavno, koje se prema takvim poimanjima nesavršeno shvaća. I zato imena koja se pripisuju Bogu, premda označuju jednu stvar, ipak, budući da je označuju pod mnogim i različitim pojmovima, nisu istoznačnice.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a4.ad1": {
+      "text": "I tako je jasno rješenje prvoga, jer istoznačnicama se nazivaju imena koja označuju jedno po jednom pojmu. Ona, naime, koja označuju različite pojmove jedne stvari, ne označuju jedno prvotno i po sebi, jer ime označuje stvar samo posredstvom umskoga poimanja, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a4.ad2": {
+      "text": "Na drugo treba reći da mnogi pojmovi tih imena nisu ništavni i isprazni, jer svima njima odgovara nešto jedno jednostavno, što se po svima njima mnogostruko i nesavršeno predočuje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a4.ad3": {
+      "text": "Na treće treba reći da upravo to pripada savršenom Božjem jedinstvu da ono što je u drugima mnogostruko i razdijeljeno u njemu bude jednostavno i ujedinjeno. I odatle dolazi da je on jedan u stvarnosti, a mnogostruk po pojmu, jer ga naš um zahvaća onako mnogostruko kako ga stvari mnogostruko predočuju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se ono što se kaže o Bogu i stvorovima kaže o njima jednoznačno. Sve se, naime, dvoznačno svodi na jednoznačno, kao mnogo na jedno. Jer ako se ime „pas“ dvoznačno kaže o onome koji laje i o morskome, mora se o nekima kazivati jednoznačno, naime o svima koji laju; inače bi se išlo u beskonačnost. A nalaze se neki jednoznačni djelatnici, koji se sa svojim učincima slažu u imenu i definiciji, kao što čovjek rađa čovjeka; a neki su dvoznačni djelatnici, kao što Sunce uzrokuje toplo, premda samo nije toplo osim dvoznačno. Čini se, dakle, da je prvi djelatnik, na kojega se svode svi djelatnici, jednoznačan djelatnik. I tako se ono što se kaže o Bogu i stvorovima pririče jednoznačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a5.obj2": {
+      "text": "Osim toga, kod dvoznačnih stvari ne zapaža se nikakva sličnost. Budući, dakle, da postoji neka sličnost stvora s Bogom, prema onome iz Postanka 1: *Načinimo čovjeka na svoju sliku i sličnost*, čini se da se nešto kaže jednoznačno o Bogu i stvorovima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a5.obj3": {
+      "text": "Osim toga, mjera je istorodna s mjerenim, kao što se kaže u 10. knjizi Metafizike. Ali Bog je prva mjera svih bića, kao što se ondje kaže. Dakle, Bog je istorodan sa stvorovima. I tako se nešto može reći jednoznačno o Bogu i stvorovima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a5.sc1": {
+      "text": "Ali protiv toga: što god se pririče o nekim stvarima po istom imenu, a ne po istom pojmu, pririče se o njima dvoznačno. Ali nijedno ime ne pristaje Bogu po onom pojmu po kojem se kaže o stvoru: jer mudrost je u stvorovima kakvoća, a u Bogu nije; a promijenjeni rod mijenja pojam, budući da je dio definicije. I isti je razlog kod ostalih. Dakle, što god se kaže o Bogu i stvorovima, kaže se dvoznačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a5.sc2": {
+      "text": "Osim toga, Bog je udaljeniji od stvorova nego bilo koji stvorovi jedni od drugih. Ali zbog udaljenosti nekih stvorova događa se da se o njima ništa ne može pririći jednoznačno, kao o onima koji se ne slažu ni u kakvom rodu. Dakle, još se mnogo manje o Bogu i stvorovima nešto pririče jednoznačno, nego se sve pririče dvoznačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a5.resp": {
+      "text": "Odgovaram: treba reći da je nemoguće da se nešto pririče o Bogu i stvorovima jednoznačno. Jer svaki učinak koji ne izjednačuje snagu djelatnoga uzroka prima sličnost djelatnika ne po istom pojmu, nego manjkavo, tako da ono što je u učincima razdijeljeno i mnogostruko, u uzroku jest jednostavno i na isti način; kao što Sunce jednom snagom proizvodi mnogolike i raznolike forme u ovim nižim stvarima. Na isti način, kao što je gore rečeno, sve savršenosti stvari, koje su u stvorenim stvarima razdijeljeno i mnogostruko, u Bogu unaprijed postoje ujedinjeno. Tako, dakle, kad se neko ime koje se odnosi na savršenost kaže o stvoru, ono označuje tu savršenost kao različitu od drugih po pojmu definicije; na primjer, kad se ime „mudar“ kaže o čovjeku, označujemo neku savršenost različitu od čovjekove biti, i od njegove moći i njegova bitka, i od svega takvoga. Ali kad to ime kažemo o Bogu, ne namjeravamo označiti nešto različito od njegove biti, moći ili bitka. I tako, kad se ime „mudar“ kaže o čovjeku, ono na neki način omeđuje i obuhvaća označenu stvar; ali ne kad se kaže o Bogu, nego ostavlja označenu stvar neobuhvaćenom i takvom koja nadilazi značenje imena. Stoga je jasno da se ime „mudar“ ne kaže po istom pojmu o Bogu i o čovjeku. I isti je razlog kod ostalih. Stoga se nijedno ime ne pririče jednoznačno o Bogu i stvorovima. Ali ni čisto dvoznačno, kao što su neki rekli. Jer prema tome ne bi se iz stvorova moglo ništa spoznati o Bogu niti dokazati, nego bi se uvijek upadalo u varku dvoznačnosti. A to je protiv filozofa, koji mnogo toga o Bogu dokazno izvode, kao i protiv Apostola, koji kaže u Poslanici Rimljanima 1: *Nevidljivo Božje, po onome što je stvoreno, shvaćeno, promatra se*. Treba, dakle, reći da se takva imena kažu o Bogu i stvorovima po analogiji, to jest po razmjeru. To se kod imena događa na dva načina: ili zato što mnoge stvari imaju razmjer prema jednomu, kao što se „zdravo“ kaže o lijeku i o mokraći, ukoliko oboje ima usmjerenost i razmjer prema zdravlju živoga bića, kojemu je ovo znak, a ono uzrok; ili zato što jedno ima razmjer prema drugomu, kao što se „zdravo“ kaže o lijeku i o živom biću, ukoliko je lijek uzrok zdravlja koje je u živom biću. I na taj se način neke stvari kažu o Bogu i stvorovima analogno, a ne čisto dvoznačno, ni jednoznačno. Jer Boga ne možemo imenovati osim iz stvorova, kao što je gore rečeno. I tako se sve što se kaže o Bogu i stvorovima kaže ukoliko postoji neki red stvora prema Bogu, kao prema počelu i uzroku, u kojem unaprijed nadmašno postoje sve savršenosti stvari. A taj je način zajedništva sredina između čiste dvoznačnosti i jednostavne jednoznačnosti. Jer kod onoga što se kaže analogno nema jednog pojma, kao kod jednoznačnoga, niti je posve različit, kao kod dvoznačnoga; nego ime koje se tako mnogostruko kaže označuje različite razmjere prema nečemu jednomu; kao što „zdravo“, rečeno o mokraći, označuje znak zdravlja živoga bića, a rečeno o lijeku, označuje uzrok toga istog zdravlja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda u priricanjima dvoznačno treba svoditi na jednoznačno, ipak u djelovanjima nejednoznačni djelatnik nužno prethodi jednoznačnom djelatniku. Nejednoznačni je djelatnik, naime, opći uzrok cijele vrste, kao što je Sunce uzrok rađanja svih ljudi. A jednoznačni djelatnik nije opći djelatni uzrok cijele vrste (inače bi bio uzrok samoga sebe, budući da je obuhvaćen vrstom), nego je posebni uzrok s obzirom na ovog pojedinca, kojega postavlja u sudjelovanje u vrsti. Opći, dakle, uzrok cijele vrste nije jednoznačan djelatnik. A opći je uzrok prije posebnoga. Taj pak opći djelatnik, premda nije jednoznačan, ipak nije ni posve dvoznačan, jer tako ne bi činio sebi slično; nego se može nazvati analognim djelatnikom; kao što se u priricanjima sve jednoznačno svodi na jedno prvo, ne jednoznačno, nego analogno, a to je biće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a5.ad2": {
+      "text": "Na drugo treba reći da je sličnost stvora s Bogom nesavršena, jer ne predočuje ni nešto isto po rodu, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a5.ad3": {
+      "text": "Na treće treba reći da Bog nije mjera razmjerna mjerenima. Stoga nije nužno da Bog i stvorovi budu obuhvaćeni jednim rodom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a5.ad4": {
+      "text": "A ono što se navodi u suprotnom smislu zaključuje da se takva imena ne pririču jednoznačno o Bogu i stvorovima, ali ne i da se pririču dvoznačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se imena kažu prije o stvorovima nego o Bogu. Jer kako nešto spoznajemo, tako ga i imenujemo, budući da su imena, prema Filozofu, znakovi umskih pojmova. Ali stvor spoznajemo prije nego Boga. Dakle, imena koja smo nadjenuli pristaju prije stvorovima nego Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a6.obj2": {
+      "text": "Osim toga, prema Dioniziju, u knjizi O Božjim imenima, Boga imenujemo iz stvorova. Ali imena prenesena sa stvorova na Boga kažu se prije o stvorovima nego o Bogu, kao „lav“, „kamen“ i slično. Dakle, sva imena koja se kažu o Bogu i o stvorovima kažu se prije o stvorovima nego o Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a6.obj3": {
+      "text": "Osim toga, sva imena koja se zajednički kažu o Bogu i stvorovima kažu se o Bogu kao o uzroku svega, kao što kaže Dionizije. Ali ono što se o nečemu kaže po uzroku, kaže se o njemu kasnije: jer se „zdravo“ prije kaže o živom biću nego o lijeku, koji je uzrok zdravlja. Dakle, takva se imena kažu prije o stvorovima nego o Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Poslanici Efežanima 3: *Prigibam koljena svoja pred Ocem Gospodina našega Isusa, od kojega se imenuje svako očinstvo na nebu i na zemlji*. I isti se razlog čini da vrijedi za druga imena koja se kažu o Bogu i stvorovima. Dakle, takva se imena kažu prije o Bogu nego o stvorovima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a6.resp": {
+      "text": "Odgovaram: treba reći da je kod svih imena koja se analogno kažu o više stvari nužno da se sva kažu s obzirom na jedno; i zato to jedno treba biti postavljeno u definiciji svih. A budući da je pojam koji ime označuje definicija, kao što se kaže u 4. knjizi Metafizike, nužno je da se to ime kaže prije o onome što se postavlja u definiciji drugih, a kasnije o drugima, prema redu kojim se više ili manje približavaju onomu prvomu; kao što „zdravo“ koje se kaže o živom biću ulazi u definiciju „zdravoga“ koje se kaže o lijeku, koji se naziva zdravim ukoliko uzrokuje zdravlje u živom biću, i u definiciju „zdravoga“ koje se kaže o mokraći, koja se naziva zdravom ukoliko je znak zdravlja živoga bića. Tako se, dakle, sva imena koja se o Bogu kažu preneseno kažu prije o stvorovima nego o Bogu, jer, rečena o Bogu, ne označuju ništa drugo nego sličnosti s takvim stvorovima. Kao što, naime, „smijati se“, rečeno o livadi, ne označuje ništa drugo nego da se livada, kad cvjeta, slično odnosi u ljepoti kao čovjek kad se smije, po sličnosti razmjera; tako ime „lav“, rečeno o Bogu, ne označuje ništa drugo nego da se Bog slično odnosi, tako da snažno djeluje u svojim djelima, kao lav u svojima. I tako je jasno da se njihovo značenje, ukoliko se kažu o Bogu, ne može definirati drukčije nego po onome što se kaže o stvorovima. A za druga imena, koja se o Bogu ne kažu preneseno, vrijedio bi isti razlog kad bi se o Bogu kazivala samo uzročno, kao što su neki postavili. Jer tada bi, kad se kaže „Bog je dobar“, to bilo ništa drugo nego „Bog je uzrok dobrote stvora“; i tako bi ime „dobar“, rečeno o Bogu, u svojem pojmu uključivalo dobrotu stvora. Stoga bi se „dobar“ prije kazivalo o stvoru nego o Bogu. Ali gore je pokazano da se takva imena o Bogu ne kažu samo uzročno, nego i bitno. Kad se, naime, kaže „Bog je dobar“ ili „mudar“, ne označuje se samo da je on uzrok mudrosti ili dobrote, nego da one u njemu unaprijed postoje na uzvišeniji način. Stoga, prema tome, treba reći da se, s obzirom na stvar označenu imenom, ona kažu prije o Bogu nego o stvorovima, jer takve savršenosti izviru od Boga u stvorove. Ali s obzirom na nadijevanje imena, mi ih prije nadijevamo stvorovima, koje prije spoznajemo. Stoga i imaju način označivanja koji pristaje stvorovima, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj prigovor vrijedi s obzirom na nadijevanje imena.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a6.ad2": {
+      "text": "Na drugo treba reći da nije isti razlog za imena koja se o Bogu kažu preneseno i za druga, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a6.ad3": {
+      "text": "Na treće treba reći da bi taj prigovor vrijedio kad bi se takva imena o Bogu kazivala samo uzročno, a ne bitno, kao „zdravo“ o lijeku.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se imena koja uključuju odnos prema stvorovima ne kažu o Bogu vremenito. Sva, naime, takva imena označuju Božju supstanciju, kao što se općenito kaže. Stoga i Ambrozije kaže da je ime „Gospodin“ ime vlasti, koja je Božja supstancija, a „Stvoritelj“ označuje Božju radnju, koja je njegova bit. Ali Božja supstancija nije vremenita, nego vječna. Dakle, takva se imena ne kažu o Bogu vremenito, nego od vječnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.obj2": {
+      "text": "Osim toga, kojoj god stvari nešto pristaje vremenito, za nju se može reći da je postala: jer ono što je vremenito bijelo, postaje bijelo. Ali Bogu ne pristaje da je postao. Dakle, o Bogu se ništa ne pririče vremenito.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.obj3": {
+      "text": "Osim toga, ako se neka imena kažu o Bogu vremenito zato što uključuju odnos prema stvorovima, čini se da isti razlog vrijedi za sva koja uključuju odnos prema stvorovima. Ali neka imena koja uključuju odnos prema stvorovima kažu se o Bogu od vječnosti: od vječnosti je, naime, znao stvor i ljubio ga, prema onome iz Jeremije 31: *Ljubavlju vječnom ljubio sam te*. Dakle, i druga imena koja uključuju odnos prema stvorovima, kao „Gospodin“ i „Stvoritelj“, kažu se o Bogu od vječnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.obj4": {
+      "text": "Osim toga, takva imena označuju odnos. Taj odnos, dakle, mora biti ili nešto u Bogu ili samo u stvoru. Ali ne može biti da je samo u stvoru, jer bi se tako Bog nazivao Gospodinom po suprotnom odnosu, koji je u stvorovima; a ništa se ne naziva po svojoj suprotnosti. Preostaje, dakle, da je odnos i nešto u Bogu. Ali u Bogu ništa ne može biti vremenito, budući da je on iznad vremena. Dakle, čini se da se takva imena ne kažu o Bogu vremenito.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.obj5": {
+      "text": "Osim toga, nešto se kaže odnosno po odnosu, na primjer „gospodar“ po gospodstvu, kao „bijel“ po bjelini. Ako, dakle, odnos gospodstva nije u Bogu u stvarnosti, nego samo po pojmu, slijedi da Bog nije stvarno Gospodin, što je očito lažno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.obj6": {
+      "text": "Osim toga, kod odnosnih stvari koje nisu istodobne po naravi, jedno može postojati a da drugo ne postoji, kao što spoznatljivo postoji i kad ne postoji znanje, kao što se kaže u Kategorijama. Ali odnosne stvari koje se kažu o Bogu i stvorovima nisu istodobne po naravi. Dakle, nešto se može reći o Bogu odnosno prema stvoru i kad stvor ne postoji. I tako se takva imena, „Gospodin“ i „Stvoritelj“, kažu o Bogu od vječnosti, a ne vremenito.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u 5. knjizi O Trojstvu, da taj odnosni naziv „Gospodin“ pristaje Bogu vremenito.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.resp": {
+      "text": "Odgovaram: treba reći da se neka imena koja uključuju odnos prema stvoru kažu o Bogu vremenito, a ne od vječnosti. Da bi to bilo jasno, treba znati da su neki postavili da odnos nije stvarnost naravi, nego samo razuma. To se očito pokazuje lažnim iz toga što same stvari imaju naravni red i odnošaj jedna prema drugoj. Ipak, treba znati da, budući da odnos zahtijeva dva krajnja člana, može se na tri načina odnositi prema tome da bude stvarnost naravi ili razuma. Katkad je, naime, s obje strane samo stvarnost razuma, kad naime red ili odnošaj ne može postojati između nekih stvari osim samo prema zahvaćanju razuma, kao kad kažemo da je isto istomu isto. Jer ukoliko razum dvaput zahvaća nešto jedno, postavlja ga kao dvoje; i tako zahvaća neki njegov odnošaj prema samome sebi. I slično je sa svim odnosima koji su između bića i nebića; njih oblikuje razum ukoliko zahvaća nebiće kao neki krajnji član. I isto je sa svim odnosima koji slijede čin razuma, kao rod i vrsta i slično. Neki su pak odnosi, s obzirom na oba krajnja člana, stvarnost naravi, naime kad postoji odnošaj između nekih dviju stvari po nečemu što stvarno pristaje objema. Kao što je jasno kod svih odnosa koji slijede kolikoću, kao veliko i malo, dvostruko i polovično i slično: jer kolikoća je u oba krajnja člana. I slično je s odnosima koji slijede radnju i trpnju, kao pokretačko i pokretljivo, otac i sin i slično. A katkad je odnos u jednom od krajnjih članova stvarnost naravi, a u drugom samo stvarnost razuma. I to se događa kad god dva krajnja člana nisu istoga reda. Kao što se osjet i znanje odnose prema osjetnome i spoznatljivome; a ta, ukoliko su neke stvari koje postoje u naravnom bitku, jesu izvan reda osjetnoga i umljivoga bitka; i zato je u znanju i osjetu stvarni odnos, ukoliko su usmjereni prema znanju ili osjećanju stvari; ali same stvari, razmatrane u sebi, izvan su takvoga reda. Stoga u njima nema nikakvoga stvarnog odnosa prema znanju i osjetu, nego samo po pojmu, ukoliko ih um zahvaća kao krajnje točke odnosa znanja i osjeta. Stoga Filozof kaže u 5. knjizi Metafizike da se one ne nazivaju odnosnima zato što se same odnose prema drugomu, nego zato što se drugo odnosi prema njima. I slično se „desno“ ne kaže o stupu osim ukoliko je postavljen zdesna živom biću; stoga takav odnos nije stvarno u stupu, nego u živom biću. Budući da je, dakle, Bog izvan svega reda stvorova, a svi su stvorovi usmjereni prema njemu, a ne obratno, očito je da se stvorovi stvarno odnose prema samome Bogu; a u Bogu nema nikakva stvarnog odnosa prema stvorovima, nego samo po pojmu, ukoliko se stvorovi odnose prema njemu. I tako ništa ne priječi da se takva imena koja uključuju odnos prema stvoru pririču o Bogu vremenito, ne zbog neke njegove promjene, nego zbog promjene stvora; kao što stup postaje desni u odnosu na živo biće bez ikakve promjene na njemu, nego time što se živo biće premjestilo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da su neka odnosna imena nadjenuta da označe same odnosne odnošaje, kao „gospodar“, „sluga“, „otac“ i „sin“ i slično, i za njih se kaže da su odnosna po bitku. Neka su pak nadjenuta da označe stvari koje prate neki odnošaji, kao pokretač i pokrenuto, glava i oglavljeno, i drugo slično, za koja se kaže da su odnosna po kazivanju. Tako, dakle, i kod Božjih imena treba razmotriti tu razliku. Neka, naime, označuju sam odnošaj prema stvoru, kao „Gospodin“. I takva ne označuju Božju supstanciju izravno, nego neizravno, ukoliko je pretpostavljaju, kao što gospodstvo pretpostavlja vlast, koja je Božja supstancija. A neka izravno označuju Božju bit, a posljedično uključuju odnošaj, kao što „Spasitelj“, „Stvoritelj“ i slično označuju Božju radnju, koja je njegova bit. Ipak, i jedna i druga imena kažu se o Bogu vremenito s obzirom na odnošaj koji uključuju, bilo glavno bilo posljedično, a ne s obzirom na to da označuju bit, bilo izravno bilo neizravno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.ad2": {
+      "text": "Na drugo treba reći da, kao što odnosi koji se kažu o Bogu vremenito nisu u Bogu osim po pojmu, tako se ni „postati“ ni „biti postao“ ne kaže o Bogu osim po pojmu, bez ikakve promjene na njemu, kao što je ono: *Gospodine, postao si nam utočište*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.ad3": {
+      "text": "Na treće treba reći da je djelovanje uma i volje u onome koji djeluje; i zato se imena koja označuju odnose što slijede radnju uma ili volje kažu o Bogu od vječnosti. A ona koja slijede radnje koje izlaze, prema načinu shvaćanja, na vanjske učinke, kažu se o Bogu vremenito, kao „Spasitelj“, „Stvoritelj“ i slično.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.ad4": {
+      "text": "Na četvrto treba reći da su odnosi označeni takvim imenima koja se o Bogu kažu vremenito u Bogu samo po pojmu, a suprotni su odnosi u stvorovima u stvarnosti. Niti je neprikladno da se Bog naziva po odnosima koji stvarno postoje u stvari, ali tako da naš um supojmi suprotne odnose u Bogu. Tako se Bog kaže odnosno prema stvoru zato što se stvor odnosi prema njemu, kao što Filozof kaže u 5. knjizi Metafizike da se spoznatljivo kaže odnosno zato što se znanje odnosi prema njemu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.ad5": {
+      "text": "Na peto treba reći da, budući da se Bog odnosi prema stvoru po onom istom razlogu po kojem se stvor odnosi prema njemu, a odnos podložnosti stvarno je u stvoru, slijedi da Bog nije Gospodin samo po pojmu, nego stvarno. Gospodinom se, naime, naziva na onaj način na koji mu je stvor podložan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a7.ad6": {
+      "text": "Na šesto treba reći da, da bismo spoznali jesu li odnosne stvari istodobne po naravi ili nisu, ne treba razmatrati red stvari o kojima se odnosne stvari kažu, nego značenja samih odnosnih izraza. Ako, naime, jedno u svojem pojmu uključuje drugo i obratno, tada su istodobne po naravi, kao dvostruko i polovično, otac i sin i slično. Ako pak jedno u svojem pojmu uključuje drugo, a ne obratno, tada nisu istodobne po naravi. I tako se odnose znanje i spoznatljivo. Jer spoznatljivo se kaže po mogućnosti, a znanje po habitusu ili po činu. Stoga spoznatljivo, prema načinu svojega značenja, prethodi znanju. Ali ako se spoznatljivo uzme po činu, tada je istodobno sa znanjem po činu: jer spoznato nije ništa ako nema njegova znanja. Premda je, dakle, Bog prije stvorova, ipak, budući da je u značenju „gospodara“ uključeno da ima slugu, i obratno, ta su dva odnosna izraza, gospodar i sluga, istodobna po naravi. Stoga Bog nije bio Gospodin prije nego što je imao sebi podložan stvor.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da ime „Bog“ nije ime naravi. Damaščanin, naime, u 1. knjizi kaže da se *Bog naziva od theein*, što znači trčati i brižno grijati sve; *ili od aithein, to jest gorjeti (jer naš je Bog oganj koji proždire svaku zloću); ili od theasthai*, što znači promatrati sve. A sve to pripada djelovanju. Dakle, ime „Bog“ označuje djelovanje, a ne narav.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a8.obj2": {
+      "text": "Osim toga, nešto imenujemo onako kako ga spoznajemo. Ali Božja nam je narav nepoznata. Dakle, ime „Bog“ ne označuje Božju narav.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Ambrozije u 1. knjizi O vjeri, da je „Bog“ ime naravi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a8.resp": {
+      "text": "Odgovaram: treba reći da nije uvijek isto ono od čega se ime nadijeva da označuje i ono što ime nadjenuto označuje. Kao što, naime, supstanciju stvari spoznajemo iz njezinih svojstava ili djelovanja, tako supstanciju stvari katkad imenujemo po nekom njezinu djelovanju ili svojstvu; kao što supstanciju kamena imenujemo po nekoj njegovoj radnji, jer ozljeđuje nogu; ali to ime nije nadjenuto da označuje tu radnju, nego supstanciju kamena. Ako pak ima stvari koje su nam poznate same po sebi, kao toplina, hladnoća, bjelina i slično, one se ne imenuju po drugima. Stoga je kod takvih stvari isto ono što ime označuje i ono od čega se ime nadijeva da označuje. Budući da, dakle, Bog nije nama poznat u svojoj naravi, nego nam postaje poznat iz svojih djelovanja ili učinaka, iz njih ga možemo imenovati, kao što je gore rečeno. Stoga je ime „Bog“ ime djelovanja s obzirom na ono od čega se nadijeva da označuje. To se ime, naime, nadijeva od sveopće providnosti nad stvarima: svi, naime, koji govore o Bogu namjeravaju Bogom nazvati ono što ima sveopću providnost nad stvarima. Stoga Dionizije u 12. poglavlju spisa O Božjim imenima kaže: *Božanstvo je ono što sve vidi savršenom providnošću i dobrotom*. Ime „Bog“, pak, uzeto od toga djelovanja, nadjenuto je da označuje Božju narav.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da sve što je Damaščanin naveo pripada providnosti, od koje se ime „Bog“ nadijeva da označuje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a8.ad2": {
+      "text": "Na drugo treba reći da, ukoliko narav neke stvari možemo spoznati iz njezinih svojstava i učinaka, utoliko je možemo imenom i označiti. Stoga, budući da supstanciju kamena možemo iz njegova svojstva spoznati po njoj samoj, znajući što je kamen, ime „kamen“ označuje samu narav kamena onakvu kakva je u sebi: označuje, naime, definiciju kamena, po kojoj znamo što je kamen. Jer pojam koji ime označuje jest definicija, kao što se kaže u 4. knjizi Metafizike. Ali iz Božjih učinaka ne možemo spoznati Božju narav onakvu kakva je u sebi, tako da znamo što ona jest, nego na način nadmašnosti, uzročnosti i nijekanja, kao što je gore rečeno. I tako ime „Bog“ označuje Božju narav. To je ime, naime, nadjenuto da označi nešto što postoji iznad svega, što je počelo svega i što je odstranjeno od svega. To, naime, namjeravaju označiti oni koji imenuju Boga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da je ime „Bog“ priopćivo. Kome se god, naime, priopćuje stvar označena imenom, priopćuje se i samo ime. Ali ime „Bog“, kao što je rečeno, označuje Božju narav, koja je priopćiva drugima, prema onome iz Druge Petrove poslanice 1: *Darovao nam je velika i dragocjena obećanja, da po tome postanemo zajedničari božanske naravi*. Dakle, ime „Bog“ je priopćivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a9.obj2": {
+      "text": "Osim toga, samo vlastita imena nisu priopćiva. Ali ime „Bog“ nije vlastito ime, nego zajedničko, što je jasno iz toga što ima množinu, prema onome iz Psalma 81: *Ja rekoh: bogovi ste*. Dakle, ime „Bog“ je priopćivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a9.obj3": {
+      "text": "Osim toga, ime „Bog“ nadijeva se od djelovanja, kao što je rečeno. Ali druga imena koja se Bogu nadijevaju od djelovanja ili od učinaka priopćiva su, kao „dobar“, „mudar“ i slično. Dakle, i ime „Bog“ je priopćivo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a9.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Knjizi Mudrosti 14: *Nepriopćivo ime nadjenuše drvu i kamenju*; a govori se o imenu božanstva. Dakle, ime „Bog“ je nepriopćivo ime.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a9.resp": {
+      "text": "Odgovaram: treba reći da neko ime može biti priopćivo na dva načina: na jedan način u vlastitom smislu, na drugi način po sličnosti. U vlastitom je smislu priopćivo ono što je priopćivo mnogima po cijelom značenju imena. Po sličnosti je pak priopćivo ono što je priopćivo po nečemu od onoga što je uključeno u značenje imena. Tako se ime „lav“ u vlastitom smislu priopćuje svima onima u kojima se nalazi narav koju ime „lav“ označuje; a po sličnosti je priopćivo onima koji imaju udjela u nečemu lavljem, na primjer u smjelosti ili jakosti, a koji se preneseno nazivaju lavovima. Da bismo pak znali koja su imena u vlastitom smislu priopćiva, treba razmotriti da je svaka forma koja postoji u pojedinačnom supozitu, po kojem se individuira, zajednička mnogima, bilo u stvarnosti bilo barem po pojmu; kao što je ljudska narav zajednička mnogima u stvarnosti i po pojmu, a narav Sunca nije zajednička mnogima u stvarnosti, nego samo po pojmu: narav se Sunca, naime, može shvatiti kao da postoji u više supozita. A to zato što um shvaća narav bilo koje vrste apstrahiranjem od pojedinačnoga; stoga je biti u jednom pojedinačnom supozitu ili u više njih izvan pojma naravi vrste; stoga se, uz očuvanje pojma naravi vrste, ona može shvatiti kao da postoji u više njih. Ali pojedinačno je, upravo time što je pojedinačno, odijeljeno od svega drugoga. Stoga je svako ime nadjenuto da označi nešto pojedinačno nepriopćivo i u stvarnosti i po pojmu: ne može, naime, ni u zahvaćanju nastati mnoštvo ovoga pojedinca. Stoga nijedno ime koje označuje nekoga pojedinca nije u vlastitom smislu priopćivo mnogima, nego samo po sličnosti; kao što se netko preneseno može nazvati Ahilejem, ukoliko ima nešto od Ahilejevih svojstava, naime jakost. A forme koje se ne individuiraju po nekom supozitu, nego po sebi samima (jer su, naime, samostojeće forme), kad bi se shvaćale onakve kakve su u sebi, ne bi se mogle priopćiti ni u stvarnosti ni po pojmu, nego možda po sličnosti, kao što je rečeno o pojedincima. Ali budući da jednostavne forme koje samostoje po sebi ne možemo shvatiti onakve kakve jesu, nego ih shvaćamo na način složenih stvari koje imaju forme u tvari, zato im, kao što je rečeno, nadijevamo konkretna imena koja označuju narav u nekom supozitu. Stoga, što se tiče pojma imena, isti je razlog za imena koja nadijevamo da označimo naravi složenih stvari i za imena koja nadijevamo da označimo jednostavne samostojeće naravi. Stoga, budući da je ime „Bog“ nadjenuto da označuje Božju narav, kao što je rečeno, a Božja narav nije umnoživa, kao što je gore pokazano, slijedi da je ime „Bog“ doduše nepriopćivo u stvarnosti, ali priopćivo po mnijenju, kao što bi ime „Sunce“ bilo priopćivo po mnijenju onih koji postavljaju mnoga sunca. I prema tome se kaže u Poslanici Galaćanima 4: *Služili ste onima koji po naravi nisu bogovi*; Glosa: *Nisu bogovi po naravi, nego po mnijenju ljudi*. Ipak je ime „Bog“ priopćivo, ne po svojem cijelom značenju, nego po nečemu od njega, po nekoj sličnosti, tako da se bogovima nazivaju oni koji po sličnosti imaju udjela u nečemu božanskome, prema onome: *Ja rekoh: bogovi ste*. A kad bi postojalo neko ime nadjenuto da označi Boga ne sa strane naravi, nego sa strane supozita, ukoliko se razmatra kao ovo nešto, to bi ime bilo na sve načine nepriopćivo, kao što je možda ime tetragram kod Hebreja. I slično bi bilo kad bi netko Suncu nadjenuo ime koje označuje ovog pojedinca.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da Božja narav nije priopćiva osim po sudjelovanju u sličnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a9.ad2": {
+      "text": "Na drugo treba reći da je ime „Bog“ zajedničko ime, a ne vlastito, jer označuje Božju narav kao u onome koji je ima; premda sam Bog, u stvarnosti, nije ni opći ni pojedinačan. Imena, naime, ne slijede način bivanja koji je u stvarima, nego način bivanja kakav je u našoj spoznaji. Pa ipak, po istini stvari, nepriopćivo je, prema onome što je rečeno o imenu „Sunce“.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a9.ad3": {
+      "text": "Na treće treba reći da su ta imena, „dobar“, „mudar“ i slična, doduše nadjenuta od savršenosti koje od Boga izlaze u stvorove, ali nisu nadjenuta da označe Božju narav, nego da označe same savršenosti apsolutno. I zato su i po istini stvari priopćiva mnogima. Ali ime „Bog“ nadjenuto je od djelovanja vlastitoga Bogu, koje neprestano iskušavamo, da označi Božju narav.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da se ime „Bog“ kaže jednoznačno o Bogu po naravi, po sudjelovanju i po mnijenju. Gdje je, naime, različito značenje, nema proturječja između onoga koji tvrdi i onoga koji niječe: jer dvoznačnost priječi proturječje. Ali katolik koji kaže „idol nije Bog“ proturječi poganinu koji kaže „idol je Bog“. Dakle, „Bog“ uzet i u jednom i u drugom smislu kaže se jednoznačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a10.obj2": {
+      "text": "Osim toga, kao što je idol Bog po mnijenju, a ne po istini, tako se i uživanje tjelesnih naslada naziva srećom po mnijenju, a ne po istini. Ali ime „blaženstvo“ kaže se jednoznačno o tom umišljenom blaženstvu i o pravom blaženstvu. Dakle, i ime „Bog“ kaže se jednoznačno o Bogu po istini i o Bogu po mnijenju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a10.obj3": {
+      "text": "Osim toga, jednoznačnim se nazivaju stvari kojih je pojam jedan. Ali katolik, kad kaže da je jedan Bog, razumije pod imenom „Bog“ nešto svemoguće i iznad svega dostojno štovanja; a to isto razumije i poganin kad kaže da je idol Bog. Dakle, ime „Bog“ kaže se jednoznačno i u jednom i u drugom slučaju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a10.sc1": {
+      "text": "Ali protiv toga: ono što je u umu jest sličnost onoga što je u stvari, kao što se kaže u 1. knjizi O tumačenju. Ali „živo biće“, rečeno o pravom živom biću i o naslikanom živom biću, kaže se dvoznačno. Dakle, ime „Bog“, rečeno o pravom Bogu i o Bogu po mnijenju, kaže se dvoznačno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a10.sc2": {
+      "text": "Osim toga, nitko ne može označiti ono što ne spoznaje; ali poganin ne spoznaje Božju narav; dakle, kad kaže „idol je Bog“, ne označuje pravo božanstvo. A njega označuje katolik kad kaže da je jedan Bog. Dakle, ime „Bog“ ne kaže se jednoznačno, nego dvoznačno, o pravom Bogu i o Bogu po mnijenju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a10.resp": {
+      "text": "Odgovaram: treba reći da se ime „Bog“, u navedena tri značenja, ne uzima ni jednoznačno ni dvoznačno, nego analogno. To je jasno iz ovoga. Jer kod jednoznačnih je stvari pojam posve isti, kod dvoznačnih je pojam posve različit, a kod analognih treba da ime uzeto u jednom značenju bude postavljeno u definiciji istoga imena uzetoga u drugim značenjima. Kao što se „biće“ rečeno o supstanciji postavlja u definiciji bića ukoliko se kaže o akcidentu; i „zdravo“ rečeno o živom biću postavlja se u definiciji „zdravoga“ ukoliko se kaže o mokraći i o lijeku: jer toga zdravlja koje je u živom biću mokraća je pokazateljica, a lijek tvorac. Tako se događa i u ovom slučaju. Jer ime „Bog“, ukoliko se uzima za pravoga Boga, uzima se u pojmu „Boga“ ukoliko se kaže „Bog“ po mnijenju ili po sudjelovanju. Kad, naime, nekoga nazivamo Bogom po sudjelovanju, pod imenom „Bog“ razumijemo nešto što ima sličnost s pravim Bogom. Slično, kad idol nazivamo Bogom, razumijemo da se imenom „Bog“ označuje nešto za što ljudi mnijevaju da je Bog. I tako je očito da je značenje imena različito, ali je jedno od tih značenja uključeno u druga značenja. Stoga je očito da se kaže analogno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da se mnogoznačnost imena ne zapaža po priricanju imena, nego po značenju: jer ime „čovjek“, o kome god se priricalo, bilo istinito bilo lažno, kaže se na jedan način. Ali tada bi se kazivalo mnogoznačno kad bismo imenom „čovjek“ namjeravali označiti različite stvari; na primjer, kad bi jedan imenom „čovjek“ namjeravao označiti ono što je uistinu čovjek, a drugi bi istim imenom namjeravao označiti kamen ili nešto drugo. Stoga je jasno da katolik koji kaže da idol nije Bog proturječi poganinu koji to tvrdi, jer se obojica služe imenom „Bog“ da označe pravoga Boga. Kad, naime, poganin kaže da je idol Bog, ne služi se tim imenom ukoliko ono označuje umišljenoga Boga: tako bi, naime, govorio istinu, budući da se i katolici katkad služe tim imenom u takvom značenju, kao kad se kaže: *Svi su bogovi naroda zlodusi*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a10.ad2": {
+      "text": "I slično treba reći na drugo i treće. Jer ti razlozi polaze od različitosti priricanja imena, a ne od različitosti značenja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a10.ad4": {
+      "text": "Na četvrto treba reći da se „živo biće“ rečeno o pravom i o naslikanom živom biću ne kaže čisto dvoznačno; nego Filozof dvoznačno uzima u širem smislu, ukoliko ono u sebi uključuje i analogno. Jer i za biće, koje se kaže analogno, katkad se kaže da se dvoznačno pririče o različitim kategorijama.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a10.ad5": {
+      "text": "Na peto treba reći da samu Božju narav, kakva je u sebi, ne spoznaje ni katolik ni poganin; nego je obojica spoznaju po nekom pojmu uzročnosti, ili nadmašnosti, ili odstranjivanja, kao što je gore rečeno. I prema tome poganin može ime „Bog“, kad kaže „idol je Bog“, uzeti u istom značenju u kojem ga uzima katolik kad kaže „idol nije Bog“. A kad bi bio netko tko Boga ne bi spoznavao ni po kakvom pojmu, ne bi ga ni imenovao, osim možda onako kako izgovaramo imena kojih značenje ne znamo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da ime „Onaj koji jest“ nije najvlastitije Božje ime. Ime „Bog“, naime, jest nepriopćivo ime, kao što je rečeno. Ali ime „Onaj koji jest“ nije nepriopćivo ime. Dakle, ime „Onaj koji jest“ nije najvlastitije Božje ime.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a11.obj2": {
+      "text": "Osim toga, Dionizije u 3. poglavlju spisa O Božjim imenima kaže da *imenovanje dobra očituje sve Božje izlaske*. Ali Bogu najviše pristaje to da je sveopće počelo stvari. Dakle, ime „dobro“ najvlastitije je Božje ime, a ne ime „Onaj koji jest“.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a11.obj3": {
+      "text": "Osim toga, čini se da svako Božje ime uključuje odnos prema stvorovima, budući da Boga ne spoznajemo osim po stvorovima. Ali ime „Onaj koji jest“ ne uključuje nikakav odnos prema stvorovima. Dakle, ime „Onaj koji jest“ nije najvlastitije Božje ime.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a11.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izlasku 3, da je Mojsiju, koji je pitao: *Ako mi reknu: Koje je ime njegovo? što ću im reći?*, Gospodin odgovorio: *Ovako ćeš im reći: Onaj koji jest poslao me k vama*. Dakle, ime „Onaj koji jest“ najvlastitije je Božje ime.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a11.resp": {
+      "text": "Odgovaram: treba reći da je ime „Onaj koji jest“ iz trostrukoga razloga najvlastitije Božje ime. Prvo, zbog svojega značenja. Ne označuje, naime, neku formu, nego sam bitak. Stoga, budući da je Božji bitak sama njegova bit, i to ne pristaje nijednom drugomu, kao što je gore pokazano, očito je da među ostalim imenima ovo najvlastitije imenuje Boga: jer svaka se stvar imenuje po svojoj formi. Drugo, zbog njegove sveopćenitosti. Sva su, naime, druga imena ili manje zajednička, ili, ako su s njim zamjenjiva, ipak mu po pojmu nešto dodaju; stoga ga na neki način oformljuju i određuju. A naš um ne može u stanju puta spoznati samu Božju bit onakvu kakva je u sebi, nego, koji god način odredio u vezi s onim što o Bogu shvaća, zaostaje za načinom na koji Bog jest u sebi. I zato, što su neka imena manje određena i što su zajedničkija i apsolutnija, to ih mi o Bogu kažemo u vlastitijem smislu. Stoga i Damaščanin kaže: *Od svih imena koja se kažu o Bogu najglavnije je Onaj koji jest; jer obuhvaćajući sve u samome sebi, ima sam bitak kao neko beskonačno i neodređeno more supstancije*. Svakim se drugim imenom, naime, određuje neki način supstancije stvari, a ime „Onaj koji jest“ ne određuje nikakav način bivanja, nego se neodređeno odnosi prema svima; i zato ga naziva *beskonačnim morem supstancije*. Treće, zbog njegova suoznačivanja. Označuje, naime, bitak u sadašnjosti, a to se u najvlastitijem smislu kaže o Bogu, čiji bitak ne poznaje prošlosti ni budućnosti, kao što kaže Augustin u 5. knjizi O Trojstvu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ime „Onaj koji jest“ vlastitije Božje ime nego ime „Bog“ s obzirom na ono od čega je nadjenuto, naime od bitka, i s obzirom na način označivanja i suoznačivanja, kao što je rečeno. Ali s obzirom na ono što ime nadjenuto označuje, vlastitije je ime „Bog“, koje je nadjenuto da označuje Božju narav. A još je vlastitije ime tetragram, koje je nadjenuto da označuje samu Božju supstanciju, nepriopćivu i, ako se smije tako reći, pojedinačnu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a11.ad2": {
+      "text": "Na drugo treba reći da je ime „dobro“ glavno Božje ime ukoliko je on uzrok, ali ne naprosto: jer bitak se apsolutno shvaća prije uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a11.ad3": {
+      "text": "Na treće treba reći da nije nužno da sva Božja imena uključuju odnos prema stvorovima, nego je dovoljno da su nadjenuta od nekih savršenosti koje od Boga izlaze u stvorove. Među njima je prva sam bitak, od kojega je uzeto ime „Onaj koji jest“.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da se o Bogu ne mogu oblikovati potvrdni iskazi. Dionizije, naime, u 2. poglavlju spisa O nebeskoj hijerarhiji kaže da su *nijekanja o Bogu istinita, a tvrdnje neprikladne*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a12.obj2": {
+      "text": "Osim toga, Boetije u knjizi O Trojstvu kaže da *jednostavna forma ne može biti subjekt*. Ali Bog je u najvećoj mjeri jednostavna forma, kao što je gore pokazano. Dakle, ne može biti subjekt. Ali sve ono o čemu se oblikuje potvrdni iskaz uzima se kao subjekt. Dakle, o Bogu se ne može oblikovati potvrdni iskaz.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a12.obj3": {
+      "text": "Osim toga, svaki um koji shvaća stvar drukčije nego što jest, lažan je. Ali Bog ima bitak bez ikakve sastavljenosti, kao što je gore dokazano. Budući, dakle, da svaki potvrdni um nešto shvaća sa sastavljanjem, čini se da se o Bogu ne može istinito oblikovati potvrdni iskaz.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a12.sc": {
+      "text": "Ali protiv toga je to što vjeri ne podliježe ništa lažno. Ali vjeri podliježu neki potvrdni iskazi, kao to da je Bog trojedin i jedan, i da je svemoguć. Dakle, o Bogu se mogu istinito oblikovati potvrdni iskazi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a12.resp": {
+      "text": "Odgovaram: treba reći da se o Bogu mogu istinito oblikovati potvrdni iskazi. Da bi to bilo jasno, treba znati da u svakom istinitom potvrdnom iskazu pririk i subjekt moraju na neki način označivati isto u stvarnosti, a različito po pojmu. A to je jasno kako u iskazima koji imaju akcidentalan pririk, tako i u onima koji imaju supstancijalan pririk. Očito je, naime, da su „čovjek“ i „bijel“ isto po subjektu, a razlikuju se po pojmu: jer jedan je pojam čovjeka, a drugi pojam bijeloga. I slično, kad kažem „čovjek je živo biće“: jer ono samo što je čovjek uistinu je živo biće; u istom je, naime, supozitu i osjetilna narav, po kojoj se naziva živim bićem, i razumna, po kojoj se naziva čovjekom. Stoga su i ovdje pririk i subjekt isto po supozitu, ali različiti po pojmu. Ali i u iskazima u kojima se isto pririče o samome sebi to se na neki način nalazi, ukoliko um ono što postavlja sa strane subjekta povlači na stranu supozita, a ono što postavlja sa strane pririka povlači na narav forme koja postoji u supozitu, prema onome što se kaže da se pririci uzimaju formalno, a subjekti tvarno. Toj pak različitosti koja je po pojmu odgovara mnoštvo pririka i subjekta, a istovjetnost stvari um označuje samim sastavljanjem. A Bog, razmatran u sebi, posve je jedan i jednostavan; ali ipak ga naš um spoznaje po različitim poimanjima, zato što ga ne može gledati onakva kakav je u sebi. Ali ipak, premda ga shvaća pod različitim poimanjima, spoznaje ipak da svim njegovim poimanjima odgovara jedna te ista stvar naprosto. To, dakle, mnoštvo koje je po pojmu um predočuje mnoštvom pririka i subjekta, a jedinstvo predočuje sastavljanjem.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da Dionizije kaže da su tvrdnje o Bogu neprikladne, ili nepristale prema drugom prijevodu, ukoliko nijedno ime ne pristaje Bogu po načinu označivanja, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a12.ad2": {
+      "text": "Na drugo treba reći da naš um ne može zahvatiti jednostavne samostojeće forme onakve kakve su u sebi, nego ih zahvaća na način složenih stvari, u kojima postoji nešto što je podloženo i nešto što je u njemu. I zato zahvaća jednostavnu formu u pojmu subjekta i pripisuje joj nešto.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q13.a12.ad3": {
+      "text": "Na treće treba reći da je ovaj iskaz, „um koji shvaća stvar drukčije nego što jest, lažan je“, dvoznačan, zato što prilog „drukčije“ može određivati glagol „shvaća“ sa strane shvaćenoga ili sa strane onoga koji shvaća. Ako sa strane shvaćenoga, tada je iskaz istinit, i smisao je: koji god um shvaća da je stvar drukčija nego što jest, lažan je. Ali to nema mjesta u ovom slučaju, jer naš um, oblikujući iskaz o Bogu, ne kaže da je on složen, nego jednostavan. A ako sa strane onoga koji shvaća, tada je iskaz lažan. Drukčiji je, naime, način uma u shvaćanju nego način stvari u bivanju. Očito je, naime, da naš um tvarne stvari koje postoje ispod njega shvaća netvarno; ne tako da shvaća da su one netvarne, nego ima netvarni način u shvaćanju. I slično, kad shvaća jednostavne stvari koje su iznad njega, shvaća ih na svoj način, naime složeno, ali ne tako da shvaća da su one složene. I tako naš um nije lažan kad oblikuje sastavljanje o Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    }
+  }
+}

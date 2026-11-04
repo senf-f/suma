@@ -1,0 +1,366 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 10,
+  "units": {
+    "I.q10.pr": {
+      "text": "Zatim se pita o vječnosti. I o tome se postavlja šest pitanja. Prvo, što je vječnost. Drugo, je li Bog vječan. Treće, je li vječno biti svojstveno Bogu. Četvrto, razlikuje li se vječnost od vremena. Peto, o razlici vijeka i vremena. Šesto, postoji li samo jedan vijek, kao što postoji jedno vrijeme i jedna vječnost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nije prikladna definicija vječnosti koju Boetije postavlja u V. knjizi Utjehe filozofije, govoreći da je *vječnost cjelovito, istodobno i savršeno posjedovanje neograničenoga života*. Naime, „neograničeno“ se kaže niječno. Ali nijekanje pripada pojmu samo onih stvari koje su manjkave, a to vječnosti ne pristaje. Dakle, u definiciju vječnosti ne treba stavljati „neograničeno“.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.obj2": {
+      "text": "Osim toga, vječnost označuje neko trajanje. A trajanje se više odnosi na bitak nego na život. Dakle, u definiciju vječnosti nije trebalo staviti život, nego radije bitak.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.obj3": {
+      "text": "Osim toga, cjelovitim se naziva ono što ima dijelove. A to vječnosti ne pristaje, budući da je jednostavna. Dakle, neprikladno se kaže „cjelovito“.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.obj4": {
+      "text": "Osim toga, više dana ne može biti istodobno, niti više vremena. Ali o vječnosti se dani i vremena kažu u množini; naime, u Mihejevoj knjizi, 5. poglavlje, kaže se: *njegov izlazak od početka, od dana vječnosti*; a u Poslanici Rimljanima, 16. poglavlje: *po objavi otajstva prešućenog kroz vječna vremena*. Dakle, vječnost nije cjelovita istodobno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.obj5": {
+      "text": "Osim toga, cjelovito i savršeno jesu isto. Kada se, dakle, postavi da je cjelovita, suvišno se dodaje da je savršena.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.obj6": {
+      "text": "Osim toga, posjedovanje ne pripada trajanju. A vječnost je neko trajanje. Dakle, vječnost nije posjedovanje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.resp": {
+      "text": "Odgovaram: treba reći da, kao što do spoznaje jednostavnih stvari moramo doći preko složenih, tako do spoznaje vječnosti moramo doći preko vremena, koje nije ništa drugo nego broj gibanja prema prije i kasnije. Budući da u svakom gibanju postoji slijed, i jedan dio dolazi nakon drugoga, time što brojimo prije i kasnije u gibanju, poimamo vrijeme, koje nije ništa drugo nego broj prijašnjega i kasnijega u gibanju. A u onome što je lišeno gibanja i uvijek se odnosi na isti način, ne može se uzeti prije i kasnije. Kao što se, dakle, pojam vremena sastoji u brojenju prijašnjega i kasnijega u gibanju, tako se pojam vječnosti sastoji u poimanju jednoličnosti onoga što je potpuno izvan gibanja. Isto tako, kaže se da se vremenom mjeri ono što ima početak i svršetak u vremenu, kako se kaže u IV. knjizi Fizike; a to je zato što se u svemu što se giba može uzeti neki početak i neki svršetak. Ono pak što je potpuno nepromjenljivo, kao što ne može imati slijeda, tako ne može imati ni početka ni svršetka. Tako se, dakle, vječnost očituje po dvjema stvarima. Prvo, po tome što je ono što je u vječnosti neograničeno, to jest lišeno početka i svršetka (tako da se „granica“ odnosi na oboje). Drugo, po tome što je sama vječnost lišena slijeda, jer postoji cjelovita istodobno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se jednostavne stvari obično definiraju nijekanjem, kao što je točka ono što nema dijela. To nije zato što bi nijekanje pripadalo njihovoj biti, nego zato što naš um, koji najprije poima složene stvari, ne može doći do spoznaje jednostavnih osim odstranjivanjem sastavljenosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.ad2": {
+      "text": "Na drugo treba reći da ono što je uistinu vječno nije samo biće, nego živo biće; a samo življenje se na neki način proteže na djelovanje, bitak pak ne. A protezanje trajanja, čini se, promatra se prema djelovanju više nego prema bitku; zato je i vrijeme broj gibanja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.ad3": {
+      "text": "Na treće treba reći da se vječnost naziva cjelovitom ne zato što ima dijelove, nego ukoliko joj ništa ne nedostaje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.ad4": {
+      "text": "Na četvrto treba reći da, kao što se Bog, premda je netjelesan, u Pismu preneseno imenuje imenima tjelesnih stvari, tako se i vječnost, koja postoji cjelovita istodobno, imenuje vremenskim imenima koja označuju slijed.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.ad5": {
+      "text": "Na peto treba reći da se u vremenu mogu promatrati dvije stvari, naime samo vrijeme, koje je slijedno, i „sada“ vremena, koje je nesavršeno. Zato kaže „cjelovito istodobno“ da bi odstranio vrijeme, a „savršeno“ da bi isključio „sada“ vremena.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a1.ad6": {
+      "text": "Na šesto treba reći da se ono što se posjeduje ima čvrsto i mirno. Da bi, dakle, označio nepromjenljivost i nemanjkavost vječnosti, upotrijebio je ime posjedovanja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Bog nije vječan. Naime, ništa učinjeno ne može se reći o Bogu. Ali vječnost je nešto učinjeno; jer Boetije kaže da *sada koje teče čini vrijeme, sada koje stoji čini vječnost*; a Augustin kaže, u knjizi Osamdeset i tri pitanja, da je Bog začetnik vječnosti. Dakle, Bog nije vječan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a2.obj2": {
+      "text": "Osim toga, ono što je prije vječnosti i poslije vječnosti ne mjeri se vječnošću. Ali Bog je prije vječnosti, kako se kaže u Knjizi o uzrocima, i poslije vječnosti; jer u Izlasku, 15. poglavlje, kaže se da će *Gospodin kraljevati u vječnost i dalje*. Dakle, biti vječan ne pristaje Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a2.obj3": {
+      "text": "Osim toga, vječnost je neka mjera. Ali Bogu ne pristaje biti mjeren. Dakle, ne pripada mu biti vječan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a2.obj4": {
+      "text": "Osim toga, u vječnosti nema sadašnjega, prošloga ili budućega, budući da je cjelovita istodobno, kako je rečeno. Ali o Bogu se u Pismu govore glagoli sadašnjega, prošloga ili budućega vremena. Dakle, Bog nije vječan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Atanazije: *vječan Otac, vječan Sin, vječan Duh Sveti*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a2.resp": {
+      "text": "Odgovaram: treba reći da pojam vječnosti slijedi nepromjenljivost, kao što pojam vremena slijedi gibanje, kako je jasno iz rečenoga. Stoga, budući da je Bog u najvećoj mjeri nepromjenljiv, njemu u najvećoj mjeri pripada biti vječan. I nije samo vječan, nego je svoja vječnost, dok nijedna druga stvar nije svoje trajanje, jer nije svoj bitak. Bog je pak svoj jednolični bitak; stoga, kao što je svoja bit, tako je i svoja vječnost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za „sada“ koje stoji kaže da čini vječnost prema našem poimanju. Kao što se, naime, u nama prouzrokuje poimanje vremena time što poimamo tijek samoga „sada“, tako se u nama prouzrokuje poimanje vječnosti ukoliko poimamo „sada“ koje stoji. A ono što kaže Augustin, da je *Bog začetnik vječnosti*, razumije se o vječnosti po sudjelovanju; naime, Bog nekima priopćuje svoju vječnost na isti način na koji i svoju nepromjenljivost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a2.ad2": {
+      "text": "I time je jasno rješenje drugoga prigovora. Jer za Boga se kaže da je prije vječnosti ukoliko u njoj imaju udjela netvarne supstancije. Zato se i ondje kaže da se *inteligencija izjednačuje s vječnošću*. A što se tiče onoga što se kaže u Izlasku, *Gospodin će kraljevati u vječnost i dalje*, treba znati da se „vječno“ ondje uzima u značenju doba, kako ima drugi prijevod. Tako se, dakle, kaže da će kraljevati dalje od vječnosti jer traje dalje od bilo kojega doba, to jest dalje od bilo kojega zadanoga trajanja; jer doba nije ništa drugo nego razdoblje bilo koje stvari, kako se kaže u I. knjizi O nebu. Ili se također kaže da kraljuje dalje od vječnosti zato što, čak i kad bi nešto drugo uvijek postojalo (kao gibanje neba prema nekim filozofima), ipak Bog kraljuje dalje, ukoliko je njegovo kraljevstvo cjelovito istodobno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a2.ad3": {
+      "text": "Na treće treba reći da vječnost nije ništa drugo nego sam Bog. Stoga se Bog ne naziva vječnim kao da bi na neki način bio mjeren, nego se pojam mjere ondje uzima samo prema našem poimanju.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a2.ad4": {
+      "text": "Na četvrto treba reći da se glagoli različitih vremena pripisuju Bogu ukoliko njegova vječnost uključuje sva vremena, a ne kao da se on sam mijenja kroz sadašnje, prošlo i buduće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da biti vječan nije svojstveno samo Bogu. Naime, u Danielovoj knjizi, 12. poglavlje, kaže se da *oni koji mnoge upućuju u pravednost bit će kao zvijezde u trajne vječnosti*. A ne bi bilo više vječnosti kad bi samo Bog bio vječan. Dakle, nije samo Bog vječan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a3.obj2": {
+      "text": "Osim toga, u Matejevu evanđelju, 25. poglavlje, kaže se: *idite, prokleti, u oganj vječni*. Dakle, nije samo Bog vječan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a3.obj3": {
+      "text": "Osim toga, sve nužno je vječno. Ali mnogo je toga nužno, kao sva načela dokaza i svi dokazni stavovi. Dakle, nije samo Bog vječan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Jeronim u pismu Marceli: *Bog je jedini koji nema početka*. A sve što ima početak nije vječno. Dakle, samo je Bog vječan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a3.resp": {
+      "text": "Odgovaram: treba reći da je vječnost uistinu i u vlastitom smislu samo u Bogu. Jer vječnost slijedi nepromjenljivost, kako je jasno iz rečenoga. A samo je Bog potpuno nepromjenljiv, kako je gore pokazano. Ipak, ukoliko neke stvari od njega primaju nepromjenljivost, utoliko imaju udjela u njegovoj vječnosti. Neke, dakle, dobivaju od Boga nepromjenljivost u tom pogledu što nikada ne prestaju biti; i prema tome se u Propovjedniku, 1. poglavlje, kaže o zemlji da stoji u vječnost. Neke se stvari u Pismu nazivaju vječnima i zbog dugotrajnosti trajanja, premda su propadljive; tako se u Psalmu govori o vječnim gorama, a u Ponovljenom zakonu, 33. poglavlje, govori se i o plodovima vječnih brežuljaka. Neke pak imaju obilnije udjela u pojmu vječnosti, ukoliko imaju nepreinačivost bilo po bitku, bilo, štoviše, i po djelovanju, kao anđeli i blaženici koji uživaju Riječ; jer, što se tiče toga gledanja Riječi, u svetima nema nestalnih misli, kako kaže Augustin u XV. knjizi O Trojstvu. Zato se i za one koji gledaju Boga kaže da imaju vječni život, prema onome u Ivanovu evanđelju, 17. poglavlje: *ovo je život vječni, da upoznaju* i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se govori o mnogim vječnostima ukoliko ima mnogo onih koji imaju udjela u vječnosti po samom promatranju Boga.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a3.ad2": {
+      "text": "Na drugo treba reći da se oganj pakla naziva vječnim samo zbog neograničenosti. Ipak, u njihovim kaznama postoji preinaka, prema onome u Jobu, 24. poglavlje: *iz snježnih voda prijeći će u preveliku žegu*. Zato u paklu nema prave vječnosti, nego radije vrijeme, prema onome iz Psalma: *bit će vrijeme njihovo u vijeke*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a3.ad3": {
+      "text": "Na treće treba reći da nužno označuje neki način istine. A istinito je, prema Filozofu u VI. knjizi Metafizike, u umu. Prema tome su, dakle, istinite i nužne stvari vječne jer su u vječnom umu, a to je jedino božanski um. Stoga ne slijedi da je išta izvan Boga vječno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da vječnost nije nešto drugo od vremena. Naime, nemoguće je da dvije mjere trajanja budu istodobno, osim ako je jedna dio druge; jer nisu istodobno dva dana ili dva sata, ali dan i sat jesu istodobno, jer je sat dio dana. Ali vječnost i vrijeme jesu istodobno, a svako od njih uključuje neku mjeru trajanja. Budući, dakle, da vječnost nije dio vremena, jer vječnost nadilazi vrijeme i uključuje ga, čini se da je vrijeme dio vječnosti, a ne nešto drugo od vječnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a4.obj2": {
+      "text": "Osim toga, prema Filozofu u IV. knjizi Fizike, „sada“ vremena ostaje isto u cijelom vremenu. Ali čini se da upravo to sačinjava pojam vječnosti, da je ono isto i nedjeljivo se odnosi u cijelom tijeku vremena. Dakle, vječnost je „sada“ vremena. Ali „sada“ vremena nije po supstanciji nešto drugo od vremena. Dakle, ni vječnost nije po supstanciji nešto drugo od vremena.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a4.obj3": {
+      "text": "Osim toga, kao što je mjera prvoga gibanja mjera svih gibanja, kako se kaže u IV. knjizi Fizike, tako se čini da je mjera prvoga bitka mjera svakoga bitka. Ali vječnost je mjera prvoga bitka, a to je božanski bitak. Dakle, vječnost je mjera svakoga bitka. Ali bitak propadljivih stvari mjeri se vremenom. Dakle, vrijeme je ili vječnost ili nešto od vječnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a4.sc": {
+      "text": "Ali protiv toga je to što je vječnost cjelovita istodobno, a u vremenu postoji prije i kasnije. Dakle, vrijeme i vječnost nisu isto.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a4.resp": {
+      "text": "Odgovaram: treba reći da je očito da vrijeme i vječnost nisu isto. Ali razlog te različitosti neki su izveli iz toga što je vječnost lišena početka i svršetka, a vrijeme ima početak i svršetak. No to je razlika akcidentalna, a ne po sebi. Jer kad bi se i dopustilo da je vrijeme uvijek bilo i da će uvijek biti, prema postavci onih koji gibanje neba smatraju vjekovječnim, i dalje bi ostala razlika između vječnosti i vremena, kako kaže Boetije u knjizi Utjehe, po tome što je vječnost cjelovita istodobno, što vremenu ne pristaje; jer je vječnost mjera trajnoga bitka, a vrijeme je mjera gibanja. Ako se ipak spomenuta razlika promatra s obzirom na ono što se mjeri, a ne s obzirom na mjere, tada ima nekog razloga, jer se vremenom mjeri samo ono što ima početak i svršetak u vremenu, kako se kaže u IV. knjizi Fizike. Stoga, kad bi gibanje neba uvijek trajalo, vrijeme ga ne bi mjerilo u cijelom njegovu trajanju, budući da beskonačno nije mjerljivo; nego bi mjerilo svaki pojedini ophod, koji ima početak i svršetak u vremenu. Može, međutim, imati i drugi razlog sa strane samih tih mjera, ako se početak i svršetak uzmu u mogućnosti. Jer, čak i kad bi se dopustilo da vrijeme uvijek traje, ipak je moguće označiti u vremenu i početak i svršetak, uzimajući neke njegove dijelove, kao što govorimo o početku i svršetku dana ili godine; a to se ne događa u vječnosti. Ali ipak te razlike slijede onu razliku koja je po sebi i prvotna, po tome što je vječnost cjelovita istodobno, a vrijeme nije.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da bi taj razlog vrijedio kad bi vrijeme i vječnost bili mjere jednoga roda, a jasno je da je to lažno iz onoga čega su vrijeme i vječnost mjera.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a4.ad2": {
+      "text": "Na drugo treba reći da je „sada“ vremena isto po subjektu u cijelom vremenu, ali različito po pojmu, zato što, kao što vrijeme odgovara gibanju, tako „sada“ vremena odgovara pokretljivom; a pokretljivo je isto po subjektu u cijelom tijeku vremena, ali različito po pojmu, ukoliko je ovdje i ondje. I ta izmjena jest gibanje. Slično je tijek samoga „sada“, ukoliko se mijenja po pojmu, vrijeme. A vječnost ostaje ista i po subjektu i po pojmu. Stoga vječnost nije isto što i „sada“ vremena.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a4.ad3": {
+      "text": "Na treće treba reći da, kao što je vječnost vlastita mjera samoga bitka, tako je vrijeme vlastita mjera gibanja. Stoga, ukoliko se neki bitak udaljuje od trajnosti postojanja i podvrgava se preinaci, utoliko se udaljuje od vječnosti i podvrgava se vremenu. Bitak, dakle, propadljivih stvari, budući da je preinačiv, ne mjeri se vječnošću, nego vremenom. Naime, vrijeme ne mjeri samo ono što se preinačuje u činu, nego i ono što je preinačivo. Stoga ne mjeri samo gibanje, nego i mirovanje, koje je stanje onoga što je po naravi sposobno gibati se, a ne giba se.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da vijek nije nešto drugo od vremena. Naime, Augustin kaže, u VIII. knjizi O Postanku doslovno, da *Bog giba duhovni stvor kroz vrijeme*. Ali za vijek se kaže da je mjera duhovnih supstancija. Dakle, vrijeme se ne razlikuje od vijeka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a5.obj2": {
+      "text": "Osim toga, pojmu vremena pripada da ima prije i kasnije, a pojmu vječnosti da je cjelovita istodobno, kako je rečeno. Ali vijek nije vječnost, jer se u Knjizi Sirahovoj, 1. poglavlje, kaže da je vječna mudrost prije vijeka. Dakle, nije cjelovit istodobno, nego ima prije i kasnije; i tako je vrijeme.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a5.obj3": {
+      "text": "Osim toga, ako u vijeku nema prije i kasnije, slijedi da se kod vjekovitih stvari ne razlikuje biti, biti bio i biti u budućnosti. Budući, dakle, da je nemoguće da vjekovite stvari nisu bile, slijedi da je nemoguće da neće biti. A to je lažno, budući da ih Bog može svesti u ništa.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a5.obj4": {
+      "text": "Osim toga, budući da je trajanje vjekovitih stvari beskonačno s obzirom na ono što slijedi, ako je vijek cjelovit istodobno, slijedi da je nešto stvoreno zbiljski beskonačno, a to je nemoguće. Dakle, vijek se ne razlikuje od vremena.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Boetije: *ti koji zapovijedaš da vrijeme ide od vijeka*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a5.resp": {
+      "text": "Odgovaram: treba reći da se vijek razlikuje od vremena i od vječnosti kao ono što postoji kao sredina između njih. Ali razliku među njima neki ovako izvode, govoreći da je vječnost lišena početka i svršetka, da vijek ima početak, ali nema svršetka, a da vrijeme ima i početak i svršetak. No ta je razlika akcidentalna, kako je gore rečeno, jer kad bi vjekovite stvari i uvijek bile i uvijek bile u budućnosti, kako neki postavljaju, ili kad bi i nekoć prestale, što bi Bogu bilo moguće, vijek bi se i dalje razlikovao od vječnosti i vremena. Drugi pak izvode razliku među tim trima po tome što vječnost nema prije i kasnije, vrijeme ima prije i kasnije s obnavljanjem i starenjem, a vijek ima prije i kasnije bez obnavljanja i starenja. Ali ta postavka uključuje proturječja. To se doista očito pokazuje ako se obnavljanje i starenje odnose na samu mjeru. Budući, naime, da prije i kasnije trajanja ne mogu biti istodobno, ako vijek ima prije i kasnije, nužno je da, kad prijašnji dio vijeka odlazi, kasniji iznova pristigne; i tako će u samom vijeku biti obnavljanja, kao u vremenu. Ako se pak odnose na ono što se mjeri, i opet slijedi nešto neprikladno. Vremenita stvar, naime, stari u vremenu po tome što ima preinačivi bitak; a iz preinačivosti onoga što se mjeri proizlazi prije i kasnije u mjeri, kako je jasno iz IV. knjige Fizike. Ako, dakle, samo vjekovito nije podložno ni starenju ni obnavljanju, to će biti zato što je njegov bitak nepreinačiv. Dakle, njegova mjera neće imati prije i kasnije. Treba, dakle, reći da, budući da je vječnost mjera trajnoga bitka, ukoliko se nešto udaljuje od trajnosti postojanja, utoliko se udaljuje od vječnosti. Neke se pak stvari tako udaljuju od trajnosti postojanja da je njihov bitak subjekt preinake ili se sastoji u preinaci; i takve se stvari mjere vremenom, kao svako gibanje i također bitak svih propadljivih stvari. Druge se pak manje udaljuju od trajnosti postojanja, jer se njihov bitak niti sastoji u preinaci niti je subjekt preinake, ali ipak imaju pridruženu preinaku, bilo u činu bilo u mogućnosti. Tako je očito kod nebeskih tijela, čiji je supstancijalni bitak nepreinačiv, ali ipak imaju nepreinačiv bitak s preinačivošću s obzirom na mjesto. I slično je očito kod anđela, koji imaju nepreinačiv bitak s preinačivošću s obzirom na izbor, koliko to pripada njihovoj naravi, te s preinačivošću shvaćanja i čuvstava, a na svoj način i mjesta. I zato se takve stvari mjere vijekom, koji je sredina između vječnosti i vremena. A bitak koji mjeri vječnost nije niti promjenljiv niti pridružen promjenljivosti. Tako, dakle, vrijeme ima prije i kasnije; vijek u sebi nema prije i kasnije, ali s njim se mogu spojiti; a vječnost nema ni prije ni kasnije, niti ih trpi uza se.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se duhovni stvorovi, s obzirom na čuvstva i shvaćanja, u kojima postoji slijed, mjere vremenom. Zato i Augustin na istome mjestu kaže da gibati se kroz vrijeme znači gibati se po čuvstvima. A s obzirom na njihov naravni bitak, mjere se vijekom. Ali s obzirom na gledanje slave, imaju udjela u vječnosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a5.ad2": {
+      "text": "Na drugo treba reći da je vijek cjelovit istodobno, ali ipak nije vječnost, jer uza se trpi prije i kasnije.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a5.ad3": {
+      "text": "Na treće treba reći da u samom bitku anđela, promatranom u sebi, nema razlike prošloga i budućega, nego samo s obzirom na pridružene promjene. Ali to što kažemo da anđeo jest, ili da je bio, ili da će biti, razlikuje se prema poimanju našega uma, koji bitak anđela poima u odnosu prema različitim dijelovima vremena. I kad kaže da anđeo jest ili da je bio, pretpostavlja nešto s čime njegova suprotnost nije podložna božanskoj moći; a kad kaže da će biti, još ništa ne pretpostavlja. Stoga, budući da su bitak i nebitak anđela podložni božanskoj moći, promatrano apsolutno, Bog može učiniti da bitak anđela ne bude u budućnosti; ali ne može učiniti da ne bude dok jest, ili da nije bio nakon što je bio.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a5.ad4": {
+      "text": "Na četvrto treba reći da je trajanje vijeka beskonačno jer nije ograničeno vremenom. A da je nešto stvoreno beskonačno na taj način da nije ograničeno nečim drugim, nije neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da ne postoji samo jedan vijek. Naime, u apokrifnim Ezrinim knjigama kaže se: *veličanstvo i vlast vijekova kod tebe su, Gospodine*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a6.obj2": {
+      "text": "Osim toga, različiti rodovi imaju različite mjere. Ali neke vjekovite stvari pripadaju rodu tjelesnih stvari, naime nebeska tijela, a neke su duhovne supstancije, naime anđeli. Dakle, ne postoji samo jedan vijek.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a6.obj3": {
+      "text": "Osim toga, budući da je vijek ime trajanja, one stvari koje imaju jedan vijek imaju jedno trajanje. Ali nemaju sve vjekovite stvari jedno trajanje, jer neke počinju postojati poslije drugih, kako je najočitije kod ljudskih duša. Dakle, ne postoji samo jedan vijek.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a6.obj4": {
+      "text": "Osim toga, čini se da stvari koje ne ovise jedna o drugoj nemaju jednu mjeru trajanja; čini se, naime, da sve vremenite stvari imaju jedno vrijeme upravo zato što je na neki način uzrok svih gibanja prvo gibanje, koje se prvotno mjeri vremenom. Ali vjekovite stvari ne ovise jedna o drugoj, jer jedan anđeo nije uzrok drugoga. Dakle, ne postoji samo jedan vijek.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a6.sc": {
+      "text": "Ali protiv toga, vijek je jednostavniji od vremena i bliži vječnosti. Ali vrijeme je samo jedno. Dakle, mnogo je više vijek jedan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a6.resp": {
+      "text": "Odgovaram: treba reći da o tome postoji dvojako mišljenje: neki, naime, kažu da postoji samo jedan vijek, a neki da ih je mnogo. Što je od toga istinitije, treba razmotriti na temelju uzroka jedinstva vremena; jer do spoznaje duhovnih stvari dolazimo preko tjelesnih. Neki, dakle, kažu da postoji jedno vrijeme svih vremenitih stvari zato što postoji jedan broj svega izbrojenoga, budući da je vrijeme broj, prema Filozofu. Ali to nije dovoljno, jer vrijeme nije broj kao apstrahiran izvan izbrojenoga, nego kao postojeći u izbrojenome; inače ne bi bilo neprekinuto; jer deset lakata sukna ima neprekinutost ne od broja, nego od izbrojenoga. A broj koji postoji u izbrojenome nije isti za sve, nego je različit za različite stvari. Zato drugi izvode uzrok jedinstva vremena iz jedinstva vječnosti, koja je počelo svakoga trajanja. I tako su sva trajanja jedno ako se promatra njihovo počelo, a mnoga su ako se promatra različitost onih stvari koje primaju trajanje iz utjecaja prvoga počela. Drugi pak izvode uzrok jedinstva vremena sa strane prve tvari, koja je prvi subjekt gibanja, čija je mjera vrijeme. Ali nijedno od tih izvođenja ne čini se dostatnim, jer ono što je jedno po počelu ili po subjektu, osobito udaljenom, nije jedno jednostavno, nego u nekom pogledu. Razlog je, dakle, jedinstva vremena jedinstvo prvoga gibanja, prema kojemu se, budući da je najjednostavnije, mjere sva druga, kako se kaže u X. knjizi Metafizike. Tako se, dakle, vrijeme prema tom gibanju odnosi ne samo kao mjera prema mjerenome, nego i kao akcident prema subjektu; i tako od njega prima jedinstvo. A prema drugim gibanjima odnosi se samo kao mjera prema mjerenome. Stoga se ne umnaža prema njihovu mnoštvu, jer jednom odvojenom mjerom može se mjeriti mnogo toga. Pošto smo to utvrdili, treba znati da je o duhovnim supstancijama postojalo dvojako mišljenje. Neki su, naime, govorili da su sve proizašle od Boga u nekoj jednakosti, kako je rekao Origen; ili barem mnoge od njih, kako su neki postavili. Drugi su pak govorili da su sve duhovne supstancije proizašle od Boga po nekom stupnju i redu; i čini se da tako misli Dionizije, koji kaže, u X. poglavlju O nebeskoj hijerarhiji, da među duhovnim supstancijama ima prvih, srednjih i posljednjih, čak i u jednom redu anđela. Prema prvom mišljenju, dakle, nužno je reći da postoji više vijekova, ukoliko postoji više jednakih prvih vjekovitih stvari. A prema drugom mišljenju, treba reći da postoji samo jedan vijek, jer, budući da se svaka stvar mjeri onim što je najjednostavnije u njezinu rodu, kako se kaže u X. knjizi Metafizike, nužno je da se bitak svih vjekovitih stvari mjeri bitkom prve vjekovite stvari, koji je to jednostavniji što je prvotniji. I budući da je drugo mišljenje istinitije, kako će se niže pokazati, zasad dopuštamo da postoji samo jedan vijek.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se vijek katkad uzima u značenju doba, koje je razdoblje trajanja neke stvari; i tako se govori o mnogim vijekovima, kao o mnogim dobima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a6.ad2": {
+      "text": "Na drugo treba reći da, premda se nebeska tijela i duhovne stvari razlikuju po rodu naravi, ipak se slažu u tome što imaju nepreinačiv bitak. I tako se mjere vijekom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a6.ad3": {
+      "text": "Na treće treba reći da ni sve vremenite stvari ne počinju istodobno, a ipak sve imaju jedno vrijeme, zbog onoga prvoga što se mjeri vremenom. I tako sve vjekovite stvari imaju jedan vijek zbog onoga prvoga, čak i ako ne počinju sve istodobno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q10.a6.ad4": {
+      "text": "Na četvrto treba reći da, da bi se neke stvari mjerile nečim jednim, ne zahtijeva se da to jedno bude uzrok svih njih, nego da bude jednostavnije.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    }
+  }
+}

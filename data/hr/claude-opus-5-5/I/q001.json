@@ -1,0 +1,402 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 1,
+  "units": {
+    "I.q1.pr": {
+      "text": "I da bi naša nakana bila obuhvaćena nekim određenim granicama, nužno je najprije istražiti sam sveti nauk: kakav je i na što se proteže. O tome treba istražiti deset pitanja. Prvo, o nužnosti ovoga nauka. Drugo, je li znanost. Treće, je li jedna ili ih je više. Četvrto, je li spekulativna ili praktična. Peto, o njegovu odnosu prema drugim znanostima. Šesto, je li mudrost. Sedmo, što je njegov subjekt. Osmo, je li argumentativan. Deveto, treba li se služiti metaforičkim ili simboličkim izrazima. Deseto, treba li Sveto pismo ovoga nauka tumačiti prema više smislova.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nije nužno, osim filozofskih znanosti, imati neki drugi nauk. Čovjek se, naime, ne treba truditi oko onoga što je iznad razuma, prema onome iz Sir 3: *Ne traži ono što je iznad tebe*. A ono što je podložno razumu dostatno se izlaže u filozofskim znanostima. Čini se, dakle, suvišnim, osim filozofskih znanosti, imati neki drugi nauk.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a1.obj2": {
+      "text": "Osim toga, nauk može biti samo o biću, jer se ništa ne zna osim istinitoga, koje je zamjenljivo s bićem. A o svim se bićima raspravlja u filozofskim znanostima, pa i o Bogu; zato se jedan dio filozofije naziva teologijom ili božanskom znanošću, kako je jasno iz Filozofa u VI. knjizi Metafizike. Nije, dakle, bilo nužno, osim filozofskih znanosti, imati neki drugi nauk.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 2 Tim 3: *Sve Pismo, od Boga nadahnuto, korisno je za poučavanje, za uvjeravanje, za popravljanje, za odgajanje u pravednosti*. A Pismo od Boga nadahnuto ne pripada filozofskim znanostima, koje su pronađene ljudskim razumom. Korisno je, dakle, da osim filozofskih znanosti postoji i druga znanost, od Boga nadahnuta.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a1.resp": {
+      "text": "Odgovaram: treba reći da je za ljudsko spasenje bilo nužno da postoji neki nauk prema božanskoj objavi, osim filozofskih znanosti, koje se istražuju ljudskim razumom. Prvo, zato što je čovjek usmjeren prema Bogu kao prema nekoj svrsi koja nadilazi obuhvaćanje razuma, prema onome iz Iz 64: *Oko nije vidjelo, Bože, osim tebe, što si pripravio onima koji te ljube*. A svrha mora unaprijed biti poznata ljudima, koji svoje nakane i radnje trebaju usmjeravati prema svrsi. Zato je čovjeku za spasenje bilo nužno da mu se po božanskoj objavi obznani nešto što nadilazi ljudski razum. I za ono o Bogu što se ljudskim razumom može istražiti bilo je nužno da čovjek bude poučen božanskom objavom. Jer istina o Bogu, istražena razumom, došla bi do čovjeka samo preko malobrojnih, nakon dugog vremena i s primjesom mnogih zabluda; a ipak o spoznaji te istine ovisi cijelo čovjekovo spasenje, koje je u Bogu. Da bi, dakle, spasenje došlo do ljudi i prikladnije i sigurnije, bilo je nužno da o božanskim stvarima budu poučeni božanskom objavom. Bilo je, dakle, nužno da osim filozofskih znanosti, koje se istražuju razumom, postoji i sveti nauk po objavi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda ono što je više od čovjekove spoznaje čovjek ne treba istraživati razumom, ipak to, kad ga Bog objavi, treba prihvatiti vjerom. Zato se ondje i nadodaje: *Mnogo toga što nadilazi ljudsko poimanje pokazano ti je*. I u takvim se stvarima sastoji sveti nauk.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a1.ad2": {
+      "text": "Na drugo treba reći da različit pojam spoznatljivoga uvodi različitost znanosti. Isti zaključak, naime, dokazuju astronom i prirodoslovac, na primjer da je Zemlja okrugla; ali astronom pomoću matematičkoga srednjeg termina, to jest apstrahiranoga od tvari, a prirodoslovac pomoću srednjeg termina promatranoga u vezi s tvari. Zato ništa ne priječi da o istim stvarima o kojima raspravljaju filozofske znanosti, ukoliko su spoznatljive svjetlom naravnoga razuma, raspravlja i druga znanost, ukoliko se spoznaju svjetlom božanske objave. Stoga se teologija koja pripada svetom nauku razlikuje po rodu od one teologije koja se smatra dijelom filozofije.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da sveti nauk nije znanost. Svaka, naime, znanost polazi od načela po sebi poznatih. A sveti nauk polazi od članaka vjere, koji nisu po sebi poznati, jer ih ne prihvaćaju svi: *Nije, naime, svih vjera*, kako se kaže u 2 Sol 3. Sveti nauk, dakle, nije znanost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a2.obj2": {
+      "text": "Osim toga, znanost nije o pojedinačnome. A sveti nauk raspravlja o pojedinačnome, na primjer o djelima Abrahama, Izaka i Jakova i sličnome. Dakle, sveti nauk nije znanost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XIV. knjizi O Trojstvu: *Ovoj se znanosti pripisuje samo ono čime se najspasonosnija vjera rađa, hrani, brani i jača*. A to ne pripada nijednoj znanosti osim svetom nauku. Dakle, sveti nauk jest znanost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a2.resp": {
+      "text": "Odgovaram: treba reći da je sveti nauk znanost. No valja znati da postoji dvostruki rod znanosti. Neke, naime, polaze od načela poznatih naravnim svjetlom uma, kao aritmetika, geometrija i slične. Neke pak polaze od načela poznatih svjetlom više znanosti, kao što optika polazi od načela koja je obznanila geometrija, a glazba od načela poznatih po aritmetici. I na taj je način sveti nauk znanost, jer polazi od načela poznatih svjetlom više znanosti, a to je znanost Boga i blaženih. Stoga, kao što glazba vjeruje načelima koja joj predaje aritmetičar, tako sveti nauk vjeruje načelima koja mu je objavio Bog.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da su načela bilo koje znanosti ili poznata po sebi ili se svode na spoznaju više znanosti. A takva su načela svetog nauka, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a2.ad2": {
+      "text": "Na drugo treba reći da se pojedinačno u svetom nauku izlaže ne zato što se o njemu prvenstveno raspravlja, nego se uvodi bilo kao primjer za život, kao u moralnim znanostima, bilo zato da se pokaže autoritet ljudi po kojima je do nas došla božanska objava, na kojoj se temelji Sveto pismo ili nauk.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da sveti nauk nije jedna znanost. Jer, prema Filozofu u I. knjizi Druge analitike, *jedna je ona znanost koja je o jednom rodu subjekta*. A Stvoritelj i stvor, o kojima se raspravlja u svetom nauku, nisu obuhvaćeni jednim rodom subjekta. Dakle, sveti nauk nije jedna znanost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a3.obj2": {
+      "text": "Osim toga, u svetom se nauku raspravlja o anđelima, o tjelesnim stvorovima, o ćudoređu ljudi. A takvo što pripada različitim filozofskim znanostima. Sveti nauk, dakle, nije jedna znanost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a3.sc": {
+      "text": "Ali protiv toga je to što Sveto pismo o njemu govori kao o jednoj znanosti; kaže se, naime, u Mudr 10: *Dade mu znanost svetih*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a3.resp": {
+      "text": "Odgovaram: treba reći da je sveti nauk jedna znanost. Jedinstvo moći i habitusa, naime, treba promatrati prema predmetu, i to ne tvarno, nego prema formalnom pojmu predmeta; na primjer, čovjek, magarac i kamen slažu se u jednom formalnom pojmu obojenoga, a to je predmet vida. Budući, dakle, da Sveto pismo razmatra nešto ukoliko je od Boga objavljeno, prema onome što je rečeno, sve što god je od Boga objavljivo zajedničko je u jednom formalnom pojmu predmeta ove znanosti. I stoga je obuhvaćeno svetim naukom kao jednom znanošću.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da sveti nauk ne raspravlja o Bogu i o stvorovima jednako, nego prvenstveno o Bogu, a o stvorovima ukoliko se odnose na Boga kao na počelo ili svrhu. Stoga jedinstvo znanosti nije priječeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a3.ad2": {
+      "text": "Na drugo treba reći da ništa ne priječi da se niže moći ili habitusi razlikuju s obzirom na onu građu koja zajednički potpada pod jednu višu moć ili habitus, jer viša moć ili habitus gleda predmet pod općenitijim formalnim pojmom. Tako je predmet zajedničkog osjetila osjetno, koje pod sobom obuhvaća vidljivo i čujno; zato se zajedničko osjetilo, iako je jedna moć, proteže na sve predmete pet osjetila. I slično, ono o čemu se raspravlja u različitim filozofskim znanostima sveti nauk, budući da je jedan, može razmatrati pod jednim pojmom, naime ukoliko je od Boga objavljivo, tako da sveti nauk bude kao neki otisak božanske znanosti, koja je jedna i jednostavna znanost o svemu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je sveti nauk praktična znanost. Svrha je, naime, praktične znanosti djelovanje, prema Filozofu u II. knjizi Metafizike. A sveti je nauk usmjeren prema djelovanju, prema onome iz Jak 1: *Budite izvršitelji riječi, a ne samo slušatelji*. Dakle, sveti nauk je praktična znanost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a4.obj2": {
+      "text": "Osim toga, sveti se nauk dijeli na Stari i Novi zakon. A zakon pripada moralnoj znanosti, koja je praktična znanost. Dakle, sveti nauk je praktična znanost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a4.sc": {
+      "text": "Ali protiv toga, svaka je praktična znanost o stvarima koje čovjek može učiniti, kao moralna o ljudskim činima, a graditeljska o zgradama. A sveti je nauk prvenstveno o Bogu, čija su djela zapravo ljudi. Nije, dakle, praktična znanost, nego prije spekulativna.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a4.resp": {
+      "text": "Odgovaram: treba reći da se sveti nauk, kako je rečeno, budući da je jedan, proteže na ono što pripada različitim filozofskim znanostima, zbog formalnog pojma koji u različitim stvarima uočava, naime ukoliko su spoznatljive božanskim svjetlom. Stoga, premda je među filozofskim znanostima jedna spekulativna, a druga praktična, sveti nauk ipak pod sobom obuhvaća obje, kao što i Bog istom znanošću spoznaje sebe i ono što čini. Ipak je više spekulativan nego praktičan, jer se prvenstvenije bavi božanskim stvarima nego ljudskim činima; o njima raspravlja ukoliko se po njima čovjek usmjerava prema savršenoj spoznaji Boga, u kojoj se sastoji vječno blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a4.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da sveti nauk nije dostojanstveniji od drugih znanosti. Izvjesnost, naime, pripada dostojanstvu znanosti. A druge znanosti, o čijim se načelima ne može sumnjati, čini se da su izvjesnije od svetog nauka, čija načela, naime članci vjere, dopuštaju sumnju. Čini se, dakle, da su druge znanosti dostojanstvenije od njega.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a5.obj2": {
+      "text": "Osim toga, nižoj je znanosti svojstveno da prima od više, kao glazbenik od aritmetičara. A sveti nauk prima nešto od filozofskih znanosti; kaže, naime, Jeronim u poslanici velikom govorniku grada Rima da su *stari naučitelji svoje knjige toliko protkali naucima i mislima filozofa da ne znaš čemu bi se u njima prije trebao diviti: svjetovnoj učenosti ili poznavanju Pisama*. Dakle, sveti je nauk niži od drugih znanosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a5.sc": {
+      "text": "Ali protiv toga je to što se druge znanosti nazivaju njegovim sluškinjama, Izr 9: *Posla svoje sluškinje da zovu u tvrđavu*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a5.resp": {
+      "text": "Odgovaram: treba reći da ova znanost, budući da je u nečemu spekulativna, a u nečemu praktična, nadilazi sve druge, kako spekulativne tako i praktične. Za jednu se, naime, spekulativnu znanost kaže da je dostojanstvenija od druge bilo zbog izvjesnosti, bilo zbog dostojanstva građe. I u oba pogleda ova znanost nadmašuje druge spekulativne znanosti. Po izvjesnosti, jer druge znanosti imaju izvjesnost od naravnog svjetla ljudskog razuma, koji se može varati, a ova ima izvjesnost od svjetla božanske znanosti, koja se ne može prevariti. Po dostojanstvu pak građe, jer je ova znanost prvenstveno o onome što svojom uzvišenošću nadilazi razum, dok druge znanosti razmatraju samo ono što je podložno razumu. Od praktičnih je pak znanosti dostojanstvenija ona koja je usmjerena prema daljoj svrsi, kao politička od vojne, jer je dobro vojske usmjereno prema dobru države. A svrha ovoga nauka, ukoliko je praktičan, jest vječno blaženstvo, prema kojemu su kao prema posljednjoj svrsi usmjerene sve druge svrhe praktičnih znanosti. Stoga je očito da je on u svakom pogledu dostojanstveniji od drugih.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da ništa ne priječi da ono što je po naravi izvjesnije bude za nas manje izvjesno zbog slabosti našega uma, koji se prema onome što je u naravi najočitije odnosi kao oko sove prema sunčevu svjetlu, kako se kaže u II. knjizi Metafizike. Stoga sumnja koja se kod nekih javlja o člancima vjere nije zbog neizvjesnosti stvari, nego zbog slabosti ljudskog uma. Pa ipak, i ono najmanje što se može imati od spoznaje najuzvišenijih stvari poželjnije je od najizvjesnije spoznaje koja se ima o najmanjim stvarima, kako se kaže u XI. knjizi O životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a5.ad2": {
+      "text": "Na drugo treba reći da ova znanost može primiti nešto od filozofskih znanosti, ne zato što bi ih nužno trebala, nego radi jasnijeg očitovanja onoga što se u ovoj znanosti izlaže. Ona, naime, ne prima svoja načela od drugih znanosti, nego neposredno od Boga po objavi. I zato ne prima od drugih znanosti kao od viših, nego se njima služi kao nižima i sluškinjama, kao što se arhitektonske znanosti služe pomoćnima, kao politička vojnom. I samo to što se njima tako služi nije zbog njezina nedostatka ili nedostatnosti, nego zbog nedostatka našega uma, koji se lakše vodi za ruku od onoga što se spoznaje naravnim razumom (od kojega polaze druge znanosti) prema onome što je iznad razuma, a što se izlaže u ovoj znanosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da ovaj nauk nije mudrost. Nijedan, naime, nauk koji svoja načela pretpostavlja odnekud drugdje nije dostojan imena mudrosti, *jer je mudrome svojstveno uređivati, a ne biti uređivan* (I. knjiga Metafizike). A ovaj nauk pretpostavlja svoja načela odnekud drugdje, kako je jasno iz rečenoga. Dakle, ovaj nauk nije mudrost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a6.obj2": {
+      "text": "Osim toga, mudrosti pripada dokazivati načela drugih znanosti; zato se naziva glavom znanosti, kako je jasno u VI. knjizi Etike. A ovaj nauk ne dokazuje načela drugih znanosti. Dakle, nije mudrost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a6.obj3": {
+      "text": "Osim toga, ovaj se nauk stječe učenjem. A mudrost se ima ulijevanjem; zato se ubraja među sedam darova Duha Svetoga, kako je jasno iz Iz 11. Dakle, ovaj nauk nije mudrost.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Pnz 4, na početku Zakona: *Ovo je naša mudrost i um pred narodima*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a6.resp": {
+      "text": "Odgovaram: treba reći da je ovaj nauk u najvećoj mjeri mudrost među svim ljudskim mudrostima, i to ne samo u nekom rodu, nego naprosto. Budući da je, naime, mudrome svojstveno uređivati i suditi, a sud se o nižim stvarima ima po višem uzroku, mudrim se u svakom rodu naziva onaj koji razmatra najviši uzrok toga roda. Tako se u rodu gradnje majstor koji određuje formu kuće naziva mudrim i graditeljem u odnosu na niže majstore, koji tešu drvo ili pripremaju kamenje; zato se kaže u 1 Kor 3: *Kao mudar graditelj postavio sam temelj*. I opet, u rodu cijeloga ljudskog života razborit se čovjek naziva mudrim, ukoliko usmjerava ljudske čine prema dužnoj svrsi; zato se kaže u Izr 10: *Mudrost je čovjeku razboritost*. Onaj, dakle, koji razmatra naprosto najviši uzrok cijelog svemira, a to je Bog, naziva se u najvećoj mjeri mudrim; zato se i kaže da je mudrost spoznaja božanskih stvari, kako je jasno iz Augustina u XII. knjizi O Trojstvu. A sveti nauk najvlastitije raspravlja o Bogu ukoliko je on najviši uzrok, i to ne samo s obzirom na ono što je spoznatljivo po stvorovima (što su filozofi spoznali, kako se kaže u Rim 1: *Ono što je poznato o Bogu, očito je njima*), nego i s obzirom na ono što je poznato samo njemu o samome sebi, a drugima priopćeno po objavi. Stoga se sveti nauk u najvećoj mjeri naziva mudrošću.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da sveti nauk ne pretpostavlja svoja načela od neke ljudske znanosti, nego od božanske znanosti, kojom se, kao najvišom mudrošću, uređuje sva naša spoznaja.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a6.ad2": {
+      "text": "Na drugo treba reći da su načela drugih znanosti ili po sebi poznata i ne mogu se dokazati, ili se dokazuju nekim naravnim razlogom u nekoj drugoj znanosti. A vlastita je spoznaja ove znanosti ona koja je po objavi, a ne ona koja je po naravnom razumu. I zato joj ne pripada dokazivati načela drugih znanosti, nego samo suditi o njima; jer sve što se u drugim znanostima nađe da se protivi istini ove znanosti, sve se osuđuje kao lažno; zato se kaže u 2 Kor 10: *Rušeći naume i svaku uzvisinu koja se diže protiv znanja Božjega*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a6.ad3": {
+      "text": "Na treće treba reći da se, budući da sud pripada mudrome, mudrost uzima na dva načina, prema dvostrukom načinu suđenja. Događa se, naime, da netko sudi na jedan način po načinu sklonosti, kao što onaj koji ima habitus kreposti ispravno sudi o onome što treba činiti prema kreposti, ukoliko je tome sklon; zato se i u X. knjizi Etike kaže da je krepostan čovjek mjera i pravilo ljudskih čina. Na drugi način, po načinu spoznaje, kao što bi netko poučen u moralnoj znanosti mogao suditi o činima kreposti, čak i kad ne bi imao krepost. Prvi, dakle, način suđenja o božanskim stvarima pripada mudrosti koja se smatra darom Duha Svetoga, prema onome iz 1 Kor 2: *Duhovan čovjek sudi sve,* itd.; i Dionizije kaže u II. poglavlju O božanskim imenima: *Hijerotej je poučen ne samo učeći nego i trpeći božanske stvari*. A drugi način suđenja pripada ovome nauku, ukoliko se stječe učenjem, premda se njegova načela imaju iz objave.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da Bog nije subjekt ove znanosti. U svakoj je, naime, znanosti potrebno o subjektu pretpostaviti što jest, prema Filozofu u I. knjizi Druge analitike. A ova znanost ne pretpostavlja o Bogu što jest; kaže, naime, Damaščanin: *Reći što je Bog, nemoguće je*. Dakle, Bog nije subjekt ove znanosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a7.obj2": {
+      "text": "Osim toga, sve što se određuje u nekoj znanosti obuhvaćeno je subjektom te znanosti. A u Svetom se pismu raspravlja o mnogome drugome osim o Bogu, na primjer o stvorovima i o ćudoređu ljudi. Dakle, Bog nije subjekt ove znanosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a7.sc": {
+      "text": "Ali protiv toga, subjekt je znanosti ono o čemu se u znanosti govori. A u ovoj se znanosti govori o Bogu; naziva se, naime, teologijom, to jest kao govor o Bogu. Dakle, Bog je subjekt ove znanosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a7.resp": {
+      "text": "Odgovaram: treba reći da je Bog subjekt ove znanosti. Subjekt se, naime, odnosi prema znanosti kao predmet prema moći ili habitusu. A u vlastitom se smislu kao predmet neke moći ili habitusa određuje ono pod čijim se pojmom sve odnosi na moć ili habitus, kao što se čovjek i kamen odnose na vid ukoliko su obojeni; zato je obojeno vlastiti predmet vida. A u svetom se nauku sve obrađuje pod pojmom Boga: bilo zato što je to sam Bog, bilo zato što ima usmjerenost prema Bogu kao prema počelu i svrsi. Odatle slijedi da je Bog uistinu subjekt ove znanosti. To postaje očito i iz načela ove znanosti, a to su članci vjere, koja je o Bogu; a isti je subjekt načela i cijele znanosti, budući da je cijela znanost po snazi sadržana u načelima. Neki pak, gledajući na ono o čemu se u ovoj znanosti raspravlja, a ne na pojam prema kojemu se to razmatra, drukčije su odredili subjekt ove znanosti: ili stvari i znakove, ili djela obnove, ili cijeloga Krista, to jest glavu i udove. O svemu se tome, naime, raspravlja u ovoj znanosti, ali prema usmjerenosti prema Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda o Bogu ne možemo znati što jest, ipak se u ovome nauku služimo njegovim učinkom, bilo naravi bilo milosti, umjesto definicije, za ono što se u ovome nauku razmatra o Bogu; kao što se i u nekim filozofskim znanostima nešto dokazuje o uzroku po učinku, uzimajući učinak umjesto definicije uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a7.ad2": {
+      "text": "Na drugo treba reći da je sve drugo što se određuje u svetom nauku obuhvaćeno pod Bogom, ne kao dijelovi, vrste ili akcidenti, nego kao ono što je na neki način usmjereno prema njemu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da ovaj nauk nije argumentativan. Kaže, naime, Ambrozije u I. knjizi O katoličkoj vjeri: *Ukloni argumente gdje se traži vjera*. A u ovom se nauku ponajprije traži vjera; zato se kaže u Iv 20: *Ovo je napisano da vjerujete*. Dakle, sveti nauk nije argumentativan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a8.obj2": {
+      "text": "Osim toga, ako je argumentativan, argumentira ili iz autoriteta ili iz razuma. Ako iz autoriteta, čini se da to ne priliči njegovu dostojanstvu, jer je dokazno mjesto iz autoriteta najslabije, prema Boetiju. Ako pak iz razuma, to ne priliči njegovoj svrsi, jer prema Grguru u homiliji: *Vjera nema zasluge gdje ljudski razum pruža iskustvenu potvrdu*. Dakle, sveti nauk nije argumentativan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a8.sc": {
+      "text": "Ali protiv toga je ono što se u Tit 1 kaže o biskupu: *Koji prigrljuje vjernu riječ koja je u skladu s naukom, da bude kadar poticati u zdravom nauku i pobijati one koji proturječe*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a8.resp": {
+      "text": "Odgovaram: treba reći da, kao što druge znanosti ne argumentiraju zato da bi dokazale svoja načela, nego iz načela argumentiraju zato da bi pokazale nešto drugo u samim tim znanostima, tako ni ovaj nauk ne argumentira zato da bi dokazao svoja načela, a to su članci vjere, nego od njih polazi da bi pokazao nešto drugo, kao što apostol u 1 Kor 15 iz Kristova uskrsnuća argumentira da bi dokazao opće uskrsnuće. Ipak treba uočiti da u filozofskim znanostima niže znanosti niti dokazuju svoja načela niti raspravljaju protiv onoga koji niječe načela, nego to prepuštaju višoj znanosti; a najviša među njima, naime metafizika, raspravlja protiv onoga koji niječe njezina načela, ako protivnik nešto priznaje; ako pak ništa ne priznaje, ne može s njim raspravljati, ali može razriješiti njegove razloge. Stoga Sveto pismo, budući da nema višega nad sobom, raspravlja s onim koji niječe njegova načela: argumentirajući, ako protivnik priznaje nešto od onoga što se ima po božanskoj objavi, kao što autoritetima svetog nauka raspravljamo protiv heretika, a jednim člankom protiv onih koji niječu drugi. Ako pak protivnik ne vjeruje ništa od onoga što je od Boga objavljeno, ne preostaje više put da se razlozima dokažu članci vjere, nego samo da se razriješe razlozi koje eventualno navodi protiv vjere. Budući, naime, da se vjera oslanja na nepogrešivu istinu, a nemoguće je dokazati suprotno od istinitoga, očito je da obrazloženja koja se navode protiv vjere nisu dokazi, nego argumenti koji se mogu razriješiti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda argumenti ljudskog razuma nemaju mjesta u dokazivanju onoga što je od vjere, ipak ovaj nauk iz članaka vjere argumentira prema drugome, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a8.ad2": {
+      "text": "Na drugo treba reći da je argumentirati iz autoriteta najvlastitije ovome nauku, zato što se načela ovoga nauka imaju po objavi, pa tako treba vjerovati autoritetu onih kojima je objava dana. To ne umanjuje dostojanstvo ovoga nauka; jer premda je dokazno mjesto iz autoriteta koji se temelji na ljudskom razumu najslabije, dokazno je mjesto iz autoriteta koji se temelji na božanskoj objavi najdjelotvornije. Ipak se sveti nauk služi i ljudskim razumom, ne doduše da bi dokazivao vjeru, jer bi se time oduzela zasluga vjere, nego da bi očitovao nešto drugo što se u ovom nauku izlaže. Budući, naime, da milost ne ukida narav, nego je usavršuje, treba da naravni razum služi vjeri, kao što i naravna sklonost volje služi ljubavi. Zato i apostol kaže u 2 Kor 10: *Zarobljujući svaki um u poslušnost Kristu*. I odatle je to što se sveti nauk služi i autoritetima filozofa, ondje gdje su naravnim razumom mogli spoznati istinu, kao što Pavao u Dj 17 navodi Aratovu riječ, govoreći: *Kao što su rekli i neki od vaših pjesnika: Božji smo rod*. Ipak se sveti nauk takvim autoritetima služi kao izvanjskim i vjerojatnim argumentima. Autoritetima se pak kanonskoga Pisma služi u vlastitom smislu, argumentirajući iz nužnosti. Autoritetima pak drugih crkvenih naučitelja služi se kao da argumentira iz vlastitih izvora, ali vjerojatno. Naša se, naime, vjera oslanja na objavu danu apostolima i prorocima, koji su napisali kanonske knjige, a ne na objavu, ako je kakva bila, danu drugim naučiteljima. Zato Augustin kaže u poslanici Jeronimu: *Samo sam onim knjigama Pisma koje se nazivaju kanonskima naučio iskazivati tu čast da najčvršće vjerujem da se nijedan njihov pisac u pisanju nije ni u čemu prevario. Druge pak čitam tako da, ma kolikom se svetošću i učenošću isticali, ne smatram nešto istinitim zato što su oni tako mislili ili pisali*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da se Sveto pismo ne bi smjelo služiti metaforama. Ono, naime, što je svojstveno najnižem nauku, čini se da ne priliči ovoj znanosti, koja među ostalima zauzima najviše mjesto, kako je već rečeno. A postupati pomoću raznih sličnosti i predodžbi svojstveno je pjesništvu, koje je najniže među svim naucima. Dakle, služiti se takvim sličnostima nije prikladno ovoj znanosti.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a9.obj2": {
+      "text": "Osim toga, čini se da je ovaj nauk usmjeren prema očitovanju istine; zato se i onima koji ga očituju obećava nagrada, Sir 24: *Koji me rasvjetljuju, imat će život vječni*. A takvim se sličnostima istina skriva. Ne priliči, dakle, ovome nauku izlagati božanske stvari pod sličnošću tjelesnih stvari.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a9.obj3": {
+      "text": "Osim toga, što su neki stvorovi uzvišeniji, to se više približavaju božanskoj sličnosti. Ako bi se, dakle, nešto od stvorova prenosilo na Boga, trebalo bi da se takvo prenošenje ponajviše čini od uzvišenijih stvorova, a ne od najnižih. A upravo se ovo potonje često nalazi u Pismima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a9.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Hoš 12: *Ja sam im umnožio viđenja i u rukama proroka bio sam prispodobljen*. A izlagati nešto pod sličnošću jest metaforičko. Dakle, svetom nauku pripada služiti se metaforama.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a9.resp": {
+      "text": "Odgovaram: treba reći da je prikladno da Sveto pismo izlaže božanske i duhovne stvari pod sličnošću tjelesnih. Bog, naime, svemu providi prema onome što odgovara njihovoj naravi. A čovjeku je naravno da preko osjetnoga dolazi do umljivoga, jer sva naša spoznaja ima početak u osjetilu. Zato se u Svetom pismu prikladno izlažu duhovne stvari pod metaforama tjelesnih. I to je ono što kaže Dionizije u I. poglavlju O nebeskoj hijerarhiji: *Nemoguće je da nam božanska zraka zasvijetli drukčije nego ovijena raznolikošću svetih velova*. Prikladno je također Svetom pismu, koje se zajednički predlaže svima (prema onome iz Rim 1: *Mudrima i nemudrima dužnik sam*), da se duhovne stvari predlažu pod sličnostima tjelesnih, kako bi ga barem tako pojmili neuki, koji nisu sposobni pojmiti umljivo samo po sebi.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da se pjesnik služi metaforama radi prikazivanja, jer je prikazivanje čovjeku po naravi ugodno. A sveti se nauk služi metaforama radi nužnosti i korisnosti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a9.ad2": {
+      "text": "Na drugo treba reći da se zraka božanske objave ne uništava zbog osjetnih likova kojima je ovijena, kako kaže Dionizije, nego ostaje u svojoj istini, tako da duhovima kojima se daje objava ne dopušta da ostanu u sličnostima, nego ih uzdiže do spoznaje umljivoga; i po onima kojima je objava dana i drugi se o tome poučavaju. Zato ono što se na jednom mjestu Pisma izlaže pod metaforama, na drugim se mjestima izričitije tumači. I samo je skrivanje u likovima korisno, za vježbu marljivih i protiv poruga nevjernika, o kojima se kaže u Mt 7: *Ne dajte svetinje psima*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a9.ad3": {
+      "text": "Na treće treba reći da je, kako uči Dionizije u II. poglavlju O nebeskoj hijerarhiji, prikladnije da se božanske stvari u Pismima izlažu pod likovima niskih tijela nego plemenitih tijela. I to iz tri razloga. Prvo, zato što se time ljudski duh više oslobađa od zablude. Očito se, naime, vidi da se to o božanskim stvarima ne kaže u vlastitom smislu, što bi moglo biti dvojbeno kad bi se božanske stvari opisivale pod likovima plemenitih tijela, osobito kod onih koji ne znaju zamisliti ništa plemenitije od tijela. Drugo, zato što je taj način prikladniji spoznaji koju o Bogu imamo u ovom životu. Više nam se, naime, o njemu očituje što nije nego što jest; i zato sličnosti onih stvari koje su udaljenije od Boga stvaraju u nama istinitiju procjenu da je on iznad onoga što o Bogu govorimo ili mislimo. Treće, zato što se time božanske stvari više skrivaju od nedostojnih.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da Sveto pismo pod jednim slovom nema više smislova, a to su povijesni ili doslovni, alegorijski, tropološki ili moralni te anagoški. Mnogostrukost smislova u jednom Pismu, naime, rađa zbrku i zavaravanje i oduzima čvrstoću argumentiranju; zato iz višeznačnih propozicija ne proizlazi argumentacija, nego se prema tome određuju neki sofizmi. A Sveto pismo mora biti djelotvorno za pokazivanje istine bez ikakva sofizma. Dakle, u njemu se pod jednim slovom ne smije izlagati više smislova.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a10.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi O koristi vjerovanja da se *Pismo koje se naziva Starim zavjetom predaje četverostruko, naime prema povijesti, prema etiologiji, prema analogiji, prema alegoriji*. A čini se da je tih četvero posve različito od četiriju prije navedenih. Ne čini se, dakle, prikladnim da se isto slovo Svetoga pisma tumači prema četirima prije navedenim smislovima.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a10.obj3": {
+      "text": "Osim toga, osim prije navedenih smislova nalazi se i parabolički smisao, koji nije sadržan među ona četiri smisla.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a10.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur u XX. knjizi Moralia: *Sveto pismo samim načinom svoga govora nadilazi sve znanosti, jer jednim te istim govorom, dok pripovijeda događaj, otkriva otajstvo*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a10.resp": {
+      "text": "Odgovaram: treba reći da je autor Svetoga pisma Bog, u čijoj je vlasti da za označivanje prilagodi ne samo riječi (što može učiniti i čovjek), nego i same stvari. I stoga, dok u svim znanostima riječi označuju, ova znanost ima to kao svojstveno da i same stvari označene riječima također nešto označuju. Ono, dakle, prvo označivanje, kojim riječi označuju stvari, pripada prvom smislu, a to je povijesni ili doslovni smisao. A ono označivanje kojim stvari označene riječima opet označuju druge stvari naziva se duhovnim smislom, koji se temelji na doslovnom i pretpostavlja ga. Taj se pak duhovni smisao dijeli trostruko. Kao što, naime, kaže apostol u Heb 7, Stari je zakon predslika Novoga zakona, a sam Novi zakon, kako kaže Dionizije u Crkvenoj hijerarhiji, predslika je buduće slave; a i u Novom je zakonu ono što je učinjeno u Glavi znak onoga što mi trebamo činiti. Ukoliko, dakle, ono što pripada Starom zakonu označuje ono što pripada Novom zakonu, imamo alegorijski smisao; ukoliko pak ono što je učinjeno u Kristu ili u onome što označuje Krista jest znak onoga što mi trebamo činiti, imamo moralni smisao; a ukoliko označuje ono što je u vječnoj slavi, imamo anagoški smisao. Budući pak da je doslovni smisao onaj koji autor namjerava, a autor je Svetoga pisma Bog, koji svojim umom sve odjednom obuhvaća, nije neprikladno, kako kaže Augustin u XII. knjizi Ispovijesti, ako i prema doslovnom smislu u jednom slovu Pisma ima više smislova.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da mnogostrukost tih smislova ne stvara dvoznačnost ni koju drugu vrstu mnogostrukosti, jer se, kako je već rečeno, ti smislovi ne umnažaju zato što jedna riječ označuje mnogo toga, nego zato što same stvari označene riječima mogu biti znakovi drugih stvari. I tako ni u Svetom pismu ne nastaje nikakva zbrka, budući da se svi smislovi temelje na jednome, naime na doslovnom; samo se iz njega može izvesti argument, a ne iz onoga što se kaže alegorijski, kako kaže Augustin u poslanici protiv donatista Vinkencija. Ipak time Svetom pismu ništa ne nedostaje, jer pod duhovnim smislom nije sadržano ništa nužno za vjeru što Pismo negdje jasno ne izlaže doslovnim smislom.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a10.ad2": {
+      "text": "Na drugo treba reći da ono troje, povijest, etiologija i analogija, pripada jednomu doslovnom smislu. Povijest je, naime, kako tumači sam Augustin, kad se nešto jednostavno iznosi; etiologija pak kad se navodi uzrok rečenoga, kao kad je Gospodin naveo uzrok zašto je Mojsije dopustio otpuštanje žena, naime zbog tvrdoće njihova srca, Mt 19; analogija pak je kad se pokazuje da se istina jednoga mjesta Pisma ne protivi istini drugoga. Samo se pak alegorija, među ona četiri, stavlja umjesto triju duhovnih smislova. Tako i Hugo od Svetog Viktora pod alegorijskim smislom obuhvaća i anagoški, navodeći u trećoj knjizi svojih Sentencija samo tri smisla, naime povijesni, alegorijski i tropološki.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    },
+    "I.q1.a10.ad3": {
+      "text": "Na treće treba reći da je parabolički smisao sadržan u doslovnom; jer se riječima nešto označuje u vlastitom smislu, a nešto preneseno, i doslovni smisao nije sama figura, nego ono što je figurom izraženo. Kad, naime, Pismo spominje Božju ruku, doslovni smisao nije da u Bogu postoji takav tjelesni ud, nego ono što se tim udom označuje, naime djelatna snaga. Iz toga je jasno da pod doslovnim smislom Svetoga pisma nikada ne može biti ništa lažno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:00+00:00"
+    }
+  }
+}

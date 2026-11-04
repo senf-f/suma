@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 11,
+  "units": {
+    "I.q11.pr": {
+      "text": "Nakon prethodnoga treba razmotriti božansko jedinstvo. I u vezi s tim pitaju se četiri stvari. Prvo, dodaje li jedno nešto biću. Drugo, suprotstavljaju li se jedno i mnogo. Treće, je li Bog jedan. Četvrto, je li najviše jedan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:01+00:00"
+    },
+    "I.q11.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da jedno dodaje nešto biću. Sve, naime, što je u nekom određenom rodu, odnosi se kao dodatak biću, koje obuhvaća sve rodove. Ali jedno je u određenom rodu; ono je, naime, počelo broja, koji je vrsta kolikoće. Dakle, jedno dodaje nešto biću.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a1.obj2": {
+      "text": "Osim toga, ono što dijeli nešto zajedničko, odnosi se prema tome kao dodatak. Ali biće se dijeli na jedno i mnogo. Dakle, jedno dodaje nešto biću.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a1.obj3": {
+      "text": "Osim toga, ako jedno ne dodaje ništa biću, bilo bi isto reći „jedno“ i „biće“. Ali isprazno je reći „biće biće“. Dakle, bilo bi isprazno reći „jedno biće“, što je lažno. Jedno, dakle, dodaje nešto biću.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Dionizije u posljednjem poglavlju O Božjim imenima: *nema ničega od onoga što postoji što ne bi imalo udjela u jednome*; a to ne bi bilo tako kad bi jedno dodavalo biću nešto što bi ga sužavalo. Dakle, jedno se ne odnosi kao dodatak biću.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a1.resp": {
+      "text": "Odgovaram: treba reći da jedno ne dodaje biću nikakvu stvar, nego samo nijekanje podijeljenosti; jedno, naime, ne označuje ništa drugo nego nepodijeljeno biće. I upravo iz toga je vidljivo da je jedno zamjenljivo s bićem. Svako je, naime, biće ili jednostavno ili složeno. A ono što je jednostavno, nepodijeljeno je i u činu i u mogućnosti. Ono pak što je složeno, nema bitka dok su njegovi dijelovi podijeljeni, nego tek pošto oni sačinjavaju i sastavljaju sam složenac. Stoga je očito da se bitak svake stvari sastoji u nepodijeljenosti. I otuda dolazi da svaka stvar, kao što čuva svoj bitak, tako čuva i svoje jedinstvo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da su se neki, misleći da je isto ono jedno koje je zamjenljivo s bićem i ono koje je počelo broja, podijelili u suprotna stajališta. Pitagora, naime, i Platon, videći da jedno koje je zamjenljivo s bićem ne dodaje biću nikakvu stvar, nego označuje supstanciju bića ukoliko je nepodijeljena, smatrali su da tako stoji i s jednim koje je počelo broja. I budući da se broj sastoji od jedinica, vjerovali su da su brojevi supstancije svih stvari. Nasuprot tome, Avicena je, uzimajući u obzir da jedno koje je počelo broja dodaje neku stvar supstanciji bića (inače broj sastavljen od jedinica ne bi bio vrsta kolikoće), vjerovao da jedno koje je zamjenljivo s bićem dodaje neku stvar supstanciji bića, kao bijelo čovjeku. Ali to je očito lažno, jer je svaka stvar jedna po svojoj supstanciji. Kad bi, naime, svaka stvar bila jedna po nečemu drugome, budući da je i to opet jedno, ako bi opet bilo jedno po nečemu drugome, išlo bi se u beskonačno. Stoga se treba zaustaviti na prvome. Tako, dakle, treba reći da jedno koje je zamjenljivo s bićem ne dodaje biću nikakvu stvar, ali jedno koje je počelo broja dodaje biću nešto što pripada rodu kolikoće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a1.ad2": {
+      "text": "Na drugo treba reći da ništa ne priječi da ono što je na jedan način podijeljeno bude na drugi način nepodijeljeno; kao što je ono što je podijeljeno po broju nepodijeljeno po vrsti; i tako se događa da je nešto na jedan način jedno, a na drugi način mnogo. Ali ipak, ako je nešto naprosto nepodijeljeno, bilo zato što je nepodijeljeno u onome što pripada biti stvari, iako je podijeljeno u onome što je izvan biti stvari, kao ono što je jedno po subjektu, a mnogo po akcidentima; bilo zato što je nepodijeljeno u činu, a podijeljeno u mogućnosti, kao ono što je jedno kao cjelina, a mnogo po dijelovima, takvo će biti naprosto jedno, a mnogo u nekom pogledu. Ako je pak, obratno, nešto nepodijeljeno u nekom pogledu, a naprosto podijeljeno, na primjer zato što je podijeljeno po biti, a nepodijeljeno po pojmu ili po počelu odnosno uzroku, bit će naprosto mnogo, a jedno u nekom pogledu; kao ono što je mnogo po broju, a jedno po vrsti ili jedno po počelu. Tako se, dakle, biće dijeli na jedno i mnogo kao na naprosto jedno i na mnogo u nekom pogledu. Ni samo mnoštvo, naime, ne bi bilo obuhvaćeno bićem kad ne bi na neki način bilo obuhvaćeno jednim. Dionizije, naime, kaže u posljednjem poglavlju O Božjim imenima: *nema mnoštva koje nema udjela u jednome, nego ono što je mnogo po dijelovima, jedno je kao cjelina; i ono što je mnogo po akcidentima, jedno je po subjektu; i ono što je mnogo po broju, jedno je po vrsti; i ono što je mnogo po vrstama, jedno je po rodu; i ono što je mnogo po proizlaženjima, jedno je po počelu*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a1.ad3": {
+      "text": "Na treće treba reći da nije ispraznost kad se kaže „jedno biće“ zato što jedno dodaje biću nešto po pojmu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se jedno i mnogo ne suprotstavljaju. Nijedno se, naime, suprotno ne pririče o svojem suprotnom. Ali svako je mnoštvo na neki način jedno, kako je jasno iz rečenoga. Dakle, jedno se ne suprotstavlja mnoštvu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a2.obj2": {
+      "text": "Osim toga, nijedno se suprotno ne sastoji od svojega suprotnoga. Ali jedno sačinjava mnoštvo. Dakle, ne suprotstavlja se mnoštvu.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a2.obj3": {
+      "text": "Osim toga, jednomu je suprotno jedno. Ali mnogome se suprotstavlja malo. Dakle, ne suprotstavlja mu se jedno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a2.obj4": {
+      "text": "Osim toga, ako se jedno suprotstavlja mnoštvu, suprotstavlja mu se kao nepodijeljeno podijeljenome, i tako će mu se suprotstavljati kao lišenost habitusu. A to se čini neprikladnim, jer bi slijedilo da je jedno kasnije od mnoštva i da se definira po njemu, iako se ipak mnoštvo definira po jednome. Stoga će u definiciji biti krug, što je neprikladno. Dakle, jedno i mnogo nisu suprotni.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a2.sc": {
+      "text": "Ali protiv toga: stvari čiji su pojmovi suprotni, i same su suprotne. Ali pojam jednoga sastoji se u nedjeljivosti, a pojam mnoštva sadrži podijeljenost. Dakle, jedno i mnogo su suprotni.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a2.resp": {
+      "text": "Odgovaram: treba reći da se jedno suprotstavlja mnogome, ali na različite načine. Jedno, naime, koje je počelo broja, suprotstavlja se mnoštvu koje je broj kao mjera mjerenome; jedno, naime, ima pojam prve mjere, a broj je mnoštvo mjereno jednim, kako je jasno iz X. knjige Metafizike. A jedno koje je zamjenljivo s bićem suprotstavlja se mnoštvu na način lišenosti, kao nepodijeljeno podijeljenome.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da nijedna lišenost ne uklanja potpuno bitak, jer je lišenost nijekanje u subjektu, prema Filozofu. Ali ipak svaka lišenost uklanja neki bitak. I zato se u biću, zbog njegove općenitosti, događa da se lišenost bića temelji na biću, što se ne događa u lišenostima posebnih formi, kao što su vid ili bjelina ili nešto takvo. I kako je s bićem, tako je i s jednim i dobrim, koji su zamjenljivi s bićem: lišenost se dobra, naime, temelji na nekom dobru, i slično se odstranjivanje jedinstva temelji na nečemu jednome. I otuda se događa da je mnoštvo neko jedno, i zlo neko dobro, i nebiće neko biće. Ipak se suprotno ne pririče o suprotnome, jer je jedno od njih naprosto, a drugo u nekom pogledu. Ono, naime, što je biće u nekom pogledu, kao ono u mogućnosti, naprosto je nebiće, to jest u činu; ili ono što je naprosto biće u rodu supstancije, nebiće je u nekom pogledu, s obzirom na neki akcidentalni bitak. Slično je, dakle, ono što je dobro u nekom pogledu naprosto zlo, ili obratno. I slično je ono što je naprosto jedno mnogo u nekom pogledu, i obratno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a2.ad2": {
+      "text": "Na drugo treba reći da je cjelina dvojaka: jedna je homogena, koja se sastoji od sličnih dijelova; druga je heterogena, koja se sastoji od nesličnih dijelova. U svakoj homogenoj cjelini cjelina se sastoji od dijelova koji imaju formu cjeline, kao što je svaki dio vode voda, i takav je sastav neprekinutoga od njegovih dijelova. A u svakoj heterogenoj cjelini svakom dijelu nedostaje forma cjeline: nijedan, naime, dio kuće nije kuća, niti je ikoji dio čovjeka čovjek. I takva je cjelina mnoštvo. Ukoliko, dakle, njegov dio nema formu mnoštva, mnoštvo se sastoji od jedinica, kao kuća od nekuća; ne tako da jedinice sačinjavaju mnoštvo po onome što imaju od pojma nepodijeljenosti, ukoliko se suprotstavljaju mnoštvu, nego po onome što imaju od bića, kao što i dijelovi kuće sačinjavaju kuću time što su neka tijela, a ne time što su nekuće.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a2.ad3": {
+      "text": "Na treće treba reći da se mnogo uzima dvojako. Na jedan način, bezuvjetno, i tako se suprotstavlja jednome. Na drugi način, ukoliko uključuje neku nadmašnost, i tako se suprotstavlja malome. Stoga su na prvi način dva mnogo, a na drugi ne.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a2.ad4": {
+      "text": "Na četvrto treba reći da se jedno suprotstavlja mnogome na način lišenosti, ukoliko u pojmu mnogoga jest da su podijeljeni. Stoga je nužno da podijeljenost bude prije jedinstva, ne naprosto, nego po pojmu našega zahvaćanja. Mi, naime, zahvaćamo jednostavno preko složenoga; stoga definiramo točku kao ono čemu nema dijela, ili kao počelo crte. Ali mnoštvo, i po pojmu, dolazi nakon jednoga, jer ne shvaćamo da podijeljene stvari imaju pojam mnoštva osim time što svakoj od podijeljenih pripisujemo jedinstvo. Stoga se jedno stavlja u definiciju mnoštva, a ne mnoštvo u definiciju jednoga. Ali podijeljenost ulazi u um iz samoga nijekanja bića. Tako da u um prvo ulazi biće; drugo, da ovo biće nije ono biće, i tako na drugom mjestu zahvaćamo podijeljenost; treće, jedno; četvrto, mnoštvo.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da Bog nije jedan. Kaže se, naime, u Prvoj poslanici Korinćanima 8: *jer ima mnogo bogova i mnogo gospodara*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a3.obj2": {
+      "text": "Osim toga, jedno koje je počelo broja ne može se pririći o Bogu, budući da se nikakva kolikoća ne pririče o Bogu. Slično ni jedno koje je zamjenljivo s bićem, jer uključuje lišenost, a svaka je lišenost nesavršenost, koja Bogu ne pripada. Ne treba, dakle, reći da je Bog jedan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Ponovljenom zakonu 6: *čuj, Izraele, Gospodin, Bog tvoj, jedan je*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a3.resp": {
+      "text": "Odgovaram: treba reći da se to da je Bog jedan dokazuje na tri načina. Prvo iz njegove jednostavnosti. Očito je, naime, da ono po čemu je nešto pojedinačno ovo nešto nikako nije priopćivo mnogima. Ono, naime, po čemu je Sokrat čovjek, može se priopćiti mnogima, ali ono po čemu je ovaj čovjek, ne može se priopćiti nego samo jednomu. Kad bi, dakle, Sokrat bio čovjek po onome po čemu je ovaj čovjek, kao što ne može biti više Sokrata, tako ne bi moglo biti više ljudi. A to pristaje Bogu, jer je sam Bog svoja narav, kako je gore pokazano. Po istome je, dakle, Bog i ovaj Bog. Nemoguće je, dakle, da bude više bogova. Drugo, iz beskonačnosti njegove savršenosti. Gore je, naime, pokazano da Bog u sebi obuhvaća svu savršenost bitka. Kad bi, dakle, bilo više bogova, morali bi se razlikovati. Nešto bi, dakle, pripadalo jednomu što ne bi pripadalo drugomu. I kad bi to bila lišenost, ne bi bio naprosto savršen; a kad bi to bila savršenost, nedostajala bi drugomu od njih. Nemoguće je, dakle, da bude više bogova. Stoga su i stari filozofi, kao prisiljeni samom istinom, postavljajući beskonačno počelo, postavili samo jedno počelo. Treće, iz jedinstva svijeta. Za sve, naime, što postoji nalazi se da je međusobno uređeno, jer neke stvari služe drugima. A ono što je različito ne bi se slagalo u jedan red kad ne bi bilo uređeno od nečega jednoga. Bolje se, naime, mnogo svodi na jedan red po jednome nego po mnogome, jer je po sebi uzrok jednoga jedno, a mnogo nije uzrok jednoga osim akcidentalno, naime ukoliko je na neki način jedno. Budući, dakle, da je ono što je prvo najsavršenije i po sebi, a ne akcidentalno, nužno je da ono prvo što sve svodi na jedan red bude samo jedno. A to je Bog.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se kaže „mnogo bogova“ prema zabludi nekih koji su štovali mnoge bogove, smatrajući da su planeti i druge zvijezde bogovi, ili čak pojedini dijelovi svijeta. Stoga nadodaje: *ali nama je jedan Bog,* i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a3.ad2": {
+      "text": "Na drugo treba reći da se jedno ukoliko je počelo broja ne pririče o Bogu, nego samo o onome što ima bitak u tvari. Jedno, naime, koje je počelo broja, pripada rodu matematičkih stvari, koje imaju bitak u tvari, ali su po pojmu apstrahirane od tvari. A jedno koje je zamjenljivo s bićem nešto je metafizičko, što po bitku ne ovisi o tvari. I iako u Bogu nema nikakve lišenosti, ipak ga, prema načinu našega zahvaćanja, ne spoznajemo drukčije nego na način lišenosti i odstranjivanja. I tako ništa ne priječi da se o Bogu pririču neke stvari izrečene na način lišenosti, kao da je netjelesan, beskonačan. I slično se o Bogu kaže da je jedan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da Bog nije najviše jedan. Jedno se, naime, kaže po lišenosti podijeljenosti. Ali lišenost ne prima više i manje. Dakle, za Boga se ne kaže da je više jedan od drugih stvari koje su jedno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a4.obj2": {
+      "text": "Osim toga, čini se da ništa nije nedjeljivije od onoga što je nedjeljivo i u činu i u mogućnosti, a takvi su točka i jedinica. Ali nešto se utoliko naziva više jednim ukoliko je nedjeljivo. Dakle, Bog nije više jedno od jedinice i točke.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a4.obj3": {
+      "text": "Osim toga, ono što je dobro po biti, najviše je dobro; dakle, ono što je jedno po svojoj biti, najviše je jedno. Ali svako je biće jedno po svojoj biti, kako je jasno kod Filozofa u IV. knjizi Metafizike. Dakle, svako je biće najviše jedno. Bog, dakle, nije više jedno od drugih bića.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Bernard, da *među svime što se naziva jednim, vrh drži jedinstvo božanskoga Trojstva*.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a4.resp": {
+      "text": "Odgovaram: treba reći da, budući da je jedno nepodijeljeno biće, da bi nešto bilo najviše jedno, nužno je da bude i najviše biće i najviše nepodijeljeno. A oboje pripada Bogu. On je, naime, najviše biće, utoliko što nema neki bitak određen nekom naravi kojoj bi pridolazio, nego je sam samostojeći bitak, na sve načine neodređen. A najviše je nepodijeljen utoliko što se ne dijeli ni u činu ni u mogućnosti, ni po kojem načinu dijeljenja, budući da je na sve načine jednostavan, kako je gore pokazano. Stoga je očito da je Bog najviše jedan.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da, iako lišenost sama po sebi ne prima više i manje, ipak, ukoliko njezina suprotnost prima više i manje, i ono što se izriče na način lišenosti kaže se po više i manje. Prema tome, dakle, je li nešto više ili manje podijeljeno ili djeljivo, ili nikako, prema tome se za nešto kaže da je više ili manje ili najviše jedno.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a4.ad2": {
+      "text": "Na drugo treba reći da točka i jedinica koja je počelo broja nisu najviše bića, budući da nemaju bitka osim u nekom subjektu. Stoga ni jedno ni drugo od njih nije najviše jedno. Kao što, naime, subjekt nije najviše jedno zbog različitosti akcidenta i subjekta, tako ni akcident.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    },
+    "I.q11.a4.ad3": {
+      "text": "Na treće treba reći da, iako je svako biće jedno po svojoj supstanciji, ipak se supstancija svake stvari ne odnosi jednako prema uzrokovanju jedinstva, jer je supstancija nekih sastavljena od mnogoga, a nekih nije.",
+      "prompt_version": "1",
+      "glossary_version": 1,
+      "created_at": "2026-11-04T13:40:02+00:00"
+    }
+  }
+}
