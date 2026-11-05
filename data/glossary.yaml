@@ -1,4 +1,4 @@
-version: 3
+version: 4
 terms:
 - la: esse
   hr: bitak
@@ -165,7 +165,8 @@ terms:
   alternatives:
   - stečena sposobnost
   - trajna sklonost
-  note: Avoid "navika" (too behavioural); q.1 a.6 and q.1 a.2 speak of habitus principiorum.
+  note: A stable disposition = "habitus" (avoid "navika"). In Aristotle's opposition
+    privatio / habitus it means possession = "posjedovanje" (lišenost / posjedovanje).
 - la: operatio
   hr: djelovanje
   alternatives:
@@ -713,8 +714,9 @@ terms:
   hr: rađanje / rođen
   alternatives:
   - nastajanje
-  note: Trinitarian generation = "rađanje"; physical coming-to-be (generatio et corruptio)
-    = "nastajanje" (i "propadanje").
+  note: Trinitarian generation and a father begetting = "rađanje"; physical coming-to-be
+    (generatio et corruptio) = "nastajanje" (i "propadanje"); physical ingenitum (prima
+    materia) = "nenastao".
 - la: paternitas / filiatio
   hr: očinstvo / sinovstvo
   alternatives: []
@@ -870,3 +872,69 @@ terms:
   hr: istobitan
   alternatives: []
   note: As in the Croatian Creed ("istobitan s Ocem"); consubstantialitas = "istobitnost".
+- la: saeculum
+  hr: doba
+  alternatives:
+  - vijek
+  note: Keep distinct from aevum = "vijek". Idioms a saeculo / a saeculis ("from of
+    old") = "od davnine"; Scripture "in saecula" may stay "u vijeke".
+- la: intellectualis / intellectivus
+  hr: umski
+  alternatives: []
+  note: Substantia intellectualis = "umska supstancija"; never "umni". Intellectualitas
+    = "umnost".
+- la: incorruptibilis / corruptibilis
+  hr: nepropadljiv / propadljiv
+  alternatives: []
+  note: Corruptio = "propadanje".
+- la: appetitivus / appetitus sensitivus
+  hr: težnjeni / osjetilna težnja
+  alternatives: []
+  note: Virtus/pars appetitiva = "težnjena snaga / težnjeni dio".
+- la: irascibilis / concupiscibilis
+  hr: srdita / požudna (moć)
+  alternatives: []
+  note: The two sense appetites (q.59 a.4, q.81).
+- la: passio (animae)
+  hr: strast
+  alternatives:
+  - trpnja
+  note: Emotion = "strast"; passio as the category opposite actio = "trpnja".
+- la: gratia gratum faciens / gratis data
+  hr: milost koja čini ugodnim / milost darovana besplatno
+  alternatives: []
+  note: Majority rendering (q.43, q.62).
+- la: viator / comprehensor
+  hr: putnik / posjednik
+  alternatives: []
+  note: Comprehensor = the blessed who has reached the goal, not "obuhvatiti"; status
+    viae = "stanje puta", in patria = "u domovini".
+- la: terminus a quo / ad quem
+  hr: početna / završna granica
+  alternatives: []
+  note: Terminus of a motion or change; terminus alone = "granica" or "završetak".
+- la: alteratio
+  hr: kakvoćna promjena
+  alternatives:
+  - alteracija
+  note: Keep distinct from mutatio (promjena) and transmutatio (preinaka).
+- la: species intelligibilis
+  hr: umljivi spoznajni lik
+  alternatives: []
+  note: Species innata / connaturalis = "urođeni / sunaravni spoznajni lik".
+- la: compositio et divisio (intellectus)
+  hr: sastavljanje i rastavljanje
+  alternatives: []
+  note: Forming judgements; ontological compositio = "sastavljenost".
+- la: substantiae separatae
+  hr: odijeljene supstancije
+  alternatives: []
+  note: Angels / separate intelligences.
+- la: immaterialis
+  hr: netvaran
+  alternatives: []
+  note: Follows materia = "tvar"; immaterialitas = "netvarnost".
+- la: discursus / discursivus
+  hr: diskurzivno prelaženje / diskurzivan
+  alternatives: []
+  note: Reasoning step by step (q.14, q.58).
