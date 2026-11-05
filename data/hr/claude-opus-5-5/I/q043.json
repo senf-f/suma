@@ -1,0 +1,444 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 43,
+  "units": {
+    "I.q43.pr": {
+      "text": "Zatim valja razmotriti poslanje božanskih osoba. I u vezi s tim pita se osam stvari. Prvo, pristaje li nekoj božanskoj osobi da bude poslana. Drugo, je li poslanje vječno ili samo vremenito. Treće, po čemu se božanska osoba nevidljivo šalje. Četvrto, pristaje li svakoj osobi da bude poslana. Peto, šalju li se nevidljivo i Sin i Duh Sveti. Šesto, kojima biva nevidljivo poslanje. Sedmo, o vidljivom poslanju. Osmo, šalje li neka osoba samu sebe, vidljivo ili nevidljivo.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da božanskoj osobi ne pristaje da bude poslana. Poslani je, naime, manji od onoga koji šalje. Ali jedna božanska osoba nije manja od druge. Dakle, jedna osoba nije poslana od druge.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a1.obj2": {
+      "text": "Osim toga, sve što je poslano odvaja se od onoga koji šalje; stoga Jeronim kaže u tumačenju Ezekiela: *što je spojeno i u jedno tijelo povezano, ne može biti poslano*. Ali u božanskim osobama ništa nije odvojivo, kako kaže Hilarije. Dakle, jedna osoba nije poslana od druge.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a1.obj3": {
+      "text": "Osim toga, tko god je poslan, odlazi s nekoga mjesta i iznova ide na neko mjesto. A to ne pristaje božanskoj osobi, budući da je posvuda. Dakle, božanskoj osobi ne pristaje da bude poslana.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a1.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Iv 8: *nisam ja sam, nego ja i onaj koji me poslao, Otac*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a1.resp": {
+      "text": "Odgovaram: treba reći da su u pojmu poslanja uključene dvije stvari: jedna je odnošaj poslanoga prema onome od koga je poslan; druga je odnošaj poslanoga prema završetku do kojega je poslan. Time pak što je netko poslan, pokazuje se neko izlaženje poslanoga od onoga koji šalje: ili po zapovijedi, kao što gospodar šalje slugu; ili po savjetu, kao kad bi se reklo da savjetnik šalje kralja u rat; ili po podrijetlu, kao kad bi se reklo da cvijet izbija iz stabla. Pokazuje se također odnošaj prema završetku do kojega je poslan, tako da ondje na neki način počinje biti: ili zato što prije uopće nije bio ondje kamo je poslan, ili zato što ondje počinje biti na neki način na koji prije nije bio. Poslanje, dakle, može pristajati božanskoj osobi ukoliko uključuje, s jedne strane, izlaženje po podrijetlu od onoga koji šalje, i ukoliko uključuje, s druge strane, nov način postojanja u nečemu. Tako se kaže da je Sin poslan od Oca u svijet ukoliko je počeo biti u svijetu vidljivo po uzetom tijelu, a ipak je i prije bio u svijetu, kako se kaže u Iv 1.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da poslanje uključuje umanjenost u onome koji je poslan ukoliko uključuje izlaženje od počela koje šalje bilo po zapovijedi bilo po savjetu, jer je onaj koji zapovijeda veći, a onaj koji savjetuje mudriji. Ali u Bogu ono ne uključuje ništa osim izlaženja po podrijetlu, koje je u jednakosti, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a1.ad2": {
+      "text": "Na drugo treba reći da se ono što je tako poslano da počne biti gdje prije nikako nije bilo svojim poslanjem mjesno giba; stoga mora biti mjesno odvojeno od onoga koji šalje. Ali to se ne događa u poslanju božanske osobe, jer poslana božanska osoba, kao što ne počinje biti gdje prije nije bila, tako ni ne prestaje biti gdje je bila. Stoga je takvo poslanje bez odvajanja, nego ima samo razlikovanje po podrijetlu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a1.ad3": {
+      "text": "Na treće treba reći da se onaj prigovor odnosi na poslanje koje biva po mjesnom gibanju, a ono u Bogu nema mjesta.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da poslanje može biti vječno. Grgur, naime, kaže: Sin se šalje po tome po čemu se rađa. Ali rađanje Sina je vječno. Dakle, i poslanje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a2.obj2": {
+      "text": "Osim toga, čemu god nešto pristaje vremenito, to se mijenja. Ali božanska se osoba ne mijenja. Dakle, poslanje božanske osobe nije vremenito, nego vječno.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a2.obj3": {
+      "text": "Osim toga, poslanje uključuje izlaženje. Ali izlaženje božanskih osoba je vječno. Dakle, i poslanje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a2.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Gal 4: *kad dođe punina vremena, posla Bog Sina svojega*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a2.resp": {
+      "text": "Odgovaram: treba reći da u onome što uključuje podrijetlo božanskih osoba treba uočiti neku razliku. Neki, naime, izrazi u svojem značenju uključuju samo odnošaj prema počelu, kao izlaženje i izlazak. Drugi pak, uz odnošaj prema počelu, određuju završetak izlaženja. Od njih neki određuju vječni završetak, kao rađanje i izdahnuće: jer je rađanje izlaženje božanske osobe u božansku narav, a izdahnuće, uzeto pasivno, uključuje izlaženje samostojeće ljubavi. Drugi pak, uz odnošaj prema počelu, uključuju vremeniti završetak, kao poslanje i davanje: nešto se, naime, šalje zato da bude u nečemu, a daje se zato da bude posjedovano; a da božansku osobu posjeduje neki stvor, ili da ona bude u njemu na nov način postojanja, nešto je vremenito. Stoga se poslanje i davanje u Bogu kažu samo vremenito, a rađanje i izdahnuće samo od vječnosti. Izlaženje pak i izlazak kažu se u Bogu i vječno i vremenito: jer je Sin od vječnosti izašao da bude Bog, a vremenito da bude i čovjek, po vidljivom poslanju, ili pak da bude u čovjeku, po nevidljivom poslanju.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Grgur govori o vremenitom rađanju Sina, ne od Oca, nego od majke. Ili: zato što Sin upravo po tome što je od vječnosti rođen ima to da može biti poslan.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a2.ad2": {
+      "text": "Na drugo treba reći da to što je božanska osoba na nov način u nečemu, ili što je netko vremenito posjeduje, nije zbog promjene božanske osobe, nego zbog promjene stvora; kao što se i za Boga vremenito kaže da je Gospodin, zbog promjene stvora.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a2.ad3": {
+      "text": "Na treće treba reći da poslanje ne uključuje samo izlaženje od počela, nego određuje vremeniti završetak izlaženja. Stoga je poslanje samo vremenito. Ili: poslanje uključuje vječno izlaženje i nešto dodaje, naime vremeniti učinak; jer odnošaj božanske osobe prema njezinu počelu nije drukčiji nego od vječnosti. Stoga se govori o dvostrukom izlaženju, naime vječnom i vremenitom, ne zato što bi se odnošaj prema počelu udvostručio, nego je udvostručenje s obzirom na završetak, vremeniti i vječni.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nevidljivo poslanje božanske osobe nije samo po daru milosti koja čini ugodnim. Da je božanska osoba poslana, naime, znači da je darovana. Ako je, dakle, božanska osoba poslana samo po darovima milosti koja čini ugodnim, neće biti darovana sama božanska osoba, nego samo njezini darovi. A to je zabluda onih koji govore da se ne daje Duh Sveti, nego njegovi darovi.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a3.obj2": {
+      "text": "Osim toga, ovaj prijedlog „po“ označuje odnošaj nekog uzroka. Ali božanska je osoba uzrok toga da se ima dar milosti koja čini ugodnim, a ne obratno, prema onome u Rim 5: *ljubav je Božja razlivena u srcima našim po Duhu Svetome, koji nam je dan*. Dakle, neprikladno se kaže da je božanska osoba poslana po darovima milosti koja čini ugodnim.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a3.obj3": {
+      "text": "Osim toga, Augustin kaže u IV. knjizi O Trojstvu da se *za Sina kaže da je poslan kad ga netko u vremenu duhom opazi*. Ali Sin se spoznaje ne samo po milosti koja čini ugodnim, nego i po milosti darovanoj besplatno, kao po vjeri i po znanju. Dakle, božanska osoba nije poslana samo po milosti koja čini ugodnim.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a3.obj4": {
+      "text": "Osim toga, Raban kaže da je Duh Sveti dan apostolima za činjenje čudesa. A to nije dar milosti koja čini ugodnim, nego milosti darovane besplatno. Dakle, božanska osoba nije dana samo po milosti koja čini ugodnim.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a3.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u XV. knjizi O Trojstvu, da Duh Sveti vremenito izlazi da posveti stvor. A poslanje je vremenito izlaženje. Budući, dakle, da posvećenje stvora nije drukčije nego po milosti koja čini ugodnim, slijedi da poslanje božanske osobe nije drukčije nego po milosti koja čini ugodnim.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a3.resp": {
+      "text": "Odgovaram: treba reći da božanskoj osobi pristaje da bude poslana ukoliko na nov način postoji u nečemu, a da bude dana ukoliko je netko posjeduje. A ni jedno ni drugo nije drukčije nego po milosti koja čini ugodnim. Postoji, naime, jedan zajednički način na koji je Bog u svim stvarima po biti, po moći i po prisutnosti, kao uzrok u učincima koji imaju udjela u njegovoj dobroti. Iznad toga zajedničkog načina postoji pak jedan poseban, koji pristaje razumnom stvoru, u kojem se za Boga kaže da je kao spoznato u onome koji spoznaje i kao ljubljeno u onome koji ljubi. A budući da razumni stvor, spoznajući i ljubeći, svojim djelovanjem dosiže samoga Boga, prema tom se posebnom načinu za Boga ne kaže samo da je u razumnom stvoru, nego i da prebiva u njemu kao u svojem hramu. Tako, dakle, nijedan drugi učinak ne može biti razlog da božanska osoba bude na nov način u razumnom stvoru osim milosti koja čini ugodnim. Stoga se božanska osoba šalje i vremenito izlazi samo po milosti koja čini ugodnim. Slično se kaže da imamo samo ono čime se možemo slobodno služiti ili u čemu možemo slobodno uživati. A imati vlast uživanja u božanskoj osobi biva samo po milosti koja čini ugodnim. Ali ipak se u samome daru milosti koja čini ugodnim posjeduje Duh Sveti i on prebiva u čovjeku. Stoga se sam Duh Sveti daje i šalje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se po daru milosti koja čini ugodnim razumni stvor usavršuje za to da se ne samo slobodno služi samim stvorenim darom, nego i da uživa u samoj božanskoj osobi. I stoga nevidljivo poslanje biva po daru milosti koja čini ugodnim, a ipak se daje sama božanska osoba.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a3.ad2": {
+      "text": "Na drugo treba reći da milost koja čini ugodnim raspoložuje dušu da posjeduje božansku osobu; i to se označuje kad se kaže da se Duh Sveti daje po daru milosti. Ali ipak je sam dar milosti od Duha Svetoga; i to se označuje kad se kaže da se ljubav Božja razlijeva u srcima našim po Duhu Svetome.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a3.ad3": {
+      "text": "Na treće treba reći da, premda Sina možemo spoznati po nekim učincima, ipak po nekim učincima on ne prebiva u nama niti ga posjedujemo.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a3.ad4": {
+      "text": "Na četvrto treba reći da činjenje čudesa očituje milost koja čini ugodnim, kao i dar proroštva i svaka milost darovana besplatno. Stoga se u 1 Kor 12 milost darovana besplatno naziva očitovanjem Duha. Tako se, dakle, kaže da je apostolima dan Duh Sveti za činjenje čudesa, jer im je dana milost koja čini ugodnim zajedno sa znakom koji je očituje. Kad bi pak bio dan samo znak milosti koja čini ugodnim bez milosti, ne bi se reklo da je naprosto dan Duh Sveti, osim možda s nekim određenjem, prema kojem se kaže da je nekome dan duh proroštva ili čudesa, ukoliko od Duha Svetoga ima snagu prorokovanja ili činjenja čudesa.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da i Ocu pristaje da bude poslan. Da je božanska osoba poslana, naime, znači da je dana. Ali Otac daje samoga sebe, budući da ga se ne može posjedovati ako se on sam ne daruje. Dakle, može se reći da Otac šalje samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a4.obj2": {
+      "text": "Osim toga, božanska osoba biva poslana po prebivanju milosti. Ali po milosti cijelo Trojstvo prebiva u nama, prema onome u Iv 14: *k njemu ćemo doći i kod njega ćemo načiniti prebivalište*. Dakle, svaka od božanskih osoba biva poslana.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a4.obj3": {
+      "text": "Osim toga, što god pristaje nekoj osobi, pristaje svima, osim oznaka i osoba. Ali poslanje ne označuje neku osobu, pa ni oznaku, budući da je samo pet oznaka, kao što je gore rečeno. Dakle, svakoj božanskoj osobi pristaje da bude poslana.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a4.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u II. knjizi O Trojstvu: *jedino se za Oca nigdje ne čita da je poslan*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a4.resp": {
+      "text": "Odgovaram: treba reći da poslanje u svojem pojmu uključuje izlaženje od drugoga, a u Bogu po podrijetlu, kao što je gore rečeno. Stoga, budući da Otac nije od drugoga, nikako mu ne pristaje da bude poslan, nego samo Sinu i Duhu Svetome, kojima pristaje da budu od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da, ako davati uključuje darežljivo priopćivanje nečega, tako Otac daje samoga sebe, ukoliko se darežljivo priopćuje stvoru da u njemu uživa. Ako pak uključuje autoritet davatelja s obzirom na ono što se daje, tako u Bogu ne pristaje biti dan nikomu osim osobi koja je od drugoga, kao ni biti poslan.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a4.ad2": {
+      "text": "Na drugo treba reći da, premda je učinak milosti i od Oca, koji prebiva po milosti kao i Sin i Duh Sveti, ipak se za njega, budući da nije od drugoga, ne kaže da je poslan. I to je ono što kaže Augustin u IV. knjizi O Trojstvu: *za Oca se, kad ga tko u vremenu spozna, ne kaže da je poslan; jer nema od koga bi bio ili iz koga bi izlazio*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a4.ad3": {
+      "text": "Na treće treba reći da poslanje, ukoliko uključuje izlaženje od onoga koji šalje, uključuje u svojem značenju oznaku, i to ne posebno, nego općenito, ukoliko je biti od drugoga zajedničko dvjema oznakama.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da Sinu ne pristaje da bude nevidljivo poslan. Nevidljivo se, naime, poslanje božanske osobe uzima po darovima milosti. Ali svi darovi milosti pripadaju Duhu Svetome, prema onome u 1 Kor 12: *sve to čini jedan te isti Duh*. Dakle, nevidljivo se ne šalje nitko osim Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a5.obj2": {
+      "text": "Osim toga, poslanje božanske osobe biva po milosti koja čini ugodnim. Ali darovi koji pripadaju savršenosti uma nisu darovi milosti koja čini ugodnim, budući da se mogu imati bez ljubavi, prema onome u 1 Kor 13: *ako budem imao proroštvo i znao sva otajstva i sve znanje, i ako budem imao svu vjeru tako da gore premještam, a ljubavi ne budem imao, ništa sam*. Budući, dakle, da Sin izlazi kao Riječ uma, čini se da mu ne pristaje da bude nevidljivo poslan.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a5.obj3": {
+      "text": "Osim toga, poslanje božanske osobe jest neko izlaženje, kao što je rečeno. Ali jedno je izlaženje Sina, a drugo Duha Svetoga. Dakle, i drugo je poslanje, ako su obojica poslani. I tako bi jedno od njih bilo suvišno, budući da je jedno dostatno za posvećenje stvora.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a5.sc": {
+      "text": "Ali protiv toga jest ono što se u Mudr 9 kaže o božanskoj mudrosti: *pošalji je sa svetih nebesa svojih i s prijestolja veličine svoje*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a5.resp": {
+      "text": "Odgovaram: treba reći da po milosti koja čini ugodnim cijelo Trojstvo prebiva u duhu, prema onome u Iv 14: *k njemu ćemo doći i kod njega ćemo načiniti prebivalište*. A to da je božanska osoba poslana nekome po nevidljivoj milosti označuje nov način prebivanja te osobe i njezino podrijetlo od druge. Stoga, budući da i Sinu i Duhu Svetome pristaje i prebivati po milosti i biti od drugoga, obojici pristaje da budu nevidljivo poslani. Ocu pak, premda mu pristaje prebivati po milosti, ipak ne pristaje biti od drugoga, a prema tome ni biti poslan.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda se svi darovi, ukoliko su darovi, pripisuju Duhu Svetome, jer on ima pojam prvoga dara, ukoliko je ljubav, kao što je gore rečeno, ipak se neki darovi, prema svojim vlastitim pojmovima, nekim prisvajanjem pripisuju Sinu, naime oni koji pripadaju umu; i po tim se darovima uzima poslanje Sina. Stoga Augustin kaže u IV. knjizi O Trojstvu da se *Sin tada nevidljivo nekome šalje kad ga tko spoznaje i opaža*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a5.ad2": {
+      "text": "Na drugo treba reći da se duša po milosti suobličuje Bogu. Stoga, da bi neka božanska osoba bila poslana nekome po milosti, potrebno je da se on po nekom daru milosti upodobi božanskoj osobi koja se šalje. A budući da je Duh Sveti ljubav, duša se po daru ljubavi upodobljuje Duhu Svetome; stoga se poslanje Duha Svetoga uzima po daru ljubavi. A Sin je Riječ, i to ne bilo kakva, nego ona koja izdahnjuje ljubav; stoga Augustin kaže u IX. knjizi O Trojstvu: *riječ koju nastojimo protumačiti jest poznavanje s ljubavlju*. Sin, dakle, nije poslan po bilo kojoj savršenosti uma, nego po takvom poučavanju uma koje provaljuje u čuvstvo ljubavi, kako se kaže u Iv 6: *svaki koji je čuo od Oca i naučio, dolazi k meni*; i u Psalmu: *u razmatranju mojem rasplamtjet će se oganj*. I stoga Augustin znakovito kaže da je Sin poslan kad ga tko spoznaje i opaža; jer opažanje označuje neko iskustveno poznavanje. I to se u vlastitom smislu naziva mudrošću (sapientia), kao da je riječ o „sapida scientia“, to jest o znanju koje ima okus, prema onome u Sir 6: *mudrost nauka jest prema imenu svojemu*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a5.ad3": {
+      "text": "Na treće treba reći da, budući da poslanje uključuje podrijetlo poslane osobe i prebivanje po milosti, kao što je gore rečeno, ako govorimo o poslanju s obzirom na podrijetlo, tako se poslanje Sina razlikuje od poslanja Duha Svetoga, kao i rađanje od izlaženja. Ako pak govorimo s obzirom na učinak milosti, tako se dva poslanja podudaraju u korijenu milosti, a razlikuju se u učincima milosti, a to su prosvjetljenje uma i raspaljivanje čuvstva. I tako je očito da jedno ne može biti bez drugoga, jer nijedno nije bez milosti koja čini ugodnim, niti se jedna osoba odvaja od druge.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da nevidljivo poslanje ne biva svima koji imaju udjela u milosti. Oci, naime, Staroga zavjeta imali su udjela u milosti. Ali čini se da njima nije bilo nevidljivo poslanje; kaže se, naime, u Iv 7: *još ne bijaše dan Duh, jer Isus još ne bijaše proslavljen*. Dakle, nevidljivo poslanje ne biva svima koji imaju udjela u milosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a6.obj2": {
+      "text": "Osim toga, napredak u kreposti biva samo po milosti. Ali čini se da se nevidljivo poslanje ne uzima prema napretku u kreposti, jer se čini da je napredak u kreposti neprekidan, budući da ljubav uvijek ili napreduje ili nazaduje; i tako bi poslanje bilo neprekidno. Dakle, nevidljivo poslanje ne biva svima koji imaju udjela u milosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a6.obj3": {
+      "text": "Osim toga, Krist i blaženici imaju milost u najvećoj punini. Ali čini se da njima ne biva poslanje, jer poslanje biva prema nečemu udaljenome; a Krist, ukoliko je čovjek, i svi blaženici savršeno su sjedinjeni s Bogom. Dakle, nevidljivo poslanje ne biva svima koji imaju udjela u milosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a6.obj4": {
+      "text": "Osim toga, sakramenti novoga zakona sadrže milost. A ipak se ne kaže da njima biva nevidljivo poslanje. Dakle, nevidljivo poslanje ne biva svemu što ima milost.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a6.sc": {
+      "text": "Ali protiv toga jest to što, prema Augustinu, nevidljivo poslanje biva radi posvećenja stvora. A svaki se stvor koji ima milost posvećuje. Dakle, svakom takvom stvoru biva nevidljivo poslanje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a6.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, poslanje po svojem pojmu uključuje to da onaj koji je poslan ili počinje biti gdje prije nije bio, kao što se događa kod stvorenih stvari, ili počinje biti gdje je i prije bio, ali na neki nov način, ukoliko se poslanje pripisuje božanskim osobama. Tako, dakle, u onome kome biva poslanje treba razmotriti dvoje, naime prebivanje milosti i neku obnovu po milosti. Nevidljivo, dakle, poslanje biva svima u kojima se nalazi to dvoje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je nevidljivo poslanje bilo ocima Staroga zavjeta. Stoga Augustin kaže u IV. knjizi O Trojstvu da, ukoliko je Sin nevidljivo poslan, *to biva u ljudima ili s ljudima; a to se i prije događalo u ocima i prorocima*. Ono, dakle, što se kaže: još ne bijaše dan Duh, shvaća se o onom davanju s vidljivim znakom koje se dogodilo na dan Pedesetnice.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a6.ad2": {
+      "text": "Na drugo treba reći da nevidljivo poslanje biva i po napretku u kreposti ili po porastu milosti. Stoga Augustin kaže u IV. knjizi O Trojstvu da se *Sin tada nekome šalje kad ga tko spoznaje i opaža, koliko se može spoznati i opaziti prema dosegu razumske duše, bilo one koja napreduje prema Bogu, bilo one koja je savršena u Bogu*. Ali ipak se nevidljivo poslanje osobito uzima prema onom porastu milosti kad netko napreduje do nekog novog čina ili novog stanja milosti; na primjer, kad netko napreduje do milosti čudesa ili proroštva, ili do toga da se iz žara ljubavi izlaže mučeništvu, ili se odriče onoga što posjeduje, ili se prihvaća bilo kojeg teškog djela.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a6.ad3": {
+      "text": "Na treće treba reći da je blaženicima nevidljivo poslanje bilo u samom početku blaženstva. A poslije im biva nevidljivo poslanje ne po jačanju milosti, nego ukoliko im se neka otajstva iznova objavljuju, a to traje sve do dana suda. Taj se porast uzima po protezanju milosti, koja se proteže na više stvari. Kristu je pak nevidljivo poslanje bilo u početku njegova začeća, ali ne poslije, budući da je od početka svojega začeća bio pun svake mudrosti i milosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a6.ad4": {
+      "text": "Na četvrto treba reći da je milost u sakramentima novoga zakona na način oruđa, kao što je forma rukotvorine u oruđima umijeća, po nekom prolaženju od djelatnika prema trpitelju. A za poslanje se kaže da biva samo s obzirom na završetak. Stoga poslanje božanske osobe ne biva sakramentima, nego onima koji po sakramentima primaju milost.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da Duhu Svetome ne pristaje da bude vidljivo poslan. Za Sina se, naime, ukoliko je vidljivo poslan u svijet, kaže da je manji od Oca. Ali nigdje se ne čita da je Duh Sveti manji od Oca. Dakle, Duhu Svetome ne pristaje da bude vidljivo poslan.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.obj2": {
+      "text": "Osim toga, vidljivo se poslanje uzima po nekom uzetom vidljivom stvoru, kao poslanje Sina po tijelu. Ali Duh Sveti nije uzeo nikakav vidljivi stvor. Stoga se ne može reći da je u nekim vidljivim stvorovima na drukčiji način nego u drugima, osim možda kao u znaku, kao što je i u sakramentima i u svim pralikovima Zakona. Dakle, Duh Sveti nije vidljivo poslan; ili treba reći da se njegovo vidljivo poslanje uzima po svemu takvome.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.obj3": {
+      "text": "Osim toga, svaki vidljivi stvor jest učinak koji pokazuje cijelo Trojstvo. Dakle, po tim vidljivim stvorovima nije poslan više Duh Sveti nego neka druga osoba.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.obj4": {
+      "text": "Osim toga, Sin je vidljivo poslan po najdostojnijem od vidljivih stvorova, naime po ljudskoj naravi. Ako je, dakle, Duh Sveti vidljivo poslan, trebao je biti poslan po nekim razumnim stvorovima.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.obj5": {
+      "text": "Osim toga, ono što Bog čini vidljivo provodi se službom anđela, kako kaže Augustin u III. knjizi O Trojstvu. Ako su se, dakle, pojavili neki vidljivi likovi, to je učinjeno po anđelima. I tako su poslani sami anđeli, a ne Duh Sveti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.obj6": {
+      "text": "Osim toga, ako je Duh Sveti vidljivo poslan, to je samo zato da se očituje nevidljivo poslanje, jer se nevidljivo očituje po vidljivome. Dakle, kome nije bilo nevidljivo poslanje, tomu nije trebalo biti ni vidljivo poslanje; a svima kojima biva nevidljivo poslanje, bilo u Novom bilo u Starom zavjetu, treba biti i vidljivo poslanje, što je očito lažno. Dakle, Duh Sveti nije vidljivo poslan.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Mt 3, da je Duh Sveti sišao na krštenoga Gospodina u liku goluba.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.resp": {
+      "text": "Odgovaram: treba reći da se Bog brine za sve prema načinu svakoga pojedinoga. A čovjeku je sunaravan način da ga se po vidljivome vodi za ruku prema nevidljivome, kao što je jasno iz gore rečenoga; i stoga je trebalo da se čovjeku nevidljivo Božje očituje po vidljivome. Kao što je, dakle, Bog samoga sebe i vječna izlaženja osoba po vidljivim stvorovima, prema nekim pokazateljima, ljudima na neki način pokazao, tako je bilo prikladno da se i nevidljiva poslanja božanskih osoba očituju po nekim vidljivim stvorovima. Ipak drukčije Sin, a drukčije Duh Sveti. Jer Duhu Svetome, ukoliko izlazi kao ljubav, pristaje da bude dar posvećenja; Sinu pak, ukoliko je počelo Duha Svetoga, pristaje da bude začetnik toga posvećenja. I stoga je Sin vidljivo poslan kao začetnik posvećenja, a Duh Sveti kao pokazatelj posvećenja.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Sin vidljivi stvor u kojem se pojavio uzeo u jedinstvo osobe, tako da se ono što se kaže o tom stvoru može reći o Sinu Božjem. I tako se, zbog uzete naravi, za Sina kaže da je manji od Oca. Ali Duh Sveti nije uzeo u jedinstvo osobe vidljivi stvor u kojem se pojavio, tako da bi se ono što pristaje tomu stvoru priricalo o njemu. Stoga se ne može reći da je manji od Oca zbog vidljivoga stvora.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.ad2": {
+      "text": "Na drugo treba reći da se vidljivo poslanje Duha Svetoga ne uzima po maštovnom gledanju, koje je proročko gledanje. Jer, kako kaže Augustin u II. knjizi O Trojstvu, *proročko gledanje nije predočeno tjelesnim očima po tjelesnim formama, nego u duhu po duhovnim slikama tijelâ; a onoga goluba i oganj vidjeli su očima svi koji su ih vidjeli. Niti se, opet, Duh Sveti tako odnosio prema takvim likovima kao Sin prema stijeni (jer se kaže: stijena bijaše Krist). Ona je, naime, stijena već postojala među stvorovima i na način djelovanja nazvana je imenom Krista, kojega je označivala; a onaj su golub i oganj iznenada nastali samo zato da to označe. Ali čini se da su slični onomu plamenu koji se ukazao Mojsiju u grmu, i onomu stupu koji je narod slijedio u pustinji, i munjama i gromovima koji su nastajali kad se davao Zakon na gori; jer je tjelesni lik tih stvari nastao zato da nešto označi i prođe*. Tako je, dakle, jasno da se vidljivo poslanje ne uzima ni po proročkim gledanjima, koja su bila maštovna, a ne tjelesna, ni po sakramentalnim znakovima Staroga i Novoga zavjeta, u kojima se neke prethodno postojeće stvari uzimaju da nešto označe. Nego se kaže da je Duh Sveti vidljivo poslan ukoliko je bio pokazan u nekim stvorovima kao u znakovima, posebno za to načinjenima.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.ad3": {
+      "text": "Na treće treba reći da, premda je te vidljive stvorove proizvelo cijelo Trojstvo, ipak su načinjeni zato da posebno pokažu ovu ili onu osobu. Kao što se, naime, različitim imenima označuju Otac i Sin i Duh Sveti, tako su mogli biti označeni i različitim stvarima, premda među njima nema nikakve odvojenosti ni različnosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.ad4": {
+      "text": "Na četvrto treba reći da je osobu Sina trebalo očitovati kao začetnika posvećenja, kao što je rečeno; i stoga je trebalo da vidljivo poslanje Sina bude po razumnoj naravi, kojoj pripada djelovati i kojoj može pristajati posvećivati. A pokazatelj posvećenja mogao je biti bilo koji drugi stvor. Niti je trebalo da Duh Sveti vidljivi stvor za to oblikovan uzme u jedinstvo osobe, budući da nije bio uzet zato da što čini, nego samo zato da pokazuje. I zbog toga nije ni trebalo da traje dulje nego dok ne izvrši svoju zadaću.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.ad5": {
+      "text": "Na peto treba reći da su ti vidljivi stvorovi oblikovani službom anđela, ali ne zato da označuju osobu anđela, nego da označuju osobu Duha Svetoga. Budući, dakle, da je Duh Sveti bio u tim vidljivim stvorovima kao označeno u znaku, zbog toga se kaže da je po njima vidljivo poslan Duh Sveti, a ne anđeo.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a7.ad6": {
+      "text": "Na šesto treba reći da nevidljivo poslanje ne zahtijeva nužno da se uvijek očituje nekim vanjskim vidljivim znakom; nego, kako se kaže u 1 Kor 12, *očitovanje Duha daje se nekome na korist*, naime Crkve. A ta je korist u tome da se po takvim vidljivim znakovima vjera učvrsti i proširi. To se pak prvotno dogodilo po Kristu i po apostolima, prema onome u Heb 2: *pošto je navješćivanje započelo po Gospodinu, potvrđeno nam je od onih koji su čuli*. I stoga je vidljivo poslanje Duha Svetoga posebno trebalo biti Kristu i apostolima i nekim prvim svecima, na kojima je na neki način bila utemeljena Crkva; ali tako da vidljivo poslanje učinjeno Kristu pokaže nevidljivo poslanje koje mu nije bilo tada, nego u početku njegova začeća. A vidljivo poslanje bilo je Kristu na krštenju u liku goluba, koji je plodna životinja, da se pokaže da je u Kristu autoritet darivanja milosti po duhovnom preporodu; stoga je zagrmio glas Očev: *ovo je Sin moj ljubljeni*, da se drugi preporode na sličnost Jedinorođenoga. A u preobraženju u liku svijetloga oblaka, da se pokaže obilje nauka; stoga je rečeno: *njega slušajte*. Apostolima pak u liku dahnuća, da se pokaže vlast službe u dijeljenju sakramenata; stoga im je rečeno: *kojima oprostite grijehe, oprošteni su im*. A u ognjenim jezicima, da se pokaže zadaća naučavanja; stoga se kaže da *počeše govoriti raznim jezicima*. Ocima pak Staroga zavjeta nije trebalo biti vidljivo poslanje Duha Svetoga, jer je prije trebalo izvršiti vidljivo poslanje Sina nego Duha Svetoga, budući da Duh Sveti očituje Sina, kao što Sin Oca. Ipak su se ocima Staroga zavjeta događala vidljiva ukazanja božanskih osoba. Ta se, međutim, ne mogu nazvati vidljivim poslanjima, jer se, prema Augustinu, nisu dogodila zato da označe prebivanje božanske osobe po milosti, nego da očituju nešto drugo.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da nijednu božansku osobu ne šalje nitko osim one od koje vječno izlazi. Jer, kako kaže Augustin u IV. knjizi O Trojstvu, *Oca nitko ne šalje, jer nije ni od koga*. Ako je, dakle, neka božanska osoba poslana od druge, mora biti od nje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a8.obj2": {
+      "text": "Osim toga, onaj koji šalje ima autoritet s obzirom na poslanoga. Ali s obzirom na božansku osobu ne može se imati autoritet osim po podrijetlu. Dakle, božanska osoba koja je poslana mora biti od osobe koja šalje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a8.obj3": {
+      "text": "Osim toga, ako božansku osobu može poslati onaj od koga ona nije, ništa neće priječiti da se kaže da Duha Svetoga daje čovjek, premda Duh nije od njega. A to je protiv Augustina, u XV. knjizi O Trojstvu. Dakle, božansku osobu ne šalje nitko osim one od koje jest.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a8.sc": {
+      "text": "Ali protiv toga jest to što je Sin poslan od Duha Svetoga, prema onome u Iz 48: *i sada me posla Gospodin Bog i Duh njegov*. A Sin nije od Duha Svetoga. Dakle, božansku osobu šalje i ona od koje nije.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a8.resp": {
+      "text": "Odgovaram: treba reći da se nalazi da su neki o tome različito govorili. Prema nekima, naime, božansku osobu ne šalje nitko osim onoga od koga je vječno. I prema tome, kad se kaže da je Sin Božji poslan od Duha Svetoga, to treba odnositi na ljudsku narav, po kojoj ga je Duh Sveti poslao propovijedati. Augustin pak kaže u II. knjizi O Trojstvu da je Sin poslan i od sebe i od Duha Svetoga, a da je i Duh Sveti poslan i od sebe i od Sina; tako da biti poslan u Bogu ne pristaje svakoj osobi, nego samo osobi koja postoji od druge, a slati pristaje svakoj osobi. Oboje pak na neki način ima istine. Jer kad se kaže da je neka osoba poslana, označuje se i sama osoba koja postoji od druge i vidljivi ili nevidljivi učinak po kojem se uzima poslanje božanske osobe. Ako se, dakle, onaj koji šalje označuje kao počelo osobe koja je poslana, tako ne šalje svaka osoba, nego samo ona kojoj pristaje biti počelo te osobe. I tako Sina šalje samo Otac, a Duha Svetoga Otac i Sin. Ako se pak osoba koja šalje shvaća kao počelo učinka po kojem se uzima poslanje, tako poslanu osobu šalje cijelo Trojstvo. Ali zbog toga čovjek ne daje Duha Svetoga, jer ne može prouzročiti ni učinak milosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q43.a8.adarg": {
+      "text": "I time je jasno rješenje prigovorâ.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    }
+  }
+}

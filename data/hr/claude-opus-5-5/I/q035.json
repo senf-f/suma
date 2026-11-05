@@ -1,0 +1,108 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 35,
+  "units": {
+    "I.q35.pr": {
+      "text": "Potom se pita o slici. I o tome se pitaju dvije stvari. Prvo, kaže li se slika u Bogu osobno. Drugo, je li ona vlastita Sinu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se slika u Bogu ne kaže osobno. Jer Augustin kaže u knjizi O vjeri, Petru: *jedno je božanstvo i slika Svetoga Trojstva, na koju je načinjen čovjek*. Dakle, slika se kaže bitno, a ne osobno.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a1.obj2": {
+      "text": "Osim toga, Hilarije kaže u knjizi O sinodama da je *slika nerazlikovni lik one stvari prema kojoj se oslikava*. Ali lik ili forma u Bogu se kaže bitno. Dakle, i slika.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a1.obj3": {
+      "text": "Osim toga, slika se kaže od oponašanja, u kojemu se uključuje prije i kasnije. Ali u božanskim osobama nema ništa prije i kasnije. Dakle, slika ne može biti osobno ime u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin: *što je besmislenije nego da se slika kaže prema sebi?* Dakle, slika se u Bogu kaže odnosno. I tako je osobno ime.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a1.resp": {
+      "text": "Odgovaram: treba reći da pojmu slike pripada sličnost. Ipak ne dostaje za pojam slike bilo kakva sličnost, nego sličnost koja je u vrsti stvari, ili barem u nekom znaku vrste. A čini se da je znak vrste u tjelesnim stvarima ponajviše oblik: jer vidimo da životinje različite po vrsti imaju različite oblike, ali ne različite boje. Stoga, ako se boja neke stvari naslika na zidu, ne kaže se da je to slika, osim ako se naslika oblik. Ali ni sama sličnost vrste ili oblika ne dostaje, nego se za pojam slike zahtijeva podrijetlo; jer, kako kaže Augustin u knjizi Osamdeset i tri pitanja, jedno jaje nije slika drugoga, jer nije iz njega izraženo. Da bi, dakle, nešto uistinu bilo slika, zahtijeva se da izlazi iz drugoga kao njemu slično po vrsti ili barem po znaku vrste. A ono što u Bogu uključuje izlaženje ili podrijetlo jest osobno. Stoga je ime „slika“ osobno ime.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se slikom u vlastitom smislu naziva ono što izlazi po sličnosti s drugim. A ono po čijoj sličnosti nešto izlazi u vlastitom se smislu naziva uzorom, a u nevlastitom slikom. Ipak se tako Augustin služi imenom slike kad kaže da je božanstvo Svetoga Trojstva slika na koju je načinjen čovjek.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a1.ad2": {
+      "text": "Na drugo treba reći da lik, kako ga Hilarije postavlja u definiciji slike, uključuje formu prenesenu u nešto od nečega drugoga. Jer se na taj način za sliku kaže da je lik nečega, kao što se za ono što se nečemu upodobljuje kaže da je njegova forma, ukoliko ima formu njemu sličnu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a1.ad3": {
+      "text": "Na treće treba reći da oponašanje u božanskim osobama ne označuje kasnijost, nego samo upodobljenje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ime slike nije vlastito Sinu. Jer, kako kaže Damaščanin, Duh Sveti je slika Sina. Dakle, nije vlastito Sinu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a2.obj2": {
+      "text": "Osim toga, pojmu slike pripada sličnost s izraženošću, kako kaže Augustin u knjizi Osamdeset i tri pitanja. Ali to pristaje Duhu Svetomu: jer on izlazi od drugoga na način sličnosti. Dakle, Duh Sveti je slika. I tako nije vlastito Sinu da bude slika.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a2.obj3": {
+      "text": "Osim toga, i čovjek se naziva slikom Božjom, prema onome 1 Kor 11: *muž ne treba pokrivati glave svoje, jer je slika i slava Božja*. Dakle, nije vlastito Sinu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u VI. knjizi O Trojstvu, da je *jedino Sin slika Očeva*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a2.resp": {
+      "text": "Odgovaram: treba reći da grčki naučitelji općenito kažu da je Duh Sveti slika Oca i Sina. Ali latinski naučitelji ime slike pripisuju samo Sinu: jer se u kanonskom Pismu ne nalazi osim o Sinu. Kaže se, naime, Kol 1: *koji je slika Boga nevidljivoga, prvorođenac stvora*; i Heb 1: *koji, budući da je sjaj slave i oblik njegove supstancije*. A razlog tome neki navode iz toga što se Sin slaže s Ocem ne samo u naravi nego i u oznaci počela, dok se Duh Sveti ne slaže ni sa Sinom ni s Ocem ni u kojoj oznaci. Ali to se ne čini dostatnim. Jer kao što se u Bogu po odnosima ne gleda ni jednakost ni nejednakost, kako kaže Augustin, tako ni sličnost, koja se zahtijeva za pojam slike. Stoga drugi kažu da se Duh Sveti ne može nazvati slikom Sina, jer slika nema slike. A ni slikom Oca, jer se i slika odnosi neposredno prema onome čija je slika; a Duh Sveti se odnosi prema Ocu po Sinu. A nije ni slika Oca i Sina, jer bi tako bila jedna slika dvojice, što se čini nemogućim. Stoga preostaje da Duh Sveti ni na koji način nije slika. Ali to nije ništa. Jer Otac i Sin su jedno počelo Duha Svetoga, kako će se niže reći; stoga ništa ne priječi da tako Oca i Sina, ukoliko su jedno, bude jedna slika, kad je i čovjek jedna slika cijeloga Trojstva. I zato treba drukčije reći: kao što se Duh Sveti, premda svojim izlaženjem prima narav Oca, kao i Sin, ipak ne naziva rođenim, tako se, premda prima vrstu sličnu Očevoj, ne naziva slikom. Jer Sin izlazi kao Riječ, a pojmu riječi pripada sličnost vrste s onim od čega izlazi; ali to ne pripada pojmu ljubavi, premda to pristaje ljubavi koja je Duh Sveti, ukoliko je božanska ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se Damaščanin i drugi grčki naučitelji općenito služe imenom slike za savršenu sličnost.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a2.ad2": {
+      "text": "Na drugo treba reći da, premda je Duh Sveti sličan Ocu i Sinu, ipak ne slijedi da je slika, zbog već rečenoga razloga.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q35.a2.ad3": {
+      "text": "Na treće treba reći da se slika nečega nalazi u nečemu na dva načina. Na jedan način, u stvari iste naravi po vrsti, kao što se slika kralja nalazi u njegovu sinu. Na drugi način, u stvari druge naravi, kao što se slika kralja nalazi na denaru. Na prvi je način Sin slika Oca, a na drugi se način čovjek naziva slikom Božjom. I zato, da bi se označila nesavršenost slike u čovjeku, za čovjeka se ne kaže samo da je slika, nego da je na sliku, čime se označuje neki pokret onoga koji teži k savršenosti. Ali za Sina Božjega ne može se reći da je na sliku, jer je savršena slika Očeva.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    }
+  }
+}

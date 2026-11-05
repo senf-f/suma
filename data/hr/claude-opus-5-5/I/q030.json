@@ -1,0 +1,240 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 30,
+  "units": {
+    "I.q30.pr": {
+      "text": "Zatim se pita o mnoštvenosti osoba. I u vezi s tim pitaju se četiri stvari. Prvo, ima li u božanskom više osoba. Drugo, koliko ih je. Treće, što u božanskom označuju brojevni izrazi. Četvrto, o zajedništvu imena „osoba“.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u božanskom ne treba postavljati više osoba. Osoba je, naime, pojedinačna supstancija razumske naravi. Ako je, dakle, u božanskom više osoba, slijedi da je više supstancija, a to se čini heretičkim.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a1.obj2": {
+      "text": "Osim toga, mnoštvenost apsolutnih svojstava ne čini razlikovanje osoba, ni u Bogu ni u nama; dakle, mnogo manje mnoštvenost odnosa. Ali u Bogu nema druge mnoštvenosti osim mnoštvenosti odnosa, kao što je gore rečeno. Dakle, ne može se reći da je u Bogu više osoba.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a1.obj3": {
+      "text": "Osim toga, Boetije, govoreći o Bogu, kaže da je ono uistinu jedno u čemu nema nikakva broja. Ali mnoštvenost uključuje broj. Dakle, u božanskom nema više osoba.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a1.obj4": {
+      "text": "Osim toga, gdje god je broj, ondje su cjelina i dio. Ako je, dakle, u Bogu broj osoba, u Bogu će trebati postaviti cjelinu i dio, a to se protivi božanskoj jednostavnosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Atanazije: *druga je osoba Oca, druga Sina, druga Duha Svetoga*. Dakle, Otac i Sin i Duh Sveti jesu više osoba.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a1.resp": {
+      "text": "Odgovaram: treba reći da to da je u božanskom više osoba slijedi iz prethodnoga. Gore je, naime, pokazano da ime „osoba“ u božanskom označuje odnos kao stvar koja samostoji u božanskoj naravi. A gore je utvrđeno da u božanskom postoji više stvarnih odnosa. Zato slijedi da postoji više stvari koje samostoje u božanskoj naravi. A to znači da je u božanskom više osoba.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se supstancija u definiciju osobe ne stavlja ukoliko označuje bit, nego ukoliko označuje supozit, što je očito iz toga što se dodaje „pojedinačna“. A za označivanje tako shvaćene supstancije Grci imaju ime „hipostaza“; zato, kao što mi kažemo tri osobe, tako oni kažu tri hipostaze. Mi pak nismo navikli govoriti tri supstancije, da se ne bi shvatile tri biti, zbog dvoznačnosti imena.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a1.ad2": {
+      "text": "Na drugo treba reći da apsolutna svojstva u božanskom, kao dobrota i mudrost, nisu međusobno suprotstavljena; zato se ni stvarno ne razlikuju. Premda im, dakle, pristaje samostojati, ipak nisu više stvari koje samostoje, a to znači biti više osoba. Apsolutna pak svojstva u stvorenim stvarima ne samostoje, premda se međusobno stvarno razlikuju, kao bjelina i slatkoća. Ali odnosna svojstva u Bogu i samostoje i međusobno se stvarno razlikuju, kao što je gore rečeno. Zato je mnoštvenost takvih svojstava dovoljna za mnoštvenost osoba u božanskom.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a1.ad3": {
+      "text": "Na treće treba reći da je od Boga, zbog najvišega jedinstva i jednostavnosti, isključena svaka mnoštvenost onoga što se kaže apsolutno, ali ne mnoštvenost odnosa. Jer se odnosi pririču o nečemu kao prema drugomu; i tako ne uključuju sastavljenost u onome o čemu se kažu, kao što uči Boetije u istoj knjizi.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a1.ad4": {
+      "text": "Na četvrto treba reći da je broj dvojak: naime jednostavni ili apsolutni broj, kao dva i tri i četiri; i broj koji je u izbrojenim stvarima, kao dva čovjeka i dva konja. Ako se, dakle, u božanskom broj uzme apsolutno ili apstraktno, ništa ne priječi da u njemu budu cjelina i dio; i tako on postoji samo u shvaćanju našega uma, jer broj odvojen od izbrojenih stvari postoji samo u umu. Ako pak uzmemo broj ukoliko je u izbrojenim stvarima, tada je u stvorenim stvarima jedan dio dvojice, a dvojica trojice, kao što je jedan čovjek dio dvojice, a dvojica trojice; ali nije tako u Bogu, jer je Otac tolik koliko i čitavo Trojstvo, kao što će biti jasno niže.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je u Bogu više osoba nego tri. Mnoštvenost osoba u božanskom, naime, jest prema mnoštvenosti odnosnih svojstava, kao što je rečeno. Ali u božanskom su četiri odnosa, kao što je gore rečeno, naime očinstvo, sinovstvo, zajedničko izdahnuće i izlaženje. Dakle, u božanskom su četiri osobe.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.obj2": {
+      "text": "Osim toga, narav se u Bogu ne razlikuje od volje više nego narav od uma. Ali u božanskom je druga osoba koja izlazi na način volje, kao ljubav, a druga koja izlazi na način naravi, kao Sin. Dakle, druga je i ona koja izlazi na način uma, kao Riječ, a druga ona koja izlazi na način naravi, kao Sin. I tako opet slijedi da u božanskom nisu samo tri osobe.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.obj3": {
+      "text": "Osim toga, u stvorenim stvarima ono što je izvrsnije ima više unutarnjih djelovanja, kao što čovjek iznad drugih životinja ima shvaćati i htjeti. Ali Bog beskonačno nadilazi svaki stvor. Dakle, ondje nije samo osoba koja izlazi na način volje i na način uma, nego i na beskonačno mnogo drugih načina. Dakle, u božanskom je beskonačno mnogo osoba.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.obj4": {
+      "text": "Osim toga, iz beskonačne dobrote Oca proizlazi to da on beskonačno priopćuje samoga sebe, proizvodeći božansku osobu. Ali i u Duhu Svetom je beskonačna dobrota. Dakle, Duh Sveti proizvodi božansku osobu, a ta drugu, i tako u beskonačnost.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.obj5": {
+      "text": "Osim toga, sve što je sadržano pod određenim brojem jest mjereno, jer je broj neka mjera. Ali božanske su osobe neizmjerne, kao što je jasno iz Atanazija: *neizmjeran Otac, neizmjeran Sin, neizmjeran Duh Sveti*. Dakle, nisu sadržane pod brojem tri.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1. Ivanovoj poslanici, posljednjem poglavlju: *tri su koji daju svjedočanstvo na nebu: Otac, Riječ i Duh Sveti*. A onima koji pitaju: tri što? – odgovara se: tri osobe, kako kaže Augustin u VII. knjizi O Trojstvu. Dakle, u božanskom su samo tri osobe.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.resp": {
+      "text": "Odgovaram: treba reći da je, prema prethodnome, nužno postaviti u božanskom samo tri osobe. Pokazano je, naime, da su više osoba više samostojećih odnosa, međusobno stvarno razlikovanih. A stvarno razlikovanje među božanskim odnosima postoji samo po odnosnoj suprotstavljenosti. Dakle, dva suprotstavljena odnosa moraju pripadati dvjema osobama; a ako neki odnosi nisu suprotstavljeni, nužno je da pripadaju istoj osobi. Očinstvo, dakle, i sinovstvo, budući da su suprotstavljeni odnosi, nužno pripadaju dvjema osobama. Samostojeće je, dakle, očinstvo osoba Oca, a samostojeće sinovstvo osoba Sina. A druga dva odnosa nisu suprotstavljena ni jednomu od tih, nego su suprotstavljena jedan drugomu. Nemoguće je, dakle, da oba pristaju jednoj osobi. Mora, dakle, biti ili da jedan od njih pristaje objema spomenutim osobama, ili da jedan pristaje jednoj, a drugi drugoj. Ali ne može biti da izlaženje pristaje Ocu i Sinu, ili jednomu od njih, jer bi tako slijedilo da izlaženje uma, koje je u božanskom rađanje, po kojem se uzimaju očinstvo i sinovstvo, proizlazi iz izlaženja ljubavi, po kojem se uzimaju izdahnuće i izlaženje, ako bi osoba koja rađa i osoba rođena izlazile od onoga koji izdiše; a to je protiv prethodnoga. Preostaje, dakle, da izdahnuće pristaje i osobi Oca i osobi Sina, jer nema nikakve odnosne suprotstavljenosti ni prema očinstvu ni prema sinovstvu. I posljedično mora izlaženje pristajati drugoj osobi, koja se naziva osobom Duha Svetoga, koja izlazi na način ljubavi, kao što je gore utvrđeno. Preostaje, dakle, da su u božanskom samo tri osobe, naime Otac i Sin i Duh Sveti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda su u božanskom četiri odnosa, ipak jedan od njih, naime izdahnuće, nije odijeljen od osobe Oca i Sina, nego pristaje i jednomu i drugomu. I tako se, premda je odnos, ipak ne naziva svojstvom, jer ne pristaje samo jednoj osobi; niti je osobni odnos, to jest onaj koji ustanovljuje osobu. Ali ova tri odnosa, očinstvo, sinovstvo i izlaženje, nazivaju se osobnim svojstvima, kao ona koja ustanovljuju osobe: očinstvo je, naime, osoba Oca, sinovstvo osoba Sina, izlaženje osoba Duha Svetoga koji izlazi.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.ad2": {
+      "text": "Na drugo treba reći da ono što izlazi na način uma, kao Riječ, izlazi po pojmu sličnosti, kao i ono što izlazi na način naravi; i zato je gore rečeno da je izlaženje božanske Riječi samo rađanje na način naravi. Ljubav pak, ukoliko je takva, ne izlazi kao sličnost onoga od koga izlazi (premda je u božanskom ljubav istobitna ukoliko je božanska); i zato se izlaženje ljubavi u božanskom ne naziva rađanjem.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.ad3": {
+      "text": "Na treće treba reći da čovjek, budući da je savršeniji od drugih životinja, ima više unutarnjih djelovanja nego druge životinje, jer je njegova savršenost na način sastavljenosti. Zato u anđelima, koji su savršeniji i jednostavniji, ima manje unutarnjih djelovanja nego u čovjeku, jer u njima nema maštanja, osjećanja i sličnoga. Ali u Bogu u stvarnosti postoji samo jedno djelovanje, koje je njegova bit. A kako postoje dva izlaženja, gore je pokazano.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.ad4": {
+      "text": "Na četvrto treba reći da bi taj dokaz vrijedio kad bi Duh Sveti imao brojčano drugu dobrotu od dobrote Oca: trebalo bi, naime, da, kao što Otac po svojoj dobroti proizvodi božansku osobu, tako i Duh Sveti. Ali jedna je te ista dobrota Oca i Duha Svetoga. Niti postoji razlikovanje osim po odnosima osoba. Zato dobrota pristaje Duhu Svetom kao primljena od drugoga, a Ocu kao onomu od koga se priopćuje drugomu. A suprotstavljenost odnosa ne dopušta da s odnosom Duha Svetoga bude odnos počela s obzirom na božansku osobu, jer on sam izlazi od drugih osoba koje u božanskom mogu postojati.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a2.ad5": {
+      "text": "Na peto treba reći da se određeni broj, ako se uzme jednostavni broj, koji postoji samo u shvaćanju uma, mjeri jedinicom. Ako se pak uzme broj stvari u božanskim osobama, tada ondje ne pristaje pojam mjerenoga, jer je ista veličina triju osoba, kao što će biti jasno niže; a isto se ne mjeri istim.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da brojevni izrazi postavljaju nešto u božanskom. Božansko je, naime, jedinstvo njegova bit. Ali svaki je broj ponovljeno jedinstvo. Dakle, svaki brojevni izraz u božanskom označuje bit. Dakle, postavlja nešto u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a3.obj2": {
+      "text": "Osim toga, što god se kaže o Bogu i o stvorovima, uzvišenije pristaje Bogu nego stvorovima. Ali brojevni izrazi u stvorovima nešto postavljaju. Dakle, mnogo više u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a3.obj3": {
+      "text": "Osim toga, ako brojevni izrazi ne postavljaju ništa u božanskom, nego se uvode samo radi odstranjivanja, tako da se mnoštvenošću odstranjuje jedinstvo, a jedinstvom mnoštvenost, slijedi da u razlaganju postoji kruženje koje zbunjuje um i ništa ne utvrđuje; a to je neprikladno. Preostaje, dakle, da brojevni izrazi nešto postavljaju u božanskom.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a3.sc": {
+      "text": "Ali protiv toga je ono što Hilarije kaže u IV. knjizi O Trojstvu: *ispovijedanje zajedništva uklonilo je shvaćanje pojedinačnosti i osamljenosti*, a to je ispovijedanje mnoštvenosti. I Ambrozije kaže u knjizi O vjeri: *kad kažemo jedan Bog, jedinstvo isključuje mnoštvenost bogova, a ne postavljamo kolikoću u Bogu*. Iz toga se čini da su takva imena uvedena u božanskom radi odstranjivanja, a ne radi postavljanja nečega.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a3.resp": {
+      "text": "Odgovaram: treba reći da Učitelj u Sentencijama postavlja da brojevni izrazi ne postavljaju ništa u božanskom, nego samo odstranjuju. Drugi pak kažu protivno. Da to, dakle, bude jasno, treba uzeti u obzir da svaka mnoštvenost slijedi iz neke diobe. A dioba je dvojaka. Jedna je tvarna, koja nastaje po diobi neprekinutoga; i iz nje slijedi broj koji je vrsta kolikoće. Zato takav broj postoji samo u tvarnim stvarima koje imaju kolikoću. Druga je dioba formalna, koja nastaje po suprotstavljenim ili različitim formama; i iz te diobe slijedi mnoštvo koje nije ni u kojem rodu, nego pripada transcendentalijama, ukoliko se biće dijeli na jedno i mnoga. I samo takvo mnoštvo može postojati u netvarnim stvarima. Neki su, dakle, ne razmatrajući drugo mnoštvo osim onoga koje je vrsta diskretne kolikoće, budući da su vidjeli da diskretna kolikoća nema mjesta u božanskom, postavili da brojevni izrazi ne postavljaju ništa u Bogu, nego samo odstranjuju. Drugi pak, razmatrajući isto mnoštvo, rekli su da se, kao što se znanje postavlja u Bogu po vlastitom pojmu znanja, a ne po pojmu svojega roda, jer u Bogu nema nikakve kakvoće, tako i broj postavlja u Bogu po vlastitom pojmu broja, a ne po pojmu svojega roda, a to je kolikoća. Mi pak kažemo da se brojevni izrazi, ukoliko ulaze u pririćivanje o Bogu, ne uzimaju od broja koji je vrsta kolikoće, jer se tako o Bogu ne bi govorili drukčije nego preneseno, kao i druga svojstva tjelesnih stvari, kao širina, dužina i slično; nego se uzimaju od mnoštva ukoliko je transcendentalno. A tako uzeto mnoštvo odnosi se prema mnogima o kojima se pririče kao što se jedno, koje je zamjenljivo s bićem, odnosi prema biću. A takvo jedno, kao što je gore rečeno kad se raspravljalo o Božjem jedinstvu, ne dodaje biću ništa osim samo nijekanja diobe: jedno, naime, označuje nepodijeljeno biće. I zato, o čemu god se kaže „jedno“, označuje se ta stvar nepodijeljena; kao što „jedno“ rečeno o čovjeku označuje narav ili supstanciju čovjeka nepodijeljenu. A s istog razloga, kad se kaže „mnoge stvari“, tako uzeto mnoštvo označuje te stvari s nepodijeljenošću glede svake od njih. A broj koji je vrsta kolikoće postavlja neki akcident pridodan biću, a slično i jedno koje je počelo broja. Brojevni, dakle, izrazi u božanskom označuju ono o čemu se kažu i povrh toga ne dodaju ništa osim nijekanja, kao što je rečeno; i s obzirom na to Učitelj je u Sentencijama rekao istinu. Tako, kad kažemo „bit je jedna“, „jedna“ označuje nepodijeljenu bit; kad kažemo „osoba je jedna“, označuje nepodijeljenu osobu; kad kažemo „osobe su mnoge“, označuju se te osobe i nepodijeljenost glede svake od njih; jer pojmu mnoštva pripada to da se sastoji od jedinica.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je jedno, budući da pripada transcendentalijama, općenitije od supstancije i od odnosa, a slično i mnoštvo. Zato u božanskom može stajati i umjesto supstancije i umjesto odnosa, već prema tome što pristaje onomu s čime se spaja. Pa ipak se takvim imenima, povrh biti ili odnosa, dodaje iz njihova vlastitoga značenja neko nijekanje diobe, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a3.ad2": {
+      "text": "Na drugo treba reći da mnoštvo koje nešto postavlja u stvorenim stvarima jest vrsta kolikoće, koja se ne prenosi u pririćivanje o Bogu; nego samo transcendentalno mnoštvo, koje ne dodaje onomu o čemu se kaže ništa osim nepodijeljenosti glede pojedinih. I takvo se mnoštvo kaže o Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a3.ad3": {
+      "text": "Na treće treba reći da jedno ne odstranjuje mnoštvo, nego diobu, koja je po pojmu prije nego jedno ili mnoštvo. A mnoštvo ne odstranjuje jedinstvo, nego odstranjuje diobu glede svakoga od onih od kojih se mnoštvo sastoji. A to je gore izloženo kad se raspravljalo o božanskom jedinstvu. Ipak treba znati da autoriteti navedeni za suprotno ne dokazuju dovoljno postavljenu tvrdnju. Premda se, naime, mnoštvenošću isključuje osamljenost, a jedinstvom mnoštvenost bogova, ipak ne slijedi da se tim imenima označuje samo to. Bjelinom se, naime, isključuje crnina, ali se ipak imenom „bjelina“ ne označuje samo isključenje crnine.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ime „osoba“ ne može biti zajedničko trima osobama. Ništa, naime, nije zajedničko trima osobama osim biti. Ali ime „osoba“ ne označuje bit u pravom padežu. Dakle, nije zajedničko trima.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a4.obj2": {
+      "text": "Osim toga, zajedničko je suprotstavljeno nepriopćivomu. Ali pojmu osobe pripada to da je nepriopćiva, kao što je jasno iz gore navedene definicije Rikarda od Svetoga Viktora. Dakle, ime „osoba“ nije zajedničko trima.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a4.obj3": {
+      "text": "Osim toga, ako je zajedničko trima, to se zajedništvo uzima ili u stvarnosti ili po pojmu. Ali ne u stvarnosti, jer bi tako tri osobe bile jedna osoba. Niti pak samo po pojmu, jer bi tako osoba bila nešto opće, a u božanskom nema općega i posebnoga, ni roda ni vrste, kao što je gore pokazano. Dakle, ime „osoba“ nije zajedničko trima.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u VII. knjizi O Trojstvu: da je, kad se pitalo: tri što? – odgovoreno: tri osobe; jer im je zajedničko ono što je osoba.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a4.resp": {
+      "text": "Odgovaram: treba reći da sam način govora pokazuje da je ime „osoba“ zajedničko trima, kad kažemo „tri osobe“; kao što, kad kažemo „tri čovjeka“, pokazujemo da je čovjek zajednički trima. A očito je da to nije zajedništvo stvari, kao što je jedna bit zajednička trima, jer bi tako slijedilo da je jedna osoba triju, kao što je bit jedna. Kakvo je pak to zajedništvo, oni koji su to istraživali govorili su na različite načine. Neki su, naime, rekli da je to zajedništvo nijekanja, zbog toga što se u definiciju osobe stavlja „nepriopćivo“. Neki su pak rekli da je to zajedništvo intencije, zato što se u definiciju osobe stavlja „pojedinačno“; kao kad bi se reklo da je biti vrsta zajedničko konju i volu. Ali i jedno i drugo isključuje se time što ime „osoba“ nije ime nijekanja ni intencije, nego je ime stvari. Zato treba reći da je i u ljudskim stvarima ime „osoba“ zajedničko zajedništvom pojma, ne kao rod ili vrsta, nego kao neodređeni pojedinac. Imena, naime, rodova ili vrsta, kao „čovjek“ ili „životinja“, postavljena su da označuju same zajedničke naravi, a ne intencije zajedničkih naravi, koje se označuju imenima „rod“ ili „vrsta“. Ali neodređeni pojedinac, kao „neki čovjek“, označuje zajedničku narav s određenim načinom opstojanja koji pripada pojedinačnim stvarima, naime tako da je po sebi samostojeći, razlikovan od drugih. A u imenu označenoga pojedinačnoga označuje se ono određeno što razlikuje, kao u imenu „Sokrat“ ovo meso i ova kost. Ipak postoji ta razlika: „neki čovjek“ označuje narav, ili pojedinca s gledišta naravi, s načinom opstojanja koji pripada pojedinačnim stvarima, dok ime „osoba“ nije postavljeno da označuje pojedinca s gledišta naravi, nego da označuje stvar koja samostoji u takvoj naravi. A to je po pojmu zajedničko svim božanskim osobama: da svaka od njih samostoji u božanskoj naravi razlikovana od drugih. I tako je ime „osoba“ po pojmu zajedničko trima božanskim osobama.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se taj dokaz odnosi na zajedništvo stvari.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a4.ad2": {
+      "text": "Na drugo treba reći da, premda je osoba nepriopćiva, ipak sam način nepriopćivog opstojanja može biti zajednički mnogima.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q30.a4.ad3": {
+      "text": "Na treće treba reći da, premda je to zajedništvo pojma, a ne stvari, ipak ne slijedi da u božanskom postoji opće i posebno, ili rod i vrsta. Prvo, zato što ni u ljudskim stvarima zajedništvo osobe nije zajedništvo roda ili vrste. Drugo, zato što božanske osobe imaju jedan bitak, a rod i vrsta, i bilo što opće, pririču se o mnogima koji se razlikuju po bitku.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    }
+  }
+}

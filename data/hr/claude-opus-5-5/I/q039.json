@@ -1,0 +1,486 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 39,
+  "units": {
+    "I.q39.pr": {
+      "text": "Nakon onoga što je o božanskim osobama raspravljeno naprosto, preostaje razmotriti osobe u usporedbi s biti, sa svojstvima i s oznakovnim činima, te njihov međusobni odnos. Glede prvoga od toga pita se osam stvari. Prvo, je li u božanskom bit isto što i osoba. Drugo, treba li reći da su tri osobe jedne biti. Treće, treba li bitna imena pririći o osobama u množini ili u jednini. Četvrto, mogu li se oznakovni pridjevi, ili glagoli ili participi, pririći o bitnim imenima uzetima konkretno. Peto, mogu li se pririći o bitnim imenima uzetima apstraktno. Šesto, mogu li se imena osoba pririći o konkretnim bitnim imenima. Sedmo, treba li bitne atribute prisvajati osobama. Osmo, koji atribut treba prisvojiti kojoj osobi.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u božanskom bit nije isto što i osoba. U čemu god je, naime, bit isto što i osoba ili supozit, nužno je da bude samo jedan supozit jedne naravi, kao što je očito u svim odijeljenim supstancijama; jer od onoga što je isto u stvarnosti jedno se ne može umnožiti a da se ne umnoži i drugo. Ali u božanskom je jedna bit i tri osobe, kao što je očito iz prije rečenoga. Dakle, bit nije isto što i osoba.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a1.obj2": {
+      "text": "Osim toga, potvrdni i niječni iskaz ne ispunjaju se ujedno i u isti mah o istome. Ali potvrdni i niječni iskaz ispunjaju se o biti i osobi: osoba je, naime, razlikovana, a bit nije razlikovana. Dakle, osoba i bit nisu isto.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a1.obj3": {
+      "text": "Osim toga, ništa nije podloženo samomu sebi. Ali osoba je podložena biti, zbog čega se i naziva supozitom ili hipostazom. Dakle, osoba nije isto što i bit.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u VII. knjizi O Trojstvu: *kad kažemo osoba Oca, ne kažemo ništa drugo nego supstancija Oca*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a1.resp": {
+      "text": "Odgovaram: treba reći da je onima koji razmatraju božansku jednostavnost istina ovoga pitanja očita. Gore je, naime, pokazano da božanska jednostavnost zahtijeva da u Bogu bit i supozit budu isto, a supozit u umnim supstancijama nije ništa drugo nego osoba. Ali čini se da poteškoću stvara to što bit, premda se božanske osobe umnažaju, zadržava jedinstvo. A budući da, kako kaže Boetije, odnos umnaža Trojstvo osoba, neki su postavili da se u božanskom bit i osoba razlikuju na onaj način na koji su govorili da su i odnosi pridruženi izvana, razmatrajući kod odnosa samo to da su prema drugomu, a ne to da su stvari. Ali, kao što je gore pokazano, kao što su odnosi u stvorenim stvarima akcidentalno u njima, tako su u Bogu sama božanska bit. Iz toga slijedi da u Bogu bit nije nešto drugo od osobe u stvarnosti, a ipak da se osobe stvarno međusobno razlikuju. Osoba, naime, kako je gore rečeno, označuje odnos ukoliko je samostojeći u božanskoj naravi. Odnos pak, uspoređen s biti, ne razlikuje se od nje u stvarnosti, nego samo po pojmu; a uspoređen sa suprotstavljenim odnosom, ima, snagom suprotstavljenosti, stvarnu razliku. I tako ostaje jedna bit i tri osobe.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da u stvorovima ne može biti razlikovanja supozita po odnosima, nego ono mora biti po bitnim počelima, jer odnosi u stvorovima nisu samostojeći. U božanskom su pak odnosi samostojeći, pa stoga, ukoliko su međusobno suprotstavljeni, mogu razlikovati supozite. Ipak se time ne razlikuje bit, jer se sami odnosi ne razlikuju međusobno ukoliko su stvarno isto s biti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a1.ad2": {
+      "text": "Na drugo treba reći da, ukoliko se bit i osoba u božanskom razlikuju po pojmu koji ima um, slijedi da se o jednome može nešto potvrditi što se o drugome niječe, i prema tome da se, kad se postavi jedno, ne postavlja drugo.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a1.ad3": {
+      "text": "Na treće treba reći da božanskim stvarima nadijevamo imena prema načinu stvorenih stvari, kao što je gore rečeno. A budući da se naravi stvorenih stvari individuiraju po tvari, koja je podložena naravi vrste, odatle dolazi da se pojedinci nazivaju subjektima, ili supozitima, ili hipostazama. I zbog toga se i božanske osobe nazivaju supozitima ili hipostazama, ne zato što bi ondje bilo neko podmetanje ili podloženost u stvarnosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ne treba reći da su tri osobe jedne biti. Hilarije, naime, u knjizi O sinodama kaže da su Otac i Sin i Duh Sveti *po supstanciji doduše troje, a po suglasju jedno*. Ali supstancija Božja jest njegova bit. Dakle, tri osobe nisu jedne biti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.obj2": {
+      "text": "Osim toga, o božanskom ne treba tvrditi ništa što nije izraženo autoritetom Svetoga pisma, kao što je očito iz Dionizija, u I. poglavlju O Božjim imenima. Ali nigdje se u Svetom pismu ne izriče da su Otac i Sin i Duh Sveti jedne biti. Dakle, to ne treba tvrditi.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.obj3": {
+      "text": "Osim toga, božanska narav isto je što i bit. Bilo bi, dakle, dovoljno reći da su tri osobe jedne naravi.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.obj4": {
+      "text": "Osim toga, nije uobičajeno reći da je osoba biti, nego prije da je bit osobe. Dakle, čini se da nije prikladno ni reći da su tri osobe jedne biti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.obj5": {
+      "text": "Osim toga, Augustin kaže da ne kažemo da su tri osobe iz jedne biti, da se ne bi shvatilo da su u božanskom bit i osoba nešto različito. Ali kao što su prijedlozi prijelazni, tako su i kosi padeži. Dakle, iz istog razloga ne treba reći da su tri osobe jedne biti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.obj6": {
+      "text": "Osim toga, ono što može biti povod zabludi ne treba govoriti o božanskom. Ali kad se kaže da su tri osobe jedne biti ili supstancije, daje se povod zabludi. Jer, kako kaže Hilarije u knjizi O sinodama, *jedna supstancija, priričena o Ocu i Sinu, ili označuje jednoga samostojećega koji bi imao dva naziva; ili da je jedna supstancija, razdijeljena, načinila dvije nesavršene supstancije; ili treću, prethodnu supstanciju, koju bi ta dvojica prisvojila i preuzela*. Dakle, ne treba reći da su tri osobe jedne supstancije.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u II. knjizi Protiv Maksimina, da ime homousion, koje je potvrđeno na Nicejskom saboru protiv arijevaca, označuje isto što i to da su tri osobe jedne biti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, naš um imenuje božanske stvari ne prema njihovu načinu, jer ih tako ne može spoznati, nego prema načinu koji se nalazi u stvorenim stvarima. A budući da se u osjetnim stvarima, od kojih naš um prima znanje, narav neke vrste individuira po tvari, te se tako narav odnosi kao forma, a pojedinac kao supozit forme, zbog toga se i u božanskom, što se tiče načina označivanja, bit označuje kao forma triju osoba. U stvorenim stvarima kažemo da je bilo koja forma onoga čija je forma, kao zdravlje ili ljepota nekoga čovjeka. A za stvar koja ima formu ne kažemo da je forme, osim uz dodatak nekoga pridjeva koji označuje tu formu, kao kad kažemo: ta je žena izvrsne forme, taj je čovjek savršene kreposti. I slično, budući da se u božanskom, premda se osobe umnažaju, bit ne umnaža, kažemo da je jedna bit triju osoba i da su tri osobe jedne biti, tako da se ti genitivi shvaćaju kao da su postavljeni da označe formu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se supstancija uzima u značenju hipostaze, a ne u značenju biti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.ad2": {
+      "text": "Na drugo treba reći da se, premda se tvrdnja da su tri osobe jedne biti ne nalazi u Svetom pismu tim riječima, ipak nalazi po smislu, kao ondje: *ja i Otac jedno smo; i: ja sam u Ocu i Otac je u meni*. I mnogim se drugim mjestima može dobiti isto.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.ad3": {
+      "text": "Na treće treba reći da, budući da narav označuje počelo čina, a bit dobiva ime od „biti“, za neke se stvari koje se slažu u nekom činu može reći da su jedne naravi, kao za sve što grije; ali jedne biti mogu se reći samo one stvari koje imaju jedan bitak. I zato se božansko jedinstvo jače izražava time što se kaže da su tri osobe jedne biti nego kad bi se reklo da su jedne naravi.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.ad4": {
+      "text": "Na četvrto treba reći da se forma, uzeta naprosto, obično označuje kao forma onoga čija je forma, kao krepost Petrova. Obratno pak, stvar koja ima neku formu ne označuje se obično kao da je te forme, osim kad hoćemo odrediti ili označiti formu. I tada su potrebna dva genitiva, od kojih jedan označuje formu, a drugi određenje forme, kao kad bi se reklo: Petar je velike kreposti; ili je pak potreban jedan genitiv koji ima snagu dvaju genitiva, kao kad se kaže: taj je čovjek krvi, to jest prolijevatelj mnoge krvi. Budući, dakle, da se božanska bit označuje kao forma s obzirom na osobu, prikladno se za bit kaže da je osobe. Ali ne obratno, osim ako se nešto doda da se označi bit, kao kad bi se reklo da je Otac osoba božanske biti, ili da su tri osobe jedne biti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.ad5": {
+      "text": "Na peto treba reći da prijedlog „iz“ ili „od“ ne označuje odnošaj formalnoga uzroka, nego prije odnošaj tvornoga ili tvarnoga uzroka. A ti se uzroci u svemu razlikuju od onoga čiji su uzroci: ništa, naime, nije svoja tvar, niti je išta svoje djelatno počelo. Ali nešto jest svoja forma, kao što je očito u svim netvarnim stvarima. I zato time što kažemo da su tri osobe jedne biti, označujući bit u odnošaju forme, ne pokazuje se da je bit nešto drugo od osobe, što bi se pokazalo kad bismo rekli da su tri osobe iz iste biti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a2.ad6": {
+      "text": "Na šesto treba reći da, kako kaže Hilarije u knjizi O sinodama, *loše se prosuđuje o svetim stvarima ako ne bi smjele postojati zato što ih neki ne drže svetima. Tako, ako se homousion loše shvaća, što je to meni koji ga dobro shvaćam? Neka, dakle, bude jedna supstancija iz svojstva rođene naravi, ali neka ne bude iz dijeljenja, ni iz sjedinjenja, ni iz zajedničkog udjela*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se bitna imena, kao ime Bog, ne pririču o trima osobama u jednini, nego u množini. Kao što se, naime, čovjek označuje kao onaj koji ima čovještvo, tako se Bog označuje kao onaj koji ima božanstvo. Ali tri su osobe trojica koji imaju božanstvo. Dakle, tri su osobe tri boga.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a3.obj2": {
+      "text": "Osim toga, u Post 1, gdje se kaže: *u početku stvori Bog nebo i zemlju*, hebrejski izvornik ima Elohim, što se može prevesti „bogovi“ ili „suci“. A to se kaže zbog mnoštva osoba. Dakle, tri su osobe više bogova, a ne jedan Bog.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a3.obj3": {
+      "text": "Osim toga, čini se da ime „stvar“, kad se kaže naprosto, pripada supstanciji. Ali to se ime pririče o trima osobama u množini; Augustin, naime, kaže u knjizi O kršćanskom nauku: *stvari u kojima treba uživati jesu Otac i Sin i Duh Sveti*. Dakle, i druga se bitna imena mogu pririći o trima osobama u množini.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a3.obj4": {
+      "text": "Osim toga, kao što ime Bog označuje onoga koji ima božanstvo, tako ime osoba označuje onoga koji samostoji u nekoj umnoj naravi. Ali kažemo: tri osobe. Dakle, iz istog razloga možemo reći: tri boga.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Pnz 6: *čuj, Izraele, Gospodin Bog tvoj, Bog je jedan*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a3.resp": {
+      "text": "Odgovaram: treba reći da neka bitna imena označuju bit imenički, a neka pridjevski. Ona koja bit označuju imenički pririču se o trima osobama samo u jednini, a ne u množini; a ona koja bit označuju pridjevski pririču se o trima osobama u množini. Razlog je tomu što imenice označuju nešto na način supstancije, a pridjevi označuju nešto na način akcidenta, koji prianja uz subjekt. A supstancija, kao što po sebi ima bitak, tako po sebi ima jedinstvo ili mnoštvo; zato se i jednina ili množina imenice ravna prema formi koju ime označuje. Akcidenti pak, kao što imaju bitak u subjektu, tako od subjekta primaju jedinstvo i mnoštvo; i zato se kod pridjeva jednina i množina ravna prema supozitima. U stvorovima se pak ne nalazi jedna forma u više supozita osim po jedinstvu reda, kao forma uređenoga mnoštva. Stoga se imena koja označuju takvu formu, ako su imenice, pririču o više njih u jednini, ali ne ako su pridjevi. Kažemo, naime, da su mnogi ljudi zbor ili vojska ili narod, ali kažemo da su mnogi ljudi članovi zbora. U božanskom se pak božanska bit označuje na način forme, kao što je rečeno, a ona je jednostavna i najviše jedna, kao što je gore pokazano. Stoga se imena koja božansku bit označuju imenički pririču o trima osobama u jednini, a ne u množini. To je, dakle, razlog zašto za Sokrata, Platona i Cicerona kažemo da su tri čovjeka, a za Oca i Sina i Duha Svetoga ne kažemo da su tri boga, nego jedan Bog: jer su u trima supozitima ljudske naravi tri čovještva, a u trima je osobama jedna božanska bit. Ona pak imena koja bit označuju pridjevski pririču se o trojici u množini, zbog mnoštva supozita. Kažemo, naime, trojica postojećih ili trojica mudrih, ili trojica vječnih i nestvorenih i neizmjernih, ako se uzimaju pridjevski. Ako se pak uzimaju imenički, kažemo jedan nestvoreni, neizmjerni i vječni, kako kaže Atanazije.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda Bog označuje onoga koji ima božanstvo, ipak je drugačiji način označivanja: Bog se, naime, kaže imenički, a „koji ima božanstvo“ kaže se pridjevski. Stoga, premda su trojica koji imaju božanstvo, ipak ne slijedi da su tri boga.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a3.ad2": {
+      "text": "Na drugo treba reći da različiti jezici imaju različit način govora. Stoga, kao što Grci zbog mnoštva supozita kažu tri hipostaze, tako se i na hebrejskom kaže u množini Elohim. Mi pak ne kažemo u množini ni bogovi ni supstancije, da se mnoštvo ne bi odnosilo na supstanciju.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a3.ad3": {
+      "text": "Na treće treba reći da je ime „stvar“ jedno od transcendentalnih imena. Stoga se, ukoliko pripada odnosu, u božanskom pririče u množini, a ukoliko pripada supstanciji, pririče se u jednini. Zato Augustin na istom mjestu kaže da je *to isto Trojstvo neka najviša stvar*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a3.ad4": {
+      "text": "Na četvrto treba reći da forma označena imenom osoba nije bit ili narav, nego osobnost. Stoga, budući da su tri osobnosti, to jest tri osobna svojstva, u Ocu i Sinu i Duhu Svetomu, to se ime ne pririče o trojici u jednini, nego u množini.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da konkretna bitna imena ne mogu stajati za osobu, tako da bi bila istinita ova rečenica: Bog je rodio Boga. Jer, kako kažu sofisti, pojedinačni izraz isto označuje i za isto stoji. Ali čini se da je ime Bog pojedinačni izraz, budući da se ne može pririći u množini, kao što je rečeno. Dakle, budući da označuje bit, čini se da stoji za bit, a ne za osobu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.obj2": {
+      "text": "Osim toga, izraz postavljen kao subjekt ne ograničuje se izrazom postavljenim kao pririk s obzirom na značenje, nego samo s obzirom na suoznačeno vrijeme. Ali kad kažem: Bog stvara, ime Bog stoji za bit. Dakle, kad se kaže: Bog je rodio, ne može taj izraz „Bog“ zbog oznakovnoga pririka stajati za osobu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.obj3": {
+      "text": "Osim toga, ako je istinita ova rečenica: Bog je rodio, jer Otac rađa, iz istog će razloga biti istinita ova: Bog ne rađa, jer Sin ne rađa. Dakle, postoji Bog koji rađa i Bog koji ne rađa. I tako se čini da slijedi da su dva boga.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.obj4": {
+      "text": "Osim toga, ako je Bog rodio Boga, rodio je ili sebe Boga ili drugoga Boga. Ali nije rodio sebe Boga, jer, kako kaže Augustin u I. knjizi O Trojstvu, *nijedna stvar ne rađa sama sebe*. A ni drugoga Boga, jer je samo jedan Bog. Dakle, neistinita je ova rečenica: Bog je rodio Boga.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.obj5": {
+      "text": "Osim toga, ako je Bog rodio Boga, rodio je ili Boga koji je Bog Otac, ili Boga koji nije Bog Otac. Ako Boga koji je Bog Otac, onda je Bog Otac rođen. Ako Boga koji nije Bog Otac, onda postoji Bog koji nije Bog Otac, a to je neistinito. Dakle, ne može se reći da je Bog rodio Boga.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.sc": {
+      "text": "Ali protiv toga jest to što se u Vjerovanju kaže: Boga od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.resp": {
+      "text": "Odgovaram: treba reći da su neki rekli da ime Bog i slična imena u vlastitom smislu, po svojoj naravi, stoje za bit, ali da ih oznakovni dodatak povlači da stoje za osobu. Čini se da je to mišljenje proizašlo iz razmatranja božanske jednostavnosti, koja zahtijeva da u Bogu bude isto ono što ima i ono što se ima; i tako je onaj koji ima božanstvo, što označuje ime Bog, isto što i božanstvo. Ali kod svojstava govornih izraza ne treba gledati samo označenu stvar, nego i način označivanja. I zato, budući da ime Bog označuje božansku bit kao u onome koji je ima, kao što ime čovjek označuje čovještvo u supozitu, drugi su bolje rekli da ime Bog iz načina označivanja ima to da u vlastitom smislu može stajati za osobu, kao i ime čovjek. Katkad, dakle, ime Bog stoji za bit, kao kad se kaže: Bog stvara, jer taj pririk pripada subjektu zbog označene forme, a to je božanstvo. Katkad pak stoji za osobu: ili samo za jednu, kao kad se kaže: Bog rađa; ili za dvije, kao kad se kaže: Bog izdiše; ili za tri, kao kad se kaže: *Kralju doba, besmrtnomu, nevidljivomu, jedinomu Bogu* itd., 1 Tim 1.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ime Bog, premda se s pojedinačnim izrazima slaže u tome što se označena forma ne umnaža, ipak slaže sa zajedničkim izrazima u tome što se označena forma nalazi u više supozita. Stoga nije nužno da uvijek stoji za bit koju označuje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.ad2": {
+      "text": "Na drugo treba reći da se taj prigovor odnosi na one koji su govorili da ime Bog nema naravnu supoziciju za osobu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.ad3": {
+      "text": "Na treće treba reći da se drugačije prema stajanju za osobu odnosi ime Bog, a drugačije ime čovjek. Budući da se, naime, forma označena imenom čovjek, to jest čovještvo, stvarno dijeli u različitim supozitima, to ime po sebi stoji za osobu, makar se ništa ne dodalo što bi ga odredilo na osobu, koja je razlikovani supozit. Jedinstvo pak ili zajedništvo ljudske naravi nije u stvarnosti, nego samo u razmatranju; zato izraz „čovjek“ ne stoji za zajedničku narav osim ako to zahtijeva nešto dodano, kao kad se kaže: čovjek je vrsta. Ali forma označena imenom Bog, naime božanska bit, jedna je i zajednička u stvarnosti. Stoga to ime po sebi stoji za zajedničku narav, a njegova se supozicija dodatkom određuje na osobu. Stoga, kad se kaže: Bog rađa, ime Bog zbog oznakovnoga čina stoji za osobu Oca. Ali kad se kaže: Bog ne rađa, ne dodaje se ništa što bi to ime odredilo na osobu Sina, pa se daje razumjeti da se rađanje protivi božanskoj naravi. Ali ako se doda nešto što pripada osobi Sina, izričaj će biti istinit, kao kad bi se reklo: rođeni Bog ne rađa. Stoga ni ne slijedi: postoji Bog koji rađa i postoji Bog koji ne rađa, osim ako se postavi nešto što pripada osobama, kao na primjer kad bismo rekli: Otac je Bog koji rađa, a Sin je Bog koji ne rađa. I tako ne slijedi da je više bogova, jer su Otac i Sin jedan Bog, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.ad4": {
+      "text": "Na četvrto treba reći da je neistinita ova rečenica: Otac je rodio sebe Boga, jer riječ „sebe“, budući da je povratna, upućuje na isti supozit. A tomu se ne protivi ono što kaže Augustin u poslanici Maksiminu, da je Bog Otac rodio drugoga sebe. Jer riječ „sebe“ ili je u ablativu, tako da je smisao: rodio je drugoga od sebe; ili tvori jednostavan odnos, i tako upućuje na istovjetnost naravi, ali je tada izričaj nevlastit ili naglašen, tako da je smisao: rodio je drugoga sebi najsličnijega. Isto je tako neistinita i ova: rodio je drugoga Boga. Jer premda je Sin drugi od Oca, kao što je gore rečeno, ipak ne treba reći da je drugi Bog, jer bi se shvatilo da pridjev „drugi“ stavlja svoju stvar uz imenicu „Bog“, i tako bi se označivala razlika božanstva. Neki ipak dopuštaju ovu rečenicu: rodio je drugoga Boga, tako da je „drugi“ imenica, a „Bog“ se s njom povezuje kao apozicija. Ali to je nevlastit način govora i treba ga izbjegavati, da se ne dade povod zabludi.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a4.ad5": {
+      "text": "Na peto treba reći da je neistinita ova rečenica: Bog je rodio Boga koji je Bog Otac, jer, budući da se „Otac“ povezuje s „Bog“ kao apozicija, ograničuje ga da stoji za osobu Oca, tako da je smisao: rodio je Boga koji je sam Otac; i tako bi Otac bio rođen, a to je neistinito. Stoga je istinita niječna rečenica: rodio je Boga koji nije Bog Otac. Kad bi se pak shvatilo da konstrukcija nije apozicijska, nego da treba nešto umetnuti, tada bi, obratno, potvrdna bila istinita, a niječna neistinita, tako da je smisao: rodio je Boga koji je Bog koji je Otac. Ali to je natjerano tumačenje. Stoga je bolje da se potvrdna naprosto zanijeka, a niječna dopusti. Prepozitin je ipak rekao da su i niječna i potvrdna neistinite. Jer odnosna zamjenica „koji“ u potvrdnoj može upućivati na supozit, a u niječnoj upućuje i na označeno i na supozit. Stoga je smisao potvrdne da osobi Sina pripada to da bude Bog Otac; a smisao niječne da se to da bude Bog Otac odstranjuje ne samo od osobe Sina nego i od njegova božanstva. Ali to se čini nerazumnim, jer, prema Filozofu, o istome o čemu je potvrda može biti i nijekanje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da bitna imena označena apstraktno mogu stajati za osobu, tako da bi bila istinita ova rečenica: bit rađa bit. Augustin, naime, kaže u VII. knjizi O Trojstvu: *Otac i Sin jesu jedna mudrost, jer su jedna bit; a pojedinačno mudrost od mudrosti, kao bit od biti*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.obj2": {
+      "text": "Osim toga, kad mi nastajemo ili propadamo, nastaje ili propada ono što je u nama. Ali Sin se rađa. Dakle, budući da je božanska bit u Sinu, čini se da se božanska bit rađa.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.obj3": {
+      "text": "Osim toga, Bog i božanska bit isto su, kao što je očito iz prije rečenoga. Ali istinita je ova rečenica: Bog rađa Boga, kao što je rečeno. Dakle, istinita je i ova: bit rađa bit.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.obj4": {
+      "text": "Osim toga, ono što se o nečemu pririče može stajati za to. Ali božanska bit jest Otac. Dakle, bit može stajati za osobu Oca. I tako bit rađa.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.obj5": {
+      "text": "Osim toga, bit je stvar koja rađa, jer je Otac, koji rađa. Ako, dakle, bit nije ona koja rađa, bit će bit stvar koja rađa i koja ne rađa, a to je nemoguće.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.obj6": {
+      "text": "Osim toga, Augustin kaže u IV. knjizi O Trojstvu: *Otac je počelo svega božanstva*. Ali počelo je samo rađanjem ili izdahnućem. Dakle, Otac rađa ili izdiše božanstvo.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u I. knjizi O Trojstvu, da *nijedna stvar ne rađa sama sebe*. Ali ako bit rađa bit, rađa samo sebe, jer u Bogu nema ničega što bi se razlikovalo od božanske biti. Dakle, bit ne rađa bit.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.resp": {
+      "text": "Odgovaram: treba reći da je u tome pogriješio opat Joakim, tvrdeći da se, kao što se kaže: Bog je rodio Boga, isto tako može reći da je bit rodila bit; smatrao je, naime, da zbog božanske jednostavnosti Bog nije nešto drugo od božanske biti. Ali u tome se prevario, jer za istinitost izričaja ne treba razmatrati samo označene stvari nego i način označivanja, kao što je rečeno. A premda je u stvarnosti Bog isto što i božanstvo, ipak način označivanja nije isti u jednom i u drugom. Jer ime Bog, budući da označuje božansku bit kao u onome koji je ima, iz načina svojega označivanja po naravi ima to da može stajati za osobu; i tako se ono što je vlastito osobama može pririći o imenu Bog, tako da se kaže da je Bog rođen ili da rađa, kao što je rečeno. Ali ime bit nema iz načina svojega označivanja to da stoji za osobu, jer označuje bit kao apstraktnu formu. I zato se ono što je vlastito osobama, čime se one međusobno razlikuju, ne može pripisati biti; time bi se, naime, označivalo da u božanskoj biti postoji razlikovanje, kao što postoji razlikovanje u supozitima.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da su sveti naučitelji, da bi izrazili jedinstvo biti i osobe, katkad govorili izrazitije nego što dopušta vlastitost izričaja. Stoga takve izričaje ne treba proširivati, nego tumačiti, tako naime da se apstraktna imena tumače konkretnima, ili čak osobnim imenima; kao kad se kaže: bit od biti, ili mudrost od mudrosti, smisao je: Sin, koji je bit i mudrost, jest od Oca, koji je bit i mudrost. Kod tih apstraktnih imena ipak treba paziti na neki red, jer ono što pripada činu bliže se odnosi prema osobama, budući da su čini svojstveni supozitima. Stoga je manje nevlastita ova rečenica: narav od naravi, ili mudrost od mudrosti, nego: bit od biti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.ad2": {
+      "text": "Na drugo treba reći da u stvorovima rođeno ne prima brojčano istu narav koju ima onaj koji rađa, nego brojčano drugu, koja nastajanjem iznova počinje biti u njemu i propadanjem prestaje biti; i zato ona nastaje i propada akcidentalno. Ali rođeni Bog prima brojčano istu narav koju ima onaj koji rađa. I zato se božanska narav u Sinu ne rađa, ni po sebi ni akcidentalno.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.ad3": {
+      "text": "Na treće treba reći da, premda su Bog i božanska bit isto u stvarnosti, ipak zbog različitoga načina označivanja treba o jednome i o drugome govoriti različito.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.ad4": {
+      "text": "Na četvrto treba reći da se božanska bit pririče o Ocu na način istovjetnosti, zbog božanske jednostavnosti, ali ipak ne slijedi da može stajati za Oca, zbog različitoga načina označivanja. A dokaz bi vrijedio za ono od čega se jedno pririče o drugome kao opće o posebnome.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.ad5": {
+      "text": "Na peto treba reći da je razlika između imenica i pridjeva u ovome: imenice nose svoj supozit, a pridjevi ne, nego označenu stvar stavljaju uz imenicu. Stoga sofisti kažu da imenice stoje za nešto, a pridjevi ne stoje za nešto, nego povezuju. Osobne se, dakle, imenice mogu pririći o biti, zbog istovjetnosti stvari, i ne slijedi da osobno svojstvo određuje razlikovanu bit, nego se ono stavlja uz supozit koji uključuje imenica. Ali oznakovni i osobni pridjevi ne mogu se pririći o biti, osim ako se doda neka imenica. Stoga ne možemo reći da je bit ona koja rađa. Možemo ipak reći da je bit stvar koja rađa, ili Bog koji rađa, ako „stvar“ i „Bog“ stoje za osobu, ali ne ako stoje za bit. Stoga nema proturječja ako se kaže da je bit stvar koja rađa i stvar koja ne rađa, jer se u prvom slučaju „stvar“ uzima za osobu, a u drugom za bit.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a5.ad6": {
+      "text": "Na šesto treba reći da božanstvo, ukoliko je jedno u više supozita, ima neko slaganje s formom zbirnoga imena. Stoga, kad se kaže: Otac je počelo svega božanstva, to se može uzeti za cjelokupnost osoba, ukoliko je, naime, on počelo među svim božanskim osobama. I nije nužno da bude počelo samoga sebe, kao što se za nekoga iz naroda kaže da je upravitelj svega naroda, a ipak nije upravitelj samoga sebe. Ili se može reći da je počelo svega božanstva ne zato što ga rađa i izdiše, nego zato što ga, rađajući i izdišući, priopćuje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se osobe ne mogu pririći o konkretnim bitnim imenima, tako da se kaže: Bog je tri osobe, ili: Bog je Trojstvo. Neistinita je, naime, ova rečenica: čovjek je svaki čovjek, jer se ne može ispuniti ni za jedan od supozita: niti je Sokrat svaki čovjek, niti Platon, niti itko drugi. Ali isto se tako ova rečenica: Bog je Trojstvo, ne može ispuniti ni za jedan od supozita božanske naravi: niti je Otac Trojstvo, niti Sin, niti Duh Sveti. Dakle, neistinita je ova rečenica: Bog je Trojstvo.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a6.obj2": {
+      "text": "Osim toga, niže se ne pririče o svojem višem osim akcidentalnim priricanjem, kao kad kažem: životinja je čovjek; životinji se, naime, akcidentalno događa da bude čovjek. Ali ime Bog odnosi se prema trima osobama kao zajedničko prema nižemu, kako kaže Damaščanin. Dakle, čini se da se imena osoba ne mogu pririći o imenu Bog, osim akcidentalno.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u govoru O vjeri: *vjerujemo da je jedan Bog jedno Trojstvo božanskoga imena*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a6.resp": {
+      "text": "Odgovaram: treba reći da, kao što je već rečeno, premda se osobni ili oznakovni pridjevi ne mogu pririći o biti, ipak se imenice mogu, zbog stvarne istovjetnosti biti i osobe. A božanska bit nije stvarno isto samo s jednom osobom, nego s trima. Stoga se o biti mogu pririći i jedna osoba, i dvije, i tri, kao kad bismo rekli: bit je Otac i Sin i Duh Sveti. A budući da ime Bog po sebi ima to da stoji za bit, kao što je rečeno, zato je, kao što je istinita ova rečenica: bit je tri osobe, tako istinita i ova: Bog je tri osobe.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što je gore rečeno, ime čovjek po sebi ima to da stoji za osobu, a iz dodatka ima to da stoji za zajedničku narav. I zato je neistinita ova rečenica: čovjek je svaki čovjek, jer se ne može ispuniti ni za jedan supozit. Ali ime Bog po sebi ima to da stoji za bit. Stoga, premda ova rečenica: Bog je Trojstvo, nije istinita ni za jedan od supozita božanske naravi, ipak je istinita za bit. Ne pazeći na to, Gilbert Porretanski ju je zanijekao.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a6.ad2": {
+      "text": "Na drugo treba reći da, kad se kaže: Bog ili božanska bit jest Otac, to je priricanje po istovjetnosti, a ne kao priricanje nižega o višem, jer u božanskom nema općega i pojedinačnoga. Stoga, kao što je po sebi ova rečenica: Otac je Bog, tako je po sebi i ova: Bog je Otac, i nikako nije akcidentalna.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:55+00:00"
+    },
+    "I.q39.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da bitna imena ne treba prisvajati osobama. Ono što može skrenuti u zabludu protiv vjere treba, naime, izbjegavati u božanskom, jer, kako kaže Jeronim, *neuredno izgovorenim riječima upada se u krivovjerje*. Ali prisvajati nekoj osobi ono što je zajedničko trima osobama može skrenuti u zabludu protiv vjere, jer se može shvatiti ili da to pripada samo onoj osobi kojoj se prisvaja, ili da njoj pripada više nego drugima. Dakle, bitne atribute ne treba prisvajati osobama.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a7.obj2": {
+      "text": "Osim toga, bitni atributi, označeni apstraktno, označuju na način forme. Ali jedna se osoba ne odnosi prema drugoj kao forma, jer se forma ne razlikuje po supozitu od onoga čija je forma. Dakle, bitne atribute, osobito označene apstraktno, ne treba prisvajati osobama.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a7.obj3": {
+      "text": "Osim toga, vlastito je prije od prisvojenoga, jer vlastito ulazi u pojam prisvojenoga. Ali bitni su atributi, prema načinu shvaćanja, prije od osoba, kao što je zajedničko prije od vlastitoga. Dakle, bitni atributi ne trebaju biti prisvojeni.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u 1 Kor 1: *Krista, Božju snagu i Božju mudrost*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a7.resp": {
+      "text": "Odgovaram: treba reći da je radi očitovanja vjere bilo prikladno da se bitni atributi prisvajaju osobama. Premda se, naime, Trojstvo osoba ne može dokazati dokazom, kao što je gore rečeno, ipak je prikladno da se razjasni nečim što je očitije. A bitni su nam atributi po razumu očitiji od onoga što je vlastito osobama, jer iz stvorova, od kojih primamo spoznaju, možemo sa sigurnošću doći do spoznaje bitnih atributa, ali ne do spoznaje osobnih svojstava, kao što je gore rečeno. Kao što se, dakle, služimo sličnošću traga ili slike nađenom u stvorovima za očitovanje božanskih osoba, tako se služimo i bitnim atributima. I to se očitovanje osoba po bitnim atributima naziva prisvajanjem. Božanske se osobe mogu očitovati po bitnim atributima na dva načina. Na jedan način, putem sličnosti, kao što se ono što pripada umu prisvaja Sinu, koji izlazi na način uma kao Riječ. Na drugi način, na način nesličnosti, kao što se moć prisvaja Ocu, kako kaže Augustin, jer su kod nas očevi zbog starosti obično slabi; da ne bismo što takvo naslućivali u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se bitni atributi ne prisvajaju osobama tako da bi se tvrdilo da su im vlastiti, nego radi očitovanja osoba putem sličnosti ili nesličnosti, kao što je rečeno. Stoga ne slijedi nikakva zabluda protiv vjere, nego prije očitovanje istine.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a7.ad2": {
+      "text": "Na drugo treba reći da bi, kad bi se bitni atributi tako prisvajali osobama da bi im bili vlastiti, slijedilo da se jedna osoba prema drugoj odnosi u odnošaju forme. To isključuje Augustin u VII. knjizi O Trojstvu, pokazujući da Otac nije mudar mudrošću koju je rodio, kao da bi samo Sin bio mudrost, tako da bi se Otac i Sin samo zajedno mogli nazvati mudrim, a ne Otac bez Sina. Nego se Sin naziva mudrošću Očevom zato što je mudrost od Oca mudrosti; svaki je od njih, naime, po sebi mudrost, a obojica su zajedno jedna mudrost. Stoga Otac nije mudar mudrošću koju je rodio, nego mudrošću koja je njegova bit.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a7.ad3": {
+      "text": "Na treće treba reći da, premda je bitni atribut po vlastitom pojmu prije od osobe prema načinu shvaćanja, ipak, ukoliko ima pojam prisvojenoga, ništa ne priječi da ono što je vlastito osobi bude prije od prisvojenoga. Kao što je boja kasnija od tijela ukoliko je ono tijelo, a ipak je po naravi prije od bijelog tijela ukoliko je ono bijelo.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da su sveti naučitelji neprikladno pripisali bitne atribute osobama. Hilarije, naime, kaže u II. knjizi O Trojstvu: *vječnost je u Ocu, obličje u Slici, uporaba u Poklonu*. U tim riječima postavlja tri imena vlastita osobama, naime ime Oca; ime Slike, koje je vlastito Sinu, kao što je gore rečeno; i ime Poklona, ili Dara, koje je vlastito Duhu Svetomu, kao što je gore utvrđeno. Postavlja i tri prisvojena atributa: vječnost, naime, prisvaja Ocu, obličje Sinu, uporabu Duhu Svetomu. I čini se da to čini nerazumno. Jer vječnost uključuje trajanje bitka, obličje je pak počelo bitka, a čini se da uporaba pripada djelovanju. Ali ne nalazi se da bi se bit i djelovanje prisvajali ijednoj osobi. Dakle, čini se da se to neprikladno prisvaja osobama.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a8.obj2": {
+      "text": "Osim toga, Augustin u I. knjizi O kršćanskom nauku ovako kaže: *u Ocu je jedinstvo, u Sinu jednakost, u Duhu Svetomu sklad jedinstva i jednakosti*. I čini se da je to neprikladno. Jer jedna se osoba ne imenuje formalno po onome što se prisvaja drugoj; Otac, naime, nije mudar rođenom mudrošću, kao što je rečeno. Ali, kako se ondje dodaje, *to je troje sve jedno zbog Oca, sve jednako zbog Sina, sve povezano zbog Duha Svetoga*. Dakle, to se ne prisvaja prikladno osobama.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a8.obj3": {
+      "text": "Isto tako, prema Augustinu, Ocu se pripisuje moć, Sinu mudrost, Duhu Svetomu dobrota. I čini se da je to neprikladno. Jer snaga pripada moći. A nalazi se da se snaga prisvaja Sinu, prema onome u 1 Kor 1: *Krista, Božju snagu*; pa i Duhu Svetomu, prema onome u Lk 6: *snaga je izlazila iz njega i ozdravljala sve*. Dakle, moć ne treba prisvajati Ocu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a8.obj4": {
+      "text": "Isto tako, Augustin u knjizi O Trojstvu kaže: *ne treba pomiješano shvaćati ono što kaže Apostol: iz njega, i po njemu, i u njemu; rekavši „iz njega“ zbog Oca, „po njemu“ zbog Sina, „u njemu“ zbog Duha Svetoga*. Ali čini se da je to neprikladno. Jer se čini da se izrazom „u njemu“ uključuje odnošaj svršnoga uzroka, koji je prvi od uzroka. Dakle, taj bi se odnošaj uzroka trebao prisvajati Ocu, koji je počelo bez počela.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a8.obj5": {
+      "text": "Isto tako, nalazi se da se istina prisvaja Sinu, prema onome u Iv 14: *ja sam put, istina i život*. I slično knjiga života, prema onome u Ps 39: *u glavi knjige napisano je o meni*, gdje Glosa kaže: to jest kod Oca, koji je moja glava. I slično ono što kažem: Onaj koji jest, jer uz ono u Iz 65: *evo me, narodima*, Glosa kaže: *govori Sin, koji je rekao Mojsiju: ja sam koji jesam*. Ali čini se da je to vlastito Sinu, a ne prisvojeno. *Jer istina*, prema Augustinu u knjizi O pravoj religiji, *jest najviša sličnost počela, bez ikakve nesličnosti*; i tako se čini da u vlastitom smislu pripada Sinu, koji ima počelo. Čini se i da je knjiga života nešto vlastito, jer označuje biće od drugoga: svaku knjigu, naime, netko piše. Čini se i da je samo ovo „Onaj koji jest“ vlastito Sinu. Jer ako, kad se Mojsiju kaže: ja sam koji jesam, govori Trojstvo, onda je Mojsije mogao reći: Onaj koji je Otac i Sin i Duh Sveti poslao me k vama. Dakle, mogao je dalje reći: onaj koji je Otac i Sin i Duh Sveti poslao me k vama, pokazujući na određenu osobu. A to je neistinito, jer nijedna osoba nije Otac i Sin i Duh Sveti. Dakle, to ne može biti zajedničko Trojstvu, nego je vlastito Sinu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a8.resp": {
+      "text": "Odgovaram: treba reći da naš um, koji se iz stvorova vodi kao za ruku do spoznaje Boga, mora razmatrati Boga prema načinu koji preuzima iz stvorova. A pri razmatranju nekoga stvora pred nas izlaze po redu četiri stvari. Najprije se, naime, razmatra sama stvar naprosto, ukoliko je neko biće. Drugo je razmatranje stvari ukoliko je jedna. Treće je razmatranje stvari s obzirom na to da u njoj postoji snaga za djelovanje i za uzrokovanje. Četvrto je pak razmatranje stvari s obzirom na odnošaj koji ima prema onome što je uzrokovala. Stoga nam se i glede Boga nameće to četverostruko razmatranje. Prema prvom, dakle, razmatranju, kojim se Bog razmatra naprosto po svojem bitku, uzima se Hilarijevo prisvajanje, prema kojemu se vječnost prisvaja Ocu, obličje Sinu, uporaba Duhu Svetomu. Vječnost, naime, ukoliko označuje bitak koji ne proizlazi iz počela, ima sličnost s onim što je vlastito Ocu, koji je počelo bez počela. Obličje pak, ili ljepota, ima sličnost s onim što je vlastito Sinu. Za ljepotu se, naime, traže tri stvari. Prvo, cjelovitost ili savršenost, jer ono što je okrnjeno upravo je time ružno. Zatim dužna razmjernost ili sklad. I napokon sjaj, zbog čega se za ono što ima blistavu boju kaže da je lijepo. Glede prvoga, dakle, ljepota ima sličnost s onim što je vlastito Sinu, ukoliko je on Sin koji u sebi istinski i savršeno ima narav Očevu. Stoga, da to nagovijesti, Augustin u svojem tumačenju kaže: gdje je, naime u Sinu, najviši i prvi život, i tako dalje. Glede drugoga, slaže se s onim što je vlastito Sinu, ukoliko je on izražena slika Očeva. Stoga vidimo da se za neku sliku kaže da je lijepa ako savršeno prikazuje stvar, makar i ružnu. I toga se dotaknuo Augustin kad kaže: gdje je tolika podudarnost i prva jednakost, i tako dalje. Glede trećega, slaže se s onim što je vlastito Sinu, ukoliko je on Riječ, koja je svjetlo i sjaj uma, kako kaže Damaščanin. I toga se dotiče Augustin kad kaže: *kao savršena Riječ kojoj ništa ne nedostaje, i neko umijeće svemogućega Boga,* i tako dalje. Uporaba pak ima sličnost s onim što je vlastito Duhu Svetomu, ako se uporaba uzme u širem smislu, tako da rabiti obuhvaća pod sobom i uživati; ukoliko rabiti znači uzeti nešto u raspolaganje volje, a uživati znači s radošću rabiti, kako kaže Augustin u X. knjizi O Trojstvu. Uporaba, dakle, kojom Otac i Sin uživaju jedan u drugome slaže se s onim što je vlastito Duhu Svetomu, ukoliko je on Ljubav. I to je ono što kaže Augustin: *ta ljubav, naslada, sreća ili blaženstvo, on je nazvao uporabom*. A uporaba kojom mi uživamo u Bogu ima sličnost s onim što je vlastito Duhu Svetomu, ukoliko je on Dar. I to pokazuje Augustin kad kaže: *u Trojstvu je Duh Sveti, slatkoća Roditelja i Rođenoga, koji nas prožima neizmjernom darežljivošću i obiljem*. I tako je očito zašto se vječnost, obličje i uporaba pripisuju ili prisvajaju osobama, a ne bit ili djelovanje. Jer se u pojmu ovih dvaju, zbog njihove zajedničnosti, ne nalazi ništa što bi imalo sličnost s onim što je vlastito osobama. Drugo je pak razmatranje Boga ukoliko se razmatra kao jedan. I tako Augustin Ocu prisvaja jedinstvo, Sinu jednakost, Duhu Svetomu sklad ili povezanost. Očito je da sve troje uključuje jedinstvo, ali različito. Jer se jedinstvo kaže naprosto, ne pretpostavljajući ništa drugo. I zato se prisvaja Ocu, koji ne pretpostavlja nijednu osobu, budući da je počelo bez počela. Jednakost pak uključuje jedinstvo s obzirom na drugo: jednako je, naime, ono što ima jednu kolikoću s drugim. I zato se jednakost prisvaja Sinu, koji je počelo od počela. Povezanost pak uključuje jedinstvo nekih dvaju. Stoga se prisvaja Duhu Svetomu, ukoliko je on od dvojice. Iz toga se može shvatiti i ono što kaže Augustin, *da je troje jedno zbog Oca, jednako zbog Sina, povezano zbog Duha Svetoga*. Očito je, naime, da se svaka stvar pripisuje onomu u čemu se najprije nalazi, kao što se za sva niža bića kaže da žive zbog vegetativne duše, u kojoj se kod tih nižih bića najprije nalazi pojam života. A jedinstvo se odmah nalazi u osobi Oca, čak i kad bi se, što je nemoguće, odstranile druge osobe. I zato druge osobe imaju jedinstvo od Oca. Ali kad se odstrane druge osobe, u Ocu se ne nalazi jednakost, nego se jednakost nalazi čim se postavi Sin. I zato se kaže da je sve jednako zbog Sina, ne zato što bi Sin bio počelo jednakosti Ocu, nego zato što se Otac ne bi mogao nazvati jednakim kad Sin ne bi bio jednak Ocu. Njegova se jednakost, naime, najprije razmatra s obzirom na Sina; jer i samo to što je Duh Sveti jednak Ocu, ima od Sina. Slično tako, kad bi se isključio Duh Sveti, koji je sveza dvojice, ne bi se moglo shvatiti jedinstvo povezanosti između Oca i Sina. I zato se kaže da je sve povezano zbog Duha Svetoga, jer kad se postavi Duh Sveti, nalazi se ono po čemu se Otac i Sin mogu nazvati povezanima. Prema trećem razmatranju, kojim se u Bogu razmatra dostatna snaga za uzrokovanje, uzima se treće prisvajanje, naime moći, mudrosti i dobrote. To se prisvajanje vrši i po razlogu sličnosti, ako se razmatra ono što je u božanskim osobama, i po razlogu nesličnosti, ako se razmatra ono što je u stvorovima. Moć, naime, ima pojam počela. Stoga ima sličnost s nebeskim Ocem, koji je počelo svega božanstva. A zemaljskomu ocu katkad nedostaje zbog starosti. Mudrost pak ima sličnost s nebeskim Sinom, ukoliko je on Riječ, koja nije ništa drugo nego zamisao mudrosti. A zemaljskomu sinu katkad nedostaje zbog kratkoće vremena. Dobrota pak, budući da je pojam i predmet ljubavi, ima sličnost s božanskim Duhom, koji je Ljubav. Ali čini se da se protivi zemaljskomu duhu, ukoliko on uključuje neki nasilni nagon, kako se kaže u Iz 25: *duh silnika kao vihor koji udara u zid*. Snaga se pak prisvaja Sinu i Duhu Svetomu ne ukoliko se snagom naziva sama moć stvari, nego ukoliko se snagom katkad naziva ono što proizlazi iz moći stvari, kao kad kažemo da je neko silno djelo snaga nekoga djelatnika. Prema četvrtom pak razmatranju, ukoliko se Bog razmatra u odnošaju prema svojim učincima, uzima se ono prisvajanje: iz kojega, po kojemu i u kojemu. Prijedlog „iz“, naime, katkad uključuje odnošaj tvarnoga uzroka, koji nema mjesta u božanskom, a katkad odnošaj tvornoga uzroka. Taj pak pripada Bogu zbog njegove djelatne moći, pa se stoga prisvaja Ocu, kao i moć. Prijedlog „po“ katkad označuje posredni uzrok, kao kad kažemo da kovač radi po čekiću. I tako „po“ katkad nije prisvojeno, nego vlastito Sinu, prema onome u Iv 1: *sve je po njemu postalo*; ne zato što bi Sin bio oruđe, nego zato što je on počelo od počela. Katkad pak označuje odnošaj forme po kojoj djelatnik djeluje, kao kad kažemo da umjetnik radi po umijeću. Stoga, kao što se mudrost i umijeće prisvajaju Sinu, tako i „po kojemu“. Prijedlog „u“ pak u vlastitom smislu označuje odnošaj onoga što sadržava. A Bog sadržava stvari na dva načina. Na jedan način, po njihovim sličnostima, ukoliko se, naime, kaže da su stvari u Bogu ukoliko su u njegovu znanju. I tako bi ono što kažem „u njemu“ trebalo prisvojiti Sinu. Na drugi pak način Bog sadržava stvari ukoliko ih svojom dobrotom uzdržava i njima upravlja, privodeći ih prikladnoj svrsi. I tako se „u kojemu“ prisvaja Duhu Svetomu, kao i dobrota. A nije nužno da se odnošaj svršnoga uzroka, premda je on prvi od uzroka, prisvaja Ocu, koji je počelo bez počela, jer božanske osobe, kojima je Otac počelo, ne izlaze kao prema svrsi, budući da je svaka od njih posljednja svrha; nego izlaze naravnim izlaženjem, koje se, čini se, više tiče pojma naravne moći.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    },
+    "I.q39.a8.ad1": {
+      "text": "Na ono pak što se pita o drugim stvarima treba reći da se istina, budući da pripada umu, kao što je gore rečeno, prisvaja Sinu, ali ipak nije njemu vlastita. Jer se istina, kao što je gore rečeno, može razmatrati ukoliko je u umu ili ukoliko je u stvari. Kao što su, dakle, um i stvar, uzeti bitno, bitni a ne osobni, tako je i istina. A navedena Augustinova definicija daje se o istini ukoliko se ona prisvaja Sinu. Knjiga pak života izravno uključuje spoznaju, a neizravno život; ona je, naime, kao što je gore rečeno, Božja spoznaja o onima koji će imati vječni život. Stoga se prisvaja Sinu, premda se život prisvaja Duhu Svetomu, ukoliko uključuje neki unutarnji pokret, i tako se slaže s onim što je vlastito Duhu Svetomu, ukoliko je on Ljubav. A biti napisan od drugoga ne ulazi u pojam knjige ukoliko je knjiga, nego ukoliko je neki umjetni proizvod. Stoga to ne uključuje podrijetlo, niti je osobno, nego je prisvojeno osobi. Samo pak „Onaj koji jest“ prisvaja se osobi Sina ne po vlastitom pojmu, nego zbog nečega pridodanoga, ukoliko se, naime, u Božjem govoru Mojsiju predoznačivalo oslobođenje ljudskoga roda, koje je izvršeno po Sinu. Ali ipak, ukoliko se „koji“ uzima kao odnosna zamjenica, moglo bi katkad upućivati na osobu Sina, i tako bi se uzimalo osobno, kao na primjer kad bi se reklo: Sin je rođeni koji jest; kao što je i „rođeni Bog“ osobno. Ali uzeto neodređeno, bitno je. A premda se čini da zamjenica „taj“, gramatički govoreći, pripada nekoj određenoj osobi, ipak se svaka stvar na koju se može pokazati, gramatički govoreći, može nazvati osobom, premda po naravi stvari nije osoba; kažemo, naime, taj kamen i taj magarac. Stoga se, gramatički govoreći, i na božansku bit, ukoliko se označuje imenom Bog i ono za nju stoji, može pokazati zamjenicom „taj“, prema onome u Izl 15: *taj je Bog moj, i slavit ću ga*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:56+00:00"
+    }
+  }
+}

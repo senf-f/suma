@@ -1,0 +1,264 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 29,
+  "units": {
+    "I.q29.pr": {
+      "text": "Pošto smo unaprijed izložili ono što je, čini se, trebalo prethodno spoznati o izlaženjima i odnosima, potrebno je pristupiti osobama. I to najprije po apsolutnom razmatranju, a zatim po usporednom razmatranju. Apsolutno pak treba o osobama razmotriti najprije općenito, a zatim o pojedinim osobama. Na općenito razmatranje osoba, čini se, odnose se četiri stvari: prvo, značenje ovoga imena „osoba“; drugo, broj osoba; treće, ono što slijedi iz broja osoba ili mu se protivi, kao različitost i osamljenost i slično; četvrto, ono što se odnosi na spoznaju osoba. U vezi s prvim pitaju se četiri stvari. Prvo, o definiciji osobe. Drugo, o odnosu osobe prema biti, samostojnosti i hipostazi. Treće, pristaje li ime „osoba“ u božanskom. Četvrto, što ondje označuje.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je neprikladna definicija osobe koju Boetije daje u knjizi O dvjema naravima, a koja glasi: *osoba je pojedinačna supstancija razumske naravi*. Ništa se pojedinačno, naime, ne definira. Ali osoba označuje nešto pojedinačno. Dakle, osoba se neprikladno definira.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.obj2": {
+      "text": "Osim toga, supstancija, kako je stavljena u definiciju osobe, uzima se ili kao prva supstancija ili kao druga supstancija. Ako kao prva supstancija, suvišno se dodaje „pojedinačna“, jer je prva supstancija pojedinačna supstancija. Ako pak stoji umjesto druge supstancije, pogrešno se dodaje i nastaje protuslovlje u pridjevku, jer se drugim supstancijama nazivaju rodovi ili vrste. Dakle, definicija je loše dana.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.obj3": {
+      "text": "Osim toga, ime intencije ne treba stavljati u definiciju stvari. Ne bi, naime, bila dobra definicija kad bi netko rekao: čovjek je vrsta životinje; jer „čovjek“ je ime stvari, a „vrsta“ je ime intencije. Budući da je, dakle, „osoba“ ime stvari (označuje, naime, neku supstanciju razumske naravi), neprikladno se u njezinu definiciju stavlja „pojedinačno“, što je ime intencije.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.obj4": {
+      "text": "Osim toga, narav je počelo gibanja i mirovanja u onome u čemu je po sebi, a ne akcidentalno, kako se kaže u II. knjizi Fizike. Ali osoba postoji u nepokretljivim stvarima, kao u Bogu i u anđelima. Dakle, u definiciju osobe nije trebalo staviti narav, nego radije bit.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.obj5": {
+      "text": "Osim toga, odijeljena duša jest pojedinačna supstancija razumske naravi. Ali nije osoba. Dakle, osoba se neprikladno tako definira.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.resp": {
+      "text": "Odgovaram: treba reći da se, premda se opće i posebno nalaze u svim rodovima, ipak na neki poseban način pojedinačno nalazi u rodu supstancije. Supstancija se, naime, individuira sama po sebi, a akcidenti se individuiraju po subjektu, koji je supstancija: kaže se, naime, „ova bjelina“ ukoliko je u ovome subjektu. Zato i pojedinci supstancije prikladno imaju neko posebno ime ispred drugih: nazivaju se, naime, hipostazama ili prvim supstancijama. Ali još se na neki posebniji i savršeniji način posebno i pojedinačno nalazi u razumskim supstancijama, koje imaju vlast nad svojim činom i ne bivaju samo pokretane na djelovanje, kao druge, nego djeluju same po sebi; a radnje su u pojedinačnim stvarima. Zato i među ostalim supstancijama pojedinačna bića razumske naravi imaju neko posebno ime. I to je ime „osoba“. Stoga se u spomenutu definiciju osobe stavlja „pojedinačna supstancija“, ukoliko označuje pojedinačno u rodu supstancije, a dodaje se „razumske naravi“, ukoliko označuje pojedinačno u razumskim supstancijama.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, premda se ovo ili ono pojedinačno ne može definirati, ipak može definirati ono što pripada zajedničkom pojmu pojedinačnosti; i tako Filozof definira prvu supstanciju. I na taj način Boetije definira osobu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.ad2": {
+      "text": "Na drugo treba reći da se, prema nekima, supstancija u definiciju osobe stavlja kao prva supstancija, koja je hipostaza. Ipak se ni tada „pojedinačna“ ne dodaje suvišno. Jer imenom hipostaze ili prve supstancije isključuje se pojam općega i dijela (ne kažemo, naime, da je opći čovjek hipostaza, a ni ruka, budući da je dio), dok se onim što se dodaje „pojedinačno“ iz osobe isključuje pojam onoga što može biti uzeto; ljudska, naime, narav u Kristu nije osoba, jer ju je uzeo dostojniji, naime Božja Riječ. Ali bolje je reći da se supstancija uzima općenito, kako se dijeli na prvu i drugu, a time što se dodaje „pojedinačna“, svodi se na to da stoji umjesto prve supstancije.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.ad3": {
+      "text": "Na treće treba reći da, budući da nam supstancijalne razlike nisu poznate ili nisu ni imenovane, ponekad treba upotrijebiti akcidentalne razlike umjesto supstancijalnih, kao kad bi netko rekao: vatra je jednostavno tijelo, toplo i suho; vlastiti su, naime, akcidenti učinci supstancijalnih formi i očituju ih. Slično se i imena intencija mogu uzeti za definiranje stvari, ukoliko se uzimaju umjesto nekih imena stvari koja nisu postavljena. I tako se ime „pojedinačno“ stavlja u definiciju osobe da bi se označio način samostojanja koji pripada posebnim supstancijama.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.ad4": {
+      "text": "Na četvrto treba reći da je, prema Filozofu u V. knjizi Metafizike, ime „narav“ najprije postavljeno da označuje rađanje živih bića, koje se naziva rođenjem. A budući da je takvo rađanje od unutarnjega počela, to se ime proširilo na označivanje unutarnjega počela bilo kojega gibanja. I tako se narav definira u II. knjizi Fizike. A budući da je takvo počelo formalno ili tvarno, općenito se i tvar i forma nazivaju naravlju. I budući da se po formi dovršuje bit svake stvari, općenito se bit svake stvari, koju označuje njezina definicija, naziva naravlju. I tako se ovdje uzima narav. Zato Boetije u istoj knjizi kaže da je *narav ono što svaku stvar oblikuje vrsnom razlikom*: vrsna je, naime, razlika ono što dovršuje definiciju i uzima se od vlastite forme stvari. Stoga je bilo prikladnije da se u definiciji osobe, koja je pojedinačno nekoga određenog roda, upotrijebi ime „narav“ nego „bit“, koja se uzima od bitka, što je ono najopćenitije.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a1.ad5": {
+      "text": "Na peto treba reći da je duša dio ljudske vrste; i zato, premda je odijeljena, ipak, budući da zadržava narav sjedinjivosti, ne može se nazvati pojedinačnom supstancijom koja je hipostaza ili prva supstancija; kao ni ruka ni bilo koji drugi od dijelova čovjeka. I tako joj ne pristaje ni definicija osobe ni ime.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je osoba isto što i hipostaza, samostojnost i bit. Boetije, naime, u knjizi O dvjema naravima kaže da su *Grci pojedinačnu supstanciju razumske naravi nazvali imenom hipostaze*. Ali to isto kod nas označuje ime „osoba“. Dakle, osoba je posve isto što i hipostaza.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.obj2": {
+      "text": "Osim toga, kao što u božanskom kažemo tri osobe, tako u božanskom kažemo tri samostojnosti; a to ne bi bilo kad osoba i samostojnost ne bi označivale isto. Dakle, osoba i samostojnost označuju isto.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.obj3": {
+      "text": "Osim toga, Boetije u komentaru Kategorija kaže da usija, što je isto što i bit, označuje ono što je složeno od tvari i forme. A ono što je složeno od tvari i forme jest pojedinac supstancije, koji se naziva i hipostazom i osobom. Dakle, čini se da sva spomenuta imena označuju isto.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.sc1": {
+      "text": "Ali protiv toga je ono što Boetije kaže u knjizi O dvjema naravima: *rodovi i vrste samo samostoje; pojedinci pak ne samo da samostoje nego i podstoje*. Ali od samostojanja se nazivaju samostojnosti, kao što se od podstojanja nazivaju supstancije ili hipostaze. Budući da, dakle, biti hipostaze ili osobe ne pristaje rodovima ili vrstama, hipostaze ili osobe nisu isto što i samostojnosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.sc2": {
+      "text": "Osim toga, Boetije u komentaru Kategorija kaže da se hipostazom naziva tvar, a usiozom, to jest samostojnošću, naziva se forma. Ali ni forma ni tvar ne mogu se nazvati osobom. Dakle, osoba se razlikuje od spomenutih.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.resp": {
+      "text": "Odgovaram: treba reći da se, prema Filozofu u V. knjizi Metafizike, supstancija kaže na dva načina. Na jedan se način supstancijom naziva štostvo stvari, koje označuje definicija, u smislu u kojem kažemo da definicija označuje supstanciju stvari; tu supstanciju Grci nazivaju usija, a mi to možemo nazvati biti. Na drugi se način supstancijom naziva subjekt ili supozit koji samostoji u rodu supstancije. A to se, uzeto općenito, može imenovati i imenom koje označuje intenciju, i tako se naziva supozitom. Imenuje se i trima imenima koja označuju stvar, a to su: stvar naravi, samostojnost i hipostaza, prema trostrukom razmatranju tako nazvane supstancije. Ukoliko, naime, opstoji po sebi, a ne u drugome, naziva se samostojnošću; kažemo, naime, da samostoji ono što ne opstoji u drugome, nego u sebi. Ukoliko je pak podložen nekoj zajedničkoj naravi, tako se naziva stvar naravi; kao što je ovaj čovjek stvar ljudske naravi. Ukoliko je pak podložen akcidentima, naziva se hipostazom ili supstancijom. A ono što ta tri imena označuju općenito u čitavom rodu supstancija, to ime „osoba“ označuje u rodu razumskih supstancija.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da hipostaza kod Grka po vlastitom značenju imena ima to da označuje bilo kojega pojedinca supstancije, ali po jezičnoj upotrebi ima to da se uzima za pojedinca razumske naravi, zbog njegove izvrsnosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.ad2": {
+      "text": "Na drugo treba reći da, kao što mi u božanskom u množini kažemo tri osobe i tri samostojnosti, tako Grci kažu tri hipostaze. Ali budući da se ime „supstancija“, koje po vlastitosti značenja odgovara hipostazi, kod nas rabi dvoznačno, jer ponekad označuje bit, a ponekad hipostazu, da ne bi bilo prigode za zabludu, radije su hipostazu prevodili samostojnošću nego supstancijom.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.ad3": {
+      "text": "Na treće treba reći da je bit u vlastitom smislu ono što se označuje definicijom. Definicija pak obuhvaća počela vrste, a ne individualna počela. Zato u stvarima složenim od tvari i forme bit ne označuje samo formu, niti samo tvar, nego ono što je složeno od tvari i forme uzetih općenito, ukoliko su počela vrste. Ali ono što je složeno od ove tvari i od ove forme ima pojam hipostaze i osobe: duša, naime, i meso i kost pripadaju pojmu čovjeka, ali ova duša i ovo meso i ova kost pripadaju pojmu ovoga čovjeka. Stoga hipostaza i osoba dodaju pojmu biti individualna počela; i nisu isto s biti u onome što je složeno od tvari i forme, kao što je gore rečeno kad se raspravljalo o božanskoj jednostavnosti.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.ad4": {
+      "text": "Na četvrto treba reći da Boetije kaže da rodovi i vrste samostoje ukoliko nekim pojedincima pripada samostojati zato što potpadaju pod rodove i vrste obuhvaćene kategorijom supstancije, a ne da same vrste ili rodovi samostoje, osim prema mnijenju Platona, koji je postavio da vrste stvari samostoje odijeljeno od pojedinačnih stvari. A podstojati pripada istim pojedincima u odnosu prema akcidentima, koji su izvan pojma rodova i vrsta.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a2.ad5": {
+      "text": "Na peto treba reći da pojedinac složen od tvari i forme ima to da podstoji akcidentu iz svojstva tvari. Zato i Boetije kaže u knjizi O Trojstvu: *jednostavna forma ne može biti subjekt*. A to da po sebi samostoji ima iz svojstva svoje forme, koja ne pridolazi stvari koja samostoji, nego daje zbiljski bitak tvari, da bi tako pojedinac mogao samostojati. Zbog toga, dakle, hipostazu pripisuje tvari, a usiozu ili samostojnost formi, jer je tvar počelo podstojanja, a forma je počelo samostojanja.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ime „osoba“ ne treba stavljati u božanskom. Dionizije, naime, na početku spisa O božanskim imenima kaže: *uopće se ne smije usuditi išta reći ni misliti o nadsupstancijalnom skrivenom božanstvu osim onoga što nam je božanski izraženo iz svetih riječi*. Ali ime „osoba“ nije nam izraženo u Svetom pismu Novoga ili Staroga zavjeta. Dakle, ne treba se služiti imenom „osoba“ u božanskom.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a3.obj2": {
+      "text": "Osim toga, Boetije kaže u knjizi O dvjema naravima: *čini se da je ime „osoba“ preuzeto od onih maski koje su u komedijama i tragedijama predstavljale ljude; persona je, naime, nazvana od „personare“ (odzvanjati), jer se zbog same udubljenosti nužno valja jači zvuk. Grci pak te maske nazivaju prosopa, zato što se stavljaju na lice i pred očima pokrivaju obličje*. Ali to ne može pristajati u božanskom, osim možda po metafori. Dakle, ime „osoba“ ne kaže se o Bogu osim preneseno.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a3.obj3": {
+      "text": "Osim toga, svaka je osoba hipostaza. Ali ime „hipostaza“ ne čini se da pristaje Bogu, jer, prema Boetiju, označuje ono što je podloženo akcidentima, kojih u Bogu nema. I Jeronim kaže da se u ovome imenu „hipostaza“ otrov skriva pod medom. Dakle, ime „osoba“ ne treba govoriti o Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a3.obj4": {
+      "text": "Osim toga, od čega god se odstranjuje definicija, odstranjuje se i definirano. Ali definicija osobe gore postavljena ne čini se da pristaje Bogu. Prvo, zato što razum uključuje diskurzivnu spoznaju, koja ne pristaje Bogu, kao što je gore pokazano; i tako se za Boga ne može reći da je razumske naravi. Drugo, i zato što se Bog ne može nazvati pojedinačnom supstancijom, jer je počelo individuacije tvar, a Bog je netvaran; niti podstoji akcidentima, da bi se mogao nazvati supstancijom. Dakle, ime „osoba“ ne treba pripisivati Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Atanazijevu vjerovanju: *druga je osoba Oca, druga Sina, druga Duha Svetoga*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a3.resp": {
+      "text": "Odgovaram: treba reći da osoba označuje ono što je najsavršenije u čitavoj naravi, naime ono što samostoji u razumskoj naravi. Zato, budući da Bogu treba pripisati sve ono što pripada savršenosti, jer njegova bit u sebi sadrži svaku savršenost, prikladno je da se ime „osoba“ kaže o Bogu. Ipak ne na isti način na koji se kaže o stvorovima, nego na izvrsniji način; kao i druga imena koja, premda smo ih mi postavili stvorovima, pripisuju se Bogu, kao što je gore pokazano kad se raspravljalo o božanskim imenima.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda se ime „osoba“ ne nalazi u Pismu Staroga ili Novoga zavjeta rečeno o Bogu, ipak se ono što to ime označuje na mnogo načina nalazi u Svetom pismu tvrđeno o Bogu: naime da je on u najvećoj mjeri po sebi biće i da najsavršenije shvaća. A kad bi o Bogu trebalo govoriti samo ono, po samim riječima, što Sveto pismo predaje o Bogu, slijedilo bi da nitko nikada ne bi mogao govoriti o Bogu ni na jednom drugom jeziku osim na onome na kojem je najprije predano Pismo Staroga ili Novoga zavjeta. A na pronalaženje novih imena koja označuju drevnu vjeru o Bogu prisilila je nužnost raspravljanja s hereticima. Niti se te novosti treba kloniti, budući da nije svjetovna, jer se ne razilazi sa smislom Pisma; Apostol pak uči da se treba kloniti svjetovnih novotarija u riječima, u 1. poslanici Timoteju, posljednjem poglavlju.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a3.ad2": {
+      "text": "Na drugo treba reći da, premda ime „osoba“ ne pristaje Bogu s obzirom na ono od čega je to ime postavljeno, ipak s obzirom na ono za čije je označivanje postavljeno u najvećoj mjeri pristaje Bogu. Budući da su se, naime, u komedijama i tragedijama predstavljali neki slavni ljudi, ime „osoba“ postavljeno je za označivanje onih koji imaju neko dostojanstvo. Zato se u crkvama običavaju nazivati osobama oni koji imaju neko dostojanstvo. Zbog toga neki definiraju osobu govoreći da je *osoba hipostaza razlikovana vlastitošću koja pripada dostojanstvu*. A budući da je velikog dostojanstva samostojati u razumskoj naravi, zato se svaki pojedinac razumske naravi naziva osobom, kao što je rečeno. Ali dostojanstvo božanske naravi nadilazi svako dostojanstvo, i u tom smislu ime „osoba“ u najvećoj mjeri pristaje Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a3.ad3": {
+      "text": "Na treće treba reći da ime „hipostaza“ ne pristaje Bogu s obzirom na ono od čega je to ime postavljeno, budući da on ne podstoji akcidentima; ali mu pristaje s obzirom na to da je postavljeno za označivanje stvari koja samostoji. A Jeronim kaže da se pod tim imenom skriva otrov zato što su, prije nego što je značenje toga imena bilo potpuno poznato kod Latina, heretici tim imenom zavaravali priproste, da bi ispovijedali više biti, kao što ispovijedaju više hipostaza; zbog toga što se ime „supstancija“, kojemu u grčkom odgovara ime „hipostaza“, kod nas općenito uzima za bit.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a3.ad4": {
+      "text": "Na četvrto treba reći da se za Boga može reći da je razumske naravi ukoliko razum ne uključuje diskurzivno zaključivanje, nego općenito umsku narav. A „pojedinačno“ ne može pristajati Bogu s obzirom na to da je počelo individuacije tvar, nego samo ukoliko uključuje nepriopćivost. A „supstancija“ pristaje Bogu ukoliko označuje opstojati po sebi. Neki ipak kažu da definicija koju je gore dao Boetije nije definicija osobe u onom smislu u kojem kažemo da su osobe u Bogu. Zbog toga je Rikard od Svetoga Viktora, želeći ispraviti tu definiciju, rekao da je osoba, ukoliko se kaže o Bogu, nepriopćiva opstojnost božanske naravi.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ime „osoba“ u božanskom ne označuje odnos, nego supstanciju. Augustin, naime, u VII. knjizi O Trojstvu kaže: *kad kažemo osoba Oca, ne kažemo ništa drugo nego supstancija Oca; osoba se, naime, kaže u odnosu na sebe, a ne u odnosu na Sina*.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a4.obj2": {
+      "text": "Osim toga, „što“ pita za bit. Ali, kako kaže Augustin na istome mjestu, kad se kaže: *tri su koji daju svjedočanstvo na nebu: Otac, Riječ i Duh* Sveti, i pita se: tri što? – odgovara se: tri osobe. Dakle, ime „osoba“ označuje bit.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a4.obj3": {
+      "text": "Osim toga, prema Filozofu u IV. knjizi Metafizike, ono što se označuje imenom jest njegova definicija. Ali definicija osobe jest pojedinačna supstancija razumske naravi, kao što je rečeno. Dakle, ime „osoba“ označuje supstanciju.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a4.obj4": {
+      "text": "Osim toga, osoba u ljudima i anđelima ne označuje odnos, nego nešto apsolutno. Kad bi, dakle, u Bogu označivala odnos, govorila bi se dvoznačno o Bogu i o ljudima i anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Boetije u knjizi O Trojstvu: da svako ime koje se odnosi na osobe označuje odnos. Ali nijedno se ime ne odnosi više na osobe nego ime „osoba“. Dakle, ime „osoba“ označuje odnos.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a4.resp": {
+      "text": "Odgovaram: treba reći da u vezi sa značenjem imena „osoba“ u božanskom poteškoću stvara to što se ono u množini pririče o trojici, protivno naravi bitnih imena; a niti se kaže „prema nečemu“, kao imena koja označuju odnos. Zato se nekima učinilo da ime „osoba“ naprosto, po snazi riječi, u božanskom označuje bit, kao ime „Bog“ i ime „mudar“, ali da je zbog navaljivanja heretika, odredbom Sabora, prilagođeno tako da se može stavljati umjesto odnosnih imena; i to osobito u množini ili s razdjelnim imenom, kao kad kažemo „tri osobe“ ili „druga je osoba Oca, druga Sina“. U jednini pak može se uzeti i za ono što je apsolutno i za ono što je odnosno. Ali to se ne čini dovoljnim razlogom. Jer kad ime „osoba“ po snazi svojega značenja ne bi imalo da u božanskom označuje išta osim biti, time što je rečeno „tri osobe“ ne bi se bila utišala kleveta heretika, nego bi im se bila dala prigoda za veću klevetu. Zato su drugi rekli da ime „osoba“ u božanskom označuje ujedno bit i odnos. Neki su od njih rekli da označuje bit u pravom padežu, a odnos u kosom padežu. Jer se osoba (persona) kaže kao da je „po sebi jedna“ (per se una), a jedinstvo pripada biti. A ono što se kaže „po sebi“ neizravno uključuje odnos: shvaća se, naime, da je Otac po sebi kao odnosom razlikovan od Sina. Neki su pak rekli obratno: da označuje odnos u pravom padežu, a bit u kosom, jer se u definiciji osobe narav stavlja u kosom padežu. I ti su se više približili istini. Da bi, dakle, ovo pitanje postalo jasno, treba uzeti u obzir da nešto pripada značenju manje općenitoga što ipak ne pripada značenju općenitijega: „razumno“ je, naime, uključeno u značenje „čovjeka“, a ipak ne pripada značenju „životinje“. Zato je jedno pitati za značenje „životinje“, a drugo pitati za značenje životinje koja je čovjek. Slično je jedno pitati za značenje imena „osoba“ općenito, a drugo za značenje božanske osobe. Osoba, naime, općenito označuje pojedinačnu supstanciju razumske naravi, kao što je rečeno. A pojedinačno je ono što je u sebi nerazlikovano, a od drugih razlikovano. Osoba, dakle, u bilo kojoj naravi označuje ono što je razlikovano u toj naravi: kao što u ljudskoj naravi označuje ovo meso i ove kosti i ovu dušu, koji su počela koja individuiraju čovjeka; a ta, premda ne pripadaju značenju osobe, ipak pripadaju značenju ljudske osobe. A razlikovanje u božanskom ne nastaje drukčije nego po odnosima podrijetla, kao što je gore rečeno. Odnos pak u božanskom nije kao akcident koji prianja uz subjekt, nego je sama božanska bit; zato samostoji, kao što samostoji božanska bit. Kao što je, dakle, božanstvo Bog, tako je božansko očinstvo Bog Otac, koji je božanska osoba. Božanska, dakle, osoba označuje odnos kao samostojeći. A to znači označivati odnos na način supstancije koja je hipostaza samostojeća u božanskoj naravi; premda ono što samostoji u božanskoj naravi nije nešto drugo nego božanska narav. I u tom je smislu istina da ime „osoba“ označuje odnos u pravom padežu, a bit u kosom; ipak ne odnos ukoliko je odnos, nego ukoliko se označuje na način hipostaze. Slično označuje i bit u pravom padežu, a odnos u kosom, ukoliko je bit isto što i hipostaza; a hipostaza se u božanskom označuje kao razlikovana odnosom; i tako odnos, označen na način odnosa, ulazi u pojam osobe u kosom padežu. I u tom se smislu također može reći da to značenje imena „osoba“ nije bilo zamijećeno prije klevete heretika; zato ime „osoba“ nije bilo u upotrebi drukčije nego kao jedno od drugih apsolutnih imena. Ali poslije je ime „osoba“ prilagođeno tako da stoji umjesto odnosnoga, zbog podudarnosti svojega značenja: naime tako da to što stoji umjesto odnosnoga nema samo od upotrebe, kako je govorilo prvo mnijenje, nego i od svojega značenja.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ime „osoba“ kaže u odnosu na sebe, a ne u odnosu na drugo, jer označuje odnos ne na način odnosa, nego na način supstancije koja je hipostaza. I u tom smislu Augustin kaže da označuje bit, ukoliko je u Bogu bit isto s hipostazom, jer se u Bogu ne razlikuje ono što jest i ono čime jest.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a4.ad2": {
+      "text": "Na drugo treba reći da „što“ ponekad pita za narav koju označuje definicija, kao kad se pita: što je čovjek? – i odgovara se: razumna smrtna životinja. Ponekad pak pita za supozit, kao kad se pita: što pliva u moru? – i odgovara se: riba. I tako je onima koji pitaju: tri što? – odgovoreno: tri osobe.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a4.ad3": {
+      "text": "Na treće treba reći da se u pojmu pojedinačne supstancije, to jest razlikovane ili nepriopćive, u božanskom shvaća odnos, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    },
+    "I.q29.a4.ad4": {
+      "text": "Na četvrto treba reći da različit pojam manje općenitih stvari ne stvara dvoznačnost u općenitijem. Premda je, naime, druga vlastita definicija konja, a druga magarca, ipak se jednoznačno slažu u imenu „životinja“, jer zajednička definicija životinje pristaje i jednomu i drugomu. Zato ne slijedi, premda je u značenju božanske osobe sadržan odnos, a nije u značenju anđeoske ili ljudske osobe, da se ime „osoba“ kaže dvoznačno. Premda se ne kaže ni jednoznačno, jer se ništa ne može reći jednoznačno o Bogu i o stvorovima, kao što je gore pokazano.",
+      "prompt_version": "1",
+      "glossary_version": 2,
+      "created_at": "2026-11-05T07:26:54+00:00"
+    }
+  }
+}
