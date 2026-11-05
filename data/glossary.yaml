@@ -1,4 +1,4 @@
-version: 2
+version: 3
 terms:
 - la: esse
   hr: bitak
@@ -843,3 +843,30 @@ terms:
   hr: kategorija
   alternatives: []
   note: Ad aliquid (the category of relation) = "prema nečemu".
+- la: proprietas
+  hr: svojstvo
+  alternatives:
+  - vlastitost
+  note: Owner's choice (2026-11-05). Personal properties in God = "osobna svojstva".
+    Proprietas significationis / verborum (propriety of meaning) stays "vlastitost";
+    proprium = "vlastito".
+- la: emanatio / emanare
+  hr: proistjecanje / proistjecati
+  alternatives:
+  - izviranje
+  note: Owner's choice. q.45 "De modo emanationis rerum" = "O načinu proistjecanja
+    stvari".
+- la: notitia
+  hr: poznavanje
+  alternatives: []
+  note: Owner's choice; keeps it distinct from scientia (znanje/znanost) and cognitio
+    (spoznaja).
+- la: trinus / trinum
+  hr: trojedin / trojedino
+  alternatives: []
+  note: Owner's choice ("trojedini Bog"); trinitas = "Trojstvo"; triplex = "trostruk";
+    ternarius = "trojni".
+- la: consubstantialis / coessentialis
+  hr: istobitan
+  alternatives: []
+  note: As in the Croatian Creed ("istobitan s Ocem"); consubstantialitas = "istobitnost".
