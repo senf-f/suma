@@ -1,0 +1,348 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 75,
+  "units": {
+    "I.q75.pr": {
+      "text": "Nakon razmatranja duhovnog i tjelesnog stvora, treba razmotriti čovjeka, koji je sastavljen od duhovne i tjelesne supstancije. I to prvo, o naravi samoga čovjeka; drugo, o njegovu proizvođenju. A teologu pripada razmatrati narav čovjeka sa strane duše, a ne sa strane tijela, osim prema odnošaju koji tijelo ima prema duši. I zato će se prvo razmatranje kretati oko duše. A budući da se, prema Dioniziju, u XI. poglavlju spisa O nebeskoj hijerarhiji, u duhovnim supstancijama nalaze tri stvari, naime bit, snaga i djelovanje, najprije ćemo razmotriti ono što pripada biti duše; drugo, ono što pripada njezinoj snazi ili moćima; treće, ono što pripada njezinu djelovanju. O prvome se nameće dvostruko razmatranje: prvo je o samoj duši po sebi, a drugo o njezinu sjedinjenju s tijelom. O prvome se pita sedam stvari. Prvo, je li duša tijelo. Drugo, je li ljudska duša nešto samostojno. Treće, jesu li duše nerazumnih životinja samostojne. Četvrto, je li duša čovjek, ili je radije čovjek nešto složeno od duše i tijela. Peto, je li duša sastavljena od tvari i forme. Šesto, je li ljudska duša nepropadljiva. Sedmo, je li duša iste vrste kao anđeo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je duša tijelo. Duša je, naime, pokretač tijela. Ali nije pokretač koji nije pokretan. S jedne strane zato što se čini da ništa ne može pokretati ako nije pokretano, jer ništa ne daje drugome ono što nema, kao što ono što nije toplo ne grije. S druge strane zato što, ako je nešto pokretač koji nije pokretan, ono uzrokuje vjekovječno gibanje koje je uvijek jednako, kako se dokazuje u VIII. knjizi Fizike; a to se ne pokazuje u gibanju životinje, koje je od duše. Dakle, duša je pokretač koji je pokretan. Ali svaki pokretač koji je pokretan jest tijelo. Dakle, duša je tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a1.obj2": {
+      "text": "Osim toga, svaka se spoznaja zbiva po nekoj sličnosti. A ne može biti sličnosti tijela s netjelesnom stvari. Kad, dakle, duša ne bi bila tijelo, ne bi mogla spoznavati tjelesne stvari.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a1.obj3": {
+      "text": "Osim toga, između pokretača i pokretanoga mora biti neki dodir. A dodira ima samo među tijelima. Budući, dakle, da duša pokreće tijelo, čini se da je duša tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a1.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u VI. knjizi O Trojstvu, da se *duša naziva jednostavnom u odnosu na tijelo, jer se svojom masom ne rasprostire po prostoru mjesta*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a1.resp": {
+      "text": "Odgovaram: treba reći da, da bi se istražila narav duše, treba pretpostaviti da se dušom naziva prvo počelo života u onim bićima koja kod nas žive; živa bića, naime, nazivamo obdarenima dušom, a stvari bez duše nazivamo lišenima života. A život se najviše očituje dvjema djelatnostima, naime spoznajom i gibanjem. Stari su filozofi, ne mogavši nadići maštu, za počelo toga postavljali neko tijelo, govoreći da su samo tijela stvari i da ono što nije tijelo nije ništa. I prema tome su govorili da je duša neko tijelo. Premda se neistinitost toga mišljenja može pokazati na mnogo načina, ipak ćemo se poslužiti jednim, kojim i općenitije i sigurnije postaje jasno da duša nije tijelo. Očito je, naime, da nije svako počelo životnog djelovanja duša; tako bi, naime, oko bilo duša, budući da je ono neko počelo gledanja; a isto bi trebalo reći i o drugim oruđima duše. Nego dušom nazivamo prvo počelo života. Premda, pak, neko tijelo može biti neko počelo života, kao što je srce počelo života u životinji, ipak neko tijelo ne može biti prvo počelo života. Očito je, naime, da biti počelo života, ili biti živo, ne pristaje tijelu zbog toga što je tijelo; inače bi svako tijelo bilo živo ili počelo života. Nekom, dakle, tijelu pristaje da bude živo, ili također počelo života, time što je takvo tijelo. A ono što je u činu takvo ima to od nekog počela koje se naziva njegovim činom. Duša, dakle, koja je prvo počelo života, nije tijelo, nego čin tijela; kao što toplina, koja je počelo grijanja, nije tijelo, nego neki čin tijela.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da je sve što se giba pokretano od drugoga, a to ne može ići u beskonačnost, nužno je reći da nije svaki pokretač pokretan. Budući, naime, da biti pokretan znači izlaziti iz mogućnosti u čin, pokretač daje ono što ima pokretljivome, ukoliko čini da ono bude u činu. Ali, kako se pokazuje u VIII. knjizi Fizike, postoji neki pokretač posve nepokretljiv, koji nije pokretan ni po sebi ni akcidentalno, i takav pokretač može uzrokovati uvijek jednoliko gibanje. A postoji drugi pokretač, koji nije pokretan po sebi, nego je pokretan akcidentalno, i zbog toga ne uzrokuje uvijek jednoliko gibanje. I takav je pokretač duša. A postoji i drugi pokretač, koji je pokretan po sebi, naime tijelo. I budući da stari prirodoslovci nisu vjerovali da postoji išta osim tijela, postavili su da je svaki pokretač pokretan, i da je duša pokretana po sebi, i da je tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a1.ad2": {
+      "text": "Na drugo treba reći da nije nužno da sličnost spoznate stvari bude u činu u naravi onoga koji spoznaje; nego ako postoji nešto što je najprije spoznavatelj u mogućnosti, a poslije u činu, treba da sličnost spoznatoga ne bude u činu u naravi spoznavatelja, nego samo u mogućnosti; kao što boja nije u zjenici u činu, nego samo u mogućnosti. Zato nije potrebno da u naravi duše bude sličnost tjelesnih stvari u činu, nego da ona bude u mogućnosti za takve sličnosti. Ali budući da stari prirodoslovci nisu znali razlikovati čin i mogućnost, postavljali su da je duša tijelo, kako bi spoznavala tijelo; i, kako bi spoznavala sva tijela, da je sastavljena od počela svih tijela.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a1.ad3": {
+      "text": "Na treće treba reći da postoji dvostruki dodir: dodir kolikoće i dodir snage. Na prvi način tijelo dodiruje samo tijelo. Na drugi način tijelo može biti dodirnuto od netjelesne stvari koja pokreće tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ljudska duša nije nešto samostojno. Ono što je samostojno, naime, naziva se ovo nešto. Ali duša nije ovo nešto, nego je to ono što je složeno od duše i tijela. Dakle, duša nije nešto samostojno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a2.obj2": {
+      "text": "Osim toga, za sve što je samostojno može se reći da djeluje. Ali za dušu se ne kaže da djeluje, jer, kako se kaže u I. knjizi O duši, *reći da duša osjeća ili shvaća isto je kao kad bi netko rekao da ona tka ili gradi*. Dakle, duša nije nešto samostojno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a2.obj3": {
+      "text": "Osim toga, kad bi duša bila nešto samostojno, imala bi neko djelovanje bez tijela. Ali ona nema nikakvo djelovanje bez tijela, pa ni shvaćanje, jer se ne događa da se shvaća bez maštovne slike, a maštovne slike nema bez tijela. Dakle, ljudska duša nije nešto samostojno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a2.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u X. knjizi O Trojstvu: *Tko god vidi da je narav duha i supstancija i da nije tjelesna, vidi da se oni koji misle da je ona tjelesna varaju zbog toga što joj pridodaju ono bez čega ne mogu zamisliti nikakvu narav, naime predodžbe tijelâ.* Narav ljudskoga duha, dakle, nije samo netjelesna, nego je i supstancija, to jest nešto samostojno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a2.resp": {
+      "text": "Odgovaram: treba reći da je nužno reći da je ono što je počelo umskog djelovanja, a što nazivamo dušom čovjeka, neko netjelesno i samostojno počelo. Očito je, naime, da čovjek umom može spoznavati naravi svih tijela. A ono što može spoznavati neke stvari ne smije ništa od njih imati u svojoj naravi, jer bi ono što bi u njemu bilo po naravi priječilo spoznaju drugih stvari; kao što vidimo da jezik bolesnika, koji je zaražen žučnim i gorkim sokom, ne može opaziti ništa slatko, nego mu se sve čini gorkim. Kad bi, dakle, umsko počelo imalo u sebi narav nekoga tijela, ne bi moglo spoznavati sva tijela. A svako tijelo ima neku određenu narav. Nemoguće je, dakle, da umsko počelo bude tijelo. I slično je nemoguće da ono shvaća po tjelesnom organu, jer bi i određena narav toga tjelesnog organa priječila spoznaju svih tijela; kao kad bi neka određena boja bila ne samo u zjenici nego i u staklenoj posudi, tekućina ulivena u nju činila bi se iste boje. Samo umsko počelo, dakle, koje se naziva duh ili um, ima djelovanje po sebi, u kojem tijelo nema udjela. A ništa ne može djelovati po sebi osim onoga što po sebi samostoji. Djelovati, naime, pripada samo biću u činu; zato nešto djeluje na onaj način na koji jest. Zbog toga ne kažemo da toplina grije, nego da grije ono što je toplo. Preostaje, dakle, da je ljudska duša, koja se naziva um ili duh, nešto netjelesno i samostojno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ovo nešto može uzeti na dva načina: na jedan način, za bilo što samostojno; na drugi način, za ono što samostoji potpuno u naravi neke vrste. Na prvi način isključuje prianjanje akcidenta i tvarne forme, a na drugi način isključuje i nesavršenost dijela. Zato bi se ruka mogla nazvati ovim nečim na prvi način, ali ne na drugi. Tako, dakle, budući da je ljudska duša dio ljudske vrste, može se nazvati ovim nečim na prvi način, kao nešto samostojno, ali ne na drugi način; na taj se način, naime, ovim nečim naziva ono što je složeno od duše i tijela.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a2.ad2": {
+      "text": "Na drugo treba reći da Aristotel one riječi ne govori prema vlastitom stavu, nego prema mišljenju onih koji su govorili da je shvaćati biti pokretan, kako je jasno iz onoga što ondje prethodno izlaže. Ili treba reći da djelovati po sebi pristaje onome što postoji po sebi. A po sebi postojećim katkad se može nazvati nešto ako ne prianja kao akcident ili kao tvarna forma, makar bilo i dio. Ali u vlastitom smislu i po sebi samostojnim naziva se ono što niti prianja na spomenuti način, niti je dio. Na taj se način oko ili ruka ne bi mogli nazvati po sebi samostojnima, pa prema tome ni po sebi djelatnima. Zato se i djelovanja dijelova pripisuju cjelini po dijelovima. Kažemo, naime, da čovjek vidi okom i opipava rukom, i to drukčije nego što toplo grije toplinom, jer toplina, u vlastitom smislu govoreći, nipošto ne grije. Može se, dakle, reći da duša shvaća kao što oko vidi; ali se u vlastitijem smislu kaže da čovjek shvaća dušom.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a2.ad3": {
+      "text": "Na treće treba reći da je tijelo potrebno za radnju uma, ne kao organ kojim bi se takva radnja vršila, nego zbog predmeta; maštovna se slika, naime, prema umu odnosi kao boja prema vidu. A to što na taj način treba tijelo ne isključuje da je um samostojan; inače životinja ne bi bila nešto samostojno, budući da za osjećanje treba vanjske osjetne stvari.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da su duše nerazumnih životinja samostojne. Čovjek se, naime, slaže u rodu s ostalim životinjama. Ali duša čovjeka nešto je samostojno, kako je pokazano. Dakle, i duše ostalih životinja jesu samostojne.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a3.obj2": {
+      "text": "Osim toga, osjetilno se prema osjetnim stvarima odnosi slično kao umsko prema umljivima. Ali um shvaća umljive stvari bez tijela. Dakle, i osjetilo zahvaća osjetne stvari bez tijela. A duše nerazumnih životinja jesu osjetilne. Dakle, one su samostojne s istim razlogom s kojim je i duša čovjeka, koja je umska.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a3.obj3": {
+      "text": "Osim toga, duša nerazumnih životinja pokreće tijelo. A tijelo ne pokreće, nego je pokretano. Duša nerazumne životinje, dakle, ima neko djelovanje bez tijela.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a3.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u knjizi O crkvenim dogmama: *Vjerujemo da samo čovjek ima supstancijalnu dušu, a duše životinja nisu supstancijalne.*",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a3.resp": {
+      "text": "Odgovaram: treba reći da stari filozofi nisu postavljali nikakvu razliku između osjetila i uma, i jedno su i drugo pripisivali tjelesnom počelu, kako je rečeno. A Platon je razlikovao um i osjetilo, ali je ipak i jedno i drugo pripisao netjelesnom počelu, postavljajući da duši po samoj sebi pristaje kako shvaćanje tako i osjećanje. A iz toga je slijedilo da su i duše nerazumnih životinja samostojne. Ali Aristotel je postavio da se od djelatnosti duše samo shvaćanje vrši bez tjelesnog organa. A osjećanje i djelovanja osjetilne duše koja iz njega slijede očito se zbivaju s nekom izmjenom tijela; kao što se u gledanju zjenica izmjenjuje spoznajnim likom boje; a isto se pokazuje i u drugima. I tako je očito da osjetilna duša nema nikakvo vlastito djelovanje po samoj sebi, nego je svako djelovanje osjetilne duše djelovanje sjedinjenoga. Iz toga preostaje da duše nerazumnih životinja, budući da ne djeluju po sebi, nisu samostojne; na sličan način, naime, svaka stvar ima bitak i djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se čovjek, iako se slaže u rodu s ostalim životinjama, ipak razlikuje po vrsti; a razlika vrste promatra se prema razlici forme. Niti je potrebno da svaka razlika forme čini različitost roda.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a3.ad2": {
+      "text": "Na drugo treba reći da se osjetilno na neki način odnosi prema osjetnim stvarima kao umsko prema umljivima, naime ukoliko je i jedno i drugo u mogućnosti prema svojim predmetima. Ali na neki se način odnose neslično, ukoliko osjetilno trpi od osjetnoga uz izmjenu tijela; zato prekomjernost osjetnih stvari razara osjetilo. A to se u umu ne događa; um, naime, koji shvaća najviše umljive stvari, poslije može još više shvaćati manje. A ako se pri shvaćanju umori tijelo, to je akcidentalno, ukoliko um treba djelovanje osjetilnih snaga, po kojima mu se pripremaju maštovne slike.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a3.ad3": {
+      "text": "Na treće treba reći da je pokretna snaga dvostruka. Jedna je ona koja zapovijeda gibanje, naime težnjena. I njezino djelovanje u osjetilnoj duši nije bez tijela, nego su srdžba i radost i sve takve strasti s nekom izmjenom tijela. Druga je pokretna snaga ona koja izvršava gibanje, po kojoj udovi postaju prikladni da se pokoravaju težnji; a njezin čin nije pokretati, nego biti pokretan. Zato je jasno da pokretati nije čin osjetilne duše bez tijela.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je duša čovjek. Kaže se, naime, u 2 Kor 4: *Premda naš vanjski čovjek propada, ipak se onaj unutarnji obnavlja iz dana u dan.* Ali ono što je unutra u čovjeku jest duša. Dakle, duša je unutarnji čovjek.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a4.obj2": {
+      "text": "Osim toga, ljudska je duša neka supstancija. A nije opća supstancija. Dakle, ona je pojedinačna supstancija. Dakle, ona je hipostaza ili osoba. Ali samo ljudska. Dakle, duša je čovjek, jer ljudska osoba jest čovjek.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a4.sc": {
+      "text": "Ali protiv toga jest to što Augustin u XIX. knjizi O Božjem gradu hvali Varona, *koji je smatrao da čovjek nije ni sama duša ni samo tijelo, nego duša i tijelo zajedno*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a4.resp": {
+      "text": "Odgovaram: treba reći da se to da je duša čovjek može razumjeti na dva načina. Na jedan način, da je čovjek duša, ali da ovaj čovjek, na primjer Sokrat, nije duša, nego ono što je složeno od duše i tijela. A to kažem zato što su neki postavili da pojmu vrste pripada samo forma, a da je tvar dio pojedinca, a ne vrste. A to ne može biti istinito. Naravi vrste, naime, pripada ono što označuje definicija. A definicija u prirodnim stvarima ne označuje samo formu, nego formu i tvar. Zato je tvar dio vrste u prirodnim stvarima; ne, doduše, označena tvar, koja je počelo individuacije, nego zajednička tvar. Kao što, naime, pojmu ovoga čovjeka pripada da bude od ove duše i ovoga mesa i ovih kostiju, tako pojmu čovjeka pripada da bude od duše i mesa i kostiju. Supstanciji vrste, naime, mora pripadati sve ono što zajednički pripada supstanciji svih pojedinaca obuhvaćenih vrstom. Na drugi se način to može razumjeti tako da je i ova duša ovaj čovjek. I to bi se doduše moglo braniti kad bi se postavilo da je djelovanje osjetilne duše njezino vlastito bez tijela, jer bi sva djelovanja koja se pripisuju čovjeku pristajala samo duši; a svaka je stvar ono što vrši djelovanja te stvari. Zato je čovjek ono što vrši djelovanja čovjeka. A pokazano je da osjećanje nije djelovanje samo duše. Budući, dakle, da je osjećanje neko djelovanje čovjeka, premda ne vlastito, očito je da čovjek nije samo duša, nego je nešto složeno od duše i tijela. Platon pak, postavljajući da je osjećanje vlastito duši, mogao je postaviti da je čovjek duša koja se služi tijelom.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, prema Filozofu u IX. knjizi Etike, čini da je svaka stvar ponajviše ono što je u njoj glavno; kao što se za ono što čini upravitelj grada kaže da čini grad. I na taj se način katkad ono što je glavno u čovjeku naziva čovjekom: katkad umski dio, prema istini stvari, koji se naziva unutarnjim čovjekom; a katkad osjetilni dio zajedno s tijelom, prema mnijenju nekih koji se zadržavaju samo na osjetnim stvarima. I to se naziva vanjskim čovjekom.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a4.ad2": {
+      "text": "Na drugo treba reći da nije svaka pojedinačna supstancija hipostaza ili osoba, nego ona koja ima potpunu narav vrste. Zato se ruka ili noga ne može nazvati hipostazom ili osobom. I slično ni duša, budući da je dio ljudske vrste.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je duša sastavljena od tvari i forme. Mogućnost se, naime, dijeli nasuprot činu. Ali sve što je u činu ima udjela u prvom činu, koji je Bog; po sudjelovanju u njemu sve je i dobro i biće i živo, kako je jasno iz Dionizijeva nauka u knjizi O božanskim imenima. Dakle, sve što je u mogućnosti ima udjela u prvoj mogućnosti. Ali prva je mogućnost prva tvar. Budući, dakle, da je ljudska duša na neki način u mogućnosti, što se pokazuje iz toga što je čovjek katkad shvaćatelj u mogućnosti, čini se da ljudska duša ima udjela u prvoj tvari kao u svojem dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a5.obj2": {
+      "text": "Osim toga, u čemu god se nalaze svojstva tvari, ondje se nalazi tvar. Ali u duši se nalaze svojstva tvari, a to su biti podložan i biti preinačen; ona je, naime, podložna znanju i kreposti, i mijenja se iz neznanja u znanje i iz poroka u krepost. Dakle, u duši ima tvari.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a5.obj3": {
+      "text": "Osim toga, one stvari koje nemaju tvari nemaju uzroka svojega bitka, kako se kaže u VIII. knjizi Metafizike. Ali duša ima uzrok svojega bitka, jer je stvara Bog. Dakle, duša ima tvar.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a5.obj4": {
+      "text": "Osim toga, ono što nema tvari, nego je samo forma, jest čisti i beskonačni čin. A to pripada samo Bogu. Dakle, duša ima tvar.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a5.sc": {
+      "text": "Ali protiv toga jest ono što Augustin dokazuje u VII. knjizi O doslovnom tumačenju Knjige postanka, da duša nije učinjena ni iz tjelesne tvari ni iz duhovne tvari.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a5.resp": {
+      "text": "Odgovaram: treba reći da duša nema tvari. A to se može razmotriti na dva načina. Prvo, iz pojma duše općenito. Pojmu duše, naime, pripada da je forma nekoga tijela. Ona je, dakle, forma ili po sebi cijeloj ili po nekom svojem dijelu. Ako je forma po sebi cijeloj, nemoguće je da njezin dio bude tvar, ako se tvarju naziva neko biće samo u mogućnosti; jer forma, ukoliko je forma, jest čin, a ono što je samo u mogućnosti ne može biti dio čina, budući da se mogućnost protivi činu, jer se dijeli nasuprot činu. A ako je forma po nekom svojem dijelu, onaj ćemo dio nazvati dušom, a onu tvar čiji je ona prvotno čin nazvat ćemo prvim oživljenim. Drugo, posebno iz pojma ljudske duše, ukoliko je umska. Očito je, naime, da se sve što se prima u nečemu prima u njemu na način primatelja. A svaka se stvar spoznaje onako kako je njezina forma u spoznavatelju. A umska duša spoznaje neku stvar u njezinoj naravi apsolutno, na primjer kamen ukoliko je kamen apsolutno. Forma kamena, dakle, apsolutno, prema svojem vlastitom formalnom pojmu, jest u umskoj duši. Umska je duša, dakle, apsolutna forma, a ne nešto složeno od tvari i forme. Kad bi, naime, umska duša bila sastavljena od tvari i forme, forme bi se stvari primale u njoj kao pojedinačne, i tako ne bi spoznavala ništa osim pojedinačnoga, kao što se događa u osjetilnim moćima, koje primaju forme stvari u tjelesnom organu; tvar je, naime, počelo individuacije formi. Preostaje, dakle, da je umska duša, i svaka umska supstancija koja spoznaje forme apsolutno, lišena sastavljenosti od forme i tvari.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je prvi čin opće počelo svih činova, jer je beskonačan, virtualno unaprijed imajući sve u sebi, kako kaže Dionizije. Zato stvari imaju udjela u njemu ne kao u dijelu, nego prema razlijevanju njegova izlaženja. A mogućnost, budući da je primateljica čina, mora biti razmjerna činu. A primljeni činovi, koji izlaze od prvoga beskonačnog čina i neka su sudjelovanja u njemu, različiti su. Zato ne može biti jedna mogućnost koja bi primala sve činove, kao što je jedan čin koji ulijeva sve činove u kojima se sudjeluje; inače bi primajuća mogućnost bila jednaka djelatnoj moći prvoga čina. A u umskoj je duši primajuća mogućnost druga od primajuće mogućnosti prve tvari, kako je jasno iz različitosti primljenoga: prva tvar, naime, prima pojedinačne forme, a um prima apsolutne forme. Zato takva mogućnost koja postoji u umskoj duši ne pokazuje da je duša sastavljena od tvari i forme.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a5.ad2": {
+      "text": "Na drugo treba reći da biti podložan i biti preinačen pristaje tvari ukoliko je u mogućnosti. Kao što je, dakle, jedna mogućnost uma, a druga mogućnost prve tvari, tako je i drugi pojam podlaganja i preinačivanja. Um je, naime, podložan znanju i preinačuje se iz neznanja u znanje ukoliko je u mogućnosti prema umljivim spoznajnim likovima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a5.ad3": {
+      "text": "Na treće treba reći da je forma uzrok bitka tvari, a tako i djelatnik; zato je djelatnik, ukoliko svodi tvar u čin forme preinačujući je, njoj uzrok bitka. Ali ako je nešto samostojna forma, ono nema bitak po nekom formalnom počelu, niti ima uzrok koji bi ga preinačivao iz mogućnosti u čin. Zato Filozof nakon navedenih riječi zaključuje da u onim stvarima koje su složene od tvari i forme *nema drugoga uzroka osim onoga što pokreće iz mogućnosti u čin; a sve one stvari koje nemaju tvari naprosto jesu ono što jesu, kao uistinu neka bića*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a5.ad4": {
+      "text": "Na četvrto treba reći da se sve u čemu se sudjeluje odnosi prema onome što sudjeluje kao njegov čin. A koja god se stvorena forma postavi kao po sebi samostojna, ona mora imati udjela u bitku; jer i sam život, ili što god bi se tako nazvalo, ima udjela u samome bitku, kako kaže Dionizije u V. poglavlju spisa O božanskim imenima. A bitak u kojem se sudjeluje ograničen je prema sposobnosti onoga što sudjeluje. Zato je samo Bog, koji je sam svoj bitak, čisti i beskonačni čin. A u umskim supstancijama postoji sastavljenost od čina i mogućnosti; ne, doduše, od tvari i forme, nego od forme i bitka u kojem se sudjeluje. Zato neki kažu da su one sastavljene od onoga čime jest i onoga što jest; sam bitak, naime, jest ono čime nešto jest.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je ljudska duša propadljiva. Čini se, naime, da stvari koje imaju slično počelo i sličan tijek imaju i sličan kraj. Ali slično je počelo nastajanja ljudi i stoke, jer su učinjeni od zemlje. Sličan je također tijek života i jednih i drugih, jer *svi slično dišu, i čovjek nema ništa više od stoke*, kako se kaže u Prop 3. Dakle, kako se ondje zaključuje, *jedna je propast čovjeka i stoke, i jednako je stanje i jednih i drugih*. Ali duša nerazumnih životinja jest propadljiva. Dakle, i ljudska je duša propadljiva.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a6.obj2": {
+      "text": "Osim toga, sve što je iz ničega može se pretvoriti u ništa, jer kraj mora odgovarati početku. Ali, kako se kaže u Mudr 2, *iz ničega smo rođeni*; a to je istinito ne samo s obzirom na tijelo, nego i s obzirom na dušu. Dakle, kako se ondje zaključuje, poslije toga bit ćemo kao da nismo ni bili, i to s obzirom na dušu.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a6.obj3": {
+      "text": "Osim toga, nijedna stvar nije bez vlastitoga djelovanja. Ali vlastito djelovanje duše, a to je shvaćanje s maštovnom slikom, ne može biti bez tijela; duša, naime, ne shvaća ništa bez maštovne slike, a maštovne slike nema bez tijela, kako se kaže u knjizi O duši. Dakle, duša ne može ostati kad se tijelo razori.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a6.sc": {
+      "text": "Ali protiv toga jest ono što kaže Dionizije u IV. poglavlju spisa O božanskim imenima, da ljudske duše imaju od božanske dobrote to da su umske i da imaju supstancijalni neuništivi život.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a6.resp": {
+      "text": "Odgovaram: treba reći da je nužno reći da je ljudska duša, koju nazivamo umskim počelom, nepropadljiva. Nešto, naime, propada na dva načina: na jedan način po sebi, na drugi način akcidentalno. A nemoguće je da nešto samostojno nastaje ili propada akcidentalno, to jest time što nešto drugo nastaje ili propada. Nekoj stvari, naime, pristaje nastajati i propadati onako kako joj pristaje i bitak, koji se nastajanjem stječe, a propadanjem gubi. Zato ono što ima bitak po sebi ne može nastati ili propasti osim po sebi; a za ono što ne samostoji, kao što su akcidenti i tvarne forme, kaže se da nastaje i propada nastajanjem i propadanjem složenih stvari. A gore je pokazano da duše nerazumnih životinja nisu po sebi samostojne, nego samo ljudska duša. Zato duše nerazumnih životinja propadaju kad propadnu tijela, dok ljudska duša ne bi mogla propasti kad ne bi propadala po sebi. A to je posve nemoguće ne samo za nju, nego i za bilo što samostojno što je samo forma. Očito je, naime, da je ono što nečemu pripada po njemu samome od njega neodvojivo. A bitak po sebi pripada formi, koja je čin. Zato tvar stječe bitak u činu time što stječe formu, a propadanje se u njoj događa time što se forma od nje odvaja. A nemoguće je da se forma odvoji od same sebe. Zato je nemoguće da samostojna forma prestane biti. A i kad bi se pretpostavilo da je duša sastavljena od tvari i forme, kako neki kažu, još bi je trebalo postaviti kao nepropadljivu. Propadanje se, naime, nalazi samo ondje gdje se nalazi protivnost; nastajanja i propadanja su, naime, iz protivnoga i u protivno. Zato su nebeska tijela nepropadljiva, jer nemaju tvari podložne protivnosti. A u umskoj duši ne može biti nikakve protivnosti. Ona, naime, prima prema načinu svojega bitka, a ono što se u njoj prima jest bez protivnosti; jer ni pojmovi protivnih stvari u umu nisu protivni, nego je jedno znanje o protivnima. Nemoguće je, dakle, da umska duša bude propadljiva. Znak se toga može uzeti i iz toga što svaka stvar po naravi na svoj način želi bitak. A želja u stvarima koje spoznaju slijedi spoznaju. Osjetilo pak spoznaje bitak samo pod ovdje i sada, a um zahvaća bitak apsolutno i prema svakom vremenu. Zato sve što ima um po naravi želi uvijek biti. A naravna želja ne može biti uzaludna. Svaka je, dakle, umska supstancija nepropadljiva.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da Salomon navodi onaj razlog u ime bezumnika, kako je izraženo u Mudr 2. Što se, dakle, kaže da čovjek i druge životinje imaju slično počelo nastajanja, istinito je s obzirom na tijelo; sve su, naime, životinje slično učinjene od zemlje. Ali nije istinito s obzirom na dušu; duša nerazumnih životinja, naime, proizvodi se iz neke tjelesne snage, a ljudska duša od Boga. I da bi se to označilo, s obzirom na druge životinje kaže se u Knjizi postanka: neka zemlja proizvede živu dušu; a s obzirom na čovjeka kaže se da mu je udahnuo u lice dah života. I zato se u posljednjem poglavlju Propovjednika zaključuje: *Neka se prah vrati u svoju zemlju, odakle je bio, a duh neka se vrati Bogu koji ga je dao.* Isto je tako tijek života sličan s obzirom na tijelo; tome pripada ono što se kaže u Propovjedniku: *svi slično dišu*; i u Mudr 2: *Dim je i dah u našim nosnicama* i tako dalje. Ali tijek nije sličan s obzirom na dušu, jer čovjek shvaća, a nerazumne životinje ne. Zato je neistinito ono što se kaže: čovjek nema ništa više od stoke. I zato je propast slična s obzirom na tijelo, ali ne s obzirom na dušu.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a6.ad2": {
+      "text": "Na drugo treba reći da, kao što se za nešto kaže da može biti stvoreno ne po pasivnoj mogućnosti, nego samo po aktivnoj moći Stvoritelja, koji može nešto proizvesti iz ničega, tako i kad se kaže da se nešto može pretvoriti u ništa, ne izražava se u stvoru mogućnost za nebitak, nego u Stvoritelju moć da ne ulije bitak. A za nešto se kaže da je propadljivo time što je u njemu mogućnost za nebitak.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a6.ad3": {
+      "text": "Na treće treba reći da je shvaćanje s maštovnom slikom vlastito djelovanje duše ukoliko je sjedinjena s tijelom. A odijeljena od tijela imat će drugi način shvaćanja, sličan drugim supstancijama odijeljenima od tijela, kako će niže biti bolje jasno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da su duša i anđeo jedne vrste. Svaka je stvar, naime, usmjerena prema vlastitoj svrsi po naravi svoje vrste, po kojoj ima nagnuće prema svrsi. Ali ista je svrha duše i anđela, naime vječno blaženstvo. Dakle, oni su jedne vrste.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a7.obj2": {
+      "text": "Osim toga, posljednja specifična razlika jest najplemenitija, jer dovršava pojam vrste. Ali u anđelu i duši nema ništa plemenitije od umskog bitka. Dakle, duša i anđeo slažu se u posljednjoj specifičnoj razlici. Dakle, oni su jedne vrste.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a7.obj3": {
+      "text": "Osim toga, čini se da se duša od anđela razlikuje samo po tome što je sjedinjena s tijelom. A čini se da tijelo, budući da je izvan biti duše, ne pripada njezinoj vrsti. Dakle, duša i anđeo jedne su vrste.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a7.sc": {
+      "text": "Ali protiv toga, stvari koje imaju različita naravna djelovanja razlikuju se po vrsti. Ali duša i anđeo imaju različita naravna djelovanja, jer, kako kaže Dionizije u VII. poglavlju spisa O božanskim imenima, *anđeoski duhovi imaju jednostavne i blažene umove, ne skupljajući božansku spoznaju iz vidljivih stvari*; a o duši poslije kaže suprotno od toga. Duša i anđeo, dakle, nisu jedne vrste.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a7.resp": {
+      "text": "Odgovaram: treba reći da je Origen postavio da su sve ljudske duše i anđeli jedne vrste. A to zato što je postavio da je različitost stupnja koja se nalazi u takvim supstancijama akcidentalna, budući da proizlazi iz slobodnog odlučivanja, kako je gore rečeno. A to ne može biti, jer u netjelesnim supstancijama ne može biti različitosti po broju bez različitosti po vrsti i bez naravne nejednakosti. Jer, ako nisu sastavljene od tvari i forme, nego su samostojne forme, očito je da će u njima nužno biti različitost po vrsti. Ne može se, naime, zamisliti da bi neka odijeljena forma bila drukčije nego jedna jedne vrste; kao kad bi postojala odijeljena bjelina, ne bi mogla biti nego samo jedna; ova se bjelina, naime, ne razlikuje od one osim po tome što je ovoga ili onoga. A različitost po vrsti uvijek ima popratnu naravnu različitost; kao što je među vrstama boja jedna savršenija od druge, a slično i u drugima. A to zato što su razlike koje dijele rod protivne; a protivne stvari odnose se kao savršeno i nesavršeno, jer je počelo protivnosti lišenost i posjedovanje, kako se kaže u X. knjizi Metafizike. Isto bi slijedilo i kad bi takve supstancije bile sastavljene od tvari i forme. Ako se, naime, tvar ove razlikuje od tvari one, nužno je ili da forma bude počelo razlikovanja tvari, naime tako da su tvari različite zbog odnošaja prema različitim formama, i tada opet slijedi različitost po vrsti i naravna nejednakost; ili će tvar biti počelo razlikovanja formi, a neće se moći reći da je ova tvar drukčija od one osim po kvantitativnoj podjeli, koja nema mjesta u netjelesnim supstancijama, kakve su anđeo i duša. Zato ne može biti da su anđeo i duša jedne vrste. A kako ima više duša jedne vrste, pokazat će se niže.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj razlog govori o najbližoj i naravnoj svrsi. A vječno je blaženstvo posljednja i nadnaravna svrha.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a7.ad2": {
+      "text": "Na drugo treba reći da je posljednja specifična razlika najplemenitija ukoliko je najodređenija, na način na koji je čin plemenitiji od mogućnosti. A na taj način umsko nije najplemenitije, jer je neodređeno i zajedničko mnogim stupnjevima umnosti, kao što je osjetno zajedničko mnogim stupnjevima u osjetnom bitku. Zato, kao što sve osjetne stvari nisu jedne vrste, tako ni sve umske.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q75.a7.ad3": {
+      "text": "Na treće treba reći da tijelo ne pripada biti duše, ali duša iz naravi svoje biti ima to da je sjediniva s tijelom. Zato u vlastitom smislu ni duša nije u vrsti, nego složeno. I samo to što duša na neki način treba tijelo za svoje djelovanje pokazuje da duša zauzima niži stupanj umnosti nego anđeo, koji se ne sjedinjuje s tijelom.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    }
+  }
+}

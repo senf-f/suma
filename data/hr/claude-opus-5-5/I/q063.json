@@ -1,0 +1,468 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 63,
+  "units": {
+    "I.q63.pr": {
+      "text": "Zatim treba razmotriti kako su anđeli postali zli. I to najprije s obzirom na zlo krivnje; drugo, s obzirom na zlo kazne. O prvome se pita devet stvari. Prvo, može li u anđelu biti zla krivnje. Drugo, kakvi grijesi mogu biti u njima. Treće, za čim je anđeo težeći sagriješio. Četvrto, pretpostavivši da su neki postali zli grijehom vlastite volje, jesu li neki zli po naravi. Peto, pretpostavivši da nisu, je li netko od njih u prvom trenutku svojega stvaranja mogao biti zao činom vlastite volje. Šesto, pretpostavivši da nije, je li bilo kakva vremenskog razmaka između stvaranja i pada. Sedmo, je li najviši među onima koji su pali bio naprosto najviši među svim anđelima. Osmo, je li grijeh prvoga anđela bio drugima neki uzrok griješenja. Deveto, je li ih palo onoliko koliko ih je ostalo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u anđelima ne može biti zla krivnje. Zlo, naime, može biti samo u onome što je u mogućnosti, kako se kaže u IX. knjizi Metafizike; subjekt je, naime, lišenosti biće u mogućnosti. Ali anđeli, budući da su samostojne forme, nemaju bitak u mogućnosti. Dakle, u njima ne može biti zla.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a1.obj2": {
+      "text": "Osim toga, anđeli su dostojanstveniji od nebeskih tijela. Ali u nebeskim tijelima ne može biti zla, kako kažu filozofi. Dakle, ni u anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a1.obj3": {
+      "text": "Osim toga, ono što je naravno uvijek je prisutno. Ali anđelima je naravno da se pokreću pokretom ljubavi prema Bogu. Dakle, to im se ne može oduzeti. Ali ljubeći Boga ne griješe. Dakle, anđeli ne mogu griješiti.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a1.obj4": {
+      "text": "Osim toga, težnja je samo za dobrim ili za prividnim dobrim. Ali u anđelima ne može biti prividnog dobra koje ne bi bilo istinsko dobro, jer u njima ili uopće ne može biti zablude ili barem zabluda ne može prethoditi krivnji. Dakle, anđeli mogu težiti samo za onim što je uistinu dobro. Ali nitko ne griješi težeći za onim što je uistinu dobro. Dakle, anđeo težeći ne griješi.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Job 4: *u svojim je anđelima našao opakost*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a1.resp": {
+      "text": "Odgovaram: treba reći da i anđeo i bilo koji razumski stvor, ako se promatra samo u svojoj naravi, može griješiti; a kojem god stvoru pripada to da ne može griješiti, to ima od dara milosti, a ne iz uvjeta naravi. Razlog je tome što griješiti nije ništa drugo nego odstupiti od ispravnosti koju čin treba imati, bilo da se grijeh uzme u naravnim stvarima, bilo u proizvodima umijeća, bilo u moralnim. A jedino onaj čin ne može odstupiti od ispravnosti čije je pravilo sama snaga djelatnika. Kad bi, naime, ruka obrtnika bila samim pravilom rezanja, obrtnik nikada ne bi mogao drvo rezati drukčije nego ispravno; ali ako je ispravnost rezanja od drugoga pravila, može se dogoditi da rezanje bude ispravno i neispravno. A jedino je božanska volja pravilo svojega čina, jer nije usmjerena prema višoj svrsi. Svaka pak volja bilo kojega stvora ima ispravnost u svojem činu samo ukoliko je ravnana božanskom voljom, kojoj pripada posljednja svrha; kao što se svaka volja nižega treba ravnati prema volji višega, kao volja vojnika prema volji vojskovođe. Tako, dakle, jedino u božanskoj volji ne može biti grijeha, a u svakoj volji stvora može biti grijeha, prema uvjetu njegove naravi.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da u anđelima nema mogućnosti s obzirom na naravni bitak. Ipak u njima postoji mogućnost s obzirom na umski dio, za to da se obrate prema ovome ili prema onome. I s obzirom na to u njima može biti zla.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a1.ad2": {
+      "text": "Na drugo treba reći da nebeska tijela imaju samo naravno djelovanje. I zato, kao što u njihovoj naravi ne može biti zla propadanja, tako ni u njihovoj naravnoj radnji ne može biti zla nereda. Ali u anđelima je iznad naravne radnje radnja slobodnog odlučivanja, prema kojoj se može dogoditi da u njima bude zla.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a1.ad3": {
+      "text": "Na treće treba reći da je anđelu naravno da se pokretom ljubavi obraća prema Bogu ukoliko je on počelo naravnoga bitka. A to da se obraća prema njemu ukoliko je on predmet nadnaravnoga blaženstva, to je od darovane ljubavi, od koje se griješeći mogao odvratiti.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a1.ad4": {
+      "text": "Na četvrto treba reći da se grijeh u činu slobodnog odlučivanja može dogoditi na dva načina. Na jedan način tako da se izabere neko zlo, kao što čovjek griješi izabirući preljub, koji je po sebi zao. I takav grijeh uvijek proizlazi iz nekoga neznanja ili zablude; inače ono što je zlo ne bi bilo izabrano kao dobro. Preljubnik se, naime, vara u pojedinačnome kad, zbog sklonosti strasti ili habitusa, izabire ovaj užitak neuredna čina kao nešto dobro što sada treba učiniti, iako se ne vara u općemu, nego o tome drži istinsko mišljenje. Na taj način u anđelu nije mogao biti grijeh, jer ni u anđelima nema strasti kojima bi se vezao razum ili um, kao što je jasno iz gore rečenoga; niti je, opet, prvome grijehu mogao prethoditi habitus koji bi naginjao grijehu. Na drugi se način može griješiti slobodnim odlučivanjem tako da se izabere nešto što je po sebi dobro, ali ne s redom dužne mjere ili pravila; tako da nedostatak koji uvodi grijeh bude samo s obzirom na izbor, koji nema dužnoga reda, a ne s obzirom na izabranu stvar; kao kad bi netko izabrao moliti ne pazeći na red koji je ustanovila Crkva. I takav grijeh ne pretpostavlja neznanje, nego samo odsutnost razmatranja onoga što treba razmotriti. I na taj je način anđeo sagriješio, obraćajući se slobodnim odlučivanjem prema vlastitom dobru, bez usmjerenosti prema pravilu božanske volje.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da u anđelima ne može biti samo grijeh oholosti i zavisti. Na koga god, naime, pada užitak nekoga grijeha, na toga može pasti i taj grijeh. Ali demoni uživaju i u bestidnostima tjelesnih grijeha, kako kaže Augustin u II. knjizi O Božjem gradu. Dakle, u demonima mogu biti i tjelesni grijesi.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a2.obj2": {
+      "text": "Osim toga, kao što su oholost i zavist duhovni grijesi, tako su to i lijenost, škrtost i srdžba. Ali duhu pristaju duhovni grijesi, kao i tijelu tjelesni grijesi. Dakle, u anđelima mogu biti ne samo oholost i zavist nego i lijenost i škrtost.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a2.obj3": {
+      "text": "Osim toga, prema Grguru u Moralijama, iz oholosti se rađa više poroka, a slično i iz zavisti. A kad se postavi uzrok, postavlja se i učinak. Ako, dakle, u anđelima mogu biti oholost i zavist, s istoga razloga u njima mogu biti i drugi poroci.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XIV. knjizi O Božjem gradu, da *đavao nije bludnik ni pijanica, niti išta takvo, ali jest ohol i zavidan*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a2.resp": {
+      "text": "Odgovaram: treba reći da neki grijeh može biti u nekome na dva načina: na jedan način prema odgovornosti za grijeh; na drugi način prema privrženosti. Prema odgovornosti, dakle, u demonima mogu biti svi grijesi, jer, dok ljude navode na sve grijehe, navlače na sebe odgovornost za sve grijehe. Prema privrženosti pak u zlim anđelima mogu biti samo oni grijesi kojima duhovna narav može biti privržena. A duhovna narav ne može biti privržena dobrima koja su vlastita tijelu, nego onima koja se mogu naći u duhovnim stvarima; ništa, naime, nije privrženo nečemu osim onome što na neki način može biti primjereno njegovoj naravi. U duhovnim pak dobrima ne može biti grijeha dok je netko njima privržen, osim time što se u takvoj privrženosti ne čuva pravilo višega. A to je grijeh oholosti: ne podložiti se višemu u onome u čemu treba. Stoga prvi grijeh anđela nije mogao biti ništa drugo nego oholost. Ali posljedično je u njima mogla biti i zavist. Istoga je, naime, pojma da privrženost teži prema nečemu za čim valja težiti i da se opire suprotnome. A zavidnik žali zbog tuđega dobra zato što tuđe dobro smatra zaprekom vlastitom dobru. A tuđe se dobro nije moglo smatrati zaprekom dobru za kojim je zli anđeo žudio, osim ukoliko je žudio za jedinstvenom izvrsnošću, koja jedinstvenost prestaje zbog izvrsnosti drugoga. I zato je nakon grijeha oholosti u anđelu koji je griješio uslijedilo zlo zavisti, ukoliko je žalio zbog čovjekova dobra; pa i zbog božanske izvrsnosti, ukoliko se Bog njime, protiv volje samoga đavla, služi na božansku slavu.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da demoni ne uživaju u bestidnostima tjelesnih grijeha kao da bi sami bili privrženi tjelesnim užicima, nego sve to proizlazi iz zavisti: to što uživaju u bilo kakvim grijesima ljudi, ukoliko su oni zapreke ljudskome dobru.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a2.ad2": {
+      "text": "Na drugo treba reći da je škrtost, ukoliko je poseban grijeh, neumjerena težnja za vremenitim stvarima koje služe za upotrebu u ljudskom životu, a koje se mogu procijeniti novcem; i tome demoni nisu privrženi, kao ni tjelesnim užicima. Stoga škrtost uzeta u vlastitom smislu ne može biti u njima. Ali ako se škrtošću nazove svaka neumjerena požuda za posjedovanjem bilo kojega stvorenog dobra, tada je škrtost sadržana u oholosti koja je u demonima. Srdžba je pak povezana s nekom strašću, kao i požuda. Stoga ona u demonima ne može biti osim preneseno. A lijenost je neka žalost kojom čovjek postaje trom za duhovne čine zbog tjelesnoga napora, koji demonima ne pripada. I tako je jasno da su jedino oholost i zavist čisto duhovni grijesi koji mogu pripadati demonima; ipak tako da se zavist ne uzme kao strast, nego kao volja koja se opire tuđemu dobru.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a2.ad3": {
+      "text": "Na treće treba reći da su pod zavišću i ohološću, kako se postavljaju u demonima, obuhvaćeni svi grijesi koji iz njih proizlaze.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da đavao nije težio biti kao Bog. Ono, naime, što ne pada u zahvaćanje, ne pada ni u težnju, budući da zahvaćeno dobro pokreće težnju, bilo osjetnu, bilo razumsku, bilo umsku (jer samo u takvoj težnji može biti grijeha). Ali da je neki stvor jednak Bogu, ne pada u zahvaćanje, jer uključuje protuslovlje: nužno bi, naime, bilo da konačno bude beskonačno ako se izjednačuje s beskonačnim. Dakle, anđeo nije mogao težiti biti kao Bog.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a3.obj2": {
+      "text": "Osim toga, ono što je svrha naravi može se bez grijeha težiti. Ali upriličiti se Bogu jest svrha prema kojoj po naravi teži svaki stvor. Ako je, dakle, anđeo težio biti kao Bog, ne po jednakosti nego po sličnosti, čini se da u tome nije sagriješio.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a3.obj3": {
+      "text": "Osim toga, anđeo je stvoren s većom puninom mudrosti nego čovjek. Ali nijedan čovjek, osim posve bezuman, ne izabire biti jednak anđelu, a kamoli Bogu, jer izbor je samo o onome što je moguće, o čemu se vijeća. Dakle, još je manje anđeo sagriješio težeći biti kao Bog.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iz 14, iz đavlove osobe: *uzići ću na nebo i bit ću sličan Svevišnjemu*. I Augustin kaže u knjizi Pitanja o Starom zavjetu da je, napuhan uznositošću, htio da ga nazivaju Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a3.resp": {
+      "text": "Odgovaram: treba reći da je anđeo bez ikakve sumnje sagriješio težeći biti kao Bog. Ali to se može shvatiti na dva načina: na jedan način po izjednačenju, na drugi način po sličnosti. Na prvi način nije mogao težiti biti kao Bog, jer je naravnom spoznajom znao da je to nemoguće; niti je prvome činu griješenja u njemu prethodio habitus ili strast koja bi vezala njegovu spoznajnu snagu, tako da bi, zastranjujući u pojedinačnome, izabrao nemoguće, kao što se kod nas katkad događa. A ipak, i kad bi to bilo moguće, bilo bi protiv naravne želje. Svakome je, naime, svojstvena naravna želja za očuvanjem svojega bitka, koji se ne bi očuvao kad bi se preinačio u drugu narav. Stoga nijedna stvar koja je na nižem stupnju naravi ne može težiti za stupnjem više naravi, kao što magarac ne teži biti konj, jer kad bi bio prenesen na stupanj više naravi, više ne bi bio on sam. Ali u tome se mašta vara: budući da čovjek teži biti na višem stupnju s obzirom na neke akcidentalne stvari, koje mogu rasti bez propadanja subjekta, smatra se da bi mogao težiti za višim stupnjem naravi, do kojega ne bi mogao doći a da ne prestane postojati. Očito je pak da Bog nadilazi anđela ne po nekim akcidentalnim stvarima, nego po stupnju naravi, a tako i jedan anđeo drugoga. Stoga je nemoguće da niži anđeo teži biti jednak višemu, a kamoli da teži biti jednak Bogu. A težiti biti kao Bog po sličnosti može se na dva načina. Na jedan način s obzirom na ono u čemu je nešto po naravi takvo da se upriliči Bogu. I tako, ako netko s obzirom na to teži biti sličan Bogu, ne griješi, samo ako za Božjom sličnošću teži da je stekne dužnim redom, to jest da je ima od Boga. Griješio bi pak kad bi netko težio biti sličan Bogu čak i po pravednosti, ali kao vlastitom snagom, a ne snagom Božjom. Na drugi način netko može težiti biti sličan Bogu s obzirom na ono u čemu po naravi nije takav da se upriliči; kao kad bi netko težio stvoriti nebo i zemlju, što je vlastito Bogu; u takvoj bi težnji bilo grijeha. I na taj je način đavao težio biti kao Bog. Ne tako da bi mu se upriličio s obzirom na to da nikome naprosto ne bude podložan, jer bi tako težio i za svojim nebitkom, budući da nijedan stvor ne može postojati osim time što ima udjela u bitku pod Bogom. Nego je u tome težio biti sličan Bogu što je kao posljednju svrhu blaženstva težio za onim do čega je mogao doći snagom svoje naravi, odvraćajući svoju težnju od nadnaravnoga blaženstva, koje je od Božje milosti. Ili, ako je kao posljednju svrhu težio za onom Božjom sličnošću koja se daje milošću, htio ju je imati snagom svoje naravi, a ne božanskom pomoći prema Božjem rasporedu. I to se slaže s riječima Anselma, koji kaže da je težio za onim do čega bi bio došao da je ostao postojan. I to se dvoje na neki način svodi na isto, jer je prema jednome i drugome težio imati konačno blaženstvo svojom snagom, što je vlastito Bogu. A budući da je ono što jest po sebi počelo i uzrok onoga što jest po drugome, iz toga je također uslijedilo da je težio imati neko gospodstvo nad drugima. I u tome se također izopačeno htio upriličiti Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a3.adarg": {
+      "text": "I time je jasan odgovor na sve prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:17+00:00"
+    },
+    "I.q63.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da su neki demoni zli po naravi. Porfirije, naime, kako ga navodi Augustin u X. knjizi O Božjem gradu, kaže da *postoji neki rod demona koji je po naravi varljiv i koji se pretvara da su bogovi i duše umrlih*. Ali biti varljiv znači biti zao. Dakle, neki su demoni zli po naravi.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a4.obj2": {
+      "text": "Osim toga, kao što su anđeli stvoreni od Boga, tako i ljudi. Ali neki su ljudi zli po naravi, o kojima se kaže u Mudr 12: *njihova je zloća bila naravna*. Dakle, i neki anđeli mogu biti zli po naravi.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a4.obj3": {
+      "text": "Osim toga, neke nerazumne životinje imaju neke naravne zloće, kao što je lisica po naravi prijetvorna, a vuk po naravi grabežljiv; a ipak su Božji stvorovi. Dakle, i demoni, premda su Božji stvorovi, mogu biti zli po naravi.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Dionizije u IV. poglavlju O Božjim imenima, da *demoni nisu zli po naravi*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a4.resp": {
+      "text": "Odgovaram: treba reći da sve što postoji, ukoliko postoji i ima neku narav, po naravi teži prema nekom dobru, budući da postoji od dobroga počela, jer se učinak uvijek vraća svojemu počelu. A može se dogoditi da je s nekim posebnim dobrom spojeno neko zlo, kao što je s ognjem spojeno ovo zlo da proždire druge stvari; ali s općim dobrom ne može biti spojeno nikakvo zlo. Ako, dakle, postoji nešto čija je narav usmjerena prema nekom posebnom dobru, ono može po naravi težiti prema nekom zlu, ne ukoliko je zlo, nego akcidentalno, ukoliko je spojeno s nekim dobrom. Ako pak postoji nešto čija je narav usmjerena prema dobru prema općem pojmu dobra, to po svojoj naravi ne može težiti prema nekom zlu. Očito je pak da je svaka umska narav usmjerena prema općem dobru, koje može zahvatiti i koje je predmet volje. Stoga, budući da su demoni umske supstancije, nikako ne mogu imati naravnu sklonost prema bilo kakvom zlu. I zato ne mogu biti zli po naravi.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin na istome mjestu kori Porfirija zbog toga što je rekao da su demoni po naravi varljivi, govoreći da oni nisu varljivi po naravi, nego vlastitom voljom. A Porfirije je postavio da su demoni po naravi varljivi s ovoga razloga što je postavljao da su demoni živa bića koja imaju osjetilnu narav. A osjetilna je narav usmjerena prema nekom posebnom dobru, s kojim može biti spojeno zlo. I prema tome mogu imati neku naravnu sklonost prema zlu, ali akcidentalno, ukoliko je zlo spojeno s dobrom.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a4.ad2": {
+      "text": "Na drugo treba reći da se zloća nekih ljudi može nazvati naravnom ili zbog navike, koja je druga narav; ili zbog naravne sklonosti, s obzirom na osjetilnu narav, prema nekoj neurednoj strasti, kao što se za neke kaže da su po naravi srditi ili požudni; ali ne s obzirom na umsku narav.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a4.ad3": {
+      "text": "Na treće treba reći da nerazumne životinje po osjetilnoj naravi imaju naravnu sklonost prema nekim posebnim dobrima s kojima su spojena neka zla; kao lisica prema lukavom traženju hrane, s čime je spojena prijetvornost. Stoga biti prijetvoran nije zlo za lisicu, budući da joj je to naravno; kao što ni biti bijesan nije zlo za psa, kako kaže Dionizije u IV. poglavlju O Božjim imenima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je đavao u prvom trenutku svojega stvaranja bio zao krivnjom vlastite volje. Kaže se, naime, o đavlu u Iv 8: *on je bio ubojica od početka*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a5.obj2": {
+      "text": "Osim toga, prema Augustinu u I. knjizi O doslovnom tumačenju Knjige postanka, neoblikovanost stvora nije prethodila oblikovanju vremenski, nego samo po podrijetlu. A pod nebom za koje se čita da je prvo stvoreno, kako sam kaže u II. knjizi, razumije se neoblikovana anđeoska narav; a pod onim što se kaže da je Bog rekao: neka bude svjetlo, i bi svjetlo, razumije se njezino oblikovanje po obraćenju prema Riječi. Istodobno je, dakle, stvorena narav anđela i nastalo svjetlo. Ali istodobno kad je nastalo svjetlo, odijeljeno je od tame, pod kojom se razumiju anđeli koji su sagriješili. Dakle, u prvom trenutku svojega stvaranja neki su anđeli bili blaženi, a neki su sagriješili.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a5.obj3": {
+      "text": "Osim toga, grijeh se suprotstavlja zasluzi. Ali u prvom trenutku svojega stvaranja neka umska narav može zaslužiti, kao Kristova duša ili također sami dobri anđeli. Dakle, i demoni su u prvom trenutku svojega stvaranja mogli sagriješiti.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a5.obj4": {
+      "text": "Osim toga, anđeoska je narav snažnija od tjelesne naravi. Ali tjelesna stvar odmah u prvom trenutku svojega stvaranja počinje imati svoje djelovanje; kao što se oganj u prvom trenutku u kojem je nastao počinje gibati prema gore. Dakle, i anđeo je u prvom trenutku svojega stvaranja mogao djelovati. Ili je, dakle, imao ispravno djelovanje ili neispravno. Ako ispravno, budući da su imali milost, po njemu su zaslužili blaženstvo. A u anđelima nagrada odmah slijedi zaslugu, kako je gore rečeno. Dakle, bili bi odmah blaženi, i tako nikada ne bi sagriješili, što je lažno. Preostaje, dakle, da su u prvom trenutku, djelujući neispravno, sagriješili.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Post 1: *vidje Bog sve što je učinio, i bijaše vrlo dobro*. A među time su bili i demoni. Dakle, i demoni su nekoć bili dobri.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a5.resp": {
+      "text": "Odgovaram: treba reći da su neki postavili da su demoni odmah u prvom trenutku svojega stvaranja bili zli, ne doduše po naravi, nego po grijehu vlastite volje, jer *otkako je đavao stvoren, odbio je pravednost. Tko god pristaje uz to mišljenje*, kako kaže Augustin u XI. knjizi O Božjem gradu, *ne misli s onim krivovjercima, to jest manihejcima, koji kažu da đavao ima narav zla*. Ali budući da se to mnijenje protivi autoritetu Pisma (kaže se, naime, o đavlu pod likom babilonskoga vladara, u Iz 14: *kako si pao, Lucifere, koji si izlazio ujutro?* A u Ez 28 kaže se đavlu pod osobom tirskoga kralja: *bio si u slastima Božjega raja*), zato su učitelji to mnijenje opravdano odbacili kao zabludno. Stoga su neki rekli da su anđeli u prvom trenutku svojega stvaranja mogli sagriješiti, ali nisu sagriješili. No i to mnijenje neki odbacuju s ovoga razloga: kad dva djelovanja slijede jedno za drugim, čini se nemogućim da oba djelovanja završe u istom sada. A očito je da je grijeh anđela bio djelovanje kasnije od stvaranja. Završetak je pak stvaranja sam bitak anđela, a završetak djelovanja grijeha jest to da su zli. Čini se, dakle, nemogućim da je anđeo bio zao u prvom trenutku u kojem je počeo postojati. Ali taj se razlog ne čini dostatnim. Vrijedi, naime, samo u vremenskim gibanjima, koja se odvijaju postupno; kao kad mjesno gibanje slijedi za kakvoćnom promjenom, ne mogu u istom trenutku završiti kakvoćna promjena i mjesno gibanje. Ali ako su promjene trenutne, završetak prve i druge promjene može biti istodobno i u istom trenutku; kao što se u istom trenutku u kojem sunce obasjava mjesec, mjesec obasjava zrak. A očito je da je stvaranje trenutno, a slično i pokret slobodnog odlučivanja u anđelima, jer im ne treba uspoređivanje i diskurzivno prelaženje razuma, kao što je jasno iz gore rečenoga. Stoga ništa ne priječi da istodobno i u istom trenutku bude završetak stvaranja i završetak slobodnog odlučivanja. I zato treba reći drukčije: da je bilo nemoguće da anđeo u prvom trenutku sagriješi neurednim činom slobodnog odlučivanja. Premda, naime, neka stvar u prvom trenutku u kojem počinje postojati može istodobno početi djelovati, ipak joj je ono djelovanje koje počinje istodobno s bitkom stvari od djelatnika od kojega ima bitak; kao što gibanje prema gore pripada ognju od onoga što ga proizvodi. Stoga, ako neka stvar ima bitak od manjkava djelatnika, koji može biti uzrok manjkave radnje, moći će u prvom trenutku u kojem počinje postojati imati manjkavo djelovanje; kao kad bi se noga, koja se rađa hroma zbog slabosti sjemena, odmah počela šepati. A djelatnik koji je anđele proizveo u bitak, to jest Bog, ne može biti uzrok grijeha. Stoga se ne može reći da je đavao u prvom trenutku svojega stvaranja bio zao.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Augustin u XI. knjizi O Božjem gradu, *kad se kaže da đavao griješi od početka, ne treba misliti da griješi od početka otkako je stvoren, nego od početka grijeha*; naime zato što nikada nije odstupio od svojega grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a5.ad2": {
+      "text": "Na drugo treba reći da ono razlikovanje svjetla i tame, ukoliko se pod tamom razumiju grijesi demona, treba uzeti prema Božjem predznanju. Stoga Augustin kaže u XI. knjizi O Božjem gradu da je *samo onaj mogao razlikovati svjetlo i tamu koji je također mogao, prije nego što su pali, unaprijed znati da će pasti*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a5.ad3": {
+      "text": "Na treće treba reći da je sve što je u zasluzi od Boga, i zato je anđeo u prvom trenutku svojega stvaranja mogao zaslužiti. Ali nije isti razlog za grijeh, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a5.ad4": {
+      "text": "Na četvrto treba reći da Bog nije razlučio među anđelima prije odvraćanja jednih i obraćanja drugih, kako kaže Augustin u XI. knjizi O Božjem gradu; i zato su svi, stvoreni u milosti, u prvom trenutku zaslužili. Ali neki su od njih odmah postavili zapreku svojemu blaženstvu, umrtvljujući prethodnu zaslugu. I zato su lišeni blaženstva koje su zaslužili.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je bio neki vremenski razmak između stvaranja i pada anđela. Kaže se, naime, u Ez 28: *hodio si savršen na svojim putovima od dana svojega začeća, dok se u tebi nije našla nepravda*. Ali hod, budući da je neprekidno gibanje, zahtijeva neki vremenski razmak. Dakle, bio je neki vremenski razmak između stvaranja đavla i njegova pada.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a6.obj2": {
+      "text": "Osim toga, Origen kaže da *stara zmija nije odmah hodila na svojim prsima i trbuhu*; pod čim se razumije njezin grijeh. Dakle, đavao nije sagriješio odmah nakon prvoga trenutka svojega stvaranja.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a6.obj3": {
+      "text": "Osim toga, moći griješiti zajedničko je čovjeku i anđelu. A bio je neki vremenski razmak između oblikovanja čovjeka i njegova grijeha. Dakle, s istoga razloga bio je neki vremenski razmak između oblikovanja đavla i njegova grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a6.obj4": {
+      "text": "Osim toga, trenutak u kojem je đavao sagriješio bio je drugi od trenutka u kojem je stvoren. Ali između bilo koja dva trenutka pada posredno vrijeme. Dakle, bio je neki vremenski razmak između njegova stvaranja i pada.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iv 8 o đavlu, da *nije ostao u istini*. I kako kaže Augustin u XI. knjizi O Božjem gradu, *to trebamo ovako shvatiti: da je bio u istini, ali da nije ustrajao*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a6.resp": {
+      "text": "Odgovaram: treba reći da o tome postoje dva mnijenja. Ali vjerojatnije je, i više se slaže s riječima svetih, da je đavao sagriješio odmah nakon prvoga trenutka svojega stvaranja. I to je nužno reći ako se postavi da je u prvom trenutku svojega stvaranja izbio u čin slobodnog odlučivanja i da je bio stvoren s milošću, kako smo gore rekli. Budući da, naime, anđeli dolaze do blaženstva po jednom zaslužnom činu, kako je gore rečeno, da je đavao, stvoren u milosti, u prvom trenutku zaslužio, odmah bi nakon prvoga trenutka bio primio blaženstvo, da nije odmah griješeći postavio zapreku. Ako se pak postavi da anđeo nije bio stvoren u milosti, ili da u prvom trenutku nije mogao imati čin slobodnog odlučivanja, ništa ne priječi da je bio neki vremenski razmak između stvaranja i pada.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u Svetom pismu katkad pod tjelesnim gibanjima, koja se mjere vremenom, preneseno razumiju trenutni duhovni pokreti. I tako se pod hodom razumije pokret slobodnog odlučivanja koje teži prema dobru.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a6.ad2": {
+      "text": "Na drugo treba reći da Origen kaže da *stara zmija nije od početka, niti odmah na prsima* hodila, zbog prvoga trenutka, u kojem nije bila zla.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a6.ad3": {
+      "text": "Na treće treba reći da anđeo ima slobodno odlučivanje nepreokretljivo nakon izbora; i zato, da odmah nakon prvoga trenutka, u kojem je imao naravni pokret prema dobru, nije postavio zapreku blaženstvu, bio bi utvrđen u dobru. Ali s čovjekom nije slično. I zato zaključak ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a6.ad4": {
+      "text": "Na četvrto treba reći da je to da između bilo koja dva trenutka postoji posredno vrijeme istinito ukoliko je vrijeme neprekidno, kako se dokazuje u VI. knjizi Fizike. Ali u anđelima, koji nisu podložni nebeskom gibanju, koje se prvo mjeri neprekidnim vremenom, vrijeme se uzima kao sam slijed djelovanja uma ili također privrženosti. Tako se, dakle, razumije da prvi trenutak u anđelima odgovara djelovanju anđeoskoga duha kojim se obraća sam u sebe po večernjoj spoznaji, jer se za prvi dan spominje večer, ali ne jutro. I to je djelovanje u svima bilo dobro. Ali od toga su se djelovanja neki po jutarnjoj spoznaji obratili k hvali Riječi, a neki su, ostajući u sebi, postali noć, napuhujući se ohološću, kako kaže Augustin u IV. knjizi O doslovnom tumačenju Knjige postanka. I tako je prvo djelovanje bilo svima zajedničko, a u drugome su se razdvojili. I zato su u prvom trenutku svi bili dobri, a u drugome su dobri bili odijeljeni od zlih.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da onaj anđeo koji je bio najviši među onima koji su sagriješili nije bio najviši među svima. O njemu se, naime, kaže u Ez 28: *ti, kerube raširenih krila i zaštitniče, postavio sam te na svetu goru Božju*. Ali red kerubina je ispod reda serafina, kako kaže Dionizije u VII. poglavlju O nebeskoj hijerarhiji. Dakle, anđeo koji je bio najviši među onima koji su sagriješili nije bio najviši među svima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a7.obj2": {
+      "text": "Osim toga, Bog je stvorio umsku narav radi postizanja blaženstva. Ako je, dakle, sagriješio anđeo koji je bio najviši među svima, slijedi da je božansko određenje bilo osujećeno u najplemenitijem stvoru. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a7.obj3": {
+      "text": "Osim toga, što je nešto više nagnuto prema nečemu, to manje može od toga otpasti. Ali anđeo je to više nagnut prema Bogu što je viši. Dakle, manje može griješeći otpasti od Boga. I tako se čini da anđeo koji je sagriješio nije bio najviši među svima, nego jedan od nižih.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur u homiliji o stotini ovaca, *da je prvi anđeo koji je sagriješio, postavljen nad svim četama anđela, nadilazio njihov sjaj i u usporedbi s njima bio sjajniji*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a7.resp": {
+      "text": "Odgovaram: treba reći da u grijehu valja razmotriti dvoje, to jest nagnutost griješenju i pobudu na griješenje. Ako, dakle, u anđelima razmotrimo nagnutost griješenju, čini se manje vjerojatnim da su sagriješili viši anđeli nego niži. I zbog toga Damaščanin kaže da je najveći od onih koji su sagriješili bio postavljen nad zemaljskim redom. I čini se da se to mnijenje slaže sa stajalištem platoničara, koje Augustin iznosi u VIII. i X. knjizi O Božjem gradu. Govorili su, naime, da su svi bogovi bili dobri, a od demona neki dobri, a neki zli; bogovima su nazivali umske supstancije koje su iznad mjesečeve sfere, a demonima umske supstancije koje su ispod mjesečeve sfere, a po redu naravi više od ljudi. I to mnijenje ne treba odbaciti kao tuđe vjeri, jer cijelim tjelesnim stvorom Bog upravlja po anđelima, kako kaže Augustin u III. knjizi O Trojstvu; stoga ništa ne priječi reći da su niži anđeli božanski raspoređeni da upravljaju nižim tijelima, viši pak da upravljaju višim tijelima, a najviši da stoje pred Bogom. I prema tome Damaščanin kaže da su oni koji su pali bili od nižih, u čijem su redu također neki dobri anđeli ostali. Ako se pak razmotri pobuda na griješenje, ona se nalazi veća u višima nego u nižima. Grijeh je, naime, demona bila oholost, kako je gore rečeno, a njezina je pobuda izvrsnost, koja je bila veća u višima. I zato Grgur kaže da je onaj koji je sagriješio bio viši među svima. I to se čini vjerojatnijim. Jer grijeh anđela nije proizišao iz neke nagnutosti, nego samo iz slobodnog odlučivanja; stoga se čini da više treba uzeti u obzir razlog koji se uzima od pobude na griješenje. Time se ipak ne treba prejudicirati drugo mnijenje, jer je i u vladaru nižih anđela mogla biti neka pobuda na griješenje.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se kerubin tumači kao punina znanja, a serafin se tumači kao gorući ili oni koji napreduju. I tako je jasno da se kerubin naziva po znanju, koje može biti uz smrtni grijeh, a serafin se naziva po žaru ljubavi, koja ne može biti uz smrtni grijeh. I zato prvi anđeo koji je sagriješio nije nazvan serafinom, nego kerubinom.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a7.ad2": {
+      "text": "Na drugo treba reći da se božanska namjera ne osujećuje ni u onima koji griješe ni u onima koji se spašavaju; Bog, naime, unaprijed zna ishod jednih i drugih i od jednih i drugih ima slavu, dok ove spašava po svojoj dobroti, a one kažnjava po svojoj pravednosti. Sam pak umski stvor, kad griješi, otpada od dužne svrhe. I to nije neprikladno ni u kojem uzvišenom stvoru; umski je, naime, stvor od Boga tako ustanovljen da je u njegovu odlučivanju postavljeno djelovati radi svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a7.ad3": {
+      "text": "Na treće treba reći da, kolika god je bila sklonost prema dobru u najvišem anđelu, ipak ga nije nuždila. Stoga je slobodnim odlučivanjem mogao ne slijediti je.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da grijeh prvoga anđela koji je sagriješio nije bio drugima uzrok griješenja. Uzrok je, naime, prije od uzrokovanoga. Ali svi su sagriješili istodobno, kako kaže Damaščanin. Dakle, grijeh jednoga nije bio drugima uzrok griješenja.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a8.obj2": {
+      "text": "Osim toga, prvi grijeh anđela ne može biti drugo nego oholost, kako je gore rečeno. Ali oholost traži izvrsnost. A izvrsnosti se više protivi da se netko podloži nižemu nego višemu; i tako se ne čini da su demoni sagriješili time što su htjeli biti podložni nekome od viših anđela radije nego Bogu. A grijeh jednoga anđela bio bi drugima uzrok griješenja na taj način kad bi ih naveo na to da mu se podlože. Ne čini se, dakle, da je grijeh prvoga anđela bio drugima uzrok griješenja.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a8.obj3": {
+      "text": "Osim toga, veći je grijeh htjeti biti podložan drugome protiv Boga nego protiv Boga htjeti biti nad drugim, jer ima manje pobude na griješenje. Ako je, dakle, grijeh prvoga anđela bio drugima uzrok griješenja u tome što ih je naveo da mu se podlože, niži bi anđeli bili teže sagriješili nego najviši; a to je protiv onoga što uz ono mjesto iz Psalma 103, *ovaj zmaj kojega si oblikovao*, kaže Glosa: *onaj koji je u bitku bio izvrsniji od ostalih, postao je veći u zloći*. Dakle, grijeh prvoga anđela nije bio drugima uzrok griješenja.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Otk 12, da je zmaj povukao sa sobom trećinu zvijezda.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a8.resp": {
+      "text": "Odgovaram: treba reći da je grijeh prvoga anđela bio drugima uzrok griješenja, ne doduše prisiljavajući ih, nego navodeći ih nekim, takoreći, nagovaranjem. Znak se toga vidi iz toga što su svi demoni podložni onome najvišemu, kao što se očito vidi iz onoga što kaže Gospodin u Mt 25: *idite, prokleti, u oganj vječni, koji je pripravljen đavlu i anđelima njegovim*. Red, naime, božanske pravednosti zahtijeva da onaj tko u krivnji pristane na nečiji nagovor bude u kazni podložen njegovoj vlasti, prema onome iz 2 Pt 2: kime je tko svladan, tome je predan za roba.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda su demoni sagriješili istodobno, ipak je grijeh jednoga mogao biti drugima uzrok griješenja. Anđelu, naime, nije potreban vremenski razmak da izabere, da nagovori ili također da pristane, kao čovjeku, kojemu je potrebno promišljanje da izabere i da pristane, i govor glasom da nagovori, a jedno i drugo odvija se u vremenu. Očito je pak da i čovjek, čim je nešto već zamislio u srcu, u istom trenutku počinje govoriti. I u posljednjem trenutku govora, u kojem netko shvaća smisao govornika, može pristati na ono što se govori, kao što je ponajviše jasno u prvim zamislima, koje svatko odobrava čim ih čuje. Kad se, dakle, ukloni vrijeme govora i promišljanja koje se u nama zahtijeva, u istom trenutku u kojem je prvi anđeo umljivim govorom izrazio svoje htijenje, drugima je bilo moguće da na nj pristanu.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a8.ad2": {
+      "text": "Na drugo treba reći da oholica, uz ostale jednake uvjete, radije hoće biti podložan višemu nego nižemu. Ali ako bi pod nižim postigao neku izvrsnost koju pod višim ne bi mogao postići, radije izabire biti podložan nižemu nego višemu. Tako, dakle, nije bilo protiv oholosti demona to što su htjeli biti podložni nižemu, pristajući na njegovo gospodstvo; htjeli su ga imati za vladara i vođu zato da naravnom snagom postignu svoje posljednje blaženstvo; osobito zato što su najvišem anđelu i tada bili podložni po redu naravi.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a8.ad3": {
+      "text": "Na treće treba reći da, kako je gore rečeno, anđeo nema ništa što bi ga usporavalo, nego se svom svojom snagom pokreće prema onome prema čemu se pokreće, bilo prema dobru, bilo prema zlu. Budući, dakle, da je najviši anđeo imao veću naravnu snagu nego niži, jačim je pokretom pao u grijeh. I zato je postao veći i u zloći.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da je od anđela više njih sagriješilo nego što ih je ostalo. Jer, kako kaže Filozof, *zlo je u većini slučajeva, a dobro u manjini*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a9.obj2": {
+      "text": "Osim toga, pravednost i grijeh nalaze se po istom pojmu u anđelima i u ljudima. Ali među ljudima ima više zlih nego dobrih, prema onome iz Prop 1: *broj je bezumnika beskonačan*. Dakle, s istoga razloga i među anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a9.obj3": {
+      "text": "Osim toga, anđeli se razlikuju po osobama i po redovima. Ako je, dakle, ostalo više anđeoskih osoba, čini se također da nisu iz svih redova neki sagriješili.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a9.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 2 Kr 6: *više ih je s nama nego s njima*; što se tumači o dobrim anđelima, koji su s nama u pomoć, i o zlima, koji nam se protive.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a9.resp": {
+      "text": "Odgovaram: treba reći da je više anđela ostalo nego što ih je sagriješilo. Jer grijeh je protiv naravne sklonosti, a ono što se događa protiv naravi događa se u manjini slučajeva; narav, naime, postiže svoj učinak ili uvijek ili u većini slučajeva.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozof govori s obzirom na ljude, u kojima se zlo događa time što slijede osjetna dobra, koja su poznata većini, a napuštaju dobro razuma, koje je poznato manjini. A u anđelima postoji samo umska narav. Stoga nije isti razlog.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a9.ad2": {
+      "text": "I time je jasan odgovor na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q63.a9.ad3": {
+      "text": "Na treće treba reći da je, prema onima koji kažu da je glavni đavao bio iz nižega reda anđela, koji su postavljeni nad zemaljskim stvarima, očito da nisu pali iz svakoga reda, nego samo iz najnižega. A prema onima koji postavljaju da je glavni đavao bio iz najvišega reda, vjerojatno je da su iz svakoga reda neki pali; kao što se i u svaki red uzimaju ljudi kao nadomjestak za anđeoski pad. U tome se također više potvrđuje sloboda slobodnog odlučivanja, koje se na svakom stupnju stvora može prikloniti zlu. U Svetom pismu ipak se imena nekih redova, kao serafina i prijestolja, ne pripisuju demonima, jer se ta imena uzimaju od žara ljubavi i od Božjega prebivanja, koji ne mogu biti uz smrtni grijeh. A pripisuju im se imena kerubina, vlasti i poglavarstava, jer se ta imena uzimaju od znanja i moći, koji mogu biti zajednički dobrima i zlima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    }
+  }
+}

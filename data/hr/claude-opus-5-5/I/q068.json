@@ -1,0 +1,198 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 68,
+  "units": {
+    "I.q68.pr": {
+      "text": "Zatim treba razmotriti djelo drugoga dana. I o tome se postavljaju četiri pitanja. Prvo, je li svod stvoren drugoga dana. Drugo, ima li kakvih voda iznad svoda. Treće, dijeli li svod vode od voda. Četvrto, postoji li samo jedno nebo ili više njih.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da svod nije stvoren drugoga dana. Kaže se, naime, u Postanku, u 1. poglavlju: *svod nazva Bog nebom*. Ali nebo je stvoreno prije svakoga dana, kao što je očito kad se kaže: *u početku stvori Bog nebo i zemlju*. Dakle, svod nije stvoren drugoga dana.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a1.obj2": {
+      "text": "Osim toga, djela šest dana uređena su prema redu božanske mudrosti. A ne bi pristajalo božanskoj mudrosti da kasnije učini ono što je po naravi prije. A svod je po naravi prije vode i zemlje, koje se ipak spominju prije oblikovanja svjetla, koje je bilo prvoga dana. Dakle, svod nije stvoren drugoga dana.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a1.obj3": {
+      "text": "Osim toga, sve što je stvoreno tijekom šest dana oblikovano je iz tvari stvorene prije, prije svakoga dana. Ali svod nije mogao biti oblikovan iz prethodno postojeće tvari, jer bi tako bio podložan nastajanju i propadljiv. Dakle, svod nije stvoren drugoga dana.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Postanku, u 1. poglavlju: *reče Bog: neka bude svod*. A poslije slijedi: *i bi večer i bi jutro, dan drugi*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a1.resp": {
+      "text": "Odgovaram: treba reći da, kako uči Augustin, u ovakvim pitanjima treba paziti na dvoje. Prvo, da se istina Pisma nepokolebljivo drži. Drugo, budući da se Božansko pismo može tumačiti na mnogo načina, da nitko ne prianja uz neko tumačenje tako isključivo da bi se usudio tvrditi da je smisao Pisma ono za što se sigurnim razlogom utvrdi da je lažno; da se Pismo zbog toga ne bi izvrgavalo ruglu nevjernika i da im se ne bi zatvorio put prema vjerovanju. Treba, dakle, znati da se ono što čitamo, da je svod stvoren drugoga dana, može razumjeti na dva načina. Na jedan način, o svodu na kojemu su zvijezde. I prema tome moramo to tumačiti različito, prema različitim mišljenjima ljudi o svodu. Neki su, naime, rekli da je taj svod sastavljen od elemenata. I to je bilo mišljenje Empedoklovo; on je ipak rekao da je to tijelo nerazrješivo zato što u njegovu sastavu nije bilo svađe, nego samo prijateljstvo. Drugi su pak rekli da je svod od naravi četiriju elemenata, ne kao sastavljen od elemenata, nego kao jednostavan element. I to je bilo mišljenje Platonovo, koji je držao da je nebesko tijelo element vatre. Drugi su pak rekli da nebo nije od naravi četiriju elemenata, nego da je peto tijelo, osim četiriju elemenata. I to je mišljenje Aristotelovo. Prema prvom mišljenju moglo bi se, dakle, bez ograde dopustiti da je svod stvoren drugoga dana, i to po svojoj supstanciji. Djelu, naime, stvaranja pripada proizvesti samu supstanciju elemenata, a djelu razlučivanja i ukrašavanja pripada oblikovati nešto od prethodno postojećih elemenata. Prema Platonovu pak mišljenju nije prikladno vjerovati da je svod po svojoj supstanciji stvoren drugoga dana. Jer stvoriti svod prema tome znači proizvesti element vatre. A proizvođenje elemenata pripada djelu stvaranja, prema onima koji drže da neoblikovanost tvari po vremenu prethodi oblikovanju, jer su forme elemenata one koje najprije pridolaze tvari. A još se mnogo manje prema Aristotelovu mišljenju može držati da je svod po svojoj supstanciji proizveden drugoga dana, ukoliko se tim danima označuje vremenski slijed. Jer nebo, budući da je po svojoj naravi nepropadljivo, ima tvar koja ne može biti podložna drugoj formi; stoga je nemoguće da svod bude stvoren iz tvari koja je vremenski prije postojala. Stoga proizvođenje supstancije svoda pripada djelu stvaranja. Ali neko njegovo oblikovanje, prema tim dvama mišljenjima, pripada djelu drugoga dana, kao što i Dionizije kaže u IV. poglavlju O božanskim imenima da je svjetlo sunca bilo neoblikovano u prva tri dana, a poslije je četvrtoga dana bilo oblikovano. Ako se pak tim danima ne označuje vremenski slijed, nego samo red naravi, kako hoće Augustin, ništa neće priječiti da se kaže, prema bilo kojemu od tih mišljenja, da oblikovanje svoda po supstanciji pripada drugome danu. Može se to razumjeti i na drugi način, tako da se pod svodom za koji čitamo da je stvoren drugoga dana ne razumije onaj svod na kojemu su utvrđene zvijezde, nego onaj dio zraka u kojemu se zgušnjavaju oblaci. I naziva se svodom zbog gustoće zraka u tom dijelu: ono što je gusto i kruto naziva se, naime, čvrstim tijelom, za razliku od matematičkoga tijela, kako kaže Bazilije. I prema tom tumačenju ne slijedi ništa što bi se protivilo bilo kojemu mišljenju. Stoga Augustin u II. knjizi O doslovnom tumačenju Knjige postanka, preporučujući to tumačenje, kaže: *to razmatranje smatram najdostojnijim pohvale; jer ono što je rekao niti je protiv vjere, a može se lako povjerovati kad se pruži dokaz*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je, prema Zlatoustom, Mojsije najprije sažeto rekao što je Bog učinio, stavljajući na početak: u početku stvori Bog nebo i zemlju, a poslije je to razložio po dijelovima. Kao kad bi netko rekao: „ovaj je graditelj sagradio ovu kuću“, a poslije dodao: „najprije je postavio temelje, zatim je podigao zidove, a treće je stavio krov“. I tako ne moramo razumjeti drugo nebo kad se kaže: *u početku stvori Bog nebo i zemlju*, i kad se kaže da je drugoga dana stvoren svod. Može se također reći da je drugo nebo ono za koje čitamo da je stvoreno u početku, a drugo ono za koje čitamo da je stvoreno drugoga dana. I to na različite načine. Prema Augustinu, naime, nebo za koje čitamo da je stvoreno prvoga dana jest neoblikovana duhovna narav, a nebo za koje čitamo da je stvoreno drugoga dana jest tjelesno nebo. Prema Bedi pak i Strabonu, nebo za koje čitamo da je stvoreno prvoga dana jest empirejsko nebo, a svod za koji čitamo da je stvoren drugoga dana jest zvjezdano nebo. Prema Damaščaninu pak, nebo za koje čitamo da je stvoreno prvoga dana jest neko kuglasto nebo bez zvijezda, o kojemu govore filozofi, kazujući da je ono deveta sfera i prvo pokretljivo, koje se giba dnevnim gibanjem; a pod svodom stvorenim drugoga dana razumije se zvjezdano nebo. Prema drugom pak tumačenju, koje Augustin dotiče, nebo stvoreno prvoga dana također je samo zvjezdano nebo, a pod svodom stvorenim drugoga dana razumije se prostor zraka u kojemu se oblaci zgušnjavaju, koji se također dvoznačno naziva nebom. I zato se, da bi se označila dvoznačnost, izričito kaže: svod nazva Bog nebom, kao što je i gore rekao: svjetlo nazva danom (jer se dan uzima i za razdoblje od dvadeset četiri sata). I isto treba zapaziti i u drugim slučajevima, kako kaže Rabi Mojsije.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a1.ad2": {
+      "text": "Na drugo i treće rješenje je jasno iz onoga što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da vode nisu iznad svoda. Voda je, naime, po naravi teška. A vlastito mjesto teškoga nije biti gore, nego samo dolje. Dakle, vode nisu iznad svoda.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a2.obj2": {
+      "text": "Osim toga, voda je po naravi tekuća. Ali ono što je tekuće ne može se zadržati na okruglom tijelu, kao što je očito iz iskustva. Dakle, budući da je svod okruglo tijelo, voda ne može biti iznad svoda.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a2.obj3": {
+      "text": "Osim toga, voda je, budući da je element, usmjerena prema nastajanju miješanoga tijela, kao što je nesavršeno usmjereno prema savršenome. Ali iznad svoda nije mjesto miješanja, nego iznad zemlje. Dakle, voda bi uzalud bila iznad svoda. A ništa u Božjim djelima nije uzalud. Dakle, vode nisu iznad svoda.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Postanku, u 1. poglavlju, da *odijeli vode koje su bile iznad svoda od onih koje su bile ispod svoda*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Augustin u II. knjizi O doslovnom tumačenju Knjige postanka, *veći je autoritet ovoga Pisma nego sva sposobnost ljudske pameti. Stoga, kako god i kakve god vode ondje bile, nimalo ne sumnjamo da su ondje*. Kakve su pak te vode, svi ne navode na isti način. Origen, naime, kaže da su one vode koje su iznad nebesa duhovne supstancije; zato se u Psalmu 148 kaže: *vode koje su iznad nebesa neka hvale ime Gospodnje*; i u Danijelu, u 3. poglavlju: *blagoslivljajte, sve vode koje ste iznad nebesa, Gospodina*. Ali na to odgovara Bazilije u III. homiliji O šestodnevlju da se to ne kaže zato što bi vode bile razumni stvorovi, nego zato što *njihovo razmatranje, kad ga mudro promatraju oni koji imaju razbora, dovršava proslavljanje Stvoritelja*. Stoga se ondje isto kaže i o vatri, i o tuči, i o sličnome, za što je poznato da nisu razumni stvorovi. Treba, dakle, reći da su to tjelesne vode. Ali kakve su to vode, treba određivati različito, prema različitom stajalištu o svodu. Ako se, naime, pod svodom razumije zvjezdano nebo za koje se drži da je od naravi četiriju elemenata, s istim će se razlogom moći vjerovati da su i vode koje su iznad nebesa iste naravi kao elementarne vode. Ako se pak pod svodom razumije zvjezdano nebo koje nije od naravi četiriju elemenata, tada ni one vode koje su iznad svoda neće biti od naravi elementarnih voda, nego, kao što se, prema Strabonu, empirejsko nebo, to jest vatreno, tako naziva samo zbog sjaja, tako će se i drugo nebo, koje je iznad zvjezdanoga neba, nazivati vodenim samo zbog prozirnosti. Ako se i pretpostavi da je svod druge naravi mimo četiriju elemenata, još se može reći da dijeli vode, ako pod vodom ne razumijemo element vode, nego neoblikovanu tvar tijelâ, kako kaže Augustin u djelu O Knjizi postanka protiv manihejaca; jer prema tome sve što je među tijelima dijeli vode od voda. Ako se pak pod svodom razumije dio zraka u kojemu se zgušnjavaju oblaci, tada su vode koje su iznad svoda one vode koje se, rastvorene u paru, uzdižu iznad nekoga dijela zraka i od kojih nastaju kiše. Reći, naime, da se vode rastvorene u paru uzdižu iznad zvjezdanoga neba, kako su neki rekli, čije mišljenje Augustin dotiče u II. knjizi O doslovnom tumačenju Knjige postanka, posve je nemoguće. Bilo zbog čvrstoće neba. Bilo zbog područja vatre koje je u sredini, a koje bi takve pare progutalo. Bilo zato što je mjesto kamo se nose laka i rijetka tijela ispod udubine mjesečeve sfere. Bilo i zato što se osjetilno pokazuje da se pare ne uzdižu ni do vrhova nekih gora. Isprazno je i ono što kažu o razrjeđivanju tijela u beskonačnost, zato što je tijelo djeljivo u beskonačnost. Naravno se, naime, tijelo ne dijeli niti razrjeđuje u beskonačnost, nego do određene granice.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se nekima čini da onaj razlog treba riješiti time da se vode, premda su po naravi teške, ipak Božjom snagom drže iznad nebesa. Ali to rješenje Augustin isključuje u II. knjizi O doslovnom tumačenju Knjige postanka, govoreći da *sada valja istraživati kako je Bog ustanovio naravi stvari, a ne što bi u njima htio učiniti za čudo svoje moći*. Stoga treba drukčije reći: prema dvama posljednjim mišljenjima o vodama i svodu, rješenje je jasno iz rečenoga. A prema prvom mišljenju, treba postaviti drukčiji red u elementima nego što ga postavlja Aristotel: tako da su neke guste vode oko zemlje, a neke rijetke oko neba, te da se one odnose prema nebu kao ove prema zemlji. Ili da se pod vodom razumije tvar tijelâ, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a2.ad2": {
+      "text": "Na drugo je također rješenje jasno iz rečenoga, prema dvama posljednjim mišljenjima. A prema prvom, Bazilije odgovara na dva načina. Na jedan način, jer nije nužno da sve što se u udubini pokazuje okruglim bude okruglo i s gornje, izbočene strane. Drugo, jer vode koje su iznad nebesa nisu tekuće, nego su, kao ledenom čvrstoćom, učvršćene oko neba. Stoga ih neki i nazivaju kristalnim nebom.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a2.ad3": {
+      "text": "Na treće treba reći da su, prema trećem mišljenju, vode iznad svoda, uzdignute kao para, radi koristi kiša. Prema drugom pak mišljenju, vode su iznad svoda, to jest cijelo nebo prozirno bez zvijezda. To neki drže prvim pokretljivim, koje dnevnim gibanjem okreće cijelo nebo, da bi dnevnim gibanjem ostvarivalo neprekinutost nastajanja, kao što nebo na kojemu su zvijezde, gibanjem koje ide po zodijaku, ostvaruje raznolikost nastajanja i propadanja, približavanjem i udaljavanjem i različitim snagama zvijezda. Prema prvom pak mišljenju, vode su ondje, kako kaže Bazilije, da ublaže toplinu nebeskih tijela. Znak su toga neki uzeli, kako kaže Augustin, to što je zvijezda Saturn, zbog blizine gornjih voda, najhladnija.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da svod ne dijeli vode od voda. Jednome, naime, tijelu po vrsti pripada jedno naravno mjesto. Ali svaka je voda sa svakom vodom iste vrste, kako kaže Filozof. Dakle, vode se od voda ne smiju razlučivati po mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a3.obj2": {
+      "text": "Ako bi se reklo da su one vode koje su iznad svoda druge vrste nego vode koje su ispod svoda, protiv toga je: ono što je po vrsti različito ne treba ništa drugo što bi ga razlučivalo. Ako se, dakle, gornje i donje vode razlikuju po vrsti, svod ih ne razlučuje jedne od drugih.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a3.obj3": {
+      "text": "Osim toga, čini se da vode od voda razlučuje ono što se s obiju strana dodiruje s vodama, kao kad bi se usred rijeke sagradio neki zid. A očito je da donje vode ne dosežu do svoda. Dakle, svod ne dijeli vode od voda.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Postanku, u 1. poglavlju: *neka bude svod posred voda i neka dijeli vode od voda*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a3.resp": {
+      "text": "Odgovaram: treba reći da bi netko, razmatrajući slovo Postanka samo površno, mogao stvoriti ovakvu predodžbu, prema postavci nekih starih filozofa. Neki su, naime, držali da je voda neko beskonačno tijelo i počelo svih drugih tijela. Tu bi neizmjernost voda netko mogao uzeti u imenu „bezdan“, kad se kaže da je tama bila nad licem bezdana. Držali su također da ovo osjetno nebo koje vidimo ne sadrži u sebi sve tjelesno, nego da je iznad neba beskonačno tijelo voda. I tako bi netko mogao reći da nebeski svod dijeli vanjske vode od unutarnjih voda, to jest od svih tijela koja su sadržana ispod neba, kojima su držali da je voda počelo. Ali budući da se ta postavka pravim razlozima pokazuje lažnom, ne treba reći da je to razumijevanje Pisma. Nego treba uzeti u obzir da je Mojsije govorio neukom narodu i da im je, spuštajući se do njihove slabosti, iznio samo ono što se očito pokazuje osjetilu. A svi, ma koliko neuki bili, osjetilom zapažaju da su zemlja i voda tijela. Da je pak zrak tijelo, ne zapažaju svi, toliko da su i neki filozofi rekli da zrak nije ništa, nazivajući prazninom ono što je puno zraka. I zato Mojsije izričito spominje vodu i zemlju, a zrak izričito ne imenuje, da neukima ne bi iznio nešto nepoznato. Ipak, da bi onima koji su sposobni izrazio istinu, ostavlja mjesta da se razumije zrak, označujući ga kao pridružena vodi, kad kaže da je tama bila nad licem bezdana; time se daje razumjeti da je nad licem vode neko prozirno tijelo koje je subjekt svjetla i tame. Tako se, dakle, bilo da pod svodom razumijemo nebo na kojemu su zvijezde, bilo oblačni prostor zraka, prikladno kaže da svod dijeli vode od voda, ukoliko se vodom označuje neoblikovana tvar, ili ukoliko se pod imenom voda razumiju sva prozirna tijela. Jer zvjezdano nebo razlučuje niža prozirna tijela od viših. A oblačni zrak razlučuje gornji dio zraka, u kojemu nastaju kiše i slične pojave, od donjega dijela zraka, koji je povezan s vodom i razumije se pod imenom voda.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, ako se pod svodom razumije zvjezdano nebo, gornje vode nisu iste vrste kao donje. Ako se pak pod svodom razumije oblačni zrak, tada su obje vode iste vrste. I tada su vodama dodijeljena dva mjesta, ali ne s istim razlogom: gornje je mjesto mjesto nastajanja voda, a donje je mjesto mjesto njihova mirovanja.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a3.ad2": {
+      "text": "Na drugo treba reći da se, ako se vode uzmu kao različite po vrsti, kaže da svod dijeli vode od voda ne kao uzrok koji čini dijeljenje, nego kao granica jednih i drugih voda.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a3.ad3": {
+      "text": "Na treće treba reći da je Mojsije, zbog nevidljivosti zraka i sličnih tijela, sva takva tijela obuhvatio imenom vode. I tako je očito da su s obiju strana svoda, ma kako ga se uzelo, vode.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da postoji samo jedno nebo. Nebo se, naime, suprotstavlja zemlji kad se kaže: *u početku stvori Bog nebo i zemlju*. Ali zemlja je samo jedna. Dakle, i nebo je samo jedno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a4.obj2": {
+      "text": "Osim toga, sve što se sastoji od sve svoje tvari samo je jedno. Ali takvo je nebo, kako dokazuje Filozof u I. knjizi O nebu. Dakle, nebo je samo jedno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a4.obj3": {
+      "text": "Osim toga, sve što se jednoznačno govori o više stvari govori se o njima prema jednom zajedničkom pojmu. Ali ako ima više nebesa, nebo se jednoznačno govori o više njih, jer kad bi se govorilo dvoznačno, ne bi se u vlastitom smislu govorilo o više nebesa. Ako se, dakle, govori o više nebesa, mora postojati neki zajednički pojam prema kojemu se nazivaju nebesima. A taj se ne može navesti. Dakle, ne treba reći da ima više nebesa.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 148: *hvalite ga, nebesa nebesa*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a4.resp": {
+      "text": "Odgovaram: treba reći da se čini da u tome postoji neka razlika između Bazilija i Zlatoustoga. Zlatousti, naime, kaže da postoji samo jedno nebo; a to što se u množini kaže „nebesa nebesa“ dolazi od svojstva hebrejskoga jezika, u kojemu je uobičajeno da se nebo označuje samo množinom, kao što i u latinskom ima mnogo imena koja nemaju jednine. Bazilije pak, i Damaščanin koji ga slijedi, kažu da ima više nebesa. Ali ta je razlika više u riječi nego u stvari. Jer Zlatousti jednim nebom naziva cijelo tijelo koje je iznad zemlje i vode; i ptice, naime, koje lete u zraku, zato se nazivaju pticama nebeskim. Ali budući da u tom tijelu ima mnogo razlučenosti, zato je Bazilije postavio više nebesa. Da bi se, dakle, spoznalo razlučivanje nebesa, treba uzeti u obzir da se nebo u Pismu govori na tri načina. Katkad se, naime, govori u vlastitom smislu i po naravi. I tako se nebom naziva neko uzvišeno tijelo, svijetlo u činu ili u mogućnosti, i po naravi nepropadljivo. I prema tome se postavljaju tri neba. Prvo, posve svijetlo, koje nazivaju empirejskim. Drugo, posve prozirno, koje nazivaju vodenim ili kristalnim nebom. Treće, djelomično prozirno, a djelomično svijetlo u činu, koje nazivaju zvjezdanim nebom; ono se dijeli na osam sfera, naime na sferu nepomičnih zvijezda i sedam sfera planeta; i one se mogu nazvati osam nebesa. Drugo, nebom se naziva ono što ima udjela u nekom svojstvu nebeskoga tijela, naime u uzvišenosti i svjetlosti u činu ili u mogućnosti. I tako cijeli onaj prostor koji je od voda sve do mjesečeve sfere Damaščanin postavlja kao jedno nebo, nazivajući ga zračnim. I tako su prema njemu tri neba: zračno, zvjezdano i drugo, više, o kojemu razumije ono što čitamo da je Apostol bio ponesen sve do trećega neba. Ali budući da taj prostor sadrži dva elementa, naime vatru i zrak, a u svakome se od njih razlikuje gornje i donje područje, zato Raban to nebo dijeli na četiri: najviše područje vatre naziva vatrenim nebom; donje pak područje olimpskim nebom, prema visini neke gore koja se zove Olimp; najviše pak područje zraka nazvao je eteričnim nebom, zbog zapaljenosti; a donje područje zračnim nebom. I tako, kad se ta četiri neba pribroje trima višima, u svemiru je, prema Rabanu, sedam tjelesnih nebesa. Treće, nebo se govori preneseno. I tako se katkad samo sveto Trojstvo naziva nebom, zbog svoje duhovne uzvišenosti i svjetla. O tom se nebu tumači da je đavao rekao: popet ću se na nebo, to jest do jednakosti s Bogom. Katkad se i duhovna dobra, u kojima je nagrada svetih, zbog svoje nadmašnosti nazivaju nebesima, ondje gdje se kaže: *plaća je vaša velika na nebesima*, kako tumači Augustin. Katkad se pak tri roda nadnaravnih gledanja, naime tjelesno, maštovno i umsko, nazivaju trima nebesima. O njima Augustin tumači da je Pavao bio ponesen sve do trećega neba.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se zemlja odnosi prema nebu kao središte prema obodu. A oko jednoga središta može biti mnogo oboda. Stoga se, premda postoji jedna zemlja, postavlja mnogo nebesa.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a4.ad2": {
+      "text": "Na drugo treba reći da taj razlog vrijedi za nebo ukoliko ono uključuje cjelokupnost tjelesnih stvorova. Tako je, naime, nebo samo jedno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q68.a4.ad3": {
+      "text": "Na treće treba reći da se u svim nebesima zajednički nalazi uzvišenost i neka svjetlost, kako je jasno iz rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    }
+  }
+}

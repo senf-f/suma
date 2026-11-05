@@ -1,0 +1,228 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 74,
+  "units": {
+    "I.q74.pr": {
+      "text": "Zatim se pita o svih sedam dana zajedno. I pitaju se tri stvari. Prvo, o dostatnosti tih dana. Drugo, jesu li oni jedan dan ili više njih. Treće, o nekim načinima izražavanja kojima se Pismo služi pripovijedajući djela šest dana.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da ti dani nisu dostatno nabrojeni. Djelo stvaranja, naime, ne razlikuje se od djelâ razlučivanja i ukrašavanja manje nego što se ta dva djela razlikuju međusobno. Ali jedni su dani određeni za razlučivanje, a drugi za ukrašavanje. Dakle, i stvaranju treba pripisati druge dane.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.obj2": {
+      "text": "Osim toga, zrak i vatra plemenitiji su elementi od zemlje i vode. Ali jedan je dan određen za razlučivanje vode, a drugi za razlučivanje zemlje. Dakle, trebaju biti određeni i drugi dani za razlučivanje vatre i zraka.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.obj3": {
+      "text": "Osim toga, ptice i ribe ne razlikuju se manje nego ptice i kopnene životinje. A i čovjek se više razlikuje od ostalih životinja nego bilo koje druge životinje međusobno. Ali jedan je dan određen za proizvođenje morskih riba, a drugi za proizvođenje kopnenih životinja. Dakle, i jedan dan treba biti određen za proizvođenje ptica nebeskih, a drugi za proizvođenje čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.sc1": {
+      "text": "Ali protiv toga, čini se da su neki dani suvišno pripisani. Svjetlo se, naime, prema svjetlilima odnosi kao akcident prema subjektu. A subjekt se proizvodi zajedno s vlastitim akcidentom. Dakle, nije trebalo da svjetlo bude proizvedeno jednoga dana, a svjetlila drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.sc2": {
+      "text": "Osim toga, ti su dani određeni za prvo ustanovljenje svijeta. Ali sedmoga dana ništa nije bilo izvorno ustanovljeno. Dakle, sedmi se dan ne treba ubrajati s ostalima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.resp": {
+      "text": "Odgovaram: treba reći da razlog razlikovanja tih dana može biti jasan iz onoga što je prije rečeno. Trebalo je, naime, najprije razlučiti dijelove svijeta, a potom ukrasiti pojedine dijelove time što se ispunjaju takoreći svojim stanovnicima. Prema drugim svetima, dakle, u tjelesnom se stvoru označuju tri dijela: prvi, koji se označuje imenom neba; srednji, koji se označuje imenom vode; i najniži, koji se označuje imenom zemlje. Zato i prema pitagorovcima savršenost se postavlja u tri: u početak, sredinu i kraj, kako se kaže u I. knjizi O nebu. Prvi se dio, dakle, razlučuje prvoga dana, a ukrašava četvrtoga; srednji se razlučuje drugoga dana, a ukrašava petoga; najniži se razlučuje trećega dana, a ukrašava šestoga. Augustin se pak s njima slaže u posljednja tri dana, ali se razlikuje u prva tri. Jer prema njemu, prvoga se dana oblikuje duhovni stvor, a u druga dva tjelesni stvor, i to tako da se drugoga dana oblikuju viša tijela, a trećega niža tijela. I tako savršenost božanskih djela odgovara savršenosti broja šest, koji nastaje iz svojih alikvotnih dijelova zbrojenih zajedno; a ti su dijelovi jedan, dva i tri. Jedan je, naime, dan određen za oblikovanje duhovnog stvora, dva za oblikovanje tjelesnog stvora, a tri za ukrašavanje.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, prema Augustinu, djelo stvaranja pripada proizvođenju neoblikovane tvari i neoblikovane duhovne naravi. Te su dvije stvari izvan vremena, kako on sam kaže u XII. knjizi Ispovijesti, i zato se stvaranje i jedne i druge postavlja prije svakoga dana. Ali prema drugim svetima, može se reći da se djelo razlučivanja i ukrašavanja promatra prema nekoj promjeni stvora, koja se mjeri vremenom. A djelo stvaranja sastoji se samo u božanskoj radnji koja u trenutku proizvodi supstanciju stvari. I zato se za svako djelo razlučivanja i ukrašavanja kaže da je učinjeno u danu, a za stvaranje se kaže da je učinjeno u početku, što izražava nešto nedjeljivo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.ad2": {
+      "text": "Na drugo treba reći da vatra i zrak, budući da ih puk ne razlikuje, nisu izričito imenovani od Mojsija među dijelovima svijeta, nego se ubrajaju sa srednjim dijelom, to jest s vodom, osobito što se tiče donjega dijela zraka; a što se tiče gornjega, ubrajaju se s nebom, kako kaže Augustin.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.ad3": {
+      "text": "Na treće treba reći da se proizvođenje životinja pripovijeda ukoliko one služe ukrašavanju dijelova svijeta. I zato se dani proizvođenja životinja razlikuju ili sjedinjuju prema onome slaganju ili razlikovanju po kojem se slažu ili razlikuju u ukrašavanju nekoga dijela svijeta.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.ad4": {
+      "text": "Na četvrto treba reći da je prvoga dana bila učinjena narav svjetla u nekom subjektu. Ali za svjetlila se kaže da su bila učinjena četvrtoga dana, ne zato što bi njihova supstancija bila iznova proizvedena, nego zato što su bila na neki način oblikovana na koji prije nisu bila, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a1.ad5": {
+      "text": "Na peto treba reći da se, prema Augustinu, sedmom danu pripisuje nešto nakon svega što se pripisuje šestorim danima, naime to da Bog počiva od svojih djela u samome sebi. I zato je nakon šest dana trebalo spomenuti sedmi. A prema drugima, može se reći da je sedmoga dana svijet imao neko novo stanje, naime takvo da mu se ništa više ne bi iznova dodavalo. I zato se nakon šest dana postavlja sedmi, određen za prestanak od djela.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da su svi ti dani jedan dan. Kaže se, naime, u Post 2: *Ovo su naraštaji neba i zemlje kad su stvoreni, u dan u koji je Gospodin učinio nebo i zemlju i sve grmlje poljsko prije nego što je niknulo na zemlji.* Jedan je, dakle, dan u koji je učinio nebo i zemlju i sve grmlje poljsko. Ali nebo i zemlju učinio je prvoga dana, ili radije prije svakoga dana, a grmlje poljsko trećega dana. Dakle, prvi i treći dan jedan su dan, a s istim razlogom i svi ostali.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.obj2": {
+      "text": "Osim toga, u Sir 18 kaže se: *Onaj koji živi uvijeke stvorio je sve zajedno.* Ali to ne bi bilo tako kad bi dana tih djela bilo više, jer više dana nije zajedno. Dakle, nema više dana, nego samo jedan.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.obj3": {
+      "text": "Osim toga, sedmoga je dana Bog prestao stvarati nova djela. Ako je, dakle, sedmi dan drugi od ostalih dana, slijedi da Bog taj dan nije učinio. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.obj4": {
+      "text": "Osim toga, svako djelo koje se pripisuje jednome danu Bog je dovršio u trenutku, budući da se kod pojedinih djela kaže: reče, i bi učinjeno. Kad bi, dakle, sljedeće djelo bio odgodio za drugi dan, slijedilo bi da je u preostalom dijelu toga dana prestao od djela, što bi bilo suvišno. Dakle, dan sljedećega djela nije drugi od dana prethodnoga djela.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Post 1: *Bi večer i bi jutro, dan drugi, i dan treći*, i tako o ostalima. A o drugom i trećem ne može se govoriti ondje gdje postoji samo jedno. Dakle, nije bio samo jedan dan.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.resp": {
+      "text": "Odgovaram: treba reći da se u ovom pitanju Augustin ne slaže s drugim tumačima. Augustin, naime, smatra, i u djelu O doslovnom tumačenju Knjige postanka, i u XI. knjizi O Božjem gradu, i u spisu Orosiju, da je svih onih sedam koji se nazivaju danima jedan dan, sedmerostruko predočen stvarima. Drugi pak tumači misle da je bilo sedam različitih dana, a ne samo jedan. Ta dva mišljenja, ako se odnose na tumačenje slova Knjige postanka, imaju veliku razliku. Prema Augustinu, naime, pod danom se razumije spoznaja anđeoskog duha, tako da je prvi dan spoznaja prvoga božanskog djela, drugi dan spoznaja drugoga djela, i tako o ostalima. I kaže se da je svako djelo učinjeno u nekom danu, jer Bog nije proizveo ništa u prirodi stvari što ne bi utisnuo u anđeoski duh. A taj duh može spoznavati mnogo toga zajedno, osobito u Riječi, u kojoj se sva spoznaja anđelâ usavršuje i dovršava. I tako se dan razlikuje prema naravnom redu spoznatih stvari, a ne prema slijedu spoznaje ili prema slijedu proizvođenja stvari. A anđeoska se spoznaja može u vlastitom smislu i istinski nazvati danom, budući da se svjetlo, koje je uzrok dana, prema Augustinu u vlastitom smislu nalazi u duhovnim stvarima. Prema drugima pak, tim se danima pokazuje i slijed vremenskih dana i slijed proizvođenja stvari. Ali ako se ta dva mišljenja odnose na način proizvođenja stvari, ne nalazi se velika razlika. I to zbog dvoje u čemu se Augustin, tumačeći, razlikuje od drugih, kako je jasno iz gore rečenoga. Prvo, zato što Augustin pod prije stvorenom zemljom i vodom razumije posve neoblikovanu tjelesnu tvar, a pod stvaranjem svoda, sabiranjem voda i pojavom kopna razumije utiskivanje formi u tjelesnu tvar. Drugi pak sveti pod prvo stvorenom zemljom i vodom razumiju same elemente svijeta, koji postoje pod vlastitim formama, a pod sljedećim djelima neko razlučivanje u tijelima koja su prije postojala, kako je gore rečeno. Drugo, razlikuju se s obzirom na proizvođenje biljaka i životinja, za koje drugi drže da su u djelu šest dana bile proizvedene u činu, a Augustin samo mogućnosno. U tome, dakle, što Augustin drži da su djela šest dana bila učinjena zajedno, slijedi isti način proizvođenja stvari. Jer prema jednima i drugima, u prvom proizvođenju stvari tvar je bila pod supstancijalnim formama elemenata, i prema jednima i drugima, u prvom ustanovljenju stvari nije bilo životinja i biljaka u činu. Ali ostaje razlika s obzirom na četiri stvari. Jer prema drugim svetima, nakon prvoga proizvođenja stvora bilo je neko vrijeme u kojem nije bilo svjetla; isto tako u kojem nije bilo oblikovanoga svoda; isto tako u kojem zemlja nije bila otkrivena od voda; i u kojem nisu bila oblikovana nebeska svjetlila, što je četvrto. To ne treba postaviti prema Augustinovu tumačenju. Da se, dakle, ni jednom ni drugom mišljenju ne bi nanijela šteta, treba odgovoriti na razloge i jednoga i drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je u dan u koji je Bog stvorio nebo i zemlju stvorio i sve grmlje poljsko, ne u činu, nego prije nego što je niknulo na zemlji, to jest mogućnosno. To Augustin pripisuje trećemu danu, a drugi prvome ustanovljenju stvari.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.ad2": {
+      "text": "Na drugo treba reći da je Bog stvorio sve zajedno s obzirom na supstanciju stvari koja je na neki način bila neoblikovana. Ali s obzirom na oblikovanje koje je učinjeno razlučivanjem i ukrašavanjem, nije zajedno. Zato se naglašeno služi glagolom stvaranja.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.ad3": {
+      "text": "Na treće treba reći da je sedmoga dana Bog prestao stvarati nova djela, ali ne i rasplođivati neke stvari iz drugih; a tom rasplođivanju pripada to što poslije prvoga dana slijede drugi.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.ad4": {
+      "text": "Na četvrto treba reći da nije zbog nemoći Boga, kao da mu treba vrijeme da djeluje, što sve stvari nisu zajedno razlučene i ukrašene, nego zato da bi se sačuvao red u ustanovljenju stvari. I zato je trebalo da različitim stanjima svijeta služe različiti dani. A svakim se sljedećim djelom svijetu dodavalo novo stanje savršenosti.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a2.ad5": {
+      "text": "Na peto treba reći da se, prema Augustinu, onaj red dana treba odnositi na naravni red djela koja se pripisuju danima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se Pismo ne služi prikladnim riječima da izrazi djela šest dana. Kao što su, naime, svjetlo i svod i slična djela učinjeni Božjom Riječju, tako i nebo i zemlja, jer je sve po njoj učinjeno, kako se kaže u Iv 1. Dakle, pri stvaranju neba i zemlje trebalo je spomenuti Božju Riječ, kao i u ostalim djelima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.obj2": {
+      "text": "Osim toga, voda je stvorena od Boga, a ipak se ne spominje da je stvorena. Dakle, stvaranje stvari nije dostatno opisano.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.obj3": {
+      "text": "Osim toga, kako se kaže u Post 1: *Vidje Bog sve što je učinio, i bijaše vrlo dobro.* Kod pojedinih je djela, dakle, trebalo reći: vidje Bog da je dobro. Neprikladno se, dakle, to izostavlja u djelu stvaranja i u djelu drugoga dana.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.obj4": {
+      "text": "Osim toga, Duh Božji jest Bog. A Bogu ne pristaje da se nosi niti da ima položaj. Neprikladno se, dakle, kaže da se *Duh Božji nosio nad vodama*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.obj5": {
+      "text": "Osim toga, nitko ne čini ono što je već učinjeno. Neprikladno se, dakle, nakon što je rečeno: *Reče Bog: Neka bude svod, i bi tako*, dodaje: *I učini Bog svod.* I slično u ostalim djelima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.obj6": {
+      "text": "Osim toga, večer i jutro ne dijele dostatno dan, budući da dan ima više dijelova. Neprikladno se, dakle, kaže: *Bi večer i bi jutro, dan drugi, ili treći.*",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.obj7": {
+      "text": "Osim toga, drugome i trećemu prikladno ne odgovara jedan, nego prvi. Trebalo je, dakle, reći: bi večer i bi jutro, dan prvi, ondje gdje se kaže: dan jedan.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.ad1": {
+      "text": "Odgovaram: na prvo treba reći da se, prema Augustinu, osoba Sina spominje kako u prvom stvaranju stvari tako i u razlučivanju i ukrašavanju stvari, ali na jedan i na drugi način. Razlučivanje i ukrašavanje, naime, pripadaju oblikovanju stvari. A kao što je oblikovanje umjetnina po formi umijeća koja je u duhu umjetnika, a koja se može nazvati njegovom umljivom riječju, tako je oblikovanje cijeloga stvorenja po Božjoj Riječi. I zato se u djelu razlučivanja i ukrašavanja spominje Riječ. A u stvaranju se Sin spominje kao počelo kad se kaže: *U početku stvori Bog*, jer se pod stvaranjem razumije proizvođenje neoblikovane tvari. Prema drugima pak, koji drže da su najprije stvoreni elementi pod vlastitim formama, treba reći drukčije. Bazilije, naime, kaže da se time što se kaže: reče Bog, izražava božanska zapovijed. A trebalo je da najprije bude proizveden stvor koji bi se pokoravao, prije nego što se spomene božanska zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.ad2": {
+      "text": "Na drugo treba reći da se, prema Augustinu, pod nebom razumije neoblikovana duhovna narav, a pod zemljom neoblikovana tvar svih tijela. I tako nijedan stvor nije izostavljen. A prema Baziliju, nebo i zemlja postavljaju se kao dvije krajnosti, da bi se iz njih razumjelo ono što je u sredini; osobito zato što je gibanje svih srednjih stvari ili prema nebu, kao kod lakih, ili prema zemlji, kao kod teških. Drugi pak kažu da Pismo pod imenom zemlje obično obuhvaća sva četiri elementa. Zato se u Ps 148, nakon što je rečeno: hvalite Gospodina sa zemlje, dodaje: oganj, tuča, snijeg, led.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.ad3": {
+      "text": "Na treće treba reći da se u djelu stvaranja postavlja nešto što odgovara onome što se u djelu razlučivanja i ukrašavanja kaže: vidje Bog da je ovo ili ono dobro. Da bi to bilo jasno, treba uzeti u obzir da je Duh Sveti ljubav. *Dvoje je pak*, kako kaže Augustin u I. knjizi O doslovnom tumačenju Knjige postanka, *zbog čega Bog ljubi svoj stvor: naime da bude i da ostane. Da bi, dakle, bilo ono što bi ostalo, kaže se da se Duh Božji nosio nad vodom* (ukoliko se pod vodom razumije neoblikovana tvar; kao što se ljubav umjetnika nosi nad nekom tvari, da bi iz nje oblikovao djelo), *a da bi ostalo ono što je učinio, kaže se: vidje Bog da je dobro.* Time se, naime, označuje neko zadovoljstvo Boga graditelja u učinjenoj stvari; ne da bi stvor, kad je već učinjen, spoznavao na drugi način ili da bi mu se drukčije sviđao nego prije nego što ga je učinio. I tako se u oba djela, stvaranja i oblikovanja, naznačuje Trojstvo osoba. U stvaranju, naime, osoba Oca naznačuje se po Bogu koji stvara; osoba Sina po počelu u kojem je stvorio; osoba Duha Svetoga u onome koji se nosi nad vodama. A u oblikovanju, osoba Oca u Bogu koji govori; osoba Sina u Riječi kojom se govori; osoba Duha Svetoga u zadovoljstvu kojim je Bog vidio da je dobro ono što je bilo učinjeno. A u djelu drugoga dana ne postavlja se: vidje Bog da je dobro, jer djelo razlučivanja voda tada započinje, a trećega se dana dovršava, pa se ono što se postavlja u trećem danu odnosi i na drugi. Ili zato što je razlučivanje koje se postavlja drugoga dana o stvarima koje puku nisu očite, pa se zato Pismo ne služi takvim odobravanjem. Ili opet zato što se pod svodom razumije oblačni zrak, koji ne spada među trajne dijelove u svemiru, odnosno među glavne dijelove svijeta. I ta tri razloga postavlja rabi Mojsije. A neki navode mistični razlog sa strane broja: jer se dvojka udaljuje od jedinice, zato se djelo drugoga dana ne odobrava.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.ad4": {
+      "text": "Na četvrto treba reći da rabi Mojsije pod duhom Gospodnjim razumije zrak ili vjetar, kao što je to razumio i Platon. I kaže da se naziva duhom Gospodnjim ukoliko Pismo posvuda obično pripisuje puhanje vjetrova Bogu. Ali prema svetima, pod duhom Gospodnjim razumije se Duh Sveti. Za njega se kaže da se nosi nad vodom, to jest nad neoblikovanom tvari, prema Augustinu, *da se ne bi mislilo kako Bog ljubi djela koja će učiniti iz nužde oskudice; ljubav iz oskudice, naime, podložna je stvarima koje ljubi. Prikladno je pak učinjeno da se najprije naznači nešto započeto, nad čime bi se reklo da se nosi; ne nosi se, naime, mjestom, nego nadmoćnom moći*, kako kaže Augustin u I. knjizi O doslovnom tumačenju Knjige postanka. A prema Baziliju, nosio se nad elementom vode, to jest *grijao je i oživljavao narav voda, nalik kokoši koja leži na jajima, ulijevajući životnu snagu onome što se grije*. Voda, naime, osobito ima životnu snagu, jer se mnoge životinje rađaju u vodi, a sjeme je svih životinja vlažno. I duhovni se život daje po vodi krštenja, pa se zato kaže u Iv 3: *Ako se tko ne rodi iznova iz vode i Duha Svetoga.*",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.ad5": {
+      "text": "Na peto treba reći da se, prema Augustinu, onim trima označuje trostruki bitak stvari: prvo, bitak stvari u Riječi, time što je rekao: neka bude; drugo, bitak stvari u anđeoskom duhu, time što je rekao: i bi učinjeno; treće, bitak stvari u vlastitoj naravi, time što je rekao: učini. A budući da se prvoga dana opisuje oblikovanje anđelâ, nije bilo potrebno da se ondje doda: učini. Prema drugima pak, može se reći da se time što kaže: reče Bog: neka bude, izražava Božja zapovijed da se nešto učini. A time što kaže: i bi učinjeno, izražava se dovršenje djela. Ali trebalo je dodati kako je bilo učinjeno, osobito zbog onih koji su govorili da su sve vidljive stvari učinili anđeli. I zato se, da se to otkloni, dodaje da je sam Bog učinio. Zato se u pojedinim djelima, nakon što se kaže: i bi učinjeno, dodaje neki Božji čin: ili učini, ili razluči, ili nazva, ili nešto takvo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.ad6": {
+      "text": "Na šesto treba reći da se, prema Augustinu, pod večeri i jutrom razumije večernja i jutarnja spoznaja u anđelima, o kojima je gore bilo govora. Ili, prema Baziliju, cijelo se vrijeme obično naziva po glavnijem dijelu, naime po danu, kao što je Jakov rekao: dani moga hodočašća, a da nije spomenuo noć. A večer i jutro postavljaju se kao granice dana, kojemu je jutro početak, a večer kraj. Ili zato što se večeri označuje početak noći, a jutrom početak dana. Bilo je pak primjereno da se ondje gdje se spominje prvo razlučivanje stvari označe samo počeci vremenâ. A večer se stavlja na prvo mjesto zato što je dan započeo sa svjetlom, pa prije dolazi granica svjetla, a to je večer, nego granica tame i noći, a to je jutro. Ili, prema Zlatoustu, da bi se označilo kako naravni dan ne završava u večer, nego u jutro.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    },
+    "I.q74.a3.ad7": {
+      "text": "Na sedmo treba reći da se pri prvom ustanovljenju dana kaže: jedan dan, da bi se označilo kako razdoblje od dvadeset i četiri sata pripada jednome danu. Zato se time što se kaže jedan unaprijed utvrđuje mjera naravnoga dana. Ili zato da bi se označilo kako se dan dovršava povratkom sunca u jednu te istu točku. Ili zato što se, kad se navrši sedmica dana, vraća na prvi dan, koji je jedno s osmim. I ta tri razloga navodi Bazilije.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:19+00:00"
+    }
+  }
+}

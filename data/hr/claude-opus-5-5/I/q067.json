@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 67,
+  "units": {
+    "I.q67.pr": {
+      "text": "Nakon toga treba razmotriti djelo razlučivanja samo po sebi: prvo, djelo prvoga dana; drugo, djelo drugoga dana; treće, djelo trećega dana. O prvome se postavljaju četiri pitanja. Prvo, može li se svjetlo u vlastitom smislu reći o duhovnim stvarima. Drugo, je li tjelesno svjetlo tijelo. Treće, je li ono kakvoća. Četvrto, je li bilo prikladno da svjetlo bude stvoreno prvoga dana.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se svjetlo u vlastitom smislu govori o duhovnim stvarima. Augustin, naime, kaže u IV. knjizi O doslovnom tumačenju Knjige postanka da je u duhovnim stvarima svjetlo bolje i sigurnije, i da se *Krist ne naziva svjetlom na isti način kao kamenom, nego ono u vlastitom smislu, a ovo slikovito*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a1.obj2": {
+      "text": "Osim toga, Dionizije u IV. poglavlju O božanskim imenima ubraja svjetlo među umljiva Božja imena. A umljiva se imena u vlastitom smislu govore o duhovnim stvarima. Dakle, svjetlo se u vlastitom smislu govori o duhovnim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a1.obj3": {
+      "text": "Osim toga, Apostol kaže u Poslanici Efežanima, u 5. poglavlju: *sve što se očituje svjetlo je*. Ali očitovanje je u vlastitijem smislu u duhovnim stvarima nego u tjelesnima. Dakle, i svjetlo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a1.sc": {
+      "text": "Ali protiv toga je to što Ambrozije u knjizi O vjeri ubraja sjaj među ono što se o Bogu govori preneseno.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a1.resp": {
+      "text": "Odgovaram: treba reći da o nekom imenu valja govoriti na dva načina: na jedan način, prema njegovu prvotnom nadijevanju; na drugi način, prema uporabi imena. To je očito kod imena „gledanje“, koje je najprije nadjenuto da označuje čin osjetila vida; ali je zbog dostojanstva i sigurnosti toga osjetila to ime, prema uporabi govornika, prošireno na svaku spoznaju ostalih osjetila (kažemo, naime: „vidi kakva je okusa“, ili „vidi kako miriše“, ili „vidi kako je toplo“); a zatim i na spoznaju uma, prema onome iz Mateja, u 5. poglavlju: *blago čistima srcem, jer će oni Boga gledati*. Isto tako treba reći i o imenu „svjetlo“. Ono je, naime, najprije uvedeno da označuje ono što čini očitovanje u osjetilu vida, a poslije je prošireno da označuje sve ono što čini očitovanje u bilo kojoj spoznaji. Ako se, dakle, ime „svjetlo“ uzme prema svojemu prvotnom nadijevanju, govori se o duhovnim stvarima preneseno, kako kaže Ambrozije. Ako se pak uzme onako kako je u uporabi govornika prošireno na svako očitovanje, tada se o duhovnim stvarima govori u vlastitom smislu.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a1.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je svjetlo tijelo. Augustin, naime, kaže u knjizi O slobodnoj volji da *svjetlo među tijelima zauzima prvo mjesto*. Dakle, svjetlo je tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a2.obj2": {
+      "text": "Osim toga, Filozof kaže da je svjetlo vrsta vatre. Ali vatra je tijelo. Dakle, svjetlo je tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a2.obj3": {
+      "text": "Osim toga, biti nošen, presijecati se i odbijati se svojstveno je tijelima, a sve se to pripisuje svjetlu ili zraci. Također se različite zrake spajaju i razdvajaju, kako kaže Dionizije u II. poglavlju O božanskim imenima, a čini se da i to ne može pristajati nego samo tijelima. Dakle, svjetlo je tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a2.sc": {
+      "text": "Ali protiv toga, dva tijela ne mogu biti istodobno na istome mjestu. Ali svjetlo je istodobno sa zrakom. Dakle, svjetlo nije tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a2.resp": {
+      "text": "Odgovaram: treba reći da je nemoguće da svjetlo bude tijelo. To je očito na tri načina. Prvo, s obzira na mjesto. Mjesto je, naime, bilo kojega tijela drugo od mjesta drugoga tijela, i nije moguće, po naravi, da dva tijela budu istodobno na istome mjestu, ma kakva ta tijela bila; jer ono što se dodiruje zahtijeva razlikovanje u položaju. Drugo, isto je očito iz pojma gibanja. Kad bi, naime, svjetlo bilo tijelo, osvjetljivanje bi bilo mjesno gibanje tijela. A nikakvo mjesno gibanje tijela ne može biti u trenutku, jer sve što se mjesno giba nužno prije dolazi do sredine veličine nego do kraja. A osvjetljivanje se zbiva u trenutku. Niti se može reći da se zbiva u neprimjetnom vremenu. Jer u malom bi prostoru vrijeme moglo ostati skriveno, ali u velikom prostoru, primjerice od istoka do zapada, vrijeme ne bi moglo ostati skriveno; čim je, naime, sunce na točki istoka, osvijetli se cijela polutka sve do suprotne točke. Treba razmotriti i nešto drugo s obzira na gibanje. Svako, naime, tijelo ima određeno naravno gibanje, a gibanje osvjetljivanja ide na svaku stranu, i nije više kružno nego pravocrtno. Stoga je očito da osvjetljivanje nije mjesno gibanje nekoga tijela. Treće, isto je očito s obzira na nastajanje i propadanje. Kad bi, naime, svjetlo bilo tijelo, onda bi, kad se zrak zamrači zbog odsutnosti svjetlila, slijedilo da tijelo svjetla propada i da njegova tvar prima drugu formu. A to se ne vidi, osim ako bi netko rekao da je i tama tijelo. Niti se vidi iz koje bi tvari svakodnevno nastajalo tako veliko tijelo koje ispunja pola polutke. Smiješno je također reći da tako veliko tijelo propada samo zbog odsutnosti svjetlila. A ako bi netko rekao da ono ne propada, nego da zajedno sa suncem pristupa i kruži uokolo, što bi se moglo reći o tome da se, kad se neko tijelo postavi oko svijeće, zamrači cijela kuća? Niti se čini da se svjetlo skuplja oko svijeće, jer se ondje ne pokazuje veća jasnoća poslije nego prije. Budući da se, dakle, sve to protivi ne samo razumu nego i osjetilu, treba reći da je nemoguće da svjetlo bude tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin uzima svjetlo u značenju tijela koje svijetli u činu, naime vatre, koja je najplemenitija među četiri elementa.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a2.ad2": {
+      "text": "Na drugo treba reći da Aristotel svjetlom naziva vatru u vlastitoj tvari, kao što se vatra u zračnoj tvari naziva plamenom, a u zemljanoj tvari ugljenom. Ipak, ne treba mnogo mariti za one primjere koje Aristotel navodi u logičkim knjigama, jer ih navodi kao vjerojatne prema mišljenju drugih.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a2.ad3": {
+      "text": "Na treće treba reći da se sve to svjetlu pripisuje preneseno, kao što bi se moglo pripisati i toplini. Budući da je, naime, mjesno gibanje po naravi prvo među gibanjima, kako se dokazuje u VIII. knjizi Fizike, služimo se imenima koja pripadaju mjesnom gibanju i kod kakvoćne promjene i kod svih gibanja, kao što je i ime „udaljenost“ preneseno s mjesta na sve što je protivno, kako se kaže u X. knjizi Metafizike.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da svjetlo nije kakvoća. Svaka, naime, kakvoća ostaje u subjektu i pošto se djelatnik udaljio, kao toplina u vodi pošto se ona makne s vatre. Ali svjetlo ne ostaje u zraku kad se svjetlilo udalji. Dakle, svjetlo nije kakvoća.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a3.obj2": {
+      "text": "Osim toga, svaka osjetna kakvoća ima nešto protivno, kao što se toplom protivi hladno, a bijelom crno. Ali svjetlu ništa nije protivno, jer je tama lišenost svjetla. Dakle, svjetlo nije osjetna kakvoća.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a3.obj3": {
+      "text": "Osim toga, uzrok je jači od učinka. Ali svjetlo nebeskih tijela uzrokuje supstancijalne forme u ovim nižim stvarima. Ono također daje bojama duhovni bitak, jer ih čini vidljivima u činu. Dakle, svjetlo nije neka osjetna kakvoća, nego prije supstancijalna ili duhovna forma.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin u I. knjizi, da je svjetlo neka kakvoća.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a3.resp": {
+      "text": "Odgovaram: treba reći da su neki rekli da svjetlo u zraku nema naravni bitak, kao boja na zidu, nego intencionalni bitak, kao sličnost boje u zraku. Ali to ne može biti, iz dvaju razloga. Prvo, zato što svjetlo daje ime zraku: zrak, naime, postaje svijetao u činu. Boja ga pak ne imenuje, jer se ne kaže da je zrak obojen. Drugo, zato što svjetlo ima učinak u prirodi, jer se sunčevim zrakama tijela zagrijavaju. A intencije ne uzrokuju naravne preinake. Drugi su pak rekli da je svjetlo supstancijalna forma sunca. Ali i to se pokazuje nemogućim, iz dvaju razloga. Prvo, zato što nijedna supstancijalna forma nije po sebi osjetna, jer je ono što jest predmet uma, kako se kaže u III. knjizi O duši. A svjetlo je samo po sebi vidljivo. Drugo, zato što je nemoguće da ono što je u jednome supstancijalna forma bude u drugome akcidentalna forma, jer supstancijalnoj formi po sebi pristaje da postavlja u vrstu; stoga joj je uvijek i u svemu prisutna. A svjetlo nije supstancijalna forma zraka, inače bi zrak propao kad se ono udalji. Stoga ne može biti ni supstancijalna forma sunca. Treba, dakle, reći da, kao što je toplina djelatna kakvoća koja slijedi supstancijalnu formu vatre, tako je i svjetlo djelatna kakvoća koja slijedi supstancijalnu formu sunca, ili bilo kojega drugog tijela koje svijetli samo od sebe, ako takvo drugo postoji. Znak je toga što zrake različitih zvijezda imaju različite učinke, prema različitim naravima tijelâ.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, budući da kakvoća slijedi supstancijalnu formu, subjekt različito odnosi prema primanju kakvoće, kao što se odnosi prema primanju forme. Kad, naime, tvar savršeno primi formu, čvrsto se ustaljuje i kakvoća koja slijedi formu, kao kad bi se voda pretvorila u vatru. Kad se pak supstancijalna forma prima nesavršeno, kao neki početak, kakvoća koja slijedi ostaje doduše neko vrijeme, ali ne zauvijek, kao što se vidi kod zagrijane vode, koja se vraća svojoj naravi. Ali osvjetljivanje se ne zbiva nekom preinakom tvari za primanje supstancijalne forme, tako da bi nastao kao neki početak forme. I zato svjetlo ostaje samo uz prisutnost djelatnika.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a3.ad2": {
+      "text": "Na drugo treba reći da je za svjetlo akcidentalno što nema ništa protivno, ukoliko je ono naravna kakvoća prvoga tijela koje uzrokuje kakvoćnu promjenu, a koje je udaljeno od protivnosti.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a3.ad3": {
+      "text": "Na treće treba reći da, kao što toplina djeluje prema formi vatre kao oruđe, u snazi supstancijalne forme, tako i svjetlo djeluje kao oruđe, u snazi nebeskih tijela, da proizvede supstancijalne forme i da učini boje vidljivima u činu, ukoliko je ono kakvoća prvoga osjetnog tijela.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se neprikladno stavlja proizvođenje svjetla u prvi dan. Svjetlo je, naime, neka kakvoća, kako je rečeno. A kakvoća, budući da je akcident, nema pojam prvoga, nego prije pojam posljednjega. Dakle, proizvođenje svjetla ne treba stavljati u prvi dan.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a4.obj2": {
+      "text": "Osim toga, svjetlom se noć razlučuje od dana. A to se zbiva po suncu, za koje se navodi da je stvoreno četvrtoga dana. Dakle, proizvođenje svjetla nije trebalo staviti u prvi dan.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a4.obj3": {
+      "text": "Osim toga, noć i dan nastaju kružnim gibanjem svijetlećega tijela. Ali kružno gibanje svojstveno je svodu, za koji čitamo da je stvoren drugoga dana. Dakle, u prvi dan nije trebalo staviti proizvođenje svjetla koje razlučuje noć i dan.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a4.obj4": {
+      "text": "Ako bi se reklo da se to razumije o duhovnom svjetlu, protiv toga je: svjetlo za koje čitamo da je stvoreno prvoga dana, čini razlučivanje od tame. Ali u početku nije bilo duhovne tame, jer su i demoni u početku bili dobri, kako je gore rečeno. Dakle, proizvođenje svjetla nije trebalo staviti u prvi dan.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a4.sc": {
+      "text": "Ali protiv toga, ono bez čega ne može biti dana trebalo je nastati prvoga dana. Ali bez svjetla ne može biti dana. Dakle, svjetlo je trebalo nastati prvoga dana.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a4.resp": {
+      "text": "Odgovaram: treba reći da o proizvođenju svjetla postoji dvostruko mišljenje. Augustinu se, naime, čini da ne bi bilo prikladno da Mojsije izostavi proizvođenje duhovnoga stvora. I zato kaže da se, kad se kaže: u početku stvori Bog nebo i zemlju, pod nebom razumije duhovna narav još neoblikovana, a pod zemljom neoblikovana tvar tjelesnoga stvora. A budući da je duhovna narav dostojnija od tjelesne, trebalo ju je prije oblikovati. Oblikovanje se, dakle, duhovne naravi označuje u proizvođenju svjetla, tako da se to razumije o duhovnom svjetlu: oblikovanje se, naime, duhovne naravi zbiva time što je ona prosvijetljena da bi prianjala uz Riječ Božju. Drugima se pak čini da je Mojsije izostavio proizvođenje duhovnoga stvora. Ali razlog toga navode na različite načine. Bazilije, naime, kaže da je Mojsije svoje pripovijedanje započeo od početka koji pripada vremenu osjetnih stvari, a duhovna narav, to jest anđeoska, izostavlja se jer je stvorena prije. Ivan Zlatousti pak navodi drugi razlog. Mojsije je, naime, govorio neukom narodu, koji nije mogao pojmiti ništa osim tjelesnoga, a njega je također htio odvratiti od idolopoklonstva. A oni bi našli povod idolopoklonstvu da su im bile predložene neke supstancije iznad svih tjelesnih stvorova, jer bi ih smatrali bogovima, budući da su i inače bili skloni štovati sunce, mjesec i zvijezde kao bogove; a to im se zabranjuje u Ponovljenom zakonu, u 4. poglavlju. U Postanku, u 1. poglavlju, bila je pak prethodno spomenuta višestruka neoblikovanost tjelesnoga stvora: jedna u tome što se govorilo: zemlja bijaše pusta i prazna; a druga u tome što se govorilo: tama bijaše nad licem bezdana. A bilo je nužno da se neoblikovanost tame prvo ukloni proizvođenjem svjetla, iz dvaju razloga. Prvo, zato što je svjetlo, kako je rečeno, kakvoća prvoga tijela, pa je stoga prema njemu najprije trebalo oblikovati svijet. Drugo, zbog zajedništva svjetla: u njemu, naime, niža tijela imaju zajedništvo s višima. A kao što se u spoznaji postupa od općenitijega, tako i u djelovanju: prije se, naime, rađa živo nego životinja, i životinja nego čovjek, kako se kaže u knjizi O nastanku životinja. Tako je, dakle, trebalo očitovati red božanske mudrosti, da se među djelima razlučivanja najprije proizvede svjetlo, kao forma prvoga tijela i kao ono općenitije. Bazilije pak navodi treći razlog: jer se po svjetlu sve drugo očituje. Može se dodati i četvrti razlog, koji je dotaknut u prigovoru: jer dan ne može biti bez svjetla; stoga je svjetlo trebalo nastati prvoga dana.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da prema mišljenju koje drži da neoblikovanost tvari po trajanju prethodi oblikovanju valja reći da je tvar od početka bila stvorena pod supstancijalnim formama, a da je poslije bila oblikovana prema nekim akcidentalnim svojstvima, među kojima prvo mjesto zauzima svjetlo.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a4.ad2": {
+      "text": "Na drugo treba reći da neki kažu da je ono svjetlo bilo neki svijetli oblak, koji se poslije, kad je stvoreno sunce, vratio u tvar koja je prije postojala. Ali to nije prikladno. Jer Pismo na početku Postanka spominje ustanovljenje naravi, koja poslije trajno ostaje; stoga se ne smije reći da je tada nastalo nešto što je poslije prestalo postojati. I zato drugi kažu da onaj svijetli oblak još ostaje i da je spojen sa suncem, tako da se od njega ne može razlikovati. Ali prema tome bi onaj oblak ostajao suvišan, a ništa nije uzaludno u Božjim djelima. I zato drugi kažu da je od onoga oblaka oblikovano tijelo sunca. Ali ni to se ne može reći ako se drži da tijelo sunca nije od naravi četiriju elemenata, nego da je po naravi nepropadljivo, jer prema tome njegova tvar ne može biti pod drugom formom. I zato treba reći, kako kaže Dionizije u IV. poglavlju O božanskim imenima, da je ono svjetlo bilo svjetlo sunca, ali još neoblikovano, utoliko što je već bila supstancija sunca i imala je snagu osvjetljivanja općenito; ali joj je poslije dana posebna i određena snaga za pojedinačne učinke. I prema tome je u proizvođenju toga svjetla svjetlo razlučeno od tame s obzira na troje. Prvo, s obzira na uzrok: ukoliko je u supstanciji sunca bio uzrok svjetla, a u neprozirnosti zemlje uzrok tame. Drugo, s obzira na mjesto: jer je u jednoj polutki bilo svjetlo, a u drugoj tama. Treće, s obzira na vrijeme: jer je u istoj polutki u jednom dijelu vremena bilo svjetlo, a u drugom tama. I to je ono što se kaže: *svjetlo nazva danom, a tamu noću*.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a4.ad3": {
+      "text": "Na treće treba reći da Bazilije kaže da su svjetlo i tama tada nastajali odašiljanjem i povlačenjem svjetla, a ne gibanjem. Ali protiv toga Augustin prigovara da ne bi bilo nikakva razloga za tu izmjenu odašiljanja i povlačenja svjetla, budući da nije bilo ljudi ni životinja kojima bi to služilo na korist. A osim toga, narav svijetlećega tijela nije takva da bi povlačila svjetlo u svojoj prisutnosti; to se može dogoditi čudesno, ali u prvom ustanovljenju naravi ne traži se čudo, nego ono što ima priroda stvari, kako kaže Augustin. I zato treba reći da je na nebu dvostruko gibanje. Jedno je zajedničko cijelom nebu i ono čini dan i noć, i čini se da je ustanovljeno prvoga dana. Drugo pak je ono koje se razlikuje po različitim tijelima, a po tim gibanjima nastaje međusobna različitost dana, te mjeseci i godina. I zato se prvoga dana spominje samo razlučivanje noći i dana, koje nastaje po zajedničkom gibanju. A četvrtoga dana spominje se različitost dana, vremena i godina, kad se kaže: *da budu za vremena i dane i godine*; a ta različitost nastaje po vlastitim gibanjima.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    },
+    "I.q67.a4.ad4": {
+      "text": "Na četvrto treba reći da prema Augustinu neoblikovanost ne prethodi oblikovanju po trajanju. Stoga treba reći da se po proizvođenju svjetla razumije oblikovanje duhovnoga stvora, ne ono koje je savršeno po slavi, u kojoj nije bio stvoren, nego ono koje je savršeno po milosti, u kojoj je bio stvoren, kako je rečeno. Po tom je, dakle, svjetlu nastalo odjeljivanje od tame, to jest od neoblikovanosti drugoga stvora koji još nije bio oblikovan. Ili, ako je sav stvor bio oblikovan istodobno, nastalo je razlučivanje od duhovne tame, ne one koja bi tada postojala (jer đavao nije bio stvoren zao), nego one koju je Bog predvidio kao buduću.",
+      "prompt_version": "1",
+      "glossary_version": 4,
+      "created_at": "2026-11-05T07:51:18+00:00"
+    }
+  }
+}
