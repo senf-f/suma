@@ -1,0 +1,228 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 83,
+  "units": {
+    "I.q83.pr": {
+      "text": "Zatim se pita o slobodnom odlučivanju. I u vezi s time pitaju se četiri stvari. Prvo, ima li čovjek slobodno odlučivanje. Drugo, što je slobodno odlučivanje: je li moć, ili čin, ili habitus. Treće, ako je moć, je li težnjena ili spoznajna. Četvrto, ako je težnjena, je li ista moć kao volja ili druga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da čovjek nema slobodno odlučivanje. Tko god, naime, ima slobodno odlučivanje, čini što hoće. Ali čovjek ne čini što hoće; kaže se, naime, u Rim 7: *jer ne činim dobro koje hoću, nego zlo koje mrzim, to činim*. Dakle, čovjek nema slobodno odlučivanje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.obj2": {
+      "text": "Osim toga, tko god ima slobodno odlučivanje, do njega je htjeti i ne htjeti, djelovati i ne djelovati. Ali to nije do čovjeka; kaže se, naime, u Rim 9: nije do onoga koji hoće, naime htjeti, ni do onoga koji trči, naime trčati. Dakle, čovjek nema slobodno odlučivanje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.obj3": {
+      "text": "*Osim toga, slobodno je ono što je uzrok samoga sebe*, kako se kaže u I. knjizi Metafizike. Dakle, ono što je pokretano od drugoga nije slobodno. Ali Bog pokreće volju; kaže se, naime, u Izr 21: *srce je kraljevo u ruci Božjoj, i kamo god hoće, okrenut će ga*; i u Fil 2: *Bog je onaj koji u nama čini i htjeti i izvršiti*. Dakle, čovjek nema slobodno odlučivanje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.obj4": {
+      "text": "Osim toga, tko god ima slobodno odlučivanje, gospodar je svojih čina. Ali čovjek nije gospodar svojih čina, jer, kako se kaže u Jr 10, *nije u čovjeku njegov put, niti je do čovjeka da upravlja svoje korake*. Dakle, čovjek nema slobodno odlučivanje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.obj5": {
+      "text": "Osim toga, Filozof kaže u III. knjizi Etike: *kakav je tko, takva mu se svrha čini*. Ali nije u našoj vlasti da budemo ovakvi ili onakvi, nego nam je to od naravi. Dakle, naravno nam je da slijedimo neku svrhu. Dakle, ne iz slobodnog odlučivanja.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.sc": {
+      "text": "Ali protiv toga je što se kaže u Sir 15: *Bog je od početka postavio čovjeka i ostavio ga u ruci njegova savjeta*. Glosa: to jest, u slobodi odlučivanja.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.resp": {
+      "text": "Odgovaram: treba reći da čovjek ima slobodno odlučivanje, inače bi uzalud bili savjeti, poticaji, zapovijedi, zabrane, nagrade i kazne. Da bi to bilo jasno, treba uzeti u obzir da neka bića djeluju bez suda, kao što se kamen giba prema dolje, i slično sva kojima nedostaje spoznaja. Neka pak djeluju po sudu, ali ne slobodnom, kao nerazumne životinje. Ovca, naime, kad vidi vuka, sudi da ga treba bježati naravnim sudom, a ne slobodnim, jer to ne sudi na temelju uspoređivanja, nego iz naravnog nagona. I slično je sa svakim sudom nerazumnih životinja. Ali čovjek djeluje po sudu, jer spoznajnom silom sudi da nešto treba izbjegavati ili za tim ići. Ali budući da taj sud, kad je riječ o pojedinačnome što treba činiti, nije iz naravnog nagona, nego iz nekog uspoređivanja razuma, zato djeluje po slobodnom sudu, jer se može upraviti prema različitim stvarima. Razum, naime, u pogledu kontingentnoga ima put prema suprotstavljenome, kako je jasno u dijalektičkim silogizmima i retoričkim uvjeravanjima. Pojedinačno pak što treba činiti nešto je kontingentno, i zato se u pogledu toga sud razuma odnosi prema različitome i nije određen na jedno. I utoliko je nužno da čovjek ima slobodno odlučivanje, upravo zato što je razuman.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kako je gore rečeno, osjetilna težnja, iako sluša razum, ipak može u nečemu protiviti, žudeći protiv onoga što razum nalaže. To je, dakle, dobro koje čovjek ne čini kad hoće, naime ne žudjeti protiv razuma, kako na tom mjestu kaže Augustinova glosa.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.ad2": {
+      "text": "Na drugo treba reći da onu Apostolovu riječ ne treba shvatiti tako kao da čovjek ne bi htio i ne bi trčao slobodnim odlučivanjem, nego zato što slobodno odlučivanje nije za to dovoljno ako ga Bog ne pokreće i ne pomaže.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.ad3": {
+      "text": "Na treće treba reći da je slobodno odlučivanje uzrok svojega pokreta, jer čovjek slobodnim odlučivanjem samoga sebe pokreće na djelovanje. Ali za slobodu nije nužno da ono što je slobodno bude prvi uzrok samoga sebe, kao što ni za to da nešto bude uzrok drugoga nije potrebno da bude njegov prvi uzrok. Bog je, dakle, prvi uzrok koji pokreće i naravne i voljne uzroke. I kao što naravnim uzrocima, pokrećući ih, ne oduzima to da njihovi čini budu naravni, tako pokrećući voljne uzroke ne oduzima to da njihove radnje budu voljne, nego to prije u njima čini: djeluje, naime, u svakome prema njegovu svojstvu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.ad4": {
+      "text": "Na četvrto treba reći da se kaže da nije u čovjeku njegov put s obzirom na izvršenje izbora, u čemu čovjek može biti spriječen, htio ne htio. Sami su pak izbori do nas, ali uz pretpostavku Božje pomoći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a1.ad5": {
+      "text": "Na peto treba reći da je čovjekova kakvoća dvostruka: jedna naravna, a druga pridošla. Naravna se pak kakvoća može uzeti ili u pogledu umskog dijela, ili u pogledu tijela i snaga povezanih s tijelom. Time, dakle, što je čovjek ovakav ili onakav po naravnoj kakvoći koja se promatra prema umskom dijelu, čovjek naravno teži za posljednjom svrhom, naime za blaženstvom. Ta je težnja naravna i nije podložna slobodnom odlučivanju, kako je jasno iz rečenoga. Sa strane pak tijela i snaga povezanih s tijelom čovjek može biti ovakav ili onakav po naravnoj kakvoći, ukoliko je takva tjelesnog sastava ili takve raspoloživosti, iz bilo kakva utjecaja tjelesnih uzroka, koji ne mogu utjecati na umski dio, jer on nije čin nikakvoga tijela. Tako je, dakle: kakav je tko po tjelesnoj kakvoći, takva mu se svrha čini, jer je po takvoj raspoloživosti čovjek sklon da nešto izabere ili odbaci. Ali te su sklonosti podložne sudu razuma, koji niža težnja sluša, kako je rečeno. Stoga se time ne nanosi šteta slobodi odlučivanja. Pridošle su pak kakvoće kao habitusi i strasti, prema kojima je netko skloniji jednome nego drugome. Ipak su i te sklonosti podložne sudu razuma. I takve su mu kakvoće podložne i utoliko što je do nas da takve kakvoće steknemo, bilo kao njihov uzrok bilo pripremajući se za njih, ili da ih od sebe isključimo. I tako nema ničega što bi se protivilo slobodi odlučivanja.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q83.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da slobodno odlučivanje nije moć. Slobodno odlučivanje, naime, nije ništa drugo nego slobodan sud. Sud pak ne imenuje moć, nego čin. Dakle, slobodno odlučivanje nije moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a2.obj2": {
+      "text": "Osim toga, za slobodno odlučivanje kaže se da je sposobnost volje i razuma. Sposobnost pak imenuje lakoću moći, koja postoji po habitusu. Dakle, slobodno odlučivanje je habitus. I Bernard kaže da je slobodno odlučivanje habitus duše koji je slobodan u raspolaganju sobom. Dakle, nije moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a2.obj3": {
+      "text": "Osim toga, nijedna se naravna moć ne oduzima grijehom. Ali slobodno se odlučivanje oduzima grijehom; Augustin, naime, kaže da *čovjek, služeći se loše slobodnim odlučivanjem, gubi i sebe i njega*. Dakle, slobodno odlučivanje nije moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a2.sc": {
+      "text": "Ali protiv toga je što, kako se čini, ništa nije subjekt habitusa osim moći. Ali slobodno je odlučivanje subjekt milosti, uz čiju pomoć izabire dobro. Dakle, slobodno odlučivanje je moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a2.resp": {
+      "text": "Odgovaram: treba reći da, premda slobodno odlučivanje prema vlastitom značenju riječi imenuje neki čin, ipak prema uobičajenom načinu govora slobodnim odlučivanjem nazivamo ono što je počelo toga čina, naime ono čime čovjek slobodno sudi. Počelo je pak čina u nama i moć i habitus: kaže se, naime, da nešto spoznajemo i po znanju i po umskoj moći. Treba, dakle, da slobodno odlučivanje bude ili moć, ili habitus, ili moć s nekim habitusom. Da pak nije habitus, ni moć s habitusom, očito se pokazuje iz dvoga. Prvo, zato što, ako je habitus, mora biti naravni habitus: čovjeku je, naime, naravno to da ima slobodno odlučivanje. Ali u nama ne postoji nikakav naravni habitus za ono što je podložno slobodnom odlučivanju, jer prema onome s obzirom na što imamo naravne habituse naravno smo skloni, kao prema pristajanju uz prva načela; a ono prema čemu smo naravno skloni nije podložno slobodnom odlučivanju, kako je rečeno o težnji za blaženstvom. Stoga je protiv vlastitog pojma slobodnog odlučivanja da bude naravni habitus. A protiv njegove je naravnosti da bude habitus koji nije naravan. I tako preostaje da ni na koji način nije habitus. Drugo, to se pokazuje zato što se habitusima nazivaju oni po kojima se *dobro ili loše odnosimo prema strastima ili činima*, kako se kaže u II. knjizi Etike: po umjerenosti se, naime, dobro odnosimo prema požudama, a po neumjerenosti loše; po znanju se također dobro odnosimo prema činu uma kad spoznajemo istinito, a po protivnom habitusu loše. Slobodno se pak odlučivanje odnosi neodređeno prema dobrom ili lošem izabiranju. Stoga je nemoguće da slobodno odlučivanje bude habitus. Preostaje, dakle, da je moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je uobičajeno da se moć označuje imenom čina. I tako se po tom činu, koji je slobodan sud, imenuje moć koja je počelo toga čina. Inače, kad bi slobodno odlučivanje imenovalo čin, ne bi uvijek ostajalo u čovjeku.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a2.ad2": {
+      "text": "Na drugo treba reći da sposobnost katkad imenuje moć spremnu za djelovanje. I tako se sposobnost stavlja u definiciju slobodnog odlučivanja. Bernard pak ne uzima habitus ukoliko se suprotstavlja moći u diobi, nego ukoliko označuje neki odnošaj kojim se netko na neki način odnosi prema činu. A to biva kako po moći tako i po habitusu: po moći se, naime, čovjek odnosi kao onaj koji može djelovati, a po habitusu kao onaj koji je prikladan za dobro ili loše djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a2.ad3": {
+      "text": "Na treće treba reći da se kaže da je čovjek griješeći izgubio slobodno odlučivanje ne s obzirom na naravnu slobodu, koja je sloboda od prisile, nego s obzirom na slobodu koja je sloboda od krivnje i od bijede. O njoj će se govoriti niže, u raspravi o moralnim pitanjima, u drugom dijelu ovoga djela.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da slobodno odlučivanje nije težnjena moć, nego spoznajna. Damaščanin, naime, kaže da *s razumskim odmah ide slobodno odlučivanje*. Ali razum je spoznajna moć. Dakle, slobodno odlučivanje je spoznajna moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a3.obj2": {
+      "text": "Osim toga, slobodno odlučivanje naziva se tako kao slobodan sud. Ali suditi je čin spoznajne snage. Dakle, slobodno odlučivanje je spoznajna moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a3.obj3": {
+      "text": "Osim toga, slobodnom odlučivanju na poseban način pripada izbor. Ali čini se da izbor pripada spoznaji, jer izbor uključuje neko uspoređivanje jednoga s drugim, što je vlastito spoznajnoj snazi. Dakle, slobodno odlučivanje je spoznajna moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a3.sc": {
+      "text": "Ali protiv toga je što Filozof kaže u III. knjizi Etike da je *izbor želja za onim što je do nas*. Ali želja je čin težnjene snage. Dakle, i izbor. Slobodno je pak odlučivanje ono po čemu izabiremo. Dakle, slobodno odlučivanje je težnjena snaga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a3.resp": {
+      "text": "Odgovaram: treba reći da je slobodnom odlučivanju vlastit izbor: za nas se, naime, kaže da imamo slobodno odlučivanje po tome što možemo prihvatiti jedno, a odbiti drugo, a to je izabrati. I zato narav slobodnog odlučivanja treba razmotriti na temelju izbora. Izboru pak pridonosi nešto sa strane spoznajne snage i nešto sa strane težnjene: sa strane spoznajne potrebno je promišljanje, kojim se prosuđuje što treba pretpostaviti drugome; a sa strane težnjene potrebno je da se težnjom prihvati ono što se promišljanjem prosudi. I zato Aristotel u VI. knjizi Etike ostavlja u sumnji pripada li izbor glavnije težnjenoj sili ili spoznajnoj sili: kaže, naime, da je izbor ili težnjeni um ili umska težnja. Ali u III. knjizi Etike više se priklanja tome da je umska težnja, nazivajući izbor promišljenom željom. A razlog je tomu što je vlastiti predmet izbora ono što vodi k svrsi; a to, kao takvo, ima pojam dobra koje se zove korisno. Stoga, budući da je dobro, kao takvo, predmet težnje, slijedi da je izbor ponajprije čin težnjene snage. I tako je slobodno odlučivanje težnjena moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da težnjene moći prate zahvatne. I u tom smislu Damaščanin kaže da *s razumskim odmah ide slobodno odlučivanje*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a3.ad2": {
+      "text": "Na drugo treba reći da je sud kao zaključak i određenje promišljanja. Promišljanje se pak određuje najprije presudom razuma, a drugo prihvaćanjem težnje; stoga Filozof kaže u III. knjizi Etike da *sudeći na temelju promišljanja, želimo prema promišljanju*. I na taj se način sam izbor naziva nekim sudom, po kojem se imenuje slobodno odlučivanje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a3.ad3": {
+      "text": "Na treće treba reći da to uspoređivanje koje je uključeno u ime izbora pripada prethodnom promišljanju, koje je stvar razuma. Težnja, naime, premda ne uspoređuje, ipak, ukoliko je pokretana od spoznajne sile koja uspoređuje, ima neku sličnost s uspoređivanjem, dok jedno pretpostavlja drugome.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je slobodno odlučivanje moć različita od volje. Damaščanin, naime, kaže u II. knjizi da je jedno thelesis, a drugo bulesis; thelesis je pak volja, a bulesis se čini da je slobodno odlučivanje, jer je bulesis, prema njemu, volja koja se odnosi na nešto kao na jedno u usporedbi s drugim. Dakle, čini se da je slobodno odlučivanje moć različita od volje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a4.obj2": {
+      "text": "Osim toga, moći se spoznaju po činima. Ali izbor, koji je čin slobodnog odlučivanja, nešto je drugo od volje, kako se kaže u III. knjizi Etike, *jer je volja o svrsi, a izbor o onome što vodi k svrsi*. Dakle, slobodno odlučivanje je moć različita od volje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a4.obj3": {
+      "text": "Osim toga, volja je umska težnja. Ali sa strane uma postoje dvije moći, naime djelatni i mogućnosni. Dakle, i sa strane umske težnje mora postojati druga moć mimo volje. A to se čini da nije ništa drugo nego slobodno odlučivanje. Dakle, slobodno odlučivanje je druga moć mimo volje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a4.sc": {
+      "text": "Ali protiv toga je što Damaščanin kaže u III. knjizi da slobodno odlučivanje nije ništa drugo nego volja.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a4.resp": {
+      "text": "Odgovaram: treba reći da težnjene moći moraju biti razmjerne zahvatnim moćima, kako je gore rečeno. Kao što se pak sa strane umskog zahvaćanja odnose um i razum, tako se sa strane umske težnje odnose volja i slobodno odlučivanje, koje nije ništa drugo nego izborna sila. I to je jasno iz odnošaja predmeta i čina. Shvaćati, naime, uključuje jednostavno primanje neke stvari; stoga se kaže da se u vlastitom smislu shvaćaju načela, koja se spoznaju po sebi samima bez uspoređivanja. Razumski zaključivati pak u vlastitom je smislu doći od jednoga do spoznaje drugoga; stoga u vlastitom smislu razumski zaključujemo o zaključcima, koji postaju poznati iz načela. Slično sa strane težnje htjeti uključuje jednostavnu težnju za nekom stvari; stoga se kaže da je volja o svrsi, za kojom se teži radi nje same. Izabirati pak znači težiti za nečim radi postizanja nečega drugoga; stoga se u vlastitom smislu odnosi na ono što vodi k svrsi. Kao što se pak u spoznajnome načelo odnosi prema zaključku, uz koji pristajemo zbog načela, tako se u težnjenome svrha odnosi prema onome što vodi k svrsi, za čim se teži radi svrhe. Stoga je očito da se, kao što se um odnosi prema razumu, tako volja odnosi prema izbornoj sili, to jest prema slobodnom odlučivanju. Gore je pak pokazano da je iste moći shvaćati i razumski zaključivati, kao što je iste snage mirovati i gibati se. Stoga je i iste moći htjeti i izabirati. I zbog toga volja i slobodno odlučivanje nisu dvije moći, nego jedna.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se bulesis razlikuje od thelesis ne zbog različitosti moći, nego zbog razlike čina.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a4.ad2": {
+      "text": "Na drugo treba reći da su izbor i volja, to jest samo htijenje, različiti čini, ali ipak pripadaju jednoj moći, kao i shvaćati i razumski zaključivati, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q83.a4.ad3": {
+      "text": "Na treće treba reći da se um odnosi prema volji kao pokretač. I zato u volji ne treba razlikovati djelatno i mogućnosno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    }
+  }
+}

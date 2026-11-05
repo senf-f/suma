@@ -1,0 +1,444 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 85,
+  "units": {
+    "I.q85.pr": {
+      "text": "Zatim treba razmotriti način i red shvaćanja. I o tome se postavlja osam pitanja. Prvo, shvaća li naš um apstrahirajući spoznajne likove iz maštovnih slika. Drugo, odnose li se umljivi spoznajni likovi apstrahirani iz maštovnih slika prema našem umu kao ono što se shvaća ili kao ono čime se shvaća. Treće, shvaća li naš um po naravi najprije ono općenitije. Četvrto, može li naš um istodobno shvaćati mnogo toga. Peto, shvaća li naš um sastavljajući i rastavljajući. Šesto, može li um griješiti. Sedmo, može li netko istu stvar shvaćati bolje od drugoga. Osmo, spoznaje li naš um prije nedjeljivo nego djeljivo.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da naš um ne shvaća tjelesne i tvarne stvari apstrakcijom iz maštovnih slika. Naime, svaki um koji shvaća stvar drukčije nego što ona jest, lažan je. A forme tvarnih stvari nisu apstrahirane od pojedinačnih stvari, čije su sličnosti maštovne slike. Ako, dakle, shvaćamo tvarne stvari apstrakcijom spoznajnih likova iz maštovnih slika, bit će lažnosti u našem umu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.obj2": {
+      "text": "Osim toga, tvarne su stvari prirodne stvari, u čiju definiciju ulazi tvar. Ali ništa se ne može shvatiti bez onoga što ulazi u njegovu definiciju. Dakle, tvarne se stvari ne mogu shvatiti bez tvari. Ali tvar je počelo individuacije. Dakle, tvarne se stvari ne mogu shvatiti apstrakcijom općega od pojedinačnoga, a to znači apstrahirati umljive spoznajne likove iz maštovnih slika.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.obj3": {
+      "text": "Osim toga, u III. knjizi O duši kaže se da se maštovne slike odnose prema umskoj duši kao boje prema vidu. Ali viđenje ne nastaje apstrakcijom nekih spoznajnih likova od boja, nego time što se boje utiskuju u vid. Dakle, ni shvaćanje ne biva time što se nešto apstrahira iz maštovnih slika, nego time što se maštovne slike utiskuju u um.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.obj4": {
+      "text": "Osim toga, kako se kaže u III. knjizi O duši, u umskoj duši postoje dvije stvari, naime mogućnosni um i djelatni um. Ali apstrahirati umljive spoznajne likove iz maštovnih slika ne pripada mogućnosnom umu, nego njemu pripada primati već apstrahirane spoznajne likove. A čini se da to ne pripada ni djelatnom umu, koji se prema maštovnim slikama odnosi kao svjetlo prema bojama; a svjetlo ne apstrahira ništa od boja, nego se radije u njih izlijeva. Dakle, ni na koji način ne shvaćamo apstrahirajući iz maštovnih slika.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.obj5": {
+      "text": "Osim toga, Filozof u III. knjizi O duši kaže da *um shvaća spoznajne likove u maštovnim slikama*. Dakle, ne apstrahirajući ih.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u III. knjizi O duši, da *kako su stvari odvojive od tvari, tako su i u umu*. Dakle, tvarne se stvari moraju shvaćati ukoliko se apstrahiraju od tvari i od tvarnih sličnosti, a to su maštovne slike.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, spoznatljivi predmet razmjeran spoznajnoj snazi. A postoji trostruki stupanj spoznajne snage. Jedna je, naime, spoznajna snaga čin tjelesnog organa, to jest osjetilo. I zato je predmet bilo koje osjetilne moći forma ukoliko postoji u tjelesnoj tvari. A budući da je takva tvar počelo individuacije, zato svaka moć osjetilnog dijela spoznaje samo pojedinačno. Neka je pak spoznajna snaga takva da niti je čin tjelesnog organa niti je na bilo koji način povezana s tjelesnom tvari, kao anđeoski um. I zato je predmet te spoznajne snage forma koja samostoji bez tvari; jer premda anđeli spoznaju tvarne stvari, ipak ih ne promatraju drukčije nego u netvarnima, naime ili u sebi samima ili u Bogu. Ljudski pak um stoji po sredini: nije, naime, čin nekog organa, ali je ipak neka snaga duše, koja je forma tijela, kako je očito iz gore rečenoga. I zato mu je vlastito spoznavati formu koja doduše individualno postoji u tjelesnoj tvari, ali ne ukoliko je u takvoj tvari. A spoznavati ono što je u individualnoj tvari, ali ne ukoliko je u takvoj tvari, znači apstrahirati formu od individualne tvari, koju predočuju maštovne slike. I zato treba reći da naš um shvaća tvarne stvari apstrahirajući iz maštovnih slika; i preko tvarnih stvari tako razmatranih dolazimo do neke spoznaje netvarnih, kao što, obratno, anđeli preko netvarnih stvari spoznaju tvarne. Platon pak, gledajući samo na netvarnost ljudskog uma, a ne na to da je um na neki način sjedinjen s tijelom, postavio je da su predmet uma odijeljene ideje; i da shvaćamo ne apstrahirajući, nego radije imajući udjela u onome što je apstraktno, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da apstrahiranje biva na dva načina. Na jedan način, putem sastavljanja i rastavljanja, kao kad shvaćamo da nešto nije u drugome ili da je od njega odijeljeno. Na drugi način, putem jednostavnog i apsolutnog razmatranja, kao kad shvaćamo jedno ne razmatrajući ništa o drugome. Apstrahirati, dakle, umom ono što u stvarnosti nije apstrahirano, na prvi način apstrahiranja, nije bez lažnosti. Ali apstrahirati umom na drugi način ono što nije apstrahirano u stvarnosti nema u sebi lažnosti, kao što se očito vidi kod osjetnih stvari. Ako, naime, shvatimo ili kažemo da boja nije u obojenom tijelu ili da je od njega odijeljena, bit će lažnosti u mnijenju ili u govoru. Ako pak razmatramo boju i njezina svojstva ne razmatrajući ništa o obojenoj jabuci, ili ako ono što tako shvaćamo izrazimo i glasom, bit će to bez lažnosti mnijenja i govora. Jabuka, naime, ne pripada pojmu boje; i zato ništa ne priječi da se boja shvaća, a da se ništa ne shvaća o jabuci. Slično kažem da se ono što pripada pojmu vrste bilo koje tvarne stvari, na primjer kamena ili čovjeka ili konja, može razmatrati bez individualnih počela, koja ne pripadaju pojmu vrste. I to je apstrahirati opće od pojedinačnoga, ili umljivi spoznajni lik iz maštovnih slika: naime, razmatrati narav vrste bez razmatranja individualnih počela, koja se predočuju maštovnim slikama. Kad se, dakle, kaže da je lažan um koji shvaća stvar drukčije nego što ona jest, to je istinito ako se riječ „drukčije“ odnosi na shvaćenu stvar. Tada je, naime, um lažan kad shvaća da je stvar drukčija nego što jest. Stoga bi um bio lažan kad bi vrstu kamena tako apstrahirao od tvari da bi shvaćao da ona nije u tvari, kako je postavio Platon. Ali ono što se tvrdi nije istinito ako se „drukčije“ uzme sa strane onoga koji shvaća. Nije, naime, lažno da je način onoga koji shvaća u shvaćanju drukčiji od načina stvari u postojanju, jer je shvaćeno u onome koji shvaća netvarno, na način uma, a ne tvarno, na način tvarne stvari.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.ad2": {
+      "text": "Na drugo treba reći da su neki mislili da je vrsta prirodne stvari samo forma i da tvar nije dio vrste. Ali prema tome se u definicije prirodnih stvari ne bi stavljala tvar. I zato treba reći drukčije: da je tvar dvostruka, naime zajednička te označena ili individualna; zajednička, kao meso i kost, a individualna, kao ovo meso i ove kosti. Um, dakle, apstrahira vrstu prirodne stvari od individualne osjetne tvari, ali ne od zajedničke osjetne tvari. Tako apstrahira vrstu čovjeka od ovoga mesa i ovih kostiju, koji ne pripadaju pojmu vrste, nego su dijelovi pojedinca, kako se kaže u VII. knjizi Metafizike; i zato se vrsta može razmatrati bez njih. Ali vrsta čovjeka ne može se umom apstrahirati od mesa i kostiju. Matematičke pak vrste mogu se umom apstrahirati od osjetne tvari, ne samo individualne nego i zajedničke; ali ne od zajedničke umljive tvari, nego samo od individualne. Osjetnom se, naime, tvari naziva tjelesna tvar ukoliko je podložna osjetnim kakvoćama, naime toplomu i hladnomu, tvrdomu i mekomu i sličnome. Umljivom se pak tvari naziva supstancija ukoliko je podložna kolikoći. A očito je da kolikoća pripada supstanciji prije nego osjetne kakvoće. Stoga se kolikoće, kao brojevi, protežnosti i oblici, koji su omeđenja kolikoća, mogu razmatrati bez osjetnih kakvoća, a to znači da se apstrahiraju od osjetne tvari; ali se ne mogu razmatrati bez shvaćanja supstancije podložne kolikoći, što bi značilo da se apstrahiraju od zajedničke umljive tvari. Mogu se ipak razmatrati bez ove ili one supstancije, a to znači da se apstrahiraju od individualne umljive tvari. Ima pak nekih stvari koje se mogu apstrahirati i od zajedničke umljive tvari, kao biće, jedno, mogućnost i čin i druge takve, koje mogu i postojati bez ikakve tvari, kako je očito kod netvarnih supstancija. I budući da Platon nije uzeo u obzir ono što je rečeno o dvostrukom načinu apstrakcije, postavio je da je sve ono za što smo rekli da se apstrahira umom apstrahirano u stvarnosti.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.ad3": {
+      "text": "Na treće treba reći da boje imaju isti način postojanja kao i vidna moć, ukoliko su u individualnoj tjelesnoj tvari, i zato mogu utisnuti svoju sličnost u vid. Ali maštovne slike, budući da su sličnosti pojedinaca i postoje u tjelesnim organima, nemaju isti način postojanja koji ima ljudski um, kako je očito iz rečenoga; i zato ne mogu svojom snagom utiskivati u mogućnosni um. Nego snagom djelatnog uma, iz okretanja djelatnog uma prema maštovnim slikama, proizlazi u mogućnosnom umu neka sličnost, koja predočuje ono čije su maštovne slike, ali samo s obzirom na narav vrste. I na taj se način kaže da se umljivi spoznajni lik apstrahira iz maštovnih slika, a ne tako da bi neka brojčano ista forma, koja je prije bila u maštovnim slikama, poslije nastala u mogućnosnom umu, na način na koji se tijelo uzima s jednog mjesta i prenosi na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.ad4": {
+      "text": "Na četvrto treba reći da djelatni um i obasjava maštovne slike, a ujedno se iz njih, snagom djelatnog uma, apstrahiraju umljivi spoznajni likovi. Obasjava ih zato što, kao što osjetilni dio iz povezanosti s umskim postaje snažniji, tako i maštovne slike snagom djelatnog uma postaju sposobne da se iz njih apstrahiraju umljive intencije. A djelatni um apstrahira umljive spoznajne likove iz maštovnih slika ukoliko snagom djelatnog uma možemo u svom razmatranju uzeti naravi vrsta bez individualnih uvjeta, a prema njihovim sličnostima biva oblikovan mogućnosni um.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a1.ad5": {
+      "text": "Na peto treba reći da naš um i apstrahira umljive spoznajne likove iz maštovnih slika, ukoliko razmatra naravi stvari općenito, a ipak ih shvaća u maštovnim slikama, jer ni ono čije spoznajne likove apstrahira ne može shvaćati drukčije nego okrećući se maštovnim slikama, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se umljivi spoznajni likovi apstrahirani iz maštovnih slika odnose prema našem umu kao ono što se shvaća. Shvaćeno u činu, naime, jest u onome koji shvaća, jer je shvaćeno u činu sam um u činu. Ali od shvaćene stvari ništa nije u umu koji u činu shvaća osim apstrahiranog umljivog spoznajnog lika. Dakle, takav je spoznajni lik samo shvaćeno u činu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a2.obj2": {
+      "text": "Osim toga, shvaćeno u činu mora biti u nečemu, inače ne bi bilo ništa. Ali nije u stvari koja je izvan duše, jer, budući da je stvar izvan duše tvarna, ništa što je u njoj ne može biti shvaćeno u činu. Preostaje, dakle, da je shvaćeno u činu u umu. I tako ono nije ništa drugo nego spomenuti umljivi spoznajni lik.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a2.obj3": {
+      "text": "Osim toga, Filozof u I. knjizi O tumačenju kaže da su *glasovi znakovi trpnji koje su u duši*. Ali glasovi označuju shvaćene stvari, jer glasom označujemo ono što shvaćamo. Dakle, same trpnje duše, naime umljivi spoznajni likovi, ono su što se shvaća u činu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a2.sc": {
+      "text": "Ali protiv toga, umljivi se spoznajni lik odnosi prema umu kao osjetni spoznajni lik prema osjetilu. Ali osjetni spoznajni lik nije ono što se osjeća, nego radije ono čime osjetilo osjeća. Dakle, umljivi spoznajni lik nije ono što se shvaća u činu, nego ono čime um shvaća.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a2.resp": {
+      "text": "Odgovaram: treba reći da su neki postavili da spoznajne sile koje su u nama ne spoznaju ništa osim vlastitih trpnji, na primjer da osjetilo ne osjeća ništa osim trpnje svoga organa. I prema tome um ne shvaća ništa osim svoje trpnje, to jest umljivog spoznajnog lika primljenog u njemu. I prema tome je takav spoznajni lik upravo ono što se shvaća. Ali to se mnijenje očito pokazuje lažnim iz dvaju razloga. Prvo, zato što je isto ono što shvaćamo i ono o čemu su znanosti. Kad bi, dakle, ono što shvaćamo bili samo spoznajni likovi koji su u duši, slijedilo bi da sve znanosti ne bi bile o stvarima koje su izvan duše, nego samo o umljivim spoznajnim likovima koji su u duši; kao što su prema platonovcima sve znanosti o idejama, za koje su postavljali da su shvaćene u činu. Drugo, zato što bi slijedila zabluda starih koji su govorili da je *sve što se čini istinito*, i tako da bi proturječne tvrdnje bile istodobno istinite. Ako, naime, moć ne spoznaje ništa osim vlastite trpnje, samo o njoj sudi. A nešto se čini onakvim kako je spoznajna moć pogođena. Uvijek će, dakle, sud spoznajne moći biti o onome o čemu sudi, naime o vlastitoj trpnji, onakvoj kakva jest; i tako će svaki sud biti istinit. Na primjer, ako okus ne osjeća ništa osim vlastite trpnje, kad netko tko ima zdrav okus sudi da je med sladak, sudit će istinito; i slično, ako onaj koji ima pokvaren okus sudi da je med gorak, sudit će istinito, jer svaki od njih sudi onako kako je njegov okus pogođen. I tako slijedi da će svako mnijenje biti jednako istinito, i općenito svako poimanje. I zato treba reći da se umljivi spoznajni lik odnosi prema umu kao ono čime um shvaća. To je očito ovako. Budući da je, naime, radnja dvostruka, kako se kaže u IX. knjizi Metafizike, jedna koja ostaje u djelatniku, kao vidjeti i shvaćati, a druga koja prelazi u vanjsku stvar, kao grijati i rezati, obje bivaju prema nekoj formi. I kao što je forma prema kojoj proizlazi radnja usmjerena na vanjsku stvar sličnost predmeta radnje, kao što je toplina onoga koji grije sličnost onoga što je zagrijano, tako je i forma prema kojoj proizlazi radnja koja ostaje u djelatniku sličnost predmeta. Stoga je sličnost vidljive stvari ono prema čemu vid vidi; a sličnost shvaćene stvari, koja je umljivi spoznajni lik, forma je prema kojoj um shvaća. Ali budući da se um svija nad samim sobom, istom refleksijom shvaća i svoje shvaćanje i spoznajni lik kojim shvaća. I tako je umski spoznajni lik drugotno ono što se shvaća. Ali ono što se prvotno shvaća jest stvar čija je sličnost umljivi spoznajni lik. I to je očito i iz mnijenja starih, koji su postavljali da se slično spoznaje sličnim. Postavljali su, naime, da duša zemljom koja je u njoj spoznaje zemlju koja je izvan nje, i tako o ostalome. Ako, dakle, uzmemo spoznajni lik zemlje umjesto zemlje, prema nauku Aristotela, koji kaže da *kamen nije u duši, nego spoznajni lik kamena*, slijedit će da duša preko umljivih spoznajnih likova spoznaje stvari koje su izvan duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je shvaćeno u onome koji shvaća po svojoj sličnosti. I na taj se način kaže da je shvaćeno u činu um u činu, ukoliko je sličnost shvaćene stvari forma uma, kao što je sličnost osjetne stvari forma osjetila u činu. Stoga ne slijedi da je apstrahirani umljivi spoznajni lik ono što se u činu shvaća, nego da je njegova sličnost.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a2.ad2": {
+      "text": "Na drugo treba reći da se, kad se kaže „shvaćeno u činu“, uključuje dvoje, naime stvar koja se shvaća i samo to što je biti shvaćen. I slično, kad se kaže „apstrahirano opće“, shvaća se dvoje, naime sama narav stvari i apstrakcija ili općenitost. Sama, dakle, narav, kojoj se događa da bude shvaćena ili apstrahirana, ili da ima intenciju općenitosti, nalazi se samo u pojedinačnim stvarima; ali samo to što je biti shvaćen ili apstrahiran, ili intencija općenitosti, jest u umu. I to možemo vidjeti po nečem sličnom u osjetilu. Vid, naime, vidi boju jabuke bez njezina mirisa. Ako se, dakle, pita gdje je boja koja se vidi bez mirisa, očito je da boja koja se vidi nije nigdje osim u jabuci; ali to što je opažena bez mirisa, to joj se događa sa strane vida, ukoliko je u vidu sličnost boje, a ne mirisa. Slično i čovještvo koje se shvaća nije nigdje osim u ovom ili onom čovjeku; ali to što se čovještvo zahvaća bez individualnih uvjeta, a to znači da se apstrahira, na što slijedi intencija općenitosti, događa se čovještvu ukoliko ga opaža um, u kojem je sličnost naravi vrste, a ne individualnih počela.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a2.ad3": {
+      "text": "Na treće treba reći da se u osjetilnom dijelu nalazi dvostruko djelovanje. Jedno samo po izmjeni, i tako se djelovanje osjetila dovršava time što ga osjetno izmjenjuje. Drugo je djelovanje oblikovanje, po kojem maštovna sila sebi oblikuje neku predodžbu odsutne stvari, ili čak nikada viđene. I oba se ta djelovanja povezuju u umu. Jer najprije se razmatra trpnja mogućnosnog uma ukoliko biva oblikovan umljivim spoznajnim likom. A pošto je njime oblikovan, zatim oblikuje ili definiciju ili rastavljanje ili sastavljanje, što se označuje glasom. Stoga je pojam koji ime označuje definicija; a izjava označuje sastavljanje i rastavljanje uma. Glasovi, dakle, ne označuju same umljive spoznajne likove, nego ono što um sebi oblikuje da bi sudio o vanjskim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ono općenitije nije prije u našoj umskoj spoznaji. Jer ono što je prije i poznatije po naravi, kasnije je i manje poznato za nas. Ali ono što je opće prije je po naravi, jer prije je ono od čega se slijed samostojanja ne obrće. Dakle, ono što je opće kasnije je u spoznaji našega uma.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a3.obj2": {
+      "text": "Osim toga, složeno je za nas prije nego jednostavno. Ali ono što je opće jednostavnije je. Dakle, za nas je kasnije poznato.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a3.obj3": {
+      "text": "Osim toga, Filozof u I. knjizi Fizike kaže da definirano prije ulazi u našu spoznaju nego dijelovi definicije. Ali ono općenitije dio je definicije manje općenitoga, kao što je životinja dio definicije čovjeka. Dakle, ono što je opće za nas je kasnije poznato.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a3.obj4": {
+      "text": "Osim toga, preko učinaka dolazimo do uzroka i počela. Ali ono što je opće neka su počela. Dakle, ono što je opće za nas je kasnije poznato.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u I. knjizi Fizike, da *od općega treba dolaziti do pojedinačnoga*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a3.resp": {
+      "text": "Odgovaram: treba reći da u spoznaji našega uma treba razmotriti dvoje. Prvo, da umska spoznaja na neki način uzima svoj početak od osjetilne. A budući da je osjetilo za pojedinačno, a um za opće, nužno je da spoznaja pojedinačnoga za nas bude prije nego spoznaja općega. Drugo, treba razmotriti da naš um prelazi iz mogućnosti u čin. A sve što prelazi iz mogućnosti u čin prije dolazi do nedovršenog čina, koji je posrijedi između mogućnosti i čina, nego do savršenog čina. Savršeni pak čin do kojeg dolazi um jest potpuno znanje, po kojem se stvari spoznaju razgovijetno i određeno. A nedovršeni je čin nesavršeno znanje, po kojem se stvari znaju nerazgovijetno, u nekoj zbrkanosti; jer ono što se tako spoznaje, spoznaje se u nekom pogledu u činu, a na neki način u mogućnosti. Stoga Filozof u I. knjizi Fizike kaže da *su nam najprije očite i izvjesne stvari koje su više zbrkane; a kasnije, razlučujući, razgovijetno spoznajemo počela i elemente*. A očito je da spoznavati nešto u čemu je sadržano mnogo toga, a da se nema vlastito poznavanje svakoga od onoga što je u tome sadržano, znači spoznavati nešto u nekoj zbrkanosti. Tako se pak može spoznati kako opća cjelina, u kojoj su dijelovi sadržani u mogućnosti, tako i integralna cjelina; obje se, naime, cjeline mogu spoznati u nekoj zbrkanosti, a da se dijelovi ne spoznaju razgovijetno. A razgovijetno spoznavati ono što je sadržano u općoj cjelini znači imati spoznaju o manje zajedničkoj stvari. Tako spoznavati životinju nerazgovijetno znači spoznavati životinju ukoliko je životinja; a spoznavati životinju razgovijetno znači spoznavati životinju ukoliko je razumna ili nerazumna životinja, a to je spoznavati čovjeka ili lava. Našem se umu, dakle, prije događa da spozna životinju nego da spozna čovjeka; i isti je razlog ako usporedimo bilo što općenitije s manje općenitim. I budući da osjetilo izlazi iz mogućnosti u čin kao i um, isti se red spoznaje pokazuje i u osjetilu. Jer po osjetilu prije razabiremo ono zajedničkije nego ono manje zajedničko, i s obzirom na mjesto i s obzirom na vrijeme. S obzirom na mjesto, kao kad se nešto vidi izdaleka, prije se razabere da je tijelo nego što se razabere da je životinja; i prije se razabere da je životinja nego što se razabere da je čovjek; i prije da je čovjek nego da je Sokrat ili Platon. A s obzirom na vrijeme, jer dijete u početku prije razlikuje čovjeka od nečovjeka nego što razlikuje ovoga čovjeka od drugoga čovjeka; i zato *djeca u početku nazivaju sve muškarce očevima, a kasnije određuju svakoga pojedinoga*, kako se kaže u I. knjizi Fizike. I razlog je tomu očit. Jer onaj koji nešto zna nerazgovijetno još je u mogućnosti da zna počelo razlikovanja, kao što je onaj koji zna rod u mogućnosti da zna razliku. I tako je očito da je nerazgovijetna spoznaja posrijedi između mogućnosti i čina. Treba, dakle, reći da je spoznaja pojedinačnoga za nas prije nego spoznaja općega, kao što je osjetilna spoznaja prije nego umska spoznaja. Ali i po osjetilu i po umu spoznaja onoga zajedničkijega prije je nego spoznaja manje zajedničkoga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se opće može razmatrati na dva načina. Na jedan način, ukoliko se opća narav razmatra zajedno s intencijom općenitosti. I budući da intencija općenitosti, naime da jedno te isto ima odnošaj prema mnogima, proizlazi iz apstrakcije uma, nužno je da je na taj način opće kasnije. Stoga se u I. knjizi O duši kaže da *opća životinja ili nije ništa ili je kasnija*. Ali prema Platonu, koji je postavio da opće stvari samostoje, prema tom bi razmatranju opće bilo prije nego pojedinačne stvari, koje prema njemu postoje samo po sudjelovanju u samostojećim općim stvarima, koje se nazivaju idejama. Na drugi se način opće može razmatrati s obzirom na samu narav, naime životinjskost ili čovještvo, kako se nalazi u pojedinačnim stvarima. I tako treba reći da je red naravi dvostruk. Jedan je po putu nastajanja i vremena, i na tom su putu prije ono što je nesavršeno i u mogućnosti. I na taj je način ono zajedničkije prije po naravi, što se očito vidi u nastajanju čovjeka i životinje; jer prije nastaje životinja nego čovjek, kako se kaže u knjizi O rađanju životinja. Drugi je red savršenosti ili nakane naravi, kao što je čin naprosto prije po naravi nego mogućnost, i savršeno prije nego nesavršeno. I na taj je način ono manje zajedničko prije po naravi nego ono zajedničkije, kao čovjek prije nego životinja; jer se nakana naravi ne zaustavlja na nastajanju životinje, nego joj je nakana proizvesti čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a3.ad2": {
+      "text": "Na drugo treba reći da se zajedničkije opće odnosi prema manje zajedničkome i kao cjelina i kao dio. Kao cjelina, ukoliko je u općenitijem u mogućnosti sadržano ne samo manje opće nego i drugo, kao što pod životinjom nije samo čovjek nego i konj. A kao dio, ukoliko manje zajedničko u svom pojmu sadrži ne samo zajedničkije nego i drugo, kao što čovjek sadrži ne samo životinju nego i razumno. Tako je, dakle, životinja razmatrana u sebi prije u našoj spoznaji nego čovjek; ali čovjek je u našoj spoznaji prije nego to da je životinja dio njegova pojma.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a3.ad3": {
+      "text": "Na treće treba reći da se neki dio može spoznati na dva načina. Na jedan način apsolutno, ukoliko je u sebi, i tako ništa ne priječi da se dijelovi spoznaju prije nego cjelina, kao kamenje prije nego kuća. Na drugi način, ukoliko su dijelovi ove cjeline, i tako je nužno da cjelinu spoznamo prije nego dijelove; jer kuću spoznajemo nekom zbrkanom spoznajom prije nego što razlučimo njezine pojedine dijelove. Tako, dakle, treba reći da je ono čime se definira, apsolutno razmatrano, poznato prije nego definirano; inače se definirano ne bi njime činilo poznatim. Ali ukoliko je to dio definicije, tako je poznato kasnije; jer čovjeka spoznajemo nekom zbrkanom spoznajom prije nego što znamo razlučiti sve što pripada pojmu čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a3.ad4": {
+      "text": "Na četvrto treba reći da je opće, ukoliko se uzima s intencijom općenitosti, doduše na neki način počelo spoznavanja, ukoliko intencija općenitosti slijedi način shvaćanja koji je po apstrakciji. Ali nije nužno da sve što je počelo spoznavanja bude počelo bitka, kako je mislio Platon, budući da katkad spoznajemo uzrok po učinku, a supstanciju po akcidentima. Stoga tako uzeto opće, prema mišljenju Aristotela, nije ni počelo bitka ni supstancija, kako je očito u VII. knjizi Metafizike. Ako pak razmatramo samu narav roda i vrste ukoliko je u pojedinačnim stvarima, tako ona na neki način ima pojam formalnog počela s obzirom na pojedinačne stvari; jer pojedinačno je zbog tvari, a pojam vrste uzima se od forme. Ali narav roda odnosi se prema naravi vrste više na način tvarnog počela, jer se narav roda uzima od onoga što je tvarno u stvari, a pojam vrste od onoga što je formalno; kao što se pojam životinje uzima od osjetilnoga, a pojam čovjeka od umskoga. I odatle dolazi da je posljednja nakana naravi usmjerena na vrstu, a ne na pojedinca ni na rod, jer je forma svrha nastajanja, a tvar je zbog forme. A nije nužno da spoznaja bilo kojeg uzroka ili počela bude za nas kasnija, budući da katkad preko osjetnih uzroka spoznajemo nepoznate učinke, a katkad obratno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da možemo istodobno shvaćati mnogo toga. Um je, naime, iznad vremena. Ali prije i kasnije pripadaju vremenu. Dakle, um ne shvaća različite stvari po redu prije i kasnije, nego istodobno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a4.obj2": {
+      "text": "Osim toga, ništa ne priječi da različite forme koje nisu suprotstavljene istodobno u činu budu u istoj stvari, kao miris i boja u jabuci. Ali umljivi spoznajni likovi nisu suprotstavljeni. Dakle, ništa ne priječi da jedan um istodobno bude u činu prema različitim umljivim spoznajnim likovima; i tako može istodobno shvaćati mnogo toga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a4.obj3": {
+      "text": "Osim toga, um istodobno shvaća neku cjelinu, kao čovjeka ili kuću. Ali u svakoj su cjelini sadržani mnogi dijelovi. Dakle, um istodobno shvaća mnogo toga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a4.obj4": {
+      "text": "Osim toga, ne može se spoznati razlika jednoga od drugoga ako se oboje istodobno ne zahvati, kako se kaže u knjizi O duši; a isti je razlog i za bilo koju drugu usporedbu. Ali naš um spoznaje razliku i usporedbu jednoga s drugim. Dakle, spoznaje mnogo toga istodobno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u knjizi Topika, da je *shvaćanje samo jednoga, a znanje mnogoga*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a4.resp": {
+      "text": "Odgovaram: treba reći da um doduše može shvaćati mnogo toga na način jednoga, ali ne mnogo toga na način mnogoga; a kažem „na način jednoga ili mnogoga“, to jest po jednom ili po više umljivih spoznajnih likova. Jer način svake radnje slijedi formu koja je počelo radnje. Što god, dakle, um može shvatiti pod jednim spoznajnim likom, to može istodobno shvaćati; i odatle dolazi da Bog sve istodobno vidi, jer sve vidi po jednome, a to je njegova bit. A što god um shvaća po različitim spoznajnim likovima, to ne shvaća istodobno. I razlog je tomu što je nemoguće da se isti subjekt istodobno usavršava s više forma jednoga roda a različitih vrsta, kao što je nemoguće da isto tijelo u istom pogledu istodobno bude obojeno različitim bojama ili oblikovano različitim oblicima. A svi su umljivi spoznajni likovi jednoga roda, jer su savršenosti jedne umske moći, premda su stvari čiji su to spoznajni likovi različitih rodova. Nemoguće je, dakle, da se isti um istodobno usavršava različitim umljivim spoznajnim likovima da bi u činu shvaćao različite stvari.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je um iznad vremena koje je broj gibanja tjelesnih stvari. Ali sama mnogostrukost umljivih spoznajnih likova uzrokuje neko smjenjivanje umskih djelovanja, po kojem je jedno djelovanje prije drugoga. I to smjenjivanje Augustin naziva vremenom kad kaže, u VIII. knjizi O doslovnom tumačenju Knjige postanka, da *Bog pokreće duhovni stvor kroz vrijeme*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a4.ad2": {
+      "text": "Na drugo treba reći da ne samo suprotstavljene forme ne mogu biti istodobno u istom subjektu, nego ni bilo koje forme istoga roda, premda nisu suprotstavljene, kako je očito po navedenom primjeru boja i oblika.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a4.ad3": {
+      "text": "Na treće treba reći da se dijelovi mogu shvaćati na dva načina. Na jedan način, u nekoj zbrkanosti, ukoliko su u cjelini; i tako se spoznaju po jednoj formi cjeline, pa se tako spoznaju istodobno. Na drugi način, razgovijetnom spoznajom, ukoliko se svaki spoznaje po svom spoznajnom liku; i tako se ne shvaćaju istodobno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a4.ad4": {
+      "text": "Na četvrto treba reći da, kad um shvaća razliku ili usporedbu jednoga s drugim, spoznaje oboje od onoga što se razlikuje ili uspoređuje pod pojmom same usporedbe ili razlike, kao što je rečeno da spoznaje dijelove pod pojmom cjeline.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da naš um ne shvaća sastavljajući i rastavljajući. Sastavljanje i rastavljanje, naime, može biti samo mnogoga. Ali um ne može istodobno shvaćati mnogo toga. Dakle, ne može shvaćati sastavljajući i rastavljajući.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a5.obj2": {
+      "text": "Osim toga, svakom se sastavljanju i rastavljanju pridružuje vrijeme, sadašnje, prošlo ili buduće. Ali um apstrahira od vremena, kao i od drugih pojedinačnih uvjeta. Dakle, um ne shvaća sastavljajući i rastavljajući.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a5.obj3": {
+      "text": "Osim toga, um shvaća upodobljavanjem stvarima. Ali sastavljanje i rastavljanje nije ništa u stvarima; jer se u stvarima ne nalazi ništa osim stvari koja se označuje pririkom i subjektom, a ona je jedna te ista ako je sastavljanje istinito: čovjek je, naime, uistinu ono što je životinja. Dakle, um ne sastavlja i ne rastavlja.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a5.sc": {
+      "text": "Ali protiv toga, glasovi označuju zamisli uma, kako kaže Filozof u I. knjizi O tumačenju. Ali u glasovima postoji sastavljanje i rastavljanje, kako je očito u potvrdnim i niječnim iskazima. Dakle, um sastavlja i rastavlja.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a5.resp": {
+      "text": "Odgovaram: treba reći da ljudski um nužno mora shvaćati sastavljajući i rastavljajući. Budući da, naime, ljudski um izlazi iz mogućnosti u čin, ima neku sličnost sa stvarima koje mogu nastati, koje svoju savršenost ne posjeduju odmah, nego je postupno stječu. I slično, ljudski um ne postiže odmah, u prvom zahvaćanju, savršenu spoznaju stvari, nego najprije zahvaća nešto od nje, na primjer štostvo same stvari, koje je prvi i vlastiti predmet uma; a zatim shvaća svojstva, akcidente i odnošaje koji okružuju bit stvari. I prema tome nužno mora jedno zahvaćeno sastavljati s drugim ili od njega rastavljati, i od jednog sastavljanja ili rastavljanja prelaziti na drugo, a to je zaključivati. Anđeoski pak i božanski um odnose se kao nepropadljive stvari, koje odmah od početka imaju svu svoju savršenost. Stoga anđeoski i božanski um odmah savršeno ima svu spoznaju stvari. Stoga, spoznajući štostvo stvari, spoznaje o stvari istodobno sve što mi možemo spoznati sastavljajući, rastavljajući i zaključujući. I zato ljudski um spoznaje sastavljajući i rastavljajući, kao i zaključujući. A božanski i anđeoski um spoznaju doduše sastavljanje, rastavljanje i zaključivanje, ali ne sastavljajući, rastavljajući i zaključujući, nego shvaćanjem jednostavnog štostva.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da sastavljanje i rastavljanje uma biva prema nekoj razlici ili usporedbi. Stoga um spoznaje mnogo toga sastavljajući i rastavljajući na isti način kao kad spoznaje razliku ili usporedbu stvari.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a5.ad2": {
+      "text": "Na drugo treba reći da um i apstrahira iz maštovnih slika, a ipak u činu ne shvaća drukčije nego okrećući se maštovnim slikama, kako je gore rečeno. I s one strane s koje se okreće maštovnim slikama, sastavljanju i rastavljanju uma pridružuje se vrijeme.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a5.ad3": {
+      "text": "Na treće treba reći da se sličnost stvari prima u umu na način uma, a ne na način stvari. Stoga sastavljanju i rastavljanju uma doduše odgovara nešto sa strane stvari, ali se to u stvari ne nalazi na isti način kao u umu. Vlastiti je, naime, predmet ljudskog uma štostvo tvarne stvari, koje potpada pod osjetilo i maštu. A u tvarnoj se stvari nalazi dvostruka sastavljenost. Prva je sastavljenost forme s tvari; i njoj odgovara sastavljanje uma kojim se opća cjelina pririče o svom dijelu; jer se rod uzima od zajedničke tvari, razlika koja dovršava vrstu od forme, a pojedinačno od individualne tvari. Druga je pak sastavljenost akcidenta sa subjektom; i toj stvarnoj sastavljenosti odgovara sastavljanje uma po kojem se akcident pririče o subjektu, kao kad se kaže: čovjek je bijel. Ipak se sastavljanje uma razlikuje od sastavljenosti stvari, jer ono što je u stvari sastavljeno jest različito, a sastavljanje uma znak je istovjetnosti onoga što se sastavlja. Um, naime, ne sastavlja tako da kaže da je čovjek bjelina, nego kaže da je čovjek bijel, to jest da ima bjelinu; a po subjektu je isto ono što je čovjek i ono što ima bjelinu. I slično je sa sastavljenošću forme i tvari: jer životinja označuje ono što ima osjetilnu narav, razumno ono što ima umsku narav, čovjek ono što ima oboje, a Sokrat ono što ima sve to s individualnom tvari; i prema tom pojmu istovjetnosti naš um sastavlja jedno s drugim priričući.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da um može biti lažan. Filozof, naime, u VI. knjizi Metafizike kaže da su *istinito i lažno u duhu*. A duh i um isto su, kako je gore rečeno. Dakle, lažnost je u umu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a6.obj2": {
+      "text": "Osim toga, mnijenje i zaključivanje pripadaju umu. Ali u objema se nalazi lažnost. Dakle, može biti lažnosti u umu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a6.obj3": {
+      "text": "Osim toga, grijeh je u umskom dijelu. Ali grijeh je povezan s lažnošću, jer u zabludi su oni koji čine zlo, kako se kaže u Izr 14. Dakle, lažnost može biti u umu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Osamdeset i tri pitanja, da *tko god se vara, ne shvaća ono u čemu se vara*. A Filozof kaže u knjizi O duši da je *um uvijek ispravan*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a6.resp": {
+      "text": "Odgovaram: treba reći da Filozof u III. knjizi O duši u tom pogledu uspoređuje um s osjetilom. Osjetilo se, naime, ne vara s obzirom na vlastiti predmet, kao vid s obzirom na boju, osim možda akcidentalno, zbog neke zapreke koja se dogodi u organu, kao kad okus grozničavih prosuđuje da je slatko gorko, zato što je jezik pun loših sokova. A s obzirom na zajedničke osjetne stvari osjetilo se vara, kao u prosuđivanju veličine ili oblika, kao kad prosuđuje da je sunce veliko jednu stopu, premda je ono veće od zemlje. I mnogo se više vara s obzirom na akcidentalno osjetne stvari, kao kad prosuđuje da je žuč med, zbog sličnosti boje. I razlog je tomu očit. Jer je svaka moć po sebi usmjerena prema vlastitom predmetu, ukoliko je ona ta moć. A ono što je takvo uvijek se odnosi na isti način. Stoga, dok moć ostaje, ne zakazuje njezin sud o vlastitom predmetu. A vlastiti je predmet uma štostvo stvari. Stoga se s obzirom na štostvo stvari, govoreći po sebi, um ne vara. Ali s obzirom na ono što okružuje bit ili štostvo stvari, um se može varati, dok jedno usmjeruje prema drugome, bilo sastavljajući, bilo rastavljajući, bilo i zaključujući. I zbog toga ne može griješiti ni s obzirom na one iskaze koji se spoznaju čim se spozna štostvo termina, kao što je slučaj s prvim načelima; iz njih proizlazi i nepogrešivost istine, prema izvjesnosti znanosti, s obzirom na zaključke. Akcidentalno se ipak događa da se um vara s obzirom na ono što jest u složenim stvarima: ne sa strane organa, jer um nije snaga koja se služi organom, nego sa strane sastavljanja koje se umeće u definiciju, bilo kad je definicija jedne stvari lažna za drugu, kao definicija kruga za trokut, bilo kad je neka definicija u sebi lažna, jer uključuje sastavljanje nespojivoga, kao kad bi se kao definicija neke stvari uzelo ovo: razumna krilata životinja. Stoga se u jednostavnim stvarima, u čije se definicije sastavljanje ne može umetnuti, ne možemo varati, nego zakazujemo time što ih uopće ne dosežemo, kako se kaže u IX. knjizi Metafizike.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozof kaže da je lažnost u duhu s obzirom na sastavljanje i rastavljanje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a6.ad2": {
+      "text": "I slično treba reći na drugo, o mnijenju i zaključivanju.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a6.ad3": {
+      "text": "I na treće, o zabludi onih koji griješe, koja se sastoji u primjeni na poželjno. Ali u apsolutnom razmatranju štostva stvari i onoga što se po njemu spoznaje um se nikada ne vara. I tako govore autoriteti navedeni za suprotnu tvrdnju.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:31+00:00"
+    },
+    "I.q85.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da jedan ne može jednu te istu stvar shvaćati bolje od drugoga. Augustin, naime, kaže u knjizi Osamdeset i tri pitanja: *Tko god neku stvar shvaća drukčije nego što jest, ne shvaća je. Stoga ne treba sumnjati da postoji savršeno razumijevanje, od kojega ne može biti izvrsnijega; i zato ne ide u beskonačnost to kako se bilo koja stvar shvaća, niti je jedan može shvaćati više od drugoga*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a7.obj2": {
+      "text": "Osim toga, um je shvaćajući istinit. A istina, budući da je neka jednakost uma i stvari, ne prima više i manje; jer se u vlastitom smislu ne kaže da je nešto više ili manje jednako. Dakle, ni za što se ne kaže da se više ili manje shvaća.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a7.obj3": {
+      "text": "Osim toga, um je ono što je u čovjeku najformalnije. Ali razlika forme uzrokuje razliku vrste. Ako, dakle, jedan čovjek shvaća više od drugoga, čini se da nisu jedne vrste.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a7.sc": {
+      "text": "Ali protiv toga je to što se iskustvom nalazi da neki shvaćaju dublje od drugih; kao što dublje shvaća onaj koji neki zaključak može svesti na prva načela i prve uzroke nego onaj koji ga može svesti samo na najbliže uzroke.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a7.resp": {
+      "text": "Odgovaram: treba reći da se to da netko shvaća jednu te istu stvar više nego drugi može razumjeti na dva načina. Na jedan način, tako da riječ „više“ određuje čin shvaćanja sa strane shvaćene stvari. I tako jedan ne može istu stvar shvaćati više nego drugi, jer kad bi shvaćao da je ona drukčija nego što jest, bilo bolja bilo gora, varao bi se i ne bi shvaćao, kako dokazuje Augustin. Na drugi se način može razumjeti tako da određuje čin shvaćanja sa strane onoga koji shvaća. I tako jedan može istu stvar shvaćati bolje od drugoga, jer ima bolju snagu u shvaćanju, kao što tjelesnim viđenjem neku stvar bolje vidi onaj koji ima savršeniju snagu i u kojem je vidna snaga savršenija. A to se kod uma događa na dva načina. Na jedan način, sa strane samoga uma, koji je savršeniji. Očito je, naime, da što je tijelo bolje raspoloženo, to dobiva bolju dušu, što se očito vidi kod onih koji su po vrsti različiti. Razlog je tomu što se čin i forma primaju u tvari prema sposobnosti tvari. Stoga, budući da i među ljudima neki imaju bolje raspoloženo tijelo, dobivaju dušu veće snage u shvaćanju; zato se u II. knjizi O duši kaže: *vidimo da su oni mekana mesa duhom dobro sposobni*. Na drugi se način to događa sa strane nižih snaga, koje su umu potrebne za njegovo djelovanje; jer oni kod kojih su maštovna, misaona i pamtilačka snaga bolje raspoložene, bolje su raspoloženi za shvaćanje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a7.ad1": {
+      "text": "Na prvo je, dakle, rješenje očito iz rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a7.ad2": {
+      "text": "I slično na drugo: istina se, naime, uma sastoji u tome da se shvaća da je stvar onakva kakva jest.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a7.ad3": {
+      "text": "Na treće treba reći da razlika forme koja proizlazi samo iz različite raspoloživosti tvari ne čini različitost po vrsti, nego samo po broju; jer različiti pojedinci imaju različite forme, raznolike prema tvari.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da naš um prije spoznaje nedjeljivo nego djeljivo. Filozof, naime, kaže u I. knjizi Fizike da *shvaćamo i znamo iz spoznaje počela i elemenata*. Ali nedjeljive su stvari počela i elementi djeljivih. Dakle, nedjeljive su nam stvari poznate prije nego djeljive.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a8.obj2": {
+      "text": "Osim toga, ono što se stavlja u definiciju nečega mi spoznajemo prije, jer je definicija iz onoga što je prije i poznatije, kako se kaže u VI. knjizi Topika. Ali nedjeljivo se stavlja u definiciju djeljivoga, kao što je *crta*, kako kaže Euklid, *duljina bez širine, čiji su krajevi dvije točke*. I jedinica se stavlja u definiciju broja, jer je broj mnoštvo mjereno jednim, kako se kaže u X. knjizi Metafizike. Dakle, naš um prije shvaća nedjeljivo nego djeljivo.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a8.obj3": {
+      "text": "Osim toga, slično se spoznaje sličnim. Ali nedjeljivo je umu sličnije nego djeljivo, jer je um jednostavan, kako se kaže u III. knjizi O duši. Dakle, naš um prije spoznaje nedjeljivo.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže u III. knjizi O duši, da se *nedjeljivo pokazuje kao lišenost*. Ali lišenost se spoznaje kasnije. Dakle, i nedjeljivo.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a8.resp": {
+      "text": "Odgovaram: treba reći da je predmet našega uma, u sadašnjem stanju, štostvo tvarne stvari, koje on apstrahira iz maštovnih slika, kako je očito iz prethodnoga. A budući da je ono što spoznajna snaga spoznaje prvotno i po sebi njezin vlastiti predmet, može se iz odnošaja nedjeljivoga prema takvom štostvu razmotriti kojim ga redom shvaćamo. A nedjeljivim se nešto naziva na tri načina, kako se kaže u III. knjizi O duši. Na jedan način, kao što je neprekinuto nedjeljivo, jer je nepodijeljeno u činu, premda je djeljivo u mogućnosti. I takvo nedjeljivo shvaćamo prije nego njegovu diobu, koja je na dijelove, jer je zbrkana spoznaja prije nego razgovijetna, kako je rečeno. Na drugi se način nedjeljivim naziva ono što je nedjeljivo po vrsti, kao što je pojam čovjeka nešto nedjeljivo. I na taj je način nedjeljivo shvaćeno prije nego njegova dioba na dijelove pojma, kako je gore rečeno, i opet prije nego što um sastavlja i rastavlja, potvrđujući ili niječući. A razlog je tomu što takvo dvostruko nedjeljivo um shvaća po sebi, kao vlastiti predmet. Na treći se način nedjeljivim naziva ono što je posve nedjeljivo, kao točka i jedinica, koje se ne dijele ni u činu ni u mogućnosti. I takvo se nedjeljivo spoznaje kasnije, po lišenosti djeljivoga. Stoga se točka definira putem lišenosti: točka je ono što nema dijela; i slično, pojam jednoga jest da je nedjeljivo, kako se kaže u X. knjizi Metafizike. A razlog je tomu što takvo nedjeljivo ima neku suprotstavljenost tjelesnoj stvari, čije štostvo um prvotno i po sebi prima. A kad bi naš um shvaćao po sudjelovanju u odijeljenim nedjeljivim stvarima, kako su postavili platonovci, slijedilo bi da je takvo nedjeljivo prvo shvaćeno, jer prema platonovcima stvari prije imaju udjela u onome što je prije.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da u stjecanju znanja počela i elementi nisu uvijek prije, jer katkad iz osjetnih učinaka dolazimo do spoznaje umljivih počela i uzroka. Ali u dovršenju znanja znanje učinaka uvijek ovisi o spoznaji počela i elemenata, jer, kako na istom mjestu kaže Filozof, *tada mislimo da znamo kad ono što proizlazi iz počela možemo razriješiti u uzroke*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a8.ad2": {
+      "text": "Na drugo treba reći da se točka ne stavlja u definiciju crte općenito uzete; očito je, naime, da u beskonačnoj crti, pa i u kružnoj, točka postoji samo u mogućnosti. Ali Euklid definira konačnu ravnu crtu, i zato je stavio točku u definiciju crte, kao granicu u definiciju onoga što je omeđeno. A jedinica je mjera broja, i zato se stavlja u definiciju mjerenoga broja. Ali se ne stavlja u definiciju djeljivoga, nego radije obratno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    },
+    "I.q85.a8.ad3": {
+      "text": "Na treće treba reći da je sličnost po kojoj shvaćamo spoznajni lik spoznatoga u onome koji spoznaje. I zato nešto nije prije spoznato prema sličnosti naravi sa spoznajnom moći, nego prema prikladnosti s predmetom; inače bi vid više spoznavao sluh nego boju.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:32+00:00"
+    }
+  }
+}

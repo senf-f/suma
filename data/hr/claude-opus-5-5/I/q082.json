@@ -1,0 +1,252 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 82,
+  "units": {
+    "I.q82.pr": {
+      "text": "Zatim valja razmotriti volju. U vezi s njom pitaju se pet stvari. Prvo, teži li volja za nečim nužno. Drugo, teži li za svime nužno. Treće, je li ona moć koja nadmašuje um. Četvrto, pokreće li volja um. Peto, razlikuje li se volja na srditu i požudnu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da volja ni za čim ne teži nužno. Augustin, naime, kaže u V. knjizi O Božjem gradu da, ako je nešto nužno, nije voljno. Ali sve za čim volja teži voljno je. Dakle, ništa za čim volja teži nije nužno željeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a1.obj2": {
+      "text": "Osim toga, razumske se moći, prema Filozofu, odnose prema suprotstavljenome. Ali volja je razumska moć, jer je, kako se kaže u III. knjizi O duši, volja u razumu. Dakle, volja se odnosi prema suprotstavljenome. Dakle, ni na što nije nužno određena.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a1.obj3": {
+      "text": "Osim toga, po volji smo gospodari svojih čina. Ali onoga što je nužno nismo gospodari. Dakle, čin volje ne može biti nužan.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a1.sc": {
+      "text": "Ali protiv toga je što Augustin kaže u XIII. knjizi O Trojstvu da *svi jednom voljom teže za blaženstvom*. Kad to pak ne bi bilo nužno nego kontingentno, izostalo bi barem u manjem broju slučajeva. Dakle, volja nešto hoće nužno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a1.resp": {
+      "text": "Odgovaram: treba reći da se o nužnosti govori na više načina. Nužno je, naime, ono što ne može ne biti. To pak nečemu pristaje na jedan način iz unutarnjega počela: bilo tvarnoga, kao kad kažemo da je sve što je složeno od protivnoga nužno propada; bilo formalnoga, kao kad kažemo da je nužno da trokut ima tri kuta jednaka dvama pravima. I to je naravna i apsolutna nužnost. Na drugi način nečemu pristaje da ne može ne biti iz nečega izvanjskoga, ili svrhe ili djelatnika. Iz svrhe, kao kad netko bez toga ne može postići, ili ne može dobro postići, neku svrhu, kao što se za hranu kaže da je nužna za život, a za konja da je nužan za putovanje. I to se zove nužnost svrhe, koja se katkad naziva i korisnošću. Iz djelatnika pak to nečemu pristaje kao kad nekoga neki djelatnik prisili tako da ne može činiti protivno. I to se zove nužnost prisile. Ova se, dakle, nužnost prisile potpuno protivi volji. Nasilnim, naime, nazivamo ono što je protiv sklonosti stvari. Sam je pak pokret volje neka sklonost prema nečemu. I zato, kao što se nešto naziva naravnim zato što je prema sklonosti naravi, tako se nešto naziva voljnim zato što je prema sklonosti volje. Kao što je, dakle, nemoguće da nešto bude istodobno nasilno i naravno, tako je nemoguće da nešto bude naprosto prisilno ili nasilno i voljno. Nužnost se pak svrhe ne protivi volji kad se do svrhe ne može doći osim na jedan način: tako iz volje da se prijeđe more nastaje u volji nužnost da hoće lađu. Slično se ni naravna nužnost ne protivi volji. Štoviše, nužno je da, kao što um nužno prianja uz prva načela, tako volja nužno prianja uz posljednju svrhu, a to je blaženstvo: svrha se, naime, u djelatnim stvarima odnosi kao počelo u spekulativnima, kako se kaže u II. knjizi Fizike. Treba, naime, da ono što nečemu naravno i nepokretno pristaje bude temelj i počelo svega drugoga, jer je narav stvari ono prvo u svakome, a svako gibanje izlazi od nečega nepokretnoga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustinovu riječ treba shvatiti o onome što je nužno nužnošću prisile. Naravna pak nužnost ne oduzima slobodu volje, kako on sam kaže u istoj knjizi.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a1.ad2": {
+      "text": "Na drugo treba reći da volja, ukoliko nešto naravno hoće, više odgovara umu naravnih načela nego razumu, koji se odnosi prema suprotstavljenome. Stoga je u tom pogledu više umska nego razumska moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a1.ad3": {
+      "text": "Na treće treba reći da smo gospodari svojih čina ukoliko možemo izabrati ovo ili ono. Izbor pak nije o svrsi, nego o onome što vodi k svrsi, kako se kaže u III. knjizi Etike. Stoga težnja za posljednjom svrhom ne spada u ono čega smo gospodari.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da volja nužno hoće sve što god hoće. Dionizije, naime, kaže u IV. poglavlju O božanskim imenima da je zlo mimo volje. Dakle, volja nužno teži prema dobru koje joj je predloženo.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a2.obj2": {
+      "text": "Osim toga, predmet volje odnosi se prema njoj kao pokretač prema pokretljivome. Ali gibanje pokretljivoga nužno slijedi od pokretača. Dakle, čini se da predmet volje nužno pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a2.obj3": {
+      "text": "Osim toga, kao što je ono što je zahvaćeno osjetilom predmet osjetilne težnje, tako je ono što je zahvaćeno umom predmet umske težnje, koja se zove volja. Ali ono što je zahvaćeno osjetilom nužno pokreće osjetilnu težnju; Augustin, naime, kaže u djelu O doslovnom tumačenju Knjige postanka da su životinje pokretane viđenim stvarima. Dakle, čini se da ono što je zahvaćeno umom nužno pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a2.sc": {
+      "text": "Ali protiv toga je što Augustin kaže da je *volja ono čime se griješi i čime se ispravno živi*, i tako se odnosi prema suprotstavljenome. Dakle, ne hoće nužno sve što god hoće.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a2.resp": {
+      "text": "Odgovaram: treba reći da volja ne hoće nužno sve što god hoće. Da bi to bilo jasno, treba uzeti u obzir da, kao što um naravno i nužno prianja uz prva načela, tako volja prianja uz posljednju svrhu, kako je već rečeno. Postoje pak neke umljive stvari koje nemaju nužnu povezanost s prvim načelima, kao što su kontingentni iskazi, s čijim uklanjanjem ne slijedi uklanjanje prvih načela. I uz takve um ne pristaje nužno. Neki su pak iskazi nužni, koji imaju nužnu povezanost s prvim načelima, kao što su dokazivi zaključci, s čijim uklanjanjem slijedi uklanjanje prvih načela. I uz njih um nužno pristaje kad je spoznao nužnu povezanost zaključaka s načelima izvođenjem dokaza; ali ne pristaje nužno prije nego što dokazom spozna takvu nužnost povezanosti. Slično je i sa strane volje. Postoje, naime, neka posebna dobra koja nemaju nužnu povezanost s blaženstvom, jer netko može biti blažen i bez njih; i uz takva volja ne prianja nužno. Postoje pak neka koja imaju nužnu povezanost s blaženstvom, naime ona po kojima čovjek prianja uz Boga, u kojem se jedinom sastoji pravo blaženstvo. Ali ipak, prije nego što se nužnost takve povezanosti pokaže izvjesnošću božanskoga gledanja, volja ne prianja nužno uz Boga, ni uz ono što je Božje. Ali volja onoga koji gleda Boga po biti nužno prianja uz Boga, kao što sada nužno hoćemo biti blaženi. Jasno je, dakle, da volja ne hoće nužno sve što god hoće.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da volja ni prema čemu ne može težiti osim pod pojmom dobra. Ali budući da je dobro mnogostruko, zbog toga nije nužno određena na jedno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a2.ad2": {
+      "text": "Na drugo treba reći da pokretač tada nužno uzrokuje gibanje u pokretljivome kad moć pokretača nadilazi pokretljivo, tako da je sva njegova mogućnost podložna pokretaču. Budući pak da se mogućnost volje odnosi na opće i savršeno dobro, njezina cijela mogućnost nije podložna nekom posebnom dobru. I zato ona nije nužno pokretana od njega.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a2.ad3": {
+      "text": "Na treće treba reći da osjetilna sila nije sila koja uspoređuje različite stvari, kao razum, nego naprosto zahvaća nešto jedno. I zato prema tom jednom određeno pokreće osjetilnu težnju. Ali razum uspoređuje mnoge stvari, i zato umska težnja, naime volja, može biti pokretana od mnogih stvari, a ne nužno od jedne.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je volja viša moć od uma. Dobro je, naime, i svrha predmet volje. Ali svrha je prvi i najviši među uzrocima. Dakle, volja je prva i najviša među moćima.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a3.obj2": {
+      "text": "Osim toga, nalazi se da prirodne stvari napreduju od nesavršenoga prema savršenome. I to se očituje i u moćima duše: napreduje se, naime, od osjetila prema umu, koji je plemenitiji. Ali naravni hod ide od čina uma prema činu volje. Dakle, volja je savršenija i plemenitija moć od uma.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a3.obj3": {
+      "text": "Osim toga, habitusi su razmjerni moćima, kao savršenosti onome što se može usavršiti. Ali habitus kojim se usavršuje volja, naime ljubav, plemenitiji je od habitusa kojima se usavršuje um; kaže se, naime, u 1 Kor 13: *kad bih poznavao sva otajstva i kad bih imao svu vjeru, a ljubavi ne bih imao, ništa sam*. Dakle, volja je viša moć od uma.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a3.sc": {
+      "text": "Ali protiv toga je što Filozof u X. knjizi Etike postavlja da je najviša moć duše um.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a3.resp": {
+      "text": "Odgovaram: treba reći da se nadmašnost nečega nad drugim može promatrati na dva načina: na jedan način naprosto, na drugi način u nekom pogledu. Nešto se pak smatra takvim naprosto ukoliko je takvo samo po sebi, a u nekom pogledu ukoliko se naziva takvim s obzirom na nešto drugo. Ako se, dakle, um i volja promatraju sami po sebi, tako se nalazi da um nadmašuje. I to se očituje iz uspoređivanja njihovih predmeta međusobno. Predmet je, naime, uma jednostavniji i apsolutniji od predmeta volje: predmet je uma sam pojam poželjnoga dobra, a poželjno dobro, čiji je pojam u umu, predmet je volje. Što je pak nešto jednostavnije i apstraktnije, to je samo po sebi plemenitije i više. I zato je predmet uma viši od predmeta volje. Budući, dakle, da je vlastiti pojam moći prema usmjerenosti na predmet, slijedi da je um sam po sebi i naprosto viši i plemenitiji od volje. U nekom pogledu pak i usporedbom s nečim drugim nalazi se katkad da je volja viša od uma, naime po tome što se predmet volje nalazi u višoj stvari nego predmet uma. Kao kad bih rekao da je sluh u nekom pogledu plemenitiji od vida, ukoliko je neka stvar kojoj pripada zvuk plemenitija od neke stvari kojoj pripada boja, premda je boja plemenitija i jednostavnija od zvuka. Kako je, naime, gore rečeno, radnja se uma sastoji u tome da je pojam shvaćene stvari u onome koji shvaća, a čin se volje dovršava u tome da je volja sklona prema samoj stvari kakva je u sebi. I zato Filozof kaže u VI. knjizi Metafizike da su dobro i zlo, koji su predmeti volje, u stvarima, a istinito i lažno, koji su predmeti uma, u duhu. Kad je, dakle, stvar u kojoj je dobro plemenitija od same duše, u kojoj je shvaćeni pojam, onda je u usporedbi s takvom stvari volja viša od uma. Kad je pak stvar u kojoj je dobro ispod duše, onda je i u usporedbi s takvom stvari um viši od volje. Stoga je bolja ljubav prema Bogu nego spoznaja Boga, a obratno je bolja spoznaja tjelesnih stvari nego ljubav prema njima. Ali naprosto je ipak um plemenitiji od volje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se pojam uzroka uzima prema usporedbi jednoga s drugim, i u takvoj se usporedbi nalazi da je pojam dobra glavniji; ali istinito se kaže apsolutnije i označuje sam pojam dobra. Stoga je i dobro nešto istinito. Ali opet je i samo istinito neko dobro, ukoliko je um neka stvar, a istinito njegova svrha. I među drugim svrhama ova je svrha izvrsnija, kao što je um među drugim moćima.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a3.ad2": {
+      "text": "Na drugo treba reći da je ono što je prvo po nastajanju i vremenu nesavršenije, jer u jednom te istom mogućnost vremenski prethodi činu, a nesavršenost savršenosti. Ali ono što je prvo naprosto i prema redu naravi savršenije je: tako je, naime, čin prije mogućnosti. I na taj je način um prije volje, kao pokretačko prije pokretljivoga i aktivno prije pasivnoga: shvaćeno, naime, dobro pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a3.ad3": {
+      "text": "Na treće treba reći da se onaj razlog odnosi na volju u usporedbi s onim što je iznad duše. Krepost je, naime, ljubavi ona kojom ljubimo Boga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da volja ne pokreće um. Pokretač je, naime, plemenitiji od pokrenutoga i prije njega, jer pokretač je djelatnik, a djelatnik je plemenitiji od trpnoga, kako kaže Augustin u XII. knjizi O doslovnom tumačenju Knjige postanka i Filozof u III. knjizi O duši. Ali um je prije volje i plemenitiji od nje, kako je gore rečeno. Dakle, volja ne pokreće um.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a4.obj2": {
+      "text": "Osim toga, pokretač nije pokretan od pokrenutoga, osim možda akcidentalno. Ali um pokreće volju, jer je poželjno zahvaćeno umom pokretač koji nije pokretan, a težnja pokretač koji je pokretan. Dakle, um nije pokretan od volje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a4.obj3": {
+      "text": "Osim toga, ništa ne možemo htjeti ako nije shvaćeno. Ako, dakle, volja pokreće na shvaćanje time što hoće shvaćati, morat će i tom htijenju prethoditi drugo shvaćanje, a tom shvaćanju drugo htijenje, i tako u beskonačnost, što je nemoguće. Dakle, volja ne pokreće um.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a4.sc": {
+      "text": "Ali protiv toga je što Damaščanin kaže da *je do nas da usvojimo koje god hoćemo umijeće, i da ga ne usvojimo*. A do nas je nešto po volji; umijeća pak usvajamo umom. Dakle, volja pokreće um.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a4.resp": {
+      "text": "Odgovaram: treba reći da se za nešto kaže da pokreće na dva načina. Na jedan način, na način svrhe, kao što se kaže da svrha pokreće tvorni uzrok. I na taj način um pokreće volju, jer je shvaćeno dobro predmet volje i pokreće je kao svrha. Na drugi se način za nešto kaže da pokreće na način djelatnika, kao što ono što kakvoćno mijenja pokreće ono što se kakvoćno mijenja, i ono što gura pokreće ono što je gurnuto. I na taj način volja pokreće um i sve sile duše, kako kaže Anselmo u knjizi O sličnostima. Razlog je tomu što u svim uređenim aktivnim moćima ona moć koja se odnosi na opću svrhu pokreće moći koje se odnose na posebne svrhe. I to se očituje kako u prirodnim tako i u političkim stvarima. Nebo, naime, koje djeluje radi općeg održanja onoga što nastaje i propada, pokreće sva niža tijela, od kojih svako djeluje radi održanja vlastite vrste, ili pak pojedinca. Tako i kralj, koji smjera na opće dobro cijeloga kraljevstva, svojom zapovijedi pokreće pojedine upravitelje gradova, koji pojedinim gradovima posvećuju brigu upravljanja. Predmet je pak volje dobro i svrha općenito. Svaka se pak moć odnosi prema nekom vlastitom dobru koje joj je prikladno, kao vid prema opažanju boje, um prema spoznaji istinitoga. I zato volja na način djelatnika pokreće sve moći duše na njihove čine, osim naravnih sila vegetativnog dijela, koje nisu podložne našem odlučivanju.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se um može promatrati na dva načina: na jedan način ukoliko zahvaća biće i istinito općenito; na drugi način ukoliko je neka stvar i posebna moć koja ima određeni čin. I slično se volja može promatrati na dva načina: na jedan način prema općenitosti svojega predmeta, naime ukoliko teži za općim dobrom; na drugi način ukoliko je neka određena moć duše koja ima određeni čin. Ako se, dakle, um i volja uspoređuju prema pojmu općenitosti predmeta jednoga i drugoga, tako je gore rečeno da je um naprosto viši i plemenitiji od volje. Ako se pak um promatra prema općenitosti svojega predmeta, a volja ukoliko je neka određena moć, tako je opet um viši od volje i prije nje, jer je pod pojmom bića i istinitoga, koji um zahvaća, sadržana sama volja i njezin čin i njezin predmet. Stoga um shvaća volju i njezin čin i njezin predmet, kao i druge posebne shvaćene stvari, kao kamen ili drvo, koje su sadržane pod općim pojmom bića i istinitoga. Ako se pak volja promatra prema općem pojmu svojega predmeta, a to je dobro, a um ukoliko je neka stvar i posebna moć, tako je pod općim pojmom dobra sadržan, kao nešto posebno, i sam um i samo shvaćanje i njegov predmet, a to je istinito, od kojih je svako neko posebno dobro. I prema tome je volja viša od uma i može ga pokretati. Iz toga se, dakle, očituje razlog zašto ove moći svojim činima uzajamno uključuju jedna drugu: um, naime, shvaća da volja hoće, a volja hoće da um shvaća. I iz sličnog razloga dobro je sadržano pod istinitim, ukoliko je nešto istinito shvaćeno, a istinito je sadržano pod dobrom, ukoliko je neko željeno dobro.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a4.ad2": {
+      "text": "Na drugo treba reći da um pokreće volju na drugi način nego volja um, kako je već rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a4.ad3": {
+      "text": "Na treće treba reći da ne treba ići u beskonačnost, nego se zaustavlja kod uma kao kod prvoga. Svakom, naime, pokretu volje nužno prethodi zahvaćanje, ali svakom zahvaćanju ne prethodi pokret volje; nego je počelo promišljanja i shvaćanja neko umsko počelo više od našega uma, a to je Bog, kako i Aristotel kaže u VII. knjizi Eudemove etike, i na taj način pokazuje da ne treba ići u beskonačnost.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da srditu i požudnu treba razlikovati u višoj težnji, koja je volja. Požudna se, naime, sila naziva tako od žuđenja, a srdita od srđenja. Ali postoji neka požuda koja ne može pripadati osjetilnoj težnji, nego samo umskoj, koja je volja, kao požuda za mudrošću, o kojoj se kaže u Mudr 6: *požuda za mudrošću vodi do trajnoga kraljevstva*. Postoji i neka srdžba koja ne može pripadati osjetilnoj težnji, nego samo umskoj, kao kad se srdimo na poroke. Stoga i Jeronim u tumačenju Mateja opominje da *posjedujemo u srditoj mržnju prema porocima*. Dakle, srditu i požudnu treba razlikovati u umskoj težnji, kao i u osjetilnoj.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a5.obj2": {
+      "text": "Osim toga, prema onome što se obično kaže, ljubav je u požudnoj, a nada u srditoj. Ali one ne mogu biti u osjetilnoj težnji, jer se ne odnose na osjetne predmete, nego na umljive. Dakle, požudnu i srditu treba postaviti u umski dio.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a5.obj3": {
+      "text": "Osim toga, u knjizi O duhu i duši kaže se da ove moći (naime srditu i požudnu i razumsku) *duša ima prije nego što se pomiješa s tijelom*. Ali nijedna moć osjetilnog dijela ne pripada samo duši, nego složencu, kako je gore rečeno. Dakle, srdita i požudna su u volji, koja je umska težnja.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a5.sc": {
+      "text": "Ali protiv toga je što Grgur iz Nise kaže da se nerazumski dio duše dijeli na željni i srditi; i isto kaže Damaščanin u II. knjizi. A Filozof kaže u III. knjizi O duši da je *volja u razumu, a u nerazumskom dijelu duše požuda i srdžba, ili želja i žestina*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a5.resp": {
+      "text": "Odgovaram: treba reći da srdita i požudna nisu dijelovi umske težnje, koja se zove volja. Jer, kako je gore rečeno, moć koja je usmjerena prema nekom predmetu po općem pojmu ne razlikuje se po posebnim razlikama sadržanima pod tim općim pojmom. Tako, budući da se vid odnosi na vidljivo po pojmu obojenoga, vidne se moći ne umnažaju prema različitim vrstama boja; ali kad bi postojala neka moć koja bi bila moć bijeloga ukoliko je bijelo, a ne ukoliko je obojeno, razlikovala bi se od moći koja bi bila moć crnoga ukoliko je crno. Osjetilna pak težnja ne odnosi se na opći pojam dobra, jer ni osjetilo ne zahvaća opće. I zato se prema različitim pojmovima posebnih dobara razlikuju dijelovi osjetilne težnje: požudna se odnosi na vlastiti pojam dobra, ukoliko je užitno po osjetilu i prikladno naravi; a srdita se odnosi na pojam dobra ukoliko odbija i napada ono što nanosi štetu. Ali volja se odnosi na dobro pod općim pojmom dobra. I zato se u njoj, koja je umska težnja, ne razlikuju neke težnjene moći, tako da bi u umskoj težnji bila jedna srdita moć, a druga požudna, kao što se ni sa strane uma ne umnažaju zahvatne sile, premda se umnažaju sa strane osjetila.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ljubav, požuda i slično uzimaju na dva načina. Katkad ukoliko su neke strasti, koje nastaju naime s nekim uzbuđenjem duše. I tako se obično uzimaju, i na taj su način samo u osjetilnoj težnji. Na drugi način označuju jednostavno čuvstvo, bez strasti ili uzbuđenja duše. I tako su čini volje. I na taj se način pripisuju i anđelima i Bogu. Ali ukoliko se tako uzimaju, ne pripadaju različitim moćima, nego samo jednoj moći, koja se zove volja.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a5.ad2": {
+      "text": "Na drugo treba reći da se sama volja može nazvati srditom ukoliko hoće napadati zlo, ne iz naleta strasti, nego iz suda razuma. I na isti se način može nazvati požudnom zbog želje za dobrom. I tako su u srditoj i požudnoj ljubav i nada, to jest u volji ukoliko je usmjerena prema takvim činima. Tako se može shvatiti i ono što se kaže u knjizi O duhu i duši, da srdita i požudna pripadaju duši prije nego što se sjedini s tijelom (ali tako da se shvati red naravi, a ne vremena), premda nije nužno pokloniti vjeru riječima te knjige.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q82.a5.ad3": {
+      "text": "Odatle je jasno rješenje trećega.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    }
+  }
+}

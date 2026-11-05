@@ -1,0 +1,192 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 90,
+  "units": {
+    "I.q90.pr": {
+      "text": "Nakon rečenoga treba razmotriti prvo proizvođenje čovjeka. I o tome treba razmotriti četiri stvari: prvo, treba razmotriti proizvođenje samoga čovjeka; drugo, svrhu proizvođenja; treće, stanje i položaj prvoga proizvedenog čovjeka; četvrto, njegovo mjesto. A u vezi s proizvođenjem treba razmotriti tri stvari: prvo, proizvođenje čovjeka s obzirom na dušu; drugo, s obzirom na tijelo muškarca; treće, s obzirom na proizvođenje žene. U vezi s prvim postavljaju se četiri pitanja. Prvo, je li ljudska duša nešto učinjeno ili je od supstancije samoga Boga. Drugo, uz pretpostavku da je učinjena, je li stvorena. Treće, je li učinjena posredstvom anđela. Četvrto, je li učinjena prije tijela.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da duša nije učinjena, nego da je od supstancije Božje. Kaže se, naime, u Post 2: *Oblikova Bog čovjeka od praha zemaljskoga i udahnu u njegovo lice dah života, i postade čovjek živa duša*. Ali onaj koji izdiše ispušta nešto od sebe. Dakle, duša po kojoj čovjek živi nešto je od supstancije Božje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a1.obj2": {
+      "text": "Osim toga, kao što je gore utvrđeno, duša je jednostavna forma. Ali forma je čin. Dakle, duša je čisti čin, a to pripada samo Bogu. Dakle, duša je od supstancije Božje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a1.obj3": {
+      "text": "Osim toga, što god jest i ni po čemu se ne razlikuje, isto je. Ali Bog i duh jesu i ni po čemu se ne razlikuju, jer bi se morali razlikovati nekim razlikama, i tako bi bili složeni. Dakle, Bog i ljudski duh jesu isto.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a1.sc": {
+      "text": "Ali protiv toga je to što Augustin u knjizi O podrijetlu duše nabraja neke stvari za koje kaže da su vrlo i očito izopačene i protivne katoličkoj vjeri; među njima je prvo to što su neki rekli da *Bog dušu nije učinio ni iz čega, nego od samoga sebe*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a1.resp": {
+      "text": "Odgovaram: treba reći da tvrdnja da je duša od supstancije Božje sadrži očitu nevjerojatnost. Kao što je, naime, jasno iz rečenoga, ljudska je duša katkad shvaćajuća u mogućnosti, i znanje na neki način stječe od stvari, i ima različite moći; a sve je to strano naravi Boga, koji je čisti čin, i ništa ne prima od drugoga, i nema u sebi nikakve različitosti, kao što je gore dokazano. Ali čini se da je ta zabluda imala početak u dvama postavljanjima starih. Prvi, naime, koji su počeli razmatrati naravi stvari, ne mogavši nadići maštu, postavili su da ne postoji ništa osim tijela. I zato su govorili da je Bog neko tijelo, za koje su smatrali da je počelo drugih tijela. A budući da su postavljali da je duša od naravi onoga tijela za koje su govorili da je počelo, kako se kaže u I. knjizi O duši, posljedično je slijedilo da je duša od naravi Božje. Prema tom postavljanju i manihejci, smatrajući da je Bog neko tjelesno svjetlo, postavili su da je duša neki dio toga svjetla vezan uz tijelo. Zatim se pak napredovalo do toga da su neki zahvatili da postoji nešto netjelesno, ali ne odijeljeno od tijela, nego forma tijela. Stoga je i Varon rekao da je *Bog duša koja upravlja svijetom gibanjem i razumom*, kako pripovijeda Augustin u VII. knjizi O Božjem gradu. Tako su, dakle, neki postavili da je duša čovjekova dio one sveukupne duše, kao što je čovjek dio cijeloga svijeta, ne mogavši umom doprijeti do razlikovanja stupnjeva duhovnih supstancija osim prema razlikovanjima tijela. A sve je to nemoguće, kao što je gore dokazano. Stoga je očito lažno da je duša od supstancije Božje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da udahnuti ne treba shvaćati tjelesno, nego je isto to da Bog udahnjuje i da tvori duh. Premda ni čovjek koji tjelesno izdiše ne ispušta nešto od svoje supstancije, nego od tuđe naravi.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a1.ad2": {
+      "text": "Na drugo treba reći da duša, iako je jednostavna forma po svojoj biti, ipak nije svoj bitak, nego je biće po sudjelovanju, kao što je jasno iz gore rečenoga. I zato nije čisti čin, kao Bog.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a1.ad3": {
+      "text": "Na treće treba reći da se ono što se razlikuje, uzeto u vlastitom smislu, razlikuje nečim; stoga se razlika traži ondje gdje postoji slaganje. I zbog toga ono što se razlikuje mora biti na neki način složeno, budući da se u nečemu razlikuje, a u nečemu se slaže. Ali prema tome, iako je sve što se razlikuje različito, ipak nije sve različito ono što se razlikuje, kako se kaže u X. knjizi Metafizike. Jer jednostavne su stvari različite same po sebi, a ne razlikuju se nekim razlikama od kojih bi bile sastavljene. Kao što se čovjek i magarac razlikuju razlikom razumnoga i nerazumnoga, za koje se ne može reći da se dalje razlikuju drugim razlikama.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da duša nije proizvedena u bitak stvaranjem. Ono, naime, što u sebi ima nešto tvarno, nastaje iz tvari. Ali duša ima u sebi nešto tvarno, budući da nije čisti čin. Dakle, duša je učinjena iz tvari. Dakle, nije stvorena.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a2.obj2": {
+      "text": "Osim toga, čini se da se svaki čin neke tvari izvodi iz mogućnosti tvari; budući, naime, da je tvar u mogućnosti prema činu, svaki čin unaprijed postoji u tvari u mogućnosti. Ali duša je čin tjelesne tvari, kao što se vidi iz njezine definicije. Dakle, duša se izvodi iz mogućnosti tvari.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a2.obj3": {
+      "text": "Osim toga, duša je neka forma. Ako, dakle, duša nastaje stvaranjem, s istim razlogom i sve druge forme. I tako nijedna forma ne bi izlazila u bitak nastajanjem. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Post 1: *Stvori Bog čovjeka na svoju sliku*. A čovjek je na sliku Božju po duši. Dakle, duša je izašla u bitak stvaranjem.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a2.resp": {
+      "text": "Odgovaram: treba reći da razumska duša ne može nastati osim stvaranjem, što nije istinito za druge forme. Razlog je tome što, budući da je nastajanje put k bitku, nečemu pripada nastajati na onaj način na koji mu pripada biti. A u vlastitom se smislu kaže da jest ono što samo ima bitak, kao samostojeće u svojem bitku; stoga se samo supstancije u vlastitom smislu i uistinu nazivaju bićima. Akcident pak nema bitak, nego je po njemu nešto, i po tom se razlogu naziva bićem; kao što se bjelina naziva bićem, jer je po njoj nešto bijelo. I zbog toga se kaže u VII. knjizi Metafizike da se za akcident kaže da je više nešto od bića nego biće. A isti je razlog za sve druge forme koje ne samostoje. I zato nijednoj formi koja ne samostoji ne pripada u vlastitom smislu nastajati, nego se za njih kaže da nastaju po tome što nastaju samostojeći složenci. A razumska je duša samostojeća forma, kao što je gore utvrđeno. Stoga joj u vlastitom smislu pripada biti i nastajati. I budući da ne može nastati iz prethodno postojeće tvari, ni tjelesne, jer bi tako bila tjelesne naravi, ni duhovne, jer bi se tako duhovne supstancije preinačivale jedna u drugu, nužno je reći da ne nastaje drukčije nego stvaranjem.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je u duši kao tvarno sama jednostavna bit, a formalno je u njoj bitak u kojem ona ima udjela, koji je nužno istodobno s biti duše, jer bitak po sebi slijedi formu. I isti bi razlog bio kad bi se postavilo da je sastavljena od neke duhovne tvari, kako neki kažu. Jer ta tvar nije u mogućnosti prema drugoj formi, kao ni tvar nebeskoga tijela; inače bi duša bila propadljiva. Stoga duša ni na koji način ne može nastati iz prethodno postojeće tvari.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a2.ad2": {
+      "text": "Na drugo treba reći da izvesti čin iz mogućnosti tvari nije ništa drugo nego da nešto postane u činu što je prije bilo u mogućnosti. Ali budući da razumska duša nema svoj bitak ovisan o tjelesnoj tvari, nego ima samostojeći bitak i nadilazi sposobnost tjelesne tvari, kao što je gore rečeno, zato se ne izvodi iz mogućnosti tvari.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a2.ad3": {
+      "text": "Na treće treba reći da nije isto s razumskom dušom i s drugim formama, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da razumska duša nije proizvedena od Boga neposredno, nego posredstvom anđela. Veći je, naime, red u duhovnim stvarima nego u tjelesnim. Ali niža se tijela proizvode po višim tijelima, kako kaže Dionizije u IV. poglavlju O Božjim imenima. Dakle, i niži duhovi, koji su razumske duše, proizvode se po višim duhovima, koji su anđeli.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a3.obj2": {
+      "text": "Osim toga, svrha stvari odgovara počelu; Bog je, naime, počelo i svrha stvari. Dakle, i izlazak stvari od počela odgovara privođenju stvari k svrsi. Ali najniže se privodi po prvima, kako kaže Dionizije. Dakle, i najniže izlazi u bitak po prvima, naime duše po anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a3.obj3": {
+      "text": "*Osim toga, savršeno je ono što može učiniti sebi slično*, kako se kaže u IV. knjizi Meteorologike. Ali duhovne su supstancije mnogo savršenije od tjelesnih. Budući, dakle, da tijela čine sebi slično po vrsti, mnogo će više anđeli moći učiniti nešto ispod sebe po vrsti naravi, naime razumsku dušu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Post 2, da je *sam Bog udahnuo u lice čovjekovo dah života*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a3.resp": {
+      "text": "Odgovaram: treba reći da su neki postavili da anđeli, ukoliko djeluju snagom Božjom, uzrokuju razumske duše. Ali to je posve nemoguće i strano vjeri. Pokazano je, naime, da razumska duša ne može biti proizvedena osim stvaranjem. A samo Bog može stvarati. Jer samo je prvom djelatniku svojstveno djelovati bez ičega pretpostavljenoga, budući da drugotni djelatnik uvijek pretpostavlja nešto od prvoga djelatnika, kao što je gore utvrđeno. A ono što djeluje iz nečega pretpostavljenoga djeluje preinačujući. I zato nijedan drugi djelatnik ne djeluje drukčije nego preinačujući, a samo Bog djeluje stvarajući. I budući da razumska duša ne može biti proizvedena preinakom neke tvari, zato ne može biti proizvedena drukčije nego od Boga neposredno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a3.ad1": {
+      "text": "I time je jasno rješenje prigovora. Jer to što tijela uzrokuju ili sebi slično ili niže, i to što viši privode niže, sve to proizlazi po nekoj preinaci.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je ljudska duša proizvedena prije tijela. Djelo stvaranja, naime, prethodilo je djelu razlučivanja i ukrašavanja, kao što je gore utvrđeno. Ali duša je proizvedena u bitak stvaranjem, a tijelo je učinjeno na kraju ukrašavanja. Dakle, čovjekova je duša proizvedena prije tijela.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a4.obj2": {
+      "text": "Osim toga, razumska se duša više slaže s anđelima nego s nerazumnim životinjama. Ali anđeli su stvoreni prije tijela, ili odmah na početku s tjelesnom tvari; a tijelo je čovjekovo oblikovano šestoga dana, kad su proizvedene i nerazumne životinje. Dakle, čovjekova je duša stvorena prije tijela.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a4.obj3": {
+      "text": "Osim toga, svršetak je razmjeran početku. Ali duša na svršetku ostaje nakon tijela. Dakle, i na početku je stvorena prije tijela.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a4.sc": {
+      "text": "Ali protiv toga je to što vlastiti čin nastaje u vlastitoj mogućnosti. Budući, dakle, da je duša vlastiti čin tijela, duša je proizvedena u tijelu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a4.resp": {
+      "text": "Odgovaram: treba reći da je Origen postavio da su ne samo duša prvoga čovjeka nego duše svih ljudi stvorene prije tijela zajedno s anđelima, zbog toga što je vjerovao da su sve duhovne supstancije, kako duše tako i anđeli, jednake po stanju svoje naravi, a da se razlikuju samo po zasluzi; tako da su neke od njih bile vezane uz tijela, a to su duše ljudi ili nebeskih tijela, dok su druge ostale u svojoj čistoći, prema različitim redovima. O tom smo mnijenju već gore govorili, i zato ga zasad ostavljamo. Augustin pak u VII. knjizi O doslovnom tumačenju Knjige postanka kaže da je duša prvoga čovjeka stvorena prije tijela s anđelima, zbog drugoga razloga. Postavlja, naime, da tijelo čovjekovo u onim djelima šest dana nije bilo proizvedeno u činu, nego samo prema uzročnim razlozima, a to se ne može reći o duši; jer ona niti je učinjena iz neke prethodno postojeće tjelesne ili duhovne tvari, niti je mogla biti proizvedena iz neke stvorene snage. I zato se čini da je sama duša u djelima šest dana, u kojima je sve učinjeno, bila stvorena zajedno s anđelima, i da se poslije vlastitom voljom priklonila upravljanju tijelom. Ali to ne kaže tvrdeći, kako pokazuju njegove riječi. Kaže, naime: *Neka se vjeruje, ako nikakav autoritet Pisama ni razlog istine ne proturječi, da je čovjek šestoga dana učinjen tako da je uzročni razlog ljudskoga tijela bio stvoren u elementima svijeta, a sama duša već stvorena*. To bi se dakako moglo podnijeti prema onima koji postavljaju da duša po sebi ima potpunu vrstu i narav, i da nije sjedinjena s tijelom kao forma, nego samo da njime upravlja. Ali ako je duša sjedinjena s tijelom kao forma i ako je po naravi dio ljudske naravi, to nikako ne može biti. Očito je, naime, da je Bog prve stvari ustanovio u savršenom stanju njihove naravi, kako je zahtijevala vrsta svake stvari. A duša, budući da je dio ljudske naravi, nema naravnu savršenost osim ukoliko je sjedinjena s tijelom. Stoga ne bi bilo prikladno da duša bude stvorena bez tijela. Pridržavajući se, dakle, Augustinova mnijenja o djelima šest dana, moći će se reći da je ljudska duša prethodila u djelima šest dana po nekoj sličnosti roda, ukoliko se slaže s anđelima u umskoj naravi; a sama je bila stvorena zajedno s tijelom. Prema drugim pak svecima, i duša i tijelo prvoga čovjeka proizvedeni su u djelima šest dana.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da bi, kad bi narav duše imala cjelovitu vrstu, tako da bi bila stvorena sama za sebe, onaj razlog vrijedio, naime da bi na početku bila stvorena po sebi. Ali budući da je po naravi forma tijela, nije trebala biti stvorena odvojeno, nego je trebala biti stvorena u tijelu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a4.ad2": {
+      "text": "I slično treba reći na drugo. Jer kad bi duša po sebi imala vrstu, više bi se slagala s anđelima. Ali ukoliko je forma tijela, pripada rodu životinja, kao formalno počelo.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    },
+    "I.q90.a4.ad3": {
+      "text": "Na treće treba reći da to što duša ostaje nakon tijela biva zbog nedostatka tijela, a to je smrt. Taj nedostatak nije smio postojati na početku stvaranja duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:33+00:00"
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 81,
+  "units": {
+    "I.q81.pr": {
+      "text": "Zatim valja razmotriti osjetilnost. U vezi s njom pitaju se tri stvari. Prvo, je li osjetilnost samo težnjena sila. Drugo, dijeli li se osjetilnost na srditu i požudnu kao na različite moći. Treće, slušaju li srdita i požudna razum.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da osjetilnost nije samo težnjena, nego i spoznajna. Augustin, naime, kaže u XII. knjizi O Trojstvu da je *osjetilnosni pokret duše, koji je usmjeren prema tjelesnim osjetilima, zajednički nama i stoci*. Ali tjelesna osjetila sadržana su pod spoznajnom silom. Dakle, osjetilnost je spoznajna sila.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a1.obj2": {
+      "text": "Osim toga, čini se da je ono što potpada pod jednu diobu jednoga roda. Ali Augustin u XII. knjizi O Trojstvu dijeli osjetilnost nasuprot višemu i nižemu razumu, koji pripadaju spoznaji. Dakle, i osjetilnost je spoznajna sila.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a1.obj3": {
+      "text": "Osim toga, osjetilnost u čovjekovoj kušnji zauzima mjesto zmije. Ali zmija se u kušnji prvih roditelja ponijela kao ona koja navješćuje i predlaže grijeh, a to pripada spoznajnoj sili. Dakle, osjetilnost je spoznajna sila.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a1.sc": {
+      "text": "Ali protiv toga je što se osjetilnost definira kao *težnja za stvarima koje pripadaju tijelu*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a1.resp": {
+      "text": "Odgovaram: treba reći da se čini da je ime osjetilnosti uzeto od osjetilnosnoga pokreta, o kojem Augustin govori u XII. knjizi O Trojstvu, kao što se ime moći uzima od čina, kao vid od viđenja. Osjetilnosni je pak pokret težnja koja slijedi osjetilno zahvaćanje. Čin se zahvatne snage, naime, ne naziva tako u vlastitom smislu pokretom kao radnja težnje: djelovanje zahvatne snage dovršava se u tome što su zahvaćene stvari u onome koji zahvaća, a djelovanje težnjene snage dovršava se u tome što je onaj koji teži sklon prema poželjnoj stvari. I zato je djelovanje zahvatne snage slično mirovanju, a djelovanje težnjene snage više je slično pokretu. Stoga se pod osjetilnosnim pokretom shvaća djelovanje težnjene snage. I tako je osjetilnost ime osjetilne težnje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se time što Augustin kaže da je osjetilnosni pokret duše usmjeren prema tjelesnim osjetilima ne daje razumjeti da su tjelesna osjetila obuhvaćena osjetilnošću, nego prije da je pokret osjetilnosti neka sklonost prema tjelesnim osjetilima, naime dok težimo za onim što se zahvaća tjelesnim osjetilima. I tako tjelesna osjetila pripadaju osjetilnosti kao ono što joj prethodi.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a1.ad2": {
+      "text": "Na drugo treba reći da se osjetilnost dijeli nasuprot višemu i nižemu razumu ukoliko imaju zajedničko u činu pokretanja: spoznajna je, naime, sila, kojoj pripadaju viši i niži razum, pokretačka, kao i težnjena, kojoj pripada osjetilnost.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a1.ad3": {
+      "text": "Na treće treba reći da zmija nije samo pokazala i predložila grijeh, nego je i sklonila na izvršenje grijeha. I u tom pogledu zmija označuje osjetilnost.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se osjetilna težnja ne razlikuje na srditu i požudnu kao na različite moći. Ista je, naime, moć duše moć jedne protivnosti, kao što je vid moć bijeloga i crnoga, kako se kaže u II. knjizi O duši. Ali prikladno i štetno jesu protivni. Budući, dakle, da se požudna odnosi na prikladno, a srdita na štetno, čini se da su srdita i požudna ista moć duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a2.obj2": {
+      "text": "Osim toga, osjetilna težnja je samo težnja za onim što je prikladno po osjetilu. Ali ono što je prikladno po osjetilu predmet je požudne. Dakle, nijedna osjetilna težnja nije različita od požudne.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a2.obj3": {
+      "text": "Osim toga, mržnja je u srditoj; Jeronim, naime, kaže u tumačenju Mateja: *posjedujmo u srditoj mržnju prema porocima*. Ali mržnja je, budući da je protivna ljubavi, u požudnoj. Dakle, ista je sila požudna i srdita.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a2.sc": {
+      "text": "Ali protiv toga je što Grgur iz Nise i Damaščanin postavljaju dvije sile, srditu i požudnu, kao dijelove osjetilne težnje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a2.resp": {
+      "text": "Odgovaram: treba reći da je osjetilna težnja po rodu jedna sila, koja se zove osjetilnost; ali se dijeli na dvije moći, koje su vrste osjetilne težnje, naime na srditu i požudnu. Da bi to bilo jasno, treba uzeti u obzir da u propadljivim prirodnim stvarima ne treba da bude samo sklonost prema postizanju prikladnoga i izbjegavanju štetnoga, nego i prema odupiranju onome što uzrokuje propadanje i onome što je protivno, što priječi prikladno i nanosi štete. Tako vatra ima naravnu sklonost ne samo da se udaljuje od nižeg mjesta, koje joj nije prikladno, i da teži prema gornjem mjestu, koje joj je prikladno, nego i da se odupire onome što uzrokuje propadanje i što priječi. Budući, dakle, da je osjetilna težnja sklonost koja slijedi osjetilno zahvaćanje, kao što je naravna težnja sklonost koja slijedi naravnu formu, nužno je da u osjetilnom dijelu budu dvije težnjene moći. Jedna je ona po kojoj je duša naprosto sklona da teži za onim što je prikladno po osjetilu i da izbjegava štetno, i ta se zove požudna. Druga je pak ona po kojoj se životinja odupire napadačima, koji napadaju prikladno i nanose štete, i ta se sila zove srdita. Stoga se kaže da je njezin predmet ono teško dostižno, jer naime teži za tim da svlada protivno i da se uzdigne iznad njega. Ove se pak dvije sklonosti ne svode na jedno počelo, jer se duša katkad izlaže žalosnome, protivno sklonosti požudne, da bi prema sklonosti srdite napala protivno. Stoga se čini da se i strasti srdite protive strastima požudne: raspaljena požuda, naime, umanjuje srdžbu, a raspaljena srdžba umanjuje požudu, u većini slučajeva. To je jasno i otuda što je srdita kao borac i branitelj požudne, dok ustaje protiv onoga što priječi prikladno, za kojim požudna teži, i što nanosi štetno, koje požudna izbjegava. I zbog toga sve strasti srdite počinju od strasti požudne i u njima završavaju; kao što se srdžba rađa iz nanesene žalosti, a kad izvrši osvetu, završava u radosti. Zbog toga su i borbe životinja oko onoga za čim teži požudna, naime oko hrane i spolnih užitaka, kako se kaže u VIII. knjizi O životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je požudna sila i sila prikladnoga i neprikladnoga. Ali srdita je tu da se odupre neprikladnome koje napada.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a2.ad2": {
+      "text": "Na drugo treba reći da, kao što među zahvatnim snagama u osjetilnom dijelu postoji neka procjeniteljska sila, naime ona koja opaža ono što ne izaziva izmjenu u osjetilu, kako je gore rečeno, tako i u osjetilnoj težnji postoji neka sila koja teži za nečim što nije prikladno po užitku osjetila, nego ukoliko je korisno životinji za njezinu obranu. I to je srdita sila.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a2.ad3": {
+      "text": "Na treće treba reći da mržnja naprosto pripada požudnoj; ali s obzirom na napadanje koje mržnja uzrokuje može pripadati srditoj.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da srdita i požudna ne slušaju razum. Srdita su, naime, i požudna dijelovi osjetilnosti. Ali osjetilnost ne sluša razum, zbog čega je označuje zmija, kako kaže Augustin u XII. knjizi O Trojstvu. Dakle, srdita i požudna ne slušaju razum.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a3.obj2": {
+      "text": "Osim toga, ono što nekoga sluša ne protivi mu se. Ali srdita i požudna protive se razumu, prema onome Apostolovu u Rim 7: *vidim drugi zakon u svojim udovima koji se protivi zakonu moga duha*. Dakle, srdita i požudna ne slušaju razum.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a3.obj3": {
+      "text": "Osim toga, kao što je težnjena sila niža od razumskog dijela duše, tako je i osjetilna sila. Ali osjetilni dio duše ne sluša razum: ne čujemo, naime, i ne vidimo kad hoćemo. Dakle, slično ni sile osjetilne težnje, naime srdita i požudna, ne slušaju razum.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a3.sc": {
+      "text": "Ali protiv toga je što Damaščanin kaže da se *ono što sluša razum i što je podatno njegovu uvjeravanju dijeli na požudu i srdžbu*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a3.resp": {
+      "text": "Odgovaram: treba reći da srdita i požudna slušaju viši dio, u kojem su um ili razum i volja, na dva načina: na jedan način s obzirom na razum, a na drugi način s obzirom na volju. Razum slušaju s obzirom na same svoje čine. Razlog je tomu što je osjetilnoj težnji u drugim životinjama naravno da bude pokretana od procjeniteljske snage, kao što se ovca boji jer procjenjuje vuka kao neprijatelja. U čovjeku je pak, kako je gore rečeno, na mjestu procjeniteljske snage misaona sila, koju neki nazivaju posebnim razumom, zato što uspoređuje pojedinačne intencije. Stoga je osjetilnoj težnji u čovjeku naravno da bude pokretana od nje. Samome je pak posebnom razumu naravno da bude pokretan i upravljan prema općem razumu; zato se u silogistici iz općih iskaza izvode pojedinačni zaključci. I zato je jasno da opći razum zapovijeda osjetilnoj težnji, koja se razlikuje na požudnu i srditu, i ta ga težnja sluša. A budući da izvoditi opća načela u pojedinačne zaključke nije djelo jednostavnoga uma, nego razuma, zato se za srditu i požudnu više kaže da slušaju razum nego um. To također svatko može iskusiti na samome sebi: primjenjujući, naime, neka opća razmatranja, ublažuje se srdžba ili strah ili nešto takvo, ili se pak potiče. Osjetilna je težnja podložna i volji, s obzirom na izvršenje, koje se zbiva pokretačkom silom. U drugim životinjama, naime, odmah na težnju požudne i srdite slijedi gibanje, kao što ovca, bojeći se vuka, odmah bježi, jer u njima nema neke više težnje koja bi se tome protivila. Ali čovjek se ne pokreće odmah prema težnji srdite i požudne, nego se čeka zapovijed volje, koja je viša težnja. U svim, naime, uređenim pokretačkim moćima drugi pokretač ne pokreće osim snagom prvoga pokretača; stoga niža težnja nije dovoljna da pokrene ako viša težnja ne pristane. I to je ono što Filozof kaže u III. knjizi O duši: da *viša težnja pokreće nižu težnju kao što viša sfera pokreće nižu*. Na taj su način, dakle, srdita i požudna podložne razumu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da zmija označuje osjetilnost s obzirom na ono što joj je vlastito sa strane osjetilnog dijela. Srdita pak i požudna radije imenuju osjetilnu težnju sa strane čina, na koji ih navodi razum, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a3.ad2": {
+      "text": "Na drugo treba reći da, kako kaže Filozof u I. knjizi Politike, *u živom je biću moguće promatrati i despotsku vladavinu i političku: duša, naime, gospodari tijelom despotskom vladavinom, a um težnjom političkom i kraljevskom*. Despotskom se, naime, naziva vladavina kojom netko vlada robovima, koji nemaju mogućnosti ni u čemu se oduprijeti zapovijedi onoga koji naređuje, jer nemaju ništa svoje. Političkom se pak i kraljevskom naziva vladavina kojom netko vlada slobodnima, koji, iako su podložni upravi onoga koji im je postavljen na čelo, ipak imaju nešto vlastito, čime se mogu opirati zapovijedi onoga koji naređuje. Tako se, dakle, kaže da duša gospodari tijelom despotskom vladavinom, jer se udovi tijela ni u čemu ne mogu oduprijeti zapovijedi duše, nego se odmah na težnju duše pokreću ruka i noga i svaki ud kojem je naravno da bude pokretan voljnim pokretom. Za um pak ili razum kaže se da vlada srditom i požudnom političkom vladavinom, jer osjetilna težnja ima nešto vlastito, čime se može opirati zapovijedi razuma. Osjetilnoj je, naime, težnji naravno da bude pokretana ne samo od procjeniteljske sile u drugim životinjama i od misaone u čovjeku, kojom upravlja opći razum, nego i od maštovne sile i od osjetila. Stoga iskušavamo da se srdita ili požudna protivi razumu time što osjećamo ili zamišljamo nešto užitno što razum zabranjuje, ili nešto žalosno što razum nalaže. I tako time što se srdita i požudna u nečemu protive razumu nije isključeno da ga slušaju.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q81.a3.ad3": {
+      "text": "Na treće treba reći da su vanjskim osjetilima za njihove čine potrebne vanjske osjetne stvari, koje u njima izazivaju izmjenu, a čija prisutnost nije u vlasti razuma. Ali unutarnjim silama, kako težnjenim tako i zahvatnim, nisu potrebne vanjske stvari. I zato su podložne zapovijedi razuma, koji može ne samo poticati ili ublažavati čuvstva težnjene snage, nego i oblikovati maštovne slike maštovne snage.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    }
+  }
+}

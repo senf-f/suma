@@ -1,0 +1,684 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 79,
+  "units": {
+    "I.q79.pr": {
+      "text": "Zatim se istražuje o umskim moćima. O tome se postavlja trinaest pitanja. Prvo, je li um moć duše ili njezina bit. Drugo, ako je moć, je li trpna moć. Treće, ako je trpna moć, treba li postaviti neki djelatni um. Četvrto, je li on nešto duše. Peto, je li djelatni um jedan za sve. Šesto, je li pamćenje u umu. Sedmo, je li ono moć različita od uma. Osmo, je li razum moć različita od uma. Deveto, jesu li viši i niži razum različite moći. Deseto, je li razumijevanje moć različita od uma. Jedanaesto, jesu li spekulativni i praktični um različite moći. Dvanaesto, je li sindereza neka moć umskoga dijela. Trinaesto, je li savjest neka moć umskoga dijela.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da um nije neka moć duše, nego sama njezina bit. Čini se, naime, da je um isto što i pamet. Ali pamet nije moć duše, nego bit; Augustin, naime, kaže u IX. knjizi O Trojstvu: *pamet i duh ne kažu se odnosno, nego pokazuju bit*. Dakle, um je sama bit duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a1.obj2": {
+      "text": "Osim toga, različiti rodovi moći duše ne sjedinjuju se ni u jednoj moći, nego samo u biti duše. A težnjeno i umsko različiti su rodovi moći duše, kako se kaže u II. knjizi O duši; ali se podudaraju u duhu, jer Augustin u X. knjizi O Trojstvu postavlja razumijevanje i volju u duh. Dakle, duh i um jest sama bit duše, a ne neka njezina moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a1.obj3": {
+      "text": "Osim toga, prema Grguru, u homiliji o Uzašašću, čovjek shvaća zajedno s anđelima. Ali anđeli se nazivaju duhovima i umovima. Dakle, duh i um čovjeka nije neka moć duše, nego sama duša.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a1.obj4": {
+      "text": "Osim toga, nekoj supstanciji pristaje da bude umska zato što je netvarna. Ali duša je netvarna po svojoj biti. Dakle, čini se da je duša umska po svojoj biti.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a1.sc": {
+      "text": "Ali protiv toga jest to što Filozof postavlja umsko kao moć duše, kako je očito u II. knjizi O duši.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a1.resp": {
+      "text": "Odgovaram: treba reći da je, prema prethodno rečenome, nužno reći da je um neka moć duše, a ne sama bit duše. Samo je onda, naime, neposredno počelo djelovanja sama bit stvari koja djeluje kad je samo djelovanje njezin bitak; jer kao što se moć odnosi prema djelovanju kao prema svojemu činu, tako se bit odnosi prema bitku. A samo je u Bogu shvaćati isto što i njegov bitak. Stoga je samo u Bogu um njegova bit, dok je u drugim umskim stvorovima um neka moć onoga koji shvaća.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se osjetilo katkad uzima za moć, a katkad za samu osjetilnu dušu; osjetilna se duša, naime, imenuje imenom svoje glavnije moći, a to je osjetilo. Slično se i umska duša katkad naziva imenom uma, kao po svojoj glavnijoj snazi; kao što se kaže u I. knjizi O duši da je um neka supstancija. I na taj način Augustin kaže da je pamet duh ili bit.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a1.ad2": {
+      "text": "Na drugo treba reći da su težnjeno i umsko različiti rodovi moći duše prema različitim pojmovima predmetâ. Ali težnjeno se dijelom podudara s umskim, a dijelom s osjetilnim, s obzirom na način djelovanja po tjelesnom organu ili bez takvoga organa; jer težnja slijedi zahvaćanje. I prema tome Augustin postavlja volju u duh, a Filozof u razum.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a1.ad3": {
+      "text": "Na treće treba reći da u anđelima nema druge sile osim umske i volje, koja slijedi um. I zbog toga se anđeo naziva duhom ili umom, jer se u tome sastoji sva njegova snaga. A duša ima mnoge druge sile, kao što su osjetilne i hranidbene, i stoga nije jednako.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a1.ad4": {
+      "text": "Na četvrto treba reći da sama netvarnost stvorene supstancije koja shvaća nije njezin um; nego iz netvarnosti ima snagu za shvaćanje. Stoga nije nužno da um bude supstancija duše, nego njezina snaga i moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da um nije trpna moć. Svaka stvar, naime, trpi po tvari, a djeluje po formi. Ali umska snaga slijedi netvarnost supstancije koja shvaća. Dakle, čini se da um nije trpna moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a2.obj2": {
+      "text": "Osim toga, umska je moć nepropadljiva, kako je gore rečeno. Ali um je, ako je trpan, propadljiv, kako se kaže u III. knjizi O duši. Dakle, umska moć nije trpna.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a2.obj3": {
+      "text": "Osim toga, djelatnik je plemenitiji od trpitelja, kako kaže Augustin u XII. knjizi O doslovnom tumačenju Knjige postanka i Aristotel u III. knjizi O duši. A sve su moći vegetativnoga dijela djelatne, iako su najniže među moćima duše. Dakle, mnogo su više sve umske moći, koje su najviše, djelatne.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a2.sc": {
+      "text": "Ali protiv toga jest to što Filozof kaže u III. knjizi O duši da je *shvaćati neko trpljenje*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a2.resp": {
+      "text": "Odgovaram: treba reći da se trpjeti kaže na tri načina. Na jedan način, u najvlastitijem smislu, naime kad se od nečega odstranjuje ono što mu pristaje po naravi ili po vlastitoj sklonosti; kao kad voda gubi hladnoću zagrijavanjem i kad čovjek obolijeva ili se žalosti. Na drugi način, u manje vlastitom smislu, kaže se da netko trpi zbog toga što se od njega nešto odbacuje, bilo da mu je to prikladno, bilo neprikladno. I prema tome se kaže da trpi ne samo onaj koji obolijeva nego i onaj koji ozdravlja; ne samo onaj koji se žalosti nego i onaj koji se raduje; ili na bilo koji način netko bio podvrgnut kakvoćnoj promjeni ili gibanju. Na treći način kaže se da nešto trpi u općenitom smislu samo po tome što ono što je u mogućnosti prema nečemu prima ono prema čemu je bilo u mogućnosti, a da se pritom ništa ne odbacuje. Na taj se način za sve što prelazi iz mogućnosti u čin može reći da trpi, čak i kad se usavršuje. I tako je naše shvaćanje trpljenje. To je očito iz ovoga razloga. Um, naime, kako je gore rečeno, ima djelovanje koje se tiče bića općenito. Može se, dakle, razmotriti je li um u činu ili u mogućnosti tako da se razmotri kako se um odnosi prema općem biću. Nalazi se, naime, neki um koji se prema općem biću odnosi kao čin svega bića, i takav je božanski um, koji je Božja bit, u kojoj sve biće izvorno i virtualno unaprijed postoji kao u prvom uzroku. I stoga božanski um nije u mogućnosti, nego je čisti čin. A nijedan stvoreni um ne može se odnositi kao čin s obzirom na sve opće biće, jer bi tada morao biti beskonačno biće. Stoga svaki stvoreni um, samim time što jest, nije čin svega umljivoga, nego se prema samome umljivome odnosi kao mogućnost prema činu. A mogućnost se prema činu odnosi dvojako. Postoji, naime, neka mogućnost koja je uvijek usavršena činom, kao što smo rekli o tvari nebeskih tijela. A postoji neka mogućnost koja nije uvijek u činu, nego iz mogućnosti prelazi u čin, kao što se nalazi u onome što nastaje i propada. Anđeoski je, dakle, um uvijek u činu svojega umljivoga zbog blizine prvome umu, koji je čisti čin, kako je gore rečeno. A ljudski um, koji je najniži u redu umova i najudaljeniji od savršenosti božanskoga uma, u mogućnosti je s obzirom na umljivo, i na početku je kao neispisana ploča na kojoj ništa nije napisano, kako kaže Filozof u III. knjizi O duši. To je jasno vidljivo iz toga što smo na početku shvaćajući samo u mogućnosti, a poslije postajemo shvaćajući u činu. Tako je, dakle, očito da je naše shvaćanje neko trpljenje, prema trećem načinu trpnje. I posljedično, um je trpna moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se onaj prigovor odnosi na prvi i drugi način trpnje, koji su vlastiti prvoj tvari. A treći način trpnje pripada bilo čemu što postoji u mogućnosti, a dovodi se u čin.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a2.ad2": {
+      "text": "Na drugo treba reći da se, prema nekima, trpnim umom naziva osjetilna težnja, u kojoj su strasti duše; ona se i u I. knjizi Etike naziva razumskom po sudjelovanju, jer sluša razum. A prema drugima, trpnim umom naziva se misaona sila, koja se zove posebni razum. I na oba se načina trpno može uzeti prema prva dva načina trpnje, ukoliko je tako nazvani um čin nekoga tjelesnog organa. Ali um koji je u mogućnosti prema umljivome, koji Aristotel zbog toga naziva mogućnosnim umom, nije trpan osim na treći način, jer nije čin tjelesnoga organa. I stoga je nepropadljiv.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a2.ad3": {
+      "text": "Na treće treba reći da je djelatnik plemenitiji od trpitelja ako se radnja i trpnja odnose na isto, ali ne uvijek ako se odnose na različito. A um je trpna sila s obzirom na sve opće biće. Vegetativno je pak djelatno s obzirom na neko posebno biće, naime na tijelo s kojim je spojeno. Stoga ništa ne priječi da takvo trpno bude plemenitije od takvoga djelatnoga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ne treba postaviti djelatni um. Kao što se, naime, osjetilo odnosi prema osjetnome, tako se naš um odnosi prema umljivome. Ali budući da je osjetilo u mogućnosti prema osjetnome, ne postavlja se djelatno osjetilo, nego samo trpno osjetilo. Dakle, budući da je naš um u mogućnosti prema umljivome, čini se da ne treba postaviti djelatni um, nego samo mogućnosni.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a3.obj2": {
+      "text": "Osim toga, ako bi se reklo da je i u osjetilu nešto djelatno, kao što je svjetlo, protiv toga stoji: svjetlo se traži za vid ukoliko čini sredstvo osvijetljenim u činu, jer sama boja po sebi pokreće osvijetljeno. Ali u djelovanju uma ne postavlja se neko sredstvo koje bi nužno moralo postati u činu. Dakle, nije nužno postaviti djelatni um.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a3.obj3": {
+      "text": "Osim toga, sličnost djelatnika prima se u trpitelju na način trpitelja. Ali mogućnosni je um netvarna snaga. Dakle, njegova netvarnost dostaje za to da se u njemu forme primaju netvarno. A neka je forma umljiva u činu upravo po tome što je netvarna. Dakle, nema nikakve nužnosti postaviti djelatni um da bi spoznajne likove činio umljivima u činu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a3.sc": {
+      "text": "Ali protiv toga jest to što Filozof kaže u III. knjizi O duši da *kao u svakoj naravi, tako je i u duši nešto čime se postaje sve, i nešto čime se sve čini*. Treba, dakle, postaviti djelatni um.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a3.resp": {
+      "text": "Odgovaram: treba reći da prema Platonovu mišljenju nije bilo nikakve nužnosti postaviti djelatni um da bi umljivo učinio umljivim u činu; nego možda zato da pruži umljivo svjetlo onomu koji shvaća, kako će se niže reći. Platon je, naime, postavio da forme prirodnih stvari samostoje bez tvari, i posljedično da su umljive, jer je nešto umljivo u činu po tome što je netvarno. I takve je nazivao vrstama ili idejama; govorio je da sudjelovanjem u njima i tjelesna tvar biva oblikovana, da bi se pojedinci naravno ustanovili u vlastitim rodovima i vrstama; a tako i naši umovi, da bi imali znanje o rodovima i vrstama stvari. Ali budući da Aristotel nije postavio da forme prirodnih stvari samostoje bez tvari, a forme koje postoje u tvari nisu umljive u činu, slijedilo je da naravi ili forme osjetnih stvari koje shvaćamo nisu umljive u činu. A ništa se ne dovodi iz mogućnosti u čin osim po nekom biću u činu, kao što osjetilo postaje u činu po osjetnome u činu. Trebalo je, dakle, postaviti neku snagu na strani uma koja bi umljivo činila umljivim u činu, apstrakcijom spoznajnih likova od tvarnih uvjeta. I to je nužnost postavljanja djelatnoga uma.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se osjetno nalazi u činu izvan duše, i stoga nije trebalo postaviti djelatno osjetilo. I tako je očito da su u hranidbenom dijelu sve moći djelatne; u osjetilnom dijelu sve trpne; a u umskom dijelu ima nešto djelatno i nešto trpno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a3.ad2": {
+      "text": "Na drugo treba reći da o učinku svjetla postoji dvojako mišljenje. Neki, naime, kažu da se svjetlo traži za vid da bi boje učinilo vidljivima u činu. I prema tome se djelatni um traži za shvaćanje na sličan način i iz istoga razloga iz kojega se svjetlo traži za gledanje. A prema drugima, svjetlo se traži za gledanje ne radi boja, da bi postale vidljive u činu, nego da bi sredstvo postalo osvijetljeno u činu, kako kaže Komentator u II. knjizi O duši. I prema tome se sličnost po kojoj Aristotel uspoređuje djelatni um sa svjetlom uzima s obzirom na to da je, kao što je ovo nužno za gledanje, tako ono nužno za shvaćanje; ali ne iz istoga razloga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a3.ad3": {
+      "text": "Na treće treba reći da, kad je djelatnik pretpostavljen, dobro se može dogoditi da se njegova sličnost različito prima u različitim stvarima zbog njihove različite raspoloživosti. Ali ako djelatnik ne postoji prije, raspoloživost primatelja tu neće ništa učiniti. A umljivo u činu nije nešto što postoji u prirodi stvari, što se tiče naravi osjetnih stvari, koje ne samostoje izvan tvari. I stoga za shvaćanje ne bi dostajala netvarnost mogućnosnoga uma kad ne bi bio prisutan djelatni um, koji bi umljivo činio umljivim u činu na način apstrakcije.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da djelatni um nije nešto naše duše. Učinak je, naime, djelatnoga uma prosvjetljivati za shvaćanje. Ali to biva po nečemu što je više od duše, prema onome iz Iv 1: *bijaše svjetlo istinito, koje prosvjetljuje svakoga čovjeka koji dolazi na ovaj svijet*. Dakle, čini se da djelatni um nije nešto duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.obj2": {
+      "text": "Osim toga, Filozof u III. knjizi O duši pripisuje djelatnom umu to da nije tako da katkad shvaća, a katkad ne shvaća. Ali naša duša ne shvaća uvijek, nego katkad shvaća, a katkad ne shvaća. Dakle, djelatni um nije nešto naše duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.obj3": {
+      "text": "Osim toga, djelatnik i trpitelj dostaju za djelovanje. Ako je, dakle, mogućnosni um, koji je trpna snaga, nešto naše duše, i slično djelatni um, koji je djelatna snaga, slijedi da će čovjek uvijek moći shvaćati kad bude htio, što je očito lažno. Djelatni um, dakle, nije nešto naše duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.obj4": {
+      "text": "Osim toga, Filozof kaže u III. knjizi O duši da je djelatni um supstancija koja je biće u činu. A ništa nije s obzirom na isto u činu i u mogućnosti. Ako je, dakle, mogućnosni um, koji je u mogućnosti prema svemu umljivome, nešto naše duše, čini se nemogućim da djelatni um bude nešto naše duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.obj5": {
+      "text": "Osim toga, ako je djelatni um nešto naše duše, mora biti neka moć. Nije, naime, ni trpnja ni habitus, jer habitusi i trpnje nemaju pojam djelatnika s obzirom na trpnje duše; nego je prije trpnja sama radnja trpne moći, a habitus je nešto što slijedi iz činâ. A svaka moć proistječe iz biti duše. Slijedilo bi, dakle, da djelatni um izlazi iz biti duše. I tako ne bi bio u duši po sudjelovanju od nekoga višeg uma, što je neprikladno. Djelatni um, dakle, nije nešto naše duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.sc": {
+      "text": "Ali protiv toga jest to što Filozof kaže u III. knjizi O duši da je *nužno da u duši budu ove razlike*, naime mogućnosni um i djelatni.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.resp": {
+      "text": "Odgovaram: treba reći da je djelatni um o kojemu govori Filozof nešto duše. Da to bude očito, treba uzeti u obzir da je iznad ljudske umske duše nužno postaviti neki viši um od kojega duša dobiva snagu shvaćanja. Uvijek, naime, ono što u nečemu ima udjela, i ono što je pokretljivo, i ono što je nesavršeno, zahtijeva prije sebe nešto što je po svojoj biti takvo, i što je nepokretno i savršeno. A ljudska se duša naziva umskom po sudjelovanju u umskoj snazi, a znak je toga što nije cijela umska, nego po nekom svojem dijelu. Također dopire do razumijevanja istine s nekim diskurzivnim prelaženjem i gibanjem, dokazujući. Ima također nesavršeno razumijevanje, kako zato što ne shvaća sve, tako i zato što u onome što shvaća prelazi iz mogućnosti u čin. Mora, dakle, postojati neki viši um kojim se duši pomaže da shvaća. Neki su, dakle, postavili da je taj um, po supstanciji odijeljen, djelatni um, koji, kao da obasjava maštovne slike, čini ih umljivima u činu. Ali, uzevši da postoji neki takav odijeljeni djelatni um, ipak je nužno postaviti u samoj ljudskoj duši neku snagu u kojoj ona ima udjela od onoga višeg uma, po kojoj ljudska duša umljivo čini umljivim u činu. Kao što su i u drugim savršenim prirodnim stvarima, osim općih djelatnih uzroka, vlastite snage usađene u pojedine savršene stvari, izvedene od općih djelatnika; ne rađa, naime, čovjeka samo sunce, nego je u čovjeku rađalačka snaga čovjeka; i slično u drugim savršenim životinjama. A ništa među nižim stvarima nije savršenije od ljudske duše. Stoga treba reći da je u njoj neka snaga izvedena od višega uma, po kojoj može obasjavati maštovne slike. I to spoznajemo iskustvom, dok opažamo da apstrahiramo opće forme od posebnih uvjeta, a to je činiti umljivim u činu. A nijedna radnja ne pristaje nekoj stvari osim po nekom počelu koje je formalno u njoj, kako je gore rečeno kad se raspravljalo o mogućnosnom umu. Dakle, snaga koja je počelo te radnje mora biti nešto u duši. I stoga je Aristotel usporedio djelatni um sa svjetlom, koje je nešto primljeno u zraku. A Platon je odijeljeni um koji utiskuje u naše duše usporedio sa suncem, kako kaže Temistije u komentaru treće knjige O duši. Ali odijeljeni um, prema poukama naše vjere, jest sam Bog, koji je stvoritelj duše i u kojemu jedinome ona postaje blažena, kako će niže biti očito. Stoga ljudska duša od njega ima udjela u umskom svjetlu, prema onome iz Ps 4: *utisnuto je na nas svjetlo lica tvojega, Gospodine*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono istinito svjetlo prosvjetljuje kao opći uzrok, od kojega ljudska duša ima udjela u nekoj posebnoj snazi, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.ad2": {
+      "text": "Na drugo treba reći da Filozof one riječi ne kaže o djelatnom umu, nego o umu u činu. Stoga je o njemu gore prethodno rekao: a znanje po činu isto je što i stvar. Ili, ako se to razumije o djelatnom umu, to se kaže zato što ne potječe sa strane djelatnoga uma to što katkad shvaćamo, a katkad ne shvaćamo, nego sa strane uma koji je u mogućnosti.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.ad3": {
+      "text": "Na treće treba reći da, kad bi se djelatni um odnosio prema mogućnosnom umu kao djelatni predmet prema moći, kao što se vidljivo u činu odnosi prema vidu, slijedilo bi da odmah shvaćamo sve, budući da je djelatni um ono čime se sve čini. A sada se ne odnosi kao predmet, nego kao ono što predmete čini u činu, za što se zahtijeva, osim prisutnosti djelatnoga uma, i prisutnost maštovnih slika, i dobro stanje osjetilnih sila, i vježba u takvom poslu; jer se po jednome shvaćenome shvaća i drugo, kao po terminima tvrdnje i po prvim načelima zaključci. I s obzirom na to nije važno je li djelatni um nešto duše ili nešto odijeljeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.ad4": {
+      "text": "Na četvrto treba reći da je umska duša doduše netvarna u činu, ali je u mogućnosti prema određenim vrstama stvari. Maštovne slike su, obratno, doduše u činu sličnosti nekih vrsta, ali su u mogućnosti netvarne. Stoga ništa ne priječi da jedna te ista duša, ukoliko je netvarna u činu, ima neku snagu po kojoj čini netvarnim u činu apstrahirajući od uvjeta pojedinačne tvari, a ta se snaga naziva djelatni um; i drugu snagu koja prima takve spoznajne likove, koja se naziva mogućnosni um, ukoliko je u mogućnosti prema takvim spoznajnim likovima.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a4.ad5": {
+      "text": "Na peto treba reći da, budući da je bit duše netvarna, stvorena od najvišega uma, ništa ne priječi da snaga u kojoj se ima udjela od najvišega uma, po kojoj ona apstrahira od tvari, izlazi iz njezine biti, kao i druge njezine moći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je djelatni um jedan u svima. Ništa, naime, što je odijeljeno od tijela ne umnaža se prema umnažanju tijelâ. Ali djelatni je um odijeljen, kako se kaže u III. knjizi O duši. Dakle, ne umnaža se u mnogim tijelima ljudi, nego je jedan u svima.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a5.obj2": {
+      "text": "Osim toga, djelatni um čini opće, koje je jedno u mnogima. Ali ono što je uzrok jedinstva više je jedno. Dakle, djelatni je um jedan u svima.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a5.obj3": {
+      "text": "Osim toga, svi se ljudi podudaraju u prvim zamislima uma. A s njima se slažu po djelatnom umu. Dakle, svi se podudaraju u jednom djelatnom umu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a5.sc": {
+      "text": "Ali protiv toga jest to što Filozof kaže u III. knjizi O duši da je djelatni um kao svjetlo. A nije isto svjetlo u različitim osvijetljenim stvarima. Dakle, nije isti djelatni um u različitim ljudima.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a5.resp": {
+      "text": "Odgovaram: treba reći da istina ovoga pitanja ovisi o prethodno rečenome. Kad djelatni um, naime, ne bi bio nešto duše, nego neka odijeljena supstancija, djelatni bi um bio jedan za sve ljude. I to misle oni koji postavljaju jedinstvo djelatnoga uma. A ako je djelatni um nešto duše, kao neka njezina snaga, nužno je reći da ima više djelatnih umova prema mnoštvu duša, koje se umnažaju prema umnažanju ljudi, kako je gore rečeno. Nije, naime, moguće da jedna te ista brojčano snaga pripada različitim supstancijama.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozof dokazuje da je djelatni um odijeljen po tome što je mogućnosni odijeljen; jer je, kako sam kaže, djelatnik časniji od trpitelja. A za mogućnosni se um kaže da je odijeljen jer nije čin nijednoga tjelesnog organa. I na taj se način i za djelatni um kaže da je odijeljen, a ne kao da bi bio neka odijeljena supstancija.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a5.ad2": {
+      "text": "Na drugo treba reći da djelatni um uzrokuje opće apstrahirajući od tvari. A za to se ne zahtijeva da bude jedan u svima koji imaju um, nego da bude jedan u svemu po odnošaju prema svemu od čega apstrahira opće, s obzirom na što je opće jedno. A to pripada djelatnom umu ukoliko je netvaran.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a5.ad3": {
+      "text": "Na treće treba reći da sve što je iste vrste zajednički dijeli radnju koja slijedi narav vrste, i posljedično snagu koja je počelo radnje, ali ne tako da bi ona bila brojčano ista u svima. A spoznavati prvo umljivo radnja je koja slijedi ljudsku vrstu. Stoga je nužno da svi ljudi zajednički dijele snagu koja je počelo te radnje, a to je snaga djelatnoga uma. Ipak nije nužno da ona bude brojčano ista u svima. Ali je nužno da u svima bude izvedena od jednoga počela. I tako ono zajedništvo ljudi u prvom umljivome dokazuje jedinstvo odijeljenoga uma, koji Platon uspoređuje sa suncem; ali ne jedinstvo djelatnoga uma, koji Aristotel uspoređuje sa svjetlom.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da pamćenje nije u umskom dijelu duše. Augustin, naime, kaže u XII. knjizi O Trojstvu da višem dijelu duše pripada ono što nije zajedničko ljudima i stoci. Ali pamćenje je zajedničko ljudima i stoci; ondje, naime, kaže da *stoka može osjećati tjelesne stvari po tjelesnim osjetilima i predati ih pamćenju*. Dakle, pamćenje ne pripada umskom dijelu duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a6.obj2": {
+      "text": "Osim toga, pamćenje je pamćenje prošloga. Ali prošlo se kaže prema nekom određenom vremenu. Pamćenje je, dakle, spoznajno za nešto pod određenim vremenom; a to je spoznavati nešto pod ovdje i sada. A to ne pripada umu, nego osjetilu. Pamćenje, dakle, nije u umskom dijelu, nego samo u osjetilnom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a6.obj3": {
+      "text": "Osim toga, u pamćenju se čuvaju spoznajni likovi stvari koje se u činu ne misle. Ali to se ne može dogoditi u umu, jer um postaje u činu time što je oblikovan umljivim spoznajnim likom; a da um bude u činu, to je samo shvaćanje u činu; i tako um shvaća u činu sve ono čije spoznajne likove ima kod sebe. Pamćenje, dakle, nije u umskom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a6.sc": {
+      "text": "Ali protiv toga jest to što Augustin kaže u X. knjizi O Trojstvu da su *pamćenje, razumijevanje i volja jedan duh*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a6.resp": {
+      "text": "Odgovaram: treba reći da, budući da pojmu pamćenja pripada čuvati spoznajne likove stvari koje se u činu ne zahvaćaju, najprije treba razmotriti mogu li se umljivi spoznajni likovi tako čuvati u umu. Avicena je, naime, postavio da je to nemoguće. Govorio je, naime, da se to događa u osjetilnom dijelu s obzirom na neke moći, ukoliko su čini tjelesnih organa, u kojima se mogu čuvati neki spoznajni likovi bez zbiljskoga zahvaćanja. A u umu, koji je bez tjelesnoga organa, ništa ne postoji osim na umljiv način. Stoga se mora u činu shvaćati ono čija sličnost postoji u umu. Tako, dakle, prema njemu, čim netko u činu prestane shvaćati neku stvar, prestaje u umu postojati spoznajni lik te stvari; nego, ako ponovno hoće shvatiti tu stvar, mora se obratiti djelatnom umu, koji on postavlja kao odijeljenu supstanciju, da bi od njega umljivi spoznajni likovi istjecali u mogućnosni um. I iz vježbe i navike obraćanja djelatnom umu ostaje, prema njemu, u mogućnosnom umu neka spremnost za obraćanje djelatnom umu, za koju je govorio da je habitus znanja. Prema ovom stavu, dakle, ništa se ne čuva u umskom dijelu što se ne shvaća u činu. Stoga se na taj način pamćenje neće moći postaviti u umski dio. Ali to se mišljenje očito protivi Aristotelovim riječima. On, naime, kaže u III. knjizi O duši da, kad mogućnosni um *tako postane pojedino kao znalac, za kojega se kaže da je u činu, i da se to događa kad može djelovati sam po sebi. Dakle, i tada je na neki način u mogućnosti, ali ne jednako kao prije nego što je naučio ili otkrio*. A kaže se da mogućnosni um postaje pojedino ukoliko prima spoznajne likove pojedinoga. Iz toga, dakle, što prima spoznajne likove umljivoga, ima to da može djelovati kad hoće, ali ne to da uvijek djeluje, jer je i tada na neki način u mogućnosti, premda drukčije nego prije shvaćanja; naime na onaj način na koji je znalac u habitusu u mogućnosti prema razmatranju u činu. Spomenuti se stav protivi i razumu. Ono što se, naime, prima u nečemu, prima se u tome na način primatelja. A um je postojanije i nepokretnije naravi nego tjelesna tvar. Ako, dakle, tjelesna tvar forme koje prima ne drži samo dok po njima djeluje u činu, nego i nakon što prestane po njima djelovati, mnogo snažnije um nepokretno i neizgubivo prima umljive spoznajne likove, bilo da su primljeni od osjetnoga, bilo da su istekli od nekoga višeg uma. Tako, dakle, ako se pamćenje uzme samo za silu koja čuva spoznajne likove, treba reći da je pamćenje u umskom dijelu. A ako pojmu pamćenja pripada to da mu je predmet prošlo kao prošlo, pamćenje neće biti u umskom dijelu, nego samo u osjetilnom, koji zahvaća pojedinačno. Prošlo, naime, kao prošlo, budući da označuje bitak pod određenim vremenom, pripada stanju pojedinačnoga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da pamćenje, ukoliko čuva spoznajne likove, nije zajedničko nama i stoci. Spoznajni se likovi, naime, ne čuvaju samo u osjetilnom dijelu duše, nego prije u spojenom; budući da je pamtilačka sila čin nekoga organa. Ali um sam po sebi čuva spoznajne likove, bez popratnoga sudjelovanja tjelesnoga organa. Stoga Filozof kaže u III. knjizi O duši da je *duša mjesto spoznajnih likova, ne cijela, nego um*.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a6.ad2": {
+      "text": "Na drugo treba reći da se prošlost može odnositi na dvoje, naime na predmet koji se spoznaje i na čin spoznaje. To se dvoje zajedno spaja u osjetilnom dijelu, koji nešto zahvaća time što ga izmjenjuje prisutno osjetno; stoga se životinja ujedno sjeća da je prije osjetila u prošlosti i da je osjetila nešto prošlo osjetno. Ali što se tiče umskoga dijela, prošlost je akcidentalna i ne pristaje po sebi sa strane predmeta uma. Um, naime, shvaća čovjeka ukoliko je čovjek, a čovjeku je, ukoliko je čovjek, akcidentalno da bude u sadašnjosti, u prošlosti ili u budućnosti. A sa strane čina prošlost se po sebi može uzeti i u umu, kao i u osjetilu. Jer je shvaćanje naše duše neki pojedinačni čin, koji postoji u ovom ili onom vremenu, prema čemu se kaže da čovjek shvaća sada, ili jučer, ili sutra. I to se ne protivi umnosti, jer takvo shvaćanje, premda je nešto pojedinačno, ipak je netvaran čin, kako je gore rečeno o umu; i stoga, kao što um shvaća sam sebe, premda je on sam neki pojedinačni um, tako shvaća i svoje shvaćanje, koje je pojedinačni čin koji postoji ili u prošlosti, ili u sadašnjosti, ili u budućnosti. Tako se, dakle, pojam pamćenja, s obzirom na to da je ono pamćenje prošloga, čuva u umu ukoliko on shvaća da je prije shvaćao, ali ne ukoliko shvaća prošlo kao ovdje i sada.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a6.ad3": {
+      "text": "Na treće treba reći da je umljivi spoznajni lik katkad u umu samo u mogućnosti, i tada se kaže da je um u mogućnosti. A katkad je u njemu po posljednjem dovršenju čina, i tada um shvaća u činu. A katkad se odnosi na srednji način između mogućnosti i čina, i tada se kaže da je um u habitusu. I na taj način um čuva spoznajne likove čak i kad u činu ne shvaća.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da je umsko pamćenje jedna moć, a um druga. Augustin, naime, u X. knjizi O Trojstvu postavlja u duh pamćenje, razumijevanje i volju. A očito je da je pamćenje moć različita od volje. Dakle, slično je različita i od uma.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a7.obj2": {
+      "text": "Osim toga, isti je pojam razlikovanja moći osjetilnoga i umskoga dijela. Ali pamćenje je u osjetilnom dijelu moć različita od osjetila, kako je gore rečeno. Dakle, pamćenje umskoga dijela moć je različita od uma.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a7.obj3": {
+      "text": "Osim toga, prema Augustinu, pamćenje, razumijevanje i volja međusobno su jednaki, i jedno od njih izvire iz drugoga. A to ne bi moglo biti kad bi pamćenje bilo ista moć kao um. Nije, dakle, ista moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a7.sc": {
+      "text": "Ali protiv toga: pojmu pamćenja pripada to da je riznica ili mjesto koje čuva spoznajne likove. A to Filozof u III. knjizi O duši pripisuje umu, kako je rečeno. Dakle, u umskom dijelu pamćenje nije moć različita od uma.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a7.resp": {
+      "text": "Odgovaram: treba reći da se, kako je gore rečeno, moći duše razlikuju prema različitim pojmovima predmetâ, zato što se pojam svake moći sastoji u usmjerenosti prema onome prema čemu se ona izriče, a to je njezin predmet. Također je gore rečeno da, ako je neka moć po svojemu vlastitom pojmu usmjerena prema nekom predmetu po općem pojmu predmeta, ta se moć neće raznoliko dijeliti prema različitostima posebnih razlika; kao što se vidna moć, koja svoj predmet gleda po pojmu obojenoga, ne dijeli po različitosti bijeloga i crnoga. A um svoj predmet gleda po općem pojmu bića, zato što je mogućnosni um ono čime se postaje sve. Stoga se ni po kakvoj razlici bićâ ne razlikuje mogućnosni um. Razlikuje se ipak moć djelatnoga uma i mogućnosnoga uma, jer s obzirom na isti predmet mora jedno počelo biti djelatna moć, koja čini da predmet bude u činu, a drugo trpna moć, koju pokreće predmet koji postoji u činu. I tako se djelatna moć odnosi prema svojemu predmetu kao biće u činu prema biću u mogućnosti, a trpna se moć odnosi prema svojemu predmetu obratno, kao biće u mogućnosti prema biću u činu. Tako, dakle, u umu ne može biti nikakve druge razlike moći osim mogućnosnoga i djelatnoga. Stoga je očito da pamćenje nije moć različita od uma; pojmu trpne moći, naime, pripada čuvati, kao i primati.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, premda se u III. distinkciji I. knjige Sentencija kaže da su pamćenje, razumijevanje i volja tri sile, to ipak nije prema nakani Augustina, koji izričito kaže u XIV. knjizi O Trojstvu: *ako se pamćenje, razumijevanje i volja uzmu ukoliko su uvijek na raspolaganju duši, mislilo se na njih ili ne mislilo, čini se da pripadaju samo pamćenju. A razumijevanjem sada nazivam ono kojim shvaćamo misleći; i onu volju, ili ljubav ili izabirnu ljubav, koja spaja ovaj porod i roditelja*. Iz toga je očito da Augustin ovo troje ne uzima za tri moći; nego pamćenje uzima za habitualno zadržavanje u duši, razumijevanje za čin uma, a volju za čin volje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a7.ad2": {
+      "text": "Na drugo treba reći da prošlo i sadašnje mogu biti vlastite razlike koje raznoliko dijele osjetilne moći, ali ne umske moći, zbog gore navedenoga razloga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a7.ad3": {
+      "text": "Na treće treba reći da razumijevanje izvire iz pamćenja kao čin iz habitusa. I na taj mu je način i jednako; ali ne kao moć moći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da je razum moć različita od uma. U knjizi O duhu i duši, naime, kaže se: *kad se od nižega hoćemo uzdići k višemu, najprije nam se nameće osjetilo, zatim mašta, zatim razum, zatim um*. Razum je, dakle, moć različita od uma, kao što je mašta različita od razuma.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a8.obj2": {
+      "text": "Osim toga, Boetije kaže u knjizi O utjesi filozofije da se um prema razumu odnosi kao vječnost prema vremenu. Ali nije svojstveno istoj snazi biti u vječnosti i biti u vremenu. Dakle, razum i um nisu ista moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a8.obj3": {
+      "text": "Osim toga, čovjek ima zajedništvo s anđelima u umu, a sa životinjama u osjetilu. Ali razum, koji je vlastit čovjeku i po kojemu se on naziva razumskom životinjom, moć je različita od osjetila. Dakle, iz istoga je razloga moć različita od uma, koji u vlastitom smislu pristaje anđelima, zbog čega se i nazivaju umskima.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a8.sc": {
+      "text": "Ali protiv toga jest to što Augustin kaže u III. knjizi O doslovnom tumačenju Knjige postanka: *ono po čemu čovjek nadilazi nerazumne životinje jest razum, ili duh, ili razumijevanje, ili ako se nekim drugim nazivom prikladnije imenuje*. Razum, dakle, i um i duh jedna su moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a8.resp": {
+      "text": "Odgovaram: treba reći da razum i um u čovjeku ne mogu biti različite moći. To se jasno spoznaje ako se razmotri čin jednoga i drugoga. Shvaćati, naime, jest naprosto zahvatiti umljivu istinu. A rasuđivati jest prelaziti od jednoga shvaćenoga k drugome da bi se spoznala umljiva istina. I stoga anđeli, koji savršeno posjeduju, na način svoje naravi, spoznaju umljive istine, nemaju potrebe prelaziti od jednoga k drugome, nego naprosto i bez diskurzivnoga prelaženja zahvaćaju istinu stvari, kako kaže Dionizije u VII. poglavlju O božanskim imenima. A ljudi dolaze do spoznaje umljive istine prelazeći od jednoga k drugome, kako se ondje kaže, i stoga se nazivaju razumskima. Očito je, dakle, da se rasuđivanje odnosi prema shvaćanju kao gibati se prema mirovati, ili stjecati prema imati, od kojih jedno pripada savršenome, a drugo nesavršenome. A budući da gibanje uvijek izlazi od nepokretnoga i završava u nečemu što miruje, odatle je to da ljudsko rasuđivanje, na putu istraživanja ili otkrivanja, izlazi od nečega naprosto shvaćenoga, a to su prva načela; i opet, na putu suđenja, razrješavajući se vraća k prvim načelima, prema kojima ispituje ono što je otkriveno. A očito je da se mirovati i gibati se ne svode na različite moći, nego na jednu te istu, čak i u prirodnim stvarima, jer se po istoj naravi nešto giba prema mjestu i miruje u mjestu. Mnogo više, dakle, po istoj moći shvaćamo i rasuđujemo. I tako je očito da su u čovjeku razum i um ista moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ono nabrajanje čini prema redu čina, a ne prema razlikovanju moći. Premda ta knjiga nije velikoga autoriteta.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a8.ad2": {
+      "text": "Na drugo je odgovor očit iz rečenoga. Vječnost se, naime, odnosi prema vremenu kao nepokretno prema pokretljivome. I stoga je Boetije usporedio um s vječnošću, a razum s vremenom.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a8.ad3": {
+      "text": "Na treće treba reći da su druge životinje toliko ispod čovjeka da ne mogu doseći do spoznaje istine koju istražuje razum. A čovjek doseže do spoznaje umljive istine koju spoznaju anđeli, ali nesavršeno. I stoga spoznajna sila anđelâ nije drugoga roda od spoznajne sile razuma, nego se prema njoj odnosi kao savršeno prema nesavršenome.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da su viši i niži razum različite moći. Augustin, naime, kaže u XII. knjizi O Trojstvu da je slika Trojstva u višem dijelu razuma, a ne u nižem. Ali dijelovi duše jesu same njezine moći. Dakle, viši i niži razum dvije su moći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a9.obj2": {
+      "text": "Osim toga, ništa ne izvire samo iz sebe. Ali niži razum izvire iz višega i on ga ravna i usmjeruje. Dakle, viši je razum moć različita od nižega.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a9.obj3": {
+      "text": "Osim toga, Filozof kaže u VI. knjizi Etike da je znanstveni dio duše, kojim duša spoznaje nužno, drugo počelo i drugi dio duše od mnijenjskoga i rasuđivačkoga, kojim spoznaje kontingentno. I to dokazuje time što je *prema onome što je po rodu drukčije usmjeren po rodu drukčiji dijelić duše*; a kontingentno i nužno po rodu su drukčiji, kao propadljivo i nepropadljivo. A budući da je nužno isto što i vječno, a vremenito isto što i kontingentno, čini se da je isto ono što Filozof naziva znanstvenim i viši dio razuma, koji se, prema Augustinu, usmjeruje na promatranje vječnoga i savjetovanje s njime; i da je isto ono što Filozof naziva rasuđivačkim ili mnijenjskim i niži razum, koji se, prema Augustinu, usmjeruje na raspoređivanje vremenitoga. Dakle, viši razum i niži razum različite su moći duše.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a9.obj4": {
+      "text": "Osim toga, Damaščanin kaže: *iz mašte nastaje mnijenje; zatim duh, prosuđujući mnijenje, je li istinito ili lažno, prosuđuje istinu; zato se i duh (mens) naziva od mjerenja (metiri). Ono, dakle, o čemu je već istinito prosuđeno i određeno, naziva se umom*. Tako je, dakle, mnijenjsko, koje je niži razum, različito od duha i uma, pod kojim se može razumjeti viši razum.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a9.sc": {
+      "text": "Ali protiv toga jest to što Augustin kaže u XII. knjizi O Trojstvu da se viši i niži razum razlikuju samo po službama. Nisu, dakle, dvije moći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a9.resp": {
+      "text": "Odgovaram: treba reći da viši i niži razum, kako ih uzima Augustin, nikako ne mogu biti dvije moći duše. On, naime, kaže da je viši razum onaj koji se usmjeruje na promatranje vječnoga ili savjetovanje s njime: na promatranje, ukoliko ga razmatra u njemu samome; a na savjetovanje, ukoliko iz njega uzima pravila za ono što treba činiti. A nižim razumom on naziva onaj koji se usmjeruje na vremenite stvari. A to dvoje, naime vremenito i vječno, odnosi se prema našoj spoznaji tako da je jedno od njih sredstvo za spoznavanje drugoga. Jer na putu otkrivanja po vremenitim stvarima dolazimo do spoznaje vječnoga, prema onome što kaže Apostol u Rim 1: *nevidljivo Božje promatra se shvaćeno po onome što je stvoreno*; a na putu suđenja po već spoznatome vječnome sudimo o vremenitome i prema pojmovima vječnoga raspoređujemo vremenito. A može se dogoditi da sredstvo i ono do čega se po sredstvu dolazi pripadaju različitim habitusima, kao što prva nedokaziva načela pripadaju habitusu uma, a zaključci izvedeni iz njih habitusu znanosti. I stoga se događa da se iz načela geometrije nešto zaključuje u drugoj znanosti, recimo u optici. Ali ista je moć razuma kojoj pripada i sredstvo i ono posljednje. Čin je razuma, naime, kao neko gibanje koje od jednoga dolazi do drugoga, a isto je pokretljivo ono što, prolazeći kroz sredinu, dopire do granice. Stoga su viši i niži razum jedna te ista moć razuma. Ali razlikuju se, prema Augustinu, po službama činâ i prema različitim habitusima; jer se višem razumu pripisuje mudrost, a nižemu znanje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da se dijelom može nazvati ono što je takvo po bilo kojem pojmu dijeljenja. Ukoliko se, dakle, razum dijeli prema različitim službama, viši i niži razum nazivaju se dijelovima, a ne zato što su različite moći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a9.ad2": {
+      "text": "Na drugo treba reći da se za niži razum kaže da se izvodi iz višega ili da ga on ravna ukoliko se načela kojima se služi niži razum izvode iz načela višega razuma i njima se usmjeruju.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a9.ad3": {
+      "text": "Na treće treba reći da znanstveni dio o kojemu govori Filozof nije isto što i viši razum, jer se nužno što se može znati nalazi i u vremenitim stvarima, o kojima su prirodna znanost i matematika. A mnijenjski i rasuđivački dio uži je od nižega razuma, jer se odnosi samo na kontingentno. Ipak ne treba naprosto reći da je jedna moć kojom um spoznaje nužno, a druga kojom spoznaje kontingentno, jer jedno i drugo spoznaje po istom pojmu predmeta, naime po pojmu bića i istinitoga. Stoga nužno, koje ima savršen bitak u istini, i spoznaje savršeno, dopirući naime do njegova štostva, po kojemu o njemu dokazuje vlastite akcidente. A kontingentno spoznaje nesavršeno, kao što ono i ima nesavršen bitak i istinu. A savršeno i nesavršeno u činu ne razlikuju moć, nego razlikuju čine s obzirom na način djelovanja, i posljedično počela činâ i same habituse. I stoga je Filozof postavio dva dijelića duše, znanstveni i rasuđivački, ne zato što su dvije moći, nego zato što se razlikuju prema različitoj prikladnosti za primanje različitih habitusa, čiju različitost ondje namjerava istražiti. Kontingentno, naime, i nužno, premda se razlikuju po vlastitim rodovima, ipak se podudaraju u općem pojmu bića, koji gleda um, a prema kojemu se različito odnose po savršenome i nesavršenome.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a9.ad4": {
+      "text": "Na četvrto treba reći da je ono Damaščaninovo razlikovanje prema različitosti činâ, a ne prema različitosti moći. Mnijenje, naime, označuje čin uma koji se priklanja jednoj strani proturječja sa strahom od druge. A prosuđivati ili mjeriti jest čin uma koji primjenjuje sigurna načela na ispitivanje onoga što je predloženo. I odatle se uzima ime duha. A shvaćati jest s nekim odobravanjem prianjati uz ono što je prosuđeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da je razumijevanje moć različita od uma. U knjizi O duhu i duši, naime, kaže se: *kad se od nižega hoćemo uzdići k višemu, najprije nam se nameće osjetilo, zatim mašta, zatim razum, potom um, a potom razumijevanje*. Ali mašta i osjetilo različite su moći. Dakle, i um i razumijevanje.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a10.obj2": {
+      "text": "Osim toga, Boetije kaže u V. knjizi O utjesi filozofije: *samoga čovjeka drukčije promatra osjetilo, drukčije mašta, drukčije razum, drukčije razumijevanje*. Ali um je ista moć kao razum. Dakle, čini se da je razumijevanje moć različita od uma, kao što je razum moć različita od mašte i osjetila.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a10.obj3": {
+      "text": "Osim toga, čini prethode moćima, kako se kaže u II. knjizi O duši. Ali razumijevanje je neki čin odijeljen od drugih čina koji se pripisuju umu. Damaščanin, naime, kaže: *prvo se gibanje naziva razumijevanjem; a razumijevanje koje je usmjereno na nešto naziva se nakanom; ona koja ustraje i oblikuje dušu prema onome što se shvaća naziva se promišljanjem; a promišljanje koje ostaje u istome, te samo sebe ispituje i prosuđuje, naziva se fronesis* (to jest mudrost); *a fronesis, raširena, tvori misao, to jest iznutra sređeni govor; iz njega, kažu, proizlazi govor izrečen jezikom*. Dakle, čini se da je razumijevanje neka posebna moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a10.sc": {
+      "text": "Ali protiv toga jest to što Filozof kaže u III. knjizi O duši da se *razumijevanje odnosi na nedjeljivo, u čemu nema lažnoga*. Ali takvo spoznavati pripada umu. Dakle, razumijevanje nije moć različita od uma.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a10.resp": {
+      "text": "Odgovaram: treba reći da ovo ime, razumijevanje, u vlastitom smislu označuje sam čin uma, a to je shvaćati. Ipak se u nekim knjigama prevedenima s arapskoga odijeljene supstancije, koje mi nazivamo anđelima, nazivaju inteligencijama; možda zbog toga što takve supstancije uvijek shvaćaju u činu. A u knjigama prevedenima s grčkoga nazivaju se umovima ili duhovima. Tako se, dakle, razumijevanje ne razlikuje od uma kao moć od moći, nego kao čin od moći. Takva se podjela, naime, nalazi i kod filozofa. Katkad, naime, postavljaju četiri uma, naime djelatni um, mogućnosni, um u habitusu i stečeni um. Od tih su četiriju djelatni i mogućnosni um različite moći, kao što je i u svemu jedna moć djelatna, a druga trpna. A druga se tri razlikuju prema trima stanjima mogućnosnoga uma, koji je katkad samo u mogućnosti, i tako se naziva mogućnosnim; katkad pak u prvom činu, a to je znanje, i tako se naziva umom u habitusu; a katkad u drugom činu, a to je razmatrati, i tako se naziva umom u činu ili stečenim umom.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da, ako taj autoritet treba prihvatiti, razumijevanje se postavlja za čin uma. I tako se suprotstavlja umu kao čin moći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a10.ad2": {
+      "text": "Na drugo treba reći da Boetije uzima razumijevanje za čin uma koji nadilazi čin razuma. Stoga ondje kaže: *razum pripada samo ljudskomu rodu, kao što razumijevanje pripada samo božanskomu*; vlastito je, naime, Bogu da sve shvaća bez ikakva istraživanja.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a10.ad3": {
+      "text": "Na treće treba reći da svi oni čini koje nabraja Damaščanin pripadaju jednoj moći, naime umskoj. Ona najprije naprosto nešto zahvaća, i taj se čin naziva razumijevanjem. Zatim ono što je zahvatila usmjeruje prema spoznavanju ili činjenju nečega drugoga, i to se naziva nakanom. A dok ustraje u istraživanju onoga na što je usmjerena, naziva se promišljanjem. A dok ono što je promislila ispituje prema nečemu sigurnome, kaže se da zna ili da je mudra; a to je fronesis ili mudrost, jer mudrosti pripada suditi, kako se kaže u I. knjizi Metafizike. A otkad nešto drži sigurnim, kao ispitano, misli kako bi to mogla očitovati drugima, i to je raspoređivanje unutarnjega govora, iz kojega izlazi vanjsko izgovaranje. Ne razlikuje, naime, svaka razlika činâ moći, nego samo ona koja se ne može svesti na isto počelo, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:29+00:00"
+    },
+    "I.q79.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da su spekulativni i praktični um različite moći. Zahvatno, naime, i pokretačko različiti su rodovi moći, kako je očito u II. knjizi O duši. Ali spekulativni je um samo zahvatni, a praktični je um pokretački. Dakle, različite su moći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a11.obj2": {
+      "text": "Osim toga, različit pojam predmeta razlikuje moć. Ali predmet spekulativnoga uma jest istinito, a praktičnoga dobro, a to se razlikuje po pojmu. Dakle, spekulativni i praktični um različite su moći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a11.obj3": {
+      "text": "Osim toga, u umskom se dijelu praktični um odnosi prema spekulativnome kao procjeniteljska sila prema maštovnoj u osjetilnom dijelu. Ali procjeniteljska se sila razlikuje od maštovne kao moć od moći, kako je gore rečeno. Dakle, i praktični um od spekulativnoga.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a11.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u III. knjizi O duši: da spekulativni um proširenjem postaje praktičnim. A jedna se moć ne mijenja u drugu. Dakle, spekulativni i praktični um nisu različite moći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a11.resp": {
+      "text": "Odgovaram: treba reći da praktični i spekulativni um nisu različite moći. Razlog je tomu to što, kako je gore rečeno, ono što se akcidentalno odnosi prema pojmu predmeta koji gleda neka moć ne razlikuje moć; obojenome je, naime, akcidentalno da bude čovjek, ili veliko ili malo; stoga se sve takvo zahvaća istom vidnom moću. A nečemu što je zahvaćeno umom akcidentalno je da bude usmjereno prema djelu ili da ne bude usmjereno. A prema tome se razlikuju spekulativni i praktični um. Jer spekulativni um je onaj koji ono što zahvaća ne usmjeruje prema djelu, nego samo prema razmatranju istine; a praktičnim se umom naziva onaj koji ono što zahvaća usmjeruje prema djelu. I to je ono što Filozof kaže u III. knjizi O duši: da se *spekulativni razlikuje od praktičnoga svrhom*. Stoga se i jedan i drugi imenuju po svrsi: ovaj spekulativnim, a onaj praktičnim, to jest djelatnim.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da je praktični um pokretački, ne kao onaj koji izvršava gibanje, nego kao onaj koji usmjeruje prema gibanju. A to mu pristaje po načinu njegova zahvaćanja.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a11.ad2": {
+      "text": "Na drugo treba reći da istinito i dobro uključuju jedno drugo; jer je istinito neko dobro, inače ne bi bilo poželjno; a dobro je nešto istinito, inače ne bi bilo umljivo. Kao što, dakle, predmet težnje može biti istinito ukoliko ima pojam dobra, kao kad netko teži spoznati istinu, tako je predmet praktičnoga uma dobro koje se može usmjeriti prema djelu, pod pojmom istinitoga. Praktični um, naime, spoznaje istinu, kao i spekulativni; ali spoznatu istinu usmjeruje prema djelu.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a11.ad3": {
+      "text": "Na treće treba reći da mnoge razlike razlikuju osjetilne moći koje ne razlikuju umske moći, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da je sindereza neka posebna moć, različita od drugih. Čini se, naime, da je ono što spada pod jednu podjelu jednoga roda. Ali u Jeronimovoj glosi uz Ez 1 sindereza se dijelom suprotstavlja srditoj, požudnoj i razumskoj, koje su neke moći. Dakle, sindereza je neka moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a12.obj2": {
+      "text": "Osim toga, suprotstavljeno je jednoga roda. Ali čini se da su sindereza i osjetilnost suprotstavljene, jer sindereza uvijek naginje prema dobru, a osjetilnost uvijek prema zlu; zato se ona označuje zmijom, kako je očito kod Augustina u XII. knjizi O Trojstvu. Dakle, čini se da je sindereza moć, kao i osjetilnost.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a12.obj3": {
+      "text": "Osim toga, Augustin kaže u knjizi O slobodnoj volji da su u naravnom sudištu prisutna neka *pravila i sjemenje kreposti, i istinita i nepromjenljiva*; a to nazivamo sinderezom. Budući, dakle, da nepromjenljiva pravila po kojima sudimo pripadaju razumu po njegovu višem dijelu, kako kaže Augustin u XII. knjizi O Trojstvu, čini se da je sindereza isto što i razum. I tako je ona neka moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a12.sc": {
+      "text": "*Ali protiv toga: razumske se moći odnose prema suprotstavljenome*, prema Filozofu. A sindereza se ne odnosi prema suprotstavljenome, nego naginje samo prema dobru. Dakle, sindereza nije moć. Kad bi, naime, bila moć, morala bi biti razumska moć, jer se ne nalazi u nerazumnim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a12.resp": {
+      "text": "Odgovaram: treba reći da sindereza nije moć, nego habitus, premda su neki postavili da je sindereza neka moć viša od razuma, a neki su rekli da je ona sam razum, ne ukoliko je razum, nego ukoliko je narav. Da to bude očito, treba uzeti u obzir da, kako je gore rečeno, ljudsko rasuđivanje, budući da je neko gibanje, polazi od shvaćanja nečega, naime onoga što je naravno poznato bez istraživanja razuma, kao od nekog nepokretnog počela, i također završava u shvaćanju, ukoliko po načelima naravno poznatima po sebi sudimo o onome što rasuđivanjem otkrivamo. A poznato je da, kao što spekulativni razum rasuđuje o spekulativnome, tako praktični razum rasuđuje o onome što se može činiti. Moraju nam, dakle, biti naravno usađena, kao načela spekulativnoga, tako i načela onoga što se može činiti. A prva načela spekulativnoga, koja su nam naravno usađena, ne pripadaju nekoj posebnoj moći, nego nekom posebnom habitusu, koji se naziva umom načelâ, kako je očito u VI. knjizi Etike. Stoga ni načela onoga što se može činiti, koja su nam naravno usađena, ne pripadaju posebnoj moći, nego posebnom naravnom habitusu, koji nazivamo sinderezom. Stoga se i kaže da sindereza potiče na dobro i mrmlja protiv zla, ukoliko po prvim načelima idemo k otkrivanju i sudimo o otkrivenome. Očito je, dakle, da sindereza nije moć, nego naravni habitus.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ona Jeronimova podjela uzima prema različitosti činâ, a ne prema različitosti moći. A različiti čini mogu pripadati jednoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a12.ad2": {
+      "text": "Na drugo treba reći da se slično i suprotstavljenost osjetilnosti i sindereze uzima prema suprotstavljenosti činâ, a ne kao suprotstavljenost različitih vrsta jednoga roda.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a12.ad3": {
+      "text": "Na treće treba reći da su takvi nepromjenljivi pojmovi prva načela onoga što se može činiti, o kojima se ne može zabludjeti; i pripisuju se razumu kao moći, a sinderezi kao habitusu. Stoga po jednome i drugome, naime po razumu i po sinderezi, naravno sudimo.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a13.obj1": {
+      "text": "Na trinaesto se ovako postupa. Čini se da je savjest neka moć. Origen, naime, kaže da je *savjest duh ispravitelj i odgojitelj pridružen duši, po kojemu se ona odvaja od zla i prianja uz dobro*. Ali duh u duši označuje neku moć: ili samu pamet, prema onome iz Ef 4: *obnovite se duhom svoje pameti*; ili samu maštu, zbog čega se i maštovno viđenje naziva duhovnim, kako je očito kod Augustina u XII. knjizi O doslovnom tumačenju Knjige postanka. Savjest je, dakle, neka moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a13.obj2": {
+      "text": "Osim toga, ništa nije subjekt grijeha osim moći duše. Ali savjest je subjekt grijeha; u Tit 1, naime, kaže se o nekima da su *okaljani i pamet njihova i savjest*. Dakle, čini se da je savjest moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a13.obj3": {
+      "text": "Osim toga, nužno je da savjest bude ili čin, ili habitus, ili moć. Ali nije čin, jer ne bi uvijek ostajala u čovjeku. Nije ni habitus, jer savjest ne bi bila nešto jedno, nego mnogo; po mnogim se, naime, spoznajnim habitusima ravnamo u onome što treba činiti. Dakle, savjest je moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a13.sc": {
+      "text": "Ali protiv toga: savjest se može odložiti, a moć ne može. Dakle, savjest nije moć.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a13.resp": {
+      "text": "Odgovaram: treba reći da savjest, u vlastitom smislu govoreći, nije moć, nego čin. A to je očito kako iz pojma imena, tako i iz onoga što se, prema uobičajenom načinu govora, pripisuje savjesti. Savjest, naime, prema vlastitosti riječi, uključuje usmjerenost znanja prema nečemu; jer se savjest naziva znanjem s drugim. A primjena znanja na nešto biva po nekom činu. Stoga je iz toga pojma imena očito da je savjest čin. Isto se pokazuje iz onoga što se savjesti pripisuje. Kaže se, naime, da savjest svjedoči, obvezuje ili potiče, a također da optužuje ili grize ili kori. A sve to slijedi primjenu neke naše spoznaje ili znanja na ono što činimo. Ta primjena biva na tri načina. Na jedan način, ukoliko prepoznajemo da smo nešto učinili ili nismo učinili, prema onome iz Prop 7: *zna savjest tvoja da si i ti često drugima zlo govorio*; i prema tome se kaže da savjest svjedoči. Na drugi se način primjenjuje ukoliko po svojoj savjesti sudimo da nešto treba učiniti ili ne učiniti; i prema tome se kaže da savjest potiče ili obvezuje. Na treći se način primjenjuje ukoliko po savjesti sudimo je li nešto što je učinjeno dobro učinjeno ili nije dobro učinjeno; i prema tome se kaže da savjest ispričava ili optužuje, odnosno grize. A očito je da sve to slijedi zbiljsku primjenu znanja na ono što činimo. Stoga, u vlastitom smislu govoreći, savjest označuje čin. Budući ipak da je habitus počelo čina, katkad se ime savjesti pripisuje prvom naravnom habitusu, naime sinderezi; tako Jeronim u glosi uz Ez 1 sinderezu naziva savješću, a Bazilije naravnim sudištem, a Damaščanin kaže da je ona zakon našega uma. Uobičajeno je, naime, da se uzroci i učinci imenuju jedni po drugima.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a13.ad1": {
+      "text": "Na prvo, dakle, treba reći da se savjest naziva duhom ukoliko se duh postavlja umjesto pameti, jer je ona neki nalog pameti.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a13.ad2": {
+      "text": "Na drugo treba reći da se za okaljanost kaže da je u savjesti ne kao u subjektu, nego kao spoznato u spoznaji, ukoliko naime netko zna da je okaljan.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    },
+    "I.q79.a13.ad3": {
+      "text": "Na treće treba reći da čin, premda ne ostaje uvijek u sebi, ipak uvijek ostaje u svojemu uzroku, a to je moć i habitus. A habitusi kojima se savjest oblikuje, premda ih je mnogo, ipak svi imaju djelotvornost od jednoga prvoga, naime od habitusa prvih načela, koji se naziva sinderezom. Stoga se upravo taj habitus katkad naziva savješću, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 5,
+      "created_at": "2026-11-05T08:54:30+00:00"
+    }
+  }
+}
