@@ -1,4 +1,4 @@
-version: 5
+version: 6
 terms:
 - la: esse
   hr: bitak
@@ -681,7 +681,8 @@ terms:
   alternatives:
   - um
   - pamet
-  note: Often in Scripture/Augustine quotations; check against intellectus = "um".
+  note: Usually "duh"; where mens stands beside spiritus (Eph 4, Tit 1, q.79 a.1,
+    a.13) = "pamet", to avoid "duh i duh".
 - la: theologia
   hr: teologija
   alternatives:
@@ -806,7 +807,9 @@ terms:
 - la: potestas
   hr: vlast
   alternatives: []
-  note: Keep distinct from potentia = "moć".
+  note: Authority = "vlast" (in potestate nostra = "u našoj vlasti"); where it means
+    a capacity or power (potestates rationales, liberum arbitrium as a potestas) =
+    "moć" (owner's choice).
 - la: scientia visionis / simplicis intelligentiae
   hr: znanje gledanja / znanje jednostavnog shvaćanja
   alternatives: []
@@ -1013,3 +1016,65 @@ terms:
   hr: posebni razum
   alternatives: []
   note: The cogitative power in man (q.78 a.4).
+- la: propositio
+  hr: iskaz
+  alternatives: []
+  note: Owner's choice; enuntiatio = "izjava"; terminus (logical) = "termin".
+- la: conversio ad phantasmata
+  hr: okretanje maštovnim slikama
+  alternatives: []
+  note: Owner's choice (q.84-89); conversio ad Deum = "obraćenje".
+- la: daemon / diabolus
+  hr: demon / đavao
+  alternatives: []
+  note: Daemones = "demoni"; the devil (diabolus) = "đavao".
+- la: synderesis / conscientia
+  hr: sindereza / savjest
+  alternatives: []
+  note: q.79 a.12-13.
+- la: intellectus speculativus / practicus
+  hr: spekulativni / praktični um
+  alternatives: []
+  note: q.79 a.11.
+- la: ratiocinari / ratiocinatio
+  hr: rasuđivati / rasuđivanje
+  alternatives:
+  - zaključivati
+  note: Discursive reasoning; ratio as the faculty = "razum".
+- la: electio / eligere
+  hr: izbor / izabrati
+  alternatives: []
+  note: Vis electiva = "izborna sila"; dilectio electiva = "izabirna ljubav".
+- la: consilium (deliberation)
+  hr: promišljanje
+  alternatives:
+  - savjet
+  - naum
+  note: Human deliberation = "promišljanje"; God's counsel = "naum"; advice / the
+    Spirit's gift = "savjet".
+- la: sensualitas
+  hr: osjetilnost
+  alternatives: []
+  note: q.81.
+- la: abstrahere / abstractio
+  hr: apstrahirati / apstrakcija
+  alternatives: []
+  note: q.85.
+- la: complexio
+  hr: tjelesni sastav
+  alternatives: []
+  note: Bodily temperament; aequalitas complexionis = "ujednačenost tjelesnog sastava".
+- la: coniunctum
+  hr: spoj
+  alternatives:
+  - složenac
+  note: The soul-body compound; compositum = "složenac".
+- la: rationes aeternae
+  hr: vječni pojmovi
+  alternatives: []
+  note: Augustine's eternal reasons (q.84 a.5); rationes seminales = "sjemeni razlozi".
+- la: Super Gen. ad litt. (Augustine)
+  hr: O doslovnom tumačenju Knjige postanka
+  alternatives: []
+  note: Fixed book title; De Trin. = "O Trojstvu", De Div. Nom. = "O božanskim imenima",
+    Cael. Hier. = "O nebeskoj hijerarhiji", De anima = "O duši".
