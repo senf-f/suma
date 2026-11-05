@@ -1,0 +1,192 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 96,
+  "units": {
+    "I.q96.pr": {
+      "text": "Zatim treba razmotriti gospodstvo koje je pripadalo čovjeku u stanju nevinosti. I u pogledu toga pitaju se četiri stvari. Prvo, je li čovjek u stanju nevinosti gospodario životinjama. Drugo, je li gospodario svakim stvorom. Treće, bi li u stanju nevinosti svi ljudi bili jednaki. Četvrto, bi li u onom stanju čovjek gospodario ljudima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da Adam u stanju nevinosti nije gospodario životinjama. Augustin, naime, kaže u IX. knjizi O doslovnom tumačenju Knjige postanka da su životinje služenjem anđela dovedene k Adamu da im nadjene imena. A ondje ne bi bilo nužno služenje anđela da je čovjek sam po sebi gospodario životinjama. Čovjek, dakle, u stanju nevinosti nije imao gospodstvo nad drugim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a1.obj2": {
+      "text": "Osim toga, ono što je međusobno u neslozi ne okuplja se ispravno pod jedno gospodstvo. Ali mnoge su životinje po naravi međusobno u neslozi, kao ovca i vuk. Dakle, sve životinje nisu bile obuhvaćene čovjekovim gospodstvom.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a1.obj3": {
+      "text": "Osim toga, Jeronim kaže da je *Bog čovjeku, koji prije grijeha nije oskudijevao, dao vlast nad životinjama, jer je unaprijed znao da će čovjeku nakon pada trebati pomagati podrškom životinja*. Dakle, čovjeku prije grijeha nije pripadala barem uporaba gospodstva nad životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a1.obj4": {
+      "text": "Osim toga, čini se da je vlastito gospodaru zapovijedati. Ali zapovijed se ispravno upravlja samo onome koji ima razum. Dakle, čovjek nije imao gospodstvo nad nerazumnim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Post 1 o čovjeku: *neka bude nad ribama morskim i pticama nebeskim i zvijerima zemaljskim*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je gore rečeno, neposlušnost prema čovjeku onoga što mu treba biti podložno uslijedila kao njegova kazna, zato što je on bio neposlušan Bogu. I zato mu se u stanju nevinosti, prije spomenute neposlušnosti, ništa nije protivilo što mu je po naravi trebalo biti podložno. A sve su životinje po naravi podložne čovjeku. To je očito iz triju stvari. Prvo, iz samoga hoda prirode. Kao što se, naime, u nastajanju stvari razumije neki red po kojemu se ide od nesavršenoga prema savršenome (jer je tvar radi forme, a nesavršenija forma radi savršenije), tako je i u uporabi prirodnih stvari: nesavršenije, naime, služi na uporabu savršenijima; biljke se, naime, služe zemljom za svoju prehranu, životinje pak biljkama, a ljudi biljkama i životinjama. Stoga čovjek po naravi gospodari životinjama. I zbog toga Filozof kaže u I. knjizi Politike da je lov na divlje životinje pravedan i naravan, jer njime čovjek prisvaja sebi ono što je po naravi njegovo. Drugo, to je očito iz reda božanske providnosti, koja uvijek niže upravlja po višemu. Stoga, budući da je čovjek iznad ostalih životinja, kao onaj koji je načinjen na sliku Božju, prikladno je da su druge životinje podložene njegovu upravljanju. Treće, isto je očito iz svojstva čovjeka i drugih životinja. U drugim se, naime, životinjama nalazi, prema naravnoj procjeni, neko sudjelovanje u razboritosti za neke pojedinačne čine, a u čovjeku se nalazi opća razboritost, koja je razum o svemu što se može činiti. A sve što jest po sudjelovanju podložno je onomu što jest po biti i općenito. Stoga je jasno da je podložnost drugih životinja čovjeku naravna.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da viša vlast može u podložnima učiniti mnogo toga što ne može niža. A anđeo je po naravi viši od čovjeka. Stoga je anđeoskom snagom mogao nastati neki učinak u pogledu životinja koji nije mogao nastati ljudskom moći, naime da se sve životinje odjednom okupe.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a1.ad2": {
+      "text": "Na drugo treba reći da neki kažu kako bi životinje koje su sada divlje i ubijaju druge životinje u onom stanju bile pitome ne samo prema čovjeku, nego i prema drugim životinjama. Ali to je posve nerazumno. Narav se, naime, životinja nije promijenila po čovjekovu grijehu, tako da bi one kojima je sada naravno jesti meso drugih životinja, kao lavovi i sokolovi, tada živjele od bilja. A ni Bedina glosa uz Post 1 ne kaže da su stabla i bilje dani za hranu svim životinjama i pticama, nego nekima. Dakle, među nekim bi životinjama postojala naravna nesloga. Ipak zbog toga ne bi bile izuzete od čovjekova gospodstva, kao što ni sada zbog toga nisu izuzete od gospodstva Božjega, čijom se providnošću sve to raspoređuje. A čovjek bi bio izvršitelj te providnosti, kao što se i sada vidi kod domaćih životinja: ljudi, naime, daju kokoši za hranu pripitomljenim sokolovima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a1.ad3": {
+      "text": "Na treće treba reći da ljudima u stanju nevinosti nisu bile potrebne životinje za tjelesnu potrebu: ni za pokrivanje, jer su bili goli i nisu se stidjeli, budući da ih nije poticao nikakav pokret neuredne požude; ni za hranu, jer su se hranili od stabala raja; ni za prijevoz, zbog snage tijela. Ipak su im bile potrebne da steknu iskustvenu spoznaju o njihovim naravima. To je označeno time što je Bog doveo k njemu životinje da im nadjene imena, koja označuju njihove naravi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a1.ad4": {
+      "text": "Na četvrto treba reći da druge životinje imaju neko sudjelovanje u razboritosti i razumu prema naravnoj procjeni; iz toga se događa da ždralovi slijede predvodnika, a pčele se pokoravaju kralju. I tako bi tada sve životinje same od sebe bile poslušne čovjeku, kao što su mu sada poslušne neke domaće.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da čovjek ne bi imao gospodstvo nad svim drugim stvorovima. Anđeo je, naime, po naravi veće moći nego čovjek. Ali, kako kaže Augustin u III. knjizi O Trojstvu, *tjelesna tvar ne bi bila poslušna na mig ni svetim anđelima*. Dakle, mnogo manje čovjeku u stanju nevinosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a2.obj2": {
+      "text": "Osim toga, u biljkama od sila duše postoje samo hranidbena, rastidbena i rađalačka. A te po naravi nisu sposobne pokoravati se razumu, kao što se vidi u jednom te istom čovjeku. Dakle, budući da gospodstvo pripada čovjeku po razumu, čini se da čovjek u stanju nevinosti nije gospodario biljkama.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a2.obj3": {
+      "text": "Osim toga, tko god gospodari nekom stvari, može tu stvar promijeniti. Ali čovjek ne bi mogao promijeniti tijek nebeskih tijela, jer to pripada samo Bogu, kako kaže Dionizije u poslanici Polikarpu. Dakle, nije gospodario njima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Post 1 o čovjeku: *neka bude nad svim stvorovima*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a2.resp": {
+      "text": "Odgovaram: treba reći da su u čovjeku na neki način sve stvari; i zato mu na onaj način na koji gospodari onim što je u njemu samome pripada gospodariti i drugim stvarima. A u čovjeku treba razmotriti četvero: naime razum, po kojemu se slaže s anđelima; osjetilne sile, po kojima se slaže sa životinjama; naravne sile, po kojima se slaže s biljkama; i samo tijelo, po kojemu se slaže sa stvarima bez duše. A razum u čovjeku ima mjesto onoga koji gospodari, a ne onoga koji je podložan gospodstvu. Stoga čovjek u prvom stanju nije gospodario anđelima; a to što se kaže: svim stvorovima, razumije se o onima koji nisu na sliku Božju. Osjetilnim pak silama, kao srditoj i požudnoj, koje se na neki način pokoravaju razumu, duša gospodari zapovijedajući. Stoga je i u stanju nevinosti gospodario drugim životinjama zapovijedanjem. Naravnim pak silama i samome tijelu čovjek gospodari ne zapovijedajući, nego služeći se njima. I tako je čovjek u stanju nevinosti gospodario i biljkama i stvarima bez duše, ne zapovijedanjem ili izmjenom, nego služeći se bez zapreke njihovom pomoći.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a2.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da bi u stanju nevinosti svi ljudi bili jednaki. Grgur, naime, kaže: *gdje ne griješimo, svi smo jednaki*. Ali u stanju nevinosti nije bilo grijeha. Dakle, svi su bili jednaki.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a3.obj2": {
+      "text": "Osim toga, sličnost i jednakost razlog su uzajamne ljubavi, prema onome Sir 13: *svako živo biće ljubi sebi slično, tako i svaki čovjek svoga bližnjega*. A u onom je stanju među ljudima obilovala ljubav, koja je sveza mira. Dakle, svi bi u stanju nevinosti bili jednaki.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a3.obj3": {
+      "text": "Osim toga, kad prestane uzrok, prestaje i učinak. Ali čini se da je sada uzrok nejednakosti među ljudima sa strane Boga to što jedne nagrađuje za zasluge, a druge kažnjava; a sa strane naravi to što se zbog nedostatka naravi neki rađaju slabi i osakaćeni, a neki jaki i savršeni. A toga u prvom stanju ne bi bilo.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže Rim 13: *što je od Boga, uređeno je*. A čini se da se red ponajviše sastoji u nejednakosti; Augustin, naime, kaže u XIX. knjizi O Božjem gradu: *red je raspored jednakih i nejednakih stvari koji svakoj dodjeljuje njezino mjesto*. Dakle, u prvom bi se stanju, koje bi bilo najdoličnije, nalazila nejednakost.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a3.resp": {
+      "text": "Odgovaram: treba reći da je nužno reći da je u prvom stanju bila neka nejednakost, barem s obzirom na spol, jer bez razlike spola ne bi bilo rađanja. Slično i s obzirom na dob, jer su se tako jedni rađali od drugih; a ni oni koji su se sjedinjavali nisu bili neplodni. Ali i po duši bi bila različitost, i s obzirom na pravednost i s obzirom na znanje. Čovjek, naime, nije djelovao iz nužnosti, nego po slobodnom odlučivanju; a iz toga čovjek ima to da može više ili manje usmjeriti duh na to da nešto čini, hoće ili spoznaje. Stoga bi neki više napredovali u pravednosti i znanju nego drugi. I sa strane tijela mogla je biti nejednakost. Ljudsko, naime, tijelo nije bilo potpuno izuzeto od zakona prirode, tako da od izvanjskih djelatnika ne bi primalo neku korist ili pomoć, više ili manje, budući da se i njihov život održavao hranom. I tako ništa ne priječi reći da bi se, prema različitom stanju zraka i različitom položaju zvijezda, neki rađali tjelesno snažniji od drugih, i veći, i ljepši, i boljega tjelesnog sastava. Ipak tako da u onima koje bi drugi nadmašivali ne bi bilo nikakva nedostatka ili grijeha, bilo u pogledu duše bilo u pogledu tijela.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Grgur onim riječima namjerava isključiti nejednakost koja je po razlici pravednosti i grijeha; iz nje se događa da neki za kaznu moraju biti obuzdavani pod drugima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a3.ad2": {
+      "text": "Na drugo treba reći da je jednakost uzrok tome da uzajamna ljubav bude jednaka. Ali ipak među nejednakima može biti veća ljubav nego među jednakima, iako ne odgovara jednako s obje strane. Otac, naime, po naravi više ljubi sina nego brat brata, iako sin ne ljubi oca toliko koliko ga on ljubi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a3.ad3": {
+      "text": "Na treće treba reći da je uzrok nejednakosti mogao biti i sa strane Boga, ne doduše da neke kažnjava, a neke nagrađuje, nego da jedne više, a druge manje uzvisi, kako bi ljepota reda jače zasjala u ljudima. A i sa strane naravi mogla je nejednakost biti prouzročena na navedeni način, bez ikakva nedostatka naravi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da čovjek u stanju nevinosti nije gospodario čovjekom. Augustin, naime, kaže u XIX. knjizi O Božjem gradu: *Bog nije htio da razumni čovjek, načinjen na njegovu sliku, gospodari ičim osim nerazumnim bićima: ne čovjek čovjekom, nego čovjek stokom*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a4.obj2": {
+      "text": "Osim toga, ono što je uvedeno kao kazna za grijeh ne bi postojalo u stanju nevinosti. Ali to da čovjek bude podložan čovjeku uvedeno je kao kazna za grijeh; ženi je, naime, nakon grijeha rečeno: bit ćeš pod muževom vlašću, kako se kaže u Post 3. Dakle, u stanju nevinosti čovjek nije bio podložan čovjeku.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a4.obj3": {
+      "text": "Osim toga, podložnost se protivi slobodi. Ali sloboda je jedno od glavnih dobara, koje ne bi nedostajalo u stanju nevinosti, kad nije nedostajalo ništa što bi dobra volja mogla željeti, kako kaže Augustin u XIV. knjizi O Božjem gradu. Dakle, čovjek u stanju nevinosti nije gospodario čovjekom.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a4.sc": {
+      "text": "Ali protiv toga, položaj ljudi u stanju nevinosti nije bio dostojanstveniji od položaja anđela. Ali među anđelima jedni gospodare drugima, zbog čega se i jedan red naziva Gospodstvima. Dakle, nije protiv dostojanstva stanja nevinosti da čovjek gospodari čovjekom.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a4.resp": {
+      "text": "Odgovaram: treba reći da se gospodstvo uzima dvojako. Na jedan način, ukoliko se suprotstavlja ropstvu; i tako se gospodarom naziva onaj komu je netko podložan kao rob. Na drugi se način gospodstvo uzima ukoliko se općenito odnosi na onoga koji je na bilo koji način podložan; i tako se i onaj koji ima službu upravljati slobodnima i usmjeravati ih može nazvati gospodarom. Ako se, dakle, gospodstvo uzme na prvi način, čovjek u stanju nevinosti ne bi gospodario čovjekom; ali ako se gospodstvo uzme na drugi način, čovjek bi u stanju nevinosti mogao gospodariti čovjekom. Razlog je tome što se rob razlikuje od slobodnoga po tome što slobodan postoji radi sebe samoga, kako se kaže na početku Metafizike, a rob je usmjeren prema drugome. Netko, dakle, gospodari nekim kao robom onda kad onoga kojim gospodari usmjeruje na vlastitu korist, to jest korist onoga koji gospodari. I budući da je svakome poželjno vlastito dobro, pa je posljedično svakome žalosno da ono dobro koje bi trebalo biti njegovo pripadne samo drugome, zato takvo gospodstvo ne može biti bez kazne za podložne. Zbog toga u stanju nevinosti ne bi bilo takva gospodstva čovjeka nad čovjekom. A onda netko gospodari drugim kao slobodnim kad ga usmjeruje prema vlastitom dobru onoga koji je usmjeravan ili prema općem dobru. I takvo bi gospodstvo čovjeka nad čovjekom postojalo u stanju nevinosti, zbog dvaju razloga. Prvo, zato što je čovjek po naravi društveno živo biće; stoga bi ljudi u stanju nevinosti živjeli društveno. A društveni život mnogih ne bi mogao postojati kad ne bi netko predsjedao, tko bi smjerao prema općem dobru; mnogi, naime, sami po sebi smjeraju prema mnogim stvarima, a jedan prema jednome. I zato Filozof kaže na početku Politike da kad god je mnogo toga usmjereno prema jednome, uvijek se nalazi jedno kao glavno i ono koje usmjeruje. Drugo, jer kad bi jedan čovjek imao nad drugim nadmoćnost u znanju i pravednosti, ne bi bilo prikladno da to ne upotrijebi na korist drugih; prema onome što se kaže 1 Pt 4: *svaki onu milost koju je primio, služeći njome jedni drugima*. Stoga Augustin kaže u XIX. knjizi O Božjem gradu da *pravednici ne zapovijedaju iz želje za gospodovanjem, nego iz dužnosti skrbi; to propisuje naravni red, tako je Bog sazdao čovjeka*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q96.a4.adarg": {
+      "text": "I time je jasan odgovor na sve prigovore, koji polaze od prvoga načina gospodstva.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    }
+  }
+}

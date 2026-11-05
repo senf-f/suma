@@ -1,0 +1,504 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 93,
+  "units": {
+    "I.q93.pr": {
+      "text": "Zatim treba razmotriti svrhu ili završetak proizvođenja čovjeka, ukoliko se kaže da je učinjen na sliku i sličnost Božju. I o tome se postavlja devet pitanja. Prvo, je li u čovjeku slika Božja. Drugo, je li slika Božja u stvorovima bez razuma. Treće, je li slika Božja više u anđelu nego u čovjeku. Četvrto, je li slika Božja u svakom čovjeku. Peto, je li u čovjeku slika Božja s obzirom na bit, ili na sve božanske osobe, ili na jednu od njih. Šesto, nalazi li se slika Božja u čovjeku samo po duhu. Sedmo, je li slika Božja u čovjeku po moćima, ili po habitusima, ili po činima. Osmo, je li ona s obzirom na sve predmete. Deveto, o razlici između slike i sličnosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da slika Božja nije u čovjeku. Kaže se, naime, u Iz 40: *Komu ste učinili sličnim Boga? Ili kakvu ćete mu sliku postaviti?*",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a1.obj2": {
+      "text": "Osim toga, biti slika Božja vlastito je prvorođencu, o kojem Apostol kaže, Kol 1: *koji je slika Boga nevidljivoga, prvorođenac svakoga stvora*. Dakle, slika se Božja ne nalazi u čovjeku.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a1.obj3": {
+      "text": "Osim toga, Hilarije kaže u knjizi O sinodama da je *slika nerazlikovana vrsta one stvari po kojoj se slika izrađuje*; i opet kaže da je *slika nerazlučena i sjedinjena sličnost stvari sa stvari s kojom se ima izjednačiti*. Ali nema nerazlikovane vrste Boga i čovjeka; niti može biti jednakosti čovjeka s Bogom. Dakle, u čovjeku ne može biti slika Božja.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Post 1: *Načinimo čovjeka na sliku i sličnost našu*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kako kaže Augustin u knjizi Osamdeset i tri pitanja, *gdje je slika, odmah je i sličnost; ali gdje je sličnost, nije odmah i slika*. Iz toga je jasno da sličnost pripada pojmu slike i da slika nešto dodaje pojmu sličnosti, naime to da je izražena iz drugoga; slika se, naime, tako naziva zato što se izrađuje oponašanjem drugoga. Stoga se jaje, koliko god bilo slično i jednako drugom jajetu, ipak ne naziva njegovom slikom, jer nije iz njega izraženo. Jednakost pak ne pripada pojmu slike, jer, kako na istom mjestu kaže Augustin, *gdje je slika, nije odmah i jednakost*; kao što je jasno kod slike nečega koja se odsijeva u zrcalu. Ipak, ona pripada pojmu savršene slike, jer savršenoj slici ne nedostaje ništa što je u onome iz čega je izražena. Očito je pak da se u čovjeku nalazi neka sličnost Božja, koja potječe od Boga kao od uzora; ali to nije sličnost po jednakosti, jer takav uzor beskonačno nadilazi ono što je po njemu načinjeno. Zato se kaže da je u čovjeku slika Božja, ali ne savršena, nego nesavršena. I to označuje Pismo kad kaže da je čovjek učinjen na sliku Božju; prijedlog „na“, naime, označuje neko približavanje, koje pristaje stvari koja je udaljena.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Prorok govori o tjelesnim slikama koje izrađuje čovjek, i zato značajno kaže: *kakvu ćete mu sliku postaviti?* Ali Bog je sam sebi u čovjeku postavio duhovnu sliku.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a1.ad2": {
+      "text": "Na drugo treba reći da je prvorođenac svakoga stvora savršena slika Božja, koja savršeno ispunja ono čija je slika; i zato se naziva slikom, a nikada „na sliku“. Čovjek se pak i zbog sličnosti naziva slikom, i zbog nesavršenosti sličnosti naziva se „na sliku“. I budući da savršena sličnost Božja ne može biti osim u istovjetnosti naravi, slika je Božja u njegovu prvorođenom Sinu kao slika kralja u sinu koji mu je sunaravan, a u čovjeku kao u tuđoj naravi, kao slika kralja na srebrnom novcu, kako je jasno iz Augustina u knjizi O deset struna.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a1.ad3": {
+      "text": "Na treće treba reći da se, budući da je jedno nepodijeljeno biće, vrsta naziva nerazlikovanom na isti način na koji se naziva jednom. A nešto se naziva jednim ne samo po broju ili vrsti ili rodu, nego i po analogiji ili nekom razmjeru; i tako postoji jedinstvo ili suglasnost stvora s Bogom. A to što kaže „stvari sa stvari s kojom se ima izjednačiti“ pripada pojmu savršene slike.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se slika Božja nalazi u stvorovima bez razuma. Dionizije, naime, kaže u knjizi O božanskim imenima: *uzročene stvari imaju pripadne slike svojih uzroka*. Ali Bog je uzrok ne samo razumskih stvorova, nego i onih bez razuma. Dakle, slika se Božja nalazi u stvorovima bez razuma.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a2.obj2": {
+      "text": "Osim toga, što je u nečemu izrazitija sličnost, to se više približava pojmu slike. Ali Dionizije kaže u IV. poglavlju spisa O božanskim imenima da sunčana zraka u najvećoj mjeri ima sličnost s božanskom dobrotom. Dakle, ona je na sliku Božju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a2.obj3": {
+      "text": "Osim toga, što je nešto savršenije u dobroti, to je sličnije Bogu. Ali cijeli je svemir savršeniji u dobroti nego čovjek; jer, premda su pojedine stvari dobre, ipak se za sve zajedno kaže da su veoma dobre, Post 1. Dakle, cijeli je svemir na sliku Božju, a ne samo čovjek.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a2.obj4": {
+      "text": "Osim toga, Boecije u knjizi O utjesi kaže o Bogu: *svijet u duhu noseći i oblikujući ga u sličnoj slici*. Dakle, cijeli je svijet na sliku Božju, a ne samo razumski stvor.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u VI. knjizi O doslovnom tumačenju Knjige postanka: *u ovome se ističe čovjek, što ga je Bog učinio na svoju sliku, zato što mu je dao umski duh, kojim nadvisuje stoku*. Dakle, ono što nema uma nije na sliku Božju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a2.resp": {
+      "text": "Odgovaram: treba reći da za pojam slike nije dovoljna bilo kakva sličnost, pa makar bila izražena iz drugoga. Ako je, naime, sličnost samo po rodu ili po nekom zajedničkom akcidentu, neće se zbog toga reći da je nešto na sliku drugoga; ne bi se, naime, moglo reći da je crv koji nastaje iz čovjeka slika čovjeka zbog sličnosti roda; niti se opet može reći, ako nešto postane bijelo na sličnost drugoga, da je zbog toga na njegovu sliku, jer je bijelo akcident zajednički mnogim vrstama. Za pojam se slike pak zahtijeva da bude sličnost po vrsti, kao što je slika kralja u njegovu sinu, ili barem po nekom akcidentu vlastitom vrsti, a osobito po obliku, kao što se kaže da je slika čovjeka u bakru. Stoga Hilarije značajno kaže da je slika nerazlikovana vrsta. Očito je pak da se sličnost vrste uzima po posljednjoj razlici. A stvari postaju slične Bogu: prvo, i najopćenitije, ukoliko jesu; drugo, ukoliko žive; treće, ukoliko imaju mudrost ili shvaćaju. Ta su, kako kaže Augustin u knjizi Osamdeset i tri pitanja, *tako blizu Bogu po sličnosti da među stvorovima nema ničega bližega*. Tako je, dakle, jasno da su samo umski stvorovi, u vlastitom smislu govoreći, na sliku Božju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je sve nesavršeno neko sudjelovanje u savršenome. I zato i one stvari koje ne dosežu pojam slike, ukoliko ipak imaju kakvu-takvu sličnost Božju, imaju udjela u nečemu od pojma slike. I zato Dionizije kaže da uzročene stvari imaju pripadne slike svojih uzroka, to jest koliko im pripada da ih imaju, a ne naprosto.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a2.ad2": {
+      "text": "Na drugo treba reći da Dionizije uspoređuje sunčanu zraku s božanskom dobrotom s obzirom na uzročnost, a ne po dostojanstvu naravi, koje se zahtijeva za pojam slike.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a2.ad3": {
+      "text": "Na treće treba reći da je svemir savršeniji u dobroti od umskoga stvora po protežnosti i rasprostranjenosti. Ali po jakosti i sabranosti sličnost se božanske savršenosti više nalazi u umskom stvoru, koji je sposoban za najviše dobro. Ili treba reći da se dio ne dijeli nasuprot cjelini, nego nasuprot drugom dijelu. Stoga, kad se kaže da je samo umska narav na sliku Božju, ne isključuje se da je svemir, po nekom svom dijelu, na sliku Božju, nego se isključuju ostali dijelovi svemira.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a2.ad4": {
+      "text": "Na četvrto treba reći da Boecije uzima sliku po pojmu sličnosti kojom umjetnina oponaša lik umijeća koji je u duhu umjetnika; tako je pak svaki stvor slika uzornoga pojma koji ima u božanskom duhu. Ali mi sada ne govorimo tako o slici, nego ukoliko se uzima po sličnosti u naravi, naime ukoliko sve stvari postaju slične prvomu biću ukoliko su bića, i prvomu životu ukoliko su živa, i najvišoj mudrosti ukoliko su umska.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da anđeo nije više na sliku Božju nego čovjek. Augustin, naime, kaže u govoru o slici da Bog nijednom drugom stvoru osim čovjeku nije dao da bude na njegovu sliku. Dakle, nije istina da se za anđela više kaže da je na sliku Božju nego za čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a3.obj2": {
+      "text": "Osim toga, prema Augustinu u knjizi Osamdeset i tri pitanja, *čovjek je tako na sliku Božju da ga Bog oblikuje bez ikakva posredničkoga stvora. I zato mu ništa nije bliže povezano*. Ali neki se stvor naziva slikom Božjom ukoliko je povezan s Bogom. Dakle, anđeo nije više na sliku Božju nego čovjek.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a3.obj3": {
+      "text": "Osim toga, za stvor se kaže da je na sliku Božju ukoliko je umske naravi. Ali umska se narav ne pojačava niti slabi; ona, naime, nije iz roda akcidenta, budući da je u rodu supstancije. Dakle, anđeo nije više na sliku Božju nego čovjek.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur u jednoj homiliji: *anđeo se naziva pečatom sličnosti, jer se u njemu sličnost božanske slike očituje izraženija*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a3.resp": {
+      "text": "Odgovaram: treba reći da o slici Božjoj možemo govoriti na dva načina. Na jedan način, s obzirom na ono u čemu se prvotno razmatra pojam slike, a to je umska narav. I tako je slika Božja više u anđelima nego u ljudima, jer je umska narav u njima savršenija, kako je jasno iz gore rečenoga. Na drugi se način slika Božja u čovjeku može razmatrati s obzirom na ono u čemu se drugotno razmatra, naime ukoliko se u čovjeku nalazi neko oponašanje Boga, to jest ukoliko je čovjek od čovjeka kao Bog od Boga; i ukoliko je duša čovjeka cijela u cijelom njegovu tijelu i opet cijela u bilo kojem njegovu dijelu, kao što se Bog odnosi prema svijetu. I po tome i sličnome više se nalazi slika Božja u čovjeku nego u anđelu. Ali s obzirom na to pojam božanske slike u čovjeku ne uzima se po sebi, osim ako se pretpostavi prvo oponašanje, koje je po umskoj naravi; inače bi i nerazumne životinje bile na sliku Božju. I zato, budući da je s obzirom na umsku narav anđeo više na sliku Božju nego čovjek, treba naprosto dopustiti da je anđeo više na sliku Božju, a čovjek u nekom pogledu.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin od slike Božje isključuje druge, niže stvorove koji nemaju uma, a ne anđele.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a3.ad2": {
+      "text": "Na drugo treba reći da, kao što se kaže da je vatra po svojoj vrsti najtananije od tijela, premda je jedna vatra tananija od druge, tako se kaže da ništa nije bliže povezano s Bogom od ljudskoga duha, po rodu umske naravi; jer, kako je on sam gore unaprijed rekao, *ona koja imaju mudrost tako su mu blizu po sličnosti da među stvorovima nema ničega bližega*. Stoga se time ne isključuje da je anđeo više na sliku Božju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a3.ad3": {
+      "text": "Na treće treba reći da, kad se kaže da supstancija ne prima više i manje, ne razumije se da jedna vrsta supstancije nije savršenija od druge, nego da jedan te isti pojedinac nema u svojoj vrsti udjela katkad više, katkad manje. A ni različiti pojedinci nemaju udjela u vrsti supstancije po više i manje.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se slika Božja ne nalazi u svakom čovjeku. Apostol, naime, kaže u 1 Kor 11 da je *muškarac slika Božja, a žena je slika muškarca*. Budući da je, dakle, žena pojedinac ljudske vrste, ne pristaje svakom pojedincu da bude slika Božja.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a4.obj2": {
+      "text": "Osim toga, Apostol kaže u Rim 8: *one za koje je Bog unaprijed znao da će postati suobličeni slici Sina njegova, njih je predodredio*. Ali nisu svi ljudi predodređeni. Dakle, nemaju svi ljudi suobličenost slici.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a4.obj3": {
+      "text": "Osim toga, sličnost pripada pojmu slike, kako je gore rečeno. Ali grijehom čovjek postaje Bogu nesličan. Dakle, gubi sliku Božju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 38: *ipak u slici prolazi čovjek*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a4.resp": {
+      "text": "Odgovaram: treba reći da je, budući da se kaže da je čovjek na sliku Božju po umskoj naravi, čovjek najviše na sliku Božju po onome po čemu umska narav može najviše oponašati Boga. A umska narav najviše oponaša Boga s obzirom na to što Bog sebe samoga shvaća i ljubi. Stoga se slika Božja u čovjeku može razmatrati na trostruk način. Na jedan način, ukoliko čovjek ima naravnu sposobnost za shvaćanje i ljubljenje Boga; i ta se sposobnost sastoji u samoj naravi duha, koja je zajednička svim ljudima. Na drugi način, ukoliko čovjek u činu ili habitusom spoznaje i ljubi Boga, ali ipak nesavršeno; i to je slika po suobličenosti milosti. Na treći način, ukoliko čovjek u činu spoznaje i ljubi Boga savršeno; i tako se slika uzima po sličnosti slave. Stoga, uz ono iz Psalma 4, *Zapečaćeno je nad nama svjetlo lica tvoga, Gospodine*, Glosa razlikuje trostruku sliku, naime sliku stvaranja, ponovnoga stvaranja i sličnosti. Prva se, dakle, slika nalazi u svim ljudima; druga samo u pravednima; a treća samo u blaženima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se i u muškarcu i u ženi nalazi slika Božja s obzirom na ono u čemu se prvenstveno sastoji pojam slike, naime s obzirom na umsku narav. Stoga je u Post 1, pošto je rekao: *na sliku Božju stvori ga*, naime čovjeka, dodao: *muško i žensko stvori ih*; a rekao je u množini „ih“, kako kaže Augustin, da se ne bi shvatilo da su u jednom pojedincu bila spojena oba spola. Ali s obzirom na nešto drugotno slika se Božja nalazi u muškarcu na način na koji se ne nalazi u ženi; muškarac je, naime, počelo i svrha žene, kao što je Bog počelo i svrha svega stvorenoga. Stoga, kad je Apostol rekao da je *muškarac slika i slava Božja, a žena je slava muškarca*, pokazuje zašto je to rekao, dodajući: *jer nije muškarac od žene, nego žena od muškarca; i nije muškarac stvoren radi žene, nego žena radi muškarca*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a4.ad2": {
+      "text": "Na drugo i treće treba reći da ti razlozi polaze od slike koja je po suobličenosti milosti i slave.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da u čovjeku nije slika Božja s obzirom na Trojstvo božanskih osoba. Augustin, naime, kaže u knjizi O vjeri Petru: *jedno je po biti božanstvo Svetoga Trojstva i slika na koju je učinjen čovjek*. A Hilarije u V. knjizi O Trojstvu kaže da *čovjek biva učinjen na zajedničku sliku Trojstva*. Dakle, u čovjeku je slika Božja s obzirom na bit, a ne s obzirom na Trojstvo osoba.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a5.obj2": {
+      "text": "Osim toga, u knjizi O crkvenim dogmama kaže se da se slika Božja u čovjeku uzima po vječnosti. I Damaščanin kaže da *to što je čovjek na sliku Božju označuje da je umski, slobodan u odlučivanju i po sebi vlastan*. I Grgur iz Nise kaže da, kad je Pismo reklo da je čovjek učinjen na sliku Božju, *to je jednako kao da je reklo da je ljudska narav učinjena dionicom svakoga dobra; jer punina dobrote jest božanstvo*. A sve to ne pripada razlikovanju osoba, nego više jedinstvu biti. Dakle, u čovjeku je slika Božja ne po Trojstvu osoba, nego po jedinstvu biti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a5.obj3": {
+      "text": "Osim toga, slika vodi do spoznaje onoga čija je slika. Ako je, dakle, u čovjeku slika Božja po Trojstvu osoba, budući da čovjek naravnim razumom može spoznati sebe samoga, slijedilo bi da bi čovjek naravnom spoznajom mogao spoznati Trojstvo božanskih osoba. A to je lažno, kako je gore pokazano.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a5.obj4": {
+      "text": "Osim toga, ime slike ne pristaje bilo kojoj od triju osoba, nego samo Sinu; Augustin, naime, kaže u VI. knjizi O Trojstvu da je *samo Sin slika Očeva*. Ako bi se, dakle, slika Božja u čovjeku uzimala po osobi, ne bi u čovjeku bila slika cijeloga Trojstva, nego samo Sina.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a5.sc": {
+      "text": "Ali protiv toga je to što Hilarije u IV. knjizi O Trojstvu iz toga što se kaže da je čovjek učinjen na sliku Božju pokazuje mnoštvenost božanskih osoba.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a5.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore utvrđeno, razlikovanje božanskih osoba postoji samo po podrijetlu, ili bolje po odnosima podrijetla. A način podrijetla nije isti u svima, nego je način podrijetla svake stvari primjeren njezinoj naravi; drukčije se, naime, proizvodi ono što ima dušu, a drukčije ono što je bez duše; drukčije životinje, a drukčije biljke. Stoga je očito da je razlikovanje božanskih osoba onakvo kakvo pristaje božanskoj naravi. Stoga biti na sliku Božju po oponašanju božanske naravi ne isključuje biti na sliku Božju po predstavljanju triju osoba, nego jedno više slijedi iz drugoga. Tako, dakle, treba reći da je u čovjeku slika Božja i s obzirom na božansku narav i s obzirom na Trojstvo osoba; jer i u samome Bogu u trima osobama postoji jedna narav.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a5.ad1": {
+      "text": "I time je jasan odgovor na prva dva.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a5.ad3": {
+      "text": "Na treće treba reći da bi taj razlog vrijedio kad bi slika Božja u čovjeku savršeno predstavljala Boga. Ali, kako kaže Augustin u XV. knjizi O Trojstvu, najveća je razlika između ovoga trojstva koje je u nama i božanskoga Trojstva. I zato, kako on sam na istom mjestu kaže: *trojstvo koje je u nama više vidimo nego vjerujemo, a da je Bog Trojstvo, više vjerujemo nego vidimo*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a5.ad4": {
+      "text": "Na četvrto treba reći da su neki rekli da je u čovjeku samo slika Sina. Ali to Augustin pobija u XII. knjizi O Trojstvu. Prvo, time što je, budući da je Sin sličan Ocu po jednakosti biti, nužno da čovjek, ako je učinjen na sličnost Sinu, bude učinjen na sličnost Ocu. Drugo, jer, kad bi čovjek bio učinjen samo na sliku Sina, Otac ne bi rekao: *Načinimo čovjeka na sliku i sličnost našu*, nego „tvoju“. Kad se, dakle, kaže: na sliku Božju učini ga, ne treba to shvatiti tako da je Otac učinio čovjeka samo na sliku Sina, koji je Bog, kako su neki tumačili, nego treba shvatiti da je Bog Trojstvo učinio čovjeka na svoju sliku, to jest na sliku cijeloga Trojstva. A kad se kaže da je Bog učinio čovjeka na svoju sliku, to se može shvatiti na dva načina. Na jedan način, tako da ovaj prijedlog „na“ označuje završetak činjenja, pa je smisao: načinimo čovjeka takvim da u njemu bude slika. Na drugi način, ovaj prijedlog „na“ može označivati uzorni uzrok, kao kad se kaže: ova je knjiga načinjena prema onoj. I tako je slika Božja sama božanska bit, koja se nevlastito naziva slikom, ukoliko se slika stavlja umjesto uzora. Ili, kako neki kažu, božanska se bit naziva slikom jer po njoj jedna osoba oponaša drugu.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da slika Božja nije u čovjeku samo po duhu. Apostol, naime, kaže u 1 Kor 11 da je muškarac slika Božja. Ali muškarac nije samo duh. Dakle, slika se Božja ne uzima samo po duhu.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a6.obj2": {
+      "text": "Osim toga, Post 1: *Stvori Bog čovjeka na svoju sliku, na sliku Božju stvori ga, muško i žensko stvori ih*. Ali razlikovanje muškoga i ženskoga jest po tijelu. Dakle, slika se Božja u čovjeku uzima i po tijelu, a ne samo po duhu.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a6.obj3": {
+      "text": "Osim toga, čini se da se slika ponajprije uzima po obliku. Ali oblik pripada tijelu. Dakle, slika se Božja u čovjeku uzima i po tijelu, a ne samo po duhu.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a6.obj4": {
+      "text": "Osim toga, prema Augustinu u XII. knjizi O doslovnom tumačenju Knjige postanka, u nama se nalazi trostruko viđenje, naime tjelesno, duhovno ili maštovno, i umsko. Ako je, dakle, po umskom viđenju, koje pripada duhu, u nama neko trojstvo po kojem smo na sliku Božju, s jednakim razlogom bit će i u drugim viđenjima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Ef 4: *Obnovite se duhom svoje pameti i obucite novoga čovjeka*; iz čega se daje razumjeti da naše obnavljanje, koje biva po oblačenju novoga čovjeka, pripada pameti. A u Kol 3 kaže: *obukavši novoga čovjeka, koji se obnavlja za spoznanje Boga, po slici onoga koji ga je stvorio*, gdje obnavljanje koje je po oblačenju novoga čovjeka pripisuje slici Božjoj. Dakle, biti na sliku Božju pripada samo pameti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a6.resp": {
+      "text": "Odgovaram: treba reći da se, premda je u svim stvorovima kakva-takva sličnost Božja, samo u razumskom stvoru nalazi sličnost Božja na način slike, kako je gore rečeno, a u drugim stvorovima na način traga. A ono u čemu razumski stvor nadilazi druge stvorove jest um ili duh. Stoga preostaje da se ni u samom razumskom stvoru slika Božja ne nalazi osim po duhu. U drugim pak dijelovima, ako ih razumski stvor ima, nalazi se sličnost traga, kao i u ostalim stvarima kojima je po takvim dijelovima sličan. Razlog se tome može jasno spoznati ako se pazi na način na koji predstavlja trag i na koji predstavlja slika. Slika, naime, predstavlja po sličnosti vrste, kako je rečeno. Trag pak predstavlja na način učinka koji tako predstavlja svoj uzrok da ipak ne doseže do sličnosti vrste; otisci, naime, koje ostavlja gibanje životinja nazivaju se tragovima; i slično se pepeo naziva tragom vatre, a opustošenost zemlje tragom neprijateljske vojske. Takva se, dakle, razlika između razumskih stvorova i drugih stvorova može uočiti i s obzirom na to što se u stvorovima predstavlja sličnost božanske naravi i s obzirom na to što se u njima predstavlja sličnost nestvorenoga Trojstva. Jer, što se tiče sličnosti božanske naravi, čini se da razumski stvorovi na neki način dosežu do predstavljanja vrste, ukoliko oponašaju Boga ne samo u tome što on jest i živi, nego i u tome što shvaća, kako je gore rečeno. Drugi pak stvorovi ne shvaćaju, ali se u njima pokazuje neki trag uma koji ih proizvodi, ako se razmotri njihov raspored. Slično, budući da se nestvoreno Trojstvo razlikuje po izlaženju Riječi od onoga koji govori i ljubavi od obojice, kako je gore utvrđeno, za razumski stvor, u kojem se nalazi izlaženje riječi po umu i izlaženje ljubavi po volji, može se reći da je slika nestvorenoga Trojstva po nekom predstavljanju vrste. U drugim pak stvorovima ne nalazi se počelo riječi, i riječ, i ljubav, ali se u njima pokazuje neki trag toga da se to nalazi u uzroku koji ih proizvodi. Jer samo to što stvor ima odmjerenu i konačnu supstanciju pokazuje da je od nekoga počela; a njegova vrsta pokazuje riječ onoga koji ga čini, kao što forma kuće pokazuje zamisao umjetnika; red pak pokazuje ljubav onoga koji ga proizvodi, kojom se učinak usmjeruje prema dobru, kao što uporaba zgrade pokazuje volju umjetnika. Tako se, dakle, u čovjeku nalazi sličnost Božja na način slike po duhu, a po drugim njegovim dijelovima na način traga.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se čovjek naziva slikom Božjom ne zato što bi on sam po biti bio slika, nego zato što je u njemu po duhu utisnuta slika Božja; kao što se denar naziva Cezarovom slikom ukoliko ima Cezarovu sliku. Stoga nije potrebno da se slika Božja uzima po bilo kojem dijelu čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a6.ad2": {
+      "text": "Na drugo treba reći da su, kako kaže Augustin u XII. knjizi O Trojstvu, neki postavili sliku Trojstva u čovjeku ne po jednom pojedincu, nego po više njih, govoreći da *muškarac naznačuje osobu Oca; osobu pak Sina ono što je od muškarca tako izašlo da se od njega rodilo; i tako za treću osobu, kao Duha Svetoga, kažu da je žena, koja je tako izašla od muškarca da ona sama nije bila ni sin ni kći*. To se na prvi pogled čini besmislenim. Prvo, jer bi slijedilo da je Duh Sveti počelo Sina, kao što je žena počelo potomstva koje se rađa od muškarca. Drugo, jer bi jedan čovjek bio na sliku samo jedne osobe. Treće, jer prema tome Pismo ne bi smjelo spomenuti sliku Božju u čovjeku prije nego što je već proizvedeno potomstvo. I zato treba reći da je Pismo, pošto je reklo: na sliku Božju stvori ga, dodalo: muško i žensko stvori ih, ne da bi se slika Božja uzimala po razlikama spolova, nego zato što je slika Božja zajednička objema spolovima, budući da je po duhu, u kojem nema razlikovanja spolova. Stoga Apostol u Kol 3, pošto je rekao: po slici onoga koji ga je stvorio, dodaje: gdje nema muškoga i ženskoga.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a6.ad3": {
+      "text": "Na treće treba reći da, premda se slika Božja u čovjeku ne uzima po tjelesnom obliku, ipak se *s pravom može činiti da je tijelo čovjekovo, jer jedino među tijelima zemaljskih životinja nije nagnuto i polegnuto na trbuh, nego je takvo da je prikladnije za promatranje neba, u tome učinjeno više na sliku i sličnost Božju nego ostala tijela životinja*, kako kaže Augustin u knjizi Osamdeset i tri pitanja. To ipak ne treba shvatiti kao da je u tijelu čovjekovu slika Božja, nego tako da sam oblik ljudskoga tijela predstavlja sliku Božju u duši, na način traga.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a6.ad4": {
+      "text": "Na četvrto treba reći da se i u tjelesnom viđenju i u maštovnom viđenju nalazi neko trojstvo, kako kaže Augustin u knjizi O Trojstvu. U tjelesnom je, naime, viđenju prvo lik vanjskoga tijela; drugo, samo viđenje, koje nastaje utiskivanjem neke sličnosti spomenutoga lika u vid; treće, ondje je nakana volje, koja primjenjuje vid na gledanje i zadržava ga na viđenoj stvari. Slično se i u maštovnom viđenju nalazi prvo lik sačuvan u pamćenju; drugo, samo maštovno viđenje, koje proizlazi iz toga što se oštrina duše, to jest sama maštovna sila, oblikuje prema spomenutom liku; a treće se nalazi nakana volje, koja spaja jedno i drugo. Ali oba trojstva ne dosežu pojam božanske slike. Jer sam lik vanjskoga tijela izvan je naravi duše, a lik koji je u pamćenju, premda nije izvan duše, ipak je duši pridošao; i tako u oba slučaja nedostaje predstavljanje sunaravnosti i suvječnosti božanskih osoba. Tjelesno pak viđenje ne izlazi samo od lika vanjskoga tijela, nego zajedno s time i od osjetila onoga koji gleda; i slično maštovno viđenje ne izlazi samo od lika koji se čuva u pamćenju, nego i od maštovne snage; i tako se time ne predstavlja prikladno izlaženje Sina od samoga Oca. Nakana pak volje, koja spaja to dvoje spomenuto, ne izlazi iz njih, ni u tjelesnom ni u duhovnom viđenju; stoga se ne predstavlja prikladno izlaženje Duha Svetoga od Oca i Sina.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se slika Božja ne nalazi u duši po činima. Augustin, naime, kaže u XI. knjizi O Božjem gradu da je čovjek učinjen na sliku Božju po tome što *jesmo, i znamo da jesmo, i taj bitak i znanje ljubimo*. Ali bitak ne označuje čin. Dakle, slika se Božja u duši ne uzima po činima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a7.obj2": {
+      "text": "Osim toga, Augustin u IX. knjizi O Trojstvu određuje sliku Božju u duši po ovim trima, a to su duh, poznavanje i ljubav. A duh ne označuje čin, nego više moć, ili čak bit umske duše. Dakle, slika se Božja ne uzima po činima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a7.obj3": {
+      "text": "Osim toga, Augustin u X. knjizi O Trojstvu određuje sliku Trojstva u duši po pamćenju, razumijevanju i volji. Ali te su tri naravne sile duše, kako kaže Učitelj u 3. razlikovanju I. knjige Sentencija. Dakle, slika se uzima po moćima, a ne po činima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a7.obj4": {
+      "text": "Osim toga, slika Trojstva uvijek ostaje u duši. Ali čin ne ostaje uvijek. Dakle, slika se Božja u duši ne uzima po činima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a7.sc": {
+      "text": "Ali protiv toga je to što Augustin u XI. knjizi O Trojstvu određuje trojstvo u nižim dijelovima duše po zbiljskom osjetnom i maštovnom viđenju. Dakle, i trojstvo koje je u duhu, po kojem je čovjek na sliku Božju, treba uzimati po zbiljskom viđenju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a7.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, pojmu slike pripada kakvo-takvo predstavljanje vrste. Ako se, dakle, slika božanskoga Trojstva treba uzimati u duši, potrebno je da se prvenstveno uzima po onome što se, koliko je moguće, najviše približava predstavljanju vrste božanskih osoba. A božanske se osobe razlikuju po izlaženju Riječi od onoga koji govori i ljubavi koja povezuje oboje. A riječ u našoj duši ne može biti bez zbiljskoga mišljenja, kako kaže Augustin u XIV. knjizi O Trojstvu. I zato se slika Trojstva u duhu prvo i prvenstveno uzima po činima, naime ukoliko iz poznavanja koje imamo misleći oblikujemo unutarnju riječ i iz toga izbijamo u ljubav. Ali budući da su počela čina habitusi i moći, a svaka je stvar virtualno u svom počelu, drugotno i kao posljedično slika se Trojstva može uzimati u duši po moćima, a osobito po habitusima, ukoliko naime u njima čini virtualno postoje.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da slici Božjoj pripada naš bitak, koji nam je vlastit iznad ostalih životinja; a taj nam bitak pripada ukoliko imamo duh. I zato je to trojstvo isto kao ono koje Augustin postavlja u IX. knjizi O Trojstvu, koje se sastoji u duhu, poznavanju i ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a7.ad2": {
+      "text": "Na drugo treba reći da je Augustin to trojstvo najprije pronašao u duhu. Ali budući da duh, premda na neki način spoznaje sebe cijeloga, ipak na neki način i ne poznaje sebe, naime ukoliko je različit od drugih stvari, i tako i traži sebe, kako Augustin potom dokazuje u X. knjizi O Trojstvu, zato, kao da se poznavanje ne izjednačuje potpuno s duhom, uzima u duši neke tri stvari vlastite duhu, naime pamćenje, razumijevanje i volju, za koje nitko nije u neznanju da ih ima, i u tim trima radije određuje sliku Trojstva, kao da je prvo određenje na neki način manjkavo.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a7.ad3": {
+      "text": "Na treće treba reći da se, kako Augustin dokazuje u XIV. knjizi O Trojstvu, za nas kaže da shvaćamo i hoćemo ili ljubimo neke stvari i kad o njima mislimo i kad o njima ne mislimo. Ali kad su bez mišljenja, pripadaju samo pamćenju, koje, prema njemu, nije ništa drugo nego habitualno zadržavanje poznavanja i ljubavi. Ali budući da, kako on kaže, *riječ ondje ne može biti bez mišljenja (mislimo, naime, sve što govorimo, i onom unutarnjom riječju koja ne pripada jeziku nijednoga naroda), ta se slika radije spoznaje u onim trima, naime u pamćenju, razumijevanju i volji. A razumijevanjem sada nazivam ono kojim shvaćamo misleći, a voljom ili ljubavlju ili izabirnom ljubavlju onu koja spaja to potomstvo i roditelja*. Iz toga je jasno da on sliku božanskoga Trojstva radije postavlja u zbiljsko razumijevanje i volju nego u njih ukoliko su u habitualnom zadržavanju pamćenja, premda je i s obzirom na to na neki način slika Trojstva u duši, kako se ondje kaže. I tako je jasno da pamćenje, razumijevanje i volja nisu tri sile, kako se kaže u Sentencijama.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a7.ad4": {
+      "text": "Na četvrto treba reći da bi netko mogao odgovoriti na temelju onoga što kaže Augustin u XIV. knjizi O Trojstvu, da *duh uvijek pamti sebe, uvijek sebe shvaća i ljubi*. To neki shvaćaju kao da je duši prisutno zbiljsko razumijevanje i ljubav sebe same. Ali on isključuje to tumačenje time što dodaje da *ne misli uvijek o sebi kao o odijeljenome od onoga što nije on sam*. I tako je jasno da duša uvijek shvaća i ljubi sebe ne zbiljski, nego habitualno. Premda bi se također moglo reći da, opažajući svoj čin, shvaća sebe samu kad god nešto shvaća. Ali budući da nije uvijek u činu shvaćanja, kao što je jasno kod onoga koji spava, zato treba reći da čini, premda ne ostaju uvijek u sebi samima, ipak uvijek ostaju u svojim počelima, naime u moćima i habitusima. Stoga Augustin kaže u XIV. knjizi O Trojstvu: *ako je razumska duša učinjena na sliku Božju po tome što se može služiti razumom i umom za shvaćanje i promatranje Boga, od početka otkako je počela postojati bila je u njoj slika Božja*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da slika božanskoga Trojstva nije u duši samo s obzirom na predmet koji je Bog. Slika se, naime, božanskoga Trojstva nalazi u duši, kako je rečeno, po tome što riječ u nama izlazi od onoga koji govori, a ljubav od obojega. Ali to se u nama nalazi s obzirom na bilo koji predmet. Dakle, s obzirom na bilo koji predmet nalazi se u našem duhu slika božanskoga Trojstva.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a8.obj2": {
+      "text": "Osim toga, Augustin kaže u XII. knjizi O Trojstvu: *kad tražimo trojstvo u duši, tražimo ga u cijeloj, ne odvajajući razumsku radnju u vremenitim stvarima od motrenja vječnih*. Dakle, i s obzirom na vremenite predmete nalazi se slika Trojstva u duši.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a8.obj3": {
+      "text": "Osim toga, to što Boga shvaćamo i ljubimo pripada nam po daru milosti. Ako se, dakle, slika Trojstva u duši uzima po pamćenju, razumijevanju i volji ili ljubavi prema Bogu, slika Božja neće biti u čovjeku po naravi, nego po milosti. I tako neće biti svima zajednička.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a8.obj4": {
+      "text": "Osim toga, sveti koji su u domovini najviše su suobličeni slici Božjoj po gledanju slave; stoga se kaže u 2 Kor 3: *u istu se sliku preobražavamo, iz sjaja u sjaj*. Ali po gledanju slave spoznaju se vremenite stvari. Dakle, i s obzirom na vremenite stvari slika se Božja uzima u nama.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XIV. knjizi O Trojstvu: *slika Božja nije u duhu zato što pamti sebe i shvaća i ljubi sebe, nego zato što može i pamtiti, shvaćati i ljubiti Boga, od kojega je učinjen*. Mnogo se, dakle, manje slika Božja u duhu uzima po drugim predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a8.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, slika uključuje sličnost koja na kakav-takav način doseže do predstavljanja vrste. Stoga je potrebno da se slika božanskoga Trojstva u duši uzima po nečemu što predstavlja božanske osobe predstavljanjem vrste, koliko je to moguće stvoru. A božanske se osobe razlikuju, kako je rečeno, po izlaženju Riječi od onoga koji govori i ljubavi od obojice. A Riječ se Božja rađa od Boga po poznavanju sebe samoga, i ljubav izlazi od Boga ukoliko on ljubi sebe samoga. Očito je pak da različitost predmeta raznoliči vrstu riječi i ljubavi; nije, naime, po vrsti ista riječ začeta u srcu čovjeka o kamenu i o konju, niti je po vrsti ista ljubav. Božanska se, dakle, slika u čovjeku uzima po riječi začetoj iz poznavanja Boga i po ljubavi koja odatle proizlazi. I tako se slika Božja uzima u duši ukoliko se ona upravlja ili je po naravi sposobna upravljati se prema Bogu. A duh se prema nečemu upravlja na dva načina: na jedan način izravno i neposredno; na drugi način neizravno i posredno, kao kad se za nekoga tko gleda sliku čovjeka u zrcalu kaže da se upravlja prema samom čovjeku. I zato Augustin kaže u XIV. knjizi O Trojstvu da *duh pamti sebe, shvaća sebe i ljubi sebe; ako to razabiremo, razabiremo trojstvo; još ne Boga, ali već sliku Božju*. Ali to nije zato što se duh upravlja prema sebi samome naprosto, nego ukoliko se time dalje može upravljati prema Bogu, kako je jasno iz gore navedenoga autoriteta.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da za pojam slike ne treba gledati samo to da nešto izlazi od nečega, nego i što izlazi i od čega, naime da riječ o Bogu izlazi iz poznavanja Boga.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a8.ad2": {
+      "text": "Na drugo treba reći da se u cijeloj duši doduše nalazi neko trojstvo, ali ne tako da bi se osim radnje u vremenitim stvarima i motrenja vječnih *tražilo nešto treće čime bi se trojstvo ispunilo*, kako se ondje dodaje. Ali u onom dijelu razuma koji je odveden na područje vremenitih stvari, premda se *trojstvo može naći, ipak se ne može naći slika Božja*, kako se kasnije kaže, jer je takvo poznavanje vremenitih stvari duši pridošlo. A i sami habitusi kojima se spoznaju vremenite stvari nisu uvijek prisutni, nego su katkad prisutni sadašnje, a katkad samo u pamćenju, čak i pošto su počeli biti prisutni. Kao što je jasno kod vjere, koja nam vremenito pridolazi u sadašnjem životu, a u stanju budućega blaženstva više neće biti vjera, nego pamćenje vjere.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a8.ad3": {
+      "text": "Na treće treba reći da zaslužna spoznaja i ljubav Boga postoji samo po milosti. Ipak postoji neka naravna spoznaja i ljubav Boga, kako je gore utvrđeno. A i samo je to naravno što se duh može služiti razumom za shvaćanje Boga, po čemu smo rekli da slika Božja uvijek ostaje u duhu, bilo da je ta slika Božja tako istrošena, kao zasjenjena, da gotovo i ne postoji, kao u onima koji nemaju uporabu razuma; bilo da je mračna i nagrđena, kao u grešnicima; bilo da je jasna i lijepa, kao u pravednima, kako kaže Augustin u XIV. knjizi O Trojstvu.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a8.ad4": {
+      "text": "Na četvrto treba reći da će se po gledanju slave vremenite stvari vidjeti u samome Bogu; i zato će takvo gledanje vremenitih stvari pripadati slici Božjoj. I to je ono što kaže Augustin u XIV. knjizi O Trojstvu: *u onoj naravi uz koju će duh blaženo prianjati vidjet će nepromjenljivim sve što bude vidio*. Jer i u samoj nestvorenoj Riječi jesu pojmovi svih stvorova.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da se sličnost ne razlikuje prikladno od slike. Rod se, naime, ne razlikuje prikladno od vrste. Ali sličnost se odnosi prema slici kao rod prema vrsti, jer *gdje je slika, ondje je odmah i sličnost, ali ne i obratno*, kako se kaže u knjizi Osamdeset i tri pitanja. Dakle, neprikladno se sličnost razlikuje od slike.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a9.obj2": {
+      "text": "Osim toga, pojam slike uzima se ne samo po predstavljanju božanskih osoba, nego i po predstavljanju božanske biti, a tom predstavljanju pripadaju besmrtnost i nedjeljivost. Dakle, ne kaže se prikladno da je *sličnost u biti, jer je besmrtna i nedjeljiva, a slika u ostalome*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a9.obj3": {
+      "text": "Osim toga, slika Božja u čovjeku je trostruka, naime naravi, milosti i slave, kako je gore utvrđeno. Ali nevinost i pravednost pripadaju milosti. Neprikladno se, dakle, kaže da se *slika uzima po pamćenju, razumijevanju i volji, a sličnost po nevinosti i pravednosti*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a9.obj4": {
+      "text": "Osim toga, spoznaja istine pripada razumijevanju, a ljubav prema kreposti volji, a to su dva dijela slike. Dakle, ne kaže se prikladno da je *slika u spoznaji istine, a sličnost u ljubavi prema kreposti*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a9.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Osamdeset i tri pitanja: *ima ih koji ne bez razloga shvaćaju da su rečene dvije stvari, na sliku i na sličnost, jer, kad bi to bila jedna stvar, moglo je biti dovoljno jedno ime*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a9.resp": {
+      "text": "Odgovaram: treba reći da je sličnost neko jedinstvo; jedno, naime, u kakvoći uzrokuje sličnost, kako se kaže u V. knjizi Metafizike. A jedno, budući da je među transcendentalijama, i zajedničko je svemu i može se primijeniti na pojedine stvari, kao i dobro i istinito. Stoga, kao što se dobro može usporediti s nekom posebnom stvari kao ono što joj prethodi i kao ono što slijedi za njom, ukoliko označuje neku njezinu savršenost, tako je i s usporedbom sličnosti sa slikom. Dobro, naime, prethodi čovjeku ukoliko je čovjek neko posebno dobro; i opet dobro slijedi za čovjekom ukoliko za nekog čovjeka posebno kažemo da je dobar zbog savršenosti kreposti. I slično se sličnost razmatra kao ono što prethodi slici, ukoliko je općenitija od slike, kako je gore rečeno; a razmatra se i kao ono što slijedi za slikom, ukoliko označuje neku savršenost slike; kažemo, naime, da je slika nečega slična ili neslična onome čija je slika, ukoliko ga savršeno ili nesavršeno predstavlja. Tako se, dakle, sličnost može razlikovati od slike na dva načina. Na jedan način, ukoliko joj prethodi i postoji u više stvari. I tako se sličnost uzima po onome što je općenitije od svojstava umske naravi, po kojima se u vlastitom smislu uzima slika. I prema tome se kaže u knjizi Osamdeset i tri pitanja da je duh, to jest pamet, bez ičije sumnje učinjen na sliku Božju, a za ostalo u čovjeku, naime za ono što pripada nižim dijelovima duše ili čak samom tijelu, neki drže da je učinjeno na sličnost. Prema tome se i u knjizi O veličini duše kaže da se sličnost Božja uzima u duši ukoliko je nepropadljiva; jer propadljivo i nepropadljivo jesu razlike općega bića. Na drugi se način sličnost može razmatrati ukoliko označuje izraženost i savršenost slike. I prema tome Damaščanin kaže da *ono što je na sliku označuje umsko i slobodno u odlučivanju, po sebi vlasno; a ono što je na sličnost označuje sličnost kreposti, koliko je moguće da je u čovjeku*. I na to se isto odnosi to što se kaže da sličnost pripada ljubavi prema kreposti; jer nema kreposti bez ljubavi prema kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da se sličnost ne razlikuje od slike po općem pojmu sličnosti (tako je, naime, uključena u pojam same slike), nego ukoliko neka sličnost ne doseže pojam slike ili pak usavršuje sliku.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a9.ad2": {
+      "text": "Na drugo treba reći da bit duše pripada slici ukoliko predstavlja božansku bit po onome što je vlastito umskoj naravi, a ne po uvjetima koji prate biće uopće, kao što je biti jednostavan i nerazrješiv.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a9.ad3": {
+      "text": "Na treće treba reći da su i neke kreposti naravno u duši, barem po nekim svojim klicama, i po njima bi se mogla uzimati naravna sličnost. Premda nije neprikladno da se ono što se po jednom određenju naziva slikom po drugom naziva sličnošću.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    },
+    "I.q93.a9.ad4": {
+      "text": "Na četvrto treba reći da ljubav prema riječi, koja je ljubljeno poznavanje, pripada pojmu slike, a ljubav prema kreposti pripada sličnosti, kao i krepost.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:14+00:00"
+    }
+  }
+}

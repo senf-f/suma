@@ -1,0 +1,96 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 101,
+  "units": {
+    "I.q101.pr": {
+      "text": "Zatim treba razmotriti stanje potomstva koje se trebalo roditi s obzirom na znanje. I u vezi s tim pitaju se dvije stvari. Prvo, bi li se djeca rađala savršena u znanju. Drugo, bi li odmah nakon rođenja imala savršenu uporabu razuma.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da bi se u stanju nevinosti djeca rađala savršena u znanju. Kakav je, naime, bio Adam, takve bi sinove rađao. Ali Adam je bio savršen u znanju, kako je gore rečeno. Dakle, sinovi bi se od njega rađali savršeni u znanju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a1.obj2": {
+      "text": "Osim toga, neznanje je prouzrokovano grijehom, kako kaže Beda. Ali neznanje je lišenost znanja. Dakle, prije grijeha djeca bi odmah nakon rođenja imala svako znanje.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a1.obj3": {
+      "text": "Osim toga, djeca bi odmah nakon rođenja imala pravednost. Ali za pravednost se zahtijeva znanje, koje upravlja u onome što treba činiti. Dakle, imala bi i znanje.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a1.sc": {
+      "text": "Ali protiv toga je to što je naša duša po naravi kao neispisana ploča na kojoj ništa nije napisano, kako se kaže u III. knjizi O duši. A ista je narav duše sada koja bi bila i tada. Dakle, duše djece u početku ne bi imale znanja.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a1.resp": {
+      "text": "Odgovaram: treba reći da se, kako je gore rečeno, o onome što je iznad naravi vjeruje samo autoritetu; zato, gdje autoriteta nema, moramo slijediti stanje naravi. A čovjeku je naravno da znanje stječe po osjetilima, kako je gore rečeno, i zato je duša sjedinjena s tijelom, jer joj je ono potrebno za njezino vlastito djelovanje; to ne bi bilo tako kad bi odmah od početka imala znanje koje nije stečeno po osjetilnim snagama. I zato treba reći da se djeca u stanju nevinosti ne bi rađala savršena u znanju, nego bi ga s protokom vremena bez poteškoće stekla, otkrivajući ili učeći.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je biti savršen u znanju bio individualni akcident prvoga roditelja, naime ukoliko je on bio postavljen kao otac i učitelj cijeloga ljudskog roda. I zato s obzirom na to nije rađao sinove sebi slične, nego samo s obzirom na naravne ili darovane akcidente cijele naravi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a1.ad2": {
+      "text": "Na drugo treba reći da je neznanje lišenost znanja koje se treba imati u ono vrijeme. A toga u djece odmah nakon rođenja ne bi bilo; imala bi, naime, znanje koje im je pripadalo prema onom vremenu. Zato u njima ne bi bilo neznanja, nego nepoznavanja s obzirom na neke stvari. Njega Dionizije postavlja i u svetim anđelima, u VII. poglavlju O nebeskoj hijerarhiji.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a1.ad3": {
+      "text": "Na treće treba reći da bi djeca imala dovoljno znanja da ih upravlja u djelima pravednosti u kojima se ljudi upravljaju po općim načelima prava; to bi znanje tada imala mnogo potpunije nego što ga mi sada po naravi imamo, a isto tako i znanje drugih općih načela.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da bi djeca u stanju nevinosti odmah nakon rođenja imala savršenu uporabu razuma. Sada, naime, djeca nemaju savršenu uporabu razuma zato što je duša otežana tijelom. A toga tada nije bilo, jer, kako se kaže u Mudrosti 9, *tijelo koje propada otežava dušu*. Dakle, prije grijeha i propadanja koje je uslijedilo iz grijeha djeca bi odmah nakon rođenja imala savršenu uporabu razuma.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a2.obj2": {
+      "text": "Osim toga, neke druge životinje odmah nakon rođenja imaju uporabu naravne vještine, kao što janje odmah bježi od vuka. Dakle, mnogo bi više ljudi u stanju nevinosti odmah nakon rođenja imali savršenu uporabu razuma.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a2.sc": {
+      "text": "Ali protiv toga je to što narav u svemu rođenome napreduje od nesavršenoga k savršenome. Dakle, djeca ne bi odmah od početka imala savršenu uporabu razuma.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako je jasno iz gore rečenoga, uporaba razuma na neki način ovisi o uporabi osjetilnih sila; zato, kad je osjetilo svezano i kad su unutarnje osjetilne sile spriječene, čovjek nema savršenu uporabu razuma, kao što je jasno u onih koji spavaju i u sumanutih. A osjetilne su sile neke snage tjelesnih organa, i zato je nužno da, kad su njihovi organi spriječeni, budu spriječeni i njihovi čini, i posljedično uporaba razuma. A u djece postoji zapreka tih sila zbog prevelike vlažnosti mozga. I zato u njima nema savršene uporabe razuma, kao ni drugih udova. I zato djeca u stanju nevinosti ne bi imala savršenu uporabu razuma kakvu su trebala imati u zreloj dobi. Ipak bi je imala savršeniju nego sada, s obzirom na ono što im je pripadalo u onom stanju, kao što je i o uporabi udova gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se otežanost zbog propadanja tijela pridodaje u tome što je uporaba razuma spriječena čak i s obzirom na ono što pripada čovjeku u bilo kojoj dobi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q101.a2.ad2": {
+      "text": "Na drugo treba reći da ni druge životinje nemaju odmah od početka tako savršenu uporabu naravne vještine kao poslije. To je jasno iz toga što ptice uče svoje ptiće letjeti, a slično se nalazi i u drugim rodovima životinja. Ipak u čovjeku postoji posebna zapreka zbog obilja vlažnosti mozga, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    }
+  }
+}

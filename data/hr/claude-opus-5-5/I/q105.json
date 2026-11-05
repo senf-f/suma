@@ -1,0 +1,378 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 105,
+  "units": {
+    "I.q105.pr": {
+      "text": "Zatim treba razmotriti drugi učinak božanskog upravljanja, a to je promjena stvorova. I to prvo o promjeni stvorova od Boga; drugo, o promjeni jednoga stvora od drugoga. Glede prvoga postavlja se osam pitanja. Prvo, može li Bog neposredno pokretati tvar prema formi. Drugo, može li neposredno pokretati neko tijelo. Treće, može li pokretati um. Četvrto, može li pokretati volju. Peto, djeluje li Bog u svakome koji djeluje. Šesto, može li učiniti nešto mimo reda koji je usađen u stvari. Sedmo, jesu li čuda sve što Bog tako čini. Osmo, o različitosti čuda.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da Bog ne može neposredno pokretati tvar prema formi. Jer, kako Filozof dokazuje u VII. knjizi Metafizike, formu u ovoj tvari ne može učiniti ništa osim forme koja je u tvari, jer slično čini sebi slično. Ali Bog nije forma u tvari. Dakle, ne može uzrokovati formu u tvari.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a1.obj2": {
+      "text": "Osim toga, ako se neki djelatnik odnosi prema mnogome, neće proizvesti ništa od toga ako ne bude određen prema tome nečim drugim; jer, kako se kaže u III. knjizi O duši, opće mnijenje ne pokreće osim posredstvom nekog posebnog zahvaćanja. Ali božanska je snaga opći uzrok svega. Dakle, ne može proizvesti neku posebnu formu osim posredstvom nekog posebnog djelatnika.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a1.obj3": {
+      "text": "Osim toga, kao što opći bitak ovisi o prvom općem uzroku, tako određeni bitak ovisi o određenim posebnim uzrocima, kako je gore utvrđeno. Ali određeni bitak neke stvari jest po njezinoj vlastitoj formi. Dakle, vlastite forme stvari ne proizvodi Bog osim posredstvom posebnih uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Post 2: *Oblikova Bog čovjeka od praha zemaljskoga*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a1.resp": {
+      "text": "Odgovaram: treba reći da Bog može neposredno pokretati tvar prema formi. Jer biće u trpnoj mogućnosti može biti svedeno u čin od aktivne moći koja ga sadrži pod svojom vlašću. Budući, dakle, da je tvar sadržana pod božanskom vlašću, kao ona koju je Bog proizveo, može biti svedena u čin božanskom moći. A to znači da se tvar pokreće prema formi, jer forma nije ništa drugo nego čin tvari.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se nalazi kako se neki učinak dvojako izjednačuje s djelatnim uzrokom. Na jedan način, po istoj vrsti, kao što se čovjek rađa od čovjeka i vatra od vatre. Na drugi način, po virtualnom sadržavanju, naime ukoliko je forma učinka virtualno sadržana u uzroku; i tako su životinje nastale iz truljenja, te biljke i rudna tijela, slični suncu i zvijezdama, čijom snagom nastaju. Tako je, dakle, učinak sličan djelatnom uzroku po svemu onome na što se proteže snaga djelatnika. A Božja se snaga proteže na formu i tvar, kako je gore utvrđeno. Stoga je složenac koji nastaje sličan Bogu po virtualnom sadržavanju, kao što je sličan složencu koji ga rađa po sličnosti vrste. Stoga, kao što složenac koji rađa može pokretati tvar prema formi rađajući složenac sebi sličan, tako i Bog. Ali ne može to neka druga forma koja ne postoji u tvari, jer tvar nije sadržana u snazi neke druge odijeljene supstancije. I zato demoni i anđeli djeluju na ove vidljive stvari ne utiskujući forme, nego primjenjujući tjelesna sjemena.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a1.ad2": {
+      "text": "Na drugo treba reći da bi onaj razlog vrijedio kad bi Bog djelovao po nužnosti naravi. Ali budući da djeluje voljom i umom, koji spoznaje vlastite pojmove svih forma, a ne samo opće, odatle je da može određeno utisnuti tvari ovu ili onu formu.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a1.ad3": {
+      "text": "Na treće treba reći da to isto što su drugotni uzroci usmjereni prema određenim učincima imaju od Boga. Stoga Bog, budući da druge uzroke usmjerava prema određenim učincima, može i sam po sebi proizvesti određene učinke.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Bog ne može neposredno pokretati neko tijelo. Budući da pokretač i pokretano moraju biti zajedno, kako se dokazuje u VII. knjizi Fizike, mora postojati neki dodir pokretača i pokretanoga. Ali ne može biti dodira Boga i nekog tijela; jer Dionizije u 1. poglavlju spisa O božanskim imenima kaže da *Boga nema nikakva dodira*. Dakle, Bog ne može neposredno pokretati neko tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a2.obj2": {
+      "text": "Osim toga, Bog je pokretač koji nije pokretan. A takvo je zahvaćeno poželjno. Bog, dakle, pokreće kao ono za čim se žudi i što je zahvaćeno. Ali ne zahvaća ga drugo osim um, koji nije ni tijelo ni snaga tijela. Dakle, Bog ne može neposredno pokretati neko tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a2.obj3": {
+      "text": "Osim toga, Filozof u VIII. knjizi Fizike dokazuje da beskonačna moć pokreće u trenutku. Ali nemoguće je da se neko tijelo pokrene u trenutku, jer, budući da je svako gibanje između suprotstavljenoga, slijedilo bi da su dvije suprotstavljene stvari istodobno u istome; a to je nemoguće. Dakle, tijelo ne može neposredno biti pokrenuto od beskonačne moći. A Božja je moć beskonačna, kako je gore utvrđeno. Dakle, Bog ne može neposredno pokretati neko tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a2.sc": {
+      "text": "Ali protiv toga: djela šest dana Bog je učinio neposredno; a u njima je sadržano gibanje tijela, kako je očito iz onoga što se kaže u Post 1: *Neka se skupe vode na jedno mjesto*. Dakle, Bog može neposredno pokretati tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a2.resp": {
+      "text": "Odgovaram: treba reći da je zabludno reći kako Bog ne može sam po sebi učiniti sve određene učinke koji nastaju po bilo kojem stvorenom uzroku. Stoga, budući da stvoreni uzroci neposredno pokreću tijela, nitko ne smije dvojiti o tome da Bog može neposredno pokretati bilo koje tijelo. I to doista slijedi iz onoga što je gore rečeno. Jer svako gibanje bilo kojeg tijela ili slijedi neku formu, kao što mjesno gibanje teških i lakih tijela slijedi formu koju daje onaj koji ih rađa, zbog čega se onaj koji rađa naziva pokretačem; ili je put prema nekoj formi, kao što je zagrijavanje put prema formi vatre. A istome pripada utisnuti formu, raspoložiti prema formi i dati gibanje koje slijedi formu; jer vatra ne samo da rađa drugu vatru nego i zagrijava i pokreće prema gore. Budući, dakle, da Bog može neposredno utisnuti formu tvari, slijedi da može pokretati bilo koje tijelo bilo kojim gibanjem.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je dodir dvojak: tjelesni, kao kad se dva tijela dodiruju; i virtualni, kao kad se kaže da onaj koji ražalošćuje dira ražalošćenoga. Prema prvom, dakle, dodiru Bog, budući da je netjelesan, niti dodiruje niti biva dodirnut. A prema virtualnom dodiru on doduše dodiruje pokrećući stvorove, ali ne biva dodirnut, jer naravna snaga nijednog stvora ne može doprijeti do njega. I tako je Dionizije shvatio da Boga nema dodira, naime tako da bi bio dodirnut.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a2.ad2": {
+      "text": "Na drugo treba reći da Bog pokreće kao ono za čim se žudi i što je shvaćeno. Ali nije nužno da uvijek pokreće kao ono za čim žudi i što shvaća ono što se pokreće, nego kao ono za čim žudi i što poznaje on sam; jer sve čini radi svoje dobrote.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a2.ad3": {
+      "text": "Na treće treba reći da Filozof u VIII. knjizi Fizike namjerava dokazati da snaga prvoga pokretača nije snaga u veličini, i to ovim razlogom: snaga prvoga pokretača jest beskonačna (što dokazuje time što može pokretati kroz beskonačno vrijeme); a beskonačna bi snaga, kad bi bila u nekoj veličini, pokretala izvan vremena, što je nemoguće; dakle, beskonačna snaga prvoga pokretača mora biti ne u veličini. Iz toga je očito da gibanje tijela izvan vremena slijedi samo iz beskonačne snage u veličini. Razlog je tomu što svaka snaga koja je u veličini pokreće cijelom sobom, budući da pokreće po nužnosti naravi. A beskonačna moć nesumjerljivo nadilazi bilo koju konačnu moć. Što je pak veća moć pokretača, to je veća brzina gibanja. Budući, dakle, da konačna moć pokreće u određenom vremenu, slijedi da beskonačna moć ne pokreće ni u kakvom vremenu, jer između bilo kojeg vremena i drugog vremena postoji neki omjer. Ali snaga koja nije u veličini jest snaga nekoga tko shvaća, koji djeluje na učinke onako kako im pristaje. I zato, budući da tijelu ne može biti prikladno da se giba izvan vremena, ne slijedi da pokreće izvan vremena.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da Bog ne pokreće neposredno stvoreni um. Jer radnja uma potječe od onoga u čemu jest, budući da ne prelazi u izvanjsku tvar, kako se kaže u IX. knjizi Metafizike. A radnja onoga što je pokretano od drugoga ne potječe od onoga u čemu jest, nego od pokretača. Dakle, um nije pokretan od drugoga. I tako se čini da Bog ne može pokretati um.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a3.obj2": {
+      "text": "Osim toga, ono što u sebi ima dostatno počelo svoga gibanja nije pokretano od drugoga. Ali gibanje uma jest samo njegovo shvaćanje, kao što se kaže da je shvaćati ili osjećati neko gibanje, prema Filozofu u III. knjizi O duši. A dostatno počelo shvaćanja jest umljivo svjetlo usađeno u um. Dakle, nije pokretan od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a3.obj3": {
+      "text": "Osim toga, kao što osjetilo pokreće osjetno, tako um pokreće umljivo. Ali Bog nam nije umljiv, nego nadilazi naš um. Dakle, Bog ne može pokretati naš um.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a3.sc": {
+      "text": "Ali protiv toga: onaj koji poučava pokreće um onoga koji uči. Ali Bog poučava čovjeka znanju, kako se kaže u Psalmu. Dakle, Bog pokreće čovjekov um.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što se u tjelesnim gibanjima pokretačem naziva ono što daje formu koja je počelo gibanja, tako se kaže da um pokreće ono što uzrokuje formu koja je počelo umskog djelovanja, koje se naziva gibanjem uma. A djelovanje uma ima u onome koji shvaća dvojako počelo: jedno je sama umska snaga, koje je počelo i u onome koji shvaća u mogućnosti; drugo je počelo shvaćanja u činu, naime sličnost shvaćene stvari u onome koji shvaća. Kaže se, dakle, da nešto pokreće um bilo da onome koji shvaća daje snagu za shvaćanje, bilo da mu utiskuje sličnost shvaćene stvari. A na oba načina Bog pokreće stvoreni um. On je, naime, prvo netvarno biće. A budući da umnost slijedi netvarnost, slijedi da je on prvi koji shvaća. Stoga, budući da je prvo u bilo kojem redu uzrok onoga što slijedi, slijedi da od njega potječe sva snaga shvaćanja. Slično, budući da je on prvo biće i da sva bića prethodno postoje u njemu kao u prvom uzroku, moraju biti u njemu umljivo, na njegov način. Jer kao što svi umljivi pojmovi stvari prvo postoje u Bogu i od njega se izvode u druge umove da bi zbiljski shvaćali, tako se izvode i u stvorove da bi samostojali. Tako, dakle, Bog pokreće stvoreni um ukoliko mu daje snagu za shvaćanje, bilo naravnu bilo nadodanu; i ukoliko mu utiskuje umljive spoznajne likove; i jedno i drugo drži i uzdržava u bitku.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da umsko djelovanje doduše potječe od uma u kojem jest, kao od drugotnog uzroka, ali od Boga kao od prvog uzroka. Jer od njega se onomu koji shvaća daje da može shvaćati.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a3.ad2": {
+      "text": "Na drugo treba reći da je umsko svjetlo, zajedno sa sličnošću shvaćene stvari, dostatno počelo shvaćanja; ali drugotno i ovisno o prvom počelu.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a3.ad3": {
+      "text": "Na treće treba reći da umljivo pokreće naš um ukoliko mu na neki način utiskuje svoju sličnost, po kojoj može biti shvaćeno. Ali sličnosti koje Bog utiskuje stvorenom umu nisu dostatne da se sam Bog shvati po biti, kako je gore utvrđeno. Stoga on pokreće stvoreni um, premda mu nije umljiv, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da Bog ne može pokretati stvorenu volju. Jer sve što je pokretano izvana biva prisiljeno. Ali volja ne može biti prisiljena. Dakle, nije pokretana ničim izvanjskim. I tako ne može biti pokretana od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a4.obj2": {
+      "text": "Osim toga, Bog ne može učiniti da proturječne tvrdnje budu istodobno istinite. A to bi slijedilo kad bi pokretao volju; jer biti voljno pokretan znači biti pokretan od sebe, a ne od drugoga. Dakle, Bog ne može pokretati volju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a4.obj3": {
+      "text": "Osim toga, gibanje se više pripisuje pokretaču nego pokretljivome; zato se ubojstvo ne pripisuje kamenu, nego onome koji ga je bacio. Ako, dakle, Bog pokreće volju, slijedi da se voljna djela ne uračunavaju čovjeku u zaslugu ili nezaslugu. A to je lažno. Dakle, Bog ne pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Fil 2: *Bog je onaj koji u nama čini da hoćemo i da izvršimo*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što je um, kako je rečeno, pokretan od predmeta i od onoga koji je dao snagu shvaćanja, tako je i volja pokretana od predmeta, a to je dobro, i od onoga koji stvara snagu htijenja. A volja može biti pokretana kao od predmeta od bilo kojeg dobra; ali dostatno i djelotvorno samo od Boga. Jer ništa ne može dostatno pokretati neko pokretljivo ako aktivna snaga pokretača ne nadilazi ili barem ne izjednačuje pasivnu snagu pokretljivoga. A pasivna snaga volje proteže se na dobro uopće; jer njezin je predmet opće dobro, kao što je i predmet uma opće biće. A svako je stvoreno dobro neko posebno dobro, dok je samo Bog opće dobro. Stoga samo on ispunja volju i dostatno je pokreće kao predmet. Slično, i snagu htijenja uzrokuje samo Bog. Jer htjeti nije ništa drugo nego neka sklonost prema predmetu volje, a to je opće dobro. A prikloniti prema općem dobru pripada prvom pokretaču, s kojim je sumjerna posljednja svrha; kao što u ljudskim stvarima usmjeravati prema općem dobru pripada onome koji je na čelu mnoštva. Stoga je na oba načina vlastito Bogu pokretati volju, ali ponajviše na drugi način, iznutra je priklanjajući.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za ono što je pokretano od drugoga kaže da je prisiljeno ako je pokretano protiv vlastite sklonosti; ali ako je pokretano od drugoga koji mu daje vlastitu sklonost, ne kaže se da je prisiljeno; kao što teško tijelo, kad ga onaj koji ga rađa pokreće prema dolje, nije prisiljeno. Tako, dakle, Bog, pokrećući volju, ne prisiljava je, jer joj daje njezinu vlastitu sklonost.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a4.ad2": {
+      "text": "Na drugo treba reći da biti voljno pokretan znači biti pokretan od sebe, to jest od unutarnjeg počela; ali to unutarnje počelo može biti od drugoga, izvanjskog počela. I tako biti pokretan od sebe ne protivi se tome da je pokretano od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a4.ad3": {
+      "text": "Na treće treba reći da, kad bi volja bila tako pokretana od drugoga da ni na koji način ne bi bila pokretana od sebe, djela volje ne bi se uračunavala u zaslugu ili nezaslugu. Ali budući da time što je pokretana od drugoga nije isključeno da je pokretana od sebe, kako je rečeno, zato se posljedično ne ukida pojam zasluge ili nezasluge.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da Bog ne djeluje u svakome koji djeluje. Jer Bogu ne treba pripisati nikakvu nedostatnost. Ako, dakle, Bog djeluje u svakome koji djeluje, u svakome djeluje dostatno. Bilo bi, dakle, suvišno da stvoreni djelatnik išta djeluje.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a5.obj2": {
+      "text": "Osim toga, jedno djelovanje ne potječe istodobno od dvojice koji djeluju, kao što ni brojčano jedno gibanje ne može pripadati dvama pokretljivima. Ako, dakle, djelovanje stvora potječe od Boga koji djeluje u stvoru, ne može istodobno potjecati od stvora. I tako nijedan stvor ništa ne djeluje.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a5.obj3": {
+      "text": "Osim toga, za onoga koji čini kaže se da je uzrok djelovanja učinjenoga ukoliko mu daje formu kojom djeluje. Ako je, dakle, Bog uzrok djelovanja stvari koje je on učinio, to će biti ukoliko im daje snagu djelovanja. Ali to biva u početku, kad čini stvar. Dakle, čini se da on dalje ne djeluje u stvoru koji djeluje.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iz 26: *Sva si djela naša izvršio u nama, Gospodine*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a5.resp": {
+      "text": "Odgovaram: treba reći da su neki shvatili da Bog djeluje u svakome koji djeluje tako da nijedna stvorena snaga ništa ne bi djelovala u stvarima, nego bi samo Bog neposredno sve djelovao; na primjer, da ne bi vatra zagrijavala, nego Bog u vatri, i slično o svemu drugome. A to je nemoguće. Prvo, zato što bi se tako stvorenim stvarima oduzeo red uzroka i uzrokovanoga. A to bi upućivalo na nemoć Stvoritelja; jer iz snage djelatnika proizlazi to da svojemu učinku daje snagu djelovanja. Drugo, zato što bi djelatne snage koje se nalaze u stvarima bile uzalud pripisane stvarima kad po njima ne bi ništa djelovale. Štoviše, sve bi se stvorene stvari činile na neki način uzaludnima kad bi bile lišene vlastitog djelovanja, budući da je svaka stvar radi svojega djelovanja. Jer nesavršeno je uvijek radi savršenijega; kao što je, dakle, tvar radi forme, tako je forma, koja je prvi čin, radi svojega djelovanja, koje je drugi čin; i tako je djelovanje svrha stvorene stvari. Tako, dakle, treba shvatiti da Bog djeluje u stvarima da ipak same stvari imaju vlastito djelovanje. Da bi to bilo jasno, treba razmotriti da, budući da postoje četiri roda uzroka, tvar doduše nije počelo radnje, nego se odnosi kao subjekt koji prima učinak radnje. A svrha, djelatnik i forma odnose se kao počelo radnje, ali po nekom redu. Jer prvo je počelo radnje svrha, koja pokreće djelatnika; drugo je djelatnik; treće je forma onoga što djelatnik primjenjuje na djelovanje (premda i sam djelatnik djeluje po svojoj formi), kao što je očito u umjetninama. Jer umjetnika na djelovanje pokreće svrha, koja je samo djelo, na primjer škrinja ili postelja; i primjenjuje na radnju sjekiru koja siječe svojom oštrinom. Tako, dakle, prema ovim trima Bog djeluje u svakome koji djeluje. Prvo, po pojmu svrhe. Budući, naime, da je svako djelovanje radi nekog dobra, istinskog ili prividnog, a ništa nije niti se čini dobrim osim ukoliko ima udjela u nekoj sličnosti najvišega dobra, a to je Bog, slijedi da je sam Bog uzrok svakog djelovanja kao svrha. Slično, treba razmotriti i to da, ako postoji mnogo poredanih djelatnika, drugi djelatnik uvijek djeluje snagom prvoga; jer prvi djelatnik pokreće drugoga na djelovanje. I prema tome sve djeluje snagom samoga Boga; i tako je on uzrok radnja svih djelatnika. Treće, treba razmotriti da Bog ne samo pokreće stvari na djelovanje, kao da primjenjuje forme i snage stvari na djelovanje, kao što i umjetnik primjenjuje sjekiru za sječenje, premda katkad sjekiri ne daje formu; nego i daje formu stvorovima koji djeluju i drži ih u bitku. Stoga nije samo uzrok radnja ukoliko daje formu koja je počelo radnje, kao što se za onoga koji rađa kaže da je uzrok gibanja teških i lakih tijela; nego i kao onaj koji uzdržava forme i snage stvari; kao što se kaže da je sunce uzrok očitovanja boja ukoliko daje i uzdržava svjetlo kojim se boje očituju. A budući da je forma stvari unutar stvari, i to toliko više koliko se razmatra kao prethodnija i općenitija; a sam je Bog u vlastitom smislu uzrok samoga općeg bitka u svim stvarima, koji je od svega stvarima najunutarnjiji, slijedi da Bog u svemu djeluje iznutra. I zbog toga se u Svetom pismu djelovanja prirode pripisuju Bogu kao onome koji djeluje u prirodi; prema onome iz Job 10: *Kožom i mesom odjenuo si me, kostima i žilama sastavio si me*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da Bog dostatno djeluje u stvarima na način prvoga djelatnika, ali zbog toga nije suvišno djelovanje drugotnih djelatnika.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a5.ad2": {
+      "text": "Na drugo treba reći da jedna radnja ne izlazi od dvaju djelatnika istoga reda; ali ništa ne priječi da jedna te ista radnja izlazi od prvoga i drugoga djelatnika.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a5.ad3": {
+      "text": "Na treće treba reći da Bog ne samo daje forme stvarima nego ih i uzdržava u bitku, i primjenjuje ih na djelovanje, i svrha je svih radnja, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da Bog ne može učiniti nešto mimo reda koji je usađen u stvari. Augustin, naime, kaže u XXVI. knjizi Protiv Fausta: *Bog, utemeljitelj i Stvoritelj svih naravi, ne čini ništa protiv naravi*. Ali čini se da je protiv naravi ono što je mimo reda koji je naravno usađen u stvari. Dakle, Bog ne može učiniti nešto mimo reda koji je usađen u stvari.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a6.obj2": {
+      "text": "Osim toga, kao što je red pravednosti od Boga, tako je i red naravi. Ali Bog ne može učiniti nešto mimo reda pravednosti, jer bi tada učinio nešto nepravedno. Dakle, ne može učiniti nešto mimo reda naravi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a6.obj3": {
+      "text": "Osim toga, red naravi ustanovio je Bog. Ako, dakle, Bog učini nešto mimo reda naravi, čini se da je on sam promjenljiv. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a6.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u XXVI. knjizi Protiv Fausta, da *Bog katkad čini nešto protiv uobičajenog tijeka naravi*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a6.resp": {
+      "text": "Odgovaram: treba reći da se od svakog uzroka izvodi neki red u njegove učinke, budući da svaki uzrok ima pojam počela. I zato se prema umnažanju uzroka umnažaju i redovi, od kojih je jedan sadržan pod drugim, kao što je i uzrok sadržan pod uzrokom. Stoga viši uzrok nije sadržan pod redom nižega uzroka, nego obratno. Primjer za to vidi se u ljudskim stvarima: jer o ocu obitelji ovisi red kuće, koji je sadržan pod redom grada, koji izlazi od upravitelja grada, dok je i ovaj sadržan pod redom kralja, od kojega je uređeno cijelo kraljevstvo. Ako se, dakle, red stvari razmatra ukoliko ovisi o prvom uzroku, tako Bog ne može činiti protiv reda stvari; jer kad bi tako činio, činio bi protiv svojega predznanja ili volje ili dobrote. Ako se pak red stvari razmatra ukoliko ovisi o bilo kojem od drugotnih uzroka, tako Bog može činiti mimo reda stvari. Jer on sam nije podložan redu drugotnih uzroka, nego je takav red podložan njemu, kao onaj koji od njega izlazi ne po nužnosti naravi, nego po odluci volje; mogao je, naime, ustanoviti i drugi red stvari. Stoga može i djelovati mimo ovoga ustanovljenog reda kad hoće; na primjer, čineći učinke drugotnih uzroka bez njih, ili proizvodeći neke učinke na koje se drugotni uzroci ne protežu. Stoga i Augustin kaže u XXVI. knjizi Protiv Fausta da *Bog čini protiv uobičajenog tijeka naravi; ali protiv najvišega zakona ne čini nipošto, kao što ne čini ni protiv sebe samoga*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kad se u naravnim stvarima nešto događa mimo usađene naravi, to se može dogoditi dvojako. Na jedan način, radnjom djelatnika koji nije dao naravnu sklonost, kao kad čovjek pokreće teško tijelo prema gore, a ono nema od njega to da se giba prema dolje; i to je protiv naravi. Na drugi način, radnjom onoga djelatnika o kojem ovisi naravna radnja. I to nije protiv naravi, kao što je očito u plimi i oseki mora, koja nije protiv naravi, premda je mimo naravnog gibanja vode, koja se giba prema dolje; ona je, naime, od utjecaja nebeskog tijela, o kojem ovisi naravna sklonost nižih tijela. Budući, dakle, da je red naravi Bog usadio u stvari, ako on učini nešto mimo toga reda, to nije protiv naravi. Stoga Augustin kaže u XXVI. knjizi Protiv Fausta da *svakoj je stvari naravno ono što učini onaj od kojega je sav način, broj i red naravi*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a6.ad2": {
+      "text": "Na drugo treba reći da je red pravednosti po odnosu prema prvom uzroku, koji je pravilo svake pravednosti. I zato mimo toga reda Bog ne može učiniti ništa.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a6.ad3": {
+      "text": "Na treće treba reći da je Bog usadio u stvari određeni red tako da ipak sebi pridrži ono što će on sam katkad iz nekog razloga učiniti drukčije. Stoga, kad djeluje mimo toga reda, ne mijenja se.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da nije čudo sve što Bog čini mimo naravnog reda stvari. Jer stvaranje svijeta, pa i duša, te opravdanje bezbožnika Bog čini mimo naravnog reda, budući da ne nastaju radnjom nekoga naravnog uzroka. Pa ipak se to ne naziva čudima. Dakle, nije čudo sve što Bog čini mimo naravnog reda stvari.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a7.obj2": {
+      "text": "Osim toga, čudom se naziva nešto teško i neuobičajeno što nadilazi sposobnost naravi i nadu onoga koji se divi. Ali neke se stvari događaju mimo reda naravi, a ipak nisu teške, jer su u najsitnijim stvarima, kao u obnavljanju dragog kamenja ili ozdravljenju bolesnika. Nisu ni neuobičajene, budući da se često događaju, kao kad su bolesnike postavljali na trgove da ozdrave od Petrove sjene. Nisu ni iznad sposobnosti naravi, kao kad neki ozdrave od groznice. Ni iznad nade, kao što se svi nadamo uskrsnuću mrtvih, koje će se ipak dogoditi mimo reda naravi. Dakle, nije čudo sve što se događa mimo reda naravi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a7.obj3": {
+      "text": "Osim toga, ime čuda uzima se od divljenja. Ali divljenje se odnosi na stvari očite osjetilu. Ali katkad se nešto događa mimo naravnog reda u stvarima koje nisu očite osjetilu, kao kad su apostoli postali znalci, a da ništa nisu ni sami otkrili ni naučili. Dakle, nije čudo sve što se događa mimo reda naravi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a7.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u XXVI. knjizi Protiv Fausta, da *kad Bog učini nešto protiv tijeka naravi koji nam je poznat i uobičajen, to se naziva velebnim djelima ili čudesima*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a7.resp": {
+      "text": "Odgovaram: treba reći da se ime čuda uzima od divljenja. A divljenje nastaje kad su učinci očiti, a uzrok skriven; kao što se netko divi kad vidi pomrčinu sunca, a ne zna uzrok, kako se kaže na početku Metafizike. A uzrok nekog vidljivog učinka može nekome biti poznat, a drugima ipak nepoznat. Stoga je nešto čudesno jednome što nije čudesno drugima; kao što se pomrčini sunca divi seljak, ali ne astronom. A čudom se naziva ono što je takoreći puno divljenja, naime ono što ima uzrok naprosto i svima skriven. A to je Bog. Stoga se čudima nazivaju one stvari koje Bog čini mimo nama poznatih uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se stvaranje i opravdanje bezbožnika, premda ih čini samo Bog, ipak, u vlastitom smislu govoreći, ne nazivaju čudima. Jer nisu po naravi takvi da bi nastajali po drugim uzrocima, i tako se ne događaju mimo reda naravi, budući da ne pripadaju redu naravi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a7.ad2": {
+      "text": "Na drugo treba reći da se čudo naziva teškim ne zbog dostojanstva stvari u kojoj se događa, nego zato što nadilazi sposobnost naravi. Slično se naziva i neuobičajenim, ne zato što se ne bi često događalo, nego zato što je mimo naravne ustaljenosti. A za nešto se kaže da je iznad sposobnosti naravi ne samo zbog supstancije učinjenoga nego i zbog načina i reda činjenja. Također se kaže da je čudo iznad nade naravi, a ne iznad nade milosti, koja je iz vjere, po kojoj vjerujemo u buduće uskrsnuće.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a7.ad3": {
+      "text": "Na treće treba reći da se znanje apostola, premda samo po sebi nije bilo očito, ipak očitovalo u učincima, iz kojih se pokazivalo čudesnim.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da jedno čudo nije veće od drugoga. Augustin, naime, kaže u poslanici Voluzijanu: *U stvarima koje su čudesno učinjene sav je razlog učinjenoga moć onoga koji čini*. Ali istom se moću, naime Božjom, čine sva čuda. Dakle, jedno nije veće od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a8.obj2": {
+      "text": "Osim toga, Božja je moć beskonačna. Ali beskonačno nesumjerljivo nadilazi sve konačno. Dakle, nije veće čudo da on učini ovaj učinak nego onaj. Dakle, jedno čudo nije veće od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a8.sc": {
+      "text": "Ali protiv toga je ono što Gospodin kaže u Iv 14, govoreći o čudesnim djelima: *Djela koja ja činim i on će činiti, i veća od ovih činit će*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a8.resp": {
+      "text": "Odgovaram: treba reći da se ništa ne može nazvati čudom u usporedbi s božanskom moći, jer je bilo koje djelo, uspoređeno s božanskom moći, najmanje; prema onome iz Iz 40: *Evo, narodi su kao kap iz vjedra i smatraju se kao trunak na tezulji*. Nego se nešto naziva čudom u usporedbi sa sposobnošću naravi, koju nadilazi. I zato, koliko više nadilazi sposobnost naravi, toliko se naziva većim čudom. A nešto nadilazi sposobnost naravi trostruko. Na jedan način, s obzirom na supstanciju učinjenoga, kao da dva tijela budu zajedno, ili da se sunce vrati unatrag, ili da se ljudsko tijelo proslavi; što narav nipošto ne može učiniti. I ta zauzimaju najviši stupanj među čudima. Na drugi način nešto nadilazi sposobnost naravi ne s obzirom na ono što se čini, nego s obzirom na ono u čemu se čini, kao uskrišenje mrtvih, prosvjetljenje slijepih i slično. Jer narav može uzrokovati život, ali ne u mrtvome, i može pružiti vid, ali ne slijepome. I ta zauzimaju drugo mjesto među čudima. Na treći način nešto nadilazi sposobnost naravi s obzirom na način i red činjenja, kao kad netko božanskom snagom iznenada bude izliječen od groznice bez liječenja i bez uobičajenog tijeka naravi u takvim stvarima; i kad se zrak božanskom snagom odmah zgusne u kišu bez naravnih uzroka, kao što se dogodilo na molitve Samuela i Ilije. I takva zauzimaju najniže mjesto među čudima. Svako od njih ipak ima različite stupnjeve, prema tome kako različito nadilaze sposobnost naravi.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q105.a8.adarg": {
+      "text": "I time je očito rješenje prigovora, koji polaze od strane božanske moći.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    }
+  }
+}

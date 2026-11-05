@@ -1,0 +1,120 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 100,
+  "units": {
+    "I.q100.pr": {
+      "text": "Zatim treba razmotriti stanje potomstva koje se trebalo roditi s obzirom na pravednost. I u vezi s tim pitaju se dvije stvari. Prvo, bi li se ljudi rodili s pravednošću. Drugo, bi li se rađali utvrđeni u pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se ljudi ne bi rodili s pravednošću. Hugo od Svetoga Viktora, naime, kaže da bi *prvi čovjek prije grijeha rađao sinove bez grijeha, ali ne baštinike očeve pravednosti*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a1.obj2": {
+      "text": "Osim toga, pravednost je po milosti, kako kaže Apostol u Poslanici Rimljanima 5. Ali milost se ne prenosi, jer bi tako bila naravna, nego je ulijeva samo Bog. Dakle, djeca se ne bi rodila s pravednošću.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a1.obj3": {
+      "text": "Osim toga, pravednost je u duši. Ali duša nije od prijenosa. Dakle, ni pravednost ne bi bila prenesena s roditelja na djecu.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Anselmo u knjizi O djevičanskom začeću: *oni koje bi čovjek rodio, da nije zgriješio, bili bi pravedni istodobno kad bi imali razumsku dušu*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a1.resp": {
+      "text": "Odgovaram: treba reći da čovjek po naravi rađa sebi slično po vrsti. Zato u svim akcidentima koji slijede iz naravi vrste nužno je da sinovi budu slični roditeljima, osim ako ne bi bilo pogreške u djelovanju naravi, a nje ne bi bilo u stanju nevinosti. U individualnim pak akcidentima nije nužno da sinovi budu slični roditeljima. A izvorna pravednost, u kojoj je prvi čovjek bio stvoren, bila je akcident naravi vrste, ne kao da je prouzrokovan iz počela vrste, nego kao neki dar od Boga dan cijeloj naravi. I to se pokazuje po tome što su suprotstavljene stvari jednoga roda, a za izvorni grijeh, koji se suprotstavlja onoj pravednosti, kaže se da je grijeh naravi; zato se prenosi s roditelja na potomke. I zbog toga bi i sinovi bili slični roditeljima s obzirom na izvornu pravednost.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Hugonovu riječ treba shvatiti ne s obzirom na habitus pravednosti, nego s obzirom na izvršenje čina.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a1.ad2": {
+      "text": "Na drugo treba reći da neki kažu da se djeca ne bi rodila s darovanom pravednošću, koja je počelo zasluživanja, nego s izvornom pravednošću. Ali budući da se korijen izvorne pravednosti, u čijoj je ispravnosti čovjek stvoren, sastoji u nadnaravnoj podložnosti razuma Bogu, koja je po milosti koja čini ugodnim, kako je gore rečeno, nužno je reći da bi se djeca, da su se rodila u izvornoj pravednosti, rodila i s milošću; kao što smo i o prvom čovjeku gore rekli da je bio stvoren s milošću. Ipak zbog toga milost ne bi bila naravna, jer ne bi bila prenesena snagom sjemena, nego bi bila podijeljena čovjeku čim bi imao razumsku dušu. Kao što i Bog ulijeva razumsku dušu čim je tijelo raspoloženo, a ona ipak nije od prijenosa.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a1.ad3": {
+      "text": "Odatle je jasno rješenje na treće.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da bi se djeca u stanju nevinosti rađala utvrđena u pravednosti. Grgur, naime, u IV. knjizi Moralija, tumačeći riječi, kaže: *u snu svojem počivao bih itd.: kad prvoga roditelja ne bi pokvarila nikakva trulež grijeha, nipošto ne bi od sebe rađao sinove pakla; nego bi se od njega rađali samo izabrani, oni koji sada trebaju biti spašeni po Otkupitelju*. Dakle, svi bi se rađali utvrđeni u pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a2.obj2": {
+      "text": "Osim toga, Anselmo kaže u knjizi Zašto je Bog postao čovjekom da bi se, *kad bi prvi roditelji bili tako živjeli da u kušnji ne zgriješe, bili utvrdili sa svim svojim potomstvom tako da više ne bi mogli griješiti*. Dakle, djeca bi se rađala utvrđena u pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a2.obj3": {
+      "text": "Osim toga, dobro je moćnije od zla. Ali zbog grijeha prvoga čovjeka uslijedila je nužnost griješenja u onima koji se rađaju od njega. Dakle, da je prvi čovjek ustrajao u pravednosti, na potomke bi se prenijela nužnost obdržavanja pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a2.obj4": {
+      "text": "Osim toga, anđeo koji je prianjao uz Boga dok su drugi griješili odmah je bio utvrđen u pravednosti, tako da više ne bi mogao griješiti. Dakle, isto bi tako i čovjek, da se oduprio kušnji, bio utvrđen. Ali kakav je on sam bio, takve bi i druge rađao. Dakle, i njegovi bi se sinovi rađali utvrđeni u pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XIV. knjizi O Božjem gradu: *tako bi sretno bilo cijelo ljudsko društvo kad ni oni*, naime prvi roditelji, *ne bi počinili zlo koje bi prenijeli na potomke, niti bi itko od njihova roda počinio nepravdu koja bi zaslužila osudu*. Iz toga se daje razumjeti da su, i da prvi ljudi nisu zgriješili, neki iz njihova roda mogli počiniti nepravdu. Dakle, ne bi se rađali utvrđeni u pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a2.resp": {
+      "text": "Odgovaram: treba reći da se ne čini mogućim da bi se djeca u stanju nevinosti rađala utvrđena u pravednosti. Očito je, naime, da djeca pri svojem rođenju ne bi imala više savršenosti nego njihovi roditelji u stanju rađanja. A roditelji, dokle god bi rađali, ne bi bili utvrđeni u pravednosti. Razumski se, naime, stvor utvrđuje u pravednosti time što postaje blažen otvorenim gledanjem Boga, uz kojega, kad ga gleda, ne može ne prianjati, budući da je on sama bit dobrote, od koje se nitko ne može odvratiti, jer se ništa ne želi i ne ljubi osim pod vidom dobra. A to kažem prema općem zakonu, jer se po nekoj posebnoj povlastici može dogoditi drukčije, kako se vjeruje o Djevici, Majci Božjoj. A čim bi Adam došao do onoga blaženstva da gleda Boga po biti, postao bi duhovan i pameću i tijelom, i prestao bi životinjski život, u kojem bi jedino bilo uporabe rađanja. Zato je očito da se malena djeca ne bi rađala utvrđena u pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Adam, da nije zgriješio, ne bi od sebe rađao sinove pakla, naime tako da bi od njega navukli grijeh, koji je uzrok pakla. Ipak su mogli postati sinovi pakla griješeći po slobodnom odlučivanju. Ili, ako ne bi postali sinovi pakla po grijehu, to ne bi bilo zato što bi bili utvrđeni u pravednosti, nego zbog božanske providnosti, po kojoj bi bili sačuvani slobodni od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a2.ad2": {
+      "text": "Na drugo treba reći da Anselmo to ne kaže tvrdeći, nego mnijući. To je jasno iz samoga načina govora, kad kaže: »čini se da, kad bi bili živjeli« i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a2.ad3": {
+      "text": "Na treće treba reći da taj razlog nije uvjerljiv, premda se čini da je on potaknuo Anselma, kako se vidi iz njegovih riječi. Jer potomci prvoga roditelja ne zapadaju po njegovu grijehu u nužnost griješenja tako da se ne bi mogli vratiti pravednosti, što je samo u osuđenima. Zato ni on ne bi bio prenio na potomke nužnost negriješenja tako da uopće ne bi mogli griješiti, što je samo u blaženima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q100.a2.ad4": {
+      "text": "Na četvrto treba reći da nije slično s čovjekom i s anđelom. Jer čovjek ima slobodno odlučivanje promjenljivo i prije izbora i poslije, a anđeo nema, kako je gore rečeno kad se raspravljalo o anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    }
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 103,
+  "units": {
+    "I.q103.pr": {
+      "text": "Nakon što je prethodno raspravljeno o stvaranju stvari i o njihovu razlikovanju, preostaje sada, treće, razmotriti upravljanje stvarima. I to najprije općenito; drugo, posebno o učincima upravljanja. Glede prvoga pita se osam stvari. Prvo, upravlja li netko svijetom. Drugo, koja je svrha upravljanja njime. Treće, upravlja li njime jedan. Četvrto, o učincima upravljanja. Peto, podliježe li sve božanskom upravljanju. Šesto, upravlja li Bog svime neposredno. Sedmo, može li se božansko upravljanje u nečemu osujetiti. Osmo, opire li se nešto božanskoj providnosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da svijetom nitko ne upravlja. Upravlja se, naime, onim stvarima koje se gibaju ili djeluju radi svrhe. Ali prirodne stvari, koje su velik dio svijeta, ne gibaju se niti djeluju radi svrhe, jer ne spoznaju svrhu. Dakle, svijetom se ne upravlja.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a1.obj2": {
+      "text": "Osim toga, u vlastitom smislu upravlja se onim što se giba prema nečemu. Ali čini se da se svijet ne giba prema nečemu, nego u sebi ima postojanost. Dakle, njime se ne upravlja.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a1.obj3": {
+      "text": "Osim toga, ono što u sebi ima nužnost kojom je određeno na jedno ne treba izvanjskoga upravitelja. Ali glavniji dijelovi svijeta stanovitom su nužnošću određeni na jedno u svojim činima i gibanjima. Dakle, svijetu nije potrebno upravljanje.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mudr 14: *a ti, Oče, providnošću svime upravljaš*. I Boetije kaže u knjizi O utjesi filozofije: *o ti koji trajnim razumom upravljaš svijetom*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a1.resp": {
+      "text": "Odgovaram: treba reći da su neki stari filozofi svijetu oduzeli upravljanje, govoreći da se sve događa nasumce. Ali to se stajalište pokazuje nemogućim iz dvaju razloga. Prvo, iz onoga što se očituje u samim stvarima. Vidimo, naime, da se u prirodnim stvarima događa ono što je bolje, bilo uvijek bilo u većini slučajeva; a to se ne bi događalo kad prirodne stvari ne bi neka providnost usmjeravala prema svrsi dobra, a to je upravljati. Stoga sam čvrsti red stvari očito dokazuje upravljanje svijetom; kao kad bi netko ušao u dobro uređenu kuću, iz samoga bi uređenja kuće prosudio o razumu onoga koji ju je uredio, kako to, prema Aristotelovim riječima, navodi Tulije u knjizi O naravi bogova. Drugo, isto se očituje iz razmatranja božanske dobrote, po kojoj su stvari proizvedene u bitak, kao što je jasno iz rečenoga gore. Budući da je, naime, svojstveno najboljemu proizvoditi ono najbolje, nije prikladno najvišoj Božjoj dobroti da stvari koje je proizveo ne dovede do savršenosti. A posljednja je savršenost svake stvari u postizanju svrhe. Stoga božanskoj dobroti pripada da, kao što je stvari proizvela u bitak, tako ih i dovede do svrhe. A to je upravljati.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se nešto giba ili djeluje radi svrhe na dva načina. Na jedan način, kao ono što samo sebe vodi prema svrsi, poput čovjeka i drugih razumskih stvorova; i takvima je svojstveno spoznavati pojam svrhe i onoga što vodi k svrsi. Za nešto se pak kaže da se giba ili djeluje radi svrhe kao ono što je od drugoga vođeno ili usmjereno prema svrsi, kao što se strijela giba prema cilju usmjerena od strijelca, koji spoznaje svrhu, a ne strijela. Stoga, kao što gibanje strijele prema određenoj svrsi jasno dokazuje da strijelu usmjerava netko tko spoznaje, tako čvrsti tijek prirodnih stvari lišenih spoznaje očito pokazuje da se svijetom upravlja nekim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a1.ad2": {
+      "text": "Na drugo treba reći da u svim stvorenim stvarima postoji nešto postojano, barem prva tvar, i nešto što pripada gibanju, ako pod gibanjem obuhvatimo i djelovanje. I glede jednoga i drugoga stvar treba upravljanje, jer bi i samo ono što je u stvarima postojano palo u ništa (budući da je iz ničega) kad ga ne bi čuvala ruka upravitelja, kao što će biti jasno niže.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a1.ad3": {
+      "text": "Na treće treba reći da je prirodna nužnost usađena u stvari koje su određene na jedno stanoviti utisak Boga koji usmjerava prema svrsi, kao što je nužnost kojom je strijela tjerana da teži prema određenom cilju utisak strijelca, a ne strijele. Ali razlika je u tome što je ono što stvorovi primaju od Boga njihova narav, dok ono što čovjek utiskuje prirodnim stvarima mimo njihove naravi pripada nasilju. Stoga, kao što nužnost nasilja u gibanju strijele dokazuje usmjeravanje strijelca, tako prirodna nužnost stvorova dokazuje upravljanje božanske providnosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da svrha upravljanja svijetom nije nešto što postoji izvan svijeta. Svrha je, naime, upravljanja nekom stvari ono do čega se dovodi stvar kojom se upravlja. Ali ono do čega se neka stvar dovodi jest neko dobro u samoj stvari, kao što se bolesnik dovodi do zdravlja, koje je neko dobro u njemu samome. Dakle, svrha upravljanja stvarima nije neko izvanjsko dobro, nego neko dobro koje postoji u samim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a2.obj2": {
+      "text": "Osim toga, Filozof kaže u I. knjizi Etike da *od svrha neke su djelovanja, a neke djela*, to jest ono što je izrađeno. Ali ništa izvanjsko u odnosu na cijeli svemir ne može biti izrađeno, a djelovanje je u samima koji djeluju. Dakle, ništa izvanjsko ne može biti svrha upravljanja stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a2.obj3": {
+      "text": "Osim toga, čini se da je dobro mnoštva red i mir, koji je spokoj reda, kako kaže Augustin u XIX. knjizi O Božjem gradu. Ali svijet se sastoji u stanovitom mnoštvu stvari. Dakle, svrha upravljanja svijetom jest mirni red koji je u samim stvarima. Svrha upravljanja stvarima, dakle, nije neko izvanjsko dobro.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izr 16: *sve je radi sebe učinio Gospodin*. A on je izvan cijeloga reda svemira. Dakle, svrha je stvari neko izvanjsko dobro.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a2.resp": {
+      "text": "Odgovaram: treba reći da, budući da svrha odgovara počelu, ne može biti da se, kad je počelo spoznato, ne zna koja je svrha stvari. Budući, dakle, da je počelo stvari nešto izvanjsko u odnosu na cijeli svemir, naime Bog, kao što je jasno iz rečenoga gore, nužno je da i svrha stvari bude neko izvanjsko dobro. I to se pokazuje razlogom. Očito je, naime, da dobro ima pojam svrhe. Stoga je posebna svrha neke stvari neko posebno dobro, a opća svrha svih stvari neko opće dobro. Opće je pak dobro ono što je dobro po sebi i po svojoj biti, a to je sama bit dobrote; posebno je pak dobro ono što je dobro po sudjelovanju. A očito je da u cijeloj cjelokupnosti stvorova nema nijednoga dobra koje ne bi bilo dobro po sudjelovanju. Stoga ono dobro koje je svrha cijeloga svemira mora biti izvanjsko u odnosu na cijeli svemir.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da neko dobro postižemo na više načina: na jedan način, kao formu koja postoji u nama, poput zdravlja ili znanja; na drugi način, kao nešto što smo mi izradili, kao što graditelj postiže svrhu gradeći kuću; na treći način, kao neko dobro koje se ima ili posjeduje, kao što onaj koji kupuje postiže svrhu posjedujući njivu. Stoga ništa ne priječi da ono do čega se dovodi svemir bude neko izvanjsko dobro.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a2.ad2": {
+      "text": "Na drugo treba reći da Filozof govori o svrhama umijeća, od kojih neka imaju za svrhu sama djelovanja, kao što je svrha citraša svirati citru; a neka imaju za svrhu nešto izrađeno, kao što svrha graditelja nije graditi, nego kuća. Događa se pak da je nešto izvanjsko svrha ne samo kao ono što je izrađeno, nego i kao ono što se posjeduje ili ima, ili pak kao ono što se prikazuje, kao kad bismo rekli da je Herkul svrha slike koja se izrađuje da bi ga prikazala. Tako se, dakle, može reći da je dobro izvanjsko u odnosu na cijeli svemir svrha upravljanja stvarima kao ono što se ima i prikazuje, jer svaka stvar teži za tim da ima udjela u njemu i da mu se upodobi koliko može.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a2.ad3": {
+      "text": "Na treće treba reći da je svrha svemira doduše neko dobro koje postoji u njemu, naime red samoga svemira; ali to dobro nije posljednja svrha, nego je usmjereno prema izvanjskom dobru kao prema posljednjoj svrsi, kao što je i red vojske usmjeren prema vojskovođi, kako se kaže u XII. knjizi Metafizike.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da svijetom ne upravlja jedan. O uzroku, naime, sudimo po učincima. Ali u upravljanju stvarima očituje se da se stvari ne gibaju i ne djeluju jednoliko: neke, naime, kontingentno, neke pak iz nužnosti, i prema drugim razlikama. Dakle, svijetom ne upravlja jedan.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a3.obj2": {
+      "text": "Osim toga, ono čime upravlja jedan ne razilazi se međusobno osim zbog neumješnosti ili nemoći upravitelja, a to je daleko od Boga. Ali stvorene se stvari međusobno razilaze i bore se jedna protiv druge, kao što se očituje u protivnima. Dakle, svijetom ne upravlja jedan.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a3.obj3": {
+      "text": "Osim toga, u prirodi se uvijek nalazi ono što je bolje. Ali bolje je da su dvojica zajedno nego jedan, kako se kaže u Prop 4. Dakle, svijetom ne upravlja jedan, nego više njih.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a3.sc": {
+      "text": "Ali protiv toga je to što ispovijedamo jednoga Boga i jednoga Gospodina, prema onoj Apostolovoj u 1 Kor 8: *nama je jedan Bog, Otac, i jedan Gospodin*. A jedno i drugo pripada upravljanju: Gospodinu, naime, pripada upravljanje podložnicima, a ime Bog uzeto je od providnosti, kao što je rečeno gore. Dakle, svijetom upravlja jedan.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a3.resp": {
+      "text": "Odgovaram: treba reći da je nužno reći da svijetom upravlja jedan. Budući da je, naime, svrha upravljanja svijetom ono što je dobro po biti, a to je ono najbolje, nužno je da upravljanje svijetom bude najbolje. A najbolje je ono upravljanje koje se vrši po jednome. Razlog je tomu što upravljanje nije ništa drugo nego usmjeravanje onih kojima se upravlja prema svrsi, koja je neko dobro. A jedinstvo pripada pojmu dobrote, kao što Boetije dokazuje u III. knjizi O utjesi filozofije time što, kao što sve žudi za dobrom, tako žudi i za jedinstvom, bez kojega ne može biti. Jer svaka stvar utoliko jest ukoliko je jedno; stoga vidimo da se stvari opiru svojoj podjeli koliko mogu i da raspadanje svake stvari proizlazi iz nedostatka te stvari. Zato je ono za čim teži nakana onoga koji upravlja mnoštvom jedinstvo ili mir. A uzrok jedinstva po sebi jest jedno. Očito je, naime, da više njih ne može ujediniti i uskladiti mnoge stvari ako i sami nisu na neki način ujedinjeni. A ono što je po sebi jedno može prikladnije i bolje biti uzrok jedinstva nego mnogi ujedinjeni. Stoga se mnoštvom bolje upravlja po jednome nego po više njih. Preostaje, dakle, da upravljanje svijetom, koje je najbolje, potječe od jednoga upravitelja. I to je ono što Filozof kaže u XII. knjizi Metafizike: *bića ne žele da budu loše raspoređena, a mnoštvo vladavina nije dobro; dakle, neka bude jedan vladar*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je gibanje čin pokretljivoga od pokretača. Nejednolikost gibanja, dakle, potječe od raznolikosti pokretljivih stvari, koju zahtijeva savršenost svemira, kao što je rečeno gore, a ne od raznolikosti upravitelja.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a3.ad2": {
+      "text": "Na drugo treba reći da se protivne stvari, premda se razilaze glede bližih svrha, ipak slažu glede posljednje svrhe, ukoliko su obuhvaćene jednim redom svemira.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a3.ad3": {
+      "text": "Na treće treba reći da su kod posebnih dobara dva bolja od jednoga, ali onomu što je dobro po biti ne može se dodati nikakva dobrota.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je učinak upravljanja svijetom samo jedan, a ne više njih. Čini se, naime, da je učinak upravljanja ono što se upravljanjem prouzrokuje u stvarima kojima se upravlja. A to je jedno, naime dobro reda, kao što je jasno kod vojske. Dakle, upravljanje svijetom ima jedan učinak.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a4.obj2": {
+      "text": "Osim toga, od jednoga po naravi izlazi samo jedno. Ali svijetom upravlja jedan, kao što je pokazano. Dakle, i učinak je upravljanja samo jedan.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a4.obj3": {
+      "text": "Osim toga, ako učinak upravljanja nije samo jedan zbog jedinstva upravitelja, mora se umnažati prema mnoštvu onih kojima se upravlja. A njih je za nas bezbroj. Dakle, učinci se upravljanja ne mogu obuhvatiti nekim određenim brojem.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Dionizije, da *božanstvo savršenom providnošću i dobrotom sve sadrži i samim sobom ispunja*. A upravljanje pripada providnosti. Dakle, božansko upravljanje ima neke određene učinke.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a4.resp": {
+      "text": "Odgovaram: treba reći da se učinak svake radnje može procijeniti iz njezine svrhe, jer se djelovanjem postiže da se dospije do svrhe. A svrha upravljanja svijetom jest bitno dobro, prema sudjelovanju u kojemu i upodobljenju kojemu sve teži. Učinak se upravljanja, dakle, može uzeti na tri načina. Na jedan način, sa strane same svrhe; i tako je jedan učinak upravljanja, naime upodobiti se najvišem dobru. Na drugi se način učinak upravljanja može razmatrati prema onomu čime se stvor dovodi do upodobljenja Bogu. I tako su općenito dva učinka upravljanja. Stvor se, naime, upodobljuje Bogu glede dvoga: glede toga što je Bog dobar, ukoliko je stvor dobar; i glede toga što je Bog drugima uzrok dobrote, ukoliko jedan stvor pokreće drugoga prema dobroti. Stoga su dva učinka upravljanja, naime održavanje stvari u dobru i njihovo pokretanje prema dobru. Na treći se način učinak upravljanja može razmatrati u pojedinostima; i tako ih je za nas bezbroj.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da red svemira uključuje u sebi i održavanje različitih stvari koje je Bog ustanovio i njihovo pokretanje, jer se prema tome dvoma nalazi red u stvarima: naime prema tome što je jedna bolja od druge i prema tome što jednu pokreće druga.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a4.ad2": {
+      "text": "Na ostalo dvoje odgovor je jasan iz onoga što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da nije sve podložno božanskom upravljanju. Kaže se, naime, u Prop 9: *vidjeh pod suncem da trka nije brzih, ni boj jakih, ni kruh mudrih, ni bogatstvo učenih, ni naklonost vještih, nego da je vrijeme i slučaj u svemu*. A ono što podliježe nečijem upravljanju nije slučajno. Dakle, ono što je pod suncem nije podložno božanskom upravljanju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a5.obj2": {
+      "text": "Osim toga, Apostol kaže u 1 Kor 9 da *Bog nema brige za volove*. Ali svatko ima brigu za ono čime upravlja. Dakle, nije sve podložno božanskom upravljanju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a5.obj3": {
+      "text": "Osim toga, čini se da ono što može upravljati samim sobom ne treba tuđe upravljanje. Ali razumski stvor može upravljati samim sobom, jer ima gospodstvo nad svojim činom i djeluje sam po sebi, a ne samo da biva vođen od drugoga, što se čini da je svojstveno onomu čime se upravlja. Dakle, nije sve podložno božanskom upravljanju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u V. knjizi O Božjem gradu, da *Bog ne samo nebo i zemlju, ne samo čovjeka i anđela, nego ni utrobu sitne i prezrene životinjice, ni perce ptice, ni cvjetić trave, ni list drveta nije ostavio bez sklada njihovih dijelova*. Sve je, dakle, podložno njegovu upravljanju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a5.resp": {
+      "text": "Odgovaram: treba reći da prema istom razlogu Bogu pripada biti upravitelj stvari i njihov uzrok, jer je na istomu da proizvede stvar i da joj dade savršenost, a to pripada onomu koji upravlja. A Bog nije posebni uzrok jednoga roda stvari, nego opći uzrok svega bića, kao što je pokazano gore. Stoga, kao što ne može biti ničega što nije stvorio Bog, tako ne može biti ničega što ne bi bilo podložno njegovu upravljanju. To je isto jasno i iz pojma svrhe. Nečije se upravljanje, naime, proteže utoliko koliko se može protezati svrha upravljanja. A svrha božanskog upravljanja jest sama njegova dobrota, kao što je pokazano gore. Budući, dakle, da ne može biti ničega što ne bi bilo usmjereno prema božanskoj dobroti kao prema svrsi, kao što je jasno iz rečenoga gore, nemoguće je da se ijedno od bića izuzme od božanskog upravljanja. Ludo je, dakle, bilo mnijenje onih koji su govorili da ovim nižim propadljivim stvarima, ili također pojedinačnim stvarima, ili pak ljudskim stvarima Bog ne upravlja. U njihovo se ime kaže u Ez 9: *Gospodin je napustio zemlju*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se kaže da je pod suncem ono što nastaje i propada prema gibanju sunca. U svemu se tome nalazi slučaj; ne tako da je sve što se u tome događa slučajno, nego zato što se u bilo čemu od toga može naći nešto slučajno. A upravo to što se u takvim stvarima nalazi nešto slučajno dokazuje da su one podložne nečijem upravljanju. Kad, naime, takvim propadljivim stvarima ne bi upravljalo nešto više, one ne bi bile usmjerene ni prema čemu, ponajviše one koje ne spoznaju; i tako se u njima ne bi događalo ništa mimo nakane, a to čini pojam slučaja. Stoga, da bi pokazao kako slučajne stvari proizlaze prema redu nekoga višeg uzroka, ne kaže naprosto da je vidio slučaj u svemu, nego kaže vrijeme i slučaj; naime zato što se prema nekom redu vremena u tim stvarima nalaze slučajni nedostaci.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a5.ad2": {
+      "text": "Na drugo treba reći da je upravljanje stanovita promjena onih kojima se upravlja od strane upravitelja. A svako je gibanje čin pokretljivoga od pokretača, kako se kaže u III. knjizi Fizike. A svaki je čin razmjeran onomu čiji je čin. I tako je nužno da se različite pokretljive stvari pokreću na različit način, čak i pri pokretanju od jednoga pokretača. Tako se, dakle, prema jednom umijeću Boga koji upravlja stvarima upravlja na različit način, prema njihovoj različitosti. Neke su, naime, po svojoj naravi po sebi djelatne, kao one koje imaju gospodstvo nad svojim činom; i njima Bog upravlja ne samo time što ih pokreće sam Bog koji u njima iznutra djeluje, nego i time što ih potiče na dobro i odvraća od zla zapovijedima i zabranama, nagradama i kaznama. Ali na taj način Bog ne upravlja nerazumskim stvorovima, koji samo bivaju vođeni, a ne djeluju. Kad, dakle, Apostol kaže da Bog nema brige za volove, ne izuzima volove potpuno od brige božanskog upravljanja, nego samo glede načina koji u vlastitom smislu pripada razumskom stvoru.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a5.ad3": {
+      "text": "Na treće treba reći da razumski stvor upravlja samim sobom po umu i volji, od kojih i jedno i drugo treba da ih Božji um i volja vode i usavršuju. I zato, iznad upravljanja kojim razumski stvor upravlja samim sobom kao gospodar svojega čina, treba da njime upravlja Bog.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da Bog svime upravlja neposredno. Grgur iz Nise, naime, kudi mnijenje Platona, koji je providnost podijelio na tri: prvu, providnost prvoga Boga, koji se brine za nebeske stvari i za sve opće stvari; za drugu je pak providnost rekao da pripada drugotnim bogovima, koji obilaze nebo, naime s obzirom na ono što je podložno nastajanju i propadanju; za treću je pak providnost rekao da pripada nekim demonima, koji su oko zemlje čuvari ljudskih radnji. Dakle, čini se da Bog svime upravlja neposredno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a6.obj2": {
+      "text": "Osim toga, bolje je da se nešto učini po jednome nego po mnogima, ako je moguće, kako se kaže u VIII. knjizi Fizike. Ali Bog može sam po sebi, bez posrednih uzroka, upravljati svime. Dakle, čini se da svime upravlja neposredno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a6.obj3": {
+      "text": "Osim toga, u Bogu nema ničega manjkavoga i nesavršenoga. Ali čini se da nedostatku upravitelja pripada to da upravlja posredstvom nekih drugih; kao što zemaljski kralj, budući da nije dostatan da sve izvrši niti je posvuda prisutan u svojem kraljevstvu, zbog toga mora imati službenike svojega upravljanja. Dakle, Bog svime upravlja neposredno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u III. knjizi O Trojstvu: *kao što se grubljim i nižim tijelima nekim redom vlada po tanjim i moćnijim, tako se svim tijelima vlada po razumskom duhu života, a razumskim duhom života koji je otpadnik i grešnik po razumskom duhu života koji je pobožan i pravedan, a njime po samome Bogu*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a6.resp": {
+      "text": "Odgovaram: treba reći da u upravljanju treba razmotriti dvoje, naime nacrt upravljanja, koji je sama providnost, i izvršenje. Što se, dakle, tiče nacrta upravljanja, Bog svime upravlja neposredno; a što se tiče izvršenja upravljanja, Bog nekim stvarima upravlja posredstvom drugih. Razlog je tomu što, budući da je Bog sama bit dobrote, svaku stvar treba Bogu pripisati prema onome što je u njoj najbolje. A ono najbolje u svakom rodu, bilo razuma bilo praktične spoznaje, kakav je nacrt upravljanja, sastoji se u tome da se spoznaju pojedinosti, u kojima je čin; kao što najbolji liječnik nije onaj koji razmatra samo općenitosti, nego onaj koji može razmatrati i najsitnije pojedinosti; i isto je jasno u ostalome. Stoga treba reći da Bog ima nacrt upravljanja i za sve najsitnije pojedinosti. Ali budući da stvari kojima se upravlja upravljanjem treba dovesti do savršenosti, upravljanje će biti to bolje što upravitelj veću savršenost priopćuje stvarima kojima upravlja. A veća je savršenost da nešto bude dobro u sebi i da bude i drugima uzrok dobrote nego da je samo u sebi dobro. Zato Bog tako upravlja stvarima da neke od njih postavlja kao uzroke drugima u upravljanju; kao kad bi neki učitelj svoje učenike učinio ne samo znalcima, nego i učiteljima drugih.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se Platonovo mnijenje kudi zato što je i glede nacrta upravljanja postavio da Bog ne upravlja svime neposredno. To je jasno iz toga što je na tri podijelio providnost, koja je nacrt upravljanja.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a6.ad2": {
+      "text": "Na drugo treba reći da, kad bi upravljao samo Bog, stvarima bi se oduzela savršenost uzročnosti. Stoga ono što se čini po mnogima ne bi se u cjelini činilo po jednome.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a6.ad3": {
+      "text": "Na treće treba reći da to što ima izvršitelje svojega upravljanja ne pripada samo nesavršenosti zemaljskoga kralja, nego i kraljevu dostojanstvu, jer po redu službenika kraljevska vlast postaje sjajnija.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se nešto može dogoditi mimo reda božanskog upravljanja. Boetije, naime, kaže u III. knjizi O utjesi filozofije da *Bog po dobru sve raspoređuje*. Ako se, dakle, ništa u stvarima ne događa mimo reda božanskog upravljanja, slijedilo bi da u stvarima nema nikakva zla.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a7.obj2": {
+      "text": "Osim toga, ništa nije slučajno što se događa prema prethodnom uređenju nekog upravitelja. Ako se, dakle, ništa u stvarima ne događa mimo reda božanskog upravljanja, slijedi da u stvarima nema ničega nasumičnog i slučajnog.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a7.obj3": {
+      "text": "Osim toga, red božanskog upravljanja čvrst je i nepromjenljiv, jer je u skladu s vječnim pojmom. Ako se, dakle, ništa u stvarima ne može dogoditi mimo reda božanskog upravljanja, slijedi da se sve događa iz nužnosti i da u stvarima nema ničega kontingentnog, što je neprikladno. Dakle, u stvarima se može dogoditi nešto mimo reda božanskog upravljanja.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Est 13: *Gospodine Bože, svemogući kralju, u tvoju je vlast sve postavljeno i nema nikoga tko bi se mogao oduprijeti tvojoj volji*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a7.resp": {
+      "text": "Odgovaram: treba reći da se mimo reda nekoga posebnog uzroka može dogoditi neki učinak, ali ne mimo reda općeg uzroka. Razlog je tomu što se mimo reda posebnog uzroka ništa ne događa osim zbog nekoga drugog uzroka koji priječi, a taj je uzrok nužno svesti na prvi opći uzrok; kao što se loša probava događa mimo reda hranidbene snage zbog neke zapreke, primjerice zbog grubosti hrane, koju je nužno svesti na neki drugi uzrok, i tako sve do prvoga općeg uzroka. Budući, dakle, da je Bog prvi opći uzrok, ne samo jednoga roda, nego općenito svega bića, nemoguće je da se išta dogodi mimo reda božanskog upravljanja; nego upravo time što se čini da nešto s jedne strane izlazi iz reda božanske providnosti koji se razmatra prema nekom posebnom uzroku, nužno je da se prema nekom drugom uzroku vrati u isti red.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u svijetu ne nalazi ništa što bi bilo potpuno zlo, jer je zlo uvijek utemeljeno u dobru, kao što je pokazano gore. I zato se za neku stvar kaže da je zla po tome što izlazi iz reda nekoga posebnog dobra. Kad bi pak potpuno izišla iz reda božanskog upravljanja, uopće ne bi bila ništa.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a7.ad2": {
+      "text": "Na drugo treba reći da se za neke stvari kaže da su u stvarima slučajne s obzirom na posebne uzroke, izvan čijega se reda događaju. Ali što se tiče božanske providnosti, ništa se u svijetu ne događa slučajno, kako kaže Augustin u knjizi Osamdeset i tri pitanja.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a7.ad3": {
+      "text": "Na treće treba reći da se neki učinci nazivaju kontingentnima u usporedbi s bližim uzrocima, koji u svojim učincima mogu zatajiti, a ne zato što bi se nešto moglo dogoditi izvan cijeloga reda božanskog upravljanja. Jer i samo to što se nešto događa mimo reda bližega uzroka potječe od nekog uzroka podložnog božanskom upravljanju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da se nešto može opirati redu božanskog upravljanja. Kaže se, naime, u Iz 3: *jezik njihov i izmišljotine njihove protiv Gospodina*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a8.obj2": {
+      "text": "Osim toga, nijedan kralj ne kažnjava pravedno one koji se ne protive njegovu uređenju. Kad se, dakle, ništa ne bi opiralo božanskom uređenju, Bog nikoga ne bi pravedno kažnjavao.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a8.obj3": {
+      "text": "Osim toga, svaka je stvar podložna redu božanskog upravljanja. Ali jednu stvar napada druga. Dakle, ima nekih stvari koje se opiru božanskom upravljanju.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Boetije u III. knjizi O utjesi filozofije: *nema ničega što bi se ovomu najvišem dobru htjelo ili moglo suprotstaviti. Najviše je, dakle, dobro ono koje snažno vlada svime i blago sve raspoređuje*, kako se kaže u Mudr 8 o božanskoj mudrosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a8.resp": {
+      "text": "Odgovaram: treba reći da se red božanske providnosti može razmatrati na dva načina: na jedan način općenito, naime ukoliko proizlazi od uzroka koji upravlja cjelinom; na drugi način posebno, naime ukoliko proizlazi od nekoga posebnog uzroka koji izvršava božansko upravljanje. Na prvi se, dakle, način ništa ne opire redu božanskog upravljanja. To je jasno iz dvoga. Prvo, iz toga što red božanskog upravljanja potpuno teži prema dobru, a svaka stvar u svojem djelovanju i nastojanju ne teži ni za čim drugim osim za dobrom; jer nitko ne djeluje gledajući na zlo, kako kaže Dionizije. Na drugi se način isto očituje iz toga što, kao što je rečeno gore, svaka sklonost neke stvari, bilo naravna bilo voljna, nije ništa drugo nego stanoviti utisak od prvoga pokretača; kao što sklonost strijele prema određenom cilju nije ništa drugo nego stanoviti utisak od strijelca. Stoga sve što djeluje, bilo po naravi bilo voljno, kao sámo od sebe dospijeva do onoga prema čemu je od Boga usmjereno. I zato se kaže da Bog sve raspoređuje blago.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za neke kaže da misle, govore ili djeluju protiv Boga, ne zato što se potpuno opiru redu božanskog upravljanja, jer i oni koji griješe nakanjuju neko dobro, nego zato što se opiru nekom određenom dobru koje im je prikladno prema njihovoj naravi ili stanju. I zato ih Bog pravedno kažnjava.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a8.ad2": {
+      "text": "I time je jasno rješenje na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    },
+    "I.q103.a8.ad3": {
+      "text": "Na treće treba reći da se time što se jedna stvar bori protiv druge pokazuje da se nešto može opirati redu koji potječe od nekoga posebnog uzroka, ali ne redu koji ovisi o općem uzroku cjeline.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:15+00:00"
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 109,
+  "units": {
+    "I.q109.pr": {
+      "text": "Zatim treba razmotriti uređenje zlih anđela. Glede toga postavljaju se četiri pitanja. Prvo, ima li u demonima redova. Drugo, ima li u njima nadređenosti. Treće, prosvjetljuje li jedan drugoga. Četvrto, jesu li podložni nadređenosti dobrih anđela.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u demonima nema redova. Red, naime, pripada pojmu dobra, kao i način i vrsta, kako kaže Augustin u knjizi O naravi dobra; i obratno, neurednost pripada pojmu zla. Ali u dobrim anđelima nema ničega neuređenoga. Dakle, u zlim anđelima nema nikakvih redova.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a1.obj2": {
+      "text": "Osim toga, anđeoski su redovi obuhvaćeni pod nekom hijerarhijom. Ali demoni nisu pod nikakvom hijerarhijom, koja je sveta vladavina, jer su lišeni svake svetosti. Dakle, u demonima nema redova.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a1.obj3": {
+      "text": "Osim toga, demoni su pali iz pojedinih redova anđela, kako se općenito kaže. Ako se, dakle, za neke demone kaže da su nekoga reda zato što su pali iz toga reda, čini se da bi im trebalo pripisivati imena pojedinih redova. Ali nigdje se ne nalazi da ih se naziva serafinima, prijestoljima ili gospodstvima. Dakle, iz istoga razloga, nisu ni u kakvim redovima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u posljednjem poglavlju Poslanice Efežanima, da *nam je borba protiv poglavara i vlasti, protiv upravitelja svijeta ovih tama*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a1.resp": {
+      "text": "Odgovaram: treba reći da se, kako je već rečeno, anđeoski red razmatra i prema stupnju naravi i prema stupnju milosti. A milost ima dvostruko stanje: nesavršeno, koje je stanje zasluživanja, i savršeno, koje je stanje dovršene slave. Ako se, dakle, anđeoski redovi razmatraju s obzirom na savršenost slave, tada demoni niti jesu u anđeoskim redovima niti su ikada bili. Ako se pak razmatraju s obzirom na ono što pripada nesavršenoj milosti, tada su demoni nekoć doduše bili u redovima anđela, ali su iz njih pali, prema onome što smo gore postavili, da su svi anđeli bili stvoreni u milosti. Ako se pak razmatraju s obzirom na ono što pripada naravi, tada su još u redovima, jer nisu izgubili naravne darove, kako kaže Dionizije.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se dobro može naći bez zla, ali zlo se ne može naći bez dobra, kako je gore utvrđeno. I zato su demoni, ukoliko imaju dobru narav, uređeni.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a1.ad2": {
+      "text": "Na drugo treba reći da je uređenje demona, ako se razmatra sa strane Boga koji uređuje, sveto, jer se on demonima služi radi samoga sebe. Ali sa strane volje demona nije sveto, jer oni svoju narav zlorabe za zlo.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a1.ad3": {
+      "text": "Na treće treba reći da se ime „serafini“ nadijeva po žaru ljubavi, ime „prijestolja“ po božanskom prebivanju, a ime „gospodstva“ uključuje neku slobodu; a sve se to protivi grijehu. I zato se takva imena ne pripisuju anđelima koji su sagriješili.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da u demonima nema nadređenosti. Svaka je, naime, nadređenost prema nekom redu pravednosti. Ali demoni su potpuno otpali od pravednosti. Dakle, u njima nema nadređenosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a2.obj2": {
+      "text": "Osim toga, gdje nema poslušnosti i podložnosti, nema nadređenosti. A one ne mogu biti bez sloge, koje u demonima nimalo nema, prema onome iz Izr 13: *među oholima uvijek su svađe*. Dakle, u demonima nema nadređenosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a2.obj3": {
+      "text": "Osim toga, ako u njima ima neke nadređenosti, to pripada ili njihovoj naravi ili njihovoj krivnji ili kazni. Ali ne pripada njihovoj naravi, jer podložnost i ropstvo nisu od naravi, nego su uslijedili iz grijeha. Niti pripada krivnji ili kazni, jer bi tada viši demoni, koji su više sagriješili, bili podložni nižima. Dakle, u demonima nema nadređenosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Glosa uz 1 Kor 15: *dok traje svijet, anđeli su nad anđelima, ljudi nad ljudima i demoni nad demonima*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a2.resp": {
+      "text": "Odgovaram: treba reći da, budući da radnja slijedi narav stvari, u svima čije su naravi međusobno uređene treba da i radnje budu podređene jedne drugima. Kao što je jasno u tjelesnim stvarima: budući da su, naime, niža tijela po naravnom redu ispod nebeskih tijela, njihove su radnje i gibanja podložni radnjama i gibanjima nebeskih tijela. A očito je iz rečenoga da su neki od demona po naravnom redu postavljeni pod druge. Stoga su i njihove radnje pod radnjama viših. I to je ono što čini pojam nadređenosti, naime da radnja podređenoga bude podložna radnji nadređenoga. Tako, dakle, sama naravna raspoloživost demona zahtijeva da u njima bude nadređenosti. To pristaje i božanskoj mudrosti, koja ništa u svemiru ne ostavlja neuređeno, *koja dopire od kraja do kraja snažno i sve raspoređuje blago*, kako se kaže u Mudr 8.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se nadređenost demona ne temelji na njihovoj pravednosti, nego na pravednosti Boga koji sve uređuje.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a2.ad2": {
+      "text": "Na drugo treba reći da sloga demona, po kojoj se neki pokoravaju drugima, nije od prijateljstva koje bi imali među sobom, nego od zajedničke pokvarenosti, kojom mrze ljude i protive se Božjoj pravednosti. Vlastito je, naime, bezbožnim ljudima da se pridružuju i podlažu onima za koje vide da su jači snagama, kako bi izvršili vlastitu pokvarenost.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a2.ad3": {
+      "text": "Na treće treba reći da demoni nisu jednaki po naravi, pa je u njima naravna nadređenost. To se kod ljudi ne događa, jer su po naravi jednaki. A to što su niži podložni višima nije na dobro viših, nego prije na njihovo zlo; jer budući da činiti zlo ponajviše pripada bijedi, biti nadređen u zlu znači biti bjedniji.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da u demonima ima prosvjetljivanja. Prosvjetljivanje se, naime, sastoji u očitovanju istine. Ali jedan demon može drugome očitovati istinu, jer se viši više ističu oštrinom naravnoga znanja. Dakle, viši demoni mogu prosvjetljivati niže.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a3.obj2": {
+      "text": "Osim toga, tijelo koje obiluje svjetlom može prosvijetliti tijelo kojemu nedostaje svjetla, kao sunce mjesec. Ali viši demoni više obiluju sudjelovanjem u naravnom svjetlu. Dakle, čini se da viši demoni mogu prosvjetljivati niže.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a3.sc": {
+      "text": "Ali protiv toga, prosvjetljivanje je zajedno s čišćenjem i usavršavanjem, kako je gore rečeno. Ali čistiti ne pristaje demonima, prema onome iz Sir 34: *od nečistoga što će se očistiti?* Dakle, ni prosvjetljivati.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a3.resp": {
+      "text": "Odgovaram: treba reći da u demonima ne može biti prosvjetljivanja u vlastitom smislu. Gore je, naime, rečeno da je prosvjetljivanje u vlastitom smislu očitovanje istine ukoliko je usmjereno prema Bogu, koji prosvjetljuje svaki um. Drugo pak očitovanje istine može biti govor, kao kad jedan anđeo drugome očituje svoju zamisao. A izopačenost demona ima to da jedan drugoga ne nakani usmjeriti prema Bogu, nego ga prije odvesti od božanskoga reda. I zato jedan demon ne prosvjetljuje drugoga, ali jedan drugome može priopćiti svoju zamisao na način govora.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da nema svako očitovanje istine pojam prosvjetljivanja, nego samo ono koje je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a3.ad2": {
+      "text": "Na drugo treba reći da s obzirom na ono što pripada naravnoj spoznaji nije potrebno očitovanje istine ni u anđelima ni u demonima, jer su, kako je gore rečeno, odmah od početka svojega stvaranja spoznali sve što pripada naravnoj spoznaji. I zato veća punina naravnoga svjetla koja je u višim demonima ne može biti razlog prosvjetljivanja.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da dobri anđeli nemaju nadređenosti nad zlima. Nadređenost se anđela, naime, ponajprije uzima prema prosvjetljenjima. Ali zli anđeli, budući da su tama, ne bivaju prosvijetljeni od dobrih. Dakle, dobri anđeli nemaju nadređenosti nad zlima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a4.obj2": {
+      "text": "Osim toga, čini se da nemaru onoga koji je postavljen na čelo pripada ono što podložni čine loše. Ali demoni čine mnogo zla. Ako su, dakle, podložni nadređenosti dobrih anđela, čini se da u dobrim anđelima ima nekoga nemara. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a4.obj3": {
+      "text": "Osim toga, nadređenost anđela slijedi red naravi, kako je gore rečeno. Ali ako su demoni pali iz pojedinih redova, kako se općenito kaže, mnogi su demoni po redu naravi viši od mnogih dobrih anđela. Dakle, dobri anđeli nemaju nadređenosti nad svim zlima.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u III. knjizi O Trojstvu, da *duhom života koji je odmetnik i grešnik upravlja razumski, pobožni i pravedni duh života*. A Grgur kaže da se *vlastima nazivaju anđeli čijoj su vlasti podložne protivničke sile*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a4.resp": {
+      "text": "Odgovaram: treba reći da je sav red nadređenosti prvotno i izvorno u Bogu, a stvorovi u njemu sudjeluju koliko se više približuju Bogu; oni stvorovi, naime, imaju utjecaj na druge koji su savršeniji i bliži Bogu. A najveća savršenost, i ona po kojoj se najviše približuje Bogu, jest savršenost stvorova koji uživaju Boga, kao što su sveti anđeli; a te su savršenosti demoni lišeni. I zato dobri anđeli imaju nadređenost nad zlima, i oni po njima bivaju upravljani.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se po svetim anđelima demonima objavljuje mnogo od božanskih otajstava, kad božanska pravednost zahtijeva da se po demonima nešto učini, bilo radi kažnjavanja zlih, bilo radi vježbanja dobrih; kao što u ljudskim stvarima sučevi prisjednici objavljuju mučiteljima njegovu presudu. A takve su objave, ako se usporede s anđelima koji objavljuju, prosvjetljenja, jer ih oni usmjeruju prema Bogu. Sa strane pak demona nisu prosvjetljenja, jer ih oni ne usmjeruju prema Bogu, nego na ispunjenje vlastite opakosti.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a4.ad2": {
+      "text": "Na drugo treba reći da su sveti anđeli službenici božanske mudrosti. Stoga, kao što božanska mudrost dopušta da se nešto zlo čini po zlim anđelima ili ljudima radi dobara koja iz toga izvodi, tako ni dobri anđeli ne priječe zle potpuno da ne nanose štetu.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    },
+    "I.q109.a4.ad3": {
+      "text": "Na treće treba reći da je anđeo koji je niži po redu naravi postavljen nad demone, premda su oni viši po redu naravi, jer je snaga božanske pravednosti, uz koju prianjaju dobri anđeli, jača od naravne snage anđela. Stoga i kod ljudi duhovni prosuđuje sve, kako se kaže u 1 Kor 2. A Filozof kaže u knjizi Etike da je *kreposni pravilo i mjera svih ljudskih čina*.",
+      "prompt_version": "1",
+      "glossary_version": 6,
+      "created_at": "2026-11-05T10:09:16+00:00"
+    }
+  }
+}
