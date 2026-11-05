@@ -1,4 +1,4 @@
-version: 4
+version: 5
 terms:
 - la: esse
   hr: bitak
@@ -645,7 +645,8 @@ terms:
   alternatives:
   - viđenje
   - zrenje
-  note: Visio per essentiam = "gledanje (Boga) po biti"; avoid "vizija".
+  note: Visio per essentiam = "gledanje (Boga) po biti"; avoid "vizija". Ordinary
+    bodily sight and Augustine's three kinds of visio = "viđenje".
 - la: lumen gloriae
   hr: svjetlo slave
   alternatives:
@@ -938,3 +939,77 @@ terms:
   hr: diskurzivno prelaženje / diskurzivan
   alternatives: []
   note: Reasoning step by step (q.14, q.58).
+- la: potentiae animae
+  hr: moći duše
+  alternatives: []
+  note: The soul's faculties (q.77); potentia as the correlate of actus stays "mogućnost".
+- la: vis (aestimativa / cogitativa / memorativa / imaginativa)
+  hr: sila (procjeniteljska / misaona / pamtilačka / maštovna)
+  alternatives: []
+  note: Internal sense powers (q.78 a.4); keep vis = "sila" apart from potentia (moć)
+    and virtus (snaga).
+- la: sensus / sensus communis
+  hr: osjetilo / zajedničko osjetilo
+  alternatives:
+  - osjet
+  note: The faculty; sensibilia communia / propria / per accidens = "zajednička /
+    vlastita / akcidentalno osjetna".
+- la: phantasia
+  hr: mašta
+  alternatives:
+  - fantazija
+  note: 'Thomas treats phantasia and imaginatio as one power: "mašta"; where both
+    words are named side by side (q.54 a.5, q.78 a.4), phantasia = "fantazija".'
+- la: memoria, intelligentia, voluntas
+  hr: pamćenje, razumijevanje i volja
+  alternatives: []
+  note: Augustine's triad (image of the Trinity).
+- la: anima vegetabilis / sensitiva / intellectiva
+  hr: vegetativna / osjetilna / umska duša
+  alternatives: []
+  note: Anima rationalis = "razumska duša"; potentiae nutritiva / augmentativa / generativa
+    = "hranidbena / rastidbena / rađalačka".
+- la: animatum / inanimatum
+  hr: koje ima dušu / bez duše
+  alternatives:
+  - oživljen
+  note: Corpus animatum may be "oživljeno tijelo"; never "oduševljen" (= enthusiastic).
+- la: immutatio
+  hr: izmjena
+  alternatives: []
+  note: Change in a sense organ; keep distinct from mutatio (promjena), transmutatio
+    (preinaka), alteratio (kakvoćna promjena).
+- la: apprehensio / apprehendere
+  hr: zahvaćanje / zahvatiti
+  alternatives: []
+  note: Vis apprehensiva = "zahvatna sila".
+- la: intentio
+  hr: nakana
+  alternatives:
+  - intencija
+  note: Aim of the will = "nakana"; intentio as a cognitive content (esse intentionale,
+    intentiones of the estimative power) = "intencija".
+- la: distinctio
+  hr: razlikovanje
+  alternatives:
+  - razlučivanje
+  note: Generally "razlikovanje"; the opus distinctionis of the six days (q.65-74)
+    = "djelo razlučivanja", beside opus creationis / ornatus = "djelo stvaranja /
+    ukrašavanja".
+- la: lux / lumen
+  hr: svjetlo
+  alternatives:
+  - svjetlost
+  note: Both "svjetlo" as in lumen gloriae; luminaria = "svjetlila".
+- la: culpa / poena
+  hr: krivnja / kazna
+  alternatives: []
+  note: Malum culpae / poenae = "zlo krivnje / zlo kazne".
+- la: administratio / administrare
+  hr: upravljanje / upravljati
+  alternatives: []
+  note: Close to gubernatio in Thomas; never "ravnati" in this sense.
+- la: ratio particularis
+  hr: posebni razum
+  alternatives: []
+  note: The cogitative power in man (q.78 a.4).
