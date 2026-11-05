@@ -1,0 +1,288 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 50,
+  "units": {
+    "I.q50.pr": {
+      "text": "Nakon toga treba razmotriti razlikovanje tjelesnoga i duhovnoga stvora. I to, prvo, čisto duhovni stvor, koji se u Svetom pismu naziva anđelom; drugo, čisto tjelesni stvor; treće, stvor sastavljen od tjelesnoga i duhovnoga, a to je čovjek. Što se pak tiče anđela, treba razmotriti, prvo, ono što pripada njihovoj supstanciji; drugo, ono što pripada njihovu umu; treće, ono što pripada njihovoj volji; četvrto, ono što pripada njihovu stvaranju. Njihovu pak supstanciju treba razmotriti i apsolutno i u usporedbi s tjelesnim stvarima. O njihovoj supstanciji uzetoj apsolutno pita se pet stvari. Prvo, postoji li neki stvor potpuno duhovan i posve netjelesan. Drugo, pod pretpostavkom da je anđeo takav, pita se je li anđeo sastavljen od tvari i forme. Treće, pita se o njihovu mnoštvu. Četvrto, o njihovoj međusobnoj razlici. Peto, o njihovoj besmrtnosti ili nepropadljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da anđeo nije potpuno netjelesan. Ono, naime, što je netjelesno samo za nas, a ne za Boga, nije netjelesno naprosto. Ali Damaščanin kaže u II. knjizi da se *anđeo naziva netjelesnim i netvarnim s obzirom na nas, ali uspoređen s Bogom pokazuje se tjelesnim i tvarnim*. Dakle, nije netjelesan naprosto.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a1.obj2": {
+      "text": "Osim toga, ništa se ne giba osim tijela, kao što se dokazuje u VI. knjizi Fizike. Ali Damaščanin na istom mjestu kaže da je anđeo umska supstancija uvijek pokretljiva. Dakle, anđeo je tjelesna supstancija.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a1.obj3": {
+      "text": "Osim toga, Ambrozije kaže u knjizi O Duhu Svetom: *svaki je stvor omeđen određenim granicama svoje naravi*. A biti omeđen vlastito je tijelima. Dakle, svaki je stvor tjelesan. A anđeli su Božji stvorovi, kao što je očito iz Psalma 148: hvalite Gospodina, svi anđeli njegovi; a zatim se dodaje: *jer on reče, i postadoše; on zapovjedi, i stvoreni su*. Dakle, anđeli su tjelesni.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 103: *koji anđele svoje čini duhovima*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a1.resp": {
+      "text": "Odgovaram: treba reći da je nužno postaviti neke netjelesne stvorove. Ono, naime, što Bog ponajprije namjerava u stvorenim stvarima jest dobro koje se sastoji u upodobljenju Bogu. A savršeno upodobljenje učinka uzroku postoji onda kada učinak oponaša uzrok u onome po čemu uzrok proizvodi učinak, kao što toplo čini toplim. A Bog proizvodi stvor umom i voljom, kao što je gore pokazano. Stoga se za savršenost svemira traži da postoje neki umski stvorovi. A shvaćati ne može biti čin tijela niti ikoje tjelesne snage, jer je svako tijelo određeno na ovdje i sada. Stoga je nužno postaviti, da bi svemir bio savršen, da postoji neki netjelesni stvor. Stari pak, ne poznavajući moć shvaćanja i ne razlikujući između osjeta i uma, smatrali su da u svijetu nema ničega osim onoga što se može zahvatiti osjetom i maštom. I budući da pod maštu ne potpada ništa osim tijela, smatrali su da nema nikakva bića osim tijela, kao što kaže Filozof u IV. knjizi Fizike. I odatle je potekla zabluda saduceja, koji su govorili da nema duha. Ali upravo to što je um viši od osjeta razložno pokazuje da postoje neke netjelesne stvari, koje se mogu obuhvatiti samo umom.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da su netjelesne supstancije sredina između Boga i tjelesnih stvorova. A sredina, uspoređena s jednom krajnošću, čini se drugom krajnošću, kao što se mlako, uspoređeno s toplim, čini hladnim. I s toga se razloga kaže da su anđeli, uspoređeni s Bogom, tvarni i tjelesni, a ne zato što bi u njima bilo išta od tjelesne naravi.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a1.ad2": {
+      "text": "Na drugo treba reći da se gibanje ondje uzima u onom smislu u kojem se shvaćanje i htijenje nazivaju nekim gibanjima. Anđeo se, dakle, naziva supstancijom uvijek pokretljivom zato što je uvijek u činu shvaćanja, a ne katkad u činu, a katkad u mogućnosti, kao mi. Stoga je očito da taj razlog polazi od dvoznačnosti.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a1.ad3": {
+      "text": "Na treće treba reći da je biti omeđen mjesnim granicama vlastito tijelima, ali biti omeđen bitnim granicama zajedničko je svakom stvoru, kako tjelesnom tako i duhovnom. Stoga Ambrozije kaže u knjizi O Duhu Svetom da, premda neke stvari nisu sadržane u tjelesnim mjestima, ipak nisu lišene omeđenosti supstancije.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je anđeo sastavljen od tvari i forme. Sve, naime, što je sadržano pod nekim rodom sastavljeno je od roda i razlike, koja, pridolazeći rodu, sačinjava vrstu. Ali rod se uzima od tvari, a razlika od forme, kao što je očito u VIII. knjizi Metafizike. Dakle, sve što je u rodu sastavljeno je od tvari i forme. Ali anđeo je u rodu supstancije. Dakle, sastavljen je od tvari i forme.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a2.obj2": {
+      "text": "Osim toga, u čemu god se nalaze svojstva tvari, ondje se nalazi tvar. A svojstva su tvari primati i biti podloga; stoga Boetije kaže u knjizi O Trojstvu da *jednostavna forma ne može biti subjekt*. A to se nalazi u anđelu. Dakle, anđeo je sastavljen od tvari i forme.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a2.obj3": {
+      "text": "Osim toga, forma je čin. Ono, dakle, što je samo forma jest čisti čin. Ali anđeo nije čisti čin, jer to pripada samo Bogu. Dakle, nije samo forma, nego ima formu u tvari.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a2.obj4": {
+      "text": "Osim toga, forma se u vlastitom smislu ograničuje i čini konačnom po tvari. Forma, dakle, koja nije u tvari jest beskonačna forma. Ali forma anđela nije beskonačna, jer je svaki stvor konačan. Dakle, forma je anđela u tvari.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Dionizije u IV. poglavlju O Božjim imenima, da se *prvi stvorovi shvaćaju kao netjelesni i netvarni*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a2.resp": {
+      "text": "Odgovaram: treba reći da neki postavljaju da su anđeli sastavljeni od tvari i forme. I to mnijenje nastoji utvrditi Avicebron u knjizi Izvor života. On, naime, pretpostavlja da je sve što se razlikuje u umu razlikovano i u stvarima. A u netjelesnoj supstanciji um zahvaća nešto po čemu se ona razlikuje od tjelesne supstancije i nešto po čemu se s njom slaže. Stoga iz toga želi zaključiti da je ono po čemu se netjelesna supstancija razlikuje od tjelesne njoj takoreći forma, a ono što je podloženo toj razlikujućoj formi, kao nešto zajedničko, njezina tvar. I zbog toga postavlja da je jedna te ista opća tvar duhovnih i tjelesnih stvari, tako da se shvaća da je forma netjelesne supstancije utisnuta u tvar duhovnih stvari onako kako je forma kolikoće utisnuta u tvar tjelesnih stvari. Ali već na prvi pogled očito je da je nemoguće da bude jedna tvar duhovnih i tjelesnih stvari. Nije, naime, moguće da se duhovna i tjelesna forma prime u jedan dio tvari, jer bi tako jedna te ista brojčano stvar bila tjelesna i duhovna. Stoga preostaje da je jedan dio tvari onaj koji prima tjelesnu formu, a drugi onaj koji prima duhovnu formu. A tvar se ne može dijeliti na dijelove osim ukoliko se shvaća pod kolikoćom; kad se ona ukloni, ostaje nedjeljiva supstancija, kao što se kaže u I. knjizi Fizike. Tako, dakle, preostaje da je tvar duhovnih stvari podložena kolikoći, što je nemoguće. Nemoguće je, dakle, da bude jedna tvar tjelesnih i duhovnih stvari. Ali, još dalje, nemoguće je da umska supstancija ima ikakvu tvar. Djelovanje, naime, svake stvari jest prema načinu njezine supstancije. A shvaćati je posve netvarno djelovanje. To je očito iz njegova predmeta, od kojega svaki čin prima vrstu i pojam: svaka se, naime, stvar shvaća utoliko ukoliko se apstrahira od tvari, jer su forme u tvari pojedinačne forme, koje um ne zahvaća kao takve. Stoga preostaje da je svaka umska supstancija potpuno netvarna. Nije pak nužno da ono što se razlikuje u umu bude razlikovano u stvarima, jer um ne zahvaća stvari na način stvari, nego na svoj način. Stoga su tvarne stvari, koje su ispod našega uma, u našem umu na jednostavniji način nego što su u sebi samima. A anđeoske su supstancije iznad našega uma. Stoga naš um ne može doseći do toga da ih zahvati onakve kakve su u sebi samima, nego ih zahvaća na svoj način, onako kako zahvaća složene stvari. I tako zahvaća i Boga, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je razlika ono što sačinjava vrstu. A svaka se stvar sačinjava u vrsti time što se određuje na neki posebni stupanj među bićima, jer su vrste stvari kao brojevi, koji se razlikuju dodavanjem i oduzimanjem jedinice, kao što se kaže u VIII. knjizi Metafizike. A u tvarnim je stvarima jedno ono što određuje na posebni stupanj, naime forma, a drugo ono što se određuje, naime tvar; stoga se od jednoga uzima rod, a od drugoga razlika. Ali u netvarnim stvarima nije jedno ono što određuje, a drugo ono što je određeno, nego svaka od njih po samoj sebi drži određeni stupanj među bićima. I zato se rod i razlika u njima ne uzimaju prema jednome i drugome, nego prema jednome te istome. To se ipak razlikuje prema našem razmatranju: ukoliko, naime, naš um razmatra tu stvar neodređeno, u njima se uzima pojam roda; a ukoliko je razmatra određeno, uzima se pojam razlike.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a2.ad2": {
+      "text": "Na drugo treba reći da se taj razlog navodi u knjizi Izvor života. I bio bi nužan kad bi bio isti način na koji prima um i na koji prima tvar. Ali očito je da je to lažno. Tvar, naime, prima formu da bi po njoj bila sačinjena u bitku neke vrste, bilo zraka, bilo vatre, bilo bilo čega drugoga. Ali um na taj način ne prima formu; inače bi se obistinilo mnijenje Empedokla, koji je postavio da zemlju spoznajemo zemljom, a vatru vatrom. Nego je umljiva forma u umu prema samom pojmu forme, jer se tako spoznaje od uma. Stoga takvo primanje nije primanje tvari, nego primanje netvarne supstancije.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a2.ad3": {
+      "text": "Na treće treba reći da, premda u anđelu nema sastavljenosti forme i tvari, ipak u njemu postoje čin i mogućnost. To može biti razvidno iz razmatranja tvarnih stvari, u kojima se nalazi dvostruka sastavljenost. Prva je sastavljenost forme i tvari, od kojih se sačinjava neka narav. A tako sastavljena narav nije svoj bitak, nego je bitak njezin čin. Stoga se sama narav odnosi prema svojem bitku kao mogućnost prema činu. Ako se, dakle, oduzme tvar i postavi da sama forma samostoji ne u tvari, još uvijek ostaje odnos forme prema samom bitku kao mogućnosti prema činu. I takvu sastavljenost treba shvatiti u anđelima. I to je ono što neki kažu, da je anđeo sastavljen od onoga čime jest i onoga što jest, ili od bitka i onoga što jest, kako kaže Boetije: ono što jest, naime, jest sama samostojeća forma, a sam bitak jest ono čime supstancija jest, kao što je trčanje ono čime trkač trči. Ali u Bogu nisu različiti bitak i ono što jest, kao što je gore pokazano. Stoga je samo Bog čisti čin.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a2.ad4": {
+      "text": "Na četvrto treba reći da je svaki stvor konačan naprosto, ukoliko njegov bitak nije apsolutno samostojeći, nego je ograničen na neku narav kojoj pridolazi. Ali ništa ne priječi da neki stvor bude beskonačan u nekom pogledu. Tvarni stvorovi imaju, naime, beskonačnost s gledišta tvari, a konačnost s gledišta forme, koja je ograničena tvarju u koju je primljena. A stvorene netvarne supstancije konačne su po svojem bitku, ali beskonačne utoliko što njihove forme nisu primljene u drugome. Kao kad bismo rekli da bi bjelina koja bi postojala odijeljeno bila beskonačna s obzirom na pojam bjeline, jer nije sužena na neki subjekt; njezin bi bitak ipak bio konačan, jer je određen na neku posebnu narav. I zbog toga se u Knjizi o uzrocima kaže da je inteligencija konačna odozgo, naime ukoliko prima bitak od onoga što je iznad nje, a beskonačna odozdo, ukoliko nije primljena ni u kakvu tvar.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da anđela nema u nekom velikom broju. Broj je, naime, vrsta kolikoće i slijedi diobu neprekinutoga. A toga ne može biti u anđelima, budući da su netjelesni, kao što je gore pokazano. Dakle, anđela ne može biti u nekom velikom broju.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a3.obj2": {
+      "text": "Osim toga, što je nešto bliže jednome, to je manje umnoženo, kao što je očito u brojevima. A anđeoska je narav među ostalim stvorenim naravima Bogu bliža. Budući, dakle, da je Bog najviše jedan, čini se da se u anđeoskoj naravi nalazi najmanje mnoštva.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a3.obj3": {
+      "text": "Osim toga, čini se da je vlastiti učinak odijeljenih supstancija gibanje nebeskih tijela. Ali gibanja nebeskih tijela postoje prema nekom određenom malom broju, koji mi možemo obuhvatiti. Dakle, anđela nema u većem mnoštvu nego što je gibanja nebeskih tijela.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a3.obj4": {
+      "text": "Osim toga, Dionizije kaže u IV. poglavlju O Božjim imenima da *zbog zraka božanske dobrote samostoje sve umljive i umske supstancije*. Ali zraka se ne umnožava osim prema različitosti onih koji primaju. A ne može se reći da je tvar primateljica umljive zrake, budući da su umske supstancije netvarne, kao što je gore pokazano. Dakle, čini se da umnažanje umskih supstancija ne može biti drukčije nego prema zahtjevu prvih tijela, naime nebeskih, tako da se izlaženje spomenutih zraka na neki način u njima završava. I tako slijedi isto što i prije.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Dn 7: *tisuće tisuća služahu mu, i deset tisuća puta sto tisuća stajahu pred njim*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a3.resp": {
+      "text": "Odgovaram: treba reći da su s obzirom na broj odijeljenih supstancija različiti išli različitim putovima. Platon je, naime, postavio da su odijeljene supstancije vrste osjetnih stvari, kao kad bismo postavili da je sama ljudska narav odijeljena. I prema tome je trebalo reći da odijeljenih supstancija ima prema broju osjetnih vrsta. Ali to stajalište pobija Aristotel time što tvar pripada pojmu vrste tih osjetnih stvari. Stoga odijeljene supstancije ne mogu biti uzorne vrste tih osjetnih stvari, nego imaju neke naravi više od naravi osjetnih stvari. Aristotel je ipak postavio da su te savršenije naravi usmjerene prema tim osjetnim stvarima po pojmu pokretača i svrhe. I zato je nastojao pronaći broj odijeljenih supstancija prema broju prvih gibanja. Ali budući da se čini da se to protivi poukama Svetoga pisma, Rabi Mojsije, Židov, želeći jedno i drugo uskladiti, postavio je da se anđeli, ukoliko se nazivaju netvarnim supstancijama, umnažaju prema broju gibanja ili nebeskih tijela, prema Aristotelu. Ali je postavio da se u Pismu anđelima nazivaju i ljudi koji navješćuju božanske stvari, a nadalje i snage prirodnih stvari, koje očituju Božju svemoć. Ali to je strano običaju Pisma, da se snage nerazumnih stvari nazivaju anđelima. Stoga treba reći da su i anđeli, ukoliko su netvarne supstancije, u nekom najvećem mnoštvu, nadmašujući svako tvarno mnoštvo. I to je ono što kaže Dionizije u XIV. poglavlju O nebeskoj hijerarhiji: *mnoge su blažene vojske nadzemaljskih duhova, koje nadmašuju slabu i stiješnjenu mjeru naših tvarnih brojeva*. A razlog je tomu to što, budući da je savršenost svemira ono što Bog ponajprije namjerava u stvaranju stvari, što su neke stvari savršenije, to ih je Bog stvorio u većoj nadmašnosti. Kao što se pak u tijelima nadmašnost uzima prema veličini, tako se u netjelesnim stvarima nadmašnost može uzimati prema mnoštvu. A vidimo da nepropadljiva tijela, koja su savršenija među tijelima, takoreći neusporedivo nadmašuju veličinom propadljiva tijela, jer je cijela sfera djelatnih i trpnih stvari nešto maleno u odnosu na nebeska tijela. Stoga je razložno da netvarne supstancije mnoštvom nadmašuju tvarne supstancije takoreći neusporedivo.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da u anđelima nema broja koji je diskretna kolikoća, prouzročena diobom neprekinutoga, nego broja prouzročenoga razlikovanjem forma, ukoliko mnoštvo pripada transcendentalijama, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a3.ad2": {
+      "text": "Na drugo treba reći da iz toga što je anđeoska narav bliska Bogu slijedi da mora imati najmanje mnoštva u svojoj sastavljenosti, ali ne tako da bi se održala u malo njih.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a3.ad3": {
+      "text": "Na treće treba reći da je taj razlog Aristotelov, u XII. knjizi Metafizike. I zaključivao bi nužno kad bi odijeljene supstancije bile radi tjelesnih supstancija: tako bi, naime, netvarne supstancije bile uzalud ako se od njih ne bi pokazivalo neko gibanje u tjelesnim stvarima. Ali nije istina da su netvarne supstancije radi tjelesnih, jer je svrha plemenitija od onoga što je radi svrhe. Stoga i Aristotel na istom mjestu kaže da taj razlog nije nužan, nego vjerojatan. A bio je prisiljen služiti se tim razlogom jer do spoznaje umljivih stvari ne možemo doći osim po osjetnim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a3.ad4": {
+      "text": "Na četvrto treba reći da taj razlog polazi od mnijenja onih koji su postavljali da je uzrok razlikovanja stvari tvar. A to je pobijeno. Stoga umnažanje anđela ne treba shvaćati ni prema tvari ni prema tijelima, nego prema božanskoj mudrosti, koja je smislila različite redove netvarnih supstancija.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se anđeli ne razlikuju po vrsti. Budući da je, naime, razlika plemenitija od roda, sve što se slaže u onome što je u njemu najplemenitije slaže se u posljednjoj sačinjavajućoj razlici; i tako je isto po vrsti. Ali svi se anđeli slažu u onome što je u njima najplemenitije, naime u umnosti. Dakle, svi su anđeli jedne vrste.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a4.obj2": {
+      "text": "Osim toga, više i manje ne čine vrstu različitom. Ali čini se da se anđeli međusobno ne razlikuju drukčije nego po više i manje, ukoliko je, naime, jedan jednostavniji od drugoga i pronicljivijega uma. Dakle, anđeli se ne razlikuju po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a4.obj3": {
+      "text": "Osim toga, duša i anđeo dijele se jedno nasuprot drugome. Ali sve su duše jedne vrste. Dakle, i anđeli.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a4.obj4": {
+      "text": "Osim toga, što je nešto po naravi savršenije, to se više mora umnožiti. A toga ne bi bilo kad bi u jednoj vrsti bio samo jedan pojedinac. Dakle, mnogi su anđeli jedne vrste.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a4.sc": {
+      "text": "Ali protiv toga je to što u onome što je jedne vrste nije moguće naći prije i kasnije, kao što se kaže u III. knjizi Metafizike. Ali u anđelima, čak i jednoga reda, ima prvih, srednjih i posljednjih, kako kaže Dionizije u X. poglavlju O anđeoskoj hijerarhiji. Dakle, anđeli nisu iste vrste.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a4.resp": {
+      "text": "Odgovaram: treba reći da su neki rekli da su sve duhovne supstancije jedne vrste, čak i duše. Drugi pak da su svi anđeli jedne vrste, ali ne i duše. A neki opet da su jedne vrste svi anđeli jedne hijerarhije, ili čak jednoga reda. Ali to je nemoguće. Ono, naime, što se slaže po vrsti, a razlikuje se po broju, slaže se u formi, a razlikuje se tvarno. Ako, dakle, anđeli nisu sastavljeni od tvari i forme, kao što je gore rečeno, slijedi da je nemoguće da budu dva anđela jedne vrste. Kao što bi također bilo nemoguće reći da postoji više odijeljenih bjelina ili više čovještava, budući da bjelina nema više osim ukoliko su u više supstancija. Ali čak kad bi anđeli i imali tvar, ni tako ne bi moglo biti više anđela jedne vrste. Tako bi, naime, trebalo da počelo razlikovanja jednoga od drugoga bude tvar, ne doduše prema diobi kolikoće, budući da su netjelesni, nego prema različitosti mogućnosti. A takva različitost tvari uzrokuje različitost ne samo vrste nego i roda.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je razlika plemenitija od roda kao što je određeno plemenitije od neodređenoga i vlastito od zajedničkoga, ali ne kao jedna narav od druge naravi. Inače bi trebalo da sve nerazumne životinje budu jedne vrste, ili da u njima bude neka druga savršenija forma od osjetne duše. Nerazumne se, dakle, životinje razlikuju po vrsti prema različitim određenim stupnjevima osjetne naravi. I slično se svi anđeli razlikuju po vrsti prema različitim stupnjevima umske naravi.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a4.ad2": {
+      "text": "Na drugo treba reći da više i manje, ukoliko su prouzročeni pojačavanjem i slabljenjem jedne forme, ne čine vrstu različitom. Ali ukoliko su prouzročeni formama različitih stupnjeva, tako čine vrstu različitom, kao kad bismo rekli da je vatra savršenija od zraka. I na taj se način anđeli razlikuju po više i manje.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a4.ad3": {
+      "text": "Na treće treba reći da dobro vrste preteže nad dobrom pojedinca. Stoga je mnogo bolje da se u anđelima umnažaju vrste nego da se umnažaju pojedinci u jednoj vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a4.ad4": {
+      "text": "Na četvrto treba reći da umnažanje po broju, budući da se može protezati u beskonačno, djelatnik ne namjerava, nego samo umnažanje po vrsti, kao što je gore rečeno. Stoga savršenost anđeoske naravi zahtijeva umnažanje vrsta, a ne umnažanje pojedinaca u jednoj vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da anđeli nisu nepropadljivi. Damaščanin, naime, kaže o anđelu da *je umska supstancija koja besmrtnost prima milošću, a ne naravlju*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a5.obj2": {
+      "text": "Osim toga, Platon kaže u Timeju: *o bogovi bogova, kojima sam ja tvorac i ujedno otac, vi ste moja djela, po naravi rastvorljiva, ali nerastvorljiva jer ja tako hoću*. A pod tim se bogovima ne može razumjeti ništa drugo nego anđeli. Dakle, anđeli su po svojoj naravi propadljivi.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a5.obj3": {
+      "text": "Osim toga, prema Grguru, *sve bi palo u ništa kad to ne bi uzdržavala ruka Svemogućega*. Ali ono što se može svesti u ništa jest propadljivo. Dakle, budući da je anđele načinio Bog, čini se da su propadljivi po svojoj naravi.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Dionizije u IV. poglavlju O Božjim imenima, da umske supstancije *imaju nepropadajući život, budući da su čiste od svakoga propadanja, smrti, tvari i nastajanja*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a5.resp": {
+      "text": "Odgovaram: treba reći da je nužno reći da su anđeli po svojoj naravi nepropadljivi. Razlog je tomu što ništa ne propada osim time što se njegova forma odvaja od tvari; stoga, budući da je anđeo sama samostojeća forma, kao što je očito iz rečenoga, nemoguće je da njegova supstancija bude propadljiva. Ono, naime, što nečemu pristaje po sebi nikada se ne može od njega odvojiti, a od onoga čemu pristaje po drugome može se odvojiti kad se odvoji ono po čemu mu je pristajalo. Okruglost se, naime, ne može odvojiti od kruga, jer mu pristaje po njemu samome; ali brončani krug može izgubiti okruglost time što se kružni lik odvoji od bronce. A bitak po sebi pripada formi, jer je svaka stvar biće u činu ukoliko ima formu. Tvar je pak biće u činu po formi. Ono, dakle, što je složeno od tvari i forme prestaje biti u činu time što se forma odvaja od tvari. Ali ako sama forma samostoji u svojem bitku, kao što je u anđelima, kao što je rečeno, ne može izgubiti bitak. Sama je, dakle, netvarnost anđela razlog zašto je anđeo nepropadljiv po svojoj naravi. A znak te nepropadljivosti može se uzeti iz njegova umskoga djelovanja: budući da, naime, svaka stvar djeluje ukoliko je u činu, djelovanje stvari pokazuje način njezina bitka. A vrsta i pojam djelovanja shvaćaju se iz predmeta. A umljivi predmet, budući da je iznad vremena, vjekovječan je. Stoga je svaka umska supstancija nepropadljiva po svojoj naravi.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da Damaščanin uzima savršenu besmrtnost, koja uključuje svaku vrstu nepromjenljivosti, jer je svaka promjena neka smrt, kako kaže Augustin. A savršenu nepromjenljivost anđeli postižu samo milošću, kao što će se dolje pokazati.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a5.ad2": {
+      "text": "Na drugo treba reći da Platon pod bogovima razumije nebeska tijela, za koja je smatrao da su sastavljena od elemenata, i zato po svojoj naravi rastvorljiva, ali da se božanskom voljom uvijek uzdržavaju u bitku.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q50.a5.ad3": {
+      "text": "Na treće treba reći da je, kao što je gore rečeno, nešto nužno koje ima uzrok svoje nužnosti. Stoga se ne protivi nužnome ni nepropadljivome da njegov bitak ovisi o drugome kao o uzroku. Time, dakle, što se kaže da bi sve, pa i anđeli, palo u ništa kad to ne bi uzdržavao Bog, ne daje se razumjeti da u anđelima postoji neko počelo propadanja, nego da bitak anđela ovisi o Bogu kao o uzroku. A za nešto se ne kaže da je propadljivo zato što bi ga Bog mogao svesti u nebitak uskraćujući svoje uzdržavanje, nego zato što u sebi samome ima neko počelo propadanja, bilo protivnost, bilo barem mogućnost tvari.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    }
+  }
+}

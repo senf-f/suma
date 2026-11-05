@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 61,
+  "units": {
+    "I.q61.pr": {
+      "text": "Nakon onoga što je izloženo o naravi anđelâ te o njihovoj spoznaji i volji, preostaje razmotriti njihovo stvaranje, ili općenito njihov početak. I to je razmatranje trodijelno. Najprije ćemo, naime, razmotriti kako su proizvedeni u bitak naravi; drugo, kako su usavršeni u milosti ili slavi; treće, kako su neki od njih postali zli. Glede prvoga postavljaju se četiri pitanja. Prvo, ima li anđeo uzrok svoga bitka. Drugo, postoji li anđeo od vječnosti. Treće, je li anđeo stvoren prije tjelesnog stvora. Četvrto, jesu li anđeli stvoreni u empirejskom nebu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da anđeli nemaju uzrok svoga bitka. O onome, naime, što je Bog stvorio govori se u Post 1. Ali ondje se anđeli nimalo ne spominju. Dakle, anđele nije stvorio Bog.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a1.obj2": {
+      "text": "Osim toga, Filozof kaže u VIII. knjizi Metafizike da, ako je neka supstancija forma bez tvari, *odmah je po samoj sebi biće i jedno, i nema uzroka koji bi je činio bićem i jednim*. Ali anđeli su netvarne forme, kako je gore pokazano. Dakle, nemaju uzrok svoga bitka.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a1.obj3": {
+      "text": "Osim toga, sve što nastaje od nekog djelatnika, time što nastaje, prima od njega formu. Ali anđeli, budući da su forme, ne primaju formu ni od kakva djelatnika. Dakle, anđeli nemaju djelatni uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Ps 148: *hvalite ga, svi anđeli njegovi*. I poslije nadodaje: *jer on reče, i postadoše*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a1.resp": {
+      "text": "Odgovaram: treba reći da je nužno reći da je i anđele i sve što postoji osim Boga načinio Bog. Samo je, naime, Bog svoj bitak, a u svim se drugim stvarima razlikuju bit stvari i njezin bitak, kako je jasno iz prethodnoga. I iz toga je očito da je samo Bog biće po svojoj biti, a sve su ostalo bića po sudjelovanju. A sve što jest po sudjelovanju prouzrokovano je od onoga što jest po biti, kao što je sve užareno prouzrokovano od vatre. Stoga je nužno da je anđele stvorio Bog.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin kaže u XI. knjizi O Božjem gradu da anđeli nisu izostavljeni u onom prvom stvaranju stvari, nego su označeni imenom neba ili pak svjetla. A zato su ili izostavljeni ili označeni imenima tjelesnih stvari što je Mojsije govorio neukom narodu, koji još nije mogao pojmiti netjelesnu narav; i da im je bilo izrečeno da postoje neke stvari iznad svake tjelesne naravi, to bi im bila prigoda za idolopoklonstvo, kojemu su bili skloni i od kojega ih je Mojsije ponajprije namjeravao odvratiti.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a1.ad2": {
+      "text": "Na drugo treba reći da supstancije koje su samostojne forme nemaju nikakav formalni uzrok svoga bitka i svoga jedinstva, ni djelatni uzrok koji djeluje preinakom tvari iz mogućnosti u čin, nego imaju uzrok koji proizvodi cijelu supstanciju.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a1.ad3": {
+      "text": "I time je jasno rješenje trećega.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je Bog proizveo anđela od vječnosti. Bog je, naime, uzrok anđela po svom bitku: ne djeluje, naime, po nečemu što je pridodano njegovoj biti. Ali njegov je bitak vječan. Dakle, od vječnosti je proizveo anđele.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a2.obj2": {
+      "text": "Osim toga, sve što katkad jest, a katkad nije, podložno je vremenu. Ali anđeo je iznad vremena, kako se kaže u Knjizi o uzrocima. Dakle, anđeo nije takav da katkad jest, a katkad nije, nego jest uvijek.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a2.obj3": {
+      "text": "Osim toga, Augustin dokazuje nepropadljivost duše time što je umom sposobna za istinu. Ali kao što je istina nepropadljiva, tako je i vječna. Dakle, umska narav i duše i anđela nije samo nepropadljiva, nego i vječna.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izr 8, u ime rođene mudrosti: *Gospodin me posjedovao na početku putova svojih, prije nego što je išta učinio od početka*. Ali anđele je načinio Bog, kako je pokazano. Dakle, anđeli nekoć nisu bili.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a2.resp": {
+      "text": "Odgovaram: treba reći da je samo Bog, Otac i Sin i Duh Sveti, od vječnosti. To, naime, katolička vjera nedvojbeno drži, i sve što je tome protivno treba odbaciti kao krivovjerno. Bog je, naime, tako proizveo stvorove da ih je načinio iz ničega, to jest nakon što ničega nije bilo.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Božji bitak samo njegovo htijenje. Time, dakle, što je Bog proizveo anđele i druge stvorove po svom bitku, ne isključuje se da ih je proizveo po svojoj volji. A Božja volja nije nužno usmjerena na proizvođenje stvorova, kako je gore rečeno. I zato je proizveo i ono što je htio i kada je htio.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a2.ad2": {
+      "text": "Na drugo treba reći da je anđeo iznad vremena koje je broj gibanja neba, jer je iznad svakoga gibanja tjelesne naravi. Ali nije iznad vremena koje je broj slijeda njegova bitka nakon nebitka, kao ni iznad vremena koje je broj slijeda koji je u njegovim djelovanjima. Stoga Augustin kaže u VIII. knjizi O Knjizi Postanka doslovno da *Bog pokreće duhovnog stvora kroz vrijeme*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a2.ad3": {
+      "text": "Na treće treba reći da su anđeli i umske duše nepropadljivi upravo time što imaju narav po kojoj su sposobni za istinu. Ali tu narav nisu imali od vječnosti, nego im ju je dao Bog kada je sam htio. Stoga ne slijedi da su anđeli od vječnosti.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da su anđeli stvoreni prije tjelesnoga svijeta. Jeronim, naime, kaže u tumačenju Poslanice Titu: *još se ne navršava šest tisuća godina našega vremena; a koliko vremenâ, koliko početaka dobâ treba smatrati da je bilo, u kojima su anđeli, prijestolja, gospodstva i ostali redovi služili Bogu?* I Damaščanin kaže u II. knjizi: *neki kažu da su anđeli rođeni prije svakoga stvaranja; kao što kaže teolog Grgur: najprije je zamislio anđeoske i nebeske snage, i zamisao je bila njegovo djelo*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a3.obj2": {
+      "text": "Osim toga, anđeoska je narav posrednica između božanske naravi i tjelesne naravi. Ali božanska je narav od vječnosti, a tjelesna narav od vremena. Dakle, anđeoska je narav načinjena prije stvaranja vremena, a poslije vječnosti.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a3.obj3": {
+      "text": "Osim toga, anđeoska je narav više udaljena od tjelesne naravi nego jedna tjelesna narav od druge. Ali jedna je tjelesna narav načinjena prije druge, zbog čega se i na početku Knjige Postanka opisuje šest dana proizvođenja stvari. Dakle, mnogo je više anđeoska narav načinjena prije svake tjelesne naravi.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Post 1: *u početku stvori Bog nebo i zemlju*. To ne bi bilo istinito da je išta stvorio prije. Dakle, anđeli nisu stvoreni prije tjelesne naravi.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a3.resp": {
+      "text": "Odgovaram: treba reći da se o tome nalazi dvostruko mišljenje svetih naučitelja; ipak se vjerojatnijim čini ono po kojemu su anđeli stvoreni zajedno s tjelesnim stvorom. Anđeli su, naime, neki dio svemira: ne čine, naime, sami po sebi jedan svemir, nego se i oni i tjelesni stvor sastaju u sačinjavanju jednoga svemira. To se vidi iz usmjerenosti jednoga stvora prema drugome: red je, naime, stvari među sobom dobro svemira. A nijedan dio odvojen od svoje cjeline nije savršen. Nije, dakle, vjerojatno da je Bog, čija su djela savršena, kako se kaže u Pnz 32, stvorio anđeoskog stvora odvojeno, prije drugih stvorova. Ipak protivno ne treba smatrati zabludom, osobito zbog mišljenja Grgura Nazijanskog, čiji je autoritet u kršćanskom nauku tolik da se nitko nikada nije usudio iznijeti prigovor protiv njegovih riječi, kao ni protiv Atanazijevih spisa, kako kaže Jeronim.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Jeronim govori prema mišljenju grčkih naučitelja, koji svi složno misle da su anđeli stvoreni prije tjelesnoga svijeta.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a3.ad2": {
+      "text": "Na drugo treba reći da Bog nije neki dio svemira, nego je iznad cijeloga svemira, jer unaprijed ima u sebi na nadmašniji način cijelu savršenost svemira. A anđeo je dio svemira. Stoga nije isti razlog.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a3.ad3": {
+      "text": "Na treće treba reći da su svi tjelesni stvorovi jedno u tvari, ali se anđeli ne slažu u tvari s tjelesnim stvorom. Stoga, kad je stvorena tvar tjelesnoga stvora, sve je na neki način stvoreno; ali, kad bi bili stvoreni anđeli, ne bi time bio stvoren sam svemir. Ako se pak drži protivno, ono što se kaže u Post 1, *u početku stvori Bog nebo i zemlju*, treba tumačiti ovako: u početku, to jest u Sinu, ili u početku vremena; a ne: u početku, to jest prije kojega nije bilo ničega, osim ako se kaže: prije kojega nije bilo ničega u rodu tjelesnih stvorova.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da anđeli nisu stvoreni u empirejskom nebu. Anđeli su, naime, netjelesne supstancije. Ali netjelesna supstancija ne ovisi o tijelu po svom bitku, pa posljedično ni po svom nastajanju. Dakle, anđeli nisu stvoreni na tjelesnom mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a4.obj2": {
+      "text": "Osim toga, Augustin kaže u III. knjizi O Knjizi Postanka doslovno da su anđeli stvoreni u višem dijelu zraka. Dakle, ne u empirejskom nebu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a4.obj3": {
+      "text": "Osim toga, za empirejsko se nebo kaže da je najviše nebo. Kad bi, dakle, anđeli bili stvoreni u empirejskom nebu, ne bi im pristajalo uzlaziti u više nebo. A to je protivno onome što se u ime anđela koji griješi kaže u Iz 14: *uzaći ću na nebo*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Strabon uz ono: *U početku stvori Bog nebo i zemlju: nebom ovdje ne naziva vidljivi svod, nego empirejsko, to jest ognjeno ili umsko nebo, koje se tako naziva ne po žaru, nego po sjaju, i koje je, čim je načinjeno, napunjeno anđelima*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a4.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, od tjelesnih i duhovnih stvorova sačinjava jedan svemir. Stoga su duhovni stvorovi tako stvoreni da imaju neku usmjerenost prema tjelesnom stvoru i da predsjedaju cijelom tjelesnom stvoru. Stoga je bilo prikladno da anđeli budu stvoreni u najvišem tijelu, kao oni koji predsjedaju cijeloj tjelesnoj naravi, bilo da se to naziva empirejskim nebom, bilo kako god se imenovalo. Stoga Izidor kaže da je najviše nebo nebo anđelâ, uz ono iz Pnz 10: *Gospodina Boga tvoga je nebo i nebo neba*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da anđeli nisu stvoreni na tjelesnom mjestu kao da ovise o tijelu po svom bitku ili po svom nastajanju; Bog je, naime, mogao stvoriti anđele prije cijeloga tjelesnog stvora, kako drže mnogi sveti naučitelji. Ali načinjeni su na tjelesnom mjestu da bi se pokazala njihova usmjerenost prema tjelesnoj naravi i to da svojom snagom dotiču tijela.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a4.ad2": {
+      "text": "Na drugo treba reći da Augustin možda pod najvišim dijelom zraka razumijeva najviši dio neba, s kojim zrak ima neku srodnost zbog svoje tankoće i prozirnosti. Ili ne govori o svim anđelima, nego o onima koji su sagriješili, a koji su prema nekima bili iz nižih redova. A ništa ne priječi reći da su viši anđeli, koji imaju uzvišenu i opću snagu iznad svih tijela, stvoreni u najvišem dijelu tjelesnoga stvora, a drugi, koji imaju posebnije snage, stvoreni u nižim tijelima.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    },
+    "I.q61.a4.ad3": {
+      "text": "Na treće treba reći da se ondje ne govori o nekom tjelesnom nebu, nego o nebu Svetoga Trojstva, na koje je anđeo koji griješi htio uzaći kad se htio na neki način izjednačiti s Bogom, kako će niže biti jasno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:10+00:00"
+    }
+  }
+}

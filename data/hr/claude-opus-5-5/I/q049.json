@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 49,
+  "units": {
+    "I.q49.pr": {
+      "text": "Zatim se pita o uzroku zla. I glede toga pitaju se tri stvari. Prvo, može li dobro biti uzrok zla. Drugo, je li najviše dobro, a to je Bog, uzrok zla. Treće, postoji li neko najviše zlo koje bi bilo prvi uzrok svih zala.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da dobro ne može biti uzrok zla. Kaže se, naime, u Mt 7: *Ne može dobro stablo donositi zlih plodova*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a1.obj2": {
+      "text": "Osim toga, jedno od protivnoga ne može biti uzrok drugoga. A zlo je protivno dobru. Dakle, dobro ne može biti uzrok zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a1.obj3": {
+      "text": "Osim toga, manjkav učinak izlazi samo od manjkavog uzroka. A zlo, ako ima uzrok, jest manjkav učinak. Dakle, ima manjkav uzrok. A sve je manjkavo zlo. Dakle, uzrok zla nije ništa drugo nego zlo.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a1.obj4": {
+      "text": "Osim toga, Dionizije kaže u IV. poglavlju O božanskim imenima da zlo nema uzroka. Dakle, dobro nije uzrok zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u djelu Protiv Julijana: *Nije uopće bilo odakle bi zlo moglo nastati, osim iz dobra*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a1.resp": {
+      "text": "Odgovaram: treba reći da je nužno reći da svako zlo na neki način ima uzrok. Zlo je, naime, nedostatak dobra koje je po naravi takvo i koje treba imati. A to da nešto manjka u svojoj naravnoj i dužnoj raspoloživosti ne može proizlaziti osim od nekog uzroka koji stvar izvlači izvan njezine raspoloživosti: teško se tijelo, naime, ne giba prema gore osim od nečega što ga potiskuje, niti djelatnik manjka u svojoj radnji osim zbog neke zapreke. A biti uzrok ne može pristajati nego dobru, jer ništa ne može biti uzrok osim ukoliko je biće, a svako je biće, kao takvo, dobro. I ako promotrimo posebne pojmove uzroka, djelatnik, forma i svrha uključuju neku savršenost, koja pripada pojmu dobra; ali i tvar, ukoliko je mogućnost za dobro, ima pojam dobra. Da je dobro uzrok zla na način tvarnog uzroka, već je jasno iz prethodnoga: pokazano je, naime, da je dobro subjekt zla. Formalnog pak uzroka zlo nema, nego je prije lišenost forme. A slično ni svršnog uzroka, nego je prije lišenost usmjerenosti prema dužnoj svrsi; jer pojam dobra nema samo svrha nego i korisno, koje je usmjereno prema svrsi. Uzrok pak na način djelatnika zlo ima, ali ne po sebi, nego akcidentalno. Da bi to bilo očito, treba znati da zlo biva drukčije prouzročeno u radnji, a drukčije u učinku. U radnji, dakle, zlo biva prouzročeno zbog nedostatka nekoga od počela radnje, bilo glavnoga djelatnika bilo oruđa; kao što se nedostatak u gibanju živog bića može dogoditi bilo zbog slabosti pokretačke snage, kao kod djece, bilo samo zbog neprikladnosti oruđa, kao kod hromih. Zlo pak u nekoj stvari, ali ne u vlastitom učinku djelatnika, prouzročuje se katkad iz snage djelatnika, a katkad iz njegova nedostatka ili iz nedostatka tvari. Iz snage ili savršenosti djelatnika, kada za formom na koju djelatnik smjera nužno slijedi lišenost druge forme; kao što za formom vatre slijedi lišenost forme zraka ili vode. Kao što, dakle, vatra, što je savršenija po snazi, to savršenije utiskuje svoju formu, tako i savršenije uništava protivno; stoga su zlo i propadanje zraka i vode od savršenosti vatre. Ali to je akcidentalno, jer vatra ne smjera na to da liši formu vode, nego da uvede vlastitu formu; ali čineći to, akcidentalno prouzročuje i ono. Ako je pak nedostatak u vlastitom učinku vatre, na primjer da ne uspijeva grijati, to je bilo zbog nedostatka radnje, koji se svodi na nedostatak nekoga počela, kao što je rečeno, bilo zbog neraspoloživosti tvari, koja ne prima radnju vatre koja djeluje. Ali i samo to biti manjkav akcidentalno je dobru, kojemu po sebi pristaje djelovati. Stoga je istina da zlo ni na koji način nema uzroka osim akcidentalno. A tako je dobro uzrok zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što kaže Augustin u djelu Protiv Julijana, *zlim stablom Gospodin naziva zlu volju, a dobrim stablom dobru volju*. A iz dobre volje ne proizvodi se zao moralni čin, budući da se upravo po dobroj volji prosuđuje dobar moralni čin. Ali ipak sam pokret zle volje prouzročuje razumski stvor, koji je dobar. I tako je on uzrok zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a1.ad2": {
+      "text": "Na drugo treba reći da dobro ne prouzročuje ono zlo koje mu je protivno, nego neko drugo; kao što dobrota vatre prouzročuje zlo vode, a čovjek dobar po svojoj naravi prouzročuje čin zao po ćudoređu. I to je samo akcidentalno, kao što je rečeno. Nalazi se pak da i jedno od protivnoga prouzročuje drugo akcidentalno; kao što hladnoća koja izvana okružuje grije, ukoliko se toplina povlači u unutrašnjost.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a1.ad3": {
+      "text": "Na treće treba reći da zlo ima manjkav uzrok na drukčiji način u voljnim stvarima, a na drukčiji u prirodnim. Prirodni djelatnik, naime, proizvodi svoj učinak onakvim kakav je i sam, osim ako ga priječi nešto izvanjsko; a i to je neki njegov nedostatak. Stoga u učinku nikada ne slijedi zlo ako u djelatniku ili tvari ne postoji prije neko drugo zlo, kao što je rečeno. Ali u voljnim stvarima nedostatak radnje izlazi od volje koja u činu manjka, ukoliko se u činu ne podvrgava svojemu pravilu. Taj nedostatak ipak nije krivnja, nego krivnja slijedi iz toga što volja djeluje s takvim nedostatkom.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a1.ad4": {
+      "text": "Na četvrto treba reći da zlo nema uzroka po sebi, nego samo akcidentalno, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je najviše dobro, a to je Bog, uzrok zla. Kaže se, naime, u Iz 45: *Ja sam Gospodin i nema drugoga Boga, koji oblikujem svjetlo i stvaram tamu, činim mir i stvaram zlo*. I u Am 3: *Hoće li biti zla u gradu koje Gospodin nije učinio?*",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a2.obj2": {
+      "text": "Osim toga, učinak drugotnog uzroka svodi se na prvi uzrok. A dobro je uzrok zla, kao što je rečeno. Budući, dakle, da je Bog uzrok svakoga dobra, kao što je gore pokazano, slijedi da je i svako zlo od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a2.obj3": {
+      "text": "Osim toga, kao što se kaže u II. knjizi Fizike, isto je uzrok spasa broda i njegove pogibli. A Bog je uzrok spasa svih stvari. Dakle, on je sam uzrok svake propasti i zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Osamdeset i tri pitanja, da *Bog nije začetnik zla, jer nije uzrok težnje prema nebitku*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je jasno iz rečenoga, zlo koje se sastoji u nedostatku radnje uvijek biva prouzročeno nedostatkom djelatnika. A u Bogu nema nikakva nedostatka, nego je najviša savršenost, kao što je gore pokazano. Stoga se zlo koje se sastoji u nedostatku radnje, ili koje biva prouzročeno nedostatkom djelatnika, ne svodi na Boga kao na uzrok. Ali zlo koje se sastoji u propadanju nekih stvari svodi se na Boga kao na uzrok. I to je jasno kako u prirodnim tako i u voljnim stvarima. Rečeno je, naime, da neki djelatnik, ukoliko svojom snagom proizvodi neku formu za kojom slijedi propadanje i nedostatak, svojom snagom prouzročuje to propadanje i nedostatak. A očito je da je forma na koju Bog u stvorenim stvarima glavno smjera dobro reda svemira. A red svemira zahtijeva, kao što je gore rečeno, da postoje neke stvari koje mogu manjkati i koje katkad manjkaju. I tako Bog, prouzročujući u stvarima dobro reda svemira, posljedično i kao akcidentalno prouzročuje propadanja stvari; prema onome što se kaže u 1 Sam 2: *Gospodin usmrćuje i oživljuje*. A ono što se kaže u Mudr 1, da *Bog nije stvorio smrti*, shvaća se tako da je nije stvorio kao po sebi namjeravanu. A redu svemira pripada i red pravednosti, koji zahtijeva da se grešnicima nanese kazna. I prema tome Bog je začetnik zla koje je kazna, ali ne zla koje je krivnja, zbog gore navedenoga razloga.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da ona mjesta autoriteta govore o zlu kazne, a ne o zlu krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a2.ad2": {
+      "text": "Na drugo treba reći da se učinak manjkavog drugotnog uzroka svodi na prvi nemanjkavi uzrok glede onoga što ima od bićevnosti i savršenosti, ali ne glede onoga što ima od nedostatka. Kao što sve što je gibanje u hramanju prouzročuje pokretačka snaga, a ono što je u njemu iskrivljenost nije od pokretačke snage, nego od krivine noge. I slično, sve što je bićevnosti i radnje u zloj radnji svodi se na Boga kao na uzrok, a ono što je ondje nedostatak ne prouzročuje Bog, nego manjkav drugotni uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a2.ad3": {
+      "text": "Na treće treba reći da se potonuće broda pripisuje mornaru kao uzroku zato što ne čini ono što se zahtijeva za spas broda. Ali Bog ne propušta činiti ono što je nužno za spas. Stoga to nije slično.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da postoji jedno najviše zlo koje je uzrok svakoga zla. Jer protivni učinci imaju protivne uzroke. A u stvarima se nalazi protivnost, prema onome iz Sir 33: *Nasuprot zlu je dobro, a nasuprot životu smrt; tako je i nasuprot pravednu čovjeku grešnik*. Dakle, postoje protivna počela, jedno dobra, a drugo zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.obj2": {
+      "text": "Osim toga, ako je jedno od protivnoga u prirodi stvari, onda je i drugo, kao što se kaže u II. knjizi O nebu i svijetu. A u prirodi stvari postoji najviše dobro, koje je uzrok svakoga dobra, kao što je gore pokazano. Dakle, postoji i najviše zlo, njemu suprotstavljeno, uzrok svakoga zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.obj3": {
+      "text": "Osim toga, kao što se u stvarima nalazi dobro i bolje, tako se nalazi zlo i gore. A dobro i bolje kažu se s obzirom na najbolje. Dakle, zlo i gore kažu se s obzirom na neko najviše zlo.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.obj4": {
+      "text": "Osim toga, sve što jest po sudjelovanju svodi se na ono što jest po biti. A stvari koje su kod nas zle nisu zle po biti, nego po sudjelovanju. Dakle, treba naći neko najviše zlo po biti, koje je uzrok svakoga zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.obj5": {
+      "text": "Osim toga, sve što jest akcidentalno svodi se na ono što jest po sebi. A dobro je uzrok zla akcidentalno. Dakle, treba postaviti neko najviše zlo koje bi bilo uzrok zala po sebi. A ne može se reći da zlo nema uzroka po sebi, nego samo akcidentalno, jer bi slijedilo da zlo ne bi bilo u većini slučajeva, nego u manjini.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.obj6": {
+      "text": "Osim toga, zlo učinka svodi se na zlo uzroka, jer manjkav učinak dolazi od manjkavog uzroka, kao što je gore rečeno. Ali tu se ne može ići u beskonačno. Dakle, treba postaviti jedno prvo zlo koje bi bilo uzrok svakoga zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.sc": {
+      "text": "Ali protiv toga je to što je najviše dobro uzrok svakoga bića, kao što je gore pokazano. Dakle, ne može postojati neko njemu suprotstavljeno počelo koje bi bilo uzrok zala.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.resp": {
+      "text": "Odgovaram: treba reći da je iz prethodnoga jasno da ne postoji jedno prvo počelo zala kao što postoji jedno prvo počelo dobara. Prvo, zato što je prvo počelo dobara dobro po biti, kao što je gore pokazano. A ništa ne može biti zlo po svojoj biti: pokazano je, naime, da je svako biće, ukoliko je biće, dobro, i da zlo nije nigdje osim u dobru kao u subjektu. Drugo, zato što je prvo počelo dobara najviše i savršeno dobro, koje unaprijed u sebi ima svu dobrotu, kao što je gore pokazano. A najviše zlo ne može postojati, jer, kao što je pokazano, premda zlo uvijek umanjuje dobro, ipak ga nikada ne može potpuno istrošiti; i tako, budući da dobro uvijek ostaje, ne može biti ničega što bi bilo cjelovito i savršeno zlo. Zbog toga Filozof kaže u IV. knjizi Etike da će *zlo, ako bude cjelovito, uništiti samo sebe*; jer kad se uništi svako dobro (što se zahtijeva za cjelovitost zla), oduzima se i samo zlo, čiji je subjekt dobro. Treće, zato što se pojam zla protivi pojmu prvoga počela. S jedne strane, zato što je svako zlo prouzročeno od dobra, kao što je gore pokazano. S druge strane, zato što zlo ne može biti uzrok osim akcidentalno, pa tako ne može biti prvi uzrok, jer je akcidentalni uzrok kasniji od onoga koji je po sebi, kao što je jasno u II. knjizi Fizike. Oni pak koji su postavili dva prva počela, jedno dobro, a drugo zlo, upali su u tu zabludu iz istoga korijena iz kojega su potekla i druga čudna stajališta starih: naime, zato što nisu promatrali opći uzrok svega bića, nego samo posebne uzroke posebnih učinaka. Zbog toga su, naime, kad bi našli da je nešto škodljivo nekoj stvari snagom svoje naravi, smatrali da je narav te stvari zla; na primjer, kad bi netko rekao da je narav vatre zla zato što je spalila kuću nekoga siromaha. A sud o dobroti neke stvari ne treba uzimati prema redu prema nečemu posebnom, nego prema njoj samoj i prema redu prema cijelom svemiru, u kojem svaka stvar najuređenije drži svoje mjesto, kao što je jasno iz rečenoga. Slično tako, budući da su za dva posebna protivna učinka našli dva posebna protivna uzroka, nisu znali svesti posebne protivne uzroke na opći zajednički uzrok. I zato su prosudili da protivnost u uzrocima seže sve do prvih počela. Ali budući da se sve protivno slaže u nečemu zajedničkom, nužno je da se u njemu, iznad vlastitih protivnih uzroka, nađe jedan zajednički uzrok; kao što se iznad protivnih kakvoća elemenata nalazi snaga nebeskoga tijela. I slično se iznad svega što na bilo koji način jest nalazi jedno prvo počelo bitka, kao što je gore pokazano.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se protivno slaže u jednom rodu, a slaže se i u pojmu bitka. I zato, premda ima posebne protivne uzroke, ipak treba doći do jednoga prvog zajedničkog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.ad2": {
+      "text": "Na drugo treba reći da su lišenost i posjedovanje po naravi takvi da nastaju oko istoga. A subjekt lišenosti jest biće u mogućnosti, kao što je rečeno. Stoga, budući da je zlo lišenost dobra, kao što je jasno iz rečenoga, ono je suprotstavljeno onome dobru kojemu je pridružena mogućnost, ali ne najvišemu dobru, koje je čisti čin.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.ad3": {
+      "text": "Na treće treba reći da svaka stvar raste prema vlastitom pojmu. A kao što je forma neka savršenost, tako je lišenost neko odstranjivanje. Stoga svaka forma, savršenost i dobro raste približavanjem savršenoj granici, a lišenost i zlo udaljavanjem od granice. Stoga se zlo i gore ne kaže po približavanju najvišemu zlu, kao što se dobro i bolje kaže po približavanju najvišemu dobru.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.ad4": {
+      "text": "Na četvrto treba reći da se nijedno biće ne naziva zlim po sudjelovanju, nego po lišenosti sudjelovanja. Stoga nije potrebno svoditi na nešto što bi bilo zlo po biti.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.ad5": {
+      "text": "Na peto treba reći da zlo ne može imati uzroka osim akcidentalno, kao što je gore pokazano. Stoga je nemoguće svoditi na nešto što bi bilo po sebi uzrok zla. A ono što se kaže, da je zlo u većini slučajeva, naprosto je lažno. Jer stvari koje nastaju i propadaju, u kojima jedino može biti zla naravi, malen su dio cijeloga svemira. I opet, u svakoj vrsti nedostatak naravi događa se u manjini slučajeva. Samo se kod ljudi čini da je zlo u većini slučajeva, jer dobro čovjeka po osjetilu nije dobro čovjeka ukoliko je čovjek, to jest po razumu; a više njih slijedi osjetilo nego razum.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q49.a3.ad6": {
+      "text": "Na šesto treba reći da se u uzrocima zla ne ide u beskonačno, nego se sva zla svode na neki dobar uzrok, iz kojega zlo slijedi akcidentalno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    }
+  }
+}

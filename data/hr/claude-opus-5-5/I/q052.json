@@ -1,0 +1,132 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 52,
+  "units": {
+    "I.q52.pr": {
+      "text": "Zatim se pita o mjestu anđela. I o tome se pitaju tri stvari. Prvo, je li anđeo na mjestu. Drugo, može li biti na više mjesta istodobno. Treće, mogu li više anđela biti na istom mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da anđeo nije na mjestu. Boetije, naime, kaže u knjizi O hebdomadama: *zajednička je zamisao duha kod mudrih da netjelesne stvari nisu na mjestu*. I Aristotel u IV. knjizi Fizike kaže da *nije na mjestu sve što jest, nego pokretljivo tijelo*. Ali anđeo nije tijelo, kao što je gore pokazano. Dakle, anđeo nije na mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a1.obj2": {
+      "text": "Osim toga, mjesto je kolikoća koja ima položaj. Sve, dakle, što je na mjestu ima neki položaj. Ali imati položaj ne može pristajati anđelu, budući da je njegova supstancija slobodna od kolikoće, čija je vlastita razlika imati položaj. Dakle, anđeo nije na mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a1.obj3": {
+      "text": "Osim toga, biti na mjestu znači biti mjeren mjestom i biti sadržan u mjestu, kao što je očito kod Filozofa u IV. knjizi Fizike. Ali anđeo ne može biti mjeren mjestom ni sadržan u njemu, jer je ono što sadrži formalnije od sadržanoga, kao zrak od vode, kao što se kaže u IV. knjizi Fizike. Dakle, anđeo nije na mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u zbornoj molitvi: *tvoji sveti anđeli, koji u njoj prebivaju, neka nas čuvaju u miru*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a1.resp": {
+      "text": "Odgovaram: treba reći da anđelu pristaje biti na mjestu; ipak se dvoznačno kaže da je na mjestu anđeo i da je na mjestu tijelo. Tijelo je, naime, na mjestu time što se primjenjuje na mjesto prema dodiru protežne kolikoće. Nje u anđelima nema, nego je u njima virtualna kolikoća. Primjenom, dakle, anđeoske snage na neko mjesto, na bilo koji način, kaže se da je anđeo na tjelesnom mjestu. I prema tome je očito da ne treba reći da je anđeo sumjeran mjestu ili da ima položaj u neprekinutome. To, naime, pristaje tijelu smještenom na mjestu, ukoliko ima veličinu po protežnoj kolikoći. Slično tako ne treba zbog toga reći ni da ga mjesto sadrži. Netjelesna, naime, supstancija, dotičući svojom snagom tjelesnu stvar, sadrži nju, a nije od nje sadržana; duša je, naime, u tijelu kao ono što sadrži, a ne kao ono što je sadržano. I slično se kaže da je anđeo na tjelesnom mjestu ne kao ono što je sadržano, nego na neki način kao ono što sadrži.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a1.adarg": {
+      "text": "I time je očit odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da anđeo može biti na više mjesta istodobno. Anđeo, naime, nije manje snage od duše. Ali duša je istodobno na više mjesta, jer je cijela u svakom dijelu tijela, kako kaže Augustin. Dakle, anđeo može biti na više mjesta istodobno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a2.obj2": {
+      "text": "Osim toga, anđeo je u uzetom tijelu; i budući da uzima neprekinuto tijelo, čini se da je u svakom njegovu dijelu. Ali prema njegovim se dijelovima razmatraju različita mjesta. Dakle, anđeo je istodobno na više mjesta.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a2.obj3": {
+      "text": "Osim toga, Damaščanin kaže da je anđeo ondje gdje djeluje. Ali katkad djeluje istodobno na više mjesta, kao što je očito o anđelu koji je razorio Sodomu, Post 19. Dakle, anđeo može biti na više mjesta istodobno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin, da *anđeli, dok su na nebu, nisu na zemlji*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a2.resp": {
+      "text": "Odgovaram: treba reći da je anđeo konačne snage i biti. A božanska je snaga i bit beskonačna, i opći je uzrok svega; i zato svojom snagom dotiče sve, i nije samo na više mjesta, nego posvuda. A snaga se anđela, budući da je konačna, ne proteže na sve, nego na nešto jedno određeno. Sve, naime, što se odnosi prema jednoj snazi mora se prema njoj odnositi kao nešto jedno. Kao što se, dakle, sveukupno biće odnosi kao nešto jedno prema općoj Božjoj snazi, tako se i neko posebno biće odnosi kao nešto jedno prema anđelovoj snazi. Stoga, budući da je anđeo na mjestu primjenom svoje snage na mjesto, slijedi da nije posvuda niti na više mjesta, nego samo na jednom mjestu. U tome su se ipak neki prevarili. Neki su, naime, ne mogavši nadići maštu, zamišljali nedjeljivost anđela na način nedjeljivosti točke, i stoga su vjerovali da anđeo može biti samo na točkastom mjestu. Ali očito su se prevarili. Jer točka je nešto nedjeljivo što ima položaj, a anđeo je nešto nedjeljivo što postoji izvan roda kolikoće i položaja. Stoga nije nužno da mu bude određeno jedno mjesto nedjeljivo po položaju, nego ili djeljivo ili nedjeljivo, ili veće ili manje, već prema tome kako on voljno primjenjuje svoju snagu na veće ili manje tijelo. I tako mu cijelo tijelo na koje se svojom snagom primjenjuje odgovara kao jedno mjesto. Ipak, ako neki anđeo pokreće nebo, ne treba da bude posvuda. Prvo, zato što se njegova snaga primjenjuje samo na ono što on prvo pokreće; a jedan je dio neba u kojem je prvo gibanje, naime istočni dio; stoga i Filozof u VIII. knjizi Fizike snagu pokretača nebesa pripisuje istočnom dijelu. Drugo, zato što filozofi ne postavljaju da jedna odijeljena supstancija neposredno pokreće sve sfere. Stoga ne treba da bude posvuda. Tako je, dakle, očito da biti na mjestu na različit način pristaje tijelu, anđelu i Bogu. Tijelo je, naime, na mjestu omeđeno, jer je sumjerno mjestu. Anđeo pak ne omeđeno, budući da nije sumjeran mjestu, nego određeno, jer je tako na jednom mjestu da nije na drugome. A Bog ni omeđeno ni određeno, jer je posvuda.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a2.ad1": {
+      "text": "I time je lako očit odgovor na prigovore, jer se sve ono na što se snaga anđela neposredno primjenjuje smatra jednim njegovim mjestom, premda je neprekinuto.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da više anđela može biti istodobno na istom mjestu. Više tijela, naime, ne može biti istodobno na istom mjestu jer ispunjaju mjesto. Ali anđeli ne ispunjaju mjesto, jer samo tijelo ispunja mjesto tako da ono ne bude prazno, kao što je očito kod Filozofa u IV. knjizi Fizike. Dakle, više anđela može biti na jednom mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a3.obj2": {
+      "text": "Osim toga, anđeo i tijelo više se razlikuju nego dva anđela. Ali anđeo i tijelo jesu istodobno na istom mjestu, jer nema mjesta koje ne bi bilo puno osjetnoga tijela, kao što se dokazuje u IV. knjizi Fizike. Dakle, mnogo više dva anđela mogu biti na istom mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a3.obj3": {
+      "text": "Osim toga, duša je u svakom dijelu tijela, prema Augustinu. Ali demoni, premda ne ulaze u duhove, katkad ipak ulaze u tijela; i tako su duša i demon istodobno na istom mjestu. Dakle, s istoga razloga i bilo koje druge duhovne supstancije.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a3.sc": {
+      "text": "Ali protiv toga, dvije duše nisu u istom tijelu. Dakle, s jednakoga razloga ni dva anđela nisu na istom mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a3.resp": {
+      "text": "Odgovaram: treba reći da dva anđela nisu istodobno na istom mjestu. A razlog je tomu što je nemoguće da dva potpuna uzroka budu neposredni uzroci jedne te iste stvari. To je očito u svakom rodu uzroka: jedna je, naime, najbliža forma jedne stvari i jedan je najbliži pokretač, premda može biti više udaljenih pokretača. A tome ne proturječi primjer više ljudi koji vuku lađu, jer nijedan od njih nije savršen pokretač, budući da je snaga svakoga od njih nedostatna za pokretanje; nego su svi zajedno na mjestu jednoga pokretača, ukoliko se sve njihove snage združuju da bi proizvele jedno gibanje. Stoga, budući da se kaže da je anđeo na mjestu time što njegova snaga neposredno dotiče mjesto na način onoga što savršeno sadrži, kao što je rečeno, na jednom mjestu može biti samo jedan anđeo.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da to što je više anđela na jednom mjestu nije spriječeno zbog ispunjanja mjesta, nego zbog drugoga uzroka, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a3.ad2": {
+      "text": "Na drugo treba reći da anđeo i tijelo nisu na mjestu na isti način; stoga razlog ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    },
+    "I.q52.a3.ad3": {
+      "text": "Na treće treba reći da se ni demon i duša ne odnose prema tijelu po istom odnošaju uzroka, budući da je duša forma, a demon nije. Stoga razlog ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:09+00:00"
+    }
+  }
+}

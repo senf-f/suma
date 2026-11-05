@@ -1,0 +1,342 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 48,
+  "units": {
+    "I.q48.pr": {
+      "text": "Zatim treba razmotriti razlikovanje stvari posebno. I najprije razlikovanje dobra i zla; zatim razlikovanje duhovnog i tjelesnog stvora. Glede prvoga treba pitati o zlu i o uzroku zla. Glede zla pita se šest stvari. Prvo, je li zlo neka narav. Drugo, nalazi li se zlo u stvarima. Treće, je li dobro subjekt zla. Četvrto, uništava li zlo potpuno dobro. Peto, o diobi zla na kaznu i krivnju. Šesto, što ima više od pojma zla, kazna ili krivnja.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je zlo neka narav. Jer svaki je rod neka narav. A zlo je neki rod; kaže se, naime, u Kategorijama da *dobro i zlo nisu u rodu, nego su rodovi drugih stvari*. Dakle, zlo je neka narav.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.obj2": {
+      "text": "Osim toga, svaka razlika koja ustanovljuje neku vrstu jest neka narav. A zlo je ustanovljujuća razlika u moralnim stvarima: zao se habitus, naime, vrstom razlikuje od dobroga, kao darežljivost od škrtosti. Dakle, zlo označuje neku narav.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.obj3": {
+      "text": "Osim toga, svako od dvoga protivnoga jest neka narav. A zlo i dobro nisu suprotstavljeni kao lišenost i posjedovanje, nego kao protivno, kao što Filozof dokazuje u Kategorijama time što između dobra i zla postoji nešto srednje i što se od zla može vratiti k dobru. Dakle, zlo označuje neku narav.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.obj4": {
+      "text": "Osim toga, ono što nije, ne djeluje. A zlo djeluje, jer uništava dobro. Dakle, zlo je neko biće i neka narav.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.obj5": {
+      "text": "Osim toga, savršenosti sveukupnosti stvari pripada samo ono što je biće i neka narav. A zlo pripada savršenosti sveukupnosti stvari; Augustin, naime, kaže u Enhiridiju da se *od svega sastoji divna ljepota sveukupnosti; u kojoj i ono što se naziva zlom, dobro uređeno i postavljeno na svoje mjesto, još uzvišenije ističe dobra*. Dakle, zlo je neka narav.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Dionizije u IV. poglavlju O božanskim imenima: *Zlo nije ni postojeće ni dobro*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.resp": {
+      "text": "Odgovaram: treba reći da se jedno od suprotstavljenoga spoznaje po drugome, kao tama po svjetlu. Stoga i ono što je zlo treba shvatiti iz pojma dobra. Gore smo pak rekli da je dobro sve ono što je poželjno; i tako, budući da svaka narav teži za svojim bitkom i svojom savršenošću, nužno je reći da bitak i savršenost bilo koje naravi ima pojam dobrote. Stoga ne može biti da zlo označuje neki bitak ili neku formu ili narav. Preostaje, dakle, da se imenom zla označuje neka odsutnost dobra. I utoliko se kaže da zlo nije ni postojeće ni dobro, jer, budući da je biće kao takvo dobro, odstranjivanje je obojega isto.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Aristotel ondje govori prema mišljenju pitagorejaca, koji su smatrali da je zlo neka narav i zato su postavljali dobro i zlo kao rodove. Aristotel je, naime, imao običaj, osobito u logičkim knjigama, navoditi primjere koji su u njegovo vrijeme bili vjerojatni, prema mišljenju nekih filozofa. Ili treba reći, kao što kaže Filozof u X. knjizi Metafizike, da je *prva protivnost posjedovanje i lišenost*, jer se, naime, očuvava u svemu protivnome, budući da je uvijek jedno od protivnoga nesavršeno u odnosu na drugo, kao crno u odnosu na bijelo i gorko u odnosu na slatko. I utoliko se dobro i zlo nazivaju rodovima, ne naprosto, nego rodovima protivnoga; jer kao što svaka forma ima pojam dobra, tako svaka lišenost, kao takva, ima pojam zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.ad2": {
+      "text": "Na drugo treba reći da dobro i zlo nisu ustanovljujuće razlike osim u moralnim stvarima, koje primaju vrstu od svrhe, a ona je predmet volje, o kojoj ovise moralne stvari. A budući da dobro ima pojam svrhe, zato su dobro i zlo specifične razlike u moralnim stvarima: dobro po sebi, a zlo ukoliko je odstranjivanje dužne svrhe. Ipak ni odstranjivanje dužne svrhe ne ustanovljuje vrstu u moralnim stvarima osim ukoliko se pridružuje nedužnoj svrsi; kao što se ni u prirodnim stvarima ne nalazi lišenost supstancijalne forme osim pridružena drugoj formi. Tako je, dakle, zlo koje je ustanovljujuća razlika u moralnim stvarima neko dobro pridruženo lišenosti drugoga dobra; kao što svrha neumjerenoga nije, doduše, oskudijevati dobrom razuma, nego ono što je ugodno osjetilu bez reda razuma. Stoga zlo, ukoliko je zlo, nije ustanovljujuća razlika, nego zbog pridruženoga dobra.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.ad3": {
+      "text": "I time je jasan i odgovor na treće. Ondje, naime, Filozof govori o dobru i zlu ukoliko se nalaze u moralnim stvarima. Tako se, naime, između dobra i zla nalazi nešto srednje, ukoliko se dobrim naziva ono što je uređeno, a zlim ono što nije samo neuređeno nego i škodljivo drugome. Stoga Filozof kaže u IV. knjizi Etike da je rasipnik doduše ispraznik, ali nije zao. I od toga zla, koje je u ćudoređu, može se vratiti k dobru, ali ne od bilo kojega zla. Jer od sljepoće nema povratka k vidu, premda je sljepoća neko zlo.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.ad4": {
+      "text": "Na četvrto treba reći da se za nešto kaže da djeluje na tri načina. Na jedan način, formalno, onim načinom govora kojim se kaže da bjelina čini bijelim. I tako se za zlo, i to zbog same lišenosti, kaže da uništava dobro, jer ono jest samo uništenje ili lišenost dobra. Na drugi se način kaže da nešto djeluje tvorno, kao što se kaže da slikar čini zid bijelim. Na treći način, na način svršnog uzroka, kao što se kaže da svrha djeluje tvorno, pokrećući tvorni uzrok. Na ova dva načina zlo ne čini ništa po sebi, to jest ukoliko je neka lišenost, nego ukoliko mu je pridruženo dobro; jer svaka je radnja od neke forme, a sve za čim se žudi kao za svrhom jest neka savršenost. I zato, kao što kaže Dionizije u IV. poglavlju O božanskim imenima, zlo ne djeluje niti se za njim žudi osim snagom pridruženoga dobra; po sebi je pak beskonačno, i mimo volje i nakane.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a1.ad5": {
+      "text": "Na peto treba reći da, kao što je gore rečeno, dijelovi svemira imaju red jedan prema drugome, ukoliko jedan djeluje na drugi i jest svrha drugoga i uzor. A to, kao što je rečeno, ne može pristajati zlu osim zbog pridruženoga dobra. Stoga zlo niti pripada savršenosti svemira niti je obuhvaćeno redom svemira, osim akcidentalno, to jest zbog pridruženoga dobra.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se zlo ne nalazi u stvarima. Jer sve što se nalazi u stvarima ili je neko biće ili lišenost nekoga bića, a to je nebiće. A Dionizije kaže u IV. poglavlju O božanskim imenima da je zlo udaljeno od postojećega, a još je više udaljeno od nepostojećega. Dakle, zlo se nikako ne nalazi u stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a2.obj2": {
+      "text": "Osim toga, biće i stvar su zamjenjivi. Ako je, dakle, zlo biće u stvarima, slijedi da je zlo neka stvar. A to je protiv prethodno rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a2.obj3": {
+      "text": "*Osim toga, bjelje je ono što je manje pomiješano s crnim*, kao što se kaže u III. knjizi Aristotelove Topike. Dakle, i bolje je ono što je manje pomiješano sa zlom. A Bog uvijek čini ono što je bolje, mnogo više nego narav. Dakle, u stvarima koje je Bog sazdao ne nalazi se ništa zlo.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a2.sc": {
+      "text": "Ali protiv toga je to što bi se prema tome uklonile sve zabrane i kazne, koje postoje samo za zla.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, savršenost svemira zahtijeva da u stvarima bude nejednakost, kako bi se ispunili svi stupnjevi dobrote. A jedan je stupanj dobrote da je nešto tako dobro da nikada ne može manjkati. Drugi je pak stupanj dobrote da je nešto tako dobro da može manjkati u dobru. Ti se stupnjevi nalaze i u samom bitku: neke su stvari, naime, takve da ne mogu izgubiti svoj bitak, kao netjelesne; neke su pak takve da ga mogu izgubiti, kao tjelesne. Kao što, dakle, savršenost sveukupnosti stvari zahtijeva da ne budu samo nepropadljiva bića nego i propadljiva, tako savršenost svemira zahtijeva da budu neke stvari koje mogu manjkati u dobroti; a iz toga slijedi da one katkad i manjkaju. A u tome se sastoji pojam zla, naime u tome da nešto manjka u dobru. Stoga je očito da se zlo nalazi u stvarima, kao i propadanje; jer je i samo propadanje neko zlo.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je zlo udaljeno i od bića naprosto i od nebića naprosto, jer nije ni kao posjedovanje ni kao čisto nijekanje, nego kao lišenost.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a2.ad2": {
+      "text": "Na drugo treba reći da se, kao što se kaže u V. knjizi Metafizike, biće kaže na dva načina. Na jedan način, ukoliko označuje bićevnost stvari, kako se dijeli na deset kategorija; i tako je zamjenjivo sa stvari. Na taj način nijedna lišenost nije biće, pa stoga ni zlo. Na drugi se način bićem naziva ono što označuje istinitost izjave, koja se sastoji u sastavljanju, a njezin je znak ova riječ „jest”; i to je biće kojim se odgovara na pitanje „je li?”. I tako kažemo da je sljepoća u oku, ili bilo koja druga lišenost. I na taj se način i zlo naziva bićem. Zbog nepoznavanja ovoga razlikovanja neki su, uočavajući da se neke stvari nazivaju zlima ili da se kaže da je zlo u stvarima, vjerovali da je zlo neka stvar.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a2.ad3": {
+      "text": "Na treće treba reći da Bog i narav, i bilo koji djelatnik, čini ono što je bolje u cjelini, ali ne ono što je bolje u svakom dijelu, osim po redu prema cjelini, kao što je gore rečeno. A sama cjelina, koja je sveukupnost stvorova, bolja je i savršenija ako u njoj postoje neke stvari koje mogu manjkati u dobru i koje katkad manjkaju, a Bog to ne priječi. To, s jedne strane, zato što providnosti ne pripada da razara narav, nego da je čuva, kao što kaže Dionizije u IV. poglavlju O božanskim imenima; a sama priroda stvari ima to da ono što može manjkati, katkad i manjka. S druge strane, zato što je, kao što kaže Augustin u Enhiridiju, Bog toliko moćan da može i od zala učiniti dobro. Stoga bi se uklonila mnoga dobra kad Bog ne bi dopustio da postoji nikakvo zlo. Ne bi, naime, nastajala vatra kad ne bi propadao zrak; niti bi se održavao život lava kad ne bi bio ubijen magarac; niti bi se hvalila pravednost koja kažnjava i strpljivost koja podnosi kad ne bi bilo nepravde.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da zlo nije u dobru kao u subjektu. Jer sva su dobra postojeća. A Dionizije kaže u IV. poglavlju O božanskim imenima da zlo nije postojeće niti je u postojećima. Dakle, zlo nije u dobru kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a3.obj2": {
+      "text": "Osim toga, zlo nije biće, a dobro jest biće. Ali nebiće ne zahtijeva biće u kojem bi bilo kao u subjektu. Dakle, ni zlo ne zahtijeva dobro u kojem bi bilo kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a3.obj3": {
+      "text": "Osim toga, jedno od protivnoga nije subjekt drugoga. A dobro i zlo su protivni. Dakle, zlo nije u dobru kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a3.obj4": {
+      "text": "Osim toga, za ono u čemu je bjelina kao u subjektu kaže se da je bijelo. Dakle, i ono u čemu je zlo kao u subjektu jest zlo. Ako je, dakle, zlo u dobru kao u subjektu, slijedi da je dobro zlo, protivno onomu što se kaže u Iz 5: *Jao vama koji zlo nazivate dobrim, a dobro zlim*.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u Enhiridiju, da zlo nije nigdje osim u dobru.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, zlo uključuje odstranjivanje dobra. Ali se ne naziva zlom bilo koje odstranjivanje dobra. Odstranjivanje dobra može se, naime, uzeti i na način lišenosti i na način nijekanja. Odstranjivanje dobra uzeto na način nijekanja nema, dakle, pojam zla; inače bi slijedilo da je ono što nikako ne postoji zlo, i opet da je svaka stvar zla time što nema dobro neke druge stvari, na primjer da je čovjek zao jer nema brzinu srne ili jakost lava. Ali odstranjivanje dobra uzeto na način lišenosti naziva se zlom, kao što se lišenost vida naziva sljepoćom. A subjekt lišenosti i forme jedan je te isti, naime biće u mogućnosti: bilo da je biće u mogućnosti naprosto, kao prva tvar, koja je subjekt supstancijalne forme i suprotstavljene lišenosti; bilo da je biće u mogućnosti u nekom pogledu, a u činu naprosto, kao prozirno tijelo, koje je subjekt tame i svjetla. A očito je da je forma po kojoj nešto jest u činu neka savršenost i neko dobro; i tako je svako biće u činu neko dobro. I slično je svako biće u mogućnosti, kao takvo, neko dobro, ukoliko ima red prema dobru: jer kao što je biće u mogućnosti, tako je i dobro u mogućnosti. Preostaje, dakle, da je subjekt zla dobro.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Dionizije misli da zlo nije u postojećima kao dio ili kao naravno svojstvo nekoga postojećeg.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a3.ad2": {
+      "text": "Na drugo treba reći da nebiće uzeto na način nijekanja ne zahtijeva subjekt. Ali lišenost je nijekanje u subjektu, kao što se kaže u IV. knjizi Metafizike, i takvo je nebiće zlo.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a3.ad3": {
+      "text": "Na treće treba reći da zlo nije kao u subjektu u dobru koje mu je suprotstavljeno, nego u nekom drugom dobru: subjekt sljepoće, naime, nije vid, nego živo biće. Ipak se čini, kao što kaže Augustin, da ovdje zakazuje pravilo dijalektičara koje kaže da protivno ne može biti istodobno. Ali to treba shvatiti prema općenitom poimanju dobra i zla, a ne ukoliko se posebno uzima ovo dobro i ovo zlo. Bijelo i crno, slatko i gorko i tome slično protivno uzimaju se samo posebno, jer su u nekim određenim rodovima. Ali dobro obuhvaća sve rodove; stoga jedno dobro može biti zajedno s lišenošću drugoga dobra.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a3.ad4": {
+      "text": "Na četvrto treba reći da prorok zaziva jao na one koji kažu da je ono što je dobro, ukoliko je dobro, zlo. A to ne slijedi iz prethodnoga, kao što je jasno iz rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da zlo uništava cijelo dobro. Jer jedno od protivnoga potpuno biva uništeno drugim. A dobro i zlo su protivni. Dakle, zlo može uništiti cijelo dobro.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a4.obj2": {
+      "text": "Osim toga, Augustin kaže u Enhiridiju da zlo škodi ukoliko oduzima dobro. Ali dobro je sebi slično i jednoliko. Dakle, zlom biva potpuno uklonjeno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a4.obj3": {
+      "text": "Osim toga, zlo, dokle god postoji, škodi i oduzima dobro. Ali ono od čega se uvijek nešto oduzima jednom se istroši, osim ako je beskonačno; a to se ne može reći ni o kojem stvorenom dobru. Dakle, zlo potpuno troši dobro.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u Enhiridiju, da zlo ne može potpuno istrošiti dobro.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a4.resp": {
+      "text": "Odgovaram: treba reći da zlo ne može potpuno istrošiti dobro. Da bi to bilo očito, treba uzeti u obzir da postoji trostruko dobro. Jedno je ono koje zlom biva potpuno uklonjeno, a to je dobro suprotstavljeno zlu; kao što svjetlo biva potpuno uklonjeno tamom, a vid sljepoćom. Drugo je pak dobro ono koje zlom niti biva potpuno uklonjeno niti umanjeno, naime dobro koje je subjekt zla; jer se tamom ništa ne umanjuje od supstancije zraka. Treće je pak dobro ono koje zlom doduše biva umanjeno, ali ne biva potpuno uklonjeno; a to je dobro sposobnost subjekta za čin. Umanjivanje toga dobra ne treba shvatiti kao oduzimanje, kakvo je umanjivanje u kolikoćama, nego kao slabljenje, kakvo je umanjivanje u kakvoćama i formama. A slabljenje te sposobnosti treba shvatiti kao protivno njezinu jačanju. Takva se sposobnost, naime, jača raspoloživostima kojima se tvar priprema za čin; što se one više umnažaju u subjektu, to je on sposobniji primiti savršenost i formu. I obratno, ona slabi protivnim raspoloživostima; što su one više umnožene u tvari i jače, to više slabi mogućnost za čin. Ako se, dakle, protivne raspoloživosti ne mogu umnožavati i jačati u beskonačno, nego samo do određene granice, ni spomenuta se sposobnost ne umanjuje ili ne slabi u beskonačno. To je jasno u djelatnim i trpnim kakvoćama elemenata: hladnoća i vlažnost, kojima se umanjuje ili slabi sposobnost tvari za formu vatre, ne mogu se, naime, umnažati u beskonačno. Ako se pak protivne raspoloživosti mogu umnažati u beskonačno, i spomenuta se sposobnost umanjuje ili slabi u beskonačno. Ipak ne biva potpuno uklonjena, jer uvijek ostaje u svojem korijenu, a to je supstancija subjekta. Kao kad bi se između sunca i zraka u beskonačno umetala neprozirna tijela, sposobnost zraka za svjetlo umanjivala bi se u beskonačno, ali nikada ne bi bila potpuno uklonjena, dok ostaje zrak, koji je po svojoj naravi proziran. Slično se i grijesi mogu dodavati u beskonačno, a po njima se sposobnost duše za milost uvijek sve više i više umanjuje; ti su grijesi kao zapreke umetnute između nas i Boga, prema onome iz Iz 59: *Grijesi su naši rastavili nas i Boga*. Pa ipak spomenuta sposobnost ne biva potpuno uklonjena iz duše, jer prati samu njezinu narav.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da dobro koje je suprotstavljeno zlu biva potpuno uklonjeno, ali druga dobra ne bivaju potpuno uklonjena, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a4.ad2": {
+      "text": "Na drugo treba reći da je spomenuta sposobnost srednja između subjekta i čina. Stoga se s one strane kojom dodiruje čin umanjuje zlom, a s one strane kojom se drži subjekta ostaje. Dakle, premda je dobro u sebi slično, ipak, zbog svojega odnosa prema različitome, ne biva potpuno uklonjeno, nego djelomično.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a4.ad3": {
+      "text": "Na treće treba reći da su neki, zamišljajući umanjivanje spomenutoga dobra po sličnosti s umanjivanjem kolikoće, rekli da, kao što se kontinuum dijeli u beskonačno kad se dioba vrši po istom razmjeru (na primjer, da se uzme polovica polovice ili trećina trećine), tako se događa i u ovom slučaju. Ali taj razlog ovdje nema mjesta. Jer u diobi u kojoj se uvijek čuva isti razmjer uvijek se oduzima sve manje i manje: polovica je polovice, naime, manja od polovice cjeline. Ali drugi grijeh ne umanjuje nužno manje od spomenute sposobnosti nego prethodni, nego možda jednako ili više. Treba, dakle, reći da se ta sposobnost, premda je nešto konačno, ipak umanjuje u beskonačno, ne po sebi, nego akcidentalno, ukoliko se i protivne raspoloživosti povećavaju u beskonačno, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se zlo nedostatno dijeli na kaznu i krivnju. Jer svaki se nedostatak čini nekim zlom. A u svim je stvorovima neki nedostatak, to što se ne mogu sami održati u bitku, a on ipak nije ni kazna ni krivnja. Dakle, zlo se ne dijeli dostatno na kaznu i krivnju.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a5.obj2": {
+      "text": "Osim toga, u nerazumskim stvarima ne nalazi se ni krivnja ni kazna. A ipak se u njima nalazi propadanje i nedostatak, koji pripadaju pojmu zla. Dakle, nije svako zlo kazna ili krivnja.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a5.obj3": {
+      "text": "Osim toga, napast je neko zlo. Ipak nije krivnja, jer napast na koju se ne pristaje *nije grijeh, nego građa za vježbanje kreposti*, kao što se kaže u Glosi uz 2 Kor 12. A nije ni kazna, jer napast prethodi krivnji, a kazna slijedi za njom. Dakle, zlo se nedostatno dijeli na kaznu i krivnju.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a5.sc": {
+      "text": "Ali protiv toga, čini se da je dioba suvišna. Jer, kao što kaže Augustin u Enhiridiju, zlo se naziva zlom zato što škodi. A ono što škodi ima narav kazne. Dakle, svako je zlo obuhvaćeno kaznom.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a5.resp": {
+      "text": "Odgovaram: treba reći da je zlo, kao što je gore rečeno, lišenost dobra, koje se glavno i po sebi sastoji u savršenosti i činu. A čin je dvostruk: prvi i drugi. Prvi je čin forma i cjelovitost stvari, a drugi je čin djelovanje. Zlo, dakle, može postojati na dva načina. Na jedan način, oduzimanjem forme ili nekoga dijela koji se zahtijeva za cjelovitost stvari; kao što je zlo sljepoća i nedostatak uda. Na drugi način, oduzimanjem dužnoga djelovanja: bilo zato što ga uopće nema, bilo zato što nema dužni način i red. A budući da je dobro naprosto predmet volje, zlo, koje je lišenost dobra, nalazi se po posebnom pojmu u razumskim stvorovima koji imaju volju. Zlo, dakle, koje nastaje oduzimanjem forme ili cjelovitosti stvari ima pojam kazne; i to osobito uz pretpostavku da je sve podložno božanskoj providnosti i pravednosti, kao što je gore pokazano: jer pojmu kazne pripada to da je protivna volji. A zlo koje se sastoji u oduzimanju dužnoga djelovanja u voljnim stvarima ima pojam krivnje. To se, naime, nekomu upisuje u krivnju kad manjka u savršenoj radnji kojoj je on po volji gospodar. Tako je, dakle, svako zlo promatrano u voljnim stvarima ili kazna ili krivnja.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da je zlo lišenost dobra, a ne čisto nijekanje, kao što je gore rečeno, nije svaki nedostatak dobra zlo, nego nedostatak dobra koje je po naravi takvo i koje treba imati. Nedostatak vida, naime, nije zlo u kamenu, nego u živom biću, jer je protivno pojmu kamena da ima vid. Slično je i protivno pojmu stvora da se sam od sebe održava u bitku, jer isti je onaj koji daje bitak i koji održava. Stoga taj nedostatak nije zlo stvora.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a5.ad2": {
+      "text": "Na drugo treba reći da kazna i krivnja ne dijele zlo naprosto, nego zlo u voljnim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a5.ad3": {
+      "text": "Na treće treba reći da napast, ukoliko uključuje izazivanje na zlo, uvijek je zlo krivnje u onome koji napastuje. Ali u onome koji biva napastovan nije u vlastitom smislu zlo, osim ukoliko je on na neki način promijenjen; jer je tako radnja djelatnika u trpniku. A ukoliko napastovani biva od napasnika promijenjen prema zlu, upada u krivnju.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a5.ad4": {
+      "text": "Na četvrto treba reći da pojmu kazne pripada da škodi djelatniku u njemu samome, a pojmu krivnje da škodi djelatniku u njegovoj radnji. I tako je oboje obuhvaćeno zlom, ukoliko ima pojam štete.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da kazna ima više od pojma zla nego krivnja. Jer krivnja se prema kazni odnosi kao zasluga prema nagradi. A nagrada ima više od pojma dobra nego zasluga, budući da je njezina svrha. Dakle, kazna ima više od pojma zla nego krivnja.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a6.obj2": {
+      "text": "Osim toga, ono je veće zlo što je suprotstavljeno većemu dobru. A kazna je, kao što je rečeno, suprotstavljena dobru djelatnika, a krivnja dobru radnje. Budući, dakle, da je djelatnik bolji od radnje, čini se da je kazna gora od krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a6.obj3": {
+      "text": "Osim toga, sama lišenost svrhe jest neka kazna, koja se naziva nedostatkom gledanja Boga. A zlo krivnje jest po lišenosti usmjerenosti prema svrsi. Dakle, kazna je veće zlo nego krivnja.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a6.sc": {
+      "text": "Ali protiv toga, mudar umjetnik uvodi manje zlo da bi izbjegao veće; kao što liječnik odsijeca ud da ne bi propalo tijelo. A Božja mudrost nanosi kaznu da bi se izbjegla krivnja. Dakle, krivnja je veće zlo nego kazna.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a6.resp": {
+      "text": "Odgovaram: treba reći da krivnja ima više od pojma zla nego kazna; i to ne samo od osjetne kazne, koja se sastoji u lišenosti tjelesnih dobara, a kakve kazne većina ima na umu, nego i kad se kazna uzme općenito, tako da su i lišenost milosti ili slave neke kazne. Za to postoji dvostruki razlog. Prvi je taj što od zla krivnje netko postaje zao, a ne od zla kazne; prema onoj Dionizijevoj iz IV. poglavlja O božanskim imenima: *Biti kažnjen nije zlo, nego postati dostojnim kazne*. A to je stoga što, budući da se dobro naprosto sastoji u činu, a ne u mogućnosti, a posljednji je čin djelovanje ili upotreba bilo kojih posjedovanih stvari, dobro se čovjeka naprosto promatra u dobrom djelovanju ili dobroj upotrebi posjedovanih stvari. A svim se stvarima služimo po volji. Stoga se po dobroj volji, kojom se čovjek dobro služi posjedovanim stvarima, čovjek naziva dobrim, a po zloj zlim. Jer onaj koji ima zlu volju može se zlo služiti i dobrom koje ima; kao kad bi gramatičar hotimice govorio nepravilno. Budući, dakle, da se krivnja sastoji u neuređenom činu volje, a kazna u lišenosti nečega čime se volja služi, krivnja savršenije ima pojam zla nego kazna. Drugi se razlog može uzeti iz toga što je Bog začetnik zla kazne, ali ne zla krivnje. Razlog je tome što zlo kazne lišava dobra stvora, bilo da se dobrom stvora uzme nešto stvoreno, kao što sljepoća lišava vida, bilo da je to nestvoreno dobro, kao što se nedostatkom gledanja Boga stvoru oduzima nestvoreno dobro. A zlo krivnje u vlastitom je smislu suprotstavljeno samom nestvorenom dobru: protivi se, naime, ispunjenju božanske volje i božanskoj ljubavi kojom se božansko dobro ljubi u sebi samom, a ne samo ukoliko u njemu stvor ima udjela. Tako je, dakle, jasno da krivnja ima više od pojma zla nego kazna.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda krivnja završava u kazni kao zasluga u nagradi, ipak se krivnja ne namjerava radi kazne kao zasluga radi nagrade, nego se, naprotiv, obratno kazna uvodi da bi se izbjegla krivnja. I tako je krivnja gora od kazne.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a6.ad2": {
+      "text": "Na drugo treba reći da je red radnje, koji se uklanja krivnjom, savršenije dobro djelatnika, budući da je druga savršenost, nego dobro koje se uklanja kaznom, a koje je prva savršenost.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    },
+    "I.q48.a6.ad3": {
+      "text": "Na treće treba reći da se krivnja ne uspoređuje s kaznom kao svrha i usmjerenost prema svrsi, jer se i jednoga i drugoga može na neki način biti lišen i krivnjom i kaznom. Ali kaznom ukoliko je sam čovjek udaljen od svrhe i od usmjerenosti prema svrsi; a krivnjom ukoliko ta lišenost pripada radnji koja nije usmjerena prema dužnoj svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 3,
+      "created_at": "2026-11-05T07:40:08+00:00"
+    }
+  }
+}
