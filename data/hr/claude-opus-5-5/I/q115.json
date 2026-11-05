@@ -1,0 +1,348 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 115,
+  "units": {
+    "I.q115.pr": {
+      "text": "Potom treba razmotriti radnju tjelesnoga stvora; i sudbinu, koja se pripisuje nekim tijelima. O tjelesnim se radnjama pita šest stvari. Prvo, je li neko tijelo djelatno. Drugo, ima li u tijelima nekih sjemenih razloga. Treće, jesu li nebeska tijela uzrok onoga što ovdje nastaje posredstvom nižih tijela. Četvrto, jesu li uzrok ljudskih čina. Peto, jesu li demoni podložni njihovim radnjama. Šesto, nameću li nebeska tijela nužnost onomu što je podložno njihovim radnjama.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nijedno tijelo nije djelatno. Augustin, naime, kaže da se *u stvarima nalazi nešto što trpi radnju, a ne djeluje, kao što su tijela; nešto što djeluje, a ne trpi radnju, kao Bog; nešto što i djeluje i trpi radnju, kao duhovne supstancije*.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.obj2": {
+      "text": "Osim toga, svakom je djelatniku, osim prvoga djelatnika, u njegovu djelu potreban subjekt koji je prijemljiv za njegovu radnju. Ali ispod tjelesne supstancije nema supstancije koja bi bila prijemljiva za njezinu radnju, jer ta supstancija zauzima najniži stupanj među bićima. Dakle, tjelesna supstancija nije djelatna.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.obj3": {
+      "text": "Osim toga, svaka je tjelesna supstancija omeđena kolikoćom. Ali kolikoća sprečava supstanciju u gibanju i radnji, jer je obuhvaća i u nju je uronjena, kao što je oblačan zrak spriječen da primi svjetlo. A znak je toga to što je tijelo, koliko mu više naraste kolikoća, toliko masivnije i teže da bi se gibalo. Dakle, nijedna tjelesna supstancija nije djelatna.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.obj4": {
+      "text": "Osim toga, svaki djelatnik ima snagu djelovanja iz blizine prvomu djelatnome. Ali od prvoga djelatnoga, koje je najjednostavnije, najudaljenija su tijela, koja su najviše složena. Dakle, nijedno tijelo nije djelatnik.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.obj5": {
+      "text": "Osim toga, ako je neko tijelo djelatnik, ono djeluje ili prema supstancijalnoj formi ili prema akcidentalnoj formi. Ali ne prema supstancijalnoj formi, jer se u tijelima ne nalazi počelo radnje osim neke djelatne kakvoće, koja je akcident; a akcident ne može biti uzrok supstancijalne forme, budući da je uzrok moćniji od učinka. Isto tako ni prema akcidentalnoj formi, *jer se akcident ne proteže preko svojega subjekta*, kako kaže Augustin u IX. knjizi O Trojstvu. Dakle, nijedno tijelo nije djelatno.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.sc": {
+      "text": "Ali protiv toga jest što Dionizije u XV. poglavlju spisa O nebeskoj hijerarhiji, među ostalim svojstvima tjelesnoga ognja, kaže da *na primljenim tvarima pokazuje vlastitu veličinu, djelatan i moćan*.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.resp": {
+      "text": "Odgovaram: treba reći da se osjetilno pokazuje da su neka tijela djelatna. Ali u pogledu radnji tijela neki su pogriješili na trostruk način. Bilo je, naime, nekih koji su tijelima posve oduzeli radnje. I to je mišljenje Avicebrona u knjizi Izvor života, gdje razlozima koji su gore dotaknuti nastoji dokazati da nijedno tijelo ne djeluje, nego da su sve radnje koje se čine radnjama tijela zapravo radnje neke duhovne snage koja prodire kroz sva tijela; tako da, prema njemu, ne grije oganj, nego duhovna snaga koja prodire kroz nj. I čini se da je to mišljenje izvedeno iz Platonova mišljenja. Platon je, naime, postavio da su sve forme koje su u tjelesnoj tvari dobivene sudjelovanjem, određene i stegnute na ovu tvar, a da su odijeljene forme apsolutne i takoreći opće; i zato je govorio da su te odijeljene forme uzroci forma koje su u tvari. Prema tome, dakle, što je forma koja je u tjelesnoj tvari određena na ovu tvar individuiranu kolikoćom, Avicebron je postavljao da kolikoća, ukoliko je počelo individuacije, zadržava i sputava tjelesnu formu, da se ne bi mogla radnjom protegnuti na drugu tvar; nego da se samo duhovna i netvarna forma, koja nije stegnuta kolikoćom, može radnjom izliti u drugo. Ali taj razlog ne zaključuje da tjelesna forma nije djelatnik, nego da nije opći djelatnik. Koliko se, naime, u nečemu ima udjela, toliko je nužno da se ima udjela i u onome što mu je vlastito; kao što se, koliko se ima udjela u svjetlu, toliko ima udjela u pojmu vidljivoga. A djelovati, što nije ništa drugo nego učiniti nešto u činu, po sebi je vlastito činu ukoliko je čin; zato i svaki djelatnik djeluje sebi slično. Tako, dakle, iz toga što je nešto forma koja nije određena tvari podložnom kolikoći, ima to da bude neodređen i opći djelatnik; a iz toga što je određena na ovu tvar, ima to da bude stegnut i pojedinačan djelatnik. Stoga, kad bi postojala odijeljena forma ognja, kako su platonovci postavili, ona bi na neki način bila uzrok svakoga paljenja. Ali ova forma ognja koja je u ovoj tjelesnoj tvari uzrok je ovoga paljenja koje ide od ovoga tijela na ovo tijelo. Zato se takva radnja i zbiva dodirom dvaju tijela. Ali ipak to Avicebronovo mišljenje nadilazi Platonovo mišljenje. Platon je, naime, postavljao samo odijeljene supstancijalne forme; a akcidente je svodio na tvarna počela, koja su veliko i malo, za koja je postavljao da su prve protivnosti, kao što su drugi postavljali rijetko i gusto. I zato su i Platon i Avicena, koji ga je u nečemu slijedio, postavljali da tjelesni djelatnici djeluju po akcidentalnim formama, raspoložujući tvar za supstancijalnu formu; ali da je posljednja savršenost, koja nastaje uvođenjem supstancijalne forme, od netvarnoga počela. I to je drugo mišljenje o radnji tijela, o kojem je bilo govora gore kad se raspravljalo o stvaranju. Treće je pak mišljenje bilo Demokritovo, koji je postavljao da se radnja zbiva istjecanjem atoma iz tijela koje djeluje, a trpnja primanjem istih atoma u pore tijela koje trpi. To mišljenje Aristotel pobija u I. knjizi O nastajanju i propadanju. Slijedilo bi, naime, da tijelo ne trpi cijelim sobom i da bi se kolikoća tijela koje djeluje smanjivala time što djeluje, a to je očito lažno. Treba, dakle, reći da tijelo djeluje ukoliko je u činu, i to na drugo tijelo ukoliko je ono u mogućnosti.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustinovu izreku treba shvatiti o cijeloj tjelesnoj naravi uzetoj zajedno, koja ispod sebe nema neke niže naravi na koju bi djelovala, kao što duhovna narav djeluje na tjelesnu, a nestvorena narav na stvorenu. Ali ipak je jedno tijelo ispod drugoga ukoliko je u mogućnosti za ono što drugo ima u činu.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.ad2": {
+      "text": "I time je jasno rješenje drugoga. Treba ipak znati da, kad Avicebron ovako dokazuje: postoji nešto što je pokretač koji nije pokretan, naime prvi tvorac stvari; dakle, po suprotnome, postoji nešto što je samo pokretano i samo trpi, to treba dopustiti. Ali to je prva tvar, koja je čista mogućnost, kao što je Bog čisti čin. A tijelo je sastavljeno od mogućnosti i čina, i zato i djeluje i trpi.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.ad3": {
+      "text": "Na treće treba reći da kolikoća ne sprečava tjelesnu formu posve u radnji, kako je rečeno, nego je sprečava da bude opći djelatnik, ukoliko se forma individuira time što je u tvari podložnoj kolikoći. A znak koji se navodi o težini tijela ne odnosi se na ono što se tvrdi. Prvo, jer dodavanje kolikoće nije uzrok težine, kako se dokazuje u IV. knjizi O nebu i svijetu. Drugo, jer je lažno da težina čini gibanje sporijim; naprotiv, koliko je nešto teže, toliko se više giba vlastitim gibanjem. Treće, jer se radnja ne zbiva mjesnim gibanjem, kako je postavio Demokrit, nego time što se nešto svodi iz mogućnosti u čin.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.ad4": {
+      "text": "Na četvrto treba reći da tijelo nije ono što je najudaljenije od Boga; ono, naime, ima nešto udjela u sličnosti božanskoga bitka po formi koju ima. Ali ono što je najudaljenije od Boga jest prva tvar, koja nikako nije djelatnik, budući da je samo u mogućnosti.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a1.ad5": {
+      "text": "Na peto treba reći da tijelo djeluje i prema akcidentalnoj formi i prema supstancijalnoj formi. Djelatna kakvoća, naime, kao toplina, iako je akcident, ipak djeluje snagom supstancijalne forme, kao njezino oruđe; i zato može djelovati prema supstancijalnoj formi; kao što i naravna toplina, ukoliko je oruđe duše, djeluje prema nastajanju mesa. A prema akcidentu djeluje vlastitom snagom. I nije protiv pojma akcidenta da nadilazi svoj subjekt u djelovanju, nego da ga nadilazi u bitku; osim ako bi tko možda zamišljao da brojčano isti akcident otječe od djelatnika u ono što trpi, kao što je Demokrit postavljao da se radnja zbiva otjecanjem atoma.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da u tjelesnoj tvari nema nikakvih sjemenih razloga. Razlog, naime, uključuje nešto po duhovnom bitku. Ali u tjelesnoj tvari nema ničega na duhovan način, nego samo na tvaran, naime po načinu onoga u čemu jest. Dakle, u tjelesnoj tvari nema sjemenih razloga.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a2.obj2": {
+      "text": "Osim toga, Augustin kaže u III. knjizi O Trojstvu da demoni čine neka djela primjenjujući skrivenim gibanjima neka sjemena koja poznaju u elementima. Ali ono što se primjenjuje mjesnim gibanjem jesu tijela, a ne razlozi. Dakle, neprikladno se kaže da u tjelesnoj tvari postoje sjemeni razlozi.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a2.obj3": {
+      "text": "Osim toga, sjeme je djelatno počelo. Ali u tjelesnoj tvari nema nikakva djelatnoga počela, budući da tvari ne pripada djelovati, kako je rečeno. Dakle, u tjelesnoj tvari nema sjemenih razloga.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a2.obj4": {
+      "text": "Osim toga, kaže se da u tjelesnoj tvari postoje neki uzročni razlozi, za koje se čini da su dostatni za proizvođenje stvari. Ali sjemeni su razlozi različiti od uzročnih, jer se čuda događaju mimo sjemenih razloga, a ne mimo uzročnih. Dakle, neprikladno se kaže da su sjemeni razlozi u tjelesnoj tvari.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a2.sc": {
+      "text": "Ali protiv toga jest što Augustin kaže u III. knjizi O Trojstvu: *svih stvari koje se tjelesno i vidljivo rađaju neka skrivena sjemena leže u ovim tjelesnim elementima ovoga svijeta*.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a2.resp": {
+      "text": "Odgovaram: treba reći da se nazivi obično daju prema savršenijemu, kako se kaže u II. knjizi O duši. A u cijeloj tjelesnoj prirodi savršenija su živa tijela; zato je i samo ime prirode preneseno sa živih stvari na sve prirodne stvari. Samo ime prirode, naime, kako kaže Filozof u V. knjizi Metafizike, prvotno je nadjenuto da označi rađanje živih bića, koje se naziva rođenjem; a budući da se živa bića rađaju iz spojenoga počela, kao plod iz stabla i zametak iz majke s kojom je povezan, posljedično je ime prirode prošireno na svako počelo gibanja koje je u onome što se giba. A očito je da su djelatno i trpno počelo rađanja živih stvari sjemena iz kojih se živa bića rađaju. I zato Augustin prikladno sve djelatne i trpne snage koje su počela prirodnih nastajanja i gibanja naziva sjemenim razlozima. A takve se djelatne i trpne snage mogu razmatrati u višestrukom redu. Prvo, naime, kako kaže Augustin u VI. knjizi O doslovnom tumačenju Knjige postanka, one su na glavni i izvorni način u samoj Božjoj Riječi, po idejnim razlozima. Drugo, one su u elementima svijeta, gdje su zajedno od početka proizvedene, kao u općim uzrocima. Na treći način, one su u onome što se iz općih uzroka proizvodi u slijedu vremena, kao u ovoj biljci i u ovoj životinji, kao u pojedinačnim uzrocima. Na četvrti način, one su u sjemenima koja proizvode životinje i biljke. A ta se sjemena opet odnose prema drugim pojedinačnim učincima kao prvotni opći uzroci prema prvim proizvedenim učincima.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se takve djelatne i trpne snage prirodnih stvari, iako se ne mogu nazvati razlozima ukoliko su u tjelesnoj tvari, ipak mogu nazvati razlozima s obzirom na svoje podrijetlo, ukoliko su izvedene iz idejnih razloga.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a2.ad2": {
+      "text": "Na drugo treba reći da su takve djelatne ili trpne snage u nekim tjelesnim dijelovima; i kad se oni mjesnim gibanjem primjenjuju za izvršenje nekih učinaka, kaže se da demoni primjenjuju sjemena.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a2.ad3": {
+      "text": "Na treće treba reći da je muško sjeme djelatno počelo u rađanju životinje. Ali sjemenom se može nazvati i ono što je sa strane ženke, a što je trpno počelo. I tako se pod sjemenom mogu obuhvatiti djelatne i trpne sile.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a2.ad4": {
+      "text": "Na četvrto treba reći da se iz riječi Augustina, koji govori o takvim sjemenim razlozima, može dovoljno razabrati da su sami sjemeni razlozi ujedno i uzročni razlozi, kao što je i sjeme neki uzrok; on, naime, kaže u III. knjizi O Trojstvu: *kao što su majke trudne plodovima, tako je sam svijet trudan uzrocima onoga što se rađa*. Ali ipak se idejni razlozi mogu nazvati uzročnima, ali ne, govoreći u vlastitom smislu, sjemenima, jer sjeme nije odijeljeno počelo; i mimo takvih razloga ne događaju se čuda. Isto tako ni mimo trpnih snaga usađenih u stvor, tako da iz njega može nastati što god Bog zapovjedi. Ali kaže se da se čuda događaju mimo prirodnih djelatnih snaga i trpnih mogućnosti koje su usmjerene prema takvim djelatnim snagama, kad se kaže da se događaju mimo sjemenih razloga.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nebeska tijela nisu uzrok onoga što ovdje nastaje u nižim tijelima. Damaščanin, naime, kaže: a mi kažemo da ona, naime nebeska tijela, *nisu uzrok ničega od onoga što nastaje, ni propadanja onoga što propada, nego su prije znakovi kiša i preinake zraka*.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a3.obj2": {
+      "text": "Osim toga, da se nešto učini, dostatni su djelatnik i tvar. Ali u ovim nižim stvarima nalazi se tvar koja trpi, a nalaze se i protivni djelatnici, naime toplo i hladno i slično. Dakle, nije nužno, da bi se uzrokovalo ono što ovdje dolje nastaje, pripisivati uzročnost nebeskim tijelima.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a3.obj3": {
+      "text": "Osim toga, djelatnik djeluje sebi slično. Ali vidimo da sve što ovdje dolje nastaje, nastaje time što se grije i hladi, vlaži i suši, i što se drugim takvim kakvoćama kakvoćno mijenja, a te se kakvoće ne nalaze u nebeskim tijelima. Dakle, nebeska tijela nisu uzrok onoga što ovdje nastaje.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a3.obj4": {
+      "text": "Osim toga, kao što kaže Augustin u V. knjizi O Božjem gradu, *ništa nije tjelesnije od spola tijela*. Ali spol tijela nije uzrokovan od nebeskih tijela; a čini se da je znak toga to što je od dvaju blizanaca rođenih pod istom konstelacijom jedan muško, a drugi žensko. Dakle, nebeska tijela nisu uzrok tjelesnih stvari koje ovdje nastaju.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a3.sc": {
+      "text": "Ali protiv toga jest što Augustin kaže u III. knjizi O Trojstvu da *grublja i niža tijela nekim redom upravljaju finija i moćnija*. A Dionizije kaže u IV. poglavlju spisa O božanskim imenima da *sunčevo svjetlo pridonosi nastajanju osjetnih tijela, i pokreće ih na život, i hrani ih, i daje im rast, i usavršava ih*.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a3.resp": {
+      "text": "Odgovaram: treba reći da, budući da svako mnoštvo izlazi iz jedinstva, a ono što je nepokretljivo odnosi se na jedan način, dok se ono što se giba odnosi na mnogovrsne načine, treba uočiti da u cijeloj prirodi svako gibanje izlazi od nepokretljivoga. I zato, koliko su neke stvari nepokretljivije, toliko su više uzrok onih koje su pokretljivije. A nebeska su tijela među drugim tijelima nepokretljivija, jer se ne gibaju drukčije nego mjesnim gibanjem. I zato se gibanja ovih nižih tijela, koja su raznolika i mnogovrsna, svode na gibanje nebeskoga tijela kao na uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Damaščaninovu izreku treba shvatiti tako da nebeska tijela nisu prvi uzrok nastajanja i propadanja onoga što ovdje nastaje, kako su govorili oni koji su postavljali da su nebeska tijela bogovi.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a3.ad2": {
+      "text": "Na drugo treba reći da se u ovim nižim tijelima ne nalaze djelatna počela osim djelatnih kakvoća elemenata, a to su toplo i hladno i slično. I kad bi bilo tako da se supstancijalne forme nižih tijela ne razlikuju drukčije nego po takvim akcidentima, za čija su počela stari prirodoslovci postavljali rijetko i gusto, ne bi trebalo iznad ovih nižih tijela postavljati neko djelatno počelo, nego bi ona sama bila dostatna za djelovanje. Ali onima koji ispravno razmatraju očito je da se takvi akcidenti odnose kao tvarne raspoloživosti prema supstancijalnim formama prirodnih tijela. A tvar nije dostatna za djelovanje. I zato iznad tih tvarnih raspoloživosti treba postaviti neko djelatno počelo. Stoga su platonovci postavili odijeljene vrste, po sudjelovanju u kojima niža tijela zadobivaju supstancijalne forme. Ali čini se da to nije dostatno. Jer bi se odijeljene vrste uvijek odnosile na isti način, budući da se postavljaju kao nepokretljive; i tako bi slijedilo da ne bi bilo nikakve raznolikosti u nastajanju i propadanju nižih tijela, a očito je da je to lažno. Stoga je, prema Filozofu u II. knjizi O nastajanju i propadanju, nužno postaviti neko pokretljivo djelatno počelo koje bi svojom prisutnošću i odsutnošću uzrokovalo raznolikost u nastajanju i propadanju nižih tijela. A takva su nebeska tijela. I zato sve što u ovim nižim stvarima rađa, pokreće prema vrsti kao oruđe nebeskoga tijela; prema onome što se kaže u II. knjizi Fizike: *čovjek rađa čovjeka, i sunce*.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a3.ad3": {
+      "text": "Na treće treba reći da nebeska tijela nisu slična nižim tijelima sličnošću vrste, nego ukoliko svojom općom snagom sadrže u sebi sve što se rađa u nižim tijelima; na koji način kažemo i da je sve slično Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a3.ad4": {
+      "text": "Na četvrto treba reći da se radnje nebeskih tijela primaju u nižim tijelima na različite načine, prema različitoj raspoloživosti tvari. A događa se katkad da tvar ljudskoga začeća nije posve raspoložena za muški spol; zato se dijelom oblikuje u muško, a dijelom u žensko. Stoga Augustin to navodi radi pobijanja gatanja koje se vrši po zvijezdama, jer se učinci zvijezda mijenjaju čak i u tjelesnim stvarima, prema različitoj raspoloživosti tvari.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da su nebeska tijela uzrok ljudskih čina. Nebeska tijela, naime, budući da ih pokreću duhovne supstancije, kako je gore rečeno, djeluju snagom tih supstancija kao njihova oruđa. Ali te su duhovne supstancije više od naših duša. Dakle, čini se da mogu utiskivati u naše duše i tako uzrokovati ljudske čine.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a4.obj2": {
+      "text": "Osim toga, sve mnogovrsno svodi se na neko jednovrsno počelo. Ali ljudski su čini raznoliki i mnogovrsni. Dakle, čini se da se svode na jednovrsna gibanja nebeskih tijela kao na svoja počela.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a4.obj3": {
+      "text": "Osim toga, astrolozi često istinito navješćuju ishode ratova i drugih ljudskih čina, kojih su počela um i volja. A to ne bi mogli činiti na temelju nebeskih tijela kad ona ne bi bila uzrok ljudskih čina. Dakle, nebeska su tijela uzrok ljudskih čina.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a4.sc": {
+      "text": "Ali protiv toga jest što Damaščanin kaže da *nebeska tijela nikako nisu uzrok ljudskih čina*.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a4.resp": {
+      "text": "Odgovaram: treba reći da nebeska tijela u tijela utiskuju izravno i po sebi, kako je već rečeno. U sile pak duše koje su čini tjelesnih organa utiskuju izravno, ali akcidentalno, jer je nužno da se takvi čini tih moći sprečavaju prema smetnjama organa, kao što uznemireno oko ne vidi dobro. Stoga, kad bi um i volja bili sile vezane uz tjelesne organe, kako su postavili neki koji govore da se um ne razlikuje od osjetila, iz nužnosti bi slijedilo da su nebeska tijela uzrok ljudskih izbora i čina. I iz toga bi slijedilo da čovjeka na njegove radnje goni naravni nagon, kao i ostale životinje, u kojima nema drugih sila duše osim onih vezanih uz tjelesne organe; jer ono što se u ovim nižim stvarima zbiva iz utiska nebeskih tijela, zbiva se po naravi. I tako bi slijedilo da čovjek nema slobodnoga odlučivanja, nego da ima određene radnje, kao i ostale prirodne stvari. A to je očito lažno i protivno ljudskom načinu života. Treba ipak znati da utisci nebeskih tijela mogu neizravno i akcidentalno doprijeti do uma i volje, ukoliko, naime, i um i volja na neki način primaju od nižih sila, koje su vezane uz tjelesne organe. Ali u tome se um i volja različito odnose. Um, naime, iz nužnosti prima od nižih zahvatnih sila; stoga, kad je uznemirena maštovna ili misaona ili pamtilačka sila, iz nužnosti se uznemiruje i radnja uma. Ali volja ne slijedi iz nužnosti sklonost niže težnje; jer, iako strasti koje su u srditoj i požudnoj moći imaju neku silu da prignu volju, ipak ostaje u vlasti volje slijediti strasti ili ih odbiti. I zato utisak nebeskih tijela, po kojem se niže sile mogu izmijeniti, manje doseže do volje, koja je najbliži uzrok ljudskih čina, nego do uma. Postavljati, dakle, da su nebeska tijela uzrok ljudskih čina vlastito je onima koji kažu da se um ne razlikuje od osjetila. Stoga su neki od njih govorili da je *volja u ljudima onakva kakvu za svaki dan navede otac ljudi i bogova*. Budući, dakle, da je izvjesno da um i volja nisu čini tjelesnih organa, nemoguće je da nebeska tijela budu uzrok ljudskih čina.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da duhovne supstancije koje pokreću nebeska tijela na tjelesne stvari djeluju posredstvom nebeskih tijela, ali na ljudski um djeluju neposredno, prosvjetljujući ga. Volju pak ne mogu izmijeniti, kako je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a4.ad2": {
+      "text": "Na drugo treba reći da, kao što se mnogovrsnost tjelesnih gibanja svodi kao na uzrok na jednovrsnost nebeskih gibanja, tako se mnogovrsnost čina koji potječu od uma i volje svodi na jednovrsno počelo, a to je božanski um i volja.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a4.ad3": {
+      "text": "Na treće treba reći da većina ljudi slijedi strasti, koje su pokreti osjetilne težnje i u kojima mogu sudjelovati nebeska tijela; malo je pak mudrih koji se takvim strastima opiru. I zato astrolozi mogu istinito predskazivati ono što vrijedi u većini slučajeva, i to najviše općenito. Ali ne pojedinačno, jer ništa ne priječi da se neki čovjek slobodnim odlučivanjem odupre strastima. Stoga i sami astrolozi kažu da mudar čovjek vlada zvijezdama, ukoliko, naime, vlada svojim strastima.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da nebeska tijela mogu utiskivati u same demone. Demoni, naime, muče neke ljude prema određenim rastovima mjeseca, zbog čega se ti ljudi i nazivaju mjesečarima, kako je jasno iz Mt 4 i 17. Ali to ne bi bilo kad demoni ne bi bili podložni nebeskim tijelima. Dakle, demoni su podložni radnjama nebeskih tijela.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a5.obj2": {
+      "text": "Osim toga, nekromanti motre određene konstelacije da bi zazivali demone. A ne bi ih se zazivalo pomoću nebeskih tijela kad im ne bi bili podložni. Dakle, demoni su podložni radnjama nebeskih tijela.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a5.obj3": {
+      "text": "Osim toga, nebeska su tijela snažnija od nižih tijela. Ali demoni se odbijaju nekim nižim tijelima, naime travama, kamenjem i živim bićima, i nekim *određenim zvukovima i glasovima, likovima i tvorevinama*, kako Augustin u X. knjizi O Božjem gradu navodi Porfirijevu izreku. Dakle, demoni su mnogo više podložni radnji nebeskih tijela.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a5.sc": {
+      "text": "Ali protiv toga jest što su demoni po redu naravi viši od nebeskih tijela. A djelatnik je viši od onoga što trpi, kako kaže Augustin u XII. knjizi O doslovnom tumačenju Knjige postanka. Dakle, demoni nisu podvrgnuti radnji nebeskih tijela.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a5.resp": {
+      "text": "Odgovaram: treba reći da je o demonima postojalo trostruko mišljenje. Prvo je mišljenje peripatetika, koji su postavili da demoni ne postoje, nego da se ono što se pripisuje demonima prema nekromantskom umijeću zbiva snagom nebeskih tijela. I to je ono što Augustin u X. knjizi O Božjem gradu navodi kao Porfirijevu izreku: da *ljudi na zemlji izrađuju moći prikladne za izvršavanje različitih učinaka zvijezda*. Ali je to postavljanje očito lažno. Iskustvom se, naime, zna da se po demonima zbiva mnogo toga za što snaga nebeskih tijela nikako ne bi bila dostatna; na primjer, da opsjednuti govore nepoznatim jezikom, da recitiraju stihove i izreke autoriteta koje nikada nisu znali, da nekromanti čine da kipovi govore i miču se, i slično. Time potaknuti, platonovci su postavili da su demoni živa bića zračna po tijelu, a podložna strastima po duši, kako Augustin u VIII. knjizi O Božjem gradu navodi Apulejevu izreku. I to je drugo mišljenje, prema kojem bi se moglo reći da su demoni podložni nebeskim tijelima na onaj način na koji je to rečeno i o ljudima. Ali iz onoga što je prije rečeno jasno je da je i to mišljenje lažno; mi, naime, kažemo da su demoni umske supstancije koje nisu sjedinjene s tijelima. Stoga je jasno da nisu podložni radnji nebeskih tijela ni po sebi ni akcidentalno, ni izravno ni neizravno.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da to što demoni muče ljude prema određenim rastovima mjeseca biva zbog dvoga. Prvo, da bi ocrnili Božji stvor, naime mjesec, kako kažu Jeronim i Zlatousti. Drugo, jer, budući da ne mogu djelovati drukčije nego posredstvom prirodnih snaga, kako je gore rečeno, u svojim djelima uzimaju u obzir prikladnost tijela za namjeravane učinke. A očito je da je *mozak najvlažniji od svih dijelova tijela*, kako kaže Aristotel; i zato je najviše podvrgnut djelovanju mjeseca, kojemu je po njegovu svojstvu da pokreće vlagu. A u mozgu se dovršuju animalne sile; i zato demoni prema određenim rastovima mjeseca uznemiruju čovjekovu maštu, kad uoče da je mozak za to raspoložen.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a5.ad2": {
+      "text": "Na drugo treba reći da demoni, dozvani pod određenim konstelacijama, dolaze zbog dvoga. Prvo, da ljude uvedu u tu zabludu da vjeruju kako u zvijezdama postoji neka božanska sila. Drugo, jer uviđaju da je pod nekim određenim konstelacijama tjelesna tvar više raspoložena za učinke radi kojih su dozvani.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a5.ad3": {
+      "text": "Na treće treba reći da, kako kaže Augustin u XXI. knjizi O Božjem gradu, *demone privlače razne vrste kamenja, trava, drva, životinja, pjesama i obreda, ne kao životinje hrana, nego kao duhove znakovi*; ukoliko im se, naime, to pruža kao znak božanskoga štovanja, za kojim oni žude.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da nebeska tijela nameću nužnost onomu što je podložno njihovoj radnji. Kad se, naime, postavi dostatan uzrok, nužno je da se postavi učinak. Ali nebeska su tijela dostatan uzrok svojih učinaka. Budući, dakle, da se nebeska tijela, sa svojim gibanjima i rasporedima, postavljaju kao bića koja postoje iz nužnosti, čini se da njihovi učinci slijede iz nužnosti.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a6.obj2": {
+      "text": "Osim toga, učinak djelatnika iz nužnosti slijedi u tvari kad je snaga djelatnika tolika da može sebi posve podvrgnuti tvar. Ali sva je tvar nižih tijela podvrgnuta snazi nebeskih tijela kao izvrsnijoj. Dakle, učinak nebeskih tijela iz nužnosti se prima u tjelesnoj tvari.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a6.obj3": {
+      "text": "Osim toga, ako učinak nebeskoga tijela ne proizlazi iz nužnosti, to je zbog nekoga uzroka koji ga sprečava. Ali svaki tjelesni uzrok koji bi mogao spriječiti učinak nebeskoga tijela nužno se svodi na neko nebesko počelo, budući da su nebeska tijela uzrok svega što ovdje nastaje. Dakle, budući da je i to nebesko počelo nužno, slijedi da je nužno da se spriječi učinak drugoga nebeskoga tijela. I tako sve što se ovdje događa zbiva se iz nužnosti.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a6.sc": {
+      "text": "Ali protiv toga jest što Filozof kaže u knjizi O snu i bdjenju: *nije neprikladno da se mnogo toga ne ostvari ni od onih nebeskih znakova koji su u tijelima, kao kod voda i vjetrova*. Tako se, dakle, ne zbivaju svi učinci nebeskih tijela iz nužnosti.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a6.resp": {
+      "text": "Odgovaram: treba reći da je ovo pitanje dijelom već riješeno na temelju prethodnoga, a dijelom ima poteškoću. Pokazano je, naime, da, iako iz utiska nebeskih tijela nastaju neke sklonosti u tjelesnoj prirodi, volja ipak ne slijedi te sklonosti iz nužnosti. I zato ništa ne priječi da se voljnom radnjom spriječi učinak nebeskih tijela, ne samo u samom čovjeku nego i u drugim stvarima na koje se proteže ljudsko djelovanje. Ali u prirodnim stvarima ne nalazi se nikakvo takvo počelo koje bi imalo slobodu slijediti ili ne slijediti nebeske utiske. Stoga se čini da barem u takvim stvarima sve proizlazi iz nužnosti, prema drevnom razlogu nekih koji su, pretpostavljajući da sve što jest ima uzrok i da se, kad se postavi uzrok, iz nužnosti postavlja učinak, zaključivali da se sve događa iz nužnosti. To mišljenje Aristotel pobija u VI. knjizi Metafizike, s obzirom na dvoje što oni pretpostavljaju. Prvo, naime, nije istina da je, kad se postavi bilo koji uzrok, nužno da se postavi učinak. Ima, naime, nekih uzroka koji su usmjereni prema svojim učincima ne iz nužnosti, nego tako da djeluju u većini slučajeva, a katkad zakažu u manjem broju slučajeva. Ali budući da takvi uzroci ne zakazuju u manjem broju slučajeva osim zbog nekoga uzroka koji ih sprečava, čini se da se ni tako ne izbjegava spomenuta neprikladnost, jer se i sama smetnja takvom uzroku zbiva iz nužnosti. I zato, drugo, treba reći da sve što jest po sebi ima uzrok, a ono što je akcidentalno nema uzroka, jer nije uistinu biće, budući da nije uistinu jedno. Bijelo, naime, ima uzrok, a isto tako i glazbeno; ali bijelo glazbeno nema uzroka, jer nije uistinu biće ni uistinu jedno. A očito je da se uzrok koji sprečava radnju nekoga uzroka usmjerenoga prema svojemu učinku u većini slučajeva s njim katkad susreće akcidentalno; stoga takav susret nema uzroka, ukoliko je akcidentalan. I zbog toga se ono što slijedi iz takva susreta ne svodi na neki prethodno postojeći uzrok iz kojega bi slijedilo iz nužnosti. Na primjer, to da neko zemno tijelo, zapaljeno, nastane u gornjem dijelu zraka i padne dolje, ima za uzrok neku nebesku snagu; i isto se tako to da na površini zemlje postoji neka zapaljiva tvar može svesti na neko nebesko počelo. Ali to da oganj koji pada naiđe na tu tvar i zapali je nema za uzrok neko nebesko tijelo, nego je akcidentalno. I tako je jasno da nisu svi učinci nebeskih tijela iz nužnosti.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da su nebeska tijela uzrok nižih učinaka posredstvom nižih pojedinačnih uzroka, koji mogu zakazati u manjem broju slučajeva.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a6.ad2": {
+      "text": "Na drugo treba reći da snaga nebeskoga tijela nije beskonačna. Stoga zahtijeva određenu raspoloživost u tvari da bi uvela svoj učinak, i s obzirom na udaljenost mjesta i s obzirom na druge uvjete. I zato, kao što udaljenost mjesta sprečava učinak nebeskoga tijela (sunce, naime, nema u Daciji isti učinak topline koji ima u Etiopiji), tako i grubost tvari, ili hladnoća ili toplina, ili neka druga takva raspoloživost, može spriječiti učinak nebeskoga tijela.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    },
+    "I.q115.a6.ad3": {
+      "text": "Na treće treba reći da, iako se uzrok koji sprečava učinak drugoga uzroka svodi na neko nebesko tijelo kao na uzrok, ipak se susret dvaju uzroka, budući da je akcidentalan, ne svodi na nebeski uzrok, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 7,
+      "created_at": "2026-11-05T10:19:04+00:00"
+    }
+  }
+}
