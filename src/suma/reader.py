@@ -149,6 +149,18 @@ def _sections(question: dict, translations: dict, repo: str, page_url: str) -> l
     return sections
 
 
+def _reader_term(term: dict) -> dict | None:
+    """Reader view of a glossary term: the translator `note` stays out, `prikaz` overrides the shown Latin, `opis: null` hides meta entries."""
+    if "opis" in term and term["opis"] is None:
+        return None
+    view = {"la": term.get("prikaz", term["la"]), "hr": term["hr"], "alternatives": term.get("alternatives", []), "opis": term.get("opis")}
+    if mjesto := term.get("mjesto"):
+        part, question, _, _ = _split(mjesto)
+        view["href"] = f"{part}/q{question:03}.html#{mjesto}"
+        view["cite"] = citation(mjesto).removeprefix("Toma Akvinski, Summa theologiae ")
+    return view
+
+
 def build(
     latin_dir: Path,
     hr_dir: Path,
@@ -202,7 +214,8 @@ def build(
 
     terms = []
     if glossary_path.exists():
-        terms = yaml.safe_load(glossary_path.read_text(encoding="utf-8"))["terms"]
+        terms = [_reader_term(t) for t in yaml.safe_load(glossary_path.read_text(encoding="utf-8"))["terms"]]
+        terms = [t for t in terms if t is not None]
     (out_dir / "glosar.html").write_text(
         env.get_template("glossary.html").render(root="", title="Glosar", models=[], terms=terms),
         encoding="utf-8",

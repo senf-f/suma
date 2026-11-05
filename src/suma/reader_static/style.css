@@ -110,6 +110,8 @@ body.hide-la .la, body.hide-la .la-btn { display: none !important; }
 table.glossary { width: 100%; border-collapse: collapse; font-size: 0.95em; }
 table.glossary th, table.glossary td { text-align: left; padding: 8px; border-bottom: 1px solid var(--rule); vertical-align: top; }
 table.glossary th { font: 600 14px var(--sans); color: var(--muted); }
+table.glossary a.example { font: 13px var(--sans); white-space: nowrap; }
+table.glossary a.example::before { content: "npr. "; color: var(--muted); }
 @media (max-width: 899px) {
   table.glossary thead { display: none; }
   table.glossary td { display: block; border: 0; padding: 2px 0; }

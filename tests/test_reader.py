@@ -16,7 +16,12 @@ def site(latin_q2, tmp_path):
     write_units(OPUS, "I", 2, {"I.q2.a3.sc": "Ali protiv toga: *Ja sam koji jesam*.", "I.q2.a3.ad1": "Na prvo"}, "1", 1, hr)
     write_units(SONNET, "I", 2, {"I.q2.a3.ad1": "Na prvo (S)"}, "1", 1, hr)
     glossary = tmp_path / "glossary.yaml"
-    write_draft({"terms": [{"la": "esse", "hr": "bitak", "alternatives": ["biti"], "note": "čin"}]}, glossary)
+    write_draft({"terms": [
+        {"la": "esse", "hr": "bitak", "alternatives": ["biti"], "note": "translator only",
+         "opis": "Čin postojanja, različit od *ens*.", "mjesto": "I.q2.a3.ad1"},
+        {"la": "book titles", "hr": "-", "alternatives": [], "note": "meta", "opis": None, "mjesto": None},
+        {"la": "consilium (deliberation)", "prikaz": "consilium", "hr": "promišljanje", "alternatives": []},
+    ]}, glossary)
     out = tmp_path / "dist"
     build(latin_q2, hr, glossary, out)
     return out
@@ -103,6 +108,16 @@ def test_index_and_glossary(site):
     assert 'href="I/q002.html#I.q2.a3"' in index
     glossary = (site / "glosar.html").read_text(encoding="utf-8")
     assert "esse" in glossary and "bitak" in glossary
+
+
+def test_glossary_shows_reader_description_not_translator_note(site):
+    glossary = (site / "glosar.html").read_text(encoding="utf-8")
+    assert "Čin postojanja, različit od <em>ens</em>." in glossary
+    assert "translator only" not in glossary
+    assert 'href="I/q002.html#I.q2.a3.ad1"' in glossary
+    assert "I, q. 2, a. 3, ad 1" in glossary
+    assert "book titles" not in glossary
+    assert "consilium" in glossary and "deliberation" not in glossary
 
 
 def test_missing_translation_shows_placeholder(site):

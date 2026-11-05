@@ -4,14 +4,14 @@
 <p class="lead">Stalni prijevodi stručnih pojmova, korišteni u cijelom tekstu.</p>
 {% if terms %}
 <table class="glossary">
-  <thead><tr><th>Latinski</th><th>Hrvatski</th><th>Druge mogućnosti</th><th>Napomena</th></tr></thead>
+  <thead><tr><th>Latinski</th><th>Hrvatski</th><th>Druge mogućnosti</th><th>Objašnjenje</th></tr></thead>
   <tbody>
   {% for t in terms %}
   <tr>
     <td lang="la">{{ t.la }}</td>
     <td><strong>{{ t.hr }}</strong></td>
     <td>{{ t.alternatives|join(", ") }}</td>
-    <td>{{ t.note }}</td>
+    <td>{% if t.opis %}{{ t.opis|md_em }}{% endif %}{% if t.href %} <a class="example" href="{{ t.href }}">{{ t.cite }}</a>{% endif %}</td>
   </tr>
   {% endfor %}
   </tbody>

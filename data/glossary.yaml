@@ -8,18 +8,32 @@ terms:
   - opstojnost
   note: The act of being; keep distinct from ens (biće) and essentia (bit). Infinitive
     uses ("esse" as verb) may stay "biti".
+  opis: Bitak je za Tomu čin postojanja, ono najdublje po čemu bilo što uopće jest.
+    Prevodi se kao „bitak“ da bi se jasno razlikovao od „bića“ (*ens*, ono što ima
+    bitak) te od riječi „bit“ (*essentia*, ono što stvar jest); gdje Toma upotrebljava glagol
+    u običnom smislu, ostavljeno je „biti“.
+  mjesto: I.q3.a4.resp
 - la: ens
   hr: biće
   alternatives:
   - bivstvujuće
   - ono što jest
   note: That which has esse; never render as "bitak". Plural entia = "bića".
+  opis: Biće je ono što ima bitak, ono što jest. Za Tomu je to prvo što um poima i
+    u što se svi ostali pojmovi razrješuju; zato ga valja razlikovati od samog bitka
+    (*esse*), koji je čin po kojem biće jest.
+  mjesto: I.q5.a2.resp
 - la: essentia
   hr: bit
   alternatives:
   - esencija
   - bitnost
   note: '"Deus est suum esse" turns on bit vs bitak; never translate essentia as "bitak".'
+  opis: Bit je ono po čemu je stvar ono što jest i što izriče njezina definicija.
+    Toma uči da je u svim stvorovima bit različita od bitka, dok je u Bogu bit isto
+    što i bitak; stoga se strogo razlikuje „bit“ (*essentia*) od „bitka“ (*esse*).
+    Ponegdje se prevodi i kao „esencija“.
+  mjesto: I.q3.a4.resp
 - la: quidditas
   hr: štostvo
   alternatives:
@@ -27,36 +41,63 @@ terms:
   - kviditet
   note: Traditional Croatian scholastic coinage; keep separate from essentia only
     where Thomas contrasts them.
+  opis: Štostvo je bit stvari promatrana kao odgovor na pitanje „što je to?“, pa se
+    u praksi gotovo poklapa s biti (*essentia*). To je tradicionalna hrvatska skolastička
+    kovanica; Toma ga posebno spominje kad govori o štostvu stvari kao vlastitom predmetu
+    ljudskoga uma.
+  mjesto: I.q85.a6.resp
 - la: quod quid est
   hr: ono što jest
   alternatives:
   - štostvo
   - bit
   note: Aristotelian formula for the definition/essence of a thing.
+  opis: Aristotelovski izraz za ono što stvar jest, tj. za njezinu bit kako je izriče
+    definicija. Prevodi se doslovno kao „ono što jest“; Toma ga suprotstavlja onome
+    što ime samo označuje, primjerice kad pokazuje da u dokazu Božjeg postojanja ne
+    možemo poći od Božje biti.
+  mjesto: I.q2.a2.ad2
 - la: substantia
   hr: supstancija
   alternatives:
   - bivstvo
   - samostalnost
   note: Established term; "bivstvo" is archaic.
+  opis: Supstancija je ono što postoji u sebi, a ne u drugome, i što je nositelj akcidenata;
+    ujedno se tim imenom označuje i bit stvari. U hrvatskom se ustalio izraz „supstancija“;
+    starije „bivstvo“ danas zvuči arhaično.
+  mjesto: I.q29.a2.resp
 - la: accidens
   hr: akcident
   alternatives:
   - pripadak
   - slučajno svojstvo
   note: Ontological category; do not confuse with "slučaj" (chance).
+  opis: Akcident je ono što ne postoji u sebi nego u drugome, u supstanciji, kao kolikoća,
+    kakvoća ili odnos. Riječ je o ontološkoj kategoriji, a ne o „slučaju“ u smislu
+    nečega nepredviđenog; Toma pokazuje da u Bogu ne može biti nikakva akcidenta.
+  mjesto: I.q3.a6.resp
 - la: per se
   hr: po sebi
   alternatives:
   - sam po sebi
   - bitno
   note: Fixed contrast with per accidens; keep the pair parallel.
+  opis: „Po sebi“ označuje ono što nekoj stvari pripada po njoj samoj i nužno, na
+    temelju njezine naravi ili pojma, a ne slučajnom povezanošću. Stoji u stalnom
+    paru s izrazom „akcidentalno“ (*per accidens*); tako je, na primjer, neka tvrdnja
+    „po sebi poznata“ kad je prirok sadržan u pojmu subjekta.
+  mjesto: I.q2.a1.resp
 - la: per accidens
   hr: akcidentalno
   alternatives:
   - po akcidentu
   note: Paired with per se ("po sebi"); use "po akcidentu" where the prepositional
     contrast with "po sebi" must show.
+  opis: „Akcidentalno“ je ono što nekoj stvari pripada ne po njoj samoj, nego slučajnom
+    povezanošću s nečim drugim; suprotnost je izrazu „po sebi“ (*per se*). Gdje treba
+    istaknuti tu usporedbu, prevodi se i kao „po akcidentu“.
+  mjesto: I.q46.a2.ad7
 - la: per essentiam
   hr: po biti
   alternatives:
@@ -64,12 +105,21 @@ terms:
   - po svojoj biti
   note: Contrasted with per participationem (q.3, q.6) and with per praesentiam/potentiam
     (q.8).
+  opis: „Po biti“ znači da nešto nekomu pripada samom njegovom biti, a ne po udioništvu
+    ili kao primljeno od drugoga. Tako je jedino Bog dobar po svojoj biti, dok su
+    stvorovi dobri po udioništvu; a o Bogu se kaže da je u svemu po biti, po prisutnosti
+    i po moći.
+  mjesto: I.q6.a3.resp
 - la: natura
   hr: narav
   alternatives:
   - priroda
   note: Croatian theological usage ("dvije naravi"); use "priroda" only for the physical
     world (natura rerum, opera naturae).
+  opis: Narav je bit stvari ukoliko je ona počelo njezina djelovanja; u teologiji
+    je to ustaljeni izraz (npr. „dvije naravi“ u Kristu). Riječ „priroda“ pridržana
+    je za fizički svijet i djela prirode.
+  mjesto: I.q3.a3.resp
 - la: res
   hr: stvar
   alternatives:
@@ -77,11 +127,19 @@ terms:
   - predmet
   note: Default "stvar"; in "secundum rem" vs "secundum rationem" use "u stvarnosti"
     vs "po pojmu".
+  opis: Stvar je najopćenitiji naziv za ono što zbiljski jest, bilo što bilo. Kad
+    Toma suprotstavlja ono što vrijedi u samoj zbilji onome što vrijedi samo u našem
+    poimanju, prevodi se „u stvarnosti“ nasuprot „po pojmu“.
+  mjesto: I.q13.a4.resp
 - la: aliquid
   hr: nešto
   alternatives:
   - neka stvar
   note: Transcendental sense (aliud quid) in q.11; keep plain.
+  opis: '„Nešto“ je u Tome ponekad i transcendentalni pojam: biće ukoliko je odijeljeno
+    od drugoga, kao „nešto drugo“. Prevodi se jednostavno i bez dodatnog tumačenja,
+    pa čitatelj mora iz konteksta prepoznati kad je riječ o tom strogom smislu.'
+  mjesto: I.q11.a1.ad1
 - la: suppositum
   hr: supozit
   alternatives:
@@ -89,28 +147,49 @@ terms:
   - samostojni subjekt
   note: Individual subsisting subject of a nature (q.3 a.3); a gloss on first use
     may help.
+  opis: Supozit je pojedinačni samostojni subjekt koji ima neku narav, primjerice
+    ovaj čovjek u odnosu prema ljudskoj naravi. Toma na tom razlikovanju gradi nauk
+    da se u Bogu supozit i narav ne razlikuju; ponegdje se izraz prevodi i kao „nositelj“.
+  mjesto: I.q3.a3.resp
 - la: subsistere
   hr: samostojati
   alternatives:
   - subzistirati
   - opstojati
   note: Noun subsistentia = "samostojnost"; distinct from existere.
+  opis: Samostojati znači postojati u sebi i po sebi, a ne u nečemu drugome, kao što
+    postoji supstancija; odgovarajuća imenica je „samostojnost“. Treba ga razlikovati
+    od pukoga postojanja, jer naglašava upravo samostalnost bića.
+  mjesto: I.q29.a2.resp
 - la: persona
   hr: osoba
   alternatives: []
   note: Standard; no alternatives.
+  opis: Osoba je, prema Boetijevoj definiciji koju Toma preuzima, pojedinačna supstancija
+    razumske naravi; to je ono najsavršenije u čitavoj naravi. Taj pojam nosi nauk
+    o Trojstvu, gdje se o trima božanskim osobama govori u jednoj naravi.
+  mjesto: I.q29.a3.resp
 - la: actus
   hr: čin
   alternatives:
   - zbiljnost
   - akt
   note: In actu = "u činu"; actus purus = "čisti čin". Do not use "djelo".
+  opis: 'Čin je zbiljnost, ostvarenost, nasuprot mogućnosti (*potentia*): ono što
+    jest u činu zbiljski jest to što jest. Bog je za Tomu „čisti čin“, bez ikakve
+    primjese mogućnosti; riječ ne treba brkati s „djelom“ ni s radnjom.'
+  mjesto: I.q3.a1.resp
 - la: potentia (passiva)
   hr: mogućnost
   alternatives:
   - potencija
   note: 'Correlate of actus: in potentia = "u mogućnosti". Keep separate from active
     power.'
+  opis: 'Mogućnost je trpna sposobnost da se nešto postane ili primi, korelat čina:
+    ono što je „u mogućnosti“ još nije zbiljski ono što može biti. Valja je razlikovati
+    od djelatne moći (*potentia* u djelatnom smislu), iako latinski za oboje ima istu
+    riječ.'
+  mjesto: I.q3.a1.resp
 - la: potentia (activa)
   hr: moć
   alternatives:
@@ -118,6 +197,11 @@ terms:
   - snaga
   note: God's power (q.8 a.3 "per potentiam", q.25); context decides between moć and
     mogućnost.
+  opis: Moć je djelatna sposobnost da se na nešto djeluje ili nešto proizvede; takva
+    moć u Bogu postoji u najvišoj mjeri, dok trpne mogućnosti u njemu nema. Isti latinski
+    izraz ovisno o kontekstu znači ili „moć“ ili „mogućnost“, pa prijevod slijedi
+    smisao.
+  mjesto: I.q25.a1.resp
 - la: forma
   hr: forma
   alternatives:
@@ -125,34 +209,58 @@ terms:
   - lik
   note: 'Hylomorphic form: forma substantialis = "supstancijalna forma"; formalis
     = "formalni".'
+  opis: Forma je počelo koje tvar određuje i daje stvari da bude ono što jest; zajedno
+    s tvari tvori složenu tjelesnu supstanciju. Zadržan je stručni izraz „forma“ jer
+    „oblik“ u svakodnevnom govoru znači samo vanjski lik.
+  mjesto: I.q3.a2.resp
 - la: materia
   hr: tvar
   alternatives:
   - materija
   note: Materia prima = "prva tvar"; materialis = "tvarni"; materia as subject-matter
     of a science or word = "građa".
+  opis: Tvar je počelo koje je samo po sebi u mogućnosti i koje forma određuje; „prva
+    tvar“ je potpuno neodređeni podmet svih tjelesnih promjena. Kad je riječ o predmetu
+    neke znanosti ili rasprave, prevodi se kao „građa“.
+  mjesto: I.q3.a2.resp
 - la: compositio
   hr: sastavljenost
   alternatives:
   - složenost
   - sastav
   note: Key in q.3; compositum = "složeno"/"složenac".
+  opis: Sastavljenost je složenost nečega od više počela ili dijelova, primjerice
+    od tvari i forme ili od biti i bitka. Toma pokazuje da u Bogu nema nikakve sastavljenosti,
+    i to je sadržaj njegova nauka o Božjoj jednostavnosti.
+  mjesto: I.q3.a7.resp
 - la: simplicitas
   hr: jednostavnost
   alternatives:
   - nesloženost
   note: q.3 title; means absence of composition, not "lakoća".
+  opis: Jednostavnost znači odsutnost svake sastavljenosti, a ne lakoću ili jednostavnost
+    u svakodnevnom smislu. Božja je jednostavnost prvi od atributa koje Toma razmatra,
+    jer se njome od Boga odstranjuje svaka složenost.
+  mjesto: I.q3.pr
 - la: perfectio
   hr: savršenost
   alternatives:
   - dovršenost
   - potpunost
   note: q.4; perfectum = "savršeno", "potpuno dovršeno" (per-factum).
+  opis: Savršenost je dovršenost, puna ostvarenost stvari, tako da joj ne nedostaje
+    ništa od onoga što bi trebala imati; savršeno je ono što je „potpuno dovršeno“.
+    Bog je savršen jer je potpuno u činu.
+  mjesto: I.q4.a1.resp
 - la: imperfectum
   hr: nesavršeno
   alternatives:
   - nedovršeno
   note: Mirror of perfectio; keep the same root.
+  opis: Nesavršeno je ono što još nije potpuno dovršeno, ono čemu nešto nedostaje;
+    zrcalna je slika savršenosti i prevodi se iz istog korijena. Toma tako kaže da
+    je prvo tvarno počelo, budući da je čista mogućnost, najnesavršenije.
+  mjesto: I.q4.a1.resp
 - la: dispositio
   hr: raspoloživost
   alternatives:
@@ -160,6 +268,11 @@ terms:
   - sklonost
   note: Disposition of matter toward form = "raspoloživost"; God's or anyone's arranging
     of things (disponere) = "raspored" / "raspoređivati"; a state = "stanje".
+  opis: Raspoloživost je pripravljenost tvari ili subjekta da primi neku formu ili
+    savršenost. Kad je riječ o Božjem ili čijem god uređivanju stvari, isti se pojam
+    prevodi kao „raspored“, a kad znači neko stanje, kao „stanje“; ponegdje se susreće
+    i izraz „dispozicija“.
+  mjesto: I.q76.a6.resp
 - la: habitus
   hr: habitus
   alternatives:
@@ -167,18 +280,31 @@ terms:
   - trajna sklonost
   note: A stable disposition = "habitus" (avoid "navika"). In Aristotle's opposition
     privatio / habitus it means possession = "posjedovanje" (lišenost / posjedovanje).
+  opis: Habitus je trajna, stečena ili ulivena sposobnost koja neku moć čini spremnom
+    za određeno djelovanje, kao znanje ili krepost; zadržan je latinski izraz jer
+    „navika“ sugerira puki mehanizam. U aristotelovskoj suprotnosti lišenosti i posjedovanja
+    ista riječ znači „posjedovanje“.
+  mjesto: I.q83.a2.resp
 - la: operatio
   hr: djelovanje
   alternatives:
   - djelatnost
   - operacija
   note: Immanent operation; actio (transitive) = "radnja".
+  opis: Djelovanje je djelatnost koja ostaje u samom djelatniku, kao spoznavanje ili
+    htijenje. Razlikuje se od radnje, koja prelazi na izvanjski predmet; samo je u
+    Bogu djelovanje isto što i njegova supstancija i bitak.
+  mjesto: I.q54.a1.resp
 - la: agens
   hr: djelatnik
   alternatives:
   - djelujuće
   - uzročnik
   note: Omne agens agit sibi simile = "svaki djelatnik djeluje sebi slično".
+  opis: Djelatnik je ono što djeluje, bilo osoba bilo neka prirodna stvar, a ne samo
+    čovjek. Na tome se temelji Tomino načelo da svaki djelatnik djeluje sebi slično
+    i radi svrhe.
+  mjesto: I.q4.a3.resp
 - la: virtus
   hr: snaga
   alternatives:
@@ -186,16 +312,29 @@ terms:
   - moć
   note: Power/force = "snaga"; moral virtue = "krepost"; "virtute" meaning "virtually"
     (not formally) = "virtualno".
+  opis: U teorijskim dijelovima riječ najčešće znači snagu, djelatnu silu kojom nešto
+    može proizvesti učinak; kad je riječ o moralnom savršenstvu, prevodi se kao „krepost“.
+    Kad pak označuje da je nešto u uzroku sadržano ne formalno nego po snazi, prevodi
+    se kao „virtualno“.
+  mjesto: I.q105.a5.resp
 - la: causa
   hr: uzrok
   alternatives: []
   note: Standard.
+  opis: 'Uzrok je ono od čega nešto ovisi u svom postojanju ili nastajanju. Toma,
+    slijedeći Aristotela, razlikuje četiri vrste uzroka: tvorni, svršni, formalni
+    i tvarni, kojima dodaje i uzorni uzrok.'
+  mjesto: I.q2.a3.resp
 - la: causa efficiens
   hr: tvorni uzrok
   alternatives:
   - djelatni uzrok
   - učinkoviti uzrok
   note: Second way (q.2 a.3).
+  opis: Tvorni uzrok je onaj koji svojim djelovanjem proizvodi učinak, ono od čega
+    potječe gibanje ili nastanak. Na redu tvornih uzroka počiva drugi od Tominih pet
+    putova; ponegdje se prevodi i kao „djelatni uzrok“.
+  mjesto: I.q2.a3.resp
 - la: causa finalis / finis
   hr: svrha
   alternatives:
@@ -203,6 +342,10 @@ terms:
   - svršni uzrok
   note: Finis as cause = "svrha"; the adjective form of the cause is "svršni uzrok"
     (never "svrha kao uzrok").
+  opis: Svrha je ono radi čega nešto biva ili djeluje; kao uzrok naziva se „svršni
+    uzrok“ i za Tomu je prvi među uzrocima, jer pokreće djelatnika na djelovanje.
+    Ponegdje se prevodi i kao „cilj“.
+  mjesto: I.q44.a4.resp
 - la: causa exemplaris / exemplar
   hr: uzorni uzrok
   alternatives:
@@ -210,21 +353,37 @@ terms:
   - praslika
   note: God as exemplar cause = "uzorni uzrok"; a plain model/pattern (exemplar vs.
     exemplata) = "uzor" / "ono što je načinjeno po uzoru".
+  opis: Uzorni uzrok je uzor prema kojem se nešto tvori, kao zamisao u umu graditelja.
+    Bog je prvi uzorni uzrok svih stvari jer su u njegovu umu ideje svega stvorenog;
+    gdje je riječ samo o modelu i onome što je prema njemu načinjeno, prevodi se kao
+    „uzor“.
+  mjesto: I.q44.a3.resp
 - la: causa formalis
   hr: formalni uzrok
   alternatives:
   - oblični uzrok
   note: Follows forma = "forma".
+  opis: Formalni uzrok je forma ukoliko stvari daje da bude ono što jest; naziv slijedi
+    izraz „forma“. Toma ga spominje uz tvorni i svršni uzrok kad tumači pojam dobra.
+  mjesto: I.q5.a4.resp
 - la: causa materialis
   hr: tvarni uzrok
   alternatives:
   - materijalni uzrok
   note: Follow the materia/tvar choice.
+  opis: Tvarni uzrok je tvar iz koje nešto nastaje i koja ostaje u onome što je nastalo;
+    naziv slijedi izraz „tvar“. Kad se kaže da je nešto stvoreno iz ničega, Toma naglašava
+    da „iz“ tu ne označuje tvarni uzrok, nego samo red.
+  mjesto: I.q45.a1.ad3
 - la: effectus
   hr: učinak
   alternatives:
   - posljedica
   note: '"Ex effectibus" demonstration (q.2 a.2) = "iz učinaka".'
+  opis: Učinak je ono što proizlazi iz uzroka. Budući da nam Božja bit nije poznata,
+    Toma pokazuje da se Božje postojanje može dokazati iz njegovih učinaka, to jest
+    polazeći od onoga što je nama prvo poznato.
+  mjesto: I.q2.a2.resp
 - la: principium
   hr: počelo
   alternatives:
@@ -232,6 +391,11 @@ terms:
   - izvor
   note: Ontological principle = "počelo"; logical/epistemic principle (principia per
     se nota) = "načelo".
+  opis: Počelo je ono od čega nešto na bilo koji način izlazi ili proizlazi, bez obzira
+    na to je li uzrok u strogom smislu; u nauku o Trojstvu tako se Otac naziva počelom
+    Sina. Kad je riječ o logičkim ili spoznajnim polazištima, kao što su po sebi poznata
+    načela, prevodi se kao „načelo“.
+  mjesto: I.q33.a1.resp
 - la: motus
   hr: gibanje
   alternatives:
@@ -239,145 +403,264 @@ terms:
   - promjena
   note: Physical motion = "gibanje"; motion of the will or appetite (motus voluntatis)
     = "pokret".
+  opis: Gibanje u Tome ima širok smisao prijelaza iz mogućnosti u čin, a ne samo mjesnog
+    kretanja; od njega polazi prvi od pet putova. Kad je riječ o pokretu volje ili
+    težnje, prevodi se kao „pokret“.
+  mjesto: I.q2.a3.resp
 - la: primum movens
   hr: prvi pokretač
   alternatives:
   - prvi pokretni uzrok
   note: Quod ab alio non movetur = "koji nije pokretan od drugoga".
+  opis: Prvi pokretač je onaj koji pokreće, a sam nije pokretan ni od čega drugoga;
+    do njega vodi prvi put, jer se u nizu pokretača ne može ići u beskonačno. Pod
+    njim, kaže Toma, svi razumiju Boga.
+  mjesto: I.q2.a3.resp
 - la: mobile
   hr: pokretljivo
   alternatives:
   - ono što se giba
   note: Correlate of movens.
+  opis: Pokretljivo je ono što može biti pokretano, odnosno ono što se giba; korelat
+    je pokretača. Toma ističe da se sve što je pokretljivo i što može zakazati mora
+    svesti na neko prvo, nepokretno počelo.
+  mjesto: I.q2.a3.ad2
 - la: mutatio / mutabilis
   hr: promjena / promjenljiv
   alternatives:
   - mijena
   note: q.9; immutabilitas = "nepromjenljivost".
+  opis: Promjena je prelazak iz jednog stanja u drugo, a promjenljivo je ono što je
+    tomu podložno. Toma pokazuje da je jedino Bog posve nepromjenljiv, a da je svaki
+    stvor na neki način promjenljiv.
+  mjesto: I.q9.a2.resp
 - la: necessarium
   hr: nužno
   alternatives:
   - neophodno
   note: Third way; necessarium per se vs ab alio = "nužno po sebi" / "od drugoga".
+  opis: Nužno je ono što ne može ne biti. U trećem putu Toma razlikuje ono što je
+    nužno po sebi od onoga što svoju nužnost ima od drugoga, i zaključuje da mora
+    postojati nešto nužno po sebi.
+  mjesto: I.q2.a3.resp
 - la: possibile esse et non esse
   hr: moguće da bude i da ne bude
   alternatives: []
   note: Third way formula; keep the full phrase.
+  opis: Izraz trećega puta za ono što može i biti i ne biti, kao stvari koje nastaju
+    i propadaju. Prevodi se punim izrazom „moguće da bude i da ne bude“, kako bi se
+    sačuvala snaga argumenta.
+  mjesto: I.q2.a3.resp
 - la: contingens
   hr: kontingentno
   alternatives:
   - slučajno
   - nenužno
   note: Avoid "slučajno" where it would suggest chance.
+  opis: Kontingentno je ono što nije nužno, što može biti i ne biti ili biti drukčije.
+    Izbjegava se prijevod „slučajno“ jer bi sugerirao puku slučajnost, primjerice
+    kad Toma govori o tome kako Bog spoznaje kontingentne buduće događaje.
+  mjesto: I.q14.a13.resp
 - la: gradus
   hr: stupanj
   alternatives:
   - razina
   note: 'Fourth way: "stupnjevi" of goodness, truth, nobility.'
+  opis: Stupanj označuje veću ili manju mjeru u kojoj se neko savršenstvo, kao dobrota,
+    istinitost ili plemenitost, nalazi u stvarima. Od tih stupnjeva polazi četvrti
+    put prema onome što je najviše.
+  mjesto: I.q2.a3.resp
 - la: gubernatio
   hr: upravljanje
   alternatives:
   - vođenje
   note: 'Fifth way: "upravljanje stvarima".'
+  opis: Upravljanje je Božje vođenje stvari prema njihovoj svrsi; na njemu počiva
+    peti put, a Toma mu posvećuje i poseban nauk o upravljanju svijetom. Ponegdje
+    se prevodi i kao „vođenje“.
+  mjesto: I.q103.a1.resp
 - la: ordo
   hr: red
   alternatives:
   - poredak
   - usmjerenost
   note: Ordo ad finem = "usmjerenost prema svrsi".
+  opis: Red je uređeni odnos stvari prema drugima, prema počelu ili prema svrsi. Kad
+    je riječ o odnosu prema svrsi, prevodi se kao „usmjerenost prema svrsi“, kako
+    se vidi u nauku o providnosti; ponegdje i kao „poredak“.
+  mjesto: I.q22.a3.resp
 - la: Deus
   hr: Bog
   alternatives: []
   note: Capitalised; pronouns referring to God lower-case per current Croatian orthography.
+  opis: Bog je predmet i počelo svete znanosti; o njemu Prima Pars raspravlja najprije
+    s obzirom na jedinstvo biti, zatim s obzirom na trojstvo osoba i napokon kao o
+    počelu stvorova. U skladu s današnjim hrvatskim pravopisom zamjenice koje se odnose
+    na Boga pišu se malim slovom.
+  mjesto: I.q2.a3.resp
 - la: deitas
   hr: božanstvo
   alternatives:
   - božanskost
   note: Abstract name (q.3 a.3, q.13 a.1); keep distinct from Deus.
+  opis: Božanstvo je apstraktno ime koje označuje Božju narav samu po sebi, kao što
+    „čovještvo“ označuje ljudsku narav. Razlikuje se od imena „Bog“, koje označuje
+    onoga koji tu narav ima, iako Toma pokazuje da su u Bogu ta dva jedno te isto.
+  mjesto: I.q39.a4.resp
 - la: nomen
   hr: ime
   alternatives:
   - naziv
   note: q.13 "De nominibus Dei" = "O Božjim imenima".
+  opis: Ime je riječ kojom označujemo stvari onako kako ih umom spoznajemo. Budući
+    da Boga u ovom životu ne spoznajemo u njegovoj biti, Toma istražuje kako ga i
+    u kojem smislu možemo imenovati, u raspravi o Božjim imenima.
+  mjesto: I.q13.a1.resp
 - la: significare
   hr: označivati
   alternatives:
   - značiti
   note: Res significata vs modus significandi = "označena stvar" / "način označivanja".
+  opis: Označivati znači da riječ ili ime upućuje na neku stvar, i to posredstvom
+    pojma u umu. Toma razlikuje označenu stvar od načina označivanja, što mu omogućuje
+    da objasni kako se imena savršenosti pravo kažu o Bogu.
+  mjesto: I.q13.a3.resp
 - la: modus significandi
   hr: način označivanja
   alternatives: []
   note: Central to q.13 a.3.
+  opis: Način označivanja je način na koji ime označuje svoj predmet, a koji ovisi
+    o tome kako ga mi spoznajemo iz stvorova. Kod imena koja se kažu o Bogu, označena
+    savršenost pripada ponajprije Bogu, dok način označivanja odgovara stvorovima.
+  mjesto: I.q13.a3.resp
 - la: praedicare
   hr: pririći
   alternatives:
   - izricati
   - predicirati
   note: Croatian logical term (pririk = predicate); "pririče se o Bogu".
+  opis: Pririći znači izreći nešto o nekom subjektu, pridati mu neki prirok (logički
+    predikat). To je hrvatski logički naziv; tako se kaže da se neko ime pririče o
+    Bogu i o stvorovima.
+  mjesto: I.q13.a5.resp
 - la: univoce
   hr: jednoznačno
   alternatives:
   - univokno
   note: q.13 a.5; univocum = "jednoznačan".
+  opis: Jednoznačno se nešto pririče kad se istim imenom i u potpuno istom smislu
+    kaže o različitim stvarima. Toma pokazuje da se ništa ne kaže jednoznačno o Bogu
+    i stvorovima, ali ni posve dvoznačno, nego analogno.
+  mjesto: I.q13.a5.resp
 - la: aequivoce
   hr: dvoznačno
   alternatives:
   - istoimeno
   - ekvivokno
   note: Pure equivocity; "dvoznačno" is the standard pair to jednoznačno.
+  opis: Ono što se izriče dvoznačno nosi isto ime, ali posve različit sadržaj, kao
+    kad se istom riječju imenuju dvije stvari koje nemaju ništa zajedničko. Toma pokazuje
+    da se imena ne pridaju Bogu i stvorovima dvoznačno, jer tada iz stvorova ne bismo
+    mogli ništa spoznati o Bogu; dvoznačno je suprotni pol od jednoznačnoga.
+  mjesto: I.q13.a5.resp
 - la: analogice
   hr: analogno
   alternatives:
   - razmjerno
   - po analogiji
   note: q.13 a.5-6; per prius et posterius = "prije i kasnije".
+  opis: 'Analogno se izriče ono što se ni posve jednako ni posve različito pridaje
+    raznim stvarima, nego po odnosu prema nečemu jednome, po redu prije i kasnije.
+    Tako se, prema Tomi, imena poput „dobar“ ili „mudar“ govore o Bogu i stvorovima:
+    ni jednoznačno ni dvoznačno, nego analogno.'
+  mjesto: I.q13.a5.resp
 - la: proprie
   hr: u vlastitom smislu
   alternatives:
   - vlastito
   - doslovno
   note: Contrasted with metaphorice (q.13 a.3).
+  opis: Riječ se upotrebljava u vlastitom smislu kad ono što ona označuje doista pripada
+    stvari o kojoj se govori. Toma tim izrazom razlikuje imena koja se Bogu pridaju
+    u vlastitom smislu, poput „biće“ ili „dobar“, od onih koja se o njemu govore samo
+    preneseno.
+  mjesto: I.q13.a3.resp
 - la: metaphorice
   hr: preneseno
   alternatives:
   - metaforički
   - u prenesenom smislu
   note: Paired with "u vlastitom smislu".
+  opis: Preneseno se nešto govori kad se ime jedne stvari prenosi na drugu zbog neke
+    sličnosti u djelovanju ili učinku, kao kad se Bog naziva „kamenom“ ili „lavom“.
+    Takva imena prvotno pripadaju stvorovima, a Bogu tek po prenošenju; suprotnost
+    im je govor u vlastitom smislu.
+  mjesto: I.q13.a6.resp
 - la: abstractum / concretum
   hr: apstraktno / konkretno
   alternatives:
   - odvojeno / sraslo
   note: 'Grammatical-logical sense: abstract vs concrete names (q.3 a.3, q.13 a.1).'
+  opis: 'Riječ je o vrstama imena, ne o stvarima: apstraktno ime označuje ono po čemu
+    nešto jest takvo (npr. „božanstvo“, „bjelina“), a konkretno ono što to ima (npr.
+    „Bog“, „bijelo“). Budući da u Bogu nema sastavljenosti, Toma objašnjava da se
+    o njemu ispravno govori i apstraktnim i konkretnim imenima, premda nijedno samo
+    ne izriče savršeno njegov način bitka.'
+  mjesto: I.q13.a1.ad2
 - la: Qui est
   hr: Onaj koji jest
   alternatives:
   - Koji jest
   note: Ex 3:14 and q.13 a.11; capitalised as a divine name.
+  opis: Ime kojim se Bog objavio Mojsiju (Izl 3,14). Toma ga smatra najvlastitijim
+    Božjim imenom jer ne označuje neki određeni oblik, nego sam bitak, a u Bogu su
+    bit i bitak isto; stoga se piše velikim početnim slovom kao Božje ime.
+  mjesto: I.q13.a11.resp
 - la: tetragrammaton
   hr: tetragram
   alternatives:
   - četveroslovno ime
   note: q.13 a.11; transliterate.
+  opis: Tetragram je četveroslovno hebrejsko Božje ime, koje se iz poštovanja nije
+    izgovaralo. Toma ga spominje kao ime u nekom pogledu još vlastitije od imena „Onaj
+    koji jest“, jer je dano da označi samu neprenosivu Božju supstanciju.
+  mjesto: I.q13.a11.ad1
 - la: genus
   hr: rod
   alternatives: []
   note: Logical genus; q.3 a.5 "Deus non est in genere" = "Bog nije u rodu".
+  opis: Rod je u logičkom smislu ono zajedničko što se izriče o više vrsta, kao što
+    je „živo biće“ rod čovjeka i konja. Toma pokazuje da Bog nije ni u kojem rodu,
+    jer bi tada njegova bit bila različita od njegova bitka i bio bi sastavljen od
+    roda i razlike.
+  mjesto: I.q3.a5.resp
 - la: species
   hr: vrsta
   alternatives:
   - lik
   - oblik
   note: Logical species = "vrsta"; species in cognition (q.12) = "spoznajni lik".
+  opis: U logičkom smislu vrsta je ono što nastaje kad se rodu doda razlika, kao „čovjek“
+    unutar roda živih bića. Ista latinska riječ u nauku o spoznaji znači sličnost
+    stvari primljenu u spoznajnu moć; tamo se prevodi kao „spoznajni lik“.
+  mjesto: I.q3.a5.resp
 - la: differentia
   hr: razlika
   alternatives:
   - specifična razlika
   note: Differentia specifica in definition.
+  opis: Razlika je ono što, pridodano rodu, sačinjava vrstu i odjeljuje je od drugih
+    vrsta istoga roda, kao „razumno“ u definiciji čovjeka. Zajedno s rodom ona čini
+    definiciju; zato ono što nije u rodu nema ni razlike ni definicije u strogom smislu.
+  mjesto: I.q3.a5.resp
 - la: definitio
   hr: definicija
   alternatives:
   - određenje
   note: Standard.
+  opis: Definicija je govor koji izriče što stvar jest, redovito navođenjem roda i
+    razlike. Budući da Bog nije u rodu, njegovo se štostvo ne može obuhvatiti definicijom.
+  mjesto: I.q3.a5.resp
 - la: per se notum
   hr: po sebi poznato
   alternatives:
@@ -385,12 +668,21 @@ terms:
   - samoočito
   note: q.2 a.1 title; keep the q.2 a.1 distinction quoad se / quoad nos ("po sebi"
     / "za nas").
+  opis: 'Po sebi poznato je ono čija je istinitost razvidna čim se shvate pojmovi,
+    jer je predikat uključen u pojam subjekta. Toma razlikuje ono što je po sebi poznato
+    samo po sebi od onoga što je po sebi poznato i za nas: tvrdnja da Bog jest po
+    sebi je poznata, ali nije za nas, pa ju je potrebno dokazati.'
+  mjesto: I.q2.a1.resp
 - la: demonstratio
   hr: dokaz
   alternatives:
   - dokazivanje
   - demonstracija
   note: Demonstratio quia / propter quid = "dokaz da" / "dokaz zašto".
+  opis: Dokaz je zaključivanje koje iz poznatoga dovodi do sigurne spoznaje nepoznatoga.
+    Toma razlikuje dokaz zašto, koji polazi od uzroka, i dokaz da, koji od učinaka
+    zaključuje na uzrok; opstojnost Boga dokazuje se ovim drugim putem.
+  mjesto: I.q2.a2.resp
 - la: ratio
   hr: pojam
   alternatives:
@@ -400,6 +692,11 @@ terms:
   - argument
   note: 'Highly polysemous: concept/notion (ratio boni = pojam dobra), reason (razlog),
     the faculty (razum). Decide per context, never mechanically.'
+  opis: 'Riječ *ratio* jedna je od najviše značenjskih u Tome: može značiti pojam
+    ili smisao nečega (pojam dobra), razlog ili dokazni argument, ali i samu moć razuma.
+    U prijevodu se zato iz konteksta bira odgovarajuća riječ, najčešće „pojam“, a
+    drugdje „razlog“ ili „razum“.'
+  mjesto: I.q5.a1.resp
 - la: secundum rationem
   hr: po pojmu
   alternatives:
@@ -407,105 +704,191 @@ terms:
   - u razumu
   note: Opposed to secundum rem ("u stvarnosti"), e.g. bonum and ens differ only secundum
     rationem (q.5 a.1).
+  opis: 'Po pojmu se razlikuje ono što je u stvarnosti isto, a razlikuje se samo u
+    našem shvaćanju. Tako se, prema Tomi, dobro i biće razlikuju samo po pojmu, a
+    ne u stvarnosti: dobro dodaje biću pojam poželjnosti.'
+  mjesto: I.q5.a1.resp
 - la: relatio
   hr: odnos
   alternatives:
   - relacija
   note: 'q.13 a.7: real vs rational relation = "stvarni" / "misaoni odnos".'
+  opis: Odnos je usmjerenost jedne stvari prema drugoj, jedna od kategorija. Toma
+    razlikuje stvarni odnos, koji postoji u samim stvarima, od misaonog odnosa, koji
+    postoji samo u razumu; stvorovi su stvarno u odnosu prema Bogu, a Bog prema stvorovima
+    samo misaono.
+  mjesto: I.q13.a7.resp
 - la: quantitas
   hr: kolikoća
   alternatives:
   - količina
   - kvantiteta
   note: Category of quantity; quantitas virtutis = "kolikoća snage".
+  opis: Kolikoća je kategorija protežnosti i broja, ono po čemu je nešto veliko ili
+    malo i djeljivo na dijelove. Toma govori i o kolikoći snage, kojom se ne mjeri
+    protežnost, nego savršenost moći.
+  mjesto: I.q7.a3.resp
 - la: qualitas
   hr: kakvoća
   alternatives:
   - svojstvo
   - kvaliteta
   note: Category of quality.
+  opis: Kakvoća je kategorija koja određuje kakva je neka supstancija, npr. po boji,
+    toplini, vještini ili kreposti. Riječ je odabrana kao par „kolikoći“; ponegdje
+    se prevodi i kao „svojstvo“ ili „kvaliteta“.
+  mjesto: I.q28.a2.resp
 - la: participatio
   hr: sudjelovanje
   alternatives:
   - udioništvo
   - participacija
   note: Per participationem = "po sudjelovanju"; participare = "imati udjela u".
+  opis: Sudjelovanje znači imati djelomično i primljeno ono što drugo ima potpuno
+    i po svojoj biti. Za Tomu sve što nije Bog ima bitak po sudjelovanju, dok je Bog
+    sam bitak po svojoj biti; ponegdje se prevodi i kao „udioništvo“.
+  mjesto: I.q44.a1.resp
 - la: similitudo
   hr: sličnost
   alternatives:
   - slika
   - prilika
   note: Creature-God likeness (q.4 a.3); in q.12 also the cognitive likeness.
+  opis: Sličnost je podudaranje u nekoj formi. Toma uči da su stvorovi slični Bogu,
+    ali se ne kaže da je Bog sličan stvorovima, jer je ta sličnost nesavršena i analogna;
+    u nauku o spoznaji ista riječ označuje i spoznajnu sličnost po kojoj spoznavatelj
+    ima u sebi spoznatu stvar.
+  mjesto: I.q4.a3.resp
 - la: imago
   hr: slika
   alternatives: []
   note: Gen 1:26 "ad imaginem" = "na sliku".
+  opis: 'Slika je sličnost koja potječe od uzora i oponaša ga u vrsti ili u nekom
+    znaku vrste, pa je više od puke sličnosti. Toma tako tumači riječ iz Knjige Postanka
+    da je čovjek stvoren na sliku Božju: po umnoj naravi.'
+  mjesto: I.q93.a1.resp
 - la: privatio
   hr: lišenost
   alternatives:
   - oskudica
   - privacija
   note: Evil as privation (q.5 a.3 ad 2).
+  opis: Lišenost je odsutnost nekog dobra koje bi stvar po svojoj naravi trebala imati,
+    kao sljepoća u oka. Za Tomu zlo nije neka narav ni biće, nego upravo lišenost
+    dobra; po tome se lišenost razlikuje od pukog nijekanja.
+  mjesto: I.q48.a3.resp
 - la: negatio / remotio
   hr: nijekanje / odstranjivanje
   alternatives:
   - niječni put
   note: Via remotionis (q.3 pr., q.13 a.1).
+  opis: Put nijekanja ili odstranjivanja sastoji se u tome da se od Boga odstranjuje
+    sve što mu ne pristaje, poput tjelesnosti, sastavljenosti ili promjene. Budući
+    da ne možemo znati što Bog jest, nego što nije, Toma tim putem započinje raspravu
+    o Božjoj jednostavnosti.
+  mjesto: I.q13.a1.resp
 - la: excessus / eminentia
   hr: nadmašnost
   alternatives:
   - uzvišenost
   - preuzvišenost
   note: Per modum excessus = "na način nadmašnosti".
+  opis: 'Nadmašnost označuje način na koji su savršenstva stvorova u Bogu: ne jednako,
+    nego na neizmjerno uzvišeniji način. Uz uzročnost i odstranjivanje, to je jedan
+    od putova kojima iz stvorova imenujemo Boga.'
+  mjesto: I.q13.a1.resp
 - la: bonum
   hr: dobro
   alternatives: []
   note: Noun; bonitas = "dobrota".
+  opis: Dobro je biće ukoliko je poželjno, ono prema čemu nešto teži kao prema svojoj
+    savršenosti. Za Tomu se dobro i biće u stvarnosti poklapaju, a razlikuju se samo
+    po pojmu; od imenice „dobro“ treba razlikovati „dobrotu“, svojstvo po kojem je
+    nešto dobro.
+  mjesto: I.q5.a1.resp
 - la: appetibile
   hr: poželjno
   alternatives:
   - žudljivo
   - ono za čim se teži
   note: Bonum est quod omnia appetunt = "dobro je ono za čim sve teži".
+  opis: 'Poželjno je ono za čim se teži, i upravo to čini pojam dobra: dobro je ono
+    za čim sve teži. Nešto je poželjno ukoliko je savršeno, a savršeno ukoliko je
+    u zbilji.'
+  mjesto: I.q5.a1.resp
 - la: appetitus / appetere
   hr: težnja / težiti
   alternatives:
   - žudnja
   - požuda
   note: Natural tendency; avoid "požuda" (moral overtone).
+  opis: 'Težnja je opći naziv za usmjerenost svake stvari prema onome što joj je primjereno:
+    od prirodne težnje teškog tijela prema dolje do osjetne i umne težnje, tj. volje.
+    Riječ je odabrana kao moralno neutralna; izraz „požuda“ u hrvatskom nosi prizvuk
+    nereda koji ovdje nije nakana.'
+  mjesto: I.q80.a1.resp
 - la: malum
   hr: zlo
   alternatives: []
   note: Standard.
+  opis: Zlo za Tomu nije neko biće ni narav, nego lišenost dobra koje bi stvar trebala
+    imati. Zato zlo uvijek postoji u nekom dobru kao u subjektu i ne može imati vlastiti
+    prvi uzrok.
+  mjesto: I.q48.a1.resp
 - la: infinitum
   hr: beskonačno
   alternatives:
   - neograničeno
   - neizmjerno
   note: q.7; infinitum in actu = "zbiljski beskonačno"; finitum = "konačno".
+  opis: 'Beskonačno je ono što nije ograničeno. Toma razlikuje beskonačnost tvari,
+    koja je nesavršena jer označuje neodređenost, od beskonačnosti forme, koja je
+    savršenost: Bog je beskonačan jer njegov bitak nije primljen ni u kakvu ograničavajuću
+    narav; zbiljski beskonačno mnoštvo ili veličina, naprotiv, ne mogu postojati.'
+  mjesto: I.q7.a1.resp
 - la: ubique
   hr: posvuda
   alternatives:
   - svugdje
   note: q.8; esse in rebus = "biti u stvarima".
+  opis: Bog je posvuda jer je u svim stvarima i na svakom mjestu, ne kao dio ni kao
+    tijelo, nego kao onaj koji daje bitak, moć i djelovanje svemu što postoji.
+  mjesto: I.q8.a2.resp
 - la: per praesentiam / per potentiam
   hr: po prisutnosti / po moći
   alternatives: []
   note: q.8 a.3 triad with per essentiam.
+  opis: 'Toma razlikuje tri načina Božje nazočnosti u stvarima: po moći, jer mu je
+    sve podloženo; po prisutnosti, jer sve vidi i sve mu je otkriveno; i po biti,
+    jer je svemu uzrok bitka.'
+  mjesto: I.q8.a3.resp
 - la: locus
   hr: mjesto
   alternatives: []
   note: Standard; repletio loci = "ispunjanje mjesta".
+  opis: Mjesto je u Tominoj naravnoj filozofiji ono što obuhvaća tijelo i u čemu se
+    tijelo nalazi. Bog je na svakom mjestu ne kao tijelo koje ispunja mjesto, nego
+    time što daje bitak stvarima koje mjesto zauzimaju.
+  mjesto: I.q8.a2.resp
 - la: immutabilitas
   hr: nepromjenljivost
   alternatives:
   - nepromjenjivost
   note: q.9 title.
+  opis: Nepromjenljivost znači da Bog nije podložan nikakvoj promjeni, jer je čista
+    zbilja bez ikakve mogućnosti i ničim se ne može upotpuniti. Ponegdje se piše i
+    „nepromjenjivost“.
+  mjesto: I.q9.pr
 - la: aeternitas
   hr: vječnost
   alternatives: []
   note: 'Boethius'' definition (q.10 a.1): "interminabilis vitae tota simul et perfecta
     possessio".'
+  opis: Vječnost je, prema Boetijevoj definiciji koju Toma prihvaća, cjelovito, istodobno
+    i savršeno posjedovanje života bez granica. Ona nije beskonačno dugo vrijeme,
+    nego mjera bitka koji je posve nepromjenljiv i nema prije ni poslije; u vlastitom
+    smislu pripada samo Bogu.
+  mjesto: I.q10.a1.resp
 - la: aevum
   hr: vijek
   alternatives:
@@ -513,58 +896,108 @@ terms:
   - evum
   note: Measure of angels and incorruptibles (q.10 a.5); must stay distinct from aeternitas
     (vječnost) and tempus (vrijeme). Aeviternus = "vjekovit".
+  opis: 'Vijek je mjera bitka anđela i nepropadljivih stvorova, sredina između vječnosti
+    i vremena: sam nema prije i kasnije, ali mu se oni mogu pridružiti. Riječ „vijek“
+    ovdje je strogi stručni izraz i treba je razlikovati od „vječnosti“ i od „vremena“;
+    ono što je mjereno vijekom naziva se „vjekovitim“.'
+  mjesto: I.q10.a5.resp
 - la: tempus
   hr: vrijeme
   alternatives: []
   note: Standard.
+  opis: Vrijeme je mjera gibanja po prije i kasnije. Za Tomu se ono razlikuje od vječnosti
+    ne samo time što ima početak i svršetak, nego ponajprije time što je vječnost
+    cijela odjednom, a vrijeme teče u slijedu.
+  mjesto: I.q10.a4.resp
 - la: mensura
   hr: mjera
   alternatives:
   - mjerilo
   note: Very frequent in q.10; mensurari = "biti mjeren".
+  opis: Mjera je ono čime se spoznaje kolikoća ili trajanje nečega. U raspravi o vječnosti
+    Toma vječnost, vijek i vrijeme shvaća kao tri različite mjere trajanja, primjerene
+    trima načinima bitka.
+  mjesto: I.q10.a6.resp
 - la: unum
   hr: jedno
   alternatives: []
   note: Transcendental (q.11); unitas = "jedinstvo", but a numerical unit = "jedinica";
     multitudo = "mnoštvo".
+  opis: Jedno je biće ukoliko je nepodijeljeno; ono ne dodaje biću ništa stvarno,
+    nego samo nijekanje podijeljenosti. Valja razlikovati jedno koje se zamjenjuje
+    s bićem od jedinice kao počela broja; od istoga korijena je i „jedinstvo“, a suprotno
+    mu je „mnoštvo“.
+  mjesto: I.q11.a1.resp
 - la: verum / veritas
   hr: istinito / istina
   alternatives: []
   note: Transcendental; standard.
+  opis: Istina je za Tomu podudaranje uma i stvari; ona je ponajprije u umu, a tek
+    drugotno u stvarima, ukoliko su usmjerene prema umu. Istinito se, kao i dobro,
+    zamjenjuje s bićem, ali dodaje odnos prema umu.
+  mjesto: I.q16.a1.resp
 - la: corpus / corporeus
   hr: tijelo / tjelesan
   alternatives: []
   note: q.3 a.1 "Deus non est corpus"; incorporeus = "netjelesan".
+  opis: Tijelo je u Tome tvarna supstancija s trostrukom protežnošću. Prvo što on
+    o Bogu niječe jest da je tijelo, jer je Bog prvi pokretač, čista zbilja i najplemenitije
+    biće; ono što nije tijelo naziva se netjelesnim.
+  mjesto: I.q3.a1.resp
 - la: anima
   hr: duša
   alternatives: []
   note: Standard.
+  opis: Duša je prvo počelo života u živim bićima, ono po čemu je tijelo živo. Toma
+    pokazuje da duša nije tijelo, nego čin tijela, a ljudska je duša k tomu netjelesno
+    i samostojno počelo.
+  mjesto: I.q75.a1.resp
 - la: angelus
   hr: anđeo
   alternatives: []
   note: Standard.
+  opis: Anđeli su posve netjelesni, umski stvorovi. Toma raspravlja o njihovoj naravi,
+    spoznaji i volji te pokazuje da je svaki anđeo zasebna vrsta, jer nema tvari koja
+    bi umnožila jedinke iste vrste.
+  mjesto: I.q50.a2.resp
 - la: individuum
   hr: pojedinac
   alternatives:
   - jedinka
   - pojedinačno
   note: Individuatio = "individuacija"; singulare = "pojedinačno".
+  opis: Pojedinac je ono što je nepodijeljeno u sebi, a odijeljeno od drugih; u tjelesnim
+    stvarima počelo individuacije jest tvar. Za pojedinu stvar suprotstavljenu općemu
+    rabi se i „pojedinačno“.
+  mjesto: I.q29.a1.resp
 - la: universale
   hr: opće
   alternatives:
   - univerzalno
   note: Logical universal.
+  opis: Opće je ono što se izriče o mnogima, kao što je narav „čovjeka“ zajednička
+    svim ljudima. Za Tomu opće kao takvo postoji u umu, koji ga apstrahira od pojedinačnih
+    stvari; ponegdje se prevodi i kao „univerzalno“.
+  mjesto: I.q85.a3.resp
 - la: creatura
   hr: stvor
   alternatives:
   - stvorenje
   note: '"Stvor" is the theological standard; creator = "Stvoritelj".'
+  opis: Stvor je sve što je od Boga dobilo bitak, dakle sve osim Boga. Riječ „stvor“
+    ustaljeni je teološki izraz, uz koji stoji „Stvoritelj“; ponegdje se kaže i „stvorenje“.
+  mjesto: I.q45.a3.resp
 - la: intellectus
   hr: um
   alternatives:
   - intelekt
   - razum
   note: The faculty; keep separate from ratio (razum) where Thomas distinguishes them.
+  opis: Um je spoznajna moć koja shvaća bit stvari i općenito ono što je umljivo.
+    Toma ga razlikuje od razuma kao jednostavno shvaćanje od postupnog zaključivanja,
+    premda je u čovjeku riječ o istoj moći; zato se *intellectus* prevodi kao „um“,
+    a *ratio* u tom značenju kao „razum“.
+  mjesto: I.q79.a8.resp
 - la: intelligere
   hr: shvaćati
   alternatives:
@@ -573,29 +1006,48 @@ terms:
   - razumijevati
   note: Act of the intellect; use "umski spoznavati" where it must be marked off from
     sense knowledge.
+  opis: Shvaćati znači umom zahvatiti umljivu istinu, jednostavno i neposredno. Gdje
+    treba istaknuti razliku prema osjetnoj spoznaji, prijevod rabi izraz „umski spoznavati“.
+  mjesto: I.q79.a8.resp
 - la: intelligibilis / sensibilis
   hr: umljiv / osjetan
   alternatives:
   - shvatljiv / osjetilan
   note: Objects of intellect vs sense.
+  opis: Umljivo je ono što je predmet uma, a osjetno ono što je predmet osjetila.
+    Toma uči da ljudski um spoznaje umljive biti počevši od osjetnih stvari, ali ih
+    ne prima od njih bez djelatnog uma.
+  mjesto: I.q84.a6.resp
 - la: cognoscere / cognitio
   hr: spoznavati / spoznaja
   alternatives:
   - upoznavati
   - znanje
   note: Generic term for knowing; scire (scientia) is stricter.
+  opis: Spoznavati je najopćenitiji izraz za svako znanje, osjetno i umsko. Za Tomu
+    spoznavatelj prima formu spoznate stvari na nematerijalan način; uži i stroži
+    pojam od toga jest znanje u smislu znanosti.
+  mjesto: I.q14.a1.resp
 - la: scientia
   hr: znanost
   alternatives:
   - znanje
   note: A science (q.1, scientia moralis) = "znanost"; God's knowing or ordinary knowing
     = "znanje".
+  opis: Ista latinska riječ znači i znanost, uređeno znanje izvedeno iz počela, i
+    znanje uopće. Kad Toma pita je li sveti nauk znanost, rabi prvo značenje; kad
+    govori o Božjem znanju ili o običnom znanju, prijevod rabi riječ „znanje“.
+  mjesto: I.q1.a2.resp
 - la: sacra doctrina
   hr: sveti nauk
   alternatives:
   - sveta znanost
   - sveta doktrina
   note: q.1 title; doctrina = "nauk".
+  opis: Sveti nauk je znanje koje se temelji na Božjoj objavi, a ne samo na naravnom
+    razumu; to je ono što danas nazivamo teologijom. Toma pokazuje da je on znanost,
+    i to plemenitija od svih drugih, jer se oslanja na Božje znanje.
+  mjesto: I.q1.a1.resp
 - la: subiectum
   hr: subjekt
   alternatives:
@@ -603,43 +1055,83 @@ terms:
   - nositelj
   note: Both the subject of a science (q.1 a.7 "subiectum huius scientiae") and the
     metaphysical subject of accidents; keep "subjekt" in both.
+  opis: 'Subjekt ima dva srodna značenja: ono o čemu neka znanost raspravlja (subjekt
+    svetog nauka je Bog) i ono u čemu akcidenti postoje kao u nositelju. U prijevodu
+    se u oba slučaja zadržava „subjekt“, za razliku od „predmeta“.'
+  mjesto: I.q1.a7.resp
 - la: obiectum
   hr: predmet
   alternatives:
   - objekt
   note: Object of a power or habitus; keep distinct from subiectum ("subjekt").
+  opis: Predmet je ono prema čemu je usmjerena neka moć ili sposobnost, po čemu se
+    moći i razlikuju, kao što je boja predmet vida. Razlikuje se od subjekta, koji
+    je nositelj moći ili ono o čemu znanost raspravlja.
+  mjesto: I.q77.a3.resp
 - la: revelatio / revelare
   hr: objava / objaviti
   alternatives: []
   note: Standard.
+  opis: Objava je Božje očitovanje istina koje nadilaze ljudski razum ili koje bi
+    razum spoznao tek s mukom i pomiješane s mnogim zabludama. Na njoj se, prema Tomi,
+    temelji sveti nauk.
+  mjesto: I.q1.a1.resp
 - la: fides
   hr: vjera
   alternatives: []
   note: Articuli fidei = "članci vjere"; praeambula fidei = "predvorja vjere".
+  opis: Vjera je za Tomu bogoslovna krepost kojom razum, potaknut voljom i milošću,
+    prianja uz istinu koju je Bog objavio. Istine koje vjera izričito ispovijeda nazivaju
+    se člancima vjere i one su načela svetoga nauka, dok se istine dohvatljive i naravnim
+    razumom (npr. da Bog postoji) nazivaju predvorjima vjere.
+  mjesto: I.q1.a8.resp
 - la: auctoritas
   hr: autoritet
   alternatives:
   - mjerodavnost
   - svjedočanstvo
   note: Argument from authority (q.1 a.8); "locus ab auctoritate".
+  opis: Autoritet je mjerodavnost svjedočanstva, osobito Svetoga pisma i crkvenih
+    naučitelja, na koje se oslanja dokaz. Toma ističe da je dokazivanje iz autoriteta
+    najvlastitije svetom nauku, jer se njegova načela primaju objavom, iako je u filozofiji
+    dokaz iz ljudskoga autoriteta najslabiji.
+  mjesto: I.q1.a8.ad2
 - la: Scriptura (sacra)
   hr: (Sveto) pismo
   alternatives:
   - Pismo
   note: Capitalised; canonical books = "kanonske knjige".
+  opis: Sveto pismo, ili kraće Pismo, jest zbirka kanonskih knjiga Staroga i Novoga
+    zavjeta, kojima je začetnik sam Bog. Piše se velikim početnim slovom; samo se
+    na kanonske knjige sveti nauk oslanja kao na vlastite i nužne razloge.
+  mjesto: I.q1.a10.resp
 - la: sensus litteralis / historicus
   hr: doslovni / povijesni smisao
   alternatives: []
   note: q.1 a.10.
+  opis: Doslovni ili povijesni smisao jest ono što pisac izravno želi reći riječima,
+    uključujući i ono što izriče slikom ili prenesenim govorom. Prema Tomi on je temelj
+    svih ostalih smislova Pisma i jedini iz kojega se može izvoditi dokaz.
+  mjesto: I.q1.a10.resp
 - la: sensus spiritualis
   hr: duhovni smisao
   alternatives: []
   note: Divided into allegoricus, moralis, anagogicus.
+  opis: Duhovni smisao nastaje kad same stvari označene riječima Pisma označuju nešto
+    daljnje; to je moguće jer je Bog, začetnik Pisma, gospodar i samih stvari i povijesnih
+    događaja. Taj se smisao temelji na doslovnom i dijeli se na alegorijski, moralni
+    i anagoški.
+  mjesto: I.q1.a10.resp
 - la: allegoricus / moralis / anagogicus
   hr: alegorijski / moralni / anagoški
   alternatives:
   - moralni = tropološki
   note: q.1 a.10; keep transliterated forms.
+  opis: 'To su tri vrste duhovnoga smisla: alegorijski, kad ono što je u Starom zakonu
+    označuje ono što je u Novom; moralni (ponegdje se zove i tropološki), kad ono
+    što je učinjeno u Kristu označuje ono što mi trebamo činiti; anagoški, kad označuje
+    ono što pripada vječnoj slavi. Zadržani su ustaljeni preuzeti nazivi.'
+  mjesto: I.q1.a10.resp
 - la: visio (Dei)
   hr: gledanje
   alternatives:
@@ -647,35 +1139,67 @@ terms:
   - zrenje
   note: Visio per essentiam = "gledanje (Boga) po biti"; avoid "vizija". Ordinary
     bodily sight and Augustine's three kinds of visio = "viđenje".
+  opis: Gledanje Boga po biti jest neposredna spoznaja kojom blaženi vide samu Božju
+    bit i u kojoj se sastoji posljednje čovjekovo blaženstvo. Za to se uzvišeno gledanje
+    uzima riječ „gledanje“, dok se „viđenje“ ostavlja za obično tjelesno opažanje
+    i za Augustinove tri vrste viđenja; izbjegava se riječ „vizija“, koja bi sugerirala
+    ukazanje.
+  mjesto: I.q12.a2.resp
 - la: lumen gloriae
   hr: svjetlo slave
   alternatives:
   - svjetlost slave
   note: q.12 a.5; lumen naturale / gratiae = "naravno svjetlo" / "svjetlo milosti".
+  opis: Svjetlo slave nadnaravno je raspoloženje kojim Bog krijepi stvoreni um da
+    može gledati njegovu bit, budući da to nadilazi svaku naravnu snagu stvora. Razlikuje
+    se od naravnoga svjetla razuma i od svjetla milosti u ovom životu.
+  mjesto: I.q12.a5.ad3
 - la: comprehendere / comprehensio
   hr: obuhvatiti / obuhvaćanje
   alternatives:
   - potpuno spoznati
   - dokučiti
   note: 'q.12 a.7: knowing a thing as fully as it is knowable; never "razumjeti".'
+  opis: Obuhvatiti nešto znači spoznati ga onoliko savršeno koliko je ono spoznatljivo.
+    Zato Toma uči da blaženi gledaju Boga, ali ga nijedan stvoreni um ne obuhvaća;
+    ne radi se o „razumijevanju“, nego o dosezanju pune spoznatljivosti, a u širem
+    smislu riječ označuje i samo dosezanje Boga kao cilja.
+  mjesto: I.q12.a7.resp
 - la: beatitudo
   hr: blaženstvo
   alternatives: []
   note: Standard.
+  opis: Blaženstvo je posljednje savršenstvo razumnoga stvora, u kojem se ispunja
+    sva njegova težnja; za Tomu se ono bitno sastoji u gledanju Boga. Bogu blaženstvo
+    pripada po samoj njegovoj naravi.
+  mjesto: I.q12.a1.resp
 - la: gloria
   hr: slava
   alternatives: []
   note: Standard.
+  opis: Slava u ovom djelu ponajprije označuje stanje blaženih u domovini, u kojem
+    se dovršava ono što je milost započela; odatle i izraz „svjetlo slave“. Može označivati
+    i Božju slavu kao očitovanje njegove dobrote.
+  mjesto: I.q12.a5.resp
 - la: gratia
   hr: milost
   alternatives: []
   note: Standard.
+  opis: Milost je nezaslužen Božji dar koji uzdiže razumni stvor iznad njegove naravi
+    i usmjeruje ga prema vječnom životu. Tomino je načelo da milost ne ukida narav,
+    nego je usavršuje.
+  mjesto: I.q1.a8.ad2
 - la: phantasma
   hr: maštovna slika
   alternatives:
   - fantazma
   - predodžba
   note: q.12 a.12-13; imaginatio = "mašta".
+  opis: Maštovna slika jest osjetilna predodžba koju mašta zadržava nakon opažanja
+    i iz koje djelatni um apstrahira umljive pojmove. Prema Tomi naš um u ovom životu
+    ništa ne spoznaje bez okretanja maštovnim slikama; u literaturi se ponegdje zadržava
+    preuzeti oblik „fantazma“.
+  mjesto: I.q12.a13.resp
 - la: mens
   hr: duh
   alternatives:
@@ -683,35 +1207,67 @@ terms:
   - pamet
   note: Usually "duh"; where mens stands beside spiritus (Eph 4, Tit 1, q.79 a.1,
     a.13) = "pamet", to avoid "duh i duh".
+  opis: Duh označuje višu, umsku stranu duše, osobito um i volju zajedno, u kojoj
+    se nalazi slika Božja. Ondje gdje ta riječ u tekstu stoji uz drugu riječ koja
+    također znači duh (u Pavlovim poslanicama i kod Augustina), prevodi se kao „pamet“,
+    da se izbjegne nespretno „duh i duh“.
+  mjesto: I.q79.a1.ad1
 - la: theologia
   hr: teologija
   alternatives:
   - bogoslovlje
   note: q.1 a.1 ad 2 contrasts theology as part of philosophy with sacra doctrina.
+  opis: Teologija je govor o Bogu. Toma razlikuje teologiju koja je dio filozofije,
+    jer Boga spoznaje naravnim svjetlom razuma, od teologije koja pripada svetom nauku
+    i polazi od objave; one se razlikuju po rodu, premda mogu raspravljati o istim
+    stvarima.
+  mjesto: I.q1.a1.ad2
 - la: philosophia / philosophicae disciplinae
   hr: filozofija / filozofske znanosti
   alternatives: []
   note: q.1 a.1.
+  opis: Filozofija i filozofske znanosti jesu znanja koja se istražuju ljudskim razumom.
+    Toma pita je li osim njih potreban i nauk utemeljen na Božjoj objavi i odgovara
+    da jest, jer je čovjek usmjeren prema cilju koji nadilazi dohvat razuma.
+  mjesto: I.q1.a1.resp
 - la: Philosophus
   hr: Filozof
   alternatives: []
   note: Refers to Aristotle; keep capitalised, no expansion.
+  opis: „Filozof“ je ustaljeni naziv kojim Toma označuje Aristotela, filozofa u punom
+    smislu riječi. Piše se velikim početnim slovom i ostavlja bez pojašnjenja, kao
+    u izvorniku.
+  mjesto: I.q3.a5.resp
 - la: conveniens / convenientia
   hr: prikladno / prikladnost
   alternatives:
   - primjereno
   - suglasnost
   note: Fittingness arguments; in q.13 convenire = "pristajati".
+  opis: Prikladnost označuje razloge koji ne pokazuju da nešto nužno mora biti, nego
+    da je tako dolično i primjereno Božjoj mudrosti i naravi stvari. U raspravi o
+    Božjim imenima srodni se glagol prevodi kao „pristajati“, kad se pita koje ime
+    pristaje Bogu.
+  mjesto: I.q1.a9.resp
 - la: processio / procedere
   hr: izlaženje / izlaziti
   alternatives:
   - proizlaženje
   note: Procession of the divine persons (q.27).
+  opis: 'Izlaženje označuje podrijetlo jedne božanske osobe od druge: Sin izlazi od
+    Oca, Duh Sveti od Oca i Sina. Toma ga shvaća kao unutarnje izlaženje koje ostaje
+    u Bogu, po uzoru na riječ koju um oblikuje u sebi, a ne kao izlaženje učinka iz
+    uzroka.'
+  mjesto: I.q27.a1.resp
 - la: spiratio / spirare
   hr: izdahnuće / izdahnuti
   alternatives:
   - dahnuće
   note: Owner's choice; active/passive spiratio = "aktivno / pasivno izdahnuće".
+  opis: Izdahnuće je izlaženje Duha Svetoga od Oca i Sina po načinu ljubavi, za razliku
+    od rađanja Sina. Aktivno izdahnuće je odnos Oca i Sina prema Duhu, a pasivno izdahnuće
+    odnos Duha prema njima; ponegdje se kaže i „dahnuće“.
+  mjesto: I.q28.a4.resp
 - la: generatio / genitus
   hr: rađanje / rođen
   alternatives:
@@ -719,136 +1275,256 @@ terms:
   note: Trinitarian generation and a father begetting = "rađanje"; physical coming-to-be
     (generatio et corruptio) = "nastajanje" (i "propadanje"); physical ingenitum (prima
     materia) = "nenastao".
+  opis: Rađanje u Bogu jest izlaženje Riječi od Oca, kojim Sin prima istu narav; isto
+    se ime rabi i za rađanje među živim bićima. Kad je riječ o tjelesnom nastanku
+    stvari, isti se pojam prevodi kao „nastajanje“ (uz „propadanje“), a prva tvar,
+    koja ne nastaje, naziva se „nenastalom“.
+  mjesto: I.q27.a2.resp
 - la: paternitas / filiatio
   hr: očinstvo / sinovstvo
   alternatives: []
   note: Relations in God (q.28, q.40).
+  opis: 'Očinstvo i sinovstvo jesu stvarni odnosi u Bogu koji proizlaze iz rađanja:
+    odnos Oca prema Sinu i Sina prema Ocu. Po tim se odnosima božanske osobe međusobno
+    razlikuju.'
+  mjesto: I.q28.a4.resp
 - la: innascibilitas
   hr: nerođenost
   alternatives:
   - nerodivost
   note: Notion of the Father (q.32-33).
+  opis: 'Nerođenost je oznaka Oca kao počela bez počela: on nije ni od koga. Sama
+    po sebi ona kaže nešto niječno, ali upućuje na Očevo prvenstvo kao izvora.'
+  mjesto: I.q32.a3.resp
 - la: notio
   hr: oznaka
   alternatives:
   - pojmovna oznaka
   note: The five notions (q.32 a.3); keep distinct from ratio = "pojam".
+  opis: 'Oznaka je ono po čemu spoznajemo i razlikujemo božanske osobe. Toma ih nabraja
+    pet: nerođenost, očinstvo, sinovstvo, zajedničko izdahnuće i izlaženje. Valja
+    je razlikovati od pojma u općem smislu (*ratio*).'
+  mjesto: I.q32.a3.resp
 - la: Verbum (divinum)
   hr: Riječ
   alternatives: []
   note: Capitalised for the divine Word; human verbum = "riječ".
+  opis: Riječ je osobno ime Sina, koji izlazi od Oca kao unutarnja riječ uma koja
+    izriče ono što um spoznaje. Kad označuje božansku osobu, piše se velikim slovom,
+    a ljudska unutarnja ili izgovorena riječ malim.
+  mjesto: I.q34.a1.resp
 - la: conceptio (mentis)
   hr: zamisao
   alternatives:
   - začeće
   note: Conception of the intellect; "začeće" only where the biological image is meant
     (Prov 8).
+  opis: Zamisao je ono što um oblikuje u sebi kad nešto shvaća, unutarnja riječ koju
+    označuje izgovoreni glas. Na toj se analogiji temelji nauk o izlaženju Riječi
+    u Bogu; samo gdje Pismo rabi sliku tjelesnoga začeća, zadržava se riječ „začeće“.
+  mjesto: I.q27.a1.resp
 - la: Paraclitus
   hr: Branitelj
   alternatives:
   - Tješitelj
   note: Liturgical Croatian.
+  opis: Branitelj je ime za Duha Svetoga iz Ivanova evanđelja, preuzeto prema hrvatskom
+    liturgijskom prijevodu; u drugim se prijevodima naziva i „Tješitelj“.
+  mjesto: I.q27.a3.sc
 - la: missio
   hr: poslanje
   alternatives: []
   note: Mission of the divine persons (q.43).
+  opis: 'Poslanje božanske osobe uključuje dvoje: njezino izlaženje od osobe koja
+    je šalje i novi način njezine prisutnosti u stvoru. Tako se šalju Sin i Duh Sveti,
+    a Otac, koji ni od koga nije, nikada se ne šalje.'
+  mjesto: I.q43.a1.resp
 - la: habitudo
   hr: odnošaj
   alternatives:
   - usmjerenost
   note: Keep distinct from relatio = "odnos".
+  opis: Odnošaj označuje stav ili okrenutost jedne stvari prema drugoj, općenitije
+    i slobodnije od strogoga kategorijalnog odnosa. Zato se prevodi riječju „odnošaj“,
+    da se razlikuje od odnosa (*relatio*).
+  mjesto: I.q13.a7.resp
 - la: respectus
   hr: usmjerenost
   alternatives:
   - obzir
   note: Keep distinct from relatio and habitudo.
+  opis: Usmjerenost označuje samo to da je nešto okrenuto prema drugomu, što je ono
+    bitno u kategoriji odnosa. Prevodi se posebnom riječju da se razlikuje i od odnosa
+    (*relatio*) i od odnošaja (*habitudo*).
+  mjesto: I.q28.a1.resp
 - la: liberum arbitrium
   hr: slobodno odlučivanje
   alternatives:
   - slobodna volja
   note: Owner's choice; keeps arbitrium distinct from voluntas. Augustine's De libero
     arbitrio stays "O slobodnoj volji".
+  opis: Slobodno odlučivanje jest čovjekova moć da bira među onim što vodi k cilju;
+    Toma uči da to nije moć različita od volje, nego je ista volja imenovana po činu
+    izbora. Prijevodom „slobodno odlučivanje“ umjesto uobičajenoga „slobodna volja“
+    čuva se razlika prema samoj volji; naslov Augustinova djela ipak se navodi u ustaljenom
+    obliku „O slobodnoj volji“.
+  mjesto: I.q83.a1.resp
 - la: voluntas beneplaciti / signi
   hr: volja blagonaklonosti / volja znaka
   alternatives: []
   note: q.19 a.11-12.
+  opis: 'Volja blagonaklonosti jest Božja volja u vlastitom smislu, ono što Bog sam
+    hoće. Volja znaka je volja rečena preneseno: znakovi Božje volje, kao zapovijed,
+    zabrana, savjet, dopuštenje i djelovanje, nazivaju se voljom jer je očituju.'
+  mjesto: I.q19.a11.resp
 - la: caritas
   hr: ljubav
   alternatives:
   - bogoslovna ljubav
   note: The theological virtue; "bogoslovna ljubav" where it must be marked off from
     amor. Never "karitas".
+  opis: Ljubav je ovdje bogoslovna krepost kojom ljubimo Boga radi njega samoga i
+    bližnjega radi Boga. Gdje je treba izričito razlikovati od ljubavi kao naravne
+    sklonosti, prevodi se kao „bogoslovna ljubav“.
+  mjesto: I.q60.a5.resp
 - la: amor / dilectio
   hr: ljubav
   alternatives:
   - naklonost
   note: Both "ljubav"; where Thomas contrasts them, dilectio = "izabirna ljubav".
+  opis: Obje riječi znače ljubav i obično se prevode istom riječju. Gdje ih Toma suprotstavlja,
+    ona koja uključuje izbor prevodi se kao „izabirna ljubav“, za razliku od naravne
+    ljubavi koja izboru prethodi.
+  mjesto: I.q60.a2.resp
 - la: providentia
   hr: providnost
   alternatives:
   - promisao
   note: q.22.
+  opis: Providnost je zamisao reda stvari prema cilju koja postoji u Božjem umu; njezino
+    izvršenje naziva se upravljanjem. Ponegdje se prevodi i kao „promisao“.
+  mjesto: I.q22.a1.resp
 - la: praedestinatio / reprobatio
   hr: predodređenje / odbacivanje
   alternatives: []
   note: q.23; praedeterminare = "unaprijed određivati".
+  opis: Predodređenje je dio providnosti kojim Bog razumni stvor unaprijed usmjeruje
+    prema vječnom životu kao prema cilju. Odbacivanje je dio providnosti koji se odnosi
+    na one koji od toga cilja otpadaju; ono uključuje volju da se dopusti krivnja,
+    ali nije uzrok krivnje.
+  mjesto: I.q23.a3.resp
 - la: praescientia
   hr: predznanje
   alternatives: []
   note: Praescitus (foreknown to be lost) = "predznan za propast".
+  opis: Predznanje je Božje znanje budućih stvari. Toma naglašava da odbacivanje nije
+    samo predznanje, nego mu nešto dodaje; onaj za koga Bog unaprijed zna da će propasti
+    naziva se „predznanim za propast“.
+  mjesto: I.q23.a3.resp
 - la: meritum / demeritum
   hr: zasluga / nezasluga
   alternatives: []
   note: q.23.
+  opis: Zasluga je vrijednost čina kojim se razumni stvor čini dostojnim nagrade,
+    a nezasluga vrijednost čina koji zaslužuje kaznu. Toma uči da zasluge nisu uzrok
+    predodređenja, nego njegov učinak.
+  mjesto: I.q23.a5.resp
 - la: sempiternus
   hr: vjekovječan
   alternatives: []
   note: Owner's choice; distinct from aeternus (vječan) and aeviternus (vjekovit).
+  opis: Vjekovječno je ono što traje uvijek, ali u vremenskom slijedu, kao što su
+    neki filozofi mislili o gibanju neba. Riječ se razlikuje od vječnoga (*aeternitas*),
+    koje je cjelovito i istodobno posjedovanje života bez slijeda, i od vjekovitoga,
+    koje pripada trajanju anđela (*aevum*).
+  mjesto: I.q10.a4.resp
 - la: potestas
   hr: vlast
   alternatives: []
   note: Authority = "vlast" (in potestate nostra = "u našoj vlasti"); where it means
     a capacity or power (potestates rationales, liberum arbitrium as a potestas) =
     "moć" (owner's choice).
+  opis: Vlast ovdje znači raspolaganje nečim, kao kad se kaže da je nešto „u našoj
+    vlasti“. Gdje ista riječ znači sposobnost djelovanja (npr. kad se slobodno odlučivanje
+    naziva moću), prevodi se kao „moć“.
+  mjesto: I.q62.a9.ad1
 - la: scientia visionis / simplicis intelligentiae
   hr: znanje gledanja / znanje jednostavnog shvaćanja
   alternatives: []
   note: God's knowledge (q.14 a.9).
+  opis: Znanje gledanja jest Božje znanje onoga što jest, što je bilo ili će biti
+    u bilo kojem vremenu; znanje jednostavnog shvaćanja odnosi se na ono što je moguće,
+    a niti jest, niti je bilo, niti će biti. Prvo se tako naziva jer se kod nas vidi
+    ono što ima zaseban bitak izvan onoga koji vidi.
+  mjesto: I.q14.a9.resp
 - la: intellectus possibilis / agens
   hr: mogućnosni um / djelatni um
   alternatives:
   - mogući um
   note: q.79.
+  opis: Mogućnosni um je moć kojom duša može postati sve umljivo i prima umljive forme;
+    djelatni um je moć koja iz maštovnih slika apstrahira umljivo i čini ga umljivim
+    u činu. Prvi se ponegdje naziva i „mogući um“.
+  mjesto: I.q79.a7.resp
 - la: connaturalis
   hr: sunaravan
   alternatives:
   - primjeren naravi
   note: q.12 a.4.
+  opis: Sunaravno je ono što odgovara naravi nekoga bića, pa mu je primjereno po naravi.
+    Toma tako kaže da je našem umu sunaravno spoznavati ono što ima bitak u pojedinačnoj
+    tvari, a ne odijeljene bitnosti.
+  mjesto: I.q12.a4.resp
 - la: deiformis
   hr: bogolik
   alternatives: []
   note: q.12.
+  opis: Bogolik je onaj koji je svjetlom slave postao sličan Bogu. Toma tim izrazom
+    opisuje blažene koji gledaju Boga, a oni se razlikuju po stupnju te sličnosti,
+    prema mjeri ljubavi.
+  mjesto: I.q12.a5.resp
 - la: transmutatio / transmutabilis
   hr: preinaka / preinačiv
   alternatives: []
   note: Keep distinct from mutatio = "promjena".
+  opis: Preinaka je promjena kojom nešto prelazi iz jednoga stanja u drugo, osobito
+    tjelesna promjena podložna vremenu, a preinačivo je ono što joj je podložno. Prevodi
+    se posebnom riječju da se razlikuje od općenitijega pojma promjene (*mutatio*).
+  mjesto: I.q10.a5.resp
 - la: modus, species, ordo
   hr: način, vrsta i red
   alternatives: []
   note: Augustine's triad (q.5 a.5, q.6 a.1); owner's choice. Keep mensura = "mjera"
     distinct from modus.
+  opis: 'Način, vrsta i red jesu Augustinova trojica u kojima se sastoji pojam dobra:
+    način kao primjerenost mjeri, vrsta kao forma po kojoj je stvar određena, red
+    kao usmjerenost prema cilju i drugim stvarima. Način treba razlikovati od mjere
+    (*mensura*).'
+  mjesto: I.q5.a5.resp
 - la: simpliciter / secundum quid
   hr: naprosto / u nekom pogledu
   alternatives: []
   note: Never "jednostavno" (that is simplicitas).
+  opis: „Naprosto“ znači bez ograničenja, u punom smislu; „u nekom pogledu“ znači
+    samo s nekim obzirom ili ograničenjem. Ne prevodi se kao „jednostavno“, jer se
+    ta riječ ostavlja za jednostavnost (*simplicitas*) kao nesastavljenost.
+  mjesto: I.q5.a1.ad1
 - la: contraria / opposita
   hr: protivno / suprotstavljeno
   alternatives: []
   note: Keep the two apart (q.17 a.4).
+  opis: Suprotstavljeno je opći naziv za sve što se međusobno isključuje; protivno
+    je jedna vrsta suprotstavljenosti, između krajnosti unutar istoga roda, kao bijelo
+    i crno. Toma tako uči da su istinito i lažno suprotstavljeni kao protivni.
+  mjesto: I.q17.a4.resp
 - la: praedicamentum
   hr: kategorija
   alternatives: []
   note: Ad aliquid (the category of relation) = "prema nečemu".
+  opis: 'Kategorija je jedan od deset najviših rodova bića prema Aristotelu (supstancija,
+    kolikoća, kakvoća, odnos itd.). Kategorija odnosa naziva se i „prema nečemu“,
+    a Toma kaže da su u Bogu samo dvije kategorije: supstancija i odnos.'
+  mjesto: I.q28.a2.ad1
 - la: proprietas
   hr: svojstvo
   alternatives:
@@ -856,142 +1532,283 @@ terms:
   note: Owner's choice (2026-11-05). Personal properties in God = "osobna svojstva".
     Proprietas significationis / verborum (propriety of meaning) stays "vlastitost";
     proprium = "vlastito".
+  opis: Svojstvo je ono što je nečemu vlastito i po čemu se ono razlikuje; u nauku
+    o Trojstvu osobna svojstva su ono po čemu se božanske osobe razlikuju. Kad se
+    misli na vlastitost značenja, tj. na točnost govora, rabi se riječ „vlastitost“.
+  mjesto: I.q40.a3.resp
 - la: emanatio / emanare
   hr: proistjecanje / proistjecati
   alternatives:
   - izviranje
   note: Owner's choice. q.45 "De modo emanationis rerum" = "O načinu proistjecanja
     stvari".
+  opis: Proistjecanje označuje izlaženje stvari iz njihova počela; na početku rasprave
+    o stvaranju Toma ga rabi za izlaženje svega bića iz sveopćega uzroka, Boga. Stvaranje
+    je upravo takvo proistjecanje, koje ne pretpostavlja nikakvu prethodnu tvar.
+  mjesto: I.q45.a1.resp
 - la: notitia
   hr: poznavanje
   alternatives: []
   note: Owner's choice; keeps it distinct from scientia (znanje/znanost) and cognitio
     (spoznaja).
+  opis: Poznavanje je opća riječ za znanje o nečemu koje se nalazi u spoznavatelju
+    i u njemu se može trajno zadržavati. Prevodi se posebnom riječju da se razlikuje
+    od znanja ili znanosti (*scientia*) i od spoznaje (*cognitio*); tako se Božje
+    poznavanje onih koje je predodredio naziva knjigom života.
+  mjesto: I.q24.a1.resp
 - la: trinus / trinum
   hr: trojedin / trojedino
   alternatives: []
   note: Owner's choice ("trojedini Bog"); trinitas = "Trojstvo"; triplex = "trostruk";
     ternarius = "trojni".
+  opis: Trojedin znači jedan po biti, a trostruk po osobama; tako se govori o trojedinom
+    Bogu. Valja ga razlikovati od imena Trojstvo, kojim se označuju same tri osobe,
+    kao i od brojčanih pridjeva „trostruk“ i „trojni“.
+  mjesto: I.q31.a1.ad5
 - la: consubstantialis / coessentialis
   hr: istobitan
   alternatives: []
   note: As in the Croatian Creed ("istobitan s Ocem"); consubstantialitas = "istobitnost".
+  opis: Istobitan je onaj koji ima jednu te istu bit s drugim; tako se, kao u hrvatskom
+    prijevodu Vjerovanja, Sin naziva istobitnim s Ocem. Odatle i istobitnost kao naziv
+    za jedinstvo biti božanskih osoba.
+  mjesto: I.q41.a3.ad1
 - la: saeculum
   hr: doba
   alternatives:
   - vijek
   note: Keep distinct from aevum = "vijek". Idioms a saeculo / a saeculis ("from of
     old") = "od davnine"; Scripture "in saecula" may stay "u vijeke".
+  opis: Latinsko *saeculum* označuje doba, razdoblje ljudske povijesti ili svijeta
+    („ovo doba“, „buduće doba“). Prevodi se kao „doba“ kako bi ostalo jasno odijeljeno
+    od *aevum*, za koji je pridržana riječ „vijek“ (trajanje anđela i nebeskih tijela);
+    izraz koji znači „od pradavnih vremena“ prevodi se kao „od davnine“, a u biblijskim
+    navodima ostaje ustaljeno „u vijeke“.
+  mjesto: I.q10.a6.ad1
 - la: intellectualis / intellectivus
   hr: umski
   alternatives: []
   note: Substantia intellectualis = "umska supstancija"; never "umni". Intellectualitas
     = "umnost".
+  opis: 'Pridjev „umski“ označuje ono što pripada umu (*intellectus*) ili ima umsku
+    narav: umska supstancija, umska duša, umska moć. Riječ je o naravi koja je sposobna
+    shvaćati, za razliku od „umnoga“, što u hrvatskom znači pametan; sama ta sposobnost
+    naziva se „umnost“.'
+  mjesto: I.q50.a2.resp
 - la: incorruptibilis / corruptibilis
   hr: nepropadljiv / propadljiv
   alternatives: []
   note: Corruptio = "propadanje".
+  opis: Propadljivo je ono što može propasti, to jest izgubiti svoju supstancijalnu
+    formu i prestati biti ono što jest, kao zemaljska tijela složena od protivnih
+    elemenata; nepropadljivo je ono što to ne može, kao anđeli, ljudska duša i, prema
+    ondašnjoj fizici, nebeska tijela. Odgovarajuća imenica (*corruptio*) prevodi se
+    kao „propadanje“ i suprotstavlja se nastajanju.
+  mjesto: I.q50.a5.resp
 - la: appetitivus / appetitus sensitivus
   hr: težnjeni / osjetilna težnja
   alternatives: []
   note: Virtus/pars appetitiva = "težnjena snaga / težnjeni dio".
+  opis: Težnja (*appetitus*) jest svaka sklonost prema dobru koja slijedi neku spoznaju;
+    „težnjeni“ je ono što pripada toj sposobnosti (težnjena snaga, težnjeni dio duše),
+    za razliku od spoznajnoga. Osjetilna težnja slijedi osjetilnu spoznaju i zajednička
+    je čovjeku i životinjama, dok je umska težnja volja.
+  mjesto: I.q59.a1.resp
 - la: irascibilis / concupiscibilis
   hr: srdita / požudna (moć)
   alternatives: []
   note: The two sense appetites (q.59 a.4, q.81).
+  opis: 'To su dvije moći osjetilne težnje: požudna je usmjerena na ono što je osjetilu
+    naprosto ugodno ili štetno, a srdita na dobro do kojega se dolazi s mukom, pa
+    se bori protiv onoga što se tome protivi. Srdita se imenuje po srdžbi, ali u nju
+    spadaju i nada, strah i smionost; na te se dvije moći ne dijeli volja, nego samo
+    osjetilna težnja.'
+  mjesto: I.q81.a2.resp
 - la: passio (animae)
   hr: strast
   alternatives:
   - trpnja
   note: Emotion = "strast"; passio as the category opposite actio = "trpnja".
+  opis: Strast (duše) jest pokret osjetilne težnje praćen tjelesnom promjenom, kao
+    ljubav, radost, srdžba ili strah; zato u Bogu i anđelima u vlastitom smislu nema
+    strasti, nego se te riječi o njima govore samo po sličnosti učinka. Kad ista latinska
+    riječ znači kategoriju suprotnu radnji, to jest trpljenje nekoga djelovanja, prevodi
+    se kao „trpnja“.
+  mjesto: I.q64.a3.resp
 - la: gratia gratum faciens / gratis data
   hr: milost koja čini ugodnim / milost darovana besplatno
   alternatives: []
   note: Majority rendering (q.43, q.62).
+  opis: Milost koja čini ugodnim jest milost koja samu osobu sjedinjuje s Bogom i
+    čini je Bogu ugodnom, tako da u njoj prebiva Trojstvo. Milost darovana besplatno,
+    kao dar proroštva ili činjenja čudesa, daje se čovjeku prvenstveno radi drugih
+    i ne čini ga sama po sebi svetim.
+  mjesto: I.q43.a3.ad4
 - la: viator / comprehensor
   hr: putnik / posjednik
   alternatives: []
   note: Comprehensor = the blessed who has reached the goal, not "obuhvatiti"; status
     viae = "stanje puta", in patria = "u domovini".
+  opis: Putnik je čovjek u ovom životu, koji je još na putu prema blaženstvu („stanje
+    puta“); posjednik je onaj koji je već stigao do cilja i posjeduje blaženo gledanje
+    Boga („u domovini“). Za Krista se kaže da je jedini bio istodobno putnik i posjednik.
+  mjesto: I.q113.a4.ad1
 - la: terminus a quo / ad quem
   hr: početna / završna granica
   alternatives: []
   note: Terminus of a motion or change; terminus alone = "granica" or "završetak".
+  opis: 'Svaka promjena ili gibanje ide od nečega prema nečemu: ono od čega polazi
+    jest početna granica, a ono u što se završava završna granica. Po Tominu načelu
+    promjena prima vrstu i dostojanstvo od završne granice; sama riječ *terminus*
+    inače se prevodi kao „granica“ ili „završetak“.'
+  mjesto: I.q53.a3.resp
 - la: alteratio
   hr: kakvoćna promjena
   alternatives:
   - alteracija
   note: Keep distinct from mutatio (promjena) and transmutatio (preinaka).
+  opis: Kakvoćna promjena jest promjena stvari s obzirom na kakvoću, kao kad se nešto
+    zagrijava ili osvjetljuje, dok supstancija ostaje ista. Naziv je izabran da bi
+    se razlikovala od promjene uopće (*mutatio*) i od preinake (*transmutatio*); ponegdje
+    se prevodi i kao „alteracija“.
+  mjesto: I.q53.a3.ad2
 - la: species intelligibilis
   hr: umljivi spoznajni lik
   alternatives: []
   note: Species innata / connaturalis = "urođeni / sunaravni spoznajni lik".
+  opis: Umljivi spoznajni lik jest sličnost shvaćene stvari u umu, po kojoj um biva
+    u činu i shvaća; nije ono što se shvaća, nego ono čime se shvaća. Anđeli imaju
+    urođene ili sunaravne spoznajne likove, dok ih ljudski um apstrahira od maštovnih
+    slika.
+  mjesto: I.q14.a2.ad2
 - la: compositio et divisio (intellectus)
   hr: sastavljanje i rastavljanje
   alternatives: []
   note: Forming judgements; ontological compositio = "sastavljenost".
+  opis: 'Sastavljanje i rastavljanje jest čin uma kojim on sudi: povezuje pririk sa
+    subjektom ili ga od njega odvaja, potvrđujući ili niječući; u tome je za Tomu
+    vlastito sjedište istine i lažnosti. Valja ga razlikovati od sastavljenosti (*compositio*
+    u ontološkom smislu), to jest od toga da je neka stvar složena od dijelova.'
+  mjesto: I.q16.a5.ad1
 - la: substantiae separatae
   hr: odijeljene supstancije
   alternatives: []
   note: Angels / separate intelligences.
+  opis: Odijeljene supstancije jesu umske supstancije koje postoje bez tijela i tvari,
+    odijeljene od tvarnoga svijeta; kod Tome su to u prvom redu anđeli, a kod filozofa
+    inteligencije koje pokreću nebeska tijela.
+  mjesto: I.q88.a1.resp
 - la: immaterialis
   hr: netvaran
   alternatives: []
   note: Follows materia = "tvar"; immaterialitas = "netvarnost".
+  opis: 'Netvarno je ono što nije od tvari (*materia*, u ovom prijevodu „tvar“) ili
+    ne postoji u tvari. Za Tomu je netvarnost (*immaterialitas*) razlog spoznaje:
+    što je nešto netvarnije, to je savršenije spoznajno, pa je Bog, kao posve netvaran,
+    na vrhuncu spoznaje.'
+  mjesto: I.q14.a1.resp
 - la: discursus / discursivus
   hr: diskurzivno prelaženje / diskurzivan
   alternatives: []
   note: Reasoning step by step (q.14, q.58).
+  opis: Diskurzivno prelaženje jest postupno napredovanje uma od jednoga spoznatoga
+    k drugome, kao od uzroka k učinku ili od premisa k zaključku. Takva je spoznaja
+    vlastita čovjeku; Bog i anđeli spoznaju bez diskurzivnog prelaženja, gledajući
+    istodobno sve u jednome.
+  mjesto: I.q14.a7.resp
 - la: potentiae animae
   hr: moći duše
   alternatives: []
   note: The soul's faculties (q.77); potentia as the correlate of actus stays "mogućnost".
+  opis: 'Moći duše jesu sposobnosti po kojima duša djeluje: vegetativne, osjetilne,
+    težnjene, pokretačke i umske; one proizlaze iz biti duše, ali nisu sama njezina
+    bit. Riječ „moć“ ovdje znači djelatnu sposobnost i razlikuje se od „mogućnosti“,
+    kojom se prevodi *potentia* kao korelat čina.'
+  mjesto: I.q77.a2.resp
 - la: vis (aestimativa / cogitativa / memorativa / imaginativa)
   hr: sila (procjeniteljska / misaona / pamtilačka / maštovna)
   alternatives: []
   note: Internal sense powers (q.78 a.4); keep vis = "sila" apart from potentia (moć)
     and virtus (snaga).
+  opis: Unutarnje osjetilne sile jesu maštovna (koja čuva primljene osjetne forme),
+    procjeniteljska (koja u životinjama opaža ono što je korisno ili štetno), misaona
+    (koja tu ulogu ima u čovjeku) i pamtilačka (koja čuva takve opažene sadržaje).
+    Riječ „sila“ dosljedno prevodi *vis*, a odvaja se od „moći“ (*potentia*) i „snage“
+    (*virtus*).
+  mjesto: I.q78.a4.resp
 - la: sensus / sensus communis
   hr: osjetilo / zajedničko osjetilo
   alternatives:
   - osjet
   note: The faculty; sensibilia communia / propria / per accidens = "zajednička /
     vlastita / akcidentalno osjetna".
+  opis: Osjetilo je sposobnost osjećanja, kao vid ili sluh; zajedničko osjetilo jest
+    unutarnja moć u kojoj se stječu i međusobno razlikuju podaci svih vanjskih osjetila.
+    Ponegdje se *sensus* prevodi i kao „osjet“, kad je riječ o samom činu osjećanja.
+  mjesto: I.q78.a4.ad2
 - la: phantasia
   hr: mašta
   alternatives:
   - fantazija
   note: 'Thomas treats phantasia and imaginatio as one power: "mašta"; where both
     words are named side by side (q.54 a.5, q.78 a.4), phantasia = "fantazija".'
+  opis: Mašta je unutarnja osjetilna moć koja čuva i ponovno predočuje slike primljene
+    od osjetila, i kod Tome je ista moć kao imaginacija. Ondje gdje se obje riječi
+    navode jedna uz drugu, *phantasia* se prevodi kao „fantazija“.
+  mjesto: I.q78.a4.resp
 - la: memoria, intelligentia, voluntas
   hr: pamćenje, razumijevanje i volja
   alternatives: []
   note: Augustine's triad (image of the Trinity).
+  opis: 'Pamćenje, razumijevanje i volja jesu Augustinova trojica u ljudskom duhu,
+    u kojima on vidi sliku Trojstva. Toma pokazuje da to nisu tri različite moći u
+    strogom smislu: pamćenje i razumijevanje pripadaju umu, a volja je posebna moć.'
+  mjesto: I.q79.a7.resp
 - la: anima vegetabilis / sensitiva / intellectiva
   hr: vegetativna / osjetilna / umska duša
   alternatives: []
   note: Anima rationalis = "razumska duša"; potentiae nutritiva / augmentativa / generativa
     = "hranidbena / rastidbena / rađalačka".
+  opis: Vegetativna duša jest počelo hranjenja, rasta i rađanja, osjetilna je počelo
+    osjećanja i osjetilne težnje, a umska počelo shvaćanja; razumska duša jest umska
+    duša kakva je u čovjeku. Toma uči da je u čovjeku jedna jedina duša, umska, koja
+    u sebi sadrži i vegetativne i osjetilne moći.
+  mjesto: I.q76.a3.resp
 - la: animatum / inanimatum
   hr: koje ima dušu / bez duše
   alternatives:
   - oživljen
   note: Corpus animatum may be "oživljeno tijelo"; never "oduševljen" (= enthusiastic).
+  opis: Ono što ima dušu jest živo biće, kojemu je duša počelo života; ono što je
+    bez duše jest neživo. Tijelo koje ima dušu ponegdje se naziva i „oživljenim tijelom“.
+  mjesto: I.q70.a3.resp
 - la: immutatio
   hr: izmjena
   alternatives: []
   note: Change in a sense organ; keep distinct from mutatio (promjena), transmutatio
     (preinaka), alteratio (kakvoćna promjena).
+  opis: Izmjena je promjena koju osjetni predmet izaziva u osjetilu; kod vida ona
+    je samo duhovna, to jest primanje intencije forme bez tvarne promjene organa.
+    Riječ se namjerno razlikuje od promjene, preinake i kakvoćne promjene.
+  mjesto: I.q78.a3.resp
 - la: apprehensio / apprehendere
   hr: zahvaćanje / zahvatiti
   alternatives: []
   note: Vis apprehensiva = "zahvatna sila".
+  opis: Zahvaćanje je najopćenitiji naziv za spoznajno primanje predmeta, bilo osjetilom
+    bilo umom; zato se spoznajne moći nazivaju i zahvatnim silama, za razliku od težnjenih,
+    koje slijede zahvaćeno.
+  mjesto: I.q81.a1.resp
 - la: intentio
   hr: nakana
   alternatives:
   - intencija
   note: Aim of the will = "nakana"; intentio as a cognitive content (esse intentionale,
     intentiones of the estimative power) = "intencija".
+  opis: Nakana je usmjerenost volje prema svrsi. Ista latinska riječ u spoznajnom
+    smislu, kad znači sadržaj koji se spoznaje (primjerice sadržaje koje opaža procjeniteljska
+    sila, ili intencionalni bitak forme u osjetilu), prevodi se kao „intencija“.
+  mjesto: I.q1.a1.resp
 - la: distinctio
   hr: razlikovanje
   alternatives:
@@ -999,52 +1816,101 @@ terms:
   note: Generally "razlikovanje"; the opus distinctionis of the six days (q.65-74)
     = "djelo razlučivanja", beside opus creationis / ornatus = "djelo stvaranja /
     ukrašavanja".
+  opis: Razlikovanje općenito znači to da su stvari međusobno različite, kao razlikovanje
+    božanskih osoba ili razlikovanje stvorova. U raspravi o šest dana stvaranja govori
+    se o „djelu razlučivanja“, uz djelo stvaranja i djelo ukrašavanja.
+  mjesto: I.q47.a1.resp
 - la: lux / lumen
   hr: svjetlo
   alternatives:
   - svjetlost
   note: Both "svjetlo" as in lumen gloriae; luminaria = "svjetlila".
+  opis: Obje se latinske riječi prevode kao „svjetlo“, bilo da se radi o tjelesnom
+    svjetlu bilo o umskom, kao u izrazima naravno svjetlo razuma, svjetlo milosti
+    i svjetlo slave. Nebeska tijela koja svijetle nazivaju se „svjetlila“; ponegdje
+    se prevodi i kao „svjetlost“.
+  mjesto: I.q12.a2.resp
 - la: culpa / poena
   hr: krivnja / kazna
   alternatives: []
   note: Malum culpae / poenae = "zlo krivnje / zlo kazne".
+  opis: Krivnja je zlo u samom djelovanju voljnoga bića, kad ono odstupa od dužnoga
+    reda; kazna je zlo koje se nanosi kao lišenost nekoga dobra. Toma zato razlikuje
+    zlo krivnje i zlo kazne i uči da je Bog začetnik zla kazne, ali ne i zla krivnje.
+  mjesto: I.q48.a6.resp
 - la: administratio / administrare
   hr: upravljanje / upravljati
   alternatives: []
   note: Close to gubernatio in Thomas; never "ravnati" in this sense.
+  opis: Upravljanje ovdje znači vođenje i uređivanje stvari, osobito djelovanje anđela
+    kojim Bog upravlja tjelesnim stvorom. Značenjem je vrlo blisko *gubernatio*, koja
+    se također prevodi kao „upravljanje“.
+  mjesto: I.q57.a2.resp
 - la: ratio particularis
   hr: posebni razum
   alternatives: []
   note: The cogitative power in man (q.78 a.4).
+  opis: Posebni razum jest misaona sila u čovjeku, unutarnja osjetilna moć koja uspoređuje
+    pojedinačne intencije, kao što opći razum uspoređuje opće pojmove; u čovjeku ona
+    zauzima mjesto procjeniteljske sile životinja.
+  mjesto: I.q81.a3.resp
 - la: propositio
   hr: iskaz
   alternatives: []
   note: Owner's choice; enuntiatio = "izjava"; terminus (logical) = "termin".
+  opis: Iskaz je rečenica u kojoj se nešto tvrdi ili niječe o nečemu, sastavljena
+    od subjekta i pririka; tako se govori o iskazima koji su po sebi poznati. Srodni
+    pojam izjave (*enuntiatio*) i logičkog termina prevode se posebnim riječima.
+  mjesto: I.q2.a1.resp
 - la: conversio ad phantasmata
   hr: okretanje maštovnim slikama
   alternatives: []
   note: Owner's choice (q.84-89); conversio ad Deum = "obraćenje".
+  opis: 'Okretanje maštovnim slikama jest način na koji ljudski um u sadašnjem životu
+    shvaća: čak i ono što je već shvatio može razmatrati samo okrećući se slikama
+    u mašti. Odijeljena duša shvaća na drugi način. Okretanje prema Bogu, u moralnom
+    i duhovnom smislu, prevodi se kao „obraćenje“.'
+  mjesto: I.q89.a1.resp
 - la: daemon / diabolus
   hr: demon / đavao
   alternatives: []
   note: Daemones = "demoni"; the devil (diabolus) = "đavao".
+  opis: 'Demoni su pali anđeli općenito, a đavao je njihov prvak, prvi koji je sagriješio.
+    Toma uči da je đavlov grijeh bio oholost: težio je biti kao Bog.'
+  mjesto: I.q63.a3.resp
 - la: synderesis / conscientia
   hr: sindereza / savjest
   alternatives: []
   note: q.79 a.12-13.
+  opis: Sindereza je urođeni habitus prvih načela djelovanja, koji uvijek potiče na
+    dobro i odvraća od zla; savjest je čin kojim se to znanje primjenjuje na konkretno
+    djelo. Prema Tomi ni jedno ni drugo nije posebna moć duše.
+  mjesto: I.q79.a12.resp
 - la: intellectus speculativus / practicus
   hr: spekulativni / praktični um
   alternatives: []
   note: q.79 a.11.
+  opis: Spekulativni um usmjerava spoznatu istinu samo na razmatranje, a praktični
+    na djelovanje. Toma uči da to nisu dvije različite moći, nego jedan um koji se
+    razlikuje po svrsi.
+  mjesto: I.q79.a11.resp
 - la: ratiocinari / ratiocinatio
   hr: rasuđivati / rasuđivanje
   alternatives:
   - zaključivati
   note: Discursive reasoning; ratio as the faculty = "razum".
+  opis: 'Rasuđivati znači prelaziti od jednoga shvaćenoga k drugome kako bi se spoznala
+    umljiva istina; to je način spoznaje vlastit čovjeku. Razum (*ratio*) kao moć
+    nije različit od uma: um shvaća jednostavno, a razum rasuđuje.'
+  mjesto: I.q79.a8.resp
 - la: electio / eligere
   hr: izbor / izabrati
   alternatives: []
   note: Vis electiva = "izborna sila"; dilectio electiva = "izabirna ljubav".
+  opis: Izbor je čin kojim se jedno pretpostavlja drugome radi svrhe; u njemu sudjeluju
+    i spoznaja (promišljanje) i težnja (prihvaćanje). Zato slobodno odlučivanje Toma
+    naziva izbornom silom, a ljubav koja proizlazi iz izbora izabirnom ljubavlju.
+  mjesto: I.q83.a3.resp
 - la: consilium (deliberation)
   hr: promišljanje
   alternatives:
@@ -1052,32 +1918,65 @@ terms:
   - naum
   note: Human deliberation = "promišljanje"; God's counsel = "naum"; advice / the
     Spirit's gift = "savjet".
+  prikaz: consilium
+  opis: Promišljanje je istraživanje razuma koje prethodi izboru i odmjerava što treba
+    učiniti. Ista latinska riječ prevodi se kao „naum“ kad je riječ o Božjem naumu,
+    a kao „savjet“ kad znači savjet drugome ili dar Duha Svetoga.
+  mjesto: I.q83.a3.resp
 - la: sensualitas
   hr: osjetilnost
   alternatives: []
   note: q.81.
+  opis: Osjetilnost je naziv za osjetilnu težnju kao cjelinu, koja se dijeli na srditu
+    i požudnu moć. Kod Tome ta riječ ne znači tjelesnu putenost, nego jednu od moći
+    duše.
+  mjesto: I.q81.a1.resp
 - la: abstrahere / abstractio
   hr: apstrahirati / apstrakcija
   alternatives: []
   note: q.85.
+  opis: Apstrahirati znači izdvojiti opću narav stvari od pojedinačnih tvarnih uvjeta;
+    tako djelatni um iz maštovnih slika apstrahira umljive spoznajne likove. Apstrakcija
+    ne krivotvori stvar, jer um ne tvrdi da narav postoji bez pojedinaca, nego je
+    samo razmatra bez njih.
+  mjesto: I.q85.a1.resp
 - la: complexio
   hr: tjelesni sastav
   alternatives: []
   note: Bodily temperament; aequalitas complexionis = "ujednačenost tjelesnog sastava".
+  opis: Tjelesni sastav jest srednjovjekovni pojam za razmjer i smjesu elemenata i
+    kakvoća u tijelu, po kojem je netko ovakve ili onakve tjelesne naravi. Toma drži
+    da čovjek ima najujednačeniji tjelesni sastav među životinjama.
+  mjesto: I.q91.a1.resp
 - la: coniunctum
   hr: spoj
   alternatives:
   - složenac
   note: The soul-body compound; compositum = "složenac".
+  opis: 'Spoj je cjelina duše i tijela, to jest živi čovjek ili životinja kao subjekt
+    djelovanja: osjećati nije čin same duše, nego spoja. Riječ se razlikuje od „složenca“
+    (*compositum*), općenitijega naziva za ono što je složeno od tvari i forme.'
+  mjesto: I.q84.a6.resp
 - la: rationes aeternae
   hr: vječni pojmovi
   alternatives: []
   note: Augustine's eternal reasons (q.84 a.5); rationes seminales = "sjemeni razlozi".
+  opis: Vječni pojmovi jesu, prema Augustinu, uzori svih stvari u Božjem umu; Toma
+    tumači da ljudska duša sve spoznaje u njima ukoliko je njezino umsko svjetlo neko
+    sudjelovanje u nestvorenom svjetlu. Valja ih razlikovati od sjemenih razloga,
+    to jest sila koje je Bog usadio u stvorenja.
+  mjesto: I.q84.a5.resp
 - la: Super Gen. ad litt. (Augustine)
   hr: O doslovnom tumačenju Knjige postanka
   alternatives: []
   note: Fixed book title; De Trin. = "O Trojstvu", De Div. Nom. = "O božanskim imenima",
     Cael. Hier. = "O nebeskoj hijerarhiji", De anima = "O duši".
+  prikaz: Super Genesim ad litteram
+  opis: Augustinov komentar prvih poglavlja Knjige postanka navodi se pod naslovom
+    „O doslovnom tumačenju Knjige postanka“. Na isti se način ostala često citirana
+    djela navode pod ustaljenim hrvatskim naslovima, primjerice „O Trojstvu“, „O božanskim
+    imenima“, „O nebeskoj hijerarhiji“ i „O duši“.
+  mjesto: I.q68.a1.resp
 - la: ordines angelorum
   hr: serafini, kerubini, prijestolja, gospodstva, kreposti, vlasti, poglavarstva,
     arkanđeli, anđeli
@@ -1085,44 +1984,85 @@ terms:
   note: The nine choirs, lower-case. Virtutes as the order = "kreposti" (owner's choice);
     generic caelestes virtutes = "nebeske sile"; contrariae virtutes = "protivničke
     sile".
+  opis: Devet anđeoskih redova, prema Dioniziju, jesu serafini, kerubini, prijestolja,
+    gospodstva, kreposti, vlasti, poglavarstva, arkanđeli i anđeli; pišu se malim
+    slovom. Ondje gdje ista latinska riječ ne označuje taj red, nego nebeske ili protivničke
+    sile općenito, prevodi se kao „sile“.
+  mjesto: I.q108.a6.resp
 - la: hierarchia
   hr: hijerarhija
   alternatives: []
   note: Cael. Hier. = "O nebeskoj hijerarhiji", Eccl. Hier. = "O crkvenoj hijerarhiji";
     purgare / illuminare / perficere = "čistiti / prosvjetljivati / usavršavati".
+  opis: Hijerarhija je sveto vodstvo, uređeno mnoštvo pod jednim poglavarom; anđeli
+    se dijele na tri hijerarhije, svaka s tri reda. Po Dioniziju hijerarhijsko djelovanje
+    sastoji se u tome da viši čiste, prosvjetljuju i usavršavaju niže.
+  mjesto: I.q108.a1.resp
 - la: status innocentiae
   hr: stanje nevinosti
   alternatives: []
   note: Owner's choice.
+  opis: Stanje nevinosti jest stanje prvih ljudi prije grijeha, u kojem je razum bio
+    podložan Bogu, niže moći razumu, a tijelo duši. O njemu Toma raspravlja kad pita
+    kako bi ljudi živjeli, spoznavali i rađali da nije bilo grijeha.
+  mjesto: I.q95.a3.resp
 - la: mas occasionatus
   hr: manjkavi muškarac
   alternatives: []
   note: Owner's choice (q.92 a.1, q.99 a.2).
+  opis: Izraz „manjkavi muškarac“ Toma preuzima od Aristotela, koji ženu tako naziva
+    jer prema njegovoj biologiji nastaje mimo nakane posebne naravi koja rađa. Toma
+    odmah dodaje da žena nije nastala mimo nakane opće naravi, nego je po Božjem naumu
+    usmjerena na djelo rađanja.
+  mjesto: I.q92.a1.ad1
 - la: voluntarius / voluntarie
   hr: voljan / voljno
   alternatives: []
   note: Violentum / voluntarium = "nasilno / voljno"; never "hotimičan".
+  opis: Voljno je ono što potječe od volje, iz unutarnjega počela sa spoznajom svrhe;
+    suprotno mu je nasilno, ono što je nametnuto izvana. Tako se razlikuju voljni
+    djelatnici od naravnih, koji djeluju bez izbora.
+  mjesto: I.q42.a2.resp
 - la: rectitudo
   hr: ispravnost
   alternatives: []
   note: Eccl 7 "rectum" = "pravim".
+  opis: Ispravnost je pravilan red stvari prema mjeri kojoj treba odgovarati; u prvom
+    čovjeku to je bio red u kojem je razum bio podložan Bogu, a niže moći razumu.
+    Biblijski redak o tome da je Bog stvorio čovjeka pravim izraz je iste misli.
+  mjesto: I.q94.a1.resp
 - la: medium (demonstrationis)
   hr: srednji termin
   alternatives:
   - sredstvo
   note: Middle term of a syllogism; medium of knowing = "sredstvo"; physical medium
     = "medij".
+  opis: Srednji termin je pojam koji u silogizmu povezuje dva krajnja člana i time
+    omogućuje dokaz zaključka. Kad *medium* znači sredstvo spoznaje, prevodi se kao
+    „sredstvo“, a kao fizički posrednik (primjerice zrak pri gledanju) kao „medij“.
+  mjesto: I.q2.a2.ad2
 - la: gubernatio / conservatio
   hr: upravljanje / održavanje
   alternatives: []
   note: Conservare in esse = "održavati u bitku"; ratio gubernationis = "nacrt upravljanja".
+  opis: Upravljanje je izvršenje Božje providnosti, kojim Bog vodi stvari prema svrsi;
+    održavanje je Božje djelovanje kojim stvari uzdržava u bitku, jer bi bez njega
+    odmah pale u ništa. Dva su učinka upravljanja održavanje stvari u dobru i njihovo
+    pokretanje prema dobru.
+  mjesto: I.q103.a4.resp
 - la: miraculum
   hr: čudo
   alternatives: []
   note: Mirabilia = "čudesa"; admiratio = "divljenje".
+  opis: Čudo je u vlastitom smislu ono što Bog čini mimo reda cijele stvorene naravi,
+    pa izaziva divljenje jer mu je uzrok skriven svima. Zato demoni ne mogu činiti
+    čudesa u pravom smislu, nego samo neobične stvari koje se ljudima čine čudesnima.
+  mjesto: I.q105.a7.resp
 - la: book titles (fixed)
   hr: Moralije; O veličini duše; O Trojstvu; Ispovijesti; Osamdeset i tri pitanja;
     Protiv Fausta
   alternatives: []
   note: Gregory's Moralia = "Moralije" (u Moralijama); Augustine's De quantitate animae
     = "O veličini duše".
+  opis: null
+  mjesto: null
