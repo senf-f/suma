@@ -1,4 +1,4 @@
-version: 6
+version: 7
 terms:
 - la: esse
   hr: bitak
@@ -1078,3 +1078,51 @@ terms:
   alternatives: []
   note: Fixed book title; De Trin. = "O Trojstvu", De Div. Nom. = "O božanskim imenima",
     Cael. Hier. = "O nebeskoj hijerarhiji", De anima = "O duši".
+- la: ordines angelorum
+  hr: serafini, kerubini, prijestolja, gospodstva, kreposti, vlasti, poglavarstva,
+    arkanđeli, anđeli
+  alternatives: []
+  note: The nine choirs, lower-case. Virtutes as the order = "kreposti" (owner's choice);
+    generic caelestes virtutes = "nebeske sile"; contrariae virtutes = "protivničke
+    sile".
+- la: hierarchia
+  hr: hijerarhija
+  alternatives: []
+  note: Cael. Hier. = "O nebeskoj hijerarhiji", Eccl. Hier. = "O crkvenoj hijerarhiji";
+    purgare / illuminare / perficere = "čistiti / prosvjetljivati / usavršavati".
+- la: status innocentiae
+  hr: stanje nevinosti
+  alternatives: []
+  note: Owner's choice.
+- la: mas occasionatus
+  hr: manjkavi muškarac
+  alternatives: []
+  note: Owner's choice (q.92 a.1, q.99 a.2).
+- la: voluntarius / voluntarie
+  hr: voljan / voljno
+  alternatives: []
+  note: Violentum / voluntarium = "nasilno / voljno"; never "hotimičan".
+- la: rectitudo
+  hr: ispravnost
+  alternatives: []
+  note: Eccl 7 "rectum" = "pravim".
+- la: medium (demonstrationis)
+  hr: srednji termin
+  alternatives:
+  - sredstvo
+  note: Middle term of a syllogism; medium of knowing = "sredstvo"; physical medium
+    = "medij".
+- la: gubernatio / conservatio
+  hr: upravljanje / održavanje
+  alternatives: []
+  note: Conservare in esse = "održavati u bitku"; ratio gubernationis = "nacrt upravljanja".
+- la: miraculum
+  hr: čudo
+  alternatives: []
+  note: Mirabilia = "čudesa"; admiratio = "divljenje".
+- la: book titles (fixed)
+  hr: Moralije; O veličini duše; O Trojstvu; Ispovijesti; Osamdeset i tri pitanja;
+    Protiv Fausta
+  alternatives: []
+  note: Gregory's Moralia = "Moralije" (u Moralijama); Augustine's De quantitate animae
+    = "O veličini duše".
