@@ -83,6 +83,25 @@ def cmd_build(args) -> None:
         print("Contains Corpus Thomisticum Latin: local review only, do not deploy or share.")
 
 
+def cmd_deploy(args) -> None:
+    import suma.deploy
+    from suma.reader import DEFAULT_SITE_URL
+
+    host = args.host or os.environ.get("SUMA_DEPLOY_HOST")
+    if not host:
+        raise SystemExit("No server given: pass --host deploy@HOST or set SUMA_DEPLOY_HOST.")
+    site_url = args.site_url or os.environ.get("SUMA_SITE_URL") or DEFAULT_SITE_URL
+    release = suma.deploy.deploy(
+        host=host,
+        remote_path=args.path or os.environ.get("SUMA_DEPLOY_PATH") or "/srv/suma",
+        site_url=site_url,
+        data_dir=DATA,
+        dry_run=args.dry_run,
+    )
+    if not args.dry_run:
+        print(f"Deployed release {release}: {site_url}")
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="suma", description="Summa Theologiae translation pipeline")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -109,6 +128,12 @@ def build_parser() -> argparse.ArgumentParser:
     )
     p_build.add_argument("--site-url", help="public URL cited in suggestion issues (default: $SUMA_SITE_URL, else suma.oprobate.eu)")
     p_build.set_defaults(func=cmd_build)
+    p_dep = sub.add_parser("deploy", help="build the public site fresh and upload it to the VPS")
+    p_dep.add_argument("--host", help="ssh target, e.g. deploy@suma.oprobate.eu (default: $SUMA_DEPLOY_HOST)")
+    p_dep.add_argument("--path", help="release root on the server (default: $SUMA_DEPLOY_PATH, else /srv/suma)")
+    p_dep.add_argument("--site-url", help="public URL (default: $SUMA_SITE_URL, else suma.oprobate.eu)")
+    p_dep.add_argument("--dry-run", action="store_true", help="build and show the upload command without connecting")
+    p_dep.set_defaults(func=cmd_deploy)
     return parser
 
 
