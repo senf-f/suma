@@ -15,6 +15,7 @@ PART_LABELS = {"I": "Prvi dio", "I-II": "Prvi dio Drugoga dijela", "II-II": "Dru
 # Models shown on the public site. Sonnet 5.5 translated only I q.1-13 as a comparison run,
 # so publicly it would be mostly "not yet available"; the local --with-latin build shows every model.
 PUBLIC_MODELS = ("claude-opus-5-5",)
+CONTACT_EMAIL = "oprobate@proton.me"
 MODEL_LABELS = {"claude-opus-5-5": "Opus 5.5", "claude-sonnet-5-5": "Sonnet 5.5", "claude-haiku-5-5": "Haiku 5.5"}
 ISSUE_EXCERPT = 1500
 _EM = re.compile(r"\*(.+?)\*")
@@ -182,6 +183,7 @@ def build(
     """Render the reader. with_latin adds the parallel Latin column: local review only, never deploy it."""
     env = Environment(loader=PackageLoader("suma", "reader_templates"), autoescape=True)
     env.filters["md_em"] = md_em
+    env.globals["contact_email"] = CONTACT_EMAIL
     translations = _load_translations(hr_dir)
     if not with_latin:
         translations = {m: t for m, t in translations.items() if m in PUBLIC_MODELS}

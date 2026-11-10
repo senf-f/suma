@@ -242,3 +242,13 @@ def test_header_links_home_and_contents(site):
     html = page(site)
     assert 'href="../index.html">Početna' in html
     assert 'href="../sadrzaj.html">Sadržaj' in html
+
+
+def test_home_page_offers_email_contact(site):
+    home = (site / "index.html").read_text(encoding="utf-8")
+    assert 'href="mailto:oprobate@proton.me"' in home
+    assert "Kontakt" in home
+
+
+def test_footer_links_email_contact(site):
+    assert 'href="mailto:oprobate@proton.me"' in page(site)
