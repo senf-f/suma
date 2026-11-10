@@ -11,10 +11,15 @@ import re
 import subprocess
 import sys
 
-LATIN_WORDS = re.compile(
-    r"\b(quod|est|sed|enim|autem|ergo|dicendum|videtur|sicut|igitur|non|esse|unde|quia)\b", re.IGNORECASE
-)
+# Split over short lines so this file's own source never has a line dense enough to be flagged.
+WORDS = """quod est sed enim
+autem ergo dicendum videtur
+sicut igitur non esse
+unde quia""".split()
+LATIN_WORDS = re.compile(r"\b(" + "|".join(WORDS) + r")\b", re.IGNORECASE)
 MIN_HITS = 6
+# Its own word list matched in an earlier committed version; it never holds source text.
+SELF = "scripts/scan_history_latin.py"
 
 
 def suspicious_lines(text: str) -> list[str]:
@@ -26,7 +31,7 @@ def main() -> int:
     found: dict[str, list[tuple[str, int]]] = {}
     for line in objects.stdout.splitlines():
         sha, _, path = line.partition(" ")
-        if not path or path.startswith("data/hr/"):
+        if not path or path.startswith("data/hr/") or path == SELF:
             continue
         kind = subprocess.run(["git", "cat-file", "-t", sha], capture_output=True, text=True).stdout.strip()
         if kind != "blob":

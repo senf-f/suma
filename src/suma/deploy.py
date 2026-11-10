@@ -35,10 +35,13 @@ def remote_script(remote_path: str, release: str, keep: int = KEEP_RELEASES) -> 
         'mv "$R.partial" "$R"',
         f'ln -sfn "$R" {p}/current.tmp',
         f"mv -T {p}/current.tmp {p}/current",
+        f"echo deployed {release}",  # the live site has switched once this line is printed
         # Release names are UTC timestamps, so name order is age order ("0-placeholder" sorts oldest).
         # Not `ls -t`: tar restores the archive's old mtime onto each release directory.
-        f"ls -1d {p}/releases/*/ | sort -r | tail -n +{keep + 1} | xargs -r rm -rf",
-        f"echo deployed {release}",
+        # Never prune the release just made live (a lagging local clock would sort it oldest),
+        # and never fail the deploy over pruning. $R is left out of the list, so keep - 1 others survive.
+        f'ls -1d {p}/releases/*/ | sort -r | grep -vxF "$R/" | tail -n +{keep}'
+        " | xargs -r rm -rf || echo 'warning: pruning old releases failed'",
     ])
 
 
@@ -51,7 +54,6 @@ def deploy(
     dry_run: bool = False,
     build_fn=build,
     run=subprocess.run,
-    popen=subprocess.Popen,
     now=lambda: datetime.now(timezone.utc),
 ) -> str:
     """Build, upload and activate a release; returns its name. Raises SystemExit on any failure."""
@@ -67,17 +69,21 @@ def deploy(
             raise SystemExit("pagefind indexing failed; nothing was uploaded")
         ssh_cmd = ["ssh", host, "sh -c " + shlex.quote(remote_script(remote_path, release))]
         if dry_run:
-            print(f"built {out} (release {release}); would run:\n  tar -czf - -C {out} . | {shlex.join(ssh_cmd)}")
+            print(f"release {release} built and indexed; would upload it with: {' '.join(ssh_cmd[:2])} sh -c <script>")
+            print(remote_script(remote_path, release))
             return release
-        tar = popen(["tar", "-czf", "-", "-C", str(out), "."], stdout=subprocess.PIPE)
-        ssh = run(ssh_cmd, stdin=tar.stdout)
-        tar.stdout.close()
-        if tar.wait() != 0:
-            raise SystemExit("local tar failed; the server kept the previous release")
+        # Archive to a file first: a local tar failure then can't masquerade as (or hide) an ssh failure.
+        archive = tmp / "site.tgz"
+        if run(["tar", "-czf", str(archive), "-C", str(out), "."]).returncode != 0:
+            raise SystemExit("local tar failed; nothing was uploaded")
+        with archive.open("rb") as stdin:
+            ssh = run(ssh_cmd, stdin=stdin)
+        if ssh.returncode == 255:
+            raise SystemExit(f"ssh could not connect to {host} (check the key with: ssh {host} true); nothing was uploaded")
         if ssh.returncode != 0:
             raise SystemExit(
-                f"ssh to {host} failed (exit {ssh.returncode}); nothing changed on the server "
-                "(check the key with: ssh " + host + " true)"
+                f"the upload script on {host} failed (exit {ssh.returncode}). The live site switched only if "
+                f"'deployed {release}' appears above; otherwise the previous release is still live."
             )
         return release
     finally:
