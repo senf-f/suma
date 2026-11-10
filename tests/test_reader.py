@@ -31,6 +31,7 @@ def site(latin_q2, tmp_path):
 def site_with_latin(latin_q2, tmp_path):
     hr = tmp_path / "hr"
     write_units(OPUS, "I", 2, {"I.q2.a3.ad1": "Na prvo"}, "1", 1, hr)
+    write_units(SONNET, "I", 2, {"I.q2.a3.ad1": "Na prvo (S)"}, "1", 1, hr)
     out = tmp_path / "dist-la"
     build(latin_q2, hr, tmp_path / "none.yaml", out, with_latin=True)
     return out
@@ -44,14 +45,27 @@ def latin_page(site):
     return page(site)
 
 
-def test_question_page_has_anchors_and_models(site):
+def test_question_page_has_anchors(site):
     html = page(site)
     assert 'id="I.q2.a3.ad1"' in html
     assert f'data-model="{OPUS}"' in html
-    assert f'data-model="{SONNET}"' in html
-    assert "Na prvo (S)" in html
     assert "Odgovor na 1" in html
     assert "Članak 3" in html
+
+
+def test_public_site_shows_only_public_models(site):
+    """Sonnet covers only q.1-13; on the public site it would mostly show empty placeholders."""
+    html = page(site)
+    assert f'data-model="{SONNET}"' not in html
+    assert "Na prvo (S)" not in html
+    assert 'id="model-switch"' not in html, "one model left, so no switch"
+
+
+def test_local_review_build_keeps_every_model(site_with_latin):
+    html = page(site_with_latin)
+    assert f'data-model="{OPUS}"' in html and f'data-model="{SONNET}"' in html
+    assert "Na prvo (S)" in html
+    assert 'id="model-switch"' in html
 
 
 def test_italics_rendered_and_escaped(site, site_with_latin):

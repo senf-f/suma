@@ -11,6 +11,9 @@ from suma.llm import load_question
 
 PART_ORDER = ["I", "I-II", "II-II", "III"]
 PART_LABELS = {"I": "Prvi dio", "I-II": "Prvi dio Drugoga dijela", "II-II": "Drugi dio Drugoga dijela", "III": "Treći dio"}
+# Models shown on the public site. Sonnet 5.5 translated only I q.1-13 as a comparison run,
+# so publicly it would be mostly "not yet available"; the local --with-latin build shows every model.
+PUBLIC_MODELS = ("claude-opus-5-5",)
 MODEL_LABELS = {"claude-opus-5-5": "Opus 5.5", "claude-sonnet-5-5": "Sonnet 5.5", "claude-haiku-5-5": "Haiku 5.5"}
 ISSUE_EXCERPT = 1500
 _EM = re.compile(r"\*(.+?)\*")
@@ -176,6 +179,8 @@ def build(
     env = Environment(loader=PackageLoader("suma", "reader_templates"), autoescape=True)
     env.filters["md_em"] = md_em
     translations = _load_translations(hr_dir)
+    if not with_latin:
+        translations = {m: t for m, t in translations.items() if m in PUBLIC_MODELS}
     models = [{"id": m, "label": MODEL_LABELS.get(m, m)} for m in translations]
 
     out_dir.mkdir(parents=True, exist_ok=True)
