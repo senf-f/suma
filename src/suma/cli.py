@@ -1,4 +1,5 @@
 import argparse
+import os
 import sys
 from pathlib import Path
 
@@ -71,10 +72,11 @@ def cmd_build(args) -> None:
     import subprocess
     import sys
 
-    from suma.reader import build
+    from suma.reader import DEFAULT_SITE_URL, build
 
     out = Path(args.out)
-    build(DATA / "latin", Path(args.hr), DATA / "glossary.yaml", out, with_latin=args.with_latin)
+    args.site_url = args.site_url or os.environ.get("SUMA_SITE_URL") or DEFAULT_SITE_URL
+    build(DATA / "latin", Path(args.hr), DATA / "glossary.yaml", out, site_url=args.site_url, with_latin=args.with_latin)
     subprocess.run([sys.executable, "-m", "pagefind", "--site", str(out)], check=True)
     print(f"Site built in {out}; open {out / 'index.html'}")
     if args.with_latin:
@@ -105,6 +107,7 @@ def build_parser() -> argparse.ArgumentParser:
     p_build.add_argument(
         "--with-latin", action="store_true", help="add the parallel Latin column (local review only, never deploy)"
     )
+    p_build.add_argument("--site-url", help="public URL cited in suggestion issues (default: $SUMA_SITE_URL, else suma.oprobate.eu)")
     p_build.set_defaults(func=cmd_build)
     return parser
 

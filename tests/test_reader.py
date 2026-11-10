@@ -4,7 +4,7 @@ from urllib.parse import parse_qs, unquote, urlsplit
 import pytest
 
 from suma.glossary import write_draft
-from suma.reader import build, issue_url
+from suma.reader import DEFAULT_SITE_URL, build, issue_url
 from suma.store import write_units
 
 OPUS, SONNET = "claude-opus-5-5", "claude-sonnet-5-5"
@@ -94,6 +94,8 @@ def test_html_in_text_is_escaped(latin_q2, tmp_path):
 
 def test_links_are_relative(site):
     for path in site.rglob("*.html"):
+        if path.name == "404.html":  # served by the web server at any URL, so its links are absolute
+            continue
         html = path.read_text(encoding="utf-8")
         assert not re.search(r'(href|src)="/', html), path
     assert 'href="../static/style.css"' in page(site)
@@ -155,3 +157,27 @@ def test_issue_url_encoding_roundtrip():
     assert hr in body
     assert query["labels"] == ["prijedlog"]
     assert title == "[prijedlog] I q.2 a.3 ad 1"
+
+
+def test_issue_links_use_site_url(latin_q2, tmp_path):
+    hr = tmp_path / "hr"
+    write_units(OPUS, "I", 2, {"I.q2.a3.ad1": "Na prvo"}, "1", 1, hr)
+    build(latin_q2, hr, tmp_path / "none.yaml", tmp_path / "out", site_url="https://suma.example.hr")
+    html = unquote((tmp_path / "out" / "I" / "q002.html").read_text(encoding="utf-8"))
+    assert "https://suma.example.hr/I/q002.html" in html
+    assert "github.io" not in html
+
+
+def test_default_site_url_is_the_live_subdomain():
+    assert DEFAULT_SITE_URL == "https://suma.oprobate.eu"
+
+
+def test_404_page_uses_absolute_links(site):
+    html = (site / "404.html").read_text(encoding="utf-8")
+    assert "Stranica nije pronađena" in html
+    assert 'href="/index.html"' in html and 'href="/static/style.css"' in html
+
+
+def test_pages_link_a_favicon(site):
+    assert 'href="static/favicon.svg"' in (site / "index.html").read_text(encoding="utf-8")
+    assert (site / "static" / "favicon.svg").exists()

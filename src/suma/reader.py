@@ -15,6 +15,8 @@ MODEL_LABELS = {"claude-opus-5-5": "Opus 5.5", "claude-sonnet-5-5": "Sonnet 5.5"
 ISSUE_EXCERPT = 1500
 _EM = re.compile(r"\*(.+?)\*")
 
+DEFAULT_SITE_URL = "https://suma.oprobate.eu"
+
 
 def md_em(text: str) -> Markup:
     return Markup(_EM.sub(r"<em>\1</em>", str(escape(text))))
@@ -167,7 +169,7 @@ def build(
     glossary_path: Path,
     out_dir: Path,
     repo: str = "senf-f/suma",
-    site_url: str = "https://senf-f.github.io/suma",
+    site_url: str = DEFAULT_SITE_URL,
     with_latin: bool = False,
 ) -> None:
     """Render the reader. with_latin adds the parallel Latin column: local review only, never deploy it."""
@@ -209,6 +211,12 @@ def build(
 
     (out_dir / "index.html").write_text(
         env.get_template("index.html").render(root="", title="Sadržaj", models=[], toc=toc, part_labels=PART_LABELS),
+        encoding="utf-8",
+    )
+
+    # Served for any missing path, so its links must be absolute.
+    (out_dir / "404.html").write_text(
+        env.get_template("404.html").render(root="/", title="Stranica nije pronađena", models=[]),
         encoding="utf-8",
     )
 
