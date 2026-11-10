@@ -1,17 +1,44 @@
 {% extends "base.html" %}
 {% block main %}
+<div class="home">
 <h1>Suma teologije</h1>
-<p class="lead">Toma Akvinski, <i>Summa theologiae</i>. Hrvatski prijevod uz latinski izvornik.</p>
+<p class="lead">Hrvatski prijevod djela <i>Summa theologiae</i> svetoga Tome Akvinskoga, u nastajanju.</p>
 
-{% for entry in toc %}
-{% if loop.first or entry.question.part != loop.previtem.question.part %}
-<h2>{{ part_labels[entry.question.part] }}</h2>
-{% endif %}
-<div class="toc-q">
-  <a class="toc-title" href="{{ entry.href }}">Pitanje {{ entry.question.question }}</a>
-  <span class="toc-articles">
-    {% for s in entry.sections if s.anchor %}<a href="{{ entry.href }}#{{ s.anchor }}">{{ s.heading|replace("Članak ", "čl. ") }}</a>{% endfor %}
-  </span>
+<p class="home-actions">
+  <a class="button" href="sadrzaj.html">Počni čitati</a>
+  <a href="glosar.html">Glosar pojmova</a>
+</p>
+
+<h2>O djelu</h2>
+<p><i>Suma teologije</i> glavno je djelo Tome Akvinskoga (1225.–1274.), dominikanca i naučitelja Crkve. Pisao ju je od 1265. do smrti i ostala je nedovršena. U njoj sustavno izlaže kršćanski nauk: o Bogu, o stvaranju, o čovjeku i njegovu djelovanju, o Kristu i sakramentima.</p>
+<p>Djelo je podijeljeno na pitanja, a pitanja na članke. Svaki članak ima isti oblik: postavlja se pitanje, navode se <strong>prigovori</strong> protiv Tomina stajališta, zatim jedan autoritet (<strong>Ali protiv toga</strong>), Tomin <strong>odgovor</strong> i na kraju <strong>odgovori na prigovore</strong>.</p>
+
+<h2>Što je dostupno</h2>
+<ul>
+  {% for part in parts %}<li>{{ part.label }}: {{ part.count }}</li>{% endfor %}
+</ul>
+<p>Ostali dijelovi slijede.</p>
+
+<h2>Kako je prijevod nastao</h2>
+<p>Prevedeno je s latinskog teksta izdanja <a href="https://www.corpusthomisticum.org/">Corpus Thomisticum</a>, uz dopuštenje. Prijevod je strojni: izradio ga je jezični model Claude Opus 5.5 tvrtke Anthropic, odlomak po odlomak. Uz to je korišten <a href="glosar.html">glosar</a> stručnih pojmova, kako bi se isti pojam u cijelom djelu prevodio na isti način.</p>
+<p><strong>Prijevod još nije stručno pregledan</strong> i može sadržavati pogreške. Za ozbiljan rad provjerite latinski izvornik. Uz svaki odlomak nalazi se poveznica <i>Latinski izvornik ↗</i> na isto mjesto u izdanju Corpus Thomisticum.</p>
+
+<h2>Kako čitati</h2>
+<ul>
+  <li><a href="sadrzaj.html">Sadržaj</a> navodi sva pitanja i njihove članke.</li>
+  <li>Tražilica u zaglavlju pretražuje cijeli prijevod.</li>
+  <li><i>Kopiraj citat</i> uz odlomak kopira točan navod, npr. „Toma Akvinski, Summa theologiae I, q. 2, a. 3, ad 1”.</li>
+  <li><a href="glosar.html">Glosar</a> objašnjava ključne pojmove i kako su prevedeni.</li>
+</ul>
+
+<h2 id="kako-pomoci">Kako pomoći</h2>
+<p>Najviše pomažu ispravke prijevoda: pogrešno shvaćena rečenica, nespretan ili zastario izraz, pojam preveden drukčije nego drugdje.</p>
+<ol>
+  <li>Ispod odlomka kliknite <strong>Predloži poboljšanje</strong>. Otvara se obrazac na GitHubu u koji su već upisani oznaka odlomka, poveznica i trenutni prijevod.</li>
+  <li>Upišite svoj prijedlog i kratko obrazloženje.</li>
+  <li>Pošaljite obrazac. Potreban je besplatan račun na GitHubu.</li>
+</ol>
+<p>U prijedlog ne prepisujte latinski tekst: poveznica na izvornik već je upisana, a izdanje Corpus Thomisticum ne dopušta ponovno objavljivanje svojega teksta.</p>
+<p>Prijedlog za glosar, opću primjedbu ili pitanje o projektu možete poslati kao <a href="https://github.com/{{ repo }}/issues/new">novi prijedlog na GitHubu</a>. Programski kod i prijevod javno su dostupni u repozitoriju <a href="https://github.com/{{ repo }}">github.com/{{ repo }}</a>.</p>
 </div>
-{% endfor %}
 {% endblock %}

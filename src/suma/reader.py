@@ -1,5 +1,6 @@
 import re
 import shutil
+from collections import Counter
 from pathlib import Path
 from urllib.parse import quote, urlencode
 
@@ -31,6 +32,11 @@ def _split(unit_id: str) -> tuple[str, int, int | None, str]:
     if parts[2] == "pr":
         return part, question, None, "pr"
     return part, question, int(parts[2][1:]), parts[3]
+
+
+def count_questions(n: int) -> str:
+    """Croatian count: 1 pitanje, 21 pitanje, but 2/5/11 pitanja."""
+    return f"{n} pitanje" if n % 10 == 1 and n % 100 != 11 else f"{n} pitanja"
 
 
 def unit_label(last: str) -> str:
@@ -214,8 +220,14 @@ def build(
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(html, encoding="utf-8")
 
+    (out_dir / "sadrzaj.html").write_text(
+        env.get_template("contents.html").render(root="", title="Sadržaj", models=[], toc=toc, part_labels=PART_LABELS),
+        encoding="utf-8",
+    )
+    per_part = Counter(q["part"] for q in questions)
+    parts = [{"label": PART_LABELS[p], "count": count_questions(per_part[p])} for p in PART_ORDER if per_part[p]]
     (out_dir / "index.html").write_text(
-        env.get_template("index.html").render(root="", title="Sadržaj", models=[], toc=toc, part_labels=PART_LABELS),
+        env.get_template("index.html").render(root="", title="Početna", models=[], parts=parts, repo=repo),
         encoding="utf-8",
     )
 

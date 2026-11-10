@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block main %}
+<h1>Sadržaj</h1>
+<p class="lead">Pitanja i članci dostupni u prijevodu.</p>
+
+{% for entry in toc %}
+{% if loop.first or entry.question.part != loop.previtem.question.part %}
+<h2>{{ part_labels[entry.question.part] }}</h2>
+{% endif %}
+<div class="toc-q">
+  <a class="toc-title" href="{{ entry.href }}">Pitanje {{ entry.question.question }}</a>
+  <span class="toc-articles">
+    {% for s in entry.sections if s.anchor %}<a href="{{ entry.href }}#{{ s.anchor }}">{{ s.heading|replace("Članak ", "čl. ") }}</a>{% endfor %}
+  </span>
+</div>
+{% endfor %}
+{% endblock %}

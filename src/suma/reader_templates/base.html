@@ -12,7 +12,8 @@
 <header class="site">
   <a class="brand" href="{{ root }}index.html">Suma teologije</a>
   <nav>
-    <a href="{{ root }}index.html">Sadržaj</a>
+    <a href="{{ root }}index.html">Početna</a>
+    <a href="{{ root }}sadrzaj.html">Sadržaj</a>
     <a href="{{ root }}glosar.html">Glosar</a>
   </nav>
   <div class="controls">
@@ -30,7 +31,7 @@
 <main{% block main_attrs %}{% endblock %}>
 {% block main %}{% endblock %}
 </main>
-<footer class="site">Strojni prijevod (pilot), u izradi. Prevedeno s latinskog teksta izdanja <a href="https://www.corpusthomisticum.org/">Corpus Thomisticum</a> (© Fundación Tomás de Aquino), uz dopuštenje.</footer>
+<footer class="site">Strojni prijevod (pilot), u izradi. Prevedeno s latinskog teksta izdanja <a href="https://www.corpusthomisticum.org/">Corpus Thomisticum</a> (© Fundación Tomás de Aquino), uz dopuštenje. <a href="{{ root }}index.html#kako-pomoci">Kako pomoći</a></footer>
 <script src="{{ root }}pagefind/pagefind-ui.js"></script>
 <script>window.SUMA_ROOT = "{{ root }}";</script>
 <script src="{{ root }}static/reader.js"></script>

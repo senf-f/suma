@@ -119,9 +119,9 @@ def test_links_are_relative(site):
 
 
 def test_index_and_glossary(site):
-    index = (site / "index.html").read_text(encoding="utf-8")
-    assert 'href="I/q002.html"' in index
-    assert 'href="I/q002.html#I.q2.a3"' in index
+    contents = (site / "sadrzaj.html").read_text(encoding="utf-8")
+    assert 'href="I/q002.html"' in contents
+    assert 'href="I/q002.html#I.q2.a3"' in contents
     glossary = (site / "glosar.html").read_text(encoding="utf-8")
     assert "esse" in glossary and "bitak" in glossary
 
@@ -195,3 +195,30 @@ def test_404_page_uses_absolute_links(site):
 def test_pages_link_a_favicon(site):
     assert 'href="static/favicon.svg"' in (site / "index.html").read_text(encoding="utf-8")
     assert (site / "static" / "favicon.svg").exists()
+
+
+def test_home_page_explains_the_project_and_how_to_contribute(site):
+    home = (site / "index.html").read_text(encoding="utf-8")
+    assert "Kako pomoći" in home
+    assert "Predloži poboljšanje" in home  # names the button readers will look for
+    assert 'href="https://github.com/senf-f/suma"' in home
+    assert 'href="sadrzaj.html"' in home and 'href="glosar.html"' in home
+    assert "Prvi dio: 1 pitanje" in home  # what is available so far, counted from the build
+
+
+def test_question_count_is_declined():
+    from suma.reader import count_questions
+    assert [count_questions(n) for n in (1, 2, 5, 11, 21, 119)] == [
+        "1 pitanje", "2 pitanja", "5 pitanja", "11 pitanja", "21 pitanje", "119 pitanja"]
+
+
+def test_home_page_does_not_promise_latin_text(site):
+    """The public site never shows the Latin; it only links to Corpus Thomisticum."""
+    home = (site / "index.html").read_text(encoding="utf-8")
+    assert "uz latinski izvornik" not in home.lower()
+
+
+def test_header_links_home_and_contents(site):
+    html = page(site)
+    assert 'href="../index.html">Početna' in html
+    assert 'href="../sadrzaj.html">Sadržaj' in html

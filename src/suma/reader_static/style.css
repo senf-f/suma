@@ -119,3 +119,10 @@ table.glossary a.example::before { content: "npr. "; color: var(--muted); }
 }
 
 footer.site { max-width: 1180px; margin: 0 auto; padding: 16px; color: var(--muted); font: 13px var(--sans); }
+
+/* Home page */
+.home { max-width: 44em; }
+.home h2 { margin-top: 1.6em; }
+.home-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; margin: 20px 0 8px; font-family: var(--sans); }
+.button { display: inline-block; padding: 8px 18px; border-radius: 6px; background: var(--accent); color: #fff; font-weight: 600; text-decoration: none; }
+.button:hover { filter: brightness(1.1); }
