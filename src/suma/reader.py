@@ -151,6 +151,7 @@ def _sections(question: dict, translations: dict, repo: str, page_url: str) -> l
         sections[-1]["units"].append({
             "id": unit["id"],
             "label": unit_label(last),
+            "answer": last == "resp",
             "cite": citation(unit["id"]),
             "source": unit["source"],
             "latin": unit["text"],
@@ -200,7 +201,7 @@ def build(
         sections = _sections(question, translations, repo, f"{site_url}/{rel}")
         toc.append({"question": question, "href": rel, "sections": sections})
         neighbours = {
-            name: f"../{other['part']}/q{other['question']:03}.html"
+            name: {"href": f"../{other['part']}/q{other['question']:03}.html", "label": f"Pitanje {other['question']}"}
             for name, j in (("prev", i - 1), ("next", i + 1))
             if 0 <= j < len(questions)
             for other in [questions[j]]
@@ -213,6 +214,7 @@ def build(
             part_label=PART_LABELS[question["part"]],
             q=question,
             sections=sections,
+            article_count=max((_split(u["id"])[2] or 0 for u in question["units"]), default=0),
             prev=neighbours.get("prev"),
             next=neighbours.get("next"),
         )

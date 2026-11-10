@@ -36,7 +36,63 @@
     });
   }
 
+  // A: a paragraph's actions open from its "⋯" button.
+  function setOpen(unit, open) {
+    unit.classList.toggle("open", open);
+    unit.querySelector(".more").setAttribute("aria-expanded", open ? "true" : "false");
+  }
+
+  // B: light/dark switch, overriding the system setting once chosen.
+  var root = document.documentElement;
+  function currentTheme() {
+    var chosen = root.getAttribute("data-theme");
+    if (chosen) return chosen;
+    return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  }
+  var themeToggle = document.getElementById("theme-toggle");
+  if (themeToggle) {
+    themeToggle.addEventListener("click", function () {
+      var next = currentTheme() === "dark" ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      save("suma.theme", next);
+    });
+  }
+
+  // B: search lives behind the magnifier.
+  var search = document.getElementById("search");
+  var searchToggle = document.getElementById("search-toggle");
+  function setSearch(open) {
+    search.hidden = !open;
+    searchToggle.setAttribute("aria-expanded", open ? "true" : "false");
+    if (open) {
+      var input = search.querySelector("input");
+      if (input) input.focus();
+    }
+  }
+  if (search && searchToggle) {
+    searchToggle.addEventListener("click", function () { setSearch(search.hidden); });
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape" && !search.hidden) { setSearch(false); searchToggle.focus(); }
+    });
+  }
+
+  // B: the header slides away while scrolling down and returns on the way up.
+  var header = document.querySelector("header.site");
+  var lastY = window.scrollY;
+  window.addEventListener("scroll", function () {
+    var y = window.scrollY;
+    var hide = y > lastY && y > 120 && search.hidden;
+    header.classList.toggle("tucked", hide);
+    lastY = y;
+  }, { passive: true });
+
   document.addEventListener("click", function (event) {
+    var more = event.target.closest(".more");
+    if (more) {
+      var unit = more.closest(".unit");
+      setOpen(unit, !unit.classList.contains("open"));
+      return;
+    }
     var laButton = event.target.closest(".la-btn");
     if (laButton) {
       laButton.closest(".unit").classList.toggle("show-la");
@@ -62,7 +118,7 @@
       element: "#search",
       bundlePath: (window.SUMA_ROOT || "") + "pagefind/",
       showSubResults: true,
-      translations: { placeholder: "Pretraži tekst", zero_results: "Nema rezultata za [SEARCH_TERM]" },
+      translations: { placeholder: "Pretraži prijevod", zero_results: "Nema rezultata za [SEARCH_TERM]" },
     });
   }
 })();

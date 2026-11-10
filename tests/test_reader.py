@@ -252,3 +252,61 @@ def test_home_page_offers_email_contact(site):
 
 def test_footer_links_email_contact(site):
     assert 'href="mailto:oprobate@proton.me"' in page(site)
+
+
+# --- reading layout: quiet paragraphs (A), calm header (B), centred column and navigation (C) ---
+
+def unit_block(html, unit_id):
+    start = html.index(f'<div class="unit" id="{unit_id}"')
+    return html[start:html.index('<div class="unit"', start + 1) if '<div class="unit"' in html[start + 1:] else len(html)]
+
+
+def test_paragraph_actions_sit_behind_one_toggle(site):
+    block = unit_block(page(site), "I.q2.a3.ad1")
+    assert 'class="more" aria-expanded="false" aria-controls="act-I.q2.a3.ad1"' in block
+    actions = block[block.index('id="act-I.q2.a3.ad1"'):]
+    assert "Kopiraj citat" in actions and "Latinski izvornik" in actions and "Predloži poboljšanje" in actions
+    assert "data-pagefind-ignore" in block[:block.index("<p>")], "action labels stay out of the search index"
+
+
+def test_answer_label_is_marked(site):
+    html = page(site)
+    assert 'class="label answer" href="#I.q2.a3.resp"' in html
+    assert 'class="label" href="#I.q2.a3.ad1"' in html
+
+
+def test_question_lists_its_articles_on_top(site):
+    html = page(site)
+    nav = html[html.index('<nav class="on-page"'):]
+    assert 'href="#I.q2.a3">Članak 3</a>' in nav[:nav.index("</nav>")]
+
+
+def test_article_heading_counts_articles(site):
+    assert '<h2>Članak 3 <span class="of">od 3</span></h2>' in page(site)
+
+
+def test_header_has_search_and_theme_buttons(site):
+    html = page(site)
+    assert 'id="search-toggle" aria-expanded="false" aria-controls="search"' in html
+    assert 'id="theme-toggle"' in html
+    assert '<div id="search" hidden>' in html
+
+
+def test_saved_theme_applies_before_first_paint(site):
+    html = page(site)
+    head = html[:html.index("</head>")]
+    assert "suma.theme" in head and "data-theme" in head
+
+
+def test_pager_names_neighbouring_questions(latin_q2, tmp_path):
+    import json
+
+    q2 = latin_q2 / "I" / "q002.json"
+    q3 = json.loads(q2.read_text(encoding="utf-8").replace("I.q2", "I.q3"))
+    q3["question"] = 3
+    (latin_q2 / "I" / "q003.json").write_text(json.dumps(q3), encoding="utf-8")
+    out = tmp_path / "out"
+    build(latin_q2, tmp_path / "hr", tmp_path / "none.yaml", out)
+    html = (out / "I" / "q002.html").read_text(encoding="utf-8")
+    pager = html[html.index('<nav class="pager"'):]
+    assert 'href="../I/q003.html"' in pager and "Pitanje 3" in pager and "Sljedeće" in pager
