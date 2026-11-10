@@ -92,20 +92,18 @@ def _excerpt(text: str) -> str:
 
 
 def issue_url(repo: str, unit_id: str, source: str, hr: str, model: str, page_url: str) -> str:
+    """Opens the .github/ISSUE_TEMPLATE/prijedlog.yml form (which labels it) with the unit's fields prefilled."""
     # Link to the Latin, never quote it: Corpus Thomisticum does not permit republishing its text.
-    body = (
-        f"**Jedinica:** {unit_id}\n"
-        f"**Model:** {model}\n"
-        f"**Poveznica:** {page_url}#{unit_id}\n"
-        f"**Latinski izvornik:** {source}\n\n"
-        f"### Trenutni prijevod\n{_excerpt(hr)}\n\n"
-        "### Prijedlog\n\n\n"
-        "### Obrazloženje\n\n"
-    )
-    query = urlencode(
-        {"title": f"[prijedlog] {_short_label(unit_id)}", "labels": "prijedlog", "body": body},
-        quote_via=quote,
-    )
+    fields = {
+        "template": "prijedlog.yml",
+        "title": f"[prijedlog] {_short_label(unit_id)}",
+        "jedinica": unit_id,
+        "poveznica": f"{page_url}#{unit_id}",
+        "izvornik": source,
+        "model": model,
+        "trenutni": _excerpt(hr),
+    }
+    query = urlencode(fields, quote_via=quote)
     return f"https://github.com/{repo}/issues/new?{query}"
 
 

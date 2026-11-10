@@ -1,0 +1,46 @@
+name: Prijedlog poboljšanja prijevoda
+description: Ispravka ili bolji izraz za jedan odlomak. Najlakše ga je otvoriti gumbom „Predloži poboljšanje” ispod odlomka na stranici.
+title: "[prijedlog] "
+labels: ["prijedlog"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hvala na pomoći! Polja o odlomku već su ispunjena ako ste obrazac otvorili s gumba „Predloži poboljšanje”.
+        **Ne prepisujte latinski tekst:** izdanje Corpus Thomisticum ne dopušta njegovo ponovno objavljivanje. Dovoljna je poveznica na izvornik.
+  - type: input
+    id: jedinica
+    attributes:
+      label: Odlomak
+      description: Oznaka odlomka, npr. I.q2.a3.ad1
+    validations:
+      required: true
+  - type: input
+    id: poveznica
+    attributes:
+      label: Poveznica na odlomak
+  - type: input
+    id: izvornik
+    attributes:
+      label: Latinski izvornik
+      description: Poveznica na isto mjesto u izdanju Corpus Thomisticum.
+  - type: input
+    id: model
+    attributes:
+      label: Model prijevoda
+  - type: textarea
+    id: trenutni
+    attributes:
+      label: Trenutni prijevod
+  - type: textarea
+    id: prijedlog
+    attributes:
+      label: Prijedlog
+      description: Kako bi odlomak (ili njegov dio) trebao glasiti.
+    validations:
+      required: true
+  - type: textarea
+    id: obrazlozenje
+    attributes:
+      label: Obrazloženje
+      description: Zašto je prijedlog bolji, npr. pogrešno shvaćena rečenica, nedosljedan pojam, nespretan izraz.

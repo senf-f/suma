@@ -1,4 +1,5 @@
 import re
+from pathlib import Path
 from urllib.parse import parse_qs, unquote, urlsplit
 
 import pytest
@@ -146,31 +147,50 @@ def test_citation_attribute(site):
     assert 'data-cite="Toma Akvinski, Summa theologiae I, q. 2, a. 3, ad 1"' in page(site)
 
 
-def body_of(url):
-    query = parse_qs(urlsplit(url).query)
-    return query["title"][0], query["body"][0], query
+TEMPLATE = Path(__file__).parent.parent / ".github" / "ISSUE_TEMPLATE" / "prijedlog.yml"
+
+
+def fields_of(url):
+    return {k: v[0] for k, v in parse_qs(urlsplit(url).query).items()}
 
 
 def test_issue_url_truncates_long_units():
     url = issue_url("senf-f/suma", "I.q2.a3.resp", "https://www.corpusthomisticum.org/sth1002.html#28318",
                     "H" * 5000, OPUS, "https://senf-f.github.io/suma/I/q002.html")
     assert len(url) < 8000
-    title, body, _ = body_of(url)
-    assert title == "[prijedlog] I q.2 a.3 odgovor"
-    assert "…" in body
-    assert "https://senf-f.github.io/suma/I/q002.html#I.q2.a3.resp" in body
-    assert OPUS in body
-    assert "https://www.corpusthomisticum.org/sth1002.html#28318" in body
+    fields = fields_of(url)
+    assert fields["title"] == "[prijedlog] I q.2 a.3 odgovor"
+    assert fields["trenutni"].endswith("…")
+    assert fields["poveznica"] == "https://senf-f.github.io/suma/I/q002.html#I.q2.a3.resp"
+    assert fields["model"] == OPUS
+    assert fields["izvornik"] == "https://www.corpusthomisticum.org/sth1002.html#28318"
 
 
 def test_issue_url_encoding_roundtrip():
     hr = "Čini se & da\nnije \"tako\" #1"
     url = issue_url("senf-f/suma", "I.q2.a3.ad1", "https://ct/sth1002.html#1", hr, OPUS, "https://x/I/q002.html")
     assert url.startswith("https://github.com/senf-f/suma/issues/new?")
-    title, body, query = body_of(url)
-    assert hr in body
-    assert query["labels"] == ["prijedlog"]
-    assert title == "[prijedlog] I q.2 a.3 ad 1"
+    fields = fields_of(url)
+    assert fields["trenutni"] == hr
+    assert fields["jedinica"] == "I.q2.a3.ad1"
+    assert fields["title"] == "[prijedlog] I q.2 a.3 ad 1"
+
+
+def test_issue_url_opens_the_suggestion_form():
+    """An issue form labels every suggestion; a labels= link parameter only works for repo collaborators."""
+    fields = fields_of(issue_url("senf-f/suma", "I.q2.a3.ad1", "https://ct/1", "Na prvo", OPUS, "https://x/I/q002.html"))
+    assert fields["template"] == TEMPLATE.name
+
+
+def test_suggestion_form_matches_issue_links():
+    import yaml
+
+    form = yaml.safe_load(TEMPLATE.read_text(encoding="utf-8"))
+    assert form["labels"] == ["prijedlog"]
+    ids = {item["id"] for item in form["body"] if "id" in item}
+    prefilled = set(fields_of(issue_url("senf-f/suma", "I.q2.a3.ad1", "https://ct/1", "x", OPUS, "https://x/q")))
+    assert prefilled - {"template", "title"} <= ids, "every prefilled field must exist in the form"
+    assert {"prijedlog", "obrazlozenje"} <= ids
 
 
 def test_issue_links_use_site_url(latin_q2, tmp_path):
