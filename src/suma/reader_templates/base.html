@@ -9,8 +9,8 @@
   try { var t = localStorage.getItem("suma.theme"); if (t) document.documentElement.setAttribute("data-theme", t); } catch (e) {}
   document.documentElement.classList.add("js");
 </script>
-<link rel="icon" href="{{ root }}static/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="{{ root }}static/style.css">
+<link rel="icon" href="{{ root }}static/favicon.svg?v={{ v }}" type="image/svg+xml">
+<link rel="stylesheet" href="{{ root }}static/style.css?v={{ v }}">
 <link rel="stylesheet" href="{{ root }}pagefind/pagefind-ui.css">
 </head>
 <body{% if with_latin %} class="with-la"{% endif %}>
@@ -48,6 +48,6 @@
 <footer class="site">Strojni prijevod (pilot), u izradi. Prevedeno s latinskog teksta izdanja <a href="https://www.corpusthomisticum.org/">Corpus Thomisticum</a> (© Fundación Tomás de Aquino), uz dopuštenje. <a href="{{ root }}index.html#kako-pomoci">Kako pomoći</a> · <a href="mailto:{{ contact_email }}">{{ contact_email }}</a></footer>
 <script src="{{ root }}pagefind/pagefind-ui.js"></script>
 <script>window.SUMA_ROOT = "{{ root }}";</script>
-<script src="{{ root }}static/reader.js"></script>
+<script src="{{ root }}static/reader.js?v={{ v }}"></script>
 </body>
 </html>

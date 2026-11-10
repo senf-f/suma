@@ -1,3 +1,4 @@
+import hashlib
 import re
 import shutil
 from collections import Counter
@@ -16,6 +17,7 @@ PART_LABELS = {"I": "Prvi dio", "I-II": "Prvi dio Drugoga dijela", "II-II": "Dru
 # so publicly it would be mostly "not yet available"; the local --with-latin build shows every model.
 PUBLIC_MODELS = ("claude-opus-5-5",)
 CONTACT_EMAIL = "oprobate@proton.me"
+STATIC_DIR = Path(__file__).parent / "reader_static"
 MODEL_LABELS = {"claude-opus-5-5": "Opus 5.5", "claude-sonnet-5-5": "Sonnet 5.5", "claude-haiku-5-5": "Haiku 5.5"}
 ISSUE_EXCERPT = 1500
 _EM = re.compile(r"\*(.+?)\*")
@@ -33,6 +35,15 @@ def _split(unit_id: str) -> tuple[str, int, int | None, str]:
     if parts[2] == "pr":
         return part, question, None, "pr"
     return part, question, int(parts[2][1:]), parts[3]
+
+
+def asset_version(static_dir: Path) -> str:
+    """Short hash of the static files. Pages are revalidated on every visit but /static is cached for an hour,
+    so asset URLs carry this: a deploy that changes them changes the URL and browsers fetch the new files."""
+    digest = hashlib.sha256()
+    for path in sorted(p for p in static_dir.rglob("*") if p.is_file()):
+        digest.update(path.relative_to(static_dir).as_posix().encode() + b"|" + path.read_bytes())
+    return digest.hexdigest()[:10]
 
 
 def count_questions(n: int) -> str:
@@ -185,13 +196,14 @@ def build(
     env = Environment(loader=PackageLoader("suma", "reader_templates"), autoescape=True)
     env.filters["md_em"] = md_em
     env.globals["contact_email"] = CONTACT_EMAIL
+    env.globals["v"] = asset_version(STATIC_DIR)
     translations = _load_translations(hr_dir)
     if not with_latin:
         translations = {m: t for m, t in translations.items() if m in PUBLIC_MODELS}
     models = [{"id": m, "label": MODEL_LABELS.get(m, m)} for m in translations]
 
     out_dir.mkdir(parents=True, exist_ok=True)
-    shutil.copytree(Path(__file__).parent / "reader_static", out_dir / "static", dirs_exist_ok=True)
+    shutil.copytree(STATIC_DIR, out_dir / "static", dirs_exist_ok=True)
 
     files = _question_files(latin_dir)
     questions = [load_question(p) for p in files]

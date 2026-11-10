@@ -113,8 +113,8 @@ def test_links_are_relative(site):
             continue
         html = path.read_text(encoding="utf-8")
         assert not re.search(r'(href|src)="/', html), path
-    assert 'href="../static/style.css"' in page(site)
-    assert 'href="static/style.css"' in (site / "index.html").read_text(encoding="utf-8")
+    assert 'href="../static/style.css?v=' in page(site)
+    assert 'href="static/style.css?v=' in (site / "index.html").read_text(encoding="utf-8")
     assert (site / "static" / "style.css").exists()
     assert (site / "static" / "reader.js").exists()
 
@@ -209,11 +209,11 @@ def test_default_site_url_is_the_live_subdomain():
 def test_404_page_uses_absolute_links(site):
     html = (site / "404.html").read_text(encoding="utf-8")
     assert "Stranica nije pronađena" in html
-    assert 'href="/index.html"' in html and 'href="/static/style.css"' in html
+    assert 'href="/index.html"' in html and 'href="/static/style.css?v=' in html
 
 
 def test_pages_link_a_favicon(site):
-    assert 'href="static/favicon.svg"' in (site / "index.html").read_text(encoding="utf-8")
+    assert 'href="static/favicon.svg?v=' in (site / "index.html").read_text(encoding="utf-8")
     assert (site / "static" / "favicon.svg").exists()
 
 
@@ -310,3 +310,28 @@ def test_pager_names_neighbouring_questions(latin_q2, tmp_path):
     html = (out / "I" / "q002.html").read_text(encoding="utf-8")
     pager = html[html.index('<nav class="pager"'):]
     assert 'href="../I/q003.html"' in pager and "Pitanje 3" in pager and "Sljedeće" in pager
+
+
+def test_static_assets_carry_a_content_version(site):
+    """Pages are revalidated on every visit but assets are cached for an hour, so a new deploy must change
+    the asset URLs; otherwise a returning reader gets new pages with the old script and nothing responds."""
+    html = page(site)
+    version = re.search(r'static/reader\.js\?v=([0-9a-f]{10})"', html).group(1)
+    assert f'static/style.css?v={version}"' in html
+
+
+def test_asset_version_changes_with_asset_content(latin_q2, tmp_path, monkeypatch):
+    import suma.reader
+
+    def version_of(out):
+        build(latin_q2, tmp_path / "hr", tmp_path / "none.yaml", out)
+        return re.search(r"reader\.js\?v=(\w+)", (out / "I" / "q002.html").read_text(encoding="utf-8")).group(1)
+
+    first = version_of(tmp_path / "a")
+    assert version_of(tmp_path / "b") == first, "same files, same version"
+    static = tmp_path / "static"
+    import shutil
+    shutil.copytree(suma.reader.STATIC_DIR, static)
+    (static / "reader.js").write_text("// changed", encoding="utf-8")
+    monkeypatch.setattr(suma.reader, "STATIC_DIR", static)
+    assert version_of(tmp_path / "c") != first
