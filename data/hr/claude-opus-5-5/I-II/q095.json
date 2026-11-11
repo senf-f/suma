@@ -1,0 +1,210 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 95,
+  "units": {
+    "I-II.q95.pr": {
+      "text": "Zatim valja razmotriti ljudski zakon. I to najprije sam zakon po sebi; drugo, njegovu vlast; treće, njegovu promjenljivost. Glede prvoga pitaju se četiri stvari. Prvo, o njegovoj korisnosti. Drugo, o njegovu podrijetlu. Treće, o njegovoj kakvoći. Četvrto, o njegovoj podjeli.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nije bilo korisno da ljudi postavljaju neke zakone. Nakana je, naime, svakoga zakona da po njemu ljudi postanu dobri, kao što je gore rečeno. Ali ljude se više navodi na dobro kad su voljni, opomenama, nego kad su prisiljeni, zakonima. Dakle, nije bilo nužno postavljati zakone.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a1.obj2": {
+      "text": "Osim toga, kao što kaže Filozof u V. knjizi Etike, *ljudi se utječu sucu kao živoj pravednosti*. Ali živa pravednost bolja je od nežive, koja je sadržana u zakonima. Dakle, bilo bi bolje da se izvršavanje pravednosti povjeri prosudbi sudaca nego da se o tome izda neki zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a1.obj3": {
+      "text": "Osim toga, svaki zakon upravlja ljudskim činima, kao što je jasno iz rečenoga. Ali budući da se ljudski čini odnose na pojedinačno, kojega je beskonačno mnogo, ono što spada na upravljanje ljudskim činima ne može se dostatno razmotriti osim od nekoga mudraca koji uviđa pojedinosti. Dakle, bilo bi bolje da se ljudskim činima upravlja prosudbom mudrih nego nekim postavljenim zakonom. Dakle, nije bilo nužno postavljati ljudske zakone.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Izidor u knjizi Etimologija: *zakoni su doneseni da se strahom od njih obuzda ljudska drskost, da nevinost bude sigurna među opakima i da se u samim opakima strahom od kazne zauzda mogućnost da nanose štetu*. Ali to je ljudskom rodu ponajviše nužno. Dakle, bilo je nužno postaviti ljudske zakone.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je jasno iz rečenoga, čovjeku po naravi usađena neka prikladnost za krepost; ali sama savršenost kreposti nužno čovjeku dolazi nekim odgojem. Isto tako vidimo da se čovjeku nekom vještinom pomaže u njegovim potrebama, na primjer u hrani i odjeći, za koje ima od naravi neke početke, naime razum i ruke, ali ne i samo dovršenje, kao druge životinje, kojima je narav dala dostatan pokrov i hranu. Za taj pak odgoj čovjek se ne nalazi lako samome sebi dostatnim. Jer savršenost kreposti ponajprije se sastoji u tome da se čovjek suzdrži od nedopuštenih naslada, kojima su ljudi ponajviše skloni, i to najviše mladi, na koje odgoj djelotvornije djeluje. I zato treba da ljudi takav odgoj, po kojemu se dolazi do kreposti, prime od drugoga. Što se tiče onih mladih koji su skloni činima kreposti, bilo po dobroj raspoloživosti naravi, bilo po navici, bilo još više po Božjem daru, dostatan je očinski odgoj, koji se vrši opomenama. Ali budući da se nalaze neki drski i skloni porocima, koje riječi ne mogu lako pokrenuti, bilo je nužno da ih se silom i strahom odvrati od zla, kako bi barem tako, prestajući činiti zlo, i drugima omogućili miran život, a i sami napokon takvim navikavanjem bili dovedeni do toga da voljno čine ono što su prije izvršavali iz straha, i tako postanu krepostni. Takav pak odgoj, koji prisiljava strahom od kazne, jest odgoj zakonima. Stoga je za mir i krepost ljudi bilo nužno da se postave zakoni, jer, kao što kaže Filozof u I. knjizi Politike, *kao što je čovjek, ako je savršen u kreposti, najbolja od životinja, tako je, ako je odvojen od zakona i pravednosti, najgora od svih*; jer čovjek ima oružje razuma za utaživanje požuda i okrutnosti, koje nemaju druge životinje.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ljude dobro raspoložene bolje navodi na krepost voljnim opomenama nego prisilom, ali neki zlo raspoloženi ne dolaze do kreposti ako ih se ne prisili.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a1.ad2": {
+      "text": "Na drugo treba reći da je, kao što kaže Filozof u I. knjizi Retorike, *bolje da se sve uredi zakonom nego da se prepusti prosudbi sudaca*. I to zbog triju razloga. Prvo, zato što je lakše naći malo mudrih koji su dostatni da postave ispravne zakone nego mnogo njih, koji bi bili potrebni da se ispravno sudi o pojedinim slučajevima. Drugo, zato što oni koji postavljaju zakone kroz dugo vrijeme razmatraju što treba propisati zakonom, dok se presude o pojedinačnim djelima donose o slučajevima koji su iznenada nastali. Čovjek pak lakše može vidjeti što je ispravno na temelju mnogo razmotrenih slučajeva nego samo na temelju jednoga djela. Treće, zato što zakonodavci sude općenito i o budućem, dok ljudi koji predsjedaju sudovima sude o sadašnjem, prema kojemu ih obuzima ljubav ili mržnja ili neka žudnja; i tako se njihov sud izopačuje. Budući da se, dakle, živa pravednost suca ne nalazi u mnogima i budući da je podatna, bilo je nužno da u svemu u čemu je to moguće zakon odredi kako treba suditi, a da se prosudbi ljudi povjeri što je moguće manje.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a1.ad3": {
+      "text": "Na treće treba reći da neke pojedinosti, koje se ne mogu obuhvatiti zakonom, nužno treba povjeriti sucima, kao što na istome mjestu kaže Filozof, na primjer je li se nešto dogodilo ili nije, i druge takve stvari.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se ne izvodi svaki zakon koji su postavili ljudi iz naravnoga zakona. Filozof, naime, kaže u V. knjizi Etike da je *zakonski pravedno ono za što u početku nije nimalo važno hoće li se učiniti ovako ili drukčije*. Ali kod onoga što proizlazi iz naravnoga zakona važno je hoće li se učiniti ovako ili drukčije. Dakle, ono što je utvrđeno ljudskim zakonima ne izvodi se sve iz zakona naravi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a2.obj2": {
+      "text": "Osim toga, pozitivno se pravo razlikuje od naravnoga prava, kao što je jasno iz Izidora u knjizi Etimologija i iz Filozofa u V. knjizi Etike. Ali ono što se izvodi iz općih načela zakona naravi kao zaključci pripada zakonu naravi, kao što je gore rečeno. Dakle, ono što pripada ljudskom zakonu ne izvodi se iz zakona naravi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a2.obj3": {
+      "text": "Osim toga, zakon naravi jednak je kod svih; Filozof, naime, kaže u V. knjizi Etike da je *naravno pravedno ono što posvuda ima istu snagu*. Kad bi se, dakle, ljudski zakoni izvodili iz naravnoga zakona, slijedilo bi da su i oni sami jednaki kod svih. A očito je da je to lažno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a2.obj4": {
+      "text": "Osim toga, za ono što se izvodi iz naravnoga zakona može se navesti neki razlog. Ali ne može se dati razlog za sve ono što su predci utvrdili zakonom, kako kaže pravnik. Dakle, ne izvode se svi ljudski zakoni iz naravnoga zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Tulije u svojoj Retorici: *stvari koje su potekle od naravi i koje je običaj potvrdio, ozakonili su strah od zakona i svetost*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što kaže Augustin u I. knjizi O slobodnoj volji, *ne čini se da je zakon ono što nije pravedno*. Stoga koliko nešto ima od pravednosti, toliko ima od snage zakona. A u ljudskim stvarima kaže se da je nešto pravedno po tome što je ispravno prema pravilu razuma. Prvo je pak pravilo razuma zakon naravi, kao što je jasno iz rečenoga. Stoga svaki zakon koji su postavili ljudi utoliko ima pojam zakona ukoliko se izvodi iz zakona naravi. Ako se pak u nečemu ne slaže s naravnim zakonom, onda više neće biti zakon, nego izopačenje zakona. No treba znati da se nešto može izvesti iz naravnoga zakona na dva načina: na jedan način kao zaključci iz načela; na drugi način kao neka određenja nečega općega. Prvi je način sličan onome kojim se u znanostima iz načela izvode dokazni zaključci. Drugom je pak načinu slično ono kad se u umijećima opće forme određuju na nešto posebno, kao što graditelj opću formu kuće mora odrediti na ovaj ili onaj oblik kuće. Neke se stvari, dakle, izvode iz općih načela zakona naravi na način zaključaka, kao što se to da ne treba ubijati može izvesti kao neki zaključak iz toga da nikome ne treba činiti zlo. A neke se izvode na način određenja, kao što zakon naravi sadrži da onaj koji griješi bude kažnjen, a da bude kažnjen takvom i takvom kaznom, to je neko određenje zakona naravi. I jedno i drugo, dakle, nalazi se u postavljenom ljudskom zakonu. Ali ono što pripada prvom načinu sadržano je u ljudskom zakonu ne tako kao da je samo postavljeno zakonom, nego ima nešto snage i iz naravnoga zakona. A ono što pripada drugom načinu ima snagu samo iz ljudskoga zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozof govori o onome što je postavljeno zakonom po nekom određenju ili pobližem određivanju zapovijedi zakona naravi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a2.ad2": {
+      "text": "Na drugo treba reći da onaj razlog vrijedi za ono što se izvodi iz zakona naravi kao zaključci.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a2.ad3": {
+      "text": "Na treće treba reći da se opća načela zakona naravi ne mogu na isti način primijeniti na sve zbog velike raznolikosti ljudskih stvari. I odatle potječe različitost pozitivnoga zakona kod različitih naroda.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a2.ad4": {
+      "text": "Na četvrto treba reći da onu pravnikovu riječ treba shvatiti o onome što su predci uveli glede pojedinačnih određenja naravnoga zakona; prema tim se određenjima sud iskusnih i razboritih odnosi kao prema nekim načelima, ukoliko, naime, odmah vide što je prikladnije pojedinačno odrediti. Stoga Filozof kaže u VI. knjizi Etike da *u takvim stvarima treba paziti na nedokazive izjave i mišljenja iskusnih i starijih ili razboritih ništa manje nego na dokaze*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da Izidor neprikladno opisuje kakvoću pozitivnoga zakona kad kaže: *zakon će biti čestit, pravedan, moguć po naravi, u skladu s običajem domovine, prikladan mjestu i vremenu, nužan, koristan; također jasan, da ne bi zbog nejasnoće sadržavao nešto što vodi u zamku; napisan ne radi ikakve privatne koristi, nego radi zajedničke koristi građana*. Gore je, naime, kakvoću zakona objasnio trima uvjetima, rekavši: *zakon će biti sve ono što se utemelji na razumu, samo ako se slaže s religijom, ako odgovara odgoju, ako pridonosi spasu*. Dakle, suvišno poslije umnaža uvjete zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a3.obj2": {
+      "text": "Osim toga, pravednost je dio čestitosti, kako kaže Tulije u I. knjizi O dužnostima. Dakle, pošto je rekao čestit, suvišno se dodaje pravedan.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a3.obj3": {
+      "text": "Osim toga, pisani se zakon, prema Izidoru, razlikuje od običaja. Nije, dakle, trebalo u definiciju zakona staviti da bude u skladu s običajem domovine.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a3.obj4": {
+      "text": "Osim toga, nužno se kaže na dva načina. Naime, ono što je nužno naprosto, što se ne može drukčije odnositi; i takvo nužno nije podložno ljudskom sudu, pa takva nužnost ne pripada ljudskom zakonu. Ima također nešto što je nužno radi svrhe, i takva je nužnost isto što i korisnost. Dakle, suvišno se stavlja i jedno i drugo, nužan i koristan.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a3.sc": {
+      "text": "Ali protiv toga je autoritet samoga Izidora.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a3.resp": {
+      "text": "Odgovaram: treba reći da kod svake stvari koja postoji radi svrhe forma nužno mora biti određena prema razmjeru sa svrhom; kao što je forma pile takva kakva odgovara rezanju, kao što je jasno iz II. knjige Fizike. Isto tako svaka ispravna i mjerena stvar mora imati formu razmjernu svojemu pravilu i mjeri. Ljudski pak zakon ima i jedno i drugo, jer je i nešto usmjereno prema svrsi, i neko je pravilo ili mjera koja je upravljena ili mjerena nekom višom mjerom; a ta je dvostruka, naime božanski zakon i zakon naravi, kao što je jasno iz rečenoga. Svrha je pak ljudskoga zakona korist ljudi, kako kaže i pravnik. I zato je Izidor kao uvjet zakona najprije postavio tri stvari, naime: da se slaže s religijom, ukoliko je razmjeran božanskom zakonu; da odgovara odgoju, ukoliko je razmjeran zakonu naravi; da pridonosi spasu, ukoliko je razmjeran ljudskoj koristi. I na te se tri stvari svode svi drugi uvjeti koje poslije postavlja. Jer to što se kaže čestit odnosi se na to da se slaže s religijom. A ono što se nadodaje, *pravedan, moguć po naravi, u skladu s običajem domovine, prikladan mjestu i vremenu*, dodaje se uz to da odgovara odgoju. Ljudski se, naime, odgoj promatra najprije s obzirom na red razuma, koji je sadržan u tome što se kaže pravedan. Drugo, s obzirom na sposobnost onih koji djeluju. Odgoj, naime, mora odgovarati svakome prema njegovoj mogućnosti, pri čemu se pazi i na mogućnost naravi (jer djeci ne treba nametati isto što se nameće odraslim muževima); i prema ljudskom običaju, jer čovjek ne može živjeti sam u društvu ne prilagođujući se običajima drugih. Treće, s obzirom na dužne okolnosti, kaže: prikladan mjestu i vremenu. A ono što se nadodaje, nužan, koristan itd., odnosi se na to da pridonosi spasu, tako da se nužnost odnosi na uklanjanje zala, korisnost na postizanje dobara, a jasnoća na čuvanje od štete koja bi mogla proizaći iz samoga zakona. I budući da je, kao što je gore rečeno, zakon usmjeren prema općem dobru, upravo se to pokazuje u posljednjem dijelu određenja.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a3.adarg": {
+      "text": "I po tome je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q95.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da Izidor neprikladno postavlja podjelu ljudskih zakona ili ljudskoga prava. Pod to, naime, pravo ubraja pravo naroda, koje se, kako sam kaže, tako zove jer se njime služe gotovo svi narodi. Ali, kako sam kaže, *naravno je pravo ono koje je zajedničko svim narodima*. Dakle, pravo naroda nije sadržano pod pozitivnim ljudskim pravom, nego prije pod naravnim pravom.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q95.a4.obj2": {
+      "text": "Osim toga, čini se da se ono što ima istu snagu ne razlikuje formalno, nego samo tvarno. Ali zakoni, plebisciti, senatske odluke i druge takve stvari koje on navodi, svi imaju istu snagu. Dakle, čini se da se razlikuju samo tvarno. Ali o takvom razlikovanju ne treba voditi brigu u umijeću, jer može ići u beskonačnost. Dakle, neprikladno se uvodi takva podjela ljudskih zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q95.a4.obj3": {
+      "text": "Osim toga, kao što u državi postoje vladari, svećenici i vojnici, tako postoje i druge ljudske službe. Dakle, čini se da, kao što se postavlja neko vojno pravo i javno pravo, koje se odnosi na svećenike i upravne službenike, tako treba postaviti i druga prava, koja pripadaju drugim službama u državi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q95.a4.obj4": {
+      "text": "Osim toga, ono što je akcidentalno treba izostaviti. Ali zakonu je akcidentalno da ga donosi ovaj ili onaj čovjek. Dakle, neprikladno se postavlja podjela ljudskih zakona prema imenima zakonodavaca, tako da se, naime, jedan zove Kornelijev, drugi Falcidijev, i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q95.a4.sc": {
+      "text": "Protiv toga neka je dostatan autoritet Izidorov.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q95.a4.resp": {
+      "text": "Odgovaram: treba reći da se svaka stvar može po sebi podijeliti prema onome što je sadržano u njezinu pojmu. Tako je u pojmu životinje sadržana duša, koja je razumska ili nerazumska, i zato se životinja u vlastitom smislu i po sebi dijeli na razumsku i nerazumsku, a ne na bijelu i crnu, što je posve izvan njezina pojma. Mnogo je toga pak u pojmu ljudskoga zakona, prema čemu god se od toga ljudski zakon može u vlastitom smislu i po sebi dijeliti. Prvo, naime, u pojam ljudskoga zakona spada da je izveden iz zakona naravi, kao što je jasno iz rečenoga. I prema tome se pozitivno pravo dijeli na pravo naroda i građansko pravo, prema dvama načinima na koje se nešto izvodi iz zakona naravi, kao što je gore rečeno. Jer pravu naroda pripada ono što se izvodi iz zakona naravi kao zaključci iz načela, kao što su pravedne kupnje, prodaje i druge takve stvari bez kojih ljudi ne bi mogli živjeti jedni s drugima; a to pripada zakonu naravi, jer je čovjek po naravi društvena životinja, kao što se dokazuje u I. knjizi Politike. A ono što se izvodi iz zakona naravi na način pojedinačnoga određenja pripada građanskom pravu, ukoliko svaka država određuje nešto što joj je prilagođeno. Drugo, u pojam ljudskoga zakona spada da je usmjeren prema općem dobru države. I prema tome se ljudski zakon može dijeliti prema različitosti onih koji se posebno trude oko općega dobra, kao što su svećenici, koji mole Boga za narod; vladari, koji upravljaju narodom; i vojnici, koji se bore za spas naroda. I zato se tim ljudima prilagođuju neka posebna prava. Treće, u pojam ljudskoga zakona spada da ga ustanovljuje onaj koji upravlja zajednicom države, kao što je gore rečeno. I prema tome se ljudski zakoni razlikuju prema različitim oblicima vladavine država. Jedan je od njih, prema Filozofu u III. knjizi Politike, kraljevstvo, kad, naime, državom upravlja jedan, i prema tome se uzimaju vladarske uredbe. Drugi je oblik vladavine aristokracija, to jest vladavina najboljih ili odličnika, i prema tome se uzimaju odgovori pravnih stručnjaka i senatske odluke. Drugi je oblik vladavine oligarhija, to jest vladavina malobrojnih bogatih i moćnih, i prema tome se uzima pretorsko pravo, koje se zove i počasno. Drugi je pak oblik vladavina naroda, koja se naziva demokracija, i prema tome se uzimaju plebisciti. Drugi je pak tiranski, koji je posve pokvaren, pa se iz njega ne uzima nikakav zakon. Postoji i neki oblik vladavine pomiješan iz tih, koji je najbolji, i prema njemu se uzima zakon *koji su starješine zajedno s pukom ozakonili*, kako kaže Izidor. Četvrto, u pojam ljudskoga zakona spada da upravlja ljudskim činima. I prema tome se, prema različitim stvarima o kojima se donose zakoni, razlikuju zakoni, koji se katkad nazivaju po svojim začetnicima, kao što se razlikuje Julijev zakon o preljubima, Kornelijev zakon o ubojicama i tako dalje, ne zbog začetnika, nego zbog stvari o kojima jesu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q95.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je pravo naroda na neki način naravno čovjeku ukoliko je razuman, jer se izvodi iz naravnoga zakona na način zaključka koji nije mnogo udaljen od načela. Stoga su se ljudi o takvim stvarima lako složili. Ipak se razlikuje od naravnoga zakona, ponajviše od onoga koji je zajednički svim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q95.a4.ad2": {
+      "text": "Na ostalo je odgovor jasan iz onoga što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    }
+  }
+}

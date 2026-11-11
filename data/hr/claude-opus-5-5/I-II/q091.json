@@ -1,0 +1,300 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 91,
+  "units": {
+    "I-II.q91.pr": {
+      "text": "Zatim treba razmotriti različitost zakonâ. I u vezi s tim pita se šest stvari. Prvo, postoji li neki vječni zakon. Drugo, postoji li neki naravni zakon. Treće, postoji li neki ljudski zakon. Četvrto, postoji li neki božanski zakon. Peto, je li on samo jedan ili ih je više. Šesto, postoji li neki zakon grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da ne postoji neki vječni zakon. Svaki se, naime, zakon nekima nameće. Ali od vječnosti nije bilo nikoga komu bi se zakon mogao nametnuti: samo je, naime, Bog bio od vječnosti. Dakle, nijedan zakon nije vječan.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a1.obj2": {
+      "text": "Osim toga, proglašenje pripada pojmu zakona. Ali proglašenje nije moglo biti od vječnosti, jer od vječnosti nije bilo nikoga komu bi se proglasio. Dakle, nijedan zakon ne može biti vječan.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a1.obj3": {
+      "text": "Osim toga, zakon uključuje usmjerenost prema svrsi. Ali ništa što je usmjereno prema svrsi nije vječno: samo je, naime, posljednja svrha vječna. Dakle, nijedan zakon nije vječan.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a1.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u I. knjizi O slobodnoj volji: *zakon koji se naziva najvišim razumom ne može se nikome tko shvaća ne činiti nepromjenljivim i vječnim*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a1.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, zakon nije ništa drugo nego neki nalog praktičnoga razuma u vladaru koji upravlja nekom savršenom zajednicom. A očito je, uz pretpostavku da se svijet ravna božanskom providnošću, kako je utvrđeno u Prvom dijelu, da se cijelom zajednicom svemira upravlja božanskim razumom. I zato sam nacrt upravljanja stvarima, koji postoji u Bogu kao u vladaru sveukupnosti, ima pojam zakona. A budući da božanski razum ništa ne zamišlja u vremenu, nego ima vječnu zamisao, kako se kaže u Izr 8, odatle je da takav zakon treba nazvati vječnim.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono što ne postoji u samome sebi postoji kod Boga, ukoliko je od njega unaprijed spoznato i unaprijed određeno, prema onome iz Rim 4: *koji zove ono što nije kao ono što jest*. Tako, dakle, vječna zamisao božanskoga zakona ima pojam vječnoga zakona, ukoliko je od Boga usmjerena prema upravljanju stvarima koje je on unaprijed spoznao.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a1.ad2": {
+      "text": "Na drugo treba reći da se proglašenje vrši i riječju i pismom; i na oba načina vječni zakon ima proglašenje sa strane Boga koji proglašava, jer je i božanska riječ vječna, i pismo knjige života je vječno. Ali sa strane stvora koji sluša ili gleda proglašenje ne može biti vječno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a1.ad3": {
+      "text": "Na treće treba reći da zakon uključuje usmjerenost prema svrsi aktivno, to jest ukoliko se po njemu nešto usmjeruje prema svrsi; ali ne pasivno, to jest tako da bi sam zakon bio usmjeren prema svrsi, osim akcidentalno kod upravitelja čija je svrha izvan njega samoga, prema kojoj je nužno da i njegov zakon bude usmjeren. Ali svrha božanskoga upravljanja jest sam Bog, i njegov zakon nije nešto drugo od njega. Stoga vječni zakon nije usmjeren prema drugoj svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da u nama nema nekoga naravnog zakona. Čovjekom se, naime, dostatno upravlja vječnim zakonom; Augustin, naime, kaže u I. knjizi O slobodnoj volji da je *vječni zakon onaj po kojemu je pravedno da sve bude najuređenije*. Ali narav ne obiluje suvišnim, kao što ni ne oskudijeva u nužnome. Dakle, nema nekoga zakona koji bi čovjeku bio naravan.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a2.obj2": {
+      "text": "Osim toga, po zakonu se čovjek u svojim činima usmjeruje prema svrsi, kako je gore utvrđeno. Ali usmjerenost ljudskih čina prema svrsi nije po naravi, kao što se događa kod nerazumnih stvorova, koji samo po naravnoj težnji djeluju radi svrhe, nego čovjek djeluje radi svrhe po razumu i volji. Dakle, nema nekoga zakona koji bi čovjeku bio naravan.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a2.obj3": {
+      "text": "Osim toga, što je netko slobodniji, to je manje pod zakonom. Ali čovjek je slobodniji od svih životinja zbog slobodnog odlučivanja, koje ima ispred ostalih životinja. Budući, dakle, da ostale životinje nisu podložne naravnom zakonu, ni čovjek nije podložan nekom naravnom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a2.sc": {
+      "text": "Ali protiv toga jest to što uz ono iz Rim 2: *kad pogani, koji nemaju zakona, po naravi čine ono što je od zakona*, Glosa kaže: *premda nemaju pisanoga zakona, ipak imaju naravni zakon, po kojemu svatko shvaća i svjestan je u sebi što je dobro, a što zlo*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, zakon, budući da je pravilo i mjera, može biti u nečemu na dva načina: na jedan način, kao u onome što ravna i mjeri; na drugi način, kao u onome što je ravnano i mjereno, jer ukoliko nešto ima udjela u pravilu ili mjeri, utoliko je ravnano ili mjereno. Budući, dakle, da se sve što je podložno božanskoj providnosti ravna i mjeri vječnim zakonom, kako je jasno iz rečenoga, očito je da sve na neki način ima udjela u vječnom zakonu, ukoliko, naime, iz njegova utiska ima sklonosti prema vlastitim činima i svrhama. Među ostalim pak razumski je stvor podložan božanskoj providnosti na neki izvrsniji način, ukoliko i sam postaje dionikom providnosti, providjevajući za sebe i za druge. Stoga i on ima udjela u vječnom razumu, po kojemu ima naravnu sklonost prema dužnom činu i svrsi. I takvo sudjelovanje vječnoga zakona u razumskom stvoru naziva se naravnim zakonom. Stoga, pošto je Psalmist rekao: Prinesite žrtvu pravednosti, kao da neki pitaju koja su djela pravednosti, nadodaje: Mnogi govore: tko nam pokazuje dobra? I odgovarajući na to pitanje, kaže: Utisnuto je nad nama svjetlo lica tvoga, Gospodine, kao da svjetlo naravnoga razuma, kojim razlučujemo što je dobro, a što zlo, a to pripada naravnom zakonu, nije ništa drugo nego utisak božanskoga svjetla u nama. Stoga je jasno da naravni zakon nije ništa drugo nego sudjelovanje vječnoga zakona u razumskom stvoru.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da bi taj razlog vrijedio kad bi naravni zakon bio nešto različito od vječnoga zakona. Ali on nije ništa drugo nego neko sudjelovanje u njemu, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a2.ad2": {
+      "text": "Na drugo treba reći da se svako djelovanje razuma i volje u nama izvodi iz onoga što je po naravi, kako je gore utvrđeno: svako se, naime, rasuđivanje izvodi iz načela koja su po naravi poznata, i svaka se težnja za onim što vodi k svrsi izvodi iz naravne težnje za posljednjom svrhom. I tako je nužno da se i prvo upravljanje naših čina prema svrsi vrši po naravnom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a2.ad3": {
+      "text": "Na treće treba reći da i nerazumne životinje na svoj način imaju udjela u vječnom razumu, kao i razumski stvor. Ali budući da razumski stvor u njemu ima udjela umski i razumski, zato se sudjelovanje vječnoga zakona u razumskom stvoru u vlastitom smislu naziva zakonom: zakon je, naime, nešto što pripada razumu, kako je gore rečeno. A u nerazumnom stvoru u njemu se ne sudjeluje razumski; stoga se ono ne može nazvati zakonom osim po sličnosti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ne postoji neki ljudski zakon. Naravni je, naime, zakon sudjelovanje vječnoga zakona, kako je rečeno. Ali po vječnom je zakonu sve najuređenije, kako kaže Augustin u I. knjizi O slobodnoj volji. Dakle, naravni je zakon dostatan za uređenje svega ljudskoga. Nije, dakle, nužno da postoji neki ljudski zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a3.obj2": {
+      "text": "Osim toga, zakon ima pojam mjere, kako je rečeno. Ali ljudski razum nije mjera stvari, nego prije obratno, kako se kaže u X. knjizi Metafizike. Dakle, iz ljudskoga razuma ne može proizaći nijedan zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a3.obj3": {
+      "text": "Osim toga, mjera mora biti posve izvjesna, kako se kaže u X. knjizi Metafizike. Ali nalog ljudskoga razuma o onome što treba činiti neizvjestan je, prema onome iz Mudr 9: *misli su smrtnika plašljive i nesigurna su naša predviđanja*. Dakle, iz ljudskoga razuma ne može proizaći nijedan zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a3.sc": {
+      "text": "Ali protiv toga jest to što Augustin u I. knjizi O slobodnoj volji postavlja dva zakona, jedan vječni, a drugi vremeniti, za koji kaže da je ljudski.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, zakon neki nalog praktičnoga razuma. A nalazi se da je postupak praktičnoga i spekulativnoga razuma sličan: i jedan i drugi, naime, polazi od nekih načela prema nekim zaključcima, kako je gore utvrđeno. Prema tome, dakle, treba reći da, kao što se u spekulativnom razumu iz nedokazivih načela koja su po naravi spoznata izvode zaključci različitih znanosti, čija nam spoznaja nije po naravi usađena, nego je pronađena trudom razuma, tako je i iz zapovijedi naravnoga zakona, kao iz nekih općih i nedokazivih načela, nužno da ljudski razum dođe do toga da neke stvari posebnije rasporedi. I ti posebni rasporedi, pronađeni prema ljudskom razumu, nazivaju se ljudskim zakonima, uz obdržavanje ostalih uvjeta koji pripadaju pojmu zakona, kako je gore rečeno. Stoga i Tulije kaže u svojoj Retorici da je *početak prava potekao od naravi; zatim su neke stvari zbog korisnosti razuma prešle u običaj; poslije je ono što je poteklo od naravi i što je bilo potvrđeno običajem ozakonio strah pred zakonima i strahopoštovanje prema njima*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ljudski razum ne može u punini imati udjela u nalogu božanskoga razuma, nego na svoj način i nesavršeno. I zato, kao što je sa strane spekulativnoga razuma u nama, po naravnom sudjelovanju u božanskoj mudrosti, spoznaja nekih općih načela, ali ne i vlastita spoznaja svake istine, kako je sadržana u božanskoj mudrosti, tako i sa strane praktičnoga razuma čovjek po naravi ima udjela u vječnom zakonu prema nekim općim načelima, ali ne prema posebnim upravljanjima pojedinačnih stvari, koja su ipak sadržana u vječnom zakonu. I zato je nadalje nužno da ljudski razum dođe do nekih posebnih zakonskih odredbi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a3.ad2": {
+      "text": "Na drugo treba reći da ljudski razum po sebi nije pravilo stvari, ali načela koja su mu po naravi usađena jesu neka opća pravila i mjere svega onoga što čovjek treba činiti, čega je naravni razum pravilo i mjera, premda nije mjera onoga što je od naravi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a3.ad3": {
+      "text": "Na treće treba reći da se praktični razum bavi onim što treba činiti, a to je pojedinačno i kontingentno, a ne nužnim stvarima, kao spekulativni razum. I zato ljudski zakoni ne mogu imati onu nepogrešivost koju imaju dokazni zaključci znanosti. A nije ni potrebno da svaka mjera bude posve nepogrešiva i izvjesna, nego koliko je moguće u njezinu rodu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da nije bilo nužno da postoji neki božanski zakon. Jer, kako je rečeno, naravni je zakon neko sudjelovanje vječnoga zakona u nama. Ali vječni je zakon božanski zakon, kako je rečeno. Dakle, nije potrebno da osim naravnoga zakona i ljudskih zakona izvedenih iz njega postoji neki drugi božanski zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a4.obj2": {
+      "text": "Osim toga, u Sir 15 kaže se da je *Bog ostavio čovjeka u ruci njegova promišljanja*. A promišljanje je čin razuma, kako je gore utvrđeno. Dakle, čovjek je prepušten upravljanju svojega razuma. Ali nalog ljudskoga razuma jest ljudski zakon, kako je rečeno. Dakle, nije potrebno da se čovjekom upravlja drugim, božanskim zakonom.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a4.obj3": {
+      "text": "Osim toga, ljudska je narav dostatnija od nerazumnih stvorova. Ali nerazumni stvorovi nemaju nekoga božanskog zakona osim naravne sklonosti koja im je usađena. Dakle, mnogo manje razumski stvor treba imati neki božanski zakon osim naravnoga zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a4.sc": {
+      "text": "Ali protiv toga jest to što David traži da mu Bog postavi zakon, govoreći: *Postavi mi, Gospodine, zakon na putu svojih opravdanja*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a4.resp": {
+      "text": "Odgovaram: treba reći da je, osim naravnoga zakona i ljudskoga zakona, za upravljanje ljudskim životom bilo nužno imati božanski zakon. I to zbog četiri razloga. Prvo, zato što se zakonom čovjek upravlja na vlastite čine s obzirom na posljednju svrhu. I kad bi čovjek bio usmjeren samo prema svrsi koja ne bi nadilazila razmjer čovjekove naravne sposobnosti, ne bi bilo potrebno da čovjek sa strane razuma ima nešto što ga upravlja iznad naravnoga zakona i zakona koji je ljudski postavljen, a koji se iz njega izvodi. Ali budući da je čovjek usmjeren prema svrsi vječnoga blaženstva, koja nadilazi razmjer naravne ljudske sposobnosti, kako je gore utvrđeno, zato je bilo nužno da se, iznad naravnoga i ljudskoga zakona, prema svojoj svrsi upravlja i zakonom koji je božanski dan. Drugo, zato što se zbog neizvjesnosti ljudskoga suda, osobito o kontingentnim i pojedinačnim stvarima, događa da različiti ljudi o ljudskim činima imaju različite sudove, iz kojih proizlaze i različiti i protivni zakoni. Da bi, dakle, čovjek bez ikakve sumnje mogao znati što treba činiti, a što izbjegavati, bilo je nužno da se u vlastitim činima upravlja zakonom koji je božanski dan, za koji je izvjesno da ne može pogriješiti. Treće, zato što čovjek može donositi zakon o onome o čemu može suditi. A čovjekov sud ne može biti o unutarnjim pokretima, koji su skriveni, nego samo o vanjskim činima, koji se pokazuju. Ipak se za savršenost kreposti traži da čovjek bude ispravan u objema vrstama čina. I zato ljudski zakon nije mogao dostatno obuzdati i urediti unutarnje čine, nego je bilo nužno da za to pridođe božanski zakon. Četvrto, zato što, kako kaže Augustin u I. knjizi O slobodnoj volji, ljudski zakon ne može kazniti ili zabraniti sve što se zlo čini: jer kad bi htio ukloniti sva zla, slijedilo bi da se uklone i mnoga dobra, i bila bi spriječena korist općega dobra, koje je nužno za ljudski suživot. Da, dakle, nijedno zlo ne bi ostalo nezabranjeno i nekažnjeno, bilo je nužno da pridođe božanski zakon, kojim se zabranjuju svi grijesi. I ta se četiri uzroka dotiču u Ps 18, gdje se kaže: Zakon je Gospodnji neokaljan, to jest ne dopušta nikakve sramote grijeha; obraća duše, jer ne upravlja samo vanjskim nego i unutarnjim činima; svjedočanstvo je Gospodnje vjerno, zbog izvjesnosti istine i ispravnosti; daje mudrost malenima, ukoliko čovjeka usmjeruje prema nadnaravnoj i božanskoj svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se po naravnom zakonu ima udjela u vječnom zakonu prema razmjeru sposobnosti ljudske naravi. Ali potrebno je da se čovjek na uzvišeniji način upravlja prema posljednjoj nadnaravnoj svrsi. I zato se nadodaje zakon koji je božanski dan, po kojemu se u vječnom zakonu ima udjela na uzvišeniji način.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a4.ad2": {
+      "text": "Na drugo treba reći da je promišljanje neko istraživanje; stoga je nužno da polazi od nekih načela. A nije dostatno da polazi od načela koja su po naravi usađena, a to su zapovijedi naravnoga zakona, zbog onoga što je rečeno, nego je nužno da se nadodaju neka druga načela, naime zapovijedi božanskoga zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a4.ad3": {
+      "text": "Na treće treba reći da nerazumni stvorovi nisu usmjereni prema višoj svrsi od svrhe koja je razmjerna njihovoj naravnoj snazi. I zato razlog nije sličan.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je božanski zakon samo jedan. Jedan kralj u jednom kraljevstvu ima, naime, jedan zakon. Ali cijeli se ljudski rod odnosi prema Bogu kao prema jednom kralju, prema onome iz Ps 46: *Bog je kralj sve zemlje*. Dakle, postoji samo jedan božanski zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a5.obj2": {
+      "text": "Osim toga, svaki je zakon usmjeren prema svrsi na koju zakonodavac smjera kod onih kojima daje zakon. Ali jedno je te isto ono na što Bog smjera kod svih ljudi, prema onome iz 1 Tim 2: *hoće da se svi ljudi spase i dođu do spoznanja istine*. Dakle, samo je jedan božanski zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a5.obj3": {
+      "text": "Osim toga, čini se da je božanski zakon bliži vječnom zakonu, koji je jedan, nego naravni zakon, utoliko koliko je objava milosti uzvišenija od spoznaje naravi. Ali naravni je zakon jedan za sve ljude. Dakle, još više božanski zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a5.sc": {
+      "text": "Ali protiv toga jest ono što kaže Apostol u Heb 7: *kad se promijeni svećeništvo, nužno je da dođe i do promjene zakona*. Ali svećeništvo je dvostruko, kako se ondje kaže, naime levitsko svećeništvo i Kristovo svećeništvo. Dakle, i božanski je zakon dvostruk, naime Stari zakon i Novi zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a5.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno u Prvom dijelu, razlikovanje uzrok broja. A nalazi se da se nešto razlikuje na dva načina. Na jedan način, kao ono što je posve različito po vrsti, kao konj i vol. Na drugi način, kao savršeno i nesavršeno u istoj vrsti, kao dječak i muž. I na taj se način božanski zakon dijeli na Stari zakon i Novi zakon. Stoga Apostol u Gal 3 uspoređuje stanje Staroga zakona sa stanjem dječaka koji je pod odgojiteljem, a stanje Novoga zakona uspoređuje sa stanjem savršenoga muža, koji više nije pod odgojiteljem. A savršenost i nesavršenost obaju zakona promatra se prema trima stvarima koje pripadaju zakonu, kako je gore rečeno. Prvo, naime, zakonu pripada da bude usmjeren prema općem dobru kao prema svrsi, kako je gore rečeno. A ono može biti dvostruko. Naime, osjetno i zemaljsko dobro, i prema takvom je dobru izravno usmjeravao Stari zakon; stoga se odmah, u Izl 3, na početku zakona, narod poziva u zemaljsko kraljevstvo Kanaanaca. I opet, umljivo i nebesko dobro, i prema njemu usmjeruje Novi zakon. Stoga je Krist odmah na početku svojega propovijedanja pozvao u kraljevstvo nebesko, govoreći: *Činite pokoru, jer se približilo kraljevstvo nebesko*, Mt 4. I zato Augustin kaže u IV. knjizi Protiv Fausta da su *obećanja vremenitih stvari sadržana u Starom zavjetu, i zato se naziva starim, a obećanje vječnoga života pripada Novom zavjetu*. Drugo, zakonu pripada upravljati ljudske čine prema redu pravednosti. U tome Novi zakon također nadilazi Stari zakon, uređujući unutarnje čine duha, prema onome iz Mt 5: *ako vaša pravednost ne bude obilnija od pravednosti pismoznanaca i farizeja, nećete ući u kraljevstvo nebesko*. I zato se kaže da *Stari zakon sputava ruku, a Novi zakon duh*. Treće, zakonu pripada navoditi ljude na obdržavanje zapovijedi. I to je Stari zakon činio strahom od kazni, a Novi zakon to čini ljubavlju, koja se ulijeva u naša srca po Kristovoj milosti, koja se podjeljuje u Novom zakonu, a u Starom je zakonu bila naznačena predslikama. I zato Augustin kaže u spisu Protiv Adimanta, Manihejeva učenika, *da je kratka razlika između Zakona i Evanđelja: strah i ljubav*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što otac obitelji u kući daje jedne zapovijedi djeci, a druge odraslima, tako je i jedan kralj, Bog, u svojem jednom kraljevstvu, dao jedan zakon ljudima dok su još bili nesavršeni, a drugi, savršeniji, onima koji su po prethodnom zakonu već bili privedeni do veće sposobnosti za božanske stvari.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a5.ad2": {
+      "text": "Na drugo treba reći da spasenje ljudi nije moglo biti nego po Kristu, prema onome iz Dj 4: *nije dano ljudima drugo ime u kojemu nam se valja spasiti*. I zato zakon koji sve savršeno vodi spasenju nije mogao biti dan prije Kristova dolaska. Prije toga pak trebalo je narodu iz kojega se Krist imao roditi dati zakon koji pripravlja za prihvaćanje Krista, u kojemu bi bile sadržane neke početne osnove spasonosne pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a5.ad3": {
+      "text": "Na treće treba reći da naravni zakon upravlja čovjeka prema nekim općim zapovijedima, u kojima se slažu i savršeni i nesavršeni; i zato je on jedan za sve. Ali božanski zakon upravlja čovjeka i u nekim pojedinostima, prema kojima se savršeni i nesavršeni ne odnose na sličan način. I zato je bilo potrebno da božanski zakon bude dvostruk, kako je već rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:56+00:00"
+    },
+    "I-II.q91.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da ne postoji neki zakon žarišta grijeha. Izidor, naime, kaže u V. knjizi Etimologija da *zakon stoji na razumu*. Žarište grijeha pak ne stoji na razumu, nego prije odstupa od razuma. Dakle, žarište grijeha nema pojam zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q91.a6.obj2": {
+      "text": "Osim toga, svaki je zakon obvezujući, tako da se oni koji ga ne obdržavaju nazivaju prijestupnicima. Ali žarište grijeha ne čini nikoga prijestupnikom time što ga ne slijedi, nego prije postaje prijestupnikom ako ga tko slijedi. Dakle, žarište grijeha nema pojam zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q91.a6.obj3": {
+      "text": "Osim toga, zakon je usmjeren prema općem dobru, kako je gore utvrđeno. Ali žarište grijeha ne naginje prema općem dobru, nego prije prema privatnom dobru. Dakle, žarište grijeha nema pojam zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q91.a6.sc": {
+      "text": "Ali protiv toga jest ono što kaže Apostol u Rim 7: *vidim drugi zakon u svojim udovima, koji se protivi zakonu moga duha*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q91.a6.resp": {
+      "text": "Odgovaram: treba reći da se, kako je gore rečeno, zakon po biti nalazi u onome što ravna i mjeri, a po sudjelovanju u onome što je mjereno i ravnano; tako da se svaka sklonost ili usmjerenost koja se nalazi u onome što je podložno zakonu po sudjelovanju naziva zakonom, kako je jasno iz gore rečenoga. A u onima koji su podložni zakonu može se od zakonodavca naći neka sklonost na dva načina. Na jedan način, ukoliko on izravno naginje svoje podložnike prema nečemu, a katkad različite prema različitim činima; na koji se način može reći da je jedan zakon vojnika, a drugi zakon trgovaca. Na drugi način, neizravno, ukoliko, naime, time što zakonodavac nekoga sebi podložnog liši neke časti slijedi da ovaj prijeđe u drugi stalež i takoreći pod drugi zakon; primjerice, ako se vojnik otpusti iz vojske, prijeći će pod zakon seljaka ili trgovaca. Tako, dakle, pod Bogom zakonodavcem različiti stvorovi imaju različite naravne sklonosti, tako da ono što je jednome na neki način zakon, drugome je protiv zakona; kao kad bih rekao da je biti bijesan na neki način zakon psa, a protiv zakona je ovce ili koje druge pitome životinje. Postoji, dakle, zakon čovjeka, koji mu je dopao po božanskoj uredbi prema njegovu vlastitom stanju, da djeluje prema razumu. Taj je zakon u prvotnom stanju bio tako snažan da se čovjeku nije moglo prikrasti ništa ni mimo razuma ni protiv razuma. Ali kad se čovjek udaljio od Boga, zapao je u to da ga nosi nagon osjetilnosti; i to se događa i svakome pojedinačno, što se više udalji od razuma, tako da na neki način postaje sličan zvijerima, koje nosi nagon osjetilnosti, prema onome iz Ps 48: *čovjek, kad je bio u časti, nije razumio; izjednačen je s nerazumnom stokom i postao joj je sličan*. Tako, dakle, sama sklonost osjetilnosti, koja se naziva žarištem grijeha, u drugim životinjama naprosto ima pojam zakona, ali na onaj način na koji se u takvima može govoriti o zakonu, po izravnoj sklonosti. A u ljudima prema tome nema pojam zakona, nego je prije odstupanje od zakona razuma. Ali ukoliko je čovjek po božanskoj pravednosti lišen izvorne pravednosti i snage razuma, sam nagon osjetilnosti koji ga vodi ima pojam zakona, ukoliko je kazna i slijedi iz božanskoga zakona koji čovjeka lišava vlastite časti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q91.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj razlog govori o žarištu grijeha razmatranom po sebi, ukoliko naginje na zlo. Tako, naime, nema pojam zakona, kako je rečeno, nego ga ima ukoliko slijedi iz pravednosti božanskoga zakona; kao kad bi se reklo da je zakon to što se nekom plemiću zbog njegove krivnje dopušta da bude natjeran na ropske poslove.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q91.a6.ad2": {
+      "text": "Na drugo treba reći da taj prigovor govori o onome što je zakon kao pravilo i mjera: tako, naime, oni koji odstupaju od zakona postaju prijestupnici. Ali žarište grijeha nije zakon na taj način, nego po nekom sudjelovanju, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q91.a6.ad3": {
+      "text": "Na treće treba reći da taj razlog govori o žarištu grijeha s obzirom na njegovu vlastitu sklonost, a ne s obzirom na njegovo podrijetlo. Pa ipak, ako se sklonost osjetilnosti razmatra kakva je u drugim životinjama, tako je usmjerena prema općem dobru, to jest prema održavanju naravi u vrsti ili u pojedincu. I to je tako i u čovjeku, ukoliko je osjetilnost podložna razumu. Ali žarištem grijeha naziva se ukoliko izlazi iz reda razuma.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    }
+  }
+}

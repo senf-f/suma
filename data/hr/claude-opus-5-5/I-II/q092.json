@@ -1,0 +1,132 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 92,
+  "units": {
+    "I-II.q92.pr": {
+      "text": "Zatim treba razmotriti učinke zakona. I u vezi s tim pita se dvije stvari. Prvo, je li učinak zakona činiti ljude dobrima. Drugo, jesu li učinci zakona zapovijedati, zabranjivati, dopuštati i kažnjavati, kako kaže pravnik.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nije na zakonu da čini ljude dobrima. Ljudi su, naime, dobri po kreposti: krepost je, naime, ono što onoga tko je ima čini dobrim, kako se kaže u II. knjizi Etike. Ali krepost čovjek ima samo od Boga: on je, naime, čini u nama bez nas, kako je gore rečeno u definiciji kreposti. Dakle, nije na zakonu da čini ljude dobrima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a1.obj2": {
+      "text": "Osim toga, zakon čovjeku koristi samo ako se pokorava zakonu. Ali to samo što se čovjek pokorava zakonu dolazi od dobrote. Dakle, dobrota se u čovjeku zahtijeva prije zakona. Ne čini, dakle, zakon ljude dobrima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a1.obj3": {
+      "text": "Osim toga, zakon je usmjeren prema općem dobru, kako je gore rečeno. Ali neki se dobro vladaju u onome što pripada zajedničkome, a ipak se ne vladaju dobro u svojim vlastitim stvarima. Ne pripada, dakle, zakonu da čini ljude dobrima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a1.obj4": {
+      "text": "Osim toga, neki su zakoni tiranski, kako kaže Filozof u svojoj Politici. Ali tiranin ne smjera na dobrotu podložnika, nego samo na vlastitu korist. Nije, dakle, na zakonu da čini ljude dobrima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a1.sc": {
+      "text": "Ali protiv toga jest ono što kaže Filozof u II. knjizi Etike, da je *volja svakoga zakonodavca ova: da učini građane dobrima*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a1.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, zakon nije ništa drugo nego nalog razuma u onome tko predsjeda, kojim se upravlja podložnicima. A krepost je svakoga podložnika u tome da bude dobro podložan onomu tko njime upravlja; kao što vidimo da se krepost srdite i požudne moći sastoji u tome da se dobro pokoravaju razumu. I na taj je način *krepost svakoga podložnoga u tome da bude dobro podložan onomu tko vlada*, kako kaže Filozof u I. knjizi Politike. A svaki je zakon usmjeren k tome da mu se podložnici pokoravaju. Stoga je očito da je to vlastito zakonu: navoditi podložne na njihovu vlastitu krepost. Budući, dakle, da je krepost ono što onoga tko je ima čini dobrim, slijedi da je vlastiti učinak zakona činiti dobrima one kojima je dan, bilo naprosto bilo u nekom pogledu. Ako, naime, nakana onoga tko donosi zakon teži za istinskim dobrom, a to je opće dobro ravnano prema božanskoj pravednosti, slijedi da po zakonu ljudi postaju naprosto dobri. Ako pak nakana zakonodavca ide za onim što nije naprosto dobro, nego je njemu korisno ili ugodno, ili se protivi božanskoj pravednosti, tada zakon ne čini ljude dobrima naprosto, nego u nekom pogledu, naime s obzirom na takvu vladavinu. Na taj se način dobro nalazi i u onome što je po sebi zlo, kao što se za nekoga kaže da je dobar razbojnik, jer djeluje prikladno svojoj svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je krepost dvostruka, kako je jasno iz gore rečenoga, naime stečena i ulivena. Na obje pak nešto djeluje navikavanje na djela, ali na različit način: stečenu krepost, naime, uzrokuje, a za ulivenu krepost raspoložuje te je, kad je već imamo, čuva i unapređuje. A budući da se zakon daje zato da upravlja ljudskim činima, utoliko zakon čini ljude dobrima ukoliko ljudski čini djeluju prema kreposti. Stoga i Filozof kaže u II. knjizi Politike da *zakonodavci, navikavajući ljude, čine ih dobrima*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a1.ad2": {
+      "text": "Na drugo treba reći da se netko ne pokorava zakonu uvijek iz savršene dobrote kreposti, nego katkad iz straha od kazne, a katkad samo iz naloga razuma, koji je neko počelo kreposti, kako je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a1.ad3": {
+      "text": "Na treće treba reći da se dobrota svakoga dijela razmatra u razmjeru prema njegovoj cjelini; stoga i Augustin kaže u III. knjizi Ispovijesti da je *ružan svaki dio koji se ne slaže sa svojom cjelinom*. Budući, dakle, da je svaki čovjek dio države, nemoguće je da neki čovjek bude dobar ako nije dobro razmjeran općem dobru; a ni cjelina ne može dobro opstojati osim od dijelova koji su joj razmjerni. Stoga je nemoguće da opće dobro države bude u dobrom stanju ako građani nisu krepostni, barem oni kojima pristaje vladati. Što se pak tiče dobra zajednice, dostatno je da drugi budu krepostni utoliko da se pokoravaju zapovijedima vladarâ. I zato Filozof kaže u III. knjizi Politike da je *ista krepost vladara i dobroga čovjeka, ali nije ista krepost bilo kojega građanina i dobroga čovjeka*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a1.ad4": {
+      "text": "Na četvrto treba reći da tiranski zakon, budući da nije prema razumu, nije naprosto zakon, nego je prije neka izopačenost zakona. Pa ipak, ukoliko ima nešto od pojma zakona, smjera na to da građani budu dobri. Od pojma zakona, naime, ima samo to da je nalog nekoga tko predsjeda podložnicima i teži za tim da podložnici budu dobro poslušni zakonu; a to znači da su dobri, ne naprosto, nego s obzirom na takvu vladavinu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da čini zakona nisu prikladno navedeni time što se kaže da je čin zakona zapovijedati, zabranjivati, dopuštati i kažnjavati. Svaki je, naime, zakon opća zapovijed, kako kaže pravnik. Ali isto je zapovijedati (imperare) i nalagati (praecipere). Dakle, ostala su tri suvišna.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a2.obj2": {
+      "text": "Osim toga, učinak je zakona da navodi podložnike na dobro, kako je gore rečeno. Ali savjet se odnosi na veće dobro nego zapovijed. Dakle, zakonu više pripada savjetovati nego zapovijedati.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a2.obj3": {
+      "text": "Osim toga, kao što se neki čovjek potiče na dobro kaznama, tako i nagradama. Dakle, kao što se kažnjavanje navodi kao učinak zakona, tako bi i nagrađivanje.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a2.obj4": {
+      "text": "Osim toga, nakana je zakonodavca da ljude učini dobrima, kako je gore rečeno. Ali onaj tko se zakonu pokorava samo iz straha od kazni nije dobar; jer *iz ropskoga straha, koji je strah od kazni, premda tko čini dobro, ipak se ništa ne čini dobro*, kako kaže Augustin. Ne čini se, dakle, da je zakonu vlastito kažnjavati.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a2.sc": {
+      "text": "Ali protiv toga jest ono što kaže Izidor u V. knjizi Etimologija: *svaki zakon ili nešto dopušta, kao: neka hrabar muž traži nagradu. Ili zabranjuje, kao: nikome neka nije dopušteno tražiti brak s posvećenim djevicama. Ili kažnjava, kao: tko počini ubojstvo, neka bude kažnjen smrću*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je izjava nalog razuma na način izjavljivanja, tako je i zakon nalog razuma na način zapovijedanja. A razumu je vlastito da od nečega navodi na nešto. Stoga, kao što u dokaznim znanostima razum navodi na pristajanje uz zaključak preko nekih načela, tako i navodi na pristajanje uz zapovijed zakona preko nečega. A zapovijedi zakona odnose se na ljudske čine, u kojima zakon upravlja, kako je gore rečeno. Postoje pak tri razlike ljudskih čina. Jer, kako je gore rečeno, neki su čini dobri po rodu, a to su čini kreposti; i s obzirom na njih kao čin zakona navodi se nalagati ili zapovijedati: zakon, naime, nalaže sve čine kreposti, kako se kaže u V. knjizi Etike. Neki su pak čini zli po rodu, kao poročni čini; i s obzirom na njih zakonu pripada zabranjivati. Neki su pak čini po svom rodu indiferentni; i s obzirom na njih zakonu pripada dopuštati. A indiferentnima se mogu nazvati i svi oni čini koji su ili malo dobri ili malo zli. Ono pak čime zakon navodi na to da mu se pokorava jest strah od kazne; i s obzirom na to kao učinak zakona navodi se kažnjavati.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što prestajanje od zla ima neki pojam dobra, tako i zabrana ima neki pojam zapovijedi. I prema tome, uzimajući zapovijed u širokom smislu, zakon se općenito naziva zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a2.ad2": {
+      "text": "Na drugo treba reći da savjetovanje nije vlastiti čin zakona, nego može pripadati i privatnoj osobi, kojoj nije dano donositi zakon. Stoga je i Apostol u 1 Kor 7, kad je davao neki savjet, rekao: Ja kažem, ne Gospodin. I zato se ono ne navodi među učincima zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a2.ad3": {
+      "text": "Na treće treba reći da i nagrađivanje može pripadati bilo komu, ali kažnjavanje pripada samo služitelju zakona, čijim se autoritetom kazna izriče. I zato se nagrađivanje ne navodi kao čin zakona, nego samo kažnjavanje.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    },
+    "I-II.q92.a2.ad4": {
+      "text": "Na četvrto treba reći da time što se netko počinje navikavati da izbjegava zla i ispunja dobra zbog straha od kazne, katkad bude doveden do toga da to čini s nasladom i od vlastite volje. I prema tome zakon i kažnjavanjem dovodi do toga da ljudi budu dobri.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:57+00:00"
+    }
+  }
+}

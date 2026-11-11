@@ -1,0 +1,300 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 96,
+  "units": {
+    "I-II.q96.pr": {
+      "text": "Zatim valja razmotriti vlast ljudskoga zakona. I glede toga pita se šest stvari. Prvo, treba li ljudski zakon postavljati općenito. Drugo, treba li ljudski zakon obuzdavati sve poroke. Treće, ima li uređivati čine svih kreposti. Četvrto, nameće li čovjeku nužnost s obzirom na sud savjesti. Peto, jesu li svi ljudi podložni ljudskom zakonu. Šesto, smiju li oni koji su pod zakonom djelovati mimo riječi zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da ljudski zakon ne treba postavljati općenito, nego prije pojedinačno. Filozof, naime, kaže u V. knjizi Etike da je *zakonsko sve ono što zakonom postavljaju u pojedinačnim slučajevima; a također i presudbeno*, što je također pojedinačno, jer se presude donose o pojedinačnim činima. Dakle, zakon se ne postavlja samo općenito, nego i pojedinačno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a1.obj2": {
+      "text": "Osim toga, zakon upravlja ljudskim činima, kao što je gore rečeno. Ali ljudski se čini odnose na pojedinačno. Dakle, ljudske zakone ne treba donositi općenito, nego prije pojedinačno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a1.obj3": {
+      "text": "Osim toga, zakon je pravilo i mjera ljudskih čina, kao što je gore rečeno. Ali mjera mora biti posve izvjesna, kako se kaže u X. knjizi Metafizike. Budući, dakle, da u ljudskim činima ne može biti ničega općega izvjesnog što ne bi zatajilo u pojedinačnim slučajevima, čini se da zakone nužno treba postavljati ne općenito, nego pojedinačno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže pravnik: *prava treba ustanovljivati za ono što se češće događa, a na temelju onoga što se slučajno može dogoditi u jednom slučaju prava se ne ustanovljuju*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a1.resp": {
+      "text": "Odgovaram: treba reći da sve što postoji radi svrhe nužno mora biti razmjerno svrsi. Svrha je pak zakona opće dobro, jer, kako kaže Izidor u knjizi Etimologija, *zakon mora biti napisan ne radi ikakve privatne koristi, nego radi zajedničke koristi građana*. Stoga ljudski zakoni moraju biti razmjerni općem dobru. Opće se pak dobro sastoji od mnogo toga. I zato zakon mora imati u vidu mnogo toga, i s obzirom na osobe, i s obzirom na poslove, i s obzirom na vremena. Zajednica se države, naime, sastoji od mnogih osoba; i njezino se dobro pribavlja mnogostrukim radnjama; i nije ustanovljena samo zato da traje neko kratko vrijeme, nego da opstoji u svako vrijeme nasljeđivanjem građana, kako kaže Augustin u XXII. knjizi O Božjem gradu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozof u V. knjizi Etike postavlja tri dijela zakonski pravednoga, a to je pozitivno pravo. Ima, naime, nekih stvari koje se postavljaju naprosto općenito. I to su opći zakoni. I s obzirom na njih kaže da je *zakonsko ono za što u početku nije nimalo važno je li ovako ili drukčije, a kad se postavi, važno je*, na primjer da se zarobljenici otkupljuju po utvrđenoj cijeni. A neke su stvari opće u nekom pogledu, a pojedinačne u nekom pogledu. I takve se zovu povlastice, kao privatni zakoni, jer se odnose na pojedine osobe, a ipak se njihova vlast proteže na mnoge poslove. I s obzirom na to nadodaje: *nadalje sve ono što zakonom postavljaju u pojedinačnim slučajevima*. Neke se stvari zovu zakonskima ne zato što bi bile zakoni, nego zbog primjene općih zakona na neka pojedinačna djela; takve su presude, koje se smatraju pravom. I s obzirom na to nadodaje: i presudbeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a1.ad2": {
+      "text": "Na drugo treba reći da ono što upravlja mora upravljati mnogim stvarima; stoga Filozof u X. knjizi Metafizike kaže da se sve što pripada jednomu rodu mjeri nečim jednim, što je prvo u tome rodu. Kad bi, naime, bilo toliko pravila ili mjera koliko ima mjerenoga ili upravljanoga, prestala bi korist pravila ili mjere, a ona je u tome da se po jednome može spoznati mnogo toga. I tako ne bi bilo nikakve koristi od zakona kad se ne bi protezao ni na što drugo nego na jedan pojedinačni čin. Za upravljanje pojedinačnim činima, naime, daju se pojedinačni naputci razboritih, a zakon je opća zapovijed, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a1.ad3": {
+      "text": "Na treće treba reći da ne treba tražiti istu izvjesnost u svemu, kako se kaže u I. knjizi Etike. Stoga je u kontingentnim stvarima, kakve su prirodne i ljudske stvari, dostatna takva izvjesnost da je nešto istinito u većini slučajeva, iako katkad zataji u manjem broju slučajeva.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ljudskom zakonu pripada obuzdavati sve poroke. Izidor, naime, kaže u knjizi Etimologija da su *zakoni doneseni da se strahom od njih obuzda drskost*. A ne bi se dostatno obuzdala kad se zakonom ne bi obuzdavalo svako zlo. Dakle, ljudski zakon treba obuzdavati svako zlo.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a2.obj2": {
+      "text": "Osim toga, nakana je zakonodavca učiniti građane krepostnima. Ali nitko ne može biti krepostan ako ne bude suzdržan od svih poroka. Dakle, ljudskom zakonu pripada suzbijati sve poroke.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a2.obj3": {
+      "text": "Osim toga, ljudski se zakon izvodi iz naravnoga zakona, kao što je gore rečeno. Ali svi se poroci protive zakonu naravi. Dakle, ljudski zakon treba obuzdavati sve poroke.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u I. knjizi O slobodnoj volji: *čini mi se da taj zakon, koji se piše za upravljanje narodom, ispravno to dopušta, a da to kažnjava božanska providnost*. Ali božanska providnost kažnjava samo poroke. Dakle, ljudski zakon ispravno dopušta neke poroke ne obuzdavajući ih.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je već rečeno, zakon postavlja kao neko pravilo ili mjera ljudskih čina. A mjera mora biti istovrsna s mjerenim, kako se kaže u X. knjizi Metafizike, jer se različito mjeri različitim mjerama. Stoga i zakoni moraju biti nametnuti ljudima prema njihovu stanju, jer, kako kaže Izidor, *zakon mora biti moguć i po naravi i u skladu s običajem domovine*. Moć pak ili sposobnost djelovanja proizlazi iz unutarnjega habitusa ili raspoloživosti; jer nije isto moguće onome koji nema habitus kreposti i krepostnome, kao što ni djetetu i odraslu mužu nije moguće isto. I zbog toga se djeci ne postavlja isti zakon koji se postavlja odraslima; jer se djeci mnogo toga dopušta što se kod odraslih zakonom kažnjava ili barem kudi. I slično tome, mnogo toga treba dopustiti ljudima koji nisu savršeni u kreposti, što se ne bi smjelo podnositi kod krepostnih ljudi. Ljudski se pak zakon postavlja mnoštvu ljudi, u kojemu je veći dio ljudi koji nisu savršeni u kreposti. I zato se ljudskim zakonom ne zabranjuju svi poroci od kojih se krepostni uzdržavaju, nego samo teži, od kojih je moguće da se uzdrži veći dio mnoštva; i ponajprije oni koji idu na štetu drugih, bez čije se zabrane ljudsko društvo ne bi moglo održati, kao što se ljudskim zakonom zabranjuju ubojstva, krađe i takve stvari.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se čini da drskost spada na napadanje drugih. Stoga ponajprije spada na one grijehe kojima se nanosi nepravda bližnjima; a oni se zabranjuju ljudskim zakonom, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a2.ad2": {
+      "text": "Na drugo treba reći da ljudski zakon smjera ljude navesti na krepost ne odjednom, nego postupno. I zato mnoštvu nesavršenih ne nameće odmah ono što pripada već krepostnima, naime da se uzdrže od svakoga zla. Inače bi nesavršeni, ne mogavši podnijeti takve zapovijedi, provalili u gora zla, kao što se kaže u Izr 30: *tko previše useknjuje, izvlači krv*; i u Mt 9 kaže se da, ako se novo vino, to jest zapovijedi savršenoga života, ulije u stare mješine, to jest u nesavršene ljude, mješine pucaju i vino se prolijeva, to jest zapovijedi se preziru, a ljudi iz prezira provaljuju u gora zla.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a2.ad3": {
+      "text": "Na treće treba reći da je naravni zakon neko sudjelovanje vječnoga zakona u nama, a ljudski zakon zaostaje za vječnim zakonom. Augustin, naime, kaže u I. knjizi O slobodnoj volji: *taj zakon, koji se donosi za upravljanje državama, mnogo toga dopušta i ostavlja nekažnjenim, što kažnjava božanska providnost. Jer ne treba zato što ne čini sve kuditi ono što čini*. Stoga ni ljudski zakon ne može zabraniti sve što zabranjuje zakon naravi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ljudski zakon ne zapovijeda čine svih kreposti. Činima se kreposti, naime, protive poročni čini. Ali ljudski zakon ne zabranjuje sve poroke, kao što je rečeno. Dakle, ne zapovijeda ni čine svih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a3.obj2": {
+      "text": "Osim toga, čin kreposti proizlazi iz kreposti. Ali krepost je svrha zakona, i tako ono što je iz kreposti ne može potpasti pod zapovijed zakona. Dakle, ljudski zakon ne zapovijeda čine svih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a3.obj3": {
+      "text": "Osim toga, zakon je usmjeren prema općem dobru, kao što je rečeno. Ali neki čini kreposti nisu usmjereni prema općem dobru, nego prema privatnom dobru. Dakle, zakon ne zapovijeda čine svih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u V. knjizi Etike, da *zakon zapovijeda činiti djela jakoga, i ona umjerenoga, i ona blagoga; slično tako i prema drugim krepostima i zloćama, jedno nalažući, a drugo zabranjujući*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a3.resp": {
+      "text": "Odgovaram: treba reći da se vrste kreposti razlikuju prema predmetima, kao što je jasno iz rečenoga. A svi se predmeti kreposti mogu odnositi ili na privatno dobro neke osobe ili na opće dobro mnoštva; tako netko može izvršavati ono što pripada jakosti bilo radi očuvanja države, bilo radi zaštite prava svojega prijatelja; i slično je kod drugih. Zakon je pak, kao što je rečeno, usmjeren prema općem dobru. I zato nema nijedne kreposti o čijim činima zakon ne bi mogao zapovijedati. Ipak, ljudski zakon ne zapovijeda o svim činima svih kreposti, nego samo o onima koji se mogu usmjeriti prema općem dobru, bilo neposredno, kao kad se nešto čini izravno radi općega dobra, bilo posredno, kao kad zakonodavac uređuje nešto što spada na dobar odgoj, po kojemu se građani oblikuju da čuvaju opće dobro pravednosti i mira.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ljudski zakon ne zabranjuje sve poročne čine obvezom zapovijedi, kao što ni ne zapovijeda sve krepostne čine. Ipak zabranjuje neke čine pojedinih poroka, kao što i zapovijeda neke čine pojedinih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a3.ad2": {
+      "text": "Na drugo treba reći da se za neki čin kaže da je čin kreposti na dva načina. Na jedan način po tome što čovjek čini krepostne stvari, kao što je čin pravednosti činiti ispravno, a čin jakosti činiti ono što je hrabro. I tako zakon zapovijeda neke čine kreposti. Na drugi se način kaže čin kreposti zato što netko čini krepostne stvari na onaj način na koji čini krepostan čovjek. I takav čin uvijek proizlazi iz kreposti i ne potpada pod zapovijed zakona, nego je svrha do koje zakonodavac smjera dovesti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a3.ad3": {
+      "text": "Na treće treba reći da nema nijedne kreposti čiji se čini ne bi mogli usmjeriti prema općem dobru, kao što je rečeno, bilo posredno bilo neposredno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ljudski zakon ne nameće čovjeku nužnost na sudu savjesti. Niža, naime, vlast ne može nametnuti zakon u sudu više vlasti. Ali vlast čovjeka, koja donosi ljudski zakon, ispod je božanske vlasti. Dakle, ljudski zakon ne može nametnuti zakon s obzirom na božanski sud, a to je sud savjesti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a4.obj2": {
+      "text": "Osim toga, sud savjesti ponajviše ovisi o božanskim zapovijedima. Ali katkad se božanske zapovijedi dokidaju ljudskim zakonima, prema onome iz Mt 15: *dokinuli ste zapovijed Božju radi svojih predaja*. Dakle, ljudski zakon ne nameće čovjeku nužnost s obzirom na savjest.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a4.obj3": {
+      "text": "Osim toga, ljudski zakoni često nanose ljudima klevetu i nepravdu, prema onome iz Iz 10: *jao onima koji donose nepravedne zakone i koji pišući pišu nepravde, da tlače siromahe na sudu i da čine nasilje parnici poniznih iz mojega naroda*. Ali svakome je dopušteno izbjeći tlačenje i nasilje. Dakle, ljudski zakoni ne nameću čovjeku nužnost s obzirom na savjest.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1 Pt 2: *to je milost, ako tko radi savjesti podnosi žalosti trpeći nepravedno*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a4.resp": {
+      "text": "Odgovaram: treba reći da su zakoni koje su postavili ljudi ili pravedni ili nepravedni. Ako su pravedni, imaju snagu obvezivanja na sudu savjesti od vječnoga zakona, iz kojega se izvode, prema onome iz Izr 8: *po meni kraljevi kraljuju i zakonodavci određuju što je pravedno*. A zakoni se zovu pravednima i po svrsi, naime kad su usmjereni prema općem dobru; i po začetniku, naime kad doneseni zakon ne nadilazi vlast onoga koji ga donosi; i po formi, naime kad se podložnicima nameću tereti prema jednakosti razmjera u odnosu na opće dobro. Budući, naime, da je jedan čovjek dio mnoštva, svaki čovjek upravo ono što jest i što ima pripada mnoštvu, kao što i svaki dio ono što jest pripada cjelini. Stoga i narav nanosi neku štetu dijelu da bi spasila cjelinu. I prema tome su takvi zakoni, koji razmjerno nameću terete, pravedni i obvezuju na sudu savjesti, i jesu zakoniti zakoni. Nepravedni su pak zakoni na dva načina. Na jedan način, zbog protivnosti ljudskom dobru, suprotno onome što je rečeno: ili po svrsi, kao kad neki poglavar nameće podložnicima teške zakone koji ne služe zajedničkoj koristi, nego prije njegovoj vlastitoj žudnji ili slavi; ili također po začetniku, kao kad netko donosi zakon preko vlasti koja mu je povjerena; ili također po formi, na primjer kad se tereti nejednako raspoređuju na mnoštvo, čak i ako su usmjereni prema općem dobru. I takvi su više nasilja nego zakoni, jer, kako kaže Augustin u knjizi O slobodnoj volji, *ne čini se da je zakon ono što nije pravedno*. Stoga takvi zakoni ne obvezuju na sudu savjesti, osim možda radi izbjegavanja sablazni ili nemira, zbog čega čovjek mora odstupiti i od svojega prava, prema onome iz Mt 5: *tko te prisili da ideš s njim tisuću koraka, idi s njim još dvije; i tko ti uzme haljinu, daj mu i plašt*. Na drugi način zakoni mogu biti nepravedni zbog protivnosti božanskom dobru, kao zakoni tirana koji navode na idolopoklonstvo ili na bilo što drugo što je protiv božanskoga zakona. I takve zakone ni na koji način nije dopušteno obdržavati, jer, kako se kaže u Dj 5, *treba se većma pokoravati Bogu nego ljudima*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što kaže Apostol u Rim 13, *svaka je ljudska vlast od Boga, i zato tko se protivi vlasti*, u onome što pripada redu vlasti, protivi se Božjem uređenju. I prema tome postaje kriv s obzirom na savjest.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a4.ad2": {
+      "text": "Na drugo treba reći da onaj razlog vrijedi za ljudske zakone koji su usmjereni protiv Božje zapovijedi. A na to se red vlasti ne proteže. Stoga se u takvim stvarima ne treba pokoravati ljudskom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a4.ad3": {
+      "text": "Na treće treba reći da onaj razlog vrijedi za zakon koji nanosi nepravedan teret podložnicima, a na to se ne proteže ni red vlasti koji je od Boga dan. Stoga u takvim stvarima čovjek nije obvezan pokoravati se zakonu, ako se može oduprijeti bez sablazni ili veće štete.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da nisu svi podložni zakonu. Zakonu su, naime, podložni samo oni kojima je zakon postavljen. Ali Apostol kaže u 1 Tim 1 da *pravedniku nije postavljen zakon*. Dakle, pravednici nisu podložni ljudskom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a5.obj2": {
+      "text": "Osim toga, papa Urban kaže, a nalazi se u Dekretima, XIX, pit. 2: *onoga koji je vođen privatnim zakonom nikakav razlog ne zahtijeva da ga se sputava javnim*. Privatnim su pak zakonom Duha Svetoga vođeni svi duhovni ljudi, koji su sinovi Božji, prema onome iz Rim 8: *koji su vođeni Duhom Božjim, ti su sinovi Božji*. Dakle, nisu svi ljudi podložni ljudskom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a5.obj3": {
+      "text": "Osim toga, pravnik kaže da je vladar oslobođen zakona. A tko je oslobođen zakona, nije podložan zakonu. Dakle, nisu svi podložni zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Rim 13: *svaka duša neka bude podložna višim vlastima*. Ali ne čini se da je podložan vlasti onaj koji nije podložan zakonu koji donosi vlast. Dakle, svi ljudi moraju biti podložni ljudskom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a5.resp": {
+      "text": "Odgovaram: treba reći da, kao što je jasno iz rečenoga, zakon po svojem pojmu ima dvije stvari: prvo, da je pravilo ljudskih čina; drugo, da ima prisilnu snagu. Neki, dakle, čovjek može biti podložan zakonu na dva načina. Na jedan način, kao upravljano pravilu. I na taj su način svi oni koji su podložni vlasti podložni zakonu koji donosi vlast. A da netko nije podložan vlasti, može se dogoditi na dva načina. Na jedan način, zato što je naprosto oslobođen podložnosti njoj. Stoga oni koji pripadaju jednoj državi ili kraljevstvu nisu podložni zakonima vladara druge države ili kraljevstva, kao ni njegovu gospodstvu. Na drugi način, ukoliko se ravna po višem zakonu. Na primjer, ako je netko podložan prokonzulu, mora se ravnati po njegovoj naredbi, ali ne u onome u čemu mu car daje oprost; jer u tome ga ne obvezuje naredba nižega, budući da se upravlja po višoj naredbi. I prema tome se događa da netko tko je naprosto podložan zakonu u nekim stvarima nije obvezan zakonom, naime u onima u kojima se ravna po višem zakonu. Na drugi se pak način kaže da je netko podložan zakonu kao prisiljeni onome koji prisiljava. I na taj način krepostni i pravedni ljudi nisu podložni zakonu, nego samo zli. Ono što je, naime, prisiljeno i nasilno protivno je volji. A volja se dobrih slaže sa zakonom, s kojim se volja zlih ne slaže. I zato prema tome dobri nisu pod zakonom, nego samo zli.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj razlog vrijedi za podložnost koja je na način prisile. Tako, naime, pravedniku nije postavljen zakon, jer su oni sami sebi zakon, budući da pokazuju djelo zakona upisano u svojim srcima, kao što kaže Apostol u Rim 2. Stoga nad njima zakon nema prisilnu snagu kao što je ima nad nepravednima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a5.ad2": {
+      "text": "Na drugo treba reći da je zakon Duha Svetoga iznad svakoga zakona koji su postavili ljudi. I zato duhovni ljudi, ukoliko su vođeni zakonom Duha Svetoga, nisu podložni zakonu u onome što se protivi vodstvu Duha Svetoga. Ali ipak i samo to pripada vodstvu Duha Svetoga da duhovni ljudi budu podložni ljudskim zakonima, prema onome iz 1 Pt 2: *budite podložni svakomu ljudskom stvorenju radi Boga*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a5.ad3": {
+      "text": "Na treće treba reći da se kaže da je vladar oslobođen zakona s obzirom na prisilnu snagu zakona, jer nitko u vlastitom smislu ne biva prisiljen od samoga sebe; a zakon nema prisilnu snagu osim od vladareve vlasti. Tako se, dakle, kaže da je vladar oslobođen zakona jer nitko ne može protiv njega izreći osuđujuću presudu ako postupa protiv zakona. Stoga uz ono iz Ps 50, *tebi samomu sagriješih* itd., Glosa kaže da *zakon nema čovjeka koji bi prosudio njegova djela*. Ali s obzirom na upravljačku snagu zakona, vladar je podložan zakonu vlastitom voljom, prema onome što se kaže u Izvanjskim dekretalima, O uredbama, pogl. Cum omnes: *koje pravo tko ustanovi za drugoga, mora se i sam služiti istim pravom. I autoritet mudraca kaže: podnosi zakon koji si sam donio*. Gospodin također kori one koji govore, a ne čine, i koji drugima nameću teška bremena, a sami ih ni prstom ne žele maknuti, kako se nalazi u Mt 23. Stoga s obzirom na Božji sud vladar nije oslobođen zakona s obzirom na njegovu upravljačku snagu, nego ga mora ispunjati voljno, a ne prisiljen. Vladar je također iznad zakona ukoliko, ako bude probitačno, može zakon promijeniti i dati oprost od njega, prema mjestu i vremenu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da onome koji je podložan zakonu nije dopušteno djelovati mimo riječi zakona. Augustin, naime, kaže u knjizi O pravoj religiji: *kod vremenitih zakona, iako ljudi o njima sude kad ih ustanovljuju, ipak kad budu ustanovljeni i potvrđeni, neće biti dopušteno suditi o njima, nego prema njima*. Ali ako netko zanemari riječi zakona, govoreći da čuva nakanu zakonodavca, čini se da sudi o zakonu. Dakle, onome koji je podložan zakonu nije dopušteno zanemariti riječi zakona da bi sačuvao nakanu zakonodavca.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a6.obj2": {
+      "text": "Osim toga, tumačiti zakone pripada samo onome komu pripada donositi zakone. Ali ljudima koji su podložni zakonu ne pripada donositi zakone. Dakle, njima ne pripada tumačiti nakanu zakonodavca, nego uvijek moraju djelovati prema riječima zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a6.obj3": {
+      "text": "Osim toga, svaki mudar čovjek zna svoju nakanu izraziti riječima. Ali one koji su donijeli zakone treba smatrati mudrima, jer mudrost kaže u Izr 8: *po meni kraljevi kraljuju i zakonodavci određuju što je pravedno*. Dakle, o nakani zakonodavca ne treba suditi drukčije nego po riječima zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Hilarije u IV. knjizi O Trojstvu: *razumijevanje rečenoga treba uzimati iz razloga zbog kojih je rečeno, jer ne treba stvar biti podložna govoru, nego govor stvari*. Dakle, više treba paziti na razlog koji je pokrenuo zakonodavca nego na same riječi zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a6.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je gore rečeno, svaki zakon usmjeren prema zajedničkom spasu ljudi, i utoliko dobiva snagu i pojam zakona; a ukoliko u tome zakaže, nema snagu obvezivanja. Stoga pravnik kaže da *nikakav pravni razlog ni dobrohotnost pravičnosti ne dopuštaju da ono što je spasonosno uvedeno na korist ljudi strožim tumačenjem, protiv njihove koristi, dovedemo do okrutnosti*. Mnogo se puta pak događa da je obdržavanje nečega korisno za zajednički spas u većini slučajeva, a ipak je u nekim slučajevima veoma štetno. Budući, dakle, da zakonodavac ne može uočiti sve pojedinačne slučajeve, postavlja zakon prema onome što se događa u većini slučajeva, upravljajući svoju nakanu prema zajedničkoj koristi. Stoga ako iskrsne slučaj u kojemu je obdržavanje takvoga zakona štetno za zajednički spas, ne treba ga obdržavati. Na primjer, ako se u opsjednutom gradu postavi zakon da gradska vrata ostanu zatvorena, to je korisno za zajednički spas u većini slučajeva; ali ako se dogodi slučaj da neprijatelji progone neke građane po kojima se grad održava, bilo bi gradu najpogubnije kad im se vrata ne bi otvorila; i zato bi u takvom slučaju trebalo otvoriti vrata, protiv riječi zakona, da bi se sačuvala zajednička korist, na koju smjera zakonodavac. No ipak treba uzeti u obzir ovo: ako obdržavanje zakona prema riječima ne uključuje iznenadnu opasnost kojoj treba odmah doskočiti, ne pripada bilo komu da tumači što je korisno gradu a što nekorisno, nego to pripada samo vladarima, koji zbog takvih slučajeva imaju autoritet davati oprost od zakona. Ako je pak opasnost iznenadna i ne trpi toliko odgađanje da bi se moglo obratiti višemu, sama nužnost ima sa sobom povezan oprost, jer nužnost nije podložna zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj koji u slučaju nužnosti djeluje mimo riječi zakona ne sudi o samome zakonu, nego sudi o pojedinačnom slučaju, u kojemu vidi da ne treba obdržavati riječi zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a6.ad2": {
+      "text": "Na drugo treba reći da onaj koji slijedi nakanu zakonodavca ne tumači zakon naprosto, nego u slučaju u kojemu je očito, po očevidnosti štete, da je zakonodavac smjerao na nešto drugo. Ako je, naime, dvojbeno, mora ili djelovati prema riječima zakona ili se posavjetovati s višima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q96.a6.ad3": {
+      "text": "Na treće treba reći da ničija mudrost nije tolika da bi mogla smisliti sve pojedinačne slučajeve, i zato ne može dostatno izraziti svojim riječima ono što odgovara namjeravanoj svrsi. A kad bi zakonodavac i mogao razmotriti sve slučajeve, ne bi trebalo da ih sve izrazi, kako bi se izbjegla zbrka, nego bi morao donijeti zakon prema onome što se događa u većini slučajeva.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    }
+  }
+}

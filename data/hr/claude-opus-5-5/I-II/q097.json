@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 97,
+  "units": {
+    "I-II.q97.pr": {
+      "text": "Zatim treba razmotriti promjenu zakona. I o tome se pitaju četiri stvari. Prvo, je li ljudski zakon promjenljiv. Drugo, treba li ga uvijek mijenjati kad se pojavi nešto bolje. Treće, ukida li se običajem i dobiva li običaj snagu zakona. Četvrto, treba li uporabu ljudskog zakona mijenjati oprostom koji daju upravitelji.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se ljudski zakon nipošto ne bi smio mijenjati. Ljudski se zakon, naime, izvodi iz naravnog zakona, kao što je gore rečeno. Ali naravni zakon ostaje nepomičan. Dakle, i ljudski zakon mora ostati nepomičan.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a1.obj2": {
+      "text": "Osim toga, kao što kaže Filozof u V. knjizi Etike, mjera ponajviše mora biti trajna. Ali ljudski je zakon mjera ljudskih čina, kao što je gore rečeno. Dakle, mora ostati nepomično.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a1.obj3": {
+      "text": "Osim toga, pojmu zakona pripada da bude pravedan i ispravan, kao što je gore rečeno. Ali ono što je jednom ispravno, uvijek je ispravno. Dakle, ono što je jednom zakon, uvijek mora biti zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u I. knjizi O slobodnoj volji: *vremeniti zakon, premda je pravedan, ipak se s vremenom može pravedno mijenjati*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je gore rečeno, ljudski zakon neki nalog razuma kojim se upravljaju ljudski čini. Prema tome mogu postojati dva razloga zbog kojih se ljudski zakon pravedno mijenja: jedan sa strane razuma, a drugi sa strane ljudi čiji se čini zakonom ravnaju. Sa strane razuma zato što se čini da je ljudskom razumu naravno da postupno dolazi od nesavršenoga k savršenome. Zato vidimo u spekulativnim znanostima da su oni koji su prvi filozofirali predali neke nesavršene stvari, koje su poslije njihovi nasljednici više usavršili. Tako je i u onome što treba činiti. Jer prvi koji su nastojali pronaći nešto korisno za zajednicu ljudi, ne mogavši sami od sebe sve razmotriti, ustanovili su neke nesavršene odredbe, manjkave u mnogo čemu, koje su kasniji promijenili, ustanovivši druge koje bi u manje slučajeva mogle odstupiti od opće koristi. A sa strane ljudi čiji se čini zakonom ravnaju, zakon se ispravno može mijenjati zbog promjene ljudskih prilika, jer ljudima, prema njihovim različitim prilikama, koriste različite stvari. Tako Augustin u I. knjizi O slobodnoj volji navodi primjer: *ako je narod dobro uređen i ozbiljan te najbrižniji čuvar opće koristi, ispravno se donosi zakon kojim se takvu narodu dopušta da sam sebi bira dužnosnike po kojima će se upravljati državom. Ali ako se taj isti narod malo-pomalo pokvari, pa mu glas postane potkupljiv, i vlast povjeri opakima i zločincima, ispravno se takvu narodu oduzima vlast dodjeljivanja časti, i ona se vraća na odluku nekolicine dobrih*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je naravni zakon neko sudjelovanje u vječnom zakonu, kao što je gore rečeno, i zato ostaje nepomičan, što ima od nepomičnosti i savršenosti božanskoga razuma koji ustanovljuje narav. Ali ljudski je razum promjenljiv i nesavršen. I zato je njegov zakon promjenljiv. Osim toga, naravni zakon sadrži neke opće zapovijedi koje uvijek ostaju, dok zakon što ga postavlja čovjek sadrži neke posebne zapovijedi, prema različitim slučajevima koji iskrsavaju.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a1.ad2": {
+      "text": "Na drugo treba reći da mjera mora biti trajna koliko je moguće. Ali u promjenljivim stvarima ne može biti ničega što bi ostajalo posve nepromjenljivo. I zato ljudski zakon ne može biti posve nepromjenljiv.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a1.ad3": {
+      "text": "Na treće treba reći da se ispravno u tjelesnim stvarima kaže apsolutno, i zato, koliko je do njega, uvijek ostaje ispravno. Ali ispravnost zakona kaže se s obzirom na opću korist, s kojom nije uvijek razmjerna jedna te ista stvar, kao što je gore rečeno. I zato se takva ispravnost mijenja.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ljudski zakon uvijek treba mijenjati kad se pojavi nešto bolje. Ljudski su zakoni, naime, pronađeni ljudskim razumom, kao i druga umijeća. Ali u drugim umijećima mijenja se ono čega se prije držalo ako se pojavi nešto bolje. Dakle, isto treba činiti i u ljudskim zakonima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a2.obj2": {
+      "text": "Osim toga, iz onoga što je prošlo možemo predviđati ono što će biti. Ali da se ljudski zakoni nisu mijenjali kad su se pojavila bolja otkrića, slijedile bi mnoge neprikladnosti, jer se nalazi da drevni zakoni sadrže mnoge grubosti. Dakle, čini se da zakone treba mijenjati kad god se pojavi nešto bolje što bi valjalo ustanoviti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a2.obj3": {
+      "text": "Osim toga, ljudski se zakoni ustanovljuju o pojedinačnim ljudskim činima. A u pojedinačnome ne možemo steći savršenu spoznaju osim iskustvom, kojemu je potrebno vrijeme, kako se kaže u II. knjizi Etike. Dakle, čini se da se s protjecanjem vremena može pojaviti nešto bolje što bi valjalo ustanoviti.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Dekretima, 12. distinkcija: *smiješno je i dosta odvratna sramota da dopuštamo da se krše predaje koje smo od davnine primili od otaca*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, ljudski zakon utoliko ispravno mijenja ukoliko se njegovom promjenom skrbi za opću korist. Ali sama promjena zakona, koliko je do nje, nosi neku štetu općoj dobrobiti. Jer za obdržavanje zakona ponajviše vrijedi običaj, toliko da se ono što se čini protiv općeg običaja, makar samo po sebi bilo lakše, čini težim. Zato kad se zakon mijenja, umanjuje se obvezujuća snaga zakona, ukoliko se ukida običaj. I zato se ljudski zakon nikad ne smije mijenjati osim ako se općoj dobrobiti s neke druge strane nadoknadi onoliko koliko joj se s ove strane oduzima. To se pak događa ili zato što iz nove odredbe proizlazi neka vrlo velika i posve očita korist, ili zato što postoji krajnja nužda, jer uobičajeni zakon ili sadrži očitu nepravednost ili je njegovo obdržavanje vrlo štetno. Zato pravnik kaže: *pri ustanovljivanju novih stvari korist mora biti očita da bi se odstupilo od onoga prava koje se dugo smatralo pravičnim*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono što pripada umijeću ima učinkovitost samo od razuma, i zato, gdje god se pojavi bolji razlog, treba mijenjati ono čega se prije držalo. *Ali zakoni najveću snagu imaju od običaja*, kao što kaže Filozof u II. knjizi Politike. I zato ih ne treba olako mijenjati.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a2.ad2": {
+      "text": "Na drugo treba reći da taj razlog zaključuje da zakone treba mijenjati, ali ne radi bilo kakva poboljšanja, nego radi velike koristi ili nužde, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a2.ad3": {
+      "text": "I slično treba reći na treće.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da običaj ne može dobiti snagu zakona niti ukloniti zakon. Ljudski se zakon, naime, izvodi iz zakona naravi i iz božanskog zakona, kao što je jasno iz prije rečenoga. Ali običaj ljudi ne može promijeniti zakon naravi ni božanski zakon. Dakle, ne može promijeniti ni ljudski zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a3.obj2": {
+      "text": "Osim toga, od mnogih zala ne može nastati jedno dobro. Ali onaj koji prvi počne djelovati protiv zakona, čini zlo. Dakle, kad se umnože slični čini, neće nastati nikakvo dobro. A zakon je neko dobro, jer je pravilo ljudskih čina. Dakle, običajem se ne može ukloniti zakon tako da sam običaj dobije snagu zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a3.obj3": {
+      "text": "Osim toga, donositi zakon pripada javnim osobama, kojima pripada upravljati zajednicom; zato privatne osobe ne mogu stvarati zakon. Ali običaj jača činima privatnih osoba. Dakle, običaj ne može dobiti snagu zakona kojom bi se zakon uklonio.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u Pismu Kasulanu: *običaj naroda Božjega i ustanove predaka treba držati kao zakon. I kao što treba obuzdavati prekršitelje božanskih zakona, tako i one koji preziru crkvene običaje*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a3.resp": {
+      "text": "Odgovaram: treba reći da svaki zakon proizlazi iz razuma i volje zakonodavca: božanski i naravni zakon iz razumne Božje volje, a ljudski zakon iz čovjekove volje ravnane razumom. A kao što se razum i volja čovjeka u onome što treba činiti očituju riječju, tako se očituju i djelom: čini se, naime, da svatko izabire kao dobro ono što ostvaruje djelom. A očito je da se ljudskom riječju zakon može i promijeniti i protumačiti, ukoliko ona očituje unutarnji pokret i zamisao ljudskoga razuma. Zato se i činima, osobito umnoženima, koji stvaraju običaj, zakon može promijeniti i protumačiti, pa i prouzročiti nešto što dobiva snagu zakona, ukoliko se, naime, umnoženim vanjskim činima najdjelotvornije izražava unutarnji pokret volje i zamisao razuma; jer kad se nešto čini mnogo puta, čini se da proizlazi iz promišljena suda razuma. I prema tome običaj i ima snagu zakona, i ukida zakon, i tumač je zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da naravni i božanski zakon proizlazi iz božanske volje, kao što je rečeno. Zato se ne može promijeniti običajem koji proizlazi iz čovjekove volje, nego bi se mogao promijeniti samo božanskim autoritetom. I odatle je da nikakav običaj ne može dobiti snagu protiv božanskog zakona ili naravnog zakona; Izidor, naime, kaže u Sinonimima: *neka se običaj povuče pred autoritetom, a izopačeni običaj neka nadvladaju zakon i razum*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a3.ad2": {
+      "text": "Na drugo treba reći da, kao što je gore rečeno, ljudski zakoni u nekim slučajevima zakazuju; zato je katkad moguće djelovati mimo zakona, naime u slučaju u kojem zakon zakazuje, a ipak čin neće biti zao. I kad se takvi slučajevi umnože zbog neke promjene u ljudima, tada se običajem očituje da zakon više nije koristan, kao što bi se očitovalo i kad bi se riječju proglasio protivan zakon. Ako pak još ostaje isti razlog zbog kojega je prvi zakon bio koristan, ne nadvladava običaj zakon, nego zakon običaj; osim možda ako se zakon čini nekorisnim samo zato što nije moguć prema običaju domovine, što je bio jedan od uvjeta zakona. Teško je, naime, ukloniti običaj mnoštva.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a3.ad3": {
+      "text": "Na treće treba reći da mnoštvo u kojem se uvodi običaj može biti dvojakog stanja. Ako je to, naime, slobodno mnoštvo, koje može samo sebi stvarati zakon, više vrijedi pristanak cijelog mnoštva da se nešto obdržava, koji običaj očituje, nego autoritet vladara, koji nema vlast donositi zakon osim ukoliko zastupa osobu mnoštva. Zato, premda pojedine osobe ne mogu donositi zakon, ipak cijeli narod može donositi zakon. Ako pak mnoštvo nema slobodnu vlast da samo sebi donosi zakon ili da uklanja zakon postavljen od više vlasti, ipak sam običaj koji u takvu mnoštvu prevlada dobiva snagu zakona ukoliko ga trpe oni kojima pripada nametati zakon mnoštvu; time se, naime, čini da odobravaju ono što je običaj uveo.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da upravitelji mnoštva ne mogu davati oprost u ljudskim zakonima. Zakon je, naime, ustanovljen radi opće koristi, kao što kaže Izidor. Ali opće dobro ne smije se zanemariti radi privatne koristi neke osobe, jer, kako kaže Filozof u I. knjizi Etike, *dobro naroda božanskije je od dobra jednoga čovjeka*. Dakle, čini se da se nikome ne smije davati oprost da djeluje protiv općeg zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a4.obj2": {
+      "text": "Osim toga, onima koji su postavljeni nad drugima zapovijeda se u Pnz 1: *saslušat ćete maloga kao i velikoga, i nećete gledati ni na čiju osobu, jer je sud Božji*. Ali čini se da je pristranost prema osobama dopustiti nekome ono što se svima općenito uskraćuje. Dakle, upravitelji mnoštva ne mogu davati takve oproste, jer je to protiv zapovijedi božanskog zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a4.obj3": {
+      "text": "Osim toga, ljudski zakon, ako je ispravan, mora se slagati s naravnim zakonom i s božanskim zakonom; inače se ne bi slagao s religijom niti bi pristajao stezi, što se zahtijeva za zakon, kao što kaže Izidor. Ali u božanskom i naravnom zakonu nijedan čovjek ne može davati oprost. Dakle, ni u ljudskom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u 1 Kor 9: *povjereno mi je upraviteljstvo*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a4.resp": {
+      "text": "Odgovaram: treba reći da oprost (dispensatio) u vlastitom smislu podrazumijeva odmjeravanje nečega općeg prema pojedinostima; zato se i upravitelj kućanstva naziva dispensator, ukoliko svakome u kućanstvu s težinom i mjerom raspodjeljuje i poslove i ono što je potrebno za život. Tako se, dakle, i u bilo kojem mnoštvu kaže da netko daje oprost po tome što određuje kako pojedinci trebaju ispuniti neku opću zapovijed. Događa se pak katkad da neka zapovijed koja je u većini slučajeva na korist mnoštvu nije prikladna za ovu osobu ili u ovom slučaju, jer bi se time ili spriječilo nešto bolje ili bi se čak uvelo neko zlo, kao što je jasno iz prije rečenoga. Bilo bi pak opasno da se to prepusti sudu bilo koga, osim možda zbog očite i iznenadne opasnosti, kao što je gore rečeno. I zato onaj koji ima upravljati mnoštvom ima vlast davati oprost u ljudskom zakonu koji se oslanja na njegov autoritet, naime da osobama ili u slučajevima u kojima zakon zakazuje dade dopuštenje da se zapovijed zakona ne obdržava. Ako pak dade dopuštenje bez toga razloga, samo po svojoj volji, neće biti vjeran u davanju oprosta, ili će biti nerazborit: nevjeran ako nema nakane prema općem dobru, a nerazborit ako ne zna razlog za davanje oprosta. Zbog toga Gospodin kaže u Lk 12: *Što misliš, tko je vjeran i razborit upravitelj kojega je gospodar postavio nad svojim kućanstvom?*",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kad se nekome daje oprost da ne obdržava opći zakon, to se ne smije činiti na štetu općeg dobra, nego s nakanom da to koristi općem dobru.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a4.ad2": {
+      "text": "Na drugo treba reći da nije pristranost prema osobama ako se prema nejednakim osobama ne obdržava jednakost. Zato, kad stanje neke osobe zahtijeva da se prema njoj razložno nešto posebno obdržava, nije pristranost prema osobama ako joj se iskaže neka posebna povlastica.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q97.a4.ad3": {
+      "text": "Na treće treba reći da naravni zakon, ukoliko sadrži opće zapovijedi koje nikad ne zakazuju, ne može primiti oprost. A u drugim zapovijedima, koje su kao zaključci iz općih zapovijedi, čovjek katkad daje oprost, primjerice da se zajam ne vrati izdajici domovine, ili nešto slično. Prema božanskom se zakonu pak svaki čovjek odnosi kao privatna osoba prema javnom zakonu kojemu je podložna. Zato, kao što u ljudskom javnom zakonu ne može davati oprost nitko osim onoga od kojega zakon ima autoritet, ili onoga kome on to povjeri, tako u zapovijedima božanskog prava, koje su od Boga, nitko ne može davati oprost osim Boga, ili onoga kome bi on to posebno povjerio.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    }
+  }
+}

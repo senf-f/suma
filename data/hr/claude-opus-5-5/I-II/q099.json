@@ -1,0 +1,300 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 99,
+  "units": {
+    "I-II.q99.pr": {
+      "text": "Zatim treba razmotriti zapovijedi Staroga zakona. I to prvo, njihovo razlikovanje; drugo, svaki od razlikovanih rodova. Glede prvoga pita se šest stvari. Prvo, ima li Stari zakon više zapovijedi ili samo jednu. Drugo, sadrži li Stari zakon neke moralne zapovijedi. Treće, sadrži li osim moralnih i obredne. Četvrto, sadrži li osim njih i sudske. Peto, sadrži li osim tih triju još neke druge. Šesto, o načinu na koji je zakon navodio na obdržavanje navedenih zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da Stari zakon ne sadrži nego samo jednu zapovijed. Zakon, naime, nije ništa drugo nego zapovijed, kao što je gore utvrđeno. Ali Stari je zakon jedan. Dakle, ne sadrži nego jednu zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a1.obj2": {
+      "text": "Osim toga, Apostol kaže u Rim 13: *ako postoji koja druga zapovijed, sažeta je u ovoj riječi: ljubi bližnjega svoga kao samoga sebe*. Ali ta je zapovijed jedna. Dakle, Stari zakon ne sadrži nego jednu zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a1.obj3": {
+      "text": "Osim toga, u Mt 7 se kaže: *sve što želite da vama čine ljudi, činite i vi njima; to je, naime, Zakon i Proroci*. Ali sav je Stari zakon sadržan u Zakonu i Prorocima. Dakle, sav Stari zakon nema nego jednu zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a1.sc": {
+      "text": "Ali protiv toga je ono što Apostol kaže u Ef 2: *dokinuvši odredbama zakon zapovijedi*. A govori o Starom zakonu, kao što je jasno iz Glose na tom mjestu. Dakle, Stari zakon sadrži u sebi mnoge zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a1.resp": {
+      "text": "Odgovaram: treba reći da je zapovijed zakona, budući da obvezuje, o nečemu što se treba činiti. A to da se nešto treba činiti proizlazi iz nužnosti neke svrhe. Stoga je očito da pojmu zapovijedi pripada da uključuje usmjerenost prema svrsi, naime utoliko što se zapovijeda ono što je nužno ili probitačno za svrhu. A događa se da je za jednu svrhu mnogo toga nužno ili probitačno. I prema tome mogu se davati zapovijedi o različitim stvarima ukoliko su usmjerene prema jednoj svrsi. Stoga treba reći da su sve zapovijedi Staroga zakona jedno prema usmjerenosti prema jednoj svrsi, ali su ipak mnoge prema različitosti onoga što je usmjereno prema toj svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za Stari zakon kaže da je jedan prema usmjerenosti prema jednoj svrsi, a ipak sadrži različite zapovijedi prema razlikovanju onoga što usmjeruje prema svrsi. Kao što je i graditeljsko umijeće jedno po jedinstvu svrhe, jer teži za gradnjom kuće, ali ipak sadrži različite zapovijedi prema različitim činima koji su k tome usmjereni.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a1.ad2": {
+      "text": "Na drugo treba reći da je, kao što Apostol kaže u 1 Tim 1, *svrha zapovijedi ljubav*; sav, naime, zakon teži k tome da uspostavi prijateljstvo bilo ljudi međusobno, bilo čovjeka s Bogom. I zato se sav zakon ispunja u ovoj jednoj zapovijedi: *ljubi bližnjega svoga kao samoga sebe*, kao u nekoj svrsi svih zapovijedi; u ljubavi prema bližnjemu, naime, uključena je i ljubav prema Bogu, kad se bližnji ljubi radi Boga. Stoga je Apostol postavio ovu jednu zapovijed umjesto dviju koje se odnose na ljubav prema Bogu i prema bližnjemu, o kojima Gospodin kaže u Mt 22: *o ovim dvjema zapovijedima visi sav Zakon i Proroci*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a1.ad3": {
+      "text": "Na treće treba reći da, kao što se kaže u IX. knjizi Etike, *prijateljski odnosi prema drugome proizašli su iz prijateljskih odnosa koje čovjek ima prema samome sebi*, naime kad se čovjek prema drugome odnosi kao prema sebi. I zato se u onome što se kaže: *sve što želite da vama čine ljudi, činite i vi njima*, izlaže neko pravilo ljubavi prema bližnjemu, koje je implicitno sadržano i u onome što se kaže: *ljubi bližnjega svoga kao samoga sebe*. Stoga je to neko izlaganje te zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Stari zakon ne sadrži moralne zapovijedi. Stari se zakon, naime, razlikuje od zakona naravi, kao što je gore utvrđeno. Ali moralne zapovijedi pripadaju zakonu naravi. Dakle, ne pripadaju Starom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a2.obj2": {
+      "text": "Osim toga, božanski je zakon trebao priteći u pomoć čovjeku ondje gdje ljudski razum zakazuje, kao što je jasno u onome što pripada vjeri, što je iznad razuma. Ali čini se da je za moralne zapovijedi ljudski razum dostatan. Dakle, moralne zapovijedi ne pripadaju Starom zakonu, koji je božanski zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a2.obj3": {
+      "text": "Osim toga, za Stari se zakon kaže da je slovo koje ubija, kao što je jasno iz 2 Kor 3. Ali moralne zapovijedi ne ubijaju, nego oživljuju, prema onome iz Ps 118: *dovijeka neću zaboraviti opravdanja tvoja, jer si me njima oživio*. Dakle, moralne zapovijedi ne pripadaju Starom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Sir 17: *dodao im je stegu i dao im u baštinu zakon života*. A stega se odnosi na ćudoređe; Glosa, naime, na Heb 12, uz ono: svaka stega itd., kaže: *stega je odgajanje ćudoređa kroz teškoće*. Dakle, zakon što ga je dao Bog sadržavao je moralne zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a2.resp": {
+      "text": "Odgovaram: treba reći da je Stari zakon sadržavao neke moralne zapovijedi, kao što je jasno iz Izl 20: *ne ubij, ne ukradi*. I to razložno. Jer kao što je glavna nakana ljudskog zakona da stvori prijateljstvo ljudi međusobno, tako je nakana božanskog zakona da ponajprije uspostavi prijateljstvo čovjeka s Bogom. A budući da je sličnost razlog ljubavi, prema onome iz Sir 13: *svako živo biće ljubi sebi slično*, nemoguće je da postoji prijateljstvo čovjeka s Bogom, koji je najbolji, ako ljudi ne postanu dobri; stoga se kaže u Lev 19: *budite sveti, jer sam ja svet*. A dobrota je čovjeka krepost, koja čini dobrim onoga tko je ima. I zato je trebalo da se zapovijedi Staroga zakona daju i o činima kreposti. I to su moralne zapovijedi zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se Stari zakon razlikuje od zakona naravi ne kao nešto njemu posve tuđe, nego kao nešto što mu nadodaje. Jer kao što milost pretpostavlja narav, tako treba da božanski zakon pretpostavlja naravni zakon.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a2.ad2": {
+      "text": "Na drugo treba reći da je božanskom zakonu bilo prikladno da se pobrine za čovjeka ne samo u onome za što razum nije sposoban, nego i u onome u čemu se događa da ljudski razum bude ometen. A ljudski razum glede moralnih zapovijedi, što se tiče samih najopćenitijih zapovijedi zakona naravi, nije mogao zabludjeti u općem, ali se ipak, zbog navike griješenja, pomračivao u pojedinostima onoga što treba činiti. Glede pak drugih moralnih zapovijedi, koje su kao zaključci izvedeni iz općih načela zakona naravi, razum je mnogih zastranjivao, tako da je razum mnogih smatrao dopuštenim neke stvari koje su same po sebi zle. Stoga je trebalo da se čovjeku protiv obaju nedostataka pritekne u pomoć autoritetom božanskog zakona. Kao što nam se i među onim što treba vjerovati ne predlaže samo ono do čega razum ne može dosegnuti, kao to da je Bog trojedin, nego i ono do čega ispravni razum može dosegnuti, kao to da je Bog jedan, kako bi se isključila zabluda ljudskog razuma, koja se događala kod mnogih.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a2.ad3": {
+      "text": "Na treće treba reći da, kao što Augustin dokazuje u knjizi O duhu i slovu, i za slovo zakona glede moralnih zapovijedi kaže se da ubija prigodno, naime utoliko što zapovijeda ono što je dobro, a ne pruža pomoć milosti da se to ispuni.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da Stari zakon ne sadrži obredne zapovijedi osim moralnih. Svaki, naime, zakon koji se daje ljudima upravlja ljudskim činima. A ljudski se čini nazivaju moralnima, kao što je gore rečeno. Dakle, čini se da u Starom zakonu, danom ljudima, nisu trebale biti sadržane nego moralne zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a3.obj2": {
+      "text": "Osim toga, čini se da zapovijedi koje se nazivaju obrednima pripadaju bogoštovlju. Ali bogoštovlje je čin kreposti, naime kreposti bogoštovlja, koja, kako kaže Tulije u svojoj Retorici, *iskazuje božanskoj naravi štovanje i obred*. Budući da su, dakle, moralne zapovijedi o činima kreposti, kao što je rečeno, čini se da obredne zapovijedi ne treba razlikovati od moralnih.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a3.obj3": {
+      "text": "Osim toga, čini se da su obredne zapovijedi one koje slikovito nešto označuju. Ali, kao što Augustin kaže u II. knjizi O kršćanskom nauku, *riječi su među ljudima zadobile prvenstvo u označivanju*. Dakle, nije bilo nikakve potrebe da zakon sadrži obredne zapovijedi o nekim slikovitim činima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Pnz 4: *napisao je deset riječi na dvije kamene ploče, a meni je u ono vrijeme naložio da vas poučim obredima i sudovima koje trebate vršiti*. Ali deset zapovijedi zakona moralne su. Dakle, osim moralnih zapovijedi postoje i druge, obredne zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je rečeno, božanski zakon ponajprije ustanovljen da usmjeri ljude prema Bogu, a ljudski zakon ponajprije da usmjeri ljude jedne prema drugima. I zato se ljudski zakoni nisu brinuli da išta ustanove o štovanju Boga osim u odnosu na opće dobro ljudi; i zbog toga su također izmislili mnogo toga o božanskim stvarima, prema onome što im se činilo probitačnim za oblikovanje ćudoređa ljudi, kao što je jasno u obredima pogana. Božanski je zakon, naprotiv, usmjerio ljude jedne prema drugima onako kako je odgovaralo usmjerenosti prema Bogu, na koju je ponajprije smjerao. A čovjek se usmjeruje prema Bogu ne samo unutarnjim činima duha, a to su vjerovati, nadati se i ljubiti, nego i nekim vanjskim djelima kojima čovjek očituje da služi Bogu. I za ta se djela kaže da pripadaju štovanju Boga. A to se štovanje naziva caeremonia (obred), kao da je riječ o „munia”, to jest darovima, Cerere (Caeres), za koju se govorilo da je božica plodova, kako neki kažu, zato što su se Bogu najprije prinosili prinosi od plodova. Ili je pak, kako izvješćuje Valerije Maksim, ime caeremonia uvedeno kod Latina za označivanje bogoštovlja od nekog gradića blizu Rima koji se zvao Caere, zato što su, kad su Gali osvojili Rim, onamo bile odnesene svetinje Rimljana i ondje čuvane s najvećim poštovanjem. Tako se, dakle, one zapovijedi u zakonu koje pripadaju štovanju Boga na poseban način nazivaju obrednima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ljudski čini protežu i na bogoštovlje. I zato Stari zakon, dan ljudima, sadrži zapovijedi i o njima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a3.ad2": {
+      "text": "Na drugo treba reći da su, kao što je gore rečeno, zapovijedi zakona naravi opće i trebaju pobliže određenje. A određuju se i ljudskim zakonom i božanskim zakonom. I kao što se za sama određenja koja se čine ljudskim zakonom ne kaže da pripadaju zakonu naravi, nego pozitivnom pravu, tako se i sama određenja zapovijedi zakona naravi koja se čine božanskim zakonom razlikuju od moralnih zapovijedi, koje pripadaju zakonu naravi. Štovati, dakle, Boga, budući da je čin kreposti, pripada moralnoj zapovijedi; ali određenje te zapovijedi, naime da ga se štuje takvim žrtvama i takvim darovima, pripada obrednim zapovijedima. I zato se obredne zapovijedi razlikuju od moralnih zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a3.ad3": {
+      "text": "Na treće treba reći da, kao što Dionizije kaže u 1. poglavlju djela O nebeskoj hijerarhiji, božanske stvari ne mogu se ljudima očitovati drukčije nego pod nekim osjetnim sličnostima. A same te sličnosti više pokreću dušu kad se ne izražavaju samo riječju, nego se i pružaju osjetilu. I zato se božanske stvari predaju u Pismu ne samo sličnostima izraženima riječju, kao što je jasno u prenesenim izričajima, nego i sličnostima stvari koje se iznose pred oči, što pripada obrednim zapovijedima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:58+00:00"
+    },
+    "I-II.q99.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da osim moralnih i obrednih zapovijedi u Starom zakonu nema nikakvih sudskih zapovijedi. Augustin, naime, kaže u djelu Protiv Fausta da u Starom zakonu postoje zapovijedi o životu koji treba voditi i zapovijedi o životu koji treba označiti. Ali zapovijedi o životu koji treba voditi moralne su, a zapovijedi o životu koji treba označiti obredne su. Dakle, osim tih dvaju rodova zapovijedi ne treba u zakonu postavljati druge, sudske zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a4.obj2": {
+      "text": "Osim toga, uz ono iz Ps 118: *od sudova tvojih nisam se uklonio*, Glosa kaže: *to jest od onoga što si ustanovio kao pravilo življenja*. Ali pravilo življenja pripada moralnim zapovijedima. Dakle, sudske zapovijedi ne treba razlikovati od moralnih.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a4.obj3": {
+      "text": "Osim toga, čini se da je sud čin pravednosti, prema onome iz Ps 93: *dok se pravednost ne obrati u sud*. Ali čin pravednosti, kao i čini ostalih kreposti, pripada moralnim zapovijedima. Dakle, moralne zapovijedi uključuju u sebi sudske, pa se od njih ne trebaju razlikovati.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Pnz 6: *ovo su zapovijedi i obredi i sudovi*. A zapovijedima se antonomastički nazivaju moralne. Dakle, osim moralnih i obrednih zapovijedi postoje i sudske.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, božanskom zakonu pripada da usmjerava ljude jedne prema drugima i prema Bogu. A oboje od toga općenito pripada nalogu zakona naravi, na koji se odnose moralne zapovijedi; ali treba da se oboje pobliže odredi božanskim ili ljudskim zakonom, jer su naravno poznata načela opća kako u spekulativnom tako i u djelatnom području. Kao što se, dakle, određenje opće zapovijedi o bogoštovlju čini obrednim zapovijedima, tako se i određenje opće zapovijedi o pravednosti koju treba čuvati među ljudima određuje sudskim zapovijedima. I prema tome treba postaviti tri vrste zapovijedi Staroga zakona: naime moralne, koje pripadaju nalogu zakona naravi; obredne, koje su određenja bogoštovlja; i sudske, koje su određenja pravednosti koju treba čuvati među ljudima. Stoga Apostol, pošto je u Rim 7 rekao da je zakon svet, nadodaje da je zapovijed pravedna i sveta i dobra: pravedna glede sudskih; sveta glede obrednih (sveto se, naime, naziva ono što je posvećeno Bogu); dobra, to jest čestita, glede moralnih.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da i moralne i sudske zapovijedi pripadaju upravljanju ljudskim životom. I zato su i jedne i druge sadržane pod jednim članom diobe koju postavlja Augustin, naime pod zapovijedima o životu koji treba voditi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a4.ad2": {
+      "text": "Na drugo treba reći da sud označuje izvršenje pravednosti, koje se zbiva primjenom razuma na neke pojedinosti na određen način. Stoga sudske zapovijedi imaju nešto zajedničko s moralnima, naime utoliko što se izvode iz razuma; a nešto s obrednima, naime utoliko što su neka određenja općih zapovijedi. I zato se katkad pod sudovima obuhvaćaju sudske i moralne zapovijedi, kao u Pnz 5: čuj, Izraele, obrede i sudove; a katkad sudske i obredne, kao u Lev 18: vršit ćete moje sudove i čuvat ćete moje zapovijedi, gdje se zapovijedi odnose na moralne, a sudovi na sudske i obredne.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a4.ad3": {
+      "text": "Na treće treba reći da čin pravednosti općenito pripada moralnim zapovijedima, ali njegovo određenje u posebnom pripada sudskim zapovijedima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da su u Starom zakonu sadržane još neke druge zapovijedi osim moralnih, sudskih i obrednih. Sudske, naime, zapovijedi pripadaju činu pravednosti, koja je čovjeka prema čovjeku; obredne pak pripadaju činu bogoštovlja, kojim se štuje Bog. Ali osim tih postoje mnoge druge kreposti, naime umjerenost, jakost, darežljivost i još mnoge druge, kao što je gore rečeno. Dakle, osim navedenih treba da u Starom zakonu bude sadržano još mnogo drugih.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a5.obj2": {
+      "text": "Osim toga, u Pnz 11 se kaže: *ljubi Gospodina, Boga svojega, i čuvaj njegove zapovijedi i obrede i sudove i naloge*. Ali zapovijedi pripadaju moralnima, kao što je rečeno. Dakle, osim moralnih, sudskih i obrednih, u zakonu su sadržane još i druge, koje se nazivaju nalozima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a5.obj3": {
+      "text": "Osim toga, u Pnz 6 se kaže: *čuvaj zapovijedi Gospodina, Boga svojega, i svjedočanstva i obrede koje sam ti zapovjedio*. Dakle, osim svega navedenoga u zakonu su sadržana još i svjedočanstva.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a5.obj4": {
+      "text": "Osim toga, u Ps 118 se kaže: *dovijeka neću zaboraviti opravdanja tvoja*, a Glosa: *to jest zakon*. Dakle, zapovijedi Staroga zakona nisu samo moralne, obredne i sudske, nego i opravdanja.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Pnz 6: *ovo su zapovijedi i obredi i sudovi koje vam je naložio Gospodin, Bog vaš*. A to se stavlja na početak zakona. Dakle, sve su zapovijedi zakona obuhvaćene pod njima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a5.resp": {
+      "text": "Odgovaram: treba reći da se u zakonu nešto postavlja kao zapovijedi, a nešto kao ono što je usmjereno k ispunjenju zapovijedi. Zapovijedi su o onome što treba činiti. Na njihovo se ispunjenje čovjek navodi dvama razlozima: autoritetom onoga koji zapovijeda i korišću od ispunjenja, a ona je postizanje nekog dobra, korisnoga, ugodnoga ili čestitoga, ili izbjegavanje nekoga protivnog zla. Trebalo je, dakle, da se u Starom zakonu iznese nešto što bi pokazivalo autoritet Boga koji zapovijeda, kao ono iz Pnz 6: *čuj, Izraele, Gospodin, Bog tvoj, jedan je Bog*; i ono iz Post 1: *u početku stvori Bog nebo i zemlju*. I takvo se nešto naziva svjedočanstvima. Trebalo je također da se u zakonu iznesu neke nagrade za one koji obdržavaju zakon i kazne za one koji ga prestupaju, kao što je jasno iz Pnz 28: *ako budeš slušao glas Gospodina, Boga svojega, učinit će te uzvišenijim od svih naroda,* i tako dalje. I takvo se nešto naziva opravdanjima, ukoliko Bog neke pravedno kažnjava ili nagrađuje. A samo ono što treba činiti ne potpada pod zapovijed osim ukoliko ima neki pojam dužnoga. A dužno je dvostruko: jedno prema pravilu razuma, drugo prema pravilu zakona koji određuje; kao što Filozof u V. knjizi Etike razlikuje dvostruko pravedno, naime moralno i zakonsko. A moralno dužno je dvostruko: razum, naime, nalaže da se nešto čini ili kao nužno, bez čega ne može biti reda kreposti, ili kao korisno za to da se red kreposti bolje očuva. I prema tome se neke od moralnih stvari u zakonu strogo zapovijedaju ili zabranjuju, kao: ne ubij, ne ukradi. I to se u vlastitom smislu naziva zapovijedima. Neke se pak zapovijedaju ili zabranjuju ne kao strogo dužne, nego radi boljega. I to se može nazvati nalozima, jer imaju u sebi neko poticanje i nagovaranje. Kao ono iz Izl 22: *ako od svoga bližnjega uzmeš u zalog haljinu, vrati mu je prije zalaska sunca*; i neke slične stvari. Stoga Jeronim kaže da je *u zapovijedima pravednost, a u nalozima ljubav*. A dužno iz određenja zakona u ljudskim stvarima pripada sudskim zapovijedima, a u božanskim stvarima obrednima. Premda se i ono što pripada kazni ili nagradama može nazvati svjedočanstvima, ukoliko su neka svjedočenja o božanskoj pravednosti. A sve se zapovijedi zakona mogu nazvati opravdanjima, ukoliko su neka izvršenja zakonske pravednosti. Mogu se također nalozi razlikovati od zapovijedi i na drugi način, tako da se zapovijedima nazivaju one koje je Bog izrekao sam po sebi, a nalozima one koje je naložio preko drugih, kako se čini da i samo ime zvuči. Iz svega toga jasno je da su sve zapovijedi zakona sadržane pod moralnima, obrednima i sudskima, a ostalo nema pojam zapovijedi, nego je usmjereno k obdržavanju zapovijedi, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da jedino pravednost među ostalim krepostima uključuje pojam dužnoga. I zato su moralne stvari utoliko odredive zakonom ukoliko pripadaju pravednosti, kojoj je neki dio i bogoštovlje, kako kaže Tulije. Stoga zakonsko pravedno ne može biti ništa osim obrednih i sudskih zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a5.ad2": {
+      "text": "Na ostalo je odgovor jasan iz onoga što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da Stari zakon nije trebao navoditi na obdržavanje zapovijedi vremenitim obećanjima i prijetnjama. Nakana je, naime, božanskog zakona da ljude podloži Bogu strahom i ljubavlju; stoga se kaže u Pnz 10: *i sada, Izraele, što traži od tebe Gospodin, Bog tvoj, nego da se bojiš Gospodina, Boga svojega, i hodiš njegovim putovima i ljubiš ga?* Ali žudnja za vremenitim stvarima odvodi od Boga; Augustin, naime, kaže u knjizi Osamdeset i tri pitanja da je *otrov ljubavi žudnja*. Dakle, čini se da su vremenita obećanja i prijetnje protivni nakani zakonodavca, a to zakon čini pokudnim, kao što je jasno iz Filozofa u II. knjizi Politike.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a6.obj2": {
+      "text": "Osim toga, božanski je zakon izvrsniji od ljudskog zakona. A vidimo u znanostima da što je koja viša, to se služi višim srednjim terminima. Dakle, budući da ljudski zakon nastoji navesti ljude vremenitim prijetnjama i obećanjima, božanski zakon nije trebao polaziti od njih, nego od nečega većega.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a6.obj3": {
+      "text": "Osim toga, ne može biti nagrada za pravednost ili kazna za krivnju ono što se jednako događa i dobrima i zlima. Ali, kao što se kaže u Prop 9, *sve, to jest vremenite stvari, jednako se događa pravedniku i bezbožniku, dobru i zlu, čistu i nečistu, onomu koji prinosi žrtve i onomu koji prezire žrtve*. Dakle, vremenita dobra ili zla ne postavljaju se prikladno kao kazne ili nagrade za zapovijedi božanskog zakona.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iz 1: *ako htjednete i poslušate me, jest ćete dobra zemlje. A ako ne htjednete i izazovete me na gnjev, mač će vas proždrijeti*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a6.resp": {
+      "text": "Odgovaram: treba reći da, kao što se u spekulativnim znanostima ljudi navode na pristajanje uz zaključke pomoću silogističkih srednjih termina, tako se i u bilo kojim zakonima ljudi navode na obdržavanje zapovijedi kaznama i nagradama. A vidimo u spekulativnim znanostima da se srednji termini iznose slušatelju prema njegovu stanju; stoga u znanostima treba postupati redom, tako da poučavanje počne od poznatijega. Tako i onaj koji hoće navesti čovjeka na obdržavanje zapovijedi treba da ga počne pokretati onim prema čemu je usmjereno njegovo čuvstvo, kao što se djeca potiču da nešto učine nekim djetinjim darićima. A gore je rečeno da je Stari zakon pripravljao za Krista kao nesavršeno za savršeno; stoga je bio dan narodu koji je još bio nesavršen u usporedbi sa savršenošću koja je imala doći po Kristu; i zato se taj narod uspoređuje s djetetom koje je pod odgojiteljem, kao što je jasno iz Gal 3. A savršenost je čovjeka da, prezrevši vremenito, prianja uz duhovno, kao što je jasno iz onoga što Apostol kaže u Fil 3: *zaboravljajući ono što je iza, pružam se prema onome što je pred nama. Koji smo god, dakle, savršeni, tako mislimo*. Nesavršenima je pak svojstveno da žele vremenita dobra, ali ipak u usmjerenosti prema Bogu. A izopačenima je svojstveno da u vremenitim dobrima postavljaju svrhu. Stoga je Starom zakonu bilo prikladno da vremenitim stvarima, prema kojima je bilo usmjereno čuvstvo nesavršenih ljudi, vodi ljude za ruku k Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je žudnja, kojom čovjek postavlja svrhu u vremenitim dobrima, otrov ljubavi. Ali postizanje vremenitih dobara koja čovjek želi u usmjerenosti prema Bogu neki je put koji nesavršene navodi na ljubav prema Bogu, prema onome iz Ps 48: *slavit će te kad mu dobro učiniš*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a6.ad2": {
+      "text": "Na drugo treba reći da ljudski zakon navodi ljude vremenitim nagradama ili kaznama koje trebaju nanijeti ljudi, a božanski zakon nagradama ili kaznama koje dodjeljuje Bog. I u tome se služi višim srednjim terminima.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    },
+    "I-II.q99.a6.ad3": {
+      "text": "Na treće treba reći da, kao što je jasno onomu tko prelistava povijesne knjige Staroga zavjeta, opće stanje naroda pod zakonom uvijek je bilo u blagostanju dok su obdržavali zakon; a čim bi skrenuli od zapovijedi zakona, padali su u mnoge nevolje. Ali neke su pojedine osobe, iako su obdržavale pravednost zakona, padale u neke nevolje, bilo zato što su već postale duhovne, kako bi se time još više odvojile od čuvstva prema vremenitome i kako bi se njihova krepost pokazala prokušanom; bilo zato što su, izvana ispunjavajući djela zakona, imale cijelo srce prikovano za vremenito i udaljeno od Boga, prema onome što se kaže u Iz 29: *ovaj me narod časti usnama, a srce mu je daleko od mene*.",
+      "prompt_version": "1",
+      "glossary_version": 13,
+      "created_at": "2026-11-11T15:43:59+00:00"
+    }
+  }
+}
