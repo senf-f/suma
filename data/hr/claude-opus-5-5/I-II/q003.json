@@ -1,0 +1,438 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 3,
+  "units": {
+    "I-II.q3.pr": {
+      "text": "Zatim treba razmotriti što je blaženstvo i što se za nj zahtijeva. O prvome se pita osam stvari. Prvo, je li blaženstvo nešto nestvoreno. Drugo, ako je nešto stvoreno, je li djelovanje. Treće, je li djelovanje osjetilnoga dijela ili samo umskoga. Četvrto, ako je djelovanje umskoga dijela, je li djelovanje uma ili volje. Peto, ako je djelovanje uma, je li djelovanje spekulativnoga ili praktičnoga uma. Šesto, ako je djelovanje spekulativnoga uma, sastoji li se u promatranju spekulativnih znanosti. Sedmo, sastoji li se u promatranju odijeljenih supstancija, to jest anđela. Osmo, sastoji li se samo u promatranju Boga kojim se on gleda po biti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je blaženstvo nešto nestvoreno. Boetije, naime, kaže u 3. knjizi O utjesi filozofije: *Nužno je priznati da je Bog samo blaženstvo*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a1.obj2": {
+      "text": "Osim toga, blaženstvo je najviše dobro. Ali biti najviše dobro pristaje Bogu. Budući, dakle, da nema više najviših dobara, čini se da je blaženstvo isto što i Bog.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a1.obj3": {
+      "text": "Osim toga, blaženstvo je posljednja svrha kojoj ljudska volja po naravi teži. Ali volja ne smije težiti ni k čemu drugome kao k svrsi osim k Bogu, u kojem jedinom treba uživati, kako kaže Augustin. Dakle, blaženstvo je isto što i Bog.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a1.sc": {
+      "text": "Ali protiv toga, ništa učinjeno nije nestvoreno. Ali blaženstvo čovjeka jest nešto učinjeno, jer prema Augustinu, u 1. knjizi O kršćanskom nauku, *treba uživati u onim stvarima koje nas čine blaženima*. Dakle, blaženstvo nije nešto nestvoreno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a1.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je gore rečeno, svrha kaže na dva načina. Na jedan način, sama stvar koju želimo postići, kao što je škrtcu svrha novac. Na drugi način, samo postignuće ili posjedovanje, odnosno upotreba ili uživanje one stvari koja se želi, kao kad bi se reklo da je posjedovanje novca svrha škrtca, a uživati u užitnoj stvari svrha neumjerenoga. Na prvi je, dakle, način posljednja svrha čovjeka nestvoreno dobro, naime Bog, koji jedini svojom beskonačnom dobrotom može savršeno ispuniti čovjekovu volju. Na drugi je pak način posljednja svrha čovjeka nešto stvoreno što postoji u njemu samome, a to nije ništa drugo nego postignuće posljednje svrhe ili uživanje u njoj. A posljednja se svrha naziva blaženstvom. Ako se, dakle, blaženstvo čovjeka razmatra s obzirom na uzrok ili predmet, tada je ono nešto nestvoreno; ako se pak razmatra s obzirom na samu bit blaženstva, tada je ono nešto stvoreno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Bog blaženstvo po svojoj biti: on, naime, nije blažen po postignuću nečega drugoga ili po sudjelovanju u nečemu drugome, nego po svojoj biti. Ljudi su pak blaženi, kako na istome mjestu kaže Boetije, po sudjelovanju, kao što se i o bogovima govori po sudjelovanju. A samo sudjelovanje u blaženstvu, po kojem se čovjek naziva blaženim, jest nešto stvoreno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a1.ad2": {
+      "text": "Na drugo treba reći da se za blaženstvo kaže da je najviše dobro čovjeka zato što je postignuće najvišega dobra ili uživanje u njemu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a1.ad3": {
+      "text": "Na treće treba reći da se blaženstvo naziva posljednjom svrhom na onaj način na koji se postignuće svrhe naziva svrhom.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da blaženstvo nije djelovanje. Apostol, naime, kaže u Rim 6: *Imate svoj plod za posvećenje, a svrhu život vječni*. Ali život nije djelovanje, nego sam bitak živih bića. Dakle, posljednja svrha, koja je blaženstvo, nije djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.obj2": {
+      "text": "Osim toga, Boetije u 3. knjizi O utjesi filozofije kaže da je *blaženstvo stanje savršeno skupom svih dobara*. Ali stanje ne imenuje djelovanje. Dakle, blaženstvo nije djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.obj3": {
+      "text": "Osim toga, blaženstvo označuje nešto što postoji u blaženome, budući da je posljednja savršenost čovjeka. Ali djelovanje ne označuje nešto kao ono što postoji u djelujućemu, nego više kao ono što od njega izlazi. Dakle, blaženstvo nije djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.obj4": {
+      "text": "Osim toga, blaženstvo trajno ostaje u blaženome. A djelovanje ne ostaje, nego prolazi. Dakle, blaženstvo nije djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.obj5": {
+      "text": "Osim toga, jedan čovjek ima jedno blaženstvo. A djelovanja su mnoga. Dakle, blaženstvo nije djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.obj6": {
+      "text": "Osim toga, blaženstvo je u blaženome bez prekida. Ali ljudsko se djelovanje često prekida, primjerice snom, ili nekim drugim poslom, ili odmorom. Dakle, blaženstvo nije djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u 1. knjizi Etike, da je *sreća djelovanje prema savršenoj kreposti*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.resp": {
+      "text": "Odgovaram: treba reći da je, ukoliko je blaženstvo čovjeka nešto stvoreno što postoji u njemu samome, nužno reći da je blaženstvo čovjeka djelovanje. Blaženstvo je, naime, posljednja savršenost čovjeka. A svaka je stvar savršena utoliko ukoliko je u činu, jer je mogućnost bez čina nesavršena. Blaženstvo se, dakle, mora sastojati u posljednjem činu čovjeka. A očito je da je djelovanje posljednji čin onoga koji djeluje; zato ga Filozof u 2. knjizi O duši i naziva drugim činom, jer onaj koji ima formu može biti djelujući u mogućnosti, kao što je onaj koji zna u mogućnosti onaj koji razmatra. Otuda je i to da se i u drugim stvarima za svaku stvar kaže da postoji radi svojega djelovanja, kako se kaže u 2. knjizi O nebu. Nužno je, dakle, da blaženstvo čovjeka bude djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se život kaže na dva načina. Na jedan način, sam bitak živoga bića. I tako blaženstvo nije život: pokazano je, naime, da bitak jednoga čovjeka, kakav god bio, nije čovjekovo blaženstvo; samo je, naime, Božje blaženstvo njegov bitak. Na drugi se način životom naziva samo djelovanje živoga bića, po kojem se počelo života privodi u čin; i tako govorimo o djelatnom životu, ili motrilačkom, ili životu užitka. I na taj se način vječni život naziva posljednjom svrhom. To je jasno po onome što se kaže u Iv 17: *Ovo je život vječni: da upoznaju tebe, jedinoga istinskog Boga*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.ad2": {
+      "text": "Na drugo treba reći da je Boetije, definirajući blaženstvo, imao u vidu sam opći pojam blaženstva. Opći je, naime, pojam blaženstva da je ono opće savršeno dobro; i to je označio kad je rekao da *je stanje savršeno skupom svih dobara*, čime se ne označuje ništa drugo nego da je blaženi u stanju savršenoga dobra. Ali Aristotel je izrazio samu bit blaženstva, pokazujući po čemu je čovjek u takvu stanju, naime po nekom djelovanju. Zato i on sam u 1. knjizi Etike pokazuje da je blaženstvo savršeno dobro.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.ad3": {
+      "text": "Na treće treba reći da je, kako se kaže u 9. knjizi Metafizike, radnja dvojaka. Jedna je ona koja izlazi od onoga koji djeluje u izvanjsku tvar, kao paliti i rezati. I takvo djelovanje ne može biti blaženstvo, jer takvo djelovanje nije radnja i savršenost djelatnika, nego više trpitelja, kako se ondje kaže. Druga je radnja koja ostaje u samom djelatniku, kao osjećati, shvaćati i htjeti; i takva je radnja savršenost i čin djelatnika. I takvo djelovanje može biti blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.ad4": {
+      "text": "Na četvrto treba reći da, budući da blaženstvo izriče neku posljednju savršenost, nužno je da se blaženstvo kaže na različite načine, već prema tome kako različite stvari sposobne za blaženstvo mogu doseći različite stupnjeve savršenosti. U Bogu je, naime, blaženstvo po biti, jer je sam njegov bitak njegovo djelovanje, kojim ne uživa u čemu drugome, nego u samome sebi. U blaženim je pak anđelima posljednja savršenost po nekom djelovanju kojim se sjedinjuju s nestvorenim dobrom, i to je djelovanje u njima jedno jedino i vjekovječno. U ljudima je pak, prema stanju sadašnjeg života, posljednja savršenost po djelovanju kojim se čovjek sjedinjuje s Bogom; ali to djelovanje ne može biti neprekidno, pa posljedično nije ni jedno jedino, jer se djelovanje prekidanjem umnaža. Zbog toga čovjek u stanju sadašnjeg života ne može imati savršeno blaženstvo. Stoga Filozof u 1. knjizi Etike, stavljajući blaženstvo čovjeka u ovaj život, kaže da je ono nesavršeno, zaključujući nakon mnogo toga: a blaženima ih nazivamo kao ljude. Ali Bog nam obećava savršeno blaženstvo, kad budemo kao anđeli na nebu, kako se kaže u Mt 22. Što se, dakle, tiče onoga savršenog blaženstva, prigovor otpada, jer će se u onom stanju blaženstva čovjekov duh sjedinjavati s Bogom jednim, neprekidnim i vjekovječnim djelovanjem. Ali u sadašnjem životu, koliko zaostajemo za jedinstvom i neprekidnošću takva djelovanja, toliko zaostajemo za savršenošću blaženstva. Ipak postoji neko sudjelovanje u blaženstvu, i to toliko veće koliko djelovanje može biti neprekidnije i jedinstvenije. Zato u djelatnom životu, koji se bavi mnogim stvarima, ima manje od pojma blaženstva nego u motrilačkom životu, koji se bavi jednim, to jest motrenjem istine. I ako čovjek katkad ne vrši takvo djelovanje u činu, ipak, budući da ga je uvijek spreman vršiti, i budući da i sam prekid, primjerice zbog sna ili kakva naravnog posla, usmjeruje prema spomenutom djelovanju, čini se kao da je djelovanje neprekidno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a2.ad5": {
+      "text": "I time je jasno rješenje petoga i šestoga prigovora.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se blaženstvo sastoji i u djelovanju osjetila. U čovjeku se, naime, ne nalazi nijedno djelovanje plemenitije od osjetilnoga osim umskoga. Ali umsko djelovanje u nama ovisi o osjetilnom djelovanju, jer ne možemo shvaćati bez maštovne slike, kako se kaže u 3. knjizi O duši. Dakle, blaženstvo se sastoji i u osjetilnom djelovanju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a3.obj2": {
+      "text": "Osim toga, Boetije u 3. knjizi O utjesi filozofije kaže da je *blaženstvo stanje savršeno skupom svih dobara*. Ali neka su dobra osjetna, a njih dosežemo djelovanjem osjetila. Dakle, čini se da se djelovanje osjetila zahtijeva za blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a3.obj3": {
+      "text": "Osim toga, blaženstvo je savršeno dobro, kako se dokazuje u 1. knjizi Etike, a to ne bi bilo kad čovjek po njemu ne bi bio usavršen u svim svojim dijelovima. Ali po osjetilnim se djelovanjima usavršavaju neki dijelovi duše. Dakle, osjetilno se djelovanje zahtijeva za blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a3.sc": {
+      "text": "Ali protiv toga, u osjetilnom djelovanju s nama imaju zajedništvo nerazumne životinje, ali ne u blaženstvu. Dakle, blaženstvo se ne sastoji u osjetilnom djelovanju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a3.resp": {
+      "text": "Odgovaram: treba reći da nešto može pripadati blaženstvu na tri načina: na jedan način bitno, na drugi način prethodno, na treći način naknadno. Bitno, dakako, djelovanje osjetila ne može pripadati blaženstvu. Blaženstvo se čovjeka, naime, bitno sastoji u njegovu sjedinjenju s nestvorenim dobrom, koje je posljednja svrha, kao što je gore pokazano, a s njime se čovjek ne može sjediniti djelovanjem osjetila. Isto tako i zato što se, kao što je pokazano, blaženstvo čovjeka ne sastoji u tjelesnim dobrima, a samo njih ipak dosežemo djelovanjem osjetila. Djelovanja osjetila mogu pak pripadati blaženstvu prethodno i naknadno. Prethodno, dakako, s obzirom na nesavršeno blaženstvo, kakvo se može imati u sadašnjem životu, jer djelovanje uma unaprijed zahtijeva djelovanje osjetila. Naknadno pak u onom savršenom blaženstvu koje se očekuje na nebu, jer će se nakon uskrsnuća iz samoga blaženstva duše, kako kaže Augustin u poslanici Dioskoru, *zbiti neko prelijevanje u tijelo i u tjelesna osjetila, tako da se ona usavrše u svojim djelovanjima*; kao što će dolje biti jasnije kad se bude raspravljalo o uskrsnuću. Ali tada djelovanje kojim će se ljudski duh sjedinjavati s Bogom neće ovisiti o osjetilu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj prigovor dokazuje da se djelovanje osjetila zahtijeva prethodno za nesavršeno blaženstvo, kakvo se može imati u ovom životu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a3.ad2": {
+      "text": "Na drugo treba reći da savršeno blaženstvo, kakvo imaju anđeli, ima skup svih dobara po sjedinjenju s općim izvorom svega dobra, a ne tako da bi trebalo pojedinačna posebna dobra. Ali u ovom nesavršenom blaženstvu zahtijeva se skup dobara dostatnih za najsavršenije djelovanje ovoga života.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a3.ad3": {
+      "text": "Na treće treba reći da se u savršenom blaženstvu usavršava cijeli čovjek, ali u nižem dijelu po prelijevanju iz višega. U nesavršenom pak blaženstvu sadašnjeg života, obratno, od savršenosti nižega dijela napreduje se k savršenosti višega.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se blaženstvo sastoji u činu volje. Augustin, naime, kaže u 19. knjizi O Božjem gradu da se blaženstvo čovjeka sastoji u miru; zato se u Psalmu 147 kaže: koji je mir postavio za tvoje granice. Ali mir pripada volji. Dakle, blaženstvo se čovjeka sastoji u volji.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.obj2": {
+      "text": "Osim toga, blaženstvo je najviše dobro. Ali dobro je predmet volje. Dakle, blaženstvo se sastoji u djelovanju volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.obj3": {
+      "text": "Osim toga, prvom pokretaču odgovara posljednja svrha, kao što je posljednja svrha cijele vojske pobjeda, koja je svrha vojskovođe, koji sve pokreće. Ali prvi pokretač na djelovanje jest volja, jer pokreće druge snage, kako će se dolje reći. Dakle, blaženstvo pripada volji.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.obj4": {
+      "text": "Osim toga, ako je blaženstvo neko djelovanje, mora biti najplemenitije djelovanje čovjeka. Ali ljubav prema Bogu, koja je čin volje, plemenitije je djelovanje od spoznaje, koja je djelovanje uma, kao što je jasno po Apostolu u 1 Kor 13. Dakle, čini se da se blaženstvo sastoji u činu volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.obj5": {
+      "text": "Osim toga, Augustin u 13. knjizi O Trojstvu kaže: *Blažen je onaj koji ima sve što hoće i ništa ne hoće loše*. I malo zatim dodaje: *Blizu je blaženome onaj koji dobro hoće što god hoće; dobra, naime, čine blaženim, a od tih dobara on već ima nešto, naime samu dobru volju*. Dakle, blaženstvo se sastoji u činu volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.sc": {
+      "text": "Ali protiv toga je ono što Gospodin kaže u Iv 17: *Ovo je život vječni: da upoznaju tebe, jedinoga istinskog Boga*. A vječni je život posljednja svrha, kao što je rečeno. Dakle, blaženstvo se čovjeka sastoji u spoznaji Boga, koja je čin uma.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.resp": {
+      "text": "Odgovaram: treba reći da se za blaženstvo, kao što je gore rečeno, zahtijevaju dvije stvari: jedna koja je bit blaženstva, a druga koja mu je kao akcident po sebi, naime naslada koja je s njim povezana. Kažem, dakle, da je, što se tiče onoga što je bitno samo blaženstvo, nemoguće da se ono sastoji u činu volje. Iz prethodnoga je, naime, očito da je blaženstvo zadobivanje posljednje svrhe. A zadobivanje svrhe ne sastoji se u samom činu volje. Volja se, naime, upravlja prema svrsi i kad je odsutna, kad je želi, i kad je prisutna, kad se, počivajući u njoj, naslađuje. A očito je da sama želja za svrhom nije zadobivanje svrhe, nego pokret prema svrsi. Naslada pak pridolazi volji zbog toga što je svrha prisutna, a ne obratno, da bi nešto postalo prisutno zbog toga što se volja u tome naslađuje. Mora, dakle, postojati nešto drugo osim čina volje, po čemu sama svrha postaje prisutna onome koji hoće. I to se očito pokazuje kod osjetnih svrha. Kad bi se, naime, novac zadobivao činom volje, pohlepnik bi odmah od početka zadobio novac, čim ga hoće imati. Ali na početku mu je on odsutan; zadobiva ga pak time što ga zahvati rukom ili nečim takvim; i tada se već naslađuje novcem koji ima. Tako se, dakle, događa i kod umljive svrhe. Na početku, naime, hoćemo zadobiti umljivu svrhu; a zadobivamo je time što nam postaje prisutna činom uma; i tada se volja, naslađena, smiruje u već postignutoj svrsi. Tako se, dakle, bit blaženstva sastoji u činu uma, a volji pripada naslada koja prati blaženstvo; prema onome što kaže Augustin u 10. knjizi Ispovijesti, da je blaženstvo radost zbog istine, jer je, naime, sama radost dovršenje blaženstva.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da mir pripada posljednjoj svrsi čovjeka, ne kao da bi bitno bio samo blaženstvo, nego zato što se prema njemu odnosi prethodno i naknadno. Prethodno, dakako, ukoliko je već uklonjeno sve što uznemiruje i priječi na putu k posljednjoj svrsi. Naknadno pak, ukoliko čovjek, postigavši posljednju svrhu, ostaje u miru, jer mu je želja smirena.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.ad2": {
+      "text": "Na drugo treba reći da prvi predmet volje nije njezin čin, kao što ni prvi predmet vida nije gledanje, nego vidljivo. Stoga iz same činjenice da blaženstvo pripada volji kao njezin prvi predmet slijedi da joj ne pripada kao njezin čin.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.ad3": {
+      "text": "Na treće treba reći da um zahvaća svrhu prije nego volja, ali pokret prema svrsi počinje u volji. Zato volji pripada ono što posljednje slijedi zadobivanje svrhe, naime naslada ili uživanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.ad4": {
+      "text": "Na četvrto treba reći da ljubav ima prednost pred spoznajom u pokretanju, ali spoznaja prethodi ljubavi u dosezanju: ne ljubi se, naime, ništa osim spoznatoga, kako kaže Augustin u 10. knjizi O Trojstvu. Zato umljivu svrhu najprije dosežemo radnjom uma, kao što i osjetnu svrhu najprije dosežemo radnjom osjetila.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a4.ad5": {
+      "text": "Na peto treba reći da je onaj koji ima sve što hoće blažen po tome što ima ono što hoće, a to je, dakako, po nečemu drugome nego po činu volje. Ali ništa ne htjeti loše zahtijeva se za blaženstvo kao neka dužna raspoloživost prema njemu. A dobra se volja ubraja u dobra koja čine blaženim ukoliko je ona neka sklonost prema njemu, kao što se gibanje svodi na rod svoje granice, kao kakvoćna promjena na kakvoću.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se blaženstvo sastoji u djelovanju praktičnoga uma. Posljednja se, naime, svrha svakoga stvora sastoji u upodobljenju Bogu. Ali čovjek se više upodobljuje Bogu po praktičnom umu, koji je uzrok shvaćenih stvari, nego po spekulativnom umu, čije se znanje prima od stvari. Dakle, blaženstvo se čovjeka više sastoji u djelovanju praktičnoga nego spekulativnoga uma.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a5.obj2": {
+      "text": "Osim toga, blaženstvo je savršeno dobro čovjeka. Ali praktični je um više usmjeren prema dobru nego spekulativni, koji je usmjeren prema istinitom. Zato se i po savršenosti praktičnoga uma nazivamo dobrima, a ne po savršenosti spekulativnoga uma; po njoj se, naime, nazivamo onima koji znaju ili koji shvaćaju. Dakle, blaženstvo se čovjeka više sastoji u činu praktičnoga nego spekulativnoga uma.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a5.obj3": {
+      "text": "Osim toga, blaženstvo je neko dobro samoga čovjeka. Ali spekulativni se um više bavi onim što je izvan čovjeka, a praktični se um bavi onim što pripada samom čovjeku, naime njegovim djelovanjima i strastima. Dakle, blaženstvo se čovjeka više sastoji u djelovanju praktičnoga uma nego spekulativnoga uma.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a5.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u 1. knjizi O Trojstvu: *Obećava nam se motrenje, svrha svih radnji i vječna savršenost radosti*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a5.resp": {
+      "text": "Odgovaram: treba reći da se blaženstvo više sastoji u djelovanju spekulativnoga uma nego praktičnoga. To je jasno iz triju razloga. Prvo, dakako, iz toga što, ako je blaženstvo čovjeka djelovanje, mora biti najbolje djelovanje čovjeka. A najbolje je djelovanje čovjeka ono koje pripada najboljoj moći s obzirom na najbolji predmet. A najbolja je moć um, čiji je najbolji predmet božansko dobro, koje, dakako, nije predmet praktičnoga uma, nego spekulativnoga. Stoga se u takvu djelovanju, naime u motrenju božanskih stvari, ponajviše sastoji blaženstvo. *A budući da se čini da je svatko ono što je u njemu najbolje*, kako se kaže u 9. i 10. knjizi Etike, zato je takvo djelovanje čovjeku ponajviše vlastito i ponajviše ugodno. Drugo, isto se pokazuje iz toga što se motrenje ponajviše traži radi samoga sebe. A čin praktičnoga uma ne traži se radi samoga sebe, nego radi radnje. I same su radnje usmjerene prema nekoj svrsi. Stoga je očito da se posljednja svrha ne može sastojati u djelatnom životu, koji pripada praktičnom umu. Treće, isto se pokazuje iz toga što u motrilačkom životu čovjek ima zajedništvo s višima, naime s Bogom i anđelima, kojima se po blaženstvu upodobljuje. Ali u onome što pripada djelatnom životu i druge životinje na neki način imaju zajedništvo s čovjekom, premda nesavršeno. Zato se posljednje i savršeno blaženstvo, koje se očekuje u budućem životu, sasvim sastoji u motrenju. A nesavršeno blaženstvo, kakvo se ovdje može imati, sastoji se najprije i poglavito u motrenju, a drugotno u djelovanju praktičnoga uma koji usmjeruje ljudske radnje i strasti, kako se kaže u 10. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je spomenuta sličnost praktičnoga uma s Bogom po proporcionalnosti, naime zato što se on odnosi prema onome što spoznaje kao Bog prema onome što on spoznaje. Ali upodobljenje spekulativnoga uma Bogu jest po sjedinjenju ili uobličenju, a to je mnogo veće upodobljenje. Ipak se može reći da Bog, s obzirom na ono što poglavito spoznaje, a to je njegova bit, nema praktične spoznaje, nego samo spekulativnu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a5.ad2": {
+      "text": "Na drugo treba reći da je praktični um usmjeren prema dobru koje je izvan njega, a spekulativni um ima dobro u samome sebi, naime motrenje istine. I ako je to dobro savršeno, njime se usavršava cijeli čovjek i postaje dobar; a to praktični um nema, nego prema tome usmjeruje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a5.ad3": {
+      "text": "Na treće treba reći da bi onaj razlog vrijedio kad bi sam čovjek bio svoja posljednja svrha: tada bi, naime, razmatranje i usmjeravanje njegovih čina i strasti bilo njegovo blaženstvo. Ali budući da je posljednja svrha čovjeka neko izvanjsko dobro, naime Bog, kojega dosežemo djelovanjem spekulativnoga uma, zato se blaženstvo čovjeka više sastoji u djelovanju spekulativnoga uma nego u djelovanju praktičnoga uma.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se blaženstvo čovjeka sastoji u razmatranju spekulativnih znanosti. Filozof, naime, kaže u knjizi Etike da je *sreća djelovanje prema savršenoj kreposti*. I razlikujući kreposti, ne navodi kao spekulativne nego samo tri: znanost, mudrost i um; a sve one pripadaju razmatranju spekulativnih znanosti. Dakle, posljednje se blaženstvo čovjeka sastoji u razmatranju spekulativnih znanosti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a6.obj2": {
+      "text": "Osim toga, čini se da je posljednje blaženstvo čovjeka ono što svi po naravi žele radi samoga sebe. Ali takvo je razmatranje spekulativnih znanosti, jer, kako se kaže u 1. knjizi Metafizike, *svi ljudi po naravi žele znati*; a malo zatim dodaje se da se spekulativne znanosti traže radi samih sebe. Dakle, blaženstvo se sastoji u razmatranju spekulativnih znanosti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a6.obj3": {
+      "text": "Osim toga, blaženstvo je posljednja savršenost čovjeka. A svaka se stvar usavršava ukoliko se iz mogućnosti privodi u čin. A ljudski se um privodi u čin razmatranjem spekulativnih znanosti. Dakle, čini se da se u takvu razmatranju sastoji posljednje blaženstvo čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Jr 9: *Neka se mudri ne hvali svojom mudrošću*; a govori se o mudrosti spekulativnih znanosti. Dakle, posljednje se blaženstvo čovjeka ne sastoji u njihovu razmatranju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a6.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je gore rečeno, blaženstvo čovjeka dvojako: jedno savršeno, a drugo nesavršeno. A pod savršenim blaženstvom treba shvatiti ono koje doseže pravi pojam blaženstva, a pod nesavršenim blaženstvom ono koje ga ne doseže, nego ima udjela u nekoj djelomičnoj sličnosti blaženstva. Tako se savršena razboritost nalazi u čovjeku, u kojem je razum o onome što treba činiti, a nesavršena je razboritost u nekim nerazumnim životinjama, u kojima su neki posebni nagoni za neka djela slična djelima razboritosti. Savršeno se, dakle, blaženstvo ne može bitno sastojati u razmatranju spekulativnih znanosti. Da to bude jasno, treba razmotriti da se razmatranje spekulativne znanosti ne proteže preko snage načela te znanosti, jer je u načelima znanosti virtualno sadržana cijela znanost. A prva se načela spekulativnih znanosti primaju osjetilom, kao što je jasno po Filozofu na početku Metafizike i na kraju Druge analitike. Stoga se cijelo razmatranje spekulativnih znanosti ne može protegnuti dalje nego što može dovesti spoznaja osjetnih stvari. A u spoznaji osjetnih stvari ne može se sastojati posljednje blaženstvo čovjeka, koje je njegova posljednja savršenost. Ništa se, naime, ne usavršava od nečega nižega, osim ukoliko je u nižemu neko sudjelovanje u višemu. A očito je da je forma kamena, ili bilo koje osjetne stvari, niža od čovjeka. Stoga se um ne usavršava formom kamena ukoliko je ona takva forma, nego ukoliko se u njoj ima udjela u nekoj sličnosti nečega što je iznad ljudskoga uma, naime umljivoga svjetla ili nečega takva. A sve što jest po drugome svodi se na ono što jest po sebi. Stoga posljednja savršenost čovjeka mora biti po spoznaji neke stvari koja je iznad ljudskoga uma. A pokazano je da se po osjetnim stvarima ne može doći do spoznaje odijeljenih supstancija, koje su iznad ljudskoga uma. Stoga preostaje da posljednje blaženstvo čovjeka ne može biti u razmatranju spekulativnih znanosti. Ali kao što se u osjetnim formama ima udjela u nekoj sličnosti viših supstancija, tako je razmatranje spekulativnih znanosti neko sudjelovanje u pravom i savršenom blaženstvu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozof u knjizi Etike govori o nesavršenoj sreći, kakva se može imati u ovom životu, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a6.ad2": {
+      "text": "Na drugo treba reći da se po naravi ne želi samo savršeno blaženstvo, nego i bilo kakva njegova sličnost ili sudjelovanje u njemu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a6.ad3": {
+      "text": "Na treće treba reći da se razmatranjem spekulativnih znanosti naš um na neki način privodi u čin, ali ne u posljednji i potpuni čin.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se blaženstvo čovjeka sastoji u spoznaji odijeljenih supstancija, to jest anđela. Grgur, naime, kaže u jednoj homiliji: *Ništa ne koristi biti nazočan na svetkovinama ljudi ako se ne dogodi da budemo nazočni na svetkovinama anđela*; time označuje konačno blaženstvo. Ali na svetkovinama anđela možemo biti nazočni motreći ih. Dakle, čini se da se posljednje blaženstvo čovjeka sastoji u motrenju anđela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a7.obj2": {
+      "text": "Osim toga, posljednja je savršenost svake stvari da se sjedini sa svojim počelom; zato se i za krug kaže da je savršen lik, jer ima isti početak i svršetak. Ali počelo ljudske spoznaje potječe od samih anđela, po kojima se ljudi prosvjetljuju, kako kaže Dionizije u 4. poglavlju djela O nebeskoj hijerarhiji. Dakle, savršenost ljudskoga uma jest u motrenju anđela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a7.obj3": {
+      "text": "Osim toga, svaka je narav savršena kad se sjedini s višom naravi, kao što je posljednja savršenost tijela da se sjedini s duhovnom naravi. Ali iznad ljudskoga uma, po redu naravi, jesu anđeli. Dakle, posljednja je savršenost ljudskoga uma da se motrenjem sjedini sa samim anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Jr 9: *U ovome neka se hvali tko se hvali: da zna i poznaje mene*. Dakle, posljednja slava čovjeka, ili blaženstvo, sastoji se jedino u spoznaji Boga.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a7.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, savršeno blaženstvo čovjeka ne sastoji u onome što je savršenost uma po sudjelovanju u nečemu, nego u onome što je takvo po biti. A očito je da je svaka stvar savršenost neke moći utoliko ukoliko joj pripada pojam vlastitoga predmeta te moći. A vlastiti je predmet uma istinito. Što god, dakle, ima istinu po sudjelovanju, ne čini, kad se motri, um savršenim posljednjom savršenošću. Budući pak da je isto stanje stvari u bitku kao i u istini, kako se kaže u 2. knjizi Metafizike, sve stvari koje su bića po sudjelovanju istinite su po sudjelovanju. A anđeli imaju bitak po sudjelovanju, jer je samo u Bogu njegov bitak njegova bit, kao što je pokazano u Prvom dijelu. Stoga preostaje da je samo Bog istina po biti i da njegovo motrenje čini savršeno blaženim. A ništa ne priječi da se neko nesavršeno blaženstvo zapazi u motrenju anđela, i to više nego u razmatranju spekulativnih znanosti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da ćemo na svetkovinama anđela biti nazočni ne samo motreći anđele, nego zajedno s njima motreći Boga.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a7.ad2": {
+      "text": "Na drugo treba reći da se, prema onima koji tvrde da su ljudske duše stvorene od anđela, čini dosta prikladnim da blaženstvo čovjeka bude u motrenju anđela, kao u sjedinjenju sa svojim počelom. Ali to je zabluda, kao što je rečeno u Prvom dijelu. Stoga je posljednja savršenost ljudskoga uma po sjedinjenju s Bogom, koji je prvo počelo i stvaranja duše i njezina prosvjetljenja. A anđeo prosvjetljuje kao službenik, kao što je utvrđeno u Prvom dijelu. Stoga on svojom službom pomaže čovjeku da dođe do blaženstva, ali nije predmet ljudskoga blaženstva.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a7.ad3": {
+      "text": "Na treće treba reći da se događa na dva načina da niža narav doseže višu. Na jedan način, po stupnju moći koja ima udjela, i tako će posljednja savršenost čovjeka biti u tome što će čovjek doseći to da motri kao što motre anđeli. Na drugi način, kao što moć doseže predmet, i na taj je način posljednja savršenost svake moći da doseže ono u čemu se potpuno nalazi pojam njezina predmeta.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da blaženstvo čovjeka nije u gledanju same božanske biti. Dionizije, naime, kaže u 1. poglavlju djela O mističnoj teologiji da se čovjek po onome što je najviše u umu sjedinjuje s Bogom kao s posve nepoznatim. Ali ono što se gleda po biti nije posve nepoznato. Dakle, posljednja savršenost uma, ili blaženstvo, ne sastoji se u tome da se Bog gleda po biti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a8.obj2": {
+      "text": "Osim toga, više naravi pripada viša savršenost. Ali vlastita je savršenost božanskoga uma to da gleda svoju bit. Dakle, posljednja savršenost ljudskoga uma ne doseže do toga, nego ostaje ispod toga.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1 Iv 3: *Kad se on pojavi, bit ćemo mu slični i vidjet ćemo ga kakav jest*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a8.resp": {
+      "text": "Odgovaram: treba reći da posljednje i savršeno blaženstvo ne može biti drugdje nego u gledanju božanske biti. Da to bude jasno, treba razmotriti dvoje. Prvo, da čovjek nije savršeno blažen dok mu preostaje nešto što treba željeti i tražiti. Drugo, da se savršenost svake moći prosuđuje prema pojmu njezina predmeta. A predmet je uma ono što jest, to jest bit stvari, kako se kaže u 3. knjizi O duši. Stoga savršenost uma napreduje utoliko ukoliko spoznaje bit neke stvari. Ako, dakle, neki um spoznaje bit nekoga učinka po kojoj se ne može spoznati bit uzroka, tako naime da bi se o uzroku znalo što jest, ne kaže se da um naprosto doseže uzrok, premda po učinku može o uzroku spoznati da li jest. Zato u čovjeku po naravi ostaje želja, kad spoznaje učinak i zna da on ima uzrok, da o uzroku zna i što jest. I ta je želja želja divljenja i uzrokuje istraživanje, kako se kaže na početku Metafizike. Primjerice, ako netko, spoznajući pomrčinu sunca, razmatra da ona proizlazi iz nekog uzroka, a budući da ne zna što je taj uzrok, divi mu se, i diveći se istražuje. I to se istraživanje ne smiruje dok ne dođe do spoznaje biti uzroka. Ako, dakle, ljudski um, spoznajući bit nekoga stvorenog učinka, o Bogu spoznaje samo da jest, njegova savršenost još ne doseže naprosto prvi uzrok, nego mu još ostaje naravna želja da istražuje uzrok. Stoga još nije savršeno blažen. Za savršeno se, dakle, blaženstvo zahtijeva da um dosegne do same biti prvoga uzroka. I tako će svoju savršenost imati po sjedinjenju s Bogom kao s predmetom, u kojem se jedinom sastoji blaženstvo čovjeka, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da Dionizije govori o spoznaji onih koji su na putu, težeći k blaženstvu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q3.a8.ad2": {
+      "text": "Na drugo treba reći da se, kao što je gore rečeno, svrha može uzeti na dva načina. Na jedan način, s obzirom na samu stvar koja se želi; i na taj je način svrha više i niže naravi, štoviše svih stvari, ista, kao što je gore rečeno. Na drugi način, s obzirom na zadobivanje te stvari; i tako je svrha više i niže naravi različita, prema različitom odnošaju prema takvoj stvari. Tako je, dakle, više blaženstvo Boga, koji svojim umom obuhvaća svoju bit, nego blaženstvo čovjeka ili anđela, koji je gleda, ali je ne obuhvaća.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    }
+  }
+}

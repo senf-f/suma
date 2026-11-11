@@ -1,0 +1,210 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 11,
+  "units": {
+    "I-II.q11.pr": {
+      "text": "Zatim treba razmotriti uživanje. O tome se postavljaju četiri pitanja. Prvo, je li uživati čin težnjene moći. Drugo, pristaje li samo razumnom stvoru ili i nerazumnim životinjama. Treće, odnosi li se uživanje samo na posljednju svrhu. Četvrto, odnosi li se samo na posjedovanu svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da uživati ne pripada samo težnjenoj moći. Čini se, naime, da uživati nije ništa drugo nego ubirati plod. Ali plod ljudskoga života, a to je blaženstvo, ubire um, u čijem se činu sastoji blaženstvo, kao što je gore pokazano. Dakle, uživati ne pripada težnjenoj moći, nego umu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a1.obj2": {
+      "text": "Osim toga, svaka moć ima vlastitu svrhu, koja je njezina savršenost: tako je svrha vida spoznati vidljivo, svrha sluha opažati zvukove, i tako za ostalo. Ali svrha je stvari njezin plod. Dakle, uživati pripada bilo kojoj moći, a ne samo težnjenoj.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a1.obj3": {
+      "text": "Osim toga, uživanje uključuje neku nasladu. Ali osjetna naslada pripada osjetilu, koje se naslađuje u svojem predmetu, a iz istoga razloga umska naslada pripada umu. Dakle, uživanje pripada zahvatnoj moći, a ne težnjenoj.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u I. knjizi O kršćanskom nauku i u X. knjizi O Trojstvu: *uživati znači ljubavlju prianjati uz neku stvar radi nje same*. A ljubav pripada težnjenoj moći. Dakle, i uživati je čin težnjene moći.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a1.resp": {
+      "text": "Odgovaram: treba reći da se čini da uživanje (fruitio) i plod (fructus) pripadaju istome i da je jedno izvedeno iz drugoga. Što je pak izvedeno od čega, nije važno za ono o čemu je riječ; osim što se čini vjerojatnim da je ono što je očitije bilo i prije imenovano. A nama su najprije očite stvari koje su više osjetne. Stoga se čini da je ime uživanja izvedeno od osjetnih plodova. Osjetni je pak plod ono što se od stabla posljednje očekuje i što se prima s nekom slašću. Stoga se čini da uživanje pripada ljubavi ili nasladi koju netko ima u onome posljednjem što se očekuje, a to je svrha. A svrha i dobro predmet su težnjene moći. Stoga je očito da je uživanje čin težnjene moći.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da ništa ne priječi da jedno te isto, prema različitim pojmovima, pripada različitim moćima. Samo gledanje Boga, dakle, ukoliko je gledanje, čin je uma, a ukoliko je dobro i svrha, predmet je volje. I na taj način volji pripada uživanje u njemu. I tako tu svrhu um postiže kao moć koja djeluje, a volja kao moć koja pokreće prema svrsi i koja uživa u već postignutoj svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a1.ad2": {
+      "text": "Na drugo treba reći da su savršenost i svrha bilo koje druge moći sadržane pod predmetom težnjene moći, kao vlastito pod zajedničkim, kao što je gore rečeno. Stoga savršenost i svrha bilo koje moći, ukoliko je neko dobro, pripada težnjenoj moći. Zbog toga težnjena moć pokreće druge prema njihovim svrhama; a ona sama postiže svrhu kad bilo koja od drugih dosegne svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a1.ad3": {
+      "text": "Na treće treba reći da su u nasladi dvije stvari: opažanje prikladnoga, koje pripada zahvatnoj moći, i sviđanje u onome što se nudi kao prikladno. A to pripada težnjenoj moći, u kojoj se dovršava pojam naslade.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da uživati pripada samo ljudima. Augustin, naime, kaže u I. knjizi O kršćanskom nauku: *mi smo ljudi ti koji uživamo i služimo se*. Dakle, druge životinje ne mogu uživati.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a2.obj2": {
+      "text": "Osim toga, uživati se odnosi na posljednju svrhu. Ali nerazumne životinje ne mogu doseći posljednju svrhu. Dakle, njima ne pripada uživati.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a2.obj3": {
+      "text": "Osim toga, kao što je osjetilna težnja ispod umske, tako je naravna težnja ispod osjetilne. Ako, dakle, uživati pripada osjetilnoj težnji, čini se da iz istoga razloga može pripadati i naravnoj. A očito je da je to lažno, jer njoj ne pripada naslađivati se. Dakle, uživati ne pripada osjetilnoj težnji. I tako ne pristaje nerazumnim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Osamdeset i tri pitanja: *ne smatra se besmislenim da i zvijeri uživaju u hrani i u bilo kojem tjelesnom užitku*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što proizlazi iz rečenoga, uživati nije čin moći koja dolazi do svrhe kao ona koja izvršava, nego moći koja zapovijeda izvršenje; rečeno je, naime, da pripada težnjenoj moći. U stvarima koje su lišene spoznaje nalazi se doduše moć koja dosiže svrhu na način onoga koji izvršava, kao ona kojom teško teži prema dolje, a lako prema gore. Ali moć kojoj bi svrha pripadala na način onoga koji zapovijeda ne nalazi se u njima, nego u nekoj višoj naravi, koja zapovijedanjem tako pokreće cijelu narav kao što u bićima koja imaju spoznaju težnja pokreće druge moći na njihove čine. Stoga je očito da se u onome što je lišeno spoznaje, iako dosiže svrhu, ne nalazi uživanje u svrsi, nego samo u onome što ima spoznaju. Ali spoznaja svrhe je dvostruka: savršena i nesavršena. Savršena je ona kojom se ne spoznaje samo ono što je svrha i dobro, nego opći pojam svrhe i dobra, i takva spoznaja pripada samo razumnoj naravi. Nesavršena je pak spoznaja ona kojom se svrha i dobro spoznaju pojedinačno, i takva je spoznaja u nerazumnim životinjama. Ni njihove težnjene snage ne zapovijedaju slobodno, nego se po naravnom nagonu pokreću prema onome što je zahvaćeno. Stoga razumnoj naravi pristaje uživanje prema savršenom pojmu, nerazumnim životinjama prema nesavršenom pojmu, a drugim stvorovima nikako.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori o savršenom uživanju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a2.ad2": {
+      "text": "Na drugo treba reći da nije potrebno da uživanje bude u posljednjoj svrsi naprosto, nego u onome što svatko ima za posljednju svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a2.ad3": {
+      "text": "Na treće treba reći da osjetilna težnja slijedi neku spoznaju, a naravna težnja ne, osobito ukoliko je u onome što je lišeno spoznaje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a2.ad4": {
+      "text": "Na četvrto treba reći da Augustin ondje govori o nesavršenom uživanju. To se očituje iz samoga načina govora: kaže, naime, da se ne smatra toliko besmislenim da i zvijeri uživaju, naime koliko bi bilo posve besmisleno reći da se služe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se uživanje ne odnosi samo na posljednju svrhu. Apostol, naime, kaže u Flm: *tako, brate, ja ću uživati u tebi u Gospodinu*. Ali očito je da Pavao nije postavio svoju posljednju svrhu u čovjeka. Dakle, uživati se ne odnosi samo na posljednju svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a3.obj2": {
+      "text": "Osim toga, plod je ono u čemu netko uživa. Ali Apostol kaže u Gal 5 da je plod Duha ljubav, radost, mir i ostalo takvo, a to nema pojam posljednje svrhe. Dakle, uživanje se ne odnosi samo na posljednju svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a3.obj3": {
+      "text": "Osim toga, čini volje svraćaju se na same sebe: hoću, naime, da hoću, i ljubim to da ljubim. Ali uživati je čin volje: volja je, naime, ono po čemu uživamo, kako kaže Augustin u X. knjizi O Trojstvu. Dakle, netko uživa u svojem uživanju. Ali uživanje nije posljednja svrha čovjeka, nego je to samo nestvoreno dobro, a to je Bog. Dakle, uživanje se ne odnosi samo na posljednju svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u X. knjizi O Trojstvu: *ne uživa onaj tko za onim što prima u vlast volje teži radi nečega drugoga*. A samo je posljednja svrha ono za čim se ne teži radi nečega drugoga. Dakle, uživanje se odnosi samo na posljednju svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, pojmu ploda pripadaju dvije stvari: da je ono posljednje i da smiruje težnju nekom slašću ili nasladom. A posljednje je ili naprosto ili u nekom pogledu: naprosto ono što se ne odnosi na drugo, a u nekom pogledu ono što je posljednje za neke stvari. Ono, dakle, što je naprosto posljednje, u čemu se nešto naslađuje kao u posljednjoj svrsi, to se u vlastitom smislu naziva plodom, i za nekoga se u vlastitom smislu kaže da u tome uživa. A ono što u sebi nije ugodno, nego se za njim teži samo u usmjerenosti prema drugome, kao gorki napitak radi zdravlja, nikako se ne može nazvati plodom. A ono što u sebi ima neku nasladu, a na što se odnose neke prethodne stvari, može se doduše na neki način nazvati plodom; ali ne kaže se u vlastitom smislu i prema potpunom pojmu ploda da u tome uživamo. Stoga Augustin u X. knjizi O Trojstvu kaže da *uživamo u spoznatome u čemu se volja, naslađena, smiruje*. A ona se naprosto smiruje samo u posljednjem, jer dokle god se nešto očekuje, pokret volje ostaje u neizvjesnosti, iako je već do nečega došla. Tako je i u mjesnom gibanju: iako je ono što je u sredini protežnosti počelo i kraj, ipak se ne uzima kao kraj u činu, osim kad se u njemu smiri.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Augustin u I. knjizi O kršćanskom nauku, *da je rekao: uživat ću u tebi, a nije dodao: u Gospodinu, činilo bi se da je u njemu postavio svrhu ljubavi. Ali budući da je to dodao, pokazao je da je svrhu postavio u Gospodinu i da u njemu uživa*. Tako bi rekao da uživa u bratu ne kao u završetku, nego kao u sredstvu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a3.ad2": {
+      "text": "Na drugo treba reći da se plod drukčije odnosi prema stablu koje ga rađa, a drukčije prema čovjeku koji u njemu uživa. Prema stablu koje ga rađa odnosi se kao učinak prema uzroku, a prema onome koji uživa kao ono posljednje što se očekuje i što naslađuje. Ono, dakle, što Apostol ondje nabraja naziva se plodovima jer su to neki učinci Duha Svetoga u nama, zbog čega se i nazivaju plodovima Duha, ali ne tako da bismo u njima uživali kao u posljednjoj svrsi. Ili treba drukčije reći da se, prema Ambroziju, nazivaju plodovima zato što ih treba tražiti radi njih samih; ne doduše tako da se ne bi odnosili na blaženstvo, nego zato što u sebi samima imaju ono čime nam se trebaju sviđati.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a3.ad3": {
+      "text": "Na treće treba reći da se, kao što je gore rečeno, svrha kaže na dva načina: na jedan način sama stvar, na drugi način postignuće stvari. To nisu dvije svrhe, nego jedna svrha, razmatrana u sebi i primijenjena na drugo. Bog je, dakle, posljednja svrha kao stvar koja se posljednja traži, a uživanje kao postignuće te posljednje svrhe. Kao što, dakle, Bog i uživanje u Bogu nisu različite svrhe, tako je isti pojam uživanja po kojem uživamo u Bogu i po kojem uživamo u uživanju u Bogu. Isto vrijedi i za stvoreno blaženstvo, koje se sastoji u uživanju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se uživanje odnosi samo na posjedovanu svrhu. Augustin, naime, kaže u X. knjizi O Trojstvu da *uživati znači služiti se s radošću, ne više radošću nade, nego već radošću stvari*. Ali dokle god se svrha ne posjeduje, nema radosti stvari, nego nade. Dakle, uživanje se odnosi samo na posjedovanu svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a4.obj2": {
+      "text": "Osim toga, kao što je rečeno, uživanje se u vlastitom smislu odnosi samo na posljednju svrhu, jer samo posljednja svrha smiruje težnju. Ali težnja se smiruje samo u svrsi koja se već posjeduje. Dakle, uživanje se, govoreći u vlastitom smislu, odnosi samo na posjedovanu svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a4.obj3": {
+      "text": "Osim toga, uživati znači ubirati plod. Ali plod se ubire tek kad se svrha već posjeduje. Dakle, uživanje se odnosi samo na posjedovanu svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a4.sc": {
+      "text": "Ali protiv toga: *uživati znači ljubavlju prianjati uz neku stvar radi nje same*, kako kaže Augustin. A to se može dogoditi i sa stvari koja se ne posjeduje. Dakle, uživati se može odnositi i na svrhu koja se ne posjeduje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a4.resp": {
+      "text": "Odgovaram: treba reći da uživati uključuje neko odnošenje volje prema posljednjoj svrsi, ukoliko volja nešto ima za posljednju svrhu. A svrha se posjeduje na dva načina: na jedan način savršeno, na drugi nesavršeno. Savršeno kad se posjeduje ne samo u nakani nego i u stvarnosti; nesavršeno kad se posjeduje samo u nakani. Savršeno je, dakle, uživanje u svrsi koja se već stvarno posjeduje. Ali nesavršeno je uživanje i u svrsi koja se ne posjeduje stvarno, nego samo u nakani.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori o savršenom uživanju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a4.ad2": {
+      "text": "Na drugo treba reći da se smirenje volje priječi na dva načina: na jedan način s obzirom na predmet, naime zato što nije posljednja svrha, nego je usmjeren prema drugome; na drugi način s obzirom na onoga koji teži za svrhom, a još je ne postiže. Predmet je ono što daje vrstu činu, ali od djelatnika ovisi način djelovanja, da bude savršen ili nesavršen, prema stanju djelatnika. Zato je uživanje u onome što nije posljednja svrha uživanje u nevlastitom smislu, kao ono kojemu nedostaje vrsta uživanja. A uživanje u posljednjoj svrsi koja se ne posjeduje jest uživanje u vlastitom smislu, ali nesavršeno, zbog nesavršenog načina posjedovanja posljednje svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q11.a4.ad3": {
+      "text": "Na treće treba reći da se za nekoga kaže da prima ili posjeduje svrhu ne samo u stvarnosti nego i u nakani, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    }
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 13,
+  "units": {
+    "I-II.q13.pr": {
+      "text": "Zatim treba razmotriti čine volje koji se odnose na ono što vodi k svrsi. A tri su: izabrati, pristati i služiti se. Izboru pak prethodi promišljanje. Stoga najprije treba razmotriti izbor; drugo, promišljanje; treće, pristanak; četvrto, upotrebu. U vezi s izborom postavlja se šest pitanja. Prvo, čije je moći izbor čin: volje ili razuma. Drugo, pristaje li izbor nerazumnim životinjama. Treće, odnosi li se izbor samo na ono što vodi k svrsi ili ponekad i na svrhu. Četvrto, odnosi li se izbor samo na ono što mi sami činimo. Peto, odnosi li se izbor samo na moguće. Šesto, izabire li čovjek po nužnosti ili slobodno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da izbor nije čin volje, nego razuma. Izbor, naime, uključuje neko uspoređivanje kojim se jedno pretpostavlja drugome. Ali uspoređivati pripada razumu. Dakle, izbor pripada razumu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a1.obj2": {
+      "text": "Osim toga, istome pripada izvoditi silogizam i zaključivati. Ali izvoditi silogizam u području onoga što se čini pripada razumu. Budući da je, dakle, izbor kao zaključak u području onoga što se čini, kako se kaže u VII. knjizi Etike, čini se da je izbor čin razuma.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a1.obj3": {
+      "text": "Osim toga, neznanje ne pripada volji, nego spoznajnoj sili. A postoji neko neznanje izbora, kako se kaže u III. knjizi Etike. Dakle, čini se da izbor ne pripada volji, nego razumu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a1.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u III. knjizi Etike, da je *izbor želja za onim što ovisi o nama*. A želja je čin volje. Dakle, i izbor.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a1.resp": {
+      "text": "Odgovaram: treba reći da naziv izbora uključuje nešto što pripada razumu ili umu i nešto što pripada volji; Filozof, naime, kaže u VI. knjizi Etike da je *izbor težnjeni um ili umska težnja*. A kad god se dvoje stječe da bi se sastavilo nešto jedno, jedno je od njih kao formalno u odnosu na drugo. Zato Grgur iz Nise kaže da *izbor nije ni težnja po sebi samoj ni samo promišljanje, nego nešto sastavljeno od njih. Kao što, naime, kažemo da je živo biće sastavljeno od duše i tijela i da nije ni tijelo po sebi samome ni sama duša, nego oboje, tako je i s izborom*. A kod čina duše treba uzeti u obzir da čin koji po biti pripada jednoj moći ili jednom habitusu prima formu i vrstu od više moći ili višeg habitusa, ukoliko više usmjeruje niže: ako, naime, netko vrši čin hrabrosti zbog ljubavi prema Bogu, taj je čin tvarno čin hrabrosti, a formalno čin bogoslovne ljubavi. Očito je pak da razum na neki način prethodi volji i usmjeruje njezin čin, ukoliko, naime, volja teži prema svojem predmetu po redu razuma, budući da zahvatna sila predočuje težnjenoj sili njezin predmet. Tako je, dakle, onaj čin kojim volja teži prema nečemu što joj se predlaže kao dobro, zbog toga što je razumom usmjereno prema svrsi, tvarno čin volje, a formalno čin razuma. A u takvim se stvarima supstancija čina odnosi kao tvar prema redu koji nameće viša moć. I zato izbor po svojoj supstanciji nije čin razuma, nego volje: izbor se, naime, dovršava u nekom pokretu duše prema dobru koje se izabire. Stoga je očito čin težnjene moći.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da izbor uključuje neko prethodno uspoređivanje, a ne da je po biti samo to uspoređivanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a1.ad2": {
+      "text": "Na drugo treba reći da i zaključak silogizma koji se izvodi u području onoga što se čini pripada razumu; i naziva se odlukom ili sudom, a za njim slijedi izbor. I zbog toga se čini da sam zaključak pripada izboru kao onome što za njim slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a1.ad3": {
+      "text": "Na treće treba reći da se kaže da postoji neznanje izbora ne zato što bi sam izbor bio znanje, nego zato što se ne zna što treba izabrati.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da izbor pristaje nerazumnim životinjama. Izbor je, naime, težnja za nečim radi svrhe, kako se kaže u III. knjizi Etike. Ali nerazumne životinje teže za nečim radi svrhe: one, naime, djeluju radi svrhe i iz težnje. Dakle, u nerazumnim životinjama postoji izbor.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a2.obj2": {
+      "text": "Osim toga, čini se da sam naziv izbora označuje da se nešto uzima radije nego drugo. Ali nerazumne životinje uzimaju nešto radije nego drugo, kao što se očito vidi da ovca jednu travu jede, a drugu odbacuje. Dakle, u nerazumnim životinjama postoji izbor.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a2.obj3": {
+      "text": "Osim toga, kako se kaže u VI. knjizi Etike, *razboritosti pripada da netko dobro izabire ono što vodi k svrsi*. Ali razboritost pristaje nerazumnim životinjama; zato se na početku Metafizike kaže da su *razborita, ali bez poučavanja, sva ona bića koja ne mogu čuti zvukove, kao pčele*. A to se čini očitim i osjetilu: u djelima životinja, naime, očituju se čudesne domišljatosti, kao kod pčela, pauka i pasa. Pas, naime, koji progoni jelena, kad dođe do raskrižja triju putova, njuhom istražuje je li jelen prošao prvim ili drugim putem; a ako ustanovi da nije prošao, sigurno odmah kreće trećim putem, ne istražujući, kao da se služi rastavnim silogizmom kojim bi se moglo zaključiti da je jelen pošao onim putem, budući da nije pošao ni jednim od druga dva, a više ih nema. Dakle, čini se da izbor pristaje nerazumnim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur iz Nise, da *djeca i nerazumna bića djeluju doduše voljno, ali ne izabirući*. Dakle, u nerazumnim životinjama nema izbora.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a2.resp": {
+      "text": "Odgovaram: treba reći da je, budući da je izbor davanje prednosti jednome u odnosu na drugo, nužno da se izbor odnosi na više stvari koje se mogu izabrati. I zato kod onoga što je potpuno određeno na jedno izbor nema mjesta. A razlika je između osjetilne težnje i volje u tome što je, kako je jasno iz rečenoga, osjetilna težnja određena na nešto jedno pojedinačno po redu naravi, dok je volja, doduše, po redu naravi određena na jedno opće, a to je dobro, ali se prema pojedinačnim dobrima odnosi neodređeno. I zato izabirati u vlastitom smislu pripada volji, a ne osjetilnoj težnji, koja je jedina u nerazumnim životinjama. I zbog toga izbor ne pristaje nerazumnim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se izborom ne naziva svaka težnja za nečim radi svrhe, nego ona koja je povezana s nekim razlučivanjem jednoga od drugoga. A to ne može imati mjesta osim ondje gdje se težnja može upraviti prema više stvari.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a2.ad2": {
+      "text": "Na drugo treba reći da nerazumna životinja uzima jedno radije nego drugo zato što je njezina težnja po naravi određena na to. Stoga, čim joj se osjetilom ili maštom predoči nešto prema čemu je njezina težnja po naravi nagnuta, bez izbora se kreće samo prema tome. Kao što se i vatra bez izbora giba prema gore, a ne prema dolje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a2.ad3": {
+      "text": "Na treće treba reći da je, kako se kaže u III. knjizi Fizike, *gibanje čin pokretljivoga od pokretača*. I zato se snaga pokretača očituje u gibanju pokretljivoga. I zbog toga se u svemu što je pokretano razumom očituje red razuma koji pokreće, premda samo to nema razuma; tako, naime, strijela izravno teži prema cilju zbog pokretanja od strijelca, kao da sama ima razum koji je upravlja. Isto se očituje u gibanjima satova i svih ljudskih naprava koje nastaju umijećem. A kao što se umjetne stvari odnose prema ljudskom umijeću, tako se sve naravne stvari odnose prema božanskom umijeću. I zato se red očituje u onome što se giba po naravi, kao i u onome što se giba po razumu, kako se kaže u II. knjizi Fizike. I odatle biva da se u djelima nerazumnih životinja očituju neke domišljatosti, ukoliko one imaju naravnu sklonost prema nekim veoma uređenim postupcima, budući da ih je uredilo najviše umijeće. I zbog toga se neke životinje i nazivaju razboritima ili domišljatima, a ne zato što bi u njima bilo kakvog razuma ili izbora. To se vidi iz toga što sva bića jedne naravi djeluju na sličan način.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se izbor ne odnosi samo na ono što vodi k svrsi. Filozof, naime, kaže u VI. knjizi Etike da *izbor ispravnim čini krepost, a sve ono što je po naravi da se čini radi onoga ne pripada kreposti, nego drugoj moći*. A ono radi čega se nešto čini jest svrha. Dakle, izbor se odnosi na svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a3.obj2": {
+      "text": "Osim toga, izbor uključuje davanje prednosti jednome u odnosu na drugo. Ali kao što se među onim što vodi k svrsi jedno može pretpostaviti drugome, tako i među različitim svrhama. Dakle, izbor se može odnositi na svrhu, kao i na ono što vodi k svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a3.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u III. knjizi Etike, da se *volja odnosi na svrhu, a izbor na ono što vodi k svrsi*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a3.resp": {
+      "text": "Odgovaram: treba reći da, kako je već rečeno, izbor slijedi za odlukom ili sudom, koji je kao zaključak djelatnog silogizma. Stoga pod izbor potpada ono što se odnosi kao zaključak u silogizmu o onome što se čini. A svrha se u području onoga što se čini odnosi kao načelo, a ne kao zaključak, kako kaže Filozof u II. knjizi Fizike. Stoga svrha, ukoliko je svrha, ne potpada pod izbor. Ali kao što u spekulativnom području ništa ne priječi da ono što je načelo jednog dokaza ili jedne znanosti bude zaključak drugog dokaza ili druge znanosti, premda prvo nedokazivo načelo ne može biti zaključak nijednog dokaza ili znanosti, tako se također događa da ono što je u jednom djelovanju kao svrha bude usmjereno prema nečemu drugome kao prema svrsi. I na taj način potpada pod izbor. Tako se u djelovanju liječnika zdravlje odnosi kao svrha; zato ono ne potpada pod liječnikov izbor, nego ga on pretpostavlja kao načelo. Ali zdravlje tijela usmjereno je prema dobru duše; zato kod onoga tko se brine za spasenje duše pod izbor može potpasti biti zdrav ili biti bolestan; Apostol, naime, kaže u 2 Kor 12: *Kad sam, naime, slab, tada sam jak*. Ali posljednja svrha nikako ne potpada pod izbor.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da su vlastite svrhe kreposti usmjerene prema blaženstvu kao prema posljednjoj svrsi. I na taj način može postojati njihov izbor.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a3.ad2": {
+      "text": "Na drugo treba reći da je, kako je gore utvrđeno, posljednja svrha samo jedna. Stoga, gdje god se pojavi više svrha, među njima može biti izbora, ukoliko su usmjerene prema daljnjoj svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se izbor ne odnosi samo na ljudske čine. Izbor se, naime, odnosi na ono što vodi k svrsi. Ali ono što vodi k svrsi nisu samo čini, nego i oruđa, kako se kaže u II. knjizi Fizike. Dakle, izbori se ne odnose samo na ljudske čine.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a4.obj2": {
+      "text": "Osim toga, radnja se razlikuje od motrenja. Ali izbor ima mjesta i u motrenju, ukoliko se, naime, jedno mnijenje izabire radije nego drugo. Dakle, izbor se ne odnosi samo na ljudske čine.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a4.obj3": {
+      "text": "Osim toga, ljude za neke službe, bilo svjetovne bilo crkvene, izabiru oni koji prema njima ništa ne čine. Dakle, izbor se ne odnosi samo na ljudske čine.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a4.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u III. knjizi Etike, da *nitko ne izabire ništa osim onoga za što misli da se može učiniti po njemu samome*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što se nakana odnosi na svrhu, tako se izbor odnosi na ono što vodi k svrsi. A svrha je ili radnja ili neka stvar. I kad je svrha neka stvar, nužno je da posreduje neka ljudska radnja: bilo ukoliko čovjek proizvodi onu stvar koja je svrha, kao što liječnik proizvodi zdravlje, koje je njegova svrha (zato se i kaže da je proizvesti zdravlje svrha liječnika); bilo ukoliko se čovjek na neki način služi stvari koja je svrha ili u njoj uživa, kao što je škrtcu svrha novac ili posjedovanje novca. I na isti način treba govoriti o onome što vodi k svrsi. Jer nužno je da ono što vodi k svrsi bude ili radnja ili neka stvar uz posredovanje neke radnje kojom čovjek proizvodi ono što vodi k svrsi ili se time služi. I na taj se način izbor uvijek odnosi na ljudske čine.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da su oruđa usmjerena prema svrsi ukoliko se čovjek njima služi radi svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a4.ad2": {
+      "text": "Na drugo treba reći da u samom motrenju postoji neki čin uma koji prihvaća ovo ili ono mnijenje. A motrenju se suprotstavlja izvanjska radnja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a4.ad3": {
+      "text": "Na treće treba reći da čovjek koji izabire biskupa ili poglavara grada izabire to da ga imenuje za takvo dostojanstvo. Inače, kad on ne bi imao nikakve radnje u postavljanju biskupa ili poglavara, ne bi mu pripadao izbor. I slično treba reći da je, kad god se kaže da se neka stvar izabire radije nego druga, ondje pridruženo neko djelovanje onoga koji izabire.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se izbor ne odnosi samo na moguće. Izbor je, naime, čin volje, kako je rečeno. Ali volja se odnosi i na nemoguće, kako se kaže u III. knjizi Etike. Dakle, i izbor.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a5.obj2": {
+      "text": "Osim toga, izbor se odnosi na ono što mi sami činimo, kako je rečeno. Stoga, što se tiče izbora, nije važno izabire li se ono što je naprosto nemoguće ili ono što je nemoguće onome koji izabire. Ali često ono što izabiremo ne možemo izvršiti, i tako nam je to nemoguće. Dakle, izbor se odnosi na nemoguće.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a5.obj3": {
+      "text": "Osim toga, čovjek ništa ne pokušava činiti a da to ne izabere. Ali blaženi Benedikt kaže da, ako poglavar zapovjedi nešto nemoguće, treba to pokušati. Dakle, izbor se može odnositi na nemoguće.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a5.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u III. knjizi Etike, da se *izbor ne odnosi na nemoguće*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a5.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, naši izbori uvijek odnose na naše radnje. A ono što mi sami činimo nama je moguće. Stoga je nužno reći da se izbor odnosi samo na moguće. Slično tome, i razlog da se nešto izabere jest to što vodi k svrsi. A pomoću onoga što je nemoguće nitko ne može postići svrhu. Znak je toga što ljudi, kad u promišljanju dođu do onoga što im je nemoguće, odustaju, kao da ne mogu ići dalje. To se očito vidi i iz postupka razuma koji prethodi. Ono, naime, što vodi k svrsi, a na što se odnosi izbor, odnosi se prema svrsi kao zaključak prema načelu. A očito je da nemoguć zaključak ne slijedi iz mogućeg načela. Stoga ne može biti da svrha bude moguća ako ono što vodi k svrsi nije moguće. A prema onome što je nemoguće nitko se ne pokreće. Stoga nitko ne bi težio prema svrsi kad mu se ne bi činilo da je ono što vodi k svrsi moguće. Dakle, ono što je nemoguće ne potpada pod izbor.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je volja posrednica između uma i izvanjskog djelovanja: um, naime, predlaže volji njezin predmet, a sama volja prouzrokuje izvanjsku radnju. Tako se, dakle, počelo pokreta volje promatra sa strane uma, koji zahvaća nešto kao dobro općenito; a završetak ili savršenost čina volje gleda se po usmjerenosti prema djelovanju kojim netko teži za postizanjem stvari, jer pokret volje ide od duše prema stvari. I zato se savršenost čina volje gleda po tome što je nešto nekome dobro da to učini. A to je moguće. I zato se potpuna volja odnosi samo na moguće, koje je dobro onome koji hoće. A nepotpuna se volja odnosi na nemoguće, i nju neki nazivaju pukim htijenjem, jer bi, naime, netko to htio kad bi bilo moguće. A izbor označuje čin volje koji je već određen na ono što ovaj čovjek treba činiti. I zato se ni na koji način ne odnosi ni na što osim na moguće.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a5.ad2": {
+      "text": "Na drugo treba reći da, budući da je predmet volje zahvaćeno dobro, o predmetu volje treba suditi onako kako potpada pod zahvaćanje. I zato, kao što se volja ponekad odnosi na nešto što se zahvaća kao dobro, a ipak nije uistinu dobro, tako se ponekad izbor odnosi na ono što se zahvaća kao moguće onome koji izabire, a ipak mu nije moguće.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a5.ad3": {
+      "text": "Na treće treba reći da se to kaže zato što podložnik ne smije svojim sudom određivati je li nešto moguće, nego se u svakoj stvari treba držati suda poglavara.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da čovjek izabire po nužnosti. Svrha se, naime, odnosi prema onome što se može izabrati kao načela prema onome što iz načela slijedi, kako je jasno iz VII. knjige Etike. Ali iz načela se zaključci izvode po nužnosti. Dakle, svrha nekoga po nužnosti pokreće da izabere.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a6.obj2": {
+      "text": "Osim toga, kako je rečeno, izbor slijedi za sudom razuma o onome što treba činiti. Ali razum o nekim stvarima sudi po nužnosti, zbog nužnosti premisa. Dakle, čini se da i izbor slijedi po nužnosti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a6.obj3": {
+      "text": "Osim toga, ako su neke dvije stvari potpuno jednake, čovjek se ne pokreće više prema jednoj nego prema drugoj; kao što se gladan čovjek, ako ima jednako poželjnu hranu na različitim stranama i na jednakoj udaljenosti, ne pokreće više prema jednoj nego prema drugoj, kako je rekao Platon navodeći razlog mirovanja zemlje u središtu, kako se kaže u II. knjizi O nebu. Ali još se mnogo manje može izabrati ono što se uzima kao manje nego ono što se uzima kao jednako. Dakle, ako se predlože dvije ili više stvari među kojima se jedna čini većom, nemoguće je izabrati ikoju od ostalih. Dakle, po nužnosti se izabire ono što se čini izvrsnijim. Ali svaki se izbor odnosi na ono što se na neki način čini boljim. Dakle, svaki je izbor po nužnosti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a6.sc": {
+      "text": "Ali protiv toga je to što je izbor čin razumske moći, koja se, prema Filozofu, odnosi prema suprotstavljenome.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a6.resp": {
+      "text": "Odgovaram: treba reći da čovjek ne izabire po nužnosti. A to je zato što ono za što je moguće da ne bude nije nužno da bude. A razlog tomu što je moguće ne izabrati ili izabrati može se uzeti iz dvostruke čovjekove moći. Čovjek, naime, može htjeti i ne htjeti, djelovati i ne djelovati; može također htjeti ovo ili ono i činiti ovo ili ono. Razlog se tomu uzima iz same snage razuma. Što god, naime, razum može zahvatiti kao dobro, prema tome volja može težiti. A razum može zahvatiti kao dobro ne samo to što jest htjeti ili djelovati, nego i to što jest ne htjeti i ne djelovati. I opet, u svim pojedinačnim dobrima on može razmatrati pojam nekog dobra i nedostatak nekog dobra, koji ima pojam zla; i prema tome može svako takvo dobro zahvatiti kao nešto što treba izabrati ili kao nešto čega se treba kloniti. Jedino savršeno dobro, a to je blaženstvo, razum ne može zahvatiti pod pojmom zla ili nekog nedostatka. I zato čovjek po nužnosti hoće blaženstvo i ne može htjeti ne biti blažen ili biti bijedan. A izbor se, budući da se ne odnosi na svrhu, nego na ono što vodi k svrsi, kako je već rečeno, ne odnosi na savršeno dobro, a to je blaženstvo, nego na druga, pojedinačna dobra. I zato čovjek ne izabire po nužnosti, nego slobodno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da zaključak ne proizlazi iz načela uvijek po nužnosti, nego samo onda kad načela ne mogu biti istinita ako zaključak nije istinit. I slično, ne mora uvijek iz svrhe u čovjeku postojati nužnost da izabere ono što vodi k svrsi, jer nije sve što vodi k svrsi takvo da se bez njega svrha ne bi mogla postići; ili, ako i jest takvo, ne razmatra se uvijek pod tim vidom.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a6.ad2": {
+      "text": "Na drugo treba reći da se odluka ili sud razuma o onome što treba činiti odnosi na kontingentno, na ono što mi možemo učiniti, gdje zaključci ne slijede po nužnosti iz načela nužnih apsolutnom nužnošću, nego iz načela nužnih samo uvjetno, kao na primjer: ako trči, giba se.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q13.a6.ad3": {
+      "text": "Na treće treba reći da ništa ne priječi, kad se predlože neke dvije stvari jednake po jednom vidu razmatranja, da se kod jedne od njih uoči neko obilježje po kojemu se ističe, pa da se volja više prikloni njoj nego drugoj.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    }
+  }
+}

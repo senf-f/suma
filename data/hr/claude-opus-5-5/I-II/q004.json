@@ -1,0 +1,432 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 4,
+  "units": {
+    "I-II.q4.pr": {
+      "text": "Zatim treba razmotriti ono što se zahtijeva za blaženstvo. I o tome se postavlja osam pitanja. Prvo, zahtijeva li se za blaženstvo naslada. Drugo, što je glavnije u blaženstvu, naslada ili gledanje. Treće, zahtijeva li se obuhvaćanje. Četvrto, zahtijeva li se ispravnost volje. Peto, zahtijeva li se za čovjekovo blaženstvo tijelo. Šesto, zahtijeva li se savršenost tijela. Sedmo, zahtijevaju li se neka vanjska dobra. Osmo, zahtijeva li se društvo prijatelja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se za blaženstvo ne zahtijeva naslada. Augustin, naime, kaže u I. knjizi O Trojstvu da je *gledanje sva plaća vjere*. A ono što je nagrada ili plaća kreposti jest blaženstvo, kako je jasno iz Filozofa u I. knjizi Etike. Dakle, za blaženstvo se ne zahtijeva ništa drugo osim samoga gledanja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a1.obj2": {
+      "text": "Osim toga, blaženstvo je po sebi najdostatnije dobro, kako kaže Filozof u I. knjizi Etike. A ono što treba nešto drugo nije po sebi dostatno. Budući da se, dakle, bit blaženstva sastoji u gledanju Boga, kako je pokazano, čini se da se za blaženstvo ne zahtijeva naslada.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a1.obj3": {
+      "text": "Osim toga, djelovanje sreće ili blaženstva mora biti nesmetano, kako se kaže u VII. knjizi Etike. Ali naslada priječi radnju uma, jer kvari prosudbu razboritosti, kako se kaže u VI. knjizi Etike. Dakle, za blaženstvo se ne zahtijeva naslada.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a1.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u X. knjizi Ispovijesti, da je *blaženstvo radost zbog istine*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a1.resp": {
+      "text": "Odgovaram: treba reći da se nešto zahtijeva za nešto drugo na četiri načina. Na jedan način, kao ono što mu prethodi ili ga pripravlja, kao što se pouka zahtijeva za znanje. Na drugi način, kao ono što nešto dovršava, kao što se duša zahtijeva za život tijela. Na treći način, kao izvanjska pomoć, kao što se prijatelji zahtijevaju da bi se nešto učinilo. Na četvrti način, kao nešto popratno, kao kad bismo rekli da se toplina zahtijeva za vatru. I na taj se način za blaženstvo zahtijeva naslada. Naslada se, naime, uzrokuje time što se težnja smiruje u postignutom dobru. Stoga, budući da blaženstvo nije ništa drugo nego postignuće najvišeg dobra, ne može biti blaženstva bez popratne naslade.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, upravo time što se nekome isplaćuje plaća, smiruje volja onoga koji ju je zaslužio, a to je nasladiti se. Stoga je u samom pojmu isplaćene plaće uključena naslada.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a1.ad2": {
+      "text": "Na drugo treba reći da se naslada uzrokuje upravo iz gledanja Boga. Stoga onaj koji gleda Boga ne može biti bez naslade.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a1.ad3": {
+      "text": "Na treće treba reći da naslada koja prati djelovanje uma ne priječi to djelovanje, nego ga štoviše jača, kako se kaže u X. knjizi Etike; jer ono što činimo s nasladom, činimo pozornije i ustrajnije. Naslada pak koja je tuđa djelovanju priječi ga, ponekad zbog rastresenosti pozornosti, jer smo, kako je rečeno, više usredotočeni na ono u čemu se naslađujemo, a dok se nečemu snažno posvećujemo, nužno je da se pozornost povuče od nečega drugoga. Ponekad pak i zbog protivnosti, kao što naslada osjetila koja je protivna razumu priječi prosudbu razboritosti više nego prosudbu spekulativnog uma.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je u blaženstvu naslada glavnija od gledanja. Naslada je, naime, kako se kaže u X. knjizi Etike, savršenost djelovanja. A savršenost je vrednija od onoga što se njome usavršava. Dakle, naslada je vrednija od djelovanja uma, koje je gledanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a2.obj2": {
+      "text": "Osim toga, ono radi čega je nešto poželjno vrednije je. A djelovanja se žele radi svoje naslade; zato je i narav djelovanjima nužnima za održavanje pojedinca i vrste pridodala nasladu, da životinje ne bi zanemarivale takva djelovanja. Dakle, naslada je u blaženstvu vrednija od djelovanja uma, koje je gledanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a2.obj3": {
+      "text": "Osim toga, gledanje odgovara vjeri, a naslada ili uživanje ljubavi. Ali ljubav je veća od vjere, kako kaže Apostol u 1. poslanici Korinćanima, 13. poglavlju. Dakle, naslada ili uživanje vrednije je od gledanja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a2.sc": {
+      "text": "Ali protiv toga, uzrok je vredniji od učinka. A gledanje je uzrok naslade. Dakle, gledanje je vrednije od naslade.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a2.resp": {
+      "text": "Odgovaram: treba reći da to pitanje postavlja Filozof u X. knjizi Etike i ostavlja ga neriješenim. Ali ako netko pomno razmotri, nužno je da djelovanje uma, koje je gledanje, bude vrednije od naslade. Naslada se, naime, sastoji u nekom smirenju volje. A to da se volja u nečemu smiri biva samo zbog dobrote onoga u čemu se smiruje. Ako se, dakle, volja smiruje u nekom djelovanju, smirenje volje proizlazi iz dobrote djelovanja. Volja ne traži dobro radi smirenja, jer bi tako sam čin volje bio svrha, što je protiv onoga što je prije postavljeno. Nego traži da se smiri u djelovanju zato što je djelovanje njezino dobro. Stoga je očito da je glavnije dobro samo djelovanje u kojem se volja smiruje nego smirenje volje u njemu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako ondje kaže sam Filozof, *naslada usavršava djelovanje kao ljepota mladost*, koja slijedi mladost. Stoga je naslada neka savršenost koja prati gledanje, a ne savršenost koja čini da gledanje bude savršeno u svojoj vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a2.ad2": {
+      "text": "Na drugo treba reći da osjetilno zahvaćanje ne doseže opći pojam dobra, nego neko posebno dobro koje je ugodno. I zato se, prema osjetilnoj težnji koja je u životinjama, djelovanja traže radi naslade. Ali um zahvaća opći pojam dobra, a postizanje toga dobra slijedi naslada. Stoga on prvenstvenije smjera na dobro nego na nasladu. I odatle dolazi to da je božanski um, koji je ustanovitelj naravi, pridodao naslade radi djelovanja. Ne treba, pak, ništa prosuđivati naprosto prema redu osjetilne težnje, nego radije prema redu umske težnje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a2.ad3": {
+      "text": "Na treće treba reći da ljubav ne traži ljubljeno dobro radi naslade, nego iz nje slijedi to da se naslađuje u postignutom dobru koje ljubi. I tako joj naslada ne odgovara kao svrha, nego joj prije odgovara gledanje, po kojem joj svrha najprije postaje prisutna.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se za blaženstvo ne zahtijeva obuhvaćanje. Augustin, naime, kaže u spisu Paulini o gledanju Boga: *dosegnuti Boga duhom veliko je blaženstvo, a obuhvatiti ga nemoguće je*. Dakle, blaženstvo postoji bez obuhvaćanja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a3.obj2": {
+      "text": "Osim toga, blaženstvo je savršenost čovjeka prema umskom dijelu, u kojem nema drugih moći osim uma i volje, kako je rečeno u Prvom dijelu. Ali um se dostatno usavršava gledanjem Boga, a volja nasladom u njemu. Dakle, ne zahtijeva se obuhvaćanje kao nešto treće.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a3.obj3": {
+      "text": "Osim toga, blaženstvo se sastoji u djelovanju. A djelovanja se određuju prema predmetima. Općenitih je predmeta dva: istinito i dobro; istinito odgovara gledanju, a dobro odgovara nasladi. Dakle, ne zahtijeva se obuhvaćanje kao nešto treće.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u 1. poslanici Korinćanima, 9. poglavlju: *tako trčite da obuhvatite*. A duhovna trka završava u blaženstvu; zato on sam kaže u 2. poslanici Timoteju, posljednjem poglavlju: *dobru sam borbu izborio, trku dovršio, vjeru sačuvao; za ostalo, pripravljen mi je vijenac pravednosti*. Dakle, za blaženstvo se zahtijeva obuhvaćanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a3.resp": {
+      "text": "Odgovaram: treba reći da, budući da se blaženstvo sastoji u postizanju posljednje svrhe, ono što se zahtijeva za blaženstvo treba razmatrati iz same čovjekove usmjerenosti prema svrsi. A prema umljivoj svrsi čovjek je usmjeren dijelom po umu, a dijelom po volji. Po umu, ukoliko u umu prethodno postoji neka nesavršena spoznaja svrhe. Po volji pak, najprije po ljubavi, koja je prvi pokret volje prema nečemu, a zatim po stvarnom odnošaju onoga koji ljubi prema ljubljenome, a taj odnošaj može biti trostruk. Ponekad je, naime, ljubljeno prisutno onome koji ljubi, i tada se više ne traži. Ponekad pak nije prisutno, ali ga je nemoguće postići, i tada se također ne traži. Ponekad pak ga je moguće postići, ali je uzdignuto iznad sposobnosti onoga koji ga postiže, tako da se ne može odmah imati; i to je odnošaj onoga koji se nada prema onome čemu se nada, i jedino taj odnošaj čini da se svrha traži. I tim trima stvarima odgovara nešto u samom blaženstvu. Jer savršena spoznaja svrhe odgovara nesavršenoj; prisutnost same svrhe odgovara odnošaju nade; a naslada u već prisutnoj svrsi slijedi ljubav, kako je gore rečeno. I zato je nužno da za blaženstvo budu zajedno ovo troje: gledanje, koje je savršena spoznaja umljive svrhe; obuhvaćanje, koje podrazumijeva prisutnost svrhe; naslada ili uživanje, koje podrazumijeva smirenje onoga koji ljubi u ljubljenome.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se obuhvaćanje kaže na dva načina. Na jedan način, kao uključenost obuhvaćenoga u onome koji obuhvaća; i tako je sve što je obuhvaćeno od konačnoga konačno. Stoga na taj način Boga ne može obuhvatiti nijedan stvoreni um. Na drugi način obuhvaćanje ne označuje ništa drugo nego držanje neke stvari koja se već prisutno posjeduje; kao što se za nekoga tko sustigne drugoga kaže da ga je obuhvatio kad ga drži. I na taj se način za blaženstvo zahtijeva obuhvaćanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a3.ad2": {
+      "text": "Na drugo treba reći da, kao što volji pripadaju nada i ljubav, jer je istoga ljubiti nešto i težiti prema tome dok se nema, tako volji pripadaju i obuhvaćanje i naslada, jer je istoga imati nešto i smiriti se u tome.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a3.ad3": {
+      "text": "Na treće treba reći da obuhvaćanje nije neko djelovanje osim gledanja, nego je neki odnošaj prema svrsi koja se već ima. Stoga je i samo gledanje, ili viđena stvar ukoliko je prisutna, predmet obuhvaćanja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se za blaženstvo ne zahtijeva ispravnost volje. Blaženstvo se, naime, bitno sastoji u djelovanju uma, kako je rečeno. Ali za savršeno djelovanje uma ne zahtijeva se ispravnost volje, po kojoj se za ljude kaže da su čisti; Augustin, naime, kaže u knjizi Ispravaka: *Ne odobravam ono što sam rekao u molitvi: Bože, koji si htio da samo čisti znaju istinu. Može se, naime, odgovoriti da i mnogi koji nisu čisti znaju mnoge istine*. Dakle, za blaženstvo se ne zahtijeva ispravnost volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a4.obj2": {
+      "text": "Osim toga, ono što je prije ne ovisi o onome što je poslije. Ali djelovanje uma prethodi djelovanju volje. Dakle, blaženstvo, koje je savršeno djelovanje uma, ne ovisi o ispravnosti volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a4.obj3": {
+      "text": "Osim toga, ono što je usmjereno prema nečemu kao prema svrsi nije nužno kad je svrha već postignuta, kao lađa nakon što se stigne u luku. Ali ispravnost volje, koja biva po kreposti, usmjerena je prema blaženstvu kao prema svrsi. Dakle, kad je blaženstvo postignuto, ispravnost volje nije nužna.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mateju, 5. poglavlju: *blaženi čisti srcem, jer će oni Boga gledati*. I u Poslanici Hebrejima, 12. poglavlju: *težite za mirom sa svima i za svetošću, bez koje nitko neće gledati Boga*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a4.resp": {
+      "text": "Odgovaram: treba reći da se ispravnost volje za blaženstvo zahtijeva i kao ono što prethodi i kao ono što prati. Kao ono što prethodi, zato što ispravnost volje biva po dužnoj usmjerenosti prema posljednjoj svrsi. A svrha se prema onome što je usmjereno prema svrsi odnosi kao forma prema tvari. Stoga, kao što tvar ne može postići formu ako nije na dužan način raspoložena za nju, tako ništa ne postiže svrhu ako nije na dužan način usmjereno prema njoj. I zato nitko ne može doći do blaženstva ako nema ispravnosti volje. Kao ono što prati, pak, zato što se, kako je rečeno, posljednje blaženstvo sastoji u gledanju božanske biti, koja je sama bit dobrote. I tako volja onoga koji gleda Božju bit nužno ljubi sve što ljubi u usmjerenosti prema Bogu, kao što volja onoga koji ne gleda Božju bit nužno ljubi sve što ljubi pod općim pojmom dobra koji poznaje. I upravo to čini volju ispravnom. Stoga je očito da blaženstvo ne može biti bez ispravne volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori o spoznaji istinitoga koje nije sama bit dobrote.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a4.ad2": {
+      "text": "Na drugo treba reći da svakom činu volje prethodi neki čin uma, ali ipak neki čin volje prethodi nekom činu uma. Volja, naime, teži prema završnom činu uma, koji je blaženstvo. I zato se za blaženstvo unaprijed zahtijeva ispravna sklonost volje, kao što se za pogađanje cilja zahtijeva pravo gibanje strijele.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a4.ad3": {
+      "text": "Na treće treba reći da ne prestaje svako ono što je usmjereno prema svrsi kad svrha nastupi, nego samo ono što ima narav nesavršenosti, kao gibanje. Stoga oruđa gibanja nisu nužna nakon što se stigne do svrhe, ali je dužna usmjerenost prema svrsi nužna.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se za blaženstvo zahtijeva tijelo. Savršenost kreposti i milosti, naime, pretpostavlja savršenost naravi. A blaženstvo je savršenost kreposti i milosti. Duša pak bez tijela nema savršenost naravi, budući da je po naravi dio ljudske naravi, a svaki je dio nesavršen kad je odijeljen od svoje cjeline. Dakle, duša bez tijela ne može biti blažena.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.obj2": {
+      "text": "Osim toga, blaženstvo je neko savršeno djelovanje, kako je gore rečeno. A savršeno djelovanje slijedi savršen bitak, jer ništa ne djeluje osim ukoliko je biće u činu. Budući da, dakle, duša nema savršen bitak kad je odijeljena od tijela, kao što ga nema ni koji dio kad je odijeljen od cjeline, čini se da duša bez tijela ne može biti blažena.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.obj3": {
+      "text": "Osim toga, blaženstvo je savršenost čovjeka. Ali duša bez tijela nije čovjek. Dakle, blaženstvo ne može biti u duši bez tijela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.obj4": {
+      "text": "Osim toga, prema Filozofu u VII. knjizi Etike, djelovanje sreće, u kojem se sastoji blaženstvo, nesmetano je. Ali djelovanje odijeljene duše je smeteno, jer, kako kaže Augustin u XII. knjizi O doslovnom tumačenju Knjige postanka, *u njoj je neka naravna težnja da upravlja tijelom, i tom se težnjom nekako zadržava da se svom nakanom ne uputi prema onom najvišem nebu*, to jest prema gledanju božanske biti. Dakle, duša bez tijela ne može biti blažena.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.obj5": {
+      "text": "Osim toga, blaženstvo je dostatno dobro i smiruje želju. Ali to ne pristaje odijeljenoj duši, jer ona još teži za sjedinjenjem s tijelom, kako kaže Augustin. Dakle, duša odijeljena od tijela nije blažena.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.obj6": {
+      "text": "Osim toga, čovjek je u blaženstvu jednak anđelima. Ali duša bez tijela nije izjednačena s anđelima, kako kaže Augustin. Dakle, nije blažena.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Otkrivenju, 14. poglavlju: *blaženi mrtvi koji umiru u Gospodinu*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.resp": {
+      "text": "Odgovaram: treba reći da je blaženstvo dvostruko: jedno je nesavršeno, koje se ima u ovom životu, a drugo savršeno, koje se sastoji u gledanju Boga. Očito je pak da se za blaženstvo ovoga života nužno zahtijeva tijelo. Blaženstvo je ovoga života, naime, djelovanje uma, bilo spekulativnog bilo praktičnog. A djelovanje uma u ovom životu ne može biti bez maštovne slike, koja postoji samo u tjelesnom organu, kako je utvrđeno u Prvom dijelu. I tako blaženstvo koje se može imati u ovom životu na neki način ovisi o tijelu. Ali o savršenom blaženstvu, koje se sastoji u gledanju Boga, neki su tvrdili da ono ne može pripasti duši koja postoji bez tijela, govoreći da duše svetih, odijeljene od tijela, ne dolaze do toga blaženstva sve do dana suda, kad ponovno uzmu tijela. To se pak pokazuje lažnim i po autoritetu i po razlogu. Po autoritetu, jer Apostol kaže u 2. poslanici Korinćanima, 5. poglavlju: *dokle god smo u tijelu, putujemo u tuđini daleko od Gospodina*; i pokazuje koji je razlog toga putovanja u tuđini, dodajući: *jer hodimo po vjeri, a ne po viđenju*. Iz toga je jasno da onaj koji hodi po vjeri, a ne po viđenju, lišen gledanja božanske biti, još nije prisutan Bogu. A duše svetih, odijeljene od tijela, prisutne su Bogu; zato se dodaje: *ali smo odvažni i imamo dobru volju putovati u tuđinu daleko od tijela i biti prisutni kod Gospodina*. Stoga je očito da duše svetih, odijeljene od tijela, hode po viđenju, gledajući Božju bit, u čemu je pravo blaženstvo. To je jasno i po razlogu. Jer um za svoje djelovanje treba tijelo samo zbog maštovnih slika, u kojima promatra umljivu istinu, kako je rečeno u Prvom dijelu. A očito je da se božanska bit ne može gledati po maštovnim slikama, kako je pokazano u Prvom dijelu. Stoga, budući da se savršeno čovjekovo blaženstvo sastoji u gledanju božanske biti, savršeno čovjekovo blaženstvo ne ovisi o tijelu. Stoga duša može biti blažena bez tijela. Ali treba znati da nešto pripada savršenosti neke stvari na dva načina. Na jedan način, tako da tvori bit stvari, kao što se duša zahtijeva za savršenost čovjeka. Na drugi način, za savršenost stvari zahtijeva se ono što pripada njezinu dobrom bitku, kao što ljepota tijela i brzina oštroumlja pripadaju savršenosti čovjeka. Premda, dakle, tijelo ne pripada savršenosti ljudskog blaženstva na prvi način, ipak pripada na drugi. Budući da, naime, djelovanje ovisi o naravi stvari, to će duša, što bude savršenija u svojoj naravi, savršenije imati svoje vlastito djelovanje, u kojem se sastoji sreća. Stoga Augustin u XII. knjizi O doslovnom tumačenju Knjige postanka, pošto je postavio pitanje *može li se duhovima pokojnika bez tijela pružiti ono najviše blaženstvo*, odgovara da *ne mogu tako gledati nepromjenljivu supstanciju kako je gledaju sveti anđeli, bilo zbog nekog drugog, skrivenijeg uzroka, bilo zato što je u njima neka naravna težnja da upravljaju tijelom*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je blaženstvo savršenost duše s obzirom na um, po kojem duša nadilazi tjelesne organe, a ne ukoliko je ona naravna forma tijela. I zato ostaje ona savršenost naravi po kojoj joj pripada blaženstvo, premda ne ostaje ona savršenost naravi po kojoj je forma tijela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.ad2": {
+      "text": "Na drugo treba reći da se duša prema bitku odnosi drukčije nego drugi dijelovi. Bitak cjeline, naime, nije bitak nekog od njezinih dijelova; stoga ili dio posve prestaje biti kad se cjelina razori, kao dijelovi životinje kad se životinja razori; ili, ako ostaju, imaju drugi bitak u činu, kao što dio crte ima drugi bitak nego cijela crta. Ali ljudskoj duši ostaje bitak složenca i nakon razaranja tijela, i to zato što je isti bitak forme i tvari, a to je bitak složenca. Duša pak samostoji u svom bitku, kako je pokazano u Prvom dijelu. Stoga preostaje da nakon odjeljivanja od tijela ima savršen bitak, pa zato može imati i savršeno djelovanje, premda nema savršenu narav vrste.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.ad3": {
+      "text": "Na treće treba reći da blaženstvo pripada čovjeku po umu, i zato, dok um ostaje, blaženstvo može biti u njemu. Kao što zubi Etiopljanina, po kojima se za Etiopljanina kaže da je bijel, mogu biti bijeli i nakon što su izvađeni.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.ad4": {
+      "text": "Na četvrto treba reći da nešto biva smetano od nečega drugoga na dva načina. Na jedan način, na način protivnosti, kao što hladnoća smeta radnji topline; i takva smetnja djelovanju protivi se sreći. Na drugi način, na način nekog nedostatka, to jest zato što smetana stvar nema sve što se zahtijeva za njezinu posvemašnju savršenost; i takva smetnja djelovanju ne protivi se sreći, nego njezinoj posvemašnjoj savršenosti. I tako se kaže da odijeljenost od tijela zadržava dušu da ne teži svom nakanom prema gledanju božanske biti. Duša, naime, teži tako uživati Boga da se i samo uživanje prelijevanjem proširi na tijelo, koliko je to moguće. I zato, dokle god ona uživa Boga bez tijela, njezina se težnja tako smiruje u onome što ima da bi ipak još htjela da i njezino tijelo dođe do udjela u tome.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.ad5": {
+      "text": "Na peto treba reći da se želja odijeljene duše potpuno smiruje s obzirom na ono poželjno, to jest zato što ima ono što je dostatno njezinoj težnji. Ali se ne smiruje potpuno s obzirom na onoga koji teži, jer to dobro ne posjeduje na svaki način na koji bi ga htjela posjedovati. I zato, kad se tijelo ponovno uzme, blaženstvo raste ne intenzivno, nego ekstenzivno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a5.ad6": {
+      "text": "Na šesto treba reći da ono što se ondje kaže, da *duhovi pokojnika ne gledaju Boga tako kao anđeli*, ne treba shvatiti po nejednakosti kolikoće, jer su već i sada neke duše blaženih uznesene u više redove anđela, te jasnije gledaju Boga nego niži anđeli. Nego se shvaća po nejednakosti razmjera, jer anđeli, i oni najniži, imaju svu savršenost blaženstva koju će imati, a odijeljene duše svetih nemaju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se za savršeno čovjekovo blaženstvo ne zahtijeva savršenost tijela. Savršenost tijela, naime, jest neko tjelesno dobro. Ali gore je pokazano da se blaženstvo ne sastoji u tjelesnim dobrima. Dakle, za čovjekovo blaženstvo ne zahtijeva se nikakvo savršeno stanje tijela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a6.obj2": {
+      "text": "Osim toga, čovjekovo se blaženstvo sastoji u gledanju božanske biti, kako je pokazano. Ali tijelo tom djelovanju ništa ne pridonosi, kako je rečeno. Dakle, za blaženstvo se ne zahtijeva nikakvo stanje tijela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a6.obj3": {
+      "text": "Osim toga, što je um više odvojen od tijela, to savršenije shvaća. Ali blaženstvo se sastoji u najsavršenijem djelovanju uma. Dakle, duša mora na svaki način biti odvojena od tijela. Dakle, ni na koji se način za blaženstvo ne zahtijeva neko stanje tijela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a6.sc": {
+      "text": "Ali protiv toga, nagrada kreposti jest blaženstvo; zato se kaže u Ivanu, 13. poglavlju: *blaženi ćete biti ako to budete činili*. Ali svetima se kao nagrada obećaje ne samo gledanje Boga i naslada nego i dobro stanje tijela; kaže se, naime, u Izaiji, posljednjem poglavlju: *vidjet ćete, i radovat će se srce vaše, i kosti će vaše proklijati kao trava*. Dakle, za blaženstvo se zahtijeva dobro stanje tijela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a6.resp": {
+      "text": "Odgovaram: treba reći da je, ako govorimo o čovjekovu blaženstvu kakvo se može imati u ovom životu, očito da se za nj nužno zahtijeva dobro stanje tijela. To se blaženstvo, naime, prema Filozofu, sastoji u djelovanju savršene kreposti. A očito je da čovjek zbog tjelesne nemoći može biti smeten u svakom djelovanju kreposti. Ali ako govorimo o savršenom blaženstvu, neki su tvrdili da se za blaženstvo ne zahtijeva nikakvo stanje tijela, štoviše, da se za nj zahtijeva da duša bude posve odijeljena od tijela. Stoga Augustin u XXII. knjizi O Božjem gradu navodi riječi Porfirija, koji kaže da *treba bježati od svakoga tijela da bi duša bila blažena*. Ali to je neprikladno. Budući da je, naime, duši naravno da bude sjedinjena s tijelom, ne može biti da savršenost duše isključuje njezinu naravnu savršenost. I zato treba reći da se za blaženstvo savršeno u svakom pogledu zahtijeva savršeno stanje tijela, i kao ono što prethodi i kao ono što slijedi. Kao ono što prethodi, jer, kako kaže Augustin u XII. knjizi O doslovnom tumačenju Knjige postanka, *ako je tijelo takvo da je upravljanje njime teško i mukotrpno, kao put koja propada i opterećuje dušu, duh se odvraća od onoga gledanja najvišeg neba*. Stoga zaključuje: *kad ovo tijelo više ne bude animalno, nego duhovno, tada će se izjednačiti s anđelima, i bit će mu na slavu ono što mu je bilo teret*. Kao ono što slijedi pak, jer će se iz blaženstva duše prelijevati na tijelo, tako da i ono zadobije svoju savršenost. Stoga Augustin kaže u Pismu Dioskoru: *Bog je stvorio dušu tako moćne naravi da se iz njezina najpunijeg blaženstva u nižu narav prelijeva krepkost nepropadljivosti*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se blaženstvo ne sastoji u tjelesnom dobru kao u predmetu blaženstva, ali tjelesno dobro može pridonijeti nekom uresu ili savršenosti blaženstva.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a6.ad2": {
+      "text": "Na drugo treba reći da, premda tijelo ništa ne pridonosi onom djelovanju uma kojim se gleda Božja bit, ipak bi ga moglo smetati u tome. I zato se zahtijeva savršenost tijela, da ne bi smetalo uzdizanju duha.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a6.ad3": {
+      "text": "Na treće treba reći da se za savršeno djelovanje uma zahtijeva doduše odvojenost od ovoga propadljivog tijela, koje opterećuje dušu, ali ne od duhovnog tijela, koje će biti posve podložno duhu, o čemu će se govoriti u Trećem dijelu ovoga djela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se za blaženstvo zahtijevaju i vanjska dobra. Ono što se, naime, svetima obećaje kao nagrada pripada blaženstvu. Ali svetima se obećaju vanjska dobra, kao što su jelo i piće, bogatstvo i kraljevstvo; kaže se, naime, u Luki, 22. poglavlju: *da jedete i pijete za mojim stolom u mojem kraljevstvu*; i u Mateju, 6. poglavlju: *zgrćite sebi blago na nebu*; i u Mateju, 25. poglavlju: *dođite, blagoslovljeni Oca mojega, posjedujte kraljevstvo*. Dakle, za blaženstvo se zahtijevaju vanjska dobra.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a7.obj2": {
+      "text": "Osim toga, prema Boetiju u III. knjizi O utjehi filozofije, *blaženstvo je stanje savršeno skupom svih dobara*. A vanjska su dobra neka čovjekova dobra, premda najmanja, kako kaže Augustin. Dakle, i ona se zahtijevaju za blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a7.obj3": {
+      "text": "Osim toga, Gospodin kaže u Mateju, 5. poglavlju: *plaća je vaša velika na nebesima*. Ali biti na nebesima označuje biti na mjestu. Dakle, za blaženstvo se zahtijeva barem vanjsko mjesto.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 72: *Što, naime, imam na nebu? I što sam od tebe htio na zemlji?* Kao da kaže: ne želim ništa drugo osim onoga što slijedi: *meni je dobro prianjati uz Boga*. Dakle, za blaženstvo se ne zahtijeva ništa drugo izvanjsko.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a7.resp": {
+      "text": "Odgovaram: treba reći da se za nesavršeno blaženstvo, kakvo se može imati u ovom životu, zahtijevaju vanjska dobra, ne kao da pripadaju biti blaženstva, nego kao ona koja kao oruđa služe blaženstvu, koje se sastoji u djelovanju kreposti, kako se kaže u I. knjizi Etike. Čovjek, naime, u ovom životu treba ono što je nužno tijelu, kako za djelovanje motrilačke kreposti tako i za djelovanje djelatne kreposti, za koje se zahtijeva još mnogo drugoga čime bi izvršavao djela djelatne kreposti. Ali za savršeno blaženstvo, koje se sastoji u gledanju Boga, takva se dobra ni na koji način ne zahtijevaju. Razlog je tome što se sva takva vanjska dobra zahtijevaju ili za uzdržavanje animalnog tijela, ili za neka djelovanja koja vršimo po animalnom tijelu, a koja pristaju ljudskom životu. Ono pak savršeno blaženstvo, koje se sastoji u gledanju Boga, bit će ili u duši bez tijela, ili u duši sjedinjenoj s tijelom koje više nije animalno, nego duhovno. I zato se takva vanjska dobra ni na koji način ne zahtijevaju za ono blaženstvo, budući da su usmjerena prema animalnom životu. A budući da se u ovom životu motrilačka sreća više približuje sličnosti s onim savršenim blaženstvom nego djelatna, jer je i sličnija Bogu, kako je jasno iz rečenoga, zato ona manje treba takva tjelesna dobra, kako se kaže u X. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da sva ona tjelesna obećanja koja se nalaze u Svetom pismu treba shvatiti preneseno, prema tome kako se u Pismima obično duhovno označuje tjelesnim, *da se iz onoga što poznajemo uzdignemo k želji za nepoznatim*, kako kaže Grgur u nekoj homiliji. Tako se jelom i pićem razumije naslada blaženstva; bogatstvom dostatnost kojom će Bog biti dostatan čovjeku; kraljevstvom uzvišenje čovjeka sve do sjedinjenja s Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a7.ad2": {
+      "text": "Na drugo treba reći da ta dobra, koja služe animalnom životu, ne pristaju duhovnom životu, u kojem se sastoji savršeno blaženstvo. Pa ipak će u onom blaženstvu biti skup svih dobara, jer što god se dobra nalazi u ovim stvarima, sve će se to imati u najvišem izvoru dobara.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a7.ad3": {
+      "text": "Na treće treba reći da se, prema Augustinu u knjizi O Gospodinovu govoru na gori, ne kaže da je plaća svetih u tjelesnim nebesima, nego se po nebesima razumije uzvišenost duhovnih dobara. Ipak će blaženima biti prisutno tjelesno mjesto, to jest empirejsko nebo, ne zbog nužnosti za blaženstvo, nego zbog neke primjerenosti i uresa.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da su za blaženstvo nužni prijatelji. Buduće se blaženstvo, naime, u Pismima često označuje imenom slave. A slava se sastoji u tome da čovjekovo dobro dođe do poznavanja mnogih. Dakle, za blaženstvo se zahtijeva društvo prijatelja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a8.obj2": {
+      "text": "Osim toga, Boetije kaže da *posjedovanje nijednog dobra nije ugodno bez zajedništva*. A za blaženstvo se zahtijeva naslada. Dakle, zahtijeva se i društvo prijatelja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a8.obj3": {
+      "text": "Osim toga, ljubav se u blaženstvu usavršava. A ljubav se proteže na ljubav prema Bogu i prema bližnjemu. Dakle, čini se da se za blaženstvo zahtijeva društvo prijatelja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Knjizi Mudrosti, 7. poglavlju: *sva su mi dobra došla zajedno s njom*, to jest s božanskom mudrošću, koja se sastoji u motrenju Boga. I tako se za blaženstvo ne zahtijeva ništa drugo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a8.resp": {
+      "text": "Odgovaram: treba reći da, ako govorimo o sreći sadašnjeg života, sretan čovjek, kako kaže Filozof u IX. knjizi Etike, treba prijatelje, ne doduše radi koristi, budući da je sam sebi dostatan; ni radi naslade, jer u sebi samom ima savršenu nasladu u djelovanju kreposti; nego radi dobrog djelovanja, to jest da im čini dobro, i da se, gledajući ih kako čine dobro, naslađuje, i da mu i oni pomažu u činjenju dobra. Čovjek, naime, za dobro djelovanje treba pomoć prijatelja, kako u djelima djelatnog života tako i u djelima motrilačkog života. Ali ako govorimo o savršenom blaženstvu koje će biti u domovini, društvo prijatelja ne zahtijeva se nužno za blaženstvo, jer čovjek ima svu puninu svoje savršenosti u Bogu. Ali društvo prijatelja pridonosi dobrom bitku blaženstva. Stoga Augustin kaže u VIII. knjizi O doslovnom tumačenju Knjige postanka da *duhovnom stvoru, da bi bio blažen, iznutra pomaže samo vječnost, istina i ljubav Stvoritelja. Izvana pak, ako se uopće smije reći da mu se pomaže, pomaže mu se možda samo time što se uzajamno gledaju i raduju se svom zajedništvu u Bogu*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da je slava koja je bitna za blaženstvo ona koju čovjek ima ne kod čovjeka, nego kod Boga.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a8.ad2": {
+      "text": "Na drugo treba reći da se ta izreka razumije za slučaj kad u dobru koje se ima nema pune dostatnosti. To se u ovom predmetu ne može reći, jer čovjek u Bogu ima dostatnost svakoga dobra.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q4.a8.ad3": {
+      "text": "Na treće treba reći da je savršenost ljubavi bitna za blaženstvo s obzirom na ljubav prema Bogu, a ne s obzirom na ljubav prema bližnjemu. Stoga, kad bi postojala samo jedna duša koja uživa Boga, bila bi blažena, iako ne bi imala bližnjega kojega bi ljubila. Ali ako se pretpostavi bližnji, ljubav prema njemu slijedi iz savršene ljubavi prema Bogu. Stoga se prijateljstvo prema savršenom blaženstvu odnosi kao nešto popratno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 9,
+  "units": {
+    "I-II.q9.pr": {
+      "text": "Zatim treba razmotriti ono što pokreće volju. U vezi s tim pitaju se šest stvari. Prvo, pokreće li volju um. Drugo, pokreće li je osjetilna težnja. Treće, pokreće li volja samu sebe. Četvrto, pokreće li je neko izvanjsko počelo. Peto, pokreće li je nebesko tijelo. Šesto, pokreće li volju samo Bog kao izvanjsko počelo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q9.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da um ne pokreće volju. Augustin, naime, kaže o onome iz Psalma: *Duša moja zaželje žudjeti za tvojim opravdanjima: um leti naprijed, a čuvstvo slijedi sporo ili nikako; znamo dobro, a ne godi nam činiti ga*. A toga ne bi bilo kad bi um pokretao volju, jer pokret pokretljivoga slijedi pokretanje pokretača. Dakle, um ne pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a1.obj2": {
+      "text": "Osim toga, um se odnosi prema volji kao onaj koji pokazuje poželjno, kao što mašta pokazuje poželjno osjetilnoj težnji. Ali mašta koja pokazuje poželjno ne pokreće osjetilnu težnju; štoviše, ponekad se prema onome što zamišljamo odnosimo kao prema onome što nam se pokazuje na slici, a to nas ne pokreće, kako se kaže u knjizi O duši. Dakle, ni um ne pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a1.obj3": {
+      "text": "Osim toga, isto s obzirom na isto nije pokretač i pokrenuto. Ali volja pokreće um: shvaćamo, naime, kad hoćemo. Dakle, um ne pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a1.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u III. knjizi O duši, da je *umom shvaćeno poželjno nepokrenuti pokretač, a volja pokrenuti pokretač*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a1.resp": {
+      "text": "Odgovaram: treba reći da nešto utoliko treba biti pokretano od nečega ukoliko je u mogućnosti za više toga; jer ono što je u mogućnosti mora biti dovedeno u čin po nečemu što je u činu, a to znači pokretati. A neka se sila duše nalazi u mogućnosti za različito na dva načina: na jedan način, s obzirom na to da djeluje ili ne djeluje; na drugi način, s obzirom na to da čini ovo ili ono. Tako vid ponekad zbiljski vidi, a ponekad ne vidi; i ponekad vidi bijelo, a ponekad crno. Treba, dakle, pokretača s obzirom na dvoje, naime s obzirom na izvršavanje ili upotrebu čina, i s obzirom na određenje čina. Od toga je prvo sa strane subjekta, koji se ponekad nalazi djelatnim, a ponekad nedjelatnim; a drugo je sa strane predmeta, prema kojem čin dobiva vrstu. A pokretanje samog subjekta dolazi od nekog djelatnika. I budući da svaki djelatnik djeluje radi svrhe, kako je gore pokazano, počelo je tog pokretanja od svrhe. Odatle dolazi da umijeće kojemu pripada svrha svojim zapovijedanjem pokreće umijeće kojemu pripada ono što vodi k svrsi, kao što kormilarsko umijeće zapovijeda brodograditeljskom, kako se kaže u II. knjizi Fizike. A dobro uopće, koje ima pojam svrhe, predmet je volje. Zato s te strane volja pokreće druge moći duše na njihove čine: drugim se, naime, moćima služimo kad hoćemo. Jer svrhe i savršenosti svih drugih moći obuhvaćene su pod predmetom volje kao neka posebna dobra; a uvijek umijeće ili moć kojoj pripada opća svrha pokreće na djelovanje umijeće ili moć kojoj pripada posebna svrha obuhvaćena pod onom općom; kao što zapovjednik vojske, koji smjera općem dobru, naime redu cijele vojske, svojim zapovijedanjem pokreće nekoga od tribuna, koji smjera redu jednoga bojnog reda. Ali predmet pokreće, određujući čin, na način formalnog počela, od kojega u naravnim stvarima radnja dobiva vrstu, kao zagrijavanje od topline. A prvo je formalno počelo biće i istinito uopće, koje je predmet uma. Zato na taj način pokretanja um pokreće volju, kao onaj koji joj predočuje njezin predmet.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se iz toga autoriteta ne dobiva da um ne pokreće, nego da ne pokreće nužno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a1.ad2": {
+      "text": "Na drugo treba reći da, kao što zamišljanje forme bez procjene prikladnoga ili štetnoga ne pokreće osjetilnu težnju, tako ni zahvaćanje istinitoga bez pojma dobra i poželjnoga. Stoga ne pokreće spekulativni um, nego praktični um, kako se kaže u III. knjizi O duši.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a1.ad3": {
+      "text": "Na treće treba reći da volja pokreće um s obzirom na izvršavanje čina, jer je i samo istinito, koje je savršenost uma, sadržano pod općim dobrom kao neko posebno dobro. Ali s obzirom na određenje čina, koje je sa strane predmeta, um pokreće volju, jer se i samo dobro zahvaća prema nekom posebnom pojmu obuhvaćenom pod općim pojmom istinitoga. I tako je jasno da nije isto pokretač i pokrenuto s obzirom na isto.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da osjetilna težnja ne može pokretati volju. *Ono što pokreće i djeluje izvrsnije je od onoga što trpi*, kako kaže Augustin u XII. knjizi O doslovnom tumačenju Knjige postanka. Ali osjetilna je težnja niža od volje, koja je umska težnja, kao što je osjetilo niže od uma. Dakle, osjetilna težnja ne pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a2.obj2": {
+      "text": "Osim toga, nijedna posebna snaga ne može proizvesti opći učinak. Ali osjetilna je težnja posebna snaga, jer slijedi posebno zahvaćanje osjetila. Dakle, ne može uzrokovati pokret volje, koji je opći, budući da slijedi opće zahvaćanje uma.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a2.obj3": {
+      "text": "Osim toga, kako se dokazuje u VIII. knjizi Fizike, pokretača ne pokreće ono što on pokreće, tako da bi pokretanje bilo uzajamno. Ali volja pokreće osjetilnu težnju, ukoliko se osjetilna težnja pokorava razumu. Dakle, osjetilna težnja ne pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Jak 1: *svakoga napastuje vlastita požuda, koja ga odvlači i mami*. A nitko ne bi bio odvučen od požude kad njegovu volju ne bi pokretala osjetilna težnja, u kojoj je požuda. Dakle, osjetilna težnja pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, ono što se zahvaća pod pojmom dobra i prikladnoga pokreće volju na način predmeta. A to da se nešto čini dobrim i prikladnim proizlazi iz dvoga, naime iz stanja onoga što se predlaže i onoga kome se predlaže. Prikladno se, naime, kaže prema odnosu, pa stoga ovisi o jednom i drugom krajnjem članu. Odatle dolazi da okus, različito raspoložen, ne prima nešto na isti način kao prikladno i kao neprikladno. Zato, kako kaže Filozof u III. knjizi Etike, *kakav je tko, takva mu se svrha čini*. A očito je da se čovjek prema strasti osjetilne težnje izmijeni u neko stanje. Stoga, ukoliko je čovjek u nekoj strasti, čini mu se prikladnim nešto što se ne čini onome tko je izvan strasti; kao što se srditu čini dobrim ono što se ne čini mirnome. I na taj način, s obzirom na predmet, osjetilna težnja pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da ništa ne priječi da ono što je naprosto i po sebi izvrsnije bude u nekom pogledu slabije. Volja je, dakle, naprosto izvrsnija od osjetilne težnje, ali u onome u kome vlada strast, ukoliko je podložan strasti, prevladava osjetilna težnja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a2.ad2": {
+      "text": "Na drugo treba reći da su čini i izbori ljudi u vezi s pojedinačnim. Stoga upravo time što je osjetilna težnja posebna snaga ima veliku snagu da po njoj čovjek bude tako raspoložen da mu se nešto, u vezi s pojedinačnim, čini ovako ili drukčije.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a2.ad3": {
+      "text": "Na treće treba reći da, kako kaže Filozof u I. knjizi Politike, razum, u kojem je volja, svojim zapovijedanjem pokreće srditu i požudnu moć, ne doduše despotskom vladavinom, kao što gospodar pokreće roba, nego kraljevskom ili političkom vladavinom, kao što onaj koji upravlja vlada slobodnim ljudima, koji se ipak mogu pokretati protiv njega. Stoga i srdita i požudna moć mogu pokretati u suprotnom smjeru od volje. I tako ništa ne priječi da one katkad pokreću volju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da volja ne pokreće samu sebe. Svaki je, naime, pokretač, kao takav, u činu, a ono što se pokreće u mogućnosti je; jer gibanje je čin onoga što postoji u mogućnosti, ukoliko je takvo. Ali isto nije u mogućnosti i u činu s obzirom na isto. Dakle, ništa ne pokreće samo sebe. Dakle, ni volja ne može pokretati samu sebe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a3.obj2": {
+      "text": "Osim toga, pokretljivo se pokreće kad je pokretač prisutan. Ali volja je uvijek sebi prisutna. Kad bi, dakle, ona pokretala samu sebe, uvijek bi se pokretala. A jasno je da je to lažno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a3.obj3": {
+      "text": "Osim toga, volju pokreće um, kako je rečeno. Ako, dakle, volja pokreće samu sebe, slijedi da isto istodobno neposredno pokreću dva pokretača, što se čini neprikladnim. Dakle, volja ne pokreće samu sebe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a3.sc": {
+      "text": "Ali protiv toga je to što je volja gospodarica svoga čina, i u njoj je htjeti i ne htjeti. A toga ne bi bilo kad ne bi imala u vlasti pokretati samu sebe na htijenje. Dakle, ona pokreće samu sebe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a3.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, volji pripada pokretati druge moći na temelju pojma svrhe, koja je predmet volje. Ali, kako je rečeno, svrha se u onome što je poželjno odnosi kao načelo u onome što je umljivo. A očito je da um time što spoznaje načelo dovodi samoga sebe iz mogućnosti u čin s obzirom na spoznaju zaključaka, i na taj način pokreće samoga sebe. I slično, volja time što hoće svrhu pokreće samu sebe na htijenje onoga što vodi k svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da volja ne pokreće i nije pokretana s obzirom na isto. Stoga ni nije u činu i u mogućnosti s obzirom na isto. Nego ukoliko zbiljski hoće svrhu, dovodi sebe iz mogućnosti u čin s obzirom na ono što vodi k svrsi, tako naime da to zbiljski hoće.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a3.ad2": {
+      "text": "Na drugo treba reći da je moć volje uvijek zbiljski sebi prisutna, ali čin volje kojim hoće neku svrhu nije uvijek u samoj volji. A po njemu ona pokreće samu sebe. Stoga ne slijedi da uvijek pokreće samu sebe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a3.ad3": {
+      "text": "Na treće treba reći da volju ne pokreće na isti način um i ona sama. Nego je um pokreće prema pojmu predmeta, a ona sama sebe s obzirom na izvršavanje čina, prema pojmu svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da volju ne pokreće ništa izvanjsko. Pokret je volje, naime, voljan. Ali pojmu voljnoga pripada da bude od unutarnjeg počela, kao i pojmu naravnoga. Dakle, pokret volje nije od nečega izvanjskog.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a4.obj2": {
+      "text": "Osim toga, volja ne može trpjeti nasilje, kako je gore pokazano. Ali nasilno je ono čije je počelo izvana. Dakle, volju ne može pokretati nešto izvanjsko.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a4.obj3": {
+      "text": "Osim toga, ono što dostatno pokreće jedan pokretač ne treba da ga pokreće drugi. Ali volja dostatno pokreće samu sebe. Dakle, ne pokreće je ništa izvanjsko.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a4.sc": {
+      "text": "Ali protiv toga, volju pokreće predmet, kako je rečeno. Ali predmet volje može biti neka izvanjska stvar predočena osjetilu. Dakle, volju može pokretati nešto izvanjsko.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a4.resp": {
+      "text": "Odgovaram: treba reći da je, ukoliko volju pokreće predmet, očito da je može pokretati nešto izvanjsko. Ali i na onaj način na koji je pokretana s obzirom na izvršavanje čina, nužno je postaviti da volju pokreće neko izvanjsko počelo. Sve, naime, što je ponekad djelatnik u činu, a ponekad u mogućnosti, treba da ga pokreće neki pokretač. A očito je da volja počinje htjeti nešto što prije nije htjela. Nužno je, dakle, da je nešto pokrene na htijenje. I doduše, kako je rečeno, ona pokreće samu sebe, ukoliko time što hoće svrhu dovodi samu sebe do htijenja onoga što vodi k svrsi. A to ne može činiti osim posredstvom promišljanja: kad, naime, netko hoće ozdraviti, počinje razmišljati kako bi to mogao postići, i takvim razmišljanjem dolazi do toga da može ozdraviti po liječniku, i to hoće. Ali budući da nije uvijek zbiljski htio zdravlje, nužno je da je počeo htjeti ozdraviti jer ga je nešto pokrenulo. I kad bi ona sama sebe pokretala na htijenje, morala bi to činiti posredstvom promišljanja, iz nekog pretpostavljenog htijenja. A tu se ne može ići u beskonačno. Stoga je nužno postaviti da volja prelazi u prvi pokret volje iz poticaja nekoga izvanjskog pokretača, kako zaključuje Aristotel u jednom poglavlju Eudemove etike.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da pojmu voljnoga pripada da njegovo počelo bude unutra, ali nije nužno da to unutarnje počelo bude prvo počelo koje nije pokrenuto od drugoga. Stoga, premda voljni pokret ima unutarnje bliže počelo, ipak je prvo počelo izvana. Kao što je i prvo počelo naravnoga gibanja izvana, naime ono koje pokreće narav.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a4.ad2": {
+      "text": "Na drugo treba reći da za pojam nasilnoga nije dovoljno da počelo bude izvana, nego treba dodati da ono što trpi ne pridonosi nikakvu silu. To se ne događa kad volju pokreće nešto izvanjsko: jer ona je ta koja hoće, iako pokrenuta od drugoga. A taj bi pokret bio nasilan kad bi bio protivan pokretu volje. To u ovom slučaju ne može biti, jer bi tako ista htjela i ne bi htjela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a4.ad3": {
+      "text": "Na treće treba reći da volja s obzirom na nešto dostatno pokreće samu sebe, i to u svom redu, naime kao bliži djelatnik; ali ne može pokretati samu sebe s obzirom na sve, kako je pokazano. Stoga treba da je pokreće drugi kao prvi pokretač.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da ljudsku volju pokreće nebesko tijelo. Sva se, naime, raznolika i mnogolika gibanja svode, kao na uzrok, na jednoliko gibanje, a to je gibanje neba, kako se dokazuje u VIII. knjizi Fizike. Ali ljudska su gibanja raznolika i mnogolika, jer počinju pošto prije nisu bila. Dakle, svode se kao na uzrok na gibanje neba, koje je po naravi jednoliko.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a5.obj2": {
+      "text": "Osim toga, prema Augustinu u III. knjizi O Trojstvu, *niža tijela pokreću se po višim tijelima*. Ali gibanja ljudskog tijela, koja uzrokuje volja, ne bi se mogla svoditi na gibanje neba kao na uzrok kad i volju ne bi pokretalo nebo. Dakle, nebo pokreće ljudsku volju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a5.obj3": {
+      "text": "Osim toga, promatranjem nebeskih tijela astrolozi unaprijed navješćuju neke istinite stvari o budućim ljudskim činima, koji su od volje. A toga ne bi bilo kad nebeska tijela ne bi mogla pokretati čovjekovu volju. Dakle, ljudsku volju pokreće nebesko tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin u II. knjizi, da *nebeska tijela nisu uzroci naših čina*. A bila bi kad bi volju, koja je počelo ljudskih čina, pokretala nebeska tijela. Dakle, volju ne pokreću nebeska tijela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a5.resp": {
+      "text": "Odgovaram: treba reći da je, na onaj način na koji volju pokreće izvanjski predmet, očito da volju mogu pokretati nebeska tijela, ukoliko su naime izvanjska tijela, koja pokreću volju kad su predočena osjetilu, pa i sami organi osjetilnih moći, podložni gibanjima nebeskih tijela. Ali na onaj način na koji je volja pokretana od nekog izvanjskog djelatnika s obzirom na izvršavanje čina, neki su još postavljali da nebeska tijela izravno djeluju na ljudsku volju. Ali to je nemoguće. Volja je, naime, kako se kaže u III. knjizi O duši, u razumu. A razum je moć duše koja nije vezana uz tjelesni organ. Preostaje, dakle, da je volja posve netvarna i netjelesna moć. A očito je da nijedno tijelo ne može djelovati na netjelesnu stvar, nego prije obratno, zato što su netjelesne i netvarne stvari formalnije i općenitije snage nego bilo koje tjelesne stvari. Stoga je nemoguće da nebesko tijelo izravno djeluje na um ili volju. I zbog toga Aristotel u knjizi O duši mnijenje onih koji govore da je volja u ljudima takva *kakvu iz dana u dan dovodi otac bogova i ljudi* (naime Jupiter, pod kojim podrazumijevaju cijelo nebo) pripisuje onima koji su postavljali da se um ne razlikuje od osjetila. Sve, naime, osjetilne sile, budući da su čini tjelesnih organa, mogu akcidentalno biti pokretane od nebeskih tijela, kad se naime pokrenu tijela čiji su one čini. Ali budući da je rečeno da umsku težnju na neki način pokreće osjetilna težnja, gibanje nebeskih tijela neizravno se odražava na volju, ukoliko se naime događa da volju pokreću strasti osjetilne težnje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se mnogoliki pokreti ljudske volje svode na neki jednoliki uzrok, koji je ipak viši od uma i volje. A to se ne može reći ni o kakvom tijelu, nego o nekoj višoj netvarnoj supstanciji. Stoga nije nužno da se pokret volje svodi na gibanje neba kao na uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a5.ad2": {
+      "text": "Na drugo treba reći da se tjelesna ljudska gibanja svode na gibanje nebeskog tijela kao na uzrok, ukoliko je sama raspoloživost organa prikladna za gibanje na neki način od utjecaja nebeskih tijela; i ukoliko se i osjetilna težnja pobuđuje utjecajem nebeskih tijela; i nadalje ukoliko se izvanjska tijela gibaju prema gibanju nebeskih tijela, a pri susretu s njima volja počinje nešto htjeti ili ne htjeti, kao što netko, kad nastupi hladnoća, počinje htjeti naložiti vatru. Ali to je pokretanje volje sa strane predmeta koji je izvana predočen, a ne sa strane unutarnjeg poticaja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a5.ad3": {
+      "text": "Na treće treba reći da je, kako je rečeno, osjetilna težnja čin tjelesnog organa. Stoga ništa ne priječi da neki zbog utjecaja nebeskih tijela budu skloni srditosti ili požudi ili nekoj takvoj strasti, kao i zbog naravnoga tjelesnog sastava. A većina ljudi slijedi strasti, kojima se odupiru samo mudri. Zato se u većini slučajeva obistinjuje ono što se o činima ljudi unaprijed navješćuje na temelju promatranja nebeskih tijela. Ali ipak, kako kaže Ptolemej u Centilokviju, *mudrac vlada zvijezdama*, naime zato što, odupirući se strastima, slobodnom voljom, koja nipošto nije podložna nebeskom gibanju, sprečava takve učinke nebeskih tijela. Ili, kako kaže Augustin u II. knjizi O doslovnom tumačenju Knjige postanka, *treba priznati da se, kad astrolozi govore istinu, to govori po nekom posve skrivenom poticaju, koji ljudske pameti trpe ne znajući. A kad se to čini da bi se ljude zavelo, to je djelovanje zavodničkih duhova*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da volju ne pokreće samo Bog kao izvanjsko počelo. Niže je, naime, po naravi takvo da ga pokreće ono što je iznad njega, kao što nebeska tijela pokreću niža tijela. Ali čovjekova volja ima nešto više poslije Boga, naime anđela. Dakle, čovjekovu volju kao izvanjsko počelo može pokretati i anđeo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a6.obj2": {
+      "text": "Osim toga, čin volje slijedi čin uma. Ali čovjekov um dovodi u njegov čin ne samo Bog nego i anđeo prosvjetljivanjima, kako kaže Dionizije. Dakle, s istog razloga i volju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a6.obj3": {
+      "text": "Osim toga, Bog je uzrok samo dobrih stvari, prema onome iz Post 1: *Vidje Bog sve što je učinio, i bijaše vrlo dobro*. Kad bi, dakle, čovjekovu volju pokretao samo Bog, nikada ne bi bila pokrenuta prema zlu; a ipak je volja ono čime se griješi i čime se ispravno živi, kako kaže Augustin.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Fil 2: *Bog je onaj koji u nama čini i htjeti i izvršiti*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a6.resp": {
+      "text": "Odgovaram: treba reći da je pokret volje iznutra, kao i naravno gibanje. A premda naravnu stvar može pokretati nešto što nije uzrok naravi pokrenute stvari, ipak naravno gibanje ne može uzrokovati ništa osim onoga što je na neki način uzrok naravi. Kamen, naime, pokreće uvis čovjek, koji ne uzrokuje narav kamena, ali to gibanje nije kamenu naravno; a njegovo naravno gibanje uzrokuje samo ono što uzrokuje narav. Zato se u VIII. knjizi Fizike kaže da ono što rađa pokreće mjesno teška i laka tijela. Tako se, dakle, događa da čovjeka, koji ima volju, pokreće netko tko nije njegov uzrok; ali da njegov voljni pokret bude od nekog izvanjskog počela koje nije uzrok volje, to je nemoguće. A uzrok volje ne može biti ništa drugo nego Bog. I to je jasno na dva načina. Prvo, iz toga što je volja moć razumske duše, koju uzrokuje samo Bog stvaranjem, kako je rečeno u Prvom dijelu. Drugo, to je jasno iz toga što je volja usmjerena prema općem dobru. Stoga ništa drugo ne može biti uzrok volje osim samog Boga, koji je opće dobro. A svako se drugo dobro naziva dobrim po sudjelovanju i jest neko posebno dobro; a posebni uzrok ne daje opću sklonost. Stoga ni prvu tvar, koja je u mogućnosti za sve forme, ne može uzrokovati neki posebni djelatnik.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da anđeo nije tako iznad čovjeka da bi bio uzrok njegove volje, kao što su nebeska tijela uzrok naravnih formi, iz kojih slijede naravna gibanja naravnih tijela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a6.ad2": {
+      "text": "Na drugo treba reći da anđeo pokreće čovjekov um sa strane predmeta, koji mu se snagom anđeoskog svjetla predlaže da ga spozna. I tako i volju može pokretati izvanjski stvor, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q9.a6.ad3": {
+      "text": "Na treće treba reći da Bog pokreće čovjekovu volju, kao opći pokretač, prema općem predmetu volje, a to je dobro. I bez toga općeg pokretanja čovjek ne može ništa htjeti. Ali čovjek se razumom određuje na htijenje ovoga ili onoga, što je istinsko dobro ili prividno dobro. Ali ipak Bog katkad posebno pokreće neke da određeno hoće nešto što je dobro, kao one koje pokreće milošću, kako će se niže reći.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 14,
+  "units": {
+    "I-II.q14.pr": {
+      "text": "Zatim treba razmotriti promišljanje. I u vezi s tim postavlja se šest pitanja. Prvo, je li promišljanje istraživanje. Drugo, odnosi li se promišljanje na svrhu ili samo na ono što vodi k svrsi. Treće, odnosi li se promišljanje samo na ono što mi činimo. Četvrto, odnosi li se promišljanje na sve što mi činimo. Peto, napreduje li promišljanje raščlambenim redom. Šesto, ide li promišljanje u beskonačno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da promišljanje nije istraživanje. Damaščanin, naime, kaže da je *promišljanje težnja*. Ali težnji ne pripada istraživati. Dakle, promišljanje nije istraživanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a1.obj2": {
+      "text": "Osim toga, istraživati pripada umu koji diskurzivno prelazi; i tako to ne pristaje Bogu, čija spoznaja nije diskurzivna, kako je utvrđeno u Prvom dijelu. Ali Bogu se pripisuje naum: kaže se, naime, u Ef 1 da *sve čini prema naumu svoje volje*. Dakle, promišljanje nije istraživanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a1.obj3": {
+      "text": "Osim toga, istraživanje se odnosi na dvojbene stvari. Ali savjet se daje o onome što je sigurno dobro, prema onoj Apostolovoj u 1 Kor 7: *O djevicama pak nemam Gospodnje zapovijedi, ali dajem savjet*. Dakle, promišljanje nije istraživanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur iz Nise: *Svako je promišljanje, doduše, pitanje, ali nije svako pitanje promišljanje*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a1.resp": {
+      "text": "Odgovaram: treba reći da izbor, kako je rečeno, slijedi za sudom razuma o onome što treba činiti. A u onome što treba činiti nalazi se mnogo nesigurnosti, jer se radnje odnose na pojedinačne kontingentne stvari, koje su zbog svoje promjenljivosti nesigurne. A u dvojbenim i nesigurnim stvarima razum ne izriče sud bez prethodnog istraživanja. I zato je prije suda o onome što treba izabrati nužno istraživanje razuma, i to se istraživanje naziva promišljanjem. Zbog toga Filozof kaže u III. knjizi Etike da je *izbor težnja za onim o čemu se prethodno promišljalo*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kad su čini dviju moći međusobno usmjereni jedan prema drugome, u svakom od njih postoji nešto što pripada drugoj moći, i zato se svaki od tih čina može nazvati po objema moćima. A očito je da su čin razuma koji upravlja u onome što vodi k svrsi i čin volje koja prema tome teži pod vodstvom razuma međusobno usmjereni jedan prema drugome. Stoga se i u činu volje, a to je izbor, očituje nešto od razuma, naime red; a u promišljanju, koje je čin razuma, očituje se nešto od volje: kao građa, jer se promišljanje odnosi na ono što čovjek hoće učiniti; i također kao pokretački razlog, jer se čovjek, time što hoće svrhu, pokreće da promišlja o onome što vodi k svrsi. I zato, kao što Filozof kaže u VI. knjizi Etike da je izbor težnjeni um, kako bi pokazao da se u izboru stječe oboje, tako Damaščanin kaže da je promišljanje istraživačka težnja, kako bi pokazao da promišljanje na neki način pripada i volji, o kojoj i iz koje se vodi istraživanje, i razumu koji istražuje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a1.ad2": {
+      "text": "Na drugo treba reći da ono što se kaže o Bogu treba uzeti bez ikakva nedostatka koji se nalazi u nama; tako je u nama znanje znanje zaključaka do kojih se dolazi diskurzivnim prelaženjem od uzroka k učincima, a znanje izrečeno o Bogu označuje sigurnost o svim učincima u prvom uzroku, bez ikakva diskurzivnog prelaženja. I slično se Bogu pripisuje naum s obzirom na sigurnost odluke ili suda, koja u nama proizlazi iz istraživanja promišljanja. Ali takvo istraživanje u Bogu nema mjesta, i zato mu se u tom smislu promišljanje ne pripisuje. I u tom smislu Damaščanin kaže da *Bog ne promišlja, jer promišljati je svojstveno onome koji ne zna*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a1.ad3": {
+      "text": "Na treće treba reći da ništa ne priječi da neke stvari budu posve sigurna dobra prema sudu mudrih i duhovnih ljudi, a da ipak ne budu sigurna dobra prema sudu većine ili tjelesnih ljudi. I zato se o takvim stvarima daju savjeti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se promišljanje ne odnosi samo na ono što vodi k svrsi, nego i na svrhu. Sve, naime, o čemu postoji dvojba može se istraživati. Ali u području ljudskog djelovanja događa se da postoji dvojba o svrsi, a ne samo o onome što vodi k svrsi. Budući da je, dakle, istraživanje u području onoga što se čini promišljanje, čini se da se promišljanje može odnositi na svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a2.obj2": {
+      "text": "Osim toga, građa promišljanja jesu ljudska djelovanja. Ali neka su ljudska djelovanja svrhe, kako se kaže u I. knjizi Etike. Dakle, promišljanje se može odnositi na svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur iz Nise, da se *promišljanje ne odnosi na svrhu, nego na ono što vodi k svrsi*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a2.resp": {
+      "text": "Odgovaram: treba reći da svrha u području onoga što se čini ima pojam načela, budući da se razlozi onoga što vodi k svrsi uzimaju iz svrhe. A načelo ne potpada pod pitanje, nego načela treba pretpostaviti u svakom istraživanju. Stoga, budući da je promišljanje pitanje, promišljanje se ne odnosi na svrhu, nego samo na ono što vodi k svrsi. Ipak se događa da ono što je svrha u odnosu na neke stvari bude usmjereno prema drugoj svrsi, kao što je i ono što je načelo jednog dokaza zaključak drugoga. I zato ono što se u jednom istraživanju uzima kao svrha može se u drugom istraživanju uzeti kao ono što vodi k svrsi. I tako će se na to odnositi promišljanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ono što se uzima kao svrha već određeno. Stoga, dok god se smatra dvojbenim, ne smatra se svrhom. I zato, ako se o tome promišlja, to neće biti promišljanje o svrsi, nego o onome što vodi k svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a2.ad2": {
+      "text": "Na drugo treba reći da se promišljanje odnosi na djelovanja ukoliko su usmjerena prema nekoj svrsi. Stoga, ako je neko ljudsko djelovanje svrha, na njega se, ukoliko je takvo, promišljanje ne odnosi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se promišljanje ne odnosi samo na ono što mi činimo. Promišljanje, naime, uključuje neko uspoređivanje mišljenja. Ali uspoređivanje mišljenja među mnogima može se odvijati i o nepromjenljivim stvarima, koje mi ne činimo, na primjer o naravima stvari. Dakle, promišljanje se ne odnosi samo na ono što mi činimo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a3.obj2": {
+      "text": "Osim toga, ljudi ponekad traže savjet o onome što je utvrđeno zakonom; zato se i govori o pravnim savjetnicima. A ipak nije na onima koji traže takav savjet da donose zakone. Dakle, promišljanje se ne odnosi samo na ono što mi činimo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a3.obj3": {
+      "text": "Osim toga, za neke se također kaže da se savjetuju o budućim događajima, koji ipak nisu u našoj vlasti. Dakle, promišljanje se ne odnosi samo na ono što mi činimo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a3.obj4": {
+      "text": "Osim toga, kad bi se promišljanje odnosilo samo na ono što mi činimo, nitko ne bi promišljao o onome što treba učiniti netko drugi. Ali očito je da je to lažno. Dakle, promišljanje se ne odnosi samo na ono što mi činimo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur iz Nise: *Promišljamo o onome što je do nas i što možemo učiniti sami*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a3.resp": {
+      "text": "Odgovaram: treba reći da promišljanje u vlastitom smislu uključuje uspoređivanje mišljenja koje se vodi među više njih. Na to upućuje i sam naziv: consilium se, naime, kaže kao da je considium, jer mnogi zajedno sjedaju (consident) da bi se zajedno savjetovali. A treba uzeti u obzir da u pojedinačnim kontingentnim stvarima, da bi se nešto sigurno spoznalo, treba razmotriti više uvjeta ili okolnosti, koje jednome nije lako razmotriti, a više njih ih sigurnije uočava, jer ono što jedan razmotri drugome ne pada na pamet; a u nužnim i općim stvarima razmatranje je apsolutnije i jednostavnije, tako da za takvo razmatranje jedan može biti dovoljan sam po sebi. I zato istraživanje promišljanja u vlastitom smislu pripada pojedinačnim kontingentnim stvarima. A spoznaja istine u takvim stvarima nema u sebi ništa veliko, tako da bi bila poželjna po sebi, kao spoznaja općega i nužnoga, nego se za njom teži ukoliko je korisna za djelovanje, jer se radnje odnose na pojedinačne kontingentne stvari. I zato treba reći da se promišljanje u vlastitom smislu odnosi na ono što mi činimo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da promišljanje ne uključuje bilo kakvo uspoređivanje mišljenja, nego uspoređivanje o onome što treba činiti, iz već navedenog razloga.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a3.ad2": {
+      "text": "Na drugo treba reći da ono što je postavljeno zakonom, premda ne proizlazi iz djelovanja onoga koji traži savjet, ipak ga upravlja u djelovanju, jer je zapovijed zakona jedan od razloga da se nešto čini.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a3.ad3": {
+      "text": "Na treće treba reći da se promišljanje ne odnosi samo na ono što se čini, nego i na ono što je usmjereno prema djelovanjima. I zbog toga se kaže da se savjetuje o budućim događajima, ukoliko se čovjek, spoznavši buduće događaje, upravlja da nešto učini ili izbjegne.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a3.ad4": {
+      "text": "Na četvrto treba reći da tražimo savjet o djelima drugih ukoliko su ona na neki način jedno s nama: bilo po jedinstvu osjećaja, kao što se prijatelj brine o onome što se tiče prijatelja kao o svojemu; bilo na način oruđa, jer glavni djelatnik i djelatnik kao oruđe jesu kao jedan uzrok, budući da jedan djeluje po drugome; i tako gospodar promišlja o onome što treba učiniti po slugi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se promišljanje odnosi na sve što mi trebamo činiti. Izbor je, naime, težnja za onim o čemu se prethodno promišljalo, kako je rečeno. Ali izbor se odnosi na sve što mi činimo. Dakle, i promišljanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a4.obj2": {
+      "text": "Osim toga, promišljanje uključuje istraživanje razuma. Ali u svemu što ne činimo iz naleta strasti postupamo na temelju istraživanja razuma. Dakle, na sve što mi činimo odnosi se promišljanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a4.obj3": {
+      "text": "Osim toga, Filozof kaže u III. knjizi Etike da se, *ako se nešto može učiniti pomoću više sredstava, promišljanjem istražuje kojim će se od njih učiniti najlakše i najbolje; a ako pomoću jednoga, kako će se njime učiniti*. Ali sve što se čini, čini se pomoću jednoga ili pomoću više sredstava. Dakle, na sve što mi činimo odnosi se promišljanje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur iz Nise, da *o djelima koja se izvode po pouci ili po umijeću nema promišljanja*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a4.resp": {
+      "text": "Odgovaram: treba reći da je promišljanje neko istraživanje, kako je rečeno. A obično istražujemo ono što dolazi u dvojbu; zato je i istraživački razlog, koji se naziva argumentom, ono što dvojbenoj stvari pribavlja uvjerenje. A da u području ljudskog djelovanja nešto nije dvojbeno, događa se iz dvaju razloga. Na jedan način, zato što se određenim putovima ide prema određenim svrhama, kao što se događa u umijećima koja imaju sigurne načine djelovanja; tako pisar ne promišlja kako treba povlačiti slova, jer je to određeno umijećem. Na drugi način, zato što nije mnogo važno hoće li se učiniti ovako ili onako, a to su najsitnije stvari, koje malo pomažu ili priječe s obzirom na postizanje svrhe; a ono što je malo razum uzima kao da nije ništa. I zato, kako kaže Filozof, o dvjema vrstama stvari ne promišljamo, premda su usmjerene prema svrsi: naime, o sitnim stvarima i o onome za što je određeno kako se treba činiti, kao što je u djelima umijeća, osim nekih koja se oslanjaju na nagađanje, kako kaže Grgur iz Nise, kao što su na primjer liječničko, trgovačko i slična.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da izbor pretpostavlja promišljanje radi suda ili odluke. Stoga, kad je sud ili odluka očita bez istraživanja, ne zahtijeva se istraživanje promišljanja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a4.ad2": {
+      "text": "Na drugo treba reći da razum u očitim stvarima ne istražuje, nego odmah sudi. I zato ne mora u svemu što se čini razumom biti istraživanja promišljanja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a4.ad3": {
+      "text": "Na treće treba reći da, kad se nešto može učiniti pomoću jednoga sredstva, ali na različite načine, može postojati dvojba, kao i kad se čini pomoću više sredstava, i zato je potrebno promišljanje. Ali kad nije određena samo stvar, nego i način, tada promišljanje nije potrebno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da promišljanje ne napreduje raščlambenim načinom. Promišljanje se, naime, odnosi na ono što mi činimo. Ali naša djelovanja ne napreduju raščlambenim načinom, nego radije sastavnim, to jest od jednostavnoga prema složenome. Dakle, promišljanje ne napreduje uvijek raščlambenim načinom.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a5.obj2": {
+      "text": "Osim toga, promišljanje je istraživanje razuma. Ali razum počinje od onoga što je prije i dolazi do onoga što je poslije, po prikladnijem redu. Budući da je, dakle, prošlo prije sadašnjega, a sadašnje prije budućega, čini se da u promišljanju treba napredovati od sadašnjega i prošloga prema budućemu. A to ne pripada raščlambenom redu. Dakle, u promišljanjima se ne drži raščlambeni red.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a5.obj3": {
+      "text": "Osim toga, promišljanje se odnosi samo na ono što nam je moguće, kako se kaže u III. knjizi Etike. Ali je li nam nešto moguće, prosuđuje se po tome što možemo ili ne možemo učiniti da bismo do toga došli. Dakle, u istraživanju promišljanja treba početi od sadašnjega.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a5.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u III. knjizi Etike, da se *čini da onaj koji promišlja traži i raščlanjuje*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a5.resp": {
+      "text": "Odgovaram: treba reći da u svakom istraživanju treba početi od nekog načela. Ako je ono, kao što je prije u spoznaji, tako i prije u bitku, postupak nije raščlambeni, nego radije sastavni: napredovati, naime, od uzroka prema učincima jest sastavni postupak, jer su uzroci jednostavniji od učinaka. A ako je ono što je prije u spoznaji poslije u bitku, postupak je raščlambeni, kao kad o očitim učincima sudimo raščlanjujući ih na jednostavne uzroke. A načelo u istraživanju promišljanja jest svrha, koja je, doduše, prva u nakani, ali posljednja u bitku. I prema tome, istraživanje promišljanja mora biti raščlambeno, to jest počinjati od onoga što se namjerava u budućnosti, sve dok se ne dođe do onoga što treba odmah učiniti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se promišljanje, doduše, odnosi na djelovanja. Ali razlog djelovanja uzima se iz svrhe, i zato je red rasuđivanja o djelovanjima protivan redu djelovanja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a5.ad2": {
+      "text": "Na drugo treba reći da razum počinje od onoga što je prije po razumu, a ne uvijek od onoga što je prije po vremenu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a5.ad3": {
+      "text": "Na treće treba reći da o onome što treba učiniti radi svrhe ne bismo nastojali doznati je li moguće kad ne bi bilo primjereno svrsi. I zato treba najprije istražiti je li prikladno da vodi k svrsi, prije nego što se razmotri je li moguće.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da istraživanje promišljanja ide u beskonačno. Promišljanje je, naime, istraživanje o pojedinostima, u kojima se odvija djelovanje. Ali pojedinačnih je stvari beskonačno mnogo. Dakle, istraživanje promišljanja je beskonačno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a6.obj2": {
+      "text": "Osim toga, pod istraživanje promišljanja potpada razmotriti ne samo što treba učiniti nego i kako ukloniti zapreke. Ali svaka se ljudska radnja može spriječiti, a zapreka se može ukloniti nekim ljudskim razlogom. Dakle, istraživanje o uklanjanju zapreka ostaje do u beskonačnost.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a6.obj3": {
+      "text": "Osim toga, istraživanje dokazne znanosti ne ide u beskonačno, jer se dolazi do nekih po sebi poznatih načela, koja imaju potpunu sigurnost. Ali takva se sigurnost ne može naći u pojedinačnim kontingentnim stvarima, koje su promjenljive i nesigurne. Dakle, istraživanje promišljanja ide u beskonačno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a6.sc": {
+      "text": "*Ali protiv toga: nitko se ne pokreće prema onome do čega je nemoguće da dođe*, kako se kaže u I. knjizi O nebu. Ali beskonačno je nemoguće prijeći. Kad bi, dakle, istraživanje promišljanja bilo beskonačno, nitko ne bi počeo promišljati. A očito je da je to lažno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a6.resp": {
+      "text": "Odgovaram: treba reći da je istraživanje promišljanja zbiljski konačno s dviju strana, naime s obzirom na načelo i s obzirom na završetak. U istraživanju promišljanja, naime, uzima se dvostruko načelo. Jedno je vlastito, iz samog roda onoga što se čini, a to je svrha, na koju se promišljanje ne odnosi, nego se ona u promišljanju pretpostavlja kao načelo, kako je rečeno. Drugo je kao preuzeto iz drugog roda, kao što i u dokaznim znanostima jedna znanost pretpostavlja nešto od druge, a to ne istražuje. A takva načela, koja se pretpostavljaju u istraživanju promišljanja, jesu sve ono što je primljeno osjetilom, na primjer da je ovo kruh ili željezo, i sve ono što je općenito spoznato po nekoj spekulativnoj ili praktičnoj znanosti, kao da je Bog zabranio činiti preljub i da čovjek ne može živjeti ako se ne hrani prikladnom hranom. I to onaj koji promišlja ne istražuje. A završetak istraživanja jest ono što je odmah u našoj vlasti da učinimo. Kao što, naime, svrha ima pojam načela, tako ono što se čini radi svrhe ima pojam zaključka. Stoga ono što se prvo nameće kao ono što treba učiniti ima pojam posljednjeg zaključka, kojim se istraživanje završava. A ništa ne priječi da promišljanje bude beskonačno u mogućnosti, ukoliko se promišljanju može nametati beskonačno mnogo stvari koje treba istražiti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da pojedinačnih stvari nema zbiljski beskonačno mnogo, nego samo u mogućnosti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a6.ad2": {
+      "text": "Na drugo treba reći da, premda se ljudska radnja može spriječiti, ipak nema uvijek spremnu zapreku. I zato nije uvijek potrebno promišljati o uklanjanju zapreke.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q14.a6.ad3": {
+      "text": "Na treće treba reći da se u pojedinačnim kontingentnim stvarima nešto može uzeti kao sigurno, ako ne naprosto, onda barem za sada, ukoliko se to preuzima u djelovanju. Nije, naime, nužno da Sokrat sjedi, ali je nužno da sjedi dok sjedi. I to se može uzeti sa sigurnošću.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    }
+  }
+}

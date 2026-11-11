@@ -1,0 +1,264 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 12,
+  "units": {
+    "I-II.q12.pr": {
+      "text": "Zatim treba razmotriti nakanu. O tome se postavlja pet pitanja. Prvo, je li nakana čin uma ili volje. Drugo, odnosi li se samo na posljednju svrhu. Treće, može li netko istodobno smjerati na dvije stvari. Četvrto, je li nakana svrhe isti čin kao htijenje onoga što vodi k svrsi. Peto, pristaje li nakana nerazumnim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je nakana čin uma, a ne volje. Kaže se, naime, u Mt 6: *ako ti oko bude jednostavno, sve će tvoje tijelo biti svijetlo*, gdje se okom označuje nakana, kako kaže Augustin u knjizi O Gospodinovu govoru na gori. Ali oko, budući da je oruđe vida, označuje zahvatnu moć. Dakle, nakana nije čin težnjene moći, nego zahvatne.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a1.obj2": {
+      "text": "Osim toga, Augustin na istom mjestu kaže da Gospodin nakanu naziva svjetlom kad kaže: Ako je svjetlo koje je u tebi tama, i tako dalje. A svjetlo pripada spoznaji. Dakle, i nakana.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a1.obj3": {
+      "text": "Osim toga, nakana označuje neko usmjeravanje prema svrsi. Ali usmjeravati pripada razumu. Dakle, nakana ne pripada volji, nego razumu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a1.obj4": {
+      "text": "Osim toga, čin volje odnosi se samo ili na svrhu ili na ono što vodi k svrsi. Ali čin volje s obzirom na svrhu naziva se htijenje ili uživanje, a s obzirom na ono što vodi k svrsi jest izbor; a od njih se nakana razlikuje. Dakle, nakana nije čin volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XI. knjizi O Trojstvu: *nakana volje spaja viđeno tijelo s vidom, i slično spoznajni lik koji postoji u pamćenju s pogledom duha koji iznutra misli*. Dakle, nakana je čin volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a1.resp": {
+      "text": "Odgovaram: treba reći da nakana (intentio), kao što kaže i samo ime, označuje težiti prema nečemu. A prema nečemu teži i radnja pokretača i gibanje pokretljivoga. Ali to što gibanje pokretljivoga teži prema nečemu proizlazi iz radnje pokretača. Stoga nakana prvotno i poglavito pripada onome što pokreće prema svrsi; zato kažemo da graditelj i svaki onaj koji naređuje svojim zapovijedanjem pokreće druge prema onome na što sam smjera. A volja pokreće sve druge sile duše prema svrsi, kao što je gore utvrđeno. Stoga je očito da je nakana u vlastitom smislu čin volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se nakana preneseno naziva okom, ne zato što pripada spoznaji, nego zato što pretpostavlja spoznaju, po kojoj se volji predočuje svrha prema kojoj ona pokreće; kao što okom unaprijed vidimo kamo trebamo tjelesno ići.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a1.ad2": {
+      "text": "Na drugo treba reći da se nakana naziva svjetlom jer je očita onome koji smjera. Stoga se i djela nazivaju tamom, jer čovjek zna na što smjera, ali ne zna što će iz djela slijediti, kako Augustin na istom mjestu tumači.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a1.ad3": {
+      "text": "Na treće treba reći da volja doduše ne usmjerava, ali ipak teži prema nečemu prema redu razuma. Stoga ime nakana imenuje čin volje uz pretpostavku usmjeravanja razuma koji nešto usmjerava prema svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a1.ad4": {
+      "text": "Na četvrto treba reći da je nakana čin volje s obzirom na svrhu. Ali volja se odnosi na svrhu na tri načina. Na jedan način apsolutno, i tako se naziva htijenje, ukoliko apsolutno hoćemo zdravlje ili nešto drugo takvo. Na drugi se način svrha razmatra ukoliko se u njoj smiruje, i na taj se način na svrhu odnosi uživanje. Na treći se način svrha razmatra ukoliko je završetak nečega što je prema njoj usmjereno, i tako se na svrhu odnosi nakana. Ne kaže se, naime, da smjeramo na zdravlje samo zato što ga hoćemo, nego zato što hoćemo do njega doći po nečemu drugome.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se nakana odnosi samo na posljednju svrhu. Kaže se, naime, u knjizi Prosperovih Sentencija: *vapaj Bogu jest nakana srca*. Ali Bog je posljednja svrha ljudskoga srca. Dakle, nakana se uvijek odnosi na posljednju svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a2.obj2": {
+      "text": "Osim toga, nakana se odnosi na svrhu ukoliko je ona završetak, kao što je rečeno. Ali završetak ima pojam posljednjega. Dakle, nakana se uvijek odnosi na posljednju svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a2.obj3": {
+      "text": "Osim toga, kao što se nakana odnosi na svrhu, tako i uživanje. Ali uživanje se uvijek odnosi na posljednju svrhu. Dakle, i nakana.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a2.sc": {
+      "text": "Ali protiv toga: posljednja je svrha ljudskih volja jedna, naime blaženstvo, kao što je gore rečeno. Kad bi se, dakle, nakana odnosila samo na posljednju svrhu, ne bi bilo različitih nakana ljudi. A očito je da je to lažno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, nakana odnosi na svrhu ukoliko je ona završetak pokreta volje. A u gibanju se završetak može uzeti na dva načina: na jedan način sam posljednji završetak, u kojem se smiruje, a koji je završetak cijeloga gibanja; na drugi način nešto srednje, što je početak jednoga dijela gibanja, a kraj ili završetak drugoga. Tako je u gibanju kojim se ide od a do c preko b: c je posljednji završetak, a b je završetak, ali ne posljednji. I nakana se može odnositi na jedno i na drugo. Stoga, iako se uvijek odnosi na svrhu, ipak nije potrebno da se uvijek odnosi na posljednju svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se nakana srca naziva vapajem Bogu ne zato što bi Bog uvijek bio predmet nakane, nego zato što je on poznavatelj nakane. Ili zato što, kad molimo, svoju nakanu upravljamo prema Bogu, a ta nakana ima snagu vapaja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a2.ad2": {
+      "text": "Na drugo treba reći da završetak ima pojam posljednjega, ali ne uvijek posljednjega s obzirom na cjelinu, nego ponekad s obzirom na neki dio.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a2.ad3": {
+      "text": "Na treće treba reći da uživanje uključuje smirenje u svrsi, što pripada samo posljednjoj svrsi. Ali nakana uključuje pokret prema svrsi, a ne smirenje. Stoga razlog nije sličan.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da netko ne može istodobno smjerati na više stvari. Augustin, naime, kaže u knjizi O Gospodinovu govoru na gori da čovjek ne može istodobno smjerati na Boga i na tjelesnu korist. Dakle, iz istoga razloga ni na bilo koje druge dvije stvari.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a3.obj2": {
+      "text": "Osim toga, nakana imenuje pokret volje prema završetku. Ali jedan pokret ne može imati više završetaka s jedne strane. Dakle, volja ne može istodobno smjerati na mnogo stvari.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a3.obj3": {
+      "text": "Osim toga, nakana pretpostavlja čin razuma ili uma. Ali prema Filozofu nije moguće istodobno shvaćati više stvari. Dakle, nije moguće ni istodobno smjerati na više stvari.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a3.sc": {
+      "text": "Ali protiv toga: umijeće oponaša prirodu. A priroda jednim oruđem smjera na dvije koristi, *kao što je jezik usmjeren i na okus i na govor*, kako se kaže u II. knjizi O duši. Dakle, iz istoga razloga umijeće ili razum mogu istodobno nešto jedno usmjeriti prema dvjema svrhama. I tako netko može istodobno smjerati na više stvari.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a3.resp": {
+      "text": "Odgovaram: treba reći da se neke dvije stvari mogu uzeti na dva načina: ili kao međusobno usmjerene ili kao međusobno neusmjerene. Ako su međusobno usmjerene, iz rečenoga je očito da čovjek može istodobno smjerati na mnogo toga. Nakana se, naime, ne odnosi samo na posljednju svrhu, kao što je rečeno, nego i na srednju svrhu. A netko istodobno smjera i na najbližu i na posljednju svrhu, kao na pripravljanje lijeka i na zdravlje. A ako se uzmu dvije stvari koje nisu međusobno usmjerene, i tako čovjek može istodobno smjerati na više stvari. To je jasno iz toga što čovjek jedno radije izabire nego drugo jer je bolje od drugoga; a među ostalim uvjetima po kojima je nešto bolje od drugoga jedan je taj da vrijedi za više stvari; stoga se nešto može radije izabrati nego drugo zato što vrijedi za više stvari. I tako čovjek očito istodobno smjera na više stvari.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin misli da čovjek ne može istodobno smjerati na Boga i na vremenitu korist kao na posljednje svrhe, jer, kao što je gore pokazano, jedan čovjek ne može imati više posljednjih svrha.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a3.ad2": {
+      "text": "Na drugo treba reći da jedan pokret može s jedne strane imati više završetaka ako je jedan usmjeren prema drugome; ali dva završetka koja nisu međusobno usmjerena ne mogu s jedne strane biti završeci jednoga pokreta. Ipak treba uzeti u obzir da se ono što nije jedno u stvarnosti može uzeti kao jedno po pojmu. A nakana je pokret volje prema nečemu što je unaprijed usmjereno u razumu, kao što je rečeno. Zato se ono što je mnoštveno u stvarnosti može uzeti kao jedan završetak nakane, ukoliko je jedno po pojmu: ili zato što neke dvije stvari zajedno pridonose da bi upotpunile nešto jedno, kao što zdravlju pridonose odmjerena toplina i hladnoća; ili zato što su neke dvije stvari sadržane pod nečim jednim zajedničkim, na što se može smjerati. Na primjer, stjecanje vina i odjeće sadržano je pod dobitkom kao pod nečim zajedničkim; stoga ništa ne priječi da onaj koji smjera na dobitak istodobno smjera na te dvije stvari.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a3.ad3": {
+      "text": "Na treće treba reći da je, kao što je rečeno u Prvom dijelu, moguće istodobno shvaćati više stvari ukoliko su na neki način jedno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da nakana svrhe i htijenje onoga što vodi k svrsi nisu jedan te isti pokret. Augustin, naime, kaže u XI. knjizi O Trojstvu da *htijenje da se vidi prozor ima za svrhu viđenje prozora; a drugo je htijenje da se kroz prozor vide prolaznici*. Ali nakani pripada to da hoću vidjeti prolaznike kroz prozor, a htijenju onoga što vodi k svrsi to da hoću vidjeti prozor. Dakle, nakana svrhe jedan je pokret volje, a htijenje onoga što vodi k svrsi drugi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a4.obj2": {
+      "text": "Osim toga, čini se razlikuju prema predmetima. Ali svrha i ono što vodi k svrsi različiti su predmeti. Dakle, nakana svrhe i htijenje onoga što vodi k svrsi različiti su pokreti volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a4.obj3": {
+      "text": "Osim toga, htijenje onoga što vodi k svrsi naziva se izbor. Ali izbor i nakana nisu isto. Dakle, nakana svrhe nije isti pokret kao htijenje onoga što vodi k svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a4.sc": {
+      "text": "Ali protiv toga: ono što vodi k svrsi odnosi se prema svrsi kao sredina prema završetku. A u naravnim je stvarima isto gibanje ono koje kroz sredinu prolazi do završetka. Dakle, i u voljnim stvarima nakana svrhe i htijenje onoga što vodi k svrsi isti su pokret.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a4.resp": {
+      "text": "Odgovaram: treba reći da se pokret volje prema svrsi i prema onome što vodi k svrsi može razmatrati na dva načina. Na jedan način ukoliko je volja apsolutno i po sebi nošena prema jednome i drugome. I tako su to naprosto dva pokreta volje prema jednome i drugome. Na drugi se način može razmatrati ukoliko je volja nošena prema onome što vodi k svrsi radi svrhe. I tako je jedan te isti po subjektu pokret volje koji teži prema svrsi i prema onome što vodi k svrsi. Kad, naime, kažem: Hoću lijek radi zdravlja, označujem samo jedan pokret volje. Razlog je tomu što je svrha razlog htijenja onoga što vodi k svrsi. A isti se čin odnosi na predmet i na razlog predmeta, kao što je isto viđenje boje i svjetla, kao što je gore rečeno. Slično je i s umom: ako apsolutno razmatra načelo i zaključak, razmatranje je jednoga i drugoga različito; ali u tome što pristaje uz zaključak zbog načela postoji samo jedan čin uma.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori o viđenju prozora i o viđenju prolaznika kroz prozor ukoliko je volja apsolutno nošena prema jednome i drugome.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a4.ad2": {
+      "text": "Na drugo treba reći da je svrha, ukoliko je neka stvar, drugi predmet volje nego ono što vodi k svrsi. Ali ukoliko je razlog htijenja onoga što vodi k svrsi, jedan je te isti predmet.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a4.ad3": {
+      "text": "Na treće treba reći da se pokret koji je jedan po subjektu može po pojmu razlikovati prema početku i kraju, kao uspinjanje i spuštanje, kako se kaže u III. knjizi Fizike. Tako je, dakle, pokret volje, ukoliko je nošen prema onome što vodi k svrsi kao prema usmjerenome prema svrsi, izbor. A pokret volje koji je nošen prema svrsi ukoliko se ona stječe po onome što vodi k svrsi naziva se nakana. Znak je toga što nakana svrhe može postojati i kad još nije određeno ono što vodi k svrsi, a na što se odnosi izbor.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da nerazumne životinje smjeraju na svrhu. Narav je, naime, u onome što je lišeno spoznaje udaljenija od razumne naravi nego osjetilna narav, koja je u nerazumnim životinjama. Ali narav smjera na svrhu i u onome što je lišeno spoznaje, kao što se dokazuje u II. knjizi Fizike. Dakle, mnogo više nerazumne životinje smjeraju na svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a5.obj2": {
+      "text": "Osim toga, kao što se nakana odnosi na svrhu, tako i uživanje. Ali uživanje pristaje nerazumnim životinjama, kao što je rečeno. Dakle, i nakana.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a5.obj3": {
+      "text": "Osim toga, smjerati na svrhu pripada onomu kojemu pripada djelovati radi svrhe, jer smjerati nije ništa drugo nego težiti prema nečemu drugome. Ali nerazumne životinje djeluju radi svrhe: životinja se, naime, pokreće ili da traži hranu ili radi nečega takvoga. Dakle, nerazumne životinje smjeraju na svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a5.sc": {
+      "text": "Ali protiv toga: nakana svrhe uključuje usmjeravanje nečega prema svrsi, a to pripada razumu. Budući da, dakle, nerazumne životinje nemaju razuma, čini se da ne smjeraju na svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a5.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, smjerati znači težiti prema nečemu drugome, a to pripada i pokretaču i pokrenutome. Ukoliko se, dakle, kaže da na svrhu smjera ono što drugi pokreće prema svrsi, tako se kaže da narav smjera na svrhu, kao ona koju Bog pokreće prema njezinoj svrsi, kao što strijelac pokreće strijelu. I na taj način i nerazumne životinje smjeraju na svrhu, ukoliko se naravnim nagonom pokreću prema nečemu. Na drugi način smjerati na svrhu pripada pokretaču, naime ukoliko on usmjerava pokret nečega, bilo svoj bilo tuđi, prema svrsi. A to pripada samo razumu. Stoga na taj način nerazumne životinje ne smjeraju na svrhu, a to je smjerati u vlastitom smislu i poglavito, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj razlog vrijedi ukoliko smjerati pripada onome što se pokreće prema svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a5.ad2": {
+      "text": "Na drugo treba reći da uživanje ne uključuje usmjeravanje nečega prema nečemu, kao nakana, nego apsolutno smirenje u svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    },
+    "I-II.q12.a5.ad3": {
+      "text": "Na treće treba reći da se nerazumne životinje pokreću prema svrsi ne kao da razmatraju da svojim pokretom mogu postići svrhu, što je vlastito onome koji smjera, nego, žudeći za svrhom po naravnom nagonu, pokreću se prema svrsi kao pokretane od drugoga, kao i ostalo što se pokreće po naravi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:33+00:00"
+    }
+  }
+}

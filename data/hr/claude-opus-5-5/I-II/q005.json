@@ -1,0 +1,396 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 5,
+  "units": {
+    "I-II.q5.pr": {
+      "text": "Zatim treba razmotriti samo postignuće blaženstva. O tome se postavlja osam pitanja. Prvo, može li čovjek postići blaženstvo. Drugo, može li jedan čovjek biti blaženiji od drugoga. Treće, može li netko u ovom životu biti blažen. Četvrto, može li se jednom stečeno blaženstvo izgubiti. Peto, može li čovjek svojim naravnim sposobnostima steći blaženstvo. Šesto, postiže li čovjek blaženstvo radnjom nekog višeg stvora. Sedmo, zahtijevaju li se neka čovjekova djela da bi čovjek postigao blaženstvo od Boga. Osmo, teži li svaki čovjek za blaženstvom.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da čovjek ne može postići blaženstvo. Jer kao što je razumska narav iznad osjetilne, tako je umska narav iznad razumske, kako je očito kod Dionizija u knjizi O božanskim imenima, na mnogim mjestima. Ali nerazumne životinje, koje imaju samo osjetilnu narav, ne mogu doći do svrhe razumske naravi. Dakle ni čovjek, koji je razumske naravi, ne može doći do svrhe umske naravi, a to je blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a1.obj2": {
+      "text": "Osim toga, pravo se blaženstvo sastoji u gledanju Boga, koji je čista istina. Ali čovjeku je sunaravno da istinu promatra u tvarnim stvarima; zato umljive spoznajne likove shvaća u maštovnim slikama, kako se kaže u III. knjizi O duši. Dakle ne može doći do blaženstva.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a1.obj3": {
+      "text": "Osim toga, blaženstvo se sastoji u postignuću najvišeg dobra. Ali nitko ne može doći do najvišega ako ne nadiđe ono što je između. Budući da je, dakle, između Boga i ljudske naravi anđeoska narav, koju čovjek ne može nadići, čini se da on ne može postići blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 93: *blažen čovjek kojega ti poučiš, Gospodine*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a1.resp": {
+      "text": "Odgovaram: treba reći da blaženstvo imenuje postignuće savršenog dobra. Tko je god, dakle, sposoban za savršeno dobro, može doći do blaženstva. A da je čovjek sposoban za savršeno dobro, vidi se iz toga što i njegov um može zahvatiti opće i savršeno dobro, i njegova volja može težiti za njim. Zato čovjek može postići blaženstvo. Isto se vidi i iz toga što je čovjek sposoban za gledanje božanske biti, kako je utvrđeno u Prvom dijelu; a rekli smo da se upravo u tom gledanju sastoji savršeno blaženstvo čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da razumska narav nadmašuje osjetilnu na jedan način, a umska razumsku na drugi. Razumska, naime, narav nadmašuje osjetilnu s obzirom na predmet spoznaje, jer osjetilo nikako ne može spoznati opće, a razum ga može spoznati. Umska pak narav nadmašuje razumsku s obzirom na način spoznavanja iste umljive istine: umska, naime, narav odmah zahvaća istinu do koje razumska narav dopire istraživanjem razuma, kako je očito iz onoga što je rečeno u Prvom dijelu. Zato do onoga što um zahvaća razum dopire nekim gibanjem. Stoga razumska narav može postići blaženstvo, koje je savršenost umske naravi, ali na drugi način nego anđeli. Anđeli su ga, naime, postigli odmah nakon početka svoga stvaranja, a ljudi do njega dolaze kroz vrijeme. Osjetilna pak narav nikako ne može dosegnuti tu svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a1.ad2": {
+      "text": "Na drugo treba reći da je čovjeku, u stanju sadašnjeg života, sunaravan način spoznavanja umljive istine po maštovnim slikama. Ali nakon stanja ovoga života ima drugi sunaravni način, kako je rečeno u Prvom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a1.ad3": {
+      "text": "Na treće treba reći da čovjek ne može nadići anđele stupnjem naravi, tako naime da bi po naravi bio viši od njih. Ipak ih može nadići djelovanjem uma, ukoliko shvaća da iznad anđela postoji nešto što ljude čini blaženima; kad to savršeno postigne, bit će savršeno blažen.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da jedan čovjek ne može biti blaženiji od drugoga. Blaženstvo je, naime, nagrada kreposti, kako kaže Filozof u I. knjizi Etike. Ali za djela kreposti svima se daje jednaka plaća; kaže se, naime, u Mt 20 da su svi koji su radili u vinogradu primili svaki po denar; jer, kako kaže Grgur, *zapala ih je jednaka naknada vječnoga života*. Dakle jedan neće biti blaženiji od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a2.obj2": {
+      "text": "Osim toga, blaženstvo je najviše dobro. Ali od najvišega ne može biti ništa veće. Dakle od blaženstva jednoga čovjeka ne može biti veće neko drugo blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a2.obj3": {
+      "text": "Osim toga, blaženstvo, budući da je savršeno i dostatno dobro, smiruje čovjekovu želju. Ali želja se ne smiruje ako nedostaje neko dobro koje bi se moglo nadopuniti. Ako pak ne nedostaje ništa što bi se moglo nadopuniti, ne može biti neko drugo veće dobro. Dakle ili čovjek nije blažen ili, ako je blažen, ne može biti neko drugo, veće blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iv 14: *u kući Oca mojega ima mnogo stanova*; pod njima se, kako kaže Augustin, *shvaćaju različita dostojanstva zasluga u vječnom životu*. A dostojanstvo vječnoga života, koje se daje za zaslugu, jest samo blaženstvo. Dakle postoje različiti stupnjevi blaženstva i nije u svih jednako blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a2.resp": {
+      "text": "Odgovaram: treba reći da su, kako je gore rečeno, u pojam blaženstva uključene dvije stvari, naime sama posljednja svrha, koja je najviše dobro, i postignuće ili uživanje samoga toga dobra. S obzirom, dakle, na samo dobro koje je predmet i uzrok blaženstva, ne može jedno blaženstvo biti veće od drugoga, jer postoji samo jedno najviše dobro, naime Bog, uživanjem u kojem su ljudi blaženi. Ali s obzirom na postignuće ili uživanje takvoga dobra, netko može biti blaženiji od drugoga, jer što više tim dobrom uživa, to je blaženiji. A događa se da netko savršenije uživa u Bogu nego drugi, zato što je bolje raspoložen ili usmjeren prema uživanju u njemu. I prema tome netko može biti blaženiji od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da jedinstvo denara označuje jedinstvo blaženstva s obzirom na predmet. A različitost stanova označuje različitost blaženstva prema različitom stupnju uživanja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a2.ad2": {
+      "text": "Na drugo treba reći da se za blaženstvo kaže da je najviše dobro ukoliko je savršeno posjedovanje ili uživanje najvišeg dobra.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a2.ad3": {
+      "text": "Na treće treba reći da nijednom blaženiku ne nedostaje nikakvo dobro za kojim bi trebalo žudjeti, jer ima samo beskonačno dobro, koje je dobro svakoga dobra, kako kaže Augustin. Ali za nekoga se kaže da je blaženiji od drugoga zbog različitog sudjelovanja u istome dobru. A dodavanje drugih dobara ne povećava blaženstvo; zato Augustin kaže u V. knjizi Ispovijesti: *tko poznaje tebe i ono drugo, nije zbog toga blaženiji, nego je blažen samo zbog tebe*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se blaženstvo može imati u ovom životu. Kaže se, naime, u Psalmu 118: *blaženi neokaljani na putu, koji hode u zakonu Gospodnjem*. A to se događa u ovom životu. Dakle netko u ovom životu može biti blažen.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a3.obj2": {
+      "text": "Osim toga, nesavršeno sudjelovanje u najvišem dobru ne oduzima pojam blaženstva, inače jedan ne bi bio blaženiji od drugoga. Ali u ovom životu ljudi mogu imati udjela u najvišem dobru, spoznajući i ljubeći Boga, makar nesavršeno. Dakle čovjek u ovom životu može biti blažen.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a3.obj3": {
+      "text": "Osim toga, ono što govori većina ne može biti posve lažno; čini se, naime, da je naravno ono što je u većini, a narav ne zakazuje posve. Ali većina stavlja blaženstvo u ovaj život, kako je očito iz onoga u Psalmu 143: *blaženim nazvaše narod koji to ima*, naime dobra sadašnjega života. Dakle netko u ovom životu može biti blažen.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Jobu 14: *čovjek rođen od žene, živeći kratko vrijeme, pun je mnogih bijeda*. Ali blaženstvo isključuje bijedu. Dakle čovjek u ovom životu ne može biti blažen.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a3.resp": {
+      "text": "Odgovaram: treba reći da se u ovom životu može imati neko sudjelovanje u blaženstvu, ali savršeno i pravo blaženstvo ne može se imati u ovom životu. A to se može razmotriti na dva načina. Prvo, iz samoga općeg pojma blaženstva. Blaženstvo, naime, budući da je savršeno i dostatno dobro, isključuje svako zlo i ispunja svaku želju. A u ovom životu ne može se isključiti svako zlo. Sadašnji je, naime, život podložan mnogim zlima koja se ne mogu izbjeći: i neznanju sa strane uma, i neurednoj sklonosti sa strane težnje, i mnogostrukim kaznenim nevoljama sa strane tijela, kako Augustin pomno izlaže u XIX. knjizi O Božjem gradu. Slično se tako ni želja za dobrom ne može u ovom životu utažiti. Čovjek, naime, po naravi želi trajnost dobra koje ima. A dobra sadašnjega života prolazna su, jer prolazi i sam život, koji po naravi želimo i htjeli bismo da trajno ostane, jer čovjek po naravi bježi od smrti. Stoga je nemoguće da se u ovom životu ima pravo blaženstvo. Drugo, ako se razmotri ono u čemu se posebno sastoji blaženstvo, naime gledanje božanske biti, koje čovjeku ne može pripasti u ovom životu, kako je pokazano u Prvom dijelu. Iz toga se jasno vidi da nitko u ovom životu ne može postići pravo i savršeno blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se neki u ovom životu nazivaju blaženima ili zbog nade da će postići blaženstvo u budućem životu, prema onome iz Rim 8: *u nadi smo spašeni*, ili zbog nekoga sudjelovanja u blaženstvu, po nekom uživanju najvišeg dobra.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a3.ad2": {
+      "text": "Na drugo treba reći da sudjelovanje u blaženstvu može biti nesavršeno na dva načina. Na jedan način, sa strane samoga predmeta blaženstva, koji se ne gleda po svojoj biti. I takva nesavršenost oduzima pojam pravog blaženstva. Na drugi način može biti nesavršeno sa strane samoga sudionika, koji doduše dopire do samoga predmeta blaženstva kakav je on sam po sebi, naime do Boga, ali nesavršeno, u odnosu na način na koji Bog uživa u samome sebi. I takva nesavršenost ne oduzima pravi pojam blaženstva, jer, budući da je blaženstvo neko djelovanje, kako je gore rečeno, pravi se pojam blaženstva razmatra s obzirom na predmet, koji činu daje vrstu, a ne s obzirom na subjekt.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a3.ad3": {
+      "text": "Na treće treba reći da ljudi smatraju da u ovom životu postoji neko blaženstvo zbog neke sličnosti s pravim blaženstvom. I tako u svojoj procjeni ne promašuju posve.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se blaženstvo može izgubiti. Blaženstvo je, naime, neka savršenost. Ali svaka je savršenost u onome što se njome usavršava na njegov način. Budući da je, dakle, čovjek po svojoj naravi promjenljiv, čini se da čovjek ima udjela u blaženstvu na promjenljiv način. I tako se čini da čovjek može izgubiti blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a4.obj2": {
+      "text": "Osim toga, blaženstvo se sastoji u radnji uma, koji je podložan volji. Ali volja se odnosi prema suprotstavljenome. Dakle čini se da ona može odustati od djelovanja kojim čovjek postaje blažen, i tako će čovjek prestati biti blažen.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a4.obj3": {
+      "text": "Osim toga, početku odgovara kraj. Ali čovjekovo blaženstvo ima početak, jer čovjek nije uvijek bio blažen. Dakle čini se da ima i kraj.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mt 25 o pravednicima: da će otići u život vječni; a on je, kako je rečeno, blaženstvo svetih. A ono što je vječno ne prestaje. Dakle blaženstvo se ne može izgubiti.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a4.resp": {
+      "text": "Odgovaram: treba reći da se, ako govorimo o nesavršenom blaženstvu, kakvo se može imati u ovom životu, ono tako može izgubiti. To je očito kod motrilačke sreće, koja se gubi ili zaboravom, primjerice kad se znanje razori nekom bolešću, ili također nekim zaposlenostima koje nekoga posve odvlače od motrenja. Isto je očito i kod djelatne sreće: čovjekova se, naime, volja može preinačiti tako da se od kreposti izrodi u porok, a sreća se ponajprije sastoji u činu kreposti. Ako pak krepost ostane netaknuta, izvanjske preinake mogu doduše poremetiti takvo blaženstvo, ukoliko priječe mnoga djelovanja kreposti, ali ga ne mogu posve oduzeti, jer i dalje ostaje djelovanje kreposti dok čovjek same nedaće hvalevrijedno podnosi. A budući da se blaženstvo ovoga života može izgubiti, što se čini protivnim pojmu blaženstva, zato Filozof kaže u I. knjizi Etike da su neki u ovom životu blaženi, ne naprosto, nego kao ljudi čija je narav podložna promjeni. Ako pak govorimo o savršenom blaženstvu koje se očekuje nakon ovoga života, treba znati da je Origen, slijedeći zabludu nekih platonovaca, postavio da čovjek nakon posljednjeg blaženstva može postati bijedan. Ali da je to lažno, jasno se vidi na dva načina. Prvo, iz samoga općeg pojma blaženstva. Budući da je, naime, samo blaženstvo savršeno i dostatno dobro, ono mora smiriti čovjekovu želju i isključiti svako zlo. A čovjek po naravi želi zadržati dobro koje ima i postići sigurnost da će ga zadržati; inače ga nužno muči strah da će ga izgubiti ili bol zbog izvjesnosti gubitka. Za pravo se blaženstvo, dakle, zahtijeva da čovjek ima sigurno mnijenje da dobro koje ima nikada neće izgubiti. Ako je to mnijenje istinito, slijedi da blaženstvo nikada neće izgubiti. Ako je pak lažno, već je samo to neko zlo, imati lažno mnijenje; jer lažno je zlo uma, kao što je istinito njegovo dobro, kako se kaže u VI. knjizi Etike. Neće, dakle, više biti uistinu blažen ako je u njemu neko zlo. Drugo, isto se vidi ako se razmotri pojam blaženstva u posebnom smislu. Gore je, naime, pokazano da se savršeno blaženstvo čovjeka sastoji u gledanju božanske biti. A nemoguće je da netko tko gleda božansku bit hoće da je ne gleda. Jer svako posjedovano dobro koje netko hoće nemati ili je nedostatno, pa se umjesto njega traži nešto dostatnije, ili je s njim povezana neka neugodnost zbog koje postaje mrsko. A gledanje božanske biti ispunja dušu svim dobrima, jer je sjedinjuje s izvorom svekolike dobrote; zato se kaže u Psalmu 16: *nasitit ću se kad se pojavi slava tvoja*; i u Mudr 7 kaže se: *dođoše mi s njom zajedno sva dobra*, naime s motrenjem mudrosti. Slično tako s njim nije povezana ni neka neugodnost, jer se o motrenju mudrosti kaže u Mudr 8: *nema gorčine u općenju s njom, ni dosade u suživotu s njom*. Tako je, dakle, očito da blaženik svojom vlastitom voljom ne može napustiti blaženstvo. Slično tako ne može ga ni izgubiti tako da mu ga Bog oduzme. Jer budući da je oduzimanje blaženstva neka kazna, takvo oduzimanje ne može doći od Boga, pravednoga suca, osim zbog neke krivnje, a u nju ne može pasti onaj tko gleda Božju bit, jer iz tog gledanja nužno slijedi ispravnost volje, kako je gore pokazano. Slično tako ni neki drugi djelatnik ne može ga oduzeti. Jer duh sjedinjen s Bogom uzdignut je iznad svega drugoga; i tako ga nikakav drugi djelatnik ne može isključiti iz takve sjedinjenosti. Stoga se čini neprikladnim da čovjek nekim smjenama vremena prelazi iz blaženstva u bijedu i obratno, jer takve vremenite smjene mogu postojati samo kod onoga što je podložno vremenu i gibanju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je blaženstvo dovršena savršenost, koja iz blaženika isključuje svaki nedostatak. Zato onome tko ga ima pridolazi bez promjenljivosti, jer to čini božanska snaga, koja čovjeka uzdiže do sudjelovanja u vječnosti koja nadilazi svaku promjenu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a4.ad2": {
+      "text": "Na drugo treba reći da se volja odnosi prema suprotstavljenome u onome što je usmjereno prema svrsi, ali je prema posljednjoj svrsi usmjerena naravnom nužnošću. To je očito iz toga što čovjek ne može ne htjeti biti blažen.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a4.ad3": {
+      "text": "Na treće treba reći da blaženstvo ima početak zbog stanja sudionika, ali je bez kraja zbog stanja dobra čije sudjelovanje čini blaženim. Stoga je početak blaženstva od jednoga, a to što je bez kraja od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da čovjek može postići blaženstvo svojim naravnim sposobnostima. Narav, naime, ne zakazuje u onome što je nužno. Ali ništa nije čovjeku tako nužno kao ono po čemu postiže posljednju svrhu. Dakle to ljudskoj naravi ne nedostaje. Čovjek, dakle, može postići blaženstvo svojim naravnim sposobnostima.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a5.obj2": {
+      "text": "Osim toga, čini se da je čovjek, budući da je plemenitiji od nerazumnih stvorova, i dostatniji. Ali nerazumni stvorovi mogu svojim naravnim sposobnostima postići svoje svrhe. Dakle mnogo više čovjek može svojim naravnim sposobnostima postići blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a5.obj3": {
+      "text": "Osim toga, blaženstvo je savršeno djelovanje, prema Filozofu. A istome pripada započeti stvar i dovršiti je. Budući da je, dakle, nesavršeno djelovanje, koje je kao početak u ljudskim djelovanjima, podložno čovjekovoj naravnoj moći, po kojoj je on gospodar svojih čina, čini se da naravnom moću može dosegnuti savršeno djelovanje, koje je blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a5.sc": {
+      "text": "Ali protiv toga: čovjek je po naravi počelo svojih čina po umu i volji. Ali posljednje blaženstvo pripravljeno svetima nadilazi čovjekov um i volju; kaže, naime, Apostol u 1 Kor 2: *oko nije vidjelo, i uho nije čulo, i u srce čovjekovo nije ušlo što je Bog pripravio onima koji ga ljube*. Dakle čovjek ne može svojim naravnim sposobnostima postići blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a5.resp": {
+      "text": "Odgovaram: treba reći da nesavršeno blaženstvo koje se može imati u ovom životu čovjek može steći svojim naravnim sposobnostima, na isti način kao i krepost, u čijem se djelovanju ono sastoji, o čemu će se govoriti niže. Ali savršeno blaženstvo čovjeka, kako je gore rečeno, sastoji se u gledanju božanske biti. A gledati Boga po biti iznad je naravi ne samo čovjeka nego i svakoga stvora, kako je pokazano u Prvom dijelu. Naravna je, naime, spoznaja bilo kojeg stvora u skladu s načinom njegove supstancije, kao što se o inteligenciji kaže u knjizi O uzrocima da *spoznaje ono što je iznad nje i ono što je ispod nje na način svoje supstancije*. A svaka spoznaja koja je u skladu s načinom stvorene supstancije zaostaje za gledanjem božanske biti, koja beskonačno nadilazi svaku stvorenu supstanciju. Stoga ni čovjek ni ikoji stvor ne može svojim naravnim sposobnostima postići posljednje blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što narav ne uskraćuje čovjeku ono što je nužno, iako mu nije dala oružje i pokrivala kao drugim životinjama, jer mu je dala razum i ruke kojima to sebi može pribaviti, tako mu ne uskraćuje ono što je nužno ni time što mu nije dala neko počelo kojim bi mogao postići blaženstvo; to je, naime, bilo nemoguće. Ali dala mu je slobodno odlučivanje, kojim se može obratiti Bogu, koji bi ga učinio blaženim. *Ono, naime, što možemo po prijateljima, na neki način možemo sami*, kako se kaže u III. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a5.ad2": {
+      "text": "Na drugo treba reći da je plemenitijeg stanja ona narav koja može postići savršeno dobro, iako joj je za to potrebna izvanjska pomoć, nego narav koja ne može postići savršeno dobro, nego postiže neko nesavršeno dobro, iako joj za njegovo postignuće nije potrebna izvanjska pomoć, kako kaže Filozof u II. knjizi O nebu. Tako je bolje raspoložen za zdravlje onaj tko može postići savršeno zdravlje, makar to bilo uz liječničku pomoć, nego onaj tko može postići samo neko nesavršeno zdravlje, bez liječničke pomoći. Zato je razumski stvor, koji može postići savršeno dobro blaženstva, a za to mu je potrebna božanska pomoć, savršeniji od nerazumnog stvora, koji nije sposoban za takvo dobro, nego snagom svoje naravi postiže neko nesavršeno dobro.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a5.ad3": {
+      "text": "Na treće treba reći da, kad su nesavršeno i savršeno iste vrste, mogu biti prouzročeni od iste snage. Ali to nije nužno ako su različite vrste; ne može, naime, sve što može prouzročiti raspoloživost tvari dati i posljednju savršenost. A nesavršeno djelovanje, koje je podložno čovjekovoj naravnoj moći, nije iste vrste kao ono savršeno djelovanje koje je čovjekovo blaženstvo, budući da vrsta djelovanja ovisi o predmetu. Stoga taj argument ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da čovjek može postati blažen radnjom nekog višeg stvora, naime anđela. U stvarima se, naime, nalazi dvostruki red: jedan je red dijelova svemira među sobom, drugi red cijeloga svemira prema dobru koje je izvan svemira; i prvi je red usmjeren prema drugome kao prema svrsi, kako se kaže u XII. knjizi Metafizike, kao što je red dijelova vojske među sobom radi reda cijele vojske prema vojskovođi. Ali red dijelova svemira među sobom sastoji se u tome što viši stvorovi djeluju na niže, kako je rečeno u Prvom dijelu, a blaženstvo se sastoji u redu čovjeka prema dobru koje je izvan svemira, a to je Bog. Dakle čovjek postaje blažen radnjom višega stvora, naime anđela, na čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a6.obj2": {
+      "text": "Osim toga, ono što je takvo u mogućnosti može biti dovedeno u čin po onome što je takvo u činu, kao što ono što je u mogućnosti toplo postaje u činu toplo po onome što je u činu toplo. Ali čovjek je u mogućnosti blažen. Dakle može postati u činu blažen po anđelu, koji je u činu blažen.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a6.obj3": {
+      "text": "Osim toga, blaženstvo se sastoji u djelovanju uma, kako je gore rečeno. Ali anđeo može prosvijetliti čovjekov um, kako je utvrđeno u Prvom dijelu. Dakle anđeo može učiniti čovjeka blaženim.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 83: *milost i slavu dat će Gospodin*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a6.resp": {
+      "text": "Odgovaram: treba reći da, budući da je svaki stvor podložan zakonima naravi, jer ima ograničenu snagu i radnju, ono što nadilazi stvorenu narav ne može nastati snagom nekog stvora. Zato, ako treba da nastane nešto što je iznad naravi, to biva neposredno od Boga, kao uskrišenje mrtvoga, vraćanje vida slijepome i drugo tome slično. A pokazano je da je blaženstvo neko dobro koje nadilazi stvorenu narav. Stoga je nemoguće da ono bude podijeljeno radnjom nekog stvora, nego čovjek postaje blažen samo Božjim djelovanjem, ako govorimo o savršenom blaženstvu. Ako pak govorimo o nesavršenom blaženstvu, onda za nj vrijedi isti razlog kao i za krepost, u čijem se činu ono sastoji.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se kod međusobno uređenih djelatnih moći najčešće događa da dovođenje do posljednje svrhe pripada najvišoj moći, a niže moći pomažu u postizanju te posljednje svrhe tako što pripravljaju raspoloživost za nju; tako umijeću upravljanja brodom, koje je nadređeno brodograditeljskom, pripada upotreba broda, radi koje se sam brod i gradi. Tako, dakle, i u redu svemira čovjek dobiva pomoć od anđela za postizanje posljednje svrhe u nekim prethodnim stvarima, kojima se pripravlja za njezino postizanje, ali samu posljednju svrhu postiže po samome prvom djelatniku, a to je Bog.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a6.ad2": {
+      "text": "Na drugo treba reći da, kad neka forma u činu postoji u nečemu po savršenom i naravnom bitku, može biti počelo radnje na drugo, kao što toplo grije toplinom. Ali ako forma postoji u nečemu nesavršeno, a ne po naravnom bitku, ne može biti počelo priopćavanja sebe drugome; tako intencija boje koja je u zjenici ne može učiniti nešto bijelim; niti pak sve što je osvijetljeno ili zagrijano može drugo zagrijavati i osvjetljivati, jer bi tako osvjetljivanje i zagrijavanje išli u beskonačnost. A svjetlo slave, po kojem se Bog gleda, u Bogu je doduše savršeno, po naravnom bitku, a u bilo kojem stvoru nesavršeno, i to po bitku po sličnosti ili po sudjelovanju. Stoga nijedan blaženi stvor ne može priopćiti svoje blaženstvo drugome.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a6.ad3": {
+      "text": "Na treće treba reći da blaženi anđeo prosvjetljuje um čovjeka, ili i nižeg anđela, s obzirom na neke razloge božanskih djela, ali ne s obzirom na gledanje božanske biti, kako je rečeno u Prvom dijelu. Da bi je gledali, naime, sve neposredno prosvjetljuje Bog.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se ne zahtijevaju neka čovjekova djela da bi on postigao blaženstvo od Boga. Bog, naime, budući da je djelatnik beskonačne snage, u djelovanju ne zahtijeva unaprijed tvar ili raspoloživost tvari, nego može odmah proizvesti cjelinu. Ali čovjekova djela, budući da se za njegovo blaženstvo ne zahtijevaju kao tvorni uzrok, kako je rečeno, mogu se za nj zahtijevati samo kao raspoloživosti. Dakle Bog, koji u djelovanju ne zahtijeva unaprijed raspoloživosti, podjeljuje blaženstvo bez prethodnih djela.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a7.obj2": {
+      "text": "Osim toga, kao što je Bog neposredno začetnik blaženstva, tako je neposredno ustanovio i narav. Ali u prvom ustanovljenju naravi proizveo je stvorove bez ikakve prethodne raspoloživosti ili radnje stvora, nego je odmah učinio svaku stvar savršenom u njezinoj vrsti. Dakle čini se da čovjeku podjeljuje blaženstvo bez ikakvih prethodnih djelovanja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a7.obj3": {
+      "text": "Osim toga, Apostol kaže u Rim 4 da je blaženstvo onoga čovjeka kojemu Bog podjeljuje pravednost bez djela. Dakle ne zahtijevaju se neka čovjekova djela za postizanje blaženstva.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iv 13: *ako to znate, blaženi ćete biti ako to budete činili*. Dakle do blaženstva se dolazi radnjom.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a7.resp": {
+      "text": "Odgovaram: treba reći da se ispravnost volje, kako je gore rečeno, zahtijeva za blaženstvo, budući da ona nije ništa drugo nego dužni red volje prema posljednjoj svrsi; ona se za postizanje posljednje svrhe zahtijeva tako kao što se dužna raspoloživost tvari zahtijeva za postizanje forme. Ali iz toga se ne pokazuje da neko čovjekovo djelovanje mora prethoditi njegovu blaženstvu; Bog bi, naime, mogao istodobno učiniti volju koja ispravno teži prema svrsi i koja svrhu postiže, kao što ponekad istodobno pripravlja tvar i uvodi formu. Ali red božanske mudrosti zahtijeva da se to ne dogodi; kako se, naime, kaže u II. knjizi O nebu, *od onih stvari koje su po naravi takve da imaju savršeno dobro, jedna ga ima bez gibanja, druga jednim gibanjem, treća s više njih*. A imati savršeno dobro bez gibanja pristaje onome što ga ima po naravi. A imati blaženstvo po naravi pripada samome Bogu. Stoga je samo Bogu vlastito da se prema blaženstvu ne giba nekim prethodnim djelovanjem. A budući da blaženstvo nadilazi svaku stvorenu narav, nijedan čisti stvor ne postiže prikladno blaženstvo bez gibanja djelovanja kojim teži prema njemu. Ali anđeo, koji je po redu naravi viši od čovjeka, postigao ga je, po redu božanske mudrosti, jednim gibanjem zaslužnog djelovanja, kako je izloženo u Prvom dijelu. A ljudi ga postižu mnogim gibanjima djelovanja, koja se nazivaju zaslugama. Stoga je, i prema Filozofu, blaženstvo nagrada krepostnih djelovanja.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se čovjekovo djelovanje ne zahtijeva unaprijed za postizanje blaženstva zbog nedostatnosti božanske snage koja čini blaženim, nego zato da bi se očuvao red u stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a7.ad2": {
+      "text": "Na drugo treba reći da je Bog prve stvorove odmah proizveo savršenima, bez ikakve prethodne raspoloživosti ili djelovanja stvora, jer je prve pojedince vrsta ustanovio tako da se po njima narav prenosi na potomke. I slično, budući da je po Kristu, koji je Bog i čovjek, blaženstvo trebalo prijeći na druge, prema onome Apostolovu iz Heb 2: *koji je mnoge sinove priveo u slavu*, njegova je duša bila blažena odmah od početka njegova začeća, bez ikakvog prethodnog zaslužnog djelovanja. Ali to je u njemu jedinstveno; jer krštenoj djeci pomaže Kristova zasluga za postizanje blaženstva, iako im nedostaju vlastite zasluge, zato što su po krštenju postala Kristovi udovi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a7.ad3": {
+      "text": "Na treće treba reći da Apostol govori o blaženstvu nade, koje se ima po opravdavajućoj milosti, a ona se doista ne daje zbog prethodnih djela. Ona, naime, nema pojam završetka gibanja, kao blaženstvo, nego je prije počelo gibanja kojim se teži prema blaženstvu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da ne teže svi za blaženstvom. Nitko, naime, ne može težiti za onim što ne poznaje, budući da je zahvaćeno dobro predmet težnje, kako se kaže u III. knjizi O duši. Ali mnogi ne znaju što je blaženstvo, a to je, kako kaže Augustin u XIII. knjizi O Trojstvu, očito iz toga što su *jedni stavljali blaženstvo u tjelesni užitak, drugi u krepost duše, treći u druge stvari*. Dakle ne teže svi za blaženstvom.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a8.obj2": {
+      "text": "Osim toga, bit blaženstva je gledanje božanske biti, kako je rečeno. Ali neki misle da je nemoguće to da čovjek gleda Boga po biti, pa za tim ne teže. Dakle ne teže svi ljudi za blaženstvom.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a8.obj3": {
+      "text": "Osim toga, Augustin kaže u XIII. knjizi O Trojstvu da je *blažen onaj tko ima sve što hoće i ništa ne hoće naopako*. Ali to ne hoće svi; neki, naime, hoće nešto naopako, a ipak hoće da to hoće. Dakle ne hoće svi blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XIII. knjizi O Trojstvu: *da je glumac rekao: svi hoćete biti blaženi, nećete biti bijedni, rekao bi nešto što nitko ne bi propustio prepoznati u svojoj volji*. Svatko, dakle, hoće biti blažen.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a8.resp": {
+      "text": "Odgovaram: treba reći da se blaženstvo može razmatrati na dva načina. Na jedan način, prema općem pojmu blaženstva. I tako je nužno da svaki čovjek hoće blaženstvo. Opći je pak pojam blaženstva da ono bude savršeno dobro, kako je rečeno. A budući da je dobro predmet volje, savršeno je dobro nekoga ono što posve zadovoljava njegovu volju. Stoga težiti za blaženstvom nije ništa drugo nego težiti za tim da se volja nasiti. A to svatko hoće. Na drugi način možemo govoriti o blaženstvu prema posebnom pojmu, s obzirom na ono u čemu se blaženstvo sastoji. I tako ne poznaju svi blaženstvo, jer ne znaju kojoj stvari pristaje opći pojam blaženstva. I prema tome, s obzirom na to, ne hoće ga svi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a8.ad1": {
+      "text": "Iz toga je očit odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a8.ad2": {
+      "text": "Na drugo treba reći da, budući da volja slijedi zahvaćanje uma ili razuma, kao što se događa da je nešto isto u stvarnosti, a ipak različito po razmatranju razuma, tako se događa da je nešto isto u stvarnosti, a ipak se za njim na jedan način teži, a na drugi ne teži. Blaženstvo se, dakle, može razmatrati pod pojmom svršnog i savršenog dobra, što je opći pojam blaženstva, i tako volja prema njemu teži po naravi i nužno, kako je rečeno. Može se također razmatrati prema drugim posebnim razmatranjima, bilo sa strane samoga djelovanja, bilo sa strane moći koja djeluje, bilo sa strane predmeta, i tako volja prema njemu ne teži nužno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    },
+    "I-II.q5.a8.ad3": {
+      "text": "Na treće treba reći da je ona definicija blaženstva koju su neki postavili – blažen je onaj tko ima sve što hoće, ili: kome uspijeva sve što želi – na jedan način shvaćena dobra i dostatna, a na drugi način nesavršena. Ako se, naime, shvati naprosto o svemu što čovjek hoće naravnom težnjom, onda je istina da je blažen onaj tko ima sve što hoće; ništa, naime, ne zasićuje naravnu težnju čovjeka osim savršenog dobra, a to je blaženstvo. Ako se pak shvati o onome što čovjek hoće prema zahvaćanju razuma, onda imati neke stvari koje čovjek hoće ne pripada blaženstvu, nego prije bijedi, ukoliko takve posjedovane stvari priječe čovjeka da ima sve što po naravi hoće; kao što i razum ponekad prihvaća kao istinito ono što priječi spoznaju istine. I prema tom razmatranju Augustin je za savršenost blaženstva dodao da ne hoće ništa zla. Premda bi moglo biti dostatno i ono prvo, kad bi se ispravno shvatilo, naime da je blažen onaj tko ima sve što hoće.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:32+00:00"
+    }
+  }
+}

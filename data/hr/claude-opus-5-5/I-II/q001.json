@@ -1,0 +1,384 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 1,
+  "units": {
+    "I-II.q1.pr": {
+      "text": "Ovdje se najprije nameće razmatranje o posljednjoj svrsi ljudskoga života, a zatim o onome po čemu čovjek može doći do te svrhe ili od nje skrenuti; jer iz svrhe treba uzimati razloge onoga što je usmjereno prema svrsi. A budući da se drži da je posljednja svrha ljudskoga života blaženstvo, treba najprije razmotriti posljednju svrhu općenito, a zatim blaženstvo. U vezi s prvim pita se osam stvari. Prvo, pripada li čovjeku djelovati radi svrhe. Drugo, je li to vlastito razumskoj naravi. Treće, primaju li čini čovjeka vrstu od svrhe. Četvrto, postoji li neka posljednja svrha ljudskoga života. Peto, može li jedan čovjek imati više posljednjih svrha. Šesto, usmjeruje li čovjek sve prema posljednjoj svrsi. Sedmo, je li posljednja svrha svih ljudi ista. Osmo, slažu li se u toj posljednjoj svrsi i svi ostali stvorovi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da čovjeku ne pristaje djelovati radi svrhe. Jer uzrok je po naravi prethodan. A svrha ima pojam posljednjega, kako kaže i samo ime. Dakle svrha nema pojam uzroka. Ali čovjek djeluje radi onoga što je uzrok radnje, budući da prijedlog »radi« označuje odnošaj uzroka. Dakle čovjeku ne pristaje djelovati radi svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a1.obj2": {
+      "text": "Osim toga, ono što je posljednja svrha nije radi svrhe. A kod nekih su radnje posljednja svrha, kako je jasno kod Filozofa u I. knjizi Etike. Dakle čovjek ne čini sve radi svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a1.obj3": {
+      "text": "Osim toga, čini se da čovjek djeluje radi svrhe onda kad promišlja. Ali čovjek mnogo toga čini bez promišljanja, a o tome katkad ništa i ne misli; kao kad netko, zaokupljen drugim stvarima, pomakne nogu ili ruku, ili trlja bradu. Dakle čovjek ne čini sve radi svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a1.sc": {
+      "text": "Ali protiv toga, sve što je u nekom rodu izvodi se iz počela toga roda. A svrha je počelo u onome što čovjek čini, kako je jasno kod Filozofa u II. knjizi Fizike. Dakle čovjeku pristaje sve činiti radi svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a1.resp": {
+      "text": "Odgovaram: treba reći da se od radnji koje čovjek vrši u vlastitom smislu ljudskima nazivaju samo one koje su vlastite čovjeku ukoliko je čovjek. A čovjek se od ostalih nerazumskih stvorova razlikuje po tome što je gospodar svojih čina. Stoga se u vlastitom smislu ljudskima nazivaju samo one radnje kojima je čovjek gospodar. A čovjek je gospodar svojih čina po razumu i volji; zato se i za slobodno odlučivanje kaže da je sposobnost volje i razuma. Dakle, u vlastitom smislu ljudskima nazivaju se one radnje koje proizlaze iz promišljene volje. Ako pak čovjeku pripadaju i neke druge radnje, one se doduše mogu nazvati radnjama čovjeka, ali ne ljudskima u vlastitom smislu, jer ne pripadaju čovjeku ukoliko je čovjek. A očito je da sve radnje koje proizlaze iz neke moći ta moć prouzrokuje prema pojmu svoga predmeta. A predmet volje jest svrha i dobro. Stoga je nužno da sve ljudske radnje budu radi svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je svrha, iako je posljednja u izvršenju, ipak prva u nakani djelatnika. I na taj način ima pojam uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a1.ad2": {
+      "text": "Na drugo treba reći da, ako je neka ljudska radnja posljednja svrha, ona mora biti voljna, inače ne bi bila ljudska, kako je rečeno. A neka se radnja naziva voljnom na dva načina: na jedan način, zato što je volja zapovijeda, kao hodati ili govoriti; na drugi način, zato što je volja izvodi, kao samo htijenje. A nemoguće je da sam čin koji volja izvodi bude posljednja svrha. Jer predmet volje jest svrha, kao što je predmet vida boja; stoga, kao što je nemoguće da prvo vidljivo bude samo viđenje, jer svako je viđenje viđenje nekoga vidljivog predmeta, tako je nemoguće da prvo poželjno, a to je svrha, bude samo htijenje. Stoga preostaje da, ako je neka ljudska radnja posljednja svrha, ona bude zapovijeđena od volje. I tako je tu neka radnja čovjeka, barem samo htijenje, radi svrhe. Što god, dakle, čovjek činio, istinito je reći da čovjek djeluje radi svrhe, čak i kad vrši radnju koja je posljednja svrha.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a1.ad3": {
+      "text": "Na treće treba reći da takve radnje nisu u vlastitom smislu ljudske, jer ne proizlaze iz promišljanja razuma, koje je vlastito počelo ljudskih čina. Zato one doduše imaju zamišljenu svrhu, ali ne svrhu koju je razum unaprijed postavio.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je djelovati radi svrhe vlastito razumskoj naravi. Jer čovjek, kojemu pripada djelovati radi svrhe, nikada ne djeluje radi nepoznate svrhe. A mnogo je toga što ne spoznaje svrhu, bilo zato što je posve lišeno spoznaje, kao stvorovi bez osjetila, bilo zato što ne zahvaća pojam svrhe, kao nerazumne životinje. Čini se, dakle, da je djelovati radi svrhe vlastito razumskoj naravi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a2.obj2": {
+      "text": "Osim toga, djelovati radi svrhe znači usmjeravati svoju radnju prema svrsi. A to je djelo razuma. Dakle to ne pristaje onome što je lišeno razuma.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a2.obj3": {
+      "text": "Osim toga, dobro i svrha jesu predmet volje. A volja je u razumu, kako se kaže u III. knjizi O duši. Dakle djelovati radi svrhe pripada samo razumskoj naravi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a2.sc": {
+      "text": "Ali protiv toga jest ono što Filozof dokazuje u II. knjizi Fizike: da *ne samo um nego i narav djeluje radi svrhe*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a2.resp": {
+      "text": "Odgovaram: treba reći da svi djelatnici nužno djeluju radi svrhe. Jer od uzroka koji su međusobno usmjereni, ako se odstrani prvi, nužno se odstranjuju i ostali. A prvi među svim uzrocima jest svršni uzrok. Razlog je tome što tvar ne zadobiva formu osim ukoliko je pokreće djelatnik; jer ništa samo sebe ne prevodi iz mogućnosti u čin. A djelatnik ne pokreće osim iz nakane svrhe. Kad naime djelatnik ne bi bio određen prema nekom učinku, ne bi činio više ovo nego ono; dakle, da bi proizveo određeni učinak, nužno je da bude određen prema nečemu izvjesnom, što ima pojam svrhe. A to se određenje, kao što se u razumskoj naravi zbiva po razumskoj težnji, koja se zove volja, tako u drugima zbiva po naravnoj sklonosti, koja se zove naravna težnja. Ipak treba uočiti da nešto svojom radnjom ili gibanjem teži prema svrsi na dva načina: na jedan način, kao ono što samo sebe pokreće prema svrsi, poput čovjeka; na drugi način, kao ono što drugi pokreće prema svrsi, kao što strijela teži prema određenom cilju zato što je pokreće strijelac, koji svoju radnju upravlja prema svrsi. Dakle, ono što ima razum samo sebe pokreće prema svrsi, jer ima vlast nad svojim činima po slobodnom odlučivanju, koje je sposobnost volje i razuma. A ono što je lišeno razuma teži prema svrsi po naravnoj sklonosti, kao pokrenuto od drugoga, a ne od samoga sebe, jer ne spoznaje pojam svrhe; i zato ne može ništa usmjeriti prema svrsi, nego ga samo drugi usmjeruje prema svrsi. Jer sva se nerazumska narav prema Bogu odnosi kao oruđe prema glavnom djelatniku, kako je gore utvrđeno. I zato je vlastito razumskoj naravi da teži prema svrsi kao ona koja samu sebe pokreće ili vodi prema svrsi, a nerazumskoj naravi da teži kao ona koju drugi pokreće ili vodi, bilo prema zahvaćenoj svrsi, kao nerazumne životinje, bilo prema nezahvaćenoj svrsi, kao ono što je posve lišeno spoznaje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da čovjek, kad sam po sebi djeluje radi svrhe, spoznaje svrhu; ali kad ga drugi pokreće ili vodi, primjerice kad djeluje po nalogu drugoga ili kad se giba jer ga drugi gura, nije nužno da spoznaje svrhu. A tako je i kod nerazumskih stvorova.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a2.ad2": {
+      "text": "Na drugo treba reći da usmjeravati prema svrsi pripada onome što samo sebe pokreće prema svrsi. A onome što ga drugi pokreće prema svrsi pripada da bude usmjeravano prema svrsi. To može pripadati i nerazumskoj naravi, ali od nekoga tko ima razum.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a2.ad3": {
+      "text": "Na treće treba reći da je predmet volje svrha i dobro općenito. Stoga volje ne može biti u onome što je lišeno razuma i uma, jer ono ne može zahvatiti opće; nego u njemu postoji naravna ili osjetilna težnja, određena prema nekom posebnom dobru. A očito je da posebne uzroke pokreće opći uzrok, kao što upravitelj grada, koji smjera na zajedničko dobro, svojim zapovijedanjem pokreće sve posebne službe u gradu. I zato je nužno da sve što je lišeno razuma bude pokretano prema posebnim svrhama od neke razumske volje koja se proteže na opće dobro, to jest od božanske volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ljudski čini ne primaju vrstu od svrhe. Jer svrha je izvanjski uzrok. A svaka stvar ima vrstu od nekoga unutarnjeg počela. Dakle ljudski čini ne primaju vrstu od svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a3.obj2": {
+      "text": "Osim toga, ono što daje vrstu mora biti prije. A svrha je kasnija u bitku. Dakle ljudski čin nema vrstu od svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a3.obj3": {
+      "text": "Osim toga, isto ne može biti nego u jednoj vrsti. A događa se da brojčano isti čin bude usmjeren prema različitim svrhama. Dakle svrha ne daje vrstu ljudskim činima.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a3.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u knjizi O običajima Katoličke crkve i o običajima manihejaca: *ukoliko je svrha vrijedna pokude ili hvale, utoliko su i naša djela vrijedna pokude ili hvale*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a3.resp": {
+      "text": "Odgovaram: treba reći da svaka stvar dobiva vrstu prema činu, a ne prema mogućnosti; stoga ono što je složeno od tvari i forme biva ustanovljeno u svojim vrstama po vlastitim formama. A to treba uočiti i kod gibanja u vlastitom smislu. Budući naime da se gibanje na neki način razlikuje na radnju i trpnju, i jedno i drugo dobiva vrstu od čina: radnja od čina koji je počelo djelovanja, a trpnja od čina koji je završetak gibanja. Stoga zagrijavanje kao radnja nije ništa drugo nego neko pokretanje koje proizlazi od topline, a zagrijavanje kao trpnja nije ništa drugo nego gibanje prema toplini; a definicija očituje pojam vrste. I na oba načina ljudski čini, bilo da se promatraju na način radnji, bilo na način trpnji, dobivaju vrstu od svrhe. Ljudski se čini naime mogu promatrati na oba načina zato što čovjek pokreće sam sebe i biva pokretan od samoga sebe. A gore je rečeno da se čini nazivaju ljudskima ukoliko proizlaze iz promišljene volje. A predmet volje jest dobro i svrha. I zato je očito da je počelo ljudskih čina, ukoliko su ljudski, svrha. I slično je ona i njihov završetak; jer ono u čemu ljudski čin završava jest ono na što volja smjera kao na svrhu; kao što je kod naravnih djelatnika forma onoga što je nastalo sukladna formi onoga što ga proizvodi. I budući da se, kako kaže Ambrozije u komentaru na Luku, *ćudi u vlastitom smislu nazivaju ljudskima*, moralni čini u vlastitom smislu dobivaju vrstu od svrhe; jer moralni čini i ljudski čini jesu isto.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da svrha nije nešto posve izvanjsko činu, jer se prema činu odnosi kao počelo ili završetak; a upravo to pripada pojmu čina: da bude od nečega, što se tiče radnje, i da bude prema nečemu, što se tiče trpnje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a3.ad2": {
+      "text": "Na drugo treba reći da svrha, ukoliko je prva u nakani, kako je rečeno, utoliko pripada volji. I na taj način daje vrstu ljudskom ili moralnom činu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a3.ad3": {
+      "text": "Na treće treba reći da brojčano isti čin, ukoliko jedanput izlazi od djelatnika, nije usmjeren nego prema jednoj bližoj svrsi, od koje ima vrstu; ali može biti usmjeren prema više daljih svrha, od kojih je jedna svrha druge. Moguće je ipak da jedan čin po naravnoj vrsti bude usmjeren prema različitim svrhama volje; tako upravo ubiti čovjeka, što je isto po naravnoj vrsti, može biti usmjereno kao prema svrsi i prema održanju pravednosti i prema utoljenju srdžbe. I zbog toga će to biti različiti čini po ćudorednoj vrsti, jer će na jedan način biti čin kreposti, a na drugi čin poroka. Gibanje naime ne prima vrstu od onoga što je završetak akcidentalno, nego samo od onoga što je završetak po sebi. A moralne svrhe akcidentalno pripadaju naravnoj stvari; i obratno, pojam naravne svrhe akcidentalno pripada moralnoj. I zato ništa ne priječi da čini koji su isti po naravnoj vrsti budu različiti po ćudorednoj vrsti, i obratno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ne postoji neka posljednja svrha ljudskoga života, nego da se u svrhama ide u beskonačno. Jer dobro se po svom pojmu razlijeva, kako je jasno kod Dionizija u IV. poglavlju knjige O božanskim imenima. Ako je, dakle, i ono što proizlazi iz dobra samo dobro, nužno je da to dobro razlijeva drugo dobro, i tako slijed dobra ide u beskonačno. A dobro ima pojam svrhe. Dakle u svrhama slijed ide u beskonačno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a4.obj2": {
+      "text": "Osim toga, ono što pripada razumu može se umnažati u beskonačno; zato se i matematičke kolikoće povećavaju u beskonačno. I vrste brojeva su beskonačne upravo zato što razum, za bilo koji zadani broj, može izmisliti drugi, veći. A želja za svrhom slijedi zahvaćanje razuma. Dakle čini se da se i u svrhama ide u beskonačno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a4.obj3": {
+      "text": "Osim toga, dobro i svrha jesu predmet volje. A volja se može beskonačno puta vraćati na samu sebe: mogu naime htjeti nešto, i htjeti da to hoću, i tako u beskonačno. Dakle u svrhama ljudske volje ide se u beskonačno i ne postoji neka posljednja svrha ljudske volje.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a4.sc": {
+      "text": "Ali protiv toga jest ono što Filozof kaže u II. knjizi Metafizike: da *oni koji uvode beskonačno ukidaju narav dobra*. A dobro je ono što ima pojam svrhe. Dakle protivno je pojmu svrhe da se ide u beskonačno. Nužno je, dakle, postaviti jednu posljednju svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a4.resp": {
+      "text": "Odgovaram: treba reći da je, govoreći po sebi, nemoguće u svrhama ići u beskonačno, s bilo koje strane. Jer u svemu što po sebi ima međusobni red, nužno je da se, kad se odstrani prvo, odstrani i ono što je usmjereno prema prvome. Zato Filozof u VIII. knjizi Fizike dokazuje da u pokretnim uzrocima nije moguće ići u beskonačno, jer tada ne bi bilo prvoga pokretača, a kad se on odstrani, ostali ne mogu pokretati, budući da pokreću samo time što ih pokreće prvi pokretač. A u svrhama se nalazi dvostruki red, to jest red nakane i red izvršenja, i u oba reda mora biti nešto prvo. Ono naime što je prvo u redu nakane jest kao počelo koje pokreće težnju; stoga, kad bi se odstranilo to počelo, težnju ne bi ništa pokretalo. A ono što je počelo u izvršenju jest ono odakle počinje djelovanje; stoga, kad bi se odstranilo to počelo, nitko ne bi počeo nešto činiti. A počelo nakane jest posljednja svrha, dok je počelo izvršenja prvo od onoga što vodi k svrsi. Tako, dakle, ni s jedne strane nije moguće ići u beskonačno: jer kad ne bi bilo posljednje svrhe, ni za čim se ne bi težilo, niti bi ijedna radnja bila dovršena, niti bi se smirila nakana djelatnika; a kad ne bi bilo prvoga u onome što vodi k svrsi, nitko ne bi počeo nešto činiti, niti bi promišljanje bilo dovršeno, nego bi išlo u beskonačno. A ništa ne priječi da ono što nema red po sebi, nego je međusobno povezano akcidentalno, ima beskonačnost; jer akcidentalni uzroci su neodređeni. I na taj se način događa da postoji akcidentalna beskonačnost u svrhama i u onome što vodi k svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da pojmu dobra pripada da nešto iz njega istječe, ali ne da ono samo proizlazi iz drugoga. I zato, budući da dobro ima pojam svrhe, a prvo je dobro posljednja svrha, taj razlog ne dokazuje da ne postoji posljednja svrha, nego da se od pretpostavljene prve svrhe ide u beskonačno naniže prema onome što vodi k svrsi. I to bi doduše vrijedilo kad bi se promatrala samo snaga prvoga dobra, koja je beskonačna. Ali budući da prvo dobro ima razlijevanje po umu, kojemu je svojstveno da se prema nekoj određenoj formi izlijeva u ono što je prouzrokovano, istjecanju dobara od prvoga dobra, od kojega sva ostala dobra imaju udjela u snazi razlijevanja, pridaje se neki određeni način. I zato se razlijevanje dobara ne nastavlja u beskonačno, nego je, kako se kaže u Knjizi mudrosti 11, Bog sve rasporedio po broju, težini i mjeri.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a4.ad2": {
+      "text": "Na drugo treba reći da u onome što je po sebi razum počinje od naravno poznatih načela i napreduje do neke granice. Zato Filozof u I. knjizi Druge analitike dokazuje da u dokazima nema napredovanja u beskonačno, jer se u dokazima gleda red stvari koje su međusobno povezane po sebi, a ne akcidentalno. A u onome što je povezano akcidentalno ništa ne priječi da razum ide u beskonačno. A kolikoći ili broju koji već postoji, kao takvima, akcidentalno je da im se doda kolikoća ili jedinica. Zato u takvim stvarima ništa ne priječi da razum ide u beskonačno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a4.ad3": {
+      "text": "Na treće treba reći da se ono umnažanje čina volje koja se vraća na samu sebe akcidentalno odnosi prema redu svrha. To je jasno iz toga što se volja u pogledu jedne te iste svrhe svejedno vraća na samu sebe jedanput ili više puta.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je moguće da volja jednoga čovjeka istodobno bude upravljena na više stvari kao na posljednje svrhe. Augustin naime kaže u XIX. knjizi O Božjem gradu da su neki posljednju svrhu čovjeka stavljali u četiri stvari, naime *u užitak, u smirenje, u prva dobra naravi i u krepost*. A to je očito više stvari. Dakle jedan čovjek može posljednju svrhu svoje volje postaviti u mnogo stvari.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a5.obj2": {
+      "text": "Osim toga, ono što nije međusobno suprotstavljeno ne isključuje se međusobno. A u stvarima se nalazi mnogo toga što nije međusobno suprotstavljeno. Dakle, ako se nešto jedno postavi kao posljednja svrha volje, zbog toga se ne isključuje ostalo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a5.obj3": {
+      "text": "Osim toga, volja time što posljednju svrhu postavlja u nešto ne gubi svoju slobodnu moć. A prije nego što je svoju posljednju svrhu postavila u ono, na primjer u užitak, mogla je svoju posljednju svrhu postaviti u nešto drugo, na primjer u bogatstvo. Dakle, i nakon što je netko posljednju svrhu svoje volje postavio u užitak, može istodobno postaviti posljednju svrhu i u bogatstvo. Dakle moguće je da volja jednoga čovjeka istodobno bude upravljena na različite stvari kao na posljednje svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a5.sc": {
+      "text": "Ali protiv toga, ono u čemu se netko smiruje kao u posljednjoj svrsi gospodari čovjekovom sklonošću, jer iz toga uzima pravila čitavoga svoga života. Zato se o proždrljivcima kaže u Poslanici Filipljanima 3: *kojima je bog trbuh*, naime zato što posljednju svrhu postavljaju u slasti trbuha. A kako se kaže u Evanđelju po Mateju 6, *nitko ne može služiti dvojici gospodara*, naime ako nisu međusobno usmjereni. Dakle nemoguće je da jedan čovjek ima više posljednjih svrha koje nisu međusobno usmjerene.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a5.resp": {
+      "text": "Odgovaram: treba reći da je nemoguće da se volja jednoga čovjeka istodobno odnosi prema različitim stvarima kao prema posljednjim svrhama. Za to se može navesti trostruk razlog. Prvi je taj što, budući da svaka stvar teži za svojom savršenošću, netko kao za posljednjom svrhom teži za onim za čim teži kao za savršenim dobrom koje dovršava njega samoga. Zato Augustin kaže u XIX. knjizi O Božjem gradu: *svrhom dobra sada nazivamo ne ono što se dokončava tako da ga više nema, nego ono što se dovršava tako da bude puno*. Nužno je, dakle, da posljednja svrha tako ispuni svu čovjekovu težnju da izvan nje ne preostane ništa za čim bi trebalo težiti. A to ne može biti ako se za njegovu savršenost zahtijeva nešto izvanjsko. Stoga ne može biti da težnja tako teži prema dvjema stvarima kao da je svaka od njih njegovo savršeno dobro. Drugi je razlog taj što, kao što je u postupku razuma načelo ono što se naravno spoznaje, tako u postupku razumske težnje, a to je volja, počelo mora biti ono što se naravno želi. A to mora biti jedno, jer narav ne teži nego prema jednome. A počelo u postupku razumske težnje jest posljednja svrha. Stoga ono prema čemu volja teži pod pojmom posljednje svrhe mora biti jedno. Treći je razlog taj što, budući da voljne radnje dobivaju vrstu od svrhe, kako je gore utvrđeno, nužno je da od posljednje svrhe, koja je zajednička, dobiju pojam roda, kao što se i naravne stvari stavljaju u rod prema zajedničkom formalnom pojmu. Budući, dakle, da je sve što je poželjno volji, kao takvo, jednoga roda, nužno je da posljednja svrha bude jedna. I to osobito zato što je u svakom rodu jedno prvo počelo, a posljednja svrha ima pojam prvoga počela, kako je rečeno. A kako se posljednja svrha čovjeka naprosto odnosi prema čitavom ljudskom rodu, tako se posljednja svrha ovoga čovjeka odnosi prema ovome čovjeku. Stoga je nužno da, kao što je svim ljudima po naravi jedna posljednja svrha, tako i volja ovoga čovjeka bude ustanovljena u jednoj posljednjoj svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da su sve te mnoge stvari oni koji su u njih stavljali posljednju svrhu uzimali pod pojmom jednoga savršenog dobra sastavljenoga od njih.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a5.ad2": {
+      "text": "Na drugo treba reći da, premda se može uzeti mnogo toga što nije međusobno suprotstavljeno, ipak je savršenom dobru suprotstavljeno da izvan njega bude nešto što pripada savršenosti stvari.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a5.ad3": {
+      "text": "Na treće treba reći da moć volje ne seže dotle da učini da suprotstavljene stvari budu istodobno. A to bi se dogodilo kad bi težila prema više raznorodnih stvari kao prema posljednjim svrhama, kako je jasno iz rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da čovjek ne hoće sve što hoće radi posljednje svrhe. Ono naime što je usmjereno prema posljednjoj svrsi naziva se ozbiljnim, kao korisno. A šaljivo se razlikuje od ozbiljnoga. Dakle ono što čovjek čini u šali ne usmjeruje prema posljednjoj svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a6.obj2": {
+      "text": "Osim toga, Filozof kaže na početku Metafizike da se spekulativne znanosti traže radi njih samih. A ipak se ne može reći da je bilo koja od njih posljednja svrha. Dakle čovjek ne teži za svime za čim teži radi posljednje svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a6.obj3": {
+      "text": "Osim toga, tko god nešto usmjeruje prema nekoj svrsi, misli na tu svrhu. A čovjek ne misli uvijek na posljednju svrhu u svemu za čim teži ili što čini. Dakle čovjek ne teži za svime niti sve čini radi posljednje svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a6.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u XIX. knjizi O Božjem gradu: *svrha našega dobra jest ono radi čega se ljubi ostalo, a ono samo radi sebe samoga*.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a6.resp": {
+      "text": "Odgovaram: treba reći da je nužno da čovjek za svime za čim teži teži radi posljednje svrhe. A to se pokazuje dvostrukim razlogom. Prvo, zato što za čim god čovjek teži, teži pod pojmom dobra. Ako se pak za tim ne teži kao za savršenim dobrom, koje je posljednja svrha, nužno je da se za njim teži kao za onim što smjera prema savršenom dobru, jer je početak nečega uvijek usmjeren prema njegovu dovršenju, kao što je jasno kako u onome što nastaje od prirode tako i u onome što nastaje od umijeća. I zato je svaki početak savršenosti usmjeren prema dovršenoj savršenosti, koja je po posljednjoj svrsi. Drugo, zato što se posljednja svrha u pokretanju težnje odnosi onako kako se u drugim pokretanjima odnosi prvi pokretač. A očito je da drugotni pokretni uzroci ne pokreću osim ukoliko ih pokreće prvi pokretač. Stoga drugotno poželjne stvari ne pokreću težnju osim u usmjerenosti prema prvom poželjnom, a to je posljednja svrha.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da radnje u igri nisu usmjerene prema nekoj izvanjskoj svrsi, ali su ipak usmjerene prema dobru samoga onoga koji se igra, ukoliko pružaju nasladu ili odmor. A dovršeno dobro čovjeka jest njegova posljednja svrha.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a6.ad2": {
+      "text": "I slično treba reći na drugo, o spekulativnoj znanosti: za njom se teži kao za nekim dobrom onoga koji spekulativno razmatra, a to je dobro obuhvaćeno potpunim i savršenim dobrom, koje je posljednja svrha.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a6.ad3": {
+      "text": "Na treće treba reći da nije nužno da netko uvijek misli na posljednju svrhu kad god za nečim teži ili nešto čini; nego snaga prve nakane, koja je u pogledu posljednje svrhe, ostaje u svakoj težnji za bilo kojom stvari, čak i ako se na posljednju svrhu ne misli u činu. Kao što nije nužno da onaj koji ide putem na svakom koraku misli na cilj.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da nije jedna posljednja svrha svih ljudi. Čini se naime da je posljednja svrha čovjeka ponajprije nepromjenljivo dobro. Ali neki se, griješeći, odvraćaju od nepromjenljivoga dobra. Dakle nije jedna posljednja svrha svih ljudi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a7.obj2": {
+      "text": "Osim toga, prema posljednjoj svrsi ravna se čitav čovjekov život. Kad bi, dakle, bila jedna posljednja svrha svih ljudi, slijedilo bi da kod ljudi nema različitih životnih nastojanja. A očito je da je to lažno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a7.obj3": {
+      "text": "Osim toga, svrha je završetak radnje. A radnje pripadaju pojedinačnome. A ljudi se, premda se slažu u naravi vrste, ipak razlikuju po onome što pripada pojedincima. Dakle nije jedna posljednja svrha svih ljudi.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a7.sc": {
+      "text": "Ali protiv toga jest ono što Augustin kaže u XIII. knjizi O Trojstvu: da se svi ljudi slažu u težnji za posljednjom svrhom, a to je blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a7.resp": {
+      "text": "Odgovaram: treba reći da o posljednjoj svrsi možemo govoriti na dva načina: na jedan način, prema pojmu posljednje svrhe; na drugi način, prema onome u čemu se nalazi pojam posljednje svrhe. Što se, dakle, tiče pojma posljednje svrhe, svi se slažu u težnji za posljednjom svrhom, jer svi teže za tim da se ispuni njihova savršenost, a to je pojam posljednje svrhe, kako je rečeno. Ali što se tiče onoga u čemu se taj pojam nalazi, ne slažu se svi ljudi u posljednjoj svrsi: jedni naime teže za bogatstvom kao za dovršenim dobrom, drugi za užitkom, a treći za bilo čim drugim. Kao što je i svakom okusu slatko ugodno, ali je jednima najugodnija slatkoća vina, drugima slatkoća meda ili nečega takvoga. Ipak, naprosto ugodnije mora biti ono slatko u kojemu se najviše naslađuje onaj tko ima najbolji okus. I slično, najpotpunije mora biti ono dobro za kojim kao za posljednjom svrhom teži onaj čija je sklonost dobro raspoložena.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se oni koji griješe odvraćaju od onoga u čemu se uistinu nalazi pojam posljednje svrhe, ali ne od same nakane posljednje svrhe, koju lažno traže u drugim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a7.ad2": {
+      "text": "Na drugo treba reći da se različita životna nastojanja javljaju kod ljudi zbog različitih stvari u kojima se traži pojam najvišega dobra.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a7.ad3": {
+      "text": "Na treće treba reći da, premda radnje pripadaju pojedinačnome, ipak je u njima prvo počelo djelovanja narav, koja teži prema jednome, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da se u posljednjoj svrsi čovjeka slaže i sve ostalo. Jer svrha odgovara počelu. A ono što je počelo ljudi, to jest Bog, počelo je i svega ostalog. Dakle u posljednjoj svrsi čovjeka zajedništvo ima i sve ostalo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a8.obj2": {
+      "text": "Osim toga, Dionizije kaže u knjizi O božanskim imenima da *Bog sve obraća k sebi kao k posljednjoj svrsi*. A on je također posljednja svrha čovjeka, jer samo u njemu treba uživati, kako kaže Augustin. Dakle u posljednjoj svrsi čovjeka slaže se i ostalo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a8.obj3": {
+      "text": "Osim toga, posljednja svrha čovjeka jest predmet volje. A predmet volje jest opće dobro, koje je svrha svega. Dakle nužno je da se u posljednjoj svrsi čovjeka slaže sve.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a8.sc": {
+      "text": "Ali protiv toga jest to što je posljednja svrha ljudi blaženstvo, za kojim svi teže, kako kaže Augustin. *Ali životinjama lišenima razuma ne pripada da budu blažene*, kako kaže Augustin u knjizi Osamdeset i tri pitanja. Dakle u posljednjoj svrsi čovjeka ne slaže se ostalo.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a8.resp": {
+      "text": "Odgovaram: treba reći da se, kako kaže Filozof u II. knjizi Fizike i u V. knjizi Metafizike, svrha kaže na dva načina, naime svrha koja i svrha kojom, to jest sama stvar u kojoj se nalazi pojam dobra, i upotreba ili postignuće te stvari. Kao kad bismo rekli da je svrha gibanja teškoga tijela ili niže mjesto kao stvar ili to da bude na nižem mjestu kao upotreba; i svrha je škrtca ili novac kao stvar ili posjedovanje novca kao upotreba. Ako, dakle, govorimo o posljednjoj svrsi čovjeka s obzirom na samu stvar koja je svrha, tada se u posljednjoj svrsi čovjeka slaže sve ostalo, jer je Bog posljednja svrha čovjeka i svih ostalih stvari. Ako pak govorimo o posljednjoj svrsi čovjeka s obzirom na postizanje svrhe, tada u toj svrsi čovjeka nerazumski stvorovi nemaju zajedništva. Jer čovjek i ostali razumski stvorovi postižu posljednju svrhu spoznajući i ljubeći Boga, što ne pripada ostalim stvorovima, koji postižu posljednju svrhu ukoliko imaju udjela u nekoj sličnosti s Bogom, ukoliko jesu, ili žive, ili također spoznaju.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    },
+    "I-II.q1.a8.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 8,
+      "created_at": "2026-11-11T12:49:31+00:00"
+    }
+  }
+}
