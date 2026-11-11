@@ -1,4 +1,4 @@
-version: 10
+version: 11
 terms:
 - la: esse
   hr: bitak
@@ -2431,5 +2431,107 @@ terms:
   - teško
   note: 'The object of the irascible power: a good or evil that is hard to attain
     or avoid.'
+  opis: null
+  mjesto: null
+- la: 'virtutes cardinales: prudentia, iustitia, fortitudo, temperantia'
+  hr: 'stožerne kreposti: razboritost, pravednost, jakost, umjerenost'
+  alternatives:
+  - hrabrost
+  note: 'Owner''s choice (v11): fortitudo = "jakost" (also the gift), never "hrabrost"
+    for the virtue; fortis = "jak / hrabar" by context. Iustus = "pravedan", temperatus
+    = "umjeren", prudens = "razborit".'
+  opis: 'Stožerne su kreposti razboritost, pravednost, jakost i umjerenost: na njima
+    se, kao vrata na stožerima, okreće sav moralni život. Razboritost usmjeruje razum,
+    pravednost volju, a jakost i umjerenost srditu i požudnu moć.'
+  mjesto: null
+- la: 'virtutes intellectuales: intellectus, sapientia, scientia, ars, prudentia'
+  hr: 'umne kreposti: um, mudrost, znanost, umijeće, razboritost'
+  alternatives: []
+  note: Intellectus as the habit of first principles = "um" (as the faculty). Ars
+    = "umijeće", artifex = "umjetnik" or "majstor" by context. Recta ratio agibilium
+    / factibilium = "ispravni razum o onome što treba činiti / izraditi".
+  opis: 'Umne kreposti usavršavaju um: um je habitus prvih načela, znanost habitus
+    zaključaka, mudrost spoznaja po najvišim uzrocima, umijeće ispravni razum o onome
+    što treba izraditi, a razboritost ispravni razum o onome što treba činiti.'
+  mjesto: null
+- la: 'virtutes theologicae: fides, spes, caritas'
+  hr: 'bogoslovne kreposti: vjera, nada, ljubav'
+  alternatives: []
+  note: Caritas = "ljubav" ("bogoslovna ljubav" where it must be marked off from amor).
+  opis: 'Bogoslovne kreposti imaju za predmet samoga Boga i samo ih on ulijeva: vjera,
+    nada i ljubav. Po njima se čovjek usmjeruje prema nadnaravnom blaženstvu.'
+  mjesto: null
+- la: virtutes infusae / acquisitae
+  hr: ulivene / stečene kreposti
+  alternatives: []
+  note: Owner's choice (v11). Infundere = "ulijevati"; habitus infusus = "uliveni
+    habitus"; acquirere = "stjecati".
+  opis: Stečene kreposti čovjek zadobiva ponavljanjem dobrih čina, a ulivene mu Bog
+    daruje bez njegova vlastitog djelovanja. Bogoslovne su kreposti uvijek ulivene.
+  mjesto: null
+- la: 'dona Spiritus Sancti: sapientia, intellectus, consilium, fortitudo, scientia,
+    pietas, timor'
+  hr: 'darovi Duha Svetoga: mudrost, razum, savjet, jakost, znanje, pobožnost, strah
+    Božji'
+  alternatives: []
+  note: 'Owner''s choice (v11): the gift intellectus = "razum" (catechism list), though
+    intellectus elsewhere stays "um"; the gift consilium = "savjet", scientia = "znanje",
+    pietas = "pobožnost", timor = "strah Božji".'
+  opis: 'Darovi Duha Svetoga su trajna raspoloženja kojima čovjek postaje spreman
+    slijediti poticaje Duha Svetoga: mudrost, razum, savjet, jakost, znanje, pobožnost
+    i strah Božji.'
+  mjesto: null
+- la: beatitudines (Mt 5)
+  hr: blaženstva
+  alternatives: []
+  note: The evangelical beatitudes; beati = "blaženi", translated from the Latin as
+    quoted.
+  opis: Blaženstva su čini kreposti i darova koje Krist ubraja u Govoru na gori; Toma
+    ih tumači kao čine koji vode prema blaženstvu i u kojima se ono već na neki način
+    započinje.
+  mjesto: null
+- la: fructus Spiritus Sancti (Gal 5)
+  hr: 'plodovi Duha: ljubav, radost, mir, strpljivost, dugotrpnost, dobrota, dobrostivost,
+    blagost, vjera, skromnost, uzdržljivost, čistoća'
+  alternatives: []
+  note: 'Order of Gal 5:22-23 (Vulgate): caritas, gaudium, pax, patientia, longanimitas,
+    bonitas, benignitas, mansuetudo, fides, modestia, continentia, castitas. Mansuetudo
+    = "blagost" as elsewhere.'
+  opis: Plodovi Duha su kreposni čini u kojima čovjek nalazi nasladu, kao što se plod
+    stabla na kraju bere i u njemu uživa. Toma ih s Apostolom nabraja dvanaest.
+  mjesto: null
+- la: liberalitas, magnificentia, magnanimitas, philotimia, mansuetudo, affabilitas,
+    veritas, eutrapelia
+  hr: darežljivost, velebnost, velikodušnost, častoljublje, blagost, ljubaznost, istinitost,
+    duhovitost
+  alternatives: []
+  note: 'Owner''s choice (v11): magnificentia = "velebnost". Aristotle''s moral virtues
+    (q.60 a.5); veritas as the virtue = "istinitost" (truth itself stays "istina");
+    prodigalitas / illiberalitas = "rasipnost / škrtost".'
+  opis: 'Aristotelove moralne kreposti koje Toma navodi uz jakost, umjerenost i pravednost:
+    darežljivost i velebnost u trošenju, velikodušnost i častoljublje glede časti,
+    blagost glede srdžbe, te ljubaznost, istinitost i duhovitost u druženju.'
+  mjesto: null
+- la: vitium / malitia (habitus)
+  hr: porok / zloća
+  alternatives: []
+  note: Vitium = a bad habitus, opposite of virtus; vitiosus = "poročan", virtuosus
+    = "krepostan".
+  opis: 'Porok je loš habitus, suprotan kreposti: sklonost prema onome što ne odgovara
+    razumskoj naravi čovjeka.'
+  mjesto: null
+- la: medium virtutis / connexio virtutum
+  hr: sredina kreposti / povezanost kreposti
+  alternatives: []
+  note: Medium rei / rationis = "sredina stvari / razuma"; superabundantia / defectus
+    = "pretjeranost / nedostatak".
+  opis: Moralna se krepost sastoji u sredini koju određuje razum, između pretjeranosti
+    i nedostatka. Savršene su moralne kreposti međusobno povezane razboritošću, tako
+    da tko ima jednu, ima ih sve.
+  mjesto: null
+- la: habitus (augmentum, diminutio, corruptio; entitativus / operativus)
+  hr: habitus (porast, umanjenje, propadanje; bićevni / djelatni)
+  alternatives: []
+  note: Habitus stays "habitus"; consuetudo = "navika"; assuefactio = "navikavanje".
   opis: null
   mjesto: null
