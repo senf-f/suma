@@ -1,4 +1,4 @@
-version: 9
+version: 10
 terms:
 - la: esse
   hr: bitak
@@ -2092,13 +2092,13 @@ terms:
     radnje koje se zbivaju u čovjeku bez razuma i volje nazivaju se činima čovjeka.
   mjesto: I-II.q1.a1.resp
 - la: frui / fruitio; uti / usus
-  hr: uživati / uživanje; služiti se / upotreba
+  hr: uživati / uživanje; služiti se / uporaba
   alternatives: []
   note: 'Owner''s choice (v8). Augustine''s pair: frui = rest in the end for its own
     sake, uti = refer something to an end. "Uživanje" is reserved for fruitio; delectatio
     = "naslada".'
   opis: Uživanje je čin volje kojim se ona smiruje u posljednjoj svrsi kad je postigne;
-    u pravom smislu uživamo samo u onome što ljubimo radi njega samoga. Upotreba je,
+    u pravom smislu uživamo samo u onome što ljubimo radi njega samoga. Uporaba je,
     naprotiv, primjena nečega kao sredstva za neku svrhu.
   mjesto: I-II.q11.a1.resp
 - la: delectatio
@@ -2360,5 +2360,76 @@ terms:
   hr: nerazumne životinje
   alternatives: []
   note: As settled in I-II batch 1.
+  opis: null
+  mjesto: null
+- la: acedia
+  hr: duhovna lijenost (acedija)
+  alternatives:
+  - akedija
+  - lijenost
+  note: 'Owner''s choice (v10). First mention in an article: "duhovna lijenost (acedija)";
+    afterwards "duhovna lijenost".'
+  opis: Duhovna lijenost (acedija) je vrsta žalosti koja toliko pritišće duh da čovjeku
+    ništa ne prija činiti. Toma je, s Damaščaninom, ubraja među vrste žalosti, a kasnije
+    među glavne grijehe.
+  mjesto: null
+- la: anxietas / agonia
+  hr: tjeskoba / strepnja
+  alternatives: []
+  note: Owner's choice (v10). Anxietas = a species of sorrow (no way out); agonia
+    = a species of fear (before an uncertain outcome). Angustia = "tjesnoba".
+  opis: Tjeskoba je vrsta žalosti u kojoj duh ne vidi izlaza, a strepnja vrsta straha
+    pred neizvjesnim ishodom. Toma ih razlikuje prema tome pripadaju li žalosti ili
+    strahu.
+  mjesto: null
+- la: misericordia / invidia
+  hr: milosrđe / zavist
+  alternatives: []
+  note: With acedia and anxietas, Damascene's four species of sorrow (q.35 a.8).
+  opis: Milosrđe je žalost zbog tuđeg zla koje se smatra svojim, a zavist žalost zbog
+    tuđeg dobra koje se smatra umanjenjem vlastitoga.
+  mjesto: null
+- la: segnities, erubescentia, verecundia, admiratio, stupor, agonia
+  hr: tromost, sram, stid, divljenje, zaprepaštenje, strepnja
+  alternatives: []
+  note: Damascene's six species of fear (q.41 a.4). Erubescentia = fear of disgrace
+    for a base act to be done (sram); verecundia = shame at one already done (stid).
+  opis: 'Šest vrsta straha: tromost, kojom se čovjek boji truda; sram i stid, kojima
+    se boji sramote zbog djela koje tek treba učiniti ili koje je već učinio; divljenje
+    i zaprepaštenje pred nečim velikim ili neobičnim; i strepnja pred neizvjesnim
+    ishodom.'
+  mjesto: null
+- la: gaudium, exsultatio, iucunditas, laetitia
+  hr: radost, klicanje, milina, veselje
+  alternatives: []
+  note: Names of delight (q.31 a.3); delectatio stays "naslada", voluptas "užitak".
+  opis: 'Radost je naslada koja prati razum; klicanje, milina i veselje imena su za
+    njezine izvanjske znakove: kad se radost izlijeva prema van, kad se očituje na
+    licu i kad duh kao da se širi.'
+  mjesto: null
+- la: ira (fel, mania, furor) / vindicta
+  hr: srdžba (žučljivost, kivnost, bijes) / osveta
+  alternatives: []
+  note: 'Damascene''s three species of anger (q.46 a.8): fel = quick to flare; mania
+    = persisting in memory; furor = not resting until revenge. Contumelia = "pogrda";
+    despectio / despectus = "prezir"; mansuetudo = "blagost".'
+  opis: Srdžba teži osveti kao dobru zbog nanesene nepravde. Toma s Damaščaninom razlikuje
+    žučljivost, koja brzo plane, kivnost, koja dugo ostaje u pamćenju, i bijes, koji
+    ne miruje dok se ne osveti.
+  mjesto: null
+- la: affectus / affectio
+  hr: čuvstvo
+  alternatives:
+  - osjećaj
+  note: As used in the Prima Pars and I-II so far; affectiones animi = "duševna čuvstva".
+  opis: Čuvstvo je svaki pokret težnje, osobito volje, kojim se duša odnosi prema
+    dobru ili zlu.
+  mjesto: null
+- la: arduum
+  hr: teško dostižno
+  alternatives:
+  - teško
+  note: 'The object of the irascible power: a good or evil that is hard to attain
+    or avoid.'
   opis: null
   mjesto: null
