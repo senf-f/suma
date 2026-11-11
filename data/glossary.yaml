@@ -1,4 +1,4 @@
-version: 7
+version: 8
 terms:
 - la: esse
   hr: bitak
@@ -310,7 +310,7 @@ terms:
   alternatives:
   - krepost
   - moć
-  note: Power/force = "snaga"; moral virtue = "krepost"; "virtute" meaning "virtually"
+  note: Power/force = "snaga"; moral virtue = "krepost" (see virtus moralis); "virtute" meaning "virtually"
     (not formally) = "virtualno".
   opis: U teorijskim dijelovima riječ najčešće znači snagu, djelatnu silu kojom nešto
     može proizvesti učinak; kad je riječ o moralnom savršenstvu, prevodi se kao „krepost“.
@@ -1168,7 +1168,7 @@ terms:
 - la: beatitudo
   hr: blaženstvo
   alternatives: []
-  note: Standard.
+  note: Standard. Beatitudo perfecta / imperfecta = "savršeno / nesavršeno blaženstvo"; beatus = "blažen"; felicitas = "sreća".
   opis: Blaženstvo je posljednje savršenstvo razumnoga stvora, u kojem se ispunja
     sva njegova težnja; za Tomu se ono bitno sastoji u gledanju Boga. Bogu blaženstvo
     pripada po samoj njegovoj naravi.
@@ -2065,4 +2065,147 @@ terms:
   note: Gregory's Moralia = "Moralije" (u Moralijama); Augustine's De quantitate animae
     = "O veličini duše".
   opis: null
+  mjesto: null
+- la: ultimus finis
+  hr: posljednja svrha
+  alternatives:
+  - konačna svrha
+  - posljednji cilj
+  note: Owner's choice (v8), consistent with finis = "svrha". Finis cuius / quo =
+    "svrha koja / svrha kojom"; ordinare in finem = "usmjeriti prema svrsi"; ea quae
+    sunt ad finem = "ono što vodi k svrsi".
+  opis: Posljednja svrha je ono radi čega čovjek hoće sve što hoće i u čemu se njegova
+    težnja potpuno smiruje. Toma pokazuje da za čovjeka može biti samo jedna, da je
+    to blaženstvo i da se ono u konačnici nalazi samo u Bogu.
+  mjesto: null
+- la: actus humanus / actus hominis
+  hr: ljudski čin / čin čovjeka
+  alternatives:
+  - ljudsko djelo
+  note: Actus humanus proceeds from deliberate will and is properly moral; actus hominis
+    is any act that merely occurs in a man. Keep the pair distinct.
+  opis: Ljudski su čini oni koje čovjek čini kao gospodar svojih čina, to jest iz
+    promišljene volje, i samo oni u pravom smislu pripadaju moralnom životu. Ostale
+    radnje koje se zbivaju u čovjeku bez razuma i volje nazivaju se činima čovjeka.
+  mjesto: null
+- la: frui / fruitio; uti / usus
+  hr: uživati / uživanje; služiti se / upotreba
+  alternatives: []
+  note: 'Owner''s choice (v8). Augustine''s pair: frui = rest in the end for its own
+    sake, uti = refer something to an end. "Uživanje" is reserved for fruitio; delectatio
+    = "naslada".'
+  opis: Uživanje je čin volje kojim se ona smiruje u posljednjoj svrsi kad je postigne;
+    u pravom smislu uživamo samo u onome što ljubimo radi njega samoga. Upotreba je,
+    naprotiv, primjena nečega kao sredstva za neku svrhu.
+  mjesto: null
+- la: delectatio
+  hr: naslada
+  alternatives:
+  - užitak
+  - ugoda
+  note: Owner's choice (v8). Delectabile = "ugodno"; voluptas (mostly bodily) = "užitak";
+    gaudium = "radost". Never "uživanje" (fruitio).
+  opis: Naslada je smirenje težnje u dobru koje je postignuto. Kao strast pripada
+    osjetilnoj težnji, ali Toma govori i o duhovnoj nasladi volje; naslada prati blaženstvo,
+    ali nije njegova bit.
+  mjesto: null
+- la: contemplatio / vita contemplativa, activa
+  hr: motrenje / motrilački život, djelatni život
+  alternatives:
+  - kontemplacija
+  - promatranje
+  note: Owner's choice (v8). Contemplari = "motriti"; consideratio stays "razmatranje".
+  opis: Motrenje je djelovanje uma koji promatra istinu radi nje same. Toma uči da
+    se savršeno blaženstvo sastoji ponajprije u motrenju Boga, pa motrilački život,
+    koji tome teži već ovdje, stavlja iznad djelatnog života.
+  mjesto: null
+- la: involuntarium / non voluntarium
+  hr: protuvoljno / nevoljno
+  alternatives: []
+  note: Owner's choice (v8). Involuntarium = against the will; non voluntarium = merely
+    not willed (e.g. through ignorance). Violentum = "nasilno", metus = "strah", coactio
+    = "prisila".
+  opis: Protuvoljno je ono što se zbiva protiv volje, primjerice pod nasiljem; nevoljno
+    je ono što volja jednostavno nije htjela, kao čin učinjen iz neznanja. O toj razlici
+    ovisi koliko se čin nekome može uračunati.
+  mjesto: null
+- la: consensus / consentire
+  hr: pristanak / pristati
+  alternatives:
+  - privola
+  note: The act of will that follows deliberation (consilium) and precedes choice
+    (electio).
+  opis: Pristanak je čin volje kojim ona prianja uz ono što je razum u promišljanju
+    prepoznao kao prikladno za svrhu; nakon njega slijedi izbor.
+  mjesto: null
+- la: imperium / imperare
+  hr: zapovijedanje / zapovijedati
+  alternatives: []
+  note: The act of reason commanding execution. Keep "zapovijed" for praeceptum (law,
+    commandments); actus imperatus = "zapovijeđeni čin", actus elicitus = "izvedeni
+    čin".
+  opis: Zapovijedanje je čin razuma kojim on, pokrenut voljom, nalaže izvršenje onoga
+    što je odlučeno. Čini koje volja izvodi sama zovu se izvedenima, a oni koje druge
+    moći izvršavaju po njezinu nalogu zapovijeđenima.
+  mjesto: null
+- la: circumstantia
+  hr: okolnost
+  alternatives: []
+  note: 'The seven circumstances: tko, što, gdje, kojim sredstvima, zašto, kako, kada.'
+  opis: 'Okolnosti su ono što je izvan same biti ljudskog čina, a ipak ga na neki
+    način dotiče: tko ga čini, što, gdje, čime, zašto, kako i kada. One mogu povećati
+    ili umanjiti dobrotu ili zloću čina.'
+  mjesto: null
+- la: ignorantia (antecedens / concomitans / consequens)
+  hr: neznanje (prethodno / popratno / naknadno)
+  alternatives: []
+  note: Ignorantia affectata = "hinjeno neznanje"; nescientia = "nepoznavanje".
+  opis: Neznanje može biti prethodno (uzrokuje čin koji inače ne bi bio učinjen),
+    popratno (prati čin koji bi se ionako učinio) ili naknadno (kad je i samo neznanje
+    voljno). Prema tome se različito prosuđuje koliko je čin voljan.
+  mjesto: null
+- la: concupiscentia
+  hr: požuda
+  alternatives:
+  - žudnja
+  note: Consistent with concupiscibilis = "požudna (moć)"; not limited to sexual desire.
+  opis: Požuda je strast osjetilne težnje usmjerena prema ugodnom dobru koje još nije
+    postignuto. Ne ograničuje se na spolnu požudu, nego obuhvaća svaku žudnju za onim
+    što je ugodno osjetilima.
+  mjesto: null
+- la: felicitas
+  hr: sreća
+  alternatives: []
+  note: Aristotle's word; keep distinct from beatitudo = "blaženstvo" even where Thomas
+    uses them as synonyms.
+  opis: Sreća je Aristotelov izraz za najviše dobro ljudskog života. Toma ga često
+    uzima kao drugo ime za blaženstvo, ali se u prijevodu razlikuju „sreća“ (*felicitas*)
+    i „blaženstvo“ (*beatitudo*).
+  mjesto: null
+- la: quies / quiescere
+  hr: smirenje / smiriti se
+  alternatives:
+  - mir
+  - počinak
+  note: The will's rest in the attained end; pax stays "mir".
+  opis: Smirenje je stanje težnje koja je postigla svoje dobro i više ne teži dalje;
+    Toma ga povezuje s nasladom i uživanjem u svrsi.
+  mjesto: null
+- la: virtus (moralis / intellectualis / theologica)
+  hr: krepost (moralna / umna / bogoslovna)
+  alternatives:
+  - vrlina
+  note: Virtue as a good habitus = "krepost"; "snaga" only where virtus means power
+    or force (see virtus).
+  opis: Krepost je dobar habitus kojim čovjek dobro djeluje i koji samoga čovjeka
+    čini dobrim. Toma razlikuje umne, moralne i bogoslovne kreposti; gdje *virtus*
+    znači samo snagu ili moć, prevodi se kao „snaga“.
+  mjesto: null
+- la: divitiae, honor, fama, potestas, voluptas
+  hr: bogatstvo, čast, dobar glas, vlast, užitak
+  alternatives: []
+  note: The goods rejected as the last end in I-II q.2; gloria stays "slava".
+  opis: 'Dobra u kojima ljudi obično traže sreću: bogatstvo, čast, dobar glas i slava,
+    vlast i tjelesni užitak. Toma pokazuje da nijedno od njih ne može biti posljednja
+    svrha čovjeka.'
   mjesto: null
