@@ -1,0 +1,4 @@
+<nav class="pager" aria-label="Pitanja">
+  {% if prev %}<a class="prev" href="{{ prev.href }}"><span>← Prethodno</span>{{ prev.label }}</a>{% else %}<span></span>{% endif %}
+  {% if next %}<a class="next" href="{{ next.href }}"><span>Sljedeće →</span>{{ next.label }}</a>{% endif %}
+</nav>

@@ -7,8 +7,9 @@ import httpx
 BASE_URL = "https://www.corpusthomisticum.org/"
 USER_AGENT = "suma-pilot (personal research; contact via github.com/senf-f)"
 PILOT_PAGES = ["sth1001.html", "sth1002.html", "sth1003.html"]
-# First page and file-name prefix of each Part. Only Part I is verified so far.
-PARTS = {"I": ("sth1001.html", "sth1")}
+# First page and file-name prefix of each Part, checked against the live site.
+# I-II starts with a page holding only the Part's prologue; its chain ends where sth3000.html (II-II) begins.
+PARTS = {"I": ("sth1001.html", "sth1"), "I-II": ("sth2000.html", "sth2")}
 _NEXT_LINK = re.compile(rb'HREF="([^"]+)"><IMG SRC="icons/ageultra\.gif"', re.IGNORECASE)
 
 

@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block main_attrs %} class="reading" data-pagefind-body{% endblock %}
+{% block main %}
+<p class="eyebrow">{{ part_label }}</p>
+<h1>Prolog</h1>
+
+{% for s in sections %}
+{% for u in s.units %}
+{% include "unit.html" %}
+{% endfor %}
+{% endfor %}
+
+{% include "pager.html" %}
+{% endblock %}

@@ -75,3 +75,23 @@ def test_unit_links_to_its_source_passage(units):
 def test_missing_passage_anchor_raises():
     with pytest.raises(ValueError, match="I q. 2 pr."):
         parse_page(b'<P TITLE="I q. 2 pr.">text</P>', "x.html")
+
+
+PROLOGUE = {"id": "I-II.pr", "kind": "pr", "text": "Prologus", "source": "https://x/sth2000.html#1"}
+Q1_UNIT = {"id": "I-II.q1.pr", "kind": "pr", "text": "Uvod", "source": "https://x/sth2001.html#1"}
+
+
+def test_part_prologue_is_written_with_a_range_from_q1(tmp_path):
+    written = write_latin([PROLOGUE, Q1_UNIT], "I-II", 1, 15, tmp_path)
+
+    assert [p.relative_to(tmp_path).as_posix() for p in written] == ["I-II/q000.json", "I-II/q001.json"]
+    data = json.loads((tmp_path / "I-II" / "q000.json").read_text(encoding="utf-8"))
+    assert data["id"] == "I-II.pr"
+    assert data["question"] == 0
+    assert [u["id"] for u in data["units"]] == ["I-II.pr"]
+
+
+def test_part_prologue_is_left_out_of_later_ranges(tmp_path):
+    write_latin([PROLOGUE, Q1_UNIT], "I-II", 2, 15, tmp_path)
+
+    assert not (tmp_path / "I-II" / "q000.json").exists()

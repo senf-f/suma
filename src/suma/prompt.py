@@ -80,8 +80,9 @@ def build_requests(
             if unit["id"] not in done:
                 articles.setdefault(article_of(unit["id"]), []).append({"id": unit["id"], "text": unit["text"]})
         for article_id, units in articles.items():
+            where = f"Question {question['id']}, {article_id}" if question["question"] else f"Prologue to Part {question['part']}"
             content = (
-                f"Question {question['id']}, {article_id}. Translate these units into Croatian:\n"
+                f"{where}. Translate these units into Croatian:\n"
                 + json.dumps(units, ensure_ascii=False, indent=1)
             )
             requests.append({

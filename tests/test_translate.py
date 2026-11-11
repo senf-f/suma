@@ -154,3 +154,21 @@ def test_estimate_applies_batch_discount():
 
     assert (input_tokens, output_tokens) == (1_000_000, 0)
     assert usd == pytest.approx(2.0)
+
+
+def test_range_from_q1_translates_the_part_prologue(data_dir):
+    prologue = {"id": "I-II.pr", "part": "I-II", "question": 0,
+                "units": [{"id": "I-II.pr", "kind": "pr", "text": "Prologus"}]}
+    (data_dir / "latin" / "I-II").mkdir()
+    (data_dir / "latin" / "I-II" / "q000.json").write_text(json.dumps(prologue), encoding="utf-8")
+    client = FakeBatchClient(translate_all)
+
+    summary = run_translate("I-II.q1-15", "opus", client, yes=True,
+                            data_dir=data_dir, poll_seconds=0, sleep=lambda s: None)
+
+    assert summary.failed == []
+    [request] = client.messages.batches.created[0]
+    assert request["custom_id"] == "I-II-pr"
+    assert "Prologue to Part I-II" in request["params"]["messages"][0]["content"]
+    stored = json.loads((data_dir / "hr" / MODEL / "I-II" / "q000.json").read_text(encoding="utf-8"))
+    assert stored["units"]["I-II.pr"]["text"] == "HR I-II.pr"

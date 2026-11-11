@@ -4,7 +4,7 @@ from pathlib import Path
 
 from selectolax.lexbor import LexborHTMLParser as HTMLParser
 
-from suma.ids import label_to_id
+from suma.ids import label_to_id, question_of
 
 _WS = re.compile(r"\s+")
 CT_BASE = "https://www.corpusthomisticum.org"
@@ -38,18 +38,19 @@ def parse_page(html_bytes: bytes, page: str) -> list[dict]:
 
 
 def write_latin(units: list[dict], part: str, q_from: int, q_to: int, out_dir: Path) -> list[Path]:
+    """A range from q.1 also takes the Part's own prologue, written as q000.json."""
+    first = 0 if q_from == 1 else q_from
     by_question: dict[int, list[dict]] = {}
     for unit in units:
-        unit_part, q = unit["id"].split(".")[:2]
-        question = int(q[1:])
-        if unit_part == part and q_from <= question <= q_to:
+        unit_part, question = question_of(unit["id"])
+        if unit_part == part and first <= question <= q_to:
             by_question.setdefault(question, []).append(unit)
 
     written = []
     for question, q_units in sorted(by_question.items()):
         path = out_dir / part / f"q{question:03}.json"
         path.parent.mkdir(parents=True, exist_ok=True)
-        data = {"id": f"{part}.q{question}", "part": part, "question": question, "units": q_units}
+        data = {"id": f"{part}.q{question}" if question else f"{part}.pr", "part": part, "question": question, "units": q_units}
         path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
         written.append(path)
     return written

@@ -305,6 +305,8 @@ def test_pager_names_neighbouring_questions(latin_q2, tmp_path):
     q3 = json.loads(q2.read_text(encoding="utf-8").replace("I.q2", "I.q3"))
     q3["question"] = 3
     (latin_q2 / "I" / "q003.json").write_text(json.dumps(q3), encoding="utf-8")
+    write_units(OPUS, "I", 2, {"I.q2.pr": "Uvod"}, "1", 1, tmp_path / "hr")
+    write_units(OPUS, "I", 3, {"I.q3.pr": "Uvod"}, "1", 1, tmp_path / "hr")
     out = tmp_path / "out"
     build(latin_q2, tmp_path / "hr", tmp_path / "none.yaml", out)
     html = (out / "I" / "q002.html").read_text(encoding="utf-8")
@@ -323,6 +325,8 @@ def test_static_assets_carry_a_content_version(site):
 def test_asset_version_changes_with_asset_content(latin_q2, tmp_path, monkeypatch):
     import suma.reader
 
+    write_units(OPUS, "I", 2, {"I.q2.pr": "Uvod"}, "1", 1, tmp_path / "hr")
+
     def version_of(out):
         build(latin_q2, tmp_path / "hr", tmp_path / "none.yaml", out)
         return re.search(r"reader\.js\?v=(\w+)", (out / "I" / "q002.html").read_text(encoding="utf-8")).group(1)
@@ -335,3 +339,77 @@ def test_asset_version_changes_with_asset_content(latin_q2, tmp_path, monkeypatc
     (static / "reader.js").write_text("// changed", encoding="utf-8")
     monkeypatch.setattr(suma.reader, "STATIC_DIR", static)
     assert version_of(tmp_path / "c") != first
+
+
+@pytest.fixture
+def site_with_prologue(latin_q2, tmp_path):
+    import json
+
+    (latin_q2 / "I-II").mkdir()
+    (latin_q2 / "I-II" / "q000.json").write_text(json.dumps({
+        "id": "I-II.pr", "part": "I-II", "question": 0,
+        "units": [{"id": "I-II.pr", "kind": "pr", "text": "Prologus", "source": "https://x/sth2000.html#1"}],
+    }), encoding="utf-8")
+    (latin_q2 / "I-II" / "q001.json").write_text(json.dumps({
+        "id": "I-II.q1", "part": "I-II", "question": 1,
+        "units": [{"id": "I-II.q1.pr", "kind": "pr", "text": "Uvod", "source": "https://x/sth2001.html#1"}],
+    }), encoding="utf-8")
+    (latin_q2 / "I-II" / "q002.json").write_text(json.dumps({
+        "id": "I-II.q2", "part": "I-II", "question": 2,
+        "units": [{"id": "I-II.q2.pr", "kind": "pr", "text": "Uvod", "source": "https://x/sth2001.html#9"}],
+    }), encoding="utf-8")
+    hr = tmp_path / "hr"
+    write_units(OPUS, "I", 2, {"I.q2.pr": "Uvod"}, "1", 1, hr)
+    write_units(OPUS, "I-II", 0, {"I-II.pr": "Budući da je čovjek stvoren na sliku Božju"}, "1", 1, hr)
+    write_units(OPUS, "I-II", 1, {"I-II.q1.pr": "Uvod u prvo pitanje"}, "1", 1, hr)
+    out = tmp_path / "dist"
+    build(latin_q2, hr, tmp_path / "none.yaml", out)
+    return out
+
+
+def test_part_prologue_has_its_own_page(site_with_prologue):
+    html = (site_with_prologue / "I-II" / "prolog.html").read_text(encoding="utf-8")
+    assert "<h1>Prolog</h1>" in html
+    assert 'id="I-II.pr"' in html
+    assert "Budući da je čovjek stvoren na sliku Božju" in html
+    assert 'data-cite="Toma Akvinski, Summa theologiae I-II, prol."' in html
+    assert "Prologus" not in html  # Latin never reaches the public site
+    assert not (site_with_prologue / "I-II" / "q000.html").exists()
+
+
+def test_part_prologue_heads_its_part_in_the_contents(site_with_prologue):
+    html = (site_with_prologue / "sadrzaj.html").read_text(encoding="utf-8")
+    part = html[html.index("Prvi dio Drugoga dijela"):]
+    assert part.index('href="I-II/prolog.html"') < part.index('href="I-II/q001.html"')
+
+
+def test_part_prologue_sits_between_parts_in_the_pager(site_with_prologue):
+    prologue = (site_with_prologue / "I-II" / "prolog.html").read_text(encoding="utf-8")
+    pager = prologue[prologue.index('<nav class="pager"'):]
+    assert 'href="../I/q002.html"' in pager and 'href="../I-II/q001.html"' in pager
+    q1 = (site_with_prologue / "I-II" / "q001.html").read_text(encoding="utf-8")
+    assert 'href="../I-II/prolog.html"' in q1 and ">Prolog</a>" in q1
+
+
+def test_part_prologue_is_not_counted_as_a_question(site_with_prologue):
+    html = (site_with_prologue / "index.html").read_text(encoding="utf-8")
+    assert html.count("1 pitanje") == 2  # I: q.2 only; I-II: q.1 only
+
+
+def test_part_prologue_suggestion_link():
+    url = issue_url("o/r", "I-II.pr", "https://x/sth2000.html#1", "tekst", OPUS, "https://s/I-II/prolog.html")
+    assert "title=%5Bprijedlog%5D%20I-II%20prolog" in url
+
+
+def test_public_site_leaves_out_untranslated_questions(site_with_prologue):
+    """Latin is parsed ahead of translating; until a question has a translation it stays off the public site."""
+    assert not (site_with_prologue / "I-II" / "q002.html").exists()
+    assert 'href="I-II/q002.html"' not in (site_with_prologue / "sadrzaj.html").read_text(encoding="utf-8")
+    pager = (site_with_prologue / "I-II" / "prolog.html").read_text(encoding="utf-8")
+    assert "I-II/q002.html" not in pager
+
+
+def test_local_review_build_keeps_untranslated_questions(site_with_prologue, latin_q2, tmp_path):
+    out = tmp_path / "review"
+    build(latin_q2, tmp_path / "hr", tmp_path / "none.yaml", out, with_latin=True)
+    assert (out / "I-II" / "q002.html").exists()

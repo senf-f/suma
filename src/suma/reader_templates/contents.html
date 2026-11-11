@@ -8,7 +8,7 @@
 <h2>{{ part_labels[entry.question.part] }}</h2>
 {% endif %}
 <div class="toc-q">
-  <a class="toc-title" href="{{ entry.href }}">Pitanje {{ entry.question.question }}</a>
+  <a class="toc-title" href="{{ entry.href }}">{% if entry.question.question %}Pitanje {{ entry.question.question }}{% else %}Prolog{% endif %}</a>
   <span class="toc-articles">
     {% for s in entry.sections if s.anchor %}<a href="{{ entry.href }}#{{ s.anchor }}">{{ s.heading|replace("Članak ", "čl. ") }}</a>{% endfor %}
   </span>

@@ -46,3 +46,18 @@ def test_custom_id_is_batch_safe():
     cid = custom_id("I.q2.a3")
     assert cid == "I-q2-a3"
     assert re.fullmatch(r"[a-zA-Z0-9_-]{1,64}", cid)
+
+
+def test_part_prologue_label():
+    """I-II opens with a prologue to the whole Part (CT page sth2000.html), outside any question."""
+    assert label_to_id("I-II pr.") == "I-II.pr"
+    assert article_of("I-II.pr") == "I-II.pr"
+    assert custom_id("I-II.pr") == "I-II-pr"
+
+
+def test_question_of_puts_part_prologue_at_zero():
+    from suma.ids import question_of
+
+    assert question_of("I-II.pr") == ("I-II", 0)
+    assert question_of("I-II.q3.a1.obj1") == ("I-II", 3)
+    assert question_of("I.q2.pr") == ("I", 2)

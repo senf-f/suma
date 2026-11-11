@@ -31,6 +31,8 @@ def md_em(text: str) -> Markup:
 
 def _split(unit_id: str) -> tuple[str, int, int | None, str]:
     parts = unit_id.split(".")
+    if parts[1] == "pr":  # the Part's own prologue (I-II.pr), stored as question 0
+        return parts[0], 0, None, "prolog"
     part, question = parts[0], int(parts[1][1:])
     if parts[2] == "pr":
         return part, question, None, "pr"
@@ -52,6 +54,8 @@ def count_questions(n: int) -> str:
 
 
 def unit_label(last: str) -> str:
+    if last == "prolog":
+        return "Prolog"
     if last == "pr":
         return "Uvod"
     if last == "resp":
@@ -66,6 +70,8 @@ def unit_label(last: str) -> str:
 
 
 def _latin_abbrev(last: str) -> str:
+    if last == "prolog":
+        return "prol."
     if last == "pr":
         return "pr."
     if last == "resp":
@@ -81,12 +87,14 @@ def _latin_abbrev(last: str) -> str:
 
 def citation(unit_id: str) -> str:
     part, question, article, last = _split(unit_id)
-    location = f"q. {question}" + (f", a. {article}" if article else "")
-    return f"Toma Akvinski, Summa theologiae {part}, {location}, {_latin_abbrev(last)}"
+    location = f"q. {question}" + (f", a. {article}" if article else "") + ", " if question else ""
+    return f"Toma Akvinski, Summa theologiae {part}, {location}{_latin_abbrev(last)}"
 
 
 def _short_label(unit_id: str) -> str:
     part, question, article, last = _split(unit_id)
+    if not question:
+        return f"{part} prolog"
     names = {"pr": "uvod", "resp": "odgovor", "adarg": "ad arg."}
     if last in names:
         tail = names[last]
@@ -183,6 +191,13 @@ def _reader_term(term: dict) -> dict | None:
     return view
 
 
+def _page_of(question: dict) -> tuple[str, str]:
+    """Output path and pager label; a Part's prologue (question 0) gets its own small page."""
+    if not question["question"]:
+        return f"{question['part']}/prolog.html", "Prolog"
+    return f"{question['part']}/q{question['question']:03}.html", f"Pitanje {question['question']}"
+
+
 def build(
     latin_dir: Path,
     hr_dir: Path,
@@ -207,20 +222,24 @@ def build(
 
     files = _question_files(latin_dir)
     questions = [load_question(p) for p in files]
+    if not with_latin:
+        # Latin is parsed ahead of translating; a question goes public once some paragraph of it is translated.
+        questions = [q for q in questions if any(u["id"] in t for t in translations.values() for u in q["units"])]
     toc = []
     for i, question in enumerate(questions):
-        rel = f"{question['part']}/q{question['question']:03}.html"
+        rel, _ = _page_of(question)
         sections = _sections(question, translations, repo, f"{site_url}/{rel}")
         toc.append({"question": question, "href": rel, "sections": sections})
         neighbours = {
-            name: {"href": f"../{other['part']}/q{other['question']:03}.html", "label": f"Pitanje {other['question']}"}
+            name: {"href": f"../{href}", "label": label}
             for name, j in (("prev", i - 1), ("next", i + 1))
             if 0 <= j < len(questions)
-            for other in [questions[j]]
+            for href, label in [_page_of(questions[j])]
         }
-        html = env.get_template("question.html").render(
+        prologue = not question["question"]
+        html = env.get_template("prologue.html" if prologue else "question.html").render(
             root="../",
-            title=f"{question['part']}, pitanje {question['question']}",
+            title=f"{question['part']}, prolog" if prologue else f"{question['part']}, pitanje {question['question']}",
             models=models,
             with_latin=with_latin,
             part_label=PART_LABELS[question["part"]],
@@ -238,7 +257,7 @@ def build(
         env.get_template("contents.html").render(root="", title="Sadržaj", models=[], toc=toc, part_labels=PART_LABELS),
         encoding="utf-8",
     )
-    per_part = Counter(q["part"] for q in questions)
+    per_part = Counter(q["part"] for q in questions if q["question"])
     parts = [{"label": PART_LABELS[p], "count": count_questions(per_part[p])} for p in PART_ORDER if per_part[p]]
     (out_dir / "index.html").write_text(
         env.get_template("index.html").render(root="", title="Početna", models=[], parts=parts, repo=repo),

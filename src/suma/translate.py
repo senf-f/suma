@@ -4,7 +4,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 from suma.glossary import load_glossary
-from suma.ids import parse_range
+from suma.ids import parse_range, question_of
 from suma.llm import MODELS, message_cost, usage_cost
 from suma.prompt import PROMPT_VERSION, TranslationError, build_requests, request_unit_ids, request_units, validate
 from suma.store import done_ids, write_units
@@ -36,7 +36,7 @@ def estimate_cost(requests: list[dict], client, model: str) -> tuple[int, int, f
 
 def _latin_files(data_dir: Path, range_spec: str) -> list[Path]:
     part, q_from, q_to = parse_range(range_spec)
-    candidates = [data_dir / "latin" / part / f"q{q:03}.json" for q in range(q_from, q_to + 1)]
+    candidates = [data_dir / "latin" / part / f"q{q:03}.json" for q in range(0 if q_from == 1 else q_from, q_to + 1)]
     files = [f for f in candidates if f.exists()]
     if not files:
         raise FileNotFoundError(f"No parsed Latin for {range_spec}; run `suma parse --range {range_spec}` first")
@@ -114,9 +114,9 @@ def collect(
         except TranslationError as exc:
             summary.failed.append((entry.custom_id, str(exc)))
             continue
-        part, question = expected[0].split(".")[:2]
+        part, question = question_of(expected[0])
         write_units(
-            model, part, int(question[1:]), units,
+            model, part, question, units,
             record["prompt_version"], record["glossary_version"], data_dir / "hr",
         )
         summary.written += len(units)

@@ -16,38 +16,10 @@
 <section class="article"{% if s.anchor %} id="{{ s.anchor }}"{% endif %}>
   <h2>{{ s.heading }}{% if s.anchor %} <span class="of">od {{ article_count }}</span>{% endif %}</h2>
   {% for u in s.units %}
-  <div class="unit" id="{{ u.id }}">
-    <div class="meta" data-pagefind-ignore>
-      <a class="label{% if u.answer %} answer{% endif %}" href="#{{ u.id }}">{{ u.label }}</a>
-      {% if with_latin %}<button type="button" class="la-btn" aria-label="Prikaži latinski">LA</button>{% endif %}
-      <button type="button" class="more" aria-expanded="false" aria-controls="act-{{ u.id }}" aria-label="Radnje za odlomak: {{ u.label }}"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><circle cx="5" cy="12" r="1.8"/><circle cx="12" cy="12" r="1.8"/><circle cx="19" cy="12" r="1.8"/></svg></button>
-    </div>
-    <div class="hr">
-      {% for t in u.translations %}
-      <div data-model="{{ t.model }}">
-        {% if t.text %}
-        <p>{{ t.text|md_em }}</p>
-        {% else %}
-        <p class="missing">Prijevod još nije dostupan.</p>
-        {% endif %}
-      </div>
-      {% endfor %}
-    </div>
-    {% if with_latin %}<div class="la" lang="la" data-pagefind-ignore><p>{{ u.latin|md_em }}</p></div>{% endif %}
-    <div class="actions" id="act-{{ u.id }}" data-pagefind-ignore>
-      <button type="button" class="cite" data-cite="{{ u.cite }}">Kopiraj citat</button>
-      <a class="source" href="{{ u.source }}" target="_blank" rel="noopener">Latinski izvornik ↗</a>
-      {% for t in u.translations if t.text %}
-      <a class="suggest" data-model="{{ t.model }}" href="{{ t.issue }}" target="_blank" rel="noopener">Predloži poboljšanje</a>
-      {% endfor %}
-    </div>
-  </div>
+  {% include "unit.html" %}
   {% endfor %}
 </section>
 {% endfor %}
 
-<nav class="pager" aria-label="Pitanja">
-  {% if prev %}<a class="prev" href="{{ prev.href }}"><span>← Prethodno</span>{{ prev.label }}</a>{% else %}<span></span>{% endif %}
-  {% if next %}<a class="next" href="{{ next.href }}"><span>Sljedeće →</span>{{ next.label }}</a>{% endif %}
-</nav>
+{% include "pager.html" %}
 {% endblock %}
