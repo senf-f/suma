@@ -1,4 +1,4 @@
-version: 12
+version: 13
 terms:
 - la: esse
   hr: bitak
@@ -2623,5 +2623,99 @@ terms:
   hr: grijeh srca, usta, djela / kušnja, nagovaranje
   alternatives: []
   note: Diabolus = "đavao", daemones = "demoni" as in the Prima Pars.
+  opis: null
+  mjesto: null
+- la: lex aeterna / naturalis / humana / divina
+  hr: vječni / naravni / ljudski / božanski zakon
+  alternatives: []
+  note: Lex = "zakon"; legislator = "zakonodavac"; promulgatio = "proglašenje"; lex
+    fomitis = "zakon žarišta grijeha".
+  opis: Zakon je odredba razuma radi općega dobra, koju proglašava onaj tko se brine
+    za zajednicu. Toma razlikuje vječni zakon, Božji nacrt upravljanja svime; naravni
+    zakon, udio razumnoga stvora u vječnom zakonu; ljudski zakon, koji iz naravnoga
+    izvodi pojedinačne odredbe; i božanski zakon, objavljeni Stari i Novi zakon.
+  mjesto: null
+- la: lex vetus / nova (lex Evangelii)
+  hr: Stari / Novi zakon (zakon Evanđelja)
+  alternatives: []
+  note: Capitalised as names of the two dispensations; lex Moysi = "Mojsijev zakon".
+  opis: Stari zakon dan je Mojsiju kao priprava za Krista; Novi zakon ponajprije je
+    sama milost Duha Svetoga koja se daje po vjeri u Krista, a tek drugotno pisane
+    riječi Evanđelja.
+  mjesto: null
+- la: praecepta moralia / caeremonialia / iudicialia; decalogus
+  hr: moralne / obredne / sudske zapovijedi; Dekalog
+  alternatives:
+  - ceremonijalne
+  note: 'Owner''s choice (v13): caeremonialia = "obredne"; caeremonia = "obred". Praeceptum
+    = "zapovijed" (as before); decalogus = "Dekalog" or "deset zapovijedi".'
+  opis: 'Stari zakon sadrži tri vrste zapovijedi: moralne, koje pripadaju naravnom
+    zakonu i ostaju; obredne, koje uređuju Božje bogoštovlje i bile su slike Krista;
+    i sudske, koje uređuju odnose među ljudima u izraelskom narodu.'
+  mjesto: null
+- la: sacrificia, sacra, sacramenta, observantiae
+  hr: žrtve, svete stvari, sakramenti, obdržavanja
+  alternatives: []
+  note: The four kinds of ceremonial precepts (q.101 a.4). Holocaustum = "paljenica",
+    hostia pro peccato = "žrtva za grijeh", hostiae pacificae = "žrtve pričesnice",
+    tabernaculum = "Šator", arca = "Kovčeg", propitiatorium = "Pomirilište", sancta
+    sanctorum = "Svetinja nad svetinjama", circumcisio = "obrezanje", agnus paschalis
+    = "pashalno janje".
+  opis: Obredne zapovijedi Staroga zakona odnose se na žrtve, na svete stvari kao
+    što su Šator i njegove posude, na sakramente kojima su se ljudi posvećivali Božjem
+    bogoštovlju i na obdržavanja u hrani, odjeći i drugome.
+  mjesto: null
+- la: ius naturale / gentium / positivum / civile
+  hr: naravno pravo / pravo naroda / pozitivno / građansko pravo
+  alternatives: []
+  note: Consuetudo as a source of law = "običaj" (as a habit it stays "navika").
+  opis: 'Ljudski zakon izvodi se iz naravnoga zakona dvojako: kao zaključak, i to
+    pripada pravu naroda, ili kao pobliže određenje, i to pripada građanskom pravu
+    svake države.'
+  mjesto: null
+- la: dispensatio / epieikeia
+  hr: oprost / pravičnost
+  alternatives:
+  - dispenza
+  - epikeja
+  note: 'Owner''s choice (v13): dispensatio = "oprost", dispensare = "davati oprost";
+    epieikeia = "pravičnost".'
+  opis: Oprost je odluka poglavara kojom se netko u posebnom slučaju oslobađa obveze
+    zakona. Pravičnost je krepost kojom se, gdje bi doslovno slijeđenje zakona promašilo
+    njegovu svrhu, slijedi nakana zakonodavca.
+  mjesto: null
+- la: gratia operans / cooperans; praeveniens / subsequens; habitualis
+  hr: djelatna / sudjelatna; prethodna / naknadna; habitualna milost
+  alternatives: []
+  note: Auxilium (divinum) = "(Božja) pomoć"; motio = "pokretanje"; donum habituale
+    = "habitualni dar".
+  opis: Milost je djelatna ukoliko Bog sam pokreće dušu, a sudjelatna ukoliko duša
+    i sama djeluje pokrenuta od njega; prethodna je ukoliko prethodi nekom učinku,
+    a naknadna ukoliko slijedi za njim.
+  mjesto: null
+- la: iustificatio (impii) / remissio peccatorum / praeparatio ad gratiam
+  hr: opravdanje (bezbožnika) / otpuštenje grijeha / priprava za milost
+  alternatives: []
+  note: Iustificare = "opravdati"; liberum arbitrium stays "slobodno odlučivanje".
+  opis: Opravdanje bezbožnika je prijelaz iz stanja nepravednosti u stanje pravednosti,
+    u kojem se otpuštaju grijesi. Za nj se traže ulijevanje milosti, pokret slobodnoga
+    odlučivanja prema Bogu po vjeri, odvraćanje od grijeha i otpuštenje krivnje.
+  mjesto: null
+- la: meritum de condigno / de congruo; perseverantia
+  hr: zasluga po dostojnosti / po prikladnosti; ustrajnost
+  alternatives: []
+  note: Owner's choice (v13). Mereri = "zaslužiti"; vita aeterna = "vječni život";
+    perseverantia finalis = "konačna ustrajnost".
+  opis: Čovjek po milosti Duha Svetoga može zaslužiti vječni život po dostojnosti,
+    jer je vrijednost zasluge od Božje milosti; a čin slobodnoga odlučivanja sam po
+    sebi zaslužuje samo po prikladnosti.
+  mjesto: null
+- la: gratiae gratis datae (1 Cor 12)
+  hr: milosti darovane besplatno
+  alternatives: []
+  note: 'List in q.111 a.4: fides, sermo sapientiae, sermo scientiae, gratia sanitatum,
+    operatio virtutum, prophetia, discretio spirituum, genera linguarum, interpretatio
+    sermonum = vjera, govor mudrosti, govor znanja, dar ozdravljanja, činjenje čudesa,
+    proroštvo, razlučivanje duhova, vrste jezika, tumačenje govora.'
   opis: null
   mjesto: null
