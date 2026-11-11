@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 21,
+  "units": {
+    "I-II.q21.pr": {
+      "text": "Zatim treba razmotriti ono što slijedi ljudske čine s obzirom na dobrotu ili zloću. O tome se pita četiri stvari. Prvo, ima li ljudski čin, ukoliko je dobar ili zao, pojam ispravnosti ili grijeha. Drugo, ima li pojam pohvalnoga ili pokudnoga. Treće, ima li pojam zasluge ili nezasluge. Četvrto, ima li pojam zasluge ili nezasluge pred Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da ljudski čin, ukoliko je dobar ili zao, nema pojam ispravnosti ili grijeha. Pogreške su, naime, nakaze u prirodi, kako se kaže u II. knjizi Fizike. A nakaze nisu čini, nego neke stvari nastale mimo reda prirode. A ono što je po umijeću i razumu oponaša ono što je po prirodi, kako se ondje kaže. Dakle, čin time što je neuredan i zao nema pojam grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a1.obj2": {
+      "text": "Osim toga, pogreška se, kako se kaže u II. knjizi Fizike, događa u prirodi i umijeću kad se ne postigne svrha na koju smjera priroda ili umijeće. Ali dobrota ili zloća ljudskog čina najviše se sastoji u nakani svrhe i u nastojanju oko nje. Dakle, čini se da zloća čina ne uvodi pojam grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a1.obj3": {
+      "text": "Osim toga, kad bi zloća čina uvodila pojam grijeha, slijedilo bi da gdje god je zlo, ondje je i grijeh. A to je lažno, jer kazna, premda ima pojam zla, ipak nema pojam grijeha. Dakle, neki čin nema pojam grijeha po tome što je zao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a1.sc": {
+      "text": "Ali protiv toga, dobrota ljudskog čina, kao što je gore pokazano, ponajprije ovisi o vječnom zakonu, pa se prema tome njegova zloća sastoji u tome što se ne slaže s vječnim zakonom. A to čini pojam grijeha; Augustin, naime, kaže u XXII. knjizi Protiv Fausta: *grijeh je nešto rečeno, ili učinjeno, ili požuđeno protiv vječnog zakona*. Dakle, ljudski čin time što je zao ima pojam grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a1.resp": {
+      "text": "Odgovaram: treba reći da je zlo šire od grijeha, kao što je i dobro šire od ispravnoga. Svaka, naime, lišenost dobra u bilo čemu čini pojam zla, a grijeh se u vlastitom smislu sastoji u činu koji se vrši radi neke svrhe kad nema dužne usmjerenosti prema toj svrsi. A dužna se usmjerenost prema svrsi mjeri nekim pravilom. To je pravilo kod onoga što djeluje po naravi sama snaga naravi, koja naginje prema takvoj svrsi. Kad, dakle, čin proizlazi iz naravne snage po naravnoj sklonosti prema svrsi, tada se u činu čuva ispravnost, jer sredina ne izlazi iz krajeva, to jest čin ne izlazi iz usmjerenosti djelatnog počela prema svrsi. A kad neki čin odstupi od takve ispravnosti, tada nastupa pojam pogreške. Kod onoga pak što se čini po volji, najbliže je pravilo ljudski razum, a vrhovno pravilo vječni zakon. Kad, dakle, čin čovjeka ide prema svrsi po redu razuma i vječnog zakona, tada je čin ispravan; a kad od te ispravnosti skrene, tada se naziva grijehom. A iz rečenoga je očito da je svaki voljni čin zao po tome što odstupa od reda razuma i vječnog zakona, a svaki je dobar čin u skladu s razumom i vječnim zakonom. Stoga slijedi da ljudski čin, time što je dobar ili zao, ima pojam ispravnosti ili grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za nakaze kaže da su pogreške ukoliko su nastale iz pogreške koja postoji u djelovanju prirode.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a1.ad2": {
+      "text": "Na drugo treba reći da je svrha dvostruka, naime posljednja i bliža. U pogrešci prirode čin doduše zaostaje za posljednjom svrhom, a to je savršenost onoga što nastaje, ali ne zaostaje za svakom bližom svrhom; priroda, naime, djeluje oblikujući nešto. Slično je i u grijehu volje uvijek nedostatak s obzirom na posljednju svrhu na koju se smjera, jer nijedan zao voljni čin nije usmjerljiv prema blaženstvu, koje je posljednja svrha, premda ne zaostaje za nekom bližom svrhom na koju volja smjera i koju postiže. Stoga, budući da je i sama nakana te svrhe usmjerena prema posljednjoj svrsi, u samoj se nakani takve svrhe može naći pojam ispravnosti i grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a1.ad3": {
+      "text": "Na treće treba reći da je svaka stvar usmjerena prema svrsi svojim činom, i zato se pojam grijeha, koji se sastoji u skretanju od usmjerenosti prema svrsi, u vlastitom smislu sastoji u činu. A kazna se odnosi na osobu koja griješi, kao što je rečeno u Prvom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ljudski čin, time što je dobar ili zao, nema pojam pohvalnoga ili pokudnoga. *Pogreška se, naime, događa i u onome što čini priroda*, kako se kaže u II. knjizi Fizike. Ali ipak ono što je naravno nije ni pohvalno ni pokudno, kako se kaže u III. knjizi Etike. Dakle, ljudski čin time što je zao ili grijeh nema pojam krivnje, pa prema tome ni time što je dobar nema pojam pohvalnoga.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a2.obj2": {
+      "text": "Osim toga, kao što se pogreška događa u moralnim činima, tako i u činima umijeća, jer, kako se kaže u II. knjizi Fizike, *pogriješi gramatičar koji ne piše ispravno i liječnik koji ne daje ispravno napitak*. Ali umjetnik se ne kudi zbog toga što čini nešto loše, jer vještini umjetnika pripada da može učiniti i dobro i loše djelo kad hoće. Dakle, čini se da ni moralni čin time što je zao nema pojam pokudnoga.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a2.obj3": {
+      "text": "Osim toga, Dionizije kaže u IV. poglavlju knjige O božanskim imenima da je zlo slabo i nemoćno. Ali slabost ili nemoć ili uklanja ili umanjuje pojam krivnje. Dakle, ljudski čin nije pokudan time što je zao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a2.sc": {
+      "text": "Ali protiv toga jest ono što kaže Filozof: *pohvalna su djela kreposti, a prijekorna ili pokudna protivna djela*. Ali dobri su čini čini kreposti, jer *krepost je ono što čini dobrim onoga koji je ima i njegovo djelo čini dobrim*, kako se kaže u II. knjizi Etike; stoga su suprotstavljeni čini zli čini. Dakle, ljudski čin time što je dobar ili zao ima pojam pohvalnoga ili pokudnoga.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je zlo šire od grijeha, tako je grijeh širi od krivnje. Za neki se čin, naime, kaže da je pokudan ili pohvalan po tome što se uračunava djelatniku; jer biti hvaljen ili kuđen nije ništa drugo nego da se nekomu uračunava zloća ili dobrota njegova čina. A čin se uračunava djelatniku kad je u njegovoj vlasti, tako da ima gospodstvo nad svojim činom. A to je u svim voljnim činima, jer čovjek po volji ima gospodstvo nad svojim činom, kao što je jasno iz rečenoga. Stoga preostaje da dobro ili zlo samo u voljnim činima čini pojam pohvale ili pokude; a u njima je isto zlo, grijeh i krivnja.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da naravni čini nisu u vlasti naravnog djelatnika, budući da je narav određena na jedno. I zato, premda u naravnim činima postoji pogreška, ipak ondje nema krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a2.ad2": {
+      "text": "Na drugo treba reći da se razum drukčije odnosi u umjetničkim stvarima, a drukčije u moralnim. U umjetničkim je stvarima, naime, razum usmjeren prema posebnoj svrsi, a to je nešto što je razum izmislio. U moralnim je pak usmjeren prema zajedničkoj svrsi cijeloga ljudskog života. A posebna je svrha usmjerena prema zajedničkoj svrsi. Budući, dakle, da je grijeh po skretanju od usmjerenosti prema svrsi, kao što je rečeno, u činu umijeća može na dva načina biti pogreška. Na jedan način, po skretanju od posebne svrhe na koju smjera umjetnik, i ta će pogreška biti vlastita umijeću; na primjer, ako umjetnik, smjerajući učiniti dobro djelo, učini loše, ili, smjerajući učiniti loše, učini dobro. Na drugi način, po skretanju od zajedničke svrhe ljudskog života; i na taj će se način reći da griješi ako smjera učiniti loše djelo i učini ga, da bi se time drugi prevario. Ali taj grijeh nije vlastit umjetniku ukoliko je umjetnik, nego ukoliko je čovjek. Stoga se zbog prve pogreške kudi umjetnik ukoliko je umjetnik, a zbog drugoga grijeha kudi se čovjek ukoliko je čovjek. Ali u moralnim stvarima, gdje se gleda na red razuma prema zajedničkoj svrsi ljudskog života, grijeh i zlo uvijek se prosuđuju po skretanju od reda razuma prema zajedničkoj svrsi ljudskog života. I zato se zbog takvoga grijeha čovjek kudi i ukoliko je čovjek i ukoliko je moralno biće. Stoga Filozof kaže u VI. knjizi Etike: *u umijeću je poželjniji onaj koji voljno pogriješi; s obzirom na razboritost pak manje, kao i u moralnim krepostima*, kojima razboritost upravlja.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a2.ad3": {
+      "text": "Na treće treba reći da je ona slabost koja je u voljnim zlima podložna vlasti čovjeka. I zato niti uklanja niti umanjuje pojam krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ljudski čin nema pojam zasluge i nezasluge zbog svoje dobrote ili zloće. Zasluga se, naime, i nezasluga kažu po usmjerenosti prema uzdarju, koje ima mjesta samo u onome što se odnosi na drugoga. Ali nisu svi dobri ili zli ljudski čini usmjereni na drugoga, nego su neki usmjereni na samoga sebe. Dakle, nema svaki dobar ili zao ljudski čin pojam zasluge ili nezasluge.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a3.obj2": {
+      "text": "Osim toga, nitko ne zaslužuje kaznu ili nagradu time što kako hoće raspolaže onim čega je gospodar; tako, ako čovjek uništi svoju stvar, ne kažnjava se kao kad bi uništio tuđu stvar. Ali čovjek je gospodar svojih čina. Dakle, time što dobro ili loše raspolaže svojim činom ne zaslužuje kaznu ili nagradu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a3.obj3": {
+      "text": "Osim toga, time što netko sam sebi stječe dobro ne zaslužuje da mu drugi učini dobro; a isti je razlog i za zla. Ali sam dobar čin neko je dobro i savršenost djelatnika, a neuredan je čin neko njegovo zlo. Dakle, time što čovjek čini zao ili dobar čin ne stječe ni zaslugu ni nezaslugu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a3.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Izaiji 3: *recite pravedniku da je dobro, jer će jesti plod svojih nastojanja. Jao bezbožniku na zlo, jer će mu se dogoditi uzdarje njegovih ruku*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a3.resp": {
+      "text": "Odgovaram: treba reći da se zasluga i nezasluga kažu u odnosu na uzdarje koje se daje po pravednosti. A uzdarje se po pravednosti daje nekomu na temelju toga što djeluje na korist ili štetu drugoga. Treba pak uzeti u obzir da je svatko tko živi u nekom društvu na neki način dio i član cijeloga društva. Tko god, dakle, čini nešto na dobro ili zlo nekoga tko postoji u društvu, to se prelijeva na cijelo društvo, kao što onaj tko ozlijedi ruku posljedično ozljeđuje čovjeka. Kad, dakle, netko djeluje na dobro ili zlo druge pojedinačne osobe, ondje se na dva načina nalazi pojam zasluge ili nezasluge. Na jedan način, ukoliko mu se duguje uzdarje od pojedinačne osobe kojoj pomaže ili koju vrijeđa. Na drugi način, ukoliko mu se duguje uzdarje od cijele zajednice. Kad pak netko svoj čin izravno usmjerava na dobro ili zlo cijele zajednice, uzdarje mu se duguje najprije i ponajprije od cijele zajednice, a drugotno od svih dijelova zajednice. Kad pak netko čini ono što ide na njegovo vlastito dobro ili zlo, i tada mu se duguje uzdarje, ukoliko i to ide na zajedničko, utoliko što je on sam dio zajednice; premda mu se ne duguje uzdarje ukoliko je to dobro ili zlo pojedinačne osobe koja je ista kao i djelatnik, osim možda od samoga sebe po nekoj sličnosti, kao što postoji pravednost čovjeka prema samome sebi. Tako je, dakle, jasno da dobar ili zao čin ima pojam pohvalnoga ili pokudnoga ukoliko je u vlasti volje; pojam pak ispravnosti i grijeha po usmjerenosti prema svrsi; a pojam zasluge i nezasluge po uzdarju pravednosti prema drugome.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da su dobri ili zli čini čovjeka katkad, premda nisu usmjereni na dobro ili zlo druge pojedinačne osobe, ipak usmjereni na dobro ili zlo drugoga, a to je sama zajednica.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a3.ad2": {
+      "text": "Na drugo treba reći da i čovjek, koji ima gospodstvo nad svojim činom, ukoliko pripada drugome, to jest zajednici čiji je dio, stječe zaslugu ili nezaslugu ukoliko svoje čine dobro ili loše raspoređuje; kao i kad bi drugim svojim stvarima, kojima je dužan služiti zajednici, dobro ili loše upravljao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a3.ad3": {
+      "text": "Na treće treba reći da se samo to dobro ili zlo koje netko svojim činom čini sebi prelijeva na zajednicu, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da dobar ili zao čin čovjeka nema pojam zasluge ili nezasluge u odnosu prema Bogu. Jer, kao što je rečeno, zasluga i nezasluga uključuju usmjerenost prema naknadi za korist ili štetu nanesenu drugome. Ali dobar ili zao čin čovjeka ne donosi nikakvu korist ili štetu samome Bogu; kaže se, naime, u Jobu 35: *ako zgriješiš, čime ćeš mu naškoditi? A ako pravedno postupiš, što ćeš mu darovati?* Dakle, dobar ili zao čin čovjeka nema pojam zasluge ili nezasluge pred Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a4.obj2": {
+      "text": "Osim toga, oruđe ništa ne zaslužuje niti stječe nezaslugu pred onim koji se služi oruđem, jer sva radnja oruđa pripada onomu koji se njime služi. Ali čovjek je u djelovanju oruđe božanske snage koja ga glavno pokreće; zato se kaže u Izaiji 10: *zar će se sjekira hvastati protiv onoga koji njome siječe? Ili će se pila uzdizati protiv onoga koji je vuče?* Ondje se očito čovjek koji djeluje uspoređuje s oruđem. Dakle, čovjek, djelujući dobro ili zlo, ništa ne zaslužuje niti stječe nezaslugu pred Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a4.obj3": {
+      "text": "Osim toga, ljudski čin ima pojam zasluge ili nezasluge ukoliko je usmjeren prema drugome. Ali nisu svi ljudski čini usmjereni prema Bogu. Dakle, nemaju svi dobri ili zli čini pojam zasluge ili nezasluge pred Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a4.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u posljednjem poglavlju Propovjednika: *sve što se čini Bog će dovesti na sud, bilo dobro bilo zlo*. Ali sud uključuje uzdarje, s obzirom na koje se govori o zasluzi i nezasluzi. Dakle, svaki dobar ili zao čin čovjeka ima pojam zasluge ili nezasluge pred Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, čin nekog čovjeka ima pojam zasluge ili nezasluge ukoliko je usmjeren prema drugome, bilo radi njega samoga, bilo radi zajednice. A na oba načina naši dobri ili zli čini imaju pojam zasluge ili nezasluge pred Bogom. Radi njega samoga, ukoliko je on posljednja svrha čovjeka; a dužno je da se svi čini odnose prema posljednjoj svrsi, kao što je gore utvrđeno. Stoga onaj tko čini zao čin, koji se ne može odnositi prema Bogu, ne iskazuje Bogu čast koja se duguje posljednjoj svrsi. A sa strane cijele zajednice svemira, jer u svakoj zajednici onaj koji upravlja zajednicom osobito se brine za opće dobro; stoga njemu pripada da daje uzdarje za ono što se u zajednici čini dobro ili loše. A Bog je upravitelj i vladar cijeloga svemira, kao što je utvrđeno u Prvom dijelu, a osobito razumskih stvorova. Stoga je očito da ljudski čini imaju pojam zasluge ili nezasluge u odnosu prema njemu; inače bi slijedilo da se Bog ne brine za ljudske čine.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Bogu po sebi čin čovjeka ne može ništa pridodati niti oduzeti; ali ipak čovjek, koliko je do njega, nešto Bogu oduzima ili mu nešto iskazuje kad čuva ili ne čuva red koji je Bog ustanovio.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a4.ad2": {
+      "text": "Na drugo treba reći da Bog čovjeka pokreće kao oruđe tako da to ipak ne isključuje da on sam sebe pokreće slobodnim odlučivanjem, kao što je jasno iz rečenoga. I zato svojim činom stječe zaslugu ili nezaslugu pred Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q21.a4.ad3": {
+      "text": "Na treće treba reći da čovjek nije usmjeren prema političkoj zajednici cijelim sobom i svime svojim, i zato nije nužno da svaki njegov čin donosi zaslugu ili nezaslugu u odnosu prema političkoj zajednici. Ali sve što čovjek jest, i što može i ima, treba usmjeriti prema Bogu; i zato svaki dobar ili zao čin čovjeka ima pojam zasluge ili nezasluge pred Bogom, koliko je do samoga pojma čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    }
+  }
+}

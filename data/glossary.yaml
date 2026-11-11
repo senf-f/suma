@@ -2145,11 +2145,11 @@ terms:
   hr: zapovijedanje / zapovijedati
   alternatives: []
   note: The act of reason commanding execution. Keep "zapovijed" for praeceptum (law,
-    commandments); actus imperatus = "zapovijeđeni čin", actus elicitus = "izvedeni
+    commandments); actus imperatus = "zapovjeđeni čin", actus elicitus = "izvedeni
     čin".
   opis: Zapovijedanje je čin razuma kojim on, pokrenut voljom, nalaže izvršenje onoga
     što je odlučeno. Čini koje volja izvodi sama zovu se izvedenima, a oni koje druge
-    moći izvršavaju po njezinu nalogu zapovijeđenima.
+    moći izvršavaju po njezinu nalogu zapovjeđenima.
   mjesto: I-II.q9.a1.resp
 - la: circumstantia
   hr: okolnost
@@ -2222,7 +2222,7 @@ terms:
   opis: Toma nabraja jedanaest strasti. Požudnoj moći pripadaju ljubav, mržnja, želja,
     bijeg, naslada i žalost, a srditoj nada, očaj, strah, smjelost i srdžba. Srdite
     strasti odnose se na dobro ili zlo koje je teško postići ili izbjeći.
-  mjesto: null
+  mjesto: I-II.q23.a4.resp
 - la: odium
   hr: mržnja
   alternatives: []
@@ -2230,7 +2230,7 @@ terms:
   opis: 'Mržnja je strast suprotna ljubavi: odbojnost težnje prema onome što se zahvaća
     kao zlo i neprikladno. Toma uči da je ljubav uvijek prvotnija, jer se nešto mrzi
     samo zato što se protivi onome što se ljubi.'
-  mjesto: null
+  mjesto: I-II.q29.a1.resp
 - la: desiderium / cupiditas
   hr: želja / žudnja
   alternatives:
@@ -2239,7 +2239,7 @@ terms:
     concupiscible power); cupiditas = "žudnja".
   opis: Želja je težnja prema dobru koje još nije postignuto. Kad je riječ o strasti
     osjetilne težnje, Toma je naziva požudom, a žudnjom pojačanu ili neurednu želju.
-  mjesto: null
+  mjesto: I-II.q30.a3.resp
 - la: fuga / abominatio / aversio
   hr: bijeg / odvratnost / odvraćanje
   alternatives:
@@ -2248,7 +2248,7 @@ terms:
     od Boga".
   opis: Bijeg ili odvratnost je strast kojom se težnja odvraća od zla koje još nije
     prisutno; suprotna je želji, kao što je mržnja suprotna ljubavi.
-  mjesto: null
+  mjesto: I-II.q23.a2.resp
 - la: gaudium
   hr: radost
   alternatives:
@@ -2257,7 +2257,7 @@ terms:
   opis: Radost je naslada koja prati razum, pa je ima i u volji, a ne samo u osjetilnoj
     težnji. Zato se može govoriti o radosti Boga i anđela, ali ne i o njihovoj nasladi
     u smislu strasti.
-  mjesto: null
+  mjesto: I-II.q25.a2.resp
 - la: tristitia / dolor
   hr: žalost / bol
   alternatives:
@@ -2267,7 +2267,7 @@ terms:
   opis: Žalost je strast kojom se težnja trpi zbog prisutnog zla. Toma razlikuje bol,
     koja nastaje iz izvanjskog osjeta, i žalost, koja nastaje iz unutarnjeg zahvaćanja;
     žalost je suprotna nasladi.
-  mjesto: null
+  mjesto: I-II.q25.a1.resp
 - la: spes / desperatio
   hr: nada / očaj
   alternatives:
@@ -2275,7 +2275,7 @@ terms:
   note: Desperare = "očajavati". Spes as the theological virtue (II-II) stays "nada".
   opis: Nada je strast srdite moći prema budućem dobru koje je teško, ali moguće postići;
     očaj je odvraćanje od takvog dobra kad se ono čini nemogućim.
-  mjesto: null
+  mjesto: I-II.q25.a3.resp
 - la: timor / audacia
   hr: strah / smjelost
   alternatives:
@@ -2283,7 +2283,7 @@ terms:
   note: Metus = "strah" as well; timidus = "plašljiv"; audax = "smion".
   opis: Strah je strast kojom se težnja povlači pred teškim zlom koje prijeti, a smjelost
     strast kojom ga napada. Obje pripadaju srditoj moći.
-  mjesto: null
+  mjesto: I-II.q23.a2.resp
 - la: ira
   hr: srdžba
   alternatives:
@@ -2292,7 +2292,7 @@ terms:
     irasci = "srditi se".
   opis: Srdžba je strast srdite moći koja se diže protiv nanesenog zla i teži osveti
     kao dobru. Po njoj je srdita moć i dobila ime.
-  mjesto: null
+  mjesto: I-II.q23.a3.resp
 - la: amicitia / amor concupiscentiae, amicitiae
   hr: prijateljstvo / ljubav želje, ljubav prijateljstva
   alternatives: []
@@ -2302,14 +2302,14 @@ terms:
   opis: Toma razlikuje ljubav želje, kojom ljubimo neko dobro koje želimo sebi ili
     drugome, i ljubav prijateljstva, kojom ljubimo samu osobu kojoj to dobro želimo.
     Prijateljstvo je ljubav prijateljstva koja je uzajamna.
-  mjesto: null
+  mjesto: I-II.q26.a4.resp
 - la: bonitas / malitia (actus)
   hr: dobrota / zloća (čina)
   alternatives: []
   note: Bonum = "dobro", malum = "zlo" stay; the quality of an act is "dobrota / zloća".
   opis: Dobrota ili zloća ljudskog čina ovisi o njegovu predmetu, okolnostima i svrsi.
     Toma razlikuje dobrotu unutarnjeg čina volje od dobrote vanjskog čina.
-  mjesto: null
+  mjesto: I-II.q20.a3.resp
 - la: peccatum / peccare
   hr: grijeh / griješiti
   alternatives: []
@@ -2317,14 +2317,14 @@ terms:
     or nature): "pogreška" there.'
   opis: Grijeh je u širem smislu svaki čin koji promašuje svoju svrhu; u moralnom
     smislu to je ljudski čin kojem nedostaje dužni red prema posljednjoj svrsi.
-  mjesto: null
+  mjesto: I-II.q21.a1.resp
 - la: actus interior / exterior
   hr: unutarnji / vanjski čin
   alternatives: []
   note: Interior act of the will vs the exterior act it commands (q.18-20).
   opis: Unutarnji je čin čin same volje, a vanjski onaj koji volja zapovijeda drugim
     moćima. Svrha pripada ponajprije unutarnjem činu, a predmet vanjskome.
-  mjesto: null
+  mjesto: I-II.q20.a1.resp
 - la: extasis / zelus / liquefactio, languor, fervor
   hr: zanos / revnost / rastapanje, klonulost, žar
   alternatives: []
@@ -2332,7 +2332,7 @@ terms:
   opis: 'Učinci ljubavi: rastapanje, kojim se srce otvara ljubljenome, klonulost i
     žar, zanos, kojim ljubitelj kao da izlazi iz sebe, i revnost, kojom se protivi
     svemu što priječi ljubljeno dobro.'
-  mjesto: null
+  mjesto: I-II.q28.a3.resp
 - la: inclinatio
   hr: sklonost
   alternatives:
@@ -2340,7 +2340,7 @@ terms:
   note: As used throughout the Prima Pars; the participle "nagnut (prema)" is fine.
   opis: Sklonost je usmjerenost stvari prema onome što joj odgovara; naravna sklonost
     prethodi svakoj spoznaji, a težnja je sklonost koja slijedi spoznatu formu.
-  mjesto: null
+  mjesto: I-II.q29.a1.resp
 - la: intendere / velle, voluntas (actus) / velleitas
   hr: smjerati / htjeti, htijenje / puko htijenje
   alternatives: []
@@ -2348,14 +2348,14 @@ terms:
     as the faculty = "volja", as the act = "htijenje"; noluntas = "nehtijenje".
   opis: Volja je moć, a htijenje njezin čin. Nakana je čin volje kojim ona smjera
     na svrhu, a puko htijenje nedovršena želja za nečim što se ne bira.
-  mjesto: null
+  mjesto: I-II.q19.a7.resp
 - la: complacentia / pulchrum
   hr: sviđanje / lijepo
   alternatives: []
   note: Pulchritudo = "ljepota".
   opis: Sviđanje je prvi učinak dobra u težnji, iz kojeg nastaje ljubav. Lijepo je
     dobro koje se sviđa samim zahvaćanjem, pa se odnosi prvenstveno na spoznajnu moć.
-  mjesto: null
+  mjesto: I-II.q26.a2.resp
 - la: bruta animalia
   hr: nerazumne životinje
   alternatives: []

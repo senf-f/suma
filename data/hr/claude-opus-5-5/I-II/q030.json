@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 30,
+  "units": {
+    "I-II.q30.pr": {
+      "text": "Zatim treba razmotriti požudu. U vezi s tim pitaju se četiri stvari. Prvo, je li požuda samo u osjetilnoj težnji. Drugo, je li požuda posebna strast. Treće, jesu li neke požude naravne, a neke nenaravne. Četvrto, je li požuda beskonačna.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da požuda nije samo u osjetilnoj težnji. Postoji, naime, neka požuda za mudrošću, kako se kaže u Mudr 6: *požuda za mudrošću vodi do vječnoga kraljevstva*. Ali osjetilna težnja ne može se upraviti prema mudrosti. Dakle, požuda nije samo u osjetilnoj težnji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a1.obj2": {
+      "text": "Osim toga, želja za Božjim zapovijedima nije u osjetilnoj težnji; štoviše, Apostol kaže u Rim 7: *ne prebiva u meni, to jest u mojem tijelu, dobro*. Ali želja za Božjim zapovijedima potpada pod požudu, prema onome iz Psalma 118: *požudjela je duša moja željeti tvoje odredbe*. Dakle, požuda nije samo u osjetilnoj težnji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a1.obj3": {
+      "text": "Osim toga, svakoj je moći vlastito dobro ono za čim požudno teži. Dakle, požuda je u svakoj moći duše, a ne samo u osjetilnoj težnji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin, da se *nerazumsko koje je poslušno razumu i dade se od njega uvjeriti dijeli na požudu i srdžbu. A to je nerazumski dio duše, trpni i težnjeni*. Dakle, požuda je u osjetilnoj težnji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kako kaže Filozof u I. knjizi Retorike, *požuda težnja za ugodnim*. A naslada je dvostruka, kako će se niže reći: jedna je u umljivom dobru, a to je dobro razuma; druga u dobru prema osjetilu. Prva se naslada, čini se, tiče samo duše. A druga se tiče duše i tijela, jer je osjetilo snaga u tjelesnom organu; stoga je i dobro prema osjetilu dobro cijeloga spoja. A težnja za takvom nasladom, čini se, jest požuda, koja se ujedno tiče i duše i tijela, kako to zvuči i samo ime concupiscentia (požuda). Stoga je požuda, u vlastitom smislu govoreći, u osjetilnoj težnji i u požudnoj moći, koja je po njoj nazvana.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se težnja za mudrošću ili za drugim duhovnim dobrima katkad naziva požudom, ili zbog neke sličnosti, ili zbog jakosti težnje višega dijela, iz koje se ona prelijeva u nižu težnju, tako da i sama niža težnja na svoj način teži prema duhovnom dobru, slijedeći višu težnju, pa i samo tijelo služi duhovnim stvarima; kao što se kaže u Psalmu 83: *srce moje i tijelo moje kliknuše Bogu živomu*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a1.ad2": {
+      "text": "Na drugo treba reći da želja, u vlastitom smislu govoreći, može više pripadati ne samo nižoj težnji, nego i višoj. Ona, naime, ne uključuje neko udruživanje u žudnji, kao požuda, nego jednostavan pokret prema željenoj stvari.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a1.ad3": {
+      "text": "Na treće treba reći da svakoj moći duše pristaje težiti za vlastitim dobrom naravnom težnjom, koja ne slijedi zahvaćanje. Ali težiti za dobrom životinjskom težnjom, koja slijedi zahvaćanje, pripada samo težnjenoj sili. A težiti za nečim pod pojmom dobra koje je ugodno prema osjetilu, što je u vlastitom smislu požudjeti, pripada požudnoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da požuda nije posebna strast požudne moći. Strasti se, naime, razlikuju prema predmetima. Ali predmet požudne moći je ono što je ugodno prema osjetilu, a to je ujedno predmet požude, prema Filozofu u I. knjizi Retorike. Dakle, požuda nije posebna strast u požudnoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a2.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi Osamdeset i tri pitanja da je *žudnja ljubav prema prolaznim stvarima*, i tako se ne razlikuje od ljubavi. A sve se posebne strasti međusobno razlikuju. Dakle, požuda nije posebna strast u požudnoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a2.obj3": {
+      "text": "Osim toga, svakoj se strasti požudne moći suprotstavlja neka posebna strast u požudnoj moći, kako je gore rečeno. Ali požudi se ne suprotstavlja nikakva posebna strast u požudnoj moći. Damaščanin, naime, kaže da *očekivano dobro tvori požudu, a prisutno veselje; slično tome očekivano zlo tvori strah, a prisutno žalost*, iz čega se čini da je, kao što je žalost protivna veselju, tako strah protivan požudi. A strah nije u požudnoj, nego u srditoj moći. Dakle, požuda nije posebna strast u požudnoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a2.sc": {
+      "text": "Ali protiv toga je to što se požuda uzrokuje od ljubavi i teži prema nasladi, a to su strasti požudne moći. I tako se razlikuje od ostalih strasti požudne moći kao posebna strast.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, dobro ugodno prema osjetilu općenito predmet požudne moći. Stoga se prema njegovim razlikama razlikuju različite strasti požudne moći. A različitost predmeta može se promatrati ili prema naravi samoga predmeta ili prema različitosti u snazi djelovanja. Različitost djelatnog predmeta koja je prema naravi stvari čini tvarnu razliku strasti. Ali različitost koja je prema djelatnoj snazi čini formalnu razliku strasti, prema kojoj se strasti razlikuju po vrsti. A drukčiji je pojam pokretačke snage same svrhe ili dobra ukoliko je stvarno prisutno, a drukčiji ukoliko je odsutno: ukoliko je prisutno, čini da se u njemu smiruje; a ukoliko je odsutno, čini da se kreće prema njemu. Stoga samo ono što je ugodno prema osjetilu, ukoliko na neki način prilagođuje i suobličuje težnju sebi, uzrokuje ljubav; ukoliko pak kao odsutno privlači k sebi, uzrokuje požudu; a ukoliko kao prisutno smiruje u sebi, uzrokuje nasladu. Tako je, dakle, požuda strast koja se po vrsti razlikuje i od ljubavi i od naslade. Ali požudjeti ovo ili ono ugodno čini požude brojčano različitima.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da ugodno dobro nije predmet požude bezuvjetno, nego pod pojmom odsutnoga, kao što je i osjetno pod pojmom prošloga predmet pamćenja. Takvi, naime, posebni uvjeti čine različitom vrstu strasti, pa i moći osjetilnog dijela, koji se odnosi na pojedinačno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a2.ad2": {
+      "text": "Na drugo treba reći da je ono pririćanje po uzroku, a ne po biti: žudnja, naime, nije po sebi ljubav, nego učinak ljubavi. Ili treba reći drukčije: da Augustin uzima žudnju široko, za bilo koji pokret težnje koji se može odnositi na buduće dobro. Stoga ona pod sobom obuhvaća i ljubav i nadu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a2.ad3": {
+      "text": "Na treće treba reći da je strast koja se izravno suprotstavlja požudi bezimena; ona se prema zlu odnosi kao požuda prema dobru. Ali budući da se ona, kao i strah, odnosi na odsutno zlo, katkad se umjesto nje stavlja strah, kao što se katkad i žudnja stavlja umjesto nade. Ono, naime, što je maleno dobro ili zlo, kao da se ne uzima u obzir; i zato se za svaki pokret težnje prema budućem dobru ili zlu stavljaju nada i strah, koji se odnose na teško dobro ili zlo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da među požudama nema nekih naravnih i nekih nenaravnih. Požuda, naime, pripada životinjskoj težnji, kako je rečeno. Ali naravna se težnja razlikuje nasuprot životinjskoj. Dakle, nijedna požuda nije naravna.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a3.obj2": {
+      "text": "Osim toga, tvarna različitost ne čini različitost po vrsti, nego samo po broju, a takva različitost ne potpada pod umijeće. Ali ako ima nekih naravnih i nenaravnih požuda, one se razlikuju samo prema različitim stvarima za kojima se požudno teži, a to čini tvarnu razliku, i to samo po broju. Prema tome, požude ne treba dijeliti na naravne i nenaravne.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a3.obj3": {
+      "text": "Osim toga, razum se razlikuje nasuprot naravi, kako je jasno u II. knjizi Fizike. Ako je, dakle, u čovjeku neka nenaravna požuda, ona mora biti razumska. Ali to ne može biti, jer požuda, budući da je neka strast, pripada osjetilnoj težnji, a ne volji, koja je težnja razuma. Prema tome, nema nekih nenaravnih požuda.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a3.sc": {
+      "text": "Ali protiv toga je to što Filozof u III. knjizi Etike i u I. knjizi Retorike postavlja neke požude kao naravne, a neke kao nenaravne.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, požuda težnja za ugodnim dobrom. A nešto je ugodno na dva načina. Na jedan način, zato što je prikladno naravi životinje, kao hrana, piće i ostalo takvo. I takva se požuda za ugodnim naziva naravnom. Na drugi je način nešto ugodno zato što je prikladno životinji prema zahvaćanju, kao kad netko zahvati nešto kao dobro i prikladno, pa se posljedično u tome naslađuje. I takva se požuda za ugodnim naziva nenaravnom, a obično se radije naziva žudnjom. Prve su, dakle, požude, naravne, zajedničke i ljudima i ostalim životinjama, jer je i jednima i drugima nešto prikladno i ugodno po naravi. I u njima se također slažu svi ljudi; stoga ih i Filozof u III. knjizi Etike naziva zajedničkima i nužnima. Ali druge su požude vlastite ljudima, kojima je vlastito izmišljati nešto kao dobro i prikladno mimo onoga što zahtijeva narav. Stoga i u I. knjizi Retorike Filozof kaže da su prve požude nerazumske, a druge s razumom. A budući da različiti ljudi rasuđuju na različit način, zato se također druge u III. knjizi Etike nazivaju vlastitima i pridodanima, naime iznad naravnih.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono isto za čim se teži naravnom težnjom može biti predmet životinjske težnje kad je zahvaćeno. I prema tome može biti naravna požuda za hranom, pićem i sličnim, za čim se teži po naravi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a3.ad2": {
+      "text": "Na drugo treba reći da različitost naravnih požuda od nenaravnih nije samo tvarna, nego na neki način i formalna, ukoliko proizlazi iz različitosti djelatnog predmeta. A predmet težnje je zahvaćeno dobro. Stoga različitosti djelatnoga pripada različitost zahvaćanja: naime, ukoliko se nešto zahvaća kao prikladno bezuvjetnim zahvaćanjem, iz čega se uzrokuju naravne požude, koje Filozof u Retorici naziva nerazumskima; i ukoliko se nešto zahvaća s promišljanjem, iz čega se uzrokuju nenaravne požude, za koje se zbog toga u Retorici kaže da su s razumom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a3.ad3": {
+      "text": "Na treće treba reći da u čovjeku nije samo opći razum, koji pripada umskom dijelu, nego i posebni razum, koji pripada osjetilnom dijelu, kako je rečeno u Prvom dijelu. I prema tome i požuda koja je s razumom može pripadati osjetilnoj težnji. A osim toga, osjetilnu težnju može pokretati i opći razum posredstvom pojedinačne mašte.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da požuda nije beskonačna. Predmet je, naime, požude dobro, koje ima pojam svrhe. A tko postavlja beskonačno, isključuje svrhu, kako se kaže u II. knjizi Metafizike. Dakle, požuda ne može biti beskonačna.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a4.obj2": {
+      "text": "Osim toga, požuda je za prikladnim dobrom, budući da proizlazi iz ljubavi. Ali beskonačno, budući da je nerazmjerno, ne može biti prikladno. Dakle, požuda ne može biti beskonačna.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a4.obj3": {
+      "text": "Osim toga, beskonačno se ne može prijeći, i tako se u njemu ne može doći do posljednjega. Ali onome koji osjeća požudu naslada nastaje po tome što dosegne posljednje. Dakle, kad bi požuda bila beskonačna, slijedilo bi da naslada nikada ne bi nastala.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u I. knjizi Politike, da ljudi, budući da je požuda u beskonačnost, žele beskonačno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a4.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, požuda dvostruka: jedna naravna, a druga nenaravna. Naravna, dakle, požuda ne može biti zbiljski beskonačna. Ona je, naime, za onim što zahtijeva narav, a narav uvijek smjera na nešto konačno i određeno. Stoga čovjek nikada ne požudi beskonačnu hranu ili beskonačno piće. Ali kao što se u naravi događa da je nešto beskonačno u mogućnosti po slijedu, tako se događa da je takva požuda beskonačna po slijedu: tako da, naime, nakon što je stekao hranu, opet drugi put želi hranu ili bilo što drugo što zahtijeva narav, jer takva tjelesna dobra, kad dođu, ne ostaju zauvijek, nego nestaju. Stoga je Gospodin rekao Samarijanki, u Iv 4: *tko pije od ove vode, opet će ožednjeti*. Ali nenaravna je požuda posve beskonačna. Ona, naime, slijedi razum, kako je rečeno, a razumu pristaje ići u beskonačnost. Stoga onaj tko požudi bogatstvo može ga požudjeti ne do neke određene granice, nego naprosto da bude bogat koliko god može. Može se navesti i drugi razlog, prema Filozofu u I. knjizi Politike, zašto je neka požuda konačna, a neka beskonačna. Požuda za svrhom uvijek je, naime, beskonačna, jer se svrha požuđuje po sebi, kao zdravlje; stoga se veće zdravlje više požuđuje, i tako u beskonačnost; kao što, ako bijelo po sebi raspršuje, bjelje više raspršuje. A požuda za onim što vodi k svrsi nije beskonačna, nego se za tim teži prema onoj mjeri u kojoj je prikladno svrsi. Stoga oni koji svrhu postavljaju u bogatstvo imaju požudu za bogatstvom u beskonačnost, a oni koji za bogatstvom teže zbog životne potrebe, požude konačno bogatstvo, dostatno za životnu potrebu, kako ondje kaže Filozof. I isti razlog vrijedi za požudu za bilo kojim drugim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se sve za čim se osjeća požuda uzima kao nešto konačno: ili zato što je konačno u stvarnosti, ukoliko se jedanput zbiljski požudi; ili zato što je konačno ukoliko potpada pod zahvaćanje. Ne može se, naime, zahvatiti pod pojmom beskonačnoga, *jer je beskonačno ono kod čega onima koji uzimaju njegovu kolikoću uvijek preostaje nešto izvan da uzmu*, kako se kaže u III. knjizi Fizike.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a4.ad2": {
+      "text": "Na drugo treba reći da je razum na neki način beskonačne snage, ukoliko može nešto razmatrati u beskonačnost, kao što se vidi u zbrajanju brojeva i linija. Stoga je beskonačno, uzeto na neki način, razmjerno razumu. Jer i opće, koje razum zahvaća, na neki je način beskonačno, ukoliko u mogućnosti sadrži beskonačno mnogo pojedinačnoga.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q30.a4.ad3": {
+      "text": "Na treće treba reći da za to da se netko naslađuje nije potrebno da postigne sve što požudi, nego se naslađuje u svakoj požuđenoj stvari koju postigne.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    }
+  }
+}

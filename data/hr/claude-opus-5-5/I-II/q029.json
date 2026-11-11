@@ -1,0 +1,300 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 29,
+  "units": {
+    "I-II.q29.pr": {
+      "text": "Zatim treba razmotriti mržnju. U vezi s tim pitaju se šest stvari. Prvo, jesu li uzrok i predmet mržnje zlo. Drugo, uzrokuje li se mržnja iz ljubavi. Treće, je li mržnja jača od ljubavi. Četvrto, može li netko mrziti samoga sebe. Peto, može li netko mrziti istinu. Šesto, može li se nešto mrziti općenito.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da predmet i uzrok mržnje nije zlo. Sve, naime, što jest, ukoliko jest takvo, dobro je. Ako je, dakle, predmet mržnje zlo, slijedi da se ne mrzi nijedna stvar, nego samo nedostatak neke stvari. A to je očito lažno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a1.obj2": {
+      "text": "Osim toga, mrziti zlo je hvalevrijedno; stoga se u pohvalu nekih kaže u 2 Mak 3 da su se *zakoni najbolje čuvali zbog pobožnosti velikog svećenika Onije i zbog duša koje su mrzile zlo*. Ako se, dakle, ne mrzi ništa osim zla, slijedi da je svaka mržnja hvalevrijedna. A to je očito lažno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a1.obj3": {
+      "text": "Osim toga, isto nije ujedno dobro i zlo. Ali isto je različitima mrsko i drago. Dakle, mržnja nije samo mržnja prema zlu, nego i prema dobru.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a1.sc": {
+      "text": "Ali protiv toga, mržnja je protivna ljubavi. Ali predmet ljubavi je dobro, kako je gore rečeno. Dakle, predmet mržnje je zlo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a1.resp": {
+      "text": "Odgovaram: treba reći da, budući da naravna težnja proizlazi iz nekog zahvaćanja, iako ne zahvaćanja povezanog s njome, čini se da isti razlog vrijedi za sklonost naravne težnje i životinjske težnje, koja slijedi zahvaćanje povezano s njome, kako je gore rečeno. A u naravnoj težnji jasno se pokazuje ovo: kao što svaka stvar ima naravni sklad ili prilagođenost prema onome što joj je prikladno, a to je naravna ljubav, tako prema onome što joj je oprečno i što je razara ima naravni nesklad, a to je naravna mržnja. Tako je, dakle, i u životinjskoj ili u umskoj težnji ljubav neki sklad težnje s onim što se zahvaća kao prikladno, a mržnja je neki nesklad težnje s onim što se zahvaća kao oprečno i štetno. A kao što sve prikladno, ukoliko je takvo, ima pojam dobra, tako sve oprečno, ukoliko je takvo, ima pojam zla. I zato, kao što je dobro predmet ljubavi, tako je zlo predmet mržnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da biće, ukoliko je biće, nema pojam oprečnoga, nego radije prikladnoga, jer se sve slaže u biću. Ali biće, ukoliko je ovo određeno biće, ima pojam oprečnoga prema nekom određenom biću. I prema tome je jedno biće mrsko drugome i jest zlo, iako ne u sebi, ipak u usporedbi s drugim.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a1.ad2": {
+      "text": "Na drugo treba reći da, kao što se nešto zahvaća kao dobro što nije uistinu dobro, tako se nešto zahvaća kao zlo što nije uistinu zlo. Stoga se događa da katkad ni mržnja prema zlu ni ljubav prema dobru nisu dobre.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a1.ad3": {
+      "text": "Na treće treba reći da se događa da je isto različitima drago i mrsko: prema naravnoj težnji, zbog toga što je jedno te isto prikladno jednome prema njegovoj naravi, a oprečno drugome, kao što toplina pristaje vatri, a oprečna je vodi; a prema životinjskoj težnji, zbog toga što jedno te isto jedan zahvaća pod pojmom dobra, a drugi pod pojmom zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ljubav nije uzrok mržnje. *Ono, naime, što se dijeli kao suprotstavljeno, po naravi je istodobno*, kako se kaže u Kategorijama. Ali ljubav i mržnja, budući da su protivne, dijele se kao suprotstavljene. Dakle, po naravi su istodobne. Prema tome, ljubav nije uzrok mržnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a2.obj2": {
+      "text": "Osim toga, jedno od protivnoga nije uzrok drugoga. Ali ljubav i mržnja su protivne. Dakle, ljubav nije uzrok mržnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a2.obj3": {
+      "text": "Osim toga, kasnije nije uzrok ranijega. Ali mržnja je, kako se čini, prije ljubavi, jer mržnja uključuje udaljavanje od zla, a ljubav približavanje dobru. Dakle, ljubav nije uzrok mržnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XIV. knjizi O Božjem gradu, da se svi osjećaji uzrokuju iz ljubavi. Dakle, i mržnja, budući da je neki osjećaj duše, uzrokuje se iz ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, ljubav sastoji u nekoj prikladnosti onoga koji ljubi prema ljubljenome, a mržnja u nekoj oprečnosti ili neskladu. A u bilo čemu treba prije razmotriti što mu je prikladno nego što mu je oprečno, jer je nešto drugome oprečno po tome što razara ili priječi ono što mu je prikladno. Stoga je nužno da ljubav bude prije mržnje i da se ništa ne mrzi osim po tome što je protivno prikladnome koje se ljubi. I prema tome se svaka mržnja uzrokuje iz ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se među onim što se dijeli kao suprotstavljeno nalazi nešto što je po naravi istodobno i u stvarnosti i po pojmu, kao dvije vrste životinje ili dvije vrste boje. Nešto je pak istodobno po pojmu, ali je jedno stvarno prije drugoga i njegov je uzrok, kao što je očito kod vrsta brojeva, likova i gibanja. Nešto pak nije istodobno ni u stvarnosti ni po pojmu, kao supstancija i akcident: supstancija je, naime, stvarno uzrok akcidenta, a biće se po pojmu prije pripisuje supstanciji nego akcidentu, jer se akcidentu pripisuje samo ukoliko je u supstanciji. A ljubav i mržnja po naravi su doduše istodobne po pojmu, ali ne stvarno. Stoga ništa ne priječi da ljubav bude uzrok mržnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a2.ad2": {
+      "text": "Na drugo treba reći da su ljubav i mržnja protivne kad se uzimaju s obzirom na isto. Ali kad se odnose na protivne stvari, nisu protivne, nego slijede jedna iz druge: istog je, naime, razloga da se nešto ljubi i da se mrzi ono što mu je protivno. I tako je ljubav prema jednoj stvari uzrok da se mrzi ono što joj je protivno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a2.ad3": {
+      "text": "Na treće treba reći da je u izvršenju prije udaljiti se od jedne granice nego približiti se drugoj granici. Ali u nakani je obratno: od jedne se granice, naime, udaljuje zato da bi se približilo drugoj. A težnjeni pokret više pripada nakani nego izvršenju. I zato je ljubav prije mržnje, budući da su obje težnjeni pokret.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je mržnja jača od ljubavi. Augustin, naime, kaže u knjizi Osamdeset i tri pitanja: *nema nikoga tko ne bi više bježao od boli nego što teži za užitkom*. Ali bježati od boli pripada mržnji, a težnja za užitkom pripada ljubavi. Dakle, mržnja je jača od ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a3.obj2": {
+      "text": "Osim toga, jače pobjeđuje slabije. Ali mržnja pobjeđuje ljubav, naime kad se ljubav pretvori u mržnju. Dakle, mržnja je jača od ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a3.obj3": {
+      "text": "Osim toga, osjećaj duše očituje se po učinku. Ali čovjek se snažnije zalaže da odbije ono što je mrsko nego da postigne ono što ljubi, kao što se i zvijeri suzdržavaju od ugodnih stvari zbog udaraca, kako navodi Augustin u knjizi Osamdeset i tri pitanja. Dakle, mržnja je jača od ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a3.sc": {
+      "text": "Ali protiv toga, dobro je jače od zla, jer zlo ne djeluje osim snagom dobra, kako kaže Dionizije u IV. poglavlju O božanskim imenima. Ali mržnja i ljubav razlikuju se prema razlici dobra i zla. Dakle, ljubav je jača od mržnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a3.resp": {
+      "text": "Odgovaram: treba reći da je nemoguće da učinak bude jači od svojega uzroka. A svaka mržnja proizlazi iz neke ljubavi kao iz uzroka, kako je gore rečeno. Stoga je nemoguće da mržnja bude naprosto jača od ljubavi. Ali, nadalje, nužno je da ljubav, naprosto govoreći, bude jača od mržnje. Nešto se, naime, jače giba prema svrsi nego prema onome što vodi k svrsi. A udaljavanje od zla usmjereno je prema postizanju dobra kao prema svrsi. Stoga je, naprosto govoreći, pokret duše prema dobru jači nego prema zlu. Ali ipak se katkad mržnja čini jačom od ljubavi, i to iz dvaju razloga. Prvo, zato što je mržnja osjetnija od ljubavi. Budući da se, naime, osjetilno opažanje sastoji u nekoj izmjeni, kad je nešto već izmijenjeno, ne osjeća se tako kao dok je u samom izmjenjivanju. Stoga se toplina sušičave groznice, iako je veća, ipak ne osjeća tako kao toplina trodnevne groznice, jer se toplina sušičave groznice već kao pretvorila u habitus i narav. Zbog toga se i ljubav više osjeća u odsutnosti ljubljenoga, kako kaže Augustin u X. knjizi O Trojstvu: *ljubav se ne osjeća tako kad je ne odaje oskudica*. I zbog toga se također oprečnost onoga što se mrzi osjetnije opaža nego prikladnost onoga što se ljubi. Drugo, zato što se mržnja ne uspoređuje s ljubavlju koja joj odgovara. Prema različitosti dobara postoji, naime, različitost ljubavi po veličini i malenosti, a njima su razmjerne suprotstavljene mržnje. Stoga mržnja koja odgovara većoj ljubavi više pokreće nego manja ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a3.ad1": {
+      "text": "I time je jasan odgovor na prvo. Ljubav prema užitku, naime, manja je od ljubavi prema očuvanju samoga sebe, kojoj odgovara bijeg od boli. I zato se više bježi od boli nego što se ljubi užitak.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a3.ad2": {
+      "text": "Na drugo treba reći da mržnja nikada ne bi pobijedila ljubav osim zbog veće ljubavi kojoj mržnja odgovara. Tako čovjek više ljubi sebe nego prijatelja, i zbog toga što ljubi sebe, mrzi čak i prijatelja ako mu se protivi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a3.ad3": {
+      "text": "Na treće treba reći da netko zato snažnije djeluje kako bi odbio ono što je mrsko, jer je mržnja osjetnija.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da netko može mrziti samoga sebe. Kaže se, naime, u Psalmu 10: *tko ljubi nepravednost, mrzi svoju dušu*. Ali mnogi ljube nepravednost. Dakle, mnogi mrze sami sebe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a4.obj2": {
+      "text": "Osim toga, mrzimo onoga komu želimo i činimo zlo. Ali katkad netko želi i čini zlo samomu sebi, na primjer oni koji ubijaju sami sebe. Dakle, neki mrze sami sebe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a4.obj3": {
+      "text": "Osim toga, Boetije kaže u II. knjizi O utjehi filozofije da *škrtost čini ljude mrskima*, iz čega se može zaključiti da svaki čovjek mrzi škrtca. Ali neki su škrti. Dakle, oni mrze sami sebe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Ef 5: *nitko nikada nije mrzio svoje tijelo*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a4.resp": {
+      "text": "Odgovaram: treba reći da je nemoguće da netko, po sebi govoreći, mrzi samoga sebe. Svaka stvar, naime, po naravi teži za dobrom i nitko ne može za sebe težiti za nečim osim pod pojmom dobra, jer je zlo mimo volje, kako kaže Dionizije u IV. poglavlju O božanskim imenima. A ljubiti nekoga znači htjeti mu dobro, kako je gore rečeno. Stoga je nužno da netko ljubi samoga sebe, a nemoguće je da netko mrzi samoga sebe, po sebi govoreći. Akcidentalno se ipak događa da netko mrzi samoga sebe. I to na dva načina. Na jedan način, sa strane dobra koje netko sebi hoće. Događa se, naime, katkad da je ono za čim se teži kao za dobrim u nekom pogledu naprosto zlo, i prema tome netko akcidentalno hoće sebi zlo, a to znači mrziti. Na drugi način, sa strane samoga sebe, komu hoće dobro. Svaka je stvar, naime, ponajviše ono što je u njoj glavnije; stoga se kaže da grad čini ono što čini kralj, kao da je kralj sav grad. Očito je, dakle, da je čovjek ponajviše čovjekov duh. A događa se da neki smatraju da su ponajviše ono što jesu prema tjelesnoj i osjetilnoj naravi. Stoga ljube sebe prema onome što smatraju da jesu, ali mrze ono što uistinu jesu, dok hoće ono što je protivno razumu. I na oba načina onaj koji ljubi nepravednost mrzi ne samo svoju dušu, nego i samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a4.ad1": {
+      "text": "I time je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a4.ad2": {
+      "text": "Na drugo treba reći da nitko sebi ne hoće i ne čini zlo osim ukoliko ga zahvaća pod pojmom dobra. Jer i oni koji ubijaju sami sebe zahvaćaju samo umiranje pod pojmom dobra, ukoliko ono okončava neku bijedu ili bol.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a4.ad3": {
+      "text": "Na treće treba reći da škrtac mrzi neki svoj akcident, ali zbog toga ne mrzi samoga sebe, kao što bolesnik mrzi svoju bolest upravo zato što ljubi sebe. Ili treba reći da škrtost čini mrskima drugima, a ne samima sebi. Štoviše, ona se uzrokuje iz neuredne ljubavi prema sebi, prema kojoj netko hoće za sebe više vremenitih dobara nego što bi trebao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da netko ne može mrziti istinu. Dobro, naime, i biće i istinito su zamjenjivi. Ali netko ne može mrziti dobrotu. Dakle, ni istinu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a5.obj2": {
+      "text": "Osim toga, svi ljudi po naravi žele znati, kako se kaže na početku Metafizike. Ali znanje je samo o istinitome. Dakle, istina se po naravi želi i ljubi. Ali ono što je po naravi u nečemu, uvijek je u njemu. Dakle, nitko ne može mrziti istinu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a5.obj3": {
+      "text": "Osim toga, Filozof kaže u II. knjizi Retorike da *ljudi ljube one koji se ne pretvaraju*. A to ne biva nego zbog istine. Dakle, čovjek po naravi ljubi istinu. Prema tome, ne može je mrziti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Gal 4: *postao sam vam neprijatelj govoreći vam istinu*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a5.resp": {
+      "text": "Odgovaram: treba reći da su dobro, istinito i biće isto u stvarnosti, ali se razlikuju po pojmu. Dobro, naime, ima pojam poželjnoga, a biće ili istinito nemaju, jer je dobro ono za čim sve teži. I zato se dobro, pod pojmom dobra, ne može mrziti, ni općenito ni pojedinačno. Biće pak i istinito općenito se doduše ne mogu mrziti, jer je nesklad uzrok mržnje, a prikladnost uzrok ljubavi, a biće i istinito zajednički su svemu. Ali pojedinačno ništa ne priječi da se mrzi neko biće i neko istinito, ukoliko ima pojam protivnoga i oprečnoga; protivnost se, naime, i oprečnost ne protive pojmu bića i istinitoga kao što se protive pojmu dobra. A događa se da neko pojedinačno istinito bude oprečno ili protivno ljubljenome dobru na tri načina. Na jedan način, ukoliko je istina uzročno i izvorno u samim stvarima. I tako čovjek katkad mrzi neku istinu, kad bi htio da ne bude istinito ono što je istinito. Na drugi način, ukoliko je istina u spoznaji samoga čovjeka, a ta ga spoznaja priječi da postigne ono što ljubi. Kao kad neki ne bi htjeli spoznati istinu vjere da bi slobodno griješili; u njihovo se ime kaže u Job 21: *ne želimo znanja o tvojim putovima*. Na treći se način mrzi pojedinačna istina kao oprečna, ukoliko je u umu nekoga drugoga. Na primjer, kad netko hoće ostati skriven u grijehu, mrzi to da netko spozna istinu o njegovu grijehu. I prema tome kaže Augustin u X. knjizi Ispovijesti da *ljudi ljube istinu kad svijetli, a mrze je kad ih prekorava*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a5.ad1": {
+      "text": "I time je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a5.ad2": {
+      "text": "Na drugo treba reći da je spoznavati istinu po sebi dostojno ljubavi; zbog toga Augustin kaže da je ljube kad svijetli. Ali akcidentalno spoznaja istine može biti mrska, ukoliko priječi nešto željeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a5.ad3": {
+      "text": "Na treće treba reći da to što se ljube oni koji se ne pretvaraju proizlazi iz toga što čovjek po sebi ljubi spoznavati istinu, koju ljudi koji se ne pretvaraju očituju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da mržnja ne može biti prema nečemu općenito. Mržnja je, naime, strast osjetilne težnje, koju pokreće osjetilno zahvaćanje. Ali osjetilo ne može zahvatiti opće. Dakle, mržnja ne može biti prema nečemu općenito.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a6.obj2": {
+      "text": "Osim toga, mržnja se uzrokuje iz nekog nesklada, a on je oprečan zajedništvu. Ali zajedništvo pripada pojmu općega. Dakle, mržnja ne može biti prema nečemu općenito.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a6.obj3": {
+      "text": "Osim toga, predmet mržnje je zlo. A zlo je u stvarima, a ne u duhu, kako se kaže u VI. knjizi Metafizike. Budući da je, dakle, opće samo u duhu, koji apstrahira opće od pojedinačnoga, čini se da mržnja ne može biti prema nečemu općem.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u II. knjizi Retorike, da *srdžba uvijek biva prema pojedinačnome, a mržnja i prema rodovima: svatko, naime, mrzi lopova i klevetnika*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a6.resp": {
+      "text": "Odgovaram: treba reći da se o općem može govoriti na dva načina: na jedan način, ukoliko je podložno intenciji općenitosti; na drugi način, o naravi kojoj se takva intencija pripisuje; jedno je, naime, razmatranje općeg čovjeka, a drugo čovjeka ukoliko je čovjek. Ako se, dakle, opće uzme na prvi način, tako se nijedna moć osjetilnog dijela, ni zahvatna ni težnjena, ne može upraviti prema općem, jer opće nastaje apstrakcijom od pojedinačne tvari, u kojoj je ukorijenjena svaka osjetilna snaga. Ipak, neka se osjetilna moć, i zahvatna i težnjena, može upraviti prema nečemu općenito. Tako kažemo da je predmet vida boja prema rodu, ne zato što vid spoznaje opću boju, nego zato što to da je boja spoznatljiva vidom ne pristaje boji ukoliko je ova boja, nego ukoliko je boja naprosto. Tako se, dakle, i mržnja osjetilnog dijela može odnositi na nešto općenito, jer se nešto protivi životinji zbog zajedničke naravi, a ne samo zato što je pojedinačno, kao vuk ovci. Stoga ovca mrzi vuka općenito. Ali srdžba se uvijek uzrokuje iz nečega pojedinačnoga, jer iz nekog čina onoga koji nanosi povredu; a čini pripadaju pojedinačnome. I zbog toga Filozof kaže da *srdžba uvijek biva prema nečemu pojedinačnome, a mržnja može biti prema nečemu u rodu*. Ali mržnja, ukoliko je u umskom dijelu, budući da slijedi opće zahvaćanje uma, može biti prema općem na oba načina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da osjetilo ne zahvaća opće ukoliko je opće, ali ipak zahvaća nešto čemu se apstrakcijom pridodaje općenitost.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a6.ad2": {
+      "text": "Na drugo treba reći da ono što je zajedničko svemu ne može biti razlog mržnje. Ali ništa ne priječi da nešto bude zajedničko mnogima, a da ipak nije u skladu s drugima, i tako im je mrsko.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    },
+    "I-II.q29.a6.ad3": {
+      "text": "Na treće treba reći da se onaj prigovor odnosi na opće ukoliko je podložno intenciji općenitosti; tako, naime, ne potpada pod osjetilno zahvaćanje ili osjetilnu težnju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:24+00:00"
+    }
+  }
+}

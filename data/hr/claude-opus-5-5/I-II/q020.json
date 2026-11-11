@@ -1,0 +1,312 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 20,
+  "units": {
+    "I-II.q20.pr": {
+      "text": "Zatim treba razmotriti dobrotu i zloću s obzirom na vanjske čine. O tome se pita šest stvari. Prvo, jesu li dobrota i zloća prvotno u činu volje ili u vanjskom činu. Drugo, ovisi li sva dobrota ili zloća vanjskog čina o dobroti volje. Treće, jesu li dobrota i zloća unutarnjeg i vanjskog čina iste. Četvrto, dodaje li vanjski čin nešto od dobrote ili zloće unutarnjem činu. Peto, dodaje li ishod koji slijedi nešto od dobrote ili zloće vanjskom činu. Šesto, može li isti vanjski čin biti dobar i zao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se dobro i zlo prvotno sastoje u vanjskom činu, a ne u činu volje. Volja, naime, ima dobrotu od predmeta, kao što je gore rečeno. Ali vanjski je čin predmet unutarnjeg čina volje; kaže se, naime, da hoćemo krađu ili da hoćemo dati milostinju. Dakle, zlo i dobro prvotno su u vanjskom činu, a ne u činu volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a1.obj2": {
+      "text": "Osim toga, dobro prvotno pripada svrsi, jer ono što vodi k svrsi ima pojam dobra po usmjerenosti prema svrsi. A čin volje ne može biti svrha, kao što je gore rečeno, dok čin neke druge moći može biti svrha. Dakle, dobro se prvotno sastoji u činu druge moći, a ne u činu volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a1.obj3": {
+      "text": "Osim toga, čin volje odnosi se prema vanjskom činu formalno, kao što je gore rečeno. Ali ono što je formalno jest kasnije, jer forma pridolazi tvari. Dakle, dobro i zlo prvotno su u vanjskom činu, a ne u činu volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a1.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u knjizi Retraktacija: *volja je ono čime se griješi i čime se ispravno živi*. Dakle, moralno dobro i zlo prvotno se sastoje u volji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a1.resp": {
+      "text": "Odgovaram: treba reći da se neki vanjski čini mogu nazvati dobrima ili zlima na dva načina. Na jedan način, po svojem rodu i po okolnostima koje se u njima razmatraju; tako se za davanje milostinje, uz poštivanje dužnih okolnosti, kaže da je dobro. Na drugi se način za nešto kaže da je dobro ili zlo po usmjerenosti prema svrsi; tako se za davanje milostinje radi isprazne slave kaže da je zlo. Budući pak da je svrha vlastiti predmet volje, očito je da se onaj pojam dobra ili zla koji vanjski čin ima po usmjerenosti prema svrsi prvotno nalazi u činu volje i iz njega se izvodi na vanjski čin. Dobrota pak ili zloća koju vanjski čin ima po sebi, zbog dužne građe i dužnih okolnosti, ne izvodi se iz volje, nego prije iz razuma. Stoga, ako se dobrota vanjskog čina promatra ukoliko je u razumskom određivanju i zahvaćanju, ona je prije dobrote čina volje; ali ako se promatra ukoliko je u izvršenju djela, ona slijedi dobrotu volje, koja je njezino počelo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je vanjski čin predmet volje ukoliko ga razum predlaže volji kao neko dobro koje je razum zahvatio i odredio; i tako je prije dobra čina volje. Ukoliko se pak sastoji u izvršenju djela, učinak je volje i slijedi volju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a1.ad2": {
+      "text": "Na drugo treba reći da je svrha prva u nakani, ali posljednja u izvršenju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a1.ad3": {
+      "text": "Na treće treba reći da je forma, ukoliko je primljena u tvari, kasnija od tvari na putu nastajanja, premda je po naravi prije; ali ukoliko je u djelatnom uzroku, prije je na svaki način. A volja se prema vanjskom činu odnosi kao tvorni uzrok. Stoga je dobrota čina volje forma vanjskog čina, kao ona koja postoji u djelatnom uzroku.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da sva dobrota i zloća vanjskog čina ovisi o volji. Kaže se, naime, u Mateju 7: *ne može dobro stablo donositi zle plodove, niti zlo stablo donositi dobre plodove*. A pod stablom se razumije volja, a pod plodom djelo, prema Glosi. Dakle, ne može biti da je unutarnja volja dobra, a vanjski čin zao, ili obratno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a2.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi Retraktacija da se griješi samo voljom. Ako, dakle, nema grijeha u volji, neće biti grijeha ni u vanjskom činu. I tako sva dobrota ili zloća vanjskog čina ovisi o volji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a2.obj3": {
+      "text": "Osim toga, dobro i zlo o kojima sada govorimo jesu razlike moralnog čina. A razlike po sebi dijele rod, prema Filozofu u VII. knjizi Metafizike. Budući, dakle, da je čin moralan po tome što je voljan, čini se da se dobro i zlo u činu uzimaju samo sa strane volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a2.sc": {
+      "text": "Ali protiv toga jest ono što Augustin kaže u knjizi Protiv laži: *ima nekih stvari koje se ni s kakvom tobože dobrom svrhom ili dobrom voljom ne mogu dobro učiniti*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je već rečeno, u vanjskom činu može razmatrati dvostruka dobrota ili zloća: jedna po dužnoj građi i okolnostima, druga po usmjerenosti prema svrsi. Ona koja je po usmjerenosti prema svrsi posve ovisi o volji. A ona koja je od dužne građe ili okolnosti ovisi o razumu, i o njoj ovisi dobrota volje, ukoliko je volja usmjerena na nju. Treba pak uzeti u obzir da, kao što je gore rečeno, za to da nešto bude zlo dostaje jedan pojedinačni nedostatak, dok za to da bude naprosto dobro ne dostaje jedno pojedinačno dobro, nego se zahtijeva cjelovitost dobrote. Ako je, dakle, volja dobra i po vlastitom predmetu i po svrsi, slijedi da je vanjski čin dobar. Ali za to da vanjski čin bude dobar ne dostaje dobrota volje koja je od nakane svrhe; nego ako je volja zla, bilo po nakani svrhe bilo po činu koji hoće, slijedi da je vanjski čin zao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da dobru volju, kako je označena dobrim stablom, treba uzeti ukoliko ima dobrotu od čina koji hoće i od svrhe na koju smjera.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a2.ad2": {
+      "text": "Na drugo treba reći da netko voljom griješi ne samo kad hoće zlu svrhu nego i kad hoće zao čin.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a2.ad3": {
+      "text": "Na treće treba reći da se voljnim ne naziva samo unutarnji čin volje nego i vanjski čini, ukoliko proizlaze iz volje i razuma. I zato u obama činima može biti razlika dobra i zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da dobrota ili zloća unutarnjeg čina volje i vanjskog čina nije ista. Počelo je, naime, unutarnjeg čina unutarnja zahvatna ili težnjena sila duše, a počelo vanjskog čina jest moć koja izvršava gibanje. A gdje su različita počela radnje, ondje su različiti čini. A čin je subjekt dobrote ili zloće. Ne može pak isti akcident biti u različitim subjektima. Dakle, ne može biti ista dobrota unutarnjeg i vanjskog čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a3.obj2": {
+      "text": "*Osim toga, krepost je ono što čini dobrim onoga koji je ima i njegovo djelo čini dobrim*, kako se kaže u II. knjizi Etike. Ali jedna je umna krepost u moći koja zapovijeda, a druga moralna krepost u moći kojoj se zapovijeda, kako je jasno iz I. knjige Etike. Dakle, jedna je dobrota unutarnjeg čina, koji pripada moći koja zapovijeda, a druga je dobrota vanjskog čina, koji pripada moći kojoj se zapovijeda.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a3.obj3": {
+      "text": "Osim toga, uzrok i učinak ne mogu biti isto, jer ništa nije uzrok samoga sebe. Ali dobrota unutarnjeg čina uzrok je dobrote vanjskog čina, ili obratno, kao što je rečeno. Dakle, ne može biti ista dobrota obaju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a3.sc": {
+      "text": "Ali protiv toga jest ono što je gore pokazano: da se čin volje prema vanjskom činu odnosi kao formalno. A od formalnoga i tvarnoga nastaje jedno. Dakle, jedna je dobrota unutarnjeg i vanjskog čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a3.resp": {
+      "text": "Odgovaram: treba reći da su, kao što je gore rečeno, unutarnji čin volje i vanjski čin, ukoliko se promatraju u rodu ćudoređa, jedan čin. Događa se pak da čin koji je jedan po subjektu ima katkad više pojmova dobrote ili zloće, a katkad samo jedan. Tako, dakle, treba reći da je katkad ista dobrota ili zloća unutarnjeg i vanjskog čina, a katkad jedna i druga. Kao što je, naime, već rečeno, spomenute dvije dobrote ili zloće, to jest unutarnjeg i vanjskog čina, usmjerene su jedna prema drugoj. A kod onoga što je usmjereno prema drugome događa se da je nešto dobro samo po tome što je usmjereno prema drugome; tako je gorak napitak dobar samo po tome što je ljekovit. Stoga nije jedna dobrota zdravlja, a druga napitka, nego jedna te ista. Katkad pak ono što je usmjereno prema drugome ima u sebi neki pojam dobra i mimo usmjerenosti prema drugom dobru; tako ukusan lijek ima pojam ugodnog dobra, osim toga što je ljekovit. Tako, dakle, treba reći da, kad je vanjski čin dobar ili zao samo po usmjerenosti prema svrsi, tada je posve ista dobrota ili zloća čina volje, koji po sebi gleda na svrhu, i vanjskog čina, koji gleda na svrhu posredstvom čina volje. Kad pak vanjski čin ima dobrotu ili zloću po sebi, to jest po građi ili okolnostima, tada je jedna dobrota vanjskog čina, a druga dobrota volje koja je od svrhe; ipak tako da se i dobrota svrhe iz volje prelijeva na vanjski čin, i dobrota građe i okolnosti prelijeva se na čin volje, kao što je već rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj razlog dokazuje da su unutarnji i vanjski čin različiti u naravnom rodu. Ali ipak se od njih, tako različitih, sastavlja jedno u rodu ćudoređa, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a3.ad2": {
+      "text": "Na drugo treba reći da su, kako se kaže u VI. knjizi Etike, moralne kreposti usmjerene prema samim činima kreposti, koji su kao svrhe, a razboritost, koja je u razumu, prema onome što vodi k svrsi. I zbog toga se zahtijevaju različite kreposti. Ali ispravni razum o samoj svrsi kreposti nema druge dobrote osim dobrote kreposti, ukoliko svaka krepost ima udjela u dobroti razuma.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a3.ad3": {
+      "text": "Na treće treba reći da, kad se nešto iz jednoga izvodi u drugo kao iz jednoznačnoga djelatnog uzroka, tada je u jednome jedno, a u drugome drugo; tako, kad toplo grije, brojčano je jedna toplina onoga što grije, a druga toplina onoga što je zagrijano, premda su iste po vrsti. Ali kad se nešto izvodi iz jednoga u drugo po analogiji ili razmjeru, tada je brojčano samo jedno; tako se od zdravoga koje je u tijelu živog bića izvodi naziv zdravoga na lijek i mokraću, i nije zdravlje lijeka i mokraće drugo od zdravlja živog bića, koje lijek čini, a mokraća označuje. I na taj se način dobrota vanjskog čina izvodi iz dobrote volje, i obratno, to jest po usmjerenosti jednoga prema drugome.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da vanjski čin ne dodaje ništa u dobroti ili zloći unutarnjem činu. Zlatousti, naime, kaže u komentaru na Mateja: *volja je ono što se ili nagrađuje za dobro ili osuđuje za zlo*. A djela su svjedočanstva volje. Bog, dakle, ne traži djela radi sebe, da bi znao kako će suditi, nego radi drugih, da svi shvate da je Bog pravedan. Ali zlo ili dobro valja više procjenjivati prema Božjem sudu nego prema sudu ljudi. Dakle, vanjski čin ne dodaje ništa dobroti ili zloći povrh unutarnjeg čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a4.obj2": {
+      "text": "Osim toga, jedna je te ista dobrota unutarnjeg i vanjskog čina, kao što je rečeno. Ali povećanje nastaje dodavanjem jednoga drugome. Dakle, vanjski čin ne dodaje ništa u dobroti ili zloći povrh unutarnjeg čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a4.obj3": {
+      "text": "Osim toga, sva dobrota stvora ne dodaje ništa povrh božanske dobrote, jer se sva izvodi iz božanske dobrote. Ali dobrota vanjskog čina katkad se sva izvodi iz dobrote unutarnjeg čina, a katkad obratno, kao što je rečeno. Dakle, jedan od njih ne dodaje ništa u dobroti ili zloći povrh drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a4.sc": {
+      "text": "Ali protiv toga, svaki djelatnik smjera na to da postigne dobro i izbjegne zlo. Ako se, dakle, vanjskim činom ne dodaje ništa od dobrote ili zloće, uzalud onaj tko ima dobru ili zlu volju čini dobro djelo ili odustaje od zla djela. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a4.resp": {
+      "text": "Odgovaram: treba reći da, ako govorimo o dobroti vanjskog čina koju on ima od volje za svrhom, tada vanjski čin ne dodaje ništa dobroti, osim ako se ne dogodi da sama volja po sebi postane bolja u dobrome ili gora u zlome. A čini se da se to može dogoditi na tri načina. Na jedan način, po broju. Na primjer, kad netko hoće nešto učiniti s dobrom ili zlom svrhom, a tada to ne čini, nego poslije hoće i čini; čin se volje udvostručuje, i tako nastaje dvostruko dobro ili dvostruko zlo. Na drugi način, s obzirom na protezanje. Na primjer, kad netko hoće nešto učiniti s dobrom ili zlom svrhom pa zbog neke zapreke odustane, a drugi pak nastavlja pokret volje dok ga djelom ne dovrši; očito je da je takva volja trajnija u dobrome ili zlome i da je po tome gora ili bolja. Treće, po jakosti. Postoje, naime, neki vanjski čini koji su, ukoliko su ugodni ili mučni, po naravi takvi da pojačavaju ili slabe volju. A jasno je da je volja to bolja ili gora što jače teži prema dobru ili zlu. Ako pak govorimo o dobroti vanjskog čina koju on ima po građi i dužnim okolnostima, tako se on prema volji odnosi kao završetak i svrha. I na taj način dodaje dobroti ili zloći volje, jer se svaka sklonost ili pokret dovršava time što postiže svrhu ili dosiže završetak. Stoga volja nije savršena ako nije takva da, kad se pruži prilika, djeluje. Ako pak nedostaje mogućnost, dok je volja savršena, tako da bi djelovala kad bi mogla, nedostatak savršenosti koja dolazi od vanjskog čina naprosto je protuvoljan. A ono što je protuvoljno, kao što ne zaslužuje kaznu ili nagradu u činjenju dobra ili zla, tako ni ne oduzima ništa od nagrade ili od kazne, ako čovjek naprosto protuvoljno ne uspije učiniti dobro ili zlo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Zlatousti govori o slučaju kad je volja čovjeka dovršena, a od čina se ne odustaje osim zbog nemoći da se učini.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a4.ad2": {
+      "text": "Na drugo treba reći da onaj razlog vrijedi za dobrotu vanjskog čina koju on ima od volje za svrhom. Ali dobrota vanjskog čina koju on ima od građe i okolnosti različita je od dobrote volje koja je od svrhe, no nije različita od dobrote volje koju ona ima od samoga čina koji hoće, nego se prema njoj odnosi kao njezin razlog i uzrok, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a4.ad3": {
+      "text": "I time je jasno i rješenje trećega.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q20.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da ishod koji slijedi dodaje dobroti ili zloći čina. Učinak, naime, virtualno prethodno postoji u uzroku. Ali ishodi slijede čine kao učinci uzroke. Dakle, virtualno prethodno postoje u činima. Ali svaka se stvar prosuđuje dobrom ili zlom prema svojoj kreposti; jer krepost je ono što čini dobrim onoga koji je ima, kako se kaže u II. knjizi Etike. Dakle, ishodi dodaju dobroti ili zloći čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a5.obj2": {
+      "text": "Osim toga, dobra koja čine slušatelji neki su učinci koji slijede iz propovijedanja učitelja. Ali takva se dobra prelijevaju na zaslugu propovjednika, kao što je jasno iz onoga što se kaže u Poslanici Filipljanima 4: *braćo moja predraga i prežuđena, radosti moja i vijenče moj*. Dakle, ishod koji slijedi dodaje dobroti ili zloći čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a5.obj3": {
+      "text": "Osim toga, kazna se ne povećava ako ne raste krivnja; zato se kaže u Ponovljenom zakonu 25: *prema mjeri grijeha bit će i količina udaraca*. Ali zbog ishoda koji slijedi povećava se kazna; kaže se, naime, u Izlasku 21: *ako je vol bio bodljiv od jučer i prekjučer, i upozorili su njegova gospodara, a on ga nije zatvorio, pa ubije muškarca ili ženu, i vol će se zasuti kamenjem, i njegova će gospodara ubiti*. A ne bi se ubio da vol nije ubio čovjeka, pa makar i ne bio zatvoren. Dakle, ishod koji slijedi dodaje dobroti ili zloći čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a5.obj4": {
+      "text": "Osim toga, ako netko prouzroči smrt udarcem ili izricanjem presude, a smrt ne uslijedi, ne navlači na sebe nepravilnost. Navukao bi je pak kad bi smrt uslijedila. Dakle, ishod koji slijedi dodaje dobroti ili zloći čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a5.sc": {
+      "text": "Ali protiv toga, ishod koji slijedi ne čini zlim čin koji je bio dobar, niti dobrim onaj koji je bio zao. Na primjer, ako netko da milostinju siromahu, a on je zloupotrijebi za grijeh, ništa ne gubi onaj tko je udijelio milostinju; i slično, ako netko strpljivo podnese nepravdu koja mu je nanesena, zbog toga nije opravdan onaj tko ju je nanio. Dakle, ishod koji slijedi ne dodaje dobroti ili zloći čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a5.resp": {
+      "text": "Odgovaram: treba reći da je ishod koji slijedi ili unaprijed predviđen ili nije. Ako je unaprijed predviđen, očito je da dodaje dobroti ili zloći. Kad, naime, netko misli da iz njegova djela može slijediti mnogo zala, pa zbog toga ne odustaje, iz toga se vidi da je njegova volja neurednija. Ako pak ishod koji slijedi nije unaprijed predviđen, tada treba razlikovati. Jer ako po sebi i u većini slučajeva slijedi iz takvog čina, po tome ishod koji slijedi dodaje dobroti ili zloći čina; očito je, naime, da je po svojem rodu bolji čin iz kojeg može slijediti više dobara, a gori onaj iz kojeg po naravi slijedi više zala. Ako pak slijedi akcidentalno i u manjini slučajeva, tada ishod koji slijedi ne dodaje dobroti ili zloći čina; jer se o nekoj stvari ne sudi prema onome što je akcidentalno, nego samo prema onome što je po sebi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se snaga uzroka procjenjuje prema učincima po sebi, a ne prema učincima po akcidentu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a5.ad2": {
+      "text": "Na drugo treba reći da dobra koja čine slušatelji slijede iz propovijedanja učitelja kao učinci po sebi. Stoga se prelijevaju na nagradu propovjednika, i to osobito kad je na njih unaprijed smjerao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a5.ad3": {
+      "text": "Na treće treba reći da onaj ishod zbog kojega se nalaže da mu se izrekne kazna i slijedi po sebi iz takvog uzroka, i osim toga postavlja se kao unaprijed predviđen. I zato se uračunava u kaznu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a5.ad4": {
+      "text": "Na četvrto treba reći da bi onaj razlog vrijedio kad bi nepravilnost slijedila krivnju. Ali ona ne slijedi krivnju, nego počinjeno djelo, zbog nekog nedostatka u odnosu na sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da jedan čin može biti dobar i zao. Jedno je, naime, ono gibanje koje je neprekinuto, kako se kaže u V. knjizi Fizike. Ali jedno neprekinuto gibanje može biti dobro i zlo; na primjer, ako netko, idući neprekinuto u crkvu, najprije smjera na ispraznu slavu, a poslije smjera na to da služi Bogu. Dakle, jedan čin može biti dobar i zao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a6.obj2": {
+      "text": "Osim toga, prema Filozofu u III. knjizi Fizike, radnja i trpnja jedan su čin. Ali trpnja može biti dobra, kao Kristova, a radnja zla, kao radnja Židova. Dakle, jedan čin može biti dobar i zao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a6.obj3": {
+      "text": "Osim toga, budući da je sluga kao oruđe gospodara, radnja sluge jest radnja gospodara, kao što je radnja oruđa radnja umjetnika. Ali može se dogoditi da radnja sluge proizlazi iz dobre volje gospodara, pa je tako dobra, a iz zle volje sluge, pa je tako zla. Dakle, isti čin može biti dobar i zao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a6.sc": {
+      "text": "Ali protiv toga, protivno ne može biti u istome. Ali dobro i zlo jesu protivni. Dakle, jedan čin ne može biti dobar i zao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a6.resp": {
+      "text": "Odgovaram: treba reći da ništa ne priječi da nešto bude jedno ukoliko je u jednom rodu, a mnogostruko ukoliko se odnosi na drugi rod. Tako je neprekinuta površina jedna ukoliko se promatra u rodu kolikoće, a ipak je mnogostruka ukoliko se odnosi na rod boje, ako je dijelom bijela, a dijelom crna. I prema tome, ništa ne priječi da neki čin bude jedan ukoliko se odnosi na naravni rod, a da ipak ne bude jedan ukoliko se odnosi na rod ćudoređa, kao i obratno, kao što je rečeno. Neprekinuto hodanje, naime, jedan je čin po naravnom rodu, ali se ipak može dogoditi da bude više čina po rodu ćudoređa, ako se promijeni volja onoga koji hoda, a ona je počelo moralnih čina. Ako se, dakle, jedan čin uzme kako je u rodu ćudoređa, nemoguće je da bude dobar i zao moralnom dobrotom i zloćom. Ako je pak jedan jedinstvom naravi, a ne jedinstvom ćudoređa, može biti dobar i zao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono neprekinuto gibanje koje proizlazi iz različite nakane, premda je jedno jedinstvom naravi, ipak nije jedno jedinstvom ćudoređa.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a6.ad2": {
+      "text": "Na drugo treba reći da radnja i trpnja pripadaju rodu ćudoređa ukoliko imaju pojam voljnoga. I zato, ukoliko se nazivaju voljnima po različitoj volji, utoliko su moralno dvoje, i s jedne strane može biti dobro, a s druge zlo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q20.a6.ad3": {
+      "text": "Na treće treba reći da čin sluge, ukoliko proizlazi iz volje sluge, nije čin gospodara, nego samo ukoliko proizlazi iz gospodareva naloga. Stoga ga zla volja sluge tako ne čini zlim.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    }
+  }
+}

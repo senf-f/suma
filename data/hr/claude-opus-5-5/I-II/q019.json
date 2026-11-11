@@ -1,0 +1,516 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 19,
+  "units": {
+    "I-II.q19.pr": {
+      "text": "Zatim treba razmotriti dobrotu unutarnjeg čina volje. O tome se postavlja deset pitanja. Prvo, ovisi li dobrota volje o predmetu. Drugo, ovisi li samo o predmetu. Treće, ovisi li o razumu. Četvrto, ovisi li o vječnom zakonu. Peto, obvezuje li zabludjeli razum. Šesto, je li zla volja koja, slijedeći zabludjeli razum, ide protiv Božjega zakona. Sedmo, ovisi li dobrota volje u onome što vodi k svrsi o nakani svrhe. Osmo, slijedi li kolikoća dobrote ili zloće u volji kolikoću dobra ili zla u nakani. Deveto, ovisi li dobrota volje o suobličenosti s Božjom voljom. Deseto, je li nužno da se ljudska volja suobliči Božjoj volji u htjenome da bi bila dobra.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da dobrota volje ne ovisi o predmetu. Volja, naime, ne može biti drugo doli volja za dobrim, jer je zlo mimo volje, kako kaže Dionizije u IV. poglavlju knjige O božanskim imenima. Kad bi se, dakle, dobrota volje prosuđivala po predmetu, slijedilo bi da je svaka volja dobra i da nijedna nije zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a1.obj2": {
+      "text": "Osim toga, dobro se prvotno nalazi u svrsi, pa stoga dobrota svrhe, ukoliko je ona takva, ne ovisi ni o čemu drugome. Ali prema Filozofu, u VI. knjizi Etike, *dobra je radnja svrha, premda izrada nikada nije svrha*; izrada je, naime, uvijek usmjerena prema nečemu izrađenom kao prema svrsi. Dakle, dobrota čina volje ne ovisi ni o kakvu predmetu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a1.obj3": {
+      "text": "Osim toga, kakva je koja stvar, takvim čini i drugo. Ali predmet volje dobar je dobrotom naravi. Ne može, dakle, volji pružiti moralnu dobrotu. Prema tome, moralna dobrota volje ne ovisi o predmetu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a1.sc": {
+      "text": "Ali protiv toga jest ono što kaže Filozof u V. knjizi Etike: pravednost je ono po čemu neki hoće ono što je pravedno, a s istog razloga krepost je ono po čemu neki hoće ono što je dobro. Ali dobra je volja ona koja je u skladu s krepošću. Dakle, dobrota volje proizlazi iz toga što netko hoće dobro.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a1.resp": {
+      "text": "Odgovaram: treba reći da su dobro i zlo po sebi razlike čina volje. Dobro i zlo, naime, po sebi pripadaju volji, kao što istinito i lažno pripadaju razumu, čiji se čin po sebi razlikuje razlikom istinitoga i lažnoga, kao kad kažemo da je neko mnijenje istinito ili lažno. Stoga su dobra i zla volja čini koji se razlikuju po vrsti. A razlika vrste u činima ravna se prema predmetima, kao što je rečeno. I zato se dobro i zlo u činima volje u vlastitom smislu prosuđuje prema predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da volja nije uvijek volja za istinskim dobrom, nego katkad za prividnim dobrom, koje doduše ima neki pojam dobra, ali ne pojam onoga što je naprosto prikladno da se za njim teži. I zbog toga čin volje nije uvijek dobar, nego katkad zao.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a1.ad2": {
+      "text": "Na drugo treba reći da, premda neki čin na neki način može biti posljednja svrha čovjeka, ipak takav čin nije čin volje, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a1.ad3": {
+      "text": "Na treće treba reći da razum predočuje dobro volji kao predmet; i ukoliko ono potpada pod red razuma, pripada rodu ćudoređa i uzrokuje moralnu dobrotu u činu volje. Razum je, naime, počelo ljudskih i moralnih čina, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da dobrota volje ne ovisi samo o predmetu. Svrha je, naime, srodnija volji nego kojoj drugoj moći. Ali čini drugih moći primaju dobrotu ne samo od predmeta nego i od svrhe, kao što je jasno iz rečenoga. Dakle, i čin volje prima dobrotu ne samo od predmeta nego i od svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a2.obj2": {
+      "text": "Osim toga, dobrota čina nije samo od predmeta nego i od okolnosti, kao što je gore rečeno. Ali prema različitosti okolnosti događa se da postoji različitost dobrote i zloće u činu volje, primjerice da netko hoće kada treba, gdje treba, koliko treba i kako treba, ili pak kako ne treba. Dakle, dobrota volje ne ovisi samo o predmetu nego i o okolnostima.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a2.obj3": {
+      "text": "Osim toga, neznanje okolnosti ispričava zloću volje, kao što je gore utvrđeno. Ali to ne bi bilo tako kad dobrota i zloća volje ne bi ovisile o okolnostima. Dakle, dobrota i zloća volje ovise o okolnostima, a ne samo o predmetu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a2.sc": {
+      "text": "Ali protiv toga, od okolnosti, ukoliko su okolnosti, čin nema vrste, kao što je gore rečeno. Ali dobro i zlo specifične su razlike čina volje, kao što je rečeno. Dakle, dobrota i zloća volje ne ovise o okolnostima, nego samo o predmetu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a2.resp": {
+      "text": "Odgovaram: treba reći da u bilo kojem rodu, što je nešto prvotnije, to je jednostavnije i sastoji se od manje sastojaka, kao što su prva tijela jednostavna. I zato nalazimo da je ono što je prvo u bilo kojem rodu na neki način jednostavno i da se sastoji u jednome. A počelo dobrote i zloće ljudskih čina jest u činu volje. I zato se dobrota i zloća volje prosuđuje prema nečemu jednome, dok se dobrota i zloća drugih čina može prosuđivati prema različitim stvarima. A ono jedno što je počelo u bilo kojem rodu nije akcidentalno, nego po sebi, jer se sve što je akcidentalno svodi na ono što je po sebi kao na počelo. I zato dobrota volje ovisi samo o onom jednome što po sebi čini dobrotu u činu, to jest o predmetu, a ne o okolnostima, koje su neki akcidenti čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je svrha predmet volje, ali ne i drugih snaga. Stoga se, što se tiče čina volje, dobrota koja je od predmeta ne razlikuje od dobrote koja je od svrhe, kao što je to u činima drugih snaga, osim možda akcidentalno, ukoliko svrha ovisi o svrsi, a htijenje o htijenju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a2.ad2": {
+      "text": "Na drugo treba reći da, uz pretpostavku da je volja volja za dobrim, nikakva okolnost ne može učiniti da ona bude zla. Ono, dakle, što se kaže, da netko hoće neko dobro kada ne treba ili gdje ne treba, može se shvatiti na dva načina. Na jedan način tako da se ta okolnost odnosi na ono što se hoće. I tako volja nije volja za dobrim, jer htjeti učiniti nešto kada to ne treba činiti nije htjeti dobro. Na drugi način tako da se odnosi na sam čin htijenja. I tako je nemoguće da netko hoće dobro kada ne treba, jer čovjek uvijek treba htjeti dobro, osim možda akcidentalno, ukoliko je netko, hoteći to dobro, spriječen da tada hoće neko dužno dobro. I tada zlo ne nastaje iz toga što netko hoće ono dobro, nego iz toga što neće drugo dobro. I slično treba reći o ostalim okolnostima.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a2.ad3": {
+      "text": "Na treće treba reći da neznanje okolnosti ispričava zloću volje ukoliko su okolnosti na strani onoga što se hoće, to jest ukoliko netko ne zna okolnosti čina koji hoće.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da dobrota volje ne ovisi o razumu. Ono što je prije, naime, ne ovisi o onome što je kasnije. Ali dobro prije pripada volji nego razumu, kao što je jasno iz rečenoga. Dakle, dobro volje ne ovisi o razumu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a3.obj2": {
+      "text": "Osim toga, Filozof kaže u VI. knjizi Etike da je dobrota praktičnog uma istina koja je u skladu s ispravnom težnjom. A ispravna težnja jest dobra volja. Dakle, dobrota praktičnog razuma više ovisi o dobroti volje nego obratno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a3.obj3": {
+      "text": "Osim toga, pokretač ne ovisi o onome što se pokreće, nego obratno. A volja pokreće razum i druge snage, kao što je gore rečeno. Dakle, dobrota volje ne ovisi o razumu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a3.sc": {
+      "text": "Ali protiv toga jest ono što kaže Hilarije u X. knjizi O Trojstvu: *neumjerena je svaka tvrdoglavost u prihvaćenim htijenjima gdje se volja ne podvrgava razumu*. Ali dobrota volje sastoji se u tome da ne bude neumjerena. Dakle, dobrota volje ovisi o tome da bude podvrgnuta razumu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, dobrota volje u vlastitom smislu ovisi o predmetu. A predmet volje predočuje joj razum. Jer umom shvaćeno dobro jest predmet razmjeran volji; osjetno ili zamišljeno dobro, naprotiv, nije razmjerno volji, nego osjetilnoj težnji, jer volja može smjerati na opće dobro, koje zahvaća razum, dok osjetilna težnja smjera samo na posebno dobro, koje zahvaća osjetilna sila. I zato dobrota volje ovisi o razumu na isti način na koji ovisi o predmetu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da dobro pod pojmom dobra, to jest poželjnoga, prije pripada volji nego razumu. Ali ipak, pod pojmom istinitoga, ono prije pripada razumu nego što pod pojmom poželjnoga pripada volji, jer težnja volje ne može biti usmjerena na dobro ako ga razum prije ne zahvati.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a3.ad2": {
+      "text": "Na drugo treba reći da Filozof ondje govori o praktičnom umu ukoliko promišlja i rasuđuje o onome što vodi k svrsi, jer ga tako usavršava razboritost. A u onome što vodi k svrsi ispravnost razuma sastoji se u suglasnosti s težnjom za dužnom svrhom. Ali ipak i sama težnja za dužnom svrhom pretpostavlja ispravno zahvaćanje svrhe, koje je po razumu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a3.ad3": {
+      "text": "Na treće treba reći da volja na jedan način pokreće razum, a razum na drugi način pokreće volju, naime sa strane predmeta, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da dobrota ljudske volje ne ovisi o vječnom zakonu. Jedna stvar, naime, ima jedno pravilo i jednu mjeru. Ali pravilo ljudske volje, o kojem ovisi njezina dobrota, jest ispravan razum. Dakle, dobrota volje ne ovisi o vječnom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a4.obj2": {
+      "text": "Osim toga, mjera je istorodna s onim što se mjeri, kako se kaže u X. knjizi Metafizike. Ali vječni zakon nije istorodan s ljudskom voljom. Dakle, vječni zakon ne može biti mjera ljudske volje tako da o njemu ovisi njezina dobrota.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a4.obj3": {
+      "text": "Osim toga, mjera mora biti posve sigurna. Ali vječni nam je zakon nepoznat. Dakle, ne može biti mjera naše volje tako da o njemu ovisi dobrota naše volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a4.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u XXII. knjizi Protiv Fausta: *grijeh je nešto učinjeno, rečeno ili požuđeno protiv vječnoga zakona*. A zloća volje korijen je grijeha. Dakle, budući da se zloća protivi dobroti, dobrota volje ovisi o vječnom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a4.resp": {
+      "text": "Odgovaram: treba reći da u svim uređenim uzrocima učinak više ovisi o prvom uzroku nego o drugotnom, jer drugotni uzrok djeluje samo snagom prvoga uzroka. A to što je ljudski razum pravilo ljudske volje, po kojem se mjeri njezina dobrota, ima od vječnoga zakona, koji je Božji razum. Stoga se u četvrtom psalmu kaže: *Mnogi govore: Tko će nam pokazati dobra? Utisnuto je na nama svjetlo lica tvoga, Gospodine*, kao da bi rekao: svjetlo razuma koje je u nama utoliko nam može pokazati dobra i upravljati našu volju ukoliko je svjetlo lica tvoga, to jest izvedeno od lica tvoga. Stoga je očito da dobrota ljudske volje mnogo više ovisi o vječnom zakonu nego o ljudskom razumu, i gdje ljudski razum zakazuje, treba se utjecati vječnom razumu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da jedna stvar nema više najbližih mjera, ali može imati više mjera od kojih je jedna podređena drugoj.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a4.ad2": {
+      "text": "Na drugo treba reći da je najbliža mjera istorodna s onim što se mjeri, ali nije i udaljena mjera.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a4.ad3": {
+      "text": "Na treće treba reći da, premda nam je vječni zakon nepoznat kakav je u Božjem duhu, ipak nam postaje na neki način poznat bilo po naravnom razumu, koji je od njega izveden kao njegova vlastita slika, bilo po nekoj nadodanoj objavi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da volja koja se ne slaže sa zabludjelim razumom nije zla. Razum je, naime, pravilo ljudske volje ukoliko je izveden iz vječnoga zakona, kao što je rečeno. Ali zabludjeli razum nije izveden iz vječnoga zakona. Dakle, zabludjeli razum nije pravilo ljudske volje. Prema tome, volja nije zla ako se ne slaže sa zabludjelim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a5.obj2": {
+      "text": "Osim toga, prema Augustinu, zapovijed niže vlasti ne obvezuje ako se protivi zapovijedi više vlasti, kao kad bi prokonzul naložio nešto što car zabranjuje. Ali zabludjeli razum katkad predlaže nešto što je protiv zapovijedi višega, to jest Boga, kojemu pripada najviša vlast. Dakle, nalog zabludjelog razuma ne obvezuje. Prema tome, volja nije zla ako se ne slaže sa zabludjelim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a5.obj3": {
+      "text": "Osim toga, svaka zla volja svodi se na neku vrstu zloće. Ali volja koja se ne slaže sa zabludjelim razumom ne može se svesti ni na kakvu vrstu zloće; primjerice, ako zabludjeli razum griješi u tome što kaže da treba bludničiti, volja onoga koji neće bludničiti ne može se svesti ni na kakvu zloću. Dakle, volja koja se ne slaže sa zabludjelim razumom nije zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a5.sc": {
+      "text": "Ali protiv toga, kao što je rečeno u Prvom dijelu, savjest nije ništa drugo nego primjena znanja na neki čin. A znanje je u razumu. Dakle, volja koja se ne slaže sa zabludjelim razumom protivna je savjesti. Ali svaka je takva volja zla, jer se u Poslanici Rimljanima, u XIV. poglavlju, kaže: *sve što nije iz vjere grijeh je*, to jest sve što je protiv savjesti. Dakle, volja koja se ne slaže sa zabludjelim razumom jest zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a5.resp": {
+      "text": "Odgovaram: treba reći da, budući da je savjest na neki način nalog razuma (ona je, naime, neka primjena znanja na čin, kao što je rečeno u Prvom dijelu), isto je pitati je li zla volja koja se ne slaže sa zabludjelim razumom kao i pitati obvezuje li zabludjela savjest. U vezi s tim neki su razlikovali tri roda čina: neki su, naime, dobri po rodu, neki su indiferentni, a neki su zli po rodu. Kažu, dakle, da ako razum ili savjest kaže da treba učiniti nešto što je dobro po svom rodu, tu nema zablude. Isto tako ako kaže da ne treba činiti nešto što je zlo po svom rodu, jer se s istog razloga zapovijeda dobro s kojeg se zabranjuje zlo. Ali ako razum ili savjest nekomu kaže da je čovjek po zapovijedi dužan činiti ono što je samo po sebi zlo, ili da je zabranjeno ono što je samo po sebi dobro, razum ili savjest bit će zabludjeli. I slično, ako razum ili savjest nekomu kaže da je ono što je samo po sebi indiferentno, kao podići slamku sa zemlje, zabranjeno ili zapovjeđeno, razum ili savjest bit će zabludjeli. Kažu, dakle, da razum ili savjest koji su u zabludi glede indiferentnih stvari, bilo da zapovijedaju bilo da zabranjuju, obvezuju, tako da će volja koja se ne slaže s takvim zabludjelim razumom biti zla i grijeh. Ali razum ili savjest koji su u zabludi tako što zapovijedaju ono što je po sebi zlo ili zabranjuju ono što je po sebi dobro i nužno za spasenje ne obvezuju; stoga u takvim stvarima volja koja se ne slaže sa zabludjelim razumom ili savješću nije zla. Ali to se govori nerazumno. U indiferentnim stvarima, naime, volja koja se ne slaže sa zabludjelim razumom ili savješću na neki je način zla zbog predmeta, o kojemu ovisi dobrota ili zloća volje; ali ne zbog predmeta prema njegovoj naravi, nego ukoliko ga razum akcidentalno zahvaća kao zlo koje treba činiti ili izbjegavati. A budući da je predmet volje ono što predlaže razum, kao što je rečeno, čim razum nešto predloži kao zlo, volja, dok se na to upravlja, poprima pojam zla. A to se događa ne samo u indiferentnim stvarima nego i u onima koje su po sebi dobre ili zle. Ne samo, naime, ono što je indiferentno može akcidentalno poprimiti pojam dobra ili zla, nego i ono što je dobro može poprimiti pojam zla, ili ono što je zlo pojam dobra, zbog zahvaćanja razuma. Primjerice, uzdržavati se od bluda neko je dobro, ali se volja na to dobro ne upravlja osim ukoliko ga razum predlaže. Ako ga, dakle, zabludjeli razum predloži kao zlo, volja će se na nj upravljati pod pojmom zla. Stoga će volja biti zla, jer hoće zlo, ne doduše ono što je zlo po sebi, nego ono što je zlo akcidentalno, zbog zahvaćanja razuma. I slično, vjerovati u Krista po sebi je dobro i nužno za spasenje, ali se volja na to ne upravlja osim ukoliko to razum predlaže. Stoga, ako to razum predloži kao zlo, volja će se na to upravljati kao na zlo, ne zato što bi to bilo zlo samo po sebi, nego zato što je zlo akcidentalno, zbog zahvaćanja razuma. I zato Filozof kaže u VII. knjizi Etike da, govoreći po sebi, *neuzdržljiv je onaj koji ne slijedi ispravan razum, a akcidentalno onaj koji ne slijedi čak ni lažan razum*. Stoga treba naprosto reći da je svaka volja koja se ne slaže s razumom, bio on ispravan ili zabludjeli, uvijek zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda sud zabludjelog razuma nije izveden od Boga, ipak zabludjeli razum predlaže svoj sud kao istinit, a posljedično kao izveden od Boga, od kojega je sva istina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a5.ad2": {
+      "text": "Na drugo treba reći da Augustinova riječ vrijedi kad se zna da niža vlast zapovijeda nešto protiv zapovijedi više vlasti. Ali kad bi netko vjerovao da je prokonzulova zapovijed careva zapovijed, prezirući prokonzulovu zapovijed prezirao bi carevu zapovijed. I slično, kad bi neki čovjek znao da ljudski razum nalaže nešto protiv Božje zapovijedi, ne bi bio dužan slijediti razum; ali tada razum ne bi bio posve u zabludi. Ali kad zabludjeli razum predlaže nešto kao Božju zapovijed, tada je isto prezreti nalog razuma i Božju zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a5.ad3": {
+      "text": "Na treće treba reći da razum, kad nešto zahvaća kao zlo, uvijek to zahvaća pod nekim pojmom zla, primjerice zato što se protivi Božjoj zapovijedi, ili zato što je sablazan, ili zbog nečega takvoga. I tada se takva zla volja svodi na takvu vrstu zloće.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je volja koja se slaže sa zabludjelim razumom dobra. Kao što, naime, volja koja se ne slaže s razumom smjera na ono što razum prosuđuje kao zlo, tako volja koja se slaže s razumom smjera na ono što razum prosuđuje kao dobro. Ali volja koja se ne slaže s razumom, pa i zabludjelim, jest zla. Dakle, volja koja se slaže s razumom, pa i zabludjelim, jest dobra.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a6.obj2": {
+      "text": "Osim toga, volja koja se slaže s Božjom zapovijedi i vječnim zakonom uvijek je dobra. Ali vječni zakon i Božja zapovijed predlažu nam se po zahvaćanju razuma, pa i zabludjelog. Dakle, volja koja se slaže i sa zabludjelim razumom jest dobra.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a6.obj3": {
+      "text": "Osim toga, volja koja se ne slaže sa zabludjelim razumom jest zla. Ako je, dakle, i volja koja se slaže sa zabludjelim razumom zla, čini se da je zla svaka volja onoga koji ima zabludjeli razum. I tako će takav čovjek biti u bezizlaznom položaju i nužno će griješiti, što je neprikladno. Dakle, volja koja se slaže sa zabludjelim razumom jest dobra.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a6.sc": {
+      "text": "Ali protiv toga, volja onih koji su ubijali apostole bila je zla. Ali ipak se slagala s njihovim zabludjelim razumom, prema onome u Ivanu, u XVI. poglavlju: *dolazi čas da će svaki koji vas ubija misliti da Bogu iskazuje službu*. Dakle, volja koja se slaže sa zabludjelim razumom može biti zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a6.resp": {
+      "text": "Odgovaram: treba reći da, kao što je prethodno pitanje isto s pitanjem kojim se pita obvezuje li zabludjela savjest, tako je ovo pitanje isto s onim kojim se pita ispričava li zabludjela savjest. A ovo pitanje ovisi o onome što je gore rečeno o neznanju. Gore je, naime, rečeno da neznanje katkad uzrokuje protuvoljno, a katkad ne. I budući da se moralno dobro i zlo sastoji u činu ukoliko je voljan, kao što je jasno iz prethodnoga, očito je da ono neznanje koje uzrokuje protuvoljno uklanja pojam moralnog dobra i zla, ali ne i ono koje ne uzrokuje protuvoljno. Gore je također rečeno da neznanje koje je na neki način htjeno, bilo izravno bilo neizravno, ne uzrokuje protuvoljno. A izravno voljnim neznanjem nazivam ono na koje se upravlja čin volje, a neizravno voljnim ono koje je zbog nemara, time što netko neće znati ono što je dužan znati, kao što je gore rečeno. Ako, dakle, razum ili savjest griješi voljnom zabludom, bilo izravno bilo zbog nemara, jer je to zabluda o onome što je netko dužan znati, tada takva zabluda razuma ili savjesti ne ispričava, nego je volja koja se slaže s razumom ili savješću koji su tako u zabludi zla. Ako je pak to zabluda koja uzrokuje protuvoljno, jer proizlazi iz neznanja neke okolnosti bez ikakva nemara, tada takva zabluda razuma ili savjesti ispričava, tako da volja koja se slaže sa zabludjelim razumom nije zla. Primjerice, ako zabludjeli razum kaže da je čovjek dužan pristupiti ženi drugoga, volja koja se slaže s tim zabludjelim razumom jest zla, zato što ta zabluda proizlazi iz neznanja Božjega zakona, koji je dužan znati. Ako pak razum griješi u tome što vjeruje da je neka podmetnuta žena njegova supruga, i on, kad ona zatraži bračnu dužnost, hoće je spoznati, njegova je volja ispričana, tako da nije zla, jer ta zabluda proizlazi iz neznanja okolnosti, koje ispričava i uzrokuje protuvoljno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Dionizije u IV. poglavlju knjige O božanskim imenima, *dobro je uzrokovano iz cjelovita uzroka, a zlo iz pojedinačnih nedostataka*. I zato, da bi se ono na što se upravlja volja nazvalo zlim, dovoljno je bilo da je zlo po svojoj naravi, bilo da se zahvaća kao zlo. A da bi bilo dobro, zahtijeva se da bude dobro na oba načina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a6.ad2": {
+      "text": "Na drugo treba reći da vječni zakon ne može zabluditi, ali ljudski razum može zabluditi. I zato volja koja se slaže s ljudskim razumom nije uvijek ispravna, niti se uvijek slaže s vječnim zakonom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a6.ad3": {
+      "text": "Na treće treba reći da, kao što u silogistici, kad se dopusti jedna neprikladnost, nužno slijede i druge, tako i u moralnim stvarima, kad se postavi jedna neprikladnost, nužno slijede i druge. Primjerice, uz pretpostavku da netko traži ispraznu slavu, griješit će bilo da zbog isprazne slave učini ono što je dužan učiniti, bilo da to propusti. Ali ipak nije u bezizlaznom položaju, jer može napustiti zlu nakanu. I slično, uz pretpostavku zablude razuma ili savjesti koja proizlazi iz neznanja koje ne ispričava, nužno je da u volji slijedi zlo. Ali ipak čovjek nije u bezizlaznom položaju, jer se može odvratiti od zablude, budući da je neznanje savladivo i voljno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da dobrota volje ne ovisi o nakani svrhe. Gore je, naime, rečeno da dobrota volje ovisi samo o predmetu. Ali u onome što vodi k svrsi jedno je predmet volje, a drugo svrha na koju se smjera. Dakle, u takvim stvarima dobrota volje ne ovisi o nakani svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a7.obj2": {
+      "text": "Osim toga, htjeti obdržavati Božju zapovijed pripada dobroj volji. Ali to se može odnositi na zlu svrhu, naime na svrhu isprazne slave ili žudnje, kad netko hoće slušati Boga zato da postigne vremenita dobra. Dakle, dobrota volje ne ovisi o nakani svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a7.obj3": {
+      "text": "Osim toga, kao što dobro i zlo čine razliku u volji, tako čine razliku i u svrsi. Ali zloća volje ne ovisi o zloći svrhe na koju se smjera: tko, naime, hoće krasti da bi dao milostinju, ima zlu volju, premda smjera na dobru svrhu. Dakle, ni dobrota volje ne ovisi o dobroti svrhe na koju se smjera.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a7.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u IX. knjizi Ispovijesti, da Bog nagrađuje nakanu. Ali Bog nešto nagrađuje zato što je dobro. Dakle, dobrota volje ovisi o nakani svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a7.resp": {
+      "text": "Odgovaram: treba reći da se nakana prema htijenju može odnositi na dva načina: na jedan način kao ono što mu prethodi, na drugi način kao ono što ga prati. Nakana uzročno prethodi htijenju kad nešto hoćemo zbog nakane neke svrhe. I tada se usmjerenost prema svrsi smatra nekim razlogom dobrote samoga htjenoga, primjerice kad netko hoće postiti radi Boga: post, naime, ima pojam dobra upravo po tome što se čini radi Boga. Stoga, budući da dobrota volje ovisi o dobroti htjenoga, kao što je gore rečeno, nužno je da ovisi o nakani svrhe. A nakana slijedi htijenje kad pristupa već postojećem htijenju, primjerice ako netko hoće nešto učiniti, a poslije to odnese na Boga. I tada dobrota prvoga htijenja ne ovisi o naknadnoj nakani, osim ukoliko se čin volje ponavlja s naknadnom nakanom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kad je nakana uzrok htijenja, usmjerenost prema svrsi uzima kao neki razlog dobrote u predmetu, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a7.ad2": {
+      "text": "Na drugo treba reći da se volja ne može nazvati dobrom ako je zla nakana uzrok htijenja. Tko, naime, hoće dati milostinju da bi postigao ispraznu slavu, hoće ono što je samo po sebi dobro pod pojmom zla, i zato je to, kako ga on hoće, zlo. Stoga je njegova volja zla. Ali ako je nakana naknadna, tada je volja mogla biti dobra, i naknadnom se nakanom ne izopačuje onaj čin volje koji je prethodio, nego čin volje koji se ponavlja.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a7.ad3": {
+      "text": "Na treće treba reći da, kao što je već rečeno, zlo nastaje iz pojedinačnih nedostataka, a dobro iz potpunog i cjelovitog uzroka. Stoga, bilo da je volja usmjerena na ono što je samo po sebi zlo, pa i pod pojmom dobra, bilo da je usmjerena na dobro pod pojmom zla, volja će uvijek biti zla. Ali da bi volja bila dobra, zahtijeva se da bude usmjerena na dobro pod pojmom dobra, to jest da hoće dobro i to radi dobra.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da kolikoća dobrote u volji ovisi o kolikoći dobrote u nakani. Jer uz ono u Mateju, u XII. poglavlju, *dobar čovjek iz dobre riznice srca svoga iznosi dobro*, Glosa kaže: koliko netko smjera dobra, toliko ga i čini. Ali nakana daje dobrotu ne samo vanjskom činu nego i volji, kao što je rečeno. Dakle, netko ima toliko dobru volju koliko smjera na dobro.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a8.obj2": {
+      "text": "Osim toga, kad se poveća uzrok, povećava se i učinak. Ali dobrota nakane uzrok je dobre volje. Dakle, koliko netko smjera na dobro, toliko je volja dobra.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a8.obj3": {
+      "text": "Osim toga, u zlim stvarima netko toliko griješi koliko smjera: ako bi, naime, netko, bacajući kamen, smjerao počiniti ubojstvo, bio bi kriv za ubojstvo. Dakle, s istog razloga, u dobrim stvarima volja je toliko dobra koliko netko smjera na dobro.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a8.sc": {
+      "text": "Ali protiv toga, može biti dobra nakana, a zla volja. Dakle, s istog razloga, može biti bolja nakana, a manje dobra volja.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a8.resp": {
+      "text": "Odgovaram: treba reći da se glede čina i nakane svrhe može razmatrati dvostruka kolikoća: jedna sa strane predmeta, jer netko hoće ili čini veće dobro; druga po jakosti čina, jer netko snažno hoće ili čini, što je veće sa strane djelatnika. Ako, dakle, govorimo o kolikoći jednoga i drugoga s obzirom na predmet, očito je da kolikoća čina ne slijedi kolikoću nakane. To se, doduše, sa strane vanjskoga čina može dogoditi na dva načina. Na jedan način zato što predmet koji je usmjeren prema svrsi na koju se smjera nije razmjeran toj svrsi, kao kad netko, dajući deset funti, ne bi mogao postići svoju nakanu ako bi smjerao kupiti stvar koja vrijedi stotinu funti. Na drugi način zbog zapreka koje mogu iskrsnuti glede vanjskoga čina, a koje nije u našoj vlasti ukloniti; primjerice, netko smjera ići sve do Rima, a nailaze mu zapreke, tako da to ne može učiniti. Ali sa strane unutarnjega čina volje to se događa samo na jedan način, jer su unutarnji čini volje u našoj vlasti, a vanjski čini nisu. Ali volja može htjeti neki predmet koji nije razmjeran svrsi na koju se smjera, i tako volja koja se upravlja na taj predmet, razmatran sam po sebi, nije toliko dobra koliko je nakana. Ali budući da i sama nakana na neki način pripada činu volje, naime ukoliko je njegov razlog, zbog toga se kolikoća dobre nakane prelijeva na volju, naime ukoliko volja hoće neko veliko dobro kao svrhu, premda ono po čemu hoće postići toliko dobro nije dostojno toga dobra. Ako se pak razmatra kolikoća nakane i čina prema jakosti jednoga i drugoga, tada se jakost nakane prelijeva na unutarnji i vanjski čin volje, jer se sama nakana na neki način odnosi formalno prema jednome i drugome, kao što je jasno iz gore rečenoga. Premda tvarno, dok je nakana jaka, unutarnji ili vanjski čin može biti ne tako jak, tvarno govoreći, primjerice kad netko ne hoće uzeti lijek tako snažno kao što hoće zdravlje. Ipak se samo to što netko snažno smjera na zdravlje formalno prelijeva na to da snažno hoće lijek. Ali ipak treba uzeti u obzir i to da se jakost unutarnjega ili vanjskoga čina može odnositi na nakanu kao predmet, primjerice kad netko smjera snažno htjeti ili nešto snažno činiti. I ipak zbog toga ne hoće ili ne čini snažno, jer dobrota unutarnjega ili vanjskoga čina ne slijedi kolikoću dobra na koje se smjera, kao što je rečeno. I odatle dolazi da netko ne zaslužuje onoliko koliko smjera zaslužiti, jer se kolikoća zasluge sastoji u jakosti čina, kao što će se niže reći.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da ona Glosa govori s obzirom na prosudbu Boga, koji ponajprije gleda na nakanu svrhe. Stoga druga Glosa ondje kaže da je *riznica srca nakana, po kojoj Bog sudi djela*. Dobrota nakane, naime, kao što je rečeno, na neki se način prelijeva na dobrotu volje, koja i vanjski čin čini zaslužnim pred Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a8.ad2": {
+      "text": "Na drugo treba reći da dobrota nakane nije potpuni uzrok dobre volje. Stoga dokaz ne stoji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a8.ad3": {
+      "text": "Na treće treba reći da je sama zloća nakane dovoljna za zloću volje, i zato je volja toliko zla koliko je zla nakana. Ali za dobrotu ne vrijedi isti razlog, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da dobrota ljudske volje ne ovisi o suobličenosti s Božjom voljom. Nemoguće je, naime, da se volja čovjeka suobliči Božjoj volji, kao što je jasno iz onoga što se kaže u Izaiji, u LV. poglavlju: *kao što su nebesa uzvišena nad zemljom, tako su uzvišeni putovi moji nad putovima vašim i misli moje nad mislima vašim*. Kad bi se, dakle, za dobrotu volje zahtijevala suobličenost s Božjom voljom, slijedilo bi da je nemoguće da volja čovjeka bude dobra. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a9.obj2": {
+      "text": "Osim toga, kao što je naša volja izvedena iz Božje volje, tako je i naše znanje izvedeno iz Božjega znanja. Ali za naše se znanje ne zahtijeva da bude suobličeno Božjem znanju: mnogo toga, naime, Bog zna što mi ne znamo. Dakle, ne zahtijeva se da naša volja bude suobličena Božjoj volji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a9.obj3": {
+      "text": "Osim toga, volja je počelo radnje. Ali naša se radnja ne može suobličiti Božjoj radnji. Dakle, ni volja volji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a9.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Mateju, u XXVI. poglavlju: *ne kako ja hoću, nego kako ti hoćeš*, što on kaže zato što hoće da čovjek bude ispravan i usmjeren prema Bogu, kako tumači Augustin u Enchiridionu. A ispravnost volje jest njezina dobrota. Dakle, dobrota volje ovisi o suobličenosti s Božjom voljom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a9.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, dobrota volje ovisi o nakani svrhe. A posljednja svrha ljudske volje jest najviše dobro, koje je Bog, kao što je gore rečeno. Za dobrotu ljudske volje zahtijeva se, dakle, da bude usmjerena prema najvišem dobru, koje je Bog. A to se dobro prvotno i po sebi odnosi prema Božjoj volji kao njezin vlastiti predmet. A ono što je prvo u bilo kojem rodu jest mjera i razlog svega što pripada tomu rodu. A svaka je stvar ispravna i dobra ukoliko dosiže svoju vlastitu mjeru. Dakle, da bi volja čovjeka bila dobra, zahtijeva se da bude suobličena Božjoj volji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da se volja čovjeka ne može suobličiti Božjoj volji po izjednačenju, nego po nasljedovanju. I slično se znanje čovjeka suobličuje Božjem znanju ukoliko spoznaje istinito. I radnja čovjeka Božjoj radnji ukoliko je primjerena djelatniku. I to po nasljedovanju, a ne po izjednačenju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a9.ad2": {
+      "text": "Odatle je jasno rješenje drugoga i trećega argumenta.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da se volja čovjeka ne mora uvijek suobličiti Božjoj volji u htjenome. Ne možemo, naime, htjeti ono što ne znamo, jer je zahvaćeno dobro predmet volje. Ali što Bog hoće, u većini stvari ne znamo. Dakle, ljudska se volja ne može suobličiti Božjoj volji u htjenome.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.obj2": {
+      "text": "Osim toga, Bog hoće osuditi nekoga za koga predznaje da će umrijeti u smrtnom grijehu. Kad bi, dakle, čovjek bio dužan suobličiti svoju volju Božjoj volji u htjenome, slijedilo bi da je čovjek dužan htjeti svoju osudu. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.obj3": {
+      "text": "Osim toga, nitko nije dužan htjeti nešto što je protiv sinovske odanosti. Ali kad bi čovjek htio ono što Bog hoće, to bi katkad bilo protiv sinovske odanosti; primjerice, kad Bog hoće da nečiji otac umre, kad bi sin htio to isto, bilo bi to protiv sinovske odanosti. Dakle, čovjek nije dužan suobličiti svoju volju Božjoj volji u htjenome.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.sc1": {
+      "text": "Ali protiv toga jest to što uz ono iz XXXII. psalma, *pravima dolikuje hvala*, Glosa kaže: *pravo srce ima onaj koji hoće ono što Bog hoće*. Ali svatko je dužan imati pravo srce. Dakle, svatko je dužan htjeti ono što Bog hoće.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.sc2": {
+      "text": "Osim toga, forma volje je od predmeta, kao i forma svakoga čina. Ako je, dakle, čovjek dužan suobličiti svoju volju Božjoj volji, slijedi da je dužan suobličiti je u htjenome.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.sc3": {
+      "text": "Osim toga, nesuglasje volja sastoji se u tome da ljudi hoće različite stvari. Ali tko god ima volju koja se protivi Božjoj volji, ima zlu volju. Dakle, tko god ne suobličuje svoju volju Božjoj volji u htjenome, ima zlu volju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je jasno iz rečenoga, volja upravlja na svoj predmet onako kako joj ga predlaže razum. A događa se da razum nešto razmatra na različite načine, tako da je pod jednim pojmom dobro, a prema drugom pojmu nije dobro. I zato je volja nekoga, ako hoće da to bude ukoliko ima pojam dobra, dobra; a i volja drugoga, ako hoće da to isto ne bude ukoliko ima pojam zla, bit će također dobra volja. Tako sudac ima dobru volju kad hoće smaknuće razbojnika, jer je ono pravedno, a volja drugoga, primjerice žene ili sina, koji neće da on bude ubijen, ukoliko je ubijanje po naravi zlo, također je dobra. A budući da volja slijedi zahvaćanje razuma ili uma, ukoliko je pojam zahvaćenog dobra općenitiji, utoliko se i volja upravlja na općenitije dobro. Kao što je jasno u navedenom primjeru: sudac, naime, ima brigu za opće dobro, koje je pravednost, i zato hoće smaknuće razbojnika, koje ima pojam dobra u odnosu prema stanju zajednice; a razbojnikova žena treba razmatrati privatno dobro obitelji, i prema tome hoće da njezin muž razbojnik ne bude ubijen. A dobro cijeloga svemira jest ono što zahvaća Bog, koji je tvorac i upravitelj svemira; stoga što god hoće, hoće pod pojmom općega dobra, koje je njegova dobrota, a ona je dobro cijeloga svemira. A zahvaćanje stvora, prema njegovoj naravi, jest zahvaćanje nekog posebnog dobra razmjernog njegovoj naravi. Događa se pak da je nešto dobro prema posebnom pojmu, a nije dobro prema općem pojmu, ili obratno, kao što je rečeno. I zato se događa da je neka volja dobra dok hoće nešto razmatrano prema posebnom pojmu, a što ipak Bog neće prema općem pojmu, i obratno. I odatle također dolazi da različita htijenja različitih ljudi glede suprotstavljenih stvari mogu biti dobra, ukoliko pod različitim posebnim pojmovima hoće da ovo bude ili ne bude. Ali nije ispravna volja nekog čovjeka koji hoće neko posebno dobro ako ga ne odnosi na opće dobro kao na svrhu, budući da je i naravna težnja svakoga dijela usmjerena prema općem dobru cjeline. A iz svrhe se uzima takoreći formalni razlog htijenja onoga što je usmjereno prema svrsi. Stoga, da bi netko ispravnom voljom htio neko posebno dobro, potrebno je da to posebno dobro bude htjeno tvarno, a opće Božje dobro da bude htjeno formalno. Ljudska je volja, dakle, dužna suobličiti se Božjoj volji u htjenome formalno, jer je dužna htjeti Božje i opće dobro, ali ne tvarno, zbog već navedenog razloga. Ali ipak se s obzirom na jedno i drugo ljudska volja na neki način suobličuje Božjoj volji. Jer ukoliko se suobličuje Božjoj volji u općem pojmu htjenoga, suobličuje joj se u posljednjoj svrsi. A ukoliko joj se ne suobličuje tvarno u htjenome, suobličuje joj se po pojmu tvornog uzroka, jer tu vlastitu sklonost koja slijedi narav, ili posebno zahvaćanje ove stvari, stvar ima od Boga kao od tvornog uzroka. Stoga se običava reći da se u tom pogledu volja čovjeka suobličuje Božjoj volji, jer hoće ono što Bog hoće da on hoće. Postoji i drugi način suobličenosti, po pojmu formalnog uzroka, naime da čovjek nešto hoće iz ljubavi, kao što Bog hoće. I ta se suobličenost također svodi na formalnu suobličenost koja se prosuđuje po usmjerenosti prema posljednjoj svrsi, koja je vlastiti predmet ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da možemo znati kakvo je ono što Bog hoće prema općem pojmu. Znamo, naime, da Bog što god hoće, hoće pod pojmom dobra. I zato tko god hoće nešto pod bilo kojim pojmom dobra, ima volju suobličenu Božjoj volji s obzirom na pojam htjenoga. Ali u pojedinostima ne znamo što Bog hoće. I s obzirom na to nismo dužni suobličiti svoju volju Božjoj volji. U stanju slave, međutim, svi će u svemu pojedinom što budu htjeli vidjeti njegovu usmjerenost prema onome što Bog o tome hoće. I zato će ne samo formalno nego i tvarno u svemu suobličiti svoju volju Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.ad2": {
+      "text": "Na drugo treba reći da Bog ne hoće ničiju osudu pod pojmom osude, niti ičiju smrt ukoliko je smrt, *jer on hoće da se svi ljudi spase*, nego to hoće pod pojmom pravednosti. Stoga je u takvim stvarima dovoljno da čovjek hoće da se obdrže Božja pravednost i red naravi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.ad3": {
+      "text": "Odatle je jasno rješenje trećega.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.ad4": {
+      "text": "Na prvo pak što je bilo izneseno u prilog suprotnome treba reći da više hoće ono što Bog hoće onaj koji suobličuje svoju volju Božjoj volji s obzirom na pojam htjenoga nego onaj koji je suobličuje s obzirom na samu htjenu stvar, jer se volja prvotnije upravlja na svrhu nego na ono što vodi k svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.ad5": {
+      "text": "Na drugo treba reći da se vrsta i forma čina više prosuđuju prema pojmu predmeta nego prema onome što je tvarno u predmetu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q19.a10.ad6": {
+      "text": "Na treće treba reći da nema nesuglasja volja kad neki hoće različite stvari, ali ne pod istim pojmom. Ali kad bi jedan htio nešto pod jednim pojmom, a drugi to ne bi htio, to bi dovelo do nesuglasja volja. A to ovdje nije slučaj.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 16,
+  "units": {
+    "I-II.q16.pr": {
+      "text": "Zatim treba razmotriti upotrebu. I u vezi s tim postavljaju se četiri pitanja. Prvo, je li služiti se čin volje. Drugo, pristaje li nerazumnim životinjama. Treće, odnosi li se samo na ono što vodi k svrsi ili i na svrhu. Četvrto, o redu upotrebe prema izboru.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da služiti se nije čin volje. Augustin, naime, kaže u I. knjizi O kršćanskom nauku da *služiti se znači ono što je došlo u upotrebu odnositi prema postizanju nečega drugoga*. Ali odnositi nešto prema drugome pripada razumu, kojemu pripada uspoređivati i usmjeravati. Dakle, služiti se jest čin razuma. Nije, dakle, čin volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a1.obj2": {
+      "text": "Osim toga, Damaščanin kaže da se *čovjek porivom upućuje na djelovanje, i to se zove poriv; zatim se služi, i to se zove upotreba*. Ali djelovanje pripada izvršnoj moći. A čin volje ne slijedi za činom izvršne moći, nego je izvršenje posljednje. Dakle, upotreba nije čin volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a1.obj3": {
+      "text": "Osim toga, Augustin kaže u knjizi Osamdeset i tri pitanja: *sve što je stvoreno, stvoreno je na upotrebu čovjeku, jer se svime, sudeći o tome, služi razum koji je dan ljudima*. Ali suditi o stvarima koje je Bog stvorio pripada spekulativnom razumu, koji se čini posve odijeljenim od volje, koja je počelo ljudskih čina. Dakle, služiti se nije čin volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u X. knjizi O Trojstvu: *služiti se znači uzeti nešto u raspolaganje volje*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a1.resp": {
+      "text": "Odgovaram: treba reći da upotreba neke stvari uključuje primjenu te stvari na neko djelovanje; zato se i djelovanje na koje primjenjujemo neku stvar naziva njezinom upotrebom, kao što je jahanje upotreba konja, a udaranje upotreba štapa. A na djelovanje primjenjujemo i unutarnja počela djelovanja, naime same moći duše ili udove tijela, kao um na shvaćanje i oko na gledanje, a i vanjske stvari, kao štap na udaranje. Ali očito je da vanjske stvari ne primjenjujemo ni na kakvo djelovanje osim po unutarnjim počelima, a to su moći duše, ili habitusi moći, ili organi, koji su udovi tijela. A gore je pokazano da je volja ono što pokreće moći duše na njihove čine, a to znači primjenjivati ih na djelovanje. Stoga je očito da služiti se prvotno i glavno pripada volji kao prvom pokretaču, razumu kao onome koji usmjerava, a drugim moćima kao onima koje izvršavaju, a one se prema volji, od koje bivaju primijenjene na djelovanje, odnose kao oruđa prema glavnom djelatniku. A radnja se u vlastitom smislu ne pripisuje oruđu, nego glavnom djelatniku, kao što se gradnja pripisuje graditelju, a ne oruđima. Stoga je očito da je služiti se u vlastitom smislu čin volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da razum doduše odnosi prema drugome, ali volja teži prema onome što je razum odnio prema drugome. I prema tome se kaže da služiti se znači odnositi nešto prema drugome.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a1.ad2": {
+      "text": "Na drugo treba reći da Damaščanin govori o upotrebi ukoliko ona pripada izvršnim moćima.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a1.ad3": {
+      "text": "Na treće treba reći da i sam spekulativni razum volja primjenjuje na djelo shvaćanja ili suđenja. I zato se za spekulativni um kaže da se služi, kao onaj kojega pokreće volja, kao i druge izvršne moći.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da služiti se pristaje nerazumnim životinjama. Uživati je, naime, plemenitije nego služiti se, jer, kako kaže Augustin u X. knjizi O Trojstvu, *služimo se onim što odnosimo prema nečemu drugome čime treba uživati*. Ali uživati pristaje nerazumnim životinjama, kako je gore rečeno. Dakle, mnogo im više pristaje služiti se.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a2.obj2": {
+      "text": "Osim toga, primjenjivati udove na djelovanje znači služiti se udovima. Ali nerazumne životinje primjenjuju udove na to da nešto čine, kao noge na hodanje, rogove na udaranje. Dakle, nerazumnim životinjama pristaje služiti se.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Osamdeset i tri pitanja: *nekom se stvari ne može služiti nijedno živo biće osim onoga koje ima udjela u razumu*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, služiti se znači primjenjivati neko počelo radnje na radnju, kao što pristati znači primjenjivati težnjeni pokret na to da se za nečim teži, kako je rečeno. A primijeniti nešto na drugo može samo onaj koji ima moć odlučivanja nad tim, a to može samo onaj koji zna nešto odnositi prema drugome, što pripada razumu. I zato samo razumsko živo biće i pristaje i služi se.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da uživati uključuje apsolutni pokret težnje prema poželjnome, a služiti se uključuje pokret težnje prema nečemu s obzirom na nešto drugo. Ako se, dakle, služiti se i uživati usporede s obzirom na predmete, tada je uživati plemenitije nego služiti se, jer ono što je apsolutno poželjno bolje je od onoga što je poželjno samo s obzirom na nešto drugo. Ali ako se usporede s obzirom na zahvatnu silu koja im prethodi, veća se plemenitost zahtijeva na strani upotrebe, jer usmjeriti nešto prema drugome pripada razumu, a apsolutno nešto zahvatiti može i osjetilo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a2.ad2": {
+      "text": "Na drugo treba reći da životinje svojim udovima nešto čine po naravnom nagonu, a ne po tome što bi spoznavale usmjerenost udova prema tim djelovanjima. Stoga se za njih u vlastitom smislu ne kaže da primjenjuju udove na djelovanje, ni da se služe udovima.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da upotreba može biti i posljednje svrhe. Augustin, naime, kaže u X. knjizi O Trojstvu: *svatko tko uživa, služi se*. Ali posljednjom svrhom netko uživa. Dakle, posljednjom se svrhom netko služi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a3.obj2": {
+      "text": "*Osim toga, služiti se znači uzeti nešto u raspolaganje volje*, kako se ondje kaže. Ali ništa volja ne uzima više nego posljednju svrhu. Dakle, upotreba može biti posljednje svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a3.obj3": {
+      "text": "Osim toga, Hilarije kaže u II. knjizi O Trojstvu da je vječnost u Ocu, obličje u Slici, to jest u Sinu, upotreba u Daru, to jest u Duhu Svetome. Ali Duh Sveti, budući da je Bog, jest posljednja svrha. Dakle, posljednjom se svrhom može služiti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Osamdeset i tri pitanja: *Bogom se nitko ispravno ne služi, nego njime uživa*. Ali samo je Bog posljednja svrha. Dakle, posljednjom se svrhom ne treba služiti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a3.resp": {
+      "text": "Odgovaram: treba reći da služiti se, kako je rečeno, uključuje primjenu nečega na nešto. A ono što se primjenjuje na drugo, ima pojam onoga što vodi k svrsi. I zato se služiti uvijek odnosi na ono što vodi k svrsi. Zbog toga se i ono što je prikladno za svrhu naziva upotrebljivim; a i sama se upotrebljivost katkad naziva upotrebom. Ali treba uzeti u obzir da se posljednja svrha kaže na dva načina: na jedan način naprosto, a na drugi način s obzirom na nekoga. Budući da se, naime, kako je gore rečeno, svrhom katkad naziva stvar, a katkad stjecanje stvari ili njezino posjedovanje, kao što je škrtcu svrha ili novac ili posjedovanje novca, očito je da je, naprosto govoreći, posljednja svrha sama stvar; jer posjedovanje novca nije dobro osim zbog dobra novca. Ali s obzirom na ovoga čovjeka, stjecanje novca jest posljednja svrha; jer škrtac ne bi tražio novac kad ne bi htio da ga ima. Dakle, naprosto i u vlastitom smislu govoreći, neki čovjek uživa novcem, jer u njemu postavlja posljednju svrhu; ali ukoliko ga odnosi prema posjedovanju, kaže se da se njime služi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori o upotrebi općenito, ukoliko ona uključuje usmjerenost svrhe prema samom uživanju svrhe, koje netko traži od svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a3.ad2": {
+      "text": "Na drugo treba reći da se svrha uzima u raspolaganje volje zato da se volja u njoj smiri. Stoga se samo smirenje u svrsi, koje je uživanje, na taj način naziva upotrebom svrhe. Ali ono što vodi k svrsi, uzima se u raspolaganje volje ne samo s obzirom na upotrebu onoga što vodi k svrsi, nego s obzirom na drugu stvar, u kojoj se volja smiruje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a3.ad3": {
+      "text": "Na treće treba reći da se upotreba u Hilarijevim riječima uzima za smirenje u posljednjoj svrsi, na onaj način na koji se, općenito govoreći, za nekoga kaže da se služi svrhom da bi je postigao, kako je rečeno. Zato Augustin u VI. knjizi O Trojstvu kaže da *onu ljubav, nasladu, sreću ili blaženstvo on naziva upotrebom*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da upotreba prethodi izboru. Nakon izbora, naime, ne slijedi ništa osim izvršenja. Ali upotreba, budući da pripada volji, prethodi izvršenju. Dakle, prethodi i izboru.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a4.obj2": {
+      "text": "Osim toga, apsolutno je prije odnosnoga. Dakle, ono što je manje odnosno, prije je onoga što je više odnosno. Ali izbor uključuje dva odnosa: jedan, onoga što se bira, prema svrsi, a drugi prema onome pred čim se to bira; upotreba pak uključuje samo odnos prema svrsi. Dakle, upotreba je prije izbora.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a4.obj3": {
+      "text": "Osim toga, volja se služi drugim moćima ukoliko ih pokreće. Ali volja pokreće i samu sebe, kako je rečeno. Dakle, služi se i samom sobom, primjenjujući sebe na djelovanje. Ali to čini kad pristaje. Dakle, u samom pristanku je upotreba. Ali pristanak prethodi izboru, kako je rečeno. Dakle, i upotreba.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin, da se *volja nakon izbora porivom upućuje na djelovanje, a potom se služi*. Dakle, upotreba slijedi za izborom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a4.resp": {
+      "text": "Odgovaram: treba reći da volja ima dvostruki odnošaj prema htjenome. Jedan, prema kojemu je htjeno na neki način u onome koji hoće, po nekoj razmjernosti ili usmjerenosti prema htjenome. Zato se i za stvari koje su naravno razmjerne nekoj svrsi kaže da za njom naravno teže. Ali imati svrhu na taj način znači nesavršeno je imati. A sve nesavršeno teži prema savršenosti. I zato i naravna i voljna težnja teže prema tome da zbiljski imaju samu svrhu, a to znači savršeno je imati. I to je drugi odnošaj volje prema htjenome. A htjeno nije samo svrha, nego i ono što vodi k svrsi. A posljednje što pripada prvom odnošaju volje, s obzirom na ono što vodi k svrsi, jest izbor; u njemu se, naime, dovršava razmjernost volje, tako da potpuno hoće ono što vodi k svrsi. Ali upotreba već pripada drugom odnošaju volje, kojim ona teži prema tome da dođe do htjene stvari. Stoga je očito da upotreba slijedi za izborom, ako se upotreba uzme u smislu da se volja služi izvršnom moći pokrećući je. Ali budući da volja na neki način pokreće i razum i služi se njime, upotreba onoga što vodi k svrsi može se shvatiti i ukoliko je to u razmatranju razuma koji ga odnosi prema svrsi. I na taj način upotreba prethodi izboru.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da samom izvršenju djela prethodi pokretanje kojim volja pokreće na izvršavanje, a ono slijedi za izborom. I tako, budući da upotreba pripada spomenutom pokretanju volje, ona je posredi između izbora i izvršenja.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a4.ad2": {
+      "text": "Na drugo treba reći da je ono što je po svojoj biti odnosno kasnije od apsolutnoga, ali nije nužno da ono čemu se pripisuju odnosi bude kasnije. Štoviše, što je uzrok raniji, to ima odnos prema više učinaka.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    },
+    "I-II.q16.a4.ad3": {
+      "text": "Na treće treba reći da izbor prethodi upotrebi ako se odnose na isto. Ali ništa ne priječi da upotreba jednoga prethodi izboru drugoga. I budući da se čini volje vraćaju na same sebe, u svakom se činu volje mogu uzeti i pristanak i izbor i upotreba, kao kad bi se reklo da volja pristaje na to da bira, i pristaje na to da pristaje, i služi se sobom da pristane i da izabere. I uvijek su oni čini koji su usmjereni prema onome što je ranije, raniji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:19+00:00"
+    }
+  }
+}

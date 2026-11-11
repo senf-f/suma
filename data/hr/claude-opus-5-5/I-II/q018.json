@@ -1,0 +1,552 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 18,
+  "units": {
+    "I-II.q18.pr": {
+      "text": "Nakon toga treba razmotriti dobrotu i zloću ljudskih čina. Najprije, kako je ljudska radnja dobra ili zla; drugo, ono što slijedi iz dobrote ili zloće ljudskih čina, primjerice zaslugu ili nezaslugu, grijeh i krivnju. U vezi s prvim nameće se trostruko razmatranje: prvo je o dobroti i zloći ljudskih čina općenito; drugo, o dobroti i zloći unutarnjih čina; treće, o dobroti i zloći vanjskih čina. U vezi s prvim pita se jedanaest stvari. Prvo, je li svaka radnja dobra ili je neka zla. Drugo, ima li čovjekova radnja to da bude dobra ili zla od predmeta. Treće, ima li to od okolnosti. Četvrto, ima li to od svrhe. Peto, je li neka čovjekova radnja dobra ili zla u svojoj vrsti. Šesto, ima li čin vrstu dobra ili zla od svrhe. Sedmo, je li vrsta koja je od svrhe sadržana pod vrstom koja je od predmeta kao pod rodom, ili obratno. Osmo, postoji li neki čin koji je indiferentan po svojoj vrsti. Deveto, je li neki čin indiferentan kao pojedinačan. Deseto, postavlja li neka okolnost moralni čin u vrstu dobra ili zla. Jedanaesto, postavlja li svaka okolnost koja povećava dobrotu ili zloću moralni čin u vrstu dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je svaka čovjekova radnja dobra i da nijedna nije zla. Dionizije, naime, kaže u IV. poglavlju knjige O božanskim imenima da zlo ne djeluje osim snagom dobra. Ali snagom dobra ne nastaje zlo. Dakle, nijedna radnja nije zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a1.obj2": {
+      "text": "Osim toga, ništa ne djeluje osim ukoliko je u činu. A nešto nije zlo ukoliko je u činu, nego ukoliko je mogućnost lišena čina; a ukoliko se mogućnost usavršuje činom, to je dobro, kako se kaže u IX. knjizi Metafizike. Ništa, dakle, ne djeluje ukoliko je zlo, nego samo ukoliko je dobro. Dakle, svaka je radnja dobra i nijedna nije zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a1.obj3": {
+      "text": "Osim toga, zlo ne može biti uzrok osim akcidentalno, kako je jasno kod Dionizija u IV. poglavlju knjige O božanskim imenima. Ali svaka radnja ima neki učinak po sebi. Dakle, nijedna radnja nije zla, nego je svaka radnja dobra.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a1.sc": {
+      "text": "Ali protiv toga je ono što Gospodin kaže u Ivanu 3: *svaki koji zlo čini, mrzi svjetlo*. Postoji, dakle, neka zla čovjekova radnja.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a1.resp": {
+      "text": "Odgovaram: treba reći da o dobru i zlu u radnjama treba govoriti kao o dobru i zlu u stvarima, zato što svaka stvar proizvodi takvu radnju kakva je ona sama. A u stvarima svaka pojedina ima toliko od dobra koliko ima od bitka; dobro se, naime, i biće međusobno zamjenjuju, kako je rečeno u Prvom dijelu. Samo Bog ima svu puninu svojega bitka u nečemu jednom i jednostavnom, dok svaka druga stvar ima njoj primjerenu puninu bitka u različitim stvarima. Zato se kod nekih događa da u nekom pogledu imaju bitak, a ipak im nešto nedostaje do punine bitka koja im pripada. Tako se za puninu ljudskog bitka zahtijeva da bude neki složenac od duše i tijela, koji ima sve moći i oruđa spoznaje i gibanja; stoga, ako nekom čovjeku nešto od toga nedostaje, nedostaje mu nešto od punine njegova bitka. Koliko, dakle, ima od bitka, toliko ima od dobrote; a ukoliko mu nešto nedostaje od punine bitka, utoliko zaostaje u dobroti i naziva se zlim. Tako slijep čovjek ima od dobrote to što živi, a zlo mu je to što je lišen vida. Kad pak ne bi imao ništa od bićevnosti ili dobrote, ne bi se mogao nazvati ni zlim ni dobrim. Ali budući da sama punina bitka pripada pojmu dobra, ako nečemu nedostaje nešto od dužne punine bitka, neće se nazvati dobrim naprosto, nego u nekom pogledu, ukoliko je biće; ipak će se moći nazvati bićem naprosto, a nebićem u nekom pogledu, kako je rečeno u Prvom dijelu. Tako, dakle, treba reći da svaka radnja, ukoliko ima nešto od bitka, utoliko ima od dobrote; a ukoliko joj nedostaje nešto od punine bitka koja pripada ljudskoj radnji, utoliko zaostaje u dobroti i tako se naziva zlom, primjerice ako joj nedostaje bilo kolikoća određena prema razumu, bilo dužno mjesto, bilo nešto takvo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da zlo djeluje snagom manjkavog dobra. Kad, naime, ondje ne bi bilo ništa od dobra, ne bi bilo ni biće niti bi moglo djelovati. A kad ne bi bilo manjkavo, ne bi bilo zlo. Zato je i prouzročena radnja neko manjkavo dobro, koje je dobro u nekom pogledu, a naprosto zlo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a1.ad2": {
+      "text": "Na drugo treba reći da ništa ne priječi da nešto u nekom pogledu bude u činu, tako da može djelovati, a u drugom pogledu da bude lišeno čina, tako da prouzročuje manjkavu radnju. Tako slijep čovjek u činu ima snagu hodanja, kojom može hodati; ali ukoliko je lišen vida, koji upravlja u hodanju, trpi nedostatak u hodanju, jer hoda posrćući.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a1.ad3": {
+      "text": "Na treće treba reći da zla radnja može imati neki učinak po sebi, prema onome što ima od dobrote i bićevnosti. Tako je preljub uzrok ljudskog rađanja ukoliko uključuje sjedinjenje muškarca i žene, ali ne ukoliko je lišen reda razuma.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da radnja nema dobrotu ili zloću od predmeta. Predmet je, naime, radnje stvar. A u stvarima nije zlo, nego u upotrebi onih koji griješe, kako kaže Augustin u III. knjizi O kršćanskom nauku. Dakle, ljudska radnja nema dobrotu ili zloću od predmeta.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a2.obj2": {
+      "text": "Osim toga, predmet se prema radnji odnosi kao tvar. A dobrota stvari nije od tvari, nego prije od forme, koja je čin. Dakle, dobro i zlo nisu u činima od predmeta.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a2.obj3": {
+      "text": "Osim toga, predmet aktivne moći odnosi se prema radnji kao učinak prema uzroku. Ali dobrota uzroka ne ovisi o učinku, nego prije obratno. Dakle, ljudska radnja nema dobrotu ili zloću od predmeta.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Hošei 9: *postadoše odvratni kao i ono što su ljubili*. A čovjek postaje odvratan Bogu zbog zloće svojega djelovanja. Dakle, zloća djelovanja ovisi o zlim predmetima koje čovjek ljubi. A isti je razlog i za dobrotu radnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, dobro i zlo radnje, kao i ostalih stvari, prosuđuje po punini bitka ili po njezinu nedostatku. A prvo što se čini da pripada punini bitka jest ono što stvari daje vrstu. Kao što naravna stvar ima vrstu od svoje forme, tako radnja ima vrstu od predmeta, kao što i gibanje ima vrstu od završne granice. I zato, kao što se prva dobrota naravne stvari prosuđuje po njezinoj formi, koja joj daje vrstu, tako se i prva dobrota moralnog čina prosuđuje po prikladnom predmetu; stoga je neki i nazivaju dobrom po rodu, primjerice služiti se svojom stvari. I kao što je u naravnim stvarima prvo zlo ako rođena stvar ne postigne formu svoje vrste, primjerice ako se ne rodi čovjek, nego nešto umjesto čovjeka, tako je prvo zlo u moralnim radnjama ono koje je od predmeta, kao uzimati tuđe. I naziva se zlom po rodu, pri čemu se rod uzima u značenju vrste, onim načinom govora kojim cijelu ljudsku vrstu nazivamo ljudskim rodom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda su vanjske stvari same po sebi dobre, ipak nemaju uvijek dužan razmjer prema ovoj ili onoj radnji. I zato, ukoliko se razmatraju kao predmeti takvih radnji, nemaju pojam dobra.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a2.ad2": {
+      "text": "Na drugo treba reći da predmet nije tvar iz koje, nego tvar oko koje; i na neki način ima pojam forme, ukoliko daje vrstu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a2.ad3": {
+      "text": "Na treće treba reći da predmet ljudske radnje nije uvijek predmet aktivne moći. Težnjena je, naime, moć na neki način pasivna, ukoliko je pokreće poželjno, a ipak je počelo ljudskih čina. Ni predmeti aktivnih moći nemaju uvijek pojam učinka, nego tek kad su već preinačeni; tako je preinačena hrana učinak hranidbene moći, dok se još nepreinačena hrana odnosi prema hranidbenoj moći kao tvar oko koje ona djeluje. A iz toga što je predmet na neki način učinak aktivne moći slijedi da je on granica njezine radnje i, prema tome, da joj daje formu i vrstu; gibanje, naime, ima vrstu od granica. I premda dobrota radnje nije prouzročena dobrotom učinka, ipak se radnja naziva dobrom po tome što može proizvesti dobar učinak. I tako je sam razmjer radnje prema učinku pojam njezine dobrote.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da radnja nije dobra ili zla od okolnosti. Okolnosti, naime, okružuju čin kao da postoje izvan njega, kao što je rečeno. Ali dobro i zlo su u samim stvarima, kako se kaže u VI. knjizi Metafizike. Dakle, radnja nema dobrotu ili zloću od okolnosti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a3.obj2": {
+      "text": "Osim toga, dobrota ili zloća čina ponajviše se razmatra u nauku o ćudoređu. Ali čini se da okolnosti, budući da su neki akcidenti čina, padaju izvan razmatranja umijeća, jer nijedno umijeće ne razmatra ono što je akcidentalno, kako se kaže u VI. knjizi Metafizike. Dakle, dobrota ili zloća radnje nije od okolnosti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a3.obj3": {
+      "text": "Osim toga, ono što nečemu pripada po njegovoj supstanciji ne pripisuje mu se po nekom akcidentu. Ali dobro i zlo pripadaju radnji po njezinoj supstanciji, jer radnja po svojem rodu može biti dobra ili zla, kao što je rečeno. Dakle, radnji ne pripada od okolnosti to da bude dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a3.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u knjizi Etike, da *krepostan djeluje kako treba, i kada treba, i prema ostalim okolnostima*. Dakle, s druge strane, poročan, prema svakom pojedinom poroku, djeluje kada ne treba, gdje ne treba, i tako za ostale okolnosti. Dakle, ljudske su radnje dobre ili zle prema okolnostima.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a3.resp": {
+      "text": "Odgovaram: treba reći da se u naravnim stvarima sva punina savršenosti koja stvari pripada ne nalazi u supstancijalnoj formi, koja daje vrstu, nego joj se mnogo pridodaje od pridošlih akcidenata, kao u čovjeku od lika, od boje i sličnoga; ako nešto od toga nedostaje za dolično stanje, slijedi zlo. Tako je i u radnji. Punina se, naime, njezine dobrote ne sastoji sva u njezinoj vrsti, nego joj se nešto pridodaje od onoga što pridolazi kao neki akcidenti. A takve su dužne okolnosti. Stoga, ako nedostaje nešto što se zahtijeva za dužne okolnosti, radnja će biti zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da su okolnosti izvan radnje ukoliko ne pripadaju biti radnje, ali su ipak u samoj radnji kao neki njezini akcidenti. Tako su i akcidenti koji su u naravnim supstancijama izvan njihovih biti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a3.ad2": {
+      "text": "Na drugo treba reći da se ne odnose svi akcidenti akcidentalno prema svojim subjektima, nego su neki akcidenti po sebi; i oni se razmatraju u svakom umijeću. I na taj se način okolnosti čina razmatraju u moralnom nauku.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a3.ad3": {
+      "text": "Na treće treba reći da, budući da se dobro zamjenjuje s bićem, kao što se biće kaže po supstanciji i po akcidentu, tako se i dobro nečemu pripisuje i po njegovu bitnom bitku i po akcidentalnom bitku, kako u naravnim stvarima tako i u moralnim radnjama.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da dobro i zlo u ljudskim činima nisu od svrhe. Dionizije, naime, kaže u IV. poglavlju knjige O božanskim imenima da *nitko ne djeluje gledajući na zlo*. Kad bi, dakle, djelovanje bilo dobro ili zlo od svrhe, nijedna radnja ne bi bila zla. A očito je da je to lažno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a4.obj2": {
+      "text": "Osim toga, dobrota čina je nešto što postoji u njemu samome. A svrha je izvanjski uzrok. Dakle, radnja se ne naziva dobrom ili zlom prema svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a4.obj3": {
+      "text": "Osim toga, događa se da je neko dobro djelovanje usmjereno prema zloj svrsi, kao kad netko daje milostinju radi isprazne slave, i obratno, da je neko zlo djelovanje usmjereno prema dobroj svrsi, kao kad netko krade da bi dao siromahu. Dakle, radnja nije dobra ili zla od svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a4.sc": {
+      "text": "Ali protiv toga je ono što Boetije kaže u Topici, da *ono čija je svrha dobra i samo je dobro, a ono čija je svrha zla i samo je zlo*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a4.resp": {
+      "text": "Odgovaram: treba reći da je u stvarima isti raspored u pogledu dobrote kao i u pogledu bitka. Postoje, naime, neke stvari čiji bitak ne ovisi o drugome, i kod njih je dovoljno razmotriti sam njihov bitak apsolutno. A postoje neke čiji bitak ovisi o drugome, pa ga stoga treba razmotriti s obzirom na uzrok o kojem ovisi. Kao što pak bitak stvari ovisi o djelatniku i o formi, tako dobrota stvari ovisi o svrsi. Stoga se u božanskim osobama, koje nemaju dobrotu ovisnu o drugome, ne razmatra nikakav pojam dobrote od svrhe. A ljudske radnje i druge stvari čija dobrota ovisi o drugome imaju pojam dobrote od svrhe o kojoj ovise, osim apsolutne dobrote koja u njima postoji. Tako se, dakle, u ljudskoj radnji može razmatrati četverostruka dobrota. Jedna po rodu, naime ukoliko je radnja, jer koliko ima od radnje i bićevnosti, toliko ima od dobrote, kao što je rečeno. Druga po vrsti, koja se uzima prema prikladnom predmetu. Treća po okolnostima, kao po nekim akcidentima. A četvrta po svrsi, kao po odnošaju prema uzroku dobrote.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da dobro na koje netko gleda kad djeluje nije uvijek pravo dobro, nego katkad pravo dobro, a katkad prividno. I prema tome iz svrhe slijedi zla radnja.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a4.ad2": {
+      "text": "Na drugo treba reći da, premda je svrha izvanjski uzrok, ipak dužni razmjer prema svrsi i odnos prema njoj prianjaju uz samu radnju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a4.ad3": {
+      "text": "Na treće treba reći da ništa ne priječi da radnji koja ima jednu od navedenih dobrota nedostaje druga. I prema tome se događa da je radnja koja je dobra po svojoj vrsti ili po okolnostima usmjerena prema zloj svrsi, i obratno. Ipak, radnja nije dobra naprosto ako se ne stječu sve dobrote, jer *svaki pojedini nedostatak uzrokuje zlo, a dobro se uzrokuje iz cjelovitog uzroka*, kako kaže Dionizije u IV. poglavlju knjige O božanskim imenima.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se moralni čini ne razlikuju po vrsti prema dobru i zlu. Dobro se, naime, i zlo u činima nalaze u skladu sa stvarima, kao što je rečeno. Ali u stvarima dobro i zlo ne čine vrstu različitom: isti je, naime, po vrsti dobar i zao čovjek. Dakle, ni dobro i zlo u činima ne čine vrstu različitom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a5.obj2": {
+      "text": "Osim toga, zlo je, budući da je lišenost, neko nebiće. Ali nebiće ne može biti razlika, prema Filozofu u III. knjizi Metafizike. Budući, dakle, da razlika postavlja vrstu, čini se da neki čin, po tome što je zao, nije postavljen ni u kakvu vrstu. I tako dobro i zlo ne čine različitom vrstu ljudskih čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a5.obj3": {
+      "text": "Osim toga, čini koji su različiti po vrsti imaju različite učinke. Ali isti učinak po vrsti može slijediti iz dobrog i iz zlog čina, kao što se čovjek rađa iz preljuba i iz bračnog općenja. Dakle, dobar i zao čin ne razlikuju se po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a5.obj4": {
+      "text": "Osim toga, dobro i zlo se u činima katkad kažu po okolnosti, kao što je rečeno. Ali okolnost, budući da je akcident, ne daje činu vrstu. Dakle, ljudski se čini ne razlikuju po vrsti zbog dobrote i zloće.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a5.sc": {
+      "text": "Ali protiv toga, prema Filozofu u II. knjizi Etike, *slični habitusi proizvode slične čine*. Ali dobar i zao habitus razlikuju se po vrsti, kao darežljivost i rasipnost. Dakle, i dobar i zao čin razlikuju se po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a5.resp": {
+      "text": "Odgovaram: treba reći da svaki čin ima vrstu od svojega predmeta, kao što je gore rečeno. Stoga je potrebno da neka razlika predmeta uzrokuje različitost vrste u činima. Treba pak uočiti da neka razlika predmeta čini razliku vrste u činima ukoliko se oni odnose na jedno aktivno počelo, a ne čini razliku u činima ukoliko se odnose na drugo aktivno počelo. Jer ništa što je akcidentalno ne postavlja vrstu, nego samo ono što je po sebi; a neka razlika predmeta može biti po sebi u usporedbi s jednim aktivnim počelom, a akcidentalna u usporedbi s drugim. Tako se spoznavanje boje i spoznavanje zvuka razlikuju po sebi u usporedbi s osjetilom, ali ne u usporedbi s umom. A u ljudskim se činima dobro i zlo kažu u usporedbi s razumom, jer, kako kaže Dionizije u IV. poglavlju knjige O božanskim imenima, dobro je čovjeka biti u skladu s razumom, a zlo je ono što je mimo razuma. Svakoj je, naime, stvari dobro ono što joj pristaje po njezinoj formi, a zlo ono što je za nju mimo reda njezine forme. Jasno je, dakle, da se razlika dobra i zla, razmatrana u pogledu predmeta, po sebi odnosi na razum, naime ukoliko je predmet njemu prikladan ili neprikladan. A neki se čini nazivaju ljudskima ili moralnima ukoliko su od razuma. Stoga je očito da dobro i zlo čine vrstu različitom u moralnim činima; razlike po sebi, naime, čine vrstu različitom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da i u naravnim stvarima dobro i zlo, to jest ono što je po naravi i ono što je protiv naravi, čine različitom vrstu naravi: mrtvo tijelo i živo tijelo, naime, nisu iste vrste. I slično, dobro ukoliko je u skladu s razumom i zlo ukoliko je mimo razuma čine različitom moralnu vrstu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a5.ad2": {
+      "text": "Na drugo treba reći da zlo ne uključuje apsolutnu lišenost, nego lišenost koja prati takvu mogućnost. Čin se, naime, naziva zlim po svojoj vrsti ne zato što nema nikakav predmet, nego zato što ima predmet neprikladan razumu, kao što je odnijeti tuđe. Stoga, ukoliko je predmet nešto pozitivno, može postaviti vrstu zlog čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a5.ad3": {
+      "text": "Na treće treba reći da se bračni čin i preljub, ukoliko se uspoređuju s razumom, razlikuju po vrsti i imaju po vrsti različite učinke, jer jedan od njih zaslužuje pohvalu i nagradu, a drugi pokudu i kaznu. Ali ukoliko se uspoređuju s rađalačkom moći, ne razlikuju se po vrsti. I tako imaju jedan učinak po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a5.ad4": {
+      "text": "Na četvrto treba reći da se okolnost katkad uzima kao bitna razlika predmeta, ukoliko se uspoređuje s razumom, i tada može dati vrstu moralnom činu. I to mora biti kad god okolnost preinači čin iz dobrote u zloću; okolnost, naime, ne bi učinila čin zlim osim po tome što se protivi razumu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da dobro i zlo koje je od svrhe ne čine različitom vrstu u činima. Čini, naime, imaju vrstu od predmeta. Ali svrha je izvan pojma predmeta. Dakle, dobro i zlo koje je od svrhe ne čine različitom vrstu čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a6.obj2": {
+      "text": "Osim toga, ono što je akcidentalno ne postavlja vrstu, kao što je rečeno. Ali nekom je činu akcidentalno to što je usmjeren prema nekoj svrsi, kao to što netko daje milostinju radi isprazne slave. Dakle, prema dobru i zlu koje je od svrhe čini se ne razlikuju po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a6.obj3": {
+      "text": "Osim toga, različiti čini po vrsti mogu biti usmjereni prema jednoj svrsi, kao što se prema svrsi isprazne slave mogu usmjeriti čini različitih kreposti i različitih poroka. Dakle, dobro i zlo koje se uzima prema svrsi ne čini različitom vrstu čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a6.sc": {
+      "text": "Ali protiv toga je ono što je gore pokazano, da ljudski čini imaju vrstu od svrhe. Dakle, dobro i zlo koje se uzima prema svrsi čini različitom vrstu čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a6.resp": {
+      "text": "Odgovaram: treba reći da se neki čini nazivaju ljudskima ukoliko su voljni, kao što je gore rečeno. A u voljnom se činu nalazi dvostruki čin, naime unutarnji čin volje i vanjski čin, i svaki od tih čina ima svoj predmet. Svrha je pak u vlastitom smislu predmet unutarnjeg voljnog čina, a ono oko čega je vanjska radnja jest njezin predmet. Kao što, dakle, vanjski čin prima vrstu od predmeta oko kojega jest, tako unutarnji čin volje prima vrstu od svrhe kao od vlastitog predmeta. A ono što je sa strane volje odnosi se kao formalno prema onome što je sa strane vanjskog čina, jer se volja služi udovima za djelovanje kao oruđima; i vanjski čini nemaju pojam moralnosti osim ukoliko su voljni. I zato se vrsta ljudskog čina formalno razmatra prema svrsi, a tvarno prema predmetu vanjskog čina. Stoga Filozof kaže u V. knjizi Etike da je *onaj koji krade da bi počinio preljub, govoreći po sebi, više preljubnik nego kradljivac*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da i svrha ima pojam predmeta, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a6.ad2": {
+      "text": "Na drugo treba reći da biti usmjeren prema takvoj svrsi, iako je akcidentalno vanjskom činu, ipak nije akcidentalno unutarnjem činu volje, koji se prema vanjskome odnosi kao formalno prema tvarnome.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a6.ad3": {
+      "text": "Na treće treba reći da, kad su mnogi čini različiti po vrsti usmjereni prema jednoj svrsi, postoji doduše različitost vrste sa strane vanjskih čina, ali jedinstvo vrste sa strane unutarnjeg čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da je vrsta dobrote koja je od svrhe sadržana pod vrstom dobrote koja je od predmeta kao vrsta pod rodom, primjerice kad netko hoće krasti da bi dao milostinju. Čin, naime, ima vrstu od predmeta, kao što je rečeno. Ali nemoguće je da nešto bude sadržano u nekoj drugoj vrsti koja nije sadržana pod njegovom vlastitom vrstom, jer isto ne može biti u različitim vrstama koje nisu podređene jedna drugoj. Dakle, vrsta koja je od svrhe sadržana je pod vrstom koja je od predmeta.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a7.obj2": {
+      "text": "Osim toga, posljednja razlika uvijek postavlja najposebniju vrstu. Ali čini se da je razlika koja je od svrhe kasnija od razlike koja je od predmeta, jer svrha ima pojam posljednjega. Dakle, vrsta koja je od svrhe sadržana je pod vrstom koja je od predmeta kao najposebnija vrsta.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a7.obj3": {
+      "text": "Osim toga, što je neka razlika formalnija, to je posebnija, jer se razlika prema rodu odnosi kao forma prema tvari. Ali vrsta koja je od svrhe formalnija je od one koja je od predmeta, kao što je rečeno. Dakle, vrsta koja je od svrhe sadržana je pod vrstom koja je od predmeta kao najposebnija vrsta pod podređenim rodom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a7.sc": {
+      "text": "Ali protiv toga, svaki rod ima određene razlike. Ali čin iste vrste sa strane predmeta može biti usmjeren prema beskonačno mnogo svrha, primjerice krađa prema beskonačno mnogo dobara ili zala. Dakle, vrsta koja je od svrhe nije sadržana pod vrstom koja je od predmeta kao pod rodom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a7.resp": {
+      "text": "Odgovaram: treba reći da se predmet vanjskog čina može na dva načina odnositi prema svrsi volje: na jedan način, kao po sebi usmjeren prema njoj, kao što je dobro se boriti po sebi usmjereno prema pobjedi; na drugi način, akcidentalno, kao što je uzeti tuđu stvar akcidentalno usmjereno prema davanju milostinje. A potrebno je, kako kaže Filozof u VII. knjizi Metafizike, da razlike koje dijele neki rod i postavljaju vrstu toga roda dijele taj rod po sebi. Ako pak akcidentalno, dioba ne napreduje ispravno, primjerice kad bi netko rekao: od životinja su jedne razumne, druge nerazumne; a od nerazumnih životinja jedne su krilate, druge nisu krilate; krilato i nekrilato, naime, nisu po sebi ono što pobliže određuje nerazumno. Nego treba dijeliti ovako: od životinja jedne imaju noge, druge nemaju noge; a od onih koje imaju noge, jedne imaju dvije, druge četiri, treće mnogo; to, naime, po sebi pobliže određuje prethodnu razliku. Tako, dakle, kad predmet nije po sebi usmjeren prema svrsi, specifična razlika koja je od predmeta nije po sebi ono što pobliže određuje razliku koja je od svrhe, niti obratno. Stoga jedna od tih vrsta nije pod drugom, nego je tada moralni čin pod dvjema vrstama koje su kao raznorodne. Zato kažemo da onaj koji krade da bi počinio preljub čini dvije zloće u jednom činu. Ako je pak predmet po sebi usmjeren prema svrsi, jedna je od navedenih razlika po sebi ono što pobliže određuje drugu. Stoga će jedna od tih vrsta biti sadržana pod drugom. Preostaje pak razmotriti koja je pod kojom. Da to bude jasno, najprije treba uočiti da je neka razlika to specifičnija što se uzima od posebnije forme. Drugo, da što je djelatnik općenitiji, to je od njega općenitija forma. Treće, da što je neka svrha kasnija, to odgovara općenitijem djelatniku; tako je pobjeda, koja je posljednja svrha vojske, svrha na koju smjera vrhovni zapovjednik, a raspored ovoga ili onoga bojnog reda svrha je na koju smjera neki od nižih zapovjednika. I iz toga slijedi da je specifična razlika koja je od svrhe općenitija, a razlika koja je od predmeta po sebi usmjerenog prema takvoj svrsi specifična je u odnosu na nju. Volja, naime, čiji je vlastiti predmet svrha, opći je pokretač u odnosu na sve moći duše, čiji su vlastiti predmeti predmeti posebnih čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da po svojoj supstanciji nešto ne može biti u dvjema vrstama od kojih jedna nije podređena drugoj. Ali po onome što stvari pridolazi nešto može biti sadržano pod različitim vrstama. Tako je ova jabuka po boji sadržana pod ovom vrstom, naime bijeloga, a po mirisu pod vrstom onoga što ugodno miriše. I slično, čin koji je po svojoj supstanciji u jednoj naravnoj vrsti može se, prema pridošlim moralnim obilježjima, odnositi na dvije vrste, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a7.ad2": {
+      "text": "Na drugo treba reći da je svrha posljednja u izvršenju, ali je prva u nakani razuma, prema kojoj se uzimaju vrste moralnih čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a7.ad3": {
+      "text": "Na treće treba reći da se razlika prema rodu odnosi kao forma prema tvari ukoliko čini da rod bude u činu. Ali i rod se razmatra kao formalniji od vrste, ukoliko je apsolutniji i manje sužen. Stoga se i dijelovi definicije svode na rod formalnog uzroka, kako se kaže u knjizi Fizike. I prema tome je rod formalni uzrok vrste, i bit će to formalniji što je općenitiji.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da ne postoji nijedan čin indiferentan po svojoj vrsti. Zlo je, naime, lišenost dobra, prema Augustinu. Ali lišenost i posjedovanje su neposredno suprotstavljeni, prema Filozofu. Dakle, ne postoji nijedan čin koji bi po svojoj vrsti bio indiferentan, kao da postoji kao sredina između dobra i zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a8.obj2": {
+      "text": "Osim toga, ljudski čini imaju vrstu od svrhe ili od predmeta, kao što je rečeno. Ali svaki predmet i svaka svrha ima pojam dobra ili zla. Dakle, svaki je ljudski čin po svojoj vrsti dobar ili zao. Nijedan, dakle, nije indiferentan po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a8.obj3": {
+      "text": "Osim toga, kao što je rečeno, dobrim se naziva čin koji ima dužnu savršenost dobrote, a zlim onaj kojemu od toga nešto nedostaje. Ali nužno je da svaki čin ili ima svu puninu svoje dobrote ili da mu nešto nedostaje. Dakle, nužno je da svaki čin po svojoj vrsti bude dobar ili zao, i nijedan indiferentan.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a8.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u knjizi O Gospodinovu govoru na gori, da *postoje neka srednja djela koja se mogu činiti dobrom ili zlom dušom, o kojima je drsko suditi*. Postoje, dakle, neki čini indiferentni po svojoj vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a8.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, svaki čin ima vrstu od predmeta; a ljudski čin, koji se naziva moralnim, ima vrstu od predmeta dovedenog u odnos s počelom ljudskih čina, a to je razum. Stoga, ako predmet čina uključuje nešto što se slaže s redom razuma, čin će biti dobar po svojoj vrsti, kao davati milostinju potrebnome. Ako pak uključuje nešto što se protivi redu razuma, čin će biti zao po vrsti, kao krasti, što znači odnijeti tuđe. Događa se pak da predmet čina ne uključuje ništa što pripada redu razuma, kao podići slamku sa zemlje, ići u polje i slično; i takvi su čini po svojoj vrsti indiferentni.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da je lišenost dvostruka. Jedna se sastoji u tome da se bude lišeno, i ona ništa ne ostavlja, nego sve oduzima, kao što sljepoća potpuno oduzima vid, tama svjetlo, a smrt život. I između te lišenosti i suprotstavljenog posjedovanja ne može biti nikakve sredine u vlastitom primatelju. A postoji druga lišenost, koja se sastoji u tome da se biva lišavano, kao što je bolest lišenost zdravlja, ne zato što bi cijelo zdravlje bilo odstranjeno, nego zato što je ona kao neki put prema potpunom oduzimanju zdravlja, koje se događa smrću. I zato takva lišenost, budući da nešto ostavlja, nije uvijek neposredna u odnosu na suprotstavljeno posjedovanje. I na taj je način zlo lišenost dobra, kako kaže Simplicije u komentaru na knjigu Kategorija, jer ne oduzima cijelo dobro, nego nešto ostavlja. Stoga može postojati neka sredina između dobra i zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a8.ad2": {
+      "text": "Na drugo treba reći da svaki predmet ili svrha ima neku dobrotu ili zloću, barem naravnu, ali ne uključuje uvijek moralnu dobrotu ili zloću, koja se razmatra u usporedbi s razumom, kao što je rečeno. A o njoj je sada riječ.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a8.ad3": {
+      "text": "Na treće treba reći da ne pripada vrsti čina sve što čin ima. Stoga, iako u pojmu njegove vrste nije sadržano sve što pripada punini njegove dobrote, nije zbog toga po svojoj vrsti zao, a ni dobar; kao što čovjek po svojoj vrsti nije ni krepostan ni poročan.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q18.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da je neki čin kao pojedinačan indiferentan. Nema, naime, nijedne vrste koja pod sobom ne sadrži ili ne bi mogla sadržavati nekog pojedinca. Ali neki je čin indiferentan po svojoj vrsti, kao što je rečeno. Dakle, neki pojedinačni čin može biti indiferentan.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a9.obj2": {
+      "text": "Osim toga, iz pojedinačnih čina nastaju habitusi koji su im sukladni, kako se kaže u II. knjizi Etike. Ali neki je habitus indiferentan. Filozof, naime, u IV. knjizi Etike kaže za neke, kao za blage i rasipne, da nisu zli, a ipak je izvjesno da nisu dobri, budući da odstupaju od kreposti; i tako su indiferentni po habitusu. Dakle, neki su pojedinačni čini indiferentni.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a9.obj3": {
+      "text": "Osim toga, moralno dobro pripada kreposti, a moralno zlo pripada poroku. Ali događa se katkad da čovjek čin koji je po svojoj vrsti indiferentan ne usmjeri ni prema kakvoj svrsi, bilo poroka bilo kreposti. Dakle, događa se da je neki pojedinačni čin indiferentan.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a9.sc": {
+      "text": "Ali protiv toga je ono što Grgur kaže u jednoj homiliji: *isprazna je riječ ona kojoj nedostaje korist ispravnosti ili razlog pravedne potrebe ili pobožne koristi*. Ali isprazna je riječ zla, jer će ljudi za nju polagati račun na dan suda, kako se kaže u Mateju 12. Ako pak ne nedostaje razlog pravedne potrebe ili pobožne koristi, dobra je. Dakle, svaka je riječ ili dobra ili zla. Iz istog razloga, dakle, i svaki je drugi čin ili dobar ili zao. Nijedan, dakle, pojedinačni čin nije indiferentan.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a9.resp": {
+      "text": "Odgovaram: treba reći da se katkad događa da je neki čin indiferentan po vrsti, a ipak je dobar ili zao kad se razmatra u pojedincu. A to je zato što moralni čin, kao što je rečeno, nema dobrotu samo od predmeta, od kojega ima vrstu, nego i od okolnosti, koje su kao neki akcidenti; kao što pojedinom čovjeku po pojedinačnim akcidentima pripada nešto što ne pripada čovjeku po pojmu vrste. I potrebno je da svaki pojedinačni čin ima neku okolnost po kojoj biva povučen prema dobru ili zlu, barem sa strane nakane svrhe. Budući da je, naime, razumu svojstveno usmjeravati, čin koji proizlazi iz promišljajućeg razuma, ako nije usmjeren prema dužnoj svrsi, upravo se time protivi razumu i ima pojam zla. Ako je pak usmjeren prema dužnoj svrsi, slaže se s redom razuma, pa stoga ima pojam dobra. A nužno je da bude ili usmjeren ili ne usmjeren prema dužnoj svrsi. Stoga je nužno da svaki čin čovjeka koji proizlazi iz promišljajućeg razuma, razmatran u pojedincu, bude dobar ili zao. Ako pak ne proizlazi iz promišljajućeg razuma, nego iz neke mašte, kao kad netko gladi bradu ili pomiče ruku ili nogu, takav čin nije, u vlastitom smislu govoreći, moralan ili ljudski, jer to čin ima od razuma. I tako će biti indiferentan, kao da postoji izvan roda moralnih čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da to da je neki čin indiferentan po svojoj vrsti može biti na više načina. Na jedan način, tako da mu po njegovoj vrsti pripada da bude indiferentan. I tako polazi taj razlog. Ali ipak na taj način nijedan čin nije po svojoj vrsti indiferentan; ne postoji, naime, nijedan predmet ljudskog čina koji se ne bi mogao usmjeriti bilo prema dobru bilo prema zlu, po svrsi ili okolnosti. Na drugi način može se nazvati indiferentnim po svojoj vrsti zato što nema od svoje vrste da bude dobar ili zao. Stoga po nečemu drugome može postati dobar ili zao. Tako čovjek nema od svoje vrste da bude bijel ili crn, a ipak nema od svoje vrste ni to da ne bude bijel ili crn; bjelina ili crnina, naime, može pridoći čovjeku odnekud drugdje, a ne od počela vrste.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a9.ad2": {
+      "text": "Na drugo treba reći da Filozof kaže da je u vlastitom smislu zao onaj koji je drugim ljudima štetan. I prema tome kaže da rasipnik nije zao, jer nikome drugome ne škodi osim samome sebi. I slično za sve druge koji nisu štetni bližnjima. Mi pak ovdje općenito nazivamo zlim sve što se protivi ispravnom razumu. I prema tome je svaki pojedinačni čin dobar ili zao, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a9.ad3": {
+      "text": "Na treće treba reći da svaka svrha na koju smjera promišljajući razum pripada dobru neke kreposti ili zlu nekog poroka. Jer i samo to što netko uredno djeluje radi uzdržavanja ili odmora svojega tijela usmjereno je prema dobru kreposti u onome koji svoje tijelo usmjeruje prema dobru kreposti. I isto je jasno u ostalome.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da okolnost ne može postaviti nikakvu vrstu dobrog ili zlog čina. Vrsta je, naime, čina od predmeta. Ali okolnosti se razlikuju od predmeta. Dakle, okolnosti ne daju vrstu čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a10.obj2": {
+      "text": "Osim toga, okolnosti se odnose prema moralnom činu kao njegovi akcidenti, kao što je rečeno. Ali akcident ne postavlja vrstu. Dakle, okolnost ne postavlja nikakvu vrstu dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a10.obj3": {
+      "text": "Osim toga, jedna stvar nema više vrsta. A jedan čin ima više okolnosti. Dakle, okolnost ne postavlja moralni čin ni u kakvu vrstu dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a10.sc": {
+      "text": "Ali protiv toga, mjesto je neka okolnost. Ali mjesto postavlja moralni čin u neku vrstu zla: ukrasti nešto sa svetog mjesta, naime, jest svetogrđe. Dakle, okolnost postavlja moralni čin u neku vrstu dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a10.resp": {
+      "text": "Odgovaram: treba reći da, kao što se vrste naravnih stvari postavljaju iz naravnih formi, tako se vrste moralnih čina postavljaju iz formi ukoliko su zamišljene od razuma, kao što je jasno iz rečenoga. Budući pak da je narav određena na jedno i da ne može biti napredovanja naravi u beskonačnost, nužno je doći do neke posljednje forme od koje se uzima specifična razlika, nakon koje ne može biti druge specifične razlike. I odatle je to da se u naravnim stvarima ono što je nekoj stvari akcident ne može uzeti kao razlika koja postavlja vrstu. Ali napredovanje razuma nije određeno na nešto jedno, nego, kad mu se bilo što dade, može napredovati dalje. I zato ono što se u jednom činu uzima kao okolnost pridodana predmetu koji određuje vrstu čina može razum, koji usmjeruje, ponovno uzeti kao glavno obilježje predmeta koji određuje vrstu čina. Tako odnijeti tuđe ima vrstu od pojma tuđega, jer se time postavlja u vrstu krađe; a ako se uz to razmatra pojam mjesta ili vremena, to će se odnositi kao okolnost. Ali budući da razum može usmjeravati i u pogledu mjesta ili vremena i drugoga takvoga, događa se da se obilježje mjesta u pogledu predmeta uzima kao protivno redu razuma, primjerice da razum nalaže da se svetom mjestu ne smije nanositi nepravda. Stoga odnijeti nešto tuđe sa svetog mjesta dodaje posebno protivljenje redu razuma. I zato se mjesto, koje se prije razmatralo kao okolnost, sada razmatra kao glavno obilježje predmeta koje se protivi razumu. I na taj način, kad god se neka okolnost odnosi na poseban red razuma, bilo za njega bilo protiv njega, potrebno je da okolnost dade vrstu moralnom činu, bilo dobrom bilo zlom.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da se okolnost, ukoliko daje vrstu činu, razmatra kao neko obilježje predmeta, kao što je rečeno, i kao neka njegova specifična razlika.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a10.ad2": {
+      "text": "Na drugo treba reći da okolnost koja ostaje u pojmu okolnosti, budući da ima pojam akcidenta, ne daje vrstu; ali ukoliko se promijeni u glavno obilježje predmeta, utoliko daje vrstu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a10.ad3": {
+      "text": "Na treće treba reći da ne postavlja svaka okolnost moralni čin u neku vrstu dobra ili zla, budući da ne uključuje svaka okolnost neko sklad ili nesklad s razumom. Stoga nije potrebno, iako ima mnogo okolnosti jednog čina, da jedan čin bude u više vrsta. Iako nije ni neprikladno da jedan moralni čin bude u više moralnih vrsta, pa i raznorodnih, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da svaka okolnost koja pripada dobroti ili zloći daje činu vrstu. Dobro su, naime, i zlo specifične razlike moralnih čina. Ono, dakle, što čini razliku u dobroti ili zloći moralnog čina čini da se razlikuje po specifičnoj razlici, a to je razlikovati se po vrsti. Ali ono što dodaje u dobroti ili zloći čina čini da se razlikuje po dobroti i zloći. Dakle, čini da se razlikuje po vrsti. Dakle, svaka okolnost koja dodaje u dobroti ili zloći čina postavlja vrstu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a11.obj2": {
+      "text": "Osim toga, okolnost koja pridolazi ili ima u sebi neki pojam dobrote ili zloće ili nema. Ako nema, ne može dodati u dobroti ili zloći čina, jer ono što nije dobro ne može učiniti veće dobro, i ono što nije zlo ne može učiniti veće zlo. Ako pak ima u sebi pojam dobrote ili zloće, upravo time ima neku vrstu dobra ili zla. Dakle, svaka okolnost koja povećava dobrotu ili zloću postavlja novu vrstu dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a11.obj3": {
+      "text": "Osim toga, prema Dioniziju u IV. poglavlju knjige O božanskim imenima, *zlo se uzrokuje iz pojedinih nedostataka*. A svaka okolnost koja otežava zloću ima poseban nedostatak. Dakle, svaka okolnost dodaje novu vrstu grijeha. I iz istog razloga čini se da svaka okolnost koja povećava dobrotu dodaje novu vrstu dobra, kao što svaka jedinica dodana broju čini novu vrstu broja; dobro se, naime, sastoji u broju, težini i mjeri.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a11.sc": {
+      "text": "Ali protiv toga, više i manje ne čine vrstu različitom. Ali više i manje jest okolnost koja dodaje u dobroti ili zloći. Dakle, ne postavlja svaka okolnost koja dodaje u dobroti ili zloći moralni čin u vrstu dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a11.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, okolnost daje moralnom činu vrstu dobra ili zla ukoliko se odnosi na poseban red razuma. Događa se pak katkad da se okolnost ne odnosi na red razuma u dobru ili zlu osim uz pretpostavku neke druge okolnosti, od koje moralni čin ima vrstu dobra ili zla. Tako odnijeti nešto u velikoj ili maloj količini ne odnosi se na red razuma u dobru ili zlu osim uz pretpostavku nekog drugog obilježja po kojem čin ima zloću ili dobrotu, primjerice to da je tuđe, što se protivi razumu. Stoga odnijeti tuđe u velikoj ili maloj količini ne čini različitom vrstu grijeha. Ipak može otežati ili umanjiti grijeh. I slično je u drugim zlima ili dobrima. Stoga ne mijenja svaka okolnost koja dodaje u dobroti ili zloći vrstu moralnog čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da u onome što se pojačava i slabi razlika pojačavanja i slabljenja ne čini vrstu različitom; tako ono što se razlikuje u bjelini po više i manje ne razlikuje se po vrsti boje. I slično, ono što čini različitost u dobru ili zlu po pojačavanju i slabljenju ne čini razliku moralnog čina po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a11.ad2": {
+      "text": "Na drugo treba reći da okolnost koja otežava grijeh ili povećava dobrotu čina katkad nema dobrotu ili zloću po sebi, nego po usmjerenosti prema drugom obilježju čina, kao što je rečeno. I zato ne daje novu vrstu, nego povećava dobrotu ili zloću koja je od drugog obilježja čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    },
+    "I-II.q18.a11.ad3": {
+      "text": "Na treće treba reći da ne unosi svaka okolnost poseban nedostatak po sebi samoj, nego samo po usmjerenosti prema nečemu drugome. I slično, ne dodaje uvijek novu savršenost, osim u usporedbi s nečim drugim. I utoliko, iako povećava dobrotu ili zloću, ne mijenja uvijek vrstu dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:21+00:00"
+    }
+  }
+}

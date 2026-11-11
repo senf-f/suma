@@ -1,0 +1,444 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 17,
+  "units": {
+    "I-II.q17.pr": {
+      "text": "Zatim treba razmotriti čine koje zapovijeda volja. I u vezi s tim postavlja se devet pitanja. Prvo, je li zapovijedati čin volje ili razuma. Drugo, pripada li zapovijedanje nerazumnim životinjama. Treće, o redu zapovijedanja prema upotrebi. Četvrto, jesu li zapovijedanje i zapovjeđeni čin jedan čin ili različiti. Peto, zapovijeda li se čin volje. Šesto, zapovijeda li se čin razuma. Sedmo, zapovijeda li se čin osjetilne težnje. Osmo, zapovijeda li se čin vegetativne duše. Deveto, zapovijedaju li se čini vanjskih udova.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da zapovijedati nije čin razuma, nego volje. Zapovijedati je, naime, neko pokretanje; Avicena, naime, kaže da je pokretač četverostruk: onaj koji usavršava, onaj koji raspoređuje, onaj koji zapovijeda i onaj koji savjetuje. Ali volji pripada pokretati sve druge sile duše, kako je gore rečeno. Dakle, zapovijedati je čin volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a1.obj2": {
+      "text": "Osim toga, kao što to da mu se zapovijeda pripada onome što je podložno, tako se čini da zapovijedati pripada onome što je najviše slobodno. Ali korijen slobode najviše je u volji. Dakle, volji pripada zapovijedati.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a1.obj3": {
+      "text": "Osim toga, za zapovijedanjem odmah slijedi čin. Ali za činom razuma ne slijedi odmah čin; jer onaj koji sudi da nešto treba učiniti, ne čini to odmah. Dakle, zapovijedati nije čin razuma, nego volje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a1.sc": {
+      "text": "Ali protiv toga je ono što kažu Grgur iz Nise, a i Filozof, da je težnjeni dio poslušan razumu. Dakle, razumu pripada zapovijedati.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a1.resp": {
+      "text": "Odgovaram: treba reći da je zapovijedati čin razuma, ali uz pretpostavljeni čin volje. Da bi to bilo jasno, treba uzeti u obzir sljedeće. Budući da se čini volje i razuma mogu odnositi jedan na drugi, naime ukoliko razum rasuđuje o htijenju, a volja hoće rasuđivati, događa se da čin razuma prethodi činu volje, i obratno. I budući da snaga prethodnoga čina ostaje u sljedećem činu, katkad se događa da je nešto čin volje, ukoliko u njemu virtualno ostaje nešto od čina razuma, kako je rečeno o upotrebi i o izboru; i obratno, nešto je čin razuma, ukoliko u njemu virtualno ostaje nešto od čina volje. A zapovijedati je bitno čin razuma; jer onaj koji zapovijeda usmjerava onoga kome zapovijeda na to da nešto učini, priopćujući mu to ili dajući mu na znanje; a tako usmjeravati na način nekog priopćavanja pripada razumu. Ali razum može nešto priopćiti ili dati na znanje na dva načina. Na jedan način apsolutno, i takvo se priopćavanje izriče glagolom izjavnoga načina, kao kad bi netko nekome rekao: To ti valja učiniti. A katkad razum nekome nešto priopćuje pokrećući ga na to, i takvo se priopćavanje izriče glagolom zapovjednoga načina, kao kad se nekome kaže: Učini to. A prvi pokretač u silama duše na vršenje čina jest volja, kako je gore rečeno. Budući, dakle, da drugi pokretač pokreće samo snagom prvoga pokretača, slijedi da upravo to što razum pokreće zapovijedajući, ima od snage volje. Stoga preostaje da je zapovijedati čin razuma, uz pretpostavljeni čin volje, snagom kojega razum po zapovijedanju pokreće na vršenje čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da zapovijedati nije pokretati na bilo koji način, nego s nekim priopćavanjem kojim se drugome nešto daje na znanje. A to pripada razumu.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a1.ad2": {
+      "text": "Na drugo treba reći da je korijen slobode volja kao subjekt, a kao uzrok razum. Zbog toga, naime, volja može slobodno ići prema različitome, što razum može imati različite zamisli dobra. I zato filozofi definiraju slobodno odlučivanje kao slobodan sud koji proizlazi iz razuma, kao da je razum uzrok slobode.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a1.ad3": {
+      "text": "Na treće treba reći da taj razlog zaključuje da zapovijedanje nije čin razuma apsolutno, nego s nekim pokretanjem, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da zapovijedati pristaje nerazumnim životinjama. Jer, prema Aviceni, *snaga koja zapovijeda gibanje jest težnjena, a snaga koja izvršava gibanje nalazi se u mišićima i u živcima*. Ali obje su te snage u nerazumnim životinjama. Dakle, zapovijedanje se nalazi u nerazumnim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a2.obj2": {
+      "text": "Osim toga, pojmu roba pripada to da mu se zapovijeda. Ali tijelo se prema duši odnosi kao rob prema gospodaru, kako kaže Filozof u I. knjizi Politike. Dakle, duša zapovijeda tijelu i u nerazumnih životinja, koje su sastavljene od duše i tijela.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a2.obj3": {
+      "text": "Osim toga, po zapovijedanju se čovjek porivom upućuje na djelo. Ali poriv prema djelu nalazi se u nerazumnim životinjama, kako kaže Damaščanin. Dakle, u nerazumnim se životinjama nalazi zapovijedanje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a2.sc": {
+      "text": "Ali protiv toga, zapovijedanje je čin razuma, kako je rečeno. Ali u nerazumnim životinjama nema razuma. Dakle, ni zapovijedanja.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a2.resp": {
+      "text": "Odgovaram: treba reći da zapovijedati nije ništa drugo nego usmjeravati nekoga na to da nešto učini, s nekim pokretanjem koje priopćuje. A usmjeravati je vlastiti čin razuma. Stoga je nemoguće da u nerazumnim životinjama, u kojima nema razuma, na bilo koji način bude zapovijedanje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za težnjenu silu kaže da zapovijeda gibanje ukoliko pokreće razum koji zapovijeda. Ali to je samo u ljudi. A u nerazumnim životinjama težnjena snaga nije u vlastitom smislu zapovjedna, osim ako se zapovjedno uzme široko u smislu pokretačkoga.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a2.ad2": {
+      "text": "Na drugo treba reći da u nerazumnim životinjama tijelo doduše ima ono po čemu sluša, ali duša nema ono po čemu bi zapovijedala, jer nema ono po čemu bi usmjeravala. I zato ondje nema pojma onoga koji zapovijeda i onoga kojemu se zapovijeda, nego samo pojma pokretača i pokretanoga.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a2.ad3": {
+      "text": "Na treće treba reći da se poriv prema djelu nalazi na jedan način u nerazumnim životinjama, a na drugi u ljudima. Ljudi se, naime, porivom upućuju na djelo po usmjeravanju razuma; stoga u njima poriv ima pojam zapovijedanja. A u nerazumnim životinjama poriv prema djelu nastaje po naravnom nagonu, naime zato što se njihova težnja, čim zahvati ono što je prikladno ili neprikladno, naravno pokreće na slijeđenje toga ili na bijeg od toga. Stoga ih drugi usmjerava na djelovanje, a ne usmjeravaju one same sebe na radnju. I zato u njima postoji poriv, ali ne zapovijedanje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da upotreba prethodi zapovijedanju. Zapovijedanje je, naime, čin razuma koji pretpostavlja čin volje, kako je gore rečeno. Ali upotreba je čin volje, kako je gore rečeno. Dakle, upotreba prethodi zapovijedanju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a3.obj2": {
+      "text": "Osim toga, zapovijedanje je nešto od onoga što je usmjereno prema svrsi. A upotreba se odnosi na ono što vodi k svrsi. Dakle, čini se da je upotreba prije zapovijedanja.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a3.obj3": {
+      "text": "Osim toga, svaki se čin moći koju pokreće volja naziva upotrebom, jer se volja služi drugim moćima, kako je gore rečeno. Ali zapovijedanje je čin razuma ukoliko ga pokreće volja, kako je rečeno. Dakle, zapovijedanje je neka upotreba. A opće je prije vlastitoga. Dakle, upotreba je prije zapovijedanja.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin, da poriv prema djelovanju prethodi upotrebi. Ali poriv prema djelovanju nastaje po zapovijedanju. Dakle, zapovijedanje prethodi upotrebi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a3.resp": {
+      "text": "Odgovaram: treba reći da upotreba onoga što vodi k svrsi, ukoliko je to u razumu koji ga odnosi prema svrsi, prethodi izboru, kako je gore rečeno. Stoga mnogo više prethodi zapovijedanju. Ali upotreba onoga što vodi k svrsi, ukoliko je to podložno izvršnoj moći, slijedi za zapovijedanjem, zato što je upotreba onoga koji se služi spojena s činom onoga čime se tko služi; nitko se, naime, ne služi štapom prije nego što na neki način štapom djeluje. A zapovijedanje nije istodobno s činom onoga kome se zapovijeda, nego je zapovijedanje naravno prije nego što se zapovijedanju posluša, a katkad je i vremenski prije. Stoga je očito da je zapovijedanje prije upotrebe.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ne prethodi svaki čin volje ovom činu razuma koji je zapovijedanje, nego jedan prethodi, naime izbor, a jedan slijedi, naime upotreba. Jer nakon zaključka promišljanja, koji je sud razuma, volja bira; a nakon izbora razum zapovijeda onome po čemu treba izvesti ono što je izabrano; i tada napokon nečija volja počinje služiti se, izvršavajući zapovijedanje razuma: katkad volja drugoga, kad netko zapovijeda drugome, a katkad volja samoga onoga koji zapovijeda, kad netko zapovijeda samome sebi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a3.ad2": {
+      "text": "Na drugo treba reći da kao što čini prethode moćima, tako predmeti prethode činima. A predmet upotrebe jest ono što vodi k svrsi. Iz toga, dakle, što je samo zapovijedanje nešto što vodi k svrsi, prije se može zaključiti da je zapovijedanje prije upotrebe nego da je poslije nje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a3.ad3": {
+      "text": "Na treće treba reći da, kao što čin volje koja se služi razumom da bi zapovijedala prethodi samom zapovijedanju, tako se također može reći da i toj upotrebi volje prethodi neko zapovijedanje razuma, zato što se čini tih moći međusobno vraćaju jedan na drugi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da zapovjeđeni čin nije jedan čin sa samim zapovijedanjem. Različite moći, naime, imaju različite čine. Ali zapovjeđeni čin pripada jednoj moći, a samo zapovijedanje drugoj, jer jedna je moć koja zapovijeda, a druga ona kojoj se zapovijeda. Dakle, zapovjeđeni čin nije isto što i zapovijedanje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a4.obj2": {
+      "text": "Osim toga, sve što se može međusobno odijeliti, jest različito; jer ništa se ne odjeljuje od samoga sebe. Ali katkad se zapovjeđeni čin odjeljuje od zapovijedanja; katkad, naime, prethodi zapovijedanje, a zapovjeđeni čin ne slijedi. Dakle, zapovijedanje je drugi čin od zapovjeđenoga čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a4.obj3": {
+      "text": "Osim toga, sve što se odnosi kao prije i kasnije, jest različito. Ali zapovijedanje naravno prethodi zapovjeđenom činu. Dakle, različiti su.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof, da *gdje je jedno radi drugoga, ondje je samo jedno*. Ali zapovjeđeni čin postoji samo radi zapovijedanja. Dakle, oni su jedno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a4.resp": {
+      "text": "Odgovaram: treba reći da ništa ne priječi da neke stvari budu u nekom pogledu mnoge, a u nekom pogledu jedno. Štoviše, sve su mnoge stvari u nekom pogledu jedno, kako kaže Dionizije u posljednjem poglavlju knjige O božanskim imenima. Ipak, u tome treba obratiti pozornost na razliku: neke su stvari naprosto mnoge, a u nekom pogledu jedno, a neke obratno. A jedno se kaže na isti način kao i biće. A biće naprosto jest supstancija, dok je biće u nekom pogledu akcident, ili pak misaono biće. I zato sve što je jedno po supstanciji, jest jedno naprosto, a mnogo u nekom pogledu. Tako je cjelina u rodu supstancije, sastavljena od svojih dijelova, bilo integralnih bilo bitnih, jedno naprosto; jer cjelina je naprosto biće i supstancija, a dijelovi su bića i supstancije u cjelini. A ono što je različito po supstanciji, a jedno po akcidentu, jest naprosto različito, a jedno u nekom pogledu, kao što su mnogi ljudi jedan narod i mnogo kamenja jedna hrpa; a to je jedinstvo sastavljenosti ili reda. Slično su i mnogi pojedinci koji su jedno po rodu ili vrsti naprosto mnogi, a u nekom pogledu jedno; jer biti jedno po rodu ili vrsti znači biti jedno po pojmu. A kao što je u rodu naravnih stvari neka cjelina sastavljena od tvari i forme, kao čovjek od duše i tijela, koji je jedno naravno biće, iako ima mnoštvo dijelova, tako se i u ljudskim činima čin niže moći odnosi prema činu više moći kao tvar, ukoliko niža moć djeluje snagom više moći koja je pokreće; tako se, naime, i čin prvoga pokretača odnosi prema činu oruđa kao forma. Stoga je jasno da su zapovijedanje i zapovjeđeni čin jedan ljudski čin, kao što je neka cjelina jedno, ali je po dijelovima mnoštvo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da bi, kad bi bile različite moći koje nisu usmjerene jedna prema drugoj, njihovi čini bili naprosto različiti. Ali kad jedna moć pokreće drugu, tada su njihovi čini na neki način jedan; jer isti je čin pokretača i pokretanoga, kako se kaže u III. knjizi Fizike.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a4.ad2": {
+      "text": "Na drugo treba reći da iz toga što se zapovijedanje i zapovjeđeni čin mogu međusobno odijeliti, proizlazi da su oni mnoštvo po dijelovima. Jer i dijelovi čovjeka mogu se međusobno odijeliti, a ipak su jedno u cjelini.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a4.ad3": {
+      "text": "Na treće treba reći da u onome što je mnoštvo po dijelovima, a jedno u cjelini, ništa ne priječi da jedno bude prije drugoga. Kao što je duša na neki način prije tijela, a srce prije drugih udova.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da čin volje nije zapovjeđen. Augustin, naime, kaže u VIII. knjizi Ispovijesti: *duh zapovijeda da duh hoće, pa ipak to ne čini*. A htjeti je čin volje. Dakle, čin volje se ne zapovijeda.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a5.obj2": {
+      "text": "Osim toga, biti predmetom zapovijedanja pristaje onome čemu pristaje shvatiti zapovijedanje. Ali volji ne pripada shvatiti zapovijedanje; volja se, naime, razlikuje od uma, kojemu pripada shvaćati. Dakle, čin volje se ne zapovijeda.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a5.obj3": {
+      "text": "Osim toga, ako se zapovijeda neki čin volje, s istim se razlogom zapovijedaju svi. Ali ako se zapovijedaju svi čini volje, nužno je ići u beskonačnost; jer čin volje prethodi činu razuma koji zapovijeda, kako je rečeno; a ako se taj čin volje opet zapovijeda, tom će opet zapovijedanju prethoditi drugi čin razuma, i tako u beskonačnost. A neprikladno je da se ide u beskonačnost. Dakle, čin volje se ne zapovijeda.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a5.sc": {
+      "text": "Ali protiv toga, sve što je u našoj vlasti, podložno je našem zapovijedanju. Ali čini volje najviše su u našoj vlasti; jer za sve se naše čine kaže da su u našoj vlasti utoliko ukoliko su voljni. Dakle, čine volje mi zapovijedamo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a5.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, zapovijedanje nije ništa drugo nego čin razuma koji, s nekim pokretanjem, usmjerava nešto na djelovanje. A očito je da razum može određivati o činu volje; jer kao što može suditi da je dobro nešto htjeti, tako može, zapovijedajući, odrediti da čovjek hoće. Iz toga je jasno da čin volje može biti zapovjeđen.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako Augustin na istome mjestu kaže, duh, kad savršeno zapovijeda sebi da hoće, tada već hoće; a to što katkad zapovijeda, a ne hoće, događa se zato što ne zapovijeda savršeno. A nesavršeno zapovijedanje događa se zato što se razum s različitih strana pokreće na to da zapovijedi ili da ne zapovijedi; stoga se koleba između dvoga i ne zapovijeda savršeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a5.ad2": {
+      "text": "Na drugo treba reći da, kao što u tjelesnim udovima svaki ud ne djeluje samo za sebe, nego za cijelo tijelo, kao što oko gleda za cijelo tijelo, tako je i u moćima duše. Jer um shvaća ne samo za sebe, nego za sve moći; i volja hoće ne samo za sebe, nego za sve moći. I zato čovjek samome sebi zapovijeda čin volje, ukoliko je onaj koji shvaća i hoće.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a5.ad3": {
+      "text": "Na treće treba reći da se, budući da je zapovijedanje čin razuma, zapovijeda onaj čin koji je podložan razumu. A prvi čin volje nije iz određenja razuma, nego iz naravnog nagona ili iz višega uzroka, kako je gore rečeno. I zato nije nužno da se ide u beskonačnost.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da čin razuma ne može biti zapovjeđen. Čini se, naime, neprikladnim da nešto zapovijeda samome sebi. Ali razum je onaj koji zapovijeda, kako je gore rečeno. Dakle, čin razuma se ne zapovijeda.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a6.obj2": {
+      "text": "Osim toga, ono što jest po biti, različito je od onoga što jest po sudjelovanju. Ali moć čiji čin razum zapovijeda jest razum po sudjelovanju, kako se kaže u I. knjizi Etike. Dakle, ne zapovijeda se čin one moći koja je razum po biti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a6.obj3": {
+      "text": "Osim toga, zapovijeda se onaj čin koji je u našoj vlasti. Ali spoznavati i prosuđivati istinito, što je čin razuma, nije uvijek u našoj vlasti. Dakle, čin razuma ne može biti zapovjeđen.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a6.sc": {
+      "text": "Ali protiv toga, ono što činimo slobodnim odlučivanjem, može se činiti po našem zapovijedanju. Ali čini razuma vrše se slobodnim odlučivanjem; Damaščanin, naime, kaže da *slobodnim odlučivanjem čovjek istražuje, ispituje, prosuđuje i raspoređuje*. Dakle, čini razuma mogu biti zapovjeđeni.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a6.resp": {
+      "text": "Odgovaram: treba reći da, budući da se razum vraća na samoga sebe, kao što određuje o činima drugih moći, tako može određivati i o svojemu činu. Stoga i njegov čin može biti zapovjeđen. Ali treba obratiti pozornost na to da se čin razuma može razmatrati na dva načina. Na jedan način, s obzirom na vršenje čina. I tako se čin razuma uvijek može zapovjediti, kao kad se nekome naloži da pazi i da se služi razumom. Na drugi način, s obzirom na predmet, a s obzirom na nj uočavaju se dva čina razuma. Prvo, da zahvati istinu o nečemu. A to nije u našoj vlasti, jer se to događa snagom nekoga svjetla, bilo naravnoga bilo nadnaravnoga. I zato u tom pogledu čin razuma nije u našoj vlasti i ne može se zapovjediti. A drugi je čin razuma kad prihvaća ono što je zahvatio. Ako je, dakle, ono zahvaćeno takvo da ga um naravno prihvaća, kao što su prva načela, prihvaćanje ili odbijanje takvoga nije u našoj vlasti, nego u redu naravi, i zato, u vlastitom smislu govoreći, nije podložno ni zapovijedanju. Ali ima nešto zahvaćeno što um ne uvjerava toliko da ne bi mogao to prihvatiti ili odbiti, ili barem obustaviti prihvaćanje ili odbijanje, zbog nekoga razloga; i u takvim je stvarima samo prihvaćanje ili odbijanje u našoj vlasti i potpada pod zapovijedanje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da razum zapovijeda samome sebi na isti način na koji i volja pokreće samu sebe, kako je gore rečeno, naime ukoliko se obje moći vraćaju na svoj čin i od jednoga teže prema drugome.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a6.ad2": {
+      "text": "Na drugo treba reći da, zbog različitosti predmeta koji su podložni činu razuma, ništa ne priječi da razum ima udjela u samome sebi, kao što se u spoznaji zaključaka ima udjela u spoznaji načela.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a6.ad3": {
+      "text": "Na treće je odgovor jasan iz rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da čin osjetilne težnje nije zapovjeđen. Apostol, naime, kaže u Rim 7: *jer ne činim dobro koje hoću*, a Glosa tumači da čovjek hoće ne osjećati požudu, a ipak je osjeća. Ali osjećati požudu jest čin osjetilne težnje. Dakle, čin osjetilne težnje nije podložan našem zapovijedanju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a7.obj2": {
+      "text": "Osim toga, tjelesna tvar sluša samo Boga s obzirom na formalnu preinaku, kako je utvrđeno u Prvom dijelu. Ali čin osjetilne težnje uključuje neku formalnu preinaku tijela, naime toplinu ili hladnoću. Dakle, čin osjetilne težnje nije podložan ljudskom zapovijedanju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a7.obj3": {
+      "text": "Osim toga, vlastiti pokretni razlog osjetilne težnje jest ono što je zahvaćeno osjetilom ili maštom. Ali nije uvijek u našoj vlasti da nešto zahvatimo osjetilom ili maštom. Dakle, čin osjetilne težnje nije podložan našem zapovijedanju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur iz Nise, da se *ono što je poslušno razumu dijeli na dvoje: na željni i na srditi dio*, a oni pripadaju osjetilnoj težnji. Dakle, čin osjetilne težnje podložan je zapovijedanju razuma.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a7.resp": {
+      "text": "Odgovaram: treba reći da je neki čin podložan našem zapovijedanju utoliko ukoliko je u našoj vlasti, kako je gore rečeno. I zato, da bi se shvatilo kako je čin osjetilne težnje podložan zapovijedanju razuma, treba razmotriti kako je on u našoj vlasti. A treba znati da se osjetilna težnja razlikuje od umske težnje, koja se naziva volja, po tome što je osjetilna težnja snaga tjelesnoga organa, a volja nije. A svaki čin snage koja se služi tjelesnim organom ne ovisi samo o moći duše, nego i o raspoloživosti tjelesnoga organa, kao što viđenje ovisi o vidnoj moći i o kakvoći oka, koja mu pomaže ili ga priječi. Stoga i čin osjetilne težnje ne ovisi samo o težnjenoj sili, nego i o raspoloživosti tijela. A ono što je na strani moći duše, slijedi za zahvaćanjem. A zahvaćanje mašte, budući da je pojedinačno, ravna se prema zahvaćanju razuma, koje je opće, kao što se posebna djelatna snaga ravna prema općoj djelatnoj snazi. I zato je s te strane čin osjetilne težnje podložan zapovijedanju razuma. A kakvoća i raspoloživost tijela nisu podložne zapovijedanju razuma. I zato je s te strane priječeno da pokret osjetilne težnje bude potpuno podložan zapovijedanju razuma. Događa se također katkad da se pokret osjetilne težnje iznenada potakne pri zahvaćanju mašte ili osjetila. I tada je taj pokret izvan zapovijedanja razuma, iako ga je razum mogao spriječiti da ga je predvidio. Zato Filozof kaže u I. knjizi Politike da razum vlada nad srditom i požudnom moći ne despotskom vladavinom, kakva je vladavina gospodara nad robom, nego političkom ili kraljevskom vladavinom, kakva je nad slobodnima, koji nisu potpuno podložni zapovijedanju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da to što čovjek hoće ne osjećati požudu, a ipak je osjeća, dolazi od raspoloživosti tijela, kojom je osjetilna težnja priječena da potpuno slijedi zapovijedanje razuma. Zato i Apostol ondje nadodaje: *vidim drugi zakon u svojim udovima, koji se protivi zakonu moga duha*. To se također događa zbog iznenadnoga pokreta požude, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a7.ad2": {
+      "text": "Na drugo treba reći da se tjelesna kakvoća prema činu osjetilne težnje odnosi na dva načina. Na jedan način kao ono što prethodi, ukoliko je netko po tijelu na neki način raspoložen za ovu ili onu strast. Na drugi način kao ono što slijedi, kao kad se netko od srdžbe zagrije. Kakvoća, dakle, koja prethodi nije podložna zapovijedanju razuma, jer je ili od naravi ili od nekoga prethodnoga pokretanja koje se ne može odmah smiriti. Ali kakvoća koja slijedi, slijedi za zapovijedanjem razuma, jer slijedi za mjesnim gibanjem srca, koje se giba na različite načine prema različitim činima osjetilne težnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a7.ad3": {
+      "text": "Na treće treba reći da, budući da je za zahvaćanje osjetila potrebno vanjsko osjetno, nije u našoj vlasti nešto zahvatiti osjetilom osim kad je osjetno prisutno; a njegova prisutnost nije uvijek u našoj vlasti. Tada se, naime, čovjek može služiti osjetilom kad hoće, osim ako postoji zapreka na strani organa. A zahvaćanje mašte podložno je određenju razuma, prema mjeri snage ili slabosti maštovne moći. Jer to što čovjek ne može zamisliti u mašti ono što razum razmatra, događa se ili zato što to nije zamislivo u mašti, kao netjelesne stvari, ili zbog slabosti maštovne snage, koja dolazi od neke neraspoloživosti organa.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da su čini vegetativne duše podložni zapovijedanju razuma. Osjetilne su sile, naime, plemenitije od sila vegetativne duše. Ali sile osjetilne duše podložne su zapovijedanju razuma. Dakle, mnogo više sile vegetativne duše.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a8.obj2": {
+      "text": "Osim toga, čovjek se naziva manjim svijetom, jer je duša u tijelu kao Bog u svijetu. Ali Bog je tako u svijetu da sve što je u svijetu sluša njegovo zapovijedanje. Dakle, i sve što je u čovjeku sluša zapovijedanje razuma, pa i sile vegetativne duše.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a8.obj3": {
+      "text": "Osim toga, pohvala i pokuda imaju mjesta samo u činima koji su podložni zapovijedanju razuma. Ali u činima hranidbene i rađalačke moći ima mjesta pohvali i pokudi, i kreposti i poroku, kao što je jasno u neumjerenosti u jelu i u bludnosti te u protivnim krepostima. Dakle, čini tih moći podložni su zapovijedanju razuma.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur iz Nise, da *ono što se ne da uvjeriti razumom jest hranidbeno i rađalačko*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a8.resp": {
+      "text": "Odgovaram: treba reći da neki čini proizlaze iz naravne težnje, a neki iz životinjske ili umske težnje; jer svaki djelatnik na neki način teži za svrhom. A naravna težnja ne slijedi za nekim zahvaćanjem, kao što za njim slijede životinjska i umska težnja. A razum zapovijeda na način zahvatne snage. I zato oni čini koji proizlaze iz umske ili životinjske težnje mogu biti zapovjeđeni od razuma, ali ne oni čini koji proizlaze iz naravne težnje. A takvi su čini vegetativne duše; zato Grgur iz Nise kaže da se naravnim naziva ono što je rađalačko i hranidbeno. I zbog toga čini vegetativne duše nisu podložni zapovijedanju razuma.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da je neki čin to plemenitiji i to više podložan zapovijedanju razuma što je netvarniji. Stoga upravo iz toga što sile vegetativne duše ne slušaju razum, proizlazi da su te sile najniže.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a8.ad2": {
+      "text": "Na drugo treba reći da se sličnost uočava u nečemu, naime u tome što, kao što Bog pokreće svijet, tako duša pokreće tijelo. Ali ne u svemu; jer duša nije stvorila tijelo ni iz čega, kao Bog svijet, zbog čega je svijet potpuno podložan njegovu zapovijedanju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a8.ad3": {
+      "text": "Na treće treba reći da krepost i porok, pohvala i pokuda, ne pripadaju samim činima hranidbene ili rađalačke moći, a to su probava i oblikovanje ljudskoga tijela, nego činima osjetilnoga dijela usmjerenima prema činima rađalačke ili hranidbene moći, primjerice u požudnoj želji za nasladom jela i spolnoga općenja i u služenju njima kako treba ili ne kako treba.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da udovi tijela ne slušaju razum s obzirom na svoje čine. Poznato je, naime, da su udovi tijela udaljeniji od razuma nego sile vegetativne duše. Ali sile vegetativne duše ne slušaju razum, kako je rečeno. Dakle, mnogo manje udovi tijela.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a9.obj2": {
+      "text": "Osim toga, srce je počelo životinjskoga gibanja. Ali gibanje srca nije podložno zapovijedanju razuma; Grgur iz Nise, naime, kaže da *ono što pulsira ne da se uvjeriti razumom*. Dakle, gibanje tjelesnih udova nije podložno zapovijedanju razuma.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a9.obj3": {
+      "text": "Osim toga, Augustin kaže u XIV. knjizi O Božjem gradu da je *gibanje spolnih udova katkad nametljivo, iako ga nitko ne traži, a katkad iznevjeri onoga koji za njim žudi; i dok u duhu kipi požuda, u tijelu je hladno*. Dakle, gibanja udova ne slušaju razum.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a9.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u VIII. knjizi Ispovijesti: *duh zapovijeda da se ruka pokrene, i tolika je lakoća da se zapovijedanje jedva razlikuje od služenja*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a9.resp": {
+      "text": "Odgovaram: treba reći da su udovi tijela neki organi moći duše. Stoga, kako se moći duše odnose prema tome da slušaju razum, tako se odnose i udovi tijela. Budući, dakle, da su osjetilne sile podložne zapovijedanju razuma, a naravne sile nisu, zato su sva gibanja udova koje pokreću osjetilne moći podložna zapovijedanju razuma, dok gibanja udova koja slijede za naravnim silama nisu podložna zapovijedanju razuma.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da udovi ne pokreću sami sebe, nego ih pokreću moći duše, od kojih su neke bliže razumu nego sile vegetativne duše.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a9.ad2": {
+      "text": "Na drugo treba reći da se u onome što pripada umu i volji najprije nalazi ono što je po naravi, iz čega se izvodi drugo: tako se iz spoznaje naravno poznatih načela izvodi spoznaja zaključaka, a iz htijenja svrhe za kojom se naravno žudi izvodi se izbor onoga što vodi k svrsi. Tako je i u tjelesnim gibanjima počelo po naravi. A počelo tjelesnoga gibanja jest od gibanja srca. Stoga je gibanje srca po naravi, a ne po volji; ono, naime, slijedi život kao akcident po sebi, a život je iz sjedinjenja duše i tijela. Kao što gibanje teških i lakih tijela slijedi njihovu supstancijalnu formu, zbog čega se i kaže da ih giba ono što ih proizvodi, prema Filozofu u VIII. knjizi Fizike. I zbog toga se to gibanje naziva životnim. Zato Grgur iz Nise kaže da, kao što rađalačko i hranidbeno ne sluša razum, tako ni ono što pulsira, što je životno. A pulsirajućim naziva gibanje srca, koje se očituje po pulsirajućim žilama.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    },
+    "I-II.q17.a9.ad3": {
+      "text": "Na treće treba reći da, kako kaže Augustin u XIV. knjizi O Božjem gradu, to što gibanje spolnih udova ne sluša razum dolazi od kazne za grijeh, naime da bi duša za svoju neposlušnost prema Bogu trpjela kaznu neposlušnosti osobito u onom udu po kojem se istočni grijeh prenosi na potomstvo. Ali budući da je po grijehu praroditelja, kako će se niže reći, narav prepuštena sama sebi, jer joj je oduzet nadnaravni dar koji je čovjeku bio božanski udijeljen, treba razmotriti naravni razlog zašto gibanje takvih udova posebno ne sluša razum. Uzrok toga navodi Aristotel u knjizi O uzrocima gibanja životinja, govoreći da su gibanja srca i stidnoga uda protuvoljna, naime zato što se takvi udovi uzbuđuju zbog nekoga zahvaćanja, ukoliko naime um i mašta predočuju nešto iz čega slijede strasti duše, za kojima slijedi gibanje tih udova. Ipak se ne gibaju po nalogu razuma ili uma, jer je naime za gibanje tih udova potrebna neka naravna kakvoćna promjena, naime topline i hladnoće, a ta kakvoćna promjena nije podložna zapovijedanju razuma. A to se posebno događa u ta dva uda zato što je svaki od njih kao neko odijeljeno živo biće, ukoliko je počelo života, a počelo je virtualno cjelina. Srce je, naime, počelo osjetila, a iz spolnoga uda izlazi sjemena snaga, koja je virtualno cijelo živo biće. I zato oni naravno imaju vlastita gibanja, jer počela moraju biti naravna, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:20+00:00"
+    }
+  }
+}

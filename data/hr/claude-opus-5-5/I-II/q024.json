@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 24,
+  "units": {
+    "I-II.q24.pr": {
+      "text": "Zatim treba razmotriti dobro i zlo u strastima duše. O tome se postavljaju četiri pitanja. Prvo, može li se u strastima duše naći moralno dobro i zlo. Drugo, je li svaka strast duše moralno zla. Treće, dodaje li svaka strast dobroti ili zloći čina ili joj oduzima. Četvrto, je li neka strast dobra ili zla po svojoj vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nijedna strast duše nije moralno dobra ili zla. Moralno je, naime, dobro i zlo svojstveno čovjeku; jer se ćudoređe u vlastitom smislu naziva ljudskim, kako kaže Ambrozije u komentaru Evanđelja po Luki. Ali strasti nisu svojstvene ljudima, nego su zajedničke i drugim životinjama. Dakle, nijedna strast duše nije moralno dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a1.obj2": {
+      "text": "Osim toga, dobro ili zlo čovjeka jest biti u skladu s razumom ili biti mimo razuma, kako kaže Dionizije u IV. poglavlju O božanskim imenima. Ali strasti duše nisu u razumu, nego u osjetilnoj težnji, kao što je gore rečeno. Dakle, ne pripadaju dobru ili zlu čovjeka, a to je moralno dobro.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a1.obj3": {
+      "text": "Osim toga, Filozof kaže u II. knjizi Etike: *zbog strasti niti nas hvale niti nas kude*. Ali zbog moralnih dobara i zala hvale nas i kude. Dakle, strasti nisu moralno dobre ili zle.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XIV. knjizi O Božjem gradu, govoreći o strastima duše: *zle su one ako je ljubav zla; dobre, ako je dobra*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a1.resp": {
+      "text": "Odgovaram: treba reći da se strasti duše mogu promatrati dvojako: na jedan način, same po sebi; na drugi način, ukoliko podliježu zapovijedanju razuma i volje. Ako se, dakle, promatraju same po sebi, naime ukoliko su neki pokreti nerazumne težnje, tako u njima nema moralnog dobra ili zla, koje ovisi o razumu, kao što je gore rečeno. Ako se pak promatraju ukoliko podliježu zapovijedanju razuma i volje, tako u njima ima moralnog dobra i zla. Osjetilna je, naime, težnja bliža samom razumu i volji nego vanjski udovi, čiji su pokreti i čini ipak moralno dobri ili zli ukoliko su voljni. Zato se tim više i same strasti, ukoliko su voljne, mogu nazvati moralno dobrima ili zlima. A nazivaju se voljnima bilo po tome što ih volja zapovijeda, bilo po tome što ih volja ne priječi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da su te strasti, promatrane same po sebi, zajedničke ljudima i drugim životinjama; ali ukoliko ih razum zapovijeda, svojstvene su ljudima.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a1.ad2": {
+      "text": "Na drugo treba reći da se i niže težnjene sile nazivaju razumskima, ukoliko na neki način imaju udjela u razumu, kako se kaže u I. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a1.ad3": {
+      "text": "Na treće treba reći da Filozof kaže da nas ne hvale ili kude zbog strasti promatranih apsolutno, ali ne isključuje da one mogu postati pohvalne ili pokudne ukoliko ih razum usmjeruje. Zato dodaje: *ne hvali se, naime, ili kudi onaj koji se boji ili srdi, nego onaj koji to čini na neki način*, to jest u skladu s razumom ili mimo razuma.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da su sve strasti duše moralno zle. Augustin, naime, kaže u IX. knjizi O Božjem gradu da *strasti duše neki nazivaju bolestima ili poremećajima duše*. Ali svaka bolest ili poremećaj duše jest nešto moralno zlo. Dakle, svaka je strast duše moralno zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a2.obj2": {
+      "text": "Osim toga, Damaščanin kaže: *djelovanje je pokret koji je u skladu s naravi, a strast onaj koji je mimo naravi*. Ali ono što je u pokretima duše mimo naravi ima pojam grijeha i moralnog zla; zato on na drugom mjestu kaže da se *đavao okrenuo od onoga što je u skladu s naravi prema onome što je mimo naravi*. Dakle, takve su strasti moralno zle.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a2.obj3": {
+      "text": "Osim toga, sve što navodi na grijeh ima pojam zla. Ali takve strasti navode na grijeh; zato se u Rim 7 nazivaju strastima grijeha. Dakle, čini se da su moralno zle.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XIV. knjizi O Božjem gradu: *ispravna ljubav ima sva ta čuvstva ispravna. Boje se, naime, griješiti, žude ustrajati, bole ih grijesi, raduju se dobrim djelima*.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a2.resp": {
+      "text": "Odgovaram: treba reći da su o tom pitanju stoici i peripatetici bili različitoga mišljenja: stoici su, naime, govorili da su sve strasti zle, a peripatetici da su umjerene strasti dobre. Ta razlika, iako se po riječima čini velikom, ipak u stvarnosti ili ne postoji ili je malena, ako tko razmotri nakane jednih i drugih. Stoici, naime, nisu razlikovali osjetilo i um, pa prema tome ni umsku i osjetilnu težnju. Zato nisu razlikovali strasti duše od pokreta volje po tome što su strasti duše u osjetilnoj težnji, a jednostavni pokreti volje u umskoj; nego su svaki razumni pokret težnjenog dijela nazivali voljom, a strašću su nazivali pokret koji izlazi izvan granica razuma. I zato, slijedeći njihovo mišljenje, Tulije u III. knjizi Tuskulanskih rasprava sve strasti naziva bolestima duše. Iz toga zaključuje da *oni koji su bolesni nisu zdravi, a oni koji nisu zdravi jesu bezumni*. Zato i bezumne nazivamo umobolnima. Peripatetici pak sve pokrete osjetilne težnje nazivaju strastima. Zato ih smatraju dobrima kad su umjerene razumom, a zlima kad su izvan umjerenosti razuma. Iz toga je jasno da Tulije u istoj knjizi neprikladno pobija mišljenje peripatetika, koji su odobravali srednju mjeru strasti, govoreći da *treba izbjegavati svako zlo, pa i osrednje; jer kao što tijelo, ako je i osrednje bolesno, nije zdravo, tako ni ta srednja mjera bolesti ili strasti duše nije zdrava*. Strasti se, naime, nazivaju bolestima ili poremećajima duše samo kad im nedostaje umjerenost razuma.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a2.ad1": {
+      "text": "Iz toga je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a2.ad2": {
+      "text": "Na drugo treba reći da se u svakoj strasti duše nešto dodaje naravnom gibanju srca ili mu se oduzima, ukoliko se srce giba jače ili slabije, po sistoli ili dijastoli; i po tome ima pojam strasti. Ali nije nužno da strast uvijek odstupa od reda naravnoga razuma.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a2.ad3": {
+      "text": "Na treće treba reći da strasti duše, ukoliko su izvan reda razuma, naginju grijehu; a ukoliko ih razum uređuje, pripadaju kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da bilo koja strast uvijek umanjuje dobrotu moralnog čina. Sve, naime, što priječi sud razuma, o kojem ovisi dobrota moralnog čina, posljedično umanjuje dobrotu moralnog čina. Ali svaka strast priječi sud razuma; Salustije, naime, kaže u Katilini: *svi ljudi koji vijećaju o nesigurnim stvarima trebaju biti slobodni od mržnje, srdžbe, prijateljstva i milosrđa*. Dakle, svaka strast umanjuje dobrotu moralnog čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a3.obj2": {
+      "text": "Osim toga, čin čovjeka to je bolji što je sličniji Bogu; zato Apostol kaže u Ef 5: *budite nasljedovatelji Božji kao djeca predraga. A Bog i sveti anđeli kažnjavaju bez srdžbe, pomažu bez suosjećanja s bijedom*, kako kaže Augustin u IX. knjizi O Božjem gradu. Dakle, bolje je takva dobra djela činiti bez strasti duše nego sa strašću.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a3.obj3": {
+      "text": "Osim toga, kao što se moralno zlo promatra po usmjerenosti prema razumu, tako i moralno dobro. Ali moralno se zlo umanjuje strašću: manje, naime, griješi onaj koji griješi iz strasti nego onaj koji griješi namjerno. Dakle, veće dobro čini onaj koji čini dobro bez strasti nego onaj koji ga čini sa strašću.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u IX. knjizi O Božjem gradu, da *strast milosrđa služi razumu kad se milosrđe iskazuje tako da se očuva pravednost, bilo kad se daje potrebnomu, bilo kad se oprašta pokorniku*. Ali ništa što služi razumu ne umanjuje moralno dobro. Dakle, strast duše ne umanjuje dobro ćudoređa.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a3.resp": {
+      "text": "Odgovaram: treba reći da su stoici, kao što su postavljali da je svaka strast duše zla, tako posljedično postavljali da svaka strast duše umanjuje dobrotu čina; jer svako se dobro miješanjem sa zlom ili posve dokida ili postaje manje dobro. I to je doduše istinito ako strastima duše nazivamo samo neuredne pokrete osjetilne težnje, ukoliko su poremećaji ili bolesti. Ali ako strastima naprosto nazivamo sve pokrete osjetilne težnje, tada savršenosti ljudskoga dobra pripada to da i same strasti budu umjerene razumom. Budući, naime, da se dobro čovjeka sastoji u razumu kao u korijenu, to će dobro biti to savršenije što se na više toga što čovjeku pristaje može proširiti. Zato nitko ne sumnja da savršenosti moralnoga dobra pripada to da čine vanjskih udova upravlja pravilo razuma. Stoga, budući da se osjetilna težnja može pokoravati razumu, kao što je gore rečeno, savršenosti moralnoga ili ljudskoga dobra pripada to da i same strasti duše budu uređene razumom. Kao što je, dakle, bolje da čovjek i hoće dobro i čini ga vanjskim činom, tako i savršenosti moralnoga dobra pripada to da se čovjek pokreće prema dobru ne samo voljom nego i osjetilnom težnjom, prema onome što se kaže u Psalmu 83: *srce moje i put moja kliktahu Bogu živomu*, tako da srce shvatimo kao umsku težnju, a put kao osjetilnu težnju.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se strasti duše mogu prema sudu razuma odnositi dvojako. Na jedan način, prethodno. I tako, budući da zamagljuju sud razuma, o kojem ovisi moralna dobrota čina, umanjuju dobrotu čina; pohvalnije je, naime, da netko čini djelo ljubavi iz suda razuma nego samo iz strasti milosrđa. Na drugi se način odnose naknadno. I to dvojako. Na jedan način, po načinu prelijevanja: naime, kad se viši dio duše snažno pokreće prema nečemu, njegov pokret slijedi i niži dio. I tako je strast koja naknadno postoji u osjetilnoj težnji znak jakosti volje. I tako pokazuje veću moralnu dobrotu. Na drugi način, po načinu izbora: kad, naime, čovjek po sudu razuma izabere da ga obuzme neka strast kako bi spremnije djelovao, uz suradnju osjetilne težnje. I tako strast duše dodaje dobroti radnje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a3.ad2": {
+      "text": "Na drugo treba reći da u Bogu i u anđelima nema osjetilne težnje, a ni tjelesnih udova; i zato se dobro u njima ne promatra po uređenosti strasti ili tjelesnih čina, kao u nama.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a3.ad3": {
+      "text": "Na treće treba reći da strast koja teži prema zlu, ako prethodi sudu razuma, umanjuje grijeh; ali ako slijedi na neki od spomenutih načina, povećava ga ili označuje njegovo povećanje.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:22+00:00"
+    },
+    "I-II.q24.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da nijedna strast duše nije po svojoj vrsti moralno dobra ili zla. Moralno se, naime, dobro i zlo promatra po razumu. Ali strasti su u osjetilnoj težnji, pa je tako ono što je u skladu s razumom za njih akcidentalno. Budući, dakle, da ništa što je akcidentalno ne pripada vrsti stvari, čini se da nijedna strast nije po svojoj vrsti dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:23+00:00"
+    },
+    "I-II.q24.a4.obj2": {
+      "text": "Osim toga, čini i strasti imaju vrstu od predmeta. Kad bi, dakle, neka strast po svojoj vrsti bila dobra ili zla, trebalo bi da strasti kojima je predmet dobro budu dobre po svojoj vrsti, kao ljubav, želja i radost; a da strasti kojima je predmet zlo budu zle po svojoj vrsti, kao mržnja, strah i žalost. Ali očito je da je to lažno. Dakle, nijedna strast nije dobra ili zla po svojoj vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:23+00:00"
+    },
+    "I-II.q24.a4.obj3": {
+      "text": "Osim toga, nema nijedne vrste strasti koja se ne bi nalazila u drugim životinjama. Ali moralno se dobro nalazi samo u čovjeku. Dakle, nijedna strast duše nije dobra ili zla po svojoj vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:23+00:00"
+    },
+    "I-II.q24.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u IX. knjizi O Božjem gradu, da *milosrđe pripada kreposti*. I Filozof kaže u II. knjizi Etike da je stid hvalevrijedna strast. Dakle, neke su strasti dobre ili zle po svojoj vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:23+00:00"
+    },
+    "I-II.q24.a4.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno o činima, čini da tako treba reći i o strastima: naime, da se vrsta čina ili strasti može promatrati dvojako. Na jedan način, ukoliko je u rodu naravi; i tako moralno dobro ili zlo ne pripada vrsti čina ili strasti. Na drugi način, ukoliko pripadaju rodu ćudoređa, naime ukoliko imaju udjela u nečemu od voljnoga i od suda razuma. I na taj način moralno dobro i zlo mogu pripadati vrsti strasti, ukoliko se kao predmet strasti uzima nešto što je samo po sebi prikladno razumu ili nesuglasno s razumom; kao što je jasno o stidu, koji je strah od sramotnoga, i o zavisti, koja je žalost zbog tuđega dobra. Tako, naime, pripadaju vrsti vanjskoga čina.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:23+00:00"
+    },
+    "I-II.q24.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se onaj razlog odnosi na strasti ukoliko pripadaju vrsti naravi, naime ukoliko se osjetilna težnja promatra u sebi. Ali ukoliko se osjetilna težnja pokorava razumu, dobro i zlo razuma više nije u njezinim strastima akcidentalno, nego po sebi.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:23+00:00"
+    },
+    "I-II.q24.a4.ad2": {
+      "text": "Na drugo treba reći da su strasti koje teže prema dobru, ako je to istinsko dobro, dobre; i slično one koje se udaljuju od istinskoga zla. Obratno, strasti koje su po udaljavanju od dobra i po približavanju zlu jesu zle.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:23+00:00"
+    },
+    "I-II.q24.a4.ad3": {
+      "text": "Na treće treba reći da se u nerazumnim životinjama osjetilna težnja ne pokorava razumu. Pa ipak, ukoliko je vodi neka naravna procjeniteljska sila, koja je podložna višem razumu, naime božanskom, u njima postoji neka sličnost moralnoga dobra s obzirom na strasti duše.",
+      "prompt_version": "1",
+      "glossary_version": 9,
+      "created_at": "2026-11-11T13:37:23+00:00"
+    }
+  }
+}
