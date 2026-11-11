@@ -1,4 +1,4 @@
-version: 11
+version: 12
 terms:
 - la: esse
   hr: bitak
@@ -2536,5 +2536,92 @@ terms:
   hr: habitus (porast, umanjenje, propadanje; bićevni / djelatni)
   alternatives: []
   note: Habitus stays "habitus"; consuetudo = "navika"; assuefactio = "navikavanje".
+  opis: null
+  mjesto: null
+- la: peccatum mortale / veniale
+  hr: smrtni / laki grijeh
+  alternatives:
+  - oprostivi grijeh
+  note: Venialis = "lak"; ex genere / ex conditione actus = "po rodu / po stanju čina".
+  opis: Smrtni grijeh odvraća čovjeka od posljednje svrhe i razara ljubav, pa je po
+    sebi nepopravljiv; laki grijeh nered je u onome što vodi k svrsi, a ne odvraća
+    od same svrhe, pa se lako oprašta.
+  mjesto: null
+- la: peccatum originale / actuale
+  hr: istočni / osobni grijeh
+  alternatives:
+  - počinjeni grijeh
+  note: Peccatum originale = "istočni grijeh" (never "izvorni grijeh"); traductio
+    / traduci = "prenošenje / prenositi se".
+  opis: Istočni grijeh je grijeh naravi koji se od Adama prenosi na sve koji od njega
+    potječu rađanjem; osobni je grijeh onaj koji čovjek sam počini svojim činom.
+  mjesto: null
+- la: iustitia originalis / status naturae integrae, corruptae
+  hr: izvorna pravednost / stanje cjelovite, pokvarene naravi
+  alternatives: []
+  note: The gift by which reason was subject to God and the lower powers to reason;
+    its loss is the formal element of original sin.
+  opis: Izvorna pravednost bila je dar kojim je razum bio podložan Bogu, a niže moći
+    razumu. Njezin je gubitak formalni vid istočnoga grijeha, a neurednost nižih moći
+    njegov tvarni vid.
+  mjesto: null
+- la: reatus (poenae / culpae) / debitum poenae
+  hr: podložnost kazni / krivnja / dug kazne
+  alternatives: []
+  note: 'Owner''s choice (v12): reatus poenae = "podložnost kazni", reatus culpae
+    = "krivnja" (culpa = krivnja as before). Debitum poenae = "dug kazne".'
+  opis: 'Nakon što grešni čin prođe, u čovjeku ostaju krivnja i podložnost kazni:
+    pravedni red traži da se nered grijeha ispravi kaznom.'
+  mjesto: null
+- la: macula (peccati)
+  hr: ljaga (grijeha)
+  alternatives:
+  - mrlja
+  note: Owner's choice (v12).
+  opis: Ljaga grijeha je gubitak sjaja duše koji ostaje nakon grešnoga čina, jer se
+    duša svojom privrženošću nižim stvarima odvratila od svjetla razuma i Božjega
+    zakona.
+  mjesto: null
+- la: fomes (peccati)
+  hr: žarište grijeha
+  alternatives:
+  - poticalo grijeha
+  note: Owner's choice (v12); the disordered concupiscence left by original sin.
+  opis: Žarište grijeha je neuredna požuda koja nakon istočnoga grijeha ostaje u čovjeku
+    i potiče ga na grijeh, kao što trud prima iskru.
+  mjesto: null
+- la: 'vitia capitalia: superbia; inanis gloria, invidia, ira, acedia, avaritia, gula,
+    luxuria'
+  hr: 'glavni grijesi: oholost; isprazna slava, zavist, srdžba, duhovna lijenost,
+    škrtost, neumjerenost u jelu i piću, bludnost'
+  alternatives:
+  - taština
+  - proždrljivost
+  note: 'Owner''s choice (v12): inanis gloria = "isprazna slava". Superbia (oholost)
+    is the queen and root of all vices; cupiditas / avaritia as the root = "pohlepa
+    / škrtost" by context; gula = "neumjerenost u jelu i piću"; luxuria = "bludnost".'
+  opis: Glavni su grijesi oni iz kojih kao iz izvora proizlaze drugi grijesi. Toma
+    s Grgurom stavlja oholost kao kraljicu svih poroka, a uz nju ubraja ispraznu slavu,
+    zavist, srdžbu, duhovnu lijenost, škrtost, neumjerenost u jelu i piću i bludnost.
+  mjesto: null
+- la: ex ignorantia / ex passione (infirmitate) / ex certa malitia
+  hr: iz neznanja / iz strasti (slabosti) / iz svjesne zloće
+  alternatives: []
+  note: The three inner causes of sin (q.76-78).
+  opis: Toma razlikuje grijeh iz neznanja, grijeh iz strasti, koji se naziva i grijehom
+    iz slabosti, i grijeh iz svjesne zloće, kad volja sama, bez neznanja i strasti,
+    izabire zlo.
+  mjesto: null
+- la: aversio a Deo / conversio ad bonum commutabile
+  hr: odvraćanje od Boga / okretanje prema promjenljivom dobru
+  alternatives: []
+  note: The two sides of every sin.
+  opis: U svakom grijehu postoji okretanje prema nekom promjenljivom dobru i, kod
+    smrtnoga grijeha, odvraćanje od nepromjenljivoga dobra, Boga.
+  mjesto: null
+- la: peccatum cordis, oris, operis / tentatio, suggestio
+  hr: grijeh srca, usta, djela / kušnja, nagovaranje
+  alternatives: []
+  note: Diabolus = "đavao", daemones = "demoni" as in the Prima Pars.
   opis: null
   mjesto: null
