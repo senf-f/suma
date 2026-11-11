@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 45,
+  "units": {
+    "I-II.q45.pr": {
+      "text": "Zatim treba razmotriti smjelost. U vezi s tim pitaju se četiri stvari. Prvo, je li smjelost protivna strahu. Drugo, kako se smjelost odnosi prema nadi. Treće, o uzroku smjelosti. Četvrto, o njezinu učinku.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da smjelost nije protivna strahu. Augustin, naime, kaže u knjizi Osamdeset i tri pitanja da je smjelost porok. A porok je protivan kreposti. Budući da, dakle, strah nije krepost, nego strast, čini se da smjelost nije protivna strahu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a1.obj2": {
+      "text": "Osim toga, jednome je protivno jedno. Ali strahu je protivna nada. Dakle, nije mu protivna smjelost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a1.obj3": {
+      "text": "Osim toga, svaka strast isključuje suprotstavljenu strast. Ali ono što se isključuje strahom jest sigurnost; Augustin, naime, kaže u II. knjizi Ispovijesti da se strah brine za sigurnost. Dakle, sigurnost je protivna strahu. Dakle, nije smjelost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a1.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u II. knjizi Retorike, da je *smjelost protivna strahu*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a1.resp": {
+      "text": "Odgovaram: treba reći da pojmu protivnih stvari pripada da su najviše udaljene jedna od druge, kako se kaže u X. knjizi Metafizike. A ono što je najviše udaljeno od straha jest smjelost: strah, naime, bježi od buduće štete zbog njezine pobjede nad samim onim koji se boji; a smjelost nasrće na prijeteću opasnost zbog svoje pobjede nad samom opasnošću. Stoga je smjelost očito protivna strahu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se srdžba i smjelost, i imena svih strasti, mogu uzeti na dva načina. Na jedan način, ukoliko apsolutno označuju pokrete osjetilne težnje prema nekom dobrom ili zlom predmetu; i tako su imena strasti. Na drugi način, ukoliko zajedno s takvim pokretom uključuju odstupanje od reda razuma; i tako su imena poroka. I na taj način Augustin govori o smjelosti; a mi sada govorimo o smjelosti na prvi način.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a1.ad2": {
+      "text": "Na drugo treba reći da jednome po istome nije protivno više toga; ali po različitome ništa ne priječi da jednome bude protivno više toga. I tako je gore rečeno da strasti srdite moći imaju dvostruku protivnost: jednu po suprotstavljenosti dobra i zla, i tako je strah protivan nadi; drugu po suprotstavljenosti pristupanja i odstupanja, i tako je strahu protivna smjelost, a nadi očaj.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a1.ad3": {
+      "text": "Na treće treba reći da sigurnost ne označuje nešto protivno strahu, nego samo isključenje straha: za onoga se, naime, kaže da je siguran tko se ne boji. Stoga je sigurnost suprotstavljena strahu kao lišenost, a smjelost kao protivno. I kao što protivno uključuje u sebi lišenost, tako smjelost uključuje sigurnost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da smjelost ne slijedi za nadom. Smjelost se, naime, odnosi na zla i strašne stvari, kako se kaže u III. knjizi Etike. A nada gleda na dobro, kao što je gore rečeno. Dakle, one imaju različite predmete i nisu istoga reda. Dakle, smjelost ne slijedi za nadom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a2.obj2": {
+      "text": "Osim toga, kao što je smjelost protivna strahu, tako je očaj protivan nadi. Ali strah ne slijedi za očajem; štoviše, očaj isključuje strah, kako kaže Filozof u II. knjizi Retorike. Dakle, smjelost ne slijedi za nadom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a2.obj3": {
+      "text": "Osim toga, smjelost smjera na neko dobro, naime na pobjedu. Ali težiti prema teško dostižnom dobru pripada nadi. Dakle, smjelost je isto što i nada. Dakle, ne slijedi za nadom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a2.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u III. knjizi Etike, da su *oni koji su dobre nade smioni*. Čini se, dakle, da smjelost slijedi za nadom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je već više puta rečeno, sve takve strasti duše pripadaju težnjenoj moći. A svaki se pokret težnjene moći svodi na slijeđenje ili bijeg. A slijeđenje ili bijeg odnosi se na nešto i po sebi i akcidentalno: po sebi je slijeđenje dobra, a bijeg od zla; akcidentalno pak može biti slijeđenje zla, zbog nekog pridruženog dobra, i bijeg od dobra, zbog nekog pridruženog zla. A ono što je akcidentalno slijedi za onim što je po sebi. I zato slijeđenje zla slijedi za slijeđenjem dobra, kao što i bijeg od dobra slijedi za bijegom od zla. A ovo četvero pripada četirima strastima: slijeđenje dobra pripada nadi, bijeg od zla strahu, nasrtanje na strašno zlo pripada smjelosti, a bijeg od dobra pripada očaju. Stoga slijedi da smjelost slijedi za nadom: jer time što se netko nada da će svladati prijeteće strašno, time smjelo nasrće na nj. A za strahom slijedi očaj: netko, naime, zato očajava što se boji teškoće koja postoji u vezi s dobrom kojemu se treba nadati.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da bi dokaz vrijedio kad bi dobro i zlo bili predmeti koji nemaju nikakvu usmjerenost jedan prema drugome. Ali budući da zlo ima neku usmjerenost prema dobru, jer je kasnije od dobra, kao što je lišenost kasnija od posjedovanja, zato je smjelost, koja nasrće na zlo, poslije nade, koja ide za dobrom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a2.ad2": {
+      "text": "Na drugo treba reći da, iako je dobro naprosto prije zla, ipak bijeg prvotno pripada zlu prije nego dobru, kao što i nasrtanje prvotno pripada dobru prije nego zlu. I zato, kao što je nada prije smjelosti, tako je strah prije očaja. I kao što iz straha ne slijedi uvijek očaj, nego kad je jak, tako iz nade ne slijedi uvijek smjelost, nego kad je silna.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a2.ad3": {
+      "text": "Na treće treba reći da smjelost, premda se odnosi na zlo s kojim je, prema procjeni smionoga, povezano dobro pobjede, ipak gleda na zlo, a na pridruženo dobro gleda nada. I slično očaj izravno gleda na dobro, od kojega bježi, a na pridruženo zlo gleda strah. Stoga, u vlastitom smislu govoreći, smjelost nije dio nade, nego njezin učinak, kao što ni očaj nije dio straha, nego njegov učinak. I zbog toga smjelost ne može biti ni glavna strast.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je neki nedostatak uzrok smjelosti. Filozof, naime, kaže u knjizi Problema da su *ljubitelji vina jaki i smioni*. Ali od vina slijedi nedostatak pijanstva. Dakle, smjelost je prouzročena nekim nedostatkom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a3.obj2": {
+      "text": "Osim toga, Filozof kaže u II. knjizi Retorike da su *oni koji nemaju iskustva s opasnostima smioni*. Ali neiskustvo je neki nedostatak. Dakle, smjelost je prouzročena nedostatkom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a3.obj3": {
+      "text": "Osim toga, oni koji su pretrpjeli nepravdu obično su smioniji, kao i zvijeri kad ih udaraju, kako se kaže u III. knjizi Etike. Ali trpjeti nepravdu pripada nedostatku. Dakle, smjelost je prouzročena nekim nedostatkom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a3.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u II. knjizi Retorike, da je uzrok smjelosti *kad u mašti postoji nada da je ono što spašava blizu, a da ono čega se treba bojati ili ne postoji ili je daleko*. Ali ono što pripada nedostatku pripada ili udaljenosti onoga što spašava ili blizini onoga što je strašno. Dakle, ništa što pripada nedostatku nije uzrok smjelosti.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, smjelost slijedi za nadom i protivna je strahu; stoga je sve što je po naravi takvo da prouzročuje nadu ili isključuje strah uzrok smjelosti. A budući da se strah i nada, pa i smjelost, kao neke strasti, sastoje u pokretu težnje i u nekoj tjelesnoj preinaci, uzrok smjelosti može se uzeti na dva načina, bilo s obzirom na izazivanje nade, bilo s obzirom na isključenje straha: na jedan način sa strane težnjenog pokreta, a na drugi način sa strane tjelesne preinake. Sa strane težnjenog pokreta, koji slijedi za zahvaćanjem, nada koja prouzročuje smjelost izaziva se onim što nas navodi da procijenimo da je moguće izvojevati pobjedu: bilo po vlastitoj moći, kao što su tjelesna snaga, iskustvo u opasnostima, mnoštvo novca i drugo takvo; bilo po moći drugih, kao što je mnoštvo prijatelja ili bilo kakvih pomagača, a osobito ako se čovjek pouzdaje u božansku pomoć; *zato su smioniji oni koji se dobro odnose prema božanskim stvarima*, kako kaže i Filozof u II. knjizi Retorike. A strah se na taj način isključuje uklanjanjem strašnih stvari koje se približavaju: na primjer, zato što čovjek nema neprijatelja, zato što nikome nije naudio, zato što ne vidi da prijeti kakva opasnost; jer se onima čini da im ponajviše prijete opasnosti koji su drugima naudili. Sa strane pak tjelesne preinake, smjelost je prouzročena izazivanjem nade i isključenjem straha od onoga što stvara toplinu oko srca. Zato Filozof kaže u knjizi O dijelovima životinja da *oni koji imaju srce maleno po kolikoći jesu smioniji, a životinje koje imaju srce veliko po kolikoći jesu plašljive, jer naravna toplina ne može toliko zagrijati veliko srce kao maleno, kao što vatra ne može toliko zagrijati veliku kuću kao malenu*. A u knjizi Problema kaže da su *oni koji imaju pluća puna krvi smioniji, zbog topline srca koja odatle slijedi*. I ondje kaže da su *ljubitelji vina smioniji, zbog topline vina*; zato je i gore rečeno da pijanstvo pridonosi dobroj nadi: toplina srca, naime, odbija strah i prouzročuje nadu, zbog širenja i povećavanja srca.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da pijanstvo prouzročuje smjelost ne ukoliko je nedostatak, nego ukoliko uzrokuje širenje srca, i ukoliko također stvara procjenu neke veličine.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a3.ad2": {
+      "text": "Na drugo treba reći da su oni koji nemaju iskustva s opasnostima smioniji ne zbog nedostatka, nego akcidentalno, ukoliko, naime, zbog neiskustva ne spoznaju ni svoju slabost ni prisutnost opasnosti. I tako, oduzimanjem uzroka straha, slijedi smjelost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a3.ad3": {
+      "text": "Na treće treba reći da, kako kaže Filozof u II. knjizi Retorike, *oni koji su pretrpjeli nepravdu postaju smioniji, jer procjenjuju da Bog pruža pomoć onima koji su pretrpjeli nepravdu*. I tako je jasno da nikakav nedostatak ne prouzročuje smjelost osim akcidentalno, ukoliko, naime, ima pridruženu neku nadmoć, bilo stvarnu bilo umišljenu, bilo sa svoje strane bilo sa strane drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da smioni nisu spremniji na početku nego u samim opasnostima. Drhtanje je, naime, prouzročeno strahom, koji je protivan smjelosti, kao što je jasno iz rečenoga. Ali smioni katkad na početku drhte, kako kaže Filozof u knjizi Problema. Dakle, nisu spremniji na početku nego kad su u samim opasnostima.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a4.obj2": {
+      "text": "Osim toga, povećanjem predmeta povećava se strast: kao što, ako je dobro vrijedno ljubavi, i veće je dobro više vrijedno ljubavi. Ali teško dostižno je predmet smjelosti. Dakle, kad se poveća teško dostižno, povećava se smjelost. Ali opasnost postaje teže dostižnom i težom kad je prisutna. Dakle, tada bi smjelost trebala više rasti.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a4.obj3": {
+      "text": "Osim toga, zadanim ranama izaziva se srdžba. Ali srdžba prouzročuje smjelost, jer Filozof kaže u II. knjizi Retorike da srdžba čini smionim. Dakle, kad su već u samim opasnostima i kad ih udaraju, čini se da postaju smioniji.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u III. knjizi Etike, da *smioni srljaju naprijed i voljni su prije opasnosti, a u samim opasnostima uzmiču*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a4.resp": {
+      "text": "Odgovaram: treba reći da smjelost, budući da je neki pokret osjetilne težnje, slijedi za zahvaćanjem osjetilne snage. A osjetilna snaga ne uspoređuje niti istražuje pojedinosti koje okružuju stvar, nego ima iznenadan sud. Događa se pak katkad da se po iznenadnom zahvaćanju ne može spoznati sve ono što stvara teškoću u nekom pothvatu; i odatle se rađa pokret smjelosti da se upusti u opasnost. Stoga, kad već iskuse samu opasnost, osjećaju veću teškoću nego što su procijenili. I zato zakazuju. Ali razum pretresa sve ono što pothvatu stvara teškoću. I zato se hrabri, koji se po sudu razuma upuštaju u opasnosti, na početku čine mlakima, jer se u njih ne upuštaju pod utjecajem strasti, nego s dužnim razmišljanjem. A kad su u samim opasnostima, ne doživljavaju ništa nepredviđeno, nego katkad manje od onoga što su unaprijed promislili. I zato više ustraju. Ili i zato što se upuštaju u opasnosti zbog dobra kreposti, a htijenje toga dobra u njima ustraje, kolike god bile opasnosti. Smioni se pak u njih upuštaju samo zbog procjene koja stvara nadu i isključuje strah, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da i kod smionih nastaje drhtanje, zbog povlačenja topline iz vanjskih dijelova prema unutra, kao i kod onih koji se boje. Ali kod smionih se toplina povlači prema srcu, a kod onih koji se boje prema donjim dijelovima.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a4.ad2": {
+      "text": "Na drugo treba reći da je predmet ljubavi naprosto dobro; stoga, kad se ono poveća, naprosto povećava ljubav. Ali predmet smjelosti sastavljen je od dobra i zla; i pokret smjelosti prema zlu pretpostavlja pokret nade prema dobru. I zato, ako se opasnosti doda toliko teške dostižnosti da nadmaši nadu, neće slijediti pokret smjelosti, nego će se on smanjiti. Ako ipak postoji pokret smjelosti, što je veća opasnost, to se veća smatra smjelost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q45.a4.ad3": {
+      "text": "Na treće treba reći da se iz povrede ne prouzročuje srdžba ako se ne pretpostavlja neka nada, kao što će se niže reći. I zato, ako je opasnost tolika da nadmašuje nadu u pobjedu, neće slijediti srdžba. Ali istina je da će se, ako srdžba slijedi, smjelost povećati.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    }
+  }
+}

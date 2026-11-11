@@ -1,0 +1,420 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 35,
+  "units": {
+    "I-II.q35.pr": {
+      "text": "Zatim treba razmotriti bol i žalost. U vezi s tim treba razmotriti: prvo, žalost ili bol po sebi; drugo, njezine uzroke; treće, njezine učinke; četvrto, lijekove protiv nje; peto, njezinu dobrotu ili zloću. U vezi s prvim pita se osam stvari. Prvo, je li bol strast duše. Drugo, je li žalost isto što i bol. Treće, je li žalost, ili bol, protivna nasladi. Četvrto, je li svaka žalost protivna svakoj nasladi. Peto, je li nasladi motrenja protivna neka žalost. Šesto, treba li više bježati od žalosti nego težiti za nasladom. Sedmo, je li vanjska bol veća od unutarnje boli. Osmo, o vrstama žalosti.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da bol nije strast duše. Nijedna, naime, strast duše nije u tijelu. Ali bol može biti u tijelu; Augustin, naime, kaže u knjizi O pravoj religiji da je *bol koja se naziva tjelesnom naglo propadanje zdravlja one stvari koju je duša, loše se njome služeći, podvrgnula propadanju*. Dakle, bol nije strast duše.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a1.obj2": {
+      "text": "Osim toga, svaka strast duše pripada težnjenoj sili. Ali bol ne pripada težnjenoj sili, nego prije zahvatnoj; Augustin, naime, kaže u knjizi O naravi dobra da *bol u tijelu stvara osjetilo koje se opire jačem tijelu*. Dakle, bol nije strast duše.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a1.obj3": {
+      "text": "Osim toga, svaka strast duše pripada duševnoj težnji. Ali bol ne pripada duševnoj težnji, nego prije naravnoj težnji; Augustin, naime, kaže u VIII. knjizi O doslovnom tumačenju Knjige postanka: *da nije neko dobro ostalo u naravi, ne bi u kazni bilo boli ni za kakvim izgubljenim dobrom*. Dakle, bol nije strast duše.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a1.sc": {
+      "text": "Ali protiv toga je to što Augustin u XIV. knjizi O Božjem gradu ubraja bol među strasti duše, navodeći ono Vergilijevo: *odatle se boje, žude, raduju se i trpe bol*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a1.resp": {
+      "text": "Odgovaram: treba reći da, kao što se za nasladu traže dvije stvari, naime spoj s dobrom i opažanje toga spoja, tako se i za bol traže dvije stvari, naime spoj s nekim zlom (koje je zlo po tome što lišava nekoga dobra) i opažanje toga spoja. A ono što se spaja, ako s obzirom na ono s čime se spaja nema pojam dobra ili zla, ne može uzrokovati nasladu ili bol. Iz toga je jasno da je nešto pod pojmom dobra ili zla predmet naslade i boli. A dobro i zlo, ukoliko su takvi, predmeti su težnje. Stoga je jasno da naslada i bol pripadaju težnji. A svaki težnjeni pokret, ili sklonost koja slijedi zahvaćanje, pripada umskoj ili osjetilnoj težnji; jer sklonost naravne težnje ne slijedi zahvaćanje samoga onoga koji teži, nego nekoga drugoga, kako je rečeno u Prvom dijelu. Budući, dakle, da naslada i bol pretpostavljaju u istom subjektu osjetilo ili neko zahvaćanje, očito je da je bol, kao i naslada, u umskoj ili osjetilnoj težnji. A svaki se pokret osjetilne težnje naziva strašću, kako je gore rečeno; i to osobito oni koji upućuju na nedostatak. Stoga se bol, ukoliko je u osjetilnoj težnji, u najvlastitijem smislu naziva strašću duše, kao što se tjelesne tegobe u vlastitom smislu nazivaju trpnjama tijela. Zato i Augustin u XIV. knjizi O Božjem gradu bol posebno naziva bolešću.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za bol kaže da je tjelesna zato što je uzrok boli u tijelu, primjerice kad trpimo nešto što je štetno tijelu. Ali pokret boli uvijek je u duši; jer tijelo ne može osjećati bol ako bol ne osjeća duša, kako kaže Augustin.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a1.ad2": {
+      "text": "Na drugo treba reći da se za bol kaže da pripada osjetilu ne zato što bi bila čin osjetilne snage, nego zato što se osjetilo traži za tjelesnu bol, kao i za nasladu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a1.ad3": {
+      "text": "Na treće treba reći da bol zbog gubitka dobra pokazuje dobrotu naravi, ne zato što bi bol bila čin naravne težnje, nego zato što narav teži za nečim kao za dobrom, a kad se osjeti da se to uklanja, slijedi strast boli u osjetilnoj težnji.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da žalost nije bol. Augustin, naime, kaže u XIV. knjizi O Božjem gradu da se *o boli govori kod tijela*. A o žalosti se govori više kod duše. Dakle, žalost nije bol.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a2.obj2": {
+      "text": "Osim toga, bol je samo zbog sadašnjega zla. Ali žalost može biti zbog prošloga i zbog budućega, kao što je kajanje žalost zbog prošloga, a tjeskoba zbog budućega. Dakle, žalost se potpuno razlikuje od boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a2.obj3": {
+      "text": "Osim toga, čini se da bol slijedi samo osjetilo dodira. Ali žalost može proizlaziti iz svih osjetila. Dakle, žalost nije bol, nego se proteže na više toga.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Rim 9: *velika mi je žalost i neprestana bol u srcu mojem*, uzimajući žalost i bol za isto.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a2.resp": {
+      "text": "Odgovaram: treba reći da naslada i bol mogu biti uzrokovane dvostrukim zahvaćanjem, naime zahvaćanjem vanjskoga osjetila i unutarnjim zahvaćanjem, bilo uma bilo mašte. A unutarnje se zahvaćanje proteže na više toga nego vanjsko, jer sve što potpada pod vanjsko zahvaćanje potpada i pod unutarnje, ali ne i obrnuto. Dakle, samo se ona naslada koja je uzrokovana unutarnjim zahvaćanjem naziva radošću, kako je gore rečeno. I slično se samo ona bol koja je uzrokovana unutarnjim zahvaćanjem naziva žalošću. I kao što se ona naslada koja je uzrokovana vanjskim zahvaćanjem naziva doduše nasladom, ali ne radošću, tako se i ona bol koja je uzrokovana vanjskim zahvaćanjem naziva doduše boli, ali ne žalošću. Tako je, dakle, žalost neka vrsta boli, kao što je radost vrsta naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin ondje govori s obzirom na uporabu riječi, jer se riječ bol više rabi za tjelesne boli, koje su poznatije, nego za duhovne boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a2.ad2": {
+      "text": "Na drugo treba reći da vanjsko osjetilo opaža samo sadašnje, a unutarnja spoznajna sila može opažati sadašnje, prošlo i buduće. I zato žalost može biti zbog sadašnjega, prošloga i budućega, a tjelesna bol, koja slijedi zahvaćanje vanjskoga osjetila, može biti samo zbog sadašnjega.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a2.ad3": {
+      "text": "Na treće treba reći da su osjetni predmeti dodira bolni ne samo ukoliko su nerazmjerni zahvatnoj snazi, nego i ukoliko su protivni naravi. A osjetni predmeti drugih osjetila mogu doduše biti nerazmjerni zahvatnoj snazi, ali nisu protivni naravi, osim u odnosu na osjetne predmete dodira. Stoga se samo čovjek, koji je životinja savršena u spoznaji, naslađuje osjetnim predmetima drugih osjetila radi njih samih, a druge se životinje njima naslađuju samo ukoliko se odnose na osjetne predmete dodira, kako se kaže u III. knjizi Etike. I zato se za osjetne predmete drugih osjetila ne kaže da uzrokuju bol, ukoliko je ona protivna naravnoj nasladi, nego prije žalost, koja je protivna duševnoj radosti. Tako se, dakle, ako se bol uzme kao tjelesna bol, što je uobičajenije, bol suprotstavlja žalosti kao drugi član diobe, prema razlikovanju unutarnjega i vanjskoga zahvaćanja; premda se, s obzirom na predmete, naslada proteže na više toga nego tjelesna bol. Ako se pak bol uzme općenito, tada je bol rod žalosti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da bol nije protivna nasladi. Jedno od protivnoga, naime, nije uzrok drugoga. Ali žalost može biti uzrok naslade; kaže se, naime, u Mt 5: *blaženi koji tuguju, jer će se utješiti*. Dakle, nisu protivne.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a3.obj2": {
+      "text": "Osim toga, jedno od protivnoga ne daje ime drugomu. Ali u nekim je slučajevima sama bol ili žalost ugodna, kao što Augustin kaže u III. knjizi Ispovijesti da bol u prizorima pričinja nasladu. A u IV. knjizi Ispovijesti kaže da je *plač gorka stvar, a ipak katkad pričinja nasladu*. Dakle, bol nije protivna nasladi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a3.obj3": {
+      "text": "Osim toga, jedno od protivnoga nije građa drugoga, jer protivno ne može biti istodobno. Ali bol može biti građa naslade; Augustin, naime, kaže u knjizi O pokori: *neka pokornik uvijek trpi bol i neka se raduje zbog boli*. A Filozof kaže u IX. knjizi Etike da, obrnuto, *zao čovjek osjeća bol zbog onoga čime se naslađivao*. Dakle, naslada i bol nisu protivne.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XIV. knjizi O Božjem gradu, da je *veselje volja koja se slaže s onim što hoćemo, a žalost volja koja se ne slaže s onim što nećemo*. Ali slagati se i ne slagati se jesu protivni. Dakle, veselje i žalost jesu protivni.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kako kaže Filozof u X. knjizi Metafizike, protivnost razlika po formi. A forma, ili vrsta, strasti i pokreta uzima se od predmeta ili od završne granice. Stoga, budući da su predmeti naslade i žalosti, ili boli, protivni, naime sadašnje dobro i sadašnje zlo, slijedi da su bol i naslada protivne.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ništa ne priječi da jedno od protivnoga bude akcidentalno uzrok drugoga. A tako žalost može biti uzrok naslade. Na jedan način, ukoliko žalost zbog odsutnosti neke stvari ili zbog prisutnosti onoga što joj je protivno jače traži ono u čemu bi se naslađivala, kao što žedan jače traži nasladu pića kao lijek protiv žalosti koju trpi. Na drugi način, ukoliko netko iz velike želje za nekom nasladom ne odbija podnositi žalosti, da bi do te naslade došao. I na oba načina sadašnje tugovanje vodi do utjehe budućega života. Jer upravo time što čovjek tuguje zbog grijeha ili zbog odgađanja slave, zaslužuje vječnu utjehu. Slično je zaslužuje i netko time što, da bi je postigao, ne izbjegava podnositi radi nje napore i tjesnobe.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a3.ad2": {
+      "text": "Na drugo treba reći da sama bol može biti akcidentalno ugodna, naime ukoliko ima pridruženo divljenje, kao u prizorima; ili ukoliko izaziva spominjanje voljene stvari i daje opaziti ljubav prema onome zbog čije se odsutnosti osjeća bol. Stoga, budući da je ljubav ugodna, i bol i sve što proizlazi iz ljubavi, ukoliko se u njemu osjeća ljubav, ugodno je. I zbog toga i boli u prizorima mogu biti ugodne, ukoliko se u njima osjeća neka ljubav začeta prema onima koji se u prizorima prikazuju.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a3.ad3": {
+      "text": "Na treće treba reći da se volja i razum vraćaju na vlastite čine, ukoliko se sami čini volje i razuma uzimaju pod pojmom dobra ili zla. I na taj način žalost može biti građa naslade, ili obrnuto, ne po sebi, nego akcidentalno, naime ukoliko se jedno i drugo uzima pod pojmom dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je svaka žalost protivna svakoj nasladi. Kao što su, naime, bjelina i crnina protivne vrste boje, tako su naslada i žalost protivne vrste strasti duše. Ali bjelina i crnina općenito su jedna drugoj suprotstavljene. Dakle, i naslada i žalost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a4.obj2": {
+      "text": "Osim toga, lijekovi djeluju protivnim. Ali svaka je naslada lijek protiv svake žalosti, kako je jasno iz Filozofa u VII. knjizi Etike. Dakle, svaka je naslada protivna svakoj žalosti.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a4.obj3": {
+      "text": "Osim toga, protivno je ono što jedno drugo priječi. Ali svaka žalost priječi svaku nasladu, kako je jasno iz onoga što se kaže u X. knjizi Etike. Dakle, svaka je žalost protivna svakoj nasladi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a4.sc": {
+      "text": "Ali protiv toga, protivno nema isti uzrok. Ali iz istoga habitusa proizlazi to da se netko raduje jednome i žalosti se zbog suprotstavljenoga; *iz ljubavi se, naime, događa da se radujemo s radosnima i plačemo s onima koji plaču*, kako se kaže u Rim 12. Dakle, nije svaka žalost protivna svakoj nasladi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a4.resp": {
+      "text": "Odgovaram: treba reći da je, kako se kaže u X. knjizi Metafizike, protivnost razlika po formi. A forma je i opća i posebna. Stoga se događa da su neke stvari protivne po formi roda, kao krepost i porok, i po formi vrste, kao pravednost i nepravednost. A treba uočiti da neke stvari primaju vrstu po apsolutnim formama, kao supstancije i kakvoće, a neke primaju vrstu po odnosu prema nečemu izvanjskom, kao što strasti i pokreti primaju vrstu od završnih granica ili od predmeta. Kod onih stvari, dakle, kojih se vrste promatraju po apsolutnim formama, događa se doduše da vrste koje su sadržane pod protivnim rodovima nisu protivne po pojmu vrste, ali se ne događa da imaju neku srodnost ili podudarnost jedna s drugom. Neumjerenost, naime, i pravednost, koje su u protivnim rodovima, naime u kreposti i poroku, nisu jedna drugoj protivne po pojmu vlastite vrste, a ipak nemaju nikakve srodnosti ili podudarnosti jedna s drugom. Ali kod onih stvari kojih se vrste uzimaju po odnošaju prema nečemu izvanjskom, događa se da vrste protivnih rodova ne samo da nisu protivne jedna drugoj, nego imaju i neku podudarnost i srodnost jedna s drugom; jer odnositi se na isti način prema protivnome uvodi protivnost, kao što približavanje bijelome i približavanje crnome imaju pojam protivnosti, a odnositi se na protivan način prema protivnome ima pojam sličnosti, kao udaljavanje od bijeloga i približavanje crnome. A to se najviše očituje u proturječju, koje je načelo suprotstavljenosti; jer se suprotstavljenost sastoji u potvrđivanju i nijekanju istoga, kao bijelo i ne-bijelo, a u potvrđivanju jednoga od suprotstavljenoga i nijekanju drugoga uočava se podudarnost i sličnost, kao kad bih rekao: crno i ne-bijelo. A žalost i naslada, budući da su strasti, primaju vrstu od predmeta. I doduše po svojem rodu imaju protivnost, jer jedno pripada težnji za nečim, a drugo bijegu, *koji su u težnji ono što su u razumu potvrđivanje i nijekanje*, kako se kaže u VI. knjizi Etike. I zato žalost i naslada koje se odnose na isto imaju jedna prema drugoj suprotstavljenost po vrsti. A žalost i naslada koje se odnose na različito, ako to različito nije suprotstavljeno nego raznorodno, nemaju jedna prema drugoj suprotstavljenosti po pojmu vrste, nego su i same raznorodne, kao žalostiti se zbog smrti prijatelja i naslađivati se u motrenju. Ako je pak to različito protivno, tada naslada i žalost ne samo da nemaju protivnosti po pojmu vrste, nego imaju i podudarnost i srodnost, kao radovati se dobru i žalostiti se zbog zla.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da bjelina i crnina ne primaju vrstu iz odnošaja prema nečemu izvanjskom, kao naslada i žalost. Stoga nije isti razlog.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a4.ad2": {
+      "text": "Na drugo treba reći da se rod uzima od tvari, kako je jasno u VIII. knjizi Metafizike. A kod akcidenata na mjestu tvari je subjekt. A rečeno je da su naslada i žalost protivne po rodu. I zato je u svakoj žalosti raspoloživost subjekta protivna raspoloživosti koja je u svakoj nasladi; jer se u svakoj nasladi težnja odnosi kao ono što prihvaća ono što ima, a u svakoj se žalosti odnosi kao ono što bježi. I zato je, s obzirom na subjekt, svaka naslada lijek protiv svake žalosti, i svaka žalost priječi svaku nasladu, ali ipak osobito onda kad je naslada protivna žalosti i po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a4.ad3": {
+      "text": "Odatle je jasno rješenje trećega. Ili treba drukčije reći da, iako nije svaka žalost protivna svakoj nasladi po vrsti, ipak su protivne s obzirom na učinak; jer se od jednoga životinjska narav krijepi, a od drugoga se na neki način uznemiruje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je nasladi motrenja protivna neka žalost. Apostol, naime, kaže u 2 Kor 7: *žalost koja je po Bogu proizvodi kajanje na trajno spasenje*. Ali gledati prema Bogu pripada višemu razumu, kojemu je svojstveno posvećivati se motrenju, prema Augustinu u XII. knjizi O Trojstvu. Dakle, nasladi motrenja suprotstavlja se žalost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.obj2": {
+      "text": "Osim toga, protivno ima protivne učinke. Ako je, dakle, jedno od protivnoga, kad se motri, uzrok naslade, drugo će biti uzrok žalosti. I tako će nasladi motrenja biti protivna žalost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.obj3": {
+      "text": "Osim toga, kao što je predmet naslade dobro, tako je predmet žalosti zlo. Ali motrenje može imati pojam zla; Filozof, naime, kaže u XII. knjizi Metafizike da je o nekim stvarima neprikladno razmišljati. Dakle, nasladi motrenja može biti protivna žalost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.obj4": {
+      "text": "Osim toga, svako je djelovanje, ukoliko nije spriječeno, uzrok naslade, kako se kaže u VII. i X. knjizi Etike. Ali djelovanje motrenja može biti spriječeno na mnogo načina, bilo tako da ga uopće nema, bilo tako da je s teškoćom. Dakle, u motrenju može biti žalost protivna nasladi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.obj5": {
+      "text": "Osim toga, mučenje tijela uzrok je žalosti. Ali, kako se kaže u posljednjem poglavlju Propovjednika, *često je razmišljanje mučenje tijela*. Dakle, motrenje ima žalost protivnu nasladi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mudr 8: *nema gorčine u druženju s njom*, to jest s mudrošću, *ni dosade u suživotu s njom, nego veselja i radosti*. A druženje i suživot s mudrošću jest po motrenju. Dakle, nema nikakve žalosti koja bi bila protivna nasladi motrenja.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.resp": {
+      "text": "Odgovaram: treba reći da se naslada motrenja može shvatiti dvojako. Na jedan način, tako da je motrenje uzrok naslade, a ne predmet. I tada naslada nije zbog samoga motrenja, nego zbog motrene stvari. A događa se da se motri nešto štetno i što žalosti, kao i nešto prikladno i što pričinja nasladu. Stoga, ako se naslada motrenja tako uzme, ništa ne priječi da nasladi motrenja bude protivna žalost. Na drugi se način može govoriti o nasladi motrenja zato što je motrenje njezin predmet i uzrok, primjerice kad se netko naslađuje upravo time što motri. I tako, kako kaže Grgur iz Nise, *onoj nasladi koja je po motrenju ne suprotstavlja se nikakva žalost*. A to isto kaže Filozof u I. knjizi Topike i u X. knjizi Etike. Ali to treba shvatiti govoreći po sebi. Razlog je tomu što je žalost po sebi protivna nasladi koja se odnosi na protivan predmet, kao što je nasladi koja se odnosi na toplinu protivna žalost koja se odnosi na hladnoću. A predmetu motrenja ništa nije protivno; jer pojmovi protivnoga, ukoliko su zahvaćeni, nisu protivni, nego je jedno protivno razlog spoznavanja drugoga. Stoga nasladi koja je u motrenju, govoreći po sebi, ne može biti protivna nikakva žalost. Ali ona nema ni pridružene žalosti, kao tjelesne naslade, koje su kao neki lijekovi protiv nekih tegoba, kao što se netko naslađuje pićem zato što ga muči žeđ, a kad je žeđ već sasvim otklonjena, prestaje i naslada pića. Naslada motrenja, naime, nije uzrokovana time što se otklanja neka tegoba, nego time što je ugodna sama po sebi; ona, naime, nije nastajanje, nego neko savršeno djelovanje, kako je rečeno. A akcidentalno se žalost miješa s nasladom zahvaćanja. I to dvojako: na jedan način, s obzirom na organ; na drugi način, zbog sprečavanja zahvaćanja. S obzirom na organ, žalost ili bol miješa se sa zahvaćanjem izravno u zahvatnim silama osjetilnoga dijela, koje imaju tjelesni organ, bilo zbog osjetnoga predmeta koji je protivan dužnom tjelesnom sastavu organa, kao okus gorke stvari i miris smrdljive stvari, bilo zbog neprekidnosti prikladnoga osjetnog predmeta, koji svojom ustrajnošću uzrokuje prekoračenje naravnoga habitusa, kako je gore rečeno, i tako zahvaćanje osjetnoga predmeta, koje je prije bilo ugodno, postaje dosadno. Ali te dvije stvari izravno nemaju mjesta u motrenju duha, jer duh nema tjelesnoga organa. Stoga je rečeno u navedenom autoritetu da motrenje duha nema ni gorčine ni dosade. Ali budući da se ljudski duh u motrenju služi osjetilnim zahvatnim silama, u čijim činima nastupa umor, zato se neizravno s motrenjem miješa neko mučenje ili bol. Ali ni na jedan od tih načina žalost akcidentalno pridružena motrenju nije protivna njegovoj nasladi. Jer žalost koja se odnosi na sprečavanje motrenja nije protivna nasladi motrenja, nego prije ima srodnost i podudarnost s njom, kako je jasno iz rečenoga. A žalost ili mučenje koje se odnosi na tjelesni umor ne pripada istom rodu, pa je posve raznorodno. I tako je očito da nasladi koja se odnosi na samo motrenje nije protivna nikakva žalost, niti joj se pridružuje ikakva žalost osim akcidentalno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da ona žalost koja je po Bogu nije zbog samoga motrenja duha, nego zbog nečega što duh motri, naime zbog grijeha, koji duh razmatra kao protivan Božjoj ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.ad2": {
+      "text": "Na drugo treba reći da ono što je protivno u prirodi stvari, ukoliko je u duhu, nema protivnosti. Pojmovi protivnoga, naime, nisu protivni, nego je prije jedno protivno razlog spoznavanja drugoga. Zbog toga je jedna znanost o protivnome.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.ad3": {
+      "text": "Na treće treba reći da motrenje samo po sebi nikada nema pojam zla, budući da motrenje nije ništa drugo nego razmatranje istinitoga, koje je dobro uma, nego samo akcidentalno, naime ukoliko motrenje nečega manje vrijednoga priječi motrenje nečega boljega; ili s obzirom na motrenu stvar, prema kojoj je težnja neuredno privržena.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.ad4": {
+      "text": "Na četvrto treba reći da žalost koja se odnosi na sprečavanje motrenja nije protivna nasladi motrenja, nego joj je srodna, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a5.ad5": {
+      "text": "Na peto treba reći da se mučenje tijela odnosi prema motrenju duha akcidentalno i neizravno, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da treba više bježati od žalosti nego težiti za nasladom. Augustin, naime, kaže u knjizi Osamdeset i tri pitanja: *nema nikoga tko ne bi više bježao od boli nego što teži za užitkom*. A ono u čemu se sve zajednički slaže čini se da je naravno. Dakle, naravno je i prikladno da se više bježi od žalosti nego što se teži za nasladom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a6.obj2": {
+      "text": "Osim toga, djelovanje protivnoga pridonosi brzini i jakosti gibanja; topla se, naime, voda brže i jače smrzava, kako kaže Filozof u knjizi Meteorologije. Ali bijeg od žalosti proizlazi iz protivnosti onoga što žalosti, dok težnja za nasladom ne proizlazi iz neke protivnosti, nego prije izlazi iz prikladnosti onoga što pričinja nasladu. Dakle, veći je bijeg od žalosti nego težnja za nasladom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a6.obj3": {
+      "text": "Osim toga, što se netko po razumu opire jačoj strasti, to je hvalevredniji i kreposniji, jer se krepost odnosi na ono što je teško i dobro, kako se kaže u II. knjizi Etike. Ali hrabar čovjek, koji se opire pokretu kojim se bježi od boli, kreposniji je od umjerenoga, koji se opire pokretu kojim se teži za nasladom; Filozof, naime, kaže u II. knjizi Retorike da se hrabri i pravedni najviše časte. Dakle, žešći je pokret kojim se bježi od žalosti nego pokret kojim se teži za nasladom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a6.sc": {
+      "text": "Ali protiv toga, dobro je jače od zla, kako je jasno iz Dionizija u IV. poglavlju O božanskim imenima. Ali za nasladom se teži zbog dobra, koje je njezin predmet, a bijeg od žalosti jest zbog zla. Dakle, jača je težnja za nasladom nego bijeg od žalosti.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a6.resp": {
+      "text": "Odgovaram: treba reći da je, govoreći po sebi, težnja za nasladom jača od bijega od žalosti. Razlog je tomu što je uzrok naslade prikladno dobro, a uzrok boli ili žalosti neko zlo koje se protivi. A događa se da je neko dobro prikladno bez ikakva nesklada, ali ne može biti neko zlo koje bi se potpuno, bez ikakve prikladnosti, protivilo. Stoga naslada može biti cjelovita i savršena, a žalost je uvijek djelomična. Stoga je po naravi veća težnja za nasladom nego bijeg od žalosti. Drugi je pak razlog to što se za dobrom, koje je predmet naslade, teži radi njega samoga, a od zla, koje je predmet žalosti, treba bježati ukoliko je lišenost dobra. A ono što je po sebi jače je od onoga što je po drugome. Znak se toga očituje i u naravnim gibanjima. Jer je svako naravno gibanje jače na kraju, kad se približava granici koja odgovara njegovoj naravi, nego na početku, kad se udaljava od granice koja ne odgovara njegovoj naravi, kao da narav više stremi prema onome što joj je prikladno nego što bježi od onoga što joj se protivi. Stoga i sklonost težnjene snage, govoreći po sebi, žešće stremi prema nasladi nego što bježi od žalosti. Ali akcidentalno se događa da netko više bježi od žalosti nego što teži za nasladom. I to trojako. Prvo, s obzirom na zahvaćanje. Jer, kako kaže Augustin u X. knjizi O Trojstvu, *ljubav se više osjeća kad je odaje oskudica*. A iz oskudice za voljenim proizlazi žalost, koja je zbog gubitka nekoga voljenog dobra ili zbog nailaska nekoga protivnog zla. A naslada nema oskudice za voljenim dobrom, nego se smiruje u njemu kad ga je već postigla. Budući, dakle, da je ljubav uzrok naslade i žalosti, od žalosti se to više bježi što se ljubav više osjeća time što se ljubavi protivi. Drugo, s obzirom na uzrok koji žalosti ili nanosi bol, a koji se protivi dobru više voljenom nego što je ono dobro u kojem se naslađujemo. Više, naime, volimo naravno stanje tijela nego nasladu hrane. I zato iz straha od boli koja dolazi od udaraca biča ili drugih takvih stvari, koje se protive dobrom stanju tijela, ostavljamo nasladu hrane ili drugih takvih stvari. Treće, s obzirom na učinak, naime ukoliko žalost priječi ne samo jednu nasladu, nego sve.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ono što kaže Augustin, da se *od boli više bježi nego što se teži za užitkom*, istinito akcidentalno, a ne po sebi. A to je jasno iz onoga što dodaje: *budući da vidimo da se i najdivlje zvijeri od najvećih užitaka odvraćaju strahom od boli*, koji se protivi životu, koji se najviše ljubi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a6.ad2": {
+      "text": "Na drugo treba reći da je drukčije kod pokreta koji je iznutra, a drukčije kod pokreta koji je izvana. Pokret, naime, koji je iznutra više stremi prema onome što je prikladno nego što se udaljava od protivnoga, kako je gore rečeno o naravnom gibanju. Ali pokret koji je izvana pojačava se samom protivnošću, jer svaka stvar na svoj način nastoji oduprijeti se protivnome, kao radi održavanja same sebe. Stoga se nasilno gibanje pojačava na početku, a slabi na kraju. A pokret težnjenoga dijela je iznutra, budući da ide od duše prema stvarima. I zato se, govoreći po sebi, više teži za nasladom nego što se bježi od žalosti. Ali pokret osjetilnoga dijela je izvana, kao od stvari prema duši. Stoga se više osjeća ono što je više protivno. I tako se također akcidentalno, ukoliko se osjetilo traži za nasladu i žalost, više bježi od žalosti nego što se teži za nasladom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a6.ad3": {
+      "text": "Na treće treba reći da se hrabar čovjek ne hvali zato što ga po razumu ne svladava bilo kakva bol ili žalost, nego ona koja se sastoji u smrtnim opasnostima. Od te se žalosti, doduše, više bježi nego što se teži za nasladom hrane ili spolnih užitaka, na koju se odnosi umjerenost, kao što se život više ljubi nego hrana ili spolno općenje. Ali umjeren se čovjek više hvali zato što ne slijedi naslade dodira nego zato što ne bježi od žalosti koje su im protivne, kako je jasno u III. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da je vanjska bol veća od unutarnje boli srca. Vanjska je bol, naime, uzrokovana uzrokom koji se protivi dobrom stanju tijela, u kojem je život, a unutarnja je bol uzrokovana nekom predodžbom zla u mašti. Budući, dakle, da se život više ljubi nego zamišljeno dobro, čini se, prema rečenome, da je vanjska bol veća od unutarnje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a7.obj2": {
+      "text": "Osim toga, stvar više pokreće nego sličnost stvari. Ali vanjska bol dolazi od stvarnoga spoja s nečim protivnim, a unutarnja bol od zahvaćene sličnosti protivnoga. Dakle, vanjska je bol veća od unutarnje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a7.obj3": {
+      "text": "Osim toga, uzrok se spoznaje iz učinka. Ali vanjska bol ima jače učinke; čovjek, naime, lakše umire zbog vanjskih boli nego zbog unutarnje boli. Dakle, vanjska je bol veća, i od nje se više bježi, nego od unutarnje boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Sir 25: *svaka je rana žalost srca, i svaka je zloća opakost žene*. Dakle, kao što opakost žene nadmašuje druge opakosti, kako se ondje misli, tako žalost srca nadilazi svaku vanjsku ranu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a7.resp": {
+      "text": "Odgovaram: treba reći da se unutarnja i vanjska bol slažu u jednome, a razlikuju se u dvoje. Slažu se u tome što je i jedna i druga pokret težnjene snage, kako je gore rečeno. A razlikuju se po onim dvjema stvarima koje se traže za žalost i nasladu, naime po uzroku, koji je spojeno dobro ili zlo, i po zahvaćanju. Uzrok je, naime, vanjske boli spojeno zlo koje se protivi tijelu, a uzrok je unutarnje boli spojeno zlo koje se protivi težnji. Također vanjska bol slijedi zahvaćanje osjetila, i to posebno dodira, a unutarnja bol slijedi unutarnje zahvaćanje, naime mašte ili i razuma. Ako se, dakle, uzrok unutarnje boli usporedi s uzrokom vanjske, jedan po sebi pripada težnji, kojoj pripadaju obje boli, a drugi po drugome. Jer unutarnja bol nastaje zato što se nešto protivi samoj težnji, a vanjska bol zato što se protivi težnji jer se protivi tijelu. A ono što je po sebi uvijek je prije od onoga što je po drugome. Stoga s te strane unutarnja bol nadmašuje vanjsku bol. Slično i s obzirom na zahvaćanje. Jer je zahvaćanje razuma i mašte više od zahvaćanja osjetilom dodira. Stoga je, govoreći naprosto i po sebi, unutarnja bol jača od vanjske boli. Znak je toga što netko i vanjske boli voljno prihvaća da bi izbjegao unutarnju bol. I ukoliko se vanjska bol ne protivi unutarnjoj težnji, postaje na neki način ugodna i mila zbog unutarnje radosti. Katkad je ipak vanjska bol zajedno s unutarnjom boli, i tada se bol povećava. Unutarnja, naime, bol nije samo veća od vanjske, nego i općenitija. Sve, naime, što se protivi tijelu može se protiviti unutarnjoj težnji; i sve što se zahvaća osjetilom može se zahvatiti maštom i razumom; ali ne i obrnuto. I zato se u navedenom autoritetu s razlogom kaže: svaka je rana žalost srca, jer su i boli vanjskih rana obuhvaćene unutarnjom žalošću srca.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da unutarnja bol može biti i zbog onoga što se protivi životu. I tako usporedbu unutarnje boli s vanjskom ne treba uzimati prema različitim zlima koja su uzrok boli, nego prema različitom odnosu toga uzroka boli prema težnji.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a7.ad2": {
+      "text": "Na drugo treba reći da unutarnja žalost ne proizlazi iz zahvaćene sličnosti stvari kao iz uzroka; čovjek se, naime, iznutra ne žalosti zbog same zahvaćene sličnosti, nego zbog stvari čija je to sličnost. A ta se stvar to savršenije zahvaća po nekoj sličnosti što je sličnost netvarnija i apstraktnija. I zato je unutarnja bol, govoreći po sebi, veća, budući da se odnosi na veće zlo; zato što se unutarnjim zahvaćanjem zlo više spoznaje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a7.ad3": {
+      "text": "Na treće treba reći da tjelesne izmjene više uzrokuje vanjska bol, kako zato što je uzrok vanjske boli nešto što razara, a tjelesno je spojeno, što zahtijeva zahvaćanje dodira, tako i zato što je vanjsko osjetilo tjelesnije od unutarnjega osjetila, kao i osjetilna težnja od umske. I zbog toga se, kako je gore rečeno, od pokreta osjetilne težnje tijelo više izmjenjuje. I slično od vanjske boli više nego od unutarnje boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da Damaščanin neprikladno navodi četiri vrste žalosti, a to su duhovna lijenost (acedija), ahtos (ili tjeskoba, prema Grguru iz Nise), milosrđe i zavist. Žalost je, naime, suprotstavljena nasladi. Ali za nasladu se ne navode nikakve vrste. Dakle, ni za žalost ne treba navoditi vrste.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a8.obj2": {
+      "text": "Osim toga, kajanje je neka vrsta žalosti. Slično i nemeza i revnost, kako kaže Filozof u II. knjizi Retorike. A one nisu obuhvaćene tim vrstama. Dakle, njegova je navedena dioba nepotpuna.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a8.obj3": {
+      "text": "Osim toga, svaka dioba treba biti po suprotstavljenome. Ali navedeno nema suprotstavljenosti jedno prema drugome. Jer prema Grguru *duhovna lijenost je žalost koja oduzima glas; tjeskoba je žalost koja pritišće; zavist je žalost zbog tuđih dobara; a milosrđe je žalost zbog tuđih zala*. A događa se da se netko žalosti i zbog tuđih zala i zbog tuđih dobara, i da je pritom ujedno iznutra pritisnut i izvana gubi glas. Dakle, navedena dioba nije prikladna.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a8.sc": {
+      "text": "Ali protiv toga je autoritet obojice, naime Grgura iz Nise i Damaščanina.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a8.resp": {
+      "text": "Odgovaram: treba reći da pojmu vrste pripada to da se prema rodu odnosi po dodavanju. Ali rodu se nešto može dodati dvojako. Na jedan način, ono što mu po sebi pripada i virtualno je u njemu sadržano, kao što se razumsko dodaje životinji. I takvo dodavanje tvori prave vrste nekoga roda, kako je jasno iz Filozofa u VII. i VIII. knjizi Metafizike. A nešto se rodu dodaje kao nešto strano njegovu pojmu, kao kad bi se životinji dodalo bijelo ili nešto takvo. I takvo dodavanje ne tvori prave vrste roda, kako obično govorimo o rodu i vrstama. Katkad se ipak kaže da je nešto vrsta nekoga roda zato što ima nešto strano na što se primjenjuje pojam roda, kao što se za ugljen i plamen kaže da su vrste vatre, zbog primjene naravi vatre na tuđu tvar. A na sličan se način govori da su astronomija i optika vrste matematike, ukoliko se matematička načela primjenjuju na prirodnu tvar. I na taj se način govora ovdje navode vrste žalosti, primjenom pojma žalosti na nešto strano. A to se strano može uzeti ili s obzirom na uzrok, to jest predmet, ili s obzirom na učinak. Vlastiti je, naime, predmet žalosti vlastito zlo. Stoga se strani predmet žalosti može uzeti ili samo po jednome od toga, naime zato što je zlo, ali ne vlastito, i tako je milosrđe, koje je žalost zbog tuđega zla, ukoliko se ono ipak smatra vlastitim. Ili po oboma, jer nije ni zbog vlastitoga ni zbog zla, nego zbog tuđega dobra, ukoliko se ipak tuđe dobro smatra vlastitim zlom, i tako je zavist. A vlastiti se učinak žalosti sastoji u nekom bijegu težnje. Stoga se ono strano s obzirom na učinak žalosti može uzeti samo po jednome od toga, naime zato što se uklanja bijeg, i tako je tjeskoba, koja tako pritišće duh da se ne vidi nikakvo utočište; zato se drugim imenom naziva tjesnoba. Ako pak takvo pritiskanje ide tako daleko da i vanjske udove onesposobi za djelo, što pripada duhovnoj lijenosti, tada će to biti strano po oboma, jer niti je bijeg niti je u težnji. A za duhovnu se lijenost posebno kaže da oduzima glas zato što glas, među svim vanjskim pokretima, najviše izražava unutarnju zamisao i čuvstvo, ne samo kod ljudi nego i kod drugih životinja, kako se kaže u I. knjizi Politike.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da je naslada uzrokovana dobrom, o kojem se govori na jedan način. I zato se za nasladu ne navodi toliko vrsta kao za žalost, koja je uzrokovana zlom, koje se događa na mnogo načina, kako kaže Dionizije u IV. poglavlju O božanskim imenima.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a8.ad2": {
+      "text": "Na drugo treba reći da se kajanje odnosi na vlastito zlo, koje je po sebi predmet žalosti. Stoga ne pripada tim vrstama. A revnost i nemeza obuhvaćene su zavišću, kako će se niže pokazati.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q35.a8.ad3": {
+      "text": "Na treće treba reći da se ta dioba ne uzima prema suprotstavljenostima vrsta, nego prema raznolikosti stranih stvari na koje se primjenjuje pojam žalosti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 41,
+  "units": {
+    "I-II.q41.pr": {
+      "text": "Zatim treba razmotriti, prvo, strah; i drugo, smjelost. Glede straha treba razmotriti četiri stvari: prvo, sam strah; drugo, njegov predmet; treće, njegov uzrok; četvrto, njegov učinak. U vezi s prvim pita se četvero. Prvo, je li strah strast duše. Drugo, je li posebna strast. Treće, postoji li neki naravni strah. Četvrto, o vrstama straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da strah nije strast duše. Damaščanin, naime, kaže u III. knjizi da je strah snaga željna biti po sistoli, to jest po stezanju. Ali nijedna snaga nije strast, kako se dokazuje u II. knjizi Etike. Dakle, strah nije strast.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a1.obj2": {
+      "text": "Osim toga, svaka je strast učinak koji proizlazi iz prisutnosti djelatnika. Ali strah nije o nečemu prisutnom, nego o budućem, kako kaže Damaščanin u II. knjizi. Dakle, strah nije strast.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a1.obj3": {
+      "text": "Osim toga, svaka je strast duše pokret osjetilne težnje, koji slijedi zahvaćanje osjetila. Osjetilo pak ne zahvaća buduće, nego prisutno. Budući da je, dakle, strah o budućem zlu, čini se da nije strast duše.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a1.sc": {
+      "text": "Ali protiv toga je to što Augustin u XIV. knjizi O Božjem gradu ubraja strah među ostale strasti duše.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a1.resp": {
+      "text": "Odgovaram: treba reći da među ostalim pokretima duše, nakon žalosti, strah ponajviše ima pojam strasti. Kao što je, naime, gore rečeno, pojmu strasti pripada, prvo, da je pokret trpne snage, prema kojoj se, naime, njezin predmet odnosi na način djelatnog pokretača, budući da je strast učinak djelatnika. I na taj se način i za osjećati i shvaćati kaže da je trpjeti. Drugo, u vlastitijem se smislu strašću naziva pokret težnjene snage. I još u vlastitijem smislu pokret težnjene snage koja ima tjelesni organ, a koji se zbiva s nekom tjelesnom preinakom. I još se u najvlastitijem smislu strastima nazivaju oni pokreti koji uključuju neku štetu. Očito je pak da strah, budući da je o zlu, pripada težnjenoj moći, koja po sebi gleda dobro i zlo. A pripada osjetilnoj težnji, jer se zbiva s nekom preinakom, naime sa stezanjem, kako kaže Damaščanin. I uključuje također odnošaj prema zlu, ukoliko zlo na neki način odnosi pobjedu nad nekim dobrom. Stoga mu najistinitije pripada pojam strasti. Ipak tek nakon žalosti, koja je o prisutnom zlu; strah je, naime, o budućem zlu, koje ne pokreće tako kao prisutno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da snaga označuje neko počelo radnje; i zato se unutarnji pokreti težnjene snage, ukoliko su počela vanjskih čina, nazivaju snagama. Filozof pak niječe da je strast ona snaga koja je habitus.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a1.ad2": {
+      "text": "Na drugo treba reći da, kao što trpnja naravnog tijela proizlazi iz tjelesne prisutnosti djelatnika, tako strast duše proizlazi iz duševne prisutnosti djelatnika, bez tjelesne ili stvarne prisutnosti, ukoliko je, naime, zlo koje je stvarno buduće prisutno po zahvaćanju duše.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a1.ad3": {
+      "text": "Na treće treba reći da osjetilo ne zahvaća buduće, ali iz toga što zahvaća prisutno životinja se naravnim nagonom pokreće da se nada budućem dobru ili da se boji budućeg zla.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da strah nije posebna strast. Augustin, naime, kaže u knjizi Osamdeset i tri pitanja da *onoga koga strah ne obeznanjuje, toga ni žudnja ne pustoši, ni bolest*, to jest žalost, *ne mori, niti ga zanosi razuzdano i isprazno veselje*. Iz toga se čini da se, kad se ukloni strah, uklanjaju sve ostale strasti. Dakle, on nije posebna, nego opća strast.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a2.obj2": {
+      "text": "Osim toga, Filozof kaže u VI. knjizi Etike da *se u težnji slijeđenje i bijeg odnose kao u umu potvrđivanje i nijekanje*. Ali nijekanje nije nešto posebno u umu, kao ni potvrđivanje, nego nešto zajedničko mnogima. Dakle, ni bijeg u težnji. Ali strah nije ništa drugo nego neki bijeg od zla. Dakle, strah nije posebna strast.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a2.obj3": {
+      "text": "Osim toga, kad bi strah bio posebna strast, bio bi ponajprije u srditoj moći. Ali strah je i u požudnoj. Filozof, naime, kaže u II. knjizi Retorike da je strah neka žalost, a Damaščanin kaže da je strah željna snaga; a žalost i želja su u požudnoj moći, kako je gore rečeno. Dakle, nije posebna strast, budući da pripada različitim moćima.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a2.sc": {
+      "text": "Ali protiv toga je to što se strah razvrstava uz ostale strasti duše, kako je jasno iz Damaščanina u II. knjizi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a2.resp": {
+      "text": "Odgovaram: treba reći da strasti duše primaju vrstu od predmeta. Stoga je posebna strast ona koja ima poseban predmet. Strah pak ima poseban predmet, kao i nada. Kao što je, naime, predmet nade buduće teško dostižno dobro koje je moguće postići, tako je predmet straha buduće teško zlo kojemu se ne može oduprijeti. Stoga je strah posebna strast duše.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da sve strasti duše proizlaze iz jednog počela, naime iz ljubavi, u kojoj su međusobno povezane. I zbog te povezanosti, kad se ukloni strah, uklanjaju se ostale strasti duše, a ne zato što bi on bio opća strast.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a2.ad2": {
+      "text": "Na drugo treba reći da nije svaki bijeg težnje strah, nego bijeg od nekog posebnog predmeta, kako je rečeno. I zato, iako je bijeg nešto opće, strah je ipak posebna strast.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a2.ad3": {
+      "text": "Na treće treba reći da strah ni na koji način nije u požudnoj moći; ne gleda, naime, zlo naprosto, nego s nekom teškoćom ili teškom dostižnošću, tako da mu se jedva može oduprijeti. Ali budući da strasti srdite moći proizlaze iz strasti požudne moći i u njima završavaju, kako je gore rečeno, zato se strahu pripisuje ono što pripada požudnoj moći. Kaže se, naime, da je strah žalost, ukoliko predmet straha ožalošćuje kad je prisutan; zato i Filozof na istome mjestu kaže da strah proizlazi iz maštovne predodžbe budućeg razornog ili ožalošćujućeg zla. Slično i Damaščanin strahu pripisuje želju, jer kao što se nada rađa iz želje za dobrom, tako se strah rađa iz bijega od zla; a bijeg od zla rađa se iz želje za dobrom, kako je jasno iz onoga što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:17+00:00"
+    },
+    "I-II.q41.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je neki strah naravan. Damaščanin, naime, kaže u III. knjizi da *postoji neki naravni strah, kad duša neće da bude odijeljena od tijela*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a3.obj2": {
+      "text": "Osim toga, strah se rađa iz ljubavi, kako je rečeno. Ali postoji neka naravna ljubav, kako kaže Dionizije u IV. poglavlju O božanskim imenima. Dakle, postoji i neki naravni strah.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a3.obj3": {
+      "text": "Osim toga, strah se suprotstavlja nadi, kako je gore rečeno. Ali postoji neka nada naravi, kako je jasno iz onoga što se u Rim 4 kaže o Abrahamu, da je protiv nade naravi povjerovao u nadi milosti. Dakle, postoji i neki strah naravi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a3.sc": {
+      "text": "Ali protiv toga, ono što je naravno nalazi se zajednički u stvarima koje imaju dušu i u onima bez duše. Ali strah se ne nalazi u stvarima bez duše. Dakle, strah nije naravan.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a3.resp": {
+      "text": "Odgovaram: treba reći da se neki pokret naziva naravnim zato što je narav sklona prema njemu. Ali to se događa na dva načina. Na jedan način, tako da ga cijeloga izvršava narav, bez ikakva djelovanja zahvatne snage; kao što je gibanje prema gore naravni pokret vatre, a rast naravni pokret životinja i biljaka. Na drugi se način naravnim naziva pokret prema kojemu je narav sklona, iako se ne izvršava osim po zahvaćanju; jer se, kako je gore rečeno, pokreti spoznajne i težnjene snage svode na narav kao na prvo počelo. I na taj se način i sami čini zahvatne snage, kao shvaćati, osjećati i pamtiti, a također i pokreti životinjske težnje, katkad nazivaju naravnima. I na taj se način strah može nazvati naravnim. A od straha koji nije naravan razlikuje se po različitosti predmeta. Strah je, naime, kako kaže Filozof u II. knjizi Retorike, o razornom zlu, od kojega narav bježi zbog naravne želje za bitkom, i takav se strah naziva naravnim. Nadalje, strah je o ožalošćujućem zlu, koje se ne protivi naravi, nego želji težnje, i takav strah nije naravan. Kao što su i gore ljubav, požuda i naslada razlikovane na naravne i nenaravne. Ali prema prvom značenju riječi „naravan“ treba znati da se neke od strasti duše katkad nazivaju naravnima, kao ljubav, želja i nada, a druge se ne mogu nazvati naravnima. A to stoga što ljubav i mržnja, želja i bijeg uključuju neku sklonost da se slijedi dobro i bježi od zla; a ta sklonost pripada i naravnoj težnji. I zato postoji neka naravna ljubav, a o želji ili nadi može se na neki način govoriti i u naravnim stvarima koje su lišene spoznaje. Ali druge strasti duše uključuju neke pokrete za koje naravna sklonost nikako nije dostatna. Bilo zato što pojmu tih strasti pripada osjetilo ili spoznaja, kao što je rečeno da se za pojam naslade i boli zahtijeva zahvaćanje, pa se za ono što je lišeno spoznaje ne može reći da osjeća nasladu ili bol. Bilo zato što su takvi pokreti protiv pojma naravne sklonosti, primjerice to što očaj bježi od dobra zbog neke teškoće, a strah bježi od napadanja na suprotno zlo, prema čemu postoji naravna sklonost. I zato se takve strasti nikako ne pripisuju stvarima bez duše.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a3.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da Damaščanin neprikladno navodi šest vrsta straha, naime *tromost, sram, stid, divljenje, zaprepaštenje, strepnju*. Kao što, naime, kaže Filozof u II. knjizi Retorike, *strah je o ožalošćujućem zlu*. Dakle, vrste straha moraju odgovarati vrstama žalosti. A postoje četiri vrste žalosti, kako je gore rečeno. Dakle, moraju postojati samo četiri vrste straha, koje im odgovaraju.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.obj2": {
+      "text": "Osim toga, ono što se sastoji u našem činu podložno je našoj vlasti. Ali strah je o zlu koje nadilazi našu vlast, kako je rečeno. Dakle, tromost, sram i stid, koji se odnose na naše djelovanje, ne smiju se postavljati kao vrste straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.obj3": {
+      "text": "Osim toga, strah je o budućem, kako je rečeno. Ali stid je o sramotnom činu koji je već počinjen, kako kaže Grgur iz Nise. Dakle, stid nije vrsta straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.obj4": {
+      "text": "Osim toga, strah je samo o zlu. Ali divljenje i zaprepaštenje su o velikom i neobičnom, bilo dobrom bilo zlom. Dakle, divljenje i zaprepaštenje nisu vrste straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.obj5": {
+      "text": "Osim toga, filozofi su divljenjem bili potaknuti na istraživanje istine, kako se kaže na početku Metafizike. Strah pak ne potiče na istraživanje, nego prije na bijeg. Dakle, divljenje nije vrsta straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.sc": {
+      "text": "Ali za suprotno neka bude dostatan autoritet Damaščanina i Grgura iz Nise.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, strah o budućem zlu koje nadilazi moć onoga koji se boji, tako da mu se, naime, ne može oduprijeti. A kao što se čovjekovo dobro, tako se i njegovo zlo može razmatrati ili u njegovu djelovanju ili u vanjskim stvarima. U samom čovjekovu djelovanju može se bojati dvostrukog zla. Prvo, napora koji opterećuje narav. I tako nastaje tromost, kad, naime, netko izbjegava djelovati zbog straha od prekomjernog napora. Drugo, sramote koja vrijeđa ugled. I tako, ako se netko boji sramote u činu koji tek treba počiniti, to je sram; ako je pak strah o sramotnom što je već učinjeno, to je stid. Zlo pak koje se sastoji u vanjskim stvarima može iz trostrukog razloga nadilaziti čovjekovu sposobnost da se odupre. Prvo, zbog svoje veličine, kad, naime, netko razmatra neko veliko zlo čiji ishod nije kadar sagledati. I tako je to divljenje. Drugo, zbog neuobičajenosti, jer se, naime, našem razmatranju nudi neko neuobičajeno zlo, pa je tako veliko po našoj procjeni. I na taj je način to zaprepaštenje, koje nastaje iz neobične maštovne predodžbe. Na treći način, zbog nepredvidivosti, jer se, naime, ne može predvidjeti, kao što se ljudi boje budućih nesreća. I takav se strah naziva strepnjom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se one vrste žalosti koje su gore postavljene ne uzimaju po različitosti predmeta, nego po učincima i po nekim posebnim pojmovima. I zato nije potrebno da one vrste žalosti odgovaraju ovim vrstama straha, koje se uzimaju po vlastitoj podjeli samoga predmeta straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.ad2": {
+      "text": "Na drugo treba reći da je djelovanje, ukoliko se već vrši, podložno vlasti onoga koji djeluje. Ali u vezi s djelovanjem može se razmatrati nešto što nadilazi sposobnost onoga koji djeluje, zbog čega netko izbjegava radnju. I prema tome se tromost, sram i stid postavljaju kao vrste straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.ad3": {
+      "text": "Na treće treba reći da se zbog prošlog čina može bojati buduće grdnje ili sramoćenja. I prema tome je stid vrsta straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.ad4": {
+      "text": "Na četvrto treba reći da nije bilo kakvo divljenje i zaprepaštenje vrsta straha, nego divljenje koje je o velikom zlu i zaprepaštenje koje je o neobičnom zlu. Ili se može reći da, kao što tromost bježi od napora vanjskog djelovanja, tako divljenje i zaprepaštenje bježe od teškoće razmatranja velike i neobične stvari, bila ona dobra ili zla; tako da se divljenje i zaprepaštenje odnose prema činu uma kao tromost prema vanjskom činu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q41.a4.ad5": {
+      "text": "Na peto treba reći da onaj koji se divi uzmiče od toga da sada donese sud o onome čemu se divi, bojeći se da ne pogriješi, ali ubuduće istražuje. Onaj pak koji je zaprepašten boji se i sada suditi i ubuduće istraživati. Stoga je divljenje počelo filozofiranja, a zaprepaštenje je zapreka filozofskom razmatranju.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    }
+  }
+}

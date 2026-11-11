@@ -1,0 +1,396 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 32,
+  "units": {
+    "I-II.q32.pr": {
+      "text": "Zatim treba razmotriti uzroke naslade. I o tome se pita osam stvari. Prvo, je li djelovanje vlastiti uzrok naslade. Drugo, je li gibanje uzrok naslade. Treće, jesu li to nada i sjećanje. Četvrto, je li to žalost. Peto, jesu li radnje drugih nama uzrok naslade. Šesto, je li činiti dobro drugome uzrok naslade. Sedmo, je li sličnost uzrok naslade. Osmo, je li divljenje uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da djelovanje nije vlastiti i prvi uzrok naslade. Kao što, naime, Filozof kaže u I. knjizi Retorike, *naslađivati se sastoji se u tome da osjetilo nešto trpi*; jer za nasladu se zahtijeva spoznaja, kako je rečeno. Ali predmeti djelovanja spoznatljivi su prije nego sama djelovanja. Dakle, djelovanje nije vlastiti uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a1.obj2": {
+      "text": "Osim toga, naslada se ponajviše sastoji u postignutoj svrsi, jer to je ono što se ponajprije požudno želi. Ali svrha nije uvijek djelovanje, nego katkad samo djelo. Dakle, djelovanje nije vlastiti i po sebi uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a1.obj3": {
+      "text": "Osim toga, dokolica i počinak tako se nazivaju po prestanku djelovanja. A to je ugodno, kako se kaže u I. knjizi Retorike. Dakle, djelovanje nije vlastiti uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a1.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u VII. i X. knjizi Etike, da je *naslada nesmetano sunaravno djelovanje*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a1.resp": {
+      "text": "Odgovaram: treba reći da se, kako je gore rečeno, za nasladu zahtijevaju dvije stvari, naime postizanje prikladnog dobra i spoznaja takvog postignuća. A i jedno i drugo od toga sastoji se u nekom djelovanju: jer spoznaja u činu jest neko djelovanje; slično, prikladno dobro postižemo nekim djelovanjem. I samo vlastito djelovanje jest neko prikladno dobro. Zato je nužno da svaka naslada slijedi neko djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da sami predmeti djelovanja nisu ugodni osim ukoliko se spajaju s nama: ili samom spoznajom, kao kad se naslađujemo u razmatranju ili promatranju nekih stvari; ili na bilo koji drugi način zajedno sa spoznajom, kao kad se netko naslađuje time što spoznaje da ima bilo kakvo dobro, primjerice bogatstvo ili čast ili nešto takvo; a to ne bi bilo ugodno osim ukoliko se zahvaća kao posjedovano. Kao što, naime, Filozof kaže u II. knjizi Politike, *veliku nasladu donosi smatrati nešto svojim vlastitim; a ona proizlazi iz naravne ljubavi nekoga prema samome sebi*. A imati takve stvari nije ništa drugo nego služiti se njima ili moći se njima služiti. A to biva nekim djelovanjem. Zato je očito da se svaka naslada svodi na djelovanje kao na uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a1.ad2": {
+      "text": "Na drugo treba reći da su i u onim stvarima u kojima svrhe nisu djelovanja, nego djela, sama djela ugodna ukoliko su posjedovana ili učinjena. A to se odnosi na neku uporabu ili djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a1.ad3": {
+      "text": "Na treće treba reći da su djelovanja ugodna ukoliko su razmjerna i sunaravna onome koji djeluje. Budući pak da je ljudska snaga konačna, djelovanje joj je razmjerno prema nekoj mjeri. Zato, ako premaši tu mjeru, više joj neće biti razmjerno ni ugodno, nego prije mukotrpno i zamorno. I u tom su smislu dokolica, igra i ostale stvari koje pripadaju počinku ugodne ukoliko uklanjaju žalost koja dolazi od napora.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da gibanje nije uzrok naslade. Jer, kako je gore rečeno, uzrok naslade jest dobro postignuto kao nazočno; zato Filozof u VII. knjizi Etike kaže da se naslada ne uspoređuje s nastajanjem, nego s djelovanjem stvari koja već postoji. Ono pak što se giba prema nečemu još to nema, nego je na neki način na putu nastajanja s obzirom na to, budući da je sa svakim gibanjem povezano nastajanje i propadanje, kako se kaže u VIII. knjizi Fizike. Dakle, gibanje nije uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a2.obj2": {
+      "text": "Osim toga, gibanje ponajviše unosi napor i umor u radove. Ali djelovanja, time što su mukotrpna i zamorna, nisu ugodna, nego prije mučna. Dakle, gibanje nije uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a2.obj3": {
+      "text": "Osim toga, gibanje sa sobom nosi neku novinu, koja je suprotstavljena navici. Ali ono što je uobičajeno nama je ugodno, kako kaže Filozof u I. knjizi Retorike. Dakle, gibanje nije uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a2.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u VIII. knjizi Ispovijesti: *što je to, Gospodine Bože moj, kad si ti sam sebi vječna radost, a neke se stvari od tebe i oko tebe uvijek raduju; što se ovaj dio stvari raduje u izmjeničnom nazadovanju i napredovanju, u razmiricama i pomirenjima?* Iz toga se uzima da se ljudi raduju i naslađuju u nekim izmjenama. I tako se čini da je gibanje uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a2.resp": {
+      "text": "Odgovaram: treba reći da se za nasladu zahtijevaju tri stvari, naime dvoje čije je spajanje ugodno, i treće, a to je spoznaja tog spajanja. I s obzirom na te tri stvari gibanje postaje ugodno, kako kaže Filozof u VII. knjizi Etike i u I. knjizi Retorike. Jer s naše strane, nas koji se naslađujemo, preinaka nam postaje ugodna zbog toga što je naša narav preinačiva; i zbog toga ono što nam je sada prikladno neće nam biti prikladno poslije; kao što je grijati se uz vatru prikladno čovjeku zimi, ali ne ljeti. A sa strane dobra koje naslađuje, a koje se spaja s nama, preinaka također postaje ugodna. Jer neprekinuta radnja nekog djelatnika uvećava učinak; kao što se netko, što se dulje približava vatri, to više grije i suši. A naravni odnošaj sastoji se u nekoj mjeri. I zato, kad neprekinuta nazočnost ugodnoga premaši mjeru naravnog odnošaja, njegovo uklanjanje postaje ugodno. A sa strane same spoznaje, jer čovjek želi spoznati nešto cjelovito i savršeno. Budući dakle da se neke stvari ne mogu zahvatiti cijele odjednom, u njima je ugodna preinaka, tako da jedno prođe i drugo nastupi, i tako se osjeti cjelina. Zato Augustin kaže u IV. knjizi Ispovijesti: *zacijelo ne želiš da slog stoji, nego da proleti, da dođu drugi i da čuješ cjelinu. Tako uvijek sve ono od čega se sastoji nešto jedno, a nije sve odjednom, više naslađuje sve zajedno nego pojedino, kad bi se sve moglo osjetiti*. Ako bi dakle postojala neka stvar čija bi narav bila nepreinačiva, i u kojoj ne bi moglo doći do premašivanja naravnog odnošaja neprekinutim trajanjem ugodnoga, i koja bi mogla cijelo svoje ugodno odjednom promatrati, njoj preinaka ne bi bila ugodna. I što se neke naslade tome više približavaju, to dulje mogu trajati neprekinuto.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono što se giba, iako još nema savršeno ono prema čemu se giba, ipak već počinje imati nešto od onoga prema čemu se giba; i u tom pogledu samo gibanje ima nešto od naslade. Ipak zaostaje za savršenošću naslade, jer savršenije naslade jesu u nepokretnim stvarima. Gibanje također postaje ugodno ukoliko po njemu nešto postaje prikladno što prije nije bilo prikladno, ili prestaje biti prikladno, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a2.ad2": {
+      "text": "Na drugo treba reći da gibanje unosi napor i umor ukoliko prelazi naravni odnošaj. Tako pak gibanje nije ugodno, nego ukoliko se njime uklanja ono što je protivno naravnom odnošaju.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a2.ad3": {
+      "text": "Na treće treba reći da ono što je uobičajeno postaje ugodno ukoliko postaje naravno; jer navika je kao druga narav. Gibanje je pak ugodno ne time što se njime odstupa od navike, nego prije ukoliko se njime sprječava propadanje naravnog odnošaja, koje bi moglo nastati od neprestanog trajanja nekog djelovanja. I tako iz istog uzroka sunaravnosti postaju ugodni i navika i gibanje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da sjećanje i nada nisu uzroci naslade. Naslada je, naime, o nazočnom dobru, kako kaže Damaščanin. Ali sjećanje i nada jesu o odsutnome: jer sjećanje je o prošlome, a nada o budućemu. Dakle, sjećanje i nada nisu uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a3.obj2": {
+      "text": "Osim toga, isto nije uzrok protivnih stvari. Ali nada je uzrok muke; kaže se, naime, u Izrekama 13: *nada koja se odgađa muči dušu*. Dakle, nada nije uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a3.obj3": {
+      "text": "Osim toga, kao što se nada slaže s nasladom u tome što je o dobru, tako i požuda i ljubav. Ne treba dakle nadu više navoditi kao uzrok naslade nego požudu ili ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Poslanici Rimljanima 12: *radujući se u nadi*; i u Psalmu 76: *sjetio sam se Boga i naslađivao sam se*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a3.resp": {
+      "text": "Odgovaram: treba reći da nasladu uzrokuje nazočnost prikladnog dobra, ukoliko se osjeća ili na bilo koji način opaža. A nešto nam je nazočno na dva načina: na jedan način, po spoznaji, ukoliko je, naime, spoznato u onome koji spoznaje po svojoj sličnosti; na drugi način, u stvarnosti, ukoliko se, naime, jedno s drugim stvarno spaja, bilo u činu bilo u mogućnosti, na bilo koji način spajanja. A budući da je veće spajanje u stvarnosti nego po sličnosti, koje je spajanje spoznaje, i budući da je isto tako veće spajanje stvari u činu nego u mogućnosti, zato je najveća naslada koja biva po osjetilu, koje zahtijeva nazočnost osjetne stvari. Drugi pak stupanj zauzima naslada nade, u kojoj spajanje nije ugodno samo po zahvaćanju, nego i po sposobnosti ili moći da se postigne dobro koje naslađuje. Treći pak stupanj zauzima naslada sjećanja, koja ima samo spajanje zahvaćanja.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da su nada i sjećanje doduše o stvarima koje su naprosto odsutne, ali koje su ipak u nekom pogledu nazočne: naime, ili samo po zahvaćanju, ili po zahvaćanju i sposobnosti, barem procijenjenoj.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a3.ad2": {
+      "text": "Na drugo treba reći da ništa ne priječi da isto, s obzirom na različito, bude uzrok protivnih stvari. Tako dakle nada, ukoliko ima nazočnu procjenu budućeg dobra, uzrokuje nasladu; a ukoliko joj nedostaje njegova nazočnost, uzrokuje muku.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a3.ad3": {
+      "text": "Na treće treba reći da i ljubav i požuda uzrokuju nasladu. Jer sve što je ljubljeno postaje ugodno onome koji ljubi, zato što je ljubav neko sjedinjenje ili sunaravnost onoga koji ljubi s ljubljenim. Slično je i sve što je predmet požude ugodno onome koji ga požudno želi, budući da je požuda ponajprije težnja za nasladom. Ali ipak se nada, ukoliko sa sobom nosi neku sigurnost stvarne nazočnosti dobra koje naslađuje, koju ne nosi ni ljubav ni požuda, više postavlja kao uzrok naslade nego one. I slično više nego sjećanje, koje je o onome što je već prošlo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da žalost nije uzrok naslade. Protivno, naime, nije uzrok protivnoga. Ali žalost je protivna nasladi. Dakle, nije uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a4.obj2": {
+      "text": "Osim toga, protivne stvari imaju protivne učinke. Ali ugodne stvari kojih se sjećamo uzrok su naslade. Dakle, žalosne stvari kojih se sjećamo uzrok su boli, a ne naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a4.obj3": {
+      "text": "Osim toga, kako se žalost odnosi prema nasladi, tako se mržnja odnosi prema ljubavi. Ali mržnja nije uzrok ljubavi, nego prije obratno, kako je gore rečeno. Dakle, žalost nije uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 41: *suze su moje bile kruh moj danju i noću*. A pod kruhom se razumijeva okrepa naslade. Dakle, suze, koje nastaju iz žalosti, mogu biti ugodne.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a4.resp": {
+      "text": "Odgovaram: treba reći da se žalost može razmatrati na dva načina: na jedan način, ukoliko je u činu; na drugi način, ukoliko je u sjećanju. I na oba načina žalost može biti uzrok naslade. Žalost koja postoji u činu uzrok je naslade ukoliko pobuđuje sjećanje na ljubljenu stvar, zbog čije se odsutnosti netko žalosti, a ipak se naslađuje samim njezinim zahvaćanjem. Sjećanje pak na žalost postaje uzrok naslade zbog izbavljenja koje je uslijedilo. Jer biti lišen zla uzima se pod pojmom dobra; zato, ukoliko čovjek zahvaća da se izbavio od nekih žalosnih i bolnih stvari, raste mu građa za radost; prema onome što kaže Augustin u XXII. knjizi O Božjem gradu, da se *često veseli sjećamo žalosnih stvari, i zdravi bolova bez boli, i odatle smo još veseliji i zahvalniji*. A u VIII. knjizi Ispovijesti kaže da *što je veća bila pogibao u boju, to će veća biti radost u trijumfu*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je protivno katkad akcidentalno uzrok protivnoga, kao što hladno katkad grije, kako se kaže u VIII. knjizi Fizike. I slično je žalost akcidentalno uzrok naslade, ukoliko po njoj biva zahvaćanje nečega ugodnog.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a4.ad2": {
+      "text": "Na drugo treba reći da žalosne stvari kojih se sjećamo, ukoliko su žalosne i protivne ugodnima, ne uzrokuju nasladu, nego ukoliko se čovjek od njih oslobađa. I slično sjećanje na ugodne stvari, zbog toga što su izgubljene, može uzrokovati žalost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a4.ad3": {
+      "text": "Na treće treba reći da i mržnja akcidentalno može biti uzrok ljubavi, ukoliko, naime, neki ljube jedan drugoga zato što se slažu u mržnji prema jednome te istome.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da radnje drugih nisu nama uzrok naslade. Uzrok je naslade, naime, vlastito dobro spojeno s nama. Ali djelovanja drugih nisu spojena s nama. Dakle, nisu nam uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a5.obj2": {
+      "text": "Osim toga, djelovanje je vlastito dobro onoga koji djeluje. Ako su dakle djelovanja drugih nama uzrok naslade, s jednakim će razlogom i sva druga dobra drugih biti nama uzrok naslade. A očito je da je to lažno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a5.obj3": {
+      "text": "Osim toga, djelovanje je ugodno ukoliko proizlazi iz habitusa koji je u nama urođen; zato se kaže u II. knjizi Etike da *kao znak nastalog habitusa treba uzeti nasladu koja nastaje u djelu*. Ali djelovanja drugih ne proizlaze iz habitusa koji su u nama, nego katkad iz habitusa koji su u onima koji djeluju. Dakle, djelovanja drugih nisu ugodna nama, nego samima onima koji djeluju.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Drugoj Ivanovoj poslanici: *veoma sam se obradovao što sam našao neke od tvojih sinova kako hode u istini*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a5.resp": {
+      "text": "Odgovaram: treba reći da se, kako je već rečeno, za nasladu zahtijevaju dvije stvari, naime postizanje vlastitog dobra i spoznaja postignutoga vlastitog dobra. Na tri, dakle, načina djelovanje drugoga može biti uzrok naslade. Na jedan način, ukoliko po nečijem djelovanju postižemo neko dobro. I u tom su smislu djelovanja onih koji nam čine neko dobro nama ugodna, jer je ugodno primati dobro od drugoga. Na drugi način, ukoliko nam se po djelovanjima drugih stvara neka spoznaja ili procjena vlastitog dobra. I zbog toga se ljudi naslađuju time što ih drugi hvale ili časte, jer, naime, po tome stječu procjenu da je u njima samima neko dobro. A budući da se ta procjena snažnije stvara svjedočanstvom dobrih i mudrih, zato se ljudi više naslađuju u njihovim pohvalama i počastima. A budući da je laskavac prividni hvalitelj, zbog toga su nekima ugodna i laskanja. A budući da je ljubav prema nekom dobru, a divljenje prema nečemu velikome, zato je ugodno biti ljubljen od drugih i biti predmetom divljenja, ukoliko po tome čovjek stječe procjenu vlastite dobrote ili veličine, u kojima se netko naslađuje. Na treći način, ukoliko se sama djelovanja drugih, ako su dobra, procjenjuju kao vlastito dobro, zbog snage ljubavi, koja čini da se prijatelj procjenjuje kao da je isti sa samim sobom. A zbog mržnje, koja čini da se dobro drugoga procjenjuje kao protivno sebi, zlo djelovanje neprijatelja postaje ugodno. Zato se kaže u Prvoj poslanici Korinćanima 13 da *ljubav se ne raduje nepravdi, a suraduje se istini*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da djelovanje drugoga može biti spojeno sa mnom ili po učinku, kao u prvom načinu; ili po zahvaćanju, kao u drugom načinu; ili po čuvstvu, kao u trećem načinu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a5.ad2": {
+      "text": "Na drugo treba reći da taj razlog vrijedi s obzirom na treći način, a ne s obzirom na prva dva.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a5.ad3": {
+      "text": "Na treće treba reći da djelovanja drugih, iako ne proizlaze iz habitusa koji su u meni, ipak uzrokuju u meni nešto ugodno; ili mi stvaraju procjenu ili zahvaćanje vlastitog habitusa; ili proizlaze iz habitusa onoga koji je jedno sa mnom po ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da činiti dobro drugome nije uzrok naslade. Nasladu, naime, uzrokuje postizanje vlastitog dobra, kako je gore rečeno. Ali činiti dobro ne pripada postizanju vlastitog dobra, nego prije njegovu davanju. Dakle, čini se da je to prije uzrok žalosti nego naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a6.obj2": {
+      "text": "Osim toga, Filozof kaže u IV. knjizi Etike da je *škrtost ljudima sunaravnija nego rasipnost*. Ali rasipnosti pripada činiti dobro drugima, a škrtosti pripada odustajati od činjenja dobra. Budući dakle da je sunaravno djelovanje svakome ugodno, kako se kaže u VII. i X. knjizi Etike, čini se da činiti dobro drugima nije uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a6.obj3": {
+      "text": "Osim toga, protivni učinci proizlaze iz protivnih uzroka. Ali neke stvari koje pripadaju činjenju zla po naravi su čovjeku ugodne, kao pobjeđivati, opovrgavati ili koriti druge, pa i kažnjavati, što se tiče srditih, kako kaže Filozof u I. knjizi Retorike. Dakle, činiti dobro prije je uzrok žalosti nego naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a6.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u II. knjizi Politike, da je *darivati i pomagati prijateljima ili strancima najugodnije*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a6.resp": {
+      "text": "Odgovaram: treba reći da samo to što je činiti dobro drugome može na tri načina biti uzrok naslade. Na jedan način, s obzirom na učinak, a to je dobro uspostavljeno u drugome. I u tom smislu, ukoliko dobro drugoga smatramo kao svoje dobro zbog sjedinjenja ljubavi, naslađujemo se u dobru koje po nama biva drugima, osobito prijateljima, kao u vlastitom dobru. Na drugi način, s obzirom na svrhu, kao kad se netko, time što čini dobro drugome, nada da će postići neko dobro za samoga sebe, bilo od Boga bilo od čovjeka. A nada je uzrok naslade. Na treći način, s obzirom na počelo. I tako činiti dobro drugome može biti ugodno s obzirom na trostruko počelo. Od njih je jedno sposobnost činjenja dobra; i u tom smislu činiti dobro drugome postaje ugodno ukoliko po tome čovjek stječe neku predodžbu obilnog dobra koje postoji u njemu samome, od kojega može priopćavati drugima. I zato se ljudi naslađuju u sinovima i u vlastitim djelima, kao u onima kojima priopćuju vlastito dobro. Drugo je počelo habitus koji naginje, po kojem činiti dobro nekome postaje sunaravno. Zato darežljivi s nasladom daju drugima. Treće je počelo pobuda, primjerice kad netko biva pokrenut od nekoga koga ljubi da čini dobro nekome; jer sve što činimo ili trpimo radi prijatelja ugodno je, jer je ljubav glavni uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je davanje, ukoliko pokazuje vlastito dobro, ugodno. Ali ukoliko iscrpljuje vlastito dobro, može izazivati žalost, kao kad je neumjereno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a6.ad2": {
+      "text": "Na drugo treba reći da rasipnost ima neumjereno davanje, koje se protivi naravi. I zato se za rasipnost kaže da je protiv naravi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a6.ad3": {
+      "text": "Na treće treba reći da pobjeđivati, opovrgavati i kažnjavati nije ugodno ukoliko je na zlo drugoga, nego ukoliko pripada vlastitom dobru, koje čovjek više ljubi nego što mrzi zlo drugoga. Pobjeđivati je, naime, po naravi ugodno, ukoliko po tome čovjek stječe procjenu vlastite izvrsnosti. I zbog toga su sve igre u kojima postoji natjecanje i u kojima može biti pobjeda najugodnije, i općenito sva natjecanja, ukoliko imaju nadu u pobjedu. Opovrgavati pak i koriti može na dva načina biti uzrok naslade. Na jedan način, ukoliko čovjeku stvara predodžbu vlastite mudrosti i izvrsnosti; jer koriti i ukoravati pripada mudrima i višima. Na drugi način, ukoliko netko, koreći i prekoravajući, čini dobro drugome, što je ugodno, kako je rečeno. A srditome je ugodno kažnjavati ukoliko mu se čini da uklanja prividno umanjenje, za koje se čini da dolazi od prethodne ozljede. Kad je, naime, netko od nekoga ozlijeđen, čini se da ga je time onaj umanjio; i zato teži da se oslobodi tog umanjenja uzvraćanjem ozljede. I tako je očito da činiti dobro drugome može po sebi biti ugodno, ali činiti zlo drugome nije ugodno, osim ukoliko se čini da pripada vlastitom dobru.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da sličnost nije uzrok naslade. Vladati, naime, i biti na čelu sa sobom nosi neku nesličnost. Ali vladati i biti na čelu po naravi je ugodno, kako se kaže u I. knjizi Retorike. Dakle, nesličnost je prije uzrok naslade nego sličnost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a7.obj2": {
+      "text": "Osim toga, ništa nije nesličnije nasladi nego žalost. Ali oni koji trpe žalosti ponajviše idu za nasladama, kako se kaže u VII. knjizi Etike. Dakle, nesličnost je prije uzrok naslade nego sličnost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a7.obj3": {
+      "text": "Osim toga, oni koji su prepunjeni nekim ugodnim stvarima ne naslađuju se u njima, nego im one prije postaju odbojne, kao što je očito kod prezasićenosti jelima. Dakle, sličnost nije uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a7.sc": {
+      "text": "Ali protiv toga je to što je sličnost uzrok ljubavi, kako je gore rečeno. A ljubav je uzrok naslade. Dakle, sličnost je uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a7.resp": {
+      "text": "Odgovaram: treba reći da je sličnost neko jedinstvo; zato je ono što je slično, ukoliko je jedno, ugodno, kao i vrijedno ljubavi, kako je gore rečeno. I ako ono što je slično ne kvari vlastito dobro, nego ga uvećava, naprosto je ugodno, primjerice čovjek čovjeku i mladić mladiću. Ako pak kvari vlastito dobro, tada akcidentalno postaje odbojno ili žalosno; ne doduše ukoliko je slično i jedno, nego ukoliko kvari ono što je više jedno. A da nešto slično kvari vlastito dobro, događa se na dva načina. Na jedan način, jer kvari mjeru vlastitog dobra nekim prekomjerjem; jer dobro, osobito tjelesno, kao zdravlje, sastoji se u nekoj razmjernosti. I zbog toga postaju odbojna preobilna jela ili bilo koje tjelesne naslade. Na drugi način, po izravnoj protivnosti vlastitom dobru; kao što su lončarima odvratni drugi lončari, ne ukoliko su lončari, nego ukoliko zbog njih gube vlastitu izvrsnost ili vlastitu zaradu, za kojima teže kao za vlastitim dobrom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da postoji neko zajedništvo onoga koji vlada s podložnikom, ondje postoji neka sličnost. Ipak, u skladu s nekom izvrsnošću, zato što vladati i biti na čelu pripada izvrsnosti vlastitog dobra; jer mudrima i boljima pripada vladati i biti na čelu. Zato po tome čovjek stječe predodžbu vlastite dobrote. Ili zato što čovjek, time što vlada i što je na čelu, čini dobro drugima, što je ugodno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a7.ad2": {
+      "text": "Na drugo treba reći da ono u čemu se naslađuje ožalošćeni, iako nije slično žalosti, ipak je slično ožalošćenom čovjeku. Jer žalosti se protive vlastitom dobru onoga koji se žalosti. I zato oni koji su u žalosti teže za nasladom kao za onim što koristi vlastitom dobru, ukoliko liječi ono što mu je protivno. I to je razlog zašto se za tjelesnim nasladama, kojima su protivne neke žalosti, više teži nego za umskim nasladama, kojima nije protivna nikakva žalost, kako će se niže reći. Odatle je također to da sve životinje po naravi teže za nasladom, jer životinja uvijek podnosi napor osjetilom i gibanjem. I zbog toga i mladi najviše teže za nasladama, zbog mnogih preinaka koje se u njima zbivaju dok su u stanju rasta. A i melankolici žestoko teže za nasladama da otjeraju žalost, jer njihovo tijelo kao da nagriza pokvareni sok, kako se kaže u VII. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a7.ad3": {
+      "text": "Na treće treba reći da se tjelesna dobra sastoje u nekoj mjeri; i zato prekomjernost sličnih stvari kvari vlastito dobro. I zbog toga postaje odbojno i žalosno, ukoliko je protivno vlastitom dobru čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da divljenje nije uzrok naslade. Diviti se, naime, svojstveno je naravi koja ne zna, kako kaže Damaščanin. Ali neznanje nije ugodno, nego prije znanje. Dakle, divljenje nije uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a8.obj2": {
+      "text": "Osim toga, divljenje je početak mudrosti, kao put prema istraživanju istine, kako se kaže na početku Metafizike. *Ali ugodnije je motriti već spoznato nego istraživati nepoznato*, kako kaže Filozof u X. knjizi Etike, jer ovo potonje ima teškoću i zapreku, a ono prvo nema; a nasladu uzrokuje nesmetano djelovanje, kako se kaže u VII. knjizi Etike. Dakle, divljenje nije uzrok naslade, nego prije priječi nasladu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a8.obj3": {
+      "text": "Osim toga, svatko se naslađuje u onome što mu je uobičajeno; zato su ugodna djelovanja habitusa stečenih navikom. Ali uobičajene stvari ne izazivaju divljenje, kako kaže Augustin u tumačenju Ivana. Dakle, divljenje je protivno uzroku naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a8.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u I. knjizi Retorike, da je divljenje uzrok naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a8.resp": {
+      "text": "Odgovaram: treba reći da je postići željeno ugodno, kako je gore rečeno. I zato, što više raste želja za nekom ljubljenom stvari, to više postignućem raste naslada. A i u samom porastu želje biva porast naslade, ukoliko nastaje i nada u ljubljenu stvar; kao što je gore rečeno da je sama želja ugodna zbog nade. A divljenje je neka želja za znanjem, koja se u čovjeku događa zbog toga što vidi učinak, a ne zna uzrok, ili zbog toga što uzrok takvog učinka nadilazi njegovu spoznaju ili sposobnost. I zato je divljenje uzrok naslade ukoliko ima pridruženu nadu da će postići spoznaju onoga što želi znati. I zbog toga je ugodno sve što je čudesno, kao ono što je rijetko, i svi prikazi stvari, pa i onih koje same po sebi nisu ugodne; jer duša se raduje u uspoređivanju jednoga s drugim, budući da je uspoređivati jedno s drugim vlastiti i sunaravni čin razuma, kako kaže Filozof u svojoj Poetici. I zbog toga je i *biti izbavljen iz velikih pogibli ugodnije, jer je vrijedno divljenja*, kako se kaže u I. knjizi Retorike.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da divljenje nije ugodno ukoliko sadrži neznanje, nego ukoliko sadrži želju da se dozna uzrok; i ukoliko onaj koji se divi doznaje nešto novo, naime da je nešto takvo kakvim ga nije smatrao.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a8.ad2": {
+      "text": "Na drugo treba reći da naslada ima dvije stvari, naime smirenje u dobru i opažanje takvog smirenja. Što se, dakle, tiče prvoga, budući da je savršenije motriti spoznatu istinu nego istraživati nepoznatu, motrenja poznatih stvari, govoreći po sebi, ugodnija su nego istraživanja nepoznatih stvari. Ipak akcidentalno, što se tiče drugoga, događa se da su istraživanja katkad ugodnija, ukoliko proizlaze iz veće želje; a veća se želja pobuđuje opažanjem neznanja. Zato se čovjek najviše naslađuje u onome što iznova otkrije ili dozna.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q32.a8.ad3": {
+      "text": "Na treće treba reći da su uobičajene stvari ugodne za djelovanje ukoliko su kao sunaravne. Ali ipak rijetke stvari mogu biti ugodne, ili zbog spoznaje, jer se želi znanje o njima ukoliko su čudesne; ili zbog djelovanja, *jer se duh iz želje više nagiba tome da napeto djeluje u novome*, kako se kaže u X. knjizi Etike; jer savršenije djelovanje uzrokuje savršeniju nasladu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    }
+  }
+}

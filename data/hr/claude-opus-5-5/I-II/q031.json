@@ -1,0 +1,384 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 31,
+  "units": {
+    "I-II.q31.pr": {
+      "text": "Zatim treba razmotriti nasladu i žalost. A u pogledu naslade treba razmotriti četiri stvari: prvo, samu nasladu po sebi; drugo, uzroke naslade; treće, njezine učinke; četvrto, njezinu dobrotu i zloću. U pogledu prvoga pita se osam stvari. Prvo, je li naslada strast. Drugo, je li u vremenu. Treće, razlikuje li se od radosti. Četvrto, je li u umskoj težnji. Peto, o usporedbi naslada više težnje s nasladom niže težnje. Šesto, o međusobnoj usporedbi osjetilnih naslada. Sedmo, postoji li kakva naslada koja nije naravna. Osmo, može li naslada biti protivna nasladi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:14+00:00"
+    },
+    "I-II.q31.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da naslada nije strast. Damaščanin, naime, u II. knjizi razlikuje djelovanje od strasti govoreći da je *djelovanje pokret koji je u skladu s naravi, a strast pokret protiv naravi*. Ali naslada je djelovanje, kako kaže Filozof u VII. i X. knjizi Etike. Dakle, naslada nije strast.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:14+00:00"
+    },
+    "I-II.q31.a1.obj2": {
+      "text": "Osim toga, trpjeti znači biti pokretan, kako se kaže u III. knjizi Fizike. Ali naslada se ne sastoji u tome da se bude pokretan, nego u tome da se bude pokrenut; naslada se, naime, uzrokuje iz već postignutog dobra. Dakle, naslada nije strast.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:14+00:00"
+    },
+    "I-II.q31.a1.obj3": {
+      "text": "Osim toga, naslada se sastoji u nekoj savršenosti onoga koji se naslađuje; ona, naime, usavršuje djelovanje, kako se kaže u X. knjizi Etike. Ali biti usavršen ne znači trpjeti ili biti kakvoćno promijenjen, kako se kaže u VII. knjizi Fizike i u II. knjizi O duši. Dakle, naslada nije strast.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:14+00:00"
+    },
+    "I-II.q31.a1.sc": {
+      "text": "Ali protiv toga je to što Augustin u IX. i XIV. knjizi djela O Božjem gradu stavlja nasladu, ili radost ili veselje, među ostale strasti duše.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:14+00:00"
+    },
+    "I-II.q31.a1.resp": {
+      "text": "Odgovaram: treba reći da se pokret osjetilne težnje u vlastitom smislu naziva strašću, kao što je gore rečeno. A svako čuvstvo koje proizlazi iz osjetilnog zahvaćanja jest pokret osjetilne težnje. To pak nužno pripada nasladi. Jer, kao što kaže Filozof u I. knjizi Retorike, *naslada je neki pokret duše i postavljanje, cjelovito odjednom i osjetno, u postojeću narav*. Da bi se to shvatilo, treba razmotriti da, kao što se u naravnim stvarima događa da neke postižu svoje naravne savršenosti, tako se to događa i u životinjama. I premda biti pokretan prema savršenosti nije cjelovito odjednom, ipak postići naravnu savršenost jest cjelovito odjednom. A razlika je između životinja i drugih naravnih stvari u tome što druge naravne stvari, kada se postave u ono što im pristaje po naravi, to ne osjećaju, a životinje to osjećaju. I iz toga osjećanja uzrokuje se neki pokret duše u osjetilnoj težnji, i taj je pokret naslada. Time, dakle, što se kaže da je naslada pokret duše, ona se stavlja u rod. A time što se kaže postavljanje u postojeću narav, to jest u ono što postoji u naravi stvari, navodi se uzrok naslade, naime prisutnost sunaravnog dobra. A time što se kaže cjelovito odjednom, pokazuje se da se postavljanje ne smije uzeti kako je u tome da se nešto postavlja, nego kako je u tome da je nešto već postavljeno, kao u završetku gibanja; naslada, naime, nije nastajanje, kako je postavio Platon, nego se prije sastoji u tome da je nešto već učinjeno, kako se kaže u VII. knjizi Etike. A time što se kaže osjetno, isključuju se savršenosti neosjetnih stvari, u kojima nema naslade. Tako je, dakle, jasno da je naslada, budući da je pokret u životinjskoj težnji koji slijedi zahvaćanje osjetila, strast duše.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:14+00:00"
+    },
+    "I-II.q31.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je sunaravno i neometano djelovanje druga savršenost, kako stoji u II. knjizi O duši. Stoga, kada se stvar postavi u vlastito sunaravno i neometano djelovanje, slijedi naslada, koja se sastoji u tome da je nešto već usavršeno, kao što je rečeno. Kada se, dakle, kaže da je naslada djelovanje, to nije priricanje po biti, nego po uzroku.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:14+00:00"
+    },
+    "I-II.q31.a1.ad2": {
+      "text": "Na drugo treba reći da se u životinji može razmatrati dvostruki pokret: jedan prema nakani svrhe, koji pripada težnji, i drugi prema izvršenju, koji pripada vanjskom djelovanju. Premda, dakle, u onome koji je već postigao dobro u kojem se naslađuje prestaje pokret izvršenja kojim se teži prema svrsi, ipak ne prestaje pokret težnjenog dijela, koji se, kao što je prije želio ono što nije imao, tako poslije naslađuje u onome što ima. Premda je, naime, naslada neko smirenje težnje, ako se promotri prisutnost dobra koje pruža nasladu i koje zadovoljava težnju, ipak još ostaje izmjena težnje od strane poželjnoga, s obzirom na koju je naslada neki pokret.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:14+00:00"
+    },
+    "I-II.q31.a1.ad3": {
+      "text": "Na treće treba reći da, premda ime strasti u vlastitijem smislu pristaje strastima koje razaraju i teže prema zlu, kao što su tjelesne bolesti te žalost i strah u duši, ipak su i neke strasti usmjerene prema dobru, kao što je gore rečeno. I u tom se smislu naslada naziva strašću.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:14+00:00"
+    },
+    "I-II.q31.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je naslada u vremenu. Naslada je, naime, neki pokret, kako kaže Filozof u I. knjizi Retorike. Ali svaki je pokret u vremenu. Dakle, naslada je u vremenu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a2.obj2": {
+      "text": "Osim toga, za nešto se kaže da je dugotrajno ili zadržano s obzirom na vrijeme. Ali za neke se naslade kaže da su zadržane. Dakle, naslada je u vremenu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a2.obj3": {
+      "text": "Osim toga, strasti duše pripadaju jednom rodu. Ali neke su strasti duše u vremenu. Dakle, i naslada.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u X. knjizi Etike: *ni u kojem vremenu netko neće primiti nasladu*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a2.resp": {
+      "text": "Odgovaram: treba reći da se događa da nešto bude u vremenu na dva načina: na jedan način po sebi; na drugi način po drugome i kao akcidentalno. Budući da je, naime, vrijeme broj onoga što slijedi jedno za drugim, za ono se kaže da je po sebi u vremenu čijem pojmu pripada slijed ili nešto što pripada slijedu, kao što su gibanje, mirovanje, govor i drugo takvo. A po drugome, a ne po sebi, kaže se da je u vremenu ono čijem pojmu ne pripada nikakav slijed, ali je ipak podložno nečemu što slijedi jedno za drugim. Tako biti čovjek po svom pojmu nema slijeda, jer nije gibanje, nego završetak gibanja ili promjene, naime njegova nastajanja; ali budući da je ljudski bitak podložan preinačivim uzrocima, u tom je smislu biti čovjek u vremenu. Tako, dakle, treba reći da naslada po sebi nije u vremenu, jer je naslada u već postignutom dobru, koje je kao završetak gibanja. Ali ako je to postignuto dobro podložno preinaci, naslada će akcidentalno biti u vremenu. Ako pak je posve nepreinačivo, naslada neće biti u vremenu ni po sebi ni akcidentalno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kao što se kaže u III. knjizi O duši, o pokretu govori na dva načina. Na jedan način, to je pokret koji je čin nesavršenoga, naime onoga što postoji u mogućnosti, ukoliko je takvo; i takav je pokret slijedan i u vremenu. A drugi je pokret čin savršenoga, to jest onoga što postoji u činu, kao što su shvaćati, osjećati i htjeti i slično, a također i naslađivati se. I takav pokret nije slijedan, niti je po sebi u vremenu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a2.ad2": {
+      "text": "Na drugo treba reći da se za nasladu kaže da je dugotrajna ili zadržana ukoliko je akcidentalno u vremenu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a2.ad3": {
+      "text": "Na treće treba reći da druge strasti nemaju za predmet postignuto dobro, kao naslada. Stoga imaju više od pojma nesavršenog pokreta nego naslada. I, posljedično, nasladi više pristaje da ne bude u vremenu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je radost posve isto što i naslada. Strasti se duše, naime, razlikuju po predmetima. Ali isti je predmet radosti i naslade, naime postignuto dobro. Dakle, radost je posve isto što i naslada.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a3.obj2": {
+      "text": "Osim toga, jedan pokret ne završava u dvjema granicama. Ali isti je pokret koji završava u radosti i u nasladi, naime požuda. Dakle, naslada i radost posve su isto.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a3.obj3": {
+      "text": "Osim toga, ako je radost nešto drugo od naslade, čini se da s istog razloga i veselje i klicanje i milina označuju nešto drugo od naslade, i tako će sve one biti različite strasti. A to se čini lažnim. Dakle, radost se ne razlikuje od naslade.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a3.sc": {
+      "text": "Ali protiv toga je to što kod nerazumnih životinja ne govorimo o radosti. A kod njih govorimo o nasladi. Dakle, radost i naslada nisu isto.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a3.resp": {
+      "text": "Odgovaram: treba reći da je radost, kako kaže Avicena u svojoj knjizi O duši, neka vrsta naslade. Treba, naime, razmotriti da, kao što su neke požude naravne, a neke nisu naravne, nego slijede razum, kao što je gore rečeno, tako su i od naslada neke naravne, a neke nisu naravne, nego su s razumom. Ili, kako kažu Damaščanin i Grgur iz Nise, neke su tjelesne, a neke duševne, što se svodi na isto. Naslađujemo se, naime, i u onome što naravno požudimo, kad to postignemo, i u onome što požudimo prema razumu. Ali ime radosti nema mjesta osim u nasladi koja slijedi razum; stoga radost ne pripisujemo nerazumnim životinjama, nego samo ime naslade. A sve što požudimo prema naravi možemo požudjeti i s nasladom razuma, ali ne i obrnuto. Stoga o svemu o čemu postoji naslada može kod onih koji imaju razum postojati i radost. Premda nije uvijek radost o svemu; ponekad, naime, netko osjeća neku nasladu u tijelu, zbog koje se ipak ne raduje prema razumu. I prema tome je jasno da naslada seže šire nego radost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da je predmet životinjske težnje zahvaćeno dobro, različitost zahvaćanja na neki način pripada različitosti predmeta. I tako se duševne naslade, koje se nazivaju i radostima, razlikuju od tjelesnih naslada, koje se nazivaju samo nasladama, kao što je gore rečeno i o požudama.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a3.ad2": {
+      "text": "Na drugo treba reći da se slična razlika nalazi i u požudama, tako da naslada odgovara požudi, a radost odgovara želji, za koju se čini da više pripada duševnoj požudi. I tako prema razlici pokreta postoji i razlika smirenja.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a3.ad3": {
+      "text": "Na treće treba reći da su druga imena koja pripadaju nasladi nadjenuta prema učincima naslade: veselje (laetitia) se, naime, naziva prema proširenju srca, kao da bi se reklo latitia; klicanje (exultatio) pak dobiva ime od vanjskih znakova unutarnje naslade koji se pokazuju izvana, ukoliko, naime, unutarnja radost iskače prema vanjštini; milina pak dobiva ime od nekih posebnih znakova ili učinaka veselja. Pa ipak se čini da sva ta imena pripadaju radosti, jer ih rabimo samo kod razumskih naravi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da naslada nije u umskoj težnji. Filozof, naime, kaže u I. knjizi Retorike da je *naslada neki osjetni pokret*. Ali osjetni pokret nije u umskom dijelu. Dakle, naslada nije u umskom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a4.obj2": {
+      "text": "Osim toga, naslada je neka strast. Ali svaka je strast u osjetilnoj težnji. Dakle, naslada je samo u osjetilnoj težnji.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a4.obj3": {
+      "text": "Osim toga, naslada je zajednička nama i nerazumnim životinjama. Dakle, ona je samo u onom dijelu koji je zajednički nama i nerazumnim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 36: *naslađuj se u Gospodinu*. Ali na Boga se ne može protegnuti osjetilna težnja, nego samo umska. Dakle, naslada može biti u umskoj težnji.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, neka naslada slijedi zahvaćanje razuma. A na zahvaćanje razuma ne pokreće se samo osjetilna težnja, primjenom na nešto pojedinačno, nego i umska težnja, koja se naziva volja. I prema tome je u umskoj težnji, odnosno u volji, naslada koja se naziva radost, ali ne tjelesna naslada. Ipak, između naslade jedne i druge težnje postoji ta razlika što je naslada osjetne težnje s nekom tjelesnom preinakom, dok naslada umske težnje nije ništa drugo nego jednostavan pokret volje. I prema tome Augustin kaže u XIV. knjizi djela O Božjem gradu da *žudnja i veselje nisu ništa drugo nego volja u pristajanju na ono što hoćemo*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u onoj Filozofovoj definiciji osjetno uzima općenito za bilo kakvo zahvaćanje. Filozof, naime, kaže u X. knjizi Etike da *naslada postoji prema svakom osjetilu, a slično i prema umu i promatranju*. Ili se može reći da on definira nasladu osjetilne težnje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a4.ad2": {
+      "text": "Na drugo treba reći da naslada ima pojam strasti, u vlastitom smislu govoreći, ukoliko je s nekom tjelesnom preinakom. I tako nije u umskoj težnji, nego je u njoj prema jednostavnom pokretu; tako je, naime, i u Bogu i u anđelima. Stoga Filozof kaže u VII. knjizi Etike da se Bog raduje jednim jednostavnim djelovanjem. A Dionizije kaže na kraju djela O nebeskoj hijerarhiji da *anđeli nisu prijemljivi za našu nasladu podložnu trpnji, nego se raduju zajedno s Bogom prema veselju nepropadljivosti*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a4.ad3": {
+      "text": "Na treće treba reći da u nama nije samo naslada u kojoj imamo zajedništvo s nerazumnim životinjama, nego i ona u kojoj imamo zajedništvo s anđelima. Stoga ondje Dionizije kaže da *sveti ljudi mnogo puta dolaze do sudjelovanja u anđeoskim nasladama*. I tako je u nama naslada ne samo u osjetilnoj težnji, u kojoj imamo zajedništvo s nerazumnim životinjama, nego i u umskoj težnji, u kojoj imamo zajedništvo s anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da su tjelesne i osjetne naslade veće od duhovnih umljivih naslada. Svi, naime, slijede neku nasladu, prema Filozofu u X. knjizi Etike. Ali više ih slijedi osjetne naslade nego duhovne umljive naslade. Dakle, tjelesne su naslade veće.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a5.obj2": {
+      "text": "Osim toga, veličina se uzroka spoznaje iz učinka. Ali tjelesne naslade imaju jače učinke: *one, naime, preinačuju tijelo, a nekima izazivaju ludilo*, kako se kaže u VII. knjizi Etike. Dakle, tjelesne su naslade jače.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a5.obj3": {
+      "text": "Osim toga, tjelesne naslade treba umjeravati i obuzdavati zbog njihove žestine. Ali duhovne naslade ne treba obuzdavati. Dakle, tjelesne su naslade veće.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu 118: *kako su slatke nepcu mojemu riječi tvoje, slađe od meda ustima mojim*. A Filozof kaže u X. knjizi Etike da je *najveća naslada ona koja je prema djelovanju mudrosti*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a5.resp": {
+      "text": "Odgovaram: treba reći da, kao što je već rečeno, naslada proizlazi iz spajanja s nečim prikladnim što se osjeća ili spoznaje. A kod djela duše, osobito osjetilne i umske, treba razmotriti ovo: budući da ne prelaze u vanjsku tvar, ona su čini ili savršenosti onoga koji djeluje, naime shvaćati, osjećati, htjeti i slično; jer radnje koje prelaze u vanjsku tvar više su radnje i savršenosti preinačene tvari; gibanje je, naime, čin pokretljivoga od pokretača. Tako su, dakle, spomenute radnje osjetilne i umske duše i same neko dobro onoga koji djeluje, a i spoznaju se osjetilom ili umom. Stoga i iz njih samih nastaje naslada, a ne samo iz njihovih predmeta. Ako se, dakle, umljive naslade uspoređuju s osjetnim nasladama prema tome kako se naslađujemo u samim radnjama, na primjer u spoznaji osjetila i u spoznaji uma, nema sumnje da su umljive naslade mnogo veće od osjetnih. Čovjek se, naime, mnogo više naslađuje time što nešto spoznaje shvaćajući nego time što nešto spoznaje osjećajući. Jer umska je spoznaja i savršenija, a i više se spoznaje, budući da se um više vraća na svoj čin nego osjetilo. Umska je spoznaja i više ljubljena: nema, naime, nikoga tko ne bi radije htio biti lišen tjelesnog vida nego umskog vida, na onaj način na koji su ga lišene zvijeri ili budale, kao što kaže Augustin u knjizi O Božjem gradu. Ali ako se umljive duhovne naslade uspoređuju s osjetnim tjelesnim nasladama, tada su, po sebi i naprosto govoreći, duhovne naslade veće. A to se pokazuje prema trima stvarima koje se traže za nasladu, naime prema dobru koje se spaja, prema onome s čime se spaja i prema samom spajanju. Jer samo je duhovno dobro i veće od tjelesnog dobra i više ljubljeno. Znak je toga što se ljudi uzdržavaju čak i od najvećih tjelesnih užitaka da ne bi izgubili čast, koja je umljivo dobro. Slično je i sam umski dio mnogo plemenitiji i sposobniji za spoznaju nego osjetilni dio. I spajanje jednoga i drugoga je prisnije, savršenije i čvršće. Prisnije je zato što se osjetilo zaustavlja na vanjskim akcidentima stvari, a um prodire sve do biti stvari; predmet je, naime, uma ono što jest. Savršenije je pak zato što se spajanju osjetnoga s osjetilom pridružuje gibanje, koje je nesavršen čin; stoga ni osjetne naslade nisu cjelovite odjednom, nego u njima nešto prolazi, a nešto se očekuje da se dovrši, kao što je očito u nasladi jela i spolnog općenja. Ali umljive su stvari bez gibanja, pa su takve naslade cjelovite odjednom. Čvršće je i zato što su tjelesne ugodne stvari propadljive i brzo nestaju, a duhovna su dobra nepropadljiva. Ali za nas su tjelesne naslade žešće, i to zbog triju razloga. Prvo, zato što su nam osjetne stvari poznatije nego umljive. Drugo, i zato što su osjetne naslade, budući da su strasti osjetilne težnje, s nekom tjelesnom preinakom. To se ne događa u duhovnim nasladama, osim po nekom prelijevanju iz više težnje u nižu. Treće, zato što se za tjelesnim nasladama teži kao za nekim lijekovima protiv tjelesnih nedostataka ili tegoba, iz kojih slijede neke žalosti. Stoga se tjelesne naslade, kad nastupe nakon takvih žalosti, jače osjećaju, i posljedično se radije prihvaćaju nego duhovne naslade, koje nemaju protivnih žalosti, kao što će se dolje reći.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da više njih slijedi tjelesne naslade zato što su osjetna dobra poznatija, i to većem broju ljudi. I također zato što ljudi trebaju naslade kao lijekove protiv mnogostrukih boli i žalosti; a budući da većina ljudi ne može doseći duhovne naslade, koje su vlastite kreposnima, posljedica je da skreću prema tjelesnima.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a5.ad2": {
+      "text": "Na drugo treba reći da preinaka tijela više nastaje iz tjelesnih naslada, ukoliko su one strasti osjetilne težnje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a5.ad3": {
+      "text": "Na treće treba reći da su tjelesne naslade prema osjetilnom dijelu, koji se ravna razumom, i zato trebaju biti umjeravane i obuzdavane razumom. Ali duhovne su naslade prema duhu, koji je sam pravilo; stoga su same po sebi trijezne i umjerene.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da naslade koje su prema opipu nisu veće od naslada koje su prema drugim osjetilima. Čini se, naime, da je najveća ona naslada s čijim isključenjem prestaje svaka radost. A takva je naslada koja je prema vidu; kaže se, naime, u Tob 5: *kakva će mi biti radost, kad sjedim u tami i ne vidim svjetla nebeskoga?* Dakle, naslada koja je po vidu najveća je među osjetnim nasladama.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a6.obj2": {
+      "text": "*Osim toga, svakome postaje ugodno ono što ljubi*, kako kaže Filozof u I. knjizi Retorike. Ali među ostalim osjetilima najviše se ljubi vid. Dakle, naslada koja je prema vidu najveća je.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a6.obj3": {
+      "text": "Osim toga, počelo ugodnog prijateljstva najviše je viđenje. Ali uzrok je takvog prijateljstva naslada. Dakle, čini se da je naslada najviše prema vidu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u III. knjizi Etike, da su najveće naslade prema opipu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a6.resp": {
+      "text": "Odgovaram: treba reći da, kao što je već rečeno, svaka stvar, ukoliko se ljubi, postaje ugodna. A osjetila se, kako se kaže na početku Metafizike, ljube zbog dvoga, naime zbog spoznaje i zbog koristi. Stoga se na oba načina događa da postoji naslada prema osjetilu. Ali budući da je zahvatiti samu spoznaju kao neko dobro vlastito čovjeku, zato su prve naslade osjetila, naime one koje su prema spoznaji, vlastite ljudima, a naslade osjetila ukoliko se ona ljube zbog koristi zajedničke su svim životinjama. Ako, dakle, govorimo o nasladi osjetila koja je s razloga spoznaje, očito je da je prema vidu veća naslada nego prema ikojem drugom osjetilu. A ako govorimo o nasladi osjetila koja je s razloga koristi, tada je najveća naslada prema opipu. Korist se, naime, osjetnih stvari promatra prema usmjerenosti na održavanje životinjske naravi. A toj su koristi bliže osjetne stvari opipa; opip, naime, spoznaje ono od čega se životinja sastoji, naime toplo i hladno i slično. Stoga su, prema tome, naslade koje su prema opipu veće, kao bliže svrsi. I zbog toga se i druge životinje, koje nemaju nasladu prema osjetilu osim s razloga koristi, ne naslađuju prema drugim osjetilima osim u usmjerenosti prema osjetnim stvarima opipa: *ni psi se, naime, ne raduju mirisima zečeva, nego hranjenju njima; ni lav glasu vola, nego jedenju*, kako se kaže u III. knjizi Etike. Budući da je, dakle, naslada opipa najveća s razloga koristi, a naslada vida s razloga spoznaje, ako ih netko želi usporediti, naći će da je naslada opipa naprosto veća od naslade vida, ukoliko se ona zadržava unutar granica osjetne naslade. Jer očito je da je ono što je u svakome naravno najmoćnije. A takve su naslade opipa one prema kojima su usmjerene naravne požude, kao što su jela, spolno općenje i slično. Ali ako razmotrimo naslade vida ukoliko vid služi umu, tada će naslade vida biti odličnije, iz onog razloga iz kojeg su i umljive naslade odličnije od osjetnih.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da radost, kao što je gore rečeno, označuje duševnu nasladu, a ona najviše pripada vidu. Ali naravna naslada najviše pripada opipu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a6.ad2": {
+      "text": "Na drugo treba reći da se vid najviše ljubi zbog spoznaje, zato što nam pokazuje mnoge razlike stvari, kako se ondje kaže.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a6.ad3": {
+      "text": "Na treće treba reći da je na jedan način naslada uzrok tjelesne ljubavi, a na drugi način viđenje. Jer naslada, i najviše ona koja je prema opipu, uzrok je ugodnog prijateljstva na način svrhe, a viđenje je uzrok kao ono odakle je počelo pokreta, ukoliko se po vidu utiskuje spoznajni lik ljubljive stvari, koji mami da se ona ljubi i da se požudi njezina naslada.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da nijedna naslada nije nenaravna. Naslada, naime, u čuvstvima duše odgovara smirenju u tijelima. Ali težnja naravnog tijela ne smiruje se osim na sunaravnom mjestu. Dakle, ni smirenje životinjske težnje, koje je naslada, ne može biti osim u nečemu sunaravnom. Dakle, nijedna naslada nije nenaravna.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a7.obj2": {
+      "text": "Osim toga, ono što je protiv naravi nasilno je. Ali sve nasilno nanosi žalost, kako se kaže u V. knjizi Metafizike. Dakle, ništa što je protiv naravi ne može biti ugodno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a7.obj3": {
+      "text": "Osim toga, biti postavljen u vlastitu narav, kad se to osjeti, uzrokuje nasladu, kao što je jasno iz Filozofove definicije navedene gore. Ali biti postavljen u narav svakome je naravno, jer naravno je ono gibanje koje je prema naravnoj granici. Dakle, svaka je naslada naravna.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u VII. knjizi Etike, da su neke naslade bolesne i protiv naravi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a7.resp": {
+      "text": "Odgovaram: treba reći da se naravnim naziva ono što je prema naravi, kako se kaže u II. knjizi Fizike. A narav se u čovjeku može uzeti na dva načina. Na jedan način, ukoliko su um i razum ponajprije čovjekova narav, jer se po njoj čovjek postavlja u vrstu. I prema tome se naravnim nasladama ljudi mogu nazvati one koje su u onome što pristaje čovjeku prema razumu; tako je čovjeku naravno naslađivati se u motrenju istine i u činima kreposti. Na drugi se način narav u čovjeku može uzeti ukoliko se u diobi postavlja nasuprot razumu, naime kao ono što je zajedničko čovjeku i drugima, osobito ono što se ne pokorava razumu. I prema tome se ono što pripada održavanju tijela, bilo prema pojedincu, kao jelo, piće, postelja i slično, bilo prema vrsti, kao spolno općenje, naziva čovjeku naravno ugodnim. A prema jednim i drugim nasladama događa se da su neke nenaravne, naprosto govoreći, ali sunaravne u nekom pogledu. Događa se, naime, da se u nekom pojedincu pokvari neko od naravnih počela vrste; i tako ono što je protiv naravi vrste postaje akcidentalno naravno tom pojedincu, kao što je ovoj zagrijanoj vodi naravno da grije. Tako se, dakle, događa da ono što je protiv čovjekove naravi, bilo s obzirom na razum, bilo s obzirom na održavanje tijela, postane ovome čovjeku sunaravno, zbog neke pokvarenosti naravi koja postoji u njemu. Ta pokvarenost može biti ili s tjelesne strane, bilo od bolesti, kao što se onima u groznici slatko čini gorkim i obratno, bilo zbog lošeg tjelesnog sastava, kao što se neki naslađuju u jedenju zemlje ili ugljena ili nečeg takvog; ili pak s duševne strane, kao što se neki zbog navike naslađuju u jedenju ljudi ili u općenju sa životinjama ili s muškarcima, ili u drugim takvim stvarima, koje nisu u skladu s ljudskom naravi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a7.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da nasladi nije protivna naslada. Strasti duše, naime, primaju vrstu i protivnost prema predmetima. A predmet je naslade dobro. Budući da, dakle, dobro nije protivno dobru, nego je dobro protivno zlu, a zlo zlu, kako se kaže u Kategorijama, čini se da naslada nije protivna nasladi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a8.obj2": {
+      "text": "Osim toga, jednome je protivno jedno, kako se dokazuje u X. knjizi Metafizike. Ali nasladi je protivna žalost. Dakle, nasladi nije protivna naslada.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a8.obj3": {
+      "text": "Osim toga, ako je nasladi protivna naslada, to je samo zbog protivnosti onih stvari u kojima se netko naslađuje. Ali ta je razlika tvarna, a protivnost je razlika prema formi, kako se kaže u X. knjizi Metafizike. Dakle, ne postoji protivnost naslade prema nasladi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a8.sc": {
+      "text": "Ali protiv toga, ono što se međusobno ometa, a postoji u istom rodu, protivno je, prema Filozofu. Ali neke se naslade međusobno ometaju, kako se kaže u X. knjizi Etike. Dakle, neke su naslade protivne.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a8.resp": {
+      "text": "Odgovaram: treba reći da naslada u čuvstvima duše, kao što je rečeno, odgovara smirenju u naravnim tijelima. A za dva se smirenja kaže da su protivna kad su u protivnim granicama, kao smirenje koje je gore onome koje je dolje, kako se kaže u V. knjizi Fizike. Stoga se i u čuvstvima duše događa da su dvije naslade protivne.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da tu Filozofovu riječ treba shvatiti ukoliko se dobro i zlo uzimaju u krepostima i porocima: nalaze se, naime, dva protivna poroka, ali se ne nalazi krepost protivna kreposti. A u drugim stvarima ništa ne priječi da dva dobra budu međusobno protivna, kao toplo i hladno, od kojih je jedno dobro za vatru, a drugo za vodu. I na taj način naslada može biti protivna nasladi. Ali to ne može biti u dobru kreposti, jer se dobro kreposti uzima samo po prikladnosti s nečim jednim, naime s razumom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a8.ad2": {
+      "text": "Na drugo treba reći da se naslada u čuvstvima duše odnosi kao naravno smirenje u tijelima: ona je, naime, u nečemu prikladnom i kao sunaravnom. A žalost se odnosi kao nasilno smirenje: ono što nanosi žalost protivi se, naime, životinjskoj težnji, kao što se mjesto nasilnog smirenja protivi naravnoj težnji. A naravnom smirenju suprotstavljeno je i nasilno smirenje istoga tijela i naravno smirenje drugoga, kako se kaže u V. knjizi Fizike. Stoga su nasladi suprotstavljene i naslada i žalost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    },
+    "I-II.q31.a8.ad3": {
+      "text": "Na treće treba reći da ono u čemu se naslađujemo, budući da je predmet naslade, ne čini samo tvarnu razliku, nego i formalnu, ako je različit pojam ugodnosti. Različit pojam predmeta, naime, razlikuje vrstu čina ili strasti, kao što je jasno iz gore rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:15+00:00"
+    }
+  }
+}

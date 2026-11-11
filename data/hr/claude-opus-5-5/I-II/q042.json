@@ -1,0 +1,300 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 42,
+  "units": {
+    "I-II.q42.pr": {
+      "text": "Zatim treba razmotriti predmet straha. I u vezi s tim pita se šest stvari. Prvo, je li predmet straha dobro ili zlo. Drugo, je li zlo naravi predmet straha. Treće, je li strah o zlu krivnje. Četvrto, može li se bojati samoga straha. Peto, bojimo li se više iznenadnoga. Šesto, bojimo li se više onoga protiv čega nema lijeka.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je dobro predmet straha. Augustin, naime, kaže u knjizi Osamdeset i tri pitanja: *ne bojimo se ničega osim da ono što ljubimo ili ne izgubimo kad smo ga stekli ili ne steknemo ono čemu se nadamo*. Ali ono što ljubimo jest dobro. Dakle, strah gleda dobro kao vlastiti predmet.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a1.obj2": {
+      "text": "Osim toga, Filozof kaže u II. knjizi Retorike da je *vlast, i to da tko sam bude nad drugim, nešto strašno*. Ali takvo je nešto neko dobro. Dakle, dobro je predmet straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a1.obj3": {
+      "text": "Osim toga, u Bogu ne može biti ništa zlo. Ali nama se zapovijeda da se bojimo Boga, prema onome iz Ps 33: *bojte se Gospodina, svi sveti njegovi*. Dakle, strah je i o dobru.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin u II. knjizi, da je strah o budućem zlu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a1.resp": {
+      "text": "Odgovaram: treba reći da je strah neki pokret težnjene snage. Težnjenoj pak snazi pripadaju slijeđenje i bijeg, kako se kaže u VI. knjizi Etike. A slijeđenje je slijeđenje dobra, bijeg pak bijeg od zla. Stoga svaki pokret težnjene snage koji uključuje slijeđenje ima neko dobro za predmet, a svaki koji uključuje bijeg ima zlo za predmet. Stoga, budući da strah uključuje neki bijeg, on prvotno i po sebi gleda zlo kao vlastiti predmet. Može pak gledati i dobro, ukoliko ono ima odnošaj prema zlu. A to može biti na dva načina. Na jedan način, ukoliko se po zlu gubi dobro. Upravo je, naime, po tome nešto zlo što lišava dobra. Stoga, budući da se od zla bježi zato što je zlo, slijedi da se od njega bježi zato što lišava dobra koje tko ljubeći slijedi. I prema tome Augustin kaže da nema nikakva uzroka strahu osim da se ne izgubi ljubljeno dobro. Na drugi se način dobro odnosi prema zlu kao njegov uzrok, ukoliko, naime, neko dobro svojom snagom može nanijeti neku štetu ljubljenom dobru. I zato, kao što nada, kako je gore rečeno, gleda na dvoje, naime na dobro prema kojemu stremi i na ono po čemu se nada da će postići požuđeno dobro, tako i strah gleda na dvoje, naime na zlo od kojega bježi i na ono dobro koje svojom snagom može nanijeti zlo. I na taj se način čovjek boji Boga, ukoliko Bog može nanijeti kaznu, bilo duhovnu bilo tjelesnu. Na taj se način bojimo i vlasti nekog čovjeka, osobito kad je povrijeđena ili kad je nepravedna, jer je tada spremna nanijeti štetu. Tako se bojimo i toga da budemo nad drugim, to jest da se oslanjamo na drugoga, tako naime da je u njegovoj vlasti nanijeti nam štetu; kao što se bojimo onoga tko zna za zločin, da ne oda zločin.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a1.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da strah nije o zlu naravi. Filozof, naime, kaže u II. knjizi Retorike da *strah čini sklonima promišljanju*. A ne promišljamo o onome što se događa po naravi, kako se kaže u III. knjizi Etike. Dakle, strah nije o zlu naravi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a2.obj2": {
+      "text": "Osim toga, naravni nedostaci uvijek prijete čovjeku, kao smrt i drugo takvo. Kad bi, dakle, strah bio o takvim zlima, trebalo bi da čovjek uvijek bude u strahu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a2.obj3": {
+      "text": "Osim toga, narav ne pokreće prema protivnome. Ali zlo naravi proizlazi iz naravi. Dakle, to što netko bojeći se bježi od takvog zla nije od naravi. Dakle, naravni strah nije o zlu naravi; a ipak se čini da to zlo pripada upravo njemu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u III. knjizi Etike, da je od svega najstrašnija smrt, koja je zlo naravi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Filozof u II. knjizi Retorike, strah proizlazi *iz maštovne predodžbe budućeg razornog ili ožalošćujućeg zla*. Kao što je pak ožalošćujuće zlo ono koje se protivi volji, tako je razorno zlo ono koje se protivi naravi. I to je zlo naravi. Stoga strah može biti o zlu naravi. Ali treba uzeti u obzir da je zlo naravi katkad od naravnog uzroka, i tada se naziva zlom naravi ne samo zato što lišava dobra naravi, nego i zato što je učinak naravi; kao naravna smrt i drugi takvi nedostaci. Katkad pak zlo naravi proizlazi iz nenaravnog uzroka, kao smrt koju nasilno nanosi progonitelj. I na oba se načina zla naravi na neki način bojimo, a na neki se način ne bojimo. Budući da, naime, strah proizlazi iz maštovne predodžbe budućeg zla, kako kaže Filozof, ono što uklanja maštovnu predodžbu budućeg zla isključuje i strah. A to da se neko zlo ne pokazuje kao buduće može se dogoditi na dva načina. Na jedan način, iz toga što je udaljeno i daleko; to, naime, zbog udaljenosti zamišljamo kao da neće doći. I zato ga se ili ne bojimo ili ga se malo bojimo. Kao što, naime, kaže Filozof u II. knjizi Retorike, *onoga što je vrlo daleko ljudi se ne boje; svi, naime, znaju da će umrijeti, ali budući da to nije blizu, ne mare ništa*. Na drugi se način neko zlo koje je buduće procjenjuje kao da nije buduće, zbog nužnosti, koja čini da se ono procjenjuje kao prisutno. Stoga Filozof kaže u II. knjizi Retorike da *se oni kojima već odsijecaju glavu ne boje*, jer vide da im prijeti nužnost smrti; nego *da bi se netko bojao, mora postojati neka nada u spas*. Tako se, dakle, zla naravi ne bojimo, jer se ne zahvaća kao buduće. Ako se pak zlo naravi, koje je razorno, zahvati kao blisko, a ipak s nekom nadom da će se izbjeći, tada ćemo ga se bojati.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da zlo naravi katkad ne proizlazi od naravi, kako je rečeno. Ali ukoliko proizlazi od naravi, iako se ne može posve izbjeći, može se ipak odgoditi. I u toj nadi može postojati promišljanje o njegovu izbjegavanju.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a2.ad2": {
+      "text": "Na drugo treba reći da zlo naravi, iako uvijek prijeti, ipak ne prijeti uvijek izbliza. I zato ga se ne bojimo uvijek.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a2.ad3": {
+      "text": "Na treće treba reći da smrt i drugi nedostaci naravi proizlaze od opće naravi, ali im se ipak pojedinačna narav opire koliko može. I tako iz sklonosti pojedinačne naravi postoje bol i žalost zbog takvih zala kad su prisutna, a strah ako prijete u budućnosti.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da strah može biti o zlu krivnje. Augustin, naime, kaže u tumačenju Ivanove kanonske poslanice da se *čistim strahom čovjek boji odvajanja od Boga*. Ali ništa nas ne odvaja od Boga osim krivnje, prema onome iz Iz 59: *Vaši su grijesi postavili razdvoj između vas i vašega Boga*. Dakle, strah može biti o zlu krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a3.obj2": {
+      "text": "Osim toga, Tulije kaže u IV. knjizi Tuskulanskih rasprava da *se bojimo onoga, kad je buduće, zbog čije se prisutnosti žalostimo*. Ali zbog zla krivnje netko može osjećati bol ili se žalostiti. Dakle, netko se može bojati i zla krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a3.obj3": {
+      "text": "Osim toga, nada se suprotstavlja strahu. Ali nada može biti o dobru kreposti, kako je jasno iz Filozofa u IX. knjizi Etike. I Apostol kaže u Gal 5: *pouzdajem se u vas u Gospodinu da nećete drukčije misliti*. Dakle, i strah može biti o zlu krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a3.obj4": {
+      "text": "Osim toga, stid je neka vrsta straha, kako je gore rečeno. Ali stid je o sramotnom djelu, a to je zlo krivnje. Dakle, i strah.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u II. knjizi Retorike, da *se ne bojimo svih zala, primjerice toga da će tko biti nepravedan ili trom*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a3.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, kao što je predmet nade buduće teško dostižno dobro koje tko može postići, tako je strah o budućem teško dostižnom zlu koje se ne može lako izbjeći. Iz toga se može zaključiti da ono što je posve podložno našoj vlasti i volji nema pojam strašnoga, nego je strašno samo ono što ima vanjski uzrok. Zlo pak krivnje ima kao vlastiti uzrok ljudsku volju. I zato u vlastitom smislu nema pojam strašnoga. Ali budući da ljudsku volju nešto izvanjsko može nagnuti na grijeh, ako ono što naginje ima veliku silu da nagne, prema tome bi mogao postojati strah od zla krivnje, ukoliko je ono od vanjskog uzroka; primjerice kad se netko boji boraviti u društvu zlih, da ga oni ne navedu na grijeh. Ali, u vlastitom smislu govoreći, u takvom se stanju čovjek više boji zavođenja nego krivnje po njezinu vlastitom pojmu, to jest ukoliko je voljna; tako, naime, ona nije nešto čega se treba bojati.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je odvajanje od Boga neka kazna koja slijedi grijeh, a svaka je kazna na neki način od vanjskog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a3.ad2": {
+      "text": "Na drugo treba reći da se žalost i strah slažu u jednome, jer su oboje o zlu, a razlikuju se u dvojemu. U jednome, jer je žalost o prisutnom zlu, a strah o budućem zlu. U drugome pak, jer žalost, budući da je u požudnoj moći, gleda zlo naprosto, pa može biti o bilo kojem zlu, bilo malom bilo velikom. Strah pak, budući da je u srditoj moći, gleda zlo s nekom teškom dostižnošću ili teškoćom, koja se uklanja ukoliko je nešto podložno volji. I zato se ne bojimo svega onoga što je buduće, a zbog čega se žalostimo kad je prisutno, nego nečega, naime onoga što je teško dostižno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a3.ad3": {
+      "text": "Na treće treba reći da je nada o dobru koje tko može postići. A netko može postići dobro ili sam po sebi ili po drugome; i zato nada može biti o činu kreposti, koji je postavljen u našoj vlasti. Ali strah je o zlu koje nije podložno našoj vlasti; i zato je zlo kojega se bojimo uvijek od vanjskog uzroka. Dobro pak kojemu se nadamo može biti i od unutarnjeg i od vanjskog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a3.ad4": {
+      "text": "Na četvrto treba reći da, kako je gore rečeno, stid nije strah od samoga čina grijeha, nego od sramote ili nečasti koja ga slijedi, a koja je od vanjskog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se straha ne može bojati. Sve, naime, čega se netko boji, on bojeći se čuva da to ne izgubi, kao što onaj koji se boji da će izgubiti zdravlje bojeći se čuva zdravlje. Ako se, dakle, bojimo straha, čovjek će se bojeći se čuvati da se ne boji. A to se čini neprikladnim.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a4.obj2": {
+      "text": "Osim toga, strah je neki bijeg. Ali ništa ne bježi od samoga sebe. Dakle, strah se ne boji straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a4.obj3": {
+      "text": "Osim toga, strah je o budućem. Ali onaj koji se boji već ima strah. Dakle, ne može se bojati straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a4.sc": {
+      "text": "Ali protiv toga, čovjek može ljubiti ljubav i osjećati bol zbog boli. Dakle, s istog razloga, može se i bojati straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a4.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, samo ono ima pojam strašnoga što proizlazi iz vanjskog uzroka, a ne ono što proizlazi iz naše volje. Strah pak djelomično proizlazi iz vanjskog uzroka, a djelomično je podložan volji. Proizlazi iz vanjskog uzroka ukoliko je neka strast koja slijedi maštovnu predodžbu zla koje prijeti. I prema tome se netko može bojati straha, naime da mu ne zaprijeti nužnost da se boji zbog navale nekog silnog zla. Podložan je pak volji ukoliko se niža težnja pokorava razumu, pa čovjek može odbiti strah. I prema tome se straha ne može bojati, kako kaže Augustin u knjizi Osamdeset i tri pitanja. Ali budući da bi se netko mogao poslužiti razlozima koje on navodi da pokaže kako se straha nikako ne bojimo, zato na njih treba odgovoriti.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da nije svaki strah jedan strah, nego prema različitom čega se bojimo postoje različiti strahovi. Ništa, dakle, ne priječi da se netko jednim strahom sačuva od drugog straha i tako se čuva da se ne boji onim strahom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a4.ad2": {
+      "text": "Na drugo treba reći da, budući da je jedan strah kojim se bojimo zla koje prijeti, a drugi strah kojim se bojimo samoga straha od zla koje prijeti, ne slijedi da isto bježi od samoga sebe, ili da je isto bijeg od samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a4.ad3": {
+      "text": "Na treće treba reći da se zbog već rečene različitosti strahova čovjek može prisutnim strahom bojati budućeg straha.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da neobično i iznenadno nije strašnije. Kao što je, naime, nada o dobru, tako je strah o zlu. Ali iskustvo pridonosi porastu nade u dobrima. Dakle, pridonosi i porastu straha u zlima.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a5.obj2": {
+      "text": "Osim toga, Filozof kaže u II. knjizi Retorike da se više bojimo ne onih koji su nagle srdžbe, nego blagih i lukavih. A jasno je da oni koji su nagle srdžbe imaju više iznenadnih pokreta. Dakle, ono što je iznenadno manje je strašno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a5.obj3": {
+      "text": "Osim toga, ono što je iznenadno može se manje razmotriti. Ali nečega se to više bojimo što se ono više razmatra; zato Filozof kaže u III. knjizi Etike da se *neki čine hrabrima zbog neznanja, a oni, kad bi spoznali da je nešto drugo nego što naslućuju, bježe*. Dakle, iznenadnoga se manje bojimo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u II. knjizi Ispovijesti: *strah se grozi neobičnoga i iznenadnoga, što se protivi onome što se ljubi, dok se brine za sigurnost*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a5.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, predmet straha zlo koje prijeti, a koje se ne može lako odbiti. A to biva iz dvaju razloga, naime zbog veličine zla i zbog slabosti onoga koji se boji. A na oboje od toga djeluje to da je nešto neobično i iznenadno. Prvo, čini da se zlo koje prijeti pokazuje većim. Sve, naime, tjelesno, i dobra i zla, to se manjim pokazuje što se više razmatra. I zato, kao što se zbog dugotrajnosti ublažuje bol zbog prisutnog zla, kako je jasno iz Tulija u III. knjizi Tuskulanskih rasprava, tako se i razmišljanjem unaprijed umanjuje strah od budućeg zla. Drugo, to da je nešto neobično i iznenadno pridonosi slabosti onoga koji se boji, ukoliko oduzima lijekove koje čovjek može pripremiti da odbije buduće zlo, a kojih ne može biti kad zlo nastupi iznenada.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je predmet nade dobro koje tko može postići. I zato ono što povećava čovjekovu moć po naravi povećava nadu, a s istog razloga umanjuje strah, jer je strah o zlu kojemu se ne može lako oduprijeti. Budući da, dakle, iskustvo čini čovjeka moćnijim za djelovanje, zato, kao što povećava nadu, tako umanjuje strah.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a5.ad2": {
+      "text": "Na drugo treba reći da oni koji imaju naglu srdžbu ne skrivaju je, i zato štete koje oni nanose nisu tako iznenadne da se ne bi mogle predvidjeti. Ali blagi i lukavi ljudi skrivaju srdžbu, i zato se šteta koja od njih prijeti ne može predvidjeti, nego dolazi iznenada. I zbog toga Filozof kaže da ih se više bojimo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a5.ad3": {
+      "text": "Na treće treba reći da se, po sebi govoreći, tjelesna dobra ili zla na početku pokazuju većima. Razlog je tome što se svaka stvar jače ističe kad se uz nju postavi njezino protivno. Stoga, kad tko odmah iz siromaštva prijeđe u bogatstvo, zbog prethodnog siromaštva bogatstvo više cijeni; i obratno, bogataši koji odmah zapadnu u siromaštvo više se njega groze. I zbog toga se iznenadnog zla više bojimo, jer se više čini zlom. Ali zbog neke sporedne okolnosti može se dogoditi da veličina nekog zla ostane skrivena, primjerice kad se neprijatelji podmuklo skrivaju. I tada je istina da zlo pomnim razmatranjem postaje strašnije.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se onoga što nema lijeka ne treba više bojati. Za strah se, naime, zahtijeva da ostane neka nada u spas, kako je gore rečeno. Ali u zlima koja nemaju lijeka ne ostaje nikakva nada u spas. Dakle, takvih se zala nikako ne bojimo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a6.obj2": {
+      "text": "Osim toga, zlu smrti ne može se primijeniti nikakav lijek; ne može, naime, po naravi biti povratka iz smrti u život. Ipak se smrti ne bojimo najviše, kako kaže Filozof u II. knjizi Retorike. Dakle, ne bojimo se više onoga što nema lijeka.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a6.obj3": {
+      "text": "Osim toga, Filozof kaže u I. knjizi Etike da *ono što je dugotrajnije nije više dobro od onoga što traje jedan dan, niti je ono što je trajno više dobro od onoga što nije trajno*. Dakle, s istog razloga, ni veće zlo. Ali čini se da se ono što nema lijeka ne razlikuje od drugoga osim po dugotrajnosti ili trajnosti. Dakle, zbog toga nije gore niti ga se treba više bojati.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u II. knjizi Retorike, da je *od svega čega se treba bojati strašnije sve ono što se, ako se pogriješi, ne može ispraviti; ili ono za što nema pomoći; ili je pomoć teško naći*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a6.resp": {
+      "text": "Odgovaram: treba reći da je predmet straha zlo; stoga ono što pridonosi porastu zla pridonosi porastu straha. Zlo se pak povećava ne samo prema vrsti samoga zla nego i prema okolnostima, kako je jasno iz onoga što je gore rečeno. Među ostalim pak okolnostima čini se da dugotrajnost, ili čak trajnost, više pridonosi porastu zla. Ono, naime, što je u vremenu na neki se način mjeri prema trajanju vremena; stoga, ako je trpjeti nešto toliko vremena zlo, trpjeti isto dvostruko vremena zahvaća se kao udvostručeno zlo. I prema tom razlogu, trpjeti isto u beskonačnom vremenu, a to je trpjeti zauvijek, ima na neki način beskonačan porast. Zla pak koja, nakon što su nastupila, ne mogu imati lijeka, ili ga ne mogu lako imati, uzimaju se kao trajna ili dugotrajna. I zato ih se treba najviše bojati.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je lijek protiv zla dvostruk. Jedan je onaj kojim se sprječava da buduće zlo nastupi. I kad se ukloni takav lijek, oduzima se nada, a posljedično i strah. Stoga sada ne govorimo o takvom lijeku. Drugi je lijek protiv zla onaj kojim se uklanja zlo koje je već prisutno. I o takvom lijeku sada govorimo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a6.ad2": {
+      "text": "Na drugo treba reći da, iako je smrt zlo bez lijeka, ipak je se ne bojimo, jer ne prijeti izbliza, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    },
+    "I-II.q42.a6.ad3": {
+      "text": "Na treće treba reći da Filozof ondje govori o dobru po sebi, koje je dobro prema svojoj vrsti. Tako pak nešto ne postaje više dobro zbog dugotrajnosti ili trajnosti, nego zbog naravi samoga dobra.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:18+00:00"
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 47,
+  "units": {
+    "I-II.q47.pr": {
+      "text": "Zatim treba razmotriti tvorni uzrok srdžbe i lijekove protiv nje. U vezi s tim pitaju se četiri stvari. Prvo, je li pobuda srdžbe uvijek nešto učinjeno protiv onoga koji se srdi. Drugo, je li samo omalovažavanje ili prezir pobuda srdžbe. Treće, o uzroku srdžbe sa strane onoga koji se srdi. Četvrto, o uzroku srdžbe sa strane onoga protiv koga se netko srdi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se netko ne srdi uvijek zbog nečega što je učinjeno protiv njega. Čovjek, naime, griješeći ne može ništa učiniti protiv Boga; kaže se, naime, u Jobu 35: *ako se umnože tvoja bezakonja, što ćeš mu učiniti?* Ipak se kaže da se Bog srdi na ljude zbog grijeha, prema onome iz Psalma 105: *Gospodin se u bijesu rasrdio na svoj narod*. Dakle, netko se ne srdi uvijek zbog nečega što je učinjeno protiv njega.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a1.obj2": {
+      "text": "Osim toga, srdžba je težnja za osvetom. Ali netko teži osvetiti i ono što se čini protiv drugih. Dakle, pobuda srdžbe nije uvijek nešto učinjeno protiv nas.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a1.obj3": {
+      "text": "Osim toga, kako kaže Filozof u II. knjizi Retorike, ljudi se ponajviše srde na one koji preziru *ono čemu se oni sami najviše posvećuju; tako se oni koji se posvećuju filozofiji srde na one koji preziru filozofiju*, i slično je u drugim stvarima. Ali prezirati filozofiju ne znači naškoditi samome onome koji joj se posvećuje. Dakle, ne srdimo se uvijek zbog onoga što se čini protiv nas.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a1.obj4": {
+      "text": "Osim toga, onaj koji šuti pred onim koji ga pogrđuje još ga više izaziva na srdžbu, kako kaže Zlatousti. Ali time što šuti ne čini ništa protiv njega. Dakle, nečija se srdžba ne izaziva uvijek zbog nečega što se čini protiv njega.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u II. knjizi Retorike, da *srdžba uvijek nastaje iz onoga što se tiče samoga sebe, a neprijateljstvo i bez onoga što se tiče njega; jer ako mislimo da je netko takav, mrzimo ga*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, srdžba težnja da se drugome naškodi pod vidom pravedne osvete. A osveta ima mjesta samo ondje gdje je prethodila nepravda. Ni svaka nepravda ne izaziva na osvetu, nego samo ona koja se tiče onoga koji teži za osvetom; jer kao što svaka stvar po naravi teži za vlastitim dobrom, tako po naravi i odbija vlastito zlo. A nepravda koju je netko počinio ne tiče se nekoga drugoga osim ako je učinio nešto što je na neki način protiv njega. Odatle slijedi da je pobuda nečije srdžbe uvijek nešto što je učinjeno protiv njega.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se srdžba ne kaže o Bogu po strasti duše, nego po sudu pravednosti, ukoliko hoće izvršiti osvetu za grijeh. Grešnik, naime, griješeći ne može Bogu stvarno nanijeti nikakvu štetu, ali ipak, sa svoje strane, dvostruko djeluje protiv Boga. Prvo, ukoliko ga prezire u njegovim zapovijedima. Drugo, ukoliko nanosi neku štetu nekome, bilo sebi bilo drugome, što se tiče Boga, budući da je onaj kojemu se šteta nanosi obuhvaćen Božjom providnošću i zaštitom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a1.ad2": {
+      "text": "Na drugo treba reći da se srdimo na one koji drugima škode i težimo za osvetom ukoliko nam oni kojima se škodi na neki način pripadaju, bilo po nekom srodstvu, bilo po prijateljstvu, bilo barem po zajedništvu naravi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a1.ad3": {
+      "text": "Na treće treba reći da ono čemu se najviše posvećujemo smatramo svojim dobrom. I zato, kad se to prezire, smatramo da smo i mi prezreni i držimo da smo povrijeđeni.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a1.ad4": {
+      "text": "Na četvrto treba reći da onaj koji šuti izaziva na srdžbu onoga koji mu nanosi nepravdu tada kad se čini da šuti iz prezira, kao da omalovažava srdžbu drugoga. A samo je omalovažavanje neki čin.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nije samo omalovažavanje ili prezir pobuda srdžbe. Damaščanin, naime, kaže: *srdimo se kad smo pretrpjeli nepravdu ili smatramo da je trpimo*. Ali čovjek može pretrpjeti nepravdu i bez prezira ili omalovažavanja. Dakle, nije samo omalovažavanje pobuda srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a2.obj2": {
+      "text": "Osim toga, istome pripada težiti za časti i žalostiti se zbog omalovažavanja. Ali nerazumne životinje ne teže za časti. Dakle, ne žaloste se zbog omalovažavanja. Pa ipak se u njima izaziva srdžba time što bivaju ranjene, kako kaže Filozof u III. knjizi Etike. Dakle, čini se da nije samo omalovažavanje pobuda srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a2.obj3": {
+      "text": "Osim toga, Filozof u II. knjizi Retorike navodi mnoge druge uzroke srdžbe, na primjer *zaborav, likovanje nad tuđim nesrećama, dojavljivanje zala, sprečavanje da se postigne vlastita volja*. Dakle, nije samo omalovažavanje ono što izaziva srdžbu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u II. knjizi Retorike, da je *srdžba težnja, praćena žalošću, za kažnjavanjem zbog omalovažavanja koje se očituje, a neprikladno je učinjeno*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a2.resp": {
+      "text": "Odgovaram: treba reći da se svi uzroci srdžbe svode na omalovažavanje. Postoje, naime, tri vrste omalovažavanja, kako se kaže u II. knjizi Retorike, to jest prezir, epereazam, to jest sprečavanje da se ispuni volja, i pogrđivanje; i na te se tri svode sve pobude srdžbe. Razlog tomu može se uzeti dvojako. Prvi je taj što srdžba teži za štetom drugoga ukoliko ona ima značaj pravedne osvete; i zato traži osvetu utoliko ukoliko se čini da je pravedna. A pravedna osveta biva samo za ono što je nepravedno učinjeno; i zato je ono što izaziva na srdžbu uvijek nešto pod vidom nepravednoga. Stoga Filozof kaže u II. knjizi Retorike da *ako ljudi misle da su oni koji su ih povrijedili pravedno trpjeli, ne srde se; jer srdžba ne biva prema pravednome*. A šteta se nekome može nanijeti na tri načina: iz neznanja, iz strasti i iz izbora. Netko pak najviše čini nepravdu onda kad štetu nanosi iz izbora ili namjerno, ili iz svjesne zloće, kako se kaže u V. knjizi Etike. I zato se najviše srdimo na one za koje mislimo da su nam namjerno naškodili. Ako, naime, mislimo da su nam neki nanijeli nepravdu bilo iz neznanja bilo iz strasti, ili se na njih ne srdimo ili se srdimo mnogo manje; jer učiniti nešto iz neznanja ili iz strasti umanjuje značaj nepravde i na neki način izaziva milosrđe i oproštenje. A čini se da oni koji namjerno nanose štetu griješe iz prezira; i zato se na njih najviše srdimo. Stoga Filozof kaže u II. knjizi Retorike: *na one koji su nešto učinili iz srdžbe ili se ne srdimo ili se srdimo manje; jer se ne čini da su postupili iz omalovažavanja*. Drugi je razlog taj što se omalovažavanje protivi čovjekovoj izvrsnosti; ljudi, naime, omalovažavaju ono za što misle da ništa ne vrijedi, kako se kaže u II. knjizi Retorike. A iz svih svojih dobara tražimo neku izvrsnost. I zato se čini da svaka šteta koja nam se nanese, ukoliko umanjuje izvrsnost, pripada omalovažavanju.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, iz kojega god drugog uzroka osim prezira netko trpio nepravdu, taj uzrok umanjuje značaj nepravde. Ali samo prezir ili omalovažavanje povećava razlog za srdžbu. I zato je on po sebi uzrok srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a2.ad2": {
+      "text": "Na drugo treba reći da nerazumna životinja, iako ne teži za časti pod vidom časti, ipak po naravi teži za nekom izvrsnošću i srdi se na ono što toj izvrsnosti oduzima.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a2.ad3": {
+      "text": "Na treće treba reći da se svi ti uzroci svode na neko omalovažavanje. Zaborav je, naime, očit znak omalovažavanja; jer ono što smatramo velikim jače utiskujemo u pamćenje. Slično tome, iz nekog omalovažavanja dolazi to da se netko ne libi ražalostiti nekoga dojavljujući mu nešto žalosno. I onaj koji pokazuje znakove veselja u nečijim nesrećama čini se da malo mari za njegovo dobro ili zlo. Slično tome, ni onaj koji nekoga sprečava da postigne ono što je naumio, a ne zbog neke koristi koja bi mu otuda proizašla, ne čini se da mnogo mari za prijateljstvo s njim. I zato sve takvo, ukoliko je znak prezira, izaziva srdžbu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nečija izvrsnost nije uzrok tomu da se on lakše srdi. Filozof, naime, kaže u II. knjizi Retorike da se *neki najviše srde kad su žalosni, kao bolesni, siromašni i oni koji nemaju ono za čim žude*. Ali čini se da sve to pripada nedostatku. Dakle, čovjeka čini sklonim srdžbi više nedostatak nego izvrsnost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a3.obj2": {
+      "text": "Osim toga, Filozof ondje kaže da se *neki najviše srde onda kad se u njima prezire ono za što može postojati sumnja da ili nije u njima ili je u njima slabo; ali kad misle da se uvelike ističu u onome u čemu ih se prezire, ne mare*. Ali spomenuta sumnja proizlazi iz nedostatka. Dakle, nedostatak je više uzrok tomu da se netko srdi nego izvrsnost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a3.obj3": {
+      "text": "Osim toga, ono što pripada izvrsnosti najviše čini da su ljudi vedri i puni dobre nade. Ali Filozof kaže u II. knjizi Retorike da se *u igri, u smijehu, u svečanosti, u blagostanju, u dovršenju djela, u naslađivanju koje nije sramotno i u najboljoj nadi ljudi ne srde*. Dakle, izvrsnost nije uzrok srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a3.sc": {
+      "text": "Ali protiv toga je to što Filozof u istoj knjizi kaže da ljudi zbog izvrsnosti negoduju.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a3.resp": {
+      "text": "Odgovaram: treba reći da se uzrok srdžbe u onome koji se srdi može uzeti dvojako. Na jedan način, po odnošaju prema pobudi srdžbe. I tako je izvrsnost uzrok tomu da se netko lako srdi. Pobuda je srdžbe, naime, nepravedno omalovažavanje, kako je rečeno. A jasno je da što je netko izvrsniji, to je nepravednije omalovažen u onome u čemu se ističe. I zato se oni koji posjeduju neku izvrsnost najviše srde ako ih se omalovažava, na primjer ako se bogataša omalovažava u novcu, govornika u govorenju, i tako dalje. Na drugi se način uzrok srdžbe u onome koji se srdi može razmatrati sa strane stanja koje u njemu ostaje od takve pobude. A očito je da ništa ne pokreće na srdžbu osim štete koja žalosti. A ono što pripada nedostatku ponajviše žalosti, jer se ljudi koji su podložni nedostacima lakše povrjeđuju. I to je uzrok zašto se ljudi koji su bolesni ili u drugim nedostacima lakše srde: jer se lakše žaloste.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a3.ad1": {
+      "text": "I time je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a3.ad2": {
+      "text": "Na drugo treba reći da onaj koji je prezren u onome u čemu se očito uvelike ističe ne smatra da trpi neki gubitak, i zato se ne žalosti; i s te se strane manje srdi. Ali s druge strane, ukoliko je nedostojnije prezren, ima veći razlog za srdžbu. Osim ako možda ne smatra da mu se zavidi ili da ga se ismijava ne iz prezira, nego iz neznanja ili zbog nečega drugoga takve vrste.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a3.ad3": {
+      "text": "Na treće treba reći da sve to sprečava srdžbu ukoliko sprečava žalost. Ali s druge strane, po naravi je prikladno da izazove srdžbu, ukoliko čini da čovjek biva neprikladnije prezren.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da nečiji nedostatak nije uzrok tomu da se na njega lakše srdimo. Filozof, naime, kaže u II. knjizi Retorike: *na one koji priznaju, kaju se i ponizuju se ne srdimo se, nego se prema njima još više smekšamo. Zato i psi ne grizu one koji sjednu*. Ali to pripada malenosti i nedostatku. Dakle, nečija je malenost uzrok tomu da se na njega manje srdimo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a4.obj2": {
+      "text": "Osim toga, nema većeg nedostatka od smrti. Ali prema mrtvima srdžba prestaje. Dakle, nečiji nedostatak nije uzrok koji izaziva srdžbu protiv njega.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a4.obj3": {
+      "text": "Osim toga, nitko ne smatra nekoga malenim zato što mu je prijatelj. Ali prema prijateljima, ako nas uvrijede ili ako nam ne pomognu, više smo uvrijeđeni; stoga se kaže u Psalmu 54: *da me je moj neprijatelj proklinjao, zacijelo bih podnio*. Dakle, nečiji nedostatak nije uzrok tomu da se na njega lakše srdimo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u II. knjizi Retorike, da se *bogataš srdi na siromaha ako ga ovaj prezire, i vladar na podložnika*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a4.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, nedostojan prezir najviše izaziva srdžbu. Prema tome, nedostatak ili malenost onoga na koga se srdimo pridonosi povećanju srdžbe ukoliko povećava nedostojnost prezira. Kao što je, naime, netko to nedostojnije prezren što je veći, tako netko to nedostojnije prezire što je manji. I zato se plemići srde ako ih preziru seljaci, ili mudraci ako ih preziru nerazumni, ili gospodari ako ih preziru sluge. Ako pak malenost ili nedostatak umanjuje nedostojnost prezira, takva malenost ne povećava, nego umanjuje srdžbu. I na taj način oni koji se kaju zbog nanesenih nepravdi, priznaju da su zlo učinili, ponizuju se i mole oproštenje ublažavaju srdžbu, prema onome iz Mudrih izreka 15: *blag odgovor slama srdžbu*, ukoliko se, naime, čini da takvi ne preziru, nego naprotiv visoko cijene one pred kojima se ponizuju.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a4.ad1": {
+      "text": "I time je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a4.ad2": {
+      "text": "Na drugo treba reći da je dvostruk razlog zašto prema mrtvima srdžba prestaje. Jedan je taj što oni ne mogu trpjeti bol i osjećati, a to je ono što srditi ljudi najviše traže u onima na koje se srde. Drugi je taj što se čini da su već stigli do krajnjega među zlima. Stoga srdžba prestaje i prema svima koji su teško povrijeđeni, ukoliko njihovo zlo premašuje mjeru pravedne odmazde.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q47.a4.ad3": {
+      "text": "Na treće treba reći da se i prezir koji dolazi od prijatelja čini nedostojnijim. I zato se iz sličnog razloga više srdimo na njih ako nas preziru, bilo time što nam škode bilo time što nam ne pomažu, kao i na manje od sebe.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    }
+  }
+}

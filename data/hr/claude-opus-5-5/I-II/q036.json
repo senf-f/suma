@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 36,
+  "units": {
+    "I-II.q36.pr": {
+      "text": "Zatim treba razmotriti uzroke žalosti. U vezi s tim pitaju se četiri stvari. Prvo, je li uzrok boli izgubljeno dobro ili prije pridruženo zlo. Drugo, je li požuda uzrok boli. Treće, je li težnja za jedinstvom uzrok boli. Četvrto, je li moć kojoj se ne može oduprijeti uzrok boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je izgubljeno dobro više uzrok boli nego pridruženo zlo. Augustin, naime, kaže u knjizi O osam Dulcicijevih pitanja da je bol zbog gubitka vremenitih dobara. Dakle, iz istog razloga svaka bol nastaje iz gubitka nekog dobra.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a1.obj2": {
+      "text": "Osim toga, gore je rečeno da je bol koja se protivi nasladi o istome o čemu je i naslada. Ali naslada je o dobru, kao što je gore rečeno. Dakle, bol je ponajprije o gubitku dobra.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a1.obj3": {
+      "text": "Osim toga, prema Augustinu, u XIV. knjizi O Božjem gradu, ljubav je uzrok žalosti, kao i ostalih duševnih čuvstava. Ali predmet ljubavi je dobro. Dakle, bol ili žalost više se odnosi na izgubljeno dobro nego na pridruženo zlo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin u II. knjizi: *očekivano zlo izaziva strah, a prisutno žalost*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a1.resp": {
+      "text": "Odgovaram: treba reći da bi se ovo pitanje činilo bez ikakve važnosti kad bi se lišenosti u zahvaćanju duše odnosile onako kako se odnose u samim stvarima. Zlo je, naime, kako je utvrđeno u Prvom dijelu, lišenost dobra, a lišenost u prirodi stvari nije ništa drugo nego nedostatak suprotstavljenog posjedovanja; prema tome bi bilo isto žalostiti se zbog izgubljenog dobra i zbog zla koje se ima. Ali žalost je pokret težnje koja slijedi zahvaćanje. A u zahvaćanju sama lišenost ima pojam nekog bića, pa se zato i naziva misaonim bićem. I tako se zlo, premda je lišenost, odnosi na način protivnoga. Stoga, što se tiče težnjenog pokreta, nije svejedno odnosi li se on ponajprije na pridruženo zlo ili na izgubljeno dobro. A budući da se pokret životinjske težnje u djelovanjima duše odnosi onako kao naravno gibanje u naravnim stvarima, istina se može dobiti iz razmatranja naravnih gibanja. Ako, naime, u naravnim gibanjima uzmemo približavanje i udaljavanje, približavanje se po sebi odnosi na ono što je primjereno naravi, a udaljavanje se po sebi odnosi na ono što joj je protivno; kao što se teško tijelo po sebi udaljava od gornjeg mjesta, a naravno se približava donjem mjestu. Ali ako uzmemo uzrok obaju gibanja, to jest težinu, sama težina najprije naginje prema mjestu dolje, a tek potom odvlači od mjesta gore, od kojega se tijelo udaljava da bi težilo dolje. Budući, dakle, da se žalost u težnjenim pokretima odnosi na način bijega ili udaljavanja, a naslada na način slijeđenja ili približavanja, kao što se naslada najprije odnosi na stečeno dobro kao na vlastiti predmet, tako se žalost odnosi na pridruženo zlo. Ali uzrok naslade i žalosti, to jest ljubav, odnosi se najprije na dobro, a tek potom na zlo. Tako je, dakle, na onaj način na koji je predmet uzrok strasti, uzrok žalosti ili boli u vlastitijem smislu pridruženo zlo nego izgubljeno dobro.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se sam gubitak dobra zahvaća pod vidom zla, kao što se i gubitak zla zahvaća pod vidom dobra. I zato Augustin kaže da bol proizlazi iz gubitka vremenitih dobara.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a1.ad2": {
+      "text": "Na drugo treba reći da se naslada i njoj protivna bol odnose na isto, ali pod protivnim vidom: ako je, naime, naslada zbog prisutnosti nečega, žalost je zbog odsutnosti toga istoga. A u jednome od protivnih uključena je lišenost drugoga, kao što je jasno u X. knjizi Metafizike. Odatle dolazi da je žalost, koja je o protivnome, na neki način o istome pod protivnim vidom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a1.ad3": {
+      "text": "Na treće treba reći da, kad iz jednog uzroka proizlazi više pokreta, nije nužno da se svi ponajprije odnose na ono na što se ponajprije odnosi uzrok, nego samo prvi. A svaki se od ostalih ponajprije odnosi na ono što mu je primjereno prema njegovu vlastitom pojmu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da požuda nije uzrok boli ili žalosti. Žalost se, naime, po sebi odnosi na zlo, kao što je rečeno. A požuda je neki pokret težnje prema dobru. Pokret pak koji ide prema jednome od protivnih nije uzrok pokreta koji se odnosi na drugo protivno. Dakle, požuda nije uzrok boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a2.obj2": {
+      "text": "Osim toga, bol je, prema Damaščaninu, o sadašnjem, a požuda je o budućem. Dakle, požuda nije uzrok boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a2.obj3": {
+      "text": "Osim toga, ono što je po sebi ugodno nije uzrok boli. Ali požuda je sama po sebi ugodna, kako kaže Filozof u I. knjizi Retorike. Dakle, požuda nije uzrok boli ili žalosti.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u Enhiridiju: *kad se uvuku neznanje o stvarima koje treba činiti i požuda za štetnim, za njima se kao pratioci uvlače zabluda i bol*. Ali neznanje je uzrok zablude. Dakle, požuda je uzrok boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a2.resp": {
+      "text": "Odgovaram: treba reći da je žalost neki pokret životinjske težnje. A težnjeni pokret ima, kao što je rečeno, sličnost s naravnom težnjom. Njoj se može pripisati dvostruki uzrok: jedan na način svrhe, a drugi kao ono odakle je počelo gibanja. Tako je uzrok spuštanja teškog tijela kao svrha mjesto dolje, a počelo gibanja je naravna sklonost koja dolazi od težine. Uzrok pak težnjenog pokreta na način svrhe jest njegov predmet. I tako je gore rečeno da je uzrok boli ili žalosti pridruženo zlo. A uzrok kao ono odakle je počelo takvog pokreta jest unutarnja sklonost težnje. Ona je najprije nagnuta prema dobru, a posljedično prema odbijanju protivnog zla. I zato je prvo počelo takvih težnjenih pokreta ljubav, koja je prva sklonost težnje prema postizanju dobra, a drugo počelo je mržnja, koja je prva sklonost težnje prema bježanju od zla. Ali budući da je požuda ili žudnja prvi učinak ljubavi, u kojem se najviše naslađujemo, kao što je gore rečeno, Augustin često uzima žudnju ili požudu umjesto ljubavi, kao što je također gore rečeno. I na taj način kaže da je požuda opći uzrok boli. Ali sama požuda, razmatrana prema svom vlastitom pojmu, katkad je uzrok boli. Sve, naime, što priječi pokret da ne stigne do završetka protivno je pokretu. A ono što je protivno pokretu težnje izaziva žalost. I tako posljedično požuda postaje uzrok žalosti, ukoliko se žalostimo zbog odgađanja ili potpunog oduzimanja požuđenog dobra. Ali opći uzrok boli ne može biti, jer nas više boli oduzimanje sadašnjih dobara, u kojima se već naslađujemo, nego budućih, koja požuđujemo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je sklonost težnje prema postizanju dobra uzrok sklonosti težnje prema bježanju od zla, kao što je rečeno. Iz toga proizlazi da se težnjeni pokreti koji se odnose na dobro postavljaju kao uzrok pokreta težnje koji se odnose na zlo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a2.ad2": {
+      "text": "Na drugo treba reći da je ono što se požuđuje, premda je u stvarnosti buduće, ipak na neki način prisutno, ukoliko se tome nada. Ili se može reći da je, iako je samo požuđeno dobro buduće, ipak prepreka postavljena sada, i ona uzrokuje bol.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a2.ad3": {
+      "text": "Na treće treba reći da je požuda ugodna dokle god ostaje nada da će se postići ono što se požuđuje. Ali kad se postavljenom preprekom oduzme nada, požuda uzrokuje bol.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da težnja za jedinstvom nije uzrok boli. Filozof, naime, kaže u X. knjizi Etike da se čini kako je ono mnijenje koje je postavilo da je ispunjavanje uzrok naslade, a rasijecanje uzrok žalosti, nastalo iz naslada i žalosti koje se tiču hrane. Ali nije svaka naslada ili žalost takva. Dakle, težnja za jedinstvom nije opći uzrok boli, budući da ispunjavanje pripada jedinstvu, a rasijecanje uvodi mnoštvo.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a3.obj2": {
+      "text": "Osim toga, svako se odjeljivanje suprotstavlja jedinstvu. Kad bi, dakle, bol bila uzrokovana težnjom za jedinstvom, nijedno odjeljivanje ne bi bilo ugodno. A očito je da je to lažno kod odjeljivanja svega suvišnoga.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a3.obj3": {
+      "text": "Osim toga, iz istog razloga težimo za spajanjem s dobrom i za odstranjivanjem zla. Ali kao što spajanje pripada jedinstvu, budući da je neko sjedinjenje, tako je odjeljivanje protivno jedinstvu. Dakle, težnju za jedinstvom ne treba više postavljati kao uzrok boli nego težnju za odjeljivanjem.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u III. knjizi O slobodnoj volji: *iz boli koju osjećaju zvijeri dovoljno se vidi koliko duše, u upravljanju svojim tijelima i u njihovu oživljavanju, teže za jedinstvom. Što je, naime, drugo bol nego neki osjećaj koji ne podnosi dijeljenja ili propadanja?*",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a3.resp": {
+      "text": "Odgovaram: treba reći da na onaj način na koji je požuda ili žudnja za dobrom uzrok boli, i težnju za jedinstvom, ili ljubav, treba postaviti kao uzrok boli. Dobro se, naime, svake stvari sastoji u nekom jedinstvu, ukoliko, naime, svaka stvar ima u sebi sjedinjeno ono od čega se sastoji njezina savršenost; zato su i platonovci postavili da je jedno počelo, kao i dobro. Stoga svaka stvar naravno teži za jedinstvom, kao i za dobrotom. I zbog toga, kao što je ljubav ili težnja za dobrom uzrok boli, tako je i ljubav ili težnja za jedinstvom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ne ostvaruje svako sjedinjenje pojam dobra, nego samo ono o kojemu ovisi savršeni bitak stvari. I zbog toga također težnja za bilo kakvim jedinstvom nije uzrok boli ili žalosti, kako su neki mnijevali. Njihovo mnijenje Filozof ondje isključuje time što neka ispunjavanja nisu ugodna; tako se oni koji su siti hrane ne naslađuju u uzimanju hrane. Takvo bi se, naime, ispunjavanje ili sjedinjenje prije protivilo savršenom bitku nego što bi ga ustanovljivalo. Stoga bol nije uzrokovana težnjom za bilo kakvim jedinstvom, nego za onim u kojemu se sastoji savršenost naravi.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a3.ad2": {
+      "text": "Na drugo treba reći da odjeljivanje može biti ugodno ili ukoliko se uklanja ono što je protivno savršenosti stvari, ili ukoliko odjeljivanje ima pridruženo neko sjedinjenje, primjerice osjetnoga s osjetilom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a3.ad3": {
+      "text": "Na treće treba reći da se za odjeljivanjem od štetnoga i razornoga teži ukoliko ono štetno i razorno uklanja dužno jedinstvo. Stoga težnja za takvim odjeljivanjem nije prvi uzrok boli, nego prije težnja za jedinstvom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da veću moć ne treba postavljati kao uzrok boli. Ono što je, naime, u moći djelatnika još nije prisutno, nego je buduće. A bol je o prisutnom zlu. Dakle, veća moć nije uzrok boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a4.obj2": {
+      "text": "Osim toga, nanesena šteta uzrok je boli. Ali štetu može nanijeti i manja moć. Dakle, veću moć ne treba postavljati kao uzrok boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a4.obj3": {
+      "text": "Osim toga, uzroci težnjenih pokreta jesu unutarnje sklonosti duše. A veća je moć nešto izvanjsko. Dakle, ne treba je postavljati kao uzrok boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O naravi dobra: *u duši bol stvara volja koja se opire većoj moći; u tijelu bol stvara osjetilo koje se opire jačem tijelu*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a4.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je gore rečeno, pridruženo zlo uzrok boli ili žalosti na način predmeta. Ono, dakle, što je uzrok pridruživanja zla treba postaviti kao uzrok boli ili žalosti. A očito je da je protiv sklonosti težnje da sada prianja uz zlo. Ono pak što je protiv nečije sklonosti nikada mu ne pridolazi osim djelovanjem nečega jačega. I zato Augustin postavlja veću moć kao uzrok boli. Ali treba znati da, ako jača moć toliko prevlada da protivnu sklonost promijeni u vlastitu sklonost, više neće biti nikakvog opiranja ili nasilja; kao kad jači djelatnik, razarajući teško tijelo, oduzme mu sklonost kojom teži dolje, i tada mu kretati se prema gore nije nasilno, nego naravno. Tako, dakle, ako neka veća moć toliko prevlada da oduzme sklonost volje ili osjetilne težnje, iz nje ne slijedi bol ili žalost, nego slijedi samo onda kad ostaje sklonost težnje prema protivnome. Odatle dolazi da Augustin kaže da volja koja se opire jačoj moći uzrokuje bol; kad se, naime, ne bi opirala, nego bi popustila pristajući, ne bi slijedila bol, nego naslada.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da veća moć uzrokuje bol ne ukoliko je djelatnik u mogućnosti, nego ukoliko je djelatnik u činu, to jest dok stvara pridruživanje razornog zla.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a4.ad2": {
+      "text": "Na drugo treba reći da ništa ne priječi da neka moć koja nije veća naprosto bude veća u nekom pogledu. I prema tome može nanijeti neku štetu. A kad ni na koji način ne bi bila veća, ni na koji način ne bi mogla nauditi. Stoga ne bi mogla donijeti uzrok boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    },
+    "I-II.q36.a4.ad3": {
+      "text": "Na treće treba reći da izvanjski djelatnici mogu biti uzrok težnjenih pokreta ukoliko uzrokuju prisutnost predmeta. I na taj se način veća moć postavlja kao uzrok boli.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:16+00:00"
+    }
+  }
+}

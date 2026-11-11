@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 48,
+  "units": {
+    "I-II.q48.pr": {
+      "text": "Zatim treba razmotriti učinke srdžbe. U vezi s tim pitaju se četiri stvari. Prvo, uzrokuje li srdžba nasladu. Drugo, uzrokuje li ona ponajviše žar u srcu. Treće, sprečava li ona ponajviše uporabu razuma. Četvrto, uzrokuje li ona šutljivost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da srdžba ne uzrokuje nasladu. Žalost, naime, isključuje nasladu. Ali srdžba je uvijek praćena žalošću, jer, kako se kaže u VII. knjizi Etike, *svatko tko nešto čini iz srdžbe čini to žalostan*. Dakle, srdžba ne uzrokuje nasladu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a1.obj2": {
+      "text": "Osim toga, Filozof kaže u IV. knjizi Etike da *kažnjavanje smiruje navalu srdžbe, stvarajući nasladu umjesto žalosti*; iz čega se može razabrati da srditu čovjeku naslada dolazi od kažnjavanja, a kažnjavanje isključuje srdžbu. Dakle, kad nastupi naslada, srdžba se uklanja. Prema tome, naslada nije učinak koji je povezan sa srdžbom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a1.obj3": {
+      "text": "Osim toga, nijedan učinak ne sprečava svoj uzrok, budući da je sukladan svome uzroku. Ali naslade sprečavaju srdžbu, kako se kaže u II. knjizi Retorike. Dakle, naslada nije učinak srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a1.sc": {
+      "text": "Ali protiv toga je to što Filozof u istoj knjizi navodi poslovicu da *srdžba, mnogo slađa od meda koji kaplje, raste u prsima muževa*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a1.resp": {
+      "text": "Odgovaram: treba reći da su, kako kaže Filozof u VII. knjizi Etike, naslade, osobito osjetne i tjelesne, neka vrsta lijeka protiv žalosti; i zato što se naslada pruža kao lijek protiv veće žalosti ili tjeskobe, to se ona više zamjećuje, kao što je očito da je čovjeku, kad je žedan, piće ugodnije. A iz rečenoga je jasno da se pokret srdžbe diže iz neke nanesene nepravde koja žalosti; a toj se žalosti pruža lijek osvetom. I zato pri prisutnosti osvete slijedi naslada, i to to veća što je veća bila žalost. Ako je, dakle, osveta stvarno prisutna, nastaje savršena naslada, koja potpuno isključuje žalost i time smiruje pokret srdžbe. Ali prije nego što je osveta stvarno prisutna, onome koji se srdi postaje prisutna na dva načina. Na jedan način, po nadi, jer se nitko ne srdi ako se ne nada osveti, kako je gore rečeno. Na drugi način, po neprestanom mišljenju. Svakome, naime, tko za nečim žudi ugodno je zadržavati se u mislima na ono za čim žudi; zbog toga su i maštanja u snovima ugodna. I zato, budući da srdit čovjek mnogo u svojoj duši misli na osvetu, iz toga se naslađuje. Ipak, ta naslada nije savršena, takva da bi uklonila žalost, a time i srdžbu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se srdit čovjek ne žalosti i ne raduje zbog istoga, nego se žalosti zbog nanesene nepravde, a naslađuje se zbog osvete o kojoj misli i kojoj se nada. Stoga se žalost odnosi prema srdžbi kao počelo, a naslada kao učinak ili završetak.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a1.ad2": {
+      "text": "Na drugo treba reći da se taj prigovor odnosi na nasladu koja se uzrokuje stvarnom prisutnošću osvete, koja potpuno uklanja srdžbu.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a1.ad3": {
+      "text": "Na treće treba reći da prethodne naslade sprečavaju da uslijedi žalost, a time sprečavaju i srdžbu. Ali naslada zbog osvete slijedi nakon same srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da žar nije ponajviše učinak srdžbe. Žar, naime, kako je gore rečeno, pripada ljubavi. Ali ljubav je, kako je gore rečeno, počelo i uzrok svih strasti. Budući, dakle, da je uzrok moćniji od učinka, čini se da srdžba ne stvara ponajviše žar.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a2.obj2": {
+      "text": "Osim toga, ono što samo po sebi pobuđuje žar to se više povećava što dulje traje, kao što ljubav s dugotrajnošću jača. Ali srdžba s protjecanjem vremena slabi; Filozof, naime, kaže u II. knjizi Retorike da vrijeme smiruje srdžbu. Dakle, srdžba u vlastitom smislu ne uzrokuje žar.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a2.obj3": {
+      "text": "Osim toga, žar dodan žaru povećava žar. *Ali veća srdžba koja nadođe čini da se srdžba ublaži*, kako kaže Filozof u II. knjizi Retorike. Dakle, srdžba ne uzrokuje žar.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin, da je *srdžba žar krvi koja je oko srca, a nastaje od isparavanja žuči*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, tjelesna preinaka koja se nalazi u strastima duše razmjerna pokretu težnje. A očito je da svaka težnja, pa i naravna, snažnije teži prema onome što joj je protivno ako je ono prisutno; zato vidimo da se zagrijana voda brže smrzava, kao da hladnoća snažnije djeluje na toplo. A težnjeni pokret srdžbe uzrokuje se nekom nanesenom nepravdom, kao nečim protivnim što je nazočno. I zato težnja najsnažnije teži da odbije nepravdu težnjom za osvetom; i iz toga slijedi velika žestina i naglost u pokretu srdžbe. A budući da pokret srdžbe nije na način povlačenja, kojemu je razmjerna hladnoća, nego više na način navaljivanja, kojemu je razmjerna toplina, pokret srdžbe posljedično postaje uzrokom nekog žara krvi i duhova oko srca, koje je oruđe strasti duše. I odatle dolazi to da se, zbog velike uznemirenosti srca koja je u srdžbi, na srditima ponajviše pokazuju neki znakovi na vanjskim udovima. Kako, naime, kaže Grgur u V. knjizi Moralija: *srce, raspaljeno žalcima svoje srdžbe, lupa, tijelo drhti, jezik se zapliće, lice se žari, oči se razjaruju, i nipošto se ne prepoznaju znanci; usta doduše oblikuju viku, ali svijest ne zna što govori*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se *sama ljubav ne osjeća tako, osim kad je oda oskudica*, kako kaže Augustin u X. knjizi O Trojstvu. I zato, kad čovjek zbog nanesene nepravde trpi gubitak izvrsnosti koju ljubi, ljubav se više osjeća; i zato se srce žarče pokreće da ukloni zapreku ljubljenoj stvari, tako da sam žar ljubavi po srdžbi raste i više se osjeća. Ipak, žar koji slijedi toplinu pripada ljubavi i srdžbi po različitom razlogu. Žar je ljubavi, naime, praćen nekom slatkoćom i blagošću, jer je usmjeren prema ljubljenom dobru. I zato se uspoređuje s toplinom zraka i krvi; zbog toga su sangvinici skloniji ljubavi, i kaže se da na ljubav tjera jetra, u kojoj se zbiva neko stvaranje krvi. Žar je pak srdžbe praćen gorčinom i usmjeren na razaranje, jer teži kažnjavanju protivnoga. Stoga se uspoređuje s toplinom vatre i žute žuči; i zbog toga Damaščanin kaže da *izlazi iz isparavanja žuči i naziva se žučljivom*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a2.ad2": {
+      "text": "Na drugo treba reći da sve ono čiji se uzrok s vremenom umanjuje nužno s vremenom slabi. A očito je da se pamćenje s vremenom umanjuje; ono što je staro, naime, lako ispada iz pamćenja. A srdžba se uzrokuje pamćenjem nanesene nepravde. I zato se uzrok srdžbe s vremenom postupno umanjuje, sve dok se potpuno ne ukloni. Također se nepravda čini većom kad se prvi put osjeti, a procjena se nje postupno umanjuje što se više udaljuje od neposrednog osjećanja nepravde. I slično je i s ljubavlju, ako uzrok ljubavi ostaje samo u pamćenju; stoga Filozof kaže u VIII. knjizi Etike da se, *ako prijateljeva odsutnost postane dugotrajna, čini da izaziva zaborav prijateljstva*. Ali u prijateljevoj se prisutnosti uzrok prijateljstva s vremenom uvijek umnaža, i zato prijateljstvo raste. Slično bi bilo i sa srdžbom kad bi se njezin uzrok neprestano umnažao. Ipak, upravo to što se srdžba brzo istroši svjedoči o njezinu žestokom žaru. Kao što se, naime, velika vatra brzo gasi kad potroši gorivo, tako i srdžba zbog svoje žestine brzo jenjava.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a2.ad3": {
+      "text": "Na treće treba reći da se svaka snaga, podijeljena na više dijelova, umanjuje. I zato, kad se netko, srdit na jednoga, poslije rasrdi na drugoga, samim se tim umanjuje srdžba prema prvome. I to osobito ako je srdžba prema drugome veća; jer će se nepravda koja je pobudila srdžbu prema prvome, u usporedbi s drugom nepravdom, koja se smatra većom, činiti malenom ili ništavnom.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da srdžba ne sprečava razum. Ono, naime, što je s razumom ne čini se da je zapreka razumu. Ali srdžba je s razumom, kako se kaže u VII. knjizi Etike. Dakle, srdžba ne sprečava razum.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a3.obj2": {
+      "text": "Osim toga, što se više sprečava razum, to se više umanjuje otvorenost. Ali Filozof kaže u VII. knjizi Etike da *srdljivac nije podmukao, nego otvoren*. Dakle, ne čini se da srdžba sprečava uporabu razuma, kao što to čini požuda, koja je podmukla, kako se ondje kaže.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a3.obj3": {
+      "text": "Osim toga, sud razuma postaje jasniji kad se doda ono što je protivno, jer se protivnosti, kad se stave jedna uz drugu, jasnije ističu. Ali iz toga raste i srdžba; Filozof, naime, kaže u II. knjizi Retorike da se *ljudi više srde ako je prije postojalo ono što je protivno, kao kad se počašćeni obeščaste*; i tako dalje. Dakle, iz istoga i srdžba raste i sudu se razuma pomaže. Prema tome, srdžba ne sprečava sud razuma.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur u V. knjizi Moralija, da *srdžba oduzima svjetlo razumijevanja, kad, potresajući duh, unosi u nj pomutnju*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a3.resp": {
+      "text": "Odgovaram: treba reći da duh ili razum, iako se u svom vlastitom činu ne služi tjelesnim organom, ipak, budući da za svoj čin treba neke osjetilne sile, čiji se činovi sprečavaju kad je tijelo uznemireno, nužno je da tjelesne uznemirenosti sprečavaju i sud razuma, kao što je očito u pijanstvu i snu. A rečeno je da srdžba ponajviše stvara tjelesnu uznemirenost oko srca, tako da se ona prenosi čak i do vanjskih udova. Stoga srdžba, među ostalim strastima, očitije sprečava sud razuma, prema onome iz Psalma 30: *smutilo se od srdžbe oko moje*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da počelo srdžbe dolazi od razuma s obzirom na težnjeni pokret, koji je u srdžbi ono formalno. Ali strast srdžbe pretječe savršeni sud razuma, kao da razum ne sluša savršeno, zbog uzbuđenosti topline koja brzo potiče, a koja je u srdžbi ono tvarno. I s obzirom na to ona sprečava sud razuma.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a3.ad2": {
+      "text": "Na drugo treba reći da se za srdljivca kaže da je otvoren ne zato što bi mu bilo jasno što treba činiti, nego zato što djeluje otvoreno, ne tražeći nikakvo prikrivanje. To se djelomično događa zbog sprečenosti razuma, koji ne može razlučiti što treba prikriti, a što očitovati, niti smisliti načine prikrivanja. Djelomično pak dolazi od proširenja srca, koje pripada velikodušnosti, a koje uzrokuje srdžba; zato i o velikodušnome Filozof kaže u IV. knjizi Etike da *otvoreno mrzi i ljubi te otvoreno govori i djeluje*. A za požudu se kaže da je skrovita i podmukla jer ono ugodno za čim se žudi uglavnom ima neku sramotnost i mekoputnost, u kojima se čovjek hoće skriti. A u onome što pripada muževnosti i izvrsnosti, kakve su osvete, čovjek traži da bude otvoren.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a3.ad3": {
+      "text": "Na treće treba reći da, kako je rečeno, pokret srdžbe počinje od razuma, i zato po istome stavljanje protivnoga uz protivno pomaže sudu razuma i povećava srdžbu. Kad, naime, netko ima čast ili bogatstvo, a poslije pretrpi gubitak nečega od toga, taj se gubitak čini većim, kako zbog blizine protivnoga, tako i zato što je bio neočekivan. I zato uzrokuje veću žalost, kao što i velika dobra koja dođu neočekivano uzrokuju veću nasladu. I s povećanjem prethodne žalosti posljedično se povećava i srdžba.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da srdžba ne uzrokuje šutljivost. Šutljivost se, naime, protivi govorenju. Ali s porastom srdžbe dolazi se sve do govorenja, kao što je očito iz stupnjeva srdžbe koje navodi Gospodin u Mateju 5, govoreći: *tko se srdi na brata svoga; i: tko reče bratu svome: raka; i: tko reče bratu svome: luđače*. Dakle, srdžba ne uzrokuje šutljivost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a4.obj2": {
+      "text": "Osim toga, iz toga što zakaže straža razuma događa se da čovjek provali u neuredne riječi; stoga se kaže u Mudrim izrekama 25: *kao grad otvoren i bez opasanih zidina, takav je čovjek koji ne može obuzdati svoj duh u govorenju*. Ali srdžba ponajviše sprečava sud razuma, kako je rečeno. Dakle, ona ponajviše tjera da se čovjek izlije u neuredne riječi. Prema tome, ona ne uzrokuje šutljivost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a4.obj3": {
+      "text": "Osim toga, u Mateju 12 kaže se: iz obilja srca usta govore. Ali srdžbom se srce ponajviše uznemiruje, kako je rečeno. Dakle, ona ponajviše uzrokuje govorenje. Prema tome, ne uzrokuje šutljivost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur u V. knjizi Moralija, da *srdžba, zatvorena šutnjom, u duhu žešće kipi*.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a4.resp": {
+      "text": "Odgovaram: treba reći da je srdžba, kako je već rečeno, i s razumom i sprečava razum. I s obje strane može uzrokovati šutljivost. Sa strane razuma, kad je sud razuma toliko snažan da, iako ne obuzdava čuvstvo od neuredne težnje za osvetom, ipak obuzdava jezik od neurednog govorenja. Stoga Grgur u V. knjizi Moralija kaže: *ponekad srdžba uznemirenoj duši, kao po sudu, nameće šutnju*. A sa strane sprečenosti razuma, jer se, kako je rečeno, uznemirenost srdžbe prenosi sve do vanjskih udova, i to ponajviše do onih udova u kojima se izrazitije odražava trag srca, kao u očima, u licu i u jeziku; stoga, kako je rečeno, *jezik se zapliće, lice se žari, oči se razjaruju*. Može, dakle, uznemirenost srdžbe biti tolika da se jezik posve spriječi u uporabi govora. I tada slijedi šutljivost.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da porast srdžbe ponekad ide dotle da sprečava razum da obuzda jezik. Ponekad pak ide i dalje, dotle da sprečava pokret jezika i drugih vanjskih udova.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a4.ad2": {
+      "text": "I time je jasno i rješenje drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    },
+    "I-II.q48.a4.ad3": {
+      "text": "Na treće treba reći da uznemirenost srca ponekad može toliko preobilovati da se neurednim pokretom srca spriječi pokret vanjskih udova. I tada se uzrokuje šutljivost i nepokretnost vanjskih udova, a ponekad čak i smrt. Ako pak uznemirenost nije tolika, tada iz obilja uznemirenosti srca slijedi govorenje usta.",
+      "prompt_version": "1",
+      "glossary_version": 10,
+      "created_at": "2026-11-11T14:03:19+00:00"
+    }
+  }
+}
