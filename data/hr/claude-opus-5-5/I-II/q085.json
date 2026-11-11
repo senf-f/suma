@@ -1,0 +1,330 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 85,
+  "units": {
+    "I-II.q85.pr": {
+      "text": "Zatim treba razmotriti učinke grijeha. I to, prvo, pokvarenost dobra naravi; drugo, ljagu duše; treće, podložnost kazni. U vezi s prvim pita se šest stvari. Prvo, umanjuje li se dobro naravi po grijehu. Drugo, može li se posve oduzeti. Treće, o četirima ranama koje navodi Beda, kojima je ljudska narav ranjena zbog grijeha. Četvrto, je li lišenost načina, vrste i reda učinak grijeha. Peto, jesu li smrt i drugi tjelesni nedostaci učinci grijeha. Šesto, jesu li oni na neki način čovjeku naravni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da grijeh ne umanjuje dobro naravi. Čovjekov, naime, grijeh nije teži od grijeha demona. Ali naravna dobra u demonima ostaju netaknuta nakon grijeha, kako kaže Dionizije u IV. poglavlju knjige O božanskim imenima. Dakle, ni grijeh ne umanjuje dobro ljudske naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a1.obj2": {
+      "text": "Osim toga, kad se preinači ono što je kasnije, ne preinačuje se ono što je prije: supstancija, naime, ostaje ista kad se preinače akcidenti. Ali narav prethodi voljnoj radnji. Dakle, kad po grijehu nastane poremećenost u voljnoj radnji, zbog toga se ne preinačuje narav tako da bi se dobro naravi umanjilo.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a1.obj3": {
+      "text": "Osim toga, grijeh je neki čin, a umanjenje je trpnja. Nijedan pak djelatnik ne trpi time što djeluje, ali može se dogoditi da djeluje na jedno, a trpi od drugoga. Dakle, onaj koji griješi ne umanjuje po grijehu dobro svoje naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a1.obj4": {
+      "text": "Osim toga, nijedan akcident ne djeluje na svoj subjekt, jer ono što trpi jest biće u mogućnosti, a ono što je podloženo akcidentu već je biće u činu s obzirom na taj akcident. Ali grijeh je u dobru naravi kao akcident u subjektu. Dakle, grijeh ne umanjuje dobro naravi, jer umanjivati je neko djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a1.sc": {
+      "text": "Ali protiv toga je to što se, kako se kaže u Lk 10, *čovjek koji silazi iz Jeruzalema u Jerihon, to jest u nedostatak grijeha, biva oplijenjen u darovanim dobrima i ranjen u naravnima*, kako tumači Beda. Dakle, grijeh umanjuje dobro naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a1.resp": {
+      "text": "Odgovaram: treba reći da se dobro ljudske naravi može reći na tri načina. Prvo, sama počela naravi, od kojih se narav sastoji, i svojstva koja su iz njih uzrokovana, kao što su moći duše i drugo takvo. Drugo, budući da čovjek od naravi ima sklonost prema kreposti, kako je gore utvrđeno, sama ta sklonost prema kreposti neko je dobro naravi. Na treći se način dobrom naravi može nazvati dar izvorne pravednosti, koji je u prvom čovjeku bio podijeljen cijeloj ljudskoj naravi. Prvo, dakle, dobro naravi niti se oduzima niti umanjuje po grijehu. Treće pak dobro naravi posve je oduzeto po grijehu praroditelja. Ali srednje dobro naravi, to jest sama naravna sklonost prema kreposti, umanjuje se po grijehu. Po ljudskim, naime, činima nastaje neka sklonost prema sličnim činima, kako je gore utvrđeno. A nužno je da se time što je nešto nagnuto prema jednoj od protivnosti umanjuje njegova sklonost prema drugoj. Stoga, budući da je grijeh protivan kreposti, samim time što čovjek griješi umanjuje se dobro naravi koje je sklonost prema kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Dionizije govori o prvom dobru naravi, a to je biti, živjeti i shvaćati, kako je jasno onome tko promotri njegove riječi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a1.ad2": {
+      "text": "Na drugo treba reći da narav, premda je prije voljne radnje, ipak ima sklonost prema nekoj voljnoj radnji. Stoga se sama narav po sebi ne mijenja zbog promjene voljne radnje, nego se sama sklonost mijenja s one strane kojom je usmjerena prema završetku.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a1.ad3": {
+      "text": "Na treće treba reći da voljna radnja proizlazi iz različitih moći, od kojih je jedna aktivna, a druga pasivna. I odatle biva da se po voljnim radnjama nešto uzrokuje u čovjeku koji tako djeluje ili mu se oduzima, kako je gore rečeno kad se raspravljalo o nastajanju habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a1.ad4": {
+      "text": "Na četvrto treba reći da akcident ne djeluje na subjekt tvorno, ali ipak djeluje na njega formalno, na onaj način govora kojim se kaže da bjelina čini bijelim. I tako ništa ne priječi da grijeh umanjuje dobro naravi, ali na onaj način na koji je on samo umanjenje dobra naravi, ukoliko pripada neurednosti čina. Ali s obzirom na neurednost djelatnika, treba reći da se takva neurednost uzrokuje time što je u činima duše nešto aktivno, a nešto pasivno, kao što osjetno pokreće osjetilnu težnju, a osjetilna težnja naginje razum i volju, kako je gore rečeno. I iz toga se uzrokuje neurednost, ne tako da akcident djeluje na vlastiti subjekt, nego ukoliko predmet djeluje na moć, a jedna moć djeluje na drugu i remeti je.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se po grijehu može oduzeti cijelo dobro ljudske naravi. Dobro je, naime, ljudske naravi konačno, budući da je i sama ljudska narav konačna. Ali svako se konačno posve iscrpi ako se neprestano oduzima. Budući, dakle, da se dobro naravi po grijehu može neprestano umanjivati, čini se da se jednom može posve iscrpsti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a2.obj2": {
+      "text": "Osim toga, kod onoga što je jedne naravi sličan je pojam cjeline i dijelova, kao što je jasno kod zraka, vode i mesa te kod svih tijela sa sličnim dijelovima. Ali dobro naravi posve je jednolično. Budući, dakle, da se njegov dio može oduzeti po grijehu, čini se da se po grijehu može oduzeti i cijelo.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a2.obj3": {
+      "text": "Osim toga, dobro naravi koje se umanjuje po grijehu jest sposobnost za krepost. Ali u nekima se zbog grijeha spomenuta sposobnost posve oduzima, kao što je jasno kod osuđenih, koji se ne mogu obnoviti za krepost, kao ni slijepac za vid. Dakle, grijeh može posve oduzeti dobro naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u Enhiridiju, da zla nema osim u dobru. Ali zlo krivnje ne može biti u dobru kreposti ili milosti, jer mu je protivno. Dakle, nužno je da bude u dobru naravi. Dakle, ne oduzima ga posve.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, dobro naravi koje se umanjuje po grijehu naravna sklonost prema kreposti. Ona pak pristaje čovjeku samim time što je razuman: odatle, naime, ima to da djeluje prema razumu, a to je djelovati prema kreposti. Po grijehu se pak čovjeku ne može posve oduzeti to da je razuman, jer tada više ne bi bio sposoban za grijeh. Stoga nije moguće da se spomenuto dobro naravi posve oduzme. Budući pak da se nalazi da se takvo dobro neprestano umanjuje po grijehu, neki su, da bi to objasnili, upotrijebili primjer u kojem se nalazi da se nešto konačno umanjuje u beskonačnost, a ipak se nikada posve ne iscrpljuje. Filozof, naime, kaže u III. knjizi Fizike da će se, ako se od neke konačne veličine neprestano oduzima nešto prema istoj kolikoći, ona napokon posve iscrpsti, primjerice ako od bilo koje konačne kolikoće uvijek oduzmem mjeru pedlja. Ako se pak oduzimanje uvijek vrši prema istom razmjeru, a ne prema istoj kolikoći, moći će se oduzimati u beskonačnost: primjerice, ako se kolikoća podijeli na dva dijela, i od polovice se oduzme polovica, tako će se moći ići u beskonačnost, ali tako da će ono što se kasnije oduzima uvijek biti manje od onoga što se prije oduzimalo. Ali to ovdje nema mjesta: sljedeći, naime, grijeh ne umanjuje dobro naravi manje nego prethodni, nego možda više, ako je teži. I zato treba reći drukčije: spomenuta se sklonost shvaća kao srednja između dvoga, jer utemeljena je kao u korijenu u razumskoj naravi, a teži prema dobru kreposti kao prema završetku i svrsi. Na dva se, dakle, načina može shvatiti njezino umanjenje: na jedan način, sa strane korijena; na drugi način, sa strane završetka. Na prvi se način ne umanjuje po grijehu, zato što grijeh ne umanjuje samu narav, kako je gore rečeno. Ali umanjuje se na drugi način, ukoliko se, naime, postavlja zapreka da se dosegne završetak. Kad bi se pak umanjivala na prvi način, bilo bi nužno da se jednom posve iscrpi, kad bi se posve iscrpla razumska narav. Ali budući da se umanjuje sa strane zapreke koja se postavlja da ne bi dosegla završetak, očito je da se doduše može umanjivati u beskonačnost, jer se zapreke mogu postavljati u beskonačnost, ukoliko čovjek može u beskonačnost dodavati grijeh grijehu; ali ipak se ne može posve iscrpsti, jer uvijek ostaje korijen takve sklonosti. Kao što je jasno kod prozirnoga tijela, koje doduše ima sklonost za primanje svjetla samim time što je prozirno, ali se ta sklonost ili sposobnost umanjuje zbog magle koja nadolazi, premda uvijek ostaje u korijenu naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj prigovor vrijedi kad se umanjenje vrši oduzimanjem. Ovdje se pak umanjenje vrši postavljanjem zapreke, koja niti oduzima niti umanjuje korijen sklonosti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a2.ad2": {
+      "text": "Na drugo treba reći da je naravna sklonost doduše posve jednolična, ali ipak ima usmjerenost i prema počelu i prema završetku, i po toj se razlici na neki način umanjuje, a na neki način ne umanjuje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a2.ad3": {
+      "text": "Na treće treba reći da i u osuđenima ostaje naravna sklonost prema kreposti, inače u njima ne bi bilo griže savjesti. Ali to što se ne privodi u čin, događa se zato što nedostaje milost, prema božanskoj pravednosti. Kao što i u slijepcu ostaje prikladnost za gledanje u samom korijenu naravi, ukoliko je on životinja koja po naravi ima vid; ali se ne privodi u čin, jer nedostaje uzrok koji bi je mogao privesti oblikujući organ koji je potreban za gledanje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se neprikladno postavlja da su rane naravi koje slijede iz grijeha slabost, neznanje, zloća i požuda. Nije, naime, isto učinak i uzrok istoga. Ali to se postavlja kao uzroci grijeha, kako je jasno iz rečenoga. Dakle, ne treba ih postavljati kao učinke grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.obj2": {
+      "text": "Osim toga, zloća imenuje neki grijeh. Dakle, ne treba je postavljati među učinke grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.obj3": {
+      "text": "Osim toga, požuda je nešto naravno, budući da je čin požudne moći. Ali ono što je naravno ne treba postavljati kao ranu naravi. Dakle, požudu ne treba postavljati kao ranu naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.obj4": {
+      "text": "Osim toga, rečeno je da je isto griješiti iz slabosti i iz strasti. Ali požuda je neka strast. Dakle, ne treba je suprotstavljati slabosti u diobi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.obj5": {
+      "text": "Osim toga, Augustin u knjizi O naravi i milosti postavlja dvije kaznene posljedice za dušu koja griješi, to jest neznanje i teškoću, iz kojih nastaju zabluda i muka; a te se četiri ne podudaraju s ovim četirima. Dakle, čini se da je jedno od toga dvoga nepotpuno postavljeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.sc": {
+      "text": "Ali protiv toga je autoritet Bede.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.resp": {
+      "text": "Odgovaram: treba reći da je po izvornoj pravednosti razum savršeno obuzdavao niže sile duše, a sam je razum, podložan Bogu, bio od njega usavršavan. Ta je pak izvorna pravednost oduzeta po grijehu praroditelja, kako je već rečeno. I zato sve sile duše ostaju na neki način lišene vlastitoga reda, kojim su naravno usmjerene prema kreposti, i sama se ta lišenost naziva ranjenošću naravi. Postoje pak četiri moći duše koje mogu biti subjekti kreposti, kako je gore rečeno, to jest razum, u kojem je razboritost; volja, u kojoj je pravednost; srdita moć, u kojoj je jakost; požudna moć, u kojoj je umjerenost. Ukoliko je, dakle, razum lišen svojega reda prema istini, to je rana neznanja; ukoliko je pak volja lišena reda prema dobru, to je rana zloće; ukoliko je pak srdita moć lišena svojega reda prema teško dostižnom, to je rana slabosti; ukoliko je pak požuda lišena reda prema ugodnom koje je odmjereno razumom, to je rana požude. Tako su, dakle, ove četiri rane nanesene cijeloj ljudskoj naravi iz grijeha praroditelja. Ali budući da se sklonost prema dobru kreposti u svakome umanjuje po osobnom grijehu, kako je jasno iz rečenoga, i to su četiri rane koje slijede iz drugih grijeha, ukoliko, naime, po grijehu i razum otupi, osobito u onome što treba činiti, i volja otvrdne prema dobru, i raste veća teškoća u dobrom djelovanju, i požuda se jače raspaljuje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ništa ne priječi da ono što je učinak jednoga grijeha bude uzrok drugoga grijeha. Time, naime, što je duša poremećena prethodnim grijehom, lakše se naginje griješenju.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.ad2": {
+      "text": "Na drugo treba reći da se zloća ovdje ne uzima kao grijeh, nego kao neka naklonjenost volje prema zlu, prema onome što se kaže u Post 8: *ljudska su osjetila sklona zlu od mladosti njegove*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.ad3": {
+      "text": "Na treće treba reći da je, kako je gore rečeno, požuda čovjeku naravna utoliko ukoliko je podložna razumu. A to što prelazi granice razuma, to je za čovjeka protiv naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.ad4": {
+      "text": "Na četvrto treba reći da se slabošću općenito može nazvati svaka strast, ukoliko slabi snagu duše i priječi razum. Ali Beda je slabost uzeo u užem smislu, ukoliko se protivi jakosti, koja pripada srditoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a3.ad5": {
+      "text": "Na peto treba reći da teškoća koja se navodi u Augustinovoj knjizi uključuje ono troje što pripada težnjenim moćima, to jest zloću, slabost i požudu: iz toga se troga, naime, događa da netko ne teži lako prema dobru. Zabluda pak i bol jesu rane koje slijede: netko, naime, osjeća bol zbog toga što je slab u odnosu na ono za čim žudi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:47+00:00"
+    },
+    "I-II.q85.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da lišenost načina, vrste i reda nije učinak grijeha. Augustin, naime, kaže u knjizi O naravi dobra da *gdje je to troje veliko, veliko je dobro; gdje je malo, malo je; gdje ga nema, nema ni dobra*. Ali grijeh ne poništava dobro naravi. Dakle, ne lišava načina, vrste i reda.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a4.obj2": {
+      "text": "Osim toga, ništa nije uzrok samoga sebe. Ali sam je grijeh lišenost načina, vrste i reda, kako kaže Augustin u knjizi O naravi dobra. Dakle, lišenost načina, vrste i reda nije učinak grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a4.obj3": {
+      "text": "Osim toga, različiti grijesi imaju različite učinke. Ali čini se da način, vrsta i red, budući da su nešto različito, imaju različite lišenosti. Dakle, njih se lišava po različitim grijesima. Dakle, lišenost načina, vrste i reda nije učinak bilo kojega grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a4.sc": {
+      "text": "Ali protiv toga je to što je grijeh u duši kao bolest u tijelu, prema onome iz Ps 6: *smiluj mi se, Gospodine, jer sam bolestan*. Ali bolest lišava samo tijelo načina, vrste i reda. Dakle, grijeh lišava dušu načina, vrste i reda.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a4.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno u Prvom dijelu, način, vrsta i red prate svako stvoreno dobro kao takvo, pa i svako biće. Svaki se, naime, bitak i svako dobro razmatra po nekoj formi, prema kojoj se uzima vrsta. A forma svake stvari, kakva god bila, bilo supstancijalna bilo akcidentalna, jest prema nekoj mjeri; zato se i u VIII. knjizi Metafizike kaže da su forme stvari kao brojevi. I odatle ima neki način, koji se odnosi na mjeru. Po svojoj pak formi svaka je stvar usmjerena prema drugome. Tako, dakle, prema različitim stupnjevima dobara postoje različiti stupnjevi načina, vrste i reda. Postoji, dakle, neko dobro koje pripada samoj supstanciji naravi, koje ima svoj način, vrstu i red, i ono se po grijehu niti oduzima niti umanjuje. Postoji i neko dobro naravne sklonosti, i ono također ima svoj način, vrstu i red, i ono se umanjuje po grijehu, kako je rečeno, ali se ne oduzima posve. Postoji i neko dobro kreposti i milosti, koje također ima svoj način, vrstu i red, i ono se posve oduzima po smrtnom grijehu. Postoji i neko dobro koje je sam uređeni čin, koje također ima svoj način, vrstu i red, i njegova je lišenost po biti sam grijeh. I tako je jasno kako je grijeh i lišenost načina, vrste i reda, i kako lišava načina, vrste i reda ili ih umanjuje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a4.ad1": {
+      "text": "Odatle je jasan odgovor na prva dva.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a4.ad3": {
+      "text": "Na treće treba reći da način, vrsta i red slijede jedno iz drugoga, kako je jasno iz rečenoga. Stoga se njih zajedno lišava i zajedno se umanjuju.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da smrt i drugi tjelesni nedostaci nisu učinci grijeha. Ako je, naime, uzrok jednak, i učinak će biti jednak. Ali takvi nedostaci nisu jednaki u svima, nego u nekima takvih nedostataka ima u većem obilju, premda je istočni grijeh, čijim se učinkom ponajviše čine takvi nedostaci, u svima jednak, kako je rečeno. Dakle, smrt i takvi nedostaci nisu učinci grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a5.obj2": {
+      "text": "Osim toga, kad se ukloni uzrok, uklanja se učinak. Ali kad se po krštenju ili pokori ukloni svaki grijeh, ne uklanjaju se takvi nedostaci. Dakle, oni nisu učinci grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a5.obj3": {
+      "text": "Osim toga, osobni grijeh ima više od pojma krivnje nego istočni. Ali osobni grijeh ne preinačuje narav tijela do nekoga nedostatka. Dakle, još manje istočni grijeh. Dakle, smrt i drugi tjelesni nedostaci nisu učinci grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Rim 5: *po jednom je čovjeku grijeh ušao u ovaj svijet, a po grijehu smrt*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a5.resp": {
+      "text": "Odgovaram: treba reći da je nešto uzrok drugoga na dva načina: na jedan način, po sebi; na drugi način, akcidentalno. Po sebi je uzrok drugoga ono što proizvodi učinak snagom svoje naravi ili forme, iz čega slijedi da uzrok po sebi smjera na učinak. Stoga, budući da su smrt i takvi nedostaci mimo nakane onoga koji griješi, očito je da grijeh nije po sebi uzrok tih nedostataka. Akcidentalno je pak nešto uzrok drugoga ako je uzrok tako što uklanja ono što priječi, kao što se kaže u VIII. knjizi Fizike da *onaj koji izvaljuje stup akcidentalno pokreće kamen postavljen na stup*. I na taj je način grijeh praroditelja uzrok smrti i svih takvih nedostataka u ljudskoj naravi, ukoliko je po grijehu praroditelja oduzeta izvorna pravednost, po kojoj ne samo da su niže sile duše bile obuzdane pod razumom bez ikakve poremećenosti, nego je i cijelo tijelo bilo obuzdano pod dušom bez ikakva nedostatka, kako je utvrđeno u Prvom dijelu. I zato, kad je ta izvorna pravednost oduzeta po grijehu praroditelja, kao što je ljudska narav ranjena s obzirom na dušu po poremećenosti moći, kako je gore rečeno, tako je postala i propadljiva po poremećenosti samoga tijela. Oduzimanje pak izvorne pravednosti ima pojam kazne, kao i oduzimanje milosti. Stoga su i smrt i svi tjelesni nedostaci koji iz toga slijede neke kazne istočnoga grijeha. I premda na takve nedostatke ne smjera onaj koji griješi, oni su ipak određeni prema pravednosti Boga koji kažnjava.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da jednakost uzroka po sebi uzrokuje jednak učinak: kad se, naime, uzrok po sebi poveća ili smanji, povećava se ili smanjuje učinak. Ali jednakost uzroka koji uklanja ono što priječi ne pokazuje jednakost učinaka. Ako, naime, netko jednakim udarcem izvali dva stupa, ne slijedi da se kamenje postavljeno na njih jednako giba, nego će se brže gibati onaj koji bude teži prema svojstvu svoje naravi, kojoj je prepušten kad je uklonjeno ono što priječi. Tako je, dakle, kad je uklonjena izvorna pravednost, narav ljudskoga tijela prepuštena sebi samoj, i prema tome, prema različitosti naravnoga tjelesnog sastava, tijela su nekih podložna većem broju nedostataka, a tijela drugih manjem, premda je istočni grijeh jednak.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a5.ad2": {
+      "text": "Na drugo treba reći da se istočna i osobna krivnja uklanja od istoga od koga se uklanjaju i takvi nedostaci, prema onome što kaže Apostol u Rim 8: *oživit će vaša smrtna tijela po njegovu Duhu koji prebiva u vama*; ali oboje se zbiva prema redu božanske mudrosti, u prikladno vrijeme. Treba, naime, da do besmrtnosti i nepodložnosti trpljenju u slavi, koja je započeta u Kristu i po Kristu nama stečena, dođemo tako da se najprije suobličimo njegovim mukama. Stoga treba da podložnost trpljenju neko vrijeme ostane u našim tijelima, kako bismo, suobličeni Kristu, zaslužili nepodložnost trpljenju u slavi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a5.ad3": {
+      "text": "Na treće treba reći da u osobnom grijehu možemo razmatrati dvoje, to jest samu supstanciju čina i pojam krivnje. Sa strane supstancije čina osobni grijeh može uzrokovati neki tjelesni nedostatak, kao što se neki od suvišne hrane razbole i umru. Ali sa strane krivnje lišava milosti, koja se daje čovjeku da ispravlja čine duše, a ne da zadržava tjelesne nedostatke, kao što ih je zadržavala izvorna pravednost. I zato osobni grijeh ne uzrokuje takve nedostatke kao istočni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da su smrt i takvi nedostaci čovjeku naravni. *Propadljivo se, naime, i nepropadljivo razlikuju po rodu*, kako se kaže u X. knjizi Metafizike. Ali čovjek je istoga roda s drugim životinjama, koje su po naravi propadljive. Dakle, čovjek je po naravi propadljiv.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a6.obj2": {
+      "text": "Osim toga, sve što je sastavljeno od protivnosti po naravi je propadljivo, kao da u sebi ima uzrok svojega propadanja. Ali ljudsko je tijelo takvo. Dakle, ono je po naravi propadljivo.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a6.obj3": {
+      "text": "Osim toga, toplo po naravi troši vlažno. A život se čovjekov održava toplim i vlažnim. Budući, dakle, da se djelovanja života izvršavaju činom naravne topline, kako se kaže u II. knjizi O duši, čini se da su smrt i takvi nedostaci čovjeku naravni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a6.sc1": {
+      "text": "Ali protiv toga, sve što je čovjeku naravno, Bog je u čovjeku učinio. Ali Bog nije učinio smrt, kako se kaže u Mudr 1. Dakle, smrt nije čovjeku naravna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a6.sc2": {
+      "text": "Osim toga, ono što je po naravi ne može se nazvati ni kaznom ni zlom, jer svakoj je stvari prikladno ono što joj je naravno. Ali smrt i takvi nedostaci kazna su istočnoga grijeha, kako je gore rečeno. Dakle, oni nisu čovjeku naravni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a6.sc3": {
+      "text": "Osim toga, tvar je razmjerna formi, a svaka stvar svojoj svrsi. A svrha je čovjekova trajno blaženstvo, kako je gore rečeno. Forma je pak ljudskoga tijela razumska duša, koja je nepropadljiva, kako je utvrđeno u Prvom dijelu. Dakle, ljudsko je tijelo po naravi nepropadljivo.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a6.resp": {
+      "text": "Odgovaram: treba reći da o svakoj propadljivoj stvari možemo govoriti na dva načina: na jedan način, prema općoj naravi; na drugi način, prema posebnoj naravi. Posebna je narav vlastita djelatna i održavajuća snaga svake stvari. I prema njoj je svako propadanje i svaki nedostatak protiv naravi, kako se kaže u II. knjizi O nebu, jer takva snaga smjera na bitak i održanje onoga čija je. Opća je pak narav djelatna snaga u nekom općem počelu naravi, primjerice u nekom od nebeskih tijela, ili snaga neke više supstancije, prema čemu neki i Boga nazivaju tvorećom naravi. Ta snaga smjera na dobro i održanje svemira, za što se zahtijeva izmjenjivanje nastajanja i propadanja u stvarima. I prema tome su propadanja i nedostaci stvari naravni, ne doduše prema sklonosti forme, koja je počelo bitka i savršenosti, nego prema sklonosti tvari, koja se takvoj formi razmjerno dodjeljuje prema raspodjeli općega djelatnika. I premda svaka forma smjera na trajni bitak koliko može, ipak nijedna forma propadljive stvari ne može postići svoju trajnost, osim razumske duše, zato što ona nije posve podložna tjelesnoj tvari kao druge forme; štoviše, ima vlastito netvarno djelovanje, kako je utvrđeno u Prvom dijelu. Stoga je, sa strane njegove forme, čovjeku nepropadljivost naravnija nego drugim propadljivim stvarima. Ali budući da i ona ima tvar sastavljenu od protivnosti, iz sklonosti tvari slijedi propadljivost u cjelini. I prema tome je čovjek po naravi propadljiv prema naravi tvari prepuštene sebi, ali ne prema naravi forme. Prva tri razloga polaze sa strane tvari, a druga tri polaze sa strane forme. Stoga, da bi se oni riješili, treba uzeti u obzir da je forma čovjeka, a to je razumska duša, po svojoj nepropadljivosti razmjerna svojoj svrsi, a to je trajno blaženstvo. Ali ljudsko tijelo, koje je propadljivo kad se razmatra prema svojoj naravi, na neki je način razmjerno svojoj formi, a na neki način nije. U nekoj se, naime, tvari može promatrati dvostruko svojstvo: jedno koje djelatnik izabire, a drugo koje djelatnik nije izabrao, nego je prema naravnom svojstvu tvari. Kao što kovač za izradu nožića izabire tvrdu i kovnu tvar, koja se može istanjiti da bude prikladna za rezanje, i prema tom je svojstvu željezo tvar razmjerna nožiću; ali to što je željezo lomljivo i što hvata hrđu, slijedi iz naravne raspoloživosti željeza, i to umjetnik ne izabire u željezu, nego bi to radije odbacio kad bi mogao. Stoga ta raspoloživost tvari nije razmjerna ni nakani umjetnika ni nakani umijeća. Slično je ljudsko tijelo tvar koju je narav izabrala s obzirom na to da je uravnoteženoga tjelesnog sastava, kako bi moglo biti najprikladniji organ opipa i drugih osjetilnih i pokretačkih snaga. Ali to što je propadljivo, to je iz svojstva tvari, i narav to nije izabrala; štoviše, narav bi izabrala nepropadljivu tvar kad bi mogla. Ali Bog, kojemu je podložna svaka narav, pri samom je ustanovljenju čovjeka nadoknadio nedostatak naravi i darom izvorne pravednosti dao je tijelu neku nepropadljivost, kako je rečeno u Prvom dijelu. I prema tome se kaže da Bog nije učinio smrt i da je smrt kazna za grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q85.a6.adarg": {
+      "text": "Odatle je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    }
+  }
+}

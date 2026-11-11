@@ -1,0 +1,444 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 77,
+  "units": {
+    "I-II.q77.pr": {
+      "text": "Zatim valja razmotriti uzrok grijeha s gledišta osjetilne težnje, to jest je li strast duše uzrok grijeha. I o tome se pita osam stvari. Prvo, može li strast osjetilne težnje pokrenuti ili nagnuti volju. Drugo, može li nadvladati razum protiv njegova znanja. Treće, je li grijeh koji proizlazi iz strasti grijeh iz slabosti. Četvrto, je li ona strast koja je ljubav prema sebi uzrok svakoga grijeha. Peto, o onim trima uzrocima koji se navode u 1 Iv 2: *požuda očiju, požuda tijela i oholost života*. Šesto, umanjuje li strast koja je uzrok grijeha sam grijeh. Sedmo, ispričava li ga posve. Osmo, može li grijeh koji je iz strasti biti smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da volju ne pokreće strast osjetilne težnje. Nijednu, naime, trpnu moć ne pokreće ništa osim njezina predmeta. A volja je ujedno trpna i djelatna moć, ukoliko je pokretač i pokrenuto, kao što Filozof u III. knjizi O duši općenito kaže o težnjenoj sili. Budući da, dakle, predmet volje nije strast osjetilne težnje, nego prije dobro razuma, čini se da strast osjetilne težnje ne pokreće volju.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a1.obj2": {
+      "text": "Osim toga, viši pokretač nije pokretan od nižega, kao što ni duša nije pokretana od tijela. Ali volja, koja je težnja razuma, odnosi se prema osjetilnoj težnji kao viši pokretač prema nižemu; Filozof, naime, u III. knjizi O duši kaže da *težnja razuma pokreće osjetilnu težnju, kao što u nebeskim tijelima sfera pokreće sferu*. Dakle, volja ne može biti pokretana od strasti osjetilne težnje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a1.obj3": {
+      "text": "Osim toga, ništa netvarno ne može biti pokretano od nečega tvarnoga. Ali volja je neka netvarna moć, jer se ne služi tjelesnim organom, budući da je u razumu, kako se kaže u III. knjizi O duši. A osjetilna je težnja tvarna sila, budući da je utemeljena u tjelesnom organu. Dakle, strast osjetilne težnje ne može pokrenuti umsku težnju.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Dn 13: *požuda je izopačila srce tvoje*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a1.resp": {
+      "text": "Odgovaram: treba reći da strast osjetilne težnje ne može izravno privući ili pokrenuti volju, ali neizravno može. I to na dva načina. Na jedan način, po nekom odvlačenju. Budući da su, naime, sve moći duše ukorijenjene u jednoj biti duše, nužno je da, kad se jedna moć pojača u svojemu činu, druga u svojemu činu oslabi ili čak bude posve zapriječena. S jedne strane zato što svaka snaga, raspršena na više stvari, postaje manja; stoga, obratno, kad se usredotoči na jedno, manje se može raspršiti na drugo. S druge strane zato što se u djelovanjima duše traži neka pozornost, koja, kad se snažno usmjeri na jedno, ne može snažno paziti na drugo. I na taj način, po nekom rastresanju, kad se pokret osjetilne težnje osnaži po bilo kojoj strasti, nužno je da oslabi ili posve bude zapriječen vlastiti pokret razumske težnje, koja je volja. Na drugi način, s gledišta predmeta volje, koji je dobro zahvaćeno razumom. Sud i zahvaćanje razuma, naime, bivaju zapriječeni zbog snažnog i neurednog zahvaćanja mašte i suda procjeniteljske sile, kao što je očito kod umobolnih. A očito je da zahvaćanje mašte i sud procjeniteljske sile slijede za strašću osjetilne težnje, kao što i sud okusa slijedi za stanjem jezika. Zato vidimo da ljudi koji su u nekoj strasti ne odvraćaju lako maštu od onoga čime su obuzeti. Stoga, posljedično, sud razuma najčešće slijedi strast osjetilne težnje, a posljedično i pokret volje, koji je po naravi takav da slijedi sud razuma.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se po strasti osjetilne težnje događa neka izmjena u sudu o predmetu volje, kao što je rečeno, premda sama strast osjetilne težnje nije izravno predmet volje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a1.ad2": {
+      "text": "Na drugo treba reći da više nije izravno pokretano od nižega, ali neizravno na neki način može biti pokretano, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a1.ad3": {
+      "text": "I slično treba reći na treće.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da razum ne može biti nadvladan od strasti protiv svojega znanja. Jače, naime, ne biva pobijeđeno od slabijega. Ali znanje je, zbog svoje izvjesnosti, najjače od onoga što je u nama. Dakle, ne može biti nadvladano od strasti, koja je slaba i brzo prolazi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.obj2": {
+      "text": "Osim toga, volja je samo za dobrom ili prividnim dobrom. Ali kad strast vuče volju prema onome što je uistinu dobro, ne naginje razum protiv znanja. A kad je vuče prema onome što je prividno dobro, a nije, vuče je prema onome što se čini razumu; a ono što se razumu čini, to je u znanju razuma. Dakle, strast nikada ne naginje razum protiv njegova znanja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.obj3": {
+      "text": "Ako se kaže da vuče razum koji zna nešto općenito, tako da u pojedinačnom sudi protivno, protiv toga stoji: opći i pojedinačni iskaz, ako su suprotstavljeni, suprotstavljeni su po proturječnosti, kao „svaki čovjek” i „ne svaki čovjek”. Ali dva mnijenja o proturječnim iskazima jesu protivna, kako se kaže u II. knjizi O tumačenju. Kad bi, dakle, netko tko zna nešto općenito sudio suprotno u pojedinačnom, slijedilo bi da istodobno ima protivna mnijenja, što je nemoguće.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.obj4": {
+      "text": "Osim toga, tko god zna opće, zna i pojedinačno za koje spoznaje da je sadržano pod općim; kao što tko god zna da je svaka mazga neplodna, zna da je ova životinja neplodna, samo ako zna da je mazga, kao što je očito iz onoga što se kaže u I. knjizi Druge analitike. Ali onaj koji zna nešto općenito, na primjer da nikakav blud ne treba činiti, zna da je ovo pojedinačno sadržano pod općim, na primjer da je ovaj čin bludan. Dakle, čini se da zna i u pojedinačnom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.obj5": {
+      "text": "Osim toga, ono što je u glasu znakovi su shvaćanja duše, prema Filozofu. Ali čovjek koji je u strasti često priznaje da je ono što bira zlo, i to u pojedinačnom. Dakle, ima znanje i u pojedinačnom. Tako se, dakle, čini da strasti ne mogu vući razum protiv općega znanja, jer ne može biti da netko ima opće znanje, a da u pojedinačnom misli suprotno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Rim 7: *vidim drugi zakon u udovima svojim, koji se protivi zakonu moje pameti i zarobljuje me u zakonu grijeha*. A zakon koji je u udovima jest požuda, o kojoj je prije govorio. Budući da je, dakle, požuda neka strast, čini se da strast vuče razum i protiv onoga što zna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.resp": {
+      "text": "Odgovaram: treba reći da je Sokratovo mišljenje bilo, kako kaže Filozof u VII. knjizi Etike, da znanje nikada ne bi moglo biti nadvladano od strasti. Zato je tvrdio da su sve kreposti znanja, a svi grijesi neznanja. U tome je doduše donekle ispravno mislio. Jer budući da je volja za dobrom ili prividnim dobrom, volja se nikada ne bi pokrenula prema zlu kad se ono što nije dobro ne bi razumu na neki način pričinilo dobrim; i zbog toga volja nikada ne bi težila prema zlu osim uz neko neznanje ili zabludu razuma. Zato se kaže u Izr 14: *lutaju oni koji čine zlo*. No budući da je iz iskustva očito da mnogi rade protiv onoga o čemu imaju znanje, a to potvrđuje i božanski autoritet, prema onome iz Lk 12: *sluga koji je poznavao volju gospodara svojega, a nije je izvršio, dobit će mnogo udaraca*, i u Jak 4 se kaže: onome tko zna činiti dobro, a ne čini, grijeh je, on nije rekao naprosto istinito, nego treba razlikovati, kako uči Filozof u VII. knjizi Etike. Budući da se, naime, čovjek u ispravnom djelovanju ravna dvostrukim znanjem, to jest općim i pojedinačnim, nedostatak bilo kojega od njih dovoljan je da bude zapriječena ispravnost djela i volje, kao što je gore rečeno. Događa se, dakle, da netko ima znanje općenito, na primjer da nikakav blud ne treba činiti, ali ipak ne spoznaje u pojedinačnom da ovaj čin, koji je blud, ne treba činiti. I to je dovoljno da volja ne slijedi opće znanje razuma. Nadalje, valja razmotriti da ništa ne priječi da se nešto zna u habitusu, a da se ipak zbiljski ne razmatra. Može se, dakle, dogoditi da netko ima ispravno znanje i u pojedinačnom, a ne samo općenito, ali da ga ipak zbiljski ne razmatra. I tada se ne čini teškim da čovjek djeluje mimo onoga što zbiljski ne razmatra. A to što čovjek u pojedinačnom ne razmatra ono što habitualno zna, događa se katkad samo zbog nedostatka pozornosti, na primjer kad čovjek koji zna geometriju ne pazi da razmotri geometrijske zaključke, koje mu je spremno odmah razmotriti. Katkad pak čovjek ne razmatra ono što ima u habitusu zbog neke zapreke koja nadođe, na primjer zbog neke vanjske zaokupljenosti ili zbog neke tjelesne slabosti. I na taj način onaj tko je u strasti ne razmatra u pojedinačnom ono što zna općenito, ukoliko strast priječi takvo razmatranje. A priječi ga na tri načina. Prvo, po nekom rastresanju, kao što je gore izloženo. Drugo, po protivnosti, jer strast najčešće naginje prema protivnome od onoga što sadrži opće znanje. Treće, po nekoj tjelesnoj izmjeni, kojom je razum na neki način svezan da ne bi slobodno izišao u čin, kao što i san ili pijanstvo, kad nastupi neka tjelesna preinaka, vežu uporabu razuma. A da se to događa u strastima, očito je iz toga što katkad, kad se strasti veoma pojačaju, čovjek posve izgubi uporabu razuma; mnogi su, naime, zbog obilja ljubavi i srdžbe pali u ludilo. I na taj način strast vuče razum da u pojedinačnom sudi protiv znanja koje ima općenito.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da opće znanje, koje je najizvjesnije, nema prvenstvo u djelovanju, nego ga prije ima pojedinačno znanje, zato što su djelovanja oko pojedinačnih stvari. Zato nije čudno ako u onome što se čini strast djeluje protiv općega znanja kad izostane razmatranje u pojedinačnom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.ad2": {
+      "text": "Na drugo treba reći da samo to što se razumu u pojedinačnom pričinja dobrim nešto što nije dobro, događa se zbog neke strasti. Pa ipak je taj pojedinačni sud protiv općega znanja razuma.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.ad3": {
+      "text": "Na treće treba reći da se ne bi moglo dogoditi da netko istodobno zbiljski ima znanje ili istinito mnijenje o općem jesnom iskazu i lažno mnijenje o pojedinačnom niječnom iskazu, ili obratno. Ali se lijepo može dogoditi da netko habitualno ima istinito znanje o općem jesnom iskazu, a zbiljski lažno mnijenje o pojedinačnom niječnom; jer čin nije izravno protivan habitusu, nego činu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.ad4": {
+      "text": "Na četvrto treba reći da onaj tko ima znanje općenito biva zbog strasti zapriječen da pod tim općim podvede i dođe do zaključka, nego podvodi pod drugo opće, koje mu nameće sklonost strasti, i pod njim zaključuje. Zato Filozof u VII. knjizi Etike kaže da silogizam neuzdržljivca ima četiri iskaza, dva opća, od kojih je jedan iskaz razuma, na primjer da nikakav blud ne treba počiniti, a drugi iskaz strasti, na primjer da za nasladom treba ići. Strast, dakle, veže razum da ne podvede i ne zaključi pod prvim; stoga, dok ona traje, podvodi i zaključuje pod drugim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a2.ad5": {
+      "text": "Na peto treba reći da, kao što pijanac katkad može izgovarati riječi koje označuju duboke misli, koje ipak ne može duhom prosuditi jer ga pijanstvo u tome priječi, tako i onaj tko je u strasti, premda ustima izgovara da to ne treba činiti, ipak iznutra u duši osjeća da to treba činiti, kako se kaže u VII. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da za grijeh koji je iz strasti ne bi trebalo reći da je iz slabosti. Strast je, naime, neki snažan pokret osjetilne težnje, kao što je rečeno. A snažnost pokreta više svjedoči o jakosti nego o slabosti. Dakle, za grijeh koji je iz strasti ne treba reći da je iz slabosti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a3.obj2": {
+      "text": "Osim toga, slabost čovjeka najviše se uočava u onome što je u njemu krhkije. A to je tijelo; zato se kaže u Psalmu 77: *spomenuo se da su tijelo*. Dakle, grijehom iz slabosti prije treba nazvati onaj koji je iz nekoga tjelesnog nedostatka nego onaj koji je iz strasti duše.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a3.obj3": {
+      "text": "Osim toga, ne čini se da je čovjek slab za ono što je podložno njegovoj volji. Ali činiti ili ne činiti ono na što strast naginje podložno je čovjekovoj volji, prema onome iz Post 4: *pod tobom će biti težnja tvoja, i ti ćeš njome vladati*. Dakle, grijeh koji je iz strasti nije iz slabosti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a3.sc": {
+      "text": "Ali protiv toga je što Tulije u IV. knjizi Tuskulanskih rasprava strasti duše naziva bolestima. A bolesti se drugim imenom nazivaju slabostima. Dakle, za grijeh koji je iz strasti treba reći da je iz slabosti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a3.resp": {
+      "text": "Odgovaram: treba reći da je vlastiti uzrok grijeha s gledišta duše, u kojoj je grijeh u prvom redu. A slabost se u duši može reći po sličnosti sa slabošću tijela. Za tijelo se, pak, čovjekovo kaže da je slabo kad je oslabljeno ili zapriječeno u izvršenju vlastitog djelovanja zbog nekog nereda dijelova tijela, tako naime da se sokovi i udovi čovjekovi ne podlažu upravljačkoj i pokretačkoj snazi tijela. Zato se i za ud kaže da je slab kad ne može izvršiti djelovanje zdravog uda, kao oko kad ne može jasno vidjeti, kako kaže Filozof u X. knjizi O povijesti životinja. Zato se i o slabosti duše govori kad je duša zapriječena u vlastitom djelovanju zbog nereda njezinih dijelova. A kao što se za dijelove tijela kaže da su neuređeni kad ne slijede red naravi, tako se i za dijelove duše kaže da su neuređeni kad se ne podlažu redu razuma; razum je, naime, upravljačka sila dijelova duše. Tako, dakle, kad je izvan reda razuma požudna ili srdita sila obuzeta nekom strašću i time se, na spomenuti način, stvara zapreka dužnoj radnji čovjeka, kaže se da je grijeh iz slabosti. Zato i Filozof u I. knjizi Etike uspoređuje neuzdržljivca s uzetim čovjekom, kojemu se dijelovi pokreću suprotno od onoga što on sam odredi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što je, što je jači pokret u tijelu mimo reda naravi, to veća slabost, tako je, što je jači pokret strasti mimo reda razuma, to veća slabost duše.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a3.ad2": {
+      "text": "Na drugo treba reći da se grijeh u prvom redu sastoji u činu volje, koji nije zapriječen tjelesnom slabošću; jer onaj tko je slab tijelom može imati spremnu volju da nešto učini. Ali je zapriječen strašću, kao što je gore rečeno. Zato, kad se kaže da je grijeh iz slabosti, to se prije treba odnositi na slabost duše nego na slabost tijela. Ipak se i sama slabost duše naziva slabošću tijela, ukoliko se strasti duše dižu u nama zbog stanja tijela, zato što je osjetilna težnja snaga koja se služi tjelesnim organom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a3.ad3": {
+      "text": "Na treće treba reći da je doduše u vlasti volje pristati ili ne pristati na ono na što strast naginje, i utoliko se kaže da je naša težnja pod nama. Ali ipak je sam pristanak ili nepristanak volje zapriječen strašću, na spomenuti način.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ljubav prema sebi nije počelo svakoga grijeha. Ono, naime, što je samo po sebi dobro i dužno nije vlastiti uzrok grijeha. Ali ljubav prema sebi samo je po sebi dobra i dužna; zato se čovjeku i zapovijeda da ljubi bližnjega kao samoga sebe, Lev 19. Dakle, ljubav prema sebi ne može biti vlastiti uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a4.obj2": {
+      "text": "Osim toga, Apostol kaže u Rim 7: *grijeh je, uzevši povod, po zapovijedi proizveo u meni svaku požudu*, gdje Glosa kaže da je *dobar zakon koji, zabranjujući požudu, zabranjuje svako zlo*, a to se kaže zato što je požuda uzrok svakoga grijeha. Ali požuda je strast različita od ljubavi, kao što je gore utvrđeno. Dakle, ljubav prema sebi nije uzrok svakoga grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a4.obj3": {
+      "text": "Osim toga, Augustin, tumačeći ono iz Psalma: spaljen ognjem i potkopan, kaže da je svaki grijeh *iz ljubavi koja zlo raspaljuje ili iz straha koji zlo ponizuje*. Dakle, nije samo ljubav prema sebi uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a4.obj4": {
+      "text": "Osim toga, kao što čovjek katkad griješi zbog neuredne ljubavi prema sebi, tako ponekad griješi i zbog neuredne ljubavi prema bližnjemu. Dakle, ljubav prema sebi nije uzrok svakoga grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a4.sc": {
+      "text": "Ali protiv toga je što Augustin kaže u XIV. knjizi O Božjem gradu da *ljubav prema sebi sve do prezira Boga tvori grad Babilon*. Ali po bilo kojem grijehu čovjek pripada gradu Babilonu. Dakle, ljubav prema sebi uzrok je svakoga grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, vlastiti i po sebi uzrok grijeha treba uzeti s gledišta okretanja prema promjenljivom dobru; a s toga gledišta svaki čin grijeha proizlazi iz neke neuredne težnje za nekim vremenitim dobrom. A to što netko neuredno teži za nekim vremenitim dobrom proizlazi iz toga što neuredno ljubi samoga sebe; jer ljubiti nekoga znači htjeti mu dobro. Zato je očito da je neuredna ljubav prema sebi uzrok svakoga grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je uredna ljubav prema sebi dužna i naravna, tako naime da čovjek sebi hoće dobro koje mu pristaje. Ali neuredna ljubav prema sebi, koja dovodi do prezira Boga, prema Augustinu se postavlja kao uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a4.ad2": {
+      "text": "Na drugo treba reći da se požuda, kojom netko teži za dobrom za sebe, svodi na ljubav prema sebi kao na uzrok, kao što je već rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a4.ad3": {
+      "text": "Na treće treba reći da se kaže da netko ljubi i ono dobro koje sebi želi i sebe, kojemu dobro želi. Ljubav, dakle, ukoliko se kaže da je ljubav onoga što se želi, na primjer kad se kaže da netko ljubi vino ili novac, prima kao svoj uzrok strah, koji pripada bijegu od zla. Svaki, naime, grijeh proizlazi ili iz neuredne težnje za nekim dobrom ili iz neurednog bijega od nekoga zla. Ali i jedno i drugo svodi se na ljubav prema sebi. Čovjek, naime, ili teži za dobrima ili bježi od zala upravo zato što ljubi samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a4.ad4": {
+      "text": "Na četvrto treba reći da je prijatelj takoreći drugi on sam. I zato se čini da ono što se zgriješi zbog ljubavi prema prijatelju biva zgriješeno zbog ljubavi prema sebi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se neprikladno kao uzroci grijeha postavljaju požuda tijela, požuda očiju i oholost života. Jer prema Apostolu, u posljednjem poglavlju Prve poslanice Timoteju, *korijen je svih zala pohlepa*. Ali oholost života nije sadržana pod pohlepom. Dakle, ne treba je postaviti među uzroke grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a5.obj2": {
+      "text": "Osim toga, požuda tijela najviše se pobuđuje viđenjem očima, prema onome iz Dn 13: *ljepota te zavela*. Dakle, požudu očiju ne treba diobom odvajati od požude tijela.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a5.obj3": {
+      "text": "Osim toga, požuda je težnja za ugodnim, kao što je gore utvrđeno. A naslade se ne događaju samo po vidu, nego i po drugim osjetilima. Dakle, trebalo bi postaviti i požudu sluha i ostalih osjetila.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a5.obj4": {
+      "text": "Osim toga, kao što je čovjek naveden na griješenje neurednom požudom za dobrom, tako i neurednim bijegom od zla, kao što je rečeno. Ali ovdje se ne nabraja ništa što pripada bijegu od zla. Dakle, uzroci grijeha nisu dostatno obuhvaćeni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1 Iv 2: *sve što je u svijetu jest ili požuda tijela, ili požuda očiju, ili oholost života*. A za nešto se kaže da je u svijetu zbog grijeha; zato na istome mjestu kaže da *sav svijet leži u Zlome*. Dakle, spomenuto troje uzroci su grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a5.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je već rečeno, neuredna ljubav prema sebi uzrok svakoga grijeha. A u ljubavi prema sebi uključena je neuredna težnja za dobrom; svatko, naime, teži za dobrom za onoga koga ljubi. Zato je očito da je neuredna težnja za dobrom uzrok svakoga grijeha. A dobro je na dva načina predmet osjetilne težnje, u kojoj su strasti duše koje su uzrok grijeha: na jedan način, apsolutno, ukoliko je predmet požudne moći; na drugi način, pod vidom teško dostižnoga, ukoliko je predmet srdite moći, kao što je gore rečeno. A požuda je dvostruka, kao što je gore utvrđeno. Jedna je naravna, koja je za onim čime se održava narav tijela, bilo s obzirom na očuvanje pojedinca, kao što su jelo i piće i drugo takvo, bilo s obzirom na očuvanje vrste, kao u spolnim stvarima. I neuredna težnja za tim stvarima naziva se požudom tijela. Druga je duševna požuda, naime za onim stvarima koje po osjetilu ne donose tijelu održavanje ili naslađivanje, nego su ugodne po zahvaćanju mašte ili nekoga sličnog poimanja, kao što su novac, ukrašenost odjeće i drugo takvo. I ta se duševna požuda naziva požudom očiju, bilo da se požuda očiju shvaća kao požuda samoga viđenja, koje biva po očima, tako da se odnosi na radoznalost, kako tumači Augustin u X. knjizi Ispovijesti; bilo da se odnosi na požudu za stvarima koje se izvana stavljaju pred oči, tako da se odnosi na pohlepu, kako drugi tumače. A neuredna težnja za teško dostižnim dobrom pripada oholosti života; jer oholost je neuredna težnja za izvrsnošću, kao što će se kasnije reći. I tako je očito da se na to troje mogu svesti sve strasti koje su uzrok grijeha. Jer na prva dva svode se sve strasti požudne moći, a na treće sve strasti srdite moći; a ono se zato ne dijeli na dvoje što se sve strasti srdite moći ravnaju prema duševnoj požudi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je, ukoliko pohlepa općenito označuje težnju za bilo kojim dobrom, i oholost života sadržana pod pohlepom. A kako je pohlepa, ukoliko je poseban porok koji se naziva škrtošću, korijen svih grijeha, reći će se niže.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a5.ad2": {
+      "text": "Na drugo treba reći da se požudom očiju ovdje ne naziva požuda za svim stvarima koje se očima mogu vidjeti, nego samo za onima u kojima se ne traži naslada tijela, koja je po opipu, nego samo naslada oka, to jest bilo koje zahvatne snage.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a5.ad3": {
+      "text": "Na treće treba reći da je osjetilo vida izvrsnije među svim osjetilima i proteže se na više stvari, kako se kaže u I. knjizi Metafizike. I zato se njegovo ime prenosi na sva ostala osjetila, pa i na sva unutarnja zahvaćanja, kako kaže Augustin u knjizi O riječima Gospodnjim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a5.ad4": {
+      "text": "Na četvrto treba reći da je bijeg od zla prouzročen težnjom za dobrom, kao što je gore rečeno. I zato se postavljaju samo strasti koje naginju prema dobru, kao uzroci onih strasti koje neuredno izazivaju bijeg od zla.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q77.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se grijeh zbog strasti ne olakšava. Porast uzroka, naime, povećava učinak; jer ako toplo rastapa, toplije više rastapa. Ali strast je uzrok grijeha, kao što je utvrđeno. Dakle, što je jača strast, to je veći grijeh. Strast, dakle, ne umanjuje grijeh, nego ga povećava.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a6.obj2": {
+      "text": "Osim toga, kako se dobra strast odnosi prema zasluzi, tako se zla strast odnosi prema grijehu. Ali dobra strast povećava zaslugu; jer čini se da netko utoliko više zaslužuje ukoliko iz većeg milosrđa pomaže siromahu. Dakle, i zla strast više otežava grijeh nego što ga olakšava.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a6.obj3": {
+      "text": "Osim toga, što jačom voljom netko čini grijeh, to se čini da teže griješi. Ali strast, potičući volju, čini da ona snažnije bude nošena prema činu grijeha. Dakle, strast otežava grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a6.sc": {
+      "text": "Ali protiv toga: sama se strast požude naziva kušnjom tijela. Ali što većom kušnjom netko biva oboren, to manje griješi, kao što je očito iz Augustina. Dakle, strast umanjuje grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a6.resp": {
+      "text": "Odgovaram: treba reći da se grijeh bitno sastoji u činu slobodnog odlučivanja, koje je sposobnost volje i razuma. A strast je pokret osjetilne težnje. Osjetilna se pak težnja može odnositi prema slobodnom odlučivanju i prethodno i naknadno. Prethodno, ukoliko strast osjetilne težnje vuče ili naginje razum i volju, kao što je gore rečeno. Naknadno pak, ukoliko se pokreti viših sila, ako su snažni, prelijevaju na niže; jer volja se ne može snažno pokrenuti prema nečemu a da se ne pobudi neka strast u osjetilnoj težnji. Ako se, dakle, strast uzme ukoliko prethodi činu grijeha, tada nužno umanjuje grijeh. Čin je, naime, utoliko grijeh ukoliko je voljan i ukoliko je u nama. A za nešto se kaže da je u nama po razumu i volji. Zato, što više razum i volja nešto čine sami od sebe, a ne iz poticaja strasti, to je ono više voljno i više je u nama. I prema tome strast umanjuje grijeh ukoliko umanjuje ono što je voljno. A naknadna strast ne umanjuje grijeh, nego ga prije povećava, ili, bolje, znak je njegove veličine, ukoliko naime pokazuje intenzivnost volje prema činu grijeha. I tako je istinito da, što s većom pohotom ili požudom netko griješi, to više griješi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je strast uzrok grijeha s gledišta okretanja. A težina grijeha više se procjenjuje s gledišta odvraćanja, koje iz okretanja slijedi akcidentalno, to jest mimo nakane onoga koji griješi. A uzroci po akcidentu, kad se povećaju, ne povećavaju učinke, nego samo uzroci po sebi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a6.ad2": {
+      "text": "Na drugo treba reći da dobra strast koja slijedi sud razuma povećava zaslugu. Ako mu pak prethodi, tako naime da se čovjek više iz strasti nego iz suda razuma pokreće na dobro djelovanje, takva strast umanjuje dobrotu i hvalevrijednost čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a6.ad3": {
+      "text": "Na treće treba reći da, premda je pokret volje potaknut strašću jači, ipak nije toliko vlastit volji kao kad bi ona samim razumom bila pokrenuta na griješenje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da strast posve ispričava od grijeha. Što god, naime, uzrokuje protuvoljno, posve ispričava od grijeha. Ali požuda tijela, koja je neka strast, uzrokuje protuvoljno, prema onome iz Gal 5: *tijelo žudi protiv duha, tako da ne činite što god hoćete*. Dakle, strast posve ispričava od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a7.obj2": {
+      "text": "Osim toga, strast uzrokuje neko neznanje u pojedinačnom, kao što je rečeno. Ali pojedinačno neznanje posve ispričava od grijeha, kao što je gore utvrđeno. Dakle, strast posve ispričava od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a7.obj3": {
+      "text": "Osim toga, slabost duše teža je od slabosti tijela. Ali slabost tijela posve ispričava od grijeha, kao što je očito kod onih koji su u bunilu. Dakle, mnogo više strast, koja je slabost duše.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a7.sc": {
+      "text": "Ali protiv toga je što Apostol u Rim 7 govori o strastima grijeha, a to samo zato što uzrokuju grijehe. To ne bi bilo kad bi posve ispričavale od grijeha. Dakle, strasti ne ispričavaju posve od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a7.resp": {
+      "text": "Odgovaram: treba reći da je neki čin koji je po svojemu rodu zao posve ispričan od grijeha samo utoliko ukoliko postane posve protuvoljan. Zato, ako je strast takva da čin koji slijedi učini posve protuvoljnim, posve ispričava od grijeha; inače ne posve. U vezi s tim čini se da treba razmotriti dvoje. Prvo, da nešto može biti voljno ili po sebi, kao kad je volja izravno nošena prema tome, ili po svojemu uzroku, kad je volja nošena prema uzroku, a ne prema učinku, kao što je očito kod onoga koji se voljno opija; iz toga mu se, naime, kao voljno uračunava ono što počini u pijanstvu. Drugo, treba razmotriti da se za nešto kaže da je voljno izravno ili neizravno: izravno ono prema čemu je volja nošena, a neizravno ono što je volja mogla spriječiti, ali ne sprječava. Prema tome, dakle, treba razlikovati. Jer strast je katkad tolika da posve oduzima uporabu razuma, kao što je očito kod onih koji zbog ljubavi ili srdžbe polude. I tada, ako je takva strast u početku bila voljna, čin se uračunava kao grijeh, jer je voljan u svojemu uzroku, kao što je rečeno i o pijanstvu. Ako pak uzrok nije bio voljan, nego naravan, na primjer kad netko zbog bolesti ili nekoga sličnog uzroka zapadne u takvu strast koja posve oduzima uporabu razuma, čin postaje potpuno protuvoljan i, posljedično, posve je ispričan od grijeha. Katkad pak strast nije tolika da posve prekine uporabu razuma. I tada razum može isključiti strast okrećući se drugim mislima, ili spriječiti da ona postigne svoj učinak, jer se udovi ne primjenjuju na djelo osim po pristanku razuma, kao što je gore rečeno. Zato takva strast ne ispričava posve od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ono što se kaže, *tako da ne činite što god hoćete*, ne treba odnositi na ono što se čini vanjskim činom, nego na unutarnji pokret požude; jer čovjek bi htio nikada ne žudjeti za zlom. Tako se tumači i ono što se kaže u Rim 7: *zlo koje mrzim, to činim*. Ili se može odnositi na volju koja prethodi strasti, kao što je očito kod uzdržljivih koji zbog svoje požude djeluju protiv svoje odluke.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a7.ad2": {
+      "text": "Na drugo treba reći da je pojedinačno neznanje koje posve ispričava neznanje okolnosti koju netko ne može znati ni uz primijenjenu dužnu pomnju. Ali strast uzrokuje neznanje prava u pojedinačnom, dok priječi primjenu općega znanja na pojedinačni čin. A tu strast razum može odbiti, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a7.ad3": {
+      "text": "Na treće treba reći da je slabost tijela protuvoljna. A bilo bi slično kad bi bila voljna, kao što je rečeno o pijanstvu, koje je neka tjelesna slabost.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da grijeh koji je iz strasti ne može biti smrtni. Laki se, naime, grijeh dijeli kao suprotan smrtnome. Ali grijeh koji je iz slabosti jest laki, budući da u sebi ima uzrok oproštenja. Budući da je, dakle, grijeh koji je iz strasti iz slabosti, čini se da ne može biti smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a8.obj2": {
+      "text": "Osim toga, uzrok nije jači od učinka. Ali strast ne može biti smrtni grijeh; jer u osjetilnosti nema smrtnoga grijeha, kao što je gore utvrđeno. Dakle, grijeh koji je iz strasti ne može biti smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a8.obj3": {
+      "text": "Osim toga, strast odvodi od razuma, kao što je očito iz rečenoga. Ali razumu pripada okrenuti se prema Bogu ili se od njega odvratiti, u čemu se sastoji pojam smrtnoga grijeha. Grijeh, dakle, koji je iz strasti ne može biti smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Rim 7, da *strasti grijeha djeluju u udovima našim da donose plod smrti*. A smrtnom je grijehu svojstveno da donosi plod smrti. Dakle, grijeh koji je iz strasti može biti smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a8.resp": {
+      "text": "Odgovaram: treba reći da se smrtni grijeh, kao što je gore rečeno, sastoji u odvraćanju od posljednje svrhe, koja je Bog; a to odvraćanje pripada razumu koji promišlja, kojemu također pripada usmjeravati prema svrsi. Samo se, dakle, na taj način može dogoditi da naginjanje duše prema nečemu što je protivno posljednjoj svrsi ne bude smrtni grijeh: kad razum koji promišlja ne može priteći, što se događa u iznenadnim pokretima. A kad netko iz strasti prijeđe na čin grijeha ili na promišljeni pristanak, to se ne događa iznenada. Zato razum koji promišlja ovdje može priteći; jer može isključiti ili barem spriječiti strast, kao što je rečeno. Zato, ako ne priteče, smrtni je grijeh, kao što vidimo da se mnoga ubojstva i preljubi čine iz strasti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za grijeh kaže da je laki, to jest oprostiv, na tri načina. Na jedan način, po uzroku, naime zato što ima neki uzrok oproštenja koji umanjuje grijeh; i tako se grijeh iz slabosti i neznanja naziva lakim. Na drugi način, po ishodu, kao što svaki grijeh po pokori postaje lakim, to jest takvim koji je zadobio oproštenje. Na treći način naziva se lakim po rodu, kao isprazna riječ. I samo je taj laki grijeh suprotan smrtnome; a prigovor polazi od prvoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a8.ad2": {
+      "text": "Na drugo treba reći da je strast uzrok grijeha s gledišta okretanja. A to što je grijeh smrtni dolazi s gledišta odvraćanja, koje akcidentalno slijedi za okretanjem, kao što je rečeno. Zato zaključak ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q77.a8.ad3": {
+      "text": "Na treće treba reći da razum nije uvijek u svojemu činu posve zapriječen strašću; zato mu ostaje slobodno odlučivanje, tako da se može odvratiti od Boga ili okrenuti prema njemu. Kad bi pak uporaba razuma bila posve oduzeta, ne bi više bilo grijeha, ni smrtnoga ni lakoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    }
+  }
+}

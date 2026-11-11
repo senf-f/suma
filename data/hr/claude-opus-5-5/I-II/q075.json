@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 75,
+  "units": {
+    "I-II.q75.pr": {
+      "text": "Zatim treba razmotriti uzroke grijehâ. I to najprije općenito, a zatim posebno. U vezi s prvim postavljaju se četiri pitanja. Prvo, ima li grijeh uzrok. Drugo, ima li unutarnji uzrok. Treće, ima li vanjski uzrok. Četvrto, je li grijeh uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da grijeh nema uzroka. Grijeh, naime, ima pojam zla, kao što je rečeno. A zlo nema uzroka, kako kaže Dionizije u IV. poglavlju djela O božanskim imenima. Dakle, grijeh nema uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a1.obj2": {
+      "text": "Osim toga, uzrok je ono iz čega nužno slijedi nešto drugo. No ono što biva iz nužnosti, čini se da nije grijeh, zato što je svaki grijeh voljan. Dakle, grijeh nema uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a1.obj3": {
+      "text": "Osim toga, ako grijeh ima uzrok, onda za uzrok ima ili dobro ili zlo. Ali ne dobro, jer dobro ne čini drugo nego dobro: *ne može, naime, dobro stablo donositi zlih plodova*, kako se kaže u Mt 7. A isto tako ni zlo ne može biti uzrok grijeha, jer zlo kazne slijedi za grijehom, a zlo krivnje isto je što i grijeh. Grijeh, dakle, nema uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a1.sc": {
+      "text": "Ali protiv toga: sve što nastaje ima uzrok, jer, kako se kaže u Job 5, ništa na zemlji ne biva bez uzroka. A grijeh nastaje, jer on je nešto rečeno, učinjeno ili požuđeno protiv Božjega zakona. Dakle, grijeh ima uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a1.resp": {
+      "text": "Odgovaram: treba reći da je grijeh neki neuredan čin. Sa strane čina, dakle, on može imati uzrok po sebi, kao i bilo koji drugi čin. A sa strane neurednosti ima uzrok na onaj način na koji nijekanje ili lišenost može imati uzrok. Za nijekanje nečega mogu se, pak, navesti dva uzroka. Prvo, nedostatak uzroka, to jest nijekanje samoga uzroka, uzrok je nijekanja po sebi samome, jer uklanjanjem uzroka slijedi uklanjanje učinka; kao što je uzrok tame odsutnost sunca. Na drugi način, uzrok tvrdnje za kojom slijedi nijekanje akcidentalno je uzrok nijekanja koje iz toga slijedi; tako vatra, uzrokujući toplinu po glavnoj nakani, posljedično uzrokuje lišenost hladnoće. Od toga prvo može biti dostatno za jednostavno nijekanje. No budući da neurednost grijeha, kao i bilo koje zlo, nije jednostavno nijekanje, nego lišenost onoga što nešto po naravi može i treba imati, nužno je da takva neurednost ima djelatni uzrok akcidentalno; jer ono što je po naravi sklono da bude u nečemu i treba biti u njemu nikada ne bi izostalo osim zbog nekog uzroka koji to priječi. I prema tome se obično kaže da zlo, koje se sastoji u nekoj lišenosti, ima manjkav uzrok, ili uzrok koji djeluje akcidentalno. A svaki se akcidentalni uzrok svodi na uzrok po sebi. Budući, dakle, da grijeh sa strane neurednosti ima uzrok koji djeluje akcidentalno, a sa strane čina uzrok koji djeluje po sebi, slijedi da neurednost grijeha proizlazi iz samoga uzroka čina. Tako, dakle, volja kojoj nedostaje vodstvo pravila razuma i božanskoga zakona, smjerajući na neko promjenljivo dobro, uzrokuje čin grijeha po sebi, a neurednost čina akcidentalno i mimo nakane; jer nedostatak reda u činu proizlazi iz nedostatka vodstva u volji.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da grijeh ne označuje samo samu lišenost dobra, koja je neurednost, nego označuje čin pod takvom lišenošću, koja ima pojam zla. A kako to ima uzrok, već je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a1.ad2": {
+      "text": "Na drugo treba reći da, ako ta definicija uzroka treba vrijediti općenito, nužno ju je shvatiti o uzroku koji je dostatan i nije spriječen. Događa se, naime, da je nešto dostatan uzrok nečega drugoga, a ipak učinak ne slijedi nužno, zbog neke zapreke koja nadođe; inače bi slijedilo da se sve događa iz nužnosti, kao što je jasno u VI. knjizi Metafizike. Tako, dakle, iako grijeh ima uzrok, ipak ne slijedi da je nužan, jer učinak može biti spriječen.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a1.ad3": {
+      "text": "Na treće treba reći da je, kao što je rečeno, uzrok grijeha volja bez primjene pravila razuma ili božanskoga zakona. A to što se ne primjenjuje pravilo razuma ili božanskoga zakona, samo po sebi nema pojam zla, ni kazne ni krivnje, prije nego što se primijeni na čin. Stoga, prema tome, uzrok prvoga grijeha nije neko zlo, nego neko dobro uz odsutnost nekog drugog dobra.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da grijeh nema unutarnjeg uzroka. Ono, naime, što je unutar neke stvari uvijek je prisutno u njoj. Kad bi, dakle, grijeh imao unutarnji uzrok, čovjek bi uvijek griješio, jer kad je postavljen uzrok, postavljen je i učinak.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a2.obj2": {
+      "text": "Osim toga, isto nije uzrok samoga sebe. A unutarnji pokreti čovjekovi jesu grijeh. Dakle, oni nisu uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a2.obj3": {
+      "text": "Osim toga, sve što je unutar čovjeka ili je naravno ili je voljno. No ono što je naravno ne može biti uzrok grijeha, jer je grijeh protiv naravi, kako kaže Damaščanin. A ono što je voljno, ako je neuredno, već je grijeh. Dakle, ništa unutarnje ne može biti uzrok prvoga grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin, da je volja uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je već rečeno, uzrok grijeha po sebi treba uzeti sa strane samoga čina. A za ljudski čin može se uzeti unutarnji uzrok, i to posredni i neposredni. Neposredni uzrok ljudskog čina jesu razum i volja, po kojoj je čovjek slobodan u odlučivanju. A daljnji uzrok jest zahvaćanje osjetilnoga dijela, a također i osjetilna težnja; jer kao što se volja iz suda razuma pokreće prema nečemu u skladu s razumom, tako se i osjetilna težnja iz zahvaćanja osjetila naginje prema nečemu. Ta sklonost katkad povlači za sobom volju i razum, kao što će biti jasno niže. Tako se, dakle, mogu navesti dva unutarnja uzroka grijeha: jedan najbliži, sa strane razuma i volje, a drugi daljnji, sa strane mašte ili osjetilne težnje. No budući da je gore rečeno da je uzrok grijeha neko prividno dobro koje pokreće, uz nedostatak dužnoga pokretača, to jest pravila razuma ili božanskoga zakona, sam pokretač, koji je prividno dobro, pripada zahvaćanju osjetila i težnji. A sama odsutnost dužnoga pravila pripada razumu, kojemu je po naravi da takvo pravilo razmatra. A samo dovršenje voljnoga čina grijeha pripada volji, tako da je sam čin volje, uz pretpostavku prethodnoga, već neki grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ono što je unutarnje kao naravna moć uvijek prisutno, a ono što je unutarnje kao unutarnji čin težnjene ili zahvatne snage nije uvijek prisutno. Sama moć volje jest uzrok grijeha u mogućnosti, ali se dovodi u čin po prethodnim pokretima, najprije osjetilnoga dijela, a potom razuma. Time, naime, što se nešto predlaže kao poželjno prema osjetilu i što se osjetilna težnja nagne prema tome, razum katkad prestaje razmatrati dužno pravilo, i tako volja proizvodi čin grijeha. Budući, dakle, da prethodni pokreti nisu uvijek u činu, ni grijeh nije uvijek u činu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a2.ad2": {
+      "text": "Na drugo treba reći da ne pripadaju svi unutarnji pokreti supstanciji grijeha, koja se sastoji ponajprije u činu volje, nego neki prethode samom grijehu, a neki ga slijede.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a2.ad3": {
+      "text": "Na treće treba reći da je ono što je uzrok grijeha kao moć koja proizvodi čin naravno. I pokret osjetilnoga dijela, iz kojega slijedi grijeh, katkad je naravan, kao kad netko griješi zbog težnje za hranom. Ali grijeh postaje protunaravan upravo time što nedostaje naravno pravilo, na koje čovjek po svojoj naravi treba paziti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da grijeh nema vanjskog uzroka. Grijeh je, naime, voljan čin. A voljno pripada onome što je u nama, i tako nema vanjskog uzroka. Dakle, grijeh nema vanjskog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a3.obj2": {
+      "text": "Osim toga, kao što je narav unutarnje počelo, tako je i volja. No pogreška (peccatum) se u naravnim stvarima nikada ne događa osim iz nekog unutarnjeg uzroka; tako, na primjer, nakazni porodi proizlaze iz pokvarenosti nekog unutarnjeg počela. Dakle, ni u moralnom području grijeh se ne može dogoditi osim iz unutarnjeg uzroka. Grijeh, dakle, nema vanjskog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a3.obj3": {
+      "text": "Osim toga, kad se uzrok umnoži, umnoži se i učinak. Ali što je više i što su veće vanjske stvari koje navode na griješenje, to se manje onome što netko neuredno čini to uračunava kao grijeh. Dakle, ništa vanjsko nije uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Br 31: *Nisu li to one koje su zavele sinove Izraelove i navele vas da se ogriješite o Gospodina grijehom Fegora?* Dakle, nešto vanjsko može biti uzrok koji navodi na griješenje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a3.resp": {
+      "text": "Odgovaram: treba reći da su, kao što je gore rečeno, unutarnji uzrok grijeha i volja, kao ona koja dovršava čin grijeha, i razum, s obzirom na nedostatak dužnoga pravila, i osjetilna težnja, koja naginje. Tako bi, dakle, nešto izvanjsko moglo na tri načina biti uzrok grijeha: ili zato što bi neposredno pokretalo samu volju, ili zato što bi pokretalo razum, ili zato što bi pokretalo osjetilnu težnju. A volju, kao što je gore rečeno, iznutra ne može pokretati nitko osim Boga, koji ne može biti uzrok grijeha, kao što će se niže pokazati. Stoga preostaje da ništa vanjsko ne može biti uzrok grijeha osim ili ukoliko pokreće razum, kao čovjek ili demon koji nagovara na grijeh, ili kao ono što pokreće osjetilnu težnju, kao što neke vanjske osjetne stvari pokreću osjetilnu težnju. No ni vanjski nagovor u onome što treba činiti ne pokreće razum nužno, niti izvana predložene stvari nužno pokreću osjetilnu težnju, osim možda kad je ona na neki način tako raspoložena; a ni osjetilna težnja ne pokreće nužno razum i volju. Stoga nešto vanjsko može biti neki uzrok koji pokreće na griješenje, ali ne tako da dostatno navodi na grijeh; uzrok koji dostatno dovršava grijeh jest jedino volja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da upravo iz toga što vanjski pokretači na griješenje ne navode dostatno i nužno slijedi da ostaje u nama griješiti ili ne griješiti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a3.ad2": {
+      "text": "Na drugo treba reći da se time što se postavlja unutarnji uzrok grijeha ne isključuje vanjski; jer ono što je vanjsko nije uzrok grijeha osim posredstvom unutarnjeg uzroka, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a3.ad3": {
+      "text": "Na treće treba reći da se, kad se umnože vanjski uzroci koji naginju na griješenje, umnožavaju čini grijeha, jer se zbog tih uzroka više ljudi, i češće, naginje činima grijeha. Ali se ipak umanjuje pojam krivnje, koji se sastoji u tome da je nešto voljno i u nama.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da grijeh nije uzrok grijeha. Postoje, naime, četiri roda uzroka, od kojih nijedan ne može odgovarati tome da grijeh bude uzrok grijeha. Svrha, naime, ima pojam dobra, što ne pristaje grijehu, koji je po svom pojmu zlo. A iz istog razloga grijeh ne može biti ni tvorni uzrok, jer zlo nije djelatni uzrok, nego je slabo i nemoćno, kako kaže Dionizije u IV. poglavlju djela O božanskim imenima. A tvarni i formalni uzrok čini se da imaju mjesta samo u naravnim tijelima, koja su složena od tvari i forme. Dakle, grijeh ne može imati tvarnog i formalnog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a4.obj2": {
+      "text": "Osim toga, djelovati sebi slično svojstveno je savršenoj stvari, kako se kaže u IV. knjizi Meteorologije. A grijeh je po svom pojmu nesavršen. Dakle, grijeh ne može biti uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a4.obj3": {
+      "text": "Osim toga, ako je uzrok ovoga grijeha drugi grijeh, iz istog će razloga i uzrok onoga biti neki drugi grijeh, i tako će se ići u beskonačno, što je neprikladno. Dakle, grijeh nije uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur u tumačenju Ezekiela: *Grijeh koji se pokorom brzo ne izbriše jest i grijeh i uzrok grijeha.*",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a4.resp": {
+      "text": "Odgovaram: treba reći da, budući da grijeh ima uzrok sa strane čina, na taj bi način jedan grijeh mogao biti uzrok drugoga, kao što jedan ljudski čin može biti uzrok drugoga. Događa se, dakle, da je jedan grijeh uzrok drugoga prema četiri roda uzroka. Prvo, na način tvornog ili pokretnog uzroka, i to po sebi i akcidentalno. Akcidentalno, kao što se za onoga koji uklanja zapreku kaže da pokreće akcidentalno: kad, naime, čovjek jednim činom grijeha izgubi milost, ili ljubav, ili stid, ili bilo što drugo što odvraća od grijeha, time upada u drugi grijeh; i tako je prvi grijeh akcidentalno uzrok drugoga. A po sebi, kao kad se čovjek jednim činom grijeha raspoloži za to da lakše počini drugi sličan čin; jer iz čina se uzrokuju raspoloživosti i habitusi koji naginju sličnim činima. Prema rodu tvarnog uzroka jedan je grijeh uzrok drugoga ukoliko mu priprema građu; tako škrtost priprema građu svađi, koja je najčešće oko zgrnutog bogatstva. Prema rodu svršnog uzroka jedan je grijeh uzrok drugoga ukoliko netko radi svrhe jednoga grijeha počini drugi grijeh, kao kad netko počini simoniju radi svrhe častohleplja, ili blud radi krađe. A budući da u moralnom području svrha daje formu, kao što je gore utvrđeno, iz toga slijedi i da je jedan grijeh formalni uzrok drugoga; jer u činu bluda koje se čini radi krađe blud je kao tvarno, a krađa kao formalno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da grijeh ukoliko je neuredan ima pojam zla, ali ukoliko je neki čin, ima za svrhu neko dobro, barem prividno. I tako sa strane čina može biti i svršni i tvorni uzrok drugoga grijeha, premda ne sa strane neurednosti. A tvar grijeh nema iz koje, nego oko koje. Formu pak ima od svrhe. I zato se prema četiri roda uzroka grijeh može nazvati uzrokom grijeha, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a4.ad2": {
+      "text": "Na drugo treba reći da je grijeh nesavršen moralnom nesavršenošću sa strane neurednosti, ali sa strane čina može imati savršenost naravi. I prema tome može biti uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q75.a4.ad3": {
+      "text": "Na treće treba reći da nije svaki uzrok grijeha grijeh. Stoga nije nužno ići u beskonačno, nego se može doći do nekog prvog grijeha čiji uzrok nije drugi grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    }
+  }
+}

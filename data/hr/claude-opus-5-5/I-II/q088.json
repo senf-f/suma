@@ -1,0 +1,324 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 88,
+  "units": {
+    "I-II.q88.pr": {
+      "text": "Zatim, budući da se laki i smrtni grijeh razlikuju po podložnosti kazni, treba raspravljati o njima. I to najprije treba raspravljati o lakom grijehu u usporedbi sa smrtnim; drugo, o lakom grijehu po sebi. U vezi s prvim pita se šest stvari. Prvo, dijeli li se prikladno laki grijeh nasuprot smrtnome. Drugo, razlikuju li se po rodu. Treće, je li laki grijeh raspoloživost za smrtni. Četvrto, može li laki grijeh postati smrtnim. Peto, može li otežavajuća okolnost od lakoga grijeha učiniti smrtni. Šesto, može li smrtni grijeh postati lakim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se laki grijeh ne dijeli prikladno nasuprot smrtnome. Augustin, naime, kaže u XXII. knjizi Protiv Fausta: *grijeh je nešto rečeno, učinjeno ili požuđeno protiv vječnoga zakona*. Ali biti protiv vječnoga zakona daje grijehu to da bude smrtan. Dakle, svaki je grijeh smrtan. Prema tome, laki se grijeh ne dijeli nasuprot smrtnome.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a1.obj2": {
+      "text": "Osim toga, apostol kaže u 1 Kor 10: *bilo da jedete, bilo da pijete, bilo da što drugo činite, sve činite na slavu Božju*. Ali protiv te zapovijedi čini svatko tko griješi, jer se grijeh ne čini radi slave Božje. Budući da je, dakle, činiti protiv zapovijedi smrtni grijeh, čini se da svatko tko griješi, griješi smrtno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a1.obj3": {
+      "text": "Osim toga, tko god ljubavlju prianja uz neku stvar, prianja uz nju ili kao onaj koji uživa ili kao onaj koji se služi, kao što je jasno iz Augustina u I. knjizi O kršćanskom nauku. Ali nitko tko griješi ne prianja uz promjenljivo dobro kao onaj koji se služi, jer ga ne upravlja prema dobru koje nas čini blaženima, a to je u vlastitom smislu služiti se, kako ondje kaže Augustin. Dakle, tko god griješi, uživa u promjenljivom dobru. *Ali uživati u stvarima kojima se treba služiti ljudska je izopačenost*, kako kaže Augustin u knjizi Osamdeset i tri pitanja. Budući da, dakle, izopačenost označuje smrtni grijeh, čini se da svatko tko griješi, griješi smrtno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a1.obj4": {
+      "text": "Osim toga, tko god pristupa jednoj granici, upravo se time udaljuje od druge. Ali tko god griješi, pristupa promjenljivom dobru. Dakle, udaljuje se od nepromjenljivoga dobra. Dakle, griješi smrtno. Prema tome, laki se grijeh ne dijeli prikladno nasuprot smrtnome.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XLI. homiliji o Ivanu: *zločin je ono što zaslužuje osudu, a laki je grijeh ono što ne zaslužuje osudu*. A zločin označuje smrtni grijeh. Dakle, laki se grijeh prikladno dijeli nasuprot smrtnome.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a1.resp": {
+      "text": "Odgovaram: treba reći da se neke stvari, ukoliko se uzimaju u vlastitom smislu, ne čine suprotstavljenima, a ako se uzmu preneseno, nalazi se da su suprotstavljene. Tako se smijati ne suprotstavlja sušenju; ali ukoliko se preneseno kaže da se livada smije zbog svoga cvjetanja i zelenila, suprotstavlja se sušenju. Slično, ako se smrtno uzme u vlastitom smislu, ukoliko se odnosi na tjelesnu smrt, ne čini se da je suprotstavljeno lakome niti da pripada istome rodu. Ali ako se smrtno uzme preneseno, kako se govori kod grijeha, smrtno se suprotstavlja onome što je lako. Budući da je, naime, grijeh neka bolest duše, kako je gore utvrđeno, neki se grijeh naziva smrtnim po sličnosti s bolešću koja se naziva smrtnom zato što uvodi nepopravljiv nedostatak gubitkom nekoga počela, kako je rečeno. A počelo duhovnoga života, koji je po kreposti, jest usmjerenost prema posljednjoj svrsi, kako je gore rečeno. Ako ona bude izgubljena, ne može se popraviti nekim unutarnjim počelom, nego samo božanskom snagom, kako je gore rečeno, jer se neurednosti u onome što vodi k svrsi popravljaju iz svrhe, kao što se zabluda koja se dogodi glede zaključaka popravlja istinom načela. Nedostatak, dakle, usmjerenosti prema posljednjoj svrsi ne može se popraviti nečim drugim što bi bilo temeljnije, kao ni zabluda glede načela. I zato se takvi grijesi nazivaju smrtnima, kao nepopravljivi. A grijesi koji imaju neurednost glede onoga što vodi k svrsi, dok je usmjerenost prema posljednjoj svrsi očuvana, popravljivi su. I oni se nazivaju lakima; grijeh, naime, ima oproštenje onda kad se ukloni podložnost kazni, koja prestaje kad prestane grijeh, kako je rečeno. Prema tome, dakle, smrtno i lako suprotstavljaju se kao nepopravljivo i popravljivo. A to kažem s obzirom na unutarnje počelo, a ne u usporedbi s božanskom snagom, koja može popraviti svaku bolest, i tjelesnu i duhovnu. I zbog toga se laki grijeh prikladno dijeli nasuprot smrtnome.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da dioba grijeha na laki i smrtni nije dioba roda na vrste, koje jednako imaju udjela u pojmu roda, nego analognoga na ono o čemu se pririče prije i kasnije. I zato savršeni pojam grijeha, koji postavlja Augustin, pristaje smrtnome grijehu. A laki se grijeh naziva grijehom po nesavršenom pojmu i u odnosu prema smrtnom grijehu, kao što se akcident naziva bićem u odnosu prema supstanciji, po nesavršenom pojmu bića. Nije, naime, protiv zakona, jer onaj koji lako griješi ne čini ono što zakon zabranjuje niti propušta ono na što zakon obvezuje zapovijeđu; nego čini mimo zakona, jer se ne drži mjere razuma na koju zakon smjera.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a1.ad2": {
+      "text": "Na drugo treba reći da je ona apostolova zapovijed afirmativna, pa stoga ne obvezuje za svaki trenutak. I tako ne čini protiv te zapovijedi svatko tko ne upravlja u činu na slavu Božju sve što čini. Dostaje, dakle, da netko habitualno upravlja sebe i sve svoje prema Bogu, da ne bi uvijek smrtno griješio kad neki čin aktualno ne upravlja na slavu Božju. A laki grijeh ne isključuje habitualnu usmjerenost ljudskoga čina na slavu Božju, nego samo aktualnu, jer ne isključuje ljubav, koja habitualno usmjeruje prema Bogu. Stoga ne slijedi da onaj koji lako griješi, griješi smrtno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a1.ad3": {
+      "text": "Na treće treba reći da onaj koji lako griješi prianja uz vremenito dobro ne kao onaj koji uživa, jer u njemu ne postavlja svrhu, nego kao onaj koji se služi, upravljajući ga prema Bogu ne činom, nego habitusom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a1.ad4": {
+      "text": "Na četvrto treba reći da se promjenljivo dobro ne uzima kao granica suprotstavljena nepromjenljivom dobru, osim kad se u njemu postavi svrha. Ono, naime, što vodi k svrsi nema pojam granice.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se laki i smrtni grijeh ne razlikuju po rodu, tako naime da bi neki grijeh bio smrtan po rodu, a neki lak po rodu. Dobro se, naime, i zlo po rodu u ljudskim činima uzima u usporedbi s građom ili predmetom, kako je gore rečeno. Ali glede bilo kojega predmeta ili građe može se griješiti smrtno i lako; svako, naime, promjenljivo dobro čovjek može ljubiti ili ispod Boga, što je lako griješiti, ili iznad Boga, što je smrtno griješiti. Dakle, laki i smrtni grijeh ne razlikuju se po rodu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a2.obj2": {
+      "text": "Osim toga, kako je gore rečeno, smrtnim se grijehom naziva onaj koji je nepopravljiv, a lakim onaj koji je popravljiv. Ali biti nepopravljiv pristaje grijehu koji se čini iz zloće, za koji neki kažu da je neoprostiv, a biti popravljiv pristaje grijehu koji se čini iz slabosti ili neznanja, za koji se kaže da je oprostiv. Dakle, smrtni i laki grijeh razlikuju se kao grijeh počinjen iz zloće i grijeh počinjen iz slabosti i neznanja. Ali po tome se grijesi ne razlikuju po rodu, nego po uzroku, kako je gore rečeno. Dakle, laki i smrtni grijeh ne razlikuju se po rodu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a2.obj3": {
+      "text": "Osim toga, gore je rečeno da su iznenadni pokreti kako osjetilnosti tako i razuma laki grijesi. Ali iznenadni se pokreti nalaze u bilo kojem rodu grijeha. Dakle, nema grijeha koji su laki po rodu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a2.sc": {
+      "text": "Ali protiv toga je to što Augustin u propovijedi o čistilištu nabraja neke rodove lakih grijeha i neke rodove smrtnih grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a2.resp": {
+      "text": "Odgovaram: treba reći da se laki grijeh (veniale) tako naziva od oproštenja (venia). Neki se, dakle, grijeh može nazvati lakim na jedan način zato što je postigao oproštenje; i tako Ambrozije kaže da *svaki grijeh po pokori postaje lak*. I to se naziva lakim po ishodu. Na drugi se način naziva lakim zato što nema u sebi ništa zbog čega ne bi postigao oproštenje, bilo potpuno bilo djelomično. Djelomično, kad ima u sebi nešto što umanjuje krivnju, kao kad se čini iz slabosti ili neznanja. I to se naziva lakim po uzroku. Potpuno pak zato što ne uklanja usmjerenost prema posljednjoj svrsi, pa stoga ne zaslužuje vječnu kaznu, nego vremenitu. I o takvom lakom grijehu sada namjeravamo govoriti. Za prva je dva, naime, očito da nemaju nikakav određeni rod. Ali laki grijeh u trećem smislu može imati određeni rod, tako da se neki grijeh naziva lakim po rodu, a neki smrtnim po rodu, ukoliko se rod ili vrsta čina određuju iz predmeta. Kad se, naime, volja upravlja prema nečemu što se po sebi protivi ljubavi, po kojoj se čovjek usmjeruje prema posljednjoj svrsi, grijeh iz svoga predmeta ima to da bude smrtan. Stoga je smrtan po rodu, bilo da je protiv ljubavi prema Bogu, kao bogohulstvo, krivokletstvo i slično, bilo protiv ljubavi prema bližnjemu, kao ubojstvo, preljub i slično. Stoga su takvi grijesi smrtni po svom rodu. Katkad se pak volja onoga koji griješi upravlja prema onome što u sebi sadrži neku neurednost, ali se ipak ne protivi ljubavi prema Bogu i bližnjemu, kao što su isprazna riječ, suvišan smijeh i drugo takvo. I takvi su grijesi laki po svom rodu. Ali budući da moralni čini primaju pojam dobra i zla ne samo iz predmeta nego i iz nekoga stanja djelatnika, kako je gore utvrđeno, događa se katkad da ono što je laki grijeh po rodu zbog svoga predmeta postane smrtnim s obzirom na djelatnika, bilo zato što u tome postavlja posljednju svrhu, bilo zato što to usmjeruje prema nečemu što je smrtni grijeh po rodu, na primjer kad netko ispraznu riječ usmjeruje prema počinjenju preljuba. Slično se također s obzirom na djelatnika događa da neki grijeh koji je po svom rodu smrtan postane lakim, naime zato što je čin nesavršen, to jest nije promišljen razumom, koji je vlastito počelo zloga čina, kao što je gore rečeno o iznenadnim pokretima nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se upravo time što netko izabire ono što se protivi božanskoj ljubavi pokazuje da tome daje prednost pred božanskom ljubavlju, i prema tome da to ljubi više nego Boga. I zato neki grijesi po rodu, koji se sami po sebi protive ljubavi, imaju to da se nešto ljubi iznad Boga. I tako su po svom rodu smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a2.ad2": {
+      "text": "Na drugo treba reći da onaj razlog govori o grijehu lakom po uzroku.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a2.ad3": {
+      "text": "Na treće treba reći da onaj razlog govori o grijehu koji je lak zbog nesavršenosti čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da laki grijeh nije raspoloživost za smrtni. Jedno, naime, od suprotstavljenoga ne raspoložuje za drugo. Ali laki i smrtni grijeh dijele se kao suprotstavljeni, kako je rečeno. Dakle, laki grijeh nije raspoloživost za smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a3.obj2": {
+      "text": "Osim toga, čin raspoložuje za nešto što mu je slično po vrsti; zato se u II. knjizi Etike kaže da *iz sličnih čina nastaju slične raspoloživosti i habitusi*. Ali smrtni i laki grijeh razlikuju se po rodu ili vrsti, kako je rečeno. Dakle, laki grijeh ne raspoložuje za smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a3.obj3": {
+      "text": "Osim toga, ako se grijeh naziva lakim zato što raspoložuje za smrtni, morat će sve što raspoložuje za smrtni grijeh biti laki grijesi. Ali sva dobra djela raspoložuju za smrtni grijeh; Augustin, naime, kaže u Pravilu da oholost vreba na dobra djela da bi propala. Dakle, i dobra će djela biti laki grijesi, što je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Sir 19: *tko prezire najmanje stvari, malo-pomalo otpada*. A čini se da onaj koji lako griješi prezire najmanje stvari. Dakle, malo-pomalo postaje raspoloživ za to da smrtnim grijehom posve otpadne.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a3.resp": {
+      "text": "Odgovaram: treba reći da je ono što raspoložuje na neki način uzrok. Stoga je, prema dvostrukom načinu uzroka, dvostruk i način raspoloživosti. Postoji, naime, neki uzrok koji pokreće izravno prema učinku, kao što toplo grije. Postoji i uzrok koji pokreće neizravno, uklanjajući zapreku, kao što se za onoga koji ukloni stup kaže da uklanja kamen postavljen na nj. I prema tome čin grijeha na dva načina raspoložuje za nešto. Na jedan način izravno, i tako raspoložuje za čin sličan po vrsti. I na taj način laki grijeh po rodu prvotno i po sebi ne raspoložuje za smrtni po rodu, budući da se razlikuju po vrsti. Ali na taj način laki grijeh može, po nekoj posljedičnosti, raspoložiti za grijeh koji je smrtan s obzirom na djelatnika. Kad se, naime, raspoloživost ili habitus poveća činima lakih grijeha, žudnja za griješenjem može toliko narasti da onaj koji griješi postavi svoju svrhu u lakom grijehu; jer svakome tko ima habitus, ukoliko je takav, svrha je djelovanje u skladu s habitusom. I tako će, mnogo puta lako griješeći, postati raspoloživ za smrtni grijeh. Na drugi način ljudski čin raspoložuje za nešto uklanjajući zapreku. I na taj način laki grijeh po rodu može raspoložiti za smrtni grijeh po rodu. Onaj, naime, tko lako griješi po rodu, propušta neki red; i time što navikava svoju volju da se u manjim stvarima ne podlaže dužnom redu, postaje raspoloživ za to da ni svoju volju ne podloži redu posljednje svrhe, izabirući ono što je smrtni grijeh po rodu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se laki i smrtni grijeh ne dijele kao suprotstavljeni na način dviju vrsta jednoga roda, kako je rečeno, nego kao što se akcident dijeli nasuprot supstanciji. Stoga, kao što akcident može biti raspoloživost za supstancijalnu formu, tako i laki grijeh za smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a3.ad2": {
+      "text": "Na drugo treba reći da laki grijeh nije sličan smrtnome po vrsti, ali mu je ipak sličan po rodu, ukoliko oba uključuju nedostatak dužnoga reda, premda na različit način, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a3.ad3": {
+      "text": "Na treće treba reći da dobro djelo nije po sebi raspoloživost za smrtni grijeh, ali može akcidentalno biti građa ili prigoda smrtnoga grijeha. A laki grijeh po sebi raspoložuje za smrtni, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da laki grijeh može postati smrtnim. Augustin, naime, tumačeći ono iz Iv 3: *tko ne vjeruje Sinu, neće vidjeti života*, kaže: najmanji grijesi (to jest laki), ako se zanemare, ubijaju. Ali grijeh se naziva smrtnim po tome što duhovno ubija dušu. Dakle, laki grijeh može postati smrtnim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a4.obj2": {
+      "text": "Osim toga, pokret osjetilnosti prije pristanka razuma laki je grijeh, a nakon pristanka smrtni je grijeh, kako je gore rečeno. Dakle, laki grijeh može postati smrtnim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a4.obj3": {
+      "text": "Osim toga, laki i smrtni grijeh razlikuju se kao izlječiva i neizlječiva bolest, kako je rečeno. Ali izlječiva bolest može postati neizlječivom. Dakle, laki grijeh može postati smrtnim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a4.obj4": {
+      "text": "Osim toga, raspoloživost može postati habitusom. Ali laki je grijeh raspoloživost za smrtni, kako je rečeno. Dakle, laki grijeh može postati smrtnim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a4.sc": {
+      "text": "Ali protiv toga, ono što se razlikuje beskonačno ne preinačuje se jedno u drugo. Ali smrtni i laki grijeh razlikuju se beskonačno, kako je jasno iz prije rečenoga. Dakle, laki ne može postati smrtnim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a4.resp": {
+      "text": "Odgovaram: treba reći da se to da laki grijeh postane smrtnim može shvatiti na tri načina. Na jedan način tako da isti brojčano čin najprije bude laki grijeh, a poslije smrtni. I to ne može biti. Jer se grijeh prvenstveno sastoji u činu volje, kao i bilo koji moralni čin. Stoga se ne govori o jednom činu u moralnom smislu ako se volja promijeni, premda je radnja po naravi neprekinuta. Ako se pak volja ne promijeni, ne može biti da od lakoga postane smrtni. Na drugi se način može shvatiti tako da ono što je lako po rodu postane smrtnim. I to je doduše moguće, ukoliko se u tome postavlja svrha, ili ukoliko se to upravlja prema smrtnom grijehu kao prema svrsi, kako je rečeno. Na treći se način može shvatiti tako da mnogi laki grijesi sačinjavaju jedan smrtni grijeh. Ako se to shvati tako da se od mnogih lakih grijeha, kao od sastavnih dijelova, sačinjava jedan smrtni grijeh, to je lažno. Ni svi laki grijesi svijeta, naime, ne mogu imati toliko podložnosti kazni koliko jedan smrtni grijeh. To je jasno s obzirom na trajanje, jer smrtni grijeh ima podložnost vječnoj kazni, a laki grijeh podložnost vremenitoj kazni, kako je rečeno. Jasno je također s obzirom na kaznu gubitka, jer smrtni grijeh zaslužuje uskraćenost božanskoga gledanja, s kojom se nijedna druga kazna ne može usporediti, kako kaže Zlatousti. Jasno je također s obzirom na kaznu osjetila, što se tiče crva savjesti, premda možda, što se tiče kazne ognja, kazne nisu nesrazmjerne. Ako se pak shvati da mnogi laki grijesi čine jedan smrtni na način raspoloživosti, tako je to istinito, kako je gore pokazano, prema dvama načinima raspoloživosti kojima laki grijeh raspoložuje za smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori u onom smislu da mnogi laki grijesi na način raspoloživosti uzrokuju smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a4.ad2": {
+      "text": "Na drugo treba reći da onaj isti pokret osjetilnosti koji je prethodio pristanku razuma nikada neće postati smrtnim grijehom, nego sam čin razuma koji pristaje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a4.ad3": {
+      "text": "Na treće treba reći da tjelesna bolest nije čin, nego neko trajno stanje; stoga se, ostajući ista, može promijeniti. Ali laki je grijeh prolazan čin, koji se ne može ponovno uspostaviti. I s obzirom na to nije slično.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a4.ad4": {
+      "text": "Na četvrto treba reći da je raspoloživost koja postaje habitusom kao nesavršeno u istoj vrsti, kao što nesavršeno znanje, dok se usavršava, postaje habitusom. Ali laki je grijeh raspoloživost drugoga roda, kao akcident za supstancijalnu formu, u koju se nikada ne mijenja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da okolnost može od lakoga grijeha učiniti smrtni. Augustin, naime, kaže u propovijedi o čistilištu da *srditost, ako se dugo zadržava, i pijanstvo, ako je ustrajno, prelaze u broj smrtnih grijeha*. Ali srdžba i pijanstvo nisu po svom rodu smrtni grijesi, nego laki; inače bi uvijek bili smrtni. Dakle, okolnost čini da laki grijeh bude smrtan.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a5.obj2": {
+      "text": "Osim toga, Učitelj kaže u II. knjizi Sentencija, 24. razlikovanje, da je naslada, ako je zadržana, smrtni grijeh, a ako nije zadržana, laki je grijeh. Ali zadržanost je neka okolnost. Dakle, okolnost od lakoga grijeha čini smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a5.obj3": {
+      "text": "Osim toga, više se razlikuju zlo i dobro nego laki i smrtni grijeh, od kojih je jedno i drugo u rodu zla. Ali okolnost od dobroga čina čini zao, kao što je jasno kad netko daje milostinju radi isprazne slave. Dakle, mnogo više može od lakoga grijeha učiniti smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a5.sc": {
+      "text": "Ali protiv toga je to da, budući da je okolnost akcident, njezina kolikoća ne može nadmašiti kolikoću samoga čina koju on ima iz svoga roda; jer subjekt uvijek nadvisuje akcident. Ako je, dakle, čin iz svoga roda laki grijeh, neće moći po okolnosti postati smrtnim grijehom, budući da smrtni grijeh na neki način beskonačno nadmašuje kolikoću lakoga, kako je jasno iz rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a5.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno kad se raspravljalo o okolnostima, okolnost, ukoliko je takva, akcident moralnoga čina; ipak se događa da se okolnost uzme kao specifična razlika moralnoga čina, i tada gubi pojam okolnosti i tvori vrstu moralnoga čina. To se pak događa kod grijeha kad okolnost dodaje nakaznost drugoga roda. Tako, kad netko pristupa ženi koja nije njegova, čin je nakazan nakaznošću suprotstavljenom čistoći; ali ako pristupa ženi koja nije njegova, a koja je žena drugoga, dodaje se nakaznost suprotstavljena pravednosti, protiv koje je to da netko prisvaja tuđu stvar; i prema tome takva okolnost tvori novu vrstu grijeha, koja se naziva preljub. Nemoguće je pak da okolnost od lakoga grijeha učini smrtni, osim ako donese nakaznost drugoga roda. Rečeno je, naime, da laki grijeh ima nakaznost po tome što uključuje neuređenost glede onoga što vodi k svrsi, a smrtni grijeh ima nakaznost po tome što uključuje neuređenost s obzirom na posljednju svrhu. Stoga je očito da okolnost, ostajući okolnost, ne može od lakoga grijeha učiniti smrtni, nego samo onda kad prenosi u drugu vrstu i postaje na neki način specifična razlika moralnoga čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da dugotrajnost nije okolnost koja prenosi u drugu vrstu, a slično ni čestoća ni ustrajnost, osim možda akcidentalno, zbog nečega što pridođe. Ništa, naime, ne stječe novu vrstu time što se umnaža ili produljuje, osim možda ako u produljenom ili umnoženom činu pridođe nešto što mijenja vrstu, na primjer neposluh ili prezir ili nešto takvo. Treba, dakle, reći da, budući da je srdžba pokret duha prema nanošenju štete bližnjemu, ako je šteta na koju smjera pokret srdžbe takva da je po svom rodu smrtni grijeh, kao ubojstvo ili krađa, takva je srdžba po svom rodu smrtni grijeh. A to što je laki grijeh, ima od nesavršenosti čina, ukoliko je iznenadni pokret osjetilnosti. Ako je pak dugotrajna, vraća se naravi svoga roda po pristanku razuma. Ako bi pak šteta na koju smjera pokret srdžbe bila laka po svom rodu, na primjer kad se netko srdi na nekoga tako da mu želi reći neku laku i šaljivu riječ koja bi ga malo ražalostila, srdžba neće biti smrtni grijeh, koliko god bila dugotrajna, osim možda akcidentalno, na primjer ako bi iz toga nastala teška sablazan ili zbog nečega takvoga. O pijanstvu pak treba reći da po svom pojmu ima to da bude smrtni grijeh; jer to da čovjek bez nužde, samo radi užitka vina, učini sebe nesposobnim da se služi razumom, po kojem se čovjek usmjeruje prema Bogu i izbjegava mnoge grijehe koji se nameću, izričito se protivi kreposti. A to da je laki grijeh događa se zbog nekoga neznanja ili slabosti, na primjer kad čovjek ne poznaje snagu vina ili vlastitu slabost, pa ne misli da će se opiti; tada mu se, naime, kao grijeh ne uračunava pijanstvo, nego samo pretjeranost u piću. Ali kad se često opija, ne može se tim neznanjem ispričati a da se ne čini da njegova volja radije izabire podnositi pijanstvo nego se suzdržati od suvišnoga vina. Stoga se grijeh vraća svojoj naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a5.ad2": {
+      "text": "Na drugo treba reći da se za zadržanu nasladu ne kaže da je smrtni grijeh osim u onome što je po svom rodu smrtni grijeh; u tome je, ako naslada nije zadržana, laki grijeh iz nesavršenosti čina, kao što je rečeno i o srdžbi. Srdžba se, naime, naziva dugotrajnom i naslada zadržanom zbog odobravanja razuma koji promišlja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a5.ad3": {
+      "text": "Na treće treba reći da okolnost ne čini od dobroga čina zao osim tvoreći vrstu grijeha, kako je i gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q88.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da smrtni grijeh može postati lakim. Laki je grijeh, naime, jednako udaljen od smrtnoga kao i obratno. Ali laki grijeh postaje smrtnim, kako je rečeno. Dakle, i smrtni grijeh može postati lakim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:49+00:00"
+    },
+    "I-II.q88.a6.obj2": {
+      "text": "Osim toga, postavlja se da se laki i smrtni grijeh razlikuju po tome što onaj koji smrtno griješi ljubi stvor više nego Boga, a onaj koji lako griješi ljubi stvor ispod Boga. Događa se pak da netko tko čini ono što je po svom rodu smrtni grijeh ljubi stvor ispod Boga; na primjer, ako netko, ne znajući da je obični blud smrtni grijeh i protivan božanskoj ljubavi, počini blud, ali tako da bi zbog božanske ljubavi bio spreman propustiti blud kad bi znao da bludom djeluje protiv božanske ljubavi. Dakle, griješit će lako. I tako smrtni grijeh može postati lakim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:49+00:00"
+    },
+    "I-II.q88.a6.obj3": {
+      "text": "Osim toga, kako je rečeno, više se razlikuje dobro od zla nego laki od smrtnoga. Ali čin koji je sam po sebi zao može postati dobrim, kao što ubojstvo može postati činom pravednosti, kao što je jasno kod suca koji ubija razbojnika. Dakle, mnogo više smrtni grijeh može postati lakim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:49+00:00"
+    },
+    "I-II.q88.a6.sc": {
+      "text": "Ali protiv toga je to da vječno nikada ne može postati vremenitim. Ali smrtni grijeh zaslužuje vječnu kaznu, a laki grijeh vremenitu kaznu. Dakle, smrtni grijeh nikada ne može postati lakim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:49+00:00"
+    },
+    "I-II.q88.a6.resp": {
+      "text": "Odgovaram: treba reći da se laki i smrtni razlikuju kao savršeno i nesavršeno u rodu grijeha, kako je rečeno. A nesavršeno može nekim dodavanjem doći do savršenosti. Stoga i laki grijeh, time što mu se dodaje nakaznost koja pripada rodu smrtnoga grijeha, postaje smrtnim, kao kad netko kaže ispraznu riječ da bi bludničio. Ali ono što je savršeno ne može dodavanjem postati nesavršenim. I zato smrtni grijeh ne postaje lakim time što mu se dodaje neka nakaznost koja pripada rodu lakoga grijeha; ne umanjuje se, naime, grijeh onoga koji bludniči da bi rekao ispraznu riječ, nego se radije otežava zbog pridružene nakaznosti. Ipak, ono što je po rodu smrtno može biti lako zbog nesavršenosti čina, jer ne doseže savršeno pojam moralnoga čina, budući da nije promišljen, nego iznenadan, kako je jasno iz rečenoga. I to se događa nekim oduzimanjem, naime promišljenoga razuma. I budući da moralni čin ima vrstu od promišljenoga razuma, odatle je da se takvim oduzimanjem vrsta razrješuje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:49+00:00"
+    },
+    "I-II.q88.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se laki razlikuje od smrtnoga kao nesavršeno od savršenoga, kao dječak od muža. Od dječaka, naime, postaje muž, ali ne obratno. Stoga razlog ne prisiljava.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:49+00:00"
+    },
+    "I-II.q88.a6.ad2": {
+      "text": "Na drugo treba reći da, ako je neznanje takvo da potpuno ispričava grijeh, kakvo je neznanje bjesomučnoga ili umobolnoga, tada onaj koji iz takvoga neznanja počini blud ne griješi ni smrtno ni lako. Ako pak neznanje nije nesavladivo, tada je samo neznanje grijeh i sadrži u sebi nedostatak božanske ljubavi, ukoliko čovjek zanemaruje naučiti ono po čemu se može održati u božanskoj ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:49+00:00"
+    },
+    "I-II.q88.a6.ad3": {
+      "text": "Na treće treba reći da, kako kaže Augustin u knjizi Protiv laži, *ono što je po sebi zlo ne može se ni zbog kakve svrhe dobro učiniti*. A ubojstvo je ubijanje nedužnoga, i to se nikako ne može dobro učiniti. Ali sudac koji ubija razbojnika ili vojnik koji ubija neprijatelja države ne nazivaju se ubojicama, kako kaže Augustin u knjizi O slobodnoj volji.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:49+00:00"
+    }
+  }
+}

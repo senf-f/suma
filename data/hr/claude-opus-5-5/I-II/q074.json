@@ -1,0 +1,540 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 74,
+  "units": {
+    "I-II.q74.pr": {
+      "text": "Zatim treba razmotriti subjekt poroka ili grijeha. I o tome se pita deset stvari. Prvo, može li volja biti subjekt grijeha. Drugo, je li sama volja subjekt grijeha. Treće, može li osjetilnost biti subjekt grijeha. Četvrto, može li ona biti subjekt smrtnog grijeha. Peto, može li razum biti subjekt grijeha. Šesto, je li zadržana ili nezadržana naslada u nižem razumu kao u subjektu. Sedmo, je li grijeh pristanka na čin u višem razumu kao u subjektu. Osmo, može li niži razum biti subjekt smrtnog grijeha. Deveto, može li viši razum biti subjekt lakog grijeha. Deseto, može li u višem razumu biti lakog grijeha u vezi s njegovim vlastitim predmetom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q74.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da volja ne može biti subjekt grijeha. Dionizije, naime, u IV. poglavlju knjige O božanskim imenima kaže da je *zlo mimo volje i nakane*. Ali grijeh ima pojam zla. Dakle, grijeh ne može biti u volji.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a1.obj2": {
+      "text": "Osim toga, volja je usmjerena na dobro ili na prividno dobro. Time pak što volja hoće dobro, ona ne griješi; a to što hoće prividno dobro koje nije uistinu dobro, čini se da više pripada nedostatku zahvatne snage nego nedostatku volje. Dakle, grijeh ni na koji način nije u volji.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a1.obj3": {
+      "text": "Osim toga, isto ne može biti i subjekt grijeha i njegov tvorni uzrok, jer se tvorni i tvarni uzrok ne podudaraju u istome, kako se kaže u II. knjizi Fizike. Ali volja je tvorni uzrok grijeha, jer je prvi uzrok griješenja volja, kako kaže Augustin u knjizi O dvjema dušama. Dakle, ona nije subjekt grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Retraktacija: *volja je ono čime se griješi i čime se ispravno živi*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a1.resp": {
+      "text": "Odgovaram: treba reći da je grijeh neki čin, kako je gore rečeno. Od činâ pak neki prelaze u vanjsku tvar, kao paliti i rezati, i takvi čini imaju kao tvar i subjekt ono u što radnja prelazi; tako Filozof kaže u III. knjizi Fizike da je gibanje čin pokretljivoga od pokretača. Neki pak čini ne prelaze u vanjsku tvar, nego ostaju u djelatniku, kao težiti i spoznavati; i takvi su svi moralni čini, bilo da su čini kreposti bilo grijeha. Stoga je nužno da vlastiti subjekt čina grijeha bude moć koja je počelo čina. Budući pak da je moralnim činima vlastito da budu voljni, kako je gore utvrđeno, slijedi da je volja, koja je počelo voljnih čina, bilo dobrih bilo zlih, a zli su grijesi, počelo grijeha. I stoga slijedi da je grijeh u volji kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za zlo kaže da je mimo volje zato što volja ne teži prema njemu pod pojmom zla. Ali budući da je neko zlo prividno dobro, zato volja kadikad teži za nekim zlom. I u tom smislu grijeh je u volji.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a1.ad2": {
+      "text": "Na drugo treba reći da, kad nedostatak zahvatne snage ni na koji način ne bi bio podložan volji, ne bi bilo grijeha ni u volji ni u zahvatnoj snazi, kao što je očito kod onih koji imaju nepobjedivo neznanje. I stoga preostaje da se i nedostatak zahvatne snage koji je podložan volji ubraja u grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a1.ad3": {
+      "text": "Na treće treba reći da onaj razlog vrijedi za tvorne uzroke čije radnje prelaze u vanjsku tvar i koji ne pokreću sami sebe, nego druge. Kod volje je obrnuto. Stoga zaključak ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je samo volja subjekt grijeha. Augustin, naime, u knjizi O dvjema dušama kaže da se *ne griješi drukčije nego voljom*. Ali grijeh je kao u subjektu u onoj moći kojom se griješi. Dakle, samo je volja subjekt grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a2.obj2": {
+      "text": "Osim toga, grijeh je neko zlo protiv razuma. Ali dobro i zlo koje pripada razumu predmet je samo volje. Dakle, samo je volja subjekt grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a2.obj3": {
+      "text": "Osim toga, svaki je grijeh voljni čin, jer, kako kaže Augustin u knjizi O slobodnoj volji, *grijeh je toliko voljan da, ako nije voljan, nije grijeh*. Ali čini drugih sila nisu voljni osim ukoliko te sile pokreće volja. To pak nije dovoljno da bi one bile subjekt grijeha, jer bi u tom slučaju i vanjski udovi, koje pokreće volja, bili subjekt grijeha, što je očito lažno. Dakle, samo je volja subjekt grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a2.sc": {
+      "text": "Ali protiv toga: grijeh se protivi kreposti. A ono što je protivno odnosi se na isto. Ali i druge sile duše osim volje subjekti su kreposti, kako je gore rečeno. Dakle, nije samo volja subjekt grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kako je očito iz rečenoga, sve što je počelo voljnog čina subjekt grijeha. Voljnima se pak nazivaju ne samo oni čini koje volja izvodi, nego i oni koje volja zapovijeda, kako je gore rečeno kad se raspravljalo o voljnome. Stoga ne može samo volja biti subjekt grijeha, nego i sve one moći koje volja može pokrenuti na njihove čine ili ih od njih suzdržati. I te su iste moći također subjekti dobrih ili zlih moralnih habitusa, jer istome pripadaju i čin i habitus.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ne griješi drukčije nego voljom kao prvim pokretačem, a drugim se moćima griješi kao onima koje ona pokreće.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a2.ad2": {
+      "text": "Na drugo treba reći da dobro i zlo pripadaju volji kao njezini predmeti po sebi, dok druge moći imaju neko određeno dobro i zlo, zbog kojega u njima može biti i krepost i porok i grijeh, ukoliko imaju udjela u volji i razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a2.ad3": {
+      "text": "Na treće treba reći da udovi tijela nisu počela čina, nego samo oruđa; zato se i odnose prema duši koja ih pokreće kao rob, koji biva gonjen, a sam ne djeluje. Unutarnje se pak težnjene moći odnose prema razumu kao slobodne, jer na neki način i djeluju i bivaju gonjene, kako je očito iz onoga što se kaže u I. knjizi Politike. Osim toga, čini vanjskih udova radnje su koje prelaze u vanjsku tvar, kao što je očito kod udarca u grijehu ubojstva. I zbog toga razlog nije sličan.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da u osjetilnosti ne može biti grijeha. Grijeh je, naime, vlastit čovjeku, koji zbog svojih čina biva hvaljen ili kuđen. Ali osjetilnost je zajednička nama i nerazumnim životinjama. Dakle, u osjetilnosti ne može biti grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a3.obj2": {
+      "text": "*Osim toga, nitko ne griješi u onome što ne može izbjeći*, kako kaže Augustin u knjizi O slobodnoj volji. Ali čovjek ne može izbjeći da čin osjetilnosti ne bude neuredan, jer je osjetilnost podložna trajnoj pokvarenosti dokle god živimo u ovom smrtnom životu; zato je i označuje zmija, kako kaže Augustin u XII. knjizi O Trojstvu. Dakle, neurednost pokreta osjetilnosti nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a3.obj3": {
+      "text": "Osim toga, ono što čovjek sam ne čini, ne uračunava mu se u grijeh. Ali čini se da sami činimo samo ono što činimo s promišljanjem razuma, kako kaže Filozof u IX. knjizi Etike. Dakle, pokret osjetilnosti koji je bez promišljanja razuma ne uračunava se čovjeku u grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Rim 7: *jer ne činim dobro koje hoću, nego činim zlo koje mrzim*, što Augustin tumači o zlu požude, za koju je jasno da je neki pokret osjetilnosti. Dakle, u osjetilnosti ima nekog grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a3.resp": {
+      "text": "Odgovaram: treba reći da se, kako je gore rečeno, grijeh može naći u bilo kojoj moći čiji čin može biti voljan i neuredan, u čemu se sastoji pojam grijeha. Očito je pak da čin osjetilnosti može biti voljan, ukoliko je osjetilnost, to jest osjetilna težnja, po naravi takva da je volja pokreće. Stoga preostaje da u osjetilnosti može biti grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da neke sile osjetilnog dijela, premda su zajedničke nama i nerazumnim životinjama, ipak u nama imaju neku izvrsnost po tome što su združene s razumom; tako mi, više od drugih životinja, imamo u osjetilnom dijelu misaonu silu i sposobnost prisjećanja, kako je rečeno u Prvom dijelu. I na taj način i osjetilna težnja u nama ima, više nego u drugim životinjama, neku izvrsnost, naime to što je po naravi takva da sluša razum. I u tom pogledu može biti počelo voljnog čina, a posljedično i subjekt grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a3.ad2": {
+      "text": "Na drugo treba reći da trajnu pokvarenost osjetilnosti treba shvatiti s obzirom na žarište grijeha, koje se u ovom životu nikada potpuno ne uklanja; istočni grijeh, naime, prolazi što se tiče krivnje, a ostaje u činu. Ali takva pokvarenost žarišta ne priječi da čovjek razumskom voljom može suzbiti pojedine neuredne pokrete osjetilnosti, ako ih predosjeti, primjerice skrećući misao na drugo. Ali dok čovjek skreće misao na nešto drugo, i u vezi s tim može nastati neki neuredan pokret; tako kad netko svoju misao prenese s onoga što je tjelesno ugodno na spekulativno bavljenje znanošću, želeći izbjeći pokrete požude, kadikad nastane neki nepredumišljen pokret isprazne slave. I stoga čovjek ne može izbjeći sve takve pokrete zbog spomenute pokvarenosti; ali za pojam voljnog grijeha dovoljno je samo to da može izbjeći pojedine.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a3.ad3": {
+      "text": "Na treće treba reći da ono što čovjek čini bez promišljanja razuma ne čini on sam savršeno, jer tu ništa ne djeluje ono što je u čovjeku glavno. Stoga to nije savršeno ljudski čin. I posljedično ne može savršeno biti čin kreposti ili grijeha, nego nešto nesavršeno u njihovu rodu. Stoga je takav pokret osjetilnosti koji pretječe razum laki grijeh, koji je nešto nesavršeno u rodu grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da u osjetilnosti može biti smrtnog grijeha. Čin se, naime, spoznaje iz predmeta. Ali u vezi s predmetima osjetilnosti događa se da se smrtno griješi, kao u vezi s onim što je tjelesno ugodno. Dakle, čin osjetilnosti može biti smrtni grijeh. I tako se u osjetilnosti nalazi smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a4.obj2": {
+      "text": "Osim toga, smrtni se grijeh protivi kreposti. Ali krepost može biti u osjetilnosti, jer su umjerenost i jakost kreposti nerazumskih dijelova, kako kaže Filozof u III. knjizi Etike. Dakle, u osjetilnosti može biti smrtnog grijeha, budući da ono što je protivno po naravi nastaje u vezi s istim.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a4.obj3": {
+      "text": "Osim toga, laki je grijeh raspoloživost za smrtni. Ali raspoloživost i habitus su u istome. Budući, dakle, da je laki grijeh u osjetilnosti, kako je rečeno, i smrtni će grijeh moći biti u njoj.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Retraktacija, a nalazi se i u Glosi na Rim 7: neuredan pokret požude (koji je grijeh osjetilnosti) može biti i u onima koji su u milosti, u kojima se ipak ne nalazi smrtni grijeh. Dakle, neuredan pokret osjetilnosti nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što neurednost koja razara počelo tjelesnog života uzrokuje tjelesnu smrt, tako i neurednost koja razara počelo duhovnog života, a to je posljednja svrha, uzrokuje duhovnu smrt smrtnoga grijeha, kako je gore rečeno. A usmjeravati nešto prema svrsi ne pripada osjetilnosti, nego samo razumu. Neurednost pak u odnosu na svrhu može biti samo u onome čemu pripada usmjeravati prema svrsi. Stoga smrtni grijeh ne može biti u osjetilnosti, nego samo u razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da čin osjetilnosti može pridonijeti smrtnom grijehu; ali ipak čin smrtnog grijeha nema to da je smrtni grijeh po tome što pripada osjetilnosti, nego po tome što pripada razumu, kojemu pripada usmjeravati prema svrsi. I stoga se smrtni grijeh ne pripisuje osjetilnosti, nego razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a4.ad2": {
+      "text": "Na drugo treba reći da se ni čin kreposti ne usavršuje onim što pripada samo osjetilnosti, nego više onim što pripada razumu i volji, kojoj pripada izabirati; jer čina moralne kreposti nema bez izbora. Stoga je uvijek s činom moralne kreposti, koja usavršuje težnjenu silu, i čin razboritosti, koja usavršuje razumsku silu. I isto vrijedi i za smrtni grijeh, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a4.ad3": {
+      "text": "Na treće treba reći da se raspoloživost na trostruk način odnosi prema onome za što raspolaže. Kadikad je, naime, isto i u istome, kao što se za započeto znanje kaže da je raspoloživost za savršeno znanje. Kadikad je pak u istome, ali nije isto, kao što je toplina raspoloživost za formu vatre. Kadikad pak nije ni isto ni u istome, kao kod onih stvari koje su međusobno tako usmjerene da se od jedne dolazi do druge, kao što je dobrota mašte raspoloživost za znanje, koje je u umu. I na taj način laki grijeh, koji je u osjetilnosti, može biti raspoloživost za smrtni grijeh, koji je u razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da grijeh ne može biti u razumu. Grijeh bilo koje moći, naime, neki je njezin nedostatak. Ali nedostatak razuma nije grijeh, nego grijeh prije ispričava; netko se, naime, ispričava od grijeha zbog neznanja. Dakle, u razumu ne može biti grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a5.obj2": {
+      "text": "Osim toga, prvi je subjekt grijeha volja, kako je rečeno. Ali razum prethodi volji, budući da je on ravna. Dakle, grijeh ne može biti u razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a5.obj3": {
+      "text": "Osim toga, grijeha može biti samo u vezi s onim što je u nama. Ali savršenost i nedostatak razuma ne spadaju u ono što je u nama, jer su neki po naravi slabi razumom, a neki oštri razumom. Dakle, u razumu nema grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XII. knjizi O Trojstvu, da je grijeh u nižem razumu i u višem razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a5.resp": {
+      "text": "Odgovaram: treba reći da se grijeh bilo koje moći sastoji u njezinu činu, kako je očito iz rečenoga. Razum pak ima dvostruk čin: jedan po sebi, u odnosu na vlastiti predmet, a to je spoznavati neko istinito; drugi je pak čin razuma ukoliko ravna drugim silama. Na oba se, dakle, načina događa da u razumu bude grijeha. Prvo, ukoliko se vara u spoznaji istinitoga, što mu se onda uračunava u grijeh kad ima neznanje ili zabludu o onome što može i mora znati. Drugo, kad neuredne čine nižih sila ili zapovijeda, ili ih pak nakon promišljanja ne obuzdava.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj razlog govori o nedostatku razuma koji pripada vlastitom činu s obzirom na vlastiti predmet, i to kad je posrijedi nedostatak spoznaje onoga što netko ne može znati. Tada, naime, takav nedostatak razuma nije grijeh, nego ispričava od grijeha, kao što je očito kod onoga što počine mahniti. Ako je pak nedostatak razuma u vezi s onim što čovjek može i mora znati, čovjek nije posve ispričan od grijeha, nego mu se sam nedostatak uračunava u grijeh. Nedostatak pak koji je samo u ravnanju drugim silama uvijek mu se uračunava u grijeh, jer tom nedostatku može doskočiti vlastitim činom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a5.ad2": {
+      "text": "Na drugo treba reći da, kako je gore rečeno kad se raspravljalo o činima volje i razuma, volja na neki način pokreće razum i prethodi mu, a razum na neki način volju; stoga se i pokret volje može nazvati razumskim, a čin razuma voljnim. I prema tome se u razumu nalazi grijeh, bilo ukoliko je njegov nedostatak voljan, bilo ukoliko je čin razuma počelo čina volje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a5.ad3": {
+      "text": "Na treće je odgovor očit iz rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da grijeh zadržane naslade nije u razumu. Naslada, naime, uključuje pokret težnjene snage, kako je gore rečeno. Ali težnjena se sila razlikuje od razuma, koji je zahvatna sila. Dakle, zadržana naslada nije u razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a6.obj2": {
+      "text": "Osim toga, iz predmetâ se može spoznati kojoj moći pripada čin kojim se moć usmjeruje prema predmetu. Ali kadikad je zadržana naslada u vezi s osjetnim dobrima, a ne u vezi s dobrima razuma. Dakle, grijeh zadržane naslade nije u razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a6.obj3": {
+      "text": "Osim toga, za nešto se kaže da je zadržano zbog dugotrajnosti vremena. Ali dugotrajnost vremena nije razlog da neki čin pripada nekoj moći. Dakle, zadržana naslada ne pripada razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XII. knjizi O Trojstvu: *pristanak na zavodljivost, ako se zadovolji samom nasladom misli, smatram da treba shvatiti kao da je zabranjeno jelo pojela sama žena*. A pod ženom se razumijeva niži razum, kako on sam ondje tumači. Dakle, grijeh zadržane naslade je u razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a6.resp": {
+      "text": "Odgovaram: treba reći da se, kako je već rečeno, događa da grijeh bude u razumu kadikad ukoliko on ravna ljudskim činima. Očito je pak da razum ne ravna samo vanjskim činima, nego i unutarnjim strastima. I stoga, kad razum zakaže u ravnanju unutarnjim strastima, kaže se da je grijeh u razumu, kao i kad zakaže u ravnanju vanjskim činima. A u ravnanju unutarnjim strastima zakazuje na dva načina. Na jedan način, kad zapovijeda nedopuštene strasti, kao kad čovjek promišljeno u sebi izaziva pokret srdžbe ili požude. Na drugi način, kad ne suzbija nedopušteni pokret strasti, kao kad se netko, pošto je promislio da je pokret strasti koji se javlja neuredan, ipak na njemu zadržava i ne izgoni ga. I u tom se smislu kaže da je grijeh zadržane naslade u razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je naslada doduše u težnjenoj sili kao u bližem počelu, ali je u razumu kao u prvom pokretaču, prema onome što je gore rečeno, da su radnje koje ne prelaze u vanjsku tvar u svojim počelima kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a6.ad2": {
+      "text": "Na drugo treba reći da razum ima vlastiti nedopušteni čin u vezi s vlastitim predmetom, ali ravnanje ima u vezi sa svim predmetima nižih sila kojima se razumom može ravnati. I prema tome i naslada u vezi s osjetnim predmetima pripada razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a6.ad3": {
+      "text": "Na treće treba reći da se naslada ne naziva zadržanom zbog vremenskog zadržavanja, nego zbog toga što se razum koji promišlja na njoj zadržava, a ipak je ne odbacuje, *držeći i rado prevrćući ono što je trebalo odbaciti čim je dotaknulo dušu*, kako kaže Augustin u XII. knjizi O Trojstvu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da grijeh pristanka na čin nije u višem razumu. Pristati je, naime, čin težnjene snage, kako je gore utvrđeno. Ali razum je zahvatna sila. Dakle, grijeh pristanka na čin nije u višem razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a7.obj2": {
+      "text": "Osim toga, viši je razum usmjeren na to da promatra vječne pojmove i da se s njima savjetuje, kako kaže Augustin u XII. knjizi O Trojstvu. Ali kadikad se pristaje na čin a da se nije savjetovalo s vječnim pojmovima; jer čovjek ne misli uvijek o božanskim stvarima kad pristaje na neki čin. Dakle, grijeh pristanka na čin nije uvijek u višem razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a7.obj3": {
+      "text": "Osim toga, kao što pomoću vječnih pojmova čovjek može uređivati vanjske čine, tako može i unutarnje naslade ili druge strasti. Ali pristanak na nasladu, bez odluke da se ona djelom izvrši, pripada nižem razumu, kako kaže Augustin u XII. knjizi O Trojstvu. Dakle, i pristanak na čin grijeha treba katkad pripisati nižem razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a7.obj4": {
+      "text": "Osim toga, kao što viši razum nadilazi niži, tako razum nadilazi maštovnu snagu. Ali kadikad čovjek prelazi na čin po zahvaćanju maštovne snage, bez ikakva promišljanja razuma, kao kad netko nepredumišljeno pomakne ruku ili nogu. Dakle, i niži razum kadikad može pristati na čin grijeha bez višeg razuma.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u XII. knjizi O Trojstvu: *ako se u pristanku na zlu uporabu stvari koje se opažaju tjelesnim osjetilom tako odlučuje o bilo kojem grijehu da bi se, ako za to bude moći, izvršio i tijelom, treba razumjeti da je žena dala nedopušteno jelo mužu*, kojim se označuje viši razum. Dakle, višem razumu pripada pristati na čin grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a7.resp": {
+      "text": "Odgovaram: treba reći da pristanak uključuje neki sud o onome na što se pristaje; jer kao što spekulativni razum sudi i donosi presudu o umljivim stvarima, tako praktični razum sudi i donosi presudu o onome što treba činiti. Treba pak uzeti u obzir da u svakom sudu konačna presuda pripada najvišem sudištu, kao što vidimo u spekulativnim stvarima da se konačna presuda o nekom iskazu daje svođenjem na prva načela. Dokle god, naime, preostaje neko više načelo, još se pomoću njega može ispitivati ono o čemu se pita; stoga je sud još neodlučen, kao da konačna presuda još nije donesena. Očito je pak da se ljudski čini mogu uređivati pravilom ljudskog razuma, koje se uzima iz stvorenih stvari što ih čovjek po naravi spoznaje, i nadalje pravilom božanskog zakona, kako je gore rečeno. Stoga, budući da je pravilo božanskog zakona više, slijedi da konačna presuda, kojom se sud konačno završava, pripada višem razumu, koji je usmjeren na vječne pojmove. A kad treba suditi o više stvari, konačni je sud o onome što dolazi posljednje. U ljudskim pak činima posljednji dolazi sam čin, a ono što mu prethodi jest naslada, koja navodi na čin. I stoga višem razumu u vlastitom smislu pripada pristanak na čin, a nižem razumu, koji ima niži sud, pripada prethodni sud, koji je o nasladi. Premda i o nasladi može suditi viši razum, jer sve što je podložno sudu nižega, podložno je i sudu višega, ali ne i obratno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da je pristati čin težnjene snage ne apsolutno, nego kao posljedica čina razuma koji promišlja i sudi, kako je gore rečeno; jer se pristanak dovršava u tome što volja teži prema onome što je razum prosudio. Stoga se pristanak može pripisati i volji i razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a7.ad2": {
+      "text": "Na drugo treba reći da se upravo po tome što viši razum ne ravna ljudskim činima prema božanskom zakonu, priječeći čin grijeha, kaže da on pristaje, bilo da misli o vječnom zakonu, bilo da ne misli. Kad, naime, misli o Božjem zakonu, zbiljski ga prezire; a kad ne misli, zanemaruje ga na način nekog propusta. Stoga na sve načine pristanak na čin grijeha proizlazi iz višeg razuma, jer, kako kaže Augustin u XII. knjizi O Trojstvu, *duh ne može djelotvorno odlučiti da počini grijeh ako ona nakana duha kod koje je najviša vlast da pokreće udove na djelo ili da ih od djela suzdržava ne popusti zloj radnji ili joj ne posluži*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a7.ad3": {
+      "text": "Na treće treba reći da viši razum, razmatranjem vječnog zakona, kao što može ravnati vanjskim činom ili ga obuzdati, tako može i unutarnjom nasladom. Ali ipak, prije nego što se dođe do suda višega razuma, čim osjetilnost ponudi nasladu, niži razum, promišljajući pomoću vremenitih pojmova, kadikad takvu nasladu prihvaća; i tada pristanak na nasladu pripada nižem razumu. Ako pak čovjek i nakon što je razmotrio vječne pojmove ustraje u istom pristanku, takav će pristanak već pripadati višem razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a7.ad4": {
+      "text": "Na četvrto treba reći da je zahvaćanje maštovne snage iznenadno i bez promišljanja, i stoga može prouzročiti neki čin prije nego što viši ili niži razum uopće ima vremena promišljati. Ali sud nižeg razuma je s promišljanjem, kojemu je potrebno vrijeme, u kojem i viši razum može promišljati. Stoga, ako svojim promišljanjem ne suzdrži od čina grijeha, to mu se uračunava.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da pristanak na nasladu nije smrtni grijeh. Pristati na nasladu, naime, pripada nižem razumu, kojemu ne pripada usmjeravati se na vječne pojmove ili na božanski zakon, pa posljedično ni odvraćati se od njih. Ali svaki je smrtni grijeh po odvraćanju od božanskog zakona, kako je očito iz Augustinove definicije smrtnog grijeha, koja je gore navedena. Dakle, pristanak na nasladu nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.obj2": {
+      "text": "Osim toga, pristati na nešto nije zlo osim zato što je zlo ono na što se pristaje. Ali ono zbog čega je nešto takvo, i samo je još više takvo, ili barem ne manje. Ono, dakle, na što se pristaje ne može biti manje zlo od pristanka. Ali naslada bez djela nije smrtni grijeh, nego samo laki. Dakle, ni pristanak na nasladu nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.obj3": {
+      "text": "Osim toga, naslade se razlikuju po dobroti i zloći prema razlici djelovanja, kako kaže Filozof u X. knjizi Etike. Ali jedno je djelovanje unutarnja misao, a drugo vanjski čin, primjerice bluda. Dakle, i naslada koja slijedi čin unutarnje misli toliko se razlikuje od naslade bluda po dobroti ili zloći koliko se unutarnja misao razlikuje od vanjskog čina. I posljedično se na isti način razlikuje i pristati na jedno i na drugo. Ali unutarnja misao nije smrtni grijeh, a ni pristanak na misao. Dakle, posljedično ni pristanak na nasladu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.obj4": {
+      "text": "Osim toga, vanjski čin bluda ili preljuba nije smrtni grijeh zbog naslade, koja se nalazi i u bračnom činu, nego zbog neurednosti samoga čina. Ali onaj koji pristaje na nasladu ne pristaje time na neurednost čina. Dakle, čini se da ne griješi smrtno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.obj5": {
+      "text": "Osim toga, grijeh ubojstva teži je od grijeha običnog bluda. Ali pristati na nasladu koja slijedi misao o ubojstvu nije smrtni grijeh. Dakle, još je manje smrtni grijeh pristati na nasladu koja slijedi misao o bludu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.obj6": {
+      "text": "Osim toga, Gospodnja se molitva svakodnevno moli za oproštenje lakih grijeha, kako kaže Augustin. Ali Augustin uči da pristanak na nasladu treba izbrisati Gospodnjom molitvom; kaže, naime, u XII. knjizi O Trojstvu: *to je daleko manji grijeh nego kad bi se odlučilo da se izvrši djelom; i zato i za takve misli treba moliti oproštenje, udarati se u prsa i govoriti: otpusti nam duge naše*. Dakle, pristanak na nasladu je laki grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.sc": {
+      "text": "Ali protiv toga je ono što Augustin malo zatim dodaje: *čitav će čovjek biti osuđen ako mu se po milosti Posrednika ne oproste ovi grijesi, za koje se osjeća da su grijesi same misli, bez volje da se djeluje, ali ipak s voljom da se duša takvim stvarima naslađuje*. Ali nitko nije osuđen osim zbog smrtnog grijeha. Dakle, pristanak na nasladu je smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.resp": {
+      "text": "Odgovaram: treba reći da su o tome neki imali različita mnijenja. Jedni su, naime, govorili da pristanak na nasladu nije smrtni grijeh, nego samo laki. Drugi su pak govorili da je smrtni grijeh, i to je mnijenje raširenije i vjerojatnije. Treba, naime, uzeti u obzir da, budući da svaka naslada slijedi neko djelovanje, kako se kaže u X. knjizi Etike, i opet, budući da svaka naslada ima neki predmet, bilo koja se naslada može promatrati u odnosu na dvoje: naime na djelovanje koje slijedi i na predmet u kojem se netko naslađuje. Događa se pak da neko djelovanje bude predmet naslade, kao i neka druga stvar, jer se samo djelovanje može uzeti kao dobro i svrha u kojoj se onaj koji se naslađuje smiruje. I kadikad je samo djelovanje koje naslada slijedi predmet naslade, naime ukoliko se težnjena sila, kojoj pripada naslađivati se, vraća na samo djelovanje kao na neko dobro; primjerice kad netko misli i naslađuje se upravo time što misli, ukoliko mu se njegova misao sviđa. Kadikad pak naslada koja slijedi jedno djelovanje, primjerice neku misao, ima za predmet drugo djelovanje kao stvar o kojoj se misli; i tada takva naslada proizlazi iz sklonosti težnje ne prema misli, nego prema djelovanju o kojem se misli. Tako se, dakle, netko tko misli o bludu može naslađivati dvjema stvarima: na jedan način samom mišlju, na drugi način bludom o kojem misli. Naslada pak samom mišlju slijedi sklonost čuvstva prema samoj misli. A sama misao po sebi nije smrtni grijeh; štoviše, kadikad je samo laki, primjerice kad netko beskorisno misli, a kadikad je posve bez grijeha, primjerice kad netko o bludu korisno misli, kao kad o njemu želi propovijedati ili raspravljati. I stoga posljedično čuvstvo i naslada koja je na taj način u vezi s mišlju o bludu nije iz roda smrtnog grijeha, nego je kadikad laki grijeh, a kadikad nikakav. Stoga ni pristanak na takvu nasladu nije smrtni grijeh. I prema tome prvo mnijenje sadrži istinu. A to što se netko tko misli o bludu naslađuje samim činom o kojem misli, događa se zbog toga što je njegovo čuvstvo sklono tom činu. Stoga to što netko pristaje na takvu nasladu nije ništa drugo nego to što on pristaje da njegovo čuvstvo bude sklono bludu; jer se nitko ne naslađuje osim u onome što je sukladno njegovoj težnji. A to što netko promišljeno izabire da se njegovo čuvstvo uskladi s onim što je po sebi smrtni grijeh, jest smrtni grijeh. Stoga je takav pristanak na nasladu smrtnog grijeha smrtni grijeh, kako tvrdi drugo mnijenje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da pristanak na nasladu može pripadati ne samo nižem razumu, nego i višem, kako je rečeno. Pa ipak se i sam niži razum može odvratiti od vječnih pojmova. Jer, premda nije usmjeren na njih tako da prema njima uređuje, što je vlastito višem razumu, ipak je usmjeren na njih tako da biva uređivan prema njima. I na taj način, odvraćajući se od njih, može smrtno griješiti. Jer i čini nižih sila, pa i vanjskih udova, mogu biti smrtni grijesi, ukoliko izostaje usmjeravanje višeg razuma koji ih uređuje prema vječnim pojmovima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.ad2": {
+      "text": "Na drugo treba reći da je pristanak na grijeh koji je lak po rodu laki grijeh. I prema tome se može zaključiti da je pristanak na nasladu koja je u vezi sa samom ispraznom mišlju o bludu laki grijeh. Ali naslada koja je u samom činu bluda po svom je rodu smrtni grijeh. A to što je prije pristanka samo laki grijeh, to je akcidentalno, naime zbog nesavršenosti čina. Ta se nesavršenost uklanja promišljenim pristankom koji nadođe. Stoga se time dovodi do svoje naravi, tako da bude smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.ad3": {
+      "text": "Na treće treba reći da onaj razlog govori o nasladi koja ima misao za predmet.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.ad4": {
+      "text": "Na četvrto treba reći da naslada koja ima vanjski čin za predmet ne može biti bez sviđanja u vanjskom činu po sebi, čak i ako se ne odluči da se on izvrši zbog zabrane nekoga višega. Stoga čin postaje neuredan, i posljedično će naslada biti neuredna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.ad5": {
+      "text": "Na peto treba reći da je i pristanak na nasladu koja proizlazi iz sviđanja u samom činu ubojstva o kojem se misli smrtni grijeh. Nije to pak pristanak na nasladu koja proizlazi iz sviđanja u misli o ubojstvu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a8.ad6": {
+      "text": "Na šesto treba reći da Gospodnju molitvu treba moliti ne samo protiv lakih grijeha, nego i protiv smrtnih.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da u višem razumu ne može biti lakog grijeha ukoliko on ravna nižim silama, to jest ukoliko pristaje na čin grijeha. Augustin, naime, kaže u XII. knjizi O Trojstvu da viši razum prianja uz vječne pojmove. Ali smrtno se griješi po odvraćanju od vječnih pojmova. Dakle, čini se da u višem razumu ne može biti grijeha osim smrtnog.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a9.obj2": {
+      "text": "Osim toga, viši se razum u duhovnom životu odnosi kao počelo, kao i srce u tjelesnom životu. Ali bolesti srca su smrtne. Dakle, grijesi višeg razuma su smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a9.obj3": {
+      "text": "Osim toga, laki grijeh postaje smrtni ako se čini iz prezira. Ali čini se da nije bez prezira to što netko promišljeno griješi makar i lako. Budući, dakle, da je pristanak višeg razuma uvijek s promišljanjem o božanskom zakonu, čini se da ne može biti bez smrtnog grijeha, zbog prezira prema božanskom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a9.sc": {
+      "text": "Ali protiv toga: pristanak na čin grijeha pripada višem razumu, kako je gore rečeno. Ali pristanak na čin lakog grijeha je laki grijeh. Dakle, u višem razumu može biti lakog grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a9.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Augustin u XII. knjizi O Trojstvu, viši razum *prianja uz vječne pojmove da ih promatra ili da se s njima savjetuje*: promatra ih ukoliko spekulativno motri njihovu istinu, a savjetuje se s njima ukoliko pomoću vječnih pojmova sudi o drugome i određuje red; a tome pripada da, promišljajući pomoću vječnih pojmova, pristaje na neki čin ili mu uskraćuje pristanak. Događa se pak da se neurednost čina na koji pristaje ne protivi vječnim pojmovima, jer nije s odvraćanjem od posljednje svrhe, kao što im se protivi čin smrtnog grijeha, nego je mimo njih, kao čin lakog grijeha. Stoga, kad viši razum pristaje na čin lakog grijeha, ne odvraća se od vječnih pojmova. Stoga ne griješi smrtno, nego lako.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a9.ad1": {
+      "text": "I time je očit odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a9.ad2": {
+      "text": "Na drugo treba reći da je bolest srca dvostruka. Jedna je u samoj supstanciji srca i mijenja njegov naravni tjelesni sastav; takva je bolest uvijek smrtna. Druga je pak bolest srca zbog neke neurednosti bilo njegova gibanja, bilo nečega od onoga što okružuje srce; takva bolest nije uvijek smrtna. I slično je u višem razumu uvijek smrtni grijeh kad se uklanja sama usmjerenost višeg razuma prema vlastitom predmetu, a to su vječni pojmovi. Ali kad postoji neurednost u vezi s tim, to nije smrtni grijeh, nego laki.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a9.ad3": {
+      "text": "Na treće treba reći da promišljeni pristanak na grijeh ne pripada uvijek preziru božanskog zakona, nego samo kad se grijeh protivi božanskom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da u višem razumu ne može biti lakog grijeha s obzirom na njega sama, to jest ukoliko promatra vječne pojmove. Za čin se, naime, neke moći ne nalazi da je manjkav osim po tome što se neuredno odnosi prema svom predmetu. Ali predmet višeg razuma jesu vječni pojmovi, a odstupiti od reda u odnosu na njih nije bez smrtnog grijeha. Dakle, u višem razumu ne može biti lakog grijeha s obzirom na njega sama.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a10.obj2": {
+      "text": "Osim toga, budući da je razum promišljajuća sila, čin razuma je uvijek s promišljanjem. Ali svaki neuredan pokret u onome što je Božje, ako je s promišljanjem, smrtni je grijeh. Dakle, u višem razumu s obzirom na njega sama nikada nema lakog grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a10.obj3": {
+      "text": "Osim toga, događa se kadikad da je grijeh iz prikradanja laki grijeh, a grijeh iz promišljanja smrtni grijeh, po tome što se razum koji promišlja poziva na neko veće dobro, protiv kojega čovjek djelujući teže griješi; tako kad razum o neurednom ugodnom činu promisli da je protiv Božjeg zakona, teže griješi pristajući nego kad bi samo razmotrio da je protiv moralne kreposti. Ali viši se razum ne može pozvati ni na što više od svoga predmeta. Dakle, ako pokret iz prikradanja nije smrtni grijeh, ni promišljanje koje nadođe neće učiniti da on bude smrtni grijeh, što je očito lažno. Ne može, dakle, u višem razumu s obzirom na njega sama biti lakog grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a10.sc": {
+      "text": "Ali protiv toga: pokret nevjere koji se prikrade laki je grijeh. Ali on pripada višem razumu s obzirom na njega sama. Dakle, u višem razumu može biti lakog grijeha s obzirom na njega sama.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a10.resp": {
+      "text": "Odgovaram: treba reći da se viši razum na jedan način kreće prema svom predmetu, a na drugi prema predmetima nižih sila kojima on ravna. Prema predmetima nižih sila ne kreće se, naime, drukčije nego ukoliko se o njima savjetuje s vječnim pojmovima. Stoga se prema njima ne kreće drukčije nego na način promišljanja. Promišljeni pak pristanak na ono što je po svom rodu smrtno jest smrtni grijeh. I stoga viši razum uvijek smrtno griješi ako su čini nižih sila na koje pristaje smrtni grijesi. Ali u vezi s vlastitim predmetom ima dva čina, naime jednostavni uvid i promišljanje, ukoliko se i o vlastitom predmetu savjetuje s vječnim pojmovima. Po jednostavnom uvidu može imati neki neuredan pokret u vezi s božanskim stvarima, primjerice kad netko trpi iznenadni pokret nevjere. I premda je nevjera po svom rodu smrtni grijeh, ipak je iznenadni pokret nevjere laki grijeh. Jer smrtnoga grijeha nema ako nije protiv Božjeg zakona; a nešto od onoga što pripada vjeri može se razumu iznenada pojaviti pod nekim drugim vidom, prije nego što se o tome savjetuje, ili se može savjetovati, s vječnim pojmom, to jest s Božjim zakonom; primjerice kad netko uskrsnuće mrtvih iznenada zahvati kao nemoguće po naravi i, istodobno dok to zahvaća, opire mu se, prije nego što ima vremena promisliti da nam je to predano da vjerujemo prema božanskom zakonu. Ako pak nakon toga promišljanja pokret nevjere ostane, smrtni je grijeh. I stoga u vezi s vlastitim predmetom, premda je ondje grijeh smrtni po rodu, viši razum može lako griješiti u iznenadnim pokretima, ili pak smrtno po promišljenom pristanku. A u onome što pripada nižim silama uvijek smrtno griješi u onome što su smrtni grijesi po svom rodu, ali ne u onome što su po svom rodu laki grijesi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da grijeh koji je protiv vječnih pojmova, premda je po rodu smrtni grijeh, ipak može biti laki grijeh zbog nesavršenosti iznenadnog čina, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a10.ad2": {
+      "text": "Na drugo treba reći da u djelatnim stvarima razumu, kojemu pripada promišljanje, pripada i jednostavni uvid u ono iz čega promišljanje polazi, kao što i u spekulativnim stvarima razumu pripada i silogistički zaključivati i oblikovati iskaze. I stoga i razum može imati iznenadan pokret.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q74.a10.ad3": {
+      "text": "Na treće treba reći da jedna te ista stvar može biti predmet različitih razmatranja, od kojih je jedno više od drugoga; tako se to da Bog jest može razmatrati ili ukoliko je spoznatljivo ljudskim razumom, ili ukoliko se vjeruje po božanskoj objavi, što je više razmatranje. I stoga, premda je predmet višeg razuma po naravi stvari nešto najviše, ipak se može svesti i na neko više razmatranje. I zbog toga ono što u iznenadnom pokretu nije bilo smrtni grijeh, postaje smrtni grijeh promišljanjem koje ga svodi na više razmatranje, kako je gore izloženo.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    }
+  }
+}

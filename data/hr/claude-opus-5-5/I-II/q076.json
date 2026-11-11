@@ -1,0 +1,240 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 76,
+  "units": {
+    "I-II.q76.pr": {
+      "text": "Zatim treba razmotriti uzroke grijeha posebno. I to najprije unutarnje uzroke grijeha; drugo, vanjske; treće, grijehe koji su uzrok drugih grijeha. Prvo će razmatranje, prema prethodno rečenome, biti trodijelno: najprije će se raspravljati o neznanju, koje je uzrok grijeha sa strane razuma; drugo, o slabosti ili strasti, koja je uzrok grijeha sa strane osjetilne težnje; treće, o zloći, koja je uzrok grijeha sa strane volje. U vezi s prvim postavljaju se četiri pitanja. Prvo, je li neznanje uzrok grijeha. Drugo, je li neznanje grijeh. Treće, ispričava li potpuno od grijeha. Četvrto, umanjuje li grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da neznanje ne može biti uzrok grijeha. Jer ono čega nema nije uzrok ničemu. A neznanje je nebiće, budući da je neka lišenost znanja. Dakle, neznanje nije uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a1.obj2": {
+      "text": "Osim toga, uzroke grijeha treba uzimati sa strane okretanja, kao što je jasno iz gore rečenoga. A neznanje se, čini se, odnosi na odvraćanje. Dakle, ne treba ga postavljati kao uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a1.obj3": {
+      "text": "Osim toga, svaki se grijeh sastoji u volji, kao što je gore rečeno. A volja se ne usmjeruje ni na što osim na nešto spoznato, jer je zahvaćeno dobro predmet volje. Dakle, neznanje ne može biti uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O naravi i milosti, da neki griješe iz neznanja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a1.resp": {
+      "text": "Odgovaram: treba reći da je, prema Filozofu u VIII. knjizi Fizike, pokretni uzrok dvojak: jedan po sebi, a drugi akcidentalno. Po sebi je onaj koji pokreće vlastitom snagom, kao što je ono što daje nastanak uzrok koji pokreće teška i laka tijela. Akcidentalno pak, kao onaj koji uklanja zapreku, ili kao samo uklanjanje zapreke. I na taj način neznanje može biti uzrok čina grijeha; ono je, naime, lišenost znanja koje usavršuje razum, a to znanje priječi čin grijeha ukoliko upravlja ljudskim činima. Treba pak uzeti u obzir da razum upravlja ljudskim činima prema dvostrukom znanju, to jest prema općem i prema pojedinačnom znanju. Onaj, naime, koji promišlja o onome što treba činiti služi se nekim silogizmom, čiji je zaključak sud ili izbor ili djelovanje. A radnje se odnose na pojedinačno. Stoga je zaključak praktičnog silogizma pojedinačan. A pojedinačni se iskaz ne zaključuje iz općega osim posredstvom nekog pojedinačnog iskaza; tako se čovjek priječi od čina očeubojstva time što zna da oca ne treba ubiti i time što zna da je ovaj čovjek otac. Neznanje i jednoga i drugoga može, dakle, uzrokovati čin očeubojstva, to jest i neznanje općeg načela, koje je neko pravilo razuma, i neznanje pojedinačne okolnosti. Stoga je jasno da nije svako neznanje onoga koji griješi uzrok grijeha, nego samo ono koje uklanja znanje što priječi čin grijeha. Stoga, kad bi nečija volja bila tako raspoložena da ga ne bi spriječilo od čina očeubojstva ni to da prepozna oca, neznanje o ocu ne bi tome čovjeku bilo uzrok grijeha, nego bi popratno stajalo uz grijeh. I zato takav ne griješi zbog neznanja, nego griješi ne znajući, prema Filozofu u III. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da nebiće ne može biti uzrok ničemu po sebi, ali može biti uzrok akcidentalno, kao uklanjanje zapreke.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a1.ad2": {
+      "text": "Na drugo treba reći da, kao što se znanje koje neznanje uklanja odnosi na grijeh sa strane okretanja, tako je i neznanje sa strane okretanja uzrok grijeha, kao ono što uklanja zapreku.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a1.ad3": {
+      "text": "Na treće treba reći da se volja ne može usmjeriti na ono što je u svemu nepoznato; ali ako je nešto u jednom pogledu poznato, a u drugom nepoznato, volja to može htjeti. I na taj je način neznanje uzrok grijeha, kao kad netko zna da je onaj koga ubija čovjek, ali ne zna da je to njegov otac; ili kad netko zna da je neki čin ugodan, ali ne zna da je grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da neznanje nije grijeh. Grijeh je, naime, nešto rečeno, učinjeno ili požuđeno protiv Božjega zakona, kao što je gore utvrđeno. A neznanje ne uključuje nikakav čin, ni unutarnji ni vanjski. Dakle, neznanje nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.obj2": {
+      "text": "Osim toga, grijeh se izravnije suprotstavlja milosti nego znanju. A lišenost milosti nije grijeh, nego prije neka kazna koja slijedi za grijehom. Dakle, neznanje, koje je lišenost znanja, nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.obj3": {
+      "text": "Osim toga, ako je neznanje grijeh, to je samo ukoliko je voljno. No ako je neznanje grijeh ukoliko je voljno, čini se da se grijeh sastoji više u samom činu volje nego u neznanju. Dakle, neznanje neće biti grijeh, nego prije nešto što slijedi za grijehom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.obj4": {
+      "text": "Osim toga, svaki se grijeh uklanja pokorom; i nijedan grijeh, kad prođe krivnja, ne ostaje u činu, osim jedino istočnoga. A neznanje se ne uklanja pokorom, nego i dalje ostaje u činu, iako je pokorom uklonjena sva krivnja. Dakle, neznanje nije grijeh, osim možda ako je istočni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.obj5": {
+      "text": "Osim toga, ako je samo neznanje grijeh, čovjek bi u činu griješio sve dotle dok bi neznanje ostajalo u njemu. A neznanje neprestano ostaje u onome koji ne zna. Dakle, onaj koji ne zna neprestano bi griješio. A očito je da je to lažno, jer bi tako neznanje bilo nešto najteže. Dakle, neznanje nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.sc": {
+      "text": "Ali protiv toga: ništa ne zaslužuje kaznu osim grijeha. A neznanje zaslužuje kaznu, prema onome iz 1 Kor 14: *Ako tko ne zna, ni za njega se neće znati.* Dakle, neznanje je grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.resp": {
+      "text": "Odgovaram: treba reći da se neznanje razlikuje od nepoznavanja u tome što nepoznavanje znači jednostavno nijekanje znanja; stoga se za svakoga komu nedostaje znanje o nekim stvarima može reći da ih ne poznaje; na taj način Dionizije postavlja nepoznavanje u anđelima, u VII. poglavlju djela O nebeskoj hijerarhiji. Neznanje, pak, uključuje lišenost znanja, to jest kad nekome nedostaje znanje o onome što je po naravi sposoban znati. Od toga je, pak, nešto što je netko dužan znati, naime ono bez čijeg znanja ne može ispravno izvršiti dužni čin. Stoga su svi zajednički dužni znati ono što pripada vjeri i opće propise prava, a pojedinci ono što se odnosi na njihov stalež ili službu. Ima, pak, nešto što netko, iako ga je po naravi sposoban znati, ipak nije dužan znati, kao što su geometrijski poučci i kontingentne pojedinosti, osim u posebnom slučaju. A očito je da svatko tko zanemaruje imati ili činiti ono što je dužan imati ili činiti griješi grijehom propusta. Stoga je, zbog nemara, neznanje onoga što je netko dužan znati grijeh. No čovjeku se ne uračunava kao nemar ako ne zna ono što ne može znati. Stoga se neznanje toga naziva nesavladivim, jer se, naime, ne može savladati trudom. I zbog toga takvo neznanje, budući da nije voljno, jer ga nije u našoj vlasti otkloniti, nije grijeh. Iz toga je jasno da nijedno nesavladivo neznanje nije grijeh, a savladivo neznanje jest grijeh ako se odnosi na ono što je netko dužan znati, ali ne ako se odnosi na ono što netko nije dužan znati.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što je gore rečeno, u izrazu „rečeno, učinjeno ili požuđeno“ treba razumjeti i suprotstavljena nijekanja, prema tome što propust ima pojam grijeha. I tako je nemar, po kojemu je neznanje grijeh, sadržan u navedenoj definiciji grijeha, ukoliko se propušta nešto što je trebalo reći, učiniti ili poželjeti radi stjecanja dužnoga znanja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.ad2": {
+      "text": "Na drugo treba reći da lišenost milosti, iako sama po sebi nije grijeh, ipak, zbog nemara u pripravljanju sebe za milost, može imati pojam grijeha, kao i neznanje. Pa ipak, u tome postoji nesličnost, jer čovjek može steći neko znanje svojim činima, a milost se ne stječe iz naših čina, nego iz Božjega dara.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.ad3": {
+      "text": "Na treće treba reći da, kao što se u grijehu prijestupa grijeh ne sastoji samo u činu volje, nego i u htjenom činu koji je zapovjeđen od volje, tako je u grijehu propusta grijeh ne samo čin volje, nego i sam propust, ukoliko je na neki način voljan. I na taj je način sam nemar u stjecanju znanja, ili nepromišljenost, grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.ad4": {
+      "text": "Na četvrto treba reći da, iako, kad krivnja prođe po pokori, ostaje neznanje ukoliko je lišenost znanja, ipak ne ostaje nemar, po kojemu se neznanje naziva grijehom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a2.ad5": {
+      "text": "Na peto treba reći da, kao što kod drugih grijeha propusta čovjek u činu griješi samo u ono vrijeme za koje obvezuje zapovijed koja nešto nalaže, tako je i s grijehom neznanja. Onaj koji ne zna ne griješi, naime, neprestano u činu, nego samo kad je vrijeme da stekne znanje koje je dužan imati.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da neznanje potpuno ispričava od grijeha. Jer, kako kaže Augustin, svaki je grijeh voljan. A neznanje uzrokuje protuvoljno, kao što je gore utvrđeno. Dakle, neznanje potpuno ispričava grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a3.obj2": {
+      "text": "Osim toga, ono što netko čini mimo nakane čini akcidentalno. A nakana se ne može odnositi na ono što je nepoznato. Dakle, ono što čovjek čini iz neznanja akcidentalno se nalazi u ljudskim činima. A ono što je akcidentalno ne daje vrstu. Dakle, ništa što je učinjeno iz neznanja ne treba u ljudskim činima prosuđivati kao grijeh ili kao krepostno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a3.obj3": {
+      "text": "Osim toga, čovjek je subjekt kreposti i grijeha ukoliko je dionik razuma. A neznanje isključuje znanje, kojim se razum usavršuje. Dakle, neznanje potpuno ispričava od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O slobodnoj volji, da se *neka djela učinjena iz neznanja s pravom osuđuju*. A s pravom se osuđuje samo ono što je grijeh. Dakle, neka djela učinjena iz neznanja jesu grijesi. Dakle, neznanje ne ispričava posve od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a3.resp": {
+      "text": "Odgovaram: treba reći da neznanje samo po sebi ima to da čin koji uzrokuje čini protuvoljnim. Već je pak rečeno da se za neznanje kaže da uzrokuje čin koji bi suprotno znanje priječilo. I tako bi takav čin, kad bi znanje bilo prisutno, bio protivan volji, a to znači ime protuvoljnoga. Ako pak znanje kojega neznanje lišava ne bi priječilo čin, zbog sklonosti volje prema njemu, neznanje toga znanja ne čini čovjeka protuvoljnim, nego nevoljnim, kako se kaže u III. knjizi Etike. I takvo neznanje, koje nije uzrok čina grijeha, kao što je rečeno, budući da ne uzrokuje protuvoljno, ne ispričava od grijeha. A isti je razlog za bilo koje neznanje koje ne uzrokuje čin grijeha, nego ga slijedi ili ga prati. Ali neznanje koje je uzrok čina, budući da uzrokuje protuvoljno, samo po sebi ima to da ispričava od grijeha, zato što voljno pripada pojmu grijeha. No da katkad ne ispričava potpuno od grijeha, može se dogoditi zbog dvoga. Na jedan način, sa strane same stvari koja nije poznata. Neznanje, naime, utoliko ispričava od grijeha ukoliko se ne zna da je nešto grijeh. A može se dogoditi da netko doduše ne zna neku okolnost grijeha, zbog koje bi se, kad bi je znao, suzdržao od griješenja, bilo da ta okolnost pripada pojmu grijeha bilo da ne pripada; a ipak u njegovu znanju i dalje ostaje nešto po čemu spoznaje da je to čin grijeha. Na primjer, ako netko, udarajući nekoga, zna doduše da je to čovjek, što je dostatno za pojam grijeha, ali ne zna da je to njegov otac, što je okolnost koja tvori novu vrstu grijeha; ili možda ne zna da će mu onaj, braneći se, uzvratiti udarac, a kad bi to znao, ne bi ga udario, što ne pripada pojmu grijeha. Stoga, iako takav griješi zbog neznanja, ipak nije potpuno ispričan od grijeha, jer mu i dalje ostaje spoznaja grijeha. Na drugi se način to može dogoditi sa strane samoga neznanja, naime zato što je samo neznanje voljno: ili izravno, kao kad netko namjerno hoće ne znati neke stvari kako bi slobodnije griješio; ili neizravno, kao kad netko zbog napora ili zbog drugih zaposlenosti zanemaruje naučiti ono po čemu bi se suzdržao od grijeha. Takav, naime, nemar čini da je samo neznanje voljno i grijeh, samo ako se odnosi na ono što je netko dužan i može znati. I zato takvo neznanje ne ispričava potpuno od grijeha. Ako je pak neznanje takvo da je posve protuvoljno, bilo zato što je nesavladivo, bilo zato što se odnosi na ono što netko nije dužan znati, takvo neznanje posve ispričava od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ne uzrokuje svako neznanje protuvoljno, kao što je gore rečeno. Stoga ni svako neznanje ne ispričava potpuno od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a3.ad2": {
+      "text": "Na drugo treba reći da koliko u onome koji ne zna ostaje voljnoga, toliko ostaje nakane grijeha. I prema tome grijeh neće biti akcidentalan.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a3.ad3": {
+      "text": "Na treće treba reći da bi neznanje koje bi potpuno isključivalo uporabu razuma posve ispričavalo od grijeha, kao što je jasno kod mahnitih i bezumnih. No neznanje koje uzrokuje grijeh nije uvijek takvo. I zato ne ispričava uvijek potpuno od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da neznanje ne umanjuje grijeh. Ono, naime, što je zajedničko svakom grijehu ne umanjuje grijeh. A neznanje je zajedničko svakom grijehu, jer Filozof kaže u III. knjizi Etike da je svaki zao čovjek neznalica. Dakle, neznanje ne umanjuje grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a4.obj2": {
+      "text": "Osim toga, grijeh dodan grijehu čini veći grijeh. A samo je neznanje grijeh, kao što je rečeno. Dakle, ne umanjuje grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a4.obj3": {
+      "text": "Osim toga, nije svojstveno istome i otežavati i umanjivati grijeh. A neznanje otežava grijeh, jer o onoj Apostolovoj riječi *Ne znaš da dobrostivost Božja* itd. Ambrozije kaže: *Najteže griješiš ako ne znaš.* Dakle, neznanje ne umanjuje grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a4.obj4": {
+      "text": "Osim toga, ako neko neznanje umanjuje grijeh, čini se da to najviše vrijedi za ono koje potpuno uklanja uporabu razuma. A takvo neznanje ne umanjuje grijeh, nego ga prije povećava, jer Filozof kaže u III. knjizi Etike da *pijanac zaslužuje dvostruke kletve*. Dakle, neznanje ne umanjuje grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a4.sc": {
+      "text": "Ali protiv toga: sve što je razlog oproštenja grijeha olakšava grijeh. A neznanje je takvo, kao što je jasno iz 1 Tim 1: *Postigao sam milosrđe, jer sam to činio ne znajući.* Dakle, neznanje umanjuje ili olakšava grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a4.resp": {
+      "text": "Odgovaram: treba reći da, budući da je svaki grijeh voljan, neznanje utoliko može umanjiti grijeh ukoliko umanjuje voljno; a ako ne umanjuje voljno, nikako neće umanjiti grijeh. A očito je da neznanje koje potpuno ispričava od grijeha, jer potpuno uklanja voljno, grijeh ne umanjuje, nego ga posve uklanja. Neznanje pak koje nije uzrok grijeha, nego popratno stoji uz grijeh, niti umanjuje grijeh niti ga povećava. Dakle, samo ono neznanje može umanjiti grijeh koje je uzrok grijeha, a ipak ne ispričava potpuno od grijeha. Događa se pak katkad da je takvo neznanje izravno i po sebi voljno, kao kad netko svojevoljno nešto ne zna da bi slobodnije griješio. I takvo neznanje, čini se, povećava voljno i grijeh; jer iz napetosti volje prema griješenju proizlazi to da netko hoće podnijeti štetu neznanja radi slobode griješenja. Katkad pak neznanje koje je uzrok grijeha nije izravno voljno, nego neizravno ili akcidentalno; na primjer, kad netko neće ulagati napor u učenje, iz čega slijedi da je neuk; ili kad netko hoće piti vino neumjereno, iz čega slijedi da se opije i ostane bez razlučivanja. I takvo neznanje umanjuje voljno, a posljedično i grijeh. Kad se, naime, ne spoznaje da je nešto grijeh, ne može se reći da se volja izravno i po sebi usmjeruje na grijeh, nego akcidentalno; stoga je tu manji prezir, a posljedično i manji grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da neznanje po kojemu je svaki zao čovjek neznalica nije uzrok grijeha, nego nešto što slijedi za uzrokom, to jest za strašću ili habitusom koji naginje grijehu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a4.ad2": {
+      "text": "Na drugo treba reći da grijeh dodan grijehu čini više grijeha, ali ne čini uvijek veći grijeh, jer se možda ne stječu u isti grijeh, nego su to više grijeha. I može se dogoditi, ako prvi umanjuje drugi, da oba zajedno nemaju toliku težinu koliku bi imao samo jedan. Tako je ubojstvo teži grijeh kad ga počini trijezan čovjek nego kad ga počini pijan, iako su ovo potonje dva grijeha, jer pijanstvo više umanjuje od pojma grijeha koji slijedi nego što iznosi njegova vlastita težina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a4.ad3": {
+      "text": "Na treće treba reći da se Ambrozijeva riječ može shvatiti o naprosto hinjenom neznanju. Ili se može shvatiti u rodu grijeha nezahvalnosti, u kojoj je najviši stupanj to da čovjek čak ni ne priznaje dobročinstva. Ili se može shvatiti o neznanju nevjere, koje ruši temelj duhovne zgrade.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    },
+    "I-II.q76.a4.ad4": {
+      "text": "Na četvrto treba reći da pijanac doduše zaslužuje dvostruke kletve, zbog dvaju grijeha koje čini, to jest pijanstva i drugoga grijeha koji iz pijanstva slijedi. Ipak, pijanstvo, zbog pridruženog neznanja, umanjuje grijeh koji slijedi, i to možda više nego što iznosi težina samoga pijanstva, kao što je rečeno. Ili se može reći da se ta riječ navodi prema odredbi nekog zakonodavca Pitaka, koji je odredio da *pijane, ako udare, treba strože kazniti; ne gledajući na oproštenje, koje bi pijani trebali više imati, nego na korist, jer pijani nanose više nepravdi nego trijezni*, kao što je jasno kod Filozofa u II. knjizi Politike.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:45+00:00"
+    }
+  }
+}

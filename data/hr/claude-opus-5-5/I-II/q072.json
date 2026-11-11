@@ -1,0 +1,456 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 72,
+  "units": {
+    "I-II.q72.pr": {
+      "text": "Zatim valja razmotriti razlikovanje grijeha ili poroka. U vezi s time pita se devet stvari. Prvo, razlikuju li se grijesi po vrsti prema predmetima. Drugo, o razlikovanju duhovnih i putnih grijeha. Treće, razlikuju li se prema uzrocima. Četvrto, razlikuju li se prema onima protiv kojih se griješi. Peto, razlikuju li se prema različitosti podložnosti kazni. Šesto, razlikuju li se prema propustu i počinjenju. Sedmo, razlikuju li se prema različitom tijeku grijeha. Osmo, razlikuju li se prema pretjeranosti i nedostatku. Deveto, razlikuju li se prema različitim okolnostima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q72.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se grijesi ne razlikuju po vrsti prema predmetima. Za ljudske se čine, naime, ponajprije kaže da su dobri ili zli s obzirom na svrhu, kao što je gore pokazano. Budući da, dakle, grijeh nije ništa drugo nego zao čin čovjeka, kao što je rečeno, čini se da bi grijehe trebalo razlikovati po vrsti prema svrhama, a ne toliko prema predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a1.obj2": {
+      "text": "Osim toga, zlo se, budući da je lišenost, razlikuje po vrsti prema različitim vrstama onoga čemu je suprotstavljeno. Ali grijeh je neko zlo u rodu ljudskih čina. Dakle, grijesi se po vrsti razlikuju više prema onome čemu su suprotstavljeni nego prema predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a1.obj3": {
+      "text": "Osim toga, kad bi se grijesi razlikovali po vrsti prema predmetima, bilo bi nemoguće da se po vrsti isti grijeh nađe u vezi s različitim predmetima. Ali nalaze se neki takvi grijesi: oholost je, naime, i u duhovnim i u tjelesnim stvarima, kako kaže Grgur u XXXIV. knjizi Moralija; i škrtost se također odnosi na različite rodove stvari. Dakle, grijesi se ne razlikuju po vrsti prema predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a1.sc": {
+      "text": "Ali protiv toga jest to što je grijeh nešto rečeno, učinjeno ili požuđeno protiv Božjega zakona. Ali ono što je rečeno, učinjeno ili požuđeno razlikuje se po vrsti prema različitim predmetima, jer se čini razlikuju po predmetima, kao što je gore rečeno. Dakle, i grijesi se po vrsti razlikuju prema predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a1.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, u pojam grijeha ulaze dvije stvari: voljni čin i njegova neurednost, koja nastaje odstupanjem od Božjega zakona. Od tih se dviju stvari jedna po sebi odnosi na grešnika, koji smjera izvršiti takav voljni čin u takvoj građi; druga pak, naime neurednost čina, odnosi se na nakanu grešnika po akcidentu, jer nitko ne djeluje smjerajući na zlo, kako kaže Dionizije u IV. poglavlju O božanskim imenima. Očito je pak da svaka stvar dobiva vrstu prema onome što je po sebi, a ne prema onome što je po akcidentu, jer ono što je po akcidentu nalazi se izvan pojma vrste. Stoga se grijesi razlikuju po vrsti s obzirom na voljne čine više nego s obzirom na neurednost koja postoji u grijehu. A voljni se čini razlikuju po vrsti prema predmetima, kao što je pokazano u prethodnome. Iz toga slijedi da se grijesi u vlastitom smislu razlikuju po vrsti prema predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da svrha ponajprije ima pojam dobra, pa se stoga odnosi prema činu volje, koji je prvotan u svakom grijehu, kao predmet. Stoga se svodi na isto reći da se grijesi razlikuju prema predmetima ili prema svrhama.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a1.ad2": {
+      "text": "Na drugo treba reći da grijeh nije čista lišenost, nego čin lišen dužnoga reda. Stoga se grijesi više razlikuju po vrsti prema predmetima čina nego prema onome čemu su suprotstavljeni. Ipak, i kad bi se razlikovali prema suprotstavljenim krepostima, svelo bi se na isto, jer se kreposti razlikuju po vrsti prema predmetima, kao što je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a1.ad3": {
+      "text": "Na treće treba reći da ništa ne priječi da se u različitim stvarima koje se razlikuju po vrsti ili rodu nađe jedan formalni pojam predmeta, od kojega grijeh prima vrstu. Na taj način oholost u različitim stvarima traži izvrsnost, a škrtost obilje onoga što služi ljudskoj uporabi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se duhovni grijesi neprikladno razlikuju od putnih. Apostol, naime, kaže u Poslanici Galaćanima 5: *Očita su djela puti, a to su: blud, nečistoća, bestidnost, bludnost, služenje idolima, vračanja,* itd., iz čega se čini da su svi rodovi grijeha djela puti. Ali putni se grijesi nazivaju djelima puti. Dakle, putne grijehe ne treba razlikovati od duhovnih.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a2.obj2": {
+      "text": "Osim toga, tko god griješi, hodi po puti, prema onome iz Poslanice Rimljanima 8: *Ako po puti živite, umrijet ćete; ako li duhom umrtvljujete djela puti, živjet ćete*. Ali čini se da živjeti ili hoditi po puti pripada pojmu putnoga grijeha. Dakle, svi su grijesi putni. Prema tome, putne grijehe ne treba razlikovati od duhovnih.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a2.obj3": {
+      "text": "Osim toga, viši dio duše, koji je pamet ili razum, naziva se duhom, prema onome iz Poslanice Efežanima 4: *Obnovite se duhom svoje pameti*, gdje se duh stavlja umjesto razuma, kako ondje kaže Glosa. Ali svaki grijeh koji se počini po puti potječe od razuma po pristanku, jer višem razumu pripada pristati na čin grijeha, kao što će se dolje reći. Dakle, isti su grijesi i putni i duhovni. Prema tome, ne treba ih međusobno razlikovati.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a2.obj4": {
+      "text": "Osim toga, ako su neki grijesi na poseban način putni, čini se da to ponajviše treba shvatiti o onim grijesima kojima netko griješi protiv vlastitoga tijela. Ali, kako kaže Apostol u Prvoj poslanici Korinćanima 6, *svaki grijeh koji god učini čovjek izvan je tijela, a tko bludniči, griješi protiv vlastitoga tijela*. Dakle, samo bi blud bio putni grijeh, premda Apostol u Poslanici Efežanima 5 i škrtost ubraja među putne grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a2.sc": {
+      "text": "Ali protiv toga jest to što Grgur u XXXI. knjizi Moralija kaže da je *od sedam glavnih grijeha pet duhovnih, a dva putna*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, grijesi primaju vrstu od predmeta. Svaki se pak grijeh sastoji u težnji za nekim promjenljivim dobrom za kojim se neuredno teži, i posljedično u tome da se netko neuredno naslađuje onim što je već stekao. A kao što je jasno iz prethodnoga, naslada je dvostruka. Jedna je duševna, koja se dovršava u samom zahvaćanju neke stvari koja se posjeduje po želji; ona se može nazvati i duhovnom nasladom, kao kad se netko naslađuje ljudskom pohvalom ili nečim takvim. Druga je pak naslada tjelesna ili naravna, koja se dovršava u samom tjelesnom dodiru; ona se može nazvati i putnom nasladom. Tako se, dakle, oni grijesi koji se dovršavaju u duhovnoj nasladi nazivaju duhovnim grijesima, a oni koji se dovršavaju u putnoj nasladi nazivaju se putnim grijesima, kao što je neumjerenost u jelu i piću, koja se dovršava u nasladi hrane, i bludnost, koja se dovršava u nasladi spolnoga općenja. Zato i Apostol kaže u Drugoj poslanici Korinćanima 7: *Očistimo se od svake okaljanosti puti i duha*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kako ondje kaže Glosa, oni poroci nazivaju djelima puti *ne zato što se dovršavaju u užitku puti, nego se put ondje uzima za čovjeka, za kojega se, dok živi po sebi, kaže da živi po puti*, kao što kaže i Augustin u XIV. knjizi O Božjem gradu. A razlog je tomu u ovome: svaki nedostatak ljudskoga razuma na neki način ima početak u putnom osjetilu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a2.ad2": {
+      "text": "Time je jasan i odgovor na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a2.ad3": {
+      "text": "Na treće treba reći da i u putnim grijesima postoji neki duhovni čin, naime čin razuma; ali svrha tih grijeha, po kojoj se imenuju, jest naslada puti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a2.ad4": {
+      "text": "Na četvrto treba reći da, kako ondje kaže Glosa, *osobito u grijehu bluda duša robuje tijelu, toliko da čovjeku u tom trenutku nije moguće ni o čemu drugome misliti*. Naslada pak neumjerenosti u jelu i piću, premda je putna, ne zaokuplja toliko razum. Ili se može reći da se u tom grijehu i tijelu nanosi neka nepravda, dok se neuredno okaljava. Zato se samo za taj grijeh kaže da njime čovjek na poseban način griješi protiv vlastitoga tijela. A škrtost, koja se ubraja među putne grijehe, stavlja se umjesto preljuba, koji je nepravedno prisvajanje tuđe žene. Ili se može reći da je stvar u kojoj se škrtac naslađuje nešto tjelesno, i u tom se pogledu ubraja među putne grijehe. Ali sama naslada ne pripada puti, nego duhu, i stoga je, prema Grguru, duhovni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se grijesi razlikuju po vrsti prema uzrocima. Stvar, naime, ima vrstu od onoga od čega ima bitak. Ali grijesi imaju bitak od svojih uzroka. Dakle, od njih dobivaju i vrstu. Prema tome, razlikuju se po vrsti prema različitosti uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a3.obj2": {
+      "text": "Osim toga, od svih uzroka čini se da se tvarni uzrok najmanje odnosi na vrstu. Ali predmet je u grijehu kao tvarni uzrok. Budući da se, dakle, grijesi razlikuju po vrsti prema predmetima, čini se da se grijesi mnogo više razlikuju po vrsti prema drugim uzrocima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a3.obj3": {
+      "text": "Osim toga, Augustin, tumačeći ono iz Psalma: spaljena ognjem i potkopana, kaže da je *svaki grijeh ili od straha koji na zao način ponizuje, ili od ljubavi koja na zao način raspaljuje*. U Prvoj Ivanovoj poslanici 2 također se kaže da je *sve što je u svijetu ili požuda puti, ili požuda očiju, ili oholost života*; a za nešto se kaže da je u svijetu zbog grijeha, ukoliko se imenom svijeta označuju ljubitelji svijeta, kako kaže Augustin u Tumačenju Ivanova evanđelja. I Grgur u XXXI. knjizi Moralija razlikuje sve grijehe prema sedam glavnih grijeha. A sve se takve podjele odnose na uzroke grijeha. Dakle, čini se da se grijesi razlikuju po vrsti prema različitosti uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a3.sc": {
+      "text": "Ali protiv toga jest to što bi prema tome svi grijesi bili jedne vrste, budući da su prouzročeni od jednoga uzroka; kaže se, naime, u Knjizi Sirahovoj 10 da je *početak svakoga grijeha oholost*, a u Prvoj poslanici Timoteju, u posljednjem poglavlju, da je *korijen svih zala pohlepa*. Očito je pak da postoje različite vrste grijeha. Dakle, grijesi se ne razlikuju po vrsti prema različitosti uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a3.resp": {
+      "text": "Odgovaram: treba reći da se, budući da postoje četiri roda uzroka, oni na različit način pripisuju različitim stvarima. Formalni i tvarni uzrok odnose se, naime, u vlastitom smislu na supstanciju stvari, i stoga se supstancije razlikuju po vrsti i rodu prema formi i tvari. Djelatnik pak i svrha odnose se izravno na gibanje i djelovanje, i stoga se gibanja i djelovanja razlikuju po vrsti prema takvim uzrocima, ali na različit način. Naravna su djelatna počela, naime, uvijek određena na iste čine, i stoga se različite vrste u naravnim činima uzimaju ne samo prema predmetima, koji su svrhe ili granice, nego i prema djelatnim počelima; tako se grijanje i hlađenje razlikuju po vrsti prema toplome i hladnome. Ali djelatna počela u voljnim činima, kakvi su čini grijeha, nisu nužno usmjerena na jedno, i stoga iz jednoga djelatnog ili pokretačkog počela mogu proizaći različite vrste grijeha; tako iz straha koji na zao način ponizuje može proizaći to da čovjek krade, i to da ubija, i to da napusti stado koje mu je povjereno; a to isto može proizaći i iz ljubavi. Stoga je očito da se grijesi ne razlikuju po vrsti prema različitim djelatnim ili pokretačkim uzrocima, nego samo prema različitosti svršnoga uzroka. A svrha je predmet volje, jer je gore pokazano da ljudski čini imaju vrstu od svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da djelatna počela u voljnim činima, budući da nisu određena na jedno, nisu dostatna da proizvedu ljudske čine ako se volja ne odredi na jedno nakanom svrhe, kao što je jasno iz Filozofa u IX. knjizi Metafizike. Stoga se od svrhe dovršava i bitak i vrsta grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a3.ad2": {
+      "text": "Na drugo treba reći da predmeti, ukoliko se odnose prema vanjskim činima, imaju pojam građe na koju se čin odnosi; ali ukoliko se odnose prema unutarnjem činu volje, imaju pojam svrhe, i po tome daju činu vrstu. Ipak, i ukoliko su građa na koju se čin odnosi, imaju pojam granica, od kojih gibanja primaju vrstu, kako se kaže u V. knjizi Fizike i u X. knjizi Etike. No i granice gibanja daju gibanjima vrstu ukoliko imaju pojam svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a3.ad3": {
+      "text": "Na treće treba reći da se one podjele grijeha ne daju zato da bi se razlikovale vrste grijeha, nego da bi se pokazali njihovi različiti uzroci.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se grijeh neprikladno dijeli na grijeh protiv Boga, protiv bližnjega i protiv samoga sebe. Ono, naime, što je zajedničko svakom grijehu ne smije se stavljati kao dio u podjeli grijeha. Ali svakom je grijehu zajedničko da je protiv Boga, jer se u definiciju grijeha stavlja da je protiv Božjega zakona, kao što je gore rečeno. Dakle, grijeh protiv Boga ne smije se stavljati kao dio u podjeli grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a4.obj2": {
+      "text": "Osim toga, svaka se podjela mora izvršiti po suprotstavljenim članovima. Ali ta tri roda grijeha nisu suprotstavljena, jer tko god griješi protiv bližnjega, griješi i protiv samoga sebe i protiv Boga. Dakle, grijeh se ne dijeli prikladno prema tim trima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a4.obj3": {
+      "text": "Osim toga, ono što je izvanjsko ne daje vrstu. Ali Bog i bližnji su izvan nas. Dakle, po njima se grijesi ne razlikuju po vrsti. Prema tome, grijeh se neprikladno dijeli prema tim trima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a4.sc": {
+      "text": "Ali protiv toga jest to što Izidor u knjizi O najvišem dobru, razlikujući grijehe, kaže da se *za čovjeka kaže da griješi protiv sebe, protiv Boga i protiv bližnjega*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a4.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je gore rečeno, grijeh neuredan čin. A u čovjeku mora postojati trostruki red. Jedan s obzirom na pravilo razuma, naime ukoliko sve naše radnje i strasti moraju biti odmjerene prema pravilu razuma. Drugi je pak red s obzirom na pravilo Božjega zakona, po kojemu čovjek mora biti upravljan u svemu. I kad bi čovjek po naravi bio samotničko biće, bio bi dostatan taj dvostruki red; ali budući da je čovjek po naravi političko i društveno biće, kao što se dokazuje u I. knjizi Politike, nužno je da postoji i treći red, kojim se čovjek usmjeruje prema drugim ljudima, s kojima mora zajedno živjeti. Od tih redova drugi sadrži prvi i nadilazi ga. Sve, naime, što je sadržano pod redom razuma sadržano je pod redom samoga Boga; ali neke su stvari sadržane pod redom samoga Boga koje nadilaze ljudski razum, kao ono što pripada vjeri i ono što se duguje samo Bogu. Stoga se za onoga tko u takvim stvarima griješi kaže da griješi protiv Boga, kao heretik, svetogrdnik i bogohulnik. Slično i drugi red uključuje treći i nadilazi ga. Jer u svemu u čemu smo usmjereni prema bližnjemu moramo biti upravljani prema pravilu razuma; ali u nekim smo stvarima upravljani prema razumu samo s obzirom na nas same, a ne s obzirom na bližnjega. I kad se u tim stvarima griješi, kaže se da čovjek griješi protiv samoga sebe, kao što je jasno kod onoga tko je neumjeren u jelu i piću, kod bludnika i kod rasipnika. A kad čovjek griješi u onome čime je usmjeren prema bližnjemu, kaže se da griješi protiv bližnjega, kao što je jasno kod kradljivca i ubojice. Različito je pak ono čime je čovjek usmjeren prema Bogu, prema bližnjemu i prema samomu sebi. Stoga je to razlikovanje grijeha prema predmetima, prema kojima se različe vrste grijeha. Stoga je to razlikovanje grijeha u vlastitom smislu prema različitim vrstama grijeha. Jer i kreposti, kojima se grijesi suprotstavljaju, razlikuju se po vrsti prema toj razlici: očito je, naime, iz rečenoga da je čovjek bogoslovnim krepostima usmjeren prema Bogu, umjerenošću i jakošću prema samomu sebi, a pravednošću prema bližnjemu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je griješiti protiv Boga, ukoliko red prema Bogu uključuje svaki ljudski red, zajedničko svakom grijehu. Ali s obzirom na ono u čemu Božji red nadilazi druga dva reda, grijeh protiv Boga je poseban rod grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a4.ad2": {
+      "text": "Na drugo treba reći da se, kad se međusobno razlikuju neke stvari od kojih jedna uključuje drugu, razlikovanje ne shvaća prema onome po čemu je jedna sadržana u drugoj, nego prema onome po čemu jedna nadilazi drugu. Kao što je jasno u podjeli brojeva i likova: trokut se, naime, ne dijeli nasuprot četverokutu prema onome po čemu je u njemu sadržan, nego prema onome po čemu ga on nadilazi; a slično je i s trojnim i četvornim brojem.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a4.ad3": {
+      "text": "Na treće treba reći da Bog i bližnji, premda su izvanjski s obzirom na samoga grešnika, ipak nisu tuđi s obzirom na čin grijeha, nego se odnose prema njemu kao njegovi vlastiti predmeti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da podjela grijeha prema podložnosti kazni čini različitost vrste, primjerice kad se grijesi dijele na lake i smrtne. Ono, naime, što se razlikuje beskonačno ne može biti jedne vrste, pa ni jednoga roda. Ali laki i smrtni grijeh razlikuju se beskonačno: lakome se, naime, duguje vremenita kazna, a smrtnome vječna kazna; mjera pak kazne odgovara kolikoći krivnje, prema onome iz Ponovljenoga zakona 25: *prema mjeri prijestupa bit će i mjera udaraca*. Dakle, laki i smrtni grijeh nisu jednoga roda, a kamoli da bi bili jedne vrste.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a5.obj2": {
+      "text": "Osim toga, neki su grijesi smrtni po rodu, kao ubojstvo i preljub, a neki su po svom rodu laki grijesi, kao isprazna riječ i suvišan smijeh. Dakle, laki i smrtni grijeh razlikuju se po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a5.obj3": {
+      "text": "Osim toga, kako se krepostan čin odnosi prema nagradi, tako se grijeh odnosi prema kazni. Ali nagrada je svrha krepostnoga čina. Dakle, i kazna je svrha grijeha. Ali grijesi se razlikuju po vrsti prema svrhama, kao što je rečeno. Dakle, razlikuju se po vrsti i prema podložnosti kazni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a5.sc": {
+      "text": "Ali protiv toga, ono što sačinjava vrstu jest prije, kao što su specifične razlike. Ali kazna slijedi krivnju kao njezin učinak. Dakle, grijesi se ne razlikuju po vrsti prema podložnosti kazni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a5.resp": {
+      "text": "Odgovaram: treba reći da se kod onoga što se razlikuje po vrsti nalazi dvostruka razlika. Jedna je ona koja sačinjava različitost vrsta, i takva se razlika nikad ne nalazi osim u različitim vrstama, kao razumno i nerazumno, ono što ima dušu i ono što je bez duše. Druga je pak razlika ona koja slijedi iz različitosti vrste, i takva razlika, premda u nekima slijedi iz različitosti vrste, u drugima se ipak može naći unutar iste vrste; tako bijelo i crno slijede iz različitosti vrste gavrana i labuda, a ipak se takva razlika nalazi unutar iste vrste čovjeka. Treba, dakle, reći da razlika između lakoga i smrtnoga grijeha, ili bilo koja druga razlika koja se uzima prema podložnosti kazni, ne može biti razlika koja sačinjava različitost vrste. Ono, naime, što je akcidentalno nikada ne sačinjava vrstu. A ono što je mimo nakane djelatnika jest akcidentalno, kao što je jasno u II. knjizi Fizike. Očito je pak da je kazna mimo nakane grešnika. Stoga se ona prema grijehu odnosi akcidentalno, s obzirom na samoga grešnika. Ipak se prema grijehu usmjeruje izvana, naime iz pravednosti suca, koji prema različitim obilježjima grijeha izriče različite kazne. Stoga razlika koja dolazi od podložnosti kazni može slijediti iz različite vrste grijeha, ali ne sačinjava različitost vrste. A razlika između lakoga i smrtnoga grijeha slijedi iz različitosti neurednosti, koja dovršava pojam grijeha. Neurednost je, naime, dvostruka: jedna oduzimanjem počela reda; druga, kod koje se, uz očuvano počelo reda, javlja neurednost u onome što dolazi poslije počela. Tako u tijelu životinje neurednost tjelesnoga sastava katkad ide sve do razaranja životnoga počela, i to je smrt; a katkad, uz očuvano počelo života, nastaje neka neurednost u tjelesnim sokovima, i tada je to bolest. A počelo cijeloga reda u moralnim stvarima jest posljednja svrha, koja se u djelatnom području odnosi onako kako se nedokazivo načelo odnosi u spekulativnom, kako se kaže u VII. knjizi Etike. Stoga, kad se duša grijehom poremeti sve do odvraćanja od posljednje svrhe, naime od Boga, s kojim se sjedinjujemo po ljubavi, tada je to smrtni grijeh; a kad poremećenost nastupi s ove strane odvraćanja od Boga, tada je to laki grijeh. Kao što je, naime, u tjelesnim stvarima poremećenost smrti, koja nastaje uklanjanjem počela života, po naravi nepopravljiva, a neurednost bolesti može se popraviti zato što se počelo života čuva, slično je i u onome što pripada duši. Jer u spekulativnom području onaj tko se vara u počelima ne da se uvjeriti, a onaj tko se vara uz očuvana počela, može se pomoću samih počela opozvati od zablude. Slično i u djelatnom području, onaj tko se grijehom odvraća od posljednje svrhe, koliko je do naravi grijeha, ima nepopravljiv pad, i zato se kaže da griješi smrtno, kao onaj koji treba biti vječno kažnjen. A onaj tko griješi s ove strane odvraćanja od Boga, po samom pojmu grijeha poremećen je na popravljiv način, jer se počelo čuva, i zato se kaže da griješi lako, naime zato što ne griješi tako da bi zaslužio beskrajnu kaznu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se smrtni i laki grijeh razlikuju beskonačno s obzirom na odvraćanje, ali ne s obzirom na okretanje, po kojemu se grijeh odnosi na predmet, od kojega grijeh ima vrstu. Stoga ništa ne priječi da se unutar iste vrste nađe neki smrtni i neki laki grijeh; tako je prvi pokret u rodu preljuba laki grijeh, a isprazna riječ, koja je većinom laki grijeh, može biti i smrtni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a5.ad2": {
+      "text": "Na drugo treba reći da iz toga što se nalazi neki grijeh smrtni po rodu i neki grijeh laki po rodu slijedi da takva razlika proizlazi iz različitosti grijeha po vrsti, a ne da je ona njezin uzrok. A takva se razlika može naći i u onome što je iste vrste, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a5.ad3": {
+      "text": "Na treće treba reći da je nagrada u nakani onoga tko zaslužuje ili krepostno djeluje, dok kazna nije u nakani grešnika, nego je, štoviše, protiv njegove volje. Stoga razlog nije sličan.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se grijeh počinjenja i grijeh propusta razlikuju po vrsti. Prijestup se, naime, dijeli nasuprot grijehu u Poslanici Efežanima 2, gdje se kaže: *kad bijaste mrtvi zbog svojih prijestupa i grijeha*. A Glosa ondje tumači: *prijestupima, to jest propuštajući ono što se zapovijeda; a grijesima, naime čineći ono što je zabranjeno*, iz čega je jasno da se pod prijestupom razumije grijeh propusta, a pod grijehom grijeh počinjenja. Dakle, razlikuju se po vrsti, jer se dijele kao suprotstavljeni, kao različite vrste.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a6.obj2": {
+      "text": "Osim toga, grijehu po sebi pripada da je protiv Božjega zakona, jer se to stavlja u njegovu definiciju, kao što je jasno iz rečenoga. Ali u Božjem zakonu jedne su zapovijedi potvrdne, a protiv njih je grijeh propusta; druge su pak zapovijedi niječne, a protiv njih je grijeh počinjenja. Dakle, grijeh propusta i grijeh počinjenja razlikuju se po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a6.obj3": {
+      "text": "Osim toga, propust i počinjenje razlikuju se kao potvrđivanje i nijekanje. Ali potvrđivanje i nijekanje ne mogu biti jedne vrste, jer nijekanje nema vrste: nebiće, naime, nema ni vrsta ni razlika, kako kaže Filozof. Dakle, propust i počinjenje ne mogu biti jedne vrste.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a6.sc": {
+      "text": "Ali protiv toga, u istoj se vrsti grijeha nalaze propust i počinjenje: škrtac, naime, i otima tuđe, što je grijeh počinjenja, i ne daje svoga onima kojima treba dati, što je grijeh propusta. Dakle, propust i počinjenje ne razlikuju se po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a6.resp": {
+      "text": "Odgovaram: treba reći da se u grijesima nalazi dvostruka razlika: jedna tvarna, a druga formalna. Tvarna se uzima prema naravnoj vrsti čina grijeha, a formalna prema usmjerenosti prema jednoj vlastitoj svrsi, koja je vlastiti predmet. Stoga se nalaze neki čini koji se tvarno razlikuju po vrsti, a ipak su formalno u istoj vrsti grijeha, jer su usmjereni prema istome; tako istoj vrsti ubojstva pripadaju klanje, kamenovanje i probadanje, premda su ti čini različiti po vrsti prema vrsti naravi. Ako, dakle, govorimo o vrsti grijeha propusta i počinjenja tvarno, oni se razlikuju po vrsti, ali govoreći o vrsti u širem smislu, ukoliko nijekanje ili lišenost može imati vrstu. Ako pak govorimo o vrsti grijeha propusta i počinjenja formalno, tada se ne razlikuju po vrsti, jer su usmjereni prema istome i proizlaze iz iste pobude. Škrtac, naime, da bi zgrtao novac, i otima i ne daje ono što treba dati; slično i onaj tko je neumjeren u jelu i piću, da bi udovoljio svojoj neumjerenosti u jelu i piću, i jede suvišno i propušta dužne postove; a isto se može vidjeti i u ostalome. Nijekanje se, naime, u stvarima uvijek temelji na nekom potvrđivanju, koje je na neki način njegov uzrok; stoga je i u naravnim stvarima istoga pojma to što vatra grije i to što ne hladi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da ona podjela koja se vrši po počinjenju i propustu nije prema različitim formalnim vrstama, nego samo prema tvarnima, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a6.ad2": {
+      "text": "Na drugo treba reći da je bilo nužno da se u Božjem zakonu iznesu različite potvrdne i niječne zapovijedi, kako bi se ljudi postupno uvodili u krepost: najprije uzdržavanjem od zla, na što nas potiču niječne zapovijedi, a zatim činjenjem dobra, na što nas potiču potvrdne zapovijedi. Tako potvrdne i niječne zapovijedi ne pripadaju različitim krepostima, nego različitim stupnjevima kreposti. Posljedično, nije nužno da se protive grijesima različitima po vrsti. Osim toga, grijeh nema vrstu s obzirom na odvraćanje, jer je u tom pogledu nijekanje ili lišenost, nego s obzirom na okretanje, ukoliko je neki čin. Stoga se prema različitim zapovijedima zakona grijesi ne razlikuju po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a6.ad3": {
+      "text": "Na treće treba reći da se onaj prigovor odnosi na tvarnu različitost vrste. Ipak valja znati da se nijekanje, premda u vlastitom smislu nije u vrsti, ipak smješta u vrstu svođenjem na neko potvrđivanje za kojim ono slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se grijeh neprikladno dijeli na grijeh srca, usta i djela. Augustin, naime, u XII. knjizi O Trojstvu postavlja tri stupnja grijeha: prvi je kad putno osjetilo nameće neku zamamnost, što je grijeh misli; drugi je stupanj kad se netko zadovoljava samom nasladom misli; treći je stupanj kad se pristankom odlučuje da se to učini. Ali sve to troje pripada grijehu srca. Dakle, neprikladno se grijeh srca postavlja kao jedan rod grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a7.obj2": {
+      "text": "Osim toga, Grgur u IV. knjizi Moralija postavlja četiri stupnja grijeha: prvi je krivnja skrivena u srcu; drugi kad se izvana očituje; treći kad se navikom učvrsti; četvrti kad čovjek ide sve do drskog uzdanja u Božje milosrđe ili do očaja. Ondje se grijeh djela ne razlikuje od grijeha usta, a dodaju se druga dva stupnja grijeha. Dakle, prva je podjela bila neprikladna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a7.obj3": {
+      "text": "Osim toga, ne može biti grijeha u ustima ili u djelu ako najprije ne nastane u srcu. Dakle, ti se grijesi ne razlikuju po vrsti. Prema tome, ne smiju se dijeliti jedan nasuprot drugome.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a7.sc": {
+      "text": "Ali protiv toga jest to što Jeronim u Tumačenju Ezekiela kaže: *tri su opća prijestupa kojima je podložan ljudski rod: griješimo, naime, ili mišlju, ili govorom, ili djelom*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a7.resp": {
+      "text": "Odgovaram: treba reći da se za neke stvari nalazi da se razlikuju po vrsti na dva načina. Na jedan način, time što svaka od njih ima potpunu vrstu, kao što se konj i vol razlikuju po vrsti. Na drugi način, prema različitim stupnjevima u nekom nastajanju ili gibanju uzimaju se različite vrste; tako je gradnja potpuno nastajanje kuće, dok su postavljanje temelja i podizanje zida nepotpune vrste, kao što je jasno iz Filozofa u X. knjizi Etike; a isto se može reći i o nastajanju životinja. Tako se, dakle, grijeh dijeli na ovo troje, naime na grijeh usta, srca i djela, ne kao na različite potpune vrste, jer je dovršenje grijeha u djelu, pa stoga grijeh djela ima potpunu vrstu. Njegov je prvi začetak kao polaganje temelja u srcu; drugi mu je stupanj u ustima, ukoliko čovjek lako izbija u očitovanje zamisli srca; a treći je stupanj već u dovršenju djela. I tako se to troje razlikuje prema različitim stupnjevima grijeha. Jasno je ipak da to troje pripada jednoj savršenoj vrsti grijeha, budući da proizlazi iz iste pobude: onaj tko je sklon srdžbi, naime, time što žudi za osvetom, najprije biva uznemiren u srcu, zatim izbija u pogrdne riječi, a napokon ide sve do nepravednih djela. A isto je jasno kod bludnosti i kod bilo kojega drugog grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se svaki grijeh srca slaže u pojmu skrivenoga, i prema tome se postavlja kao jedan stupanj. Taj se ipak razlikuje u tri stupnja, naime misli, naslade i pristanka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a7.ad2": {
+      "text": "Na drugo treba reći da se grijeh usta i grijeh djela slažu u očitovanju, i zato ih Grgur ubraja pod jedno. Jeronim ih pak razlikuje, jer je u grijehu usta samo očitovanje, i to ponajprije namjeravano, dok je u grijehu djela ponajprije izvršenje unutarnje zamisli srca, a očitovanje dolazi kao posljedica. Navika pak i očaj stupnjevi su koji dolaze nakon savršene vrste grijeha, kao što mladenaštvo i mladost dolaze nakon savršenoga nastajanja čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a7.ad3": {
+      "text": "Na treće treba reći da se grijeh srca i grijeh usta ne razlikuju od grijeha djela kad su s njime zajedno povezani, nego ukoliko se svaki od njih nalazi zaseban. Kao što se ni dio gibanja ne razlikuje od cijeloga gibanja kad je gibanje neprekinuto, nego samo kad se gibanje zaustavi na pola puta.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da pretjeranost i nedostatak ne čine različite vrste grijeha. Pretjeranost se, naime, i nedostatak razlikuju po više i manje. Ali više i manje ne čine različitost vrste. Dakle, pretjeranost i nedostatak ne čine različite vrste grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a8.obj2": {
+      "text": "Osim toga, kao što je grijeh u onome što treba činiti u tome što se odstupa od ispravnosti razuma, tako je neistinitost u spekulativnom području u tome što se odstupa od istine stvari. Ali vrsta neistinitosti ne postaje različita time što netko kaže da je nešto više ili manje nego što jest u stvarnosti. Dakle, ni vrsta grijeha ne postaje različita time što se od ispravnosti razuma odstupa u više ili u manje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a8.obj3": {
+      "text": "*Osim toga, od dviju vrsta ne sačinjava se jedna vrsta*, kako kaže Porfirije. Ali pretjeranost i nedostatak sjedinjuju se u jednom grijehu: neki su, naime, istodobno škrti i rasipni, a od toga je dvoga škrtost grijeh po nedostatku, a rasipnost po pretjeranosti. Dakle, pretjeranost i nedostatak ne čine različite vrste grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a8.sc": {
+      "text": "Ali protiv toga, protivne se stvari razlikuju po vrsti, jer je protivnost razlika po formi, kako se kaže u X. knjizi Metafizike. Ali poroci koji se razlikuju po pretjeranosti i nedostatku protivni su, kao škrtost rasipnosti. Dakle, razlikuju se po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a8.resp": {
+      "text": "Odgovaram: treba reći da, budući da su u grijehu dvije stvari, naime sam čin i njegova neurednost, ukoliko se odstupa od reda razuma i Božjega zakona, vrsta se grijeha ne uzima s obzirom na neurednost, koja je mimo nakane grešnika, kao što je gore rečeno, nego radije s obzirom na sam čin, ukoliko završava u predmetu prema kojemu je usmjerena nakana grešnika. Stoga, gdje god se pojavi različita pobuda koja nakanu nagiba na griješenje, ondje je različita vrsta grijeha. Očito je pak da nije ista pobuda za griješenje u grijesima koji su po pretjeranosti i u grijesima koji su po nedostatku; štoviše, pobude su protivne: tako je pobuda u grijehu neumjerenosti ljubav prema tjelesnim nasladama, a pobuda u grijehu neosjetljivosti mržnja prema njima. Stoga se takvi grijesi ne samo razlikuju po vrsti, nego su i međusobno protivni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da više i manje, premda nisu uzrok različitosti vrste, ipak katkad prate različite vrste, ukoliko proizlaze iz različitih formi, kao kad bi se reklo da je vatra lakša od zraka. Zato Filozof kaže u VIII. knjizi Etike da se oni koji su tvrdili da nema različitih vrsta prijateljstva zato što se o njima govori po više i manje nisu oslonili na dostatan znak. Na taj način prekoračivati razum ili zaostajati za njim pripada različitim grijesima po vrsti, ukoliko prate različite pobude.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a8.ad2": {
+      "text": "Na drugo treba reći da nakana grešnika nije u tome da odstupi od razuma, i stoga grijeh pretjeranosti i grijeh nedostatka ne postaju istoga pojma zbog odstupanja od iste ispravnosti razuma. Ali katkad onaj tko govori neistinu smjera prikriti istinu, pa u tom pogledu nije važno govori li više ili manje. Ako je pak odstupanje od istine mimo nakane, tada je očito da netko iz različitih uzroka biva potaknut da kaže više ili manje, i prema tome je različit pojam neistinitosti. Kao što je jasno kod hvalisavca, koji pretjeruje govoreći neistinu jer traži slavu, i kod varalice, koji umanjuje izbjegavajući plaćanje duga. Stoga su i neka lažna mnijenja međusobno protivna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a8.ad3": {
+      "text": "Na treće treba reći da netko može biti rasipan i škrt u različitim pogledima, naime tako da je netko škrt u primanju onoga što ne treba primati, a rasipan u davanju onoga što ne treba davati. A ništa ne priječi da protivnosti budu u istome u različitim pogledima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da se poroci i grijesi razlikuju po vrsti prema različitim okolnostima. Jer, kako kaže Dionizije u IV. poglavlju O božanskim imenima, *zlo nastaje iz pojedinačnih nedostataka*. A pojedinačni su nedostaci izopačenja pojedinih okolnosti. Dakle, iz pojedinih izopačenih okolnosti slijede pojedine vrste grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a9.obj2": {
+      "text": "Osim toga, grijesi su neki ljudski čini. Ali ljudski čini katkad primaju vrstu od okolnosti, kao što je gore utvrđeno. Dakle, grijesi se razlikuju po vrsti prema tome koje su okolnosti izopačene.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a9.obj3": {
+      "text": "Osim toga, različite se vrste neumjerenosti u jelu i piću navode prema česticama koje su sadržane u ovom stihu: *prebrzo, raskošno, previše, pohlepno, probirljivo*. A to pripada različitim okolnostima: prebrzo, naime, znači prije nego što treba, previše znači više nego što treba, a isto je jasno i kod ostaloga. Dakle, vrste se grijeha razlikuju prema različitim okolnostima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a9.sc": {
+      "text": "Ali protiv toga jest to što Filozof kaže u III. i IV. knjizi Etike da pojedini poroci griješe i tako što čine više nego što treba, i kad ne treba, i slično prema svim drugim okolnostima. Dakle, vrste se grijeha ne razlikuju prema tome.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a9.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je rečeno, gdje se pojavi druga pobuda za griješenje, ondje i druga vrsta grijeha, jer je pobuda za griješenje svrha i predmet. Događa se pak katkad da je u izopačenjima različitih okolnosti ista pobuda; tako je škrtac potaknut istim da prima kad ne treba, i gdje ne treba, i više nego što treba, i slično u vezi s drugim okolnostima: to, naime, čini zbog neuredne težnje za zgrtanjem novca. I u takvim slučajevima izopačenja različitih okolnosti ne čine različite vrste grijeha, nego pripadaju jednoj te istoj vrsti grijeha. A katkad se događa da izopačenja različitih okolnosti potječu od različitih pobuda. Na primjer, to što netko jede prebrzo može proizlaziti iz toga što čovjek ne može podnijeti odgađanje hrane zbog brzoga trošenja vlage; to pak što teži za neumjerenom količinom hrane može se dogoditi zbog snage naravi koja je kadra pretvoriti mnogo hrane; a to što netko teži za probranim jelima događa se zbog težnje za nasladom koja je u hrani. Stoga u takvim slučajevima izopačenja različitih okolnosti uvode različite vrste grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da je zlo, ukoliko je zlo, lišenost, i stoga se razlikuje po vrsti prema onome čega lišava, kao i ostale lišenosti. Ali grijeh ne dobiva vrstu s obzirom na lišenost ili odvraćanje, kao što je gore rečeno, nego iz okretanja prema predmetu čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a9.ad2": {
+      "text": "Na drugo treba reći da okolnost nikada ne prenosi čin u drugu vrstu, osim kad postoji druga pobuda.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q72.a9.ad3": {
+      "text": "Na treće treba reći da su u različitim vrstama neumjerenosti u jelu i piću različite pobude, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    }
+  }
+}

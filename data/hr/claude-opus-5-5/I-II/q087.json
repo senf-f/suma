@@ -1,0 +1,408 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 87,
+  "units": {
+    "I-II.q87.pr": {
+      "text": "Zatim treba razmotriti podložnost kazni. I to najprije samu podložnost; drugo, smrtni i laki grijeh, koji se razlikuju po podložnosti kazni. U vezi s prvim pitaju se osam stvari. Prvo, je li podložnost kazni učinak grijeha. Drugo, može li grijeh biti kazna za drugi grijeh. Treće, čini li neki grijeh čovjeka podložnim vječnoj kazni. Četvrto, čini li ga podložnim kazni beskonačnoj po kolikoći. Peto, čini li svaki grijeh čovjeka podložnim vječnoj i beskonačnoj kazni. Šesto, može li podložnost kazni ostati nakon grijeha. Sedmo, nanosi li se svaka kazna za neki grijeh. Osmo, je li netko podložan kazni za grijeh drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da podložnost kazni nije učinak grijeha. Ono, naime, što se prema nečemu odnosi akcidentalno, ne čini se da je njegov vlastiti učinak. Ali podložnost kazni odnosi se prema grijehu akcidentalno, budući da je mimo nakane onoga koji griješi. Dakle, podložnost kazni nije učinak grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a1.obj2": {
+      "text": "Osim toga, zlo nije uzrok dobra. Ali kazna je dobra, budući da je pravedna i od Boga. Dakle, ona nije učinak grijeha, koji je zlo.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a1.obj3": {
+      "text": "Osim toga, Augustin kaže u I. knjizi Ispovijesti da je *svaki neuredan duh sam sebi kazna*. Ali kazna ne uzrokuje podložnost drugoj kazni, jer bi se tako išlo u beskonačnost. Dakle, grijeh ne uzrokuje podložnost kazni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Rim 2: *Nevolja i tjesnoba na dušu svakoga koji čini zlo*. Ali činiti zlo znači griješiti. Dakle, grijeh donosi kaznu, koja se označuje imenom nevolje i tjesnobe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a1.resp": {
+      "text": "Odgovaram: treba reći da je iz prirodnih stvari na ljudske stvari prešlo to da ono što ustaje protiv nečega trpi od njega štetu. Vidimo, naime, u prirodnim stvarima da jedno protivno djeluje žešće kad mu pristupi drugo protivno; zbog toga se zagrijane vode jače smrzavaju, kako se kaže u I. knjizi Meteorologije. Stoga se kod ljudi iz naravne sklonosti nalazi to da svatko obara onoga koji ustaje protiv njega. A očito je da sve što je obuhvaćeno nekim redom jest na neki način jedno u odnosu prema počelu reda. Stoga, što god ustaje protiv nekoga reda, posljedično biva oboreno od samoga reda ili od poglavara reda. Budući pak da je grijeh neuredan čin, očito je da svatko tko griješi djeluje protiv nekoga reda. I zato je posljedično da bude oboren od samoga reda. A to obaranje jest kazna. Stoga, prema trima redovima kojima je podložna ljudska volja, čovjek može biti kažnjen trostrukom kaznom. Prvo, naime, ljudska je narav podložna redu vlastitog razuma; drugo, redu vanjskoga čovjeka koji upravlja bilo duhovno bilo vremenito, politički ili kućno; treće, podložna je općem redu božanskog upravljanja. A svaki se od tih redova izopačuje grijehom, jer onaj koji griješi djeluje i protiv razuma, i protiv ljudskog zakona, i protiv božanskog zakona. Stoga navlači na sebe trostruku kaznu: jednu od samoga sebe, a to je griža savjesti; drugu od čovjeka; treću od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da kazna slijedi grijeh ukoliko je on zlo, i to zbog svoje neurednosti. Stoga, kao što je zlo akcidentalno u činu onoga koji griješi, mimo njegove nakane, tako je i podložnost kazni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a1.ad2": {
+      "text": "Na drugo treba reći da kazna doista može biti pravedna i nanesena od Boga i od čovjeka; stoga sama kazna nije učinak grijeha izravno, nego samo raspoložbeno. Ali grijeh čini da čovjek bude podložan kazni, a to je zlo; Dionizije, naime, kaže u 4. poglavlju O božanskim imenima da *biti kažnjen nije zlo, nego postati dostojan kazne*. Stoga se podložnost kazni izravno postavlja kao učinak grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a1.ad3": {
+      "text": "Na treće treba reći da se ona kazna neurednog duha duguje grijehu zato što izopačuje red razuma. A podložnim drugoj kazni postaje time što izopačuje red božanskog ili ljudskog zakona.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da grijeh ne može biti kazna za grijeh. Kazne su, naime, uvedene zato da se po njima ljudi vrate dobru kreposti, kao što je jasno iz Filozofa u X. knjizi Etike. Ali grijehom se čovjek ne vraća dobru kreposti, nego onome suprotnome. Dakle, grijeh nije kazna za grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a2.obj2": {
+      "text": "Osim toga, pravedne su kazne od Boga, kao što je jasno iz Augustina u knjizi Osamdeset i tri pitanja. A grijeh nije od Boga, i nepravedan je. Dakle, grijeh ne može biti kazna za grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a2.obj3": {
+      "text": "Osim toga, pojmu kazne pripada da bude protiv volje. Ali grijeh je od volje, kao što je jasno iz rečenoga gore. Dakle, grijeh ne može biti kazna za grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur u tumačenju Ezekiela, da su neki grijesi kazne za grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a2.resp": {
+      "text": "Odgovaram: treba reći da o grijehu možemo govoriti na dva načina: po sebi i akcidentalno. Po sebi grijeh ni na koji način ne može biti kazna za grijeh. Grijeh se, naime, po sebi razmatra ukoliko proizlazi iz volje, jer tako ima pojam krivnje. A pojmu kazne pripada da bude protiv volje, kako je utvrđeno u Prvom dijelu. Stoga je očito da, govoreći po sebi, grijeh ni na koji način ne može biti kazna za grijeh. Akcidentalno pak grijeh može biti kazna za grijeh, i to na tri načina. Prvo, s obzirom na uzrok koji se sastoji u uklanjanju onoga što priječi. Uzroci, naime, koji nagnu na grijeh jesu strasti, đavlova kušnja i drugo takvo; a te uzroke sprječava pomoć božanske milosti, koja se grijehom oduzima. Stoga, budući da je samo oduzimanje milosti neka kazna, i to od Boga, kako je gore rečeno, slijedi da se akcidentalno i grijeh koji odatle slijedi naziva kaznom. I na taj način govori apostol u Rim 1, kad kaže: *Zato ih Bog predade željama njihova srca*, a to su strasti duše; jer, naime, ljudi, napušteni od pomoći božanske milosti, bivaju svladani od strasti. I na taj se način za grijeh uvijek kaže da je kazna za prethodni grijeh. Drugi način jest s obzirom na supstanciju čina, koja nanosi patnju, bilo da je to unutarnji čin, kao što je očito kod srdžbe i zavisti, bilo vanjski čin, kao što je očito kad su neki pritisnuti teškim naporom i štetom da bi izvršili čin grijeha, prema onome iz Mudr 5: *Umorili smo se na putu bezakonja*. Treći način jest s obzirom na učinak, to jest tako da se neki grijeh naziva kaznom s obzirom na učinak koji slijedi. I na ova dva posljednja načina jedan grijeh nije samo kazna za prethodni grijeh, nego i za sama sebe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je i to što Bog neke kažnjava dopuštajući im da se srozaju u neke grijehe usmjereno prema dobru kreposti. Katkada i prema dobru samih onih koji griješe, naime kad se nakon grijeha podignu ponizniji i oprezniji. A uvijek je to radi popravljanja drugih, koji se, videći da se neki strmoglavljuju iz grijeha u grijeh, još više plaše griješiti. A što se tiče druga dva načina, očito je da je kazna usmjerena prema popravljanju, jer je upravo to što čovjek griješeći trpi napor i štetu po naravi takvo da ljude odvraća od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a2.ad2": {
+      "text": "Na drugo treba reći da taj razlog vrijedi za grijeh po sebi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a2.ad3": {
+      "text": "I slično treba reći na treće.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nijedan grijeh ne donosi podložnost vječnoj kazni. Pravedna se, naime, kazna izjednačuje s krivnjom, jer je pravednost jednakost. Stoga se kaže u Iz 27: *Mjerom protiv mjere, kad bude odbačena, sudit će joj*. Ali grijeh je vremenit. Dakle, ne donosi podložnost vječnoj kazni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a3.obj2": {
+      "text": "Osim toga, kazne su neki lijekovi, kako se kaže u II. knjizi Etike. Ali nijedan lijek ne smije biti beskonačan, jer je usmjeren prema svrsi; *a ono što je usmjereno prema svrsi nije beskonačno*, kako kaže Filozof u I. knjizi Politike. Dakle, nijedna kazna ne smije biti beskonačna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a3.obj3": {
+      "text": "Osim toga, nitko ne čini nešto uvijek osim ako se u tome naslađuje radi toga samoga. *Ali Bog se ne naslađuje u propasti ljudi*, kako se kaže u Mudr 1. Dakle, neće kažnjavati ljude vjekovječnom kaznom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a3.obj4": {
+      "text": "Osim toga, ništa što je akcidentalno nije beskonačno. Ali kazna je akcidentalna, jer nije u skladu s naravi onoga koji se kažnjava. Dakle, ne može trajati u beskonačnost.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mt 25: *I otići će ovi u vječnu muku*. I u Mk 3 se kaže: *A tko pohuli na Duha Svetoga, neće imati oproštenja dovijeka, nego će biti kriv vječnoga prijestupa*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a3.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, grijeh donosi podložnost kazni time što izopačuje neki red. A dok ostaje uzrok, ostaje i učinak. Stoga, dokle god ostaje izopačenost reda, nužno je da ostane podložnost kazni. A netko izopačuje red katkada popravljivo, a katkada nepopravljivo. Uvijek je, naime, nedostatak kojim se oduzima počelo nepopravljiv; ako se pak počelo sačuva, snagom toga počela nedostaci se mogu popraviti. Kao što, ako propadne počelo vida, ne može doći do popravka vida osim jedino božanskom snagom; ako pak, uz sačuvano počelo vida, vidu nastupe neke zapreke, one se mogu popraviti naravlju ili umijećem. Svaki pak red ima neko počelo po kojem netko postaje dionikom toga reda. I zato, ako se grijehom razori počelo reda po kojem je volja čovjekova podložna Bogu, neurednost će, koliko je do nje, biti nepopravljiva, premda se može popraviti božanskom snagom. A počelo je toga reda posljednja svrha, uz koju čovjek prianja po ljubavi. I zato svi grijesi koji odvraćaju od Boga, oduzimajući ljubav, koliko je do njih, donose podložnost vječnoj kazni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se kazna razmjerava grijehu po žestini, kako u božanskom tako i u ljudskom sudu; kao što kaže Augustin u XXI. knjizi O Božjem gradu, ni u jednom se sudu ne zahtijeva da se kazna izjednači s krivnjom po trajanju. Ne kažnjava se, naime, preljub ili ubojstvo trenutačnom kaznom zato što je počinjen u trenutku, nego katkada doživotnim zatvorom ili progonstvom, a katkada i smrću. U njoj se ne uzima u obzir trajanje usmrćivanja, nego radije to što je netko zauvijek uklonjen iz zajednice živih, i tako ona na svoj način predočuje vječnost kazne koju nanosi Bog. A pravedno je, prema Grguru, da onaj koji je zgriješio protiv Boga u svojoj vječnosti bude kažnjen u Božjoj vječnosti. Za nekoga se pak kaže da je zgriješio u svojoj vječnosti ne samo zbog trajnosti čina koji traje kroz cijeli čovjekov život, nego zato što, upravo time što je u grijehu postavio svrhu, ima volju da griješi zauvijek. Stoga Grgur kaže u XXXIV. knjizi Moralija da *bi bezbožnici htjeli živjeti bez kraja, kako bi bez kraja mogli ostati u bezakonjima*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a3.ad2": {
+      "text": "Na drugo treba reći da ni kazna koja se nanosi po ljudskim zakonima nije uvijek ljekovita za onoga koji se kažnjava, nego samo za druge; kao kad se razbojnik objesi, ne da se on popravi, nego radi drugih, da bi barem iz straha od kazne prestali griješiti, prema onome iz Izr 19: *Kad se izbičuje kužni čovjek, bezumnik će postati mudriji*. Tako su, dakle, i vječne kazne odbačenih, koje nanosi Bog, ljekovite za one koji se razmatranjem kazni suzdržavaju od grijeha, prema onome iz Ps 59: *Dao si onima koji te se boje znak, da pobjegnu ispred luka, da se izbave tvoji ljubljeni*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a3.ad3": {
+      "text": "Na treće treba reći da se Bog ne naslađuje u kaznama radi njih samih, nego se naslađuje u redu svoje pravednosti, koja to zahtijeva.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a3.ad4": {
+      "text": "Na četvrto treba reći da je kazna, premda je akcidentalno usmjerena prema naravi, ipak po sebi usmjerena prema lišenosti reda i prema Božjoj pravednosti. I zato, dok traje neurednost, uvijek traje i kazna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se grijehu duguje kazna beskonačna po kolikoći. Kaže se, naime, u Jr 10: *Popravi me, Gospodine, ali sudom, a ne u svojoj jarosti, da me ne bi pretvorio u ništa*. A srdžba ili jarost Božja preneseno označiva osvetu božanske pravednosti; biti pak pretvoren u ništa jest beskonačna kazna, kao što je i učiniti nešto iz ničega djelo beskonačne snage. Dakle, prema božanskoj osveti grijeh se kažnjava kaznom beskonačnom po kolikoći.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a4.obj2": {
+      "text": "Osim toga, kolikoći krivnje odgovara kolikoća kazne, prema onome iz Pnz 25: *Prema mjeri grijeha bit će i mjera udaraca*. Ali grijeh koji se čini protiv Boga beskonačan je; grijeh je, naime, to teži što je veća osoba protiv koje se griješi, kao što je teži grijeh udariti vladara nego udariti privatnog čovjeka; a Božja je veličina beskonačna. Dakle, za grijeh koji se čini protiv Boga duguje se beskonačna kazna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a4.obj3": {
+      "text": "Osim toga, nešto je beskonačno na dva načina, to jest po trajanju i po kolikoći. Ali kazna je beskonačna po trajanju. Dakle, i po kolikoći.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a4.sc": {
+      "text": "Ali protiv toga je to što bi prema tome kazne svih smrtnih grijeha bile jednake; nije, naime, beskonačno veće od beskonačnoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a4.resp": {
+      "text": "Odgovaram: treba reći da se kazna razmjerava grijehu. A u grijehu postoje dvije stvari. Jedna je od njih odvraćanje od nepromjenljivog dobra, koje je beskonačno; stoga je s te strane grijeh beskonačan. Drugo što postoji u grijehu jest neuredno okretanje prema promjenljivom dobru. I s te je strane grijeh konačan, kako zato što je samo promjenljivo dobro konačno, tako i zato što je samo okretanje konačno, jer čini stvora ne mogu biti beskonačni. S obzirom, dakle, na odvraćanje, grijehu odgovara kazna gubitka, koja je također beskonačna, jer je gubitak beskonačnog dobra, to jest Boga. A s obzirom na neuredno okretanje, odgovara mu kazna osjetila, koja je također konačna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da ne pristaje božanskoj pravednosti da onaj koji griješi bude posve pretvoren u ništa, jer se to protivi trajnosti kazne, koja je u skladu s božanskom pravednošću, kako je rečeno. Ali za onoga koji je lišen duhovnih dobara kaže se da je pretvoren u ništa, prema onome iz 1 Kor 13: *Ako ljubavi ne bih imao, ništa sam*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a4.ad2": {
+      "text": "Na drugo treba reći da taj razlog vrijedi za grijeh s obzirom na odvraćanje; tako, naime, čovjek griješi protiv Boga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a4.ad3": {
+      "text": "Na treće treba reći da trajanje kazne odgovara trajanju krivnje, i to ne s obzirom na čin, nego s obzirom na ljagu: dok ona traje, ostaje podložnost kazni. A žestina kazne odgovara težini krivnje. Krivnja pak koja je nepopravljiva ima od sebe to da traje trajno, i zato joj se duguje vječna kazna. Ali s obzirom na okretanje ona nema beskonačnosti, i zato joj se s te strane ne duguje kazna beskonačna po kolikoći.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da svaki grijeh donosi podložnost vječnoj kazni. Kazna se, naime, kako je rečeno, razmjerava krivnji. Ali vječna se kazna od vremenite razlikuje beskonačno. A čini se da se nijedan grijeh ne razlikuje od drugoga beskonačno, budući da je svaki grijeh ljudski čin, koji ne može biti beskonačan. Budući, dakle, da se nekom grijehu duguje vječna kazna, kako je rečeno, čini se da se nijednom grijehu ne duguje samo vremenita kazna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a5.obj2": {
+      "text": "Osim toga, istočni je grijeh najmanji od grijeha; stoga i Augustin kaže u Enhiridiju da je *najblaža kazna onih koji su kažnjeni samo za istočni grijeh*. Ali istočnom se grijehu duguje trajna kazna; nikada, naime, neće vidjeti kraljevstvo Božje djeca koja su umrla bez krštenja s istočnim grijehom, kao što je jasno iz onoga što Gospodin kaže u Iv 3: *Ako se tko ne rodi iznova, ne može vidjeti kraljevstva Božjega*. Dakle, mnogo će više kazna svih drugih grijeha biti vječna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a5.obj3": {
+      "text": "Osim toga, grijehu se ne duguje veća kazna zato što je pridružen drugom grijehu, budući da svaki od tih grijeha ima svoju kaznu odmjerenu prema božanskoj pravednosti. Ali lakom se grijehu duguje vječna kazna ako se zajedno sa smrtnim grijehom nađe u nekom osuđeniku, jer u paklu ne može biti nikakva oproštenja. Dakle, lakom se grijehu naprosto duguje vječna kazna. Dakle, nijednom se grijehu ne duguje vremenita kazna.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur u IV. knjizi Dijaloga, da se neke lakše krivnje opraštaju nakon ovoga života. Dakle, ne kažnjavaju se svi grijesi vječnom kaznom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a5.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, grijeh uzrokuje podložnost vječnoj kazni ukoliko se nepopravljivo protivi redu božanske pravednosti, naime time što se protivi samom počelu reda, a to je posljednja svrha. A očito je da u nekim grijesima postoji doduše neka neurednost, ali ne po protivljenju posljednjoj svrsi, nego samo u pogledu onoga što vodi k svrsi, ukoliko se na to smjera više ili manje nego što je dužno, ali uz sačuvanu usmjerenost prema posljednjoj svrsi; na primjer, kad je čovjek, premda previše privržen nekoj vremenitoj stvari, ipak ne bi htio zbog nje uvrijediti Boga čineći nešto protiv njegove zapovijedi. Stoga se takvim grijesima ne duguje vječna kazna, nego vremenita.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se grijesi ne razlikuju beskonačno s obzirom na okretanje prema promjenljivom dobru, u čemu se sastoji supstancija čina, ali se razlikuju beskonačno s obzirom na odvraćanje. Neki se, naime, grijesi čine odvraćanjem od posljednje svrhe, a neki neurednošću u pogledu onoga što vodi k svrsi. A posljednja se svrha beskonačno razlikuje od onoga što vodi k svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a5.ad2": {
+      "text": "Na drugo treba reći da se istočnom grijehu ne duguje vječna kazna zbog njegove težine, nego zbog stanja subjekta, to jest čovjeka koji se nalazi bez milosti, po kojoj jedinoj biva oproštenje kazne.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a5.ad3": {
+      "text": "I slično treba reći na treće, o lakom grijehu. Vječnost, naime, kazne ne odgovara kolikoći krivnje, nego njezinoj neoprostivosti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da podložnost kazni ne ostaje nakon grijeha. Kad se, naime, ukloni uzrok, uklanja se učinak. Ali grijeh je uzrok podložnosti kazni. Dakle, kad se ukloni grijeh, prestaje podložnost kazni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a6.obj2": {
+      "text": "Osim toga, grijeh se uklanja time što se čovjek vraća kreposti. Ali krepostnome se ne duguje kazna, nego radije nagrada. Dakle, kad se ukloni grijeh, ne ostaje podložnost kazni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a6.obj3": {
+      "text": "Osim toga, kazne su lijekovi, kako se kaže u II. knjizi Etike. Ali pošto je netko već izliječen od bolesti, ne primjenjuje mu se lijek. Dakle, kad se ukloni grijeh, ne ostaje dug kazne.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 2 Sam 12: *David reče Natanu: Zgriješio sam Gospodinu. A Natan reče Davidu: I Gospodin je skinuo tvoj grijeh, nećeš umrijeti. Ipak, budući da si učinio da neprijatelji hule ime Gospodnje, sin koji ti se rodio umrijet će smrću*. Netko je, dakle, kažnjen od Boga i pošto mu je grijeh oprošten. I tako podložnost kazni ostaje kad je grijeh uklonjen.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a6.resp": {
+      "text": "Odgovaram: treba reći da se u grijehu mogu razmatrati dvije stvari, to jest čin krivnje i ljaga koja slijedi. Jasno je pak da, kad prestane čin grijeha, ostaje podložnost kazni u svim osobnim grijesima. Čin, naime, grijeha čini čovjeka podložnim kazni ukoliko prestupa red božanske pravednosti; a tomu se redu ne vraća osim nekom naknadom kazne, koja vraća na jednakost pravednosti; naime tako da onaj koji je svojoj volji popustio više nego što je smio, djelujući protiv Božje zapovijedi, prema redu božanske pravednosti dragovoljno ili nevoljko pretrpi nešto protiv onoga što bi htio. To se opslužuje i kod nepravdi nanesenih ljudima, tako da se naknadom kazne ponovno uspostavi jednakost pravednosti. Stoga je jasno da, kad prestane čin grijeha ili nanesene nepravde, još ostaje dug kazne. Ali ako govorimo o uklanjanju grijeha s obzirom na ljagu, tada je očito da se ljaga grijeha ne može ukloniti iz duše drukčije nego time što se duša sjedini s Bogom, zbog udaljenosti od kojega je trpjela gubitak vlastitog sjaja, a to je ljaga, kako je gore rečeno. A čovjek se s Bogom sjedinjuje voljom. Stoga se ljaga grijeha ne može ukloniti s čovjeka ako volja čovjekova ne prihvati red božanske pravednosti, naime tako da ili sam dragovoljno preuzme na sebe kaznu kao naknadu za prošlu krivnju, ili pak strpljivo podnese kaznu koju nanosi Bog; na oba, naime, načina kazna ima pojam zadovoljštine. A zadovoljštinska kazna umanjuje nešto od pojma kazne. Pojmu je, naime, kazne svojstveno da bude protiv volje. A zadovoljštinska je kazna, premda je prema apsolutnom razmatranju protiv volje, ipak tada, i za to, voljna. Stoga je naprosto voljna, a u nekom pogledu protuvoljna, kao što je jasno iz onoga što je gore rečeno o voljnom i protuvoljnom. Treba, dakle, reći da, kad se ukloni ljaga krivnje, može doduše ostati podložnost, ne kazni naprosto, nego zadovoljštinskoj kazni.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što, kad prestane čin grijeha, ostaje ljaga, kako je gore rečeno, tako može ostati i podložnost kazni. Ali kad prestane ljaga, podložnost kazni ne ostaje u istom smislu, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a6.ad2": {
+      "text": "Na drugo treba reći da se krepostnome ne duguje kazna naprosto, ali mu se može dugovati kazna kao zadovoljštinska, jer upravo to pripada kreposti, da dade zadovoljštinu za ono u čemu je uvrijedio bilo Boga bilo čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a6.ad3": {
+      "text": "Na treće treba reći da je, kad se ukloni ljaga, izliječena rana grijeha s obzirom na volju. Ali još se zahtijeva kazna za liječenje drugih sila duše, koje su prethodnim grijehom bile izvedene iz reda, naime tako da se izliječe protivnim. Zahtijeva se također radi ponovne uspostave jednakosti pravednosti i radi uklanjanja sablazni drugih, tako da se kaznom izgrade oni koji su krivnjom bili sablažnjeni, kao što je jasno iz navedenog primjera o Davidu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da nije svaka kazna zbog neke krivnje. Kaže se, naime, u Iv 9 o slijepcu od rođenja: *Nije sagriješio ni on ni njegovi roditelji, da se rodi slijep*. I slično vidimo da mnoga djeca, i krštena, trpe teške kazne, kao što su groznice, napadi demona i mnogo toga takvoga, premda u njima nema grijeha pošto su krštena. A prije nego što su krštena, u njima nema više grijeha nego u drugoj djeci, koja to ne trpe. Dakle, nije svaka kazna za grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a7.obj2": {
+      "text": "Osim toga, čini se da je istoga razloga to što grešnicima ide dobro i to što su neki nevini kažnjeni. A i jedno i drugo često nalazimo u ljudskim stvarima; kaže se, naime, o bezbožnicima u Ps 72: *U ljudskoj muci nisu i s ljudima neće biti bičevani*; i u Job 21: *Bezbožnici žive, uzdignuti su i ojačani bogatstvom*; i u Hab 1 kaže se: *Zašto gledaš na prezirače i šutiš, dok bezbožnik gazi pravednijega od sebe?* Dakle, ne nanosi se svaka kazna za krivnju.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a7.obj3": {
+      "text": "Osim toga, o Kristu se kaže u 1 Pt 2 da *grijeha nije učinio, niti se našla prijevara u ustima njegovim*. Pa ipak se ondje kaže da *je trpio za nas*. Dakle, Bog ne dodjeljuje kaznu uvijek za krivnju.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Job 4: *Tko je ikada nevin propao? Ili kada su pravedni bili zatrti? Nego sam radije vidio da su oni koji čine bezakonje propali kad je Bog dahnuo*. I Augustin kaže u I. knjizi Retraktacija da je *svaka kazna pravedna i da se izriče za neki grijeh*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a7.resp": {
+      "text": "Odgovaram: treba reći da se, kako je već rečeno, kazna može razmatrati na dva načina: naprosto i ukoliko je zadovoljštinska. Zadovoljštinska je kazna na neki način voljna. A budući da se događa da su oni koji se razlikuju u podložnosti kazni jedno po volji, sjedinjenjem ljubavi, odatle dolazi da katkada netko tko nije zgriješio voljno podnosi kaznu za drugoga; kao što i u ljudskim stvarima vidimo da netko na sebe prenosi tuđi dug. Ako pak govorimo o kazni naprosto, ukoliko ima pojam kazne, tada je ona uvijek u odnosu prema vlastitoj krivnji, ali katkada prema osobnoj krivnji, na primjer kad je netko kažnjen bilo od Boga bilo od čovjeka za počinjeni grijeh, a katkada prema istočnoj krivnji. I to bilo prvenstveno bilo posljedično. Prvenstveno je kazna istočnoga grijeha to što je ljudska narav prepuštena sebi, lišena pomoći izvorne pravednosti; a tomu slijede sve kaznenosti koje se u ljudima događaju zbog nedostatka naravi. Treba ipak znati da se katkada nešto čini kaznenim, a ipak nema naprosto pojam kazne. Kazna je, naime, vrsta zla, kako je rečeno u Prvom dijelu. A zlo je lišenost dobra. Budući pak da ima više čovjekovih dobara, naime dobra duše, tijela i vanjskih stvari, događa se katkada da čovjek trpi štetu u manjem dobru da bi porastao u većem; kao kad trpi štetu u novcu radi zdravlja tijela, ili u objema tim stvarima radi spasenja duše i radi slave Božje. I tada takva šteta nije naprosto zlo čovjekovo, nego u nekom pogledu. Stoga ona naprosto ne znači pojam kazne, nego lijeka; jer i liječnici daju bolesnima gorke napitke da bi im pribavili zdravlje. A budući da takve stvari nemaju u vlastitom smislu pojam kazne, ne svode se na krivnju kao na uzrok, osim utoliko što je upravo to da ljudskoj naravi treba davati kaznene lijekove posljedica pokvarenosti naravi, koja je kazna istočnoga grijeha. U stanju, naime, nevinosti ne bi bilo potrebno nikoga kaznenim vježbama navoditi na napredak u kreposti. Stoga se upravo ono što je kazneno u takvim stvarima svodi na istočnu krivnju kao na uzrok.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da su takvi nedostaci onih koji se rađaju, ili i djece, učinci i kazne istočnoga grijeha, kako je rečeno. I ostaju i nakon krštenja zbog razloga navedenog gore. A to što nisu jednako u svima događa se zbog različitosti naravi, koja je prepuštena sebi, kako je gore rečeno. Ipak su takvi nedostaci, prema božanskoj providnosti, usmjereni prema spasenju ljudi, bilo onih koji trpe, bilo drugih, koje kazne opominju; a također i prema slavi Božjoj.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a7.ad2": {
+      "text": "Na drugo treba reći da su vremenita i tjelesna dobra doduše neka čovjekova dobra, ali malena, a duhovna su dobra velika čovjekova dobra. Božanskoj, dakle, pravednosti pripada da krepostnima daje duhovna dobra, a od vremenitih dobara ili zala da im daje onoliko koliko je dovoljno za krepost; jer, kako kaže Dionizije u 8. poglavlju O božanskim imenima, *božanskoj je pravednosti svojstveno da ne mekša jakost najboljih tvarnim darovima*. Drugima pak upravo to što im se daju vremenita dobra okreće se na zlo za duhovna dobra. Stoga se u Ps 72 zaključuje: *Zato ih je obuzela oholost*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a7.ad3": {
+      "text": "Na treće treba reći da je Krist podnio zadovoljštinsku kaznu ne za svoje, nego za naše grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da netko biva kažnjen za grijeh drugoga. Kaže se, naime, u Izl 20: *Ja sam Bog ljubomorni, koji pohodim bezakonje otaca na sinovima do trećega i četvrtoga koljena onih koji me mrze*. I u Mt 23 kaže se: *da dođe na vas sva pravedna krv koja je prolivena na zemlji*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a8.obj2": {
+      "text": "Osim toga, ljudska se pravednost izvodi iz božanske pravednosti. Ali prema ljudskoj pravednosti katkada se sinovi kažnjavaju za roditelje, kao što je očito kod zločina uvrede veličanstva. Dakle, i prema božanskoj pravednosti jedan se kažnjava za grijeh drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a8.obj3": {
+      "text": "Osim toga, ako bi se reklo da se sin ne kažnjava za grijeh oca, nego za vlastiti grijeh, ukoliko nasljeduje očevu zloću, to se ne bi više govorilo o sinovima nego o tuđincima, koji se kažnjavaju sličnom kaznom kao oni čije grijehe nasljeduju. Ne čini se, dakle, da se sinovi kažnjavaju za vlastite grijehe, nego za grijehe roditelja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Ez 18: *Sin neće nositi bezakonja očeva*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a8.resp": {
+      "text": "Odgovaram: treba reći da, ako govorimo o zadovoljštinskoj kazni, koja se voljno preuzima, događa se da jedan nosi kaznu drugoga ukoliko su na neki način jedno, kako je već rečeno. Ako pak govorimo o kazni nanesenoj za grijeh, ukoliko ima pojam kazne, tada se svatko kažnjava samo za svoj grijeh, jer je čin grijeha nešto osobno. Ako pak govorimo o kazni koja ima pojam lijeka, tada se događa da se jedan kažnjava za grijeh drugoga. Rečeno je, naime, da su štete na tjelesnim stvarima, ili i na samom tijelu, neki kazneni lijekovi usmjereni prema spasenju duše. Stoga ništa ne priječi da netko bude kažnjen takvim kaznama za grijeh drugoga, bilo od Boga bilo od čovjeka, kao sinovi za očeve i podložnici za gospodare, ukoliko su oni na neki način njihova stvar. Ipak tako da, ako je sin ili podložnik dionik krivnje, takav kazneni nedostatak ima pojam kazne s obzirom na obojicu, to jest s obzirom na onoga koji se kažnjava i na onoga za koga se kažnjava. Ako pak nije dionik krivnje, ima pojam kazne s obzirom na onoga za koga se kažnjava, a s obzirom na onoga koji se kažnjava samo pojam lijeka, osim akcidentalno, ukoliko pristaje uz grijeh drugoga; usmjeren mu je, naime, prema dobru duše, ako ga strpljivo podnosi. A duhovne kazne nisu samo ljekovite, jer dobro duše nije usmjereno prema nekom drugom, boljem dobru. Stoga u dobrima duše nitko ne trpi štetu bez vlastite krivnje. I zbog toga se, kako kaže Augustin u poslanici Avitu, takvim kaznama jedan ne kažnjava za drugoga, jer s obzirom na dušu sin nije očeva stvar. Stoga i Gospodin, navodeći razlog tome, kaže u Ez 18: *Sve su duše moje*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da se čini da se obje izreke trebaju odnositi na vremenite ili tjelesne kazne, ukoliko su sinovi neka stvar roditelja, a nasljednici prethodnika. Ili, ako se odnose na duhovne kazne, to se kaže zbog nasljedovanja krivnje; stoga se u Izlasku dodaje: *onih koji me mrze*; i u Mateju se kaže: *I vi napunite mjeru otaca svojih*. A kaže da se grijesi otaca kažnjavaju na sinovima zato što su sinovi, odgojeni u grijesima roditelja, skloniji griješenju, kako zbog navike, tako i zbog primjera, slijedeći očeve kao neki autoritet. Također su dostojni veće kazne ako se nisu popravili videći kazne otaca. A dodao je do trećega i četvrtoga koljena zato što ljudi obično toliko žive da vide treće i četvrto koljeno; i tako mogu uzajamno vidjeti i sinovi grijehe otaca da ih nasljeduju, i očevi kazne sinova da ih žale.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a8.ad2": {
+      "text": "Na drugo treba reći da su one kazne koje ljudska pravednost nanosi jednome za grijeh drugoga tjelesne i vremenite. I one su neka sredstva ili lijekovi protiv krivnji koje bi slijedile, da bi se bilo sami oni koji se kažnjavaju bilo drugi suzdržali od sličnih krivnji.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    },
+    "I-II.q87.a8.ad3": {
+      "text": "Na treće treba reći da se za bliske više nego za tuđince kaže da se kažnjavaju za grijehe drugih, kako zato što se kazna bliskih na neki način prelijeva na one koji su zgriješili, kako je rečeno, ukoliko je sin neka očeva stvar, tako i zato što i domaći primjeri i domaće kazne više potiču. Stoga, kad je netko odgojen u grijesima roditelja, žešće ih slijedi; i ako ga njihove kazne nisu odvratile, čini se tvrdokornijim, pa je stoga dostojan i veće kazne.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:48+00:00"
+    }
+  }
+}

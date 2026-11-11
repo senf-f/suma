@@ -1,0 +1,492 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 73,
+  "units": {
+    "I-II.q73.pr": {
+      "text": "Zatim treba razmotriti usporedbu grijeha među sobom. U vezi s tim pita se deset stvari. Prvo, jesu li svi grijesi i poroci međusobno povezani. Drugo, jesu li svi jednaki. Treće, prosuđuje li se težina grijeha prema predmetima. Četvrto, prosuđuje li se prema dostojanstvu kreposti kojima se grijesi protive. Peto, jesu li tjelesni grijesi teži od duhovnih. Šesto, prosuđuje li se težina grijeha prema uzrocima grijeha. Sedmo, prosuđuje li se prema okolnostima. Osmo, prosuđuje li se prema veličini štete. Deveto, prosuđuje li se prema položaju osobe protiv koje se griješi. Deseto, otežava li se grijeh zbog veličine osobe koja griješi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da su svi grijesi međusobno povezani. Kaže se, naime, u Jak 2: *Tko bi održao sav zakon, a prekršio ga u jednome, postao je kriv za sve*. No biti kriv za sve zapovijedi zakona isto je što i imati sve grijehe, jer, kako kaže Ambrozije, *grijeh je prijestup božanskog zakona i neposluh nebeskim zapovijedima*. Dakle, tko god sagriješi jednim grijehom, podložan je svim grijesima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a1.obj2": {
+      "text": "Osim toga, svaki grijeh isključuje krepost koja mu je suprotstavljena. No tko je lišen jedne kreposti, lišen je svih, kao što je jasno iz rečenoga. Dakle, tko sagriješi jednim grijehom, lišava se svih kreposti. No tko je lišen kreposti, ima porok koji joj je suprotstavljen. Dakle, tko ima jedan grijeh, ima sve grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a1.obj3": {
+      "text": "Osim toga, sve su kreposti koje se slažu u jednom počelu međusobno povezane, kao što je gore utvrđeno. No kao što se kreposti slažu u jednom počelu, tako i grijesi. Jer kao što je ljubav prema Bogu, koja tvori Božji grad, počelo i korijen svih kreposti, tako je ljubav prema sebi, koja tvori grad Babilon, korijen svih grijeha, kao što je jasno iz Augustina, u XIV. knjizi djela O Božjem gradu. Dakle, i svi su poroci i grijesi međusobno povezani, tako da tko ima jedan, ima sve.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a1.sc": {
+      "text": "Ali protiv toga, neki su poroci jedan drugome protivni, kao što je jasno iz Filozofa, u II. knjizi Etike. No nemoguće je da protivnosti budu istodobno u istome. Dakle, nemoguće je da svi grijesi i poroci budu međusobno povezani.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a1.resp": {
+      "text": "Odgovaram: treba reći da je drukčija nakana onoga tko djeluje po kreposti, usmjerena na to da slijedi razum, a drukčija nakana grešnika, usmjerena na to da skrene od razuma. Nakana je, naime, svakoga tko djeluje po kreposti da slijedi pravilo razuma, i zato nakana svih kreposti teži prema istome. I zbog toga su sve kreposti međusobno povezane u ispravnom razumu o onome što treba činiti, a to je razboritost, kao što je gore rečeno. Ali nakana grešnika nije usmjerena na to da odstupi od onoga što je po razumu, nego prije na to da teži prema nekom poželjnom dobru, od kojega dobiva vrstu. A takva dobra prema kojima teži nakana grešnika koji odstupa od razuma različita su, nemaju nikakve međusobne povezanosti, štoviše, ponekad su čak i protivna. Budući da, dakle, poroci i grijesi imaju vrstu prema onome čemu se okreću, očito je da, s obzirom na ono što dovršava vrstu grijeha, grijesi nemaju nikakve međusobne povezanosti. Grijeh se, naime, ne počinja približavanjem od mnoštva k jedinstvu, kao što se događa kod kreposti koje su povezane, nego prije udaljavanjem od jedinstva k mnoštvu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Jakov ne govori o grijehu sa strane okretanja, po kojemu se grijesi razlikuju, kao što je rečeno, nego o njima govori sa strane odvraćanja, to jest ukoliko čovjek griješeći odstupa od zapovijedi zakona. A sve su zapovijedi zakona od jednoga te istoga, kako on sam ondje kaže, i zato se u svakom grijehu prezire isti Bog. I s te strane kaže da je onaj tko prekrši u jednome postao kriv za sve, jer naime, griješeći jednim grijehom, upada u podložnost kazni time što prezire Boga, a iz prezira prema njemu proizlazi krivnja za sve grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a1.ad2": {
+      "text": "Na drugo treba reći da, kao što je gore rečeno, ne uklanja svaki grešni čin suprotstavljenu krepost, jer laki grijeh ne uklanja krepost; smrtni grijeh pak uklanja ulivenu krepost, ukoliko odvraća od Boga; ali jedan grešni čin, pa i smrtni, ne uklanja habitus stečene kreposti. No ako se čini umnože toliko da se rodi protivni habitus, isključuje se habitus stečene kreposti. A kad je on isključen, isključuje se i razboritost, jer kad čovjek djeluje protiv bilo koje kreposti, djeluje protiv razboritosti. A bez razboritosti ne može biti nikakve moralne kreposti, kao što je gore utvrđeno. I zato se posljedično isključuju sve moralne kreposti s obzirom na savršeni i formalni bitak kreposti, koji imaju ukoliko imaju udjela u razboritosti; ipak ostaju sklonosti prema činima kreposti, koje nemaju pojam kreposti. Ali ne slijedi da zbog toga čovjek upada u sve poroke ili grijehe. Prvo, zato što se jednoj kreposti protivi više poroka, tako da krepost može biti uklonjena jednim od njih, iako drugoga nema. Drugo, zato što se grijeh izravno protivi kreposti s obzirom na sklonost kreposti prema činu, kao što je gore rečeno; stoga, dok ostaju neke kreposne sklonosti, ne može se reći da čovjek ima suprotstavljene poroke ili grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a1.ad3": {
+      "text": "Na treće treba reći da ljubav prema Bogu sabire, ukoliko čovjekovo čuvstvo vodi od mnogoga k jednome, i zato su kreposti, koje uzrokuje ljubav prema Bogu, povezane. Ali ljubav prema sebi raspršuje čovjekovo čuvstvo na različite stvari, ukoliko naime čovjek ljubi sebe težeći za sebe za vremenitim dobrima, koja su raznolika i različita; i zato poroci i grijesi, koje uzrokuje ljubav prema sebi, nisu povezani.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da su svi grijesi jednaki. Griješiti je, naime, činiti ono što nije dopušteno. No činiti ono što nije dopušteno kudi se u svemu na jedan te isti način. Dakle, griješenje se kudi na jedan te isti način. Prema tome, jedan grijeh nije teži od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a2.obj2": {
+      "text": "Osim toga, svaki se grijeh sastoji u tome što čovjek prestupa pravilo razuma, koje se prema ljudskim činima odnosi kao ravnalo prema tjelesnim stvarima. Dakle, griješiti je slično prekoračivanju crte. No prekoračiti crtu jednako je i na jedan način, pa i ako se netko udalji dalje ili stoji bliže, jer lišenosti ne primaju više i manje. Dakle, svi su grijesi jednaki.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a2.obj3": {
+      "text": "Osim toga, grijesi se protive krepostima. No sve su kreposti jednake, kako kaže Tulije u Paradoksima. Dakle, svi su grijesi jednaki.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a2.sc": {
+      "text": "Ali protiv toga je ono što Gospodin kaže Pilatu, u Iv 19: *Onaj koji me predao tebi ima veći grijeh*. A ipak je poznato da je i Pilat imao neki grijeh. Dakle, jedan je grijeh veći od drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a2.resp": {
+      "text": "Odgovaram: treba reći da je mišljenje stoika, koje Tulije izlaže u Paradoksima, bilo da su svi grijesi jednaki. I iz toga je potekla i zabluda nekih heretika koji, postavljajući da su svi grijesi jednaki, kažu i da su sve kazne pakla jednake. I koliko se iz Tulijevih riječi može razabrati, stoike je na to navodilo to što su grijeh razmatrali samo sa strane lišenosti, to jest ukoliko je odstupanje od razuma; stoga, smatrajući naprosto da nikakva lišenost ne prima više i manje, postavili su da su svi grijesi jednaki. Ali ako netko pomno razmotri, naći će dvostruki rod lišenosti. Postoji, naime, neka jednostavna i čista lišenost, koja se sastoji takoreći u tome da je nešto propalo, kao što je smrt lišenost života, a tama lišenost svjetla. I takve lišenosti ne primaju više i manje, jer ništa ne preostaje od suprotstavljenog posjedovanja. Stoga netko nije manje mrtav prvoga dana smrti, ili trećega ili četvrtoga, nego nakon godinu dana, kad se truplo već raspalo. I slično, kuća nije tamnija ako je svjetiljka pokrivena s više pokrivala nego ako je pokrivena samo jednim pokrivalom koje zaklanja svu svjetlost. A postoji i druga lišenost, koja nije jednostavna, nego zadržava nešto od suprotstavljenog posjedovanja; ta se lišenost više sastoji u propadanju nego u tome da je nešto propalo, kao bolest, koja lišava dužnog razmjera sokova, ali tako da nešto od njega ostaje, inače živo biće ne bi ostalo na životu; a slično je s ružnoćom i drugim takvim stvarima. Takve pak lišenosti primaju više i manje sa strane onoga što ostaje od protivnog posjedovanja, jer za bolest ili ružnoću mnogo znači odstupa li se više ili manje od dužnog razmjera sokova ili udova. I slično treba reći o porocima i grijesima, jer se u njima dužni razmjer razuma uklanja tako da red razuma ne bude posve uklonjen; inače zlo, kad bi bilo potpuno, razara samo sebe, kako se kaže u IV. knjizi Etike; naime, ne bi mogla ostati supstancija čina ili čuvstvo djelatnika kad ne bi nešto ostalo od reda razuma. I zato za težinu grijeha mnogo znači odstupa li se više ili manje od ispravnosti razuma. I prema tome treba reći da nisu svi grijesi jednaki.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da počinjati grijehe nije dopušteno zbog neke neurednosti koju imaju. Stoga su oni koji sadrže veću neurednost više nedopušteni, i posljedično teži grijesi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a2.ad2": {
+      "text": "Na drugo treba reći da onaj razlog govori o grijehu kao da je čista lišenost.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a2.ad3": {
+      "text": "Na treće treba reći da su kreposti u jednome te istome čovjeku jednake razmjerno; ipak, jedna krepost nadilazi drugu dostojanstvom prema svojoj vrsti; a i jedan je čovjek krepostniji od drugoga u istoj vrsti kreposti, kao što je gore utvrđeno. A ipak, kad bi kreposti i bile jednake, ne bi slijedilo da su poroci jednaki, jer kreposti imaju povezanost, a poroci ili grijesi nemaju.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se težina grijeha ne mijenja prema predmetima. Težina grijeha, naime, pripada načinu ili kakvoći samoga grijeha. No predmet je građa samoga grijeha. Dakle, težina grijeha ne mijenja se prema različitim predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a3.obj2": {
+      "text": "Osim toga, težina grijeha jest jakost njegove zloće. A grijeh nema pojam zloće sa strane okretanja prema vlastitom predmetu, koji je neko poželjno dobro, nego više sa strane odvraćanja. Dakle, težina grijeha ne mijenja se prema različitim predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a3.obj3": {
+      "text": "Osim toga, grijesi koji imaju različite predmete pripadaju različitim rodovima. No ono što pripada različitim rodovima nije usporedivo, kako se dokazuje u VII. knjizi Fizike. Dakle, jedan grijeh nije teži od drugoga prema različitosti predmeta.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a3.sc": {
+      "text": "Ali protiv toga, grijesi primaju vrstu od predmeta, kao što je jasno iz rečenoga. No od nekih grijeha jedan je teži od drugoga po svojoj vrsti, kao ubojstvo od krađe. Dakle, težina grijeha razlikuje se prema predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a3.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je jasno iz rečenoga, težina grijeha razlikuje na onaj način na koji je jedna bolest teža od druge. Kao što se, naime, dobro zdravlja sastoji u nekom razmjeru sokova po pristajanju naravi živog bića, tako se dobro kreposti sastoji u nekom razmjeru ljudskoga čina po pristajanju pravilu razuma. A očito je da je bolest to teža što se dužni razmjer sokova više uklanja nerazmjerom nekog prvotnijeg počela; tako je opasnija bolest koja u ljudskom tijelu potječe od srca, koje je počelo života, ili od nečega što je blizu srca. Stoga i grijeh mora biti to teži što se neurednost događa u vezi s nekim počelom koje je prvotnije u redu razuma. A razum sve u onome što treba činiti uređuje polazeći od svrhe. I zato, što se grijeh u ljudskim činima događa s obzirom na višu svrhu, to je grijeh teži. A predmeti su čina njihove svrhe, kao što je jasno iz rečenoga. I zato se prema različitosti predmeta prosuđuje različitost težine u grijesima. Tako je jasno da su vanjske stvari usmjerene prema čovjeku kao prema svrsi, a čovjek je dalje usmjeren prema Bogu kao prema svrsi. Stoga je grijeh koji se tiče same čovjekove supstancije, kao ubojstvo, teži od grijeha koji se tiče vanjskih stvari, kao krađa; a još je teži grijeh koji se počinja neposredno protiv Boga, kao nevjera, bogohuljenje i tome slično. I u redu svakoga od tih grijeha jedan je grijeh teži od drugoga, ukoliko se tiče nečega glavnijega ili manje glavnoga. A budući da grijesi imaju vrstu od predmeta, razlika u težini koja se prosuđuje po predmetima prva je i glavna, kao ona koja slijedi vrstu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da predmet, iako je građa u kojoj čin završava, ipak ima pojam svrhe, ukoliko se nakana djelatnika upravlja prema njemu, kao što je gore rečeno. A forma moralnog čina ovisi o svrsi, kao što je jasno iz prethodnoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a3.ad2": {
+      "text": "Na drugo treba reći da iz samog nepripadnog okretanja prema nekom promjenljivom dobru slijedi odvraćanje od nepromjenljivog dobra, u kojemu se dovršava pojam zla. I zato prema različitosti onoga što pripada okretanju mora slijediti različita težina zloće u grijesima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a3.ad3": {
+      "text": "Na treće treba reći da svi predmeti ljudskih čina imaju međusobni red, i zato se svi ljudski čini na neki način slažu u jednom rodu, ukoliko su usmjereni prema posljednjoj svrsi. I zato ništa ne priječi da svi grijesi budu usporedivi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se težina grijeha ne razlikuje prema dostojanstvu kreposti kojima se grijesi protive, tako naime da se većoj kreposti protivi teži grijeh. Jer, kako se kaže u Izr 15, *u obilnoj je pravednosti najveća snaga*. No, kako kaže Gospodin u Mt 5, obilna pravednost obuzdava srdžbu, koja je manji grijeh od ubojstva, koje obuzdava manja pravednost. Dakle, najvećoj se kreposti protivi najmanji grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a4.obj2": {
+      "text": "Osim toga, u II. knjizi Etike kaže se da se krepost bavi teškim i dobrim, iz čega se čini da se veća krepost bavi onim što je teže. No grijeh je manji ako čovjek zakaže u onome što je teže nego ako zakaže u onome što je manje teško. Dakle, većoj se kreposti protivi manji grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a4.obj3": {
+      "text": "Osim toga, ljubav je veća krepost od vjere i nade, kako se kaže u 1 Kor 13. A mržnja, koja se protivi ljubavi, manji je grijeh od nevjere ili očaja, koji se protive vjeri i nadi. Dakle, većoj se kreposti protivi manji grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a4.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u VIII. knjizi Etike, da je *najgore protivno najboljemu*. A najbolje je u moralnom području najveća krepost, a najgore najteži grijeh. Dakle, najvećoj se kreposti protivi najteži grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a4.resp": {
+      "text": "Odgovaram: treba reći da se kreposti neki grijeh protivi, na jedan način glavno i izravno, onaj naime koji se tiče istoga predmeta, jer se protivnosti tiču istoga. I na taj način većoj kreposti mora se protiviti teži grijeh. Kao što se, naime, sa strane predmeta prosuđuje veća težina grijeha, tako i veće dostojanstvo kreposti, jer oboje dobiva vrstu od predmeta, kao što je jasno iz rečenoga. Stoga se najvećoj kreposti mora izravno protiviti najveći grijeh, kao ono što je od nje najudaljenije u istom rodu. Na drugi se način može razmatrati suprotstavljenost kreposti grijehu po nekoj protegnutosti kreposti koja obuzdava grijeh: što je, naime, krepost veća, to više udaljuje čovjeka od grijeha koji joj je protivan, tako da obuzdava ne samo sam grijeh nego i ono što navodi na grijeh. I tako je očito da, što je neka krepost veća, to obuzdava i manje grijehe, kao što i zdravlje, što je veće, to isključuje i manje poremećaje. I na taj se način većoj kreposti protivi manji grijeh sa strane učinka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj razlog govori o suprotstavljenosti koja se prosuđuje po obuzdavanju grijeha, jer tako obilna pravednost obuzdava i manje grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a4.ad2": {
+      "text": "Na drugo treba reći da se većoj kreposti, koja se bavi težim dobrom, izravno protivi grijeh koji se bavi težim zlom. U oba se slučaja, naime, nalazi neka nadmašnost, time što se pokazuje da je volja sklonija dobru ili zlu, budući da je teškoća ne svladava.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a4.ad3": {
+      "text": "Na treće treba reći da ljubav (caritas) nije bilo kakva ljubav (amor), nego ljubav (amor) prema Bogu. Stoga joj se izravno ne protivi bilo kakva mržnja, nego mržnja prema Bogu, koja je najteži od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da tjelesni grijesi nisu manje krivnje od duhovnih grijeha. Preljub je, naime, teži grijeh od krađe, jer se kaže u Izr 6: *Nije velike krivnje kad netko ukrade. A tko je preljubnik, zbog nestašice srca upropastit će svoju dušu*. No krađa pripada škrtosti, koja je duhovni grijeh, a preljub bludnosti, koja je tjelesni grijeh. Dakle, tjelesni su grijesi veće krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a5.obj2": {
+      "text": "Osim toga, Augustin kaže, u tumačenju Levitskog zakonika, da se đavao najviše raduje grijehu bludnosti i idolopoklonstva. No više se raduje većoj krivnji. Dakle, budući da je bludnost tjelesni grijeh, čini se da su tjelesni grijesi najveće krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a5.obj3": {
+      "text": "Osim toga, Filozof u VII. knjizi Etike dokazuje da je *onaj tko je neuzdržljiv u požudi sramotniji od onoga tko je neuzdržljiv u srdžbi*. No srdžba je duhovni grijeh, prema Grguru, u XXXI. knjizi Moralija, a požuda pripada tjelesnim grijesima. Dakle, tjelesni je grijeh teži od duhovnoga grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur, da su tjelesni grijesi manje krivnje, a veće sramote.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a5.resp": {
+      "text": "Odgovaram: treba reći da su duhovni grijesi veće krivnje od tjelesnih grijeha. To ne treba shvatiti kao da je svaki duhovni grijeh veće krivnje od svakoga tjelesnog grijeha, nego da su, uzme li se u obzir samo ta razlika duhovnosti i tjelesnosti, teži od ostalih grijeha, uz ostale jednake uvjete. Za to se može navesti trostruk razlog. Prvi je sa strane subjekta. Jer duhovni grijesi pripadaju duhu, kojemu je svojstveno okrenuti se prema Bogu i odvratiti se od njega, a tjelesni se grijesi dovršavaju u nasladi tjelesne težnje, kojoj prvenstveno pripada okretati se prema tjelesnom dobru. I zato tjelesni grijeh, kao takav, ima više okretanja, zbog čega je i jače prianjanje, a duhovni grijeh ima više odvraćanja, iz kojega proizlazi pojam krivnje. I zato je duhovni grijeh, kao takav, veće krivnje. Drugi se razlog može uzeti sa strane onoga protiv koga se griješi. Jer tjelesni je grijeh, kao takav, protiv vlastitoga tijela, koje prema redu ljubavi treba manje ljubiti nego Boga i bližnjega, protiv kojih se griješi duhovnim grijesima. I zato su duhovni grijesi, kao takvi, veće krivnje. Treći se razlog može uzeti sa strane pobude. Jer što je jači poticaj na griješenje, to čovjek manje griješi, kao što će se niže reći. A tjelesni grijesi imaju žešći poticaj, to jest samu požudu tijela, koja nam je urođena. I zato su duhovni grijesi, kao takvi, veće krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da preljub ne pripada samo grijehu bludnosti, nego pripada i grijehu nepravednosti. I s obzirom na to može se svesti na škrtost, kako kaže Glosa uz Ef, uz ono: *Svaki bludnik ili nečist ili škrtac*. I tada je preljub teži od krađe utoliko što je čovjeku žena draža od posjedovane stvari.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a5.ad2": {
+      "text": "Na drugo treba reći da se za đavla kaže da se najviše raduje grijehu bludnosti zato što taj grijeh najjače prianja i čovjek se iz njega teško može istrgnuti; nezasitna je, naime, težnja za ugodnim, kako kaže Filozof u III. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a5.ad3": {
+      "text": "Na treće treba reći da Filozof kaže da je onaj tko je neuzdržljiv u požudi sramotniji od onoga tko je neuzdržljiv u srdžbi zato što manje ima udjela u razumu. I prema tome kaže i u III. knjizi Etike da su grijesi neumjerenosti najviše za prijekor, jer se tiču onih naslada koje su zajedničke nama i nerazumnim životinjama; stoga po tim grijesima čovjek na neki način postaje sličan životinji. I odatle dolazi da su, kako kaže Grgur, veće sramote.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se težina grijeha ne prosuđuje prema uzroku grijeha. Što je, naime, uzrok grijeha veći, to žešće pokreće na griješenje, pa mu se tako teže može oduprijeti. No grijeh se umanjuje time što mu se teže odupire, jer to pripada slabosti grešnika da se ne odupire lako grijehu, a grijeh koji je iz slabosti prosuđuje se kao lakši. Dakle, grijeh nema težinu sa strane svoga uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a6.obj2": {
+      "text": "Osim toga, požuda je neki opći uzrok grijeha, zbog čega Glosa kaže uz ono iz Rim 7: *Jer ne bih poznavao požude itd., dobar je zakon, koji, zabranjujući požudu, zabranjuje svako zlo*. No što je čovjek svladan većom požudom, to je manji grijeh. Dakle, težina se grijeha umanjuje veličinom uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a6.obj3": {
+      "text": "Osim toga, kao što je ispravnost razuma uzrok kreposnog čina, tako se čini da je nedostatak razuma uzrok grijeha. No što je nedostatak razuma veći, to je grijeh manji, toliko da su oni kojima nedostaje uporaba razuma posve ispričani od grijeha, a tko griješi iz neznanja, griješi lakše. Dakle, težina grijeha ne povećava se veličinom uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a6.sc": {
+      "text": "Ali protiv toga, kad se umnoži uzrok, umnožava se učinak. Dakle, ako je uzrok grijeha veći, grijeh će biti teži.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a6.resp": {
+      "text": "Odgovaram: treba reći da se u rodu grijeha, kao i u bilo kojem drugom rodu, može uzeti dvostruk uzrok. Jedan je vlastiti uzrok grijeha i uzrok po sebi, a to je sama volja za griješenjem; ona se, naime, prema grešnom činu odnosi kao stablo prema plodu, kako se kaže u Glosi uz ono iz Mt 7: *Ne može dobro stablo donositi zle plodove*. I što je takav uzrok veći, to će grijeh biti teži, jer što je volja za griješenjem veća, to čovjek teže griješi. Drugi se pak uzroci grijeha uzimaju kao izvanjski i udaljeni, to jest oni od kojih se volja nagiba na griješenje. I među tim uzrocima treba razlikovati. Neki od njih, naime, navode volju na griješenje u skladu sa samom naravi volje, kao svrha, koja je vlastiti predmet volje. I od takvog se uzroka grijeh povećava, jer teže griješi onaj čija se volja nagiba na griješenje smjerajući na goru svrhu. Drugi su pak uzroci oni koji nagibaju volju na griješenje mimo naravi i reda same volje, koja je po naravi takva da se slobodno pokreće sama od sebe prema sudu razuma. Stoga uzroci koji umanjuju sud razuma, kao neznanje, ili koji umanjuju slobodni pokret volje, kao slabost ili nasilje ili strah ili nešto takvo, umanjuju grijeh, kao što umanjuju i ono što je voljno, toliko da, ako je čin posve protuvoljan, nema pojam grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj prigovor govori o izvanjskom pokretnom uzroku, koji umanjuje ono što je voljno; porast takvog uzroka umanjuje grijeh, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a6.ad2": {
+      "text": "Na drugo treba reći da, ako se pod požudom uključi i sam pokret volje, onda gdje je veća požuda, ondje je veći grijeh. Ako se pak požudom naziva neka strast, koja je pokret požudne sile, onda veća požuda koja prethodi sudu razuma i pokretu volje umanjuje grijeh, jer tko griješi potaknut većom požudom, pada od teže kušnje, pa mu se stoga manje uračunava. Ako pak tako shvaćena požuda slijedi sud razuma i pokret volje, onda gdje je veća požuda, ondje je veći grijeh, jer ponekad nastaje jači pokret požude time što volja neobuzdano teži prema svom predmetu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a6.ad3": {
+      "text": "Na treće treba reći da onaj razlog govori o uzroku koji uzrokuje ono što je protuvoljno, a takav uzrok umanjuje grijeh, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da okolnost ne otežava grijeh. Grijeh, naime, ima težinu od svoje vrste. A okolnost ne daje grijehu vrstu, budući da je neki njegov akcident. Dakle, težina grijeha ne razmatra se prema okolnosti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a7.obj2": {
+      "text": "Osim toga, okolnost je ili zla ili nije. Ako je okolnost zla, ona po sebi uzrokuje neku vrstu zla; ako pak nije zla, nema čime povećati zlo. Dakle, okolnost ni na koji način ne povećava grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a7.obj3": {
+      "text": "Osim toga, zloća je grijeha sa strane odvraćanja. No okolnosti prate grijeh sa strane okretanja. Dakle, ne povećavaju zloću grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a7.sc": {
+      "text": "Ali protiv toga je to što neznanje okolnosti umanjuje grijeh: tko, naime, griješi iz neznanja okolnosti, zaslužuje oproštenje, kako se kaže u III. knjizi Etike. A to ne bi bilo kad okolnost ne bi otežavala grijeh. Dakle, okolnost otežava grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a7.resp": {
+      "text": "Odgovaram: treba reći da je svaka stvar po naravi takva da se povećava od onoga od čega se uzrokuje, kao što Filozof kaže o habitusu kreposti, u II. knjizi Etike. A očito je da se grijeh uzrokuje nedostatkom neke okolnosti, jer se od reda razuma odstupa time što netko u djelovanju ne poštuje dužne okolnosti. Stoga je očito da je grijeh po naravi takav da se otežava okolnošću. A to se događa na tri načina. Na jedan način, ukoliko okolnost prenosi u drugi rod grijeha. Tako se grijeh bluda sastoji u tome što čovjek pristupa ženi koja nije njegova; ako se pak doda ta okolnost da je ona kojoj pristupa žena drugoga, to se već prenosi u drugi rod grijeha, naime u nepravednost, ukoliko čovjek prisvaja tuđu stvar. I prema tome je preljub teži grijeh od bluda. Ponekad pak okolnost ne otežava grijeh tako da ga povlači u drugi rod grijeha, nego samo zato što umnožava pojam grijeha. Tako, ako rasipnik daje kada ne treba i komu ne treba, višestruko griješi u istom rodu grijeha nego kad bi samo davao komu ne treba. I upravo time grijeh postaje teži, kao što je i bolest teža koja zahvaća više dijelova tijela. Stoga i Tulije kaže u Paradoksima da se *u nasrtaju na očev život mnogo griješi: povređuje se, naime, onaj koji je rodio, koji je hranio, koji je odgojio, koji je smjestio u dom i kuću i u državu*. Na treći način okolnost otežava grijeh time što povećava izopačenost koja potječe od druge okolnosti. Tako uzimanje tuđega sačinjava grijeh krađe; ako se pak doda ta okolnost da netko uzme mnogo tuđega, grijeh je teži, premda uzeti mnogo ili malo samo po sebi ne znači pojam dobra ili zla.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da neka okolnost daje vrstu moralnom činu, kao što je gore utvrđeno. A ipak okolnost koja ne daje vrstu može otežati grijeh. Jer kao što se dobrota stvari ne procjenjuje samo prema njezinoj vrsti nego i prema nekom akcidentu, tako se i zloća čina ne procjenjuje samo prema vrsti čina nego i prema okolnosti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a7.ad2": {
+      "text": "Na drugo treba reći da okolnost može otežati grijeh na oba načina. Ako je, naime, zla, ipak zbog toga ne mora uvijek sačinjavati vrstu grijeha, jer može dodati pojam zloće unutar iste vrste, kao što je rečeno. Ako pak nije zla, može otežati grijeh s obzirom na zloću druge okolnosti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a7.ad3": {
+      "text": "Na treće treba reći da razum mora uređivati čin ne samo s obzirom na predmet nego i s obzirom na sve okolnosti. I zato se neko odvraćanje od pravila razuma prosuđuje prema pokvarenosti bilo koje okolnosti, primjerice ako netko djeluje kada ne treba ili gdje ne treba. I takvo je odvraćanje dovoljno za pojam zla. A to odvraćanje od pravila razuma slijedi odvraćanje od Boga, s kojim se čovjek mora sjediniti po ispravnom razumu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da se težina grijeha ne povećava s većom štetom. Šteta je, naime, neki ishod koji slijedi grešni čin. No ishod koji slijedi ne dodaje ništa dobroti ili zloći čina, kao što je gore rečeno. Dakle, grijeh se ne otežava zbog veće štete.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a8.obj2": {
+      "text": "Osim toga, šteta se najviše nalazi u grijesima koji su protiv bližnjega, jer sebi samome nitko ne želi naškoditi, a Bogu nitko ne može naškoditi, prema onome iz Job 35: *Ako se umnože tvoja bezakonja, što ćeš mu učiniti? Čovjeku, koji je sličan tebi, naškodit će tvoja bezbožnost*. Ako bi se, dakle, grijeh otežavao zbog veće štete, slijedilo bi da je grijeh kojim netko griješi protiv bližnjega teži od grijeha kojim netko griješi protiv Boga ili protiv sebe samoga.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a8.obj3": {
+      "text": "Osim toga, veća se šteta nanosi nekomu kad ga se liši života milosti nego kad ga se liši naravnoga života, jer je život milosti bolji od naravnoga života, toliko da čovjek mora prezreti naravni život da ne izgubi život milosti. No onaj tko navodi neku ženu na blud, koliko je do njega, lišava je života milosti, navodeći je na smrtni grijeh. Ako bi, dakle, grijeh bio teži zbog veće štete, slijedilo bi da obični bludnik griješi teže od ubojice, što je očito lažno. Dakle, grijeh nije teži zbog veće štete.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a8.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u III. knjizi djela O slobodnoj volji: *Budući da se porok protivi naravi, toliko se dodaje zloći poroka koliko se oduzima cjelovitosti naravi*. No umanjenje cjelovitosti naravi jest šteta. Dakle, grijeh je to teži što je šteta veća.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a8.resp": {
+      "text": "Odgovaram: treba reći da se šteta prema grijehu može odnositi na tri načina. Ponekad je, naime, šteta koja proizlazi iz grijeha predviđena i namjeravana, kao kad netko nešto čini s nakanom da naškodi drugome, kao ubojica ili kradljivac. I tada veličina štete izravno povećava težinu grijeha, jer je tada šteta po sebi predmet grijeha. Ponekad je pak šteta predviđena, ali ne i namjeravana, kao kad netko, prolazeći preko njive da bi kraćim putem išao bludničiti, svjesno nanosi štetu onome što je posijano na njivi, premda ne s nakanom da naškodi. I tako veličina štete također otežava grijeh, ali neizravno, ukoliko naime iz volje koja je jako nagnuta na griješenje proizlazi to da netko ne propušta nanijeti štetu sebi ili drugome, a što naprosto ne bi htio. Ponekad pak šteta nije ni predviđena ni namjeravana. I tada, ako se prema grijehu odnosi akcidentalno, ne otežava grijeh izravno; ali zbog nemara u razmatranju šteta koje bi mogle uslijediti, čovjeku se za kaznu uračunavaju zla koja se dogode mimo njegove nakane, ako se bavio nečim nedopuštenim. Ako pak šteta po sebi slijedi iz grešnog čina, premda nije ni namjeravana ni predviđena, izravno otežava grijeh, jer sve što po sebi slijedi grijeh na neki način pripada samoj vrsti grijeha. Primjerice, ako netko javno bludniči, slijedi sablazan mnogih, i premda on to ne namjerava, a možda ni ne predviđa, grijeh se time izravno otežava. Drukčije se, međutim, čini da stoji sa štetom koja je kazna, a koju trpi sam onaj tko griješi. Takva, naime, šteta, ako se prema grešnom činu odnosi akcidentalno i nije ni predviđena ni namjeravana, ne otežava grijeh niti slijedi iz veće težine grijeha, kao kad netko, trčeći da ubije, posrne i ozlijedi si nogu. Ako pak takva šteta po sebi slijedi grešni čin, premda možda nije ni predviđena ni namjeravana, tada veća šteta ne čini grijeh težim, nego obratno, teži grijeh donosi težu štetu. Tako će neki nevjernik, koji ništa nije čuo o kaznama pakla, trpjeti u paklu težu kaznu za grijeh ubojstva nego za grijeh krađe; budući, naime, da to ni ne namjerava ni ne predviđa, grijeh se time ne otežava (kao što se događa kod vjernika, za kojega se čini da teže griješi upravo time što prezire veće kazne da bi ispunio volju za grijehom), nego se težina takve štete uzrokuje samo težinom grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što je također gore rečeno kad se raspravljalo o dobroti i zloći vanjskih čina, ishod koji slijedi, ako je predviđen i namjeravan, dodaje dobroti ili zloći čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a8.ad2": {
+      "text": "Na drugo treba reći da, premda šteta otežava grijeh, ipak ne slijedi da se grijeh otežava samo štetom; štoviše, grijeh je po sebi teži zbog neurednosti, kao što je gore rečeno. Stoga i sama šteta otežava grijeh ukoliko čini da čin bude neuredniji. Stoga ne slijedi, ako šteta najviše ima mjesta u grijesima koji su protiv bližnjega, da su ti grijesi najteži, jer se mnogo veća neurednost nalazi u grijesima koji su protiv Boga i u nekima od onih koji su protiv sebe samoga. A ipak se može reći da, premda Bogu nitko ne može naškoditi s obzirom na njegovu supstanciju, ipak se može pokušati nanijeti šteta onome što je Božje, kao iskorjenjivanjem vjere ili oskvrnjivanjem svetinja, a to su najteži grijesi. I sebi samome netko ponekad svjesno i voljno nanosi štetu, kao što je jasno kod onih koji se ubijaju, premda to u konačnici odnose na neko prividno dobro, primjerice na to da se oslobode neke tjesnobe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a8.ad3": {
+      "text": "Na treće treba reći da onaj zaključak ne slijedi, iz dva razloga. Prvo, zato što ubojica izravno namjerava štetu bližnjega, a bludnik koji izaziva ženu ne namjerava štetu, nego nasladu. Drugo, zato što je ubojica uzrok tjelesne smrti po sebi i dostatan, dok duhovne smrti nitko ne može drugome biti uzrok po sebi i dostatan, jer nitko duhovno ne umire osim griješeći vlastitom voljom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da se grijeh ne otežava zbog položaja osobe protiv koje se griješi. Kad bi to bilo tako, najviše bi se otežavao time što netko griješi protiv nekog pravednog i svetog muža. No time se grijeh ne otežava, jer krepostan čovjek, koji nanesenu nepravdu podnosi mirne duše, biva njome manje povrijeđen od drugih, koji bivaju povrijeđeni i time što se iznutra sablazne. Dakle, položaj osobe protiv koje se griješi ne otežava grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a9.obj2": {
+      "text": "Osim toga, kad bi položaj osobe otežavao grijeh, najviše bi ga otežavala bliskost, jer, kako kaže Tulije u Paradoksima, *u ubijanju roba griješi se jednom, a u nasrtaju na očev život griješi se mnogo*. No čini se da bliskost osobe protiv koje se griješi ne otežava grijeh, jer je svatko sam sebi najbliži; a ipak manje griješi onaj tko nanosi neku štetu sebi nego kad bi je nanosio drugome, primjerice kad bi ubio svoga konja nego kad bi ubio tuđega konja, kao što je jasno iz Filozofa, u V. knjizi Etike. Dakle, bliskost osobe ne otežava grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a9.obj3": {
+      "text": "Osim toga, položaj osobe koja griješi osobito otežava grijeh zbog dostojanstva ili znanja, prema onome iz Mudr 6: *Moćnici će moćno trpjeti muke*; i Lk 12: *Sluga koji zna volju gospodara i ne vrši je, bit će mnogo udaraca išiban*. Dakle, s jednakim razlogom, sa strane osobe protiv koje se griješi, grijeh bi više otežavalo dostojanstvo ili znanje osobe protiv koje se griješi. No ne čini se da teže griješi onaj tko nanosi nepravdu bogatijoj ili moćnijoj osobi nego nekom siromahu, jer kod Boga nema pristranosti prema osobama, a prema njegovu se sudu procjenjuje težina grijeha. Dakle, položaj osobe protiv koje se griješi ne otežava grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a9.sc": {
+      "text": "Ali protiv toga je to što se u Svetom pismu posebno kudi grijeh koji se počinja protiv Božjih slugu, kao u 1 Kr 19: *Tvoje su žrtvenike razorili i tvoje proroke mačem pobili*. Posebno se kudi i grijeh počinjen protiv bliskih osoba, prema onome iz Mih 7: *Sin sramoti oca, kći ustaje protiv svoje majke*. Posebno se kudi i grijeh koji se počinja protiv osoba postavljenih u dostojanstvo, kao što je jasno iz Job 34: *Koji kaže kralju: Otpadniče; koji vođe naziva bezbožnicima*. Dakle, položaj osobe protiv koje se griješi otežava grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a9.resp": {
+      "text": "Odgovaram: treba reći da je osoba protiv koje se griješi na neki način predmet grijeha. A gore je rečeno da se prva težina grijeha prosuđuje sa strane predmeta. Prema tome se u grijehu prosuđuje to veća težina što je njegov predmet glavnija svrha. A glavne su svrhe ljudskih čina Bog, sam čovjek i bližnji: što god, naime, činimo, činimo radi nečega od toga, premda je i od te trojice jedno podređeno drugome. Može se, dakle, sa strane te trojice razmatrati veća ili manja težina u grijehu prema položaju osobe protiv koje se griješi. Prvo, sa strane Boga, s kojim je neki čovjek to više sjedinjen što je krepostniji ili Bogu posvećeniji. I zato se nepravda nanesena takvoj osobi više odražava na Boga, prema onome iz Zah 2: *Tko se vas dotakne, dotiče se zjenice moga oka*. Stoga grijeh postaje teži time što se griješi protiv osobe koja je više sjedinjena s Bogom, bilo zbog kreposti bilo zbog službe. Sa strane pak samoga sebe, očito je da netko to teže griješi što je sagriješio protiv osobe koja mu je bliža, bilo naravnom svezom, bilo dobročinstvima, bilo bilo kakvom povezanošću, jer se čini da više griješi protiv sebe samoga, i utoliko teže griješi, prema onome iz Sir 14: *Tko je sebi zao, komu će biti dobar?* Sa strane pak bližnjega, to se teže griješi što grijeh dotiče više njih. I zato je grijeh koji se čini protiv javne osobe, primjerice kralja ili vladara, koji predstavlja osobu cijeloga mnoštva, teži od grijeha koji se počinja protiv jedne privatne osobe; stoga se posebno kaže u Izl 22: *Vladara svoga naroda nemoj proklinjati*. I slično, nepravda koja se nanosi nekoj glasovitoj osobi čini se težom zato što se odražava na sablazan i uznemirenje mnogih.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj tko nanosi nepravdu krepostnome, koliko je do njega, uznemiruje ga i iznutra i izvana. A to što se on iznutra ne uznemiruje dolazi od njegove dobrote, koja ne umanjuje grijeh onoga koji nanosi nepravdu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a9.ad2": {
+      "text": "Na drugo treba reći da šteta koju netko nanosi sebi samome u onome što je podložno gospodstvu vlastite volje, kao u posjedovanim stvarima, ima manje grijeha nego kad se nanosi drugome, jer to čini vlastitom voljom. Ali u onome što nije podložno gospodstvu volje, kao što su naravna i duhovna dobra, teži je grijeh nanijeti štetu sebi samome: teže, naime, griješi onaj tko ubije sebe nego onaj tko ubije drugoga. Ali budući da stvari naših bližnjih nisu podložne gospodstvu naše volje, onaj razlog ne vrijedi za štete nanesene njihovim stvarima, kao da bi se u vezi s njima manje griješilo, osim možda ako oni to hoće ili odobravaju.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a9.ad3": {
+      "text": "Na treće treba reći da nije pristranost prema osobama ako Bog teže kažnjava onoga tko griješi protiv uzvišenijih osoba, jer to biva zato što se to odražava na štetu mnogih.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da veličina osobe koja griješi ne otežava grijeh. Čovjek, naime, ponajviše postaje velik time što prianja uz Boga, prema onome iz Sir 25: *Kako je velik onaj koji nađe mudrost i znanje! Ali nije iznad onoga koji se boji Boga*. No što netko više prianja uz Boga, to mu se nešto manje uračunava u grijeh, jer se kaže u 2 Ljet 30: *Dobri će Gospodin biti milostiv svima koji svim srcem traže Gospodina, Boga svojih otaca, i neće im se uračunati što su manje posvećeni*. Dakle, grijeh se ne otežava veličinom osobe koja griješi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a10.obj2": {
+      "text": "Osim toga, kod Boga nema pristranosti prema osobama, kako se kaže u Rim 2. Dakle, za jedan te isti grijeh ne kažnjava jednoga više nego drugoga. Prema tome, grijeh se ne otežava veličinom osobe koja griješi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a10.obj3": {
+      "text": "Osim toga, nitko ne smije od dobra imati nepogodnost. A imao bi je kad bi mu se ono što čini više uračunavalo u krivnju. Dakle, zbog veličine osobe koja griješi grijeh se ne otežava.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a10.sc": {
+      "text": "Ali protiv toga je ono što kaže Izidor u II. knjizi djela O najvišem dobru: *Grijeh se spoznaje to većim što se onaj koji griješi smatra većim*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a10.resp": {
+      "text": "Odgovaram: treba reći da je grijeh dvostruk. Jedan proizlazi iz iznenadnog prikradanja, zbog slabosti ljudske naravi. I takav se grijeh manje uračunava onome tko je veći u kreposti, zato što manje zanemaruje suzbijanje takvih grijeha, kojima ipak ljudska slabost ne dopušta da posve izmakne. Drugi pak grijesi proizlaze iz promišljanja. I ti se grijesi nekomu to više uračunavaju što je veći. A to može biti zbog četiri razloga. Prvo, zato što se grijehu lakše mogu oduprijeti veći, primjerice oni koji se ističu znanjem i krepošću. Stoga Gospodin kaže, u Lk 12, da će *sluga koji zna volju svoga gospodara i ne vrši je, biti mnogo udaraca išiban*. Drugo, zbog nezahvalnosti, jer je svako dobro kojim netko biva uzvišen Božje dobročinstvo, prema kojemu čovjek griješeći postaje nezahvalan. I s obzirom na to svaka veća odličnost, pa i u vremenitim dobrima, otežava grijeh, prema onome iz Mudr 6: *Moćnici će moćno trpjeti muke*. Treće, zbog posebne nespojivosti grešnog čina s veličinom osobe, kao kad bi vladar povrijedio pravednost, a postavljen je za čuvara pravednosti, ili kad bi svećenik bludničio, a zavjetovao je čistoću. Četvrto, zbog primjera ili sablazni, jer, kako kaže Grgur u Pastoralnom pravilu, *krivnja se snažno širi kao primjer kad se grešnika časti zbog poštovanja prema njegovu stupnju*. A grijesi velikih dolaze i do znanja većeg broja ljudi, i ljudi ih teže podnose.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj autoritet govori o onome što se nemarno čini iznenadnim prikradanjem ljudske slabosti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a10.ad2": {
+      "text": "Na drugo treba reći da Bog nije pristran prema osobama ako veće više kažnjava, jer njihova veća odličnost pridonosi težini grijeha, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    },
+    "I-II.q73.a10.ad3": {
+      "text": "Na treće treba reći da velik čovjek nema nepogodnost od dobra koje ima, nego od njegove zle uporabe.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:44+00:00"
+    }
+  }
+}

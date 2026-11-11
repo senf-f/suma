@@ -1,0 +1,336 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 71,
+  "units": {
+    "I-II.q71.pr": {
+      "text": "Potom treba razmotriti poroke i grijehe. U vezi s njima valja razmotriti šest stvari: prvo, same poroke i grijehe po sebi; drugo, njihovo razlikovanje; treće, njihovu međusobnu usporedbu; četvrto, subjekt grijeha; peto, njegov uzrok; šesto, njegov učinak. U vezi s prvim pita se šest stvari. Prvo, protivi li se porok kreposti. Drugo, je li porok protiv naravi. Treće, što je gore, porok ili poročan čin. Četvrto, može li poročan čin biti zajedno s krepošću. Peto, postoji li u svakom grijehu neki čin. Šesto, o definiciji grijeha koju postavlja Augustin u XXII. knjizi Protiv Fausta: *grijeh je nešto rečeno, učinjeno ili požuđeno protiv vječnoga zakona*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se porok ne protivi kreposti. Jednomu je, naime, protivno samo jedno, kako se dokazuje u X. knjizi Metafizike. Ali kreposti se protive grijeh i zloća. Dakle, ne protivi joj se porok, jer se porokom naziva i nepripadno stanje tjelesnih udova ili bilo kojih stvari.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a1.obj2": {
+      "text": "Osim toga, krepost označuje neku savršenost moći. Ali porok ne označuje ništa što pripada moći. Dakle, porok se ne protivi kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a1.obj3": {
+      "text": "Osim toga, Tulije kaže u IV. knjizi Tuskulanskih rasprava da je *krepost neko zdravlje duše*. A zdravlju se suprotstavlja nemoć ili bolest više nego porok. Dakle, kreposti se ne protivi porok.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O savršenosti pravednosti, da je *porok kakvoća po kojoj je duh zao*. A krepost je kakvoća koja onoga tko je ima čini dobrim, kako je jasno iz rečenoga. Dakle, porok se protivi kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a1.resp": {
+      "text": "Odgovaram: treba reći da u vezi s krepošću možemo razmatrati dvoje: samu bit kreposti i ono čemu je krepost namijenjena. U samoj biti kreposti nešto se može razmatrati izravno, a nešto kao posljedica. Izravno krepost uključuje neku raspoloživost nečega što se prikladno drži prema načinu svoje naravi; stoga Filozof kaže u VII. knjizi Fizike da je *krepost raspoloživost savršenoga prema najboljemu; a savršenim nazivam ono što je raspoloženo prema naravi*. Kao posljedica pak slijedi da je krepost neka dobrota: dobrota se, naime, svake stvari sastoji u tome da se prikladno drži prema načinu svoje naravi. A ono prema čemu je krepost usmjerena jest dobar čin, kako je jasno iz rečenoga. Prema tome, nalazimo da se kreposti suprotstavlja troje. Jedno je od toga grijeh, koji joj se suprotstavlja s obzirom na ono prema čemu je krepost usmjerena: grijeh, naime, u vlastitom smislu označuje neuređen čin, kao što je čin kreposti uređen i dužni čin. S obzirom pak na to što iz pojma kreposti slijedi, naime da je ona neka dobrota, kreposti se suprotstavlja zloća. A s obzirom na ono što izravno pripada pojmu kreposti, kreposti se suprotstavlja porok: porok se, naime, svake stvari, čini se, sastoji u tome da ona nije raspoložena onako kako pristaje njezinoj naravi. Stoga Augustin kaže u III. knjizi O slobodnoj volji: *što opaziš da nedostaje savršenosti naravi, to nazovi porokom*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ono troje ne protivi kreposti po istome, nego se grijeh protivi kreposti ukoliko ona proizvodi dobro djelovanje, zloća ukoliko je ona neka dobrota, a porok u vlastitom smislu ukoliko je ona krepost.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a1.ad2": {
+      "text": "Na drugo treba reći da krepost ne uključuje samo savršenost moći koja je počelo djelovanja, nego uključuje i dužnu raspoloživost onoga čija je krepost; a to zato što svaka stvar djeluje ukoliko je u činu. Potrebno je, dakle, da ono što treba proizvoditi dobro djelovanje bude u sebi dobro raspoloženo. I s obzirom na to se porok suprotstavlja kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a1.ad3": {
+      "text": "Na treće treba reći da su, kako kaže Tulije u IV. knjizi Tuskulanskih rasprava, bolesti i bolešljivosti dijelovi poročnosti. U tijelima, naime, bolešću nazivaju pokvarenost cijeloga tijela, primjerice groznicu ili nešto takvo; bolešljivošću pak bolest praćenu slabošću; a porokom ono kad su dijelovi tijela međusobno u neskladu. I premda je u tijelu katkada bolest bez bolešljivosti, primjerice kad je netko iznutra loše raspoložen, ali izvana nije spriječen u uobičajenim djelovanjima, ipak se u duhu, kako on sam kaže, to dvoje ne može razlučiti osim u mislima. Nužno je, naime, da onaj tko je iznutra loše raspoložen, imajući neuređeno čuvstvo, time postane slab za vršenje dužnih djelovanja, jer se svako drvo poznaje po svome plodu, to jest čovjek po djelu, kako se kaže u Mt 12. *Ali porok duha*, kako ondje kaže Tulije, *jest habitus ili čuvstvo duha u cijelom životu nepostojano i samo sa sobom nesložno*. To se pak nalazi i bez bolesti ili bolešljivosti, primjerice kad netko griješi iz slabosti ili iz strasti. Stoga porok seže dalje nego bolešljivost ili bolest, kao što i krepost seže dalje nego zdravlje: i zdravlje se, naime, u VII. knjizi Fizike postavlja kao neka krepost. I zato se kreposti prikladnije suprotstavlja porok nego bolešljivost ili bolest.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da porok nije protiv naravi. Porok se, naime, protivi kreposti, kako je rečeno. Ali kreposti nisu u nama od naravi, nego se u nama uzrokuju ulijevanjem ili navikavanjem, kako je rečeno. Dakle, poroci nisu protiv naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a2.obj2": {
+      "text": "Osim toga, na ono što je protiv naravi ne može se naviknuti, kao što se kamen nikada ne navikne gibati se prema gore, kako se kaže u II. knjizi Etike. Ali neki se naviknu na poroke. Dakle, poroci nisu protiv naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a2.obj3": {
+      "text": "Osim toga, ništa što je protiv naravi ne nalazi se u većini onih koji imaju tu narav. Ali poroci se nalaze u većini ljudi, jer, kako se kaže u Mt 7, *širok je put koji vodi u propast, i mnogi idu njime*. Dakle, porok nije protiv naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a2.obj4": {
+      "text": "Osim toga, grijeh se odnosi prema poroku kao čin prema habitusu, kako je jasno iz rečenoga. Ali grijeh se definira kao nešto rečeno, učinjeno ili požuđeno protiv Božjega zakona, kako je jasno iz Augustina, u XXII. knjizi Protiv Fausta. A Božji je zakon iznad naravi. Dakle, prije treba reći da je porok protiv zakona nego da je protiv naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u III. knjizi O slobodnoj volji: *svaki je porok, upravo time što je porok, protiv naravi*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, porok protivi kreposti. A krepost se svake stvari sastoji u tome da je ona dobro raspoložena u skladu s onim što pristaje njezinoj naravi, kako je gore rečeno. Stoga je potrebno da se u svakoj stvari porok naziva po tome što je ona raspoložena protiv onoga što pristaje naravi. Zato se i zbog toga svaka stvar prekorava: *a vjeruje se da je ime prijekora izvedeno od poroka*, kako kaže Augustin u III. knjizi O slobodnoj volji. Ali treba uzeti u obzir da je narav svake stvari ponajviše forma po kojoj stvar dobiva svoju vrstu. A čovjek se u vrsti ustanovljuje razumskom dušom. I zato je ono što je protiv reda razuma u vlastitom smislu protiv naravi čovjeka ukoliko je čovjek; a ono što je u skladu s razumom, u skladu je s naravi čovjeka ukoliko je čovjek. *A dobro je čovjeka biti u skladu s razumom, a zlo je čovjeka biti mimo razuma*, kako kaže Dionizije u IV. poglavlju O božanskim imenima. Stoga je ljudska krepost, koja čovjeka čini dobrim i njegovo djelo čini dobrim, utoliko u skladu s naravi čovjeka ukoliko je u skladu s razumom, a porok je utoliko protiv naravi čovjeka ukoliko je protiv reda razuma.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da kreposti, premda ih narav ne uzrokuje u njihovu savršenom bitku, ipak naginju prema onome što je u skladu s naravi, to jest u skladu s redom razuma. Tulije, naime, kaže u svojoj Retorici da je *krepost habitus koji je, na način naravi, u skladu s razumom*. I na taj se način kaže da je krepost u skladu s naravi, a po protivnome se shvaća da je porok protiv naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a2.ad2": {
+      "text": "Na drugo treba reći da Filozof ondje govori o onome što je protiv naravi ukoliko se biti protiv naravi suprotstavlja onome što je biti od naravi, a ne ukoliko se biti protiv naravi suprotstavlja onome što je biti u skladu s naravi, na onaj način na koji se za kreposti kaže da su u skladu s naravi, ukoliko naginju prema onome što pristaje naravi.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a2.ad3": {
+      "text": "Na treće treba reći da je u čovjeku dvostruka narav, naime razumska i osjetilna. A budući da čovjek po djelovanju osjetila dolazi do čina razuma, zato ih više slijedi sklonosti osjetilne naravi nego red razuma: više je, naime, onih koji dosegnu početak neke stvari nego onih koji dođu do njezina dovršenja. A poroci i grijesi u ljudima proizlaze iz toga što slijede sklonost osjetilne naravi protiv reda razuma.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a2.ad4": {
+      "text": "Na četvrto treba reći da je sve što je protiv pojma umjetničkog proizvoda također protiv naravi umijeća kojim se umjetnički proizvod izrađuje. A vječni se zakon odnosi prema redu ljudskoga razuma kao umijeće prema umjetničkom proizvodu. Stoga se na isto svodi to da je porok i grijeh protiv reda ljudskoga razuma i to da je protiv vječnoga zakona. Zato Augustin kaže u III. knjizi O slobodnoj volji da *sve naravi imaju od Boga to što su naravi, a utoliko su poročne ukoliko odstupaju od njegova umijeća kojim su načinjene*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je porok, to jest zao habitus, gori od grijeha, to jest od zla čina. Kao što je, naime, dobro koje je trajnije bolje, tako je i zlo koje je trajnije gore. Ali poročan habitus je trajniji od poročnih čina, koji odmah prolaze. Dakle, poročan je habitus gori od poročnoga čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a3.obj2": {
+      "text": "Osim toga, više zala treba više izbjegavati nego jedno zlo. Ali zao habitus virtualno je uzrok mnogih zlih čina. Dakle, poročan je habitus gori od poročnoga čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a3.obj3": {
+      "text": "Osim toga, uzrok je jači od učinka. Ali habitus usavršava čin kako u dobroti tako i u zloći. Dakle, habitus je jači od čina i u dobroti i u zloći.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a3.sc": {
+      "text": "Ali protiv toga, zbog poročnoga čina netko se pravedno kažnjava, a ne zbog poročnoga habitusa, ako ne prijeđe u čin. Dakle, poročan je čin gori od poročnoga habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a3.resp": {
+      "text": "Odgovaram: treba reći da se habitus nalazi na sredini između mogućnosti i čina. A očito je da čin, u dobru i u zlu, nadilazi mogućnost, kako se kaže u IX. knjizi Metafizike: bolje je, naime, dobro djelovati nego moći dobro djelovati; i slično je pokudnije zlo djelovati nego moći zlo djelovati. Stoga slijedi i to da habitus u dobroti i u zloći zauzima srednji stupanj između mogućnosti i čina, tako naime da, kao što dobar ili zao habitus nadilazi mogućnost u dobroti ili zloći, tako je i podređen činu. To je jasno i iz toga što se habitus ne naziva dobrim ili zlim osim po tome što naginje prema dobrom ili zlom činu. Stoga se zbog dobrote ili zloće čina habitus naziva dobrim ili zlim. I tako je čin jači u dobroti ili zloći nego habitus, jer ono zbog čega je nešto takvo, i samo je još više takvo.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ništa ne priječi da nešto naprosto bude jače od drugoga, a da ipak u nekom pogledu za njim zaostaje. Naprosto se, naime, jačim prosuđuje ono što nadilazi s obzirom na ono što se u jednome i drugome razmatra po sebi, a u nekom pogledu ono što nadilazi s obzirom na ono što se akcidentalno odnosi prema jednome i drugome. A iz samoga pojma čina i habitusa pokazano je da je čin jači u dobroti i zloći nego habitus. To pak što je habitus trajniji od čina događa se po tome što se oboje nalazi u takvoj naravi koja ne može uvijek djelovati i čija je radnja u prolaznom gibanju. Stoga je čin naprosto jači kako u dobroti tako i u zloći, a habitus je jači u nekom pogledu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a3.ad2": {
+      "text": "Na drugo treba reći da habitus nije naprosto više čina, nego u nekom pogledu, to jest virtualno. Stoga se iz toga ne može zaključiti da je habitus naprosto jači u dobroti ili zloći nego čin.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a3.ad3": {
+      "text": "Na treće treba reći da je habitus uzrok čina u rodu tvornoga uzroka, a čin je uzrok habitusa u rodu svršnoga uzroka, po kojem se razmatra pojam dobra i zla. I zato u dobroti i zloći čin nadilazi habitus.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da poročan čin, ili grijeh, ne može biti zajedno s krepošću. Protivnosti, naime, ne mogu biti zajedno u istome. Ali grijeh se na neki način protivi kreposti, kako je rečeno. Dakle, grijeh ne može biti zajedno s krepošću.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a4.obj2": {
+      "text": "Osim toga, grijeh je gori od poroka, to jest zao čin gori od zla habitusa. Ali porok ne može biti zajedno s krepošću u istome. Dakle, ni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a4.obj3": {
+      "text": "Osim toga, kao što se grijeh događa u voljnim stvarima, tako se pogreška (peccatum) događa i u prirodnim stvarima, kako se kaže u II. knjizi Fizike. Ali u prirodnim se stvarima pogreška nikada ne događa osim po nekoj pokvarenosti naravne snage, kao što se nakaze događaju kad se pokvari neko počelo u sjemenu, kako se kaže u II. knjizi Fizike. Dakle, ni u voljnim se stvarima grijeh ne događa osim kad se pokvari neka krepost duše. I tako grijeh i krepost ne mogu biti u istome.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u II. knjizi Etike, da se krepost rađa i propada po protivnim činima. Ali jedan krepostan čin ne uzrokuje krepost, kako je gore utvrđeno. Dakle, ni jedan čin grijeha ne uklanja krepost. Mogu, dakle, biti zajedno u istome.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a4.resp": {
+      "text": "Odgovaram: treba reći da se grijeh odnosi prema kreposti kao zao čin prema dobrom habitusu. A drukčije se drži habitus u duši, a drukčije forma u naravnoj stvari. Naravna forma, naime, nužno proizvodi djelovanje koje joj pristaje; stoga s naravnom formom ne može zajedno biti čin protivne forme, kao što s toplinom ne može biti čin hlađenja, niti s lakoćom gibanje spuštanja, osim možda zbog nasilja nekoga vanjskog pokretača. Ali habitus u duši ne proizvodi nužno svoje djelovanje, nego se čovjek njime služi kad hoće. Stoga, i dok habitus postoji u čovjeku, on se može ne služiti habitusom ili izvršiti protivan čin. I tako onaj koji ima krepost može prijeći na čin grijeha. A čin grijeha, ako se usporedi sa samom krepošću ukoliko je ona neki habitus, ne može je pokvariti ako je samo jedan: kao što se, naime, habitus ne rađa jednim činom, tako se ni jednim činom ne kvari, kako je gore rečeno. Ali ako se čin grijeha usporedi s uzrokom kreposti, tada je moguće da se jednim činom grijeha neke kreposti pokvare. Svaki se, naime, smrtni grijeh protivi ljubavi, koja je korijen svih ulivenih kreposti ukoliko su kreposti; i zato se jednim činom smrtnoga grijeha, kad je isključena ljubav, posljedično isključuju sve ulivene kreposti, što se tiče toga da su kreposti. A to kažem zbog vjere i nade, čiji habitusi ostaju neoblikovani nakon smrtnoga grijeha, i tako nisu kreposti. Ali laki grijeh, koji se ne protivi ljubavi niti je isključuje, posljedično ne isključuje ni ostale kreposti. Stečene pak kreposti ne uklanjaju se jednim činom bilo kojega grijeha. Tako, dakle, smrtni grijeh ne može biti zajedno s ulivenim krepostima, ali može biti zajedno sa stečenim krepostima. A laki grijeh može biti zajedno i s ulivenim i sa stečenim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se grijeh ne protivi kreposti po sebi, nego po njezinu činu. I zato grijeh ne može biti zajedno s činom kreposti, ali može biti zajedno s habitusom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a4.ad2": {
+      "text": "Na drugo treba reći da se porok izravno protivi kreposti, kao i grijeh krepostnom činu. I zato porok isključuje krepost, kao što grijeh isključuje čin kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a4.ad3": {
+      "text": "Na treće treba reći da naravne snage djeluju nužno, i zato, dok snaga ostaje neokrnjena, nikada se pogreška ne može naći u činu. Ali kreposti duše ne proizvode čine nužno; stoga razlog nije sličan.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da u svakom grijehu postoji neki čin. Kao što se, naime, zasluga odnosi prema kreposti, tako se grijeh odnosi prema poroku. Ali zasluga ne može postojati bez nekoga čina. Dakle, ni grijeh ne može postojati bez nekoga čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a5.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi O slobodnoj volji da je *svaki grijeh toliko voljan da, ako nije voljan, nije grijeh*. Ali nešto ne može biti voljno osim po činu volje. Dakle, svaki grijeh ima neki čin.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a5.obj3": {
+      "text": "Osim toga, kad bi grijeh postojao bez ikakva čina, slijedilo bi da netko griješi već time što se uzdržava od dužnoga čina. Ali netko se neprestano uzdržava od dužnoga čina, naime onaj koji nikada ne izvršava dužni čin. Dakle, slijedilo bi da neprestano griješi, što je lažno. Dakle, nema nikakva grijeha bez čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Jak 4: *onomu tko zna činiti dobro, a ne čini, grijeh mu je*. Ali ne činiti ne uključuje nikakav čin. Dakle, grijeh može postojati bez čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a5.resp": {
+      "text": "Odgovaram: treba reći da se to pitanje postavlja poglavito zbog grijeha propusta, o kojemu neki misle različito. Neki, naime, kažu da u svakom grijehu propusta postoji neki čin, bilo unutarnji bilo vanjski. Unutarnji, primjerice kad netko hoće ne ići u crkvu kad je dužan ići. Vanjski pak, primjerice kad se netko u onaj sat kad je dužan ići u crkvu, ili čak prije, bavi takvim stvarima kojima je spriječen ići u crkvu. A to se na neki način, čini se, vraća na prvo: tko, naime, hoće nešto s čime drugo ne može zajedno postojati, posljedično hoće biti bez toga; osim možda ako ne promisli da je time što hoće činiti spriječen u onome što je dužan činiti; u tom bi se slučaju mogao prosuditi krivim zbog nemara. Drugi pak kažu da se u grijehu propusta ne zahtijeva nikakav čin: samo je, naime, ne činiti ono što je netko dužan činiti grijeh. Ali oba mišljenja u nečemu imaju istinu. Ako se, naime, u grijehu propusta shvati samo ono što po sebi pripada pojmu grijeha, tada je grijeh propusta katkada s unutarnjim činom, kao kad netko hoće ne ići u crkvu, a katkada bez ikakva čina, bilo unutarnjega bilo vanjskoga, kao kad netko u sat kad je dužan ići u crkvu uopće ne misli ni o odlasku ni o neodlasku u crkvu. Ako se pak u grijehu propusta shvate i uzroci ili prigode propuštanja, tada je nužno da u grijehu propusta postoji neki čin. Grijeh propusta, naime, postoji samo kad netko propušta ono što može činiti i ne činiti. A to da se netko prikloni nečinjenju onoga što može činiti i ne činiti događa se samo iz nekoga uzroka ili prigode, bilo popratne bilo prethodne. I ako taj uzrok nije u čovjekovoj vlasti, propust nema značaj grijeha, kao kad netko zbog bolesti propusti ići u crkvu. Ako pak uzrok ili prigoda propuštanja podliježe volji, propust ima značaj grijeha, i tada je uvijek potrebno da taj uzrok, ukoliko je voljan, ima neki čin, barem unutarnji čin volje. Taj se čin katkada izravno upravlja na sam propust, primjerice kad netko hoće ne ići u crkvu izbjegavajući trud. I tada takav čin po sebi pripada propustu: htijenje, naime, bilo kojega grijeha po sebi pripada tomu grijehu, zato što voljnost pripada pojmu grijeha. Katkada se pak čin volje izravno upravlja na nešto drugo, čime je čovjek spriječen u dužnom činu, bilo da je ono na što se upravlja volja popratno propustu, primjerice kad se netko hoće igrati kad treba ići u crkvu, bilo da mu i prethodi, primjerice kad netko hoće dugo bdjeti uvečer, iz čega slijedi da u jutarnji sat ne ide u crkvu. I tada se taj unutarnji ili vanjski čin akcidentalno odnosi prema propustu, jer propust slijedi mimo nakane; a akcidentalnim nazivamo ono što je mimo nakane, kako je jasno iz II. knjige Fizike. Stoga je očito da tada grijeh propusta doduše ima neki popratni ili prethodni čin, koji se ipak akcidentalno odnosi prema grijehu propusta. A o stvarima treba suditi prema onome što je po sebi, a ne prema onome što je akcidentalno. Stoga se istinitije može reći da neki grijeh može postojati bez ikakva čina. Inače bi i biti ostalih osobnih grijeha pripadali čini i prigode koji ih okružuju.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za dobro zahtijeva više nego za zlo, zato što *dobro nastaje iz cijeloga neokrnjenog uzroka, a zlo iz pojedinačnih nedostataka*, kako kaže Dionizije u IV. poglavlju O božanskim imenima. I zato se grijeh može dogoditi bilo da netko čini ono što ne treba, bilo da ne čini ono što treba; ali zasluge ne može biti ako netko voljno ne čini ono što treba. I zato zasluga ne može postojati bez čina, a grijeh može postojati bez čina.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a5.ad2": {
+      "text": "Na drugo treba reći da se nešto naziva voljnim ne samo zato što se na to odnosi čin volje, nego zato što je u našoj vlasti da se dogodi ili ne dogodi, kako se kaže u III. knjizi Etike. Stoga se i samo to da se ne hoće može nazvati voljnim, ukoliko je u čovjekovoj vlasti htjeti i ne htjeti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a5.ad3": {
+      "text": "Na treće treba reći da se grijeh propusta protivi potvrdnoj zapovijedi, koja obvezuje uvijek, ali ne u svakom trenutku. I zato netko uzdržavajući se od čina griješi samo za ono vrijeme za koje potvrdna zapovijed obvezuje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se grijeh neprikladno definira kad se kaže da je grijeh *nešto rečeno, učinjeno ili požuđeno protiv vječnoga zakona*. Rečeno, naime, ili učinjeno, ili požuđeno uključuje neki čin. Ali ne uključuje svaki grijeh neki čin, kako je rečeno. Dakle, ta definicija ne obuhvaća svaki grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi O dvjema dušama: *grijeh je htijenje da se zadrži ili postigne ono što pravednost zabranjuje*. Ali htijenje je obuhvaćeno požudom, ukoliko se požuda uzima u širokom smislu, za svaku težnju. Dakle, bilo bi dovoljno reći: grijeh je nešto požuđeno protiv vječnoga zakona; i nije trebalo dodati: rečeno ili učinjeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.obj3": {
+      "text": "Osim toga, čini se da se grijeh u vlastitom smislu sastoji u odvraćanju od svrhe: dobro se, naime, i zlo poglavito razmatraju s obzirom na svrhu, kako je jasno iz rečenoga. Stoga i Augustin u I. knjizi O slobodnoj volji definira grijeh u odnosu prema svrsi, govoreći da *griješiti nije ništa drugo nego, zanemarivši vječne stvari, ići za vremenitima*; a u knjizi Osamdeset i tri pitanja kaže da je *sva ljudska izopačenost u tome da se služimo onim u čemu treba uživati i uživamo u onome čime se treba služiti*. Ali u spomenutoj definiciji nema nikakva spomena o odvraćanju od dužne svrhe. Dakle, grijeh je nedostatno definiran.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.obj4": {
+      "text": "Osim toga, za nešto se kaže da je zabranjeno po tome što se protivi zakonu. Ali nisu svi grijesi zli zato što su zabranjeni, nego su neki zabranjeni zato što su zli. Dakle, u opću definiciju grijeha nije trebalo staviti da je protiv Božjega zakona.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.obj5": {
+      "text": "Osim toga, grijeh označuje zao čin čovjeka, kako je jasno iz rečenoga. Ali zlo čovjeka jest biti protiv razuma, kako kaže Dionizije u IV. poglavlju O božanskim imenima. Dakle, radije je trebalo reći da je grijeh protiv razuma nego da je grijeh protiv vječnoga zakona.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.sc": {
+      "text": "Kao protivni dokaz dostatan je Augustinov autoritet.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.resp": {
+      "text": "Odgovaram: treba reći da, kako je jasno iz rečenoga, grijeh nije ništa drugo nego zao ljudski čin. A to da je neki čin ljudski ima po tome što je voljan, kako je jasno iz rečenoga, bilo da je voljan kao izveden od volje, kao samo htijenje i biranje, bilo kao zapovjeđen od volje, kao vanjski čini govora ili djelovanja. A ljudski čin ima to da je zao po tome što mu nedostaje dužna razmjernost. Svaka se pak razmjernost bilo koje stvari prosuđuje usporedbom s nekim pravilom, od kojega, ako odstupi, bit će nerazmjerna. A pravilo je ljudske volje dvostruko: jedno je blisko i istorodno, naime sam ljudski razum; drugo je pak prvo pravilo, naime vječni zakon, koji je kao neki Božji razum. I zato je Augustin u definiciju grijeha stavio dvoje: jedno što pripada supstanciji ljudskoga čina, što je kao tvarno u grijehu, kad je rekao: rečeno, učinjeno ili požuđeno; a drugo što pripada pojmu zla, što je kao formalno u grijehu, kad je rekao: protiv vječnoga zakona.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se tvrdnja i nijekanje svode na isti rod, kao što se u Bogu rođeno i nerođeno svode na odnos, kako kaže Augustin u V. knjizi O Trojstvu. I zato rečeno i nerečeno, učinjeno i neučinjeno treba uzeti kao isto.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.ad2": {
+      "text": "Na drugo treba reći da je prvi uzrok grijeha u volji, koja zapovijeda svim voljnim činima, u kojima se jedino nalazi grijeh; i zato Augustin katkada definira grijeh samo po volji. Ali budući da i sami vanjski čini pripadaju supstanciji grijeha, jer su po sebi zli, kako je rečeno, bilo je nužno da se u definiciju grijeha stavi i nešto što pripada vanjskim činima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.ad3": {
+      "text": "Na treće treba reći da vječni zakon prvotno i poglavito usmjeruje čovjeka prema svrsi, a posljedično čini da se čovjek dobro drži glede onoga što vodi k svrsi. I zato, time što kaže „protiv vječnoga zakona”, dotiče se odvraćanja od svrhe i svih drugih neuređenosti.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.ad4": {
+      "text": "Na četvrto treba reći da se, kad se kaže da nije svaki grijeh zao zato što je zabranjen, to shvaća o zabrani učinjenoj pozitivnim pravom. Ako se pak to odnosi na naravno pravo, koje je sadržano najprije u vječnom zakonu, a drugotno u naravnoj prosudbenoj moći ljudskoga razuma, tada je svaki grijeh zao zato što je zabranjen: upravo se time, naime, što je neuređen, protivi naravnom pravu.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    },
+    "I-II.q71.a6.ad5": {
+      "text": "Na peto treba reći da teolozi razmatraju grijeh poglavito ukoliko je uvreda protiv Boga, a moralni filozof ukoliko se protivi razumu. I zato Augustin prikladnije definira grijeh po tome što je protiv vječnoga zakona nego po tome što je protiv razuma, osobito stoga što se vječnim zakonom ravnamo u mnogočemu što nadilazi ljudski razum, kao u onome što pripada vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:43+00:00"
+    }
+  }
+}

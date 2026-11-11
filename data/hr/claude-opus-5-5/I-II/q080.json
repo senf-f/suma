@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 80,
+  "units": {
+    "I-II.q80.pr": {
+      "text": "Zatim treba razmotriti uzrok grijeha sa strane đavla. U vezi s tim pitaju se četiri stvari. Prvo, je li đavao izravno uzrok grijeha. Drugo, navodi li đavao na griješenje uvjeravajući iznutra. Treće, može li nametnuti nužnost griješenja. Četvrto, proizlaze li svi grijesi iz đavlova nagovaranja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je đavao čovjeku izravno uzrok griješenja. Grijeh se, naime, izravno sastoji u čuvstvu. Ali Augustin kaže, u IV. knjizi O Trojstvu, da *đavao svojoj družbi udahnjuje zlobna čuvstva*. I Beda, u tumačenju Djela apostolskih, kaže da *đavao vuče dušu u čuvstvo zloće*. I Izidor kaže, u knjizi O najvišem dobru, da *đavao ispunja srca ljudi skrivenim žudnjama*. Dakle, đavao je izravno uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a1.obj2": {
+      "text": "Osim toga, Jeronim kaže da *kao što je Bog dovršitelj dobra, tako je đavao dovršitelj zla*. Ali Bog je izravno uzrok naših dobara. Dakle, đavao je izravno uzrok naših grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a1.obj3": {
+      "text": "Osim toga, Filozof dokazuje, u jednom poglavlju Eudemove etike, da mora postojati neko izvanjsko počelo ljudskog promišljanja. A ljudsko promišljanje nije samo o dobrima, nego i o zlima. Dakle, kao što Bog pokreće na dobro promišljanje i time je izravno uzrok dobra, tako đavao pokreće čovjeka na zlo promišljanje, pa iz toga slijedi da je đavao izravno uzrok grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a1.sc": {
+      "text": "Ali protiv toga je to što Augustin dokazuje, u I. i III. knjizi O slobodnoj volji, *da ni po čemu drugom duh čovjekov ne postaje robom pohote, osim po vlastitoj volji*. A čovjek ne postaje robom pohote osim po grijehu. Dakle, uzrok grijeha ne može biti đavao, nego jedino vlastita volja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a1.resp": {
+      "text": "Odgovaram: treba reći da je grijeh neki čin. Stoga nešto može biti izravno uzrok grijeha na onaj način na koji je netko izravno uzrok nekog čina. A to se ne događa drukčije nego tako da pokreće na djelovanje vlastito počelo toga čina. Vlastito je pak počelo čina grijeha volja, jer je svaki grijeh voljan. Stoga ništa ne može izravno biti uzrok grijeha osim onoga što može pokrenuti volju na djelovanje. Volju pak, kao što je gore rečeno, mogu pokretati dvije stvari: na jedan način predmet, kao što se kaže da zahvaćeno poželjno pokreće težnju; na drugi način ono što iznutra naginje volju da hoće. A to nije ništa drugo nego ili sama volja ili Bog, kao što je gore pokazano. Bog pak ne može biti uzrok grijeha, kao što je rečeno. Preostaje, dakle, da je s te strane jedino čovjekova volja izravno uzrok njegova grijeha. A sa strane predmeta može se shvatiti da nešto pokreće volju na tri načina. Na jedan način, sam predloženi predmet, kao što kažemo da hrana pobuđuje u čovjeku želju da jede. Na drugi način, onaj koji predlaže ili nudi takav predmet. Na treći način, onaj koji uvjerava da predloženi predmet ima pojam dobra, jer i on na neki način predlaže volji njezin vlastiti predmet, a to je dobro razuma, istinsko ili prividno. Na prvi, dakle, način osjetne stvari koje se izvana pojavljuju pokreću čovjekovu volju na griješenje; a na drugi i treći način na griješenje može poticati ili đavao ili također čovjek, bilo nudeći osjetilu nešto poželjno, bilo uvjeravajući razum. Ali ni na jedan od ta tri načina nešto ne može biti izravan uzrok grijeha, jer volju nijedan predmet ne pokreće nužno osim posljednje svrhe, kao što je gore rečeno; stoga dostatan uzrok grijeha nije ni stvar izvana ponuđena, ni onaj koji je predlaže, ni onaj koji uvjerava. Odatle slijedi da đavao nije uzrok grijeha izravno i dostatno, nego samo na način onoga koji uvjerava ili koji predlaže nešto poželjno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da sve one izreke autoriteta, i ako se nađu kakve slične, treba odnositi na to da đavao, nagovarajući ili predlažući nešto poželjno, navodi na čuvstvo grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a1.ad2": {
+      "text": "Na drugo treba reći da onu sličnost treba promatrati u pogledu toga da je đavao na neki način uzrok naših grijeha, kao što je Bog na neki način uzrok naših dobara. Ali se ona ne promatra u pogledu načina uzrokovanja, jer Bog uzrokuje dobra pokrećući volju iznutra, a to đavlu ne može pristajati.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a1.ad3": {
+      "text": "Na treće treba reći da je Bog opće počelo svakog unutarnjeg ljudskog pokreta; ali to da se ljudska volja odredi na zlo promišljanje, to je izravno od ljudske volje, a od đavla na način onoga koji uvjerava ili predlaže nešto poželjno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da đavao ne može navesti na griješenje potičući iznutra. Unutarnji su, naime, pokreti duše neka djela života. Ali nijedno djelo života ne može biti drukčije nego od unutarnjeg počela; pa čak ni djelo vegetativne duše, koje je najniže među djelima života. Dakle, đavao ne može po unutarnjim pokretima poticati čovjeka na zlo.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a2.obj2": {
+      "text": "Osim toga, svi unutarnji pokreti, po redu naravi, nastaju iz vanjskih osjetila. Ali nešto djelovati mimo reda naravi pripada samo Bogu, kao što je rečeno u Prvom dijelu. Dakle, đavao ne može nešto djelovati u unutarnjim pokretima čovjeka osim po onome što se pojavljuje vanjskim osjetilima.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a2.obj3": {
+      "text": "Osim toga, unutarnji su čini duše shvaćati i zamišljati. Ali ni u pogledu jednoga od toga đavao ne može nešto djelovati. Jer, kao što je utvrđeno u Prvom dijelu, đavao ne utiskuje u ljudski um. A čini se da ne može utiskivati ni u maštu, jer su zamišljene forme, kao duhovnije, dostojnije od forma koje su u osjetnoj tvari; a njih đavao ipak ne može utisnuti, kao što je jasno iz onoga što je utvrđeno u Prvom dijelu. Dakle, đavao ne može po unutarnjim pokretima navesti čovjeka na grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a2.sc": {
+      "text": "Ali protiv toga je to što prema tome on nikada ne bi kušao čovjeka osim vidljivo mu se pojavljujući. A očito je da je to lažno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a2.resp": {
+      "text": "Odgovaram: treba reći da je unutarnji dio duše umski i osjetilni. A umski dio sadrži um i volju. O volji je već rečeno kako se đavao prema njoj odnosi. Um se pak po sebi pokreće od nekoga tko ga prosvjetljuje prema spoznaji istine, a na to đavao kod čovjeka ne smjera, nego radije na to da mu zamrači razum kako bi pristao na grijeh. A to zamračenje potječe od mašte i osjetilne težnje. Stoga se čini da se svo unutarnje djelovanje đavla odnosi na maštu i osjetilnu težnju. Uzbuđujući jedno i drugo od toga, može navesti na grijeh: može, naime, djelovati na to da se mašti predoče neke maštovne forme; može također učiniti da se osjetilna težnja potakne na neku strast. Rečeno je, naime, u Prvom dijelu da se tjelesna narav po naravi pokorava duhovnoj u pogledu mjesnog gibanja. Stoga i đavao može uzrokovati sve ono što može proizaći iz mjesnog gibanja nižih tijela, ako ga ne obuzda božanska snaga. A to da se mašti predoče neke forme, slijedi katkad iz mjesnog gibanja. Filozof, naime, kaže u knjizi O snu i bdijenju da *kad životinja spava, dok mnogo krvi silazi k osjetilnom počelu, zajedno silaze i pokreti*, to jest utisci preostali od pokretanja osjetnih stvari, koji se čuvaju u osjetnim spoznajnim likovima, te pokreću zahvatno počelo, tako da se pojavljuju kao da se osjetilno počelo tada izmjenjuje od samih vanjskih stvari. Stoga takvo mjesno gibanje duhova ili sokova mogu prouzročiti demoni, bilo da ljudi spavaju bilo da bdiju, i tako slijedi da čovjek nešto zamišlja. Slično se i osjetilna težnja potiče na neke strasti prema nekom određenom gibanju srca i duhova. Stoga i u tome đavao može surađivati. A iz toga što se neke strasti potiču u osjetilnoj težnji, slijedi da čovjek jače opaža i pokret ili osjetnu intenciju, na spomenuti način dovedenu natrag k zahvatnom počelu, jer, kako Filozof kaže u istoj knjizi, *zaljubljeni se već i neznatnom sličnošću pokreću na zahvaćanje ljubljene stvari*. Događa se također, zbog toga što je strast potaknuta, da se ono što se predoči mašti prosudi kao nešto za čim treba ići, jer onomu koga drži strast čini se dobrim ono čemu ga strast naginje. I na taj način đavao iznutra navodi na griješenje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda su djela života uvijek od nekog unutarnjeg počela, ipak u njima može surađivati neki vanjski djelatnik, kao što i u djelima vegetativne duše djeluje vanjska toplina, da bi se hrana lakše probavila.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a2.ad2": {
+      "text": "Na drugo treba reći da takvo pojavljivanje maštovnih forma nije posve mimo reda naravi. Niti biva samim zapovijedanjem, nego mjesnim gibanjem, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a2.ad3": {
+      "text": "Odatle je jasan odgovor na treće, jer su te forme prvotno primljene od osjetila.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da đavao može nametnuti nužnost griješenja. Veća, naime, vlast može nametnuti nužnost manjoj. Ali o đavlu se kaže u Jobu 41: *nema vlasti na zemlji koja bi mu se mogla usporediti*. Dakle, zemaljskom čovjeku može nametnuti nužnost griješenja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a3.obj2": {
+      "text": "Osim toga, čovjekov razum ne može se pokretati osim po onome što se izvana predlaže osjetilima i predočuje mašti, jer sva naša spoznaja ima početak u osjetilu, *i nema shvaćanja bez maštovne slike*, kako se kaže u knjizi O duši. Ali đavao može pokretati čovjekovu maštu, kao što je rečeno, pa i vanjska osjetila; Augustin, naime, kaže u knjizi Osamdeset i tri pitanja da se *to zlo uvlači*, naime ono koje je od đavla, *kroz sve osjetilne prilaze: predaje se likovima, prilagođuje se bojama, prianja uz zvukove, ulijeva se u okuse*. Dakle, može čovjekov razum nužno nagnuti na griješenje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a3.obj3": {
+      "text": "Osim toga, prema Augustinu, *neki je grijeh kad tijelo žudi protiv duha*. Ali požudu tijela đavao može uzrokovati, kao i ostale strasti, na način koji je gore rečen. Dakle, može nužno navesti na griješenje.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1 Pt, u posljednjem poglavlju: *protivnik vaš, đavao, kao ričući lav obilazi tražeći koga da proždre; oduprite mu se jaki u vjeri*. A uzalud bi se davala takva opomena kad bi mu čovjek nužno podlijegao. Dakle, ne može čovjeku nametnuti nužnost griješenja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a3.resp": {
+      "text": "Odgovaram: treba reći da đavao vlastitom snagom, ako ga Bog ne obuzda, može nekoga nužno navesti da učini neki čin koji je po svome rodu grijeh, ali ne može nametnuti nužnost griješenja. To je jasno iz toga što se čovjek poticaju na griješenje ne opire drukčije nego razumom, čiju uporabu đavao može potpuno spriječiti pokrećući maštu i osjetilnu težnju, kao što je očito kod opsjednutih. Ali tada, kad je razum tako svezan, što god čovjek čini, ne uračunava mu se u grijeh. A ako razum nije potpuno svezan, onim dijelom kojim je slobodan može se oduprijeti grijehu, kao što je gore rečeno. Stoga je očito da đavao nikako ne može čovjeku nametnuti nužnost griješenja.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ne može svaka vlast veća od čovjeka pokretati čovjekovu volju, nego jedino Bog, kao što je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a3.ad2": {
+      "text": "Na drugo treba reći da ono što je zahvaćeno osjetilom ili maštom ne pokreće volju nužno ako čovjek ima uporabu razuma. A takvo zahvaćanje ne sveže uvijek razum.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a3.ad3": {
+      "text": "Na treće treba reći da požuda tijela protiv duha, kad joj se razum zbiljski opire, nije grijeh, nego građa za vježbanje kreposti. A to da joj se razum ne opre nije u đavlovoj vlasti. I zato ne može nametnuti nužnost grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da su svi grijesi ljudi od đavlova nagovaranja. Dionizije, naime, kaže u IV. poglavlju O božanskim imenima da je *mnoštvo demona uzrok svih zala i sebi i drugima*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a4.obj2": {
+      "text": "Osim toga, tko god smrtno griješi, postaje rob đavlov, prema onome iz Iv 8: *tko čini grijeh, rob je grijeha. A tko je od koga nadvladan, tomu je predan u ropstvo*, kako se kaže u 2 Pt 2. Dakle, tko god čini grijeh, nadvladan je od đavla.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a4.obj3": {
+      "text": "Osim toga, Grgur kaže da je đavlov grijeh nepopravljiv, jer je pao a da ga nitko nije nagovarao. Kad bi, dakle, neki ljudi griješili slobodnim odlučivanjem, a da ih nitko ne nagovara, njihov bi grijeh bio neizlječiv, a očito je da je to lažno. Dakle, na sve ljudske grijehe nagovara đavao.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u knjizi O crkvenim dogmama: *ne potiče đavao sve naše zle misli, nego one katkad izviru iz pokreta našeg odlučivanja*.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a4.resp": {
+      "text": "Odgovaram: treba reći da je đavao prigodno i neizravno uzrok svih naših grijeha, ukoliko je naveo prvoga čovjeka na griješenje, a njegovim je grijehom ljudska narav toliko pokvarena da smo svi nagnuti griješenju; kao što bi se reklo da je uzrok izgaranja drva onaj koji bi drva osušio, pa bi iz toga slijedilo da se lako zapale. Ali izravno nije uzrok svih ljudskih grijeha, tako da bi nagovarao na svaki pojedini grijeh. To Origen dokazuje time što bi ljudi, i kad đavla ne bi bilo, imali težnju za hranom, za spolnim užicima i sličnim, koja bi mogla biti neuređena kad je ne bi uređivao razum, a to je podložno slobodnom odlučivanju.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je mnoštvo demona uzrok svih naših zala po prvom podrijetlu, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a4.ad2": {
+      "text": "Na drugo treba reći da nečijim robom ne postaje samo onaj koga on nadvlada, nego i onaj koji mu se voljno podloži. I na taj način postaje robom đavlovim onaj koji griješi vlastitim pokretom.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    },
+    "I-II.q80.a4.ad3": {
+      "text": "Na treće treba reći da je đavlov grijeh bio neizlječiv jer niti je sagriješio na nečije nagovaranje, niti je imao kakvo nagnuće griješenju prouzročeno prethodnim nagovaranjem. A to se ne može reći ni za jedan čovjekov grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 12,
+      "created_at": "2026-11-11T15:04:46+00:00"
+    }
+  }
+}
