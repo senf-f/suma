@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 49,
+  "units": {
+    "I-II.q49.pr": {
+      "text": "Nakon čina i strasti treba razmotriti počela ljudskih čina. I to najprije unutarnja počela, a zatim vanjska počela. Unutarnje je pak počelo moć i habitus; no budući da je o moćima rečeno u Prvom dijelu, sada preostaje razmotriti habituse. I to najprije općenito, a zatim kreposti i poroke i druge takve habituse koji su počela ljudskih čina. O samim pak habitusima općenito treba razmotriti četiri stvari: prvo, samu supstanciju habitusa; drugo, njihov subjekt; treće, uzrok njihova nastajanja, porasta i propadanja; četvrto, njihovo razlikovanje. O prvome se pitaju četiri stvari. Prvo, je li habitus kakvoća. Drugo, je li određena vrsta kakvoće. Treće, uključuje li habitus red prema činu. Četvrto, o nužnosti habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da habitus nije kakvoća. Augustin, naime, kaže u knjizi Osamdeset i tri pitanja da je *ime habitus izvedeno od glagola imati*. No imati ne pripada samo kakvoći nego i drugim rodovima: kaže se, naime, da imamo i kolikoću, i novac, i druge takve stvari. Dakle, habitus nije kakvoća.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a1.obj2": {
+      "text": "Osim toga, habitus se postavlja kao jedna kategorija, kako je jasno iz knjige Kategorije. No jedna se kategorija ne sadrži pod drugom. Dakle, habitus nije kakvoća.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a1.obj3": {
+      "text": "*Osim toga, svaki je habitus raspoloživost*, kako se kaže u Kategorijama. No raspoloživost je red onoga što ima dijelove, kako se kaže u V. knjizi Metafizike. A to pripada kategoriji položaja. Dakle, habitus nije kakvoća.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a1.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u Kategorijama, da je habitus teško pokretljiva kakvoća.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a1.resp": {
+      "text": "Odgovaram: treba reći da je ime habitus uzeto od glagola imati. Od njega se pak ime habitus izvodi na dva načina: na jedan način, ukoliko se kaže da čovjek, ili bilo koja druga stvar, nešto ima; na drugi način, ukoliko se kaže da neka stvar na neki način stoji u sebi samoj ili s obzirom na nešto drugo. Što se tiče prvoga, treba uzeti u obzir da je imati, ukoliko se kaže s obzirom na bilo što što se ima, zajedničko različitim rodovima. Zato Filozof imati ubraja među postkategorije, to jest među ono što prati različite rodove stvari, kao što su suprotstavljeno, prije i kasnije, i drugo takvo. Ali među stvarima koje se imaju čini se da postoji ovakvo razlikovanje. Neke su takve da između onoga koji ima i onoga što se ima nema ničega posrednog, kao što između subjekta i kakvoće ili kolikoće nema ničega posrednog. Neke su pak takve da između jednoga i drugoga ima nešto posredno, ali samo odnos, kao kad se kaže da netko ima druga ili prijatelja. Neke su pak takve da između njih ima nešto posredno, doduše ne radnja ili trpnja, ali nešto na način radnje ili trpnje, naime ukoliko jedno ukrašava ili pokriva, a drugo je ukrašeno ili pokriveno; zato Filozof kaže u V. knjizi Metafizike da se *habitus kaže kao neka radnja onoga koji ima i onoga što se ima*, kao što je kod onih stvari koje imamo na sebi. I zato se kod njih ustanovljuje jedan poseban rod stvari, koji se naziva kategorijom habitusa, o kojemu Filozof kaže u V. knjizi Metafizike da je *između onoga koji ima odjeću i odjeće koja se ima habitus posrednik*. Ako se pak imati uzme ukoliko se kaže da neka stvar na neki način stoji u sebi samoj ili s obzirom na nešto drugo, budući da je taj način stajanja po nekoj kakvoći, na taj je način habitus neka kakvoća; o njemu Filozof u V. knjizi Metafizike kaže da se habitusom naziva raspoloživost po kojoj je ono što je raspoloženo dobro ili loše raspoloženo, i to ili po sebi ili s obzirom na drugo, kao što je zdravlje neki habitus. I o habitusu u tom smislu sada govorimo. Zato treba reći da je habitus kakvoća.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj prigovor polazi od imati uzetoga općenito; tako je, naime, zajedničko mnogim rodovima, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a1.ad2": {
+      "text": "Na drugo treba reći da taj razlog polazi od habitusa ukoliko se shvaća kao nešto posredno između onoga koji ima i onoga što se ima; tako je, naime, neka kategorija, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a1.ad3": {
+      "text": "Na treće treba reći da raspoloživost doduše uvijek uključuje red nečega što ima dijelove, ali to biva na tri načina, kako Filozof odmah ondje dodaje: naime ili po mjestu, ili po mogućnosti, ili po vrsti. Time, kako kaže Simplicije u komentaru na Kategorije, obuhvaća sve raspoloživosti. Tjelesne, kad kaže po mjestu, i to pripada kategoriji položaja, koji je red dijelova u mjestu. Kad pak kaže po mogućnosti, uključuje one raspoloživosti koje su u pripravi i prikladnosti, još ne savršeno, kao što su započeta znanost i krepost. Kad pak kaže po vrsti, uključuje savršene raspoloživosti, koje se nazivaju habitusima, kao što su potpuno dovršena znanost i krepost.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da habitus nije određena vrsta kakvoće. Jer, kako je rečeno, habitus se, ukoliko je kakvoća, naziva raspoloživošću po kojoj je ono što je raspoloženo dobro ili loše raspoloženo. No to biva po bilo kojoj kakvoći: i po obliku, naime, biva da je nešto dobro ili loše raspoloženo, a slično i po toplini i hladnoći, i po svemu takvom. Dakle, habitus nije određena vrsta kakvoće.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a2.obj2": {
+      "text": "Osim toga, Filozof u Kategorijama kaže da su toplost i hladnost raspoloživosti ili habitusi, kao bolest i zdravlje. No toplina i hladnoća su u trećoj vrsti kakvoće. Dakle, habitus ili raspoloživost ne razlikuju se od ostalih vrsta kakvoće.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a2.obj3": {
+      "text": "Osim toga, teško pokretljivo nije razlika koja pripada rodu kakvoće, nego više pripada gibanju ili trpnji. A nijedan se rod ne određuje u vrstu razlikom drugoga roda, nego razlike moraju po sebi pridolaziti rodu, kako kaže Filozof u VII. knjizi Metafizike. Dakle, budući da se za habitus kaže da je teško pokretljiva kakvoća, čini se da nije određena vrsta kakvoće.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a2.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u Kategorijama, da je *jedna vrsta kakvoće habitus i raspoloživost*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a2.resp": {
+      "text": "Odgovaram: treba reći da Filozof u Kategorijama među četiri vrste kakvoće kao prvu postavlja raspoloživost i habitus. Razlike tih vrsta Simplicije u komentaru na Kategorije određuje ovako, govoreći da su *od kakvoća neke naravne, koje su prisutne po naravi, i to uvijek, a neke su pak pridošle, koje nastaju izvana i mogu se izgubiti. I te su*, naime pridošle, *habitusi i raspoloživosti, koji se razlikuju po tome što se lako ili teško gube. Od naravnih pak kakvoća neke su po tome što je nešto u mogućnosti, i tako je druga vrsta kakvoće. Neke su pak po tome što je nešto u činu, i to ili u dubinu ili po površini. Ako u dubinu, tako je treća vrsta kakvoće, a ako po površini, četvrta je vrsta kakvoće, kao oblik i forma, koja je oblik onoga što ima dušu*. Ali to se razlikovanje vrsta kakvoće čini neprikladnim. Ima, naime, mnogo oblika i trpnih kakvoća koje nisu naravne nego pridošle, i mnogo raspoloživosti koje nisu pridošle nego naravne, kao što su zdravlje i ljepota i tome slično. Osim toga, to ne pristaje redu vrsta: uvijek je, naime, ono što je naravnije prije. I zato razlikovanje raspoloživosti i habitusa od ostalih kakvoća treba shvatiti drukčije. U vlastitom smislu kakvoća, naime, uključuje neki način supstancije. A način je, kako kaže Augustin u djelu O doslovnom tumačenju Knjige postanka, ono što mjera unaprijed postavlja; zato uključuje neku određenost po nekoj mjeri. I zato, kao što se ono po čemu se mogućnost tvari određuje prema supstancijalnom bitku naziva kakvoćom koja je razlika supstancije, tako se ono po čemu se mogućnost subjekta određuje prema akcidentalnom bitku naziva akcidentalnom kakvoćom, koja je također neka razlika, kako je jasno iz Filozofa u V. knjizi Metafizike. Način pak ili određenost subjekta prema akcidentalnom bitku može se uzeti ili s obzirom na samu narav subjekta, ili po radnji i trpnji koje prate počela naravi, a to su tvar i forma, ili po kolikoći. Ako se način ili određenost subjekta uzme po kolikoći, tako je četvrta vrsta kakvoće. A budući da je kolikoća po svojem pojmu bez gibanja i bez pojma dobra i zla, zato četvrtoj vrsti kakvoće ne pripada da nešto bude dobro ili loše, brzo ili sporo prolazno. Način pak ili određenost subjekta po radnji i trpnji promatra se u drugoj i trećoj vrsti kakvoće. I zato se u objema razmatra to da nešto biva lako ili teško, ili da je brzo prolazno ili dugotrajno. U njima se pak ne razmatra ništa što pripada pojmu dobra ili zla, jer gibanja i trpnje nemaju pojam svrhe, a dobro i zlo kažu se po usmjerenosti prema svrsi. Ali način i određenost subjekta s obzirom na narav stvari pripada prvoj vrsti kakvoće, koja je habitus i raspoloživost. Filozof, naime, u VII. knjizi Fizike, govoreći o habitusima duše i tijela, kaže da su oni *neke raspoloživosti savršenoga prema najboljemu; a savršenim nazivam ono što je raspoloženo po naravi. A budući da su sama forma i narav stvari svrha i ono radi čega nešto nastaje*, kako se kaže u II. knjizi Fizike, zato se u prvoj vrsti razmatra i dobro i zlo, a također i lako i teško pokretljivo, ukoliko je neka narav svrha nastajanja i gibanja. Zato Filozof u V. knjizi Metafizike definira habitus kao raspoloživost po kojoj je netko dobro ili loše raspoložen. A u II. knjizi Etike kaže da su *habitusi ono po čemu se prema strastima odnosimo dobro ili loše*. Kad je, naime, način prikladan naravi stvari, tada ima pojam dobra, a kad joj nije prikladan, tada ima pojam zla. A budući da je narav ono što se u stvari prvo razmatra, zato se habitus postavlja kao prva vrsta kakvoće.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da raspoloživost uključuje neki red, kako je rečeno. Zato se ne kaže da je netko raspoložen nekom kakvoćom osim s obzirom na nešto. A ako se doda dobro ili loše, što pripada pojmu habitusa, mora se gledati red prema naravi, koja je svrha. Zato se ne kaže da je netko dobro ili loše raspoložen po obliku ili po toplini ili hladnoći, osim po redu prema naravi stvari, ukoliko joj je to prikladno ili neprikladno. Zato i sami oblici i trpne kakvoće, ukoliko se promatraju kao prikladni ili neprikladni naravi stvari, pripadaju habitusima ili raspoloživostima: oblik, naime, ukoliko je prikladan naravi stvari, i boja pripadaju ljepoti, a toplina i hladnoća, ukoliko su prikladne naravi stvari, pripadaju zdravlju. I na taj način Filozof postavlja toplost i hladnost u prvu vrstu kakvoće.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a2.ad2": {
+      "text": "Iz toga je jasno rješenje za drugo, premda ga neki rješavaju drukčije, kako kaže Simplicije u komentaru na Kategorije.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a2.ad3": {
+      "text": "Na treće treba reći da ta razlika, teško pokretljivo, ne razlikuje habitus od ostalih vrsta kakvoće, nego od raspoloživosti. A raspoloživost se uzima na dva načina: na jedan način, ukoliko je rod habitusa, jer se u V. knjizi Metafizike raspoloživost stavlja u definiciju habitusa; na drugi način, ukoliko je nešto što je diobom suprotstavljeno habitusu. A raspoloživost u užem smislu može se shvatiti kao suprotstavljena habitusu u diobi na dva načina. Na jedan način, kao savršeno i nesavršeno u istoj vrsti: tako da se raspoloživošću, koja zadržava zajedničko ime, naziva kad je prisutna nesavršeno, tako da se lako gubi, a habitusom kad je prisutna savršeno, tako da se ne gubi lako. I tako raspoloživost postaje habitus, kao što dječak postaje muškarac. Na drugi način mogu se razlikovati kao različite vrste jednoga podređenog roda, tako da se raspoloživostima nazivaju one kakvoće prve vrste kojima po vlastitom pojmu pristaje da se lako gube, jer imaju preinačive uzroke, kao bolest i zdravlje; habitusima se pak nazivaju one kakvoće koje po svojem pojmu imaju to da se ne preinačuju lako, jer imaju nepokretljive uzroke, kao znanosti i kreposti. I prema tome raspoloživost ne postaje habitus. I to se čini više u skladu s Aristotelovom nakanom. Zato kao dokaz za to razlikovanje navodi opći običaj govora, prema kojemu se kakvoće koje su po svojem pojmu lako pokretljive, ako zbog nekog akcidenta postanu teško pokretljive, nazivaju habitusima, a obratno je s kakvoćama koje su po svojem pojmu teško pokretljive: jer ako netko nesavršeno ima znanost, tako da je može lako izgubiti, prije se kaže da je raspoložen za znanost nego da ima znanost. Iz toga je jasno da ime habitus uključuje neku dugotrajnost, a ime raspoloživost ne. Niti se time priječi da prema tome lako i teško pokretljivo budu specifične razlike, zbog toga što one pripadaju trpnji i gibanju, a ne rodu kakvoće. Te razlike, naime, premda se čini da se akcidentalno odnose prema kakvoći, ipak naznačuju vlastite i po sebi razlike kakvoća. Kao što se i u rodu supstancije često uzimaju akcidentalne razlike umjesto supstancijalnih, ukoliko se njima naznačuju bitna počela.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da habitus ne uključuje red prema činu. Svaka stvar, naime, djeluje ukoliko je u činu. Ali Filozof kaže u III. knjizi O duši da *kad netko postane znalac po habitusu, i tada je u mogućnosti, ali drukčije nego prije učenja*. Dakle, habitus ne uključuje odnošaj počela prema činu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a3.obj2": {
+      "text": "Osim toga, ono što se stavlja u definiciju nečega pristaje mu po sebi. No biti počelo radnje stavlja se u definiciju moći, kako je jasno iz V. knjige Metafizike. Dakle, biti počelo čina pristaje po sebi moći. A ono što je po sebi prvo je u svakom rodu. Ako je, dakle, i habitus počelo čina, slijedi da je kasniji od moći. I tako habitus ili raspoloživost neće biti prva vrsta kakvoće.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a3.obj3": {
+      "text": "Osim toga, zdravlje je katkad habitus, a slično i mršavost i ljepota. No to se ne kaže po redu prema činu. Dakle, ne pripada pojmu habitusa da bude počelo čina.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a3.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u knjizi O dobru ženidbe, da je *habitus ono čime se nešto čini kad je potrebno*. A Komentator kaže u III. knjizi O duši da je *habitus ono čime netko djeluje kad hoće*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a3.resp": {
+      "text": "Odgovaram: treba reći da imati red prema činu može pristajati habitusu i po pojmu habitusa i po pojmu subjekta u kojemu je habitus. Po pojmu habitusa svakom habitusu pristaje da na neki način ima red prema činu. Pojmu habitusa, naime, pripada da uključuje neki odnošaj s obzirom na narav stvari, ukoliko joj je prikladan ili neprikladan. Ali narav stvari, koja je svrha nastajanja, usmjerena je dalje i prema drugoj svrsi, koja je ili djelovanje ili neko djelo do kojega se dolazi djelovanjem. Zato habitus ne uključuje samo red prema samoj naravi stvari, nego posljedično i prema djelovanju, ukoliko je ono svrha naravi ili vodi k svrsi. Zato se i u V. knjizi Metafizike u definiciji habitusa kaže da je on raspoloživost po kojoj je ono što je raspoloženo dobro ili loše raspoloženo ili po sebi, to jest po svojoj naravi, ili s obzirom na drugo, to jest s obzirom na svrhu. Ali ima nekih habitusa koji i sa strane subjekta u kojemu jesu prvotno i prvenstveno uključuju red prema činu. Jer, kako je rečeno, habitus prvotno i po sebi uključuje odnošaj prema naravi stvari. Ako se, dakle, narav stvari u kojoj je habitus sastoji upravo u redu prema činu, slijedi da habitus prvenstveno uključuje red prema činu. A očito je da je narav i pojam moći u tome da bude počelo čina. Zato svaki habitus koji pripada nekoj moći kao subjektu prvenstveno uključuje red prema činu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je habitus neki čin, ukoliko je kakvoća, i po tome može biti počelo djelovanja. Ali je u mogućnosti s obzirom na djelovanje. Zato se habitus naziva prvim činom, a djelovanje drugim činom, kako je jasno iz II. knjige O duši.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a3.ad2": {
+      "text": "Na drugo treba reći da ne pripada pojmu habitusa da se odnosi na moć, nego da se odnosi na narav. A budući da narav prethodi radnji, na koju se odnosi moć, zato se habitus postavlja kao vrsta kakvoće prije moći.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a3.ad3": {
+      "text": "Na treće treba reći da se zdravlje naziva habitusom, ili habitualnom raspoloživošću, s obzirom na narav, kako je rečeno. Ipak, ukoliko je narav počelo čina, posljedično uključuje red prema činu. Zato Filozof kaže u X. knjizi O povijesti životinja da se čovjek, ili neki ud, naziva zdravim kad može vršiti djelovanje zdravoga. I slično je u ostalim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da nije nužno da postoje habitusi. Habitusi su, naime, ono čime je nešto dobro ili loše raspoloženo prema nečemu, kako je rečeno. Ali nešto je dobro ili loše raspoloženo po svojoj formi: po formi je, naime, nešto dobro, kao što je i biće. Dakle, nema nikakve nužnosti habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a4.obj2": {
+      "text": "Osim toga, habitus uključuje red prema činu. No moć dostatno uključuje počelo čina: i naravne su, naime, moći bez habitusa počela čina. Dakle, nije bilo nužno da postoje habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a4.obj3": {
+      "text": "Osim toga, kao što se moć odnosi prema dobru i zlu, tako i habitus; i kao što moć ne djeluje uvijek, tako ni habitus. Budući, dakle, da postoje moći, bilo je suvišno da postoji habitus.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a4.sc": {
+      "text": "Ali protiv toga je to što su habitusi neke savršenosti, kako se kaže u VII. knjizi Fizike. A savršenost je stvari najviše nužna, budući da ima pojam svrhe. Dakle, bilo je nužno da postoje habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a4.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, habitus uključuje neku raspoloživost s obzirom na narav stvari i na njezino djelovanje ili svrhu, po kojoj je nešto za to dobro ili loše raspoloženo. A da bi nešto trebalo biti raspoloženo prema drugome, potrebne su tri stvari. Prvo, da ono što se raspolaže bude različito od onoga prema čemu se raspolaže, i da se tako prema njemu odnosi kao mogućnost prema činu. Zato, ako postoji nešto čija narav nije složena iz mogućnosti i čina, i čija je supstancija njegovo djelovanje, i koje je radi samoga sebe, ondje nema mjesta habitusu ili raspoloživosti, kao što je jasno kod Boga. Drugo, potrebno je da ono što je u mogućnosti prema drugome može biti određeno na više načina i prema različitim stvarima. Zato, ako je nešto u mogućnosti prema drugome, ali tako da nije u mogućnosti ni prema čemu drugom osim prema tome, ondje nema mjesta raspoloživosti i habitusu, jer takav subjekt po svojoj naravi ima dužni odnošaj prema takvom činu. Zato, ako je nebesko tijelo složeno iz tvari i forme, budući da ta tvar nije u mogućnosti prema drugoj formi, kako je rečeno u Prvom dijelu, ondje nema mjesta raspoloživosti ili habitusu prema formi, a ni prema djelovanju, jer narav nebeskoga tijela nije u mogućnosti ni prema čemu osim prema jednom određenom gibanju. Treće, potrebno je da više stvari zajedno pridonosi tome da se subjekt raspoloži prema jednoj od onih stvari prema kojima je u mogućnosti, i to takvih stvari koje se mogu na različite načine međusobno odmjeriti, tako da subjekt bude dobro ili loše raspoložen prema formi ili prema djelovanju. Zato jednostavne kakvoće elemenata, koje pristaju naravima elemenata na jedan određen način, ne nazivamo raspoloživostima ili habitusima, nego jednostavnim kakvoćama; raspoloživostima ili habitusima pak nazivamo zdravlje, ljepotu i drugo takvo, što uključuje neku odmjerenost više stvari koje se mogu odmjeriti na različite načine. Zbog toga Filozof kaže u V. knjizi Metafizike da je *habitus raspoloživost, a raspoloživost red onoga što ima dijelove ili po mjestu, ili po mogućnosti, ili po vrsti*, kako je gore rečeno. Budući, dakle, da ima mnogo bića za čije je naravi i djelovanja nužno da zajedno pridonosi više stvari koje se mogu odmjeriti na različite načine, zato je nužno da postoje habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se formom usavršava narav stvari, ali je potrebno da subjekt bude raspoložen nekom raspoloživošću s obzirom na samu formu. Sama je pak forma usmjerena dalje prema djelovanju, koje je ili svrha ili put k svrsi. I ako forma određeno ima samo jedno određeno djelovanje, za djelovanje se ne zahtijeva nikakva druga raspoloživost osim same forme. Ako je pak forma takva da može djelovati na različite načine, kao što je duša, potrebno je da bude raspoložena za svoja djelovanja nekim habitusima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a4.ad2": {
+      "text": "Na drugo treba reći da se moć katkad odnosi prema mnogome, i zato je potrebno da bude određena nečim drugim. Ako je pak neka moć koja se ne odnosi prema mnogome, nije joj potreban habitus koji bi je određivao, kako je rečeno. I zbog toga naravne sile ne vrše svoja djelovanja posredstvom nekih habitusa, jer su same po sebi određene prema jednome.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q49.a4.ad3": {
+      "text": "Na treće treba reći da se isti habitus ne odnosi prema dobru i zlu, kako će biti jasno niže. A ista se moć odnosi prema dobru i zlu. I zato su habitusi nužni da bi moći bile određene prema dobru.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    }
+  }
+}

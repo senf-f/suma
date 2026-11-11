@@ -1,0 +1,264 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 65,
+  "units": {
+    "I-II.q65.pr": {
+      "text": "Zatim treba razmotriti povezanost kreposti. U vezi s tim pita se pet stvari. Prvo, jesu li moralne kreposti međusobno povezane. Drugo, mogu li moralne kreposti postojati bez ljubavi. Treće, može li ljubav postojati bez njih. Četvrto, mogu li vjera i nada postojati bez ljubavi. Peto, može li ljubav postojati bez njih.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da moralne kreposti nisu nužno povezane. Moralne se, naime, kreposti katkad uzrokuju vježbanjem u činima, kako se dokazuje u II. knjizi Etike. Ali čovjek se može vježbati u činima jedne kreposti, a da se ne vježba u činima druge kreposti. Dakle, jedna se moralna krepost može imati bez druge.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a1.obj2": {
+      "text": "Osim toga, velebnost i velikodušnost jesu neke moralne kreposti. Ali netko može imati druge moralne kreposti, a da nema velebnosti i velikodušnosti. Filozof, naime, kaže u IV. knjizi Etike da siromah ne može biti veleban, premda ipak može imati neke druge kreposti; i da je *onaj koji je dostojan malih stvari i smatra se njih dostojnim umjeren, ali nije velikodušan*. Dakle, moralne kreposti nisu povezane.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a1.obj3": {
+      "text": "Osim toga, kao što moralne kreposti usavršuju težnjeni dio duše, tako umske kreposti usavršuju umski dio. Ali umske kreposti nisu povezane, jer netko može imati jednu znanost, a da nema druge. Dakle, ni moralne kreposti nisu povezane.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a1.obj4": {
+      "text": "Osim toga, ako su moralne kreposti povezane, to je samo zato što se povezuju u razboritosti. Ali to nije dovoljno za povezanost moralnih kreposti. Čini se, naime, da netko može biti razborit u onome što treba činiti a pripada jednoj kreposti, a da nije razborit u onome što pripada drugoj, kao što i netko može imati umijeće u vezi s nekim stvarima koje treba izraditi, a da nema umijeća u vezi s drugima. A razboritost je ispravni razum o onome što treba činiti. Dakle, nije nužno da moralne kreposti budu povezane.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Ambrozije u tumačenju Luke: *Kreposti su međusobno povezane i ulančane, tako da se čini da onaj tko ima jednu ima ih više.* I Augustin kaže u VI. knjizi O Trojstvu da se *kreposti koje su u ljudskom duhu nipošto ne odvajaju jedna od druge*. A Grgur kaže u XXII. knjizi Moralija da *jedna krepost bez drugih ili uopće nije krepost ili je nesavršena*. I Tulije kaže u II. knjizi Tuskulanskih rasprava: *Ako si priznao da nemaš jednu krepost, nužno je da nećeš imati nijednu.*",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a1.resp": {
+      "text": "Odgovaram: treba reći da se moralna krepost može uzeti ili kao savršena ili kao nesavršena. Nesavršena moralna krepost, kao što je umjerenost ili jakost, nije ništa drugo nego neka sklonost koja postoji u nama da činimo neko djelo iz roda dobrih djela, bilo da je takva sklonost u nama od naravi, bilo od navikavanja. I uzimajući moralne kreposti na taj način, one nisu povezane: vidimo, naime, da je netko zbog naravnog tjelesnog sastava ili zbog neke navike spreman na djela darežljivosti, a ipak nije spreman na djela čistoće. Savršena je pak moralna krepost habitus koji naginje da se dobro djelo dobro izvrši. I uzimajući moralne kreposti tako, treba reći da su povezane, kako drže gotovo svi. Za to se navodi dvostruki razlog, prema tome kako različito neki razlikuju stožerne kreposti. Kao što je, naime, rečeno, neki ih razlikuju prema nekim općim uvjetima kreposti, tako da razlučivanje pripada razboritosti, ispravnost pravednosti, umjeravanje umjerenosti, čvrstoća duha jakosti, u kojoj god se građi to razmatralo. I prema tome jasno se pokazuje razlog povezanosti: čvrstoća, naime, nema hvale kreposti ako je bez umjeravanja, ispravnosti ili razlučivanja; a isti je razlog i za ostale. I taj razlog povezanosti navodi Grgur u XXII. knjizi Moralija, govoreći da *kreposti, ako su razdvojene, ne mogu biti savršene*, prema pojmu kreposti, *jer nije prava razboritost ona koja nije pravedna, umjerena i jaka*; i isto dodaje o drugim krepostima. I sličan razlog navodi Augustin u VI. knjizi O Trojstvu. Drugi pak razlikuju spomenute kreposti prema građi. I prema tome razlog povezanosti navodi Aristotel u VI. knjizi Etike. Jer, kao što je gore rečeno, nijedna se moralna krepost ne može imati bez razboritosti, zato što je moralnoj kreposti vlastito da čini ispravan izbor, budući da je izborni habitus. A za ispravan izbor nije dovoljna samo sklonost prema dužnoj svrsi, što je izravno po habitusu moralne kreposti, nego se traži i da netko izravno izabere ono što vodi k svrsi, što biva po razboritosti, koja promišlja, prosuđuje i zapovijeda o onome što vodi k svrsi. Slično se ni razboritost ne može imati ako se nemaju moralne kreposti, budući da je razboritost ispravni razum o onome što treba činiti, koji polazi od svrha onoga što treba činiti kao od načela, a prema tim se svrhama netko ispravno odnosi po moralnim krepostima. Stoga, kao što se spekulativna znanost ne može imati bez uma načelâ, tako ni razboritost bez moralnih kreposti. Iz toga jasno slijedi da su moralne kreposti povezane.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da neke od moralnih kreposti usavršuju čovjeka prema zajedničkom stanju, to jest u pogledu onoga što se općenito u svakom ljudskom životu nameće da se čini. Stoga treba da se čovjek istodobno vježba u građi svih moralnih kreposti. I ako se u svima vježba dobro djelujući, stječe habituse svih moralnih kreposti. Ako se pak vježba dobro djelujući u jednoj građi, a ne u drugoj, recimo dobro se odnoseći prema srdžbi, ali ne prema požudama, stjecat će doduše neki habitus za obuzdavanje srdžbe, koji ipak neće imati pojam kreposti zbog nedostatka razboritosti, koja se u pogledu požuda kvari. Kao što ni naravne sklonosti nemaju savršen pojam kreposti ako nedostaje razboritost. Neke su pak moralne kreposti one koje usavršuju čovjeka prema nekom uzvišenom stanju, kao velebnost i velikodušnost. I budući da se vježbanje u građi tih kreposti ne nameće svakome općenito, netko može imati druge moralne kreposti, a da habituse tih kreposti nema u činu, govoreći o stečenim krepostima. Ali ipak, kad je stekao druge kreposti, ima te kreposti u bliskoj mogućnosti. Kad je, naime, netko vježbanjem postigao darežljivost u osrednjim darivanjima i izdacima, ako mu pridođe obilje novca, malim će vježbanjem steći habitus velebnosti, kao što geometar malim proučavanjem stječe znanje nekog zaključka koji nikada nije razmatrao. Za ono pak kažemo da imamo što nam je spremno da ga imamo, prema onoj Filozofovoj u II. knjizi Fizike: *Ono čemu malo nedostaje, čini se kao da mu ništa ne nedostaje.*",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a1.ad2": {
+      "text": "I po tome je jasan odgovor na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a1.ad3": {
+      "text": "Na treće treba reći da su umske kreposti o različitim građama koje nisu međusobno usmjerene, kao što je jasno u različitim znanostima i umijećima. I zato se u njima ne nalazi povezanost koja se nalazi u moralnim krepostima, koje su o strastima i djelovanjima, a koji su očito međusobno usmjereni. Sve, naime, strasti, polazeći od nekih prvih, to jest od ljubavi i mržnje, završavaju u nekim drugima, to jest u nasladi i žalosti. I slično sva djelovanja koja su građa moralne kreposti imaju međusobnu usmjerenost, a i usmjerenost prema strastima. I zato sva građa moralnih kreposti potpada pod jedan pojam razboritosti. Ipak, sve umljivo ima usmjerenost prema prvim načelima. I prema tome sve umske kreposti ovise o umu načelâ, kao što razboritost ovisi o moralnim krepostima, kako je rečeno. Ali opća načela, kojih je um načelâ, ne ovise o zaključcima, o kojima su ostale umske kreposti, kao što moralne kreposti ovise o razboritosti, zato što težnja na neki način pokreće razum, a razum težnju, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a1.ad4": {
+      "text": "Na četvrto treba reći da se ono prema čemu naginju moralne kreposti odnosi prema razboritosti kao načela, dok se ono što treba izraditi ne odnosi prema umijeću kao načela, nego samo kao građa. A očito je da, premda razum može biti ispravan u jednom dijelu građe, a ne u drugom, nipošto se ipak ne može nazvati ispravnim razumom ako postoji nedostatak bilo kojeg načela. Kao kad bi netko griješio u pogledu ovog načela: svaka je cjelina veća od svojega dijela, ne bi mogao imati geometrijske znanosti, jer bi se u onome što slijedi morao mnogo udaljiti od istine. Osim toga, ono što treba činiti međusobno je usmjereno, a ono što treba izraditi nije, kako je rečeno. I zato bi nedostatak razboritosti u pogledu jednog dijela onoga što treba činiti uveo nedostatak i u pogledu drugoga što treba činiti. To se ne događa kod onoga što treba izraditi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da moralne kreposti mogu postojati bez ljubavi. Kaže se, naime, u Prosperovoj Knjizi izreka da *svaka krepost osim ljubavi može biti zajednička dobrima i zlima*. Ali ljubav ne može biti osim u dobrima, kako se ondje kaže. Dakle, druge se kreposti mogu imati bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a2.obj2": {
+      "text": "Osim toga, moralne se kreposti mogu stjecati ljudskim činima, kako se kaže u II. knjizi Etike. Ali ljubav se ima samo ulijevanjem, prema onome u Rim 5: *Ljubav Božja razlivena je u srcima našim po Duhu Svetom koji nam je dan.* Dakle, druge se kreposti mogu imati bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a2.obj3": {
+      "text": "Osim toga, moralne su kreposti međusobno povezane ukoliko ovise o razboritosti. Ali ljubav ne ovisi o razboritosti, štoviše nadilazi razboritost, prema onome u Ef 3: *Kristovu ljubav koja nadvisuje znanje.* Dakle, moralne kreposti nisu povezane s ljubavlju, nego mogu postojati bez nje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1 Iv 3: *Tko ne ljubi, ostaje u smrti.* Ali po krepostima se usavršuje duhovni život, jer one su ono čime se ispravno živi, kako kaže Augustin u II. knjizi O slobodnoj volji. Dakle, ne mogu postojati bez ljubljenja koje pripada ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je gore rečeno, moralne kreposti, ukoliko izvode dobro u usmjerenosti prema svrsi koja ne nadilazi naravnu sposobnost čovjeka, mogu stjecati ljudskim djelima. I tako stečene mogu postojati bez ljubavi, kao što su postojale u mnogim poganima. Ukoliko pak izvode dobro u usmjerenosti prema posljednjoj nadnaravnoj svrsi, tako savršeno i istinski imaju pojam kreposti; i ne mogu se stjecati ljudskim činima, nego ih ulijeva Bog. I takve moralne kreposti ne mogu postojati bez ljubavi. Gore je, naime, rečeno da druge moralne kreposti ne mogu postojati bez razboritosti, a razboritost ne može postojati bez moralnih kreposti, ukoliko moralne kreposti čine da se čovjek dobro odnosi prema nekim svrhama, od kojih polazi razum razboritosti. A za ispravan razum razboritosti mnogo se više traži da se čovjek dobro odnosi prema posljednjoj svrsi, što biva po ljubavi, nego prema drugim svrhama, što biva po moralnim krepostima, kao što je ispravnom razumu u spekulativnim stvarima ponajviše potrebno prvo nedokazivo načelo, a to je da protuslovne tvrdnje nisu istodobno istinite. Stoga postaje očito da ni ulivena razboritost ne može postojati bez ljubavi, pa posljedično ni druge moralne kreposti, koje ne mogu postojati bez razboritosti. Iz rečenoga je dakle jasno da su samo ulivene kreposti savršene i da ih treba naprosto nazivati krepostima, jer dobro usmjeruju čovjeka prema naprosto posljednjoj svrsi. Druge pak kreposti, to jest stečene, kreposti su u nekom pogledu, a ne naprosto: one, naime, dobro usmjeruju čovjeka u odnosu na posljednju svrhu u nekom rodu, a ne u odnosu na naprosto posljednju svrhu. Stoga uz Rim 14, na ono: *Sve što nije iz vjere, grijeh je*, kaže Augustinova glosa: *Gdje nedostaje spoznanje istine, lažna je krepost i u dobrim običajima.*",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se kreposti ondje uzimaju prema nesavršenom pojmu kreposti. Inače, ako se moralna krepost uzme prema savršenom pojmu kreposti, ona čini dobrim onoga tko je ima, i posljedično ne može biti u zlima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a2.ad2": {
+      "text": "Na drugo treba reći da onaj razlog govori o stečenim moralnim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a2.ad3": {
+      "text": "Na treće treba reći da, premda ljubav nadilazi znanje i razboritost, ipak razboritost ovisi o ljubavi, kako je rečeno. I posljedično, o njoj ovise sve ulivene moralne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se ljubav može imati bez drugih moralnih kreposti. Za ono, naime, za što je dovoljno jedno, nepotrebno je da se usmjeruje više njih. Ali sama ljubav dostaje za ispunjenje svih djela kreposti, kao što je jasno iz onoga što se kaže u 1 Kor 13: *Ljubav je strpljiva, dobrostiva je,* i tako dalje. Dakle, čini se da bi, kad se ima ljubav, druge kreposti bile suvišne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a3.obj2": {
+      "text": "Osim toga, tko ima habitus kreposti, lako izvršava ono što pripada kreposti, i to mu se po sebi sviđa; stoga je i znak habitusa naslada koja nastaje u djelu, kako se kaže u II. knjizi Etike. Ali mnogi imaju ljubav, budući da su bez smrtnoga grijeha, a ipak trpe teškoću u djelima kreposti i ona im se ne sviđaju po sebi, nego samo ukoliko se odnose na ljubav. Dakle, mnogi imaju ljubav, a nemaju drugih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a3.obj3": {
+      "text": "Osim toga, ljubav se nalazi u svim svetima. Ali ima nekih svetih kojima ipak nedostaju neke kreposti: Beda, naime, kaže da se sveti više ponizuju zbog kreposti koje nemaju nego što se hvale krepostima koje imaju. Dakle, nije nužno da onaj tko ima ljubav ima sve moralne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a3.sc": {
+      "text": "Ali protiv toga je to što se po ljubavi ispunja sav zakon; kaže se, naime, u Rim 13: *Tko ljubi bližnjega, ispunio je zakon.* Ali sav se zakon ne može ispuniti osim po svim moralnim krepostima, jer zakon zapovijeda o svim činima kreposti, kako se kaže u V. knjizi Etike. Dakle, tko ima ljubav, ima sve moralne kreposti. I Augustin kaže u nekom pismu da ljubav u sebi uključuje sve stožerne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a3.resp": {
+      "text": "Odgovaram: treba reći da se zajedno s ljubavlju istodobno ulijevaju sve moralne kreposti. Razlog je tomu što Bog ne djeluje manje savršeno u djelima milosti nego u djelima prirode. A u djelima prirode vidimo da se ni u jednoj stvari ne nalazi počelo nekih djela a da se u njoj ne nalazi i ono što je potrebno da se takva djela izvrše; tako se u životinjama nalaze organi kojima se mogu izvršiti djela za čije izvođenje duša ima moć. A očito je da je ljubav, ukoliko usmjeruje čovjeka prema posljednjoj svrsi, počelo svih dobrih djela koja se mogu usmjeriti prema posljednjoj svrsi. Stoga treba da se zajedno s ljubavlju istodobno ulijevaju sve moralne kreposti, kojima čovjek izvršava pojedine rodove dobrih djela. I tako je jasno da ulivene moralne kreposti nemaju povezanost samo zbog razboritosti, nego i zbog ljubavi. I da onaj tko po smrtnom grijehu gubi ljubav gubi sve ulivene moralne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, da bi čin niže moći bio savršen, traži da savršenost ne bude samo u višoj moći nego i u nižoj: kad bi se, naime, glavni djelatnik odnosio na dužan način, ne bi slijedila savršena radnja ako oruđe ne bi bilo dobro raspoloženo. Stoga, da bi čovjek dobro djelovao u onome što vodi k svrsi, treba da ima ne samo krepost kojom se dobro odnosi prema svrsi nego i kreposti kojima se dobro odnosi prema onome što vodi k svrsi; jer krepost koja je o svrsi odnosi se kao glavna i pokretačka u odnosu na one koje su o onome što vodi k svrsi. I zato je s ljubavlju nužno imati i druge moralne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a3.ad2": {
+      "text": "Na drugo treba reći da se katkad događa da netko tko ima habitus trpi teškoću u djelovanju i posljedično ne osjeća nasladu i sviđanje u činu zbog neke zapreke koja izvana pridolazi; tako onaj koji ima habitus znanosti trpi teškoću u shvaćanju zbog pospanosti ili neke slabosti. I slično habitusi ulivenih moralnih kreposti katkad trpe teškoću u djelovanju zbog nekih protivnih raspoloživosti koje su ostale od prethodnih čina. Ta se teškoća ne događa tako kod stečenih moralnih kreposti, jer se vježbanjem u činima, kojim se one stječu, uklanjaju i protivne raspoloživosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a3.ad3": {
+      "text": "Na treće treba reći da se za neke svete kaže da nemaju neke kreposti ukoliko trpe teškoću u njihovim činima, zbog već rečenog razloga, premda imaju habituse svih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da vjera i nada nikada nisu bez ljubavi. Budući da su, naime, bogoslovne kreposti, čini se da su dostojnije od moralnih kreposti, pa i ulivenih. Ali ulivene moralne kreposti ne mogu postojati bez ljubavi. Dakle, ni vjera i nada.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a4.obj2": {
+      "text": "Osim toga, nitko ne vjeruje osim htijući, kako kaže Augustin u tumačenju Ivana. Ali ljubav je u volji kao njezina savršenost, kako je gore rečeno. Dakle, vjera ne može postojati bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a4.obj3": {
+      "text": "Osim toga, Augustin kaže u Enhiridiju da *nada ne može postojati bez ljubavi*. A ta je ljubav bogoslovna ljubav, jer ondje govori o toj ljubavi. Dakle, nada ne može postojati bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a4.sc": {
+      "text": "Ali protiv toga je ono što se u Glosi uz Mt 1 kaže da *vjera rađa nadu, a nada ljubav*. Ali ono što rađa prije je od rođenoga i može postojati bez njega. Dakle, vjera može postojati bez nade, a nada bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a4.resp": {
+      "text": "Odgovaram: treba reći da se vjera i nada, kao i moralne kreposti, mogu razmatrati na dva načina. Na jedan način, prema nekom začetku; na drugi način, prema savršenom bitku kreposti. Budući da je, naime, krepost usmjerena na izvršavanje dobrog djela, savršenom se krepošću naziva zato što je sposobna za savršeno dobro djelo, a ono je takvo kad nije samo dobro ono što se čini nego se i dobro čini. Inače, ako je dobro ono što se čini, a ne čini se dobro, neće biti savršeno dobro; stoga ni habitus koji je počelo takvog djela neće savršeno imati pojam kreposti. Kao kad netko čini pravedne stvari, čini doduše dobro, ali to neće biti djelo savršene kreposti ako to ne čini dobro, to jest prema ispravnom izboru, što biva po razboritosti; i zato pravednost bez razboritosti ne može biti savršena krepost. Tako, dakle, vjera i nada bez ljubavi mogu doduše na neki način postojati, ali bez ljubavi nemaju pojam savršene kreposti. Budući da je, naime, djelo vjere vjerovati Bogu, a vjerovati znači nekome pristati vlastitom voljom, ako netko ne hoće na dužan način, neće biti savršeno djelo vjere. A da hoće na dužan način, to biva po ljubavi, koja usavršuje volju; svaki, naime, ispravan pokret volje proizlazi iz ispravne ljubavi, kako kaže Augustin u XIV. knjizi O Božjem gradu. Tako, dakle, vjera postoji doduše bez ljubavi, ali ne kao savršena krepost, kao što ni umjerenost ili jakost bez razboritosti. I slično treba reći o nadi. Jer čin nade jest očekivati buduće blaženstvo od Boga. Taj je čin savršen ako se čini na temelju zasluga koje netko ima, a to ne može biti bez ljubavi. Ako pak to očekuje na temelju zasluga koje još nema, nego ih namjerava steći u budućnosti, bit će to nesavršen čin, i to može biti bez ljubavi. I zato vjera i nada mogu postojati bez ljubavi, ali bez ljubavi, u vlastitom smislu govoreći, nisu kreposti; jer pojmu kreposti pripada da po njoj ne samo činimo neko dobro nego da ga činimo i dobro, kako se kaže u II. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da moralne kreposti ovise o razboritosti, a ulivena razboritost ne može imati ni pojam razboritosti bez ljubavi, budući da joj nedostaje dužni odnošaj prema prvom počelu, a to je posljednja svrha. Vjera pak i nada, prema svojim vlastitim pojmovima, ne ovise ni o razboritosti ni o ljubavi. I zato mogu postojati bez ljubavi, premda bez ljubavi nisu kreposti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a4.ad2": {
+      "text": "Na drugo treba reći da onaj razlog govori o vjeri koja ima savršen pojam kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a4.ad3": {
+      "text": "Na treće treba reći da Augustin ondje govori o nadi ukoliko netko očekuje buduće blaženstvo po zaslugama koje već ima, a to ne biva bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da ljubav može postojati bez vjere i nade. Bogoslovna ljubav, naime, jest ljubav prema Bogu. Ali Boga možemo ljubiti naravno, i ne pretpostavljajući vjeru ili nadu u buduće blaženstvo. Dakle, ljubav može postojati bez vjere i nade.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a5.obj2": {
+      "text": "Osim toga, ljubav je korijen svih kreposti, prema onome u Ef 3: *Ukorijenjeni i utemeljeni u ljubavi.* Ali korijen je katkad bez grana. Dakle, ljubav katkad može postojati bez vjere, nade i drugih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a5.obj3": {
+      "text": "Osim toga, u Kristu je bila savršena ljubav. On ipak nije imao vjere i nade, jer je bio savršen posjednik, kako će se dolje reći. Dakle, ljubav može postojati bez vjere i nade.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Heb 11: *Bez vjere nemoguće je svidjeti se Bogu*; a to ponajviše pripada ljubavi, kako je jasno, prema onome u Izr 8: *Ja ljubim one koji mene ljube.* I nada je ono što uvodi u ljubav, kako je gore rečeno. Dakle, ljubav se ne može imati bez vjere i nade.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a5.resp": {
+      "text": "Odgovaram: treba reći da bogoslovna ljubav ne označuje samo ljubav prema Bogu nego i neko prijateljstvo s njim; ono pridodaje ljubavi uzajamno uzvraćanje ljubavi s nekim uzajamnim priopćavanjem, kako se kaže u VIII. knjizi Etike. A da to pripada ljubavi, jasno je iz onoga što se kaže u 1 Iv 4: *Tko ostaje u ljubavi, u Bogu ostaje i Bog u njemu.* I u 1 Kor 1 kaže se: *Vjeran je Bog po kojemu ste pozvani u zajedništvo Sina njegova.* A to zajedništvo čovjeka s Bogom, koje je neko prisno općenje s njim, započinje se doduše ovdje u sadašnjosti po milosti, a dovršit će se u budućnosti po slavi; i jedno i drugo drži se vjerom i nadom. Stoga, kao što netko ne bi mogao imati prijateljstvo s nekim kad ne bi vjerovao ili kad bi očajavao da može imati neko zajedništvo ili prisno općenje s njim, tako netko ne može imati prijateljstvo s Bogom, koje je ljubav, ako nema vjere, po kojoj vjeruje u takvo zajedništvo i općenje čovjeka s Bogom, i ako se ne nada da će pripadati tom zajedništvu. I tako ljubav nipošto ne može postojati bez vjere i nade.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da bogoslovna ljubav nije bilo kakva ljubav prema Bogu, nego ljubav prema Bogu kojom se on ljubi kao predmet blaženstva, prema kojemu smo usmjereni po vjeri i nadi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a5.ad2": {
+      "text": "Na drugo treba reći da je ljubav korijen vjere i nade ukoliko im daje savršenost kreposti. Ali vjera i nada, prema vlastitom pojmu, pretpostavljaju se ljubavi, kako je gore rečeno. I tako ljubav ne može postojati bez njih.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q65.a5.ad3": {
+      "text": "Na treće treba reći da su Kristu nedostajale vjera i nada zbog onoga što je u njima nesavršeno. Ali umjesto vjere imao je otvoreno gledanje, a umjesto nade puno posjedovanje. I tako je u njemu bila savršena ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    }
+  }
+}

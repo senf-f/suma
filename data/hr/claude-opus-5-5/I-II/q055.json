@@ -1,0 +1,264 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 55,
+  "units": {
+    "I-II.q55.pr": {
+      "text": "Sada treba razmotriti habituse u posebnome. A budući da se habitusi, kao što je rečeno, razlikuju po dobru i zlu, najprije treba govoriti o dobrim habitusima, a to su kreposti i ono što je s njima povezano, naime darovi, blaženstva i plodovi; zatim o zlim habitusima, naime o porocima i grijesima. O krepostima pak treba razmotriti pet stvari: prvo, bit kreposti; drugo, njezin subjekt; treće, podjelu kreposti; četvrto, uzrok kreposti; peto, neka svojstva kreposti. O prvome se pitaju četiri stvari. Prvo, je li ljudska krepost habitus. Drugo, je li djelatni habitus. Treće, je li dobar habitus. Četvrto, o definiciji kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da ljudska krepost nije habitus. Krepost je, naime, *ono krajnje do čega moć seže*, kako se kaže u I. knjizi O nebu. Ali ono krajnje svake stvari svodi se na onaj rod čije je ono krajnje, kao što se točka svodi na rod crte. Dakle, krepost se svodi na rod moći, a ne na rod habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.obj2": {
+      "text": "Osim toga, Augustin kaže u II. knjizi O slobodnoj volji da je *krepost dobra uporaba slobodnog odlučivanja*. Ali uporaba slobodnog odlučivanja jest čin. Dakle, krepost nije habitus, nego čin.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.obj3": {
+      "text": "Osim toga, ne zaslužujemo habitusima, nego činima; inače bi čovjek neprestano zasluživao, čak i dok spava. Ali krepostima zaslužujemo. Dakle, kreposti nisu habitusi, nego čini.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.obj4": {
+      "text": "Osim toga, Augustin kaže u knjizi O običajima Katoličke crkve da je *krepost red ljubavi*. A u knjizi Osamdeset i tri pitanja kaže da je *uređenost koja se naziva krepošću: uživati u onome u čemu treba uživati i služiti se onim čime se treba služiti*. Red pak ili uređenost označuje ili čin ili odnos. Dakle, krepost nije habitus, nego čin ili odnos.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.obj5": {
+      "text": "Osim toga, kao što postoje ljudske kreposti, tako postoje i naravne snage (virtutes). Ali naravne snage nisu habitusi, nego neke moći. Dakle, ni ljudske kreposti nisu habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.sc": {
+      "text": "Ali protiv toga jest to što Filozof u knjizi Kategorije postavlja da su znanost i krepost habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.resp": {
+      "text": "Odgovaram: treba reći da krepost (virtus) označuje neku savršenost moći. A savršenost svake stvari ponajprije se razmatra s obzirom na njezinu svrhu. Svrha je pak moći čin. Stoga se za moć kaže da je savršena ukoliko je određena za svoj čin. Postoje pak neke moći koje su same po sebi određene za svoje čine, kao što su djelatne naravne moći. I zato se takve naravne moći same po sebi nazivaju snagama (virtutes). Razumske moći, međutim, koje su čovjeku vlastite, nisu određene za jedno, nego se neodređeno odnose prema mnogome, a za čine se određuju habitusima, kao što je jasno iz onoga što je gore rečeno. I zato su ljudske kreposti habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se katkad krepošću naziva ono za što je krepost, naime ili predmet kreposti ili njezin čin; kao što se vjerom katkad naziva ono što se vjeruje, katkad samo vjerovanje, a katkad sam habitus kojim se vjeruje. Stoga, kad se kaže da je krepost ono krajnje do čega moć seže, krepost se uzima u značenju predmeta kreposti. Ono, naime, za što moć najkrajnje jest sposobna, jest ono prema čemu se određuje snaga stvari: kao kad netko može nositi sto libara i ne više, njegova se snaga procjenjuje prema sto libara, a ne prema šezdeset. Prigovor je pak postupao kao da je krepost po biti ono krajnje do čega moć seže.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.ad2": {
+      "text": "Na drugo treba reći da se dobra uporaba slobodnog odlučivanja naziva krepošću po istom pojmu, naime zato što je ono prema čemu je krepost usmjerena kao prema vlastitom činu. Čin kreposti, naime, nije ništa drugo nego dobra uporaba slobodnog odlučivanja.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.ad3": {
+      "text": "Na treće treba reći da se za nas kaže da nečim zaslužujemo na dva načina. Na jedan način kao samom zaslugom, onako kako kažemo da trčimo trčanjem; i na taj način zaslužujemo činima. Na drugi način kaže se da nečim zaslužujemo kao počelom zasluživanja, kao što kažemo da trčimo pokretačkom moći; i tako se kaže da zaslužujemo krepostima i habitusima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.ad4": {
+      "text": "Na četvrto treba reći da se krepost naziva redom ili uređenošću ljubavi kao onim za što je krepost; jer se po kreposti ljubav u nama uređuje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a1.ad5": {
+      "text": "Na peto treba reći da su naravne moći same od sebe određene za jedno, a razumske moći nisu. I zato to nije slično, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ne pripada pojmu ljudske kreposti da bude djelatni habitus. Tulije, naime, kaže u IV. knjizi Tuskulanskih rasprava da kao što postoji zdravlje i ljepota tijela, tako postoji krepost duše. Ali zdravlje i ljepota nisu djelatni habitusi. Dakle, nije ni krepost.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a2.obj2": {
+      "text": "Osim toga, u naravnim stvarima nalazi se snaga ne samo za djelovanje nego i za bitak, kao što je jasno iz Filozofa u I. knjizi O nebu, gdje kaže da neke stvari imaju snagu da budu uvijek, a neke ne da budu uvijek, nego kroz neko određeno vrijeme. Ali kako se naravna snaga odnosi u naravnim stvarima, tako se ljudska krepost odnosi u razumskim bićima. Dakle, i ljudska krepost nije samo za djelovanje nego i za bitak.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a2.obj3": {
+      "text": "Osim toga, Filozof kaže u VII. knjizi Fizike da je krepost raspoloživost savršenoga prema najboljemu. A najbolje prema čemu čovjek mora biti raspoložen krepošću jest sam Bog, kako dokazuje Augustin u II. knjizi O običajima Katoličke crkve; prema njemu se duša raspolaže upodobljavanjem njemu. Dakle, čini se da se krepost naziva nekom kakvoćom duše s obzirom na Boga, kao ona koja upodobljuje njemu, a ne s obzirom na djelovanje. Prema tome, nije djelatni habitus.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a2.sc": {
+      "text": "Ali protiv toga jest ono što Filozof kaže u II. knjizi Etike: *krepost svake stvari jest ono što njezino djelo čini dobrim*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a2.resp": {
+      "text": "Odgovaram: treba reći da krepost već po samom pojmu imena uključuje neku savršenost moći, kao što je gore rečeno. Stoga, budući da je moć dvostruka, naime moć za bitak i moć za djelovanje, savršenost i jedne i druge moći naziva se krepošću (virtus). Ali moć za bitak stoji na strani tvari, koja je biće u mogućnosti, a moć za djelovanje stoji na strani forme, koja je počelo djelovanja, jer svaka stvar djeluje ukoliko je u činu. U ustrojstvu pak čovjeka tijelo se odnosi kao tvar, a duša kao forma. I s obzirom na tijelo čovjek ima zajedništvo s ostalim životinjama; a slično i s obzirom na sile koje su zajedničke duši i tijelu; samo one sile koje su vlastite duši, naime razumske, pripadaju jedino čovjeku. I zato ljudska krepost, o kojoj govorimo, ne može pripadati tijelu, nego pripada samo onome što je vlastito duši. Stoga ljudska krepost ne uključuje usmjerenost prema bitku, nego više prema djelovanju. I zato pripada pojmu ljudske kreposti da bude djelatni habitus.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da način radnje slijedi raspoloživost djelatnika: kakva je, naime, svaka stvar, takvo i djeluje. I zato, budući da je krepost počelo neke vrste djelovanja, potrebno je da u onome koji djeluje prethodno postoji neka raspoloživost sukladna kreposti. Krepost pak čini djelovanje uređenim. I zato je sama krepost neka uređena raspoloživost u duši, naime ukoliko su moći duše na neki način uređene jedna prema drugoj i prema onome što je izvan. I zato se krepost, ukoliko je prikladna raspoloživost duše, uspoređuje sa zdravljem i ljepotom, koji su dužne raspoloživosti tijela. Ali time se ne isključuje da je krepost također i počelo djelovanja.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a2.ad2": {
+      "text": "Na drugo treba reći da snaga koja je za bitak nije vlastita čovjeku, nego samo krepost koja je za djela razuma, koja su vlastita čovjeku.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a2.ad3": {
+      "text": "Na treće treba reći da je, budući da je Božja supstancija njegova radnja, najveće upodobljenje čovjeka Bogu po nekom djelovanju. Stoga, kao što je gore rečeno, sreća ili blaženstvo, po kojem se čovjek najviše suobličuje Bogu i koje je svrha ljudskog života, sastoji se u djelovanju.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ne pripada pojmu kreposti da bude dobar habitus. Grijeh se, naime, uvijek uzima kao nešto zlo. Ali i grijeh ima neku snagu (virtus), prema onome iz Prve poslanice Korinćanima 15: *snaga je grijeha zakon*. Dakle, krepost nije uvijek dobar habitus.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a3.obj2": {
+      "text": "Osim toga, krepost odgovara moći. Ali moć se ne odnosi samo prema dobru nego i prema zlu, prema onome iz Izaije 5: *jao vama koji ste moćni u pijenju vina i muževi jaki u miješanju opojnog pića*. Dakle, i krepost se odnosi i prema dobru i prema zlu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a3.obj3": {
+      "text": "Osim toga, prema Apostolu, u Drugoj poslanici Korinćanima 12, krepost se usavršuje u slabosti. Ali slabost je neko zlo. Dakle, krepost se ne odnosi samo prema dobru nego i prema zlu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a3.sc": {
+      "text": "Ali protiv toga jest ono što Augustin kaže u knjizi O običajima Katoličke crkve: *nitko pak ne bi posumnjao da krepost čini dušu najboljom*. A Filozof kaže u II. knjizi Etike: *krepost je ono što onoga koji je ima čini dobrim i njegovo djelo čini dobrim*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, krepost uključuje savršenost moći; stoga se krepost svake stvari određuje prema onome krajnjem za što je stvar sposobna, kako se kaže u I. knjizi O nebu. A ono krajnje za što je svaka moć sposobna mora biti dobro, jer svako zlo uključuje neki nedostatak; stoga Dionizije kaže u IV. poglavlju O božanskim imenima da je svako zlo slabo. I zbog toga se krepost svake stvari mora određivati s obzirom na dobro. Stoga je ljudska krepost, koja je djelatni habitus, dobar habitus i habitus koji čini dobro.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kao i savršeno, tako i dobro preneseno govori o zlim stvarima: kaže se, naime, i savršen lopov ili razbojnik i dobar lopov ili razbojnik, kao što je jasno iz Filozofa u V. knjizi Metafizike. Prema tome se, dakle, i krepost (virtus) preneseno govori o zlim stvarima. I tako se zakon naziva snagom grijeha, ukoliko je, naime, po zakonu grijeh prigodno uvećan i takoreći došao do najveće svoje moći.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a3.ad2": {
+      "text": "Na drugo treba reći da se zlo pijanstva i prekomjernog pijenja sastoji u nedostatku reda razuma. Događa se pak da uz nedostatak razuma neka niža moć bude savršena za ono što je njezina roda, čak i uz protivljenje razumu ili uz njegov nedostatak. Ali savršenost takve moći, budući da je uz nedostatak razuma, ne bi se mogla nazvati ljudskom krepošću.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a3.ad3": {
+      "text": "Na treće treba reći da se razum pokazuje to savršenijim što više može svladati ili podnijeti slabosti tijela i nižih dijelova. I zato se za ljudsku krepost, koja se pripisuje razumu, kaže da se usavršuje u slabosti, ne doduše u slabosti razuma, nego u slabosti tijela i nižih dijelova.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da nije prikladna definicija kreposti koja se obično navodi, naime: krepost je dobra kakvoća duha kojom se ispravno živi, kojom se nitko loše ne služi, koju Bog u nama bez nas čini. Krepost je, naime, dobrota čovjeka, jer ona je ono što onoga koji je ima čini dobrim. Ali čini se da dobrota nije dobra, kao što ni bjelina nije bijela. Dakle, neprikladno se kaže da je krepost dobra kakvoća.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.obj2": {
+      "text": "Osim toga, nijedna razlika nije općenitija od svojega roda, budući da dijeli rod. Ali dobro je općenitije od kakvoće, jer je zamjenjivo s bićem. Dakle, dobro ne treba stavljati u definiciju kreposti kao razliku kakvoće.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.obj3": {
+      "text": "Osim toga, kao što Augustin kaže u XII. knjizi O Trojstvu, *gdje se najprije pojavi nešto što nije zajedničko nama i životinjama, to pripada duhu*. Ali neke kreposti pripadaju i nerazumnim dijelovima, kako kaže Filozof u III. knjizi Etike. Dakle, nije svaka krepost dobra kakvoća duha.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.obj4": {
+      "text": "Osim toga, čini se da ispravnost pripada pravednosti; stoga se isti nazivaju ispravnima i pravednima. Ali pravednost je vrsta kreposti. Dakle, neprikladno se u definiciju kreposti stavlja ispravno, kad se kaže: kojom se ispravno živi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.obj5": {
+      "text": "Osim toga, tko god se nečim oholi, loše se time služi. Ali mnogi se ohole krepošću; Augustin, naime, kaže u Pravilu *da oholost vreba i na dobra djela da bi propala*. Dakle, netočno je da se nitko loše ne služi krepošću.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.obj6": {
+      "text": "Osim toga, čovjek se opravdava po kreposti. Ali Augustin kaže, o onom mjestu iz Ivana: *i veća će od ovih činiti; onaj koji te stvorio bez tebe, neće te opravdati bez tebe*. Dakle, neprikladno se kaže da Bog krepost u nama bez nas čini.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.sc": {
+      "text": "Ali protiv toga jest autoritet Augustina, iz čijih je riječi spomenuta definicija sabrana, i to ponajviše iz II. knjige O slobodnoj volji.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.resp": {
+      "text": "Odgovaram: treba reći da ta definicija savršeno obuhvaća cijeli pojam kreposti. Savršeni pojam svake stvari, naime, sabire se iz svih njezinih uzroka. A spomenuta definicija obuhvaća sve uzroke kreposti. Naime, formalni uzrok kreposti, kao i bilo koje stvari, uzima se iz njezina roda i razlike, kad se kaže dobra kakvoća: rod je, naime, kreposti kakvoća, a razlika dobro. Definicija bi ipak bila prikladnija kad bi se umjesto kakvoće stavio habitus, koji je bliži rod. Krepost pak nema tvar iz koje, kao ni drugi akcidenti, nego ima tvar oko koje i tvar u kojoj, naime subjekt. Tvar oko koje jest predmet kreposti; on se nije mogao staviti u spomenutu definiciju zato što se po predmetu krepost određuje u vrstu, a ovdje se daje definicija kreposti općenito. Stoga se umjesto tvarnog uzroka stavlja subjekt, kad se kaže da je dobra kakvoća duha. Svrha pak kreposti, budući da je ona djelatni habitus, jest samo djelovanje. Ali treba primijetiti da su neki od djelatnih habitusa uvijek usmjereni na zlo, kao poročni habitusi; neki pak katkad na dobro, a katkad na zlo, kao što se mnijenje odnosi i prema istinitom i prema lažnom; krepost je pak habitus koji se uvijek odnosi prema dobru. I zato, da bi se krepost razlikovala od onih koji se uvijek odnose prema zlu, kaže se: kojom se ispravno živi; a da bi se razlikovala od onih koji se odnose katkad prema dobru, a katkad prema zlu, kaže se: kojom se nitko loše ne služi. Tvorni je pak uzrok ulivene kreposti, o kojoj se daje definicija, Bog. Zbog toga se kaže: koju Bog u nama bez nas čini. Ako se taj dio izostavi, ostatak definicije bit će zajednički svim krepostima, i stečenima i ulivenima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ono što najprije pada u um biće; stoga svemu što zahvatimo pripisujemo da je biće, a posljedično da je jedno i dobro, što je zamjenjivo s bićem. Stoga kažemo da je bit biće, i jedna, i dobra; i da je jedinstvo biće, i jedno, i dobro; i slično o dobroti. To pak nema mjesta u posebnim formama, kakve su bjelina i zdravlje; jer ne zahvaćamo sve što zahvaćamo pod pojmom bijeloga i zdravoga. Ipak treba uočiti da, kao što se akcidenti i forme koje ne samostoje nazivaju bićima ne zato što bi sami imali bitak, nego zato što nešto po njima jest, tako se nazivaju i dobrima ili jednima, ne doduše nekom drugom dobrotom ili jedinstvom, nego zato što je po njima nešto dobro ili jedno. Tako se, dakle, i krepost naziva dobrom jer je po njoj nešto dobro.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.ad2": {
+      "text": "Na drugo treba reći da dobro koje se stavlja u definiciju kreposti nije opće dobro, koje je zamjenjivo s bićem i proteže se šire od kakvoće, nego je dobro razuma, prema onome što Dionizije kaže u IV. poglavlju O božanskim imenima: *dobro je duše biti u skladu s razumom*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.ad3": {
+      "text": "Na treće treba reći da krepost ne može biti u nerazumnom dijelu duše, osim ukoliko on ima udjela u razumu, kako se kaže u I. knjizi Etike. I zato je razum, ili duh, vlastiti subjekt ljudske kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.ad4": {
+      "text": "Na četvrto treba reći da je pravednosti vlastita ona ispravnost koja se uspostavlja u pogledu vanjskih stvari koje dolaze u čovjekovu uporabu, a koje su vlastita građa pravednosti, kao što će niže biti jasno. Ali ispravnost koja uključuje usmjerenost prema dužnoj svrsi i prema božanskom zakonu, koji je pravilo ljudske volje, kao što je gore rečeno, zajednička je svakoj kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.ad5": {
+      "text": "Na peto treba reći da se netko može loše služiti krepošću kao predmetom, na primjer kad loše misli o kreposti, kad je mrzi ili se njome oholi; ali ne kao počelom uporabe, tako naime da bi čin kreposti bio zao.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q55.a4.ad6": {
+      "text": "Na šesto treba reći da ulivenu krepost Bog uzrokuje u nama bez našeg djelovanja, ali ne bez našeg pristanka. I tako treba shvatiti ono što se kaže: koju Bog u nama bez nas čini. Ono pak što se čini po nama, Bog u nama uzrokuje ne bez našeg djelovanja; jer on djeluje u svakoj volji i naravi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    }
+  }
+}

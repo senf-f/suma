@@ -1,0 +1,312 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 66,
+  "units": {
+    "I-II.q66.pr": {
+      "text": "Zatim treba razmotriti jednakost kreposti. U vezi s tim pita se šest stvari. Prvo, može li krepost biti veća ili manja. Drugo, jesu li sve kreposti koje istodobno postoje u istome jednake. Treće, o usporedbi moralnih kreposti s umnima. Četvrto, o međusobnoj usporedbi moralnih kreposti. Peto, o međusobnoj usporedbi umskih kreposti. Šesto, o međusobnoj usporedbi bogoslovnih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da krepost ne može biti veća ili manja. Kaže se, naime, u Otk 21 da su strane grada Jeruzalema jednake. A njima se označuju kreposti, kako ondje kaže Glosa. Dakle, sve su kreposti jednake. Ne može, dakle, biti krepost veća od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a1.obj2": {
+      "text": "Osim toga, sve ono čiji se pojam sastoji u najvećem ne može biti veće ili manje. Ali pojam se kreposti sastoji u najvećem: krepost je, naime, krajnost moći, kako kaže Filozof u I. knjizi O nebu; a i Augustin kaže u II. knjizi O slobodnoj volji da su *kreposti najveća dobra, kojima se nitko ne može zlo služiti*. Dakle, čini se da krepost ne može biti ni veća ni manja.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a1.obj3": {
+      "text": "Osim toga, kolikoća se učinka procjenjuje prema snazi djelatnika. Ali savršene kreposti, a to su ulivene kreposti, jesu od Boga, čija je snaga jednolika i beskonačna. Dakle, čini se da krepost ne može biti veća od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a1.sc": {
+      "text": "Ali protiv toga, gdje god može biti porast i pretjeranost, može biti i nejednakost. Ali u krepostima se nalazi pretjeranost i porast; kaže se, naime, u Mt 5: *Ako vaša pravednost ne bude obilnija od pravednosti pismoznanaca i farizeja, nećete ući u kraljevstvo nebesko*; a u Izr 15 kaže se: *U obilnoj je pravednosti najveća krepost.* Dakle, čini se da krepost može biti veća ili manja.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a1.resp": {
+      "text": "Odgovaram: treba reći da se pitanje, kad se pita može li jedna krepost biti veća od druge, može shvatiti na dva načina. Na jedan način, o krepostima koje se razlikuju po vrsti. I tako je očito da je jedna krepost veća od druge. Uzrok je, naime, uvijek izvrsniji od svojega učinka, a među učincima nešto je to izvrsnije što je bliže uzroku. A iz rečenoga je očito da je uzrok i korijen ljudskoga dobra razum. I zato se razboritost, koja usavršuje razum, po dobroti pretpostavlja drugim moralnim krepostima, koje usavršuju težnjenu silu ukoliko ona ima udjela u razumu. I među njima je jedna to bolja od druge što se više približuje razumu. Stoga se i pravednost, koja je u volji, pretpostavlja drugim moralnim krepostima, a jakost, koja je u srditoj moći, pretpostavlja se umjerenosti, koja je u požudnoj moći, a ona manje ima udjela u razumu, kako je jasno u VII. knjizi Etike. Na drugi se način pitanje može shvatiti o kreposti iste vrste. I tako se, prema onome što je gore rečeno kad se raspravljalo o pojačavanju habitusa, za krepost može na dva načina reći da je veća i manja: na jedan način, po sebi samoj; na drugi način, s obzirom na subjekt koji u njoj ima udjela. Ako se dakle razmatra po sebi samoj, njezina se veličina ili malenost procjenjuje prema onome na što se proteže. A tko god ima neku krepost, na primjer umjerenost, ima je u pogledu svega na što se umjerenost proteže. To se ne događa kod znanosti i umijeća: ne zna, naime, svatko tko je gramatičar sve što pripada gramatici. I prema tome dobro su rekli stoici, kako kaže Simplicije u komentaru Kategorija, da krepost ne prima više i manje, kao znanost ili umijeće, zato što se pojam kreposti sastoji u najvećem. Ako se pak krepost razmatra s obzirom na subjekt koji u njoj ima udjela, tada se događa da krepost bude veća ili manja, bilo u istome u različita vremena, bilo u različitim ljudima. Jer za postizanje sredine kreposti, koja je prema ispravnom razumu, jedan je bolje raspoložen nego drugi, ili zbog većeg navikavanja, ili zbog bolje raspoloživosti naravi, ili zbog oštroumnijeg suda razuma, ili pak zbog većeg dara milosti, koji se svakome daje po mjeri dara Kristova, kako se kaže u Ef 4. I u tome su griješili stoici, smatrajući da nikoga ne treba nazvati krepostnim osim onoga koji je u najvišoj mjeri raspoložen za krepost. Ne traži se, naime, za pojam kreposti da postigne sredinu ispravnog razuma u nedjeljivoj točki, kako su mislili stoici, nego je dovoljno biti blizu sredine, kako se kaže u II. knjizi Etike. A istu nedjeljivu metu jedan postiže bliže i spremnije nego drugi, kao što je jasno i kod strijelaca koji gađaju u određenu metu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da ta jednakost nije po apsolutnoj kolikoći, nego je treba shvatiti po razmjeru, jer sve kreposti u čovjeku rastu razmjerno, kako će se dolje reći.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a1.ad2": {
+      "text": "Na drugo treba reći da ono krajnje što pripada kreposti može imati pojam većeg ili manjeg dobra na spomenute načine, budući da to nije nedjeljiva krajnost, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a1.ad3": {
+      "text": "Na treće treba reći da Bog ne djeluje po nužnosti naravi, nego po redu svoje mudrosti, prema kojoj ljudima udjeljuje različitu mjeru kreposti, prema onome u Ef 4: *Svakomu je od vas dana milost po mjeri dara Kristova.*",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da sve kreposti u jednom te istom nisu jednako pojačane. Apostol, naime, kaže u 1 Kor 7: *Svatko ima svoj vlastiti dar od Boga, jedan ovako, drugi onako.* A ne bi jedan dar bio nekome više vlastit nego drugi kad bi svatko jednako imao sve kreposti ulivene Božjim darom. Dakle, čini se da sve kreposti nisu jednake u jednom te istom.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a2.obj2": {
+      "text": "Osim toga, kad bi sve kreposti bile jednako pojačane u jednom te istom, slijedilo bi da tko god nekoga nadmašuje u jednoj kreposti, nadmašuje ga i u svim drugim krepostima. Ali jasno je da je to lažno, jer se različiti sveti osobito hvale zbog različitih kreposti, kao Abraham zbog vjere, Mojsije zbog blagosti, Job zbog strpljivosti. Stoga se i o svakom ispovjedaocu pjeva u Crkvi: *Ne nađe se njemu sličan koji bi čuvao zakon Svevišnjega*, zato što je svaki imao prednost u nekoj kreposti. Nisu, dakle, sve kreposti jednake u jednom te istom.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a2.obj3": {
+      "text": "Osim toga, što je habitus jači, to čovjek po njemu ugodnije i spremnije djeluje. Ali iskustvom je jasno da jedan čovjek ugodnije i spremnije izvršava čin jedne kreposti nego čin druge. Nisu, dakle, sve kreposti jednake u jednom te istom.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u VI. knjizi O Trojstvu, da *koji god su jednaki u jakosti, jednaki su u razboritosti i umjerenosti*; i tako o ostalima. A to ne bi bilo kad ne bi sve kreposti jednoga čovjeka bile jednake. Dakle, sve su kreposti jednoga čovjeka jednake.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a2.resp": {
+      "text": "Odgovaram: treba reći da se kolikoća kreposti, kao što je jasno iz rečenoga, može procjenjivati na dva načina. Na jedan način, prema pojmu vrste. I tako nema sumnje da je jedna krepost jednoga čovjeka veća od druge, kao ljubav od vjere i nade. Na drugi se način može procjenjivati prema sudjelovanju subjekta, to jest ukoliko se ona u subjektu pojačava ili slabi. I prema tome sve su kreposti jednoga čovjeka jednake nekom jednakošću razmjera, ukoliko u čovjeku jednako rastu; kao što su prsti ruke nejednaki po kolikoći, ali su jednaki po razmjeru, budući da razmjerno rastu. A pojam takve jednakosti treba shvatiti na isti način kao i pojam povezanosti, jer jednakost je neka povezanost kreposti po kolikoći. Gore je pak rečeno da se razlog povezanosti kreposti može navesti na dva načina. Na jedan način, prema shvaćanju onih koji pod tim četirima krepostima razumiju četiri opća uvjeta kreposti, od kojih se jedan nalazi zajedno s ostalima u bilo kojoj građi. I tako se krepost ni u kojoj građi ne može nazvati jednakom ako nema sve te uvjete jednake. I taj razlog jednakosti kreposti navodi Augustin u VI. knjizi O Trojstvu, govoreći: *Ako kažeš da su ovi jednaki po jakosti, ali da se onaj ističe razboritošću, slijedi da je jakost ovoga manje razborita. A po tome nisu jednaki ni po jakosti, kad je jakost onoga razboritija. I tako ćeš naći i o ostalim krepostima ako ih sve prođeš istim razmatranjem.* Na drugi je način razlog povezanosti kreposti naveden prema onima koji smatraju da takve kreposti imaju određene građe. I prema tome razlog povezanosti moralnih kreposti uzima se s obzirom na razboritost, a za ulivene kreposti s obzirom na ljubav, ali ne s obzirom na sklonost, koja je sa strane subjekta, kako je gore rečeno. Tako se, dakle, i razlog jednakosti kreposti može uzeti s obzirom na razboritost, u pogledu onoga što je formalno u svim moralnim krepostima: kad je, naime, razum u jednom te istom jednako savršen, treba da se razmjerno, prema ispravnom razumu, uspostavi sredina u bilo kojoj građi kreposti. A u pogledu onoga što je tvarno u moralnim krepostima, to jest same sklonosti prema činu kreposti, jedan čovjek može biti spremniji na čin jedne kreposti nego na čin druge, ili od naravi, ili od navike, ili pak od dara milosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se Apostolova riječ može shvatiti o darovima milosti darovane besplatno, koji nisu zajednički svima niti su svi jednaki u jednom te istom. Ili se može reći da se odnosi na mjeru milosti koja čini ugodnim, prema kojoj jedan obiluje u svim krepostima više nego drugi zbog većeg obilja razboritosti ili pak ljubavi, u kojoj su povezane sve ulivene kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a2.ad2": {
+      "text": "Na drugo treba reći da se jedan sveti osobito hvali zbog jedne kreposti, a drugi zbog druge, zbog izvrsnije spremnosti na čin jedne kreposti nego na čin druge.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a2.ad3": {
+      "text": "I po tome je jasan i odgovor na treće.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da moralne kreposti nadmašuju umne. Ono što je, naime, potrebnije i trajnije, bolje je. Ali moralne su kreposti trajnije čak i od znanstvenih disciplina, koje su umske kreposti, a i potrebnije su za ljudski život. Dakle, treba ih pretpostaviti umskim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a3.obj2": {
+      "text": "Osim toga, pojmu kreposti pripada da čini dobrim onoga tko je ima. Ali čovjek se naziva dobrim po moralnim krepostima, a ne po umskim krepostima, osim možda samo po razboritosti. Dakle, moralna je krepost bolja od umne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a3.obj3": {
+      "text": "Osim toga, svrha je plemenitija od onoga što vodi k svrsi. Ali, kako se kaže u VI. knjizi Etike, *moralna krepost čini ispravnom nakanu svrhe, a razboritost čini ispravnim izbor onoga što vodi k svrsi*. Dakle, moralna je krepost plemenitija od razboritosti, koja je umska krepost o moralnim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a3.sc": {
+      "text": "Ali protiv toga, moralna je krepost u razumskom dijelu po sudjelovanju, a umna je krepost u razumskom dijelu po biti, kako se kaže u I. knjizi Etike. Ali ono što je razumsko po biti plemenitije je od onoga što je razumsko po sudjelovanju. Dakle, umna je krepost plemenitija od moralne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a3.resp": {
+      "text": "Odgovaram: treba reći da se za nešto može reći da je veće ili manje na dva načina: na jedan način, naprosto; na drugi način, u nekom pogledu. Ništa, naime, ne priječi da nešto bude naprosto bolje, kao filozofirati nego bogatiti se, a da ipak ne bude bolje u nekom pogledu, to jest za onoga tko trpi oskudicu. A svaka se stvar razmatra naprosto kad se razmatra prema vlastitom pojmu svoje vrste. Krepost pak ima vrstu od predmeta, kao što je jasno iz rečenoga. Stoga je, naprosto govoreći, plemenitija ona krepost koja ima plemenitiji predmet. A očito je da je predmet razuma plemenitiji od predmeta težnje: razum, naime, zahvaća nešto općenito, a težnja teži prema stvarima koje imaju pojedinačni bitak. Stoga su, naprosto govoreći, umske kreposti, koje usavršuju razum, plemenitije od moralnih, koje usavršuju težnju. Ali ako se krepost razmatra u usmjerenosti prema činu, tada je plemenitija moralna krepost, koja usavršuje težnju, kojoj pripada da pokreće druge moći na čin, kako je gore rečeno. I budući da se krepost tako naziva zato što je počelo nekog čina, jer je savršenost moći, slijedi i to da pojam kreposti više pristaje moralnim krepostima nego umskim krepostima, premda su umske kreposti naprosto plemenitiji habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da su moralne kreposti trajnije od umnih zbog vježbanja u njima u onome što pripada zajedničkom životu. Ali očito je da su predmeti znanstvenih disciplina, koji su nužni i uvijek se odnose na isti način, trajniji od predmeta moralnih kreposti, a to su neke pojedinačne stvari koje treba činiti. A to što su moralne kreposti potrebnije za ljudski život ne pokazuje da su naprosto plemenitije, nego samo u tom pogledu. Štoviše, spekulativne umske kreposti upravo su po tome dostojnije što nisu usmjerene prema nečemu drugome kao što je korisno usmjereno prema svrsi. To se, naime, događa zato što se po njima u nama na neki način započinje blaženstvo, koje se sastoji u spoznaji istine, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a3.ad2": {
+      "text": "Na drugo treba reći da se čovjek po moralnim krepostima naziva dobrim naprosto, a ne po umnim, iz toga razloga što težnja pokreće druge moći na njihov čin, kako je gore rečeno. Stoga se ni time ne dokazuje drugo nego da je moralna krepost bolja u nekom pogledu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a3.ad3": {
+      "text": "Na treće treba reći da razboritost ne upravlja moralnim krepostima samo u izabiranju onoga što vodi k svrsi, nego i u postavljanju svrhe unaprijed. A svrha je svake moralne kreposti postići sredinu u vlastitoj građi, a ta se sredina određuje prema ispravnom razumu razboritosti, kako se kaže u II. i VI. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da pravednost nije prva među moralnim krepostima. Veće je, naime, dati nekome od svojega nego nekome vratiti ono što mu se duguje. Ali prvo pripada darežljivosti, a drugo pravednosti. Dakle, čini se da je darežljivost veća krepost od pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a4.obj2": {
+      "text": "Osim toga, čini se da je u svakoj stvari najveće ono što je u njoj najsavršenije. Ali, kako se kaže u Jak 1, *strpljivost ima savršeno djelo*. Dakle, čini se da je strpljivost veća od pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a4.obj3": {
+      "text": "*Osim toga, velikodušnost čini nešto veliko u svim krepostima*, kako se kaže u IV. knjizi Etike. Dakle, ona uvećava i samu pravednost. Ona je, dakle, veća od pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u V. knjizi Etike, da je *pravednost najsjajnija od kreposti*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a4.resp": {
+      "text": "Odgovaram: treba reći da se za neku krepost prema njezinoj vrsti može reći da je veća ili manja, bilo naprosto, bilo u nekom pogledu. Naprosto se za krepost kaže da je veća ukoliko u njoj odsijeva veće dobro razuma, kako je gore rečeno. I prema tome pravednost se ističe među svim moralnim krepostima kao ona koja je bliža razumu. To je jasno i po subjektu i po predmetu. Po subjektu, jer je u volji kao u subjektu, a volja je razumska težnja, kao što je jasno iz rečenoga. Po predmetu ili građi, jer je o djelovanjima kojima čovjek biva sređen ne samo u sebi samome nego i prema drugome. Stoga je pravednost najsjajnija od kreposti, kako se kaže u V. knjizi Etike. A među drugim moralnim krepostima, koje su o strastima, u svakoj od njih to više odsijeva dobro razuma što se težnjeni pokret razumu podvrgava u većim stvarima. A najveće u onome što pripada čovjeku jest život, o kojem ovisi sve drugo. I zato jakost, koja podvrgava težnjeni pokret razumu u onome što pripada smrti i životu, drži prvo mjesto među moralnim krepostima koje su o strastima, ali ipak dolazi iza pravednosti. Stoga Filozof kaže u I. knjizi Retorike da *je nužno da su najveće one kreposti koje su drugima najčasnije, budući da je krepost moć činjenja dobra. Zbog toga najviše časte jake i pravedne: ona je, naime, korisna u ratu, to jest jakost, a ova, to jest pravednost, korisna je i u ratu i u miru*. Nakon jakosti pak dolazi umjerenost, koja razumu podvrgava težnju u onome što je neposredno usmjereno prema životu, bilo u istome po broju, bilo u istome po vrsti, to jest u jelima i spolnim užicima. I tako se za te tri kreposti, zajedno s razboritošću, kaže da su glavne i po dostojanstvu. U nekom se pak pogledu kaže da je neka krepost veća ukoliko pruža potporu ili ures glavnoj kreposti. Kao što je supstancija naprosto dostojnija od akcidenta, a ipak je neki akcident u nekom pogledu dostojniji od supstancije, ukoliko usavršuje supstanciju u nekom akcidentalnom bitku.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da čin darežljivosti treba biti utemeljen na činu pravednosti; *ne bi, naime, darivanje bilo darežljivo kad netko ne bi davao od svojega*, kako se kaže u II. knjizi Politike. Stoga darežljivost ne bi mogla postojati bez pravednosti, koja odjeljuje svoje od nesvojega. A pravednost može postojati bez darežljivosti. Stoga je pravednost naprosto veća od darežljivosti, kao općenitija i kao njezin temelj, a darežljivost je veća u nekom pogledu, budući da je neki ures pravednosti i njezino upotpunjenje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a4.ad2": {
+      "text": "Na drugo treba reći da se za strpljivost kaže da ima savršeno djelo u podnošenju zala, u kojima ona ne isključuje samo nepravednu osvetu, koju isključuje i pravednost; niti samo mržnju, što čini ljubav; niti samo srdžbu, što čini blagost; nego isključuje i neurednu žalost, koja je korijen svega spomenutoga. I zato je u tome savršenija i veća što u toj građi iskorjenjuje korijen. Ali nije naprosto savršenija od svih drugih kreposti. Jer jakost ne samo da podnosi nevolje bez uznemirenosti, što pripada strpljivosti, nego im se i izlaže kad je potrebno. Stoga je svaki tko je jak strpljiv, ali ne i obratno, jer strpljivost je neki dio jakosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a4.ad3": {
+      "text": "Na treće treba reći da velikodušnost može postojati samo ako druge kreposti već postoje, kako se kaže u IV. knjizi Etike. Stoga se prema drugima odnosi kao njihov ures. I tako je u nekom pogledu veća od svih drugih, ali ne naprosto.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da mudrost nije najveća među umskim krepostima. Onaj koji zapovijeda veći je, naime, od onoga kojemu se zapovijeda. Ali čini se da razboritost zapovijeda mudrosti; kaže se, naime, u I. knjizi Etike da *koje discipline treba da budu u državama, i koje svatko treba učiti, i dokle, to unaprijed određuje* politika, koja pripada razboritosti, kako se kaže u VI. knjizi Etike. Budući da je, dakle, među disciplinama sadržana i mudrost, čini se da je razboritost veća od mudrosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a5.obj2": {
+      "text": "Osim toga, pojmu kreposti pripada da usmjeruje čovjeka prema sreći: krepost je, naime, raspoloživost savršenoga prema najboljemu, kako se kaže u VII. knjizi Fizike. Ali razboritost je ispravni razum o onome što treba činiti, po čemu se čovjek dovodi do sreće, a mudrost ne razmatra ljudske čine, kojima se dolazi do blaženstva. Dakle, razboritost je veća krepost od mudrosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a5.obj3": {
+      "text": "Osim toga, što je spoznaja savršenija, to se čini da je veća. Ali savršeniju spoznaju možemo imati o ljudskim stvarima, o kojima je znanost, nego o božanskim stvarima, o kojima je mudrost, kako ih razlikuje Augustin u XII. knjizi O Trojstvu, jer su božanske stvari neobuhvatljive, prema onome u Job 36: *Evo, Bog je velik, nadilazi naše znanje.* Dakle, znanost je veća krepost od mudrosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a5.obj4": {
+      "text": "Osim toga, spoznaja načela dostojnija je od spoznaje zaključaka. Ali mudrost zaključuje iz nedokazivih načela, kojih je um, kao i druge znanosti. Dakle, um je veća krepost od mudrosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u VI. knjizi Etike, da je mudrost kao glava među umskim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a5.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, veličina kreposti prema njezinoj vrsti razmatra po predmetu. A predmet mudrosti nadmašuje predmete svih umskih kreposti: ona, naime, razmatra najviši uzrok, a to je Bog, kako se kaže na početku Metafizike. I budući da se po uzroku sudi o učinku, i po višem uzroku o nižim uzrocima, otuda je da mudrost ima sud o svim drugim umskim krepostima, i njoj pripada da ih sve usmjeruje, i ona je kao arhitektonska u odnosu na sve.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je, budući da je razboritost o ljudskim stvarima, a mudrost o najvišem uzroku, nemoguće da razboritost bude veća krepost od mudrosti, *osim kad bi*, kako se kaže u VI. knjizi Etike, *najveće od onoga što je u svijetu bio čovjek*. Stoga treba reći, kako se kaže u istoj knjizi, da razboritost ne zapovijeda samoj mudrosti, nego radije obratno, jer *duhovni sve prosuđuje, a njega nitko ne prosuđuje*, kako se kaže u 1 Kor 2. Razboritost se, naime, ne smije miješati u ono najviše što razmatra mudrost, nego zapovijeda o onome što je usmjereno prema mudrosti, to jest kako ljudi trebaju doći do mudrosti. Stoga je u tome razboritost, ili politika, službenica mudrosti: ona, naime, uvodi k njoj, pripravljajući joj put, kao vratar kralju.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a5.ad2": {
+      "text": "Na drugo treba reći da razboritost razmatra ono čime se dolazi do sreće, a mudrost razmatra sam predmet sreće, a to je najviše umljivo. I kad bi razmatranje mudrosti bilo savršeno u odnosu na njezin predmet, bila bi savršena sreća u činu mudrosti. Ali budući da je čin mudrosti u ovom životu nesavršen u odnosu na glavni predmet, a to je Bog, zato je čin mudrosti neki začetak ili sudjelovanje u budućoj sreći. I tako je bliži sreći nego razboritost.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a5.ad3": {
+      "text": "Na treće treba reći da se, kako kaže Filozof u I. knjizi O duši, *jedno poznavanje pretpostavlja drugome ili zato što je o plemenitijim stvarima ili zbog izvjesnosti*. Ako su dakle subjekti jednaki po dobroti i plemenitosti, ono koje je izvjesnije bit će veća krepost. Ali ono koje je manje izvjesno, a o višim i većim stvarima, pretpostavlja se onome koje je izvjesnije o nižim stvarima. Stoga Filozof kaže u II. knjizi O nebu da je veliko moći nešto spoznati o nebeskim stvarima, makar i slabim i topičkim razlogom. A u I. knjizi O dijelovima životinja kaže da je *poželjnije spoznati nešto malo o plemenitijim stvarima nego spoznati mnogo o neplemenitijim stvarima*. Mudrost, dakle, kojoj pripada spoznaja Boga, ne može čovjeku, osobito u stanju ovoga života, savršeno pripasti tako da bude kao njegov posjed, nego to pripada samo Bogu, kako se kaže u I. knjizi Metafizike. Ali ipak, ona malena spoznaja koja se po mudrosti može imati o Bogu pretpostavlja se svakoj drugoj spoznaji.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a5.ad4": {
+      "text": "Na četvrto treba reći da istina i spoznaja nedokazivih načela ovise o pojmu termina: kad se, naime, spozna što je cjelina i što dio, odmah se spoznaje da je svaka cjelina veća od svojega dijela. A spoznavati pojam bića i nebića, cjeline i dijela, i drugoga što slijedi iz bića, od čega se kao od termina sastavljaju nedokaziva načela, pripada mudrosti, jer je opće biće vlastiti učinak najvišeg uzroka, to jest Boga. I zato se mudrost ne služi samo nedokazivim načelima, kojih je um, zaključujući iz njih kao druge znanosti, nego i sudeći o njima i raspravljajući protiv onih koji ih niječu. Stoga slijedi da je mudrost veća krepost od uma.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da ljubav nije najveća među bogoslovnim krepostima. Budući da je, naime, vjera u umu, a nada i ljubav u težnjenoj sili, kako je gore rečeno, čini se da se vjera odnosi prema nadi i ljubavi kao umska krepost prema moralnoj. Ali umna je krepost veća od moralne, kao što je jasno iz rečenoga. Dakle, vjera je veća od nade i ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a6.obj2": {
+      "text": "Osim toga, ono što se prema drugome odnosi kao dodatak, čini se da je veće od njega. Ali nada se, kako se čini, odnosi prema ljubavi kao dodatak: nada, naime, pretpostavlja ljubav, kako kaže Augustin u Enhiridiju, a dodaje neki pokret pružanja prema ljubljenoj stvari. Dakle, nada je veća od ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a6.obj3": {
+      "text": "Osim toga, uzrok je izvrsniji od učinka. Ali vjera i nada uzrok su ljubavi; kaže se, naime, u Glosi uz Mt 1 da *vjera rađa nadu, a nada ljubav*. Dakle, vjera i nada veće su od ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u 1 Kor 13: *Sada pak ostaju vjera, nada, ljubav, ovo troje; a najveća je od njih ljubav.*",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a6.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je gore rečeno, veličina kreposti prema njezinoj vrsti razmatra po predmetu. A budući da se tri bogoslovne kreposti odnose na Boga kao na vlastiti predmet, ne može se za jednu od njih reći da je veća od druge zato što bi bila o većem predmetu, nego zato što se jedna odnosi bliže prema predmetu nego druga. I na taj je način ljubav veća od ostalih. Ostale, naime, u svojem pojmu uključuju neku udaljenost od predmeta: vjera je, naime, o onome što se ne vidi, a nada o onome što se nema. Ali ljubav bogoslovne ljubavi o onome je što se već ima: ljubljeno je, naime, na neki način u onome koji ljubi, a i onaj koji ljubi po čuvstvu biva privučen k sjedinjenju s ljubljenim; zbog toga se kaže u 1 Iv 4: *Tko ostaje u ljubavi, u Bogu ostaje i Bog u njemu.*",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se vjera i nada ne odnose prema ljubavi na onaj način na koji se razboritost odnosi prema moralnoj kreposti. I to zbog dvoga. Prvo, zato što bogoslovne kreposti imaju predmet koji je iznad ljudske duše, a razboritost i moralne kreposti jesu o onome što je ispod čovjeka. A u onome što je iznad čovjeka plemenitija je ljubav nego spoznaja. Spoznaja se, naime, dovršava ukoliko je spoznato u onome koji spoznaje, a ljubav ukoliko onaj koji ljubi biva privučen k ljubljenoj stvari. A ono što je iznad čovjeka plemenitije je u sebi samome nego što je u čovjeku, jer svaka je stvar u drugome na način onoga u kojemu jest. A obratno je u onome što je ispod čovjeka. Drugo, zato što razboritost umjerava težnjene pokrete koji pripadaju moralnim krepostima, a vjera ne umjerava težnjeni pokret koji teži prema Bogu, a koji pripada bogoslovnim krepostima, nego samo pokazuje predmet. A težnjeni pokret prema predmetu nadilazi ljudsku spoznaju, prema onome u Ef 3: *Kristovu ljubav koja nadvisuje znanje.*",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a6.ad2": {
+      "text": "Na drugo treba reći da nada pretpostavlja ljubav prema onome što se netko nada postići, a to je ljubav želje, kojom onaj koji želi dobro više ljubi sebe nego nešto drugo. A bogoslovna ljubav uključuje ljubav prijateljstva, do koje se dolazi nadom, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q66.a6.ad3": {
+      "text": "Na treće treba reći da je usavršujući uzrok izvrsniji od učinka, ali ne i uzrok koji raspolaže. Tako bi, naime, toplina vatre bila izvrsnija od duše, za koju raspolaže tvar, a jasno je da je to lažno. A vjera tako rađa nadu, a nada ljubav, to jest ukoliko jedna raspolaže za drugu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    }
+  }
+}

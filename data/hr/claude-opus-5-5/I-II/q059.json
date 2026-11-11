@@ -1,0 +1,252 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 59,
+  "units": {
+    "I-II.q59.pr": {
+      "text": "Zatim valja razmotriti razlikovanje moralnih kreposti jednih od drugih. A budući da se moralne kreposti koje se odnose na strasti razlikuju prema različitosti strasti, treba najprije razmotriti odnos kreposti prema strasti; drugo, razlikovanje moralnih kreposti prema strastima. Glede prvoga pita se pet stvari. Prvo, je li moralna krepost strast. Drugo, može li moralna krepost biti zajedno sa strašću. Treće, može li biti zajedno sa žalošću. Četvrto, odnosi li se svaka moralna krepost na strast. Peto, može li neka moralna krepost biti bez strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je moralna krepost strast. Sredina je, naime, istoga roda kao i krajnosti. Ali moralna krepost je sredina između strasti. Dakle, moralna krepost je strast.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a1.obj2": {
+      "text": "Osim toga, krepost i porok, budući da su protivni, jesu u istom rodu. Ali za neke se strasti kaže da su poroci, kao zavist i srdžba. Dakle, i neke su strasti kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a1.obj3": {
+      "text": "Osim toga, milosrđe je neka strast, jer je ono žalost zbog tuđih zala, kao što je gore rečeno. *Njega se pak Ciceron, izvrstan govornik, nije ustručavao nazvati krepošću*, kako kaže Augustin u IX. knjizi djela O Božjem gradu. Dakle, strast može biti moralna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a1.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u II. knjizi Etike, da *strasti nisu ni kreposti ni zloće*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a1.resp": {
+      "text": "Odgovaram: treba reći da moralna krepost ne može biti strast. A to je očito iz trostrukog razloga. Prvo, zato što je strast neki pokret osjetilne težnje, kao što je gore rečeno. Moralna pak krepost nije nekakav pokret, nego prije počelo težnjenog pokreta, budući da je neki habitus. Drugo, zato što strasti same po sebi nemaju pojam dobra ili zla. Dobro ili zlo čovjeka, naime, jest po razumu; stoga se strasti, promatrane same po sebi, odnose i prema dobru i prema zlu, ovisno o tome mogu li se slagati s razumom ili se ne slagati. Ništa takvo pak ne može biti krepost, budući da se krepost odnosi samo prema dobru, kao što je gore rečeno. Treće, zato što, pretpostavimo li da se neka strast na neki način odnosi samo prema dobru ili samo prema zlu, ipak pokret strasti, ukoliko je strast, ima svoje počelo u samoj težnji, a završetak u razumu, s kojim se težnja nastoji suobličiti. Pokret je pak kreposti obrnut: ima počelo u razumu, a završetak u težnji, ukoliko je pokreće razum. Stoga se u definiciji moralne kreposti u II. knjizi Etike kaže *da je ona izborni habitus koji se sastoji u sredini određenoj razumom, kako će je odrediti mudar čovjek*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da krepost po svojoj biti nije sredina između strasti, nego po svojem učinku, naime zato što uspostavlja sredinu između strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a1.ad2": {
+      "text": "Na drugo treba reći da je, ako se porokom naziva habitus po kojem netko loše djeluje, očito da nijedna strast nije porok. Ako se pak porokom naziva grijeh, koji je poročan čin, tada ništa ne priječi da strast bude porok i, obratno, da sudjeluje u činu kreposti, ovisno o tome protivi li se strast razumu ili slijedi čin razuma.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a1.ad3": {
+      "text": "Na treće treba reći da se za milosrđe kaže da je krepost, to jest čin kreposti, ukoliko *taj pokret duše služi razumu, naime kad se milosrđe iskazuje tako da se očuva pravednost, bilo kad se daje potrebitome, bilo kad se oprašta pokajniku*, kako kaže Augustin na istom mjestu. Ako se pak milosrđem naziva neki habitus kojim se čovjek usavršuje za razumno smilovanje, ništa ne priječi da tako shvaćeno milosrđe bude krepost. A isto vrijedi i za slične strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da moralna krepost ne može biti zajedno sa strašću. Filozof, naime, kaže u IV. knjizi Topike da je *blag onaj koji ne trpi, a strpljiv onaj koji trpi, ali se ne da zavesti*. A isti razlog vrijedi za sve moralne kreposti. Dakle, svaka je moralna krepost bez strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a2.obj2": {
+      "text": "Osim toga, krepost je neki ispravan odnošaj duše, kao što je zdravlje odnošaj tijela, kako se kaže u VII. knjizi Fizike; stoga se čini da je krepost neko zdravlje duše, kako kaže Tulije u IV. knjizi Tuskulanskih rasprava. Strasti se pak duše nazivaju nekim bolestima duše, kako kaže Tulije u istoj knjizi. Zdravlje pak ne podnosi uza se bolest. Dakle, ni krepost ne podnosi strast duše.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a2.obj3": {
+      "text": "Osim toga, moralna krepost zahtijeva savršenu uporabu razuma i u pojedinostima. Ali to priječe strasti; Filozof, naime, kaže u VI. knjizi Etike da *naslade kvare prosudbu razboritosti*; a Salustije u Katilininoj uroti kaže da duh ne razabire lako istinu ondje gdje mu ono smeta, naime strasti duše. Moralna, dakle, krepost ne može biti zajedno sa strašću.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a2.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u XIV. knjizi djela O Božjem gradu: *ako je volja izopačena, imat će izopačene i te pokrete*, naime strasti, a ako je ispravna, *oni ne samo da neće biti vrijedni prijekora nego će biti i hvalevrijedni*. Ali moralna krepost ne isključuje ništa što je hvalevrijedno. Moralna, dakle, krepost ne isključuje strasti, nego može biti zajedno s njima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a2.resp": {
+      "text": "Odgovaram: treba reći da je o tome bilo neslaganje između stoika i peripatetika, kako kaže Augustin u IX. knjizi djela O Božjem gradu. Stoici su, naime, postavljali da strasti duše ne mogu biti u mudracu, odnosno u krepostnom čovjeku, dok su peripatetici, čiju je školu osnovao Aristotel, kako kaže Augustin u IX. knjizi djela O Božjem gradu, postavljali da strasti mogu biti zajedno s moralnom krepošću, ali svedene na sredinu. Ta je pak razlika, kako na istom mjestu kaže Augustin, bila više u riječima nego u njihovim mišljenjima. Budući da stoici, naime, nisu razlikovali umsku težnju, koja je volja, i osjetilnu težnju, koja se dijeli na srditu i požudnu, nisu razlikovali strasti duše od drugih ljudskih čuvstava po tome što su strasti duše pokreti osjetilne težnje, a druga čuvstva, koja nisu strasti duše, pokreti su umske težnje, koja se naziva volja, kako su razlikovali peripatetici; nego su ih razlikovali samo po tome što su strastima nazivali bilo koja čuvstva koja se protive razumu. Ako ona nastaju iz promišljanja, ne mogu biti u mudracu, odnosno u krepostnom čovjeku. Ako pak nastaju iznenada, to se može dogoditi i u krepostnom čovjeku, *zato što duševne predodžbe, koje nazivaju fantazijama, nisu u našoj vlasti, to jest hoće li kadšto pasti na duh; i kad dolaze od strašnih stvari, nužno je da pokrenu duh mudraca, tako da se načas ili prestraši od straha ili se stegne od žalosti, jer te strasti preduhitre službu razuma; ipak oni to ne odobravaju niti na to pristaju*, kako Augustin u IX. knjizi djela O Božjem gradu pripovijeda da je rekao Gelije. Prema tome, ako se strastima nazivaju neuredna čuvstva, ona ne mogu biti u krepostnom čovjeku tako da se na njih pristane nakon promišljanja, kako su postavljali stoici. Ako se pak strastima nazivaju bilo koji pokreti osjetilne težnje, tada mogu biti u krepostnom čovjeku, ukoliko ih uređuje razum. Stoga Aristotel kaže u II. knjizi Etike da *neki ne određuju dobro kreposti kao nekakve bestrasnosti i smirenja, jer govore naprosto*, nego bi trebali reći da su to smirenja od strasti koje su kako ne treba i kada ne treba.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozof navodi onaj primjer, kao i mnoge druge u logičkim knjigama, ne po vlastitom mišljenju, nego po mišljenju drugih. A to je bilo mišljenje stoika, da su kreposti bez strasti duše. To mišljenje Filozof isključuje u II. knjizi Etike, govoreći da kreposti nisu bestrasnosti. Ipak se može reći da, kad se kaže da blag čovjek ne trpi, to treba shvatiti o neurednoj strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a2.ad2": {
+      "text": "Na drugo treba reći da onaj razlog, i svi slični koje Tulije u tu svrhu navodi u IV. knjizi Tuskulanskih rasprava, polazi od strasti ukoliko one označuju neuredna čuvstva.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a2.ad3": {
+      "text": "Na treće treba reći da strast koja preduhitri sud razuma, ako u duši prevlada tako da se na nju pristane, priječi promišljanje i sud razuma. Ako pak slijedi, kao da je zapovjeđena od razuma, pomaže da se izvrši zapovijedanje razuma.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da krepost ne može biti zajedno sa žalošću. Kreposti su, naime, učinci mudrosti, prema onome iz Mudrosti 8: ona, naime božanska mudrost, uči trijeznosti i pravednosti, razboritosti i kreposti. Ali život s mudrošću nema gorčine, kako se poslije nadodaje. Dakle, ni kreposti ne mogu biti zajedno sa žalošću.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a3.obj2": {
+      "text": "Osim toga, žalost je zapreka djelovanju, kao što je jasno iz Filozofa u VII. i X. knjizi Etike. Ali zapreka dobrom djelovanju protivi se kreposti. Dakle, žalost se protivi kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a3.obj3": {
+      "text": "Osim toga, žalost je neka bolest duha, kako je naziva Tulije u III. knjizi Tuskulanskih rasprava. Ali bolest duše protivi se kreposti, koja je dobar odnošaj duše. Dakle, žalost se protivi kreposti i ne može biti zajedno s njom.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a3.sc": {
+      "text": "Ali protiv toga jest to što je Krist bio savršen u kreposti. Ali u njemu je bila žalost; on, naime, kaže, kako stoji u Mateju 26: *Žalosna je duša moja do smrti*. Dakle, žalost može biti zajedno s krepošću.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a3.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Augustin u XIV. knjizi djela O Božjem gradu, *stoici su htjeli da umjesto triju uznemirenja u duši mudraca budu tri eupatije, to jest tri dobre strasti: naime umjesto žudnje htijenje, umjesto veselja radost, umjesto straha oprez*. Što se pak tiče žalosti, zanijekali su da išta umjesto nje može biti u duši mudraca, i to iz dvaju razloga. Prvo, zato što je žalost zbog zla koje se već dogodilo. A smatraju da se mudracu ne može dogoditi nikakvo zlo; vjerovali su, naime, da, kao što je jedino dobro čovjeka krepost, a tjelesna dobra uopće nisu dobra čovjeka, tako je jedino zlo čovjeka ono što je nečasno, a to ne može biti u krepostnom čovjeku. Ali to se govori nerazumno. Budući da je čovjek, naime, sastavljen od duše i tijela, ono što pridonosi očuvanju tjelesnog života jest neko dobro čovjeka, premda ne najveće, jer se njime čovjek može loše služiti. Stoga i zlo protivno tom dobru može biti u mudracu i izazvati umjerenu žalost. Osim toga, premda krepostan čovjek može biti bez teškoga grijeha, ipak se ne nalazi nitko tko bi proživio život bez lakih grijeha, prema onome iz Prve Ivanove 1: *Ako kažemo da grijeha nemamo, sami sebe zavodimo*. Treće, zato što krepostan čovjek, iako nema grijeha, možda ga je nekoć imao. I zbog toga hvalevrijedno osjeća bol, prema onome iz Druge Korinćanima 7: *Žalost koja je po Bogu proizvodi pokoru za postojano spasenje*. Četvrto, zato što može hvalevrijedno osjećati bol i zbog grijeha drugoga. Stoga, na isti način na koji moralna krepost podnosi druge strasti umjerene razumom, podnosi i žalost. Drugo, pokretalo ih je to što je žalost zbog sadašnjeg zla, a strah zbog budućeg zla, kao što je naslada zbog sadašnjeg dobra, a želja zbog budućeg dobra. Kreposti pak može pripadati to da netko uživa u posjedovanom dobru ili da želi posjedovati ono što ne posjeduje, ili pak da se čuva budućeg zla. Ali to da se duh čovjekov podloži sadašnjem zlu, što se događa po žalosti, čini se da je posve protivno razumu; stoga ne može biti zajedno s krepošću. Ali to se govori nerazumno. Postoji, naime, neko zlo koje može biti prisutno krepostnom čovjeku, kao što je rečeno. A od toga zla razum zazire. Stoga osjetilna težnja slijedi razumovo zaziranje time što se žalosti zbog takva zla, ali umjereno, po sudu razuma. A kreposti pripada da se osjetilna težnja suobliči razumu, kao što je rečeno. Stoga kreposti pripada da se netko umjereno žalosti zbog onoga zbog čega se treba žalostiti, kako kaže i Filozof u II. knjizi Etike. A to je korisno i za izbjegavanje zala. Kao što se, naime, dobra spremnije traže zbog naslade, tako se zla snažnije izbjegavaju zbog žalosti. Prema tome, treba reći da žalost zbog onoga što pristaje kreposti ne može biti zajedno s krepošću, jer se krepost naslađuje u onome što joj je vlastito. Ali zbog onoga što se na bilo koji način protivi kreposti, krepost se umjereno žalosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se iz onoga autoriteta dobiva da se mudar čovjek ne žalosti zbog mudrosti. Ipak se žalosti zbog onoga što je zapreka mudrosti. I zato u blaženima, u kojima ne može biti nikakve zapreke mudrosti, žalost nema mjesta.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a3.ad2": {
+      "text": "Na drugo treba reći da žalost priječi djelovanje zbog kojega se žalostimo, ali pomaže da se spremnije izvrši ono po čemu se žalost izbjegava.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a3.ad3": {
+      "text": "Na treće treba reći da je neumjerena žalost bolest duše, a umjerena žalost pripada dobrom odnošaju duše, prema stanju sadašnjeg života.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se svaka moralna krepost odnosi na strasti. Filozof, naime, kaže u II. knjizi Etike da se *moralna krepost odnosi na užitke i žalosti*. Ali naslada i žalost jesu strasti, kao što je gore rečeno. Dakle, svaka se moralna krepost odnosi na strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a4.obj2": {
+      "text": "Osim toga, ono što je razumsko po sudjelovanju jest subjekt moralnih kreposti, kako se kaže u I. knjizi Etike. Ali takav je dio duše onaj u kojem su strasti, kao što je gore rečeno. Dakle, svaka se moralna krepost odnosi na strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a4.obj3": {
+      "text": "Osim toga, u svakoj se moralnoj kreposti može naći neka strast. Dakle, ili se sve odnose na strasti ili nijedna. Ali neke se odnose na strasti, kao jakost i umjerenost, kako se kaže u III. knjizi Etike. Dakle, sve se moralne kreposti odnose na strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a4.sc": {
+      "text": "Ali protiv toga jest to što se pravednost, koja je moralna krepost, ne odnosi na strasti, kako se kaže u V. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a4.resp": {
+      "text": "Odgovaram: treba reći da moralna krepost usavršuje težnjeni dio duše usmjeravajući ga prema dobru razuma. A dobro razuma jest ono što je umjereno ili uređeno po razumu. Stoga se moralna krepost može odnositi na sve ono što može biti uređeno i umjereno razumom. A razum ne uređuje samo strasti osjetilne težnje, nego uređuje i djelovanja umske težnje, koja je volja, a ona nije subjekt strasti, kao što je gore rečeno. I zato se ne odnosi svaka moralna krepost na strasti, nego se neke odnose na strasti, a neke na djelovanja.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ne odnosi svaka moralna krepost na naslade i žalosti kao na svoju vlastitu građu, nego kao na nešto što slijedi njezin vlastiti čin. Svaki se, naime, krepostan čovjek naslađuje u činu kreposti, a žalosti se zbog protivnoga. Stoga Filozof nakon navedenih riječi nadodaje: *ako se kreposti odnose na čine i strasti, a svaku strast i svaki čin slijedi naslada i žalost, zbog toga će se krepost odnositi na naslade i žalosti*, naime kao na nešto što slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a4.ad2": {
+      "text": "Na drugo treba reći da ono što je razumsko po sudjelovanju nije samo osjetilna težnja, koja je subjekt strasti, nego i volja, u kojoj nema strasti, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a4.ad3": {
+      "text": "Na treće treba reći da su u nekim krepostima strasti kao vlastita građa, a u nekima nisu. Stoga isti razlog ne vrijedi za sve, kao što će se dolje pokazati.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da moralna krepost može biti bez strasti. Što je, naime, moralna krepost savršenija, to više nadvladava strasti. Dakle, u svojem najsavršenijem bitku posve je bez strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a5.obj2": {
+      "text": "Osim toga, svaka je stvar savršena onda kad je udaljena od svoje protivnosti i od onoga što naginje protivnosti. Ali strasti naginju grijehu, koji se protivi kreposti; stoga se u Rimljanima 7 nazivaju strastima grijehâ. Dakle, savršena je krepost posve bez strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a5.obj3": {
+      "text": "Osim toga, po kreposti se suobličujemo Bogu, kao što je jasno iz Augustina u knjizi O običajima Katoličke crkve. Ali Bog sve čini bez strasti. Dakle, najsavršenija je krepost bez ikakve strasti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a5.sc": {
+      "text": "Ali protiv toga jest to što nitko nije pravedan tko se ne raduje pravednom djelovanju, kako se kaže u I. knjizi Etike. Ali radost je strast. Dakle, pravednost ne može biti bez strasti. A još manje druge kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a5.resp": {
+      "text": "Odgovaram: treba reći da je, ako strastima nazivamo neuredna čuvstva, kako su postavljali stoici, očito da je savršena krepost bez strasti. Ako pak strastima nazivamo sve pokrete osjetilne težnje, tada je jasno da moralne kreposti koje se odnose na strasti kao na svoju vlastitu građu ne mogu biti bez strasti. Razlog je tomu što bi, prema onome, slijedilo da moralna krepost čini osjetilnu težnju posve dokonom. A kreposti ne pripada da ono što je podložno razumu miruje od vlastitih čina, nego da izvršava zapovijedanje razuma vršeći vlastite čine. Stoga, kao što krepost usmjerava udove tijela prema dužnim vanjskim činima, tako usmjerava osjetilnu težnju prema uređenim vlastitim pokretima. Moralne pak kreposti koje se ne odnose na strasti, nego na djelovanja, mogu biti bez strasti (a takva je krepost pravednost), jer se po njima volja primjenjuje na svoj vlastiti čin, koji nije strast. Ali ipak čin pravednosti slijedi radost, barem u volji, a ona nije strast. I ako se ta radost umnoži po savršenosti pravednosti, doći će do prelijevanja radosti sve do osjetilne težnje, ukoliko niže sile slijede pokret viših, kao što je gore rečeno. I tako, po takvu prelijevanju, što je krepost savršenija, to više uzrokuje strast.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da krepost nadvladava neuredne strasti, a umjerene proizvodi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a5.ad2": {
+      "text": "Na drugo treba reći da neuredne strasti navode na griješenje, ali ne ako su umjerene.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q59.a5.ad3": {
+      "text": "Na treće treba reći da se dobro u svakoj stvari promatra prema stanju njezine naravi. A u Bogu i anđelima nema osjetilne težnje, kao što je ima u čovjeku. I zato je dobro djelovanje Boga i anđela posve bez strasti, kao i bez tijela, a dobro je djelovanje čovjeka sa strašću, kao i uz službu tijela.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    }
+  }
+}

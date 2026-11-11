@@ -1,0 +1,264 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 58,
+  "units": {
+    "I-II.q58.pr": {
+      "text": "Zatim treba razmotriti moralne kreposti. I to najprije njihovo razlikovanje od umskih kreposti; drugo, njihovo međusobno razlikovanje prema vlastitoj građi; treće, razlikovanje glavnih ili stožernih kreposti od ostalih. O prvome se pita pet stvari. Prvo, je li svaka krepost moralna krepost. Drugo, razlikuje li se moralna krepost od umne. Treće, dijeli li se krepost dostatno na umnu i moralnu. Četvrto, može li moralna krepost biti bez umne. Peto, obratno, može li umska krepost biti bez moralne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je svaka krepost moralna. Moralna se, naime, krepost naziva tako od običaja (mos), to jest od navike. Ali na čine svih kreposti možemo se naviknuti. Dakle, svaka je krepost moralna.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a1.obj2": {
+      "text": "Osim toga, Filozof kaže u drugoj knjizi Etike da je *moralna krepost izborni habitus koji se sastoji u sredini razuma*. Ali čini se da je svaka krepost izborni habitus, jer čine bilo koje kreposti možemo vršiti iz izbora. I svaka se krepost na neki način sastoji u sredini razuma, kako će niže biti jasno. Dakle, svaka je krepost moralna.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a1.obj3": {
+      "text": "Osim toga, Tulije kaže u svojoj Retorici da je *krepost habitus na način naravi, sukladan razumu*. Ali budući da je svaka ljudska krepost usmjerena prema dobru čovjeka, mora biti sukladna razumu, jer je dobro čovjeka biti prema razumu, kako kaže Dionizije. Dakle, svaka je krepost moralna.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a1.sc": {
+      "text": "Ali protiv toga je to što Filozof kaže u prvoj knjizi Etike: *Govoreći o običajima, ne kažemo da je netko mudar ili pametan, nego da je blag ili trijezan.* Tako, dakle, mudrost i um nisu moralni. A ipak su kreposti, kako je gore rečeno. Nije, dakle, svaka krepost moralna.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a1.resp": {
+      "text": "Odgovaram: treba reći da, da bi to bilo jasno, treba razmotriti što je običaj (mos); tako ćemo, naime, moći znati što je moralna krepost. A običaj znači dvoje. Katkad, naime, znači naviku, kao što se kaže u Djelima 15: *Ako se ne obrežete po Mojsijevu običaju, ne možete se spasiti.* A katkad znači neku naravnu, ili gotovo naravnu, sklonost da se nešto čini; stoga se i za nerazumne životinje kaže da imaju neke običaje; stoga se kaže u Drugoj knjizi o Makabejcima 11 da *navalivši lavljim običajem na neprijatelje, oboriše ih*. I tako se uzima običaj u Psalmu 67, gdje se kaže: *koji čini da u kući stanuju oni jednoga običaja*. I ta se dva značenja kod Latina ni po čemu ne razlikuju što se tiče riječi. A u grčkome se razlikuju: jer ethos, što kod nas znači običaj, katkad ima prvi slog dug i piše se slovom eta, grčkim slovom, a katkad ima prvi slog kratak i piše se slovom epsilon. A moralna se krepost naziva od običaja ukoliko običaj znači neku naravnu ili gotovo naravnu sklonost da se nešto čini. A tome je značenju običaja blisko drugo značenje, kojim znači naviku; jer se navika na neki način pretvara u narav i stvara sklonost sličnu naravnoj. A očito je da sklonost prema činu u vlastitom smislu pristaje težnjenoj snazi, kojoj pripada pokretati sve moći na djelovanje, kako je jasno iz rečenoga gore. I zato se ne naziva svaka krepost moralnom, nego samo ona koja je u težnjenoj sili.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj prigovor polazi od običaja ukoliko znači naviku.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a1.ad2": {
+      "text": "Na drugo treba reći da se svaki čin kreposti može vršiti iz izbora, ali ispravan izbor vrši samo krepost koja je u težnjenom dijelu duše; gore je, naime, rečeno da je birati čin težnjenoga dijela. Stoga je izborni habitus, to jest onaj koji je počelo izbora, samo onaj koji usavršuje težnjenu silu, premda i čini drugih habitusa mogu potpadati pod izbor.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a1.ad3": {
+      "text": "Na treće treba reći da je narav počelo gibanja, kako se kaže u drugoj knjizi Fizike. A pokretati na djelovanje vlastito je težnjenom dijelu. I zato je upodobljavati se naravi u pristajanju uz razum vlastito krepostima koje su u težnjenoj sili.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se moralna krepost ne razlikuje od umne. Augustin, naime, kaže u knjizi O Božjem gradu da je *krepost umijeće ispravnoga življenja*. Ali umijeće je umska krepost. Dakle, moralna se krepost ne razlikuje od umne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a2.obj2": {
+      "text": "Osim toga, mnogi u definiciju moralnih kreposti stavljaju znanost; tako neki definiraju da je ustrajnost znanost ili habitus o onome u čemu treba ostati ili ne ostati, a svetost znanost koja čini vjernima i čuvarima onoga što je pravedno prema Bogu. A znanost je umska krepost. Dakle, moralna se krepost ne smije razlikovati od umne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a2.obj3": {
+      "text": "Osim toga, Augustin kaže u prvoj knjizi Solilokvija da je *krepost ispravni i savršeni razum*. Ali to pripada umskoj kreposti, kako je jasno u šestoj knjizi Etike. Dakle, moralna krepost nije različita od umne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a2.obj4": {
+      "text": "Osim toga, ništa se ne razlikuje od onoga što se stavlja u njegovu definiciju. Ali umna se krepost stavlja u definiciju moralne kreposti; Filozof, naime, kaže u drugoj knjizi Etike da je *moralna krepost izborni habitus koji postoji u sredini određenoj razumom, kako će odrediti mudar*. A takav ispravni razum, koji određuje sredinu moralne kreposti, pripada umskoj kreposti, kako se kaže u šestoj knjizi Etike. Dakle, moralna se krepost ne razlikuje od umne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u prvoj knjizi Etike: *Krepost se određuje prema ovoj razlici: jedne od njih nazivamo umnima, a druge moralnima.*",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a2.resp": {
+      "text": "Odgovaram: treba reći da je prvo počelo svih ljudskih djela razum, i koja god se druga počela ljudskih djela nađu, ona se na neki način pokoravaju razumu, ali na različite načine. Jedna se, naime, pokoravaju razumu posve na mig, bez ikakva protivljenja, kao udovi tijela, ako su u svojem naravnom stanju; odmah se, naime, na zapovijed razuma ruka ili noga pokreće na djelo. Stoga Filozof kaže u prvoj knjizi Politike da duša upravlja tijelom despotskom vlašću, to jest kao gospodar slugom, koji nema pravo protiviti se. Neki su, dakle, postavili da se sva djelatna počela koja su u čovjeku na taj način odnose prema razumu. Kad bi to bilo istinito, bilo bi dovoljno za dobro djelovanje da razum bude savršen. Stoga, budući da je krepost habitus kojim se usavršujemo za dobro djelovanje, slijedilo bi da je ona samo u razumu, i tako ne bi bilo nikakve kreposti osim umne. I to je bilo mnijenje Sokratovo, koji je rekao da su sve kreposti razboritosti, kako se kaže u šestoj knjizi Etike. Stoga je postavljao da čovjek, kad je u njemu znanje, ne može griješiti, nego da je tko god je griješio griješio zbog neznanja. Ali to polazi od lažne pretpostavke. Težnjeni se, naime, dio ne pokorava razumu posve na mig, nego uz neko protivljenje; stoga Filozof kaže u prvoj knjizi Politike da razum zapovijeda težnjenom dijelu političkom vlašću, to jest onom kojom netko stoji na čelu slobodnih ljudi, koji u nečemu imaju pravo protiviti se. Stoga Augustin kaže, u tumačenju Psalama, da *katkad prethodi um, a čuvstvo slijedi sporo ili nikako*, toliko da katkad strasti ili habitusi težnjenoga dijela učine da se uporaba razuma u pojedinačnome priječi. I prema tome je donekle istinito ono što je Sokrat rekao, da se uz prisutno znanje ne griješi, ako se to ipak protegne sve do uporabe razuma u pojedinačnome što treba izabrati. Tako se, dakle, za to da čovjek dobro djeluje zahtijeva ne samo da razum bude dobro raspoložen habitusom umske kreposti, nego i da težnjena sila bude dobro raspoložena habitusom moralne kreposti. Kao što se, dakle, težnja razlikuje od razuma, tako se moralna krepost razlikuje od umne. Stoga, kao što je težnja počelo ljudskoga čina ukoliko na neki način ima udjela u razumu, tako moralni habitus ima pojam ljudske kreposti ukoliko se suobličuje razumu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin uzima umijeće općenito, za bilo koji ispravni razum. I tako je pod umijećem uključena i razboritost, koja je ispravni razum o onome što treba činiti, kao što je umijeće ispravni razum o onome što treba izraditi. I prema tome ono što kaže, da je krepost umijeće ispravnoga življenja, bitno pristaje razboritosti, a po sudjelovanju drugim krepostima, ukoliko se ravnaju prema razboritosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a2.ad2": {
+      "text": "Na drugo treba reći da su takve definicije, ma tko ih dao, proizašle iz Sokratova mnijenja i treba ih tumačiti na onaj način na koji je prije rečeno o umijeću.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a2.ad3": {
+      "text": "I slično treba reći na treće.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a2.ad4": {
+      "text": "Na četvrto treba reći da se ispravni razum, koji je prema razboritosti, stavlja u definiciju moralne kreposti ne kao dio njezine biti, nego kao nešto u čemu imaju udjela sve moralne kreposti, ukoliko razboritost upravlja svim moralnim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se ljudska krepost ne dijeli dostatno na moralnu i umsku krepost. Razboritost se, naime, čini nečim srednjim između moralne i umske kreposti; ubraja se, naime, među umske kreposti u šestoj knjizi Etike, a i svi je općenito ubrajaju među četiri stožerne kreposti, koje su moralne, kako će niže biti jasno. Ne dijeli se, dakle, krepost dostatno na umnu i moralnu kao na članove bez ičega posrednoga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a3.obj2": {
+      "text": "Osim toga, uzdržljivost i ustrajnost, a i strpljivost, ne ubrajaju se među umske kreposti. A nisu ni moralne kreposti, jer ne drže sredinu u strastima, nego u njima obiluju strasti. Ne dijeli se, dakle, krepost dostatno na umne i moralne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a3.obj3": {
+      "text": "Osim toga, vjera, nada i ljubav jesu neke kreposti. Ipak nisu umske kreposti, jer je njih samo pet, naime znanost, mudrost, um, razboritost i umijeće, kako je rečeno. A nisu ni moralne kreposti, jer se ne odnose na strasti, na koje se najviše odnosi moralna krepost. Dakle, krepost se ne dijeli dostatno na umne i moralne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a3.sc": {
+      "text": "Ali protiv toga je to što Filozof kaže u drugoj knjizi Etike *da je krepost dvostruka: jedna umna, a druga moralna*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a3.resp": {
+      "text": "Odgovaram: treba reći da je ljudska krepost neki habitus koji usavršuje čovjeka za dobro djelovanje. A počelo ljudskih čina u čovjeku samo je dvostruko, naime um ili razum, i težnja; to su, naime, dva pokretača u čovjeku, kako se kaže u trećoj knjizi O duši. Stoga svaka ljudska krepost mora usavršavati jedno od tih počela. Ako, dakle, usavršuje spekulativni ili praktični um za dobar ljudski čin, bit će umska krepost; a ako usavršuje težnjeni dio, bit će moralna krepost. Stoga preostaje da je svaka ljudska krepost ili umna ili moralna.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je razboritost po svojoj biti umska krepost. Ali po građi se slaže s moralnim krepostima, jer je ispravni razum o onome što treba činiti, kako je gore rečeno. I prema tome se ubraja među moralne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a3.ad2": {
+      "text": "Na drugo treba reći da uzdržljivost i ustrajnost nisu savršenosti osjetilne težnjene snage. To je jasno iz toga što u uzdržljivu i ustrajnu čovjeku preobiluju neuredne strasti, što ne bi bilo kad bi osjetilna težnja bila usavršena nekim habitusom koji je suobličuje razumu. A uzdržljivost ili ustrajnost jest savršenost razumskoga dijela, koji se drži protiv strasti da ne bude odvučen. Ipak zaostaje za pojmom kreposti, jer umska krepost koja čini da se razum dobro odnosi u moralnim stvarima pretpostavlja ispravnu težnju za svrhom, kako bi se ispravno odnosio prema načelima, to jest svrhama, iz kojih rasuđuje; a to uzdržljivu i ustrajnu nedostaje. Niti može biti savršeno djelovanje koje proizlazi iz dviju moći ako svaka od tih moći nije usavršena dužnim habitusom; kao što ne slijedi savršena radnja nekog djelatnika po oruđu ako oruđe nije dobro raspoloženo, ma koliko glavni djelatnik bio savršen. Stoga, ako osjetilna težnja, koju pokreće razumski dio, nije savršena, ma koliko razumski dio bio savršen, radnja koja slijedi neće biti savršena. Stoga ni počelo radnje neće biti krepost. I zbog toga uzdržljivost od naslada i ustrajnost u žalostima nisu kreposti, nego nešto manje od kreposti, kako kaže Filozof u sedmoj knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a3.ad3": {
+      "text": "Na treće treba reći da su vjera, nada i ljubav iznad ljudskih kreposti; one su, naime, kreposti čovjeka ukoliko je postao dionikom božanske milosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da moralna krepost može biti bez umne. *Moralna je, naime, krepost*, kako kaže Tulije, *habitus na način naravi, sukladan razumu*. Ali premda narav pristaje uz neki viši razum koji je pokreće, ipak nije nužno da taj razum bude spojen s naravi u istome biću, kao što je jasno u naravnim stvarima koje su lišene spoznaje. Dakle, u čovjeku može biti moralna krepost na način naravi, koja ga naginje da pristane uz razum, premda razum toga čovjeka nije usavršen umnom krepošću.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a4.obj2": {
+      "text": "Osim toga, po umskoj kreposti čovjek postiže savršenu uporabu razuma. Ali katkad se događa da su neki, u kojima uporaba razuma nije osobito snažna, krepostni i Bogu mili. Dakle, čini se da moralna krepost može biti bez umske kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a4.obj3": {
+      "text": "Osim toga, moralna krepost stvara sklonost prema dobrom djelovanju. Ali neki imaju naravnu sklonost prema dobrom djelovanju i bez suda razuma. Dakle, moralne kreposti mogu biti bez umne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a4.sc": {
+      "text": "Ali protiv toga je to što Grgur kaže u dvadeset drugoj knjizi Moralija da *ostale kreposti, ako ono za čim teže ne čine razborito, nikako ne mogu biti kreposti*. Ali razboritost je umska krepost, kako je gore rečeno. Dakle, moralne kreposti ne mogu biti bez umnih.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a4.resp": {
+      "text": "Odgovaram: treba reći da moralna krepost doduše može biti bez nekih umskih kreposti, kao bez mudrosti, znanosti i umijeća, ali ne može biti bez uma i razboritosti. Bez razboritosti moralna krepost ne može biti zato što je moralna krepost izborni habitus, to jest habitus koji stvara dobar izbor. A za to da izbor bude dobar zahtijeva se dvoje. Prvo, da bude dužna nakana svrhe, a to biva po moralnoj kreposti, koja naginje težnjenu silu prema dobru primjerenom razumu, a to je dužna svrha. Drugo, da čovjek ispravno uzme ono što vodi k svrsi, a to ne može biti drukčije nego po razumu koji ispravno promišlja, sudi i nalaže; a to pripada razboritosti i krepostima koje su s njom povezane, kako je gore rečeno. Stoga moralna krepost ne može biti bez razboritosti. A posljedično ni bez uma. Po umu se, naime, spoznaju naravno poznata načela, kako u spekulativnim tako i u djelatnim stvarima. Stoga, kao što ispravni razum u spekulativnim stvarima, ukoliko polazi od naravno spoznatih načela, pretpostavlja um načelâ, tako i razboritost, koja je ispravni razum o onome što treba činiti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je sklonost naravi u stvarima koje su lišene razuma bez izbora, i zato takva sklonost nužno ne zahtijeva razum. Ali sklonost moralne kreposti jest s izborom, i zato za svoju savršenost treba da razum bude usavršen umnom krepošću.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a4.ad2": {
+      "text": "Na drugo treba reći da u krepostnome nije nužno da uporaba razuma bude snažna s obzirom na sve, nego samo s obzirom na ono što treba činiti prema kreposti. I tako je uporaba razuma snažna u svim krepostnima. Stoga i oni koji se čine priprostima, zato što su lišeni svjetovne lukavosti, mogu biti razboriti, prema onome u Mateju 10: *Budite razboriti kao zmije i priprosti kao golubovi.*",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a4.ad3": {
+      "text": "Na treće treba reći da je naravna sklonost prema dobru kreposti neki začetak kreposti, ali nije savršena krepost. Takva je, naime, sklonost to opasnija što je jača, ako joj se ne pridruži ispravni razum, po kojem nastaje ispravan izbor onoga što je primjereno dužnoj svrsi; kao što konj u trku, ako je slijep, to jače udara i ranjava se što jače trči. I zato, premda moralna krepost nije ispravni razum, kako je govorio Sokrat, ipak nije samo prema ispravnom razumu, ukoliko naginje k onome što je prema ispravnom razumu, kako su postavili platonovci, nego mora biti i s ispravnim razumom, kako kaže Aristotel u šestoj knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da umska krepost može biti bez moralne kreposti. Savršenost onoga što je prvotnije, naime, ne ovisi o savršenosti onoga što je kasnije. Ali razum je prvotniji od osjetilne težnje i pokreće je. Dakle, umska krepost, koja je savršenost razuma, ne ovisi o moralnoj kreposti, koja je savršenost težnjenoga dijela. Može, dakle, biti bez nje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a5.obj2": {
+      "text": "Osim toga, moralne su stvari građa razboritosti, kao što je ono što treba izraditi građa umijeća. Ali umijeće može biti bez vlastite građe, kao kovač bez željeza. Dakle, i razboritost može biti bez moralnih kreposti, premda se čini da je ona, među svim umskim krepostima, najviše povezana s moralnima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a5.obj3": {
+      "text": "Osim toga, razboritost je krepost koja dobro promišlja, kako se kaže u šestoj knjizi Etike. Ali mnogi dobro promišljaju kojima ipak nedostaju moralne kreposti. Dakle, razboritost može biti bez moralne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a5.sc": {
+      "text": "Ali protiv toga, htjeti činiti zlo izravno se protivi moralnoj kreposti; a ne protivi se nečemu što može biti bez moralne kreposti. A razboritosti se protivi da netko griješi htijući, kako se kaže u šestoj knjizi Etike. Ne može, dakle, razboritost biti bez moralne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a5.resp": {
+      "text": "Odgovaram: treba reći da druge umske kreposti mogu biti bez moralne kreposti, ali razboritost ne može biti bez moralne kreposti. Razlog je tome to što je razboritost ispravni razum o onome što treba činiti, i to ne samo općenito nego i u pojedinačnome, u čemu su radnje. A ispravni razum unaprijed zahtijeva načela iz kojih razum polazi. A razum u pojedinačnome mora polaziti ne samo od općih načela nego i od pojedinačnih načela. S obzirom na opća načela onoga što treba činiti, čovjek se ispravno odnosi po naravnom umu načelâ, po kojem čovjek spoznaje da nikakvo zlo ne treba činiti; ili i po nekoj praktičnoj znanosti. Ali to nije dovoljno za ispravno rasuđivanje o pojedinačnome. Događa se, naime, katkad da se takvo opće načelo, spoznato umom ili znanošću, u pojedinačnome izopači nekom strašću; tako se onome tko je obuzet požudom, kad požuda pobijedi, čini dobrim ono za čim požudno teži, premda je to protiv općega suda razuma. I zato, kao što se čovjek raspoložuje da se ispravno odnosi prema općim načelima po naravnom umu ili po habitusu znanosti, tako se, da bi se ispravno odnosio prema pojedinačnim načelima onoga što treba činiti, a to su svrhe, mora usavršiti nekim habitusima prema kojima čovjeku postaje na neki način sunaravno ispravno suditi o svrsi. A to biva po moralnoj kreposti; krepostan, naime, ispravno sudi o svrsi kreposti, *jer kakav je tko, takva mu se čini svrha*, kako se kaže u trećoj knjizi Etike. I zato se za ispravni razum o onome što treba činiti, a to je razboritost, zahtijeva da čovjek ima moralnu krepost.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da razum, ukoliko zahvaća svrhu, prethodi težnji za svrhom; ali težnja za svrhom prethodi razumu koji rasuđuje kako bi izabrao ono što vodi k svrsi, a to pripada razboritosti. Kao što je i u spekulativnim stvarima um načelâ počelo razuma koji silogistički zaključuje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a5.ad2": {
+      "text": "Na drugo treba reći da mi načela umjetnih tvorevina ne prosuđujemo kao dobra ili loša prema raspoloživosti naše težnje, kao što prosuđujemo svrhe, koje su načela moralnih stvari, nego samo razmatranjem razuma. I zato umijeće ne zahtijeva krepost koja usavršuje težnju, kao što je zahtijeva razboritost.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    },
+    "I-II.q58.a5.ad3": {
+      "text": "Na treće treba reći da razboritost ne samo da dobro promišlja, nego i dobro sudi i dobro nalaže. A to ne može biti ako se ne ukloni zapreka strasti koje izopačuju sud i nalog razboritosti; a to biva po moralnoj kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:19+00:00"
+    }
+  }
+}

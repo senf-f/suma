@@ -1,0 +1,444 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 68,
+  "units": {
+    "I-II.q68.pr": {
+      "text": "Zatim treba razmotriti darove. U vezi s tim pita se osam stvari. Prvo, razlikuju li se darovi od kreposti. Drugo, o nužnosti darova. Treće, jesu li darovi habitusi. Četvrto, koji su i koliko ih je. Peto, jesu li darovi međusobno povezani. Šesto, ostaju li u domovini. Sedmo, o njihovu međusobnom uspoređivanju. Osmo, o njihovu uspoređivanju s krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se darovi ne razlikuju od kreposti. Grgur, naime, u I. knjizi Moralija, tumačeći ono iz Joba, kaže: *Rodilo mu se sedam sinova: sedam se sinova rađa nama kad po začeću dobre misli u nama nikne sedam kreposti Duha Svetoga*. I navodi ono što stoji u Iz 11: Na njemu će počivati duh razuma itd., gdje se nabraja sedam darova Duha Svetoga. Dakle, sedam darova Duha Svetoga jesu kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a1.obj2": {
+      "text": "Osim toga, Augustin u knjizi O evanđeoskim pitanjima, tumačeći ono što stoji u Mt 12, kaže: *Tada ode i uzme sa sobom sedam drugih duhova itd.: sedam je poroka protivno sedmerim krepostima Duha Svetoga*, to jest sedmerim darovima. A sedam je poroka protivno krepostima uzetima općenito. Dakle, darovi se ne razlikuju od kreposti uzetih općenito.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a1.obj3": {
+      "text": "Osim toga, ono čija je definicija ista i samo je isto. Ali definicija kreposti pristaje darovima: svaki je, naime, dar dobra kakvoća duha kojom se ispravno živi, i tako dalje. Slično i definicija dara pristaje ulivenim krepostima: dar je, naime, prema Filozofu, davanje koje se ne uzvraća. Dakle, kreposti i darovi se ne razlikuju.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a1.obj4": {
+      "text": "Osim toga, mnogo toga što se nabraja među darovima jesu kreposti. Jer, kao što je gore rečeno, mudrost, um i znanost jesu umske kreposti; savjet pak pripada razboritosti; pobožnost je vrsta pravednosti; a jakost je neka moralna krepost. Dakle, čini se da se kreposti ne razlikuju od darova.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a1.sc": {
+      "text": "Ali protiv toga je to što Grgur u I. knjizi Moralija razlikuje sedam darova, za koje kaže da su označeni sedmoricom Jobovih sinova, od triju bogoslovnih kreposti, za koje kaže da su označene trima Jobovim kćerima. A u II. knjizi Moralija razlikuje istih sedam darova od četiriju stožernih kreposti, za koje kaže da su označene četirima uglovima kuće.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a1.resp": {
+      "text": "Odgovaram: treba reći da, ako govorimo o daru i kreposti prema pojmu imena, tada oni nisu ni u kakvoj međusobnoj suprotnosti. Jer pojam kreposti uzima se po tome što ona usavršava čovjeka za dobro djelovanje, kao što je gore rečeno, a pojam dara uzima se s obzirom na uzrok od kojega dar jest. Ništa pak ne priječi da ono što je od drugoga kao dar bude ono što nekoga usavršava za dobro djelovanje, osobito budući da smo gore rekli da su nam neke kreposti ulivene od Boga. Stoga se prema tome dar ne može razlikovati od kreposti. I zato su neki postavili da darove ne treba razlikovati od kreposti. Ali njima ostaje ne manja teškoća: naime, da navedu razlog zašto se neke kreposti nazivaju darovima, a ne sve, i zašto se među darove ubraja nešto što se ne ubraja među kreposti, kao što je očito kod straha Božjega. Stoga su drugi rekli da darove treba razlikovati od kreposti; ali nisu naveli prikladan uzrok razlikovanja, to jest takav koji bi bio zajednički krepostima tako da ni na koji način ne bi bio zajednički darovima, ili obratno. Neki su, naime, uzimajući u obzir da se od sedam darova četiri odnose na razum, naime mudrost, znanje, razum i savjet, a tri na težnjenu silu, naime jakost, pobožnost i strah Božji, postavili da darovi usavršavaju slobodno odlučivanje ukoliko je ono sposobnost razuma, a kreposti ukoliko je ono sposobnost volje, jer su našli samo dvije kreposti u razumu ili umu, naime vjeru i razboritost, a ostale u težnjenoj ili čuvstvenoj sili. A kad bi to razlikovanje bilo prikladno, trebalo bi da sve kreposti budu u težnjenoj sili, a svi darovi u razumu. Neki su pak, uzimajući u obzir da Grgur u II. knjizi Moralija kaže: *Dar Duha Svetoga, koji u duhu koji mu je podložan oblikuje umjerenost, razboritost, pravednost i jakost, isti taj duh oprema protiv pojedinih kušnji sa sedam darova*, rekli da su kreposti usmjerene prema dobrom djelovanju, a darovi prema odupiranju kušnjama. Ali ni to razlikovanje nije dovoljno. Jer i kreposti se odupiru kušnjama koje navode na grijehe, a grijesi su protivni krepostima; svaka se, naime, stvar po naravi odupire svojoj protivnosti. To je osobito očito kod ljubavi, o kojoj se kaže u Pj 8: *Mnoge vode ne mogoše ugasiti ljubavi*. Drugi su pak, uzimajući u obzir da se ti darovi u Pismu iznose onako kako su bili u Kristu, kao što je očito iz Iz 11, rekli da su kreposti usmjerene naprosto prema dobrom djelovanju, a da su darovi usmjereni prema tome da se po njima suobličimo Kristu, osobito s obzirom na ono što je pretrpio, jer su takvi darovi osobito zasjali u njegovoj muci. Ali ni to se ne čini dovoljnim. Jer nas sam Gospodin ponajviše potiče da mu se suobličimo po poniznosti i blagosti, Mt 11: *Učite se od mene, jer sam krotak i ponizna srca*; i po ljubavi, kao u Iv 15: *Ljubite jedni druge kao što sam ja ljubio vas*. A i te su kreposti osobito zablistale u Kristovoj muci. I zato, da bismo razlikovali darove od kreposti, moramo slijediti način govora Pisma, u kojem nam se oni iznose ne pod imenom darova, nego prije pod imenom duhova; tako se, naime, kaže u Iz 11: *Na njemu će počivati duh mudrosti i razuma,* i tako dalje. Iz tih se riječi jasno daje razumjeti da se ondje tih sedam nabraja ukoliko su u nama od božanskog nadahnuća. A nadahnuće označuje neko pokretanje izvana. Valja, naime, uzeti u obzir da je u čovjeku dvostruko pokretačko počelo: jedno unutarnje, a to je razum; drugo vanjsko, a to je Bog, kao što je gore rečeno; a to kaže i Filozof u poglavlju o dobroj sreći. Očito je pak da sve što se pokreće mora biti razmjerno svome pokretaču, i to je savršenost pokretljivoga ukoliko je pokretljivo: raspoloživost kojom je ono raspoloženo za to da ga njegov pokretač dobro pokrene. Što je, dakle, pokretač viši, to je nužnije da pokretljivo bude razmjerno njemu po savršenijoj raspoloživosti, kao što vidimo da učenik mora biti savršenije raspoložen da bi od učitelja primio viši nauk. Očito je pak da ljudske kreposti usavršavaju čovjeka ukoliko je čovjek po naravi takav da ga razum pokreće u onome što čini iznutra ili izvana. Mora, dakle, u čovjeku biti viših savršenosti, po kojima bi bio raspoložen za to da ga Bog pokreće. I te se savršenosti nazivaju darovima, ne samo zato što ih Bog ulijeva, nego zato što je po njima čovjek raspoložen da postane spremno pokretljiv od božanskog nadahnuća, kao što se kaže u Iz 50: *Gospodin mi otvori uho, a ja se ne protivim, ne uzmakoh natrag*. I Filozof također kaže u poglavlju o dobroj sreći da onima koje pokreće božanski poticaj ne koristi promišljati prema ljudskom razumu, nego da slijede unutarnji poticaj, jer ih pokreće bolje počelo nego što je ljudski razum. I to je ono što neki kažu, da darovi usavršavaju čovjeka za više čine nego što su čini kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se takvi darovi katkad nazivaju krepostima, prema općem pojmu kreposti. Ipak imaju nešto što nadilazi opći pojam kreposti, ukoliko su neke božanske kreposti koje usavršavaju čovjeka ukoliko ga Bog pokreće. Stoga i Filozof u VII. knjizi Etike iznad obične kreposti postavlja neku junačku ili božansku krepost, prema kojoj se neki nazivaju božanskim ljudima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a1.ad2": {
+      "text": "Na drugo treba reći da su poroci, ukoliko su protiv dobra razuma, protivni krepostima, a ukoliko su protiv božanskog poticaja, protivni su darovima. Isto je, naime, protivno Bogu i razumu, čije svjetlo potječe od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a1.ad3": {
+      "text": "Na treće treba reći da je ta definicija dana o kreposti prema općem načinu kreposti. Stoga, ako hoćemo definiciju suziti na kreposti ukoliko se razlikuju od darova, reći ćemo da ono što se kaže, kojom se ispravno živi, treba shvatiti o ispravnosti života koja se uzima prema pravilu razuma. Slično se pak dar, ukoliko se razlikuje od ulivene kreposti, može nazvati onim što Bog daje s obzirom na svoje pokretanje: naime onim što čini da čovjek dobro slijedi njegove poticaje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a1.ad4": {
+      "text": "Na četvrto treba reći da se mudrost naziva umskom kreposti ukoliko proizlazi iz suda razuma, a darom se naziva ukoliko djeluje iz božanskog poticaja. I slično treba reći o ostalima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da darovi nisu čovjeku nužni za spasenje. Darovi su, naime, usmjereni prema nekoj savršenosti iznad opće savršenosti kreposti. A čovjeku nije nužno za spasenje da postigne takvu savršenost, koja je iznad općeg stanja kreposti, jer takva savršenost ne potpada pod zapovijed, nego pod savjet. Dakle, darovi nisu čovjeku nužni za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a2.obj2": {
+      "text": "Osim toga, za čovjekovo je spasenje dovoljno da se čovjek dobro odnosi i prema božanskim i prema ljudskim stvarima. Ali po bogoslovnim krepostima čovjek se dobro odnosi prema božanskim stvarima, a po moralnim krepostima prema ljudskima. Dakle, darovi nisu čovjeku nužni za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a2.obj3": {
+      "text": "Osim toga, Grgur kaže u II. knjizi Moralija da *Duh Sveti daje mudrost protiv ludosti, razum protiv tuposti, savjet protiv brzopletosti, jakost protiv straha, znanje protiv neznanja, pobožnost protiv tvrdoće, strah Božji protiv oholosti*. Ali dovoljan se lijek za uklanjanje svega toga može primijeniti po krepostima. Dakle, darovi nisu čovjeku nužni za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a2.sc": {
+      "text": "Ali protiv toga, čini se da je među darovima najviši mudrost, a najniži strah Božji. A i jedno i drugo nužno je za spasenje, jer se o mudrosti kaže u Mudr 7: *Bog ne ljubi nikoga osim onoga koji prebiva s mudrošću*; a o strahu se kaže u Sir 1: *Tko je bez straha, neće se moći opravdati*. Dakle, i ostali darovi, koji su između njih, nužni su za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a2.resp": {
+      "text": "Odgovaram: treba reći da su, kao što je rečeno, darovi neke savršenosti čovjeka kojima je čovjek raspoložen za to da dobro slijedi božanski poticaj. Stoga je u onome u čemu nije dovoljan poticaj razuma, nego je nužan poticaj Duha Svetoga, posljedično nužan dar. Čovjekov je pak razum od Boga usavršen na dva načina: prvo, naravnom savršenošću, naime prema naravnom svjetlu razuma; na drugi način, nekom nadnaravnom savršenošću, po bogoslovnim krepostima, kao što je gore rečeno. I premda je ta druga savršenost veća od prve, ipak čovjek prvu ima na savršeniji način nego drugu: prvu, naime, čovjek ima kao puni posjed, a drugu ima kao nesavršenu; nesavršeno, naime, ljubimo i spoznajemo Boga. Očito je pak da sve što savršeno ima neku narav ili formu ili snagu može samo po sebi djelovati prema njoj, ne isključujući ipak djelovanje Boga, koji iznutra djeluje u svakoj naravi i volji. Ali ono što nesavršeno ima neku narav ili formu ili snagu ne može samo po sebi djelovati ako ga ne pokreće drugo. Tako sunce, jer je savršeno svijetlo, može samo po sebi osvjetljivati, a mjesec, u kojemu je narav svjetla nesavršeno, ne osvjetljuje ako sam nije osvijetljen. Isto tako liječnik, koji savršeno poznaje liječničko umijeće, može sam po sebi djelovati, ali njegov učenik, koji još nije potpuno poučen, ne može sam po sebi djelovati ako ga on ne poučava. Tako, dakle, s obzirom na ono što je podložno ljudskom razumu, naime u usmjerenosti prema svrsi koja je čovjeku sunaravna, čovjek može djelovati po sudu razuma. Ako mu pak i u tome Bog pomaže posebnim poticajem, to će biti od preobilne dobrote; zato, prema filozofima, nije svatko tko je imao stečene moralne kreposti imao i junačke ili božanske kreposti. Ali u usmjerenosti prema posljednjoj nadnaravnoj svrsi, prema kojoj razum pokreće ukoliko je nekako i nesavršeno oblikovan bogoslovnim krepostima, nije dovoljno samo pokretanje razuma ako odozgo nije nazočan poticaj i pokretanje Duha Svetoga, prema onome iz Rim 8: *Koje vodi Duh Božji, ti su sinovi Božji; a ako su sinovi, onda su i baštinici*; i u Ps 142 kaže se: *Tvoj će me dobri duh odvesti u zemlju pravu*; jer, naime, nitko ne može doći u baštinu one zemlje blaženih ako ga ne pokreće i ne vodi Duh Sveti. I zato, da bi postigao tu svrhu, čovjeku je nužno imati dar Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da darovi nadilaze opću savršenost kreposti ne s obzirom na rod djela, na način na koji savjeti nadilaze zapovijedi, nego s obzirom na način djelovanja, ukoliko čovjeka pokreće više počelo.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a2.ad2": {
+      "text": "Na drugo treba reći da bogoslovnim i moralnim krepostima čovjek nije tako usavršen u usmjerenosti prema posljednjoj svrsi da mu ne bi uvijek bilo potrebno da ga pokreće neki viši poticaj Duha Svetoga, iz već rečenog razloga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a2.ad3": {
+      "text": "Na treće treba reći da ljudskom razumu nije sve poznato niti mu je sve moguće, bilo da se uzme kao usavršen naravnom savršenošću, bilo da se uzme kao usavršen bogoslovnim krepostima. Stoga ne može u svemu odbiti ludost i ostalo takvo što se ondje spominje. Ali Bog, čijem su znanju i moći podložne sve stvari, svojim nas pokretanjem čini sigurnima od svake ludosti i neznanja i tuposti i tvrdoće i ostaloga takvog. I zato se za darove Duha Svetoga, koji čine da dobro slijedimo njegov poticaj, kaže da se daju protiv takvih nedostataka.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da darovi Duha Svetoga nisu habitusi. Habitus je, naime, kakvoća koja ostaje u čovjeku: on je, naime, kakvoća koja se teško uklanja, kako se kaže u Kategorijama. Ali Kristu je vlastito da darovi Duha Svetoga počivaju na njemu, kako se kaže u Iz 11. I u Iv 1 kaže se: *Na koga vidiš da Duh silazi i ostaje na njemu, on je onaj koji krsti*; tumačeći to, Grgur u II. knjizi Moralija kaže: *Duh Sveti dolazi u sve vjernike, ali samo u Posredniku uvijek ostaje na jedinstven način*. Dakle, darovi Duha Svetoga nisu habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a3.obj2": {
+      "text": "Osim toga, darovi Duha Svetoga usavršavaju čovjeka ukoliko ga vodi Duh Božji, kao što je rečeno. Ali ukoliko čovjeka vodi Duh Božji, on se prema njemu na neki način odnosi kao oruđe. A ne pristaje da se habitusom usavršava oruđe, nego glavni djelatnik. Dakle, darovi Duha Svetoga nisu habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a3.obj3": {
+      "text": "Osim toga, kao što su darovi Duha Svetoga od božanskog nadahnuća, tako je i dar proroštva. Ali proroštvo nije habitus: duh proroštva, naime, nije uvijek nazočan prorocima, kako kaže Grgur u I. homiliji o Ezekijelu. Dakle, ni darovi Duha Svetoga nisu habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a3.sc": {
+      "text": "Ali protiv toga je ono što Gospodin, govoreći o Duhu Svetom, kaže učenicima u Iv 14: *Ostat će kod vas i bit će u vama*. A Duh Sveti nije u ljudima bez svojih darova. Dakle, njegovi darovi ostaju u ljudima. Dakle, oni nisu samo čini ili trpnje, nego i trajni habitusi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a3.resp": {
+      "text": "Odgovaram: treba reći da su, kao što je rečeno, darovi neke savršenosti čovjeka kojima je on raspoložen za to da dobro slijedi poticaj Duha Svetoga. Iz prije rečenoga je pak očito da moralne kreposti usavršavaju težnjenu silu ukoliko ona na neki način ima udjela u razumu, naime ukoliko je po naravi takva da je pokreće zapovijedanje razuma. Na taj se, dakle, način darovi Duha Svetoga odnose prema čovjeku s obzirom na Duha Svetoga kao što se moralne kreposti odnose prema težnjenoj sili s obzirom na razum. A moralne su kreposti neki habitusi kojima su težnjene sile raspoložene da spremno slušaju razum. Stoga su i darovi Duha Svetoga neki habitusi kojima se čovjek usavršava da spremno sluša Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Grgur na istom mjestu to rješava, govoreći da *u onim darovima bez kojih se ne može doći do života Duh Sveti uvijek ostaje u svim izabranima, ali u drugima ne ostaje uvijek*. A sedam je darova nužno za spasenje, kao što je rečeno. Stoga, s obzirom na njih, Duh Sveti uvijek ostaje u svetima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a3.ad2": {
+      "text": "Na drugo treba reći da se taj razlog odnosi na oruđe kojemu nije svojstveno djelovati, nego samo biti pokretano. A čovjek nije takvo oruđe, nego ga Duh Sveti vodi tako da i on djeluje, ukoliko ima slobodno odlučivanje. Stoga mu je potreban habitus.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a3.ad3": {
+      "text": "Na treće treba reći da proroštvo spada u darove koji su za očitovanje Duha, a ne za nužnost spasenja. Stoga nije slično.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se sedam darova Duha Svetoga neprikladno nabraja. U tom se nabrajanju, naime, postavljaju četiri dara koja pripadaju umskim krepostima, naime mudrost, razum, znanje i savjet, koji pripada razboritosti; a ondje se ne postavlja ništa što bi pripadalo umijeću, koje je peta umska krepost. Slično se postavlja nešto što pripada pravednosti, naime pobožnost, i nešto što pripada jakosti, naime dar jakosti; a ondje se ne postavlja ništa što bi pripadalo umjerenosti. Dakle, darovi se nedostatno nabrajaju.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.obj2": {
+      "text": "Osim toga, pobožnost je dio pravednosti. Ali kod jakosti ne postavlja se neki njezin dio, nego sama jakost. Dakle, nije trebalo postaviti pobožnost, nego samu pravednost.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.obj3": {
+      "text": "Osim toga, bogoslovne kreposti ponajviše nas usmjeruju prema Bogu. Budući, dakle, da darovi usavršavaju čovjeka ukoliko ga Bog pokreće, čini se da je trebalo postaviti neke darove koji pripadaju bogoslovnim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.obj4": {
+      "text": "Osim toga, kao što se Boga boji, tako ga se i ljubi, i netko se u njega nada i u njemu se naslađuje. A ljubav, nada i naslada strasti su koje u diobi stoje uz strah. Dakle, kao što se strah postavlja kao dar, tako i ostala tri treba postaviti kao darove.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.obj5": {
+      "text": "Osim toga, razumu se pridružuje mudrost, koja njime upravlja; jakosti savjet, a pobožnosti znanje. Dakle, i strahu Božjem trebalo je dodati neki usmjeravajući dar. Prema tome, sedam se darova Duha Svetoga neprikladno nabraja.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.sc": {
+      "text": "Ali protiv toga je autoritet Pisma, Iz 11.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.resp": {
+      "text": "Odgovaram: treba reći da su, kao što je rečeno, darovi neki habitusi koji usavršavaju čovjeka za to da spremno slijedi poticaj Duha Svetoga, kao što moralne kreposti usavršavaju težnjene sile da slušaju razum. A kao što su težnjene sile po naravi takve da ih pokreće zapovijedanje razuma, tako su sve ljudske sile po naravi takve da ih pokreće Božji poticaj, kao nekom višom moći. I zato u svim čovjekovim silama koje mogu biti počela ljudskih čina, kao što ima kreposti, tako ima i darova, naime u razumu i u težnjenoj sili. A razum je spekulativni i praktični, i u jednome i u drugome razmatra se zahvaćanje istine, koje pripada iznalaženju, i sud o istini. Za zahvaćanje istine, dakle, spekulativni se razum usavršava darom razuma, a praktični darom savjeta. Za ispravno pak suđenje spekulativni se usavršava mudrošću, a praktični znanjem. Težnjena se pak snaga u onome što se odnosi na drugoga usavršava pobožnošću. A u onome što se odnosi na samoga sebe usavršava se jakošću protiv užasa pred pogibeljima, a protiv neuređene požude za ugodnim stvarima strahom Božjim, prema onome iz Izr 15: *Strahom Gospodnjim svatko se uklanja od zla*; i u Ps 118: *Probodi strahom svojim moje tijelo, jer sam se pobojao sudova tvojih*. I tako je očito da se ti darovi protežu na sve ono na što se protežu kreposti, kako umne tako i moralne.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da darovi Duha Svetoga usavršavaju čovjeka u onome što pripada dobrom življenju, prema čemu nije usmjereno umijeće, nego prema vanjskim stvarima koje se izrađuju; umijeće je, naime, ispravni razum ne o onome što treba činiti, nego o onome što treba izraditi, kako se kaže u VI. knjizi Etike. Ipak se može reći da, s obzirom na ulijevanje darova, umijeće pripada Duhu Svetom, koji je glavni pokretač, a ne ljudima, koji su neka njegova oruđa dok ih on pokreće. Umjerenosti pak na neki način odgovara dar straha Božjega. Kao što, naime, kreposti umjerenosti, prema njezinu vlastitom pojmu, pripada da se netko odmiče od izopačenih naslada radi dobra razuma, tako daru straha Božjega pripada da se netko odmiče od izopačenih naslada zbog straha od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.ad2": {
+      "text": "Na drugo treba reći da je ime pravednosti nadjenuto od ispravnosti razuma, i zato joj je ime kreposti prikladnije nego ime dara. Ali ime pobožnosti uključuje poštovanje koje imamo prema ocu i prema domovini. A budući da je Bog Otac svih, i štovanje Boga naziva se pobožnošću, kako kaže Augustin u X. knjizi O Božjem gradu. I zato se prikladno naziva pobožnošću dar kojim netko iz poštovanja prema Bogu čini dobro svima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.ad3": {
+      "text": "Na treće treba reći da Duh Sveti ne pokreće čovjekovu dušu ako ona nije na neki način s njim sjedinjena, kao što umjetnik ne pokreće oruđe osim dodirom ili nekim drugim sjedinjenjem. A prvo je sjedinjenje čovjeka po vjeri, nadi i ljubavi. Stoga se te kreposti pretpostavljaju darovima kao neki korijeni darova. Stoga svi darovi pripadaju tim trima krepostima kao neki izdanci spomenutih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.ad4": {
+      "text": "Na četvrto treba reći da ljubav i nada i naslada imaju dobro za predmet. A najviše je dobro Bog; stoga se imena tih strasti prenose na bogoslovne kreposti, kojima se duša sjedinjuje s Bogom. A predmet je straha zlo, koje ni na koji način ne pristaje Bogu; stoga strah ne uključuje sjedinjenje s Bogom, nego prije odmicanje od nekih stvari iz poštovanja prema Bogu. I zato on nije ime bogoslovne kreposti, nego dara, koji uzvišenije odvraća od zala nego moralna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a4.ad5": {
+      "text": "Na peto treba reći da mudrost upravlja i čovjekovim umom i čovjekovim čuvstvom. I zato se postavljaju dva dara koja odgovaraju mudrosti kao onome što usmjeruje: sa strane uma dar razuma, a sa strane čuvstva dar straha Božjega. Razlog, naime, da se Boga boji uzima se ponajviše iz razmatranja božanske uzvišenosti, koju razmatra mudrost.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da darovi nisu međusobno povezani. Apostol, naime, kaže u 1 Kor 12: *Jednomu se po Duhu daje govor mudrosti, drugomu govor znanja po istom Duhu*. Ali mudrost i znanje ubrajaju se među darove Duha Svetoga. Dakle, darovi Duha Svetoga daju se različitima i nisu međusobno povezani u istome.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a5.obj2": {
+      "text": "Osim toga, Augustin kaže u XIV. knjizi O Trojstvu da *mnogi vjernici ne obiluju znanjem, premda obiluju samom vjerom*. Ali vjeru prati neki od darova, barem dar straha Božjega. Dakle, čini se da darovi nisu nužno povezani u jednom te istom.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a5.obj3": {
+      "text": "Osim toga, Grgur u I. knjizi Moralija kaže da je *mudrost manja ako joj nedostaje razum; a razum je posve beskoristan ako ne stoji na mudrosti. Bezvrijedan je savjet kojemu nedostaje djelo jakosti; a jakost se posve ruši ako je ne podupire savjet. Ništavno je znanje ako nema koristi pobožnosti; a posve je beskorisna pobožnost ako joj nedostaje razlučivanje znanja. I sam se strah, ako nema ovih kreposti, ne diže ni na kakvo djelo dobre radnje*. Iz toga se čini da se jedan dar može imati bez drugoga. Dakle, darovi Duha Svetoga nisu međusobno povezani.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a5.sc": {
+      "text": "Ali protiv toga je ono što Grgur na istom mjestu kaže prije, govoreći: *Čini se da u ovoj gozbi sinova treba ispitati to što oni hrane jedni druge*. A Jobovim se sinovima, o kojima govori, označuju darovi Duha Svetoga. Dakle, darovi Duha Svetoga međusobno su povezani time što okrepljuju jedni druge.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a5.resp": {
+      "text": "Odgovaram: treba reći da se istina ovoga pitanja lako može dobiti iz prije rečenoga. Gore je, naime, rečeno da, kao što su težnjene sile raspoložene moralnim krepostima s obzirom na vodstvo razuma, tako su sve sile duše raspoložene darovima s obzirom na Duha Svetoga koji pokreće. A Duh Sveti prebiva u nama po ljubavi, prema onome iz Rim 5: *Ljubav je Božja izlivena u srca naša po Duhu Svetom koji nam je dan*, kao što se i naš razum usavršava razboritošću. Stoga, kao što su moralne kreposti međusobno povezane u razboritosti, tako su darovi Duha Svetoga međusobno povezani u ljubavi, i to tako da tko ima ljubav ima sve darove Duha Svetoga, od kojih se nijedan ne može imati bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se mudrost i znanje na jedan način mogu razmatrati ukoliko su milosti darovane besplatno, naime ukoliko netko toliko obiluje spoznajom božanskih i ljudskih stvari da može i poučavati vjernike i pobijati protivnike. I tako Apostol ondje govori o mudrosti i znanju; zato se izričito spominje govor mudrosti i znanja. Na drugi se način mogu uzeti ukoliko su darovi Duha Svetoga. I tako mudrost i znanje nisu ništa drugo nego neke savršenosti ljudskog duha po kojima je on raspoložen da slijedi poticaje Duha Svetoga u spoznaji božanskih ili ljudskih stvari. I tako je očito da su takvi darovi u svima koji imaju ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a5.ad2": {
+      "text": "Na drugo treba reći da Augustin ondje govori o znanju tumačeći spomenuto Apostolovo mjesto; stoga govori o znanju uzetom na prije rečeni način, ukoliko je ono milost darovana besplatno. To je očito iz onoga što dodaje: *Jedno je, naime, znati samo što čovjek mora vjerovati da bi postigao blaženi život, koji nije drugo nego vječni; a drugo je znati kako to isto i pobožnima pomaže i kako se brani protiv bezbožnih; a čini se da to Apostol vlastitim imenom naziva znanjem*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a5.ad3": {
+      "text": "Na treće treba reći da, kao što se na jedan način povezanost stožernih kreposti dokazuje time što se jedna od njih na neki način usavršava drugom, kao što je gore rečeno, tako Grgur na isti način hoće dokazati povezanost darova time što jedan bez drugoga ne može biti savršen. Stoga prije toga kaže: *Svaka je pojedina krepost uvelike napuštena ako jedna krepost ne priskoči u pomoć drugoj*. Ne daje se, dakle, razumjeti da jedan dar može biti bez drugoga, nego da razum, kad bi bio bez mudrosti, ne bi bio dar; kao što umjerenost, kad bi bila bez pravednosti, ne bi bila krepost.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da darovi Duha Svetoga ne ostaju u domovini. Grgur, naime, kaže u II. knjizi Moralija da *Duh Sveti sa sedam darova poučava duh protiv pojedinih kušnji*. Ali u domovini neće biti nikakvih kušnji, prema onome iz Iz 11: *Neće nanositi zla ni ubijati na svoj mojoj svetoj gori*. Dakle, darova Duha Svetoga neće biti u domovini.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a6.obj2": {
+      "text": "Osim toga, darovi Duha Svetoga neki su habitusi, kao što je gore rečeno. Ali habitusi bi bili uzalud ondje gdje ne može biti čina. A čina nekih darova ne može biti u domovini; Grgur, naime, kaže u I. knjizi Moralija da *razum čini da se prodire u ono što se čuje, i savjet priječi da se bude brzoplet, i jakost čini da se ne boji nedaća, i pobožnost ispunja utrobu srca djelima milosrđa*; a to ne pristaje stanju domovine. Dakle, takvih darova neće biti u stanju slave.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a6.obj3": {
+      "text": "Osim toga, neki od darova usavršavaju čovjeka u motrilačkom životu, kao mudrost i razum, a neki u djelatnom životu, kao pobožnost i jakost. Ali djelatni život završava s ovim životom, kako kaže Grgur u VI. knjizi Moralija. Dakle, u stanju slave neće biti svi darovi Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a6.sc": {
+      "text": "Ali protiv toga je ono što Ambrozije kaže u knjizi O Duhu Svetom: *Onaj Božji grad, nebeski Jeruzalem, ne pere se tokom neke zemaljske rijeke; nego se čini da Duh Sveti, izlazeći iz izvora života, kojim se mi sitimo kratkim gutljajem, obilnije pritječe u one nebeske duhove, kipeći punim tokom sedam duhovnih kreposti*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a6.resp": {
+      "text": "Odgovaram: treba reći da o darovima možemo govoriti na dva načina. Na jedan način, s obzirom na bit darova; i tako će oni najsavršenije biti u domovini, kao što je očito iz navedenog Ambrozijeva mjesta. Razlog je tome što darovi Duha Svetoga usavršavaju ljudski duh da slijedi pokretanje Duha Svetoga, što će osobito biti u domovini, kad Bog bude sve u svemu, kako se kaže u 1 Kor 15, i kad čovjek bude potpuno podložan Bogu. Na drugi se način mogu razmatrati s obzirom na građu oko koje djeluju; i tako sada imaju djelovanje oko neke građe oko koje neće imati djelovanja u stanju slave. I prema tome neće ostati u domovini, kao što je gore rečeno o stožernim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da Grgur ondje govori o darovima ukoliko pristaju sadašnjem stanju: tako nas, naime, darovi štite od kušnji zala. Ali u stanju slave, kad prestanu zla, darovima Duha Svetoga bit ćemo usavršeni u dobru.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a6.ad2": {
+      "text": "Na drugo treba reći da Grgur gotovo kod svakog pojedinog dara postavlja nešto što prolazi sa sadašnjim stanjem i nešto što ostaje i u budućem. Kaže, naime, da mudrost okrepljuje duh nadom i izvjesnošću vječnih stvari, od kojih dviju nada prolazi, a izvjesnost ostaje. A o razumu kaže da, time što prodire u ono što se čuje, okrepljujući srce, prosvjetljuje njegovu tamu; od toga slušanje prolazi, jer čovjek neće poučavati brata svojega, kako se kaže u Jr 31, ali prosvjetljenje duha ostat će. O savjetu pak kaže da priječi da se bude brzoplet, što je nužno sada, i nadalje da ispunja dušu razumom, što je nužno i u budućnosti. O jakosti pak kaže da se ne boji nedaća, što je nužno sada, i nadalje da pruža jela pouzdanja, što ostaje i u budućnosti. O znanju pak postavlja samo jedno, naime da nadvladava post neznanja, što pripada sadašnjem stanju. Ali ono što dodaje, u utrobi duha, može se slikovito shvatiti kao ispunjenost spoznajom, koja pripada i budućem stanju. O pobožnosti pak kaže da ispunja utrobu srca djelima milosrđa. To, doduše, prema riječima pripada samo sadašnjem stanju. Ali samo najdublje čuvstvo prema bližnjima, označeno utrobom, pripada i budućem stanju, u kojem pobožnost neće iskazivati djela milosrđa, nego čuvstvo suradovanja. O strahu pak kaže da pritišće duh da se ne bi oholio sadašnjim stvarima, što pripada sadašnjem stanju; i da hranom nade jača za buduće stvari, što također pripada sadašnjem stanju, s obzirom na nadu; ali može pripadati i budućem stanju, s obzirom na okrepu zbog stvari kojima se ovdje nadalo, a ondje su postignute.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a6.ad3": {
+      "text": "Na treće treba reći da se taj razlog odnosi na darove s obzirom na građu. Djela djelatnog života, naime, neće biti građa darova, nego će svi darovi imati svoje čine oko onoga što pripada motrilačkom životu, koji je blaženi život.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se dostojanstvo darova ne određuje prema nabrajanju kojim se oni nabrajaju u Iz 11. Čini se, naime, da je među darovima najodličnije ono što Bog ponajviše traži od čovjeka. Ali Bog od čovjeka ponajviše traži strah; kaže se, naime, u Pnz 10: *I sada, Izraele, što Gospodin, Bog tvoj, traži od tebe, nego da se bojiš Gospodina, Boga svojega?* I u Mal 1 kaže se: *Ako sam ja Gospodin, gdje je strah moj?* Dakle, čini se da strah Božji, koji se nabraja posljednji, nije najniži od darova, nego najveći.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a7.obj2": {
+      "text": "Osim toga, čini se da je pobožnost neko opće dobro; Apostol, naime, kaže u 1 Tim 4 da je *pobožnost korisna za sve*. Ali opće dobro ima prednost pred posebnim dobrima. Dakle, čini se da je pobožnost, koja se nabraja pretposljednja, najodličniji od darova.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a7.obj3": {
+      "text": "Osim toga, znanje usavršava čovjekov sud, a savjet pripada istraživanju. Ali sud nadmašuje istraživanje. Dakle, znanje je odličniji dar od savjeta, premda se ipak nabraja poslije njega.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a7.obj4": {
+      "text": "Osim toga, jakost pripada težnjenoj sili, a znanje razumu. Ali razum je uzvišeniji od težnjene sile. Dakle, i znanje je uzvišeniji dar od jakosti, koja se ipak nabraja prije. Dakle, dostojanstvo se darova ne određuje prema redu njihova nabrajanja.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a7.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u knjizi O Gospodinovu govoru na gori: *Čini mi se da se sedmerostruko djelovanje Duha Svetoga, o kojem govori Izaija, slaže s ovim stupnjevima i izrekama* (o kojima se govori u Mt 5); ali postoji razlika u redu. Jer ondje (naime kod Izaije) *nabrajanje počinje od uzvišenijih, a ovdje od nižih*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a7.resp": {
+      "text": "Odgovaram: treba reći da se dostojanstvo darova može promatrati na dva načina: na jedan način naprosto, naime s obzirom na vlastite čine ukoliko proizlaze iz svojih počela; na drugi način u nekom pogledu, naime s obzirom na građu. Govoreći pak naprosto o dostojanstvu darova, isti je razlog uspoređivanja kod njih i kod kreposti, jer darovi usavršavaju čovjeka za sve čine moći duše za koje ga usavršavaju kreposti, kao što je gore rečeno. Stoga, kao što umske kreposti imaju prednost pred moralnim krepostima, a među samim umskim krepostima motrilačke imaju prednost pred djelatnima, kao mudrost pred umom, i znanost pred razboritošću i umijećem, ali tako da mudrost ima prednost pred umom, a um pred znanošću, kao i razboritost i sinesa pred eubulijom, tako i među darovima mudrost i razum, znanje i savjet imaju prednost pred pobožnošću, jakošću i strahom Božjim; a među ovima i pobožnost ima prednost pred jakošću, a jakost pred strahom Božjim, kao pravednost pred jakošću, a jakost pred umjerenošću. Ali s obzirom na građu, jakost i savjet imaju prednost pred znanjem i pobožnošću, jer naime jakost i savjet imaju mjesto u teškim stvarima, a pobožnost, pa i znanje, u običnima. Tako, dakle, dostojanstvo darova odgovara redu nabrajanja, dijelom naprosto, ukoliko mudrost i razum imaju prednost pred svima, a dijelom prema redu građe, ukoliko savjet i jakost imaju prednost pred znanjem i pobožnošću.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se strah ponajviše traži kao neki početak savršenosti darova, jer je početak mudrosti strah Gospodnji, a ne zato što bi bio dostojniji od ostalih. Prije je, naime, prema redu nastajanja, da se netko udalji od zla, što biva po strahu, kako se kaže u Izr 16, nego da čini dobro, što biva po drugim darovima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a7.ad2": {
+      "text": "Na drugo treba reći da se pobožnost u Apostolovim riječima ne uspoređuje sa svim Božjim darovima, nego samo s tjelesnim vježbanjem, o kojem prije kaže da je malo korisno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a7.ad3": {
+      "text": "Na treće treba reći da, premda znanje ima prednost pred savjetom s obzirom na sud, ipak savjet ima prednost s obzirom na građu: savjet, naime, ima mjesto samo u teškim stvarima, kako se kaže u III. knjizi Etike, a sud znanja ima mjesto u svemu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a7.ad4": {
+      "text": "Na četvrto treba reći da su usmjeravajući darovi, koji pripadaju razumu, dostojniji od izvršnih darova ako se razmatraju s obzirom na čine ukoliko izlaze iz moći: razum, naime, nadmašuje težnjenu silu kao ono što daje pravilo nadmašuje ono što ga prima. Ali s obzirom na građu, savjet se pridružuje jakosti kao ono što usmjeruje onome što izvršava, i slično znanje pobožnosti, jer naime savjet i jakost imaju mjesto u teškim stvarima, a znanje i pobožnost i u običnima. I zato se savjet zajedno s jakošću, s obzirom na građu, nabraja prije znanja i pobožnosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da kreposti imaju prednost pred darovima. Augustin, naime, kaže u XV. knjizi O Trojstvu, govoreći o ljubavi: *Ništa nije odličnije od ovoga Božjega dara. On je jedini ono što dijeli sinove vječnoga kraljevstva od sinova vječne propasti; daju se i drugi darovi po Duhu Svetom, ali bez ljubavi ništa ne koriste*. Ali ljubav je krepost. Dakle, krepost je odličnija od darova Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a8.obj2": {
+      "text": "Osim toga, čini se da je ono što je po naravi prije odličnije. Ali kreposti su prije darova Duha Svetoga; Grgur, naime, kaže u II. knjizi Moralija da *dar Duha Svetoga u duhu koji mu je podložan prije ostaloga oblikuje pravednost, razboritost, jakost i umjerenost, i tako isti taj duh odmah uređuje sedmerim krepostima* (to jest darovima), *tako da protiv ludosti daje mudrost; protiv tuposti razum; protiv brzopletosti savjet; protiv straha jakost; protiv neznanja znanje; protiv tvrdoće pobožnost; protiv oholosti strah Božji*. Dakle, kreposti su odličnije od darova.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a8.obj3": {
+      "text": "Osim toga, krepostima se nitko ne može zlo služiti, kako kaže Augustin. A darovima se netko može zlo služiti; Grgur, naime, kaže u I. knjizi Moralija da *prinosimo žrtvu svoje molitve da se mudrost ne uzoholi; da razum, dok oštroumno trči, ne zaluta; da savjet, dok se umnaža, ne smete; da jakost, dok daje pouzdanje, ne survava u brzopletost; da znanje, dok spoznaje a ne ljubi, ne napuhne; da pobožnost, dok se priklanja izvan ispravnosti, ne iskrivi; da strah, dok strepi više nego što je pravo, ne potopi u jamu očaja*. Dakle, kreposti su dostojnije od darova Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a8.sc": {
+      "text": "Ali protiv toga je to što se darovi daju krepostima kao pomoć protiv nedostataka, kao što je očito iz navedenog mjesta; i tako se čini da usavršavaju ono što kreposti ne mogu usavršiti. Dakle, darovi su odličniji od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a8.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je očito iz prije rečenoga, kreposti dijele na tri roda: neke su, naime, bogoslovne kreposti, neke umne, a neke moralne. Bogoslovne su kreposti one kojima se ljudski duh sjedinjuje s Bogom; umne su kreposti one kojima se usavršava sam razum; a moralne su kreposti one kojima se težnjene sile usavršavaju da slušaju razum. A darovi Duha Svetoga su oni kojima su sve sile duše raspoložene za to da budu podložne božanskom pokretanju. Tako se, dakle, čini da je ista usporedba darova s bogoslovnim krepostima, po kojima se čovjek sjedinjuje s Duhom Svetim koji pokreće, kao i moralnih kreposti s umskim krepostima, po kojima se usavršava razum, koji pokreće moralne kreposti. Stoga, kao što umske kreposti imaju prednost pred moralnim krepostima i ravnaju njima, tako bogoslovne kreposti imaju prednost pred darovima Duha Svetoga i ravnaju njima. Zato Grgur kaže u I. knjizi Moralija da *ni sedam sinova* (to jest sedam darova) *ne dolaze do savršenosti broja deset ako sve što čine nije u vjeri, nadi i ljubavi*. Ali ako usporedimo darove s ostalim umnim ili moralnim krepostima, darovi imaju prednost pred krepostima. Jer darovi usavršavaju sile duše s obzirom na Duha Svetoga koji pokreće, a kreposti usavršavaju ili sam razum ili ostale sile u usmjerenosti prema razumu. Očito je pak da pokretljivo mora biti raspoloženo većom savršenošću za višega pokretača. Stoga su darovi savršeniji od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ljubav bogoslovna krepost, za koju priznajemo da je odličnija od darova.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a8.ad2": {
+      "text": "Na drugo treba reći da je nešto prije drugoga na dva načina. Na jedan način, redom savršenosti i dostojanstva, kao što je ljubav prema Bogu prije ljubavi prema bližnjemu. I na taj su način darovi prije umnih i moralnih kreposti, a poslije bogoslovnih kreposti. Na drugi način, redom nastajanja ili raspoloživosti, kao što ljubav prema bližnjemu prethodi ljubavi prema Bogu s obzirom na čin. I tako moralne i umske kreposti prethode darovima, jer time što se čovjek dobro odnosi prema vlastitom razumu, raspoložen je za to da se dobro odnosi u usmjerenosti prema Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    },
+    "I-II.q68.a8.ad3": {
+      "text": "Na treće treba reći da su mudrost i razum i ostalo takvo darovi Duha Svetoga ukoliko su oblikovani ljubavlju, koja ne čini ništa naopako, kako se kaže u 1 Kor 13. I zato se mudrošću i razumom i ostalim takvim nitko ne služi zlo ukoliko su oni darovi Duha Svetoga. Ali da ne bi odstupili od savršenosti ljubavi, jedan drugome pomaže. I to je ono što Grgur hoće reći.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:20+00:00"
+    }
+  }
+}

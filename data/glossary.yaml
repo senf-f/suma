@@ -2195,13 +2195,13 @@ terms:
     Toma ga povezuje s nasladom i uživanjem u svrsi.
   mjesto: I-II.q4.a2.resp
 - la: virtus (moralis / intellectualis / theologica)
-  hr: krepost (moralna / umna / bogoslovna)
+  hr: krepost (moralna / umska / bogoslovna)
   alternatives:
   - vrlina
   note: Virtue as a good habitus = "krepost"; "snaga" only where virtus means power
     or force (see virtus).
   opis: Krepost je dobar habitus kojim čovjek dobro djeluje i koji samoga čovjeka
-    čini dobrim. Toma razlikuje umne, moralne i bogoslovne kreposti; gdje *virtus*
+    čini dobrim. Toma razlikuje umske, moralne i bogoslovne kreposti; gdje *virtus*
     znači samo snagu ili moć, prevodi se kao „snaga“.
   mjesto: I-II.q4.a6.resp
 - la: divitiae, honor, fama, potestas, voluptas
@@ -2443,24 +2443,24 @@ terms:
   opis: 'Stožerne su kreposti razboritost, pravednost, jakost i umjerenost: na njima
     se, kao vrata na stožerima, okreće sav moralni život. Razboritost usmjeruje razum,
     pravednost volju, a jakost i umjerenost srditu i požudnu moć.'
-  mjesto: null
+  mjesto: I-II.q61.a2.resp
 - la: 'virtutes intellectuales: intellectus, sapientia, scientia, ars, prudentia'
-  hr: 'umne kreposti: um, mudrost, znanost, umijeće, razboritost'
+  hr: 'umske kreposti: um, mudrost, znanost, umijeće, razboritost'
   alternatives: []
   note: Intellectus as the habit of first principles = "um" (as the faculty). Ars
     = "umijeće", artifex = "umjetnik" or "majstor" by context. Recta ratio agibilium
     / factibilium = "ispravni razum o onome što treba činiti / izraditi".
-  opis: 'Umne kreposti usavršavaju um: um je habitus prvih načela, znanost habitus
+  opis: 'Umske kreposti usavršavaju um: um je habitus prvih načela, znanost habitus
     zaključaka, mudrost spoznaja po najvišim uzrocima, umijeće ispravni razum o onome
     što treba izraditi, a razboritost ispravni razum o onome što treba činiti.'
-  mjesto: null
+  mjesto: I-II.q57.a2.resp
 - la: 'virtutes theologicae: fides, spes, caritas'
   hr: 'bogoslovne kreposti: vjera, nada, ljubav'
   alternatives: []
   note: Caritas = "ljubav" ("bogoslovna ljubav" where it must be marked off from amor).
   opis: 'Bogoslovne kreposti imaju za predmet samoga Boga i samo ih on ulijeva: vjera,
     nada i ljubav. Po njima se čovjek usmjeruje prema nadnaravnom blaženstvu.'
-  mjesto: null
+  mjesto: I-II.q62.a1.resp
 - la: virtutes infusae / acquisitae
   hr: ulivene / stečene kreposti
   alternatives: []
@@ -2468,7 +2468,7 @@ terms:
     habitus"; acquirere = "stjecati".
   opis: Stečene kreposti čovjek zadobiva ponavljanjem dobrih čina, a ulivene mu Bog
     daruje bez njegova vlastitog djelovanja. Bogoslovne su kreposti uvijek ulivene.
-  mjesto: null
+  mjesto: I-II.q63.a4.resp
 - la: 'dona Spiritus Sancti: sapientia, intellectus, consilium, fortitudo, scientia,
     pietas, timor'
   hr: 'darovi Duha Svetoga: mudrost, razum, savjet, jakost, znanje, pobožnost, strah
@@ -2480,7 +2480,7 @@ terms:
   opis: 'Darovi Duha Svetoga su trajna raspoloženja kojima čovjek postaje spreman
     slijediti poticaje Duha Svetoga: mudrost, razum, savjet, jakost, znanje, pobožnost
     i strah Božji.'
-  mjesto: null
+  mjesto: I-II.q68.a1.resp
 - la: beatitudines (Mt 5)
   hr: blaženstva
   alternatives: []
@@ -2489,7 +2489,7 @@ terms:
   opis: Blaženstva su čini kreposti i darova koje Krist ubraja u Govoru na gori; Toma
     ih tumači kao čine koji vode prema blaženstvu i u kojima se ono već na neki način
     započinje.
-  mjesto: null
+  mjesto: I-II.q69.a1.resp
 - la: fructus Spiritus Sancti (Gal 5)
   hr: 'plodovi Duha: ljubav, radost, mir, strpljivost, dugotrpnost, dobrota, dobrostivost,
     blagost, vjera, skromnost, uzdržljivost, čistoća'
@@ -2499,7 +2499,7 @@ terms:
     = "blagost" as elsewhere.'
   opis: Plodovi Duha su kreposni čini u kojima čovjek nalazi nasladu, kao što se plod
     stabla na kraju bere i u njemu uživa. Toma ih s Apostolom nabraja dvanaest.
-  mjesto: null
+  mjesto: I-II.q70.a3.resp
 - la: liberalitas, magnificentia, magnanimitas, philotimia, mansuetudo, affabilitas,
     veritas, eutrapelia
   hr: darežljivost, velebnost, velikodušnost, častoljublje, blagost, ljubaznost, istinitost,
@@ -2511,7 +2511,7 @@ terms:
   opis: 'Aristotelove moralne kreposti koje Toma navodi uz jakost, umjerenost i pravednost:
     darežljivost i velebnost u trošenju, velikodušnost i častoljublje glede časti,
     blagost glede srdžbe, te ljubaznost, istinitost i duhovitost u druženju.'
-  mjesto: null
+  mjesto: I-II.q60.a5.resp
 - la: vitium / malitia (habitus)
   hr: porok / zloća
   alternatives: []
@@ -2519,7 +2519,7 @@ terms:
     = "krepostan".
   opis: 'Porok je loš habitus, suprotan kreposti: sklonost prema onome što ne odgovara
     razumskoj naravi čovjeka.'
-  mjesto: null
+  mjesto: I-II.q54.a3.resp
 - la: medium virtutis / connexio virtutum
   hr: sredina kreposti / povezanost kreposti
   alternatives: []
@@ -2528,7 +2528,7 @@ terms:
   opis: Moralna se krepost sastoji u sredini koju određuje razum, između pretjeranosti
     i nedostatka. Savršene su moralne kreposti međusobno povezane razboritošću, tako
     da tko ima jednu, ima ih sve.
-  mjesto: null
+  mjesto: I-II.q64.a1.resp
 - la: habitus (augmentum, diminutio, corruptio; entitativus / operativus)
   hr: habitus (porast, umanjenje, propadanje; bićevni / djelatni)
   alternatives: []

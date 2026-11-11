@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 54,
+  "units": {
+    "I-II.q54.pr": {
+      "text": "Zatim treba razmotriti razlikovanje habitusa. U vezi s tim pitaju se četiri stvari. Prvo, može li u jednoj moći biti više habitusa. Drugo, razlikuju li se habitusi prema predmetima. Treće, razlikuju li se habitusi prema dobru i zlu. Četvrto, sastoji li se jedan habitus od više habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u jednoj moći ne može biti više habitusa. Kod onih stvari, naime, koje se razlikuju po istome, kad se umnoži jedno, umnožava se i drugo. Ali moći i habitusi razlikuju se po istome, naime po činima i predmetima. Dakle, slično se i umnožavaju. Prema tome, u jednoj moći ne može biti više habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a1.obj2": {
+      "text": "Osim toga, moć je neka jednostavna snaga. Ali u jednom jednostavnom subjektu ne može biti različitosti akcidenata, jer je subjekt uzrok akcidenta, a čini se da od jednoga jednostavnoga ne proizlazi nego jedno. Dakle, u jednoj moći ne može biti više habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a1.obj3": {
+      "text": "Osim toga, kao što se tijelo oblikuje likom, tako se moć oblikuje habitusom. Ali jedno tijelo ne može istodobno biti oblikovano različitim likovima. Dakle, ni jedna moć ne može istodobno biti oblikovana različitim habitusima. Prema tome, više habitusa ne može istodobno biti u jednoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a1.sc": {
+      "text": "Ali protiv toga jest to što je um jedna moć, u kojoj su ipak habitusi različitih znanosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a1.resp": {
+      "text": "Odgovaram: treba reći da su, kao što je gore rečeno, habitusi neke raspoloživosti onoga što je u mogućnosti prema nečemu, bilo prema naravi, bilo prema djelovanju ili svrsi naravi. Što se tiče onih habitusa koji su raspoloživosti prema naravi, očito je da ih može biti više u jednom subjektu, zato što se dijelovi jednoga subjekta mogu uzeti na različite načine, a habitusi se nazivaju prema njihovoj raspoloživosti. Tako, ako se kao dijelovi ljudskog tijela uzmu sokovi, ukoliko su raspoređeni prema ljudskoj naravi, imamo habitus ili raspoloživost zdravlja; ako se pak uzmu istovrsni dijelovi, kao tetive, kosti i meso, njihova je raspoloživost u odnosu prema naravi jakost ili mršavost; ako se pak uzmu udovi, kao ruka, noga i slično, njihova je raspoloživost prikladna naravi ljepota. I tako u istome ima više habitusa ili raspoloživosti. Ako pak govorimo o habitusima koji su raspoloživosti prema djelima, a koji u vlastitom smislu pripadaju moćima, tako se također događa da jedna moć ima više habitusa. Razlog je tome što je subjekt habitusa pasivna mogućnost, kao što je gore rečeno; samo aktivna moć, naime, nije subjekt nikakva habitusa, kako je očito iz gore rečenoga. A pasivna se mogućnost odnosi prema određenom činu jedne vrste kao tvar prema formi, zato što se, kao što se tvar određuje za jednu formu jednim djelatnikom, tako i pasivna mogućnost pojmom jednoga aktivnog predmeta biva određena za jedan čin po vrsti. Stoga, kao što više predmeta može pokretati jednu pasivnu mogućnost, tako jedna pasivna mogućnost može biti subjekt različitih čina ili savršenosti po vrsti. A habitusi su neke kakvoće ili forme koje prianjaju uz moć i kojima se moć naginje prema činima određenima po vrsti. Stoga jednoj moći može pripadati više habitusa, kao i više čina koji se razlikuju po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što je u naravnim stvarima različitost vrsta prema formi, a različitost rodova prema tvari, kako se kaže u V. knjizi Metafizike (različite su, naime, po rodu one stvari kojih je tvar različita), tako i različitost predmeta po rodu tvori razlikovanje moći (zato Filozof kaže u VI. knjizi Etike da *za ono što je po rodu drugačije postoje i drugi dijelovi duše*); različitost pak predmeta po vrsti tvori različitost čina po vrsti, a posljedično i habitusa. A sve što je različito po rodu, različito je i po vrsti, ali ne i obratno. Zato različite moći imaju čine različite po vrsti i različite habituse; ali nije nužno da različiti habitusi pripadaju različitim moćima, nego ih više može pripadati jednoj. I kao što postoje rodovi rodova i vrste vrsta, tako se događa da postoje i različite vrste habitusa i moći.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a1.ad2": {
+      "text": "Na drugo treba reći da je moć, premda je jednostavna po biti, ipak mnogostruka po snazi, ukoliko se proteže na mnoge čine koji se razlikuju po vrsti. Zato ništa ne priječi da u jednoj moći bude mnogo habitusa koji se razlikuju po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a1.ad3": {
+      "text": "Na treće treba reći da se tijelo oblikuje likom kao vlastitim omeđenjem, dok habitus nije omeđenje moći, nego je raspoloživost prema činu kao prema posljednjoj granici. Zato jedna moć ne može istodobno imati više čina, osim možda ukoliko je jedan obuhvaćen drugim, kao što ni jedno tijelo ne može imati više likova, osim ukoliko je jedan u drugome, kao trokut u četverokutu. Um, naime, ne može istodobno u činu shvaćati mnogo toga. Ipak, po habitusu može istodobno znati mnogo toga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se habitusi ne razlikuju prema predmetima. Protivnosti se, naime, razlikuju po vrsti. Ali isti je habitus znanja o protivnostima, kao što je medicina o zdravome i bolesnome. Dakle, habitusi se ne razlikuju prema predmetima koji se razlikuju po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a2.obj2": {
+      "text": "Osim toga, različite znanosti jesu različiti habitusi. Ali isto spoznatljivo pripada različitim znanostima: tako da je Zemlja okrugla dokazuju i prirodoslovac i astronom, kako se kaže u II. knjizi Fizike. Dakle, habitusi se ne razlikuju prema predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a2.obj3": {
+      "text": "Osim toga, istoga čina isti je predmet. Ali isti čin može pripadati različitim habitusima kreposti ako se usmjerava prema različitim svrhama; tako davanje novca nekome, ako je radi Boga, pripada ljubavi, a ako je radi plaćanja duga, pripada pravednosti. Dakle, i isti predmet može pripadati različitim habitusima. Prema tome, različitost habitusa nije prema različitosti predmeta.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a2.sc": {
+      "text": "Ali protiv toga, čini se razlikuju po vrsti prema različitosti predmeta, kao što je gore rečeno. A habitusi su neke raspoloživosti prema činima. Dakle, i habitusi se razlikuju prema različitim predmetima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a2.resp": {
+      "text": "Odgovaram: treba reći da je habitus i neka forma i habitus. Razlikovanje habitusa po vrsti može se, dakle, promatrati ili prema zajedničkom načinu na koji se forme razlikuju po vrsti, ili prema vlastitom načinu razlikovanja habitusa. Forme se, naime, međusobno razlikuju prema različitim aktivnim počelima, zato što svaki djelatnik tvori nešto slično po vrsti. Habitus pak uključuje usmjerenost prema nečemu. A sve što se kaže po usmjerenosti prema nečemu razlikuje se prema razlikovanju onoga prema čemu se kaže. Habitus je pak neka raspoloživost usmjerena prema dvjema stvarima, naime prema naravi i prema djelovanju koje slijedi narav. Tako se, dakle, habitusi razlikuju po vrsti prema trima stvarima. Na jedan način, prema aktivnim počelima takvih raspoloživosti; na drugi način, prema naravi; na treći način, prema predmetima koji se razlikuju po vrsti; kao što će se objasniti u onome što slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da pri razlikovanju moći, ili pak habitusa, ne treba promatrati sam predmet tvarno, nego pojam predmeta koji se razlikuje po vrsti ili pak po rodu. A premda se protivnosti razlikuju po vrsti različitošću stvari, ipak je isti pojam spoznavanja jednoga i drugoga, jer se jedno spoznaje po drugome. Zato, ukoliko se slažu u jednom pojmu spoznatljivoga, pripadaju jednom spoznajnom habitusu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a2.ad2": {
+      "text": "Na drugo treba reći da prirodoslovac dokazuje da je Zemlja okrugla jednim srednjim terminom, a astronom drugim: astronom to, naime, dokazuje matematičkim srednjim terminima, kao što je oblik pomrčina ili nešto slično; prirodoslovac pak to dokazuje prirodnim srednjim terminom, kao što je gibanje teških tijela prema središtu ili nešto slično. A sva snaga dokaza, koji je silogizam što proizvodi znanje, kako se kaže u I. knjizi Druge analitike, ovisi o srednjem terminu. Zato su različiti srednji termini kao različita aktivna počela, prema kojima se habitusi znanosti međusobno razlikuju.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a2.ad3": {
+      "text": "Na treće treba reći da se, kako kaže Filozof u II. knjizi Fizike i u VII. knjizi Etike, svrha u onome što se može činiti odnosi onako kako se počelo odnosi u onome što se dokazuje. Zato različitost svrha čini kreposti različitima, kao i različitost aktivnih počela. Same su svrhe, osim toga, predmeti unutarnjih čina, koji ponajviše pripadaju krepostima, kako je očito iz gore rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se habitusi ne razlikuju prema dobru i zlu. Dobro i zlo su, naime, protivnosti. Ali isti je habitus o protivnostima, kao što je gore utvrđeno. Dakle, habitusi se ne razlikuju prema dobru i zlu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a3.obj2": {
+      "text": "Osim toga, dobro je zamjenljivo s bićem, i tako, budući da je zajedničko svemu, ne može se uzeti kao razlika neke vrste, kao što je očito kod Filozofa u IV. knjizi Topike. Slično tako ni zlo, budući da je lišenost i nebiće, ne može biti razlika nekog bića. Dakle, habitusi se ne mogu razlikovati po vrsti prema dobru i zlu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a3.obj3": {
+      "text": "Osim toga, oko istoga predmeta mogu postojati različiti zli habitusi, kao oko požuda neumjerenost i neosjetljivost; a slično i više dobrih habitusa, naime ljudska krepost i herojska ili božanska krepost, kao što je očito kod Filozofa u VII. knjizi Etike. Dakle, habitusi se ne razlikuju prema dobru i zlu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a3.sc": {
+      "text": "Ali protiv toga jest to što je dobar habitus protivan zlom habitusu, kao krepost poroku. A protivnosti su različite po vrsti. Dakle, habitusi se razlikuju po vrsti prema razlici dobra i zla.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a3.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, habitusi razlikuju po vrsti ne samo prema predmetima i aktivnim počelima, nego i u odnosu prema naravi. A to se događa na dva načina. Na jedan način, prema prikladnosti naravi ili pak prema neprikladnosti njoj. Na taj se način razlikuju po vrsti dobar i zao habitus: dobrim se, naime, naziva habitus koji raspolaže za čin prikladan naravi djelatnika, a zlim se naziva habitus koji raspolaže za čin koji nije prikladan naravi. Tako su čini kreposti prikladni ljudskoj naravi, zato što su u skladu s razumom, a čini poroka, budući da su protiv razuma, ne slažu se s ljudskom naravi. I tako je očito da se habitusi razlikuju po vrsti prema razlici dobra i zla. Na drugi se način habitusi razlikuju prema naravi po tome što jedan habitus raspolaže za čin prikladan nižoj naravi, a drugi habitus raspolaže za čin prikladan višoj naravi. I tako se ljudska krepost, koja raspolaže za čin prikladan ljudskoj naravi, razlikuje od božanske ili herojske kreposti, koja raspolaže za čin prikladan nekoj višoj naravi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da o protivnostima može biti jedan habitus ukoliko se protivnosti slažu u jednom pojmu. Ali nikada se ne događa da protivni habitusi budu iste vrste, jer protivnost habitusa jest prema protivnim pojmovima. I tako se habitusi razlikuju prema dobru i zlu, naime ukoliko je jedan habitus dobar, a drugi zao, a ne po tome što je jedan o dobru, a drugi o zlu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a3.ad2": {
+      "text": "Na drugo treba reći da dobro zajedničko svakom biću nije razlika koja tvori vrstu nekog habitusa, nego neko određeno dobro, koje je prema prikladnosti određenoj naravi, naime ljudskoj. Slično tako ni zlo koje je razlika što tvori habitus nije čista lišenost, nego je nešto određeno što se protivi određenoj naravi.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a3.ad3": {
+      "text": "Na treće treba reći da se više dobrih habitusa oko istoga po vrsti razlikuje prema prikladnosti različitim naravima, kao što je rečeno. Više pak zlih habitusa razlikuje se oko istoga što treba činiti prema različitim protivljenjima onome što je u skladu s naravi; tako su jednoj kreposti protivni različiti poroci oko iste građe.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se jedan habitus sastoji od više habitusa. Ono, naime, čiji se nastanak ne dovršava odjednom, nego postupno, čini se da se sastoji od više dijelova. Ali nastanak habitusa nije odjednom, nego postupan, iz više čina, kao što je gore utvrđeno. Dakle, jedan se habitus sastoji od više habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a4.obj2": {
+      "text": "Osim toga, cjelina se sastoji od dijelova. Ali jednom se habitusu pripisuju mnogi dijelovi: tako Tulije postavlja mnoge dijelove jakosti, umjerenosti i drugih kreposti. Dakle, jedan se habitus sastoji od više njih.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a4.obj3": {
+      "text": "Osim toga, o jednom jedinom zaključku može se imati znanje i u činu i po habitusu. Ali mnogi zaključci pripadaju jednoj cijeloj znanosti, kao geometriji ili aritmetici. Dakle, jedan se habitus sastoji od mnogih.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a4.sc": {
+      "text": "Ali protiv toga, habitus je, budući da je neka kakvoća, jednostavna forma. A ništa se jednostavno ne sastoji od više stvari. Dakle, jedan se habitus ne sastoji od više habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a4.resp": {
+      "text": "Odgovaram: treba reći da je habitus usmjeren prema djelovanju, o kojem sada ponajprije raspravljamo, neka savršenost moći. A svaka je savršenost razmjerna onome što se njome usavršava. Stoga, kao što se moć, premda je jedna, proteže na mnogo toga ukoliko se to slaže u nečem jednom, to jest u nekom općem pojmu predmeta, tako se i habitus proteže na mnogo toga ukoliko je to usmjereno prema nečem jednom, na primjer prema jednom posebnom pojmu predmeta, ili prema jednoj naravi, ili prema jednom počelu, kako je očito iz gore rečenoga. Ako, dakle, promatramo habitus prema onome na što se proteže, tako ćemo u njemu naći neku mnogostrukost. Ali budući da je ta mnogostrukost usmjerena prema nečem jednom, prema čemu je habitus ponajprije okrenut, odatle je habitus jednostavna kakvoća, koja se ne sastoji od više habitusa, iako se proteže na mnogo toga. Jedan se habitus, naime, ne proteže na mnogo toga osim u usmjerenosti prema jednome, od čega ima jedinstvo.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da postupnost u nastanku habitusa ne dolazi otuda što nastaje dio za dijelom, nego otuda što subjekt ne postiže odmah čvrstu i teško pokretljivu raspoloživost, te otuda što habitus najprije nesavršeno počinje postojati u subjektu i malo-pomalo se usavršava. Tako je i s drugim kakvoćama.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a4.ad2": {
+      "text": "Na drugo treba reći da dijelovi koji se pripisuju pojedinim stožernim krepostima nisu sastavni dijelovi od kojih bi se sastojala cjelina, nego subjektivni ili potencijalni dijelovi, kao što će biti očito niže.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q54.a4.ad3": {
+      "text": "Na treće treba reći da onaj tko u nekoj znanosti dokazom stekne znanje jednoga zaključka ima, doduše, habitus, ali nesavršeno. A kad nekim dokazom stekne znanje drugoga zaključka, ne nastaje u njemu još jedan habitus, nego habitus koji je prije bio u njemu postaje savršeniji, budući da se proteže na više toga; jer su zaključci i dokazi jedne znanosti međusobno uređeni i jedan se izvodi iz drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    }
+  }
+}

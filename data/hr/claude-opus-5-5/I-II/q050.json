@@ -1,0 +1,300 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 50,
+  "units": {
+    "I-II.q50.pr": {
+      "text": "Zatim treba razmotriti subjekt habitusa. I o tome se pita šest stvari. Prvo, ima li u tijelu kakav habitus. Drugo, je li duša subjekt habitusa po svojoj biti ili po svojoj moći. Treće, može li u moćima osjetilnoga dijela biti kakav habitus. Četvrto, ima li u samom umu kakav habitus. Peto, ima li u volji kakav habitus. Šesto, ima li ga u odijeljenim supstancijama.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u tijelu nema nikakva habitusa. Kako, naime, kaže Komentator u III. knjizi O duši, *habitus je ono čime netko djeluje kad hoće*. Ali tjelesne radnje nisu podložne volji, budući da su naravne. Dakle, u tijelu ne može biti nikakva habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a1.obj2": {
+      "text": "Osim toga, sve su tjelesne raspoloživosti lako pokretljive. Ali habitus je teško pokretljiva kakvoća. Dakle, nijedna tjelesna raspoloživost ne može biti habitus.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a1.obj3": {
+      "text": "Osim toga, sve su tjelesne raspoloživosti podložne kakvoćnoj promjeni. Ali kakvoćne promjene ima samo u trećoj vrsti kakvoće, koja je diobom suprotstavljena habitusu. Dakle, nikakav habitus nije u tijelu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a1.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u Kategorijama, da se zdravlje tijela, ili neizlječiva bolest, naziva habitusom.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, habitus neka raspoloživost nekoga subjekta koji je u mogućnosti ili prema formi ili prema djelovanju. Ukoliko, dakle, habitus uključuje raspoloživost prema djelovanju, nijedan habitus nije prvenstveno u tijelu kao u subjektu. Svako je, naime, djelovanje tijela ili od naravne kakvoće tijela ili od duše koja pokreće tijelo. Što se, dakle, tiče onih djelovanja koja su od naravi, tijelo nije raspoloženo nikakvim habitusom, jer su naravne snage određene prema jednome; a rečeno je da se habitualna raspoloživost zahtijeva ondje gdje je subjekt u mogućnosti prema mnogome. Djelovanja pak koja su od duše posredstvom tijela prvenstveno su djelovanja same duše, a drugotno samoga tijela. A habitusi su razmjerni djelovanjima; zato se od sličnih čina uzrokuju slični habitusi, kako se kaže u II. knjizi Etike. I zato su raspoloživosti za takva djelovanja prvenstveno u duši. U tijelu pak mogu biti drugotno, naime ukoliko je tijelo raspoloženo i osposobljeno da spremno služi djelovanjima duše. Ako pak govorimo o raspoloživosti subjekta prema formi, tako habitualna raspoloživost može biti u tijelu, koje se odnosi prema duši kao subjekt prema formi. I na taj se način zdravlje i ljepota i tome slično nazivaju habitualnim raspoloživostima. Ipak, nemaju savršeno pojam habitusa, jer su njihovi uzroci po svojoj naravi lako preinačivi. Aleksandar je pak postavljao da habitus ili raspoloživost prve vrste nikako nije u tijelu, kako izvješćuje Simplicije u komentaru na Kategorije, nego je govorio da prva vrsta kakvoće pripada samo duši. A ono što Aristotel u Kategorijama navodi o zdravlju i bolesti ne navodi kao da to pripada prvoj vrsti kakvoće, nego na način primjera, tako da je smisao ovaj: kao što bolest i zdravlje mogu biti lako ili teško pokretljivi, tako i kakvoće prve vrste, koje se nazivaju habitus i raspoloživost. Ali jasno je da je to protiv Aristotelove nakane. Prvo, jer se istim načinom govora služi kad navodi primjere o zdravlju i bolesti i o kreposti i znanosti. Drugo, jer u VII. knjizi Fizike izričito ubraja ljepotu i zdravlje među habituse.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj prigovor polazi od habitusa ukoliko je raspoloživost prema djelovanju, i od tjelesnih čina koji su od naravi, a ne od onih koji su od duše, kojih je počelo volja.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a1.ad2": {
+      "text": "Na drugo treba reći da tjelesne raspoloživosti nisu naprosto teško pokretljive, zbog promjenljivosti tjelesnih uzroka. Ali mogu biti teško pokretljive u usporedbi s takvim subjektom, naime zato što se ne mogu ukloniti dok takav subjekt traje; ili zato što su teško pokretljive u usporedbi s drugim raspoloživostima. Kakvoće su pak duše naprosto teško pokretljive, zbog nepokretljivosti subjekta. I zato on ne kaže da je teško pokretljivo zdravlje naprosto habitus, nego da je kao habitus, kako stoji u grčkom tekstu. Kakvoće se pak duše naprosto nazivaju habitusima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a1.ad3": {
+      "text": "Na treće treba reći da se tjelesne raspoloživosti koje su u prvoj vrsti kakvoće, kako su neki postavili, razlikuju od kakvoća treće vrste po tome što su kakvoće treće vrste kao u nastajanju i kao u gibanju, zbog čega se nazivaju trpnjama ili trpnim kakvoćama. Kad su pak već došle do savršenoga, kao do vrste, tada su već u prvoj vrsti kakvoće. Ali to pobija Simplicije u komentaru na Kategorije, jer bi prema tome zagrijavanje bilo u trećoj vrsti kakvoće, a toplina u prvoj, dok Aristotel stavlja toplinu u treću. Zato Porfirije kaže, kako isti Simplicije izvješćuje, da se trpnja ili trpna kakvoća, raspoloživost i habitus razlikuju u tijelima po pojačavanju i slabljenju. Kad, naime, nešto prima toplost samo tako da se zagrijava, a ne tako da može zagrijavati, tada je to trpnja ako brzo prolazi, ili trpna kakvoća ako ostaje. Kad pak već dođe do toga da može i drugo zagrijavati, tada je raspoloživost; a ako se dalje toliko učvrsti da bude teško pokretljiva, tada će biti habitus; tako da bi raspoloživost bila neko pojačanje ili savršenost trpnje ili trpne kakvoće, a habitus pojačanje ili savršenost raspoloživosti. Ali to pobija Simplicije, jer takvo pojačavanje i slabljenje ne uključuje različitost sa strane same forme, nego zbog različitog sudjelovanja subjekta. I tako se time ne bi razlikovale vrste kakvoće. I zato treba reći drukčije: kao što je gore rečeno, odmjerenost samih trpnih kakvoća s obzirom na prikladnost naravi ima pojam raspoloživosti; i zato, kad nastane kakvoćna promjena glede samih trpnih kakvoća, a to su toplo i hladno, vlažno i suho, posljedično nastaje kakvoćna promjena glede bolesti i zdravlja. Prvotno pak i po sebi nema kakvoćne promjene glede takvih habitusa i raspoloživosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da su habitusi u duši više po biti nego po moći. Raspoloživosti se, naime, i habitusi kažu s obzirom na narav, kako je rečeno. Ali narav se više promatra po biti duše nego po moćima, jer je duša po svojoj biti narav takvoga tijela i njegova forma. Dakle, habitusi su u duši po njezinoj biti, a ne po moći.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a2.obj2": {
+      "text": "Osim toga, akcident nema akcidenta. A habitus je neki akcident. Ali moći duše pripadaju rodu akcidenata, kako je rečeno u Prvom dijelu. Dakle, habitus nije u duši po njezinoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a2.obj3": {
+      "text": "Osim toga, subjekt je prije onoga što je u subjektu. Ali habitus je, budući da pripada prvoj vrsti kakvoće, prije moći, koja pripada drugoj vrsti. Dakle, habitus nije u moći duše kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a2.sc": {
+      "text": "Ali protiv toga je to što Filozof u I. knjizi Etike postavlja različite habituse u različite dijelove duše.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, habitus uključuje neku raspoloživost s obzirom na narav ili na djelovanje. Ako se, dakle, habitus uzme ukoliko ima red prema naravi, tako ne može biti u duši, ako govorimo o ljudskoj naravi, jer je sama duša forma koja dovršava ljudsku narav; zato prema tome prije može biti neki habitus ili raspoloživost u tijelu s obzirom na dušu nego u duši s obzirom na tijelo. Ali ako govorimo o nekoj višoj naravi, koje čovjek može biti dionikom, prema onome iz 2 Pt 1: *da budemo zajedničari božanske naravi*, tako ništa ne priječi da u duši po njezinoj biti bude neki habitus, naime milost, kako će se reći niže. Ako se pak habitus uzme s obzirom na djelovanje, tako se habitusi najviše nalaze u duši, ukoliko duša nije određena prema jednom djelovanju, nego se odnosi prema mnogima, što se zahtijeva za habitus, kako je gore rečeno. A budući da je duša počelo djelovanja po svojim moćima, zato su prema tome habitusi u duši po njezinim moćima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da bit duše pripada ljudskoj naravi ne kao subjekt koji treba raspoložiti prema nečemu drugome, nego kao forma i narav prema kojoj je netko raspoložen.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a2.ad2": {
+      "text": "Na drugo treba reći da akcident po sebi ne može biti subjekt akcidenta. Ali budući da i među samim akcidentima postoji neki red, subjekt se, ukoliko je pod jednim akcidentom, shvaća kao subjekt drugoga. I tako se kaže da je jedan akcident subjekt drugoga, kao površina boje. I na taj način moć može biti subjekt habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a2.ad3": {
+      "text": "Na treće treba reći da se habitus stavlja ispred moći ukoliko uključuje raspoloživost prema naravi, dok moć uvijek uključuje red prema djelovanju, koje je kasnije, budući da je narav počelo djelovanja. Ali habitus kojemu je moć subjekt ne uključuje red prema naravi, nego prema djelovanju. Zato je kasniji od moći. Ili se može reći da se habitus stavlja ispred moći kao dovršeno ispred nedovršenoga i kao čin ispred mogućnosti. Čin je, naime, po naravi prije, premda je mogućnost prije po redu nastajanja i vremena, kako se kaže u VII. i IX. knjizi Metafizike.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da u moćima osjetilnoga dijela ne može biti nikakav habitus. Kao što je, naime, hranidbena moć nerazumni dio, tako je i osjetilna. Ali u moćima hranidbenoga dijela ne postavlja se nikakav habitus. Dakle, ni u moćima osjetilnoga dijela ne treba postavljati nikakav habitus.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a3.obj2": {
+      "text": "Osim toga, osjetilni su dijelovi zajednički nama i nerazumnim životinjama. Ali u nerazumnim životinjama nema habitusa, jer u njima nema volje, koja se stavlja u definiciju habitusa, kako je gore rečeno. Dakle, u osjetilnim moćima nema habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a3.obj3": {
+      "text": "Osim toga, habitusi duše su znanosti i kreposti; i kao što se znanost odnosi na zahvatnu silu, tako se krepost odnosi na težnjenu silu. Ali u osjetilnim moćima nema znanosti, budući da je znanost o općemu, a to osjetilne sile ne mogu zahvatiti. Dakle, ni habitusi kreposti ne mogu biti u osjetilnim dijelovima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a3.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u III. knjizi Etike, da neke kreposti, naime umjerenost i jakost, pripadaju nerazumnim dijelovima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a3.resp": {
+      "text": "Odgovaram: treba reći da se osjetilne sile mogu promatrati na dva načina: na jedan način, ukoliko djeluju po nagonu naravi; na drugi način, ukoliko djeluju po zapovijedanju razuma. Ukoliko, dakle, djeluju po nagonu naravi, tako su usmjerene prema jednome, kao i narav. I zato, kao što u naravnim moćima nema habitusa, tako ih nema ni u osjetilnim moćima, ukoliko djeluju po nagonu naravi. Ukoliko pak djeluju po zapovijedanju razuma, tako mogu biti usmjerene prema različitome. I tako u njima mogu biti neki habitusi kojima su dobro ili loše raspoložene prema nečemu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da sile hranidbenoga dijela nisu po naravi takve da slušaju zapovijedanje razuma, i zato u njima nema habitusa. Ali osjetilne su sile po naravi takve da slušaju zapovijedanje razuma, i zato u njima mogu biti neki habitusi; jer se, ukoliko slušaju razum, na neki način nazivaju razumnima, kako se kaže u I. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a3.ad2": {
+      "text": "Na drugo treba reći da osjetilne sile u nerazumnim životinjama ne djeluju po zapovijedanju razuma, nego, ako su nerazumne životinje prepuštene same sebi, djeluju po nagonu naravi. I tako u nerazumnim životinjama nema habitusa usmjerenih prema djelovanjima. Ipak, u njima ima nekih raspoloživosti s obzirom na narav, kao što su zdravlje i ljepota. Ali budući da čovjekov razum nekom navikom raspolaže nerazumne životinje da nešto čine ovako ili drukčije, na taj se način u nerazumnim životinjama habitusi mogu na neki način postaviti; zato Augustin kaže u knjizi Osamdeset i tri pitanja: *vidimo kako se najdivljije zvijeri strahom od bolova odvraćaju od najvećih užitaka, a kad im to prijeđe u naviku, nazivaju se ukroćenima i pitomima*. Ipak, nedostaje im pojam habitusa što se tiče uporabe volje, jer nemaju gospodstvo da se služe ili ne služe, a čini se da to pripada pojmu habitusa. I zato, u vlastitom smislu govoreći, u njima ne može biti habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a3.ad3": {
+      "text": "Na treće treba reći da je osjetilna težnja po naravi takva da je pokreće razumska težnja, kako se kaže u III. knjizi O duši, a razumske su zahvatne sile po naravi takve da primaju od osjetilnih sila. I zato je prikladnije da habitusi budu u osjetilnim težnjenim silama nego u osjetilnim zahvatnim silama, budući da u osjetilnim težnjenim silama nema habitusa osim ukoliko djeluju po zapovijedanju razuma. Premda se i u samim unutarnjim osjetilnim zahvatnim silama mogu postaviti neki habitusi, po kojima čovjek postaje dobar u pamćenju, u misaonom prosuđivanju ili u maštanju; zato i Filozof kaže u poglavlju O pamćenju da *navika mnogo pridonosi dobrom pamćenju*, jer se i te sile pokreću na djelovanje po zapovijedanju razuma. Vanjske pak zahvatne sile, kao što su vid i sluh i tome slično, nisu primateljice nikakvih habitusa, nego su po raspoloživosti svoje naravi usmjerene prema svojim određenim činima; kao i udovi tijela, u kojima nema habitusa, nego su habitusi prije u silama koje zapovijedaju njihovim gibanjem.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da u umu nema habitusa. Habitusi su, naime, sukladni djelovanjima, kako je rečeno. Ali djelovanja su čovjeka zajednička duši i tijelu, kako se kaže u I. knjizi O duši. Dakle, i habitusi. Ali um nije čin tijela, kako se kaže u III. knjizi O duši. Dakle, um nije subjekt nikakva habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a4.obj2": {
+      "text": "Osim toga, sve što je u nečemu u njemu je na način onoga u čemu je. Ali ono što je forma bez tvari samo je čin, a ono što je složeno iz forme i tvari ima ujedno mogućnost i čin. Dakle, u onome što je samo forma ne može biti nešto što bi ujedno bilo u mogućnosti i u činu, nego samo u onome što je složeno iz tvari i forme. Ali um je forma bez tvari. Dakle, habitus, koji ima mogućnost ujedno s činom, kao nešto što postoji posredno između jednoga i drugoga, ne može biti u umu, nego samo u spoju, koji je složen iz duše i tijela.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a4.obj3": {
+      "text": "Osim toga, habitus je raspoloživost po kojoj je netko dobro ili loše raspoložen prema nečemu, kako se kaže u V. knjizi Metafizike. Ali to što je netko dobro ili loše raspoložen za čin uma potječe od neke raspoloživosti tijela; zato se i u II. knjizi O duši kaže: *vidimo da su oni mekana mesa dobro obdareni duhom*. Dakle, spoznajni habitusi nisu u umu, koji je odijeljen, nego u nekoj moći koja je čin nekog dijela tijela.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a4.sc": {
+      "text": "Ali protiv toga je to što Filozof u VI. knjizi Etike postavlja znanost i mudrost i um, koji je habitus načela, u sam umski dio duše.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a4.resp": {
+      "text": "Odgovaram: treba reći da su neki o spoznajnim habitusima mislili različito. Neki su, naime, postavljajući da je mogućnosni um jedan u svim ljudima, bili prisiljeni postaviti da spoznajni habitusi nisu u samom umu, nego u unutarnjim osjetilnim silama. Očito je, naime, da se ljudi razlikuju po habitusima; zato se spoznajni habitusi ne mogu izravno postaviti u ono što je, budući da je brojčano jedno, zajedničko svim ljudima. Zato, ako je mogućnosni um brojčano jedan za sve ljude, habitusi znanosti, po kojima se ljudi razlikuju, neće moći biti u mogućnosnom umu kao u subjektu, nego će biti u unutarnjim osjetilnim silama, koje su različite u različitih ljudi. Ali to je stajalište, prvo, protiv Aristotelove nakane. Očito je, naime, da osjetilne sile nisu razumne po biti, nego samo po sudjelovanju, kako se kaže u I. knjizi Etike. A Filozof postavlja umske kreposti, a to su mudrost, znanost i um, u ono što je razumno po biti. Zato nisu u osjetilnim silama, nego u samom umu. Izričito također kaže u III. knjizi O duši da mogućnosni um, kad tako postane pojedine stvari, to jest kad bude priveden u čin pojedinih stvari po umljivim spoznajnim likovima, tada postaje u činu na onaj način na koji se kaže da je znalac u činu, što se događa kad netko može djelovati sam po sebi, naime razmatrajući. Tada je, dakle, i dalje na neki način u mogućnosti, ali ne slično kao prije učenja ili otkrivanja. Sam je, dakle, mogućnosni um ono u čemu je habitus znanosti kojim može razmatrati i kad ne razmatra. Drugo, to je stajalište i protiv istine stvari. Kao što, naime, moć pripada onome čemu pripada djelovanje, tako i habitus pripada onome čemu pripada djelovanje. A shvaćati i razmatrati vlastiti je čin uma. Dakle, i habitus kojim se razmatra u vlastitom je smislu u samom umu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da su neki, kako izvješćuje Simplicije u komentaru na Kategorije, rekli da, budući da je svako djelovanje čovjeka na neki način djelovanje spoja, kako kaže Filozof u I. knjizi O duši, nijedan habitus ne pripada samo duši, nego spoju. I iz toga slijedi da nijedan habitus nije u umu, budući da je um odijeljen, kako je postavljeni razlog zaključivao. Ali taj razlog ne prisiljava. Habitus, naime, nije raspoloživost predmeta prema moći, nego prije raspoloživost moći prema predmetu; zato habitus mora biti u samoj moći koja je počelo čina, a ne u onome što se prema moći odnosi kao predmet. A za samo shvaćanje ne kaže se da je zajedničko duši i tijelu osim zbog maštovne slike, kako se kaže u I. knjizi O duši. A jasno je da se maštovna slika odnosi prema mogućnosnom umu kao predmet, kako se kaže u III. knjizi O duši. Zato preostaje da je umski habitus prvenstveno sa strane samoga uma, a ne sa strane maštovne slike, koja je zajednička duši i tijelu. I zato treba reći da je mogućnosni um subjekt habitusa: onome, naime, pristaje biti subjekt habitusa što je u mogućnosti prema mnogome, a to najviše pristaje mogućnosnom umu. Zato je mogućnosni um subjekt umskih habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a4.ad2": {
+      "text": "Na drugo treba reći da, kao što mogućnost prema osjetnom bitku pristaje tjelesnoj tvari, tako mogućnost prema umljivom bitku pristaje mogućnosnom umu. Zato ništa ne priječi da u mogućnosnom umu bude habitus, koji je posredan između čiste mogućnosti i savršenoga čina.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a4.ad3": {
+      "text": "Na treće treba reći da, budući da zahvatne sile iznutra pripremaju mogućnosnom umu njegov vlastiti predmet, zato po dobroj raspoloživosti tih sila, čemu pridonosi dobra raspoloživost tijela, čovjek postaje sposoban za shvaćanje. I tako umski habitus drugotno može biti u tim silama. Prvenstveno je pak u mogućnosnom umu.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da u volji nema habitusa. Habitusi, naime, koji su u umu jesu umljivi spoznajni likovi, kojima um shvaća u činu. Ali volja ne djeluje po nekim spoznajnim likovima. Dakle, volja nije subjekt nikakva habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a5.obj2": {
+      "text": "Osim toga, u djelatnom umu ne postavlja se nikakav habitus, kao u mogućnosnom umu, jer je on djelatna moć. Ali volja je najviše djelatna moć, jer pokreće sve moći na njihove čine, kako je gore rečeno. Dakle, u njoj nema nikakva habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a5.obj3": {
+      "text": "Osim toga, u naravnim moćima nema nikakva habitusa, jer su po svojoj naravi određene prema nečemu. Ali volja je po svojoj naravi usmjerena prema tome da ide za dobrom uređenim razumom. Dakle, u volji nema nikakva habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a5.sc": {
+      "text": "Ali protiv toga je to što je pravednost neki habitus. A pravednost je u volji: pravednost je, naime, *habitus po kojemu neki hoće i čine ono što je pravedno*, kako se kaže u V. knjizi Etike. Dakle, volja je subjekt nekog habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a5.resp": {
+      "text": "Odgovaram: treba reći da je svakoj moći koja može biti različito usmjerena na djelovanje potreban habitus kojim bi bila dobro raspoložena za svoj čin. A volja, budući da je razumska moć, može biti različito usmjerena na djelovanje. I zato u volji treba postaviti neki habitus kojim bi bila dobro raspoložena za svoj čin. I iz samoga pojma habitusa vidi se da on ima neki prvenstveni red prema volji, ukoliko je habitus ono čime se netko služi kad hoće, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što je u umu neki spoznajni lik koji je sličnost predmeta, tako u volji i u svakoj težnjenoj sili mora biti nešto čime je nagnuta prema svojem predmetu, budući da čin težnjene snage nije ništa drugo nego neka sklonost, kako je gore rečeno. Za ono, dakle, prema čemu je dostatno nagnuta po naravi same moći, nije joj potrebna nikakva kakvoća koja bi je nagibala. Ali budući da je za svrhu ljudskoga života nužno da težnjena sila bude nagnuta prema nečemu određenome, prema čemu nije nagnuta po naravi moći, koja se odnosi prema mnogim i različitim stvarima, zato je nužno da u volji i u drugim težnjenim silama budu neke kakvoće koje nagibaju, a koje se nazivaju habitusima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a5.ad2": {
+      "text": "Na drugo treba reći da djelatni um samo djeluje i nikako ne trpi. Ali volja, i svaka težnjena sila, jest pokretač koji je i sam pokretan, kako se kaže u III. knjizi O duši. I zato nije isti razlog za jedno i drugo: biti primatelj habitusa, naime, pristaje onome što je na neki način u mogućnosti.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a5.ad3": {
+      "text": "Na treće treba reći da je volja po samoj naravi moći nagnuta prema dobru razuma. Ali budući da se to dobro mnogostruko razlikuje, nužno je da volja nekim habitusom bude nagnuta prema nekom određenom dobru razuma, kako bi uslijedilo spremnije djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da u anđelima nema habitusa. Maksim, naime, Dionizijev komentator, kaže u VII. poglavlju O nebeskoj hijerarhiji: ne priliči misliti da su umske, to jest duhovne, snage u božanskim umovima, naime u anđelima, na način akcidenata, kao što su i u nama, tako da bi jedno bilo u drugome kao u subjektu; svaki je, naime, akcident odande odbačen. Ali svaki je habitus akcident. Dakle, u anđelima nema habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a6.obj2": {
+      "text": "Osim toga, kako kaže Dionizije u IV. poglavlju O nebeskoj hijerarhiji, *sveti rasporedi nebeskih bîti iznad svega drugoga imaju udjela u Božjoj dobroti*. Ali ono što je po sebi uvijek je prije i jače od onoga što je po drugome. Dakle, bîti se anđela same po sebi usavršavaju do suobličenosti s Bogom. Dakle, ne po nekim habitusima. I to se čini da je razlog Maksimov, koji ondje dodaje: *kad bi, naime, to bilo tako, njihova bit ne bi ostala u sebi samoj, niti bi se mogla po sebi pobožanstveniti, koliko bi to bilo moguće*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a6.obj3": {
+      "text": "Osim toga, habitus je neka raspoloživost, kako se kaže u V. knjizi Metafizike. Ali raspoloživost je, kako se ondje kaže, red onoga što ima dijelove. Budući, dakle, da su anđeli jednostavne supstancije, čini se da u njima nema raspoloživosti i habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a6.sc": {
+      "text": "Ali protiv toga je ono što Dionizije kaže u VII. poglavlju O nebeskoj hijerarhiji, da se *anđeli prve hijerarhije nazivaju zagrijavateljima i prijestoljima i izljevom mudrosti, što je bogoliko očitovanje njihovih habitusa*.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a6.resp": {
+      "text": "Odgovaram: treba reći da su neki postavili da u anđelima nema habitusa, nego da se sve što se o njima kaže kaže bitno. Zato Maksim, nakon gore spomenutih riječi koje smo naveli, kaže: *njihovi odnošaji i snage koje su u njima bitni su, zbog netvarnosti*. I to kaže i Simplicije u komentaru na Kategorije: *mudrost koja je u duši habitus je, a ona koja je u umu supstancija. Sve što je božansko, naime, i po sebi je dostatno i postoji u sebi samome*. To stajalište djelomično ima istinu, a djelomično sadrži neistinu. Iz rečenoga je, naime, očito da subjekt habitusa nije drugo nego biće u mogućnosti. Uzimajući, dakle, u obzir da su anđeli netvarne supstancije i da u njima nema mogućnosti tvari, spomenuti su komentatori prema tome iz njih isključili habitus i svaki akcident. Ali budući da, premda u anđelima nema mogućnosti tvari, ipak u njima ima neke mogućnosti (biti čisti čin, naime, vlastito je Bogu), zato se, ukoliko se u njima nalazi mogućnosti, utoliko u njima mogu nalaziti habitusi. Ali budući da mogućnost tvari i mogućnost umske supstancije nisu istoga pojma, zato posljedično ni habitus nije istoga pojma u jednom i drugom. Zato Simplicije kaže u komentaru na Kategorije da *habitusi umske supstancije nisu slični ovdašnjim habitusima, nego su sličniji jednostavnim i netvarnim spoznajnim likovima koje ona sadrži u sebi samoj*. Glede takva habitusa, ipak, drukčije stoji anđeoski um, a drukčije ljudski um. Ljudski je, naime, um, budući da je najniži u redu umova, u mogućnosti s obzirom na sve umljivo, kao prva tvar s obzirom na sve osjetne forme; i zato mu je za shvaćanje svega potreban neki habitus. Ali anđeoski um nije kao čista mogućnost u rodu umljivoga, nego kao neki čin, ali ne kao čisti čin (to, naime, pripada samo Bogu), nego s primjesom neke mogućnosti; i to ima manje mogućnosnosti što je viši. I zato, kako je rečeno u Prvom dijelu, ukoliko je u mogućnosti, potrebno mu je da bude habitualno usavršen nekim umljivim spoznajnim likovima za vlastito djelovanje; a ukoliko je u činu, po svojoj biti može nešto shvaćati, barem sebe samoga, i drugo prema načinu svoje supstancije, kako se kaže u Knjizi o uzrocima, i to toliko savršenije koliko je savršeniji. Ali budući da nijedan anđeo ne doseže Božju savršenost, nego je od nje beskonačno udaljen, zbog toga su im, da bi umom i voljom dosegnuli samoga Boga, potrebni neki habitusi, kao onima koji su u mogućnosti s obzirom na onaj čisti čin. Zato Dionizije kaže da su njihovi habitusi bogoliki, naime oni kojima se suobličuju Bogu. Habitusa pak koji su raspoloživosti za naravni bitak nema u anđelima, budući da su netvarni.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da Maksimovu riječ treba shvatiti o tvarnim habitusima i akcidentima.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a6.ad2": {
+      "text": "Na drugo treba reći da glede onoga što anđelima pristaje po njihovoj biti nije im potreban habitus. Ali budući da nisu u tolikoj mjeri bića po sebi samima da ne bi imali udjela u božanskoj mudrosti i dobroti, zato je, ukoliko im je potrebno imati udjela u nečemu izvana, utoliko u njima nužno postaviti habituse.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    },
+    "I-II.q50.a6.ad3": {
+      "text": "Na treće treba reći da u anđelima nema dijelova biti, ali ima dijelova po mogućnosti, ukoliko se njihov um usavršava mnogim spoznajnim likovima, a njihova se volja odnosi prema mnogome.",
+      "prompt_version": "1",
+      "glossary_version": 11,
+      "created_at": "2026-11-11T14:31:18+00:00"
+    }
+  }
+}
