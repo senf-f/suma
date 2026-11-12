@@ -1,0 +1,144 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 15,
+  "units": {
+    "II-II.q15.pr": {
+      "text": "Zatim treba razmotriti poroke suprotstavljene znanju i razumu. A budući da je o neznanju, koje se protivi znanju, rečeno gore, kad se raspravljalo o uzrocima grijeha, sada treba istražiti sljepoću duha i otupjelost smisla, koje se protive daru razuma. I o tome se postavljaju tri pitanja. Prvo, je li sljepoća duha grijeh. Drugo, je li otupjelost smisla drugi grijeh od sljepoće duha. Treće, potječu li ti poroci od tjelesnih grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q15.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da sljepoća duha nije grijeh. Ono, naime, što ispričava od grijeha, ne čini se da je grijeh. Ali sljepoća ispričava od grijeha; kaže se, naime, u Iv 9: *kad biste bili slijepi, ne biste imali grijeha*. Dakle, sljepoća duha nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a1.obj2": {
+      "text": "Osim toga, kazna se razlikuje od krivnje. Ali sljepoća duha jest neka kazna, kao što je jasno iz onoga što stoji u Iz 6: *oslijepi srce ovoga naroda*; ne bi, naime, bila od Boga, budući da je zlo, kad ne bi bila kazna. Dakle, sljepoća duha nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a1.obj3": {
+      "text": "Osim toga, svaki je grijeh voljan, kako kaže Augustin. Ali sljepoća duha nije voljna, jer, kako kaže Augustin u X. knjizi Ispovijesti, *svi ljube spoznavati istinu koja svijetli*; a u Prop 11 kaže se: *slatko je svjetlo, i ugodno je očima gledati sunce*. Dakle, sljepoća duha nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a1.sc": {
+      "text": "Ali protiv toga je to što Grgur u XXXI. knjizi Moralija ubraja sljepoću duha među poroke koje uzrokuje bludnost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a1.resp": {
+      "text": "Odgovaram: treba reći da, kao što je tjelesna sljepoća lišenost onoga što je počelo tjelesnoga gledanja, tako je i sljepoća duha lišenost onoga što je počelo duševnoga ili umskoga gledanja. A njegovo je počelo trostruko. Jedno je svjetlo naravnoga razuma. I to svjetlo, budući da pripada vrsti razumske duše, nikada nije oduzeto duši. Ipak je katkad spriječeno u vlastitom činu zaprekama nižih sila, kojih je ljudskomu umu potrebno da bi shvaćao, kao što je očito kod umobolnih i bjesomučnih, kao što je rečeno u Prvom dijelu. Drugo je pak počelo umskoga gledanja neko habitualno svjetlo nadodano naravnomu svjetlu razuma. I to se svjetlo katkad oduzima duši. I takva je lišenost sljepoća koja je kazna, ukoliko se lišenost svjetla milosti postavlja kao neka kazna. Stoga se o nekima kaže u Mudr 2: *oslijepila ih je njihova zloća*. Treće je počelo umskoga gledanja neko umljivo počelo po kojem čovjek shvaća drugo. Na to umljivo počelo čovjekov duh može smjerati ili ne smjerati. A da na nj ne smjera, događa se na dva načina. Katkad zato što ima volju koja se samovoljno odvraća od razmatranja takvoga počela, prema onome iz Psalma: *nije htio razumjeti da bi dobro činio*. Na drugi način, zbog zaokupljenosti duha drugim stvarima koje više ljubi, kojima se duh odvraća od promatranja toga počela, prema onome iz Psalma: *pade na njih oganj*, naime požude, *i ne vidješe sunca*. I na oba je načina sljepoća duha grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je sljepoća koja ispričava od grijeha ona koja se događa iz naravnoga nedostatka onoga tko ne može vidjeti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a1.ad2": {
+      "text": "Na drugo treba reći da taj razlog govori o drugoj sljepoći, koja je kazna.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a1.ad3": {
+      "text": "Na treće treba reći da je shvaćati istinu svakomu po sebi vrijedno ljubavi. Ipak nekomu može akcidentalno biti mrsko, ukoliko je, naime, čovjek time spriječen u drugim stvarima koje više ljubi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da otupjelost smisla nije nešto drugo od sljepoće duha. Jednomu je, naime, protivno jedno. Ali daru razuma suprotstavlja se otupjelost, kao što je jasno iz Grgura u II. knjizi Moralija; a njemu se suprotstavlja i sljepoća duha, jer um označuje neko počelo gledanja. Dakle, otupjelost smisla isto je što i sljepoća duha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a2.obj2": {
+      "text": "Osim toga, Grgur u XXXI. knjizi Moralija, govoreći o otupjelosti, naziva je otupjelošću smisla u pogledu shvaćanja. Ali čini se da biti otupjela smisla u pogledu shvaćanja nije ništa drugo nego zakazivati u shvaćanju, što pripada sljepoći duha. Dakle, otupjelost smisla isto je što i sljepoća duha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a2.obj3": {
+      "text": "Osim toga, ako se u nečemu razlikuju, čini se da se ponajviše razlikuju u tome što je sljepoća duha voljna, kao što je gore rečeno, a otupjelost smisla naravna. Ali naravni nedostatak nije grijeh. Dakle, prema tome otupjelost smisla ne bi bila grijeh. A to je protiv Grgura, koji je ubraja među poroke koji potječu od neumjerenosti u jelu i piću.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a2.sc": {
+      "text": "Ali protiv toga je to što različiti uzroci imaju različite učinke. A Grgur u XXXI. knjizi Moralija kaže da otupjelost duha potječe od neumjerenosti u jelu i piću, a sljepoća duha od bludnosti. Dakle, to su različiti poroci.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a2.resp": {
+      "text": "Odgovaram: treba reći da se tupo suprotstavlja oštrom. A oštrim se nešto naziva po tome što je prodorno. Stoga se i tupim nešto naziva po tome što je zatupljeno, tako da ne može prodrijeti. A za tjelesno se osjetilo, po nekoj sličnosti, kaže da prodire kroz medij ukoliko opaža svoj predmet s neke udaljenosti; ili ukoliko može, kao prodirući, opažati nutrinu stvari. Stoga se u tjelesnim stvarima kaže da je oštroga osjetila onaj tko može opaziti nešto osjetno izdaleka, bilo gledajući, bilo slušajući, bilo njušeći; i obratno, kaže se da je otupjela osjetila onaj tko opaža samo izbliza i samo velike osjetne stvari. A po sličnosti s tjelesnim osjetilom kaže se da i u pogledu shvaćanja postoji neki smisao, koji se odnosi na neke prve krajnosti, kako se kaže u VI. knjizi Etike, kao što je i osjetilo spoznajno za osjetne stvari kao za neka počela spoznaje. A taj smisao koji se odnosi na shvaćanje ne opaža svoj predmet posredstvom tjelesne udaljenosti, nego posredstvom nekih drugih sredstava, kao kad po svojstvu stvari opaža njezinu bit, i po učincima opaža uzrok. Za onoga se, dakle, kaže da je oštroga smisla u pogledu shvaćanja tko odmah, čim zahvati svojstvo stvari ili pak učinak, obuhvaća narav stvari, i ukoliko dopire do razmatranja i najmanjih pojedinosti stvari. Za onoga se pak kaže da je tup u pogledu shvaćanja tko do spoznaje istine stvari ne može doprijeti osim ako mu se mnogo toga izloži, a i tada ne može doprijeti do savršenoga razmatranja svega što pripada pojmu stvari. Tako, dakle, otupjelost smisla u pogledu shvaćanja uključuje neku slabost duha u razmatranju duhovnih dobara, a sljepoća duha uključuje potpunu lišenost njihove spoznaje. I jedno i drugo suprotstavlja se daru razuma, po kojem čovjek, zahvaćajući duhovna dobra, spoznaje i tanano prodire u njihovu nutrinu. A otupjelost ima pojam grijeha, kao i sljepoća duha, ukoliko je, naime, voljna, kao što je očito u onome tko, privržen tjelesnomu, s gađenjem odbija ili zanemaruje tanano raspravljati o duhovnome.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a2.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da sljepoća duha i otupjelost smisla ne potječu od tjelesnih poroka. Augustin, naime, u knjizi Retraktacija, povlačeći ono što je bio rekao u knjizi Razgovori sa samim sobom, *Bože, koji si htio da istinu znaju samo čisti*, kaže da *se može odgovoriti da i mnogi koji nisu čisti znaju mnogo istinitoga*. Ali ljudi postaju nečisti ponajviše po tjelesnim porocima. Dakle, sljepoću duha i otupjelost smisla ne uzrokuju tjelesni poroci.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a3.obj2": {
+      "text": "Osim toga, sljepoća duha i otupjelost smisla jesu neki nedostaci u pogledu umskoga dijela duše; a tjelesni poroci pripadaju pokvarenosti tijela. Ali tijelo ne djeluje na dušu, nego prije obratno. Dakle, tjelesni poroci ne uzrokuju sljepoću duha i otupjelost smisla.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a3.obj3": {
+      "text": "Osim toga, svaka stvar više trpi od bližega nego od daljega. Ali duhu su bliži duhovni poroci nego tjelesni. Dakle, sljepoću duha i otupjelost smisla više uzrokuju duhovni poroci nego tjelesni poroci.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a3.sc": {
+      "text": "Ali protiv toga je ono što Grgur kaže u XXXI. knjizi Moralija, da otupjelost smisla u pogledu shvaćanja potječe od neumjerenosti u jelu i piću, a sljepoća duha od bludnosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a3.resp": {
+      "text": "Odgovaram: treba reći da se savršenost umskoga djelovanja u čovjeku sastoji u nekoj apstrakciji od maštovnih slika osjetnih stvari. I zato, što je čovjekov um slobodniji od takvih maštovnih slika, to bolje može razmatrati umljivo i uređivati sve osjetno; kao što je i Anaksagora rekao da um mora biti nepomiješan da bi zapovijedao, i da djelatnik mora gospodariti nad tvari da bi je mogao pokretati. A očito je da naslada usmjeruje pozornost na ono u čemu se netko naslađuje; stoga Filozof kaže u X. knjizi Etike da svatko najbolje čini ono u čemu se naslađuje, a ono suprotno nikako ili slabo. A tjelesni poroci, to jest neumjerenost u jelu i piću i bludnost, odnose se na naslade opipa, naime naslade jela i spolnoga općenja, koje su najžešće među svim tjelesnim nasladama. I zato se po tim porocima čovjekova pozornost ponajviše usmjeruje na tjelesno, i posljedično slabi čovjekovo djelovanje u pogledu umljivoga; više pak po bludnosti nego po neumjerenosti u jelu i piću, utoliko što su naslade spolnoga općenja žešće od naslada jela. I zato od bludnosti potječe sljepoća duha, koja gotovo potpuno isključuje spoznaju duhovnih dobara, a od neumjerenosti u jelu i piću otupjelost smisla, koja čovjeka čini slabim u pogledu takvoga umljivoga. I obratno, suprotne kreposti, to jest suzdržljivost i čistoća, ponajviše raspolažu čovjeka za savršenost umskoga djelovanja. Stoga se kaže u Dn 1 da je tim mladićima, naime suzdržljivima i uzdržljivima, *Bog dao znanje i pouku u svakoj knjizi i mudrosti*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda neki koji su podložni tjelesnim porocima mogu katkad tanano promišljati nešto o umljivome, zbog dobrote naravne nadarenosti ili nadodanoga habitusa, ipak je nužno da se njihova pozornost većinom odvlači od te tananosti motrenja zbog tjelesnih naslada. I tako nečisti mogu znati nešto istinito, ali su u tome sprječavani svojom nečistoćom.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a3.ad2": {
+      "text": "Na drugo treba reći da tijelo ne djeluje na umski dio tako da ga kakvoćno mijenja, nego tako da sprječava njegovo djelovanje na spomenuti način.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q15.a3.ad3": {
+      "text": "Na treće treba reći da tjelesni poroci, što su udaljeniji od duha, to više odvlače njegovu pozornost na udaljenije stvari. Stoga više sprječavaju motrenje duha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    }
+  }
+}

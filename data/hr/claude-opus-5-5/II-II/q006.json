@@ -1,0 +1,108 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 6,
+  "units": {
+    "II-II.q6.pr": {
+      "text": "Zatim treba razmotriti uzrok vjere. I o tome se pitaju dvije stvari. Prvo, je li vjera čovjeku ulivena od Boga. Drugo, je li neoblikovana vjera dar.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da vjera nije čovjeku ulivena od Boga. Augustin, naime, kaže u 14. knjizi O Trojstvu da se *po znanju u nama vjera rađa, hrani, brani i jača*. A čini se da je ono što se po znanju rađa u nama prije stečeno nego uliveno. Dakle, čini se da vjera nije u nama po božanskom ulijevanju.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a1.obj2": {
+      "text": "Osim toga, čini se da je ono do čega čovjek dolazi slušajući i gledajući čovjek stekao. Ali čovjek dolazi do vjerovanja i gledajući čudesa i slušajući nauk vjere; kaže se, naime, u Iv 4: *Spoznao je otac da je to bio onaj čas u koji mu je Isus rekao: Sin tvoj živi. I povjerovao je on i sav njegov dom*; a u Rim 10 kaže se da je *vjera od slušanja*. Dakle, čovjek ima vjeru kao stečenu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a1.obj3": {
+      "text": "Osim toga, ono što se sastoji u čovjekovoj volji čovjek može steći. Ali vjera se sastoji u volji onih koji vjeruju, kako kaže Augustin u knjizi O predodređenju svetih. Dakle, vjeru čovjek može steći.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Ef 2: *Milošću ste spašeni po vjeri, i to ne od vas, da se nitko ne hvali; Božji je to, naime, dar*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a1.resp": {
+      "text": "Odgovaram: treba reći da se za vjeru traže dvije stvari. Jedna je od njih da se čovjeku predloži ono što valja vjerovati, a to se traži zato da bi čovjek nešto izričito vjerovao. Druga stvar koja se traži za vjeru jest pristanak onoga koji vjeruje uz ono što se predlaže. S obzirom, dakle, na prvo od toga, nužno je da vjera bude od Boga. Ono što pripada vjeri, naime, nadilazi ljudski razum; stoga ne dolazi u čovjekovo motrenje ako to Bog ne objavi. Ali nekima se to objavljuje neposredno od Boga, kao što je objavljeno apostolima i prorocima, a nekima to predlaže Bog šaljući propovjednike vjere, prema onome iz Rim 10: *Kako će propovijedati ako ne budu poslani?* A s obzirom na drugo, naime na čovjekov pristanak uz ono što pripada vjeri, može se promatrati dvostruki uzrok. Jedan je onaj koji izvana navodi, kao što je viđeno čudo ili nagovaranje čovjeka koji navodi na vjeru. Ni jedno od toga nije dostatan uzrok: od onih, naime, koji vide jedno te isto čudo i koji slušaju isto propovijedanje, neki vjeruju, a neki ne vjeruju. I zato treba postaviti drugi, unutarnji uzrok, koji iznutra pokreće čovjeka da pristane uz ono što pripada vjeri. Za taj su uzrok pelagijanci postavljali samo čovjekovo slobodno odlučivanje, i zbog toga su govorili da je početak vjere od nas, ukoliko je, naime, od nas to što smo spremni pristati uz ono što pripada vjeri, a dovršenje vjere je od Boga, po kojemu nam se predlaže ono što moramo vjerovati. Ali to je lažno. Jer budući da se čovjek, pristajući uz ono što pripada vjeri, uzdiže iznad svoje naravi, to mu mora biti od nadnaravnog počela koje iznutra pokreće, a to je Bog. I zato je vjera, s obzirom na pristanak, koji je glavni čin vjere, od Boga koji iznutra pokreće po milosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se po znanju vjera rađa i hrani na način vanjskog nagovaranja, koje dolazi od nekog znanja. Ali glavni i vlastiti uzrok vjere jest ono što iznutra pokreće na pristanak.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a1.ad2": {
+      "text": "Na drugo treba reći da i taj razlog govori o uzroku koji izvana predlaže ono što pripada vjeri ili nagovara na vjerovanje, bilo riječju bilo djelom.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a1.ad3": {
+      "text": "Na treće treba reći da se vjerovanje doduše sastoji u volji onih koji vjeruju, ali čovjekovu volju mora Bog milošću pripraviti da bi se uzdigla prema onome što je iznad naravi, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da neoblikovana vjera nije dar Božji. Kaže se, naime, u Pnz 32 da su Božja djela savršena. A neoblikovana vjera je nešto nesavršeno. Dakle, neoblikovana vjera nije Božje djelo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a2.obj2": {
+      "text": "Osim toga, kao što se za čin kaže da je izobličen zato što mu nedostaje dužna forma, tako se i za vjeru kaže da je neoblikovana zato što joj nedostaje dužna forma. Ali izobličeni čin grijeha nije od Boga, kako je gore rečeno. Dakle, ni neoblikovana vjera nije od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a2.obj3": {
+      "text": "Osim toga, što god Bog liječi, liječi potpuno; kaže se, naime, u Iv 7: *Ako čovjek prima obrezanje u subotu da se ne prekrši Mojsijev zakon, srdite se na mene što sam cijeloga čovjeka ozdravio u subotu*. Ali po vjeri se čovjek liječi od nevjere. Tko god, dakle, primi od Boga dar vjere, istodobno se liječi od svih grijeha. A to se ne događa osim po oblikovanoj vjeri. Dakle, samo je oblikovana vjera dar Božji. Prema tome, neoblikovana nije.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže neka Glosa uz 1 Kor 13, da je *vjera koja je bez ljubavi dar Božji*. A vjera koja je bez ljubavi jest neoblikovana vjera. Dakle, neoblikovana vjera je dar Božji.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a2.resp": {
+      "text": "Odgovaram: treba reći da je neoblikovanost neka lišenost. A treba uzeti u obzir da lišenost katkad pripada pojmu vrste, a katkad ne, nego pridolazi stvari koja već ima vlastitu vrstu. Tako lišenost dužnog razmjera sokova pripada pojmu vrste same bolesti, dok tama ne pripada pojmu vrste samoga prozirnog, nego mu pridolazi. Budući, dakle, da se, kad se navodi uzrok neke stvari, podrazumijeva da se navodi njezin uzrok ukoliko ona postoji u vlastitoj vrsti, zato se ono što nije uzrok lišenosti ne može nazvati uzrokom one stvari kojoj lišenost pripada kao nešto što je u pojmu njezine vrste: ne može se, naime, nazvati uzrokom bolesti ono što nije uzrok neuravnoteženosti sokova. Ipak se nešto može nazvati uzrokom prozirnoga premda nije uzrok tamnoće, koja ne pripada pojmu vrste prozirnoga. A neoblikovanost vjere ne pripada pojmu vrste same vjere, jer se vjera naziva neoblikovanom zbog nedostatka neke vanjske forme, kako je rečeno. I zato je uzrok neoblikovane vjere ono što je uzrok vjere naprosto uzete. A to je Bog, kako je rečeno. Stoga preostaje da je neoblikovana vjera dar Božji.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da neoblikovana vjera, iako nije savršena naprosto savršenošću kreposti, ipak je savršena nekom savršenošću koja dostaje za pojam vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a2.ad2": {
+      "text": "Na drugo treba reći da izobličenost čina pripada pojmu vrste samoga čina ukoliko je on moralni čin, kako je gore rečeno: za čin se, naime, kaže da je izobličen po lišenosti unutarnje forme, a to je dužni razmjer okolnosti čina. I zato se uzrokom izobličenog čina ne može nazvati Bog, koji nije uzrok izobličenosti, premda je uzrok čina ukoliko je čin. Ili treba reći da izobličenost ne uključuje samo lišenost dužne forme, nego i protivno stanje. Stoga se izobličenost prema činu odnosi kao lažnost prema vjeri. I zato, kao što izobličeni čin nije od Boga, tako nije ni bilo koja lažna vjera. I kao što je neoblikovana vjera od Boga, tako su od njega i čini koji su dobri po rodu, premda nisu oblikovani ljubavlju, kako se često događa u grešnicima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q6.a2.ad3": {
+      "text": "Na treće treba reći da onaj koji od Boga prima vjeru bez ljubavi nije naprosto izliječen od nevjere, jer se ne uklanja krivnja prethodne nevjere, nego je izliječen u nekom pogledu, naime tako da prestane s tim grijehom. A često se događa da netko odustane od jednog grešnog čina, i to Božjim djelovanjem, a ipak ne odustane od čina drugoga grijeha, na nagovor vlastite opačine. I na taj način Bog katkad daje čovjeku da vjeruje, ali mu ne daje dar ljubavi, kao što se i nekima bez ljubavi daje dar proroštva ili nešto slično.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    }
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 10,
+  "units": {
+    "II-II.q10.pr": {
+      "text": "Zatim treba razmotriti suprotstavljene poroke: najprije nevjeru, koja se protivi vjeri; drugo, bogohulstvo, koje se protivi ispovijedanju; treće, neznanje i otupjelost, koji se protive znanju i razumu. O prvome treba razmotriti nevjeru općenito; drugo, herezu; treće, otpad od vjere. O prvome se pita dvanaest stvari. Prvo, je li nevjera grijeh. Drugo, u čemu je ona kao u subjektu. Treće, je li najveći od grijeha. Četvrto, je li svaka radnja nevjernika grijeh. Peto, o vrstama nevjere. Šesto, o njihovoj međusobnoj usporedbi. Sedmo, treba li s nevjernicima raspravljati o vjeri. Osmo, treba li ih prisiljavati na vjeru. Deveto, smije li se s njima općiti. Deseto, mogu li oni biti nadređeni vjernim kršćanima. Jedanaesto, treba li trpjeti obrede nevjernika. Dvanaesto, treba li djecu nevjernika krstiti protiv volje roditelja.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nevjera nije grijeh. Svaki je naime grijeh protiv naravi, kako je jasno iz Damaščanina, u II. knjizi. Ali čini se da nevjera nije protiv naravi; Augustin naime kaže u knjizi O predodređenju svetih da *moći imati vjeru, kao i moći imati ljubav, pripada naravi ljudi, a imati vjeru, kao i imati ljubav, pripada milosti vjernika*. Dakle, nemati vjeru, što znači biti nevjernik, nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a1.obj2": {
+      "text": "Osim toga, nitko ne griješi u onome što ne može izbjeći, jer je svaki grijeh voljan. Ali nije u čovjekovoj vlasti da izbjegne nevjeru, koju ne može izbjeći drukčije nego imajući vjeru; apostol naime kaže, Rim 10: *Kako će vjerovati onomu koga nisu čuli? A kako će čuti bez propovjednika?* Dakle, čini se da nevjera nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a1.obj3": {
+      "text": "Osim toga, kako je gore rečeno, postoji sedam glavnih grijeha, na koje se svode svi grijesi. Ali čini se da nevjera nije sadržana ni pod jednim od njih. Dakle, nevjera nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a1.sc": {
+      "text": "Ali protiv toga, kreposti se protivi porok. Ali vjera je krepost, a njoj se protivi nevjera. Dakle, nevjera je grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a1.resp": {
+      "text": "Odgovaram: treba reći da se nevjera može shvatiti dvojako. Na jedan način, kao čisto nijekanje, tako da se netko naziva nevjernikom samo zato što nema vjere. Na drugi se način nevjera može shvatiti kao protivnost vjeri, naime kad se netko opire navještaju vjere ili ga čak prezire, prema onome Iz 53: *Tko je povjerovao našem navještaju?* I u tome se u vlastitom smislu dovršava pojam nevjere. I prema tome nevjera je grijeh. Ako se pak nevjera shvati kao čisto nijekanje, kao kod onih koji ništa nisu čuli o vjeri, ona nema pojam grijeha, nego prije pojam kazne, jer je takvo neznanje o božanskim stvarima nastalo kao posljedica grijeha prvoga roditelja. Oni pak koji su na taj način nevjernici bivaju doduše osuđeni zbog drugih grijeha, koji se bez vjere ne mogu otpustiti, ali ne bivaju osuđeni zbog grijeha nevjere. Stoga Gospodin kaže, Iv 15: *Da nisam došao i govorio im, ne bi imali grijeha*, a Augustin, tumačeći to, kaže da *govori o onom grijehu kojim nisu vjerovali u Krista*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da imati vjeru nije u ljudskoj naravi, ali je u ljudskoj naravi to da se čovjekov duh ne opire unutarnjem poticaju i vanjskom propovijedanju istine. Stoga je nevjera, prema tome, protiv naravi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a1.ad2": {
+      "text": "Na drugo treba reći da onaj razlog vrijedi za nevjeru ukoliko ona uključuje puko nijekanje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a1.ad3": {
+      "text": "Na treće treba reći da nevjera, ukoliko je grijeh, proizlazi iz oholosti, zbog koje se događa da čovjek ne želi podložiti svoj um pravilima vjere i zdravom shvaćanju otaca. Stoga Grgur kaže, u XXXI. knjizi Moralija, da *iz isprazne slave proizlaze preuzetnosti novotarija*. Premda bi se moglo reći da, kao što se bogoslovne kreposti ne svode na stožerne kreposti, nego su prije njih, tako se ni poroci suprotstavljeni bogoslovnim krepostima ne svode na glavne grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nevjera nije u umu kao u subjektu. Svaki je naime grijeh u volji, kako kaže Augustin u knjizi O dvjema dušama. Ali nevjera je neki grijeh, kako je rečeno. Dakle, nevjera je u volji, a ne u umu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a2.obj2": {
+      "text": "Osim toga, nevjera ima pojam grijeha po tome što se prezire propovijedanje vjere. Ali prezir pripada volji. Dakle, nevjera je u volji.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a2.obj3": {
+      "text": "Osim toga, uz ono 2 Kor 11: *Sam se Sotona preobražava u anđela svjetla*, Glosa kaže: *ako se zli anđeo pretvara da je dobar, pa čak i ako se povjeruje da je dobar, to nije opasna ili bolesna zabluda, ako čini ili govori ono što priliči dobrim anđelima*. Čini se da je razlog tome ispravnost volje onoga koji uz njega prianja smjerajući prianjati uz dobrog anđela. Dakle, čini se da je sav grijeh nevjere u izopačenoj volji. Dakle, nije u umu kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a2.sc": {
+      "text": "Ali protiv toga, ono što je protivno nalazi se u istom subjektu. Ali vjera, kojoj se nevjera protivi, nalazi se u umu kao u subjektu. Dakle, i nevjera je u umu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kako je gore rečeno, za grijeh kaže da je u onoj moći koja je počelo čina grijeha. A čin grijeha može imati dvostruko počelo. Jedno je prvo i opće, koje zapovijeda sve čine grijeha, i to je počelo volja, jer je svaki grijeh voljan. Drugo je pak počelo čina grijeha vlastito i najbliže, koje izvodi čin grijeha, kao što je požudna moć počelo neumjerenosti u jelu i piću i bludnosti, pa se prema tome kaže da su neumjerenost u jelu i piću i bludnost u požudnoj moći. A neslaganje, koje je vlastiti čin nevjere, čin je uma, ali uma pokrenutog od volje, kao i pristajanje. I stoga je nevjera, kao i vjera, u umu kao u najbližem subjektu, a u volji kao u prvom pokretačkom počelu. I na taj se način kaže da je svaki grijeh u volji.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a2.ad1": {
+      "text": "Iz toga je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a2.ad2": {
+      "text": "Na drugo treba reći da prezir volje uzrokuje neslaganje uma, u kojem se dovršava pojam nevjere. Stoga je uzrok nevjere u volji, ali je sama nevjera u umu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a2.ad3": {
+      "text": "Na treće treba reći da onaj koji vjeruje da je zli anđeo dobar ne izriče neslaganje s onim što pripada vjeri, jer se *tjelesno osjetilo vara, a duh se ne udaljuje od istinitog i ispravnog suda*, kako ondje kaže Glosa. Ali kad bi netko prianjao uz Sotonu kad ga ovaj počne voditi k svojemu, to jest k zlu i lažnom, tada ne bi bio bez grijeha, kako se ondje kaže.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nevjera nije najveći od grijeha. Augustin naime kaže, a nalazi se u V, pit. 1: *Treba li katolika najgorega ćudoređa pretpostaviti nekom heretiku u čijem životu ljudi, osim toga što je heretik, ne nalaze ništa što bi kudili, ne usuđujem se prenagliti sa sudom*. Ali heretik je nevjernik. Dakle, ne treba naprosto reći da je nevjera najveći od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a3.obj2": {
+      "text": "Osim toga, ono što umanjuje ili ispričava grijeh, čini se da nije najveći grijeh. Ali nevjera ispričava ili umanjuje grijeh; apostol naime kaže, 1 Tim 1: *Prije sam bio bogohulnik, progonitelj i pogrđivač, ali sam postigao milosrđe, jer sam to činio u neznanju, u nevjerovanju*. Dakle, nevjera nije najveći grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a3.obj3": {
+      "text": "Osim toga, većem grijehu pripada veća kazna, prema onome Pnz 25: *Prema mjeri grijeha bit će i broj udaraca*. Ali vjernicima koji griješe pripada veća kazna nego nevjernicima, prema onome Heb 10: *Koliko mislite da težu kaznu zaslužuje onaj koji pogazi Sina Božjega i krv saveza, u kojoj je posvećen, smatra nečistom?* Dakle, nevjera nije najveći grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin tumačeći ono Iv 15: *Da nisam došao i govorio im, ne bi imali grijeha. Hoće, kaže, da se pod općim imenom razumije neki velik grijeh. To je naime grijeh, naime grijeh nevjere, kojim se zadržavaju svi grijesi*. Dakle, nevjera je najveći od svih grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a3.resp": {
+      "text": "Odgovaram: treba reći da se svaki grijeh formalno sastoji u odvraćanju od Boga, kako je gore rečeno. Stoga je neki grijeh to teži što se po njemu čovjek više odvaja od Boga. A po nevjeri se čovjek najviše udaljuje od Boga, jer nema ni istinske spoznaje Boga, a po lažnoj spoznaji o njemu ne približava mu se, nego se od njega prije udaljuje. Niti je moguće da u nekom pogledu spoznaje Boga onaj koji o njemu ima lažno mnijenje, jer ono što on mni nije Bog. Stoga je očito da je grijeh nevjere veći od svih grijeha koji se događaju u izopačenosti ćudoređa. Drukčije je pak s grijesima koji se protive drugim bogoslovnim krepostima, kako će se niže reći.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ništa ne priječi da grijeh koji je po svojem rodu teži bude manje težak s obzirom na neke okolnosti. I zbog toga Augustin nije htio prenagliti sa sudom o lošem katoliku i o heretiku koji inače ne griješi, jer se grijeh heretika, iako je po rodu teži, ipak može olakšati nekom okolnošću, i obratno, grijeh katolika može se nekom okolnošću otežati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a3.ad2": {
+      "text": "Na drugo treba reći da nevjera ima i pridruženo neznanje i ima opiranje onome što pripada vjeri, i s te strane ima pojam najtežeg grijeha. A sa strane neznanja ima neki pojam isprike, i to najviše kad netko ne griješi iz zloće, kao što je bilo kod apostola.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a3.ad3": {
+      "text": "Na treće treba reći da se nevjernik za grijeh nevjere teže kažnjava nego bilo koji drugi grješnik za bilo koji drugi grijeh, ako se promatra rod grijeha. Ali za neki drugi grijeh, na primjer za preljub, ako ga počine vjernik i nevjernik, uz ostale jednake okolnosti, teže griješi vjernik nego nevjernik, kako zbog poznavanja istine po vjeri, tako i zbog sakramenata vjere kojima je prožet, a kojima griješeći nanosi pogrdu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je svaka radnja nevjernika grijeh. Jer uz ono Rim 14: *Sve što nije iz vjere, grijeh je*, Glosa kaže: *sav je život nevjernika grijeh*. Ali životu nevjernika pripada sve što čine. Dakle, svaka je radnja nevjernika grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a4.obj2": {
+      "text": "Osim toga, vjera upravlja nakanu. Ali ne može biti nikakva dobra koje nije iz ispravne nakane. Dakle, kod nevjernika nijedna radnja ne može biti dobra.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a4.obj3": {
+      "text": "Osim toga, kad propadne ono prethodno, propada i ono što slijedi. Ali čin vjere prethodi činima svih kreposti. Dakle, budući da kod nevjernika nema čina vjere, oni ne mogu učiniti nikakvo dobro djelo, nego griješe u svakom svojem činu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a4.sc": {
+      "text": "Ali protiv toga je ono što je rečeno Korneliju, dok je još bio nevjernik, naime da su njegove milostinje bile ugodne Bogu. Dakle, nije svaka radnja nevjernika grijeh, nego je neka njegova radnja dobra.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a4.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, smrtni grijeh oduzima milost koja čini ugodnim, ali ne kvari potpuno dobro naravi. Stoga, budući da je nevjera neki smrtni grijeh, nevjernici su doduše bez milosti, ali u njima ipak ostaje neko dobro naravi. Stoga je očito da nevjernici ne mogu činiti dobra djela koja su iz milosti, naime zaslužna djela, ali dobra djela za koja je dostatno dobro naravi mogu na neki način činiti. Stoga nije nužno da griješe u svakom svojem djelu, nego griješe kad god neko djelo čine iz nevjere. Kao što naime onaj koji ima vjeru može počiniti neki grijeh u činu koji ne usmjeruje prema svrsi vjere, griješeći bilo lako bilo čak smrtno, tako i nevjernik može učiniti neki dobar čin u onome što ne usmjeruje prema svrsi nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da tu riječ treba razumjeti ili tako da život nevjernika ne može biti bez grijeha, budući da se grijesi bez vjere ne oduzimaju; ili tako da je grijeh sve što čine iz nevjere. Stoga se ondje dodaje: *jer svaki koji nevjernički živi ili djeluje teško griješi*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a4.ad2": {
+      "text": "Na drugo treba reći da vjera upravlja nakanu s obzirom na posljednju nadnaravnu svrhu. Ali i svjetlo naravnoga razuma može upravljati nakanu s obzirom na neko sunaravno dobro.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a4.ad3": {
+      "text": "Na treće treba reći da se nevjerom naravni razum u nevjernicima ne kvari potpuno, tako da u njima ne bi ostala neka spoznaja istinitoga, po kojoj mogu učiniti neko djelo iz roda dobrih djela. Za Kornelija ipak treba znati da nije bio nevjernik, inače njegovo djelovanje ne bi bilo ugodno Bogu, kojemu bez vjere nitko ne može ugoditi. Imao je pak uključnu vjeru, dok istina Evanđelja još nije bila očitovana. Stoga se k njemu šalje Petar, da ga potpuno pouči u vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da nema više vrsta nevjere. Budući da su naime vjera i nevjera protivne, nužno je da se odnose na isto. Ali formalni predmet vjere je prva istina, od koje ona ima jedinstvo, premda tvarno vjeruje mnogo toga. Dakle, i predmet nevjere je prva istina, a ono u što nevjernik ne vjeruje odnosi se u nevjeri kao tvarno. Ali razlika po vrsti ne uzima se prema tvarnim počelima, nego prema formalnim počelima. Dakle, nema različitih vrsta nevjere prema različitosti onoga u čemu su nevjernici u zabludi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a5.obj2": {
+      "text": "Osim toga, na beskonačno mnogo načina netko može zastraniti od istine vjere. Ako se, dakle, prema različitostima zabluda određuju različite vrste nevjere, čini se da slijedi da ima beskonačno mnogo vrsta nevjere. I tako takve vrste ne treba razmatrati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a5.obj3": {
+      "text": "Osim toga, isto se ne nalazi u različitim vrstama. Ali događa se da je netko nevjernik zato što je u zabludi glede različitih stvari. Dakle, različitost zabluda ne čini različite vrste nevjere. Tako, dakle, nema više vrsta nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a5.sc": {
+      "text": "Ali protiv toga je to što se svakoj kreposti suprotstavlja više vrsta poroka; dobro se naime događa na jedan način, a zlo na mnogo načina, kako je jasno iz Dionizija, u IV. pogl. O božanskim imenima, i iz Filozofa, u II. knjizi Etike. Ali vjera je jedna krepost. Dakle, njoj se suprotstavlja više vrsta nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a5.resp": {
+      "text": "Odgovaram: treba reći da se svaka krepost sastoji u tome da dosegne neko pravilo ljudske spoznaje ili djelovanja, kako je gore rečeno. A dosegnuti pravilo događa se glede jedne građe na jedan način, dok se od pravila može zastraniti na mnogo načina. I zato se jednoj kreposti suprotstavljaju mnogi poroci. A različitost poroka koji se suprotstavljaju svakoj kreposti može se razmatrati dvojako. Na jedan način, prema različitom odnošaju prema kreposti. I prema tome su određene neke vrste poroka koji se suprotstavljaju kreposti, kao što se moralnoj kreposti suprotstavlja jedan porok po pretjeranosti s obzirom na krepost, a drugi porok po nedostatku s obzirom na krepost. Na drugi se način različitost poroka suprotstavljenih jednoj kreposti može razmatrati prema kvarenju različitih stvari koje se zahtijevaju za krepost. I prema tome se jednoj kreposti, na primjer umjerenosti ili jakosti, suprotstavlja beskonačno mnogo poroka, ukoliko se na beskonačno mnogo načina može dogoditi da se pokvare različite okolnosti kreposti, tako da se odstupi od ispravnosti kreposti. Stoga su i pitagorovci smatrali da je zlo beskonačno. Tako, dakle, treba reći da su, ako se nevjera promatra u odnosu prema vjeri, vrste nevjere različite i brojem određene. Budući da se naime grijeh nevjere sastoji u opiranju vjeri, to se može dogoditi dvojako. Jer netko se opire ili vjeri koju još nije primio, i takva je nevjera pogana. Ili se opire kršćanskoj vjeri koju je primio, bilo u pralici, i tako je to nevjera Židova, bilo u samom očitovanju istine, i tako je to nevjera heretika. Stoga se općenito mogu odrediti tri spomenute vrste nevjere. Ako se pak vrste nevjere razlikuju prema zabludi o različitim stvarima koje pripadaju vjeri, tada vrste nevjere nisu određene; zablude se naime mogu umnožavati u beskonačnost, kako je jasno iz Augustina, u knjizi O herezama.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se formalni pojam nekog grijeha može shvatiti dvojako. Na jedan način, prema nakani onoga koji griješi, i tako je formalni predmet grijeha ono prema čemu se grješnik okreće; i po tome se razlikuju njegove vrste. Na drugi način, prema pojmu zla, i tako je formalni predmet grijeha ono dobro od kojega se odstupa; ali s te strane grijeh nema vrste, štoviše, on je lišenost vrste. Tako, dakle, treba reći da je predmet nevjere prva istina kao ono od čega odstupa, ali je njezin formalni predmet, kao ono prema čemu se okreće, lažno mišljenje koje slijedi; i s te se strane razlikuju njezine vrste. Stoga, kao što je ljubav jedna, jer prianja uz najviše dobro, a postoje različiti poroci suprotstavljeni ljubavi, koji okretanjem prema različitim vremenitim dobrima odstupaju od jednoga najvišeg dobra, i opet prema različitim neurednim odnošajima prema Bogu, tako je i vjera jedna krepost, po tome što prianja uz jednu prvu istinu, ali su vrste nevjere mnoge, po tome što nevjernici slijede različita lažna mišljenja.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a5.ad2": {
+      "text": "Na drugo treba reći da se onaj prigovor odnosi na razlikovanje vrsta nevjere prema različitim stvarima u kojima se zabludjuje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a5.ad3": {
+      "text": "Na treće treba reći da, kao što je vjera jedna zato što vjeruje mnogo toga s obzirom na jedno, tako i nevjera može biti jedna, čak i ako je u zabludi u mnogočemu, ukoliko je sve to usmjereno prema jednome. Ništa ipak ne priječi da čovjek bude u zabludi po različitim vrstama nevjere, kao što i jedan čovjek može biti podložan različitim porocima i različitim tjelesnim bolestima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je nevjera pogana teža od ostalih. Kao što je naime tjelesna bolest to teža što se protivi zdravlju glavnijeg uda, tako se čini da je grijeh to teži što se protivi onome što je u kreposti glavnije. Ali ono glavnije u vjeri jest vjera u božansko jedinstvo, od koje odstupaju pogani, vjerujući u mnoštvo bogova. Dakle, njihova je nevjera najteža.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a6.obj2": {
+      "text": "Osim toga, među hereticima hereza nekih je to odvratnija što u više i u glavnijim stvarima proturječe istini vjere, kao što je hereza Arija, koji je razdvojio božanstvo, bila odvratnija od hereze Nestorija, koji je Kristovo čovještvo odvojio od osobe Sina Božjega. Ali pogani odstupaju od vjere u više i u glavnijim stvarima nego Židovi i heretici, jer od vjere uopće ništa ne prihvaćaju. Dakle, njihova je nevjera najteža.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a6.obj3": {
+      "text": "Osim toga, svako dobro umanjuje zlo. Ali kod Židova ima nešto dobra, jer priznaju da je Stari zavjet od Boga. Dobra ima i kod heretika, jer časte Novi zavjet. Dakle, oni manje griješe nego pogani, koji se gnušaju obaju zavjeta.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže 2 Pt 2: *Bolje bi im bilo da nisu upoznali put pravednosti nego da se, pošto su ga upoznali, okrenu natrag*. Ali pogani nisu upoznali put pravednosti, dok su ga heretici i Židovi, upoznavši ga na neki način, napustili. Dakle, njihov je grijeh teži.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a6.resp": {
+      "text": "Odgovaram: treba reći da se u nevjeri, kako je rečeno, mogu razmatrati dvije stvari. Jedna je od njih njezin odnos prema vjeri. I s te strane teže griješi protiv vjere onaj koji se opire vjeri koju je primio nego onaj koji se opire vjeri koju još nije primio, kao što teže griješi onaj koji ne ispuni ono što je obećao nego kad bi netko ne ispunio ono što nikada nije obećao. I prema tome nevjera heretika, koji ispovijedaju vjeru Evanđelja, a opiru joj se kvareći je, teži je grijeh nego nevjera Židova, koji vjeru Evanđelja nikada nisu primili. Ali budući da su oni primili njezinu predsliku u Starom zakonu, koju kvare krivo je tumačeći, zato je i njihova nevjera teži grijeh nego nevjera pogana, koji vjeru Evanđelja nisu primili ni na koji način. Drugo što se u nevjeri razmatra jest kvarenje onoga što pripada vjeri. I prema tome, budući da su pogani u zabludi u više stvari nego Židovi, a Židovi nego heretici, teža je nevjera pogana nego Židova, a Židova nego heretika, osim možda nekih, na primjer manihejaca, koji su čak i glede onoga što valja vjerovati više u zabludi nego pogani. Ipak, od tih dviju težina prva prevladava nad drugom s obzirom na pojam krivnje. Jer nevjera ima pojam krivnje, kako je gore rečeno, više po tome što se opire vjeri nego po tome što nema onoga što pripada vjeri; ovo se naime, kako je rečeno, čini da više pripada pojmu kazne. Stoga je, naprosto govoreći, nevjera heretika najgora.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a6.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da s nevjernicima ne treba javno raspravljati. Apostol naime kaže, 2 Tim 2: *Ne prepiri se riječima, jer to ni za što nije korisno osim za propast slušatelja*. Ali javna rasprava s nevjernicima ne može se voditi bez prepiranja riječima. Dakle, ne treba javno raspravljati s nevjernicima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a7.obj2": {
+      "text": "Osim toga, zakon cara Marcijana, potvrđen kanonima, ovako kaže: *Nanosi nepravdu sudu presvete sinode onaj tko se trudi ono što je jednom presuđeno i ispravno uređeno ponovno pretresati i o tome javno raspravljati*. Ali sve što pripada vjeri određeno je na svetim saborima. Dakle, teško griješi, nanoseći nepravdu sinodi, onaj tko se drzne javno raspravljati o onome što pripada vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a7.obj3": {
+      "text": "Osim toga, rasprava se vodi nekim argumentima. Ali argument je razlog koji o dvojbenoj stvari stvara vjerovanje. A ono što pripada vjeri, budući da je najizvjesnije, ne smije se dovoditi u sumnju. Dakle, o onome što pripada vjeri ne treba javno raspravljati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Dj 9: *Savao je jačao i zbunjivao Židove; i govorio je poganima i raspravljao s Grcima*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a7.resp": {
+      "text": "Odgovaram: treba reći da u raspravi o vjeri treba razmotriti dvoje: jedno sa strane onoga koji raspravlja, a drugo sa strane slušatelja. Sa strane onoga koji raspravlja treba razmotriti nakanu. Ako naime raspravlja kao onaj koji sumnja u vjeru i ne pretpostavlja istinu vjere kao sigurnu, nego je smjera iskušati argumentima, bez sumnje griješi, kao onaj koji je nesiguran u vjeri i nevjernik. Ako pak netko raspravlja o vjeri da bi pobio zablude, ili čak radi vježbe, to je pohvalno. Sa strane pak slušatelja treba razmotriti jesu li oni koji slušaju raspravu poučeni i čvrsti u vjeri ili su priprosti i kolebljivi u vjeri. Pred mudrima, koji su čvrsti u vjeri, nema nikakve opasnosti raspravljati o vjeri. Ali glede priprostih treba razlikovati. Jer ili ih nagovaraju odnosno napadaju nevjernici, na primjer Židovi ili heretici ili pogani, nastojeći u njima pokvariti vjeru, ili u tom pogledu uopće nisu izloženi nagovaranju, kao u zemljama u kojima nema nevjernika. U prvom je slučaju nužno javno raspravljati o vjeri, samo ako se nađu neki koji su za to dorasli i prikladni, koji mogu pobiti zablude. Time će se naime priprosti učvrstiti u vjeri, a nevjernicima će se oduzeti mogućnost zavaravanja; dok bi sama šutnja onih koji bi se trebali oduprijeti onima koji izvrću istinu vjere bila potvrda zablude. Stoga Grgur kaže u II. knjizi Pastoralnog pravila: *Kao što neoprezan govor odvlači u zabludu, tako nerazborita šutnja ostavlja u zabludi one koji su mogli biti poučeni*. U drugom je pak slučaju opasno javno raspravljati o vjeri pred priprostima, čija je vjera čvršća upravo po tome što nisu čuli ništa različito od onoga što vjeruju. I zato im nije korisno da slušaju riječi nevjernika koji se prepiru protiv vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da apostol ne zabranjuje raspravu potpuno, nego neurednu raspravu, koja se vodi više prepiranjem riječima nego čvrstoćom misli.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a7.ad2": {
+      "text": "Na drugo treba reći da onaj zakon zabranjuje javnu raspravu o vjeri koja proizlazi iz sumnje u vjeru, ali ne onu koja služi očuvanju vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a7.ad3": {
+      "text": "Na treće treba reći da se o onome što pripada vjeri ne smije raspravljati kao da se u to sumnja, nego radi očitovanja istine i pobijanja zabluda. Potrebno je naime radi učvršćenja vjere katkad raspravljati s nevjernicima, katkad braneći vjeru, prema onome 1 Pt 3: *Uvijek spremni na odgovor svakomu koji od vas traži razlog nade i vjere koja je u vama*; a katkad zato da se pobiju oni koji su u zabludi, prema onome Tit 1: *da bude kadar poticati u zdravom nauku i opovrgavati one koji proturječe*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da nevjernike nipošto ne treba prisiljavati na vjeru. Kaže se naime Mt 13 da su sluge domaćina, na čijoj je njivi bio posijan kukolj, upitale njega: *Hoćeš li da odemo i skupimo ga? A on odgovori: Ne, da skupljajući kukolj ne iščupate s njim i pšenicu*. Ondje Zlatousti kaže: *To je Gospodin rekao zabranjujući da se ubija. Ne treba naime ubijati heretike, jer ako ih ubijete, nužno je da s njima propadnu i mnogi sveti*. Dakle, čini se da iz istog razloga ni neke nevjernike ne treba prisiljavati na vjeru.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a8.obj2": {
+      "text": "Osim toga, u Dekretima, dist. 45, ovako se kaže: *O Židovima je sveta sinoda propisala da se odsada nikome ne nanosi sila da bi vjerovao*. Dakle, iz istog razloga ni druge nevjernike ne treba prisiljavati na vjeru.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a8.obj3": {
+      "text": "Osim toga, Augustin kaže da ostalo čovjek može i ne htijući, a vjerovati samo htijući. Ali volja se ne može prisiliti. Dakle, čini se da nevjernike ne treba prisiljavati na vjeru.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a8.obj4": {
+      "text": "Osim toga, Ez 18 kaže se u Božje ime: *Neću smrti grješnika*. Ali mi moramo svoju volju suobličiti božanskoj, kako je gore rečeno. Dakle, ni mi ne smijemo htjeti da se nevjernici ubijaju.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže Lk 14: *Iziđi na putove i među ograde i prisili ih da uđu, da mi se napuni kuća*. Ali ljudi ulaze u kuću Božju, to jest u Crkvu, po vjeri. Dakle, neke treba prisiljavati na vjeru.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a8.resp": {
+      "text": "Odgovaram: treba reći da su među nevjernicima neki koji nikada nisu primili vjeru, kao pogani i Židovi. I takve nipošto ne treba prisiljavati na vjeru, da bi oni sami vjerovali, jer vjerovati pripada volji. Ipak ih vjernici, ako za to imaju mogućnost, trebaju prisiljavati da ne priječe vjeru bilo bogohulstvima, bilo zlim nagovorima, bilo čak otvorenim progonima. I zbog toga Kristovi vjernici često vode rat protiv nevjernika, ne doduše zato da ih prisile da vjeruju (jer i kad bi ih pobijedili i držali kao zarobljenike, ostavili bi njihovoj slobodi hoće li vjerovati), nego zato da ih prisile da ne priječe Kristovu vjeru. Drugi su pak nevjernici koji su nekoć primili vjeru i ispovijedaju je, kao heretici ili bilo koji otpadnici. I takve treba čak i tjelesno prisiljavati da ispune ono što su obećali i da drže ono što su jednom primili.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da su neki onim autoritetom razumjeli da je zabranjeno ne izopćenje heretika, nego njihovo ubijanje, kako je jasno iz navedenog autoriteta Zlatoustoga. A Augustin u pismu Vincentiju o sebi kaže: *Ovo je u početku bilo moje mišljenje: da nikoga ne treba prisiljavati na Kristovo jedinstvo, da treba djelovati riječju, boriti se raspravom. Ali ovo moje mnijenje ne nadvladavaju riječi onih koji proturječe, nego primjeri onih koji dokazuju. Strah od zakona toliko je naime koristio da mnogi govore: Hvala Gospodinu, koji je raskinuo naše okove*. Kako, dakle, treba razumjeti ono što Gospodin kaže: *Pustite neka oboje raste do žetve*, vidi se iz onoga što se dodaje: *da skupljajući kukolj ne iščupate s njim i pšenicu*. Time dovoljno pokazuje, kako kaže Augustin (Protiv Parmenijanova pisma), da *kad nema toga straha, to jest kad je nečiji zločin tako poznat i svima se čini tako odvratnim da on nema nikakvih branitelja ili barem ne takvih po kojima bi mogao nastati raskol, neka ne spava strogost stege*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a8.ad2": {
+      "text": "Na drugo treba reći da Židove, ako nipošto nisu primili vjeru, ne treba prisiljavati na vjeru. Ako su pak primili vjeru, *treba ih nuždom prisiliti da vjeru zadrže*, kako se kaže u istom poglavlju.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a8.ad3": {
+      "text": "Na treće treba reći da, kao što je zavjetovati se stvar volje, a izvršiti zavjet stvar nužnosti, tako je primiti vjeru stvar volje, a držati već primljenu vjeru stvar nužnosti. I zato heretike treba prisiljavati da drže vjeru. Augustin naime kaže u pismu knezu Bonifaciju: *Gdje je ono što su ovi običavali vikati: Slobodno je vjerovati ili ne vjerovati; komu je Krist nanio silu? Neka u Pavlu prepoznaju Krista koji najprije prisiljava, a potom poučava*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a8.ad4": {
+      "text": "Na četvrto treba reći da, kako Augustin kaže u istom pismu, *nitko od nas ne želi da ijedan heretik propadne. Ali Davidova kuća nije drukčije zaslužila imati mir nego tako da je Abšalom, njegov sin, poginuo u ratu koji je vodio protiv oca. Tako Katolička Crkva, ako propašću nekih okuplja ostale, liječi bol majčinskoga srca oslobođenjem tolikih naroda*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da se s nevjernicima smije općiti. Apostol naime kaže, 1 Kor 10: *Ako vas tko od nevjernika pozove na večeru i hoćete ići, jedite sve što vam se iznese*. I Zlatousti kaže: *Ako hoćeš ići za stol pogana, dopuštamo to bez ikakve zabrane*. Ali ići nekomu na večeru znači općiti s njim. Dakle, dopušteno je općiti s nevjernicima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a9.obj2": {
+      "text": "Osim toga, apostol kaže, 1 Kor 5: *Što je meni suditi one koji su vani?* A vani su nevjernici. Budući da se, dakle, sudom Crkve vjernicima zabranjuje zajedništvo s nekima, čini se da vjernicima ne treba zabranjivati da opće s nevjernicima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a9.obj3": {
+      "text": "Osim toga, gospodar se ne može služiti robom drukčije nego općeći s njim barem riječju, jer gospodar pokreće roba zapovijedanjem. Ali kršćani mogu imati robove nevjernike, bilo Židove bilo čak pogane odnosno Saracene. Dakle, s njima mogu dopušteno općiti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a9.sc": {
+      "text": "Ali protiv toga je ono što se kaže Pnz 7: *Nećeš s njima sklapati saveza, nećeš im se smilovati niti ćeš s njima sklapati ženidbe*. A uz ono Lev 15: *Žena koja, kad joj se vrati mjesečnica* itd., Glosa kaže: *Tako se treba uzdržavati od idolopoklonstva da ne dotičemo ni idolopoklonike ni njihove učenike niti s njima imamo zajedništva*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a9.resp": {
+      "text": "Odgovaram: treba reći da se vjernicima zabranjuje zajedništvo s nekom osobom na dva načina: na jedan način, za kaznu onome komu se uskraćuje zajedništvo vjernika; na drugi način, radi zaštite onih kojima se zabranjuje da opće s drugima. I oba se uzroka mogu uzeti iz riječi apostola, 1 Kor 5. Naime, pošto je izrekao presudu izopćenja, dodaje kao razlog: *Zar ne znate da malo kvasca sve tijesto pokvari?* A poslije dodaje razlog sa strane kazne nanesene sudom Crkve kad kaže: *Ne sudite li vi one koji su unutra?* Na prvi, dakle, način Crkva ne zabranjuje vjernicima zajedništvo s nevjernicima koji ni na koji način nisu primili kršćansku vjeru, naime s poganima ili Židovima, jer joj ne pripada suditi o njima duhovnim sudom, nego vremenitim, u slučaju kad, boraveći među kršćanima, počine neku krivnju pa ih vjernici vremenito kazne. Ali na taj način, naime za kaznu, Crkva vjernicima zabranjuje zajedništvo s onim nevjernicima koji odstupaju od primljene vjere, bilo kvareći vjeru, kao heretici, bilo čak potpuno otpadajući od vjere, kao otpadnici. Protiv jednih i drugih naime Crkva izriče presudu izopćenja. Ali što se tiče drugog načina, čini se da treba razlikovati prema različitim prilikama osoba, poslova i vremena. Ako su naime neki čvrsti u vjeri, tako da se od njihova općenja s nevjernicima prije može nadati obraćenju nevjernika nego odvraćanju vjernika od vjere, ne treba im zabranjivati da opće s nevjernicima koji nisu primili vjeru, naime s poganima ili Židovima, osobito ako na to tjera nužda. Ako su pak priprosti i slabi u vjeri, tako da se s razlogom može strahovati od njihove propasti, treba im zabraniti općenje s nevjernicima, a osobito da s njima nemaju veliku prisnost ili da s njima bez nužde ne opće.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Gospodin ono zapovjedio glede onih naroda u čiju su zemlju imali ući Židovi, koji su bili skloni idolopoklonstvu, pa je trebalo strahovati da se zbog stalnog općenja s njima ne otuđe od vjere. I zato se ondje dodaje: *jer će zavesti tvoga sina da ne ide za mnom*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a9.ad2": {
+      "text": "Na drugo treba reći da Crkva nema sudbene vlasti nad nevjernicima glede nanošenja duhovne kazne. Ipak ima sudbenu vlast nad nekim nevjernicima glede nanošenja vremenite kazne, a tomu pripada to što Crkva katkad, zbog nekih posebnih krivnja, nekim nevjernicima uskraćuje zajedništvo s vjernicima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a9.ad3": {
+      "text": "Na treće treba reći da je vjerojatnije da će se rob, kojim se upravlja gospodarovim zapovijedanjem, obratiti na vjeru vjernoga gospodara nego obratno. I zato nije zabranjeno da vjernici imaju robove nevjernike. Ako bi ipak gospodaru prijetila opasnost od općenja s takvim robom, morao bi ga odbaciti od sebe, prema onoj Gospodinovoj zapovijedi, Mt 5 i 18: *Ako te noga tvoja sablažnjava, odsijeci je i baci od sebe*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da nevjernici mogu imati predstojništvo ili gospodstvo nad vjernicima. Apostol naime kaže, 1 Tim 6: *Koji god su kao robovi pod jarmom, neka svoje gospodare smatraju dostojnima svake časti*; a da govori o nevjernicima, jasno je po tome što dodaje: *a oni koji imaju vjerne gospodare neka ih ne preziru*. I u 1 Pt 2 kaže se: *Robovi, budite u svakom strahu podložni gospodarima, ne samo dobrima i blagima, nego i naopakima*. A to se ne bi zapovijedalo apostolskim naukom kad nevjernici ne bi mogli biti nadređeni vjernicima. Dakle, čini se da nevjernici mogu biti nadređeni vjernicima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a10.obj2": {
+      "text": "Osim toga, svi koji pripadaju kućanstvu nekog vladara podložni su mu. Ali neki su vjernici pripadali kućanstvima nevjerničkih vladara, pa se zato kaže Fil 4: *Pozdravljaju vas svi sveti, a osobito oni iz Cezarova doma*, naime Neronova, koji je bio nevjernik. Dakle, nevjernici mogu biti nadređeni vjernicima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a10.obj3": {
+      "text": "Osim toga, kako kaže Filozof u I. knjizi Politike, rob je oruđe gospodara u onome što pripada ljudskom životu, kao što je i majstorov pomoćnik oruđe majstora u onome što pripada djelovanju umijeća. Ali u takvim stvarima vjernik može biti podložan nevjerniku; vjernici naime mogu biti kmetovi nevjernika. Dakle, nevjernici mogu biti postavljeni nad vjernike čak i glede gospodstva.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a10.sc": {
+      "text": "Ali protiv toga je to što onome koji je nadređen pripada imati sudbenu vlast nad onima kojima je nadređen. Ali nevjernici ne mogu suditi o vjernicima; apostol naime kaže, 1 Kor 6: *Usuđuje li se tko od vas, imajući parnicu s drugim, dati se suditi kod nepravednih, to jest nevjernika, a ne kod svetih?* Dakle, čini se da nevjernici ne mogu biti nadređeni vjernicima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a10.resp": {
+      "text": "Odgovaram: treba reći da o tome možemo govoriti dvojako. Na jedan način, o gospodstvu ili predstojništvu nevjernika nad vjernicima koje bi se tek iznova uspostavljalo. I to se nipošto ne smije dopustiti. To naime vodi u sablazan i u opasnost za vjeru; oni koji su podvrgnuti tuđoj jurisdikciji lako mogu biti promijenjeni od onih kojima su podložni, tako da slijede njihovu zapovijed, osim ako oni koji su podložni nisu velike kreposti. I slično, nevjernici prezru vjeru ako upoznaju nedostatke vjernika. I zato je apostol zabranio da se vjernici parniče pred sucem nevjernikom. I zato Crkva nipošto ne dopušta da nevjernici steknu gospodstvo nad vjernicima ili da na bilo koji način budu postavljeni nad njih u nekoj službi. Na drugi način možemo govoriti o gospodstvu ili predstojništvu koje već otprije postoji. Ovdje treba uzeti u obzir da su gospodstvo i predstojništvo uvedeni po ljudskom pravu, a razlikovanje vjernika i nevjernika je po božanskom pravu. A božansko pravo, koje je iz milosti, ne ukida ljudsko pravo, koje je iz naravnoga razuma. I zato razlikovanje vjernika i nevjernika, promatrano samo po sebi, ne ukida gospodstvo i predstojništvo nevjernika nad vjernicima. Ipak se takvo pravo gospodstva ili predstojništva može pravedno ukinuti presudom ili odredbom Crkve, koja ima Božji autoritet, jer nevjernici zbog svoje nevjere zaslužuju izgubiti vlast nad vjernicima, koji se prenose u sinove Božje. Ali to Crkva katkad čini, a katkad ne čini. Naime, glede onih nevjernika koji su i vremenitom podložnošću podložni Crkvi i njezinim udovima, pravo Crkve određuje da se rob Židova, čim postane kršćanin, oslobodi ropstva bez ikakve otkupnine, ako je bio domaći rob, to jest rođen u ropstvu; i slično ako je, dok je bio nevjernik, kupljen za službu. Ako je pak kupljen radi trgovine, dužan ga je u roku od tri mjeseca izložiti na prodaju. I u tome Crkva ne čini nepravdu, jer, budući da su sami Židovi robovi Crkve, ona može raspolagati njihovim stvarima; kao što su i svjetovni vladari izdali mnoge zakone prema svojim podanicima u korist slobode. Glede pak onih nevjernika koji vremenito nisu podložni Crkvi ili njezinim udovima, Crkva nije odredila spomenuto pravo, premda bi ga po pravu mogla uspostaviti. I to čini da bi izbjegla sablazan. Kao što je i Gospodin, Mt 17, pokazao da se mogao izuzeti od poreza jer su sinovi slobodni, ali je ipak zapovjedio da se porez plati kako bi se izbjegla sablazan. Tako i Pavao, pošto je rekao da robovi trebaju častiti svoje gospodare, dodaje: *da se ne huli na ime Gospodnje i na nauk*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a10.ad1": {
+      "text": "Iz toga je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a10.ad2": {
+      "text": "Na drugo treba reći da je ono Cezarovo predstojništvo postojalo prije razlikovanja vjernika od nevjernika, pa se zato nije razrješavalo obraćenjem nekih na vjeru. I bilo je korisno da neki vjernici imaju mjesto u carevu kućanstvu, da bi branili druge vjernike, kao što je blaženi Sebastijan hrabrio duše kršćana za koje je vidio da u mukama klonu, a još se skrivao pod vojničkim plaštem u Dioklecijanovu domu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a10.ad3": {
+      "text": "Na treće treba reći da su robovi podložni svojim gospodarima za sav život, a podanici upraviteljima u svim poslovima, dok su majstorovi pomoćnici podložni majstorima za neka posebna djela. Stoga je opasnije da nevjernici steknu gospodstvo ili predstojništvo nad vjernicima nego da od njih prime službu u nekom zanatu. I zato Crkva dopušta da kršćani mogu obrađivati zemlje Židova, jer zbog toga ne moraju s njima živjeti zajedno. I Salomon je od tirskoga kralja zatražio majstore za sječu drva, kako stoji u 1 Kr 5. Ipak, kad bi se od takva općenja ili suživota strahovalo da vjernici propadnu, to bi trebalo potpuno zabraniti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da ne treba trpjeti obrede nevjernika. Očito je, naime, da nevjernici griješe u svojim obredima time što ih obdržavaju. A čini se da grijehu pristaje onaj tko ga ne zabranjuje kad bi ga mogao zabraniti, kako stoji u Glosi uz Rim 1, uz ono: *ne samo oni koji čine, nego i oni koji pristaju uz one koji čine*. Dakle, griješe oni koji trpe njihove obrede.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a11.obj2": {
+      "text": "Osim toga, obredi Židova uspoređuju se s idolopoklonstvom, jer uz ono iz Gal 5: *nemojte se opet dati sputati jarmom ropstva*, Glosa kaže: *ovo ropstvo Zakona nije lakše od ropstva idolopoklonstva*. Ali ne bi se podnosilo da neki vrše obred idolopoklonstva; štoviše, kršćanski su vladari dali hramove idola najprije zatvoriti, a potom razoriti, kako pripovijeda Augustin u XVIII. knjizi O Božjem gradu. Dakle, ni obrede Židova ne treba trpjeti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a11.obj3": {
+      "text": "Osim toga, grijeh nevjere najteži je, kako je gore rečeno. Ali drugi se grijesi ne trpe, nego se kažnjavaju zakonom, kao preljub, krađa i drugo takvo. Dakle, ni obrede nevjernika ne treba trpjeti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a11.sc": {
+      "text": "Ali protiv toga je ono što u Dekretima, dist. 45, kan. Qui sincera, Grgur kaže o Židovima: *neka imaju punu slobodu obdržavati i slaviti sve svoje blagdane, kako su ih dosad kroz duga vremena štovali i držali oni sami i njihovi oci*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a11.resp": {
+      "text": "Odgovaram: treba reći da se ljudsko upravljanje izvodi iz božanskog upravljanja i da ga mora nasljedovati. A Bog, premda je svemoguć i najviše dobar, ipak dopušta da se u svemiru događaju neka zla koja bi mogao spriječiti, da se njihovim uklanjanjem ne bi uklonila veća dobra ili da ne bi uslijedila još gora zla. Tako, dakle, i u ljudskom upravljanju oni koji su na čelu s pravom trpe neka zla, da se ne bi spriječila neka dobra ili da se ne bi zapalo u neka gora zla, kako kaže Augustin u II. knjizi O redu: *ukloni bludnice iz ljudskih stvari i sve ćeš pomutiti pohotama*. Tako, dakle, premda nevjernici griješe u svojim obredima, mogu se trpjeti ili zbog nekog dobra koje iz njih proizlazi ili zbog nekog zla koje se time izbjegava. Iz toga pak što Židovi obdržavaju svoje obrede, u kojima je nekoć bila unaprijed naznačena istina vjere koju mi držimo, proizlazi ovo dobro: da imamo svjedočanstvo za svoju vjeru od neprijatelja i da nam je ono što vjerujemo predočeno kao u predslici. I zato ih se trpi u njihovim obredima. Obredi pak drugih nevjernika, koji ne donose ništa istine ni koristi, ne smiju se nikako trpjeti, osim možda radi izbjegavanja nekog zla, naime radi izbjegavanja sablazni ili razdora koji bi iz toga mogao nastati, ili zapreke spasenju onih koji se, tako trpljeni, malo-pomalo obraćaju na vjeru. Zbog toga je, naime, Crkva katkad trpjela i obrede heretika i pogana, kad je bilo veliko mnoštvo nevjernika.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a11.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da djecu Židova i drugih nevjernika treba krstiti protiv volje roditelja. Bračna je, naime, veza jača od prava očinske vlasti, jer pravo očinske vlasti čovjek može razriješiti, kad se sin pod očinskom vlašću emancipira; bračnu pak vezu čovjek ne može razriješiti, prema onome iz Mt 19: *što Bog združi, čovjek neka ne rastavlja*. Ali zbog nevjere se bračna veza razrješuje; apostol, naime, kaže u 1 Kor 7: *ako nevjernik odlazi, neka ode; jer brat ili sestra u takvim slučajevima nisu podvrgnuti ropstvu*; a kanon kaže da, ako nevjerni bračni drug ne želi ostati s drugim bez pogrde svoga Stvoritelja, drugi bračni drug ne treba s njim živjeti. Dakle, još se mnogo više zbog nevjere ukida pravo očinske vlasti nad vlastitom djecom. Prema tome, njihova se djeca mogu krstiti protiv njihove volje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.obj2": {
+      "text": "Osim toga, čovjeku treba više priteći u pomoć kad je u opasnosti vječne smrti nego kad je u opasnosti vremenite smrti. Ali kad bi tko vidio čovjeka u opasnosti vremenite smrti i ne bi mu pružio pomoć, griješio bi. Budući, dakle, da su djeca Židova i drugih nevjernika u opasnosti vječne smrti ako se ostave roditeljima, koji ih odgajaju u svojoj nevjeri, čini se da ih treba oduzeti od njih, krstiti i poučiti u vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.obj3": {
+      "text": "Osim toga, djeca robova su robovi i u vlasti gospodara. A Židovi su robovi kraljeva i vladara. Dakle, i njihova djeca. Kraljevi, dakle, i vladari imaju vlast učiniti s djecom Židova što god hoće. Neće, dakle, biti nikakve nepravde ako ih krste protiv volje roditelja.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.obj4": {
+      "text": "Osim toga, svaki čovjek više pripada Bogu, od kojega ima dušu, nego tjelesnom ocu, od kojega ima tijelo. Nije, dakle, nepravedno ako se djeca Židova oduzmu tjelesnim roditeljima i krštenjem posvete Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.obj5": {
+      "text": "Osim toga, krštenje je djelotvornije za spasenje nego propovijedanje, jer se po krštenju odmah uklanjaju ljaga grijeha i podložnost kazni te se otvaraju vrata neba. Ali ako iz nedostatka propovijedanja nastane opasnost, ona se pripisuje onome tko nije propovijedao, kako stoji u Ez 3 i 33 o onome koji *vidi mač gdje dolazi, a ne zatrubi u trubu*. Dakle, mnogo više, ako djeca Židova budu osuđena zbog nedostatka krštenja, to se kao grijeh pripisuje onima koji su ih mogli krstiti, a nisu ih krstili.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.sc": {
+      "text": "Ali protiv toga: nikome ne treba nanositi nepravdu. A Židovima bi se nanijela nepravda kad bi im se djeca krstila protiv njihove volje, jer bi izgubili pravo očinske vlasti nad djecom koja su već vjernici. Dakle, ne treba ih krstiti protiv njihove volje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.resp": {
+      "text": "Odgovaram: treba reći da najveći autoritet ima običaj Crkve, kojega se uvijek i u svemu treba revno držati. Jer i sam nauk katoličkih naučitelja ima autoritet od Crkve; stoga se više treba držati autoriteta Crkve nego autoriteta Augustina ili Jeronima ili bilo kojega naučitelja. A u praksi Crkve nikada nije bilo da se djeca Židova krste protiv volje roditelja, premda je u prošlim vremenima bilo mnogo vrlo moćnih katoličkih vladara, kao Konstantin i Teodozije, s kojima su bili prisni najsvetiji biskupi, kao Silvestar s Konstantinom i Ambrozije s Teodozijem, koji nipošto ne bi propustili to od njih isposlovati da je to bilo u skladu s razumom. Zato se čini opasnim iznova uvoditi tu tvrdnju, da se, mimo običaja dosad obdržavanog u Crkvi, djeca Židova krste protiv volje roditelja. A razlog je tomu dvostruk. Jedan je zbog opasnosti za vjeru. Kad bi, naime, djeca koja još nemaju uporabu razuma primila krštenje, poslije, kad bi došla do zrele dobi, roditelji bi ih lako mogli navesti da napuste ono što su primila ne znajući. To bi išlo na štetu vjere. Drugi je pak razlog to što se to protivi naravnoj pravednosti. Sin je, naime, po naravi nešto očevo. I najprije se od roditelja ne razlikuje ni po tijelu, dokle god je sadržan u majčinoj utrobi. Poslije pak, pošto izađe iz utrobe, prije nego što ima uporabu slobodnog odlučivanja, sadržan je pod roditeljskom skrbi kao u nekoj duhovnoj utrobi. Dokle god, naime, dijete nema uporabu razuma, ne razlikuje se od nerazumne životinje. Stoga, kao što vol ili konj prema građanskom pravu pripada nekomu tako da se njime služi kad hoće, kao vlastitim oruđem, tako je po naravnom pravu da sin, prije nego što ima uporabu razuma, bude pod očevom skrbi. Stoga bi bilo protiv naravne pravednosti kad bi se dijete, prije nego što ima uporabu razuma, oduzelo od roditeljske skrbi ili kad bi se o njemu nešto odredilo protiv volje roditelja. A pošto počne imati uporabu slobodnog odlučivanja, već počinje pripadati sebi i može se, glede onoga što je božanskog ili naravnog prava, sam za sebe brinuti. I tada ga treba privesti vjeri ne prisilom, nego uvjeravanjem; i može, čak i protiv volje roditelja, pristati uz vjeru i krstiti se, ali ne prije nego što ima uporabu razuma. Zato se o djeci drevnih otaca kaže da su spašena u vjeri roditelja, čime se daje razumjeti da roditeljima pripada brinuti se za spasenje svoje djece, osobito prije nego što ona imaju uporabu razuma.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da u bračnoj vezi oba bračna druga imaju uporabu slobodnog odlučivanja i svaki od njih može protiv volje drugoga pristati uz vjeru. Ali to nema mjesta kod djeteta prije nego što ima uporabu razuma. No pošto ima uporabu razuma, tada usporedba vrijedi, ako se htjedne obratiti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.ad2": {
+      "text": "Na drugo treba reći da nikoga ne treba otimati od naravne smrti protiv reda građanskog prava; primjerice, ako je netko od svoga suca osuđen na vremenitu smrt, nitko ga ne smije nasilno oteti. Stoga ni nitko ne smije narušiti red naravnog prava, po kojem je sin pod očevom skrbi, da bi ga oslobodio od opasnosti vječne smrti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.ad3": {
+      "text": "Na treće treba reći da su Židovi robovi vladara građanskim ropstvom, koje ne isključuje red naravnog ili božanskog prava.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.ad4": {
+      "text": "Na četvrto treba reći da je čovjek usmjeren prema Bogu po razumu, po kojem ga može spoznati. Stoga je dijete, prije nego što ima uporabu razuma, naravnim redom usmjereno prema Bogu po razumu roditelja, čijoj je skrbi po naravi podložno; i prema njihovu rasporedu treba s njim postupati u božanskim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    },
+    "II-II.q10.a12.ad5": {
+      "text": "Na peto treba reći da opasnost koja proizlazi iz propuštenog propovijedanja prijeti samo onima kojima je povjerena služba propovijedanja; stoga se kod Ezekiela prije toga kaže: *postavio sam te za stražara sinovima Izraelovim*. A brinuti se za djecu nevjernika glede sakramenata spasenja pripada njihovim roditeljima. Stoga njima prijeti opasnost ako zbog uskraćivanja sakramenata njihovi mališani pretrpe štetu za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:19+00:00"
+    }
+  }
+}

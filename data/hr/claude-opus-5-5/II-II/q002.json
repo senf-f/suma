@@ -1,0 +1,504 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 2,
+  "units": {
+    "II-II.q2.pr": {
+      "text": "Zatim treba razmotriti čin vjere: prvo, unutarnji čin; drugo, vanjski čin. U vezi s prvim pita se deset stvari. Prvo, što je vjerovati, a to je unutarnji čin vjere. Drugo, na koliko se načina to kaže. Treće, je li vjerovati nešto što je iznad naravnog razuma nužno za spasenje. Četvrto, je li nužno vjerovati ono do čega naravni razum može doći. Peto, je li za spasenje nužno vjerovati nešto izričito. Šesto, jesu li svi jednako obvezni izričito vjerovati. Sedmo, je li izričita vjera o Kristu uvijek nužna za spasenje. Osmo, je li izričito vjerovati Trojstvo nužno za spasenje. Deveto, je li čin vjere zaslužan. Deseto, umanjuje li ljudski razum zaslugu vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da vjerovati nije razmišljati s pristankom. Razmišljanje, naime, uključuje neko istraživanje; kaže se, naime, cogitare (razmišljati) kao da je simul agitare (zajedno pretresati). Ali Damaščanin kaže u 4. knjizi da je *vjera neistraženi pristanak*. Dakle, razmišljati ne pripada činu vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a1.obj2": {
+      "text": "Osim toga, vjera se smješta u razum, kako će se niže reći. Ali razmišljati je čin misaone moći, koja pripada osjetilnom dijelu, kako je rečeno u Prvom dijelu. Dakle, razmišljanje ne pripada vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a1.obj3": {
+      "text": "Osim toga, vjerovati je čin uma, jer mu je predmet istinito. Ali čini se da davati pristanak (assentire) nije čin uma, nego volje, kao ni pristajati (consentire), kako je gore rečeno. Dakle, vjerovati nije razmišljati s pristankom.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a1.sc": {
+      "text": "Ali protiv toga jest to što Augustin tako definira vjerovati u knjizi O predodređenju svetih.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a1.resp": {
+      "text": "Odgovaram: treba reći da se razmišljati može uzeti na tri načina. Na jedan način, općenito, za bilo koje zbiljsko razmatranje uma, kako kaže Augustin u 14. knjizi O Trojstvu: *Razumijevanjem sada nazivam ono čime shvaćamo dok razmišljamo*. Na drugi se način razmišljanjem u vlastitijem smislu naziva razmatranje uma koje je popraćeno nekim istraživanjem, prije nego što se dođe do savršenosti uma po izvjesnosti gledanja. I prema tome Augustin u 15. knjizi O Trojstvu kaže da se *Sin Božji ne naziva razmišljanjem, nego se naziva Riječju Božjom. Naše razmišljanje, naime, kad dospije do onoga što znamo i odande se oblikuje, naša je istinita riječ. Stoga Riječ Božju treba shvaćati bez razmišljanja, kao onu koja nema ništa što bi se moglo oblikovati, što bi moglo biti neoblikovano*. I prema tome se razmišljanjem u vlastitom smislu naziva pokret duha koji promišlja, a još nije usavršen punim gledanjem istine. No budući da takav pokret može biti pokret duha koji promišlja ili o općim intencijama, što pripada umskom dijelu, ili o pojedinačnim intencijama, što pripada osjetilnom dijelu, zato se razmišljati na drugi način uzima za čin uma koji promišlja, a na treći način za čin misaone sile. Ako se, dakle, razmišljati uzme općenito, na prvi način, onda ono što se kaže „razmišljati s pristankom” ne izražava cijeli pojam onoga što je vjerovati; jer na taj način i onaj koji razmatra ono što zna ili shvaća razmišlja s pristankom. Ako se pak razmišljati uzme na drugi način, onda se u tome shvaća cijeli pojam toga čina koji je vjerovati. Od čina, naime, koji pripadaju umu neki imaju čvrst pristanak bez takvog razmišljanja, kao kad netko razmatra ono što zna ili shvaća; takvo je, naime, razmatranje već oblikovano. A neki čini uma imaju, doduše, neoblikovano razmišljanje bez čvrstog pristanka: bilo da se ne priklanjaju ni jednoj strani, kao što se događa onome koji sumnja; bilo da se više priklanjaju jednoj strani, ali ih drži neki slab znak, kao što se događa onome koji nagađa; bilo da prianjaju uz jednu stranu, ali s bojazni od druge, što se događa onome koji mnije. Ali taj čin koji je vjerovati ima čvrsto prianjanje uz jednu stranu, u čemu se onaj koji vjeruje slaže s onim koji zna i shvaća; a ipak njegova spoznaja nije usavršena očitim gledanjem, u čemu se slaže s onim koji sumnja, nagađa i mnije. I tako je vlastito onome koji vjeruje da razmišlja s pristankom; i po tome se taj čin koji je vjerovati razlikuje od svih čina uma koji se odnose na istinito ili lažno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da vjera nema istraživanja naravnog razuma koji dokazuje ono što se vjeruje. Ima ipak neko istraživanje onoga po čemu se čovjek navodi da vjeruje, primjerice da je to rekao Bog i potvrdio čudesima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a1.ad2": {
+      "text": "Na drugo treba reći da se razmišljati ovdje ne uzima kao čin misaone sile, nego kako pripada umu, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a1.ad3": {
+      "text": "Na treće treba reći da se um onoga koji vjeruje određuje na jedno ne po razumu, nego po volji. Stoga se pristanak ovdje uzima za čin uma ukoliko ga volja određuje na jedno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se čin vjere neprikladno razlikuje po tome što je *vjerovati Bogu, vjerovati Boga i vjerovati u Boga* (credere Deo, credere Deum, credere in Deum). Jednoga je, naime, habitusa jedan čin. Ali vjera je jedan habitus, budući da je jedna krepost. Dakle, neprikladno se postavlja više njezinih čina.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a2.obj2": {
+      "text": "Osim toga, ono što je zajedničko svakom činu vjere ne treba postavljati kao poseban čin vjere. Ali vjerovati Bogu nalazi se zajednički u svakom činu vjere, jer se vjera oslanja na prvu istinu. Dakle, čini se da se to neprikladno razlikuje od nekih drugih čina vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a2.obj3": {
+      "text": "Osim toga, ono što pristaje i onima koji nisu vjernici ne može se postaviti kao čin vjere. Ali vjerovati da Bog jest pristaje i nevjernicima. Dakle, to ne treba postaviti među čine vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a2.obj4": {
+      "text": "Osim toga, biti pokretan prema svrsi pripada volji, kojoj je predmet dobro i svrha. Ali vjerovati nije čin volje, nego uma. Dakle, kao jednu razliku onoga što je vjerovati ne treba postaviti vjerovati u Boga, što uključuje pokret prema svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a2.sc": {
+      "text": "Ali protiv toga jest to što Augustin postavlja to razlikovanje u knjigama O riječima Gospodnjim i u Tumačenju Evanđelja po Ivanu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a2.resp": {
+      "text": "Odgovaram: treba reći da se čin bilo koje moći ili habitusa uzima prema usmjerenosti te moći ili habitusa prema njegovu predmetu. A predmet vjere može se razmatrati na tri načina. Budući da, naime, vjerovati pripada umu ukoliko ga volja pokreće na pristanak, kako je rečeno, predmet vjere može se uzeti ili sa strane samog uma, ili sa strane volje koja pokreće um. Ako sa strane uma, onda se u predmetu vjere mogu razmatrati dvije stvari, kako je gore rečeno. Jedna je od njih tvarni predmet vjere. I tako se kao čin vjere postavlja vjerovati Boga, jer nam se, kako je gore rečeno, ništa ne iznosi da vjerujemo osim ukoliko pripada Bogu. Druga je formalni pojam predmeta, koji je kao sredstvo zbog kojega se pristaje uz ono što valja vjerovati. I tako se kao čin vjere postavlja vjerovati Bogu, jer je, kako je gore rečeno, formalni predmet vjere prva istina, uz koju čovjek prianja da bi zbog nje pristao uz ono što vjeruje. Ako se pak predmet vjere razmatra na treći način, ukoliko je um pokretan od volje, onda se kao čin vjere postavlja vjerovati u Boga; prva se istina, naime, odnosi na volju ukoliko ima pojam svrhe.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se tim trima ne označuju različiti čini vjere, nego jedan te isti čin koji ima različit odnos prema predmetu vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a2.ad2": {
+      "text": "I po tome je jasan i odgovor na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a2.ad3": {
+      "text": "Na treće treba reći da vjerovati Boga ne pristaje nevjernicima pod onim pojmom pod kojim se postavlja kao čin vjere. Oni, naime, ne vjeruju da Bog jest pod onim uvjetima koje vjera određuje. Stoga ni ne vjeruju uistinu Boga; jer, kako kaže Filozof u 9. knjizi Metafizike, kod jednostavnih je stvari nedostatak spoznaje samo u tome što ih se uopće ne dosegne.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a2.ad4": {
+      "text": "Na četvrto treba reći da, kako je gore rečeno, volja pokreće um i ostale sile duše prema svrsi. I prema tome se kao čin vjere postavlja vjerovati u Boga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da vjerovati nije nužno za spasenje. Za spasenje, naime, i savršenost bilo koje stvari čini se da je dovoljno ono što joj pristaje po njezinoj naravi. Ali ono što je vjere nadilazi naravni razum čovjeka, budući da nije očito, kako je gore rečeno. Dakle, čini se da vjerovati nije nužno za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a3.obj2": {
+      "text": "Osim toga, opasno je da čovjek pristaje uz ono o čemu ne može suditi je li ono što mu se iznosi istinito ili lažno, prema onome iz Job 12: *Zar uho ne prosuđuje riječi?* Ali takav sud čovjek ne može imati o onome što je vjere, jer čovjek to ne može svesti na prva načela po kojima o svemu sudimo. Dakle, opasno je takvome poklanjati vjeru. Prema tome, vjerovati nije nužno za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a3.obj3": {
+      "text": "Osim toga, spasenje se čovjekovo sastoji u Bogu, prema onome iz Psalma: *A spasenje pravednika od Gospodina je. Ali nevidljivo Božje razabire se umom po onome što je stvoreno, a tako i vjekovječna njegova snaga i božanstvo*, kako se kaže u Rim 1. Ono pak što se razabire umom ne vjeruje se. Dakle, nije nužno za spasenje da čovjek nešto vjeruje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a3.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Heb 11: *Bez vjere nemoguće je svidjeti se Bogu*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a3.resp": {
+      "text": "Odgovaram: treba reći da se u svim uređenim naravima nalazi da savršenosti niže naravi pridonose dvije stvari: jedna koja je prema vlastitom gibanju, a druga koja je prema gibanju više naravi. Tako se voda prema vlastitom gibanju giba prema središtu, a prema gibanju mjeseca giba se oko središta po plimi i oseci; slično se i sfere planeta gibaju vlastitim gibanjima od zapada prema istoku, a gibanjem prve sfere od istoka prema zapadu. Jedino pak stvorena razumska narav ima neposrednu usmjerenost prema Bogu. Jer ostali stvorovi ne dosežu do nečega općega, nego samo do nečega pojedinačnoga, imajući udjela u božanskoj dobroti ili samo u bitku, kao ono što je bez duše, ili također u življenju i spoznavanju pojedinačnoga, kao biljke i životinje; a razumska narav, ukoliko spoznaje opći pojam dobra i bića, ima neposrednu usmjerenost prema općem počelu bitka. Savršenost se razumskog stvora, dakle, ne sastoji samo u onome što mu pripada po njegovoj naravi, nego i u onome što mu se pridaje po nekom nadnaravnom sudjelovanju u božanskoj dobroti. Stoga je i gore rečeno da se posljednje blaženstvo čovjeka sastoji u nekom nadnaravnom gledanju Boga. Do toga gledanja čovjek, dakako, ne može doći drugačije nego na način onoga koji uči od Boga kao učitelja, prema onome iz Iv 6: *Svaki koji je čuo od Oca i naučio dolazi k meni*. A tog učenja čovjek ne postaje dionikom odjednom, nego postupno, na način svoje naravi. A svaki takav učenik mora vjerovati da bi došao do savršenog znanja, kao što i Filozof kaže da onaj koji uči mora vjerovati. Stoga, da bi čovjek došao do savršenog gledanja blaženstva, prethodno se zahtijeva da vjeruje Bogu (credere Deo) kao učenik učitelju koji poučava.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da narav čovjeka ovisi o višoj naravi, za njegovu savršenost nije dovoljna naravna spoznaja, nego se zahtijeva neka nadnaravna, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a3.ad2": {
+      "text": "Na drugo treba reći da, kao što čovjek po naravnom svjetlu uma pristaje uz načela, tako krepostan čovjek po habitusu kreposti ima ispravan sud o onome što pristaje toj kreposti. I na taj način čovjek, po svjetlu vjere koje mu je Bog ulio, pristaje uz ono što je vjere, a ne uz ono što mu je protivno. Stoga *nema nikakve opasnosti ni osude za one koji su u Kristu Isusu*, koje je on prosvijetlio po vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a3.ad3": {
+      "text": "Na treće treba reći da vjera poima nevidljivo Božje na uzvišeniji način, i to s obzirom na više toga, nego naravni razum koji od stvorova napreduje prema Bogu. Stoga se kaže u Sir 3: *Pokazano ti je mnogo toga što nadilazi ljudsko shvaćanje*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ono što se može dokazati naravnim razumom nije nužno vjerovati. U Božjim se djelima, naime, ne nalazi ništa suvišno, još mnogo manje nego u djelima prirode. Ali ondje gdje se nešto može učiniti po jednome, suvišno se dodaje drugo. Dakle, bilo bi suvišno primati po vjeri ono što se može spoznati naravnim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a4.obj2": {
+      "text": "Osim toga, nužno je vjerovati ono o čemu je vjera. Ali o istome nema znanja i vjere, kako je gore utvrđeno. Budući da, dakle, znanje postoji o svemu onome što se može spoznati naravnim razumom, čini se da ne treba vjerovati ono što se dokazuje naravnim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a4.obj3": {
+      "text": "Osim toga, čini se da je sve što se može znati istoga pojma. Ako se, dakle, nešto od toga čovjeku iznosi kao ono što treba vjerovati, s istim bi razlogom bilo nužno vjerovati sve takvo. A to je lažno. Dakle, ono što se može spoznati naravnim razumom nije nužno vjerovati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a4.sc": {
+      "text": "Ali protiv toga jest to što je nužno vjerovati da je Bog jedan i netjelesan, a to filozofi dokazuju naravnim razumom.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a4.resp": {
+      "text": "Odgovaram: treba reći da je čovjeku nužno primati na način vjere ne samo ono što je iznad razuma, nego i ono što se može spoznati razumom. I to iz tri razloga. Prvo, da bi čovjek brže došao do spoznaje božanske istine. Znanost, naime, kojoj pripada dokazivati da Bog jest i drugo takvo o Bogu, iznosi se ljudima da je nauče posljednju, uz pretpostavku mnogih drugih znanosti. I tako bi čovjek tek nakon dugoga vremena svoga života došao do spoznaje Boga. Drugo, da spoznaja Boga bude raširenija. Mnogi, naime, ne mogu napredovati u proučavanju znanosti, bilo zbog tuposti pameti, bilo zbog drugih zaposlenosti i potreba vremenitog života, bilo i zbog mlakosti za učenje. Oni bi posve bili lišeni spoznaje Boga kad im se božanske stvari ne bi iznosile na način vjere. Treće, radi izvjesnosti. Ljudski je, naime, razum u božanskim stvarima veoma manjkav, a znak je toga to što su filozofi, istražujući ljudske stvari naravnim istraživanjem, u mnogome zabludjeli i mislili oprečno sami sebi. Da bi, dakle, među ljudima postojala nedvojbena i izvjesna spoznaja o Bogu, trebalo je da im se božanske stvari predaju na način vjere, kao ono što je rekao Bog, koji ne može lagati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da istraživanje naravnog razuma nije dostatno ljudskome rodu za spoznaju božanskih stvari, čak ni onih koje se razumom mogu pokazati. Stoga nije suvišno da se takvo vjeruje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a4.ad2": {
+      "text": "Na drugo treba reći da o istome kod istoga čovjeka ne može biti znanje i vjera. Ali ono što jedan zna, drugi može vjerovati, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a4.ad3": {
+      "text": "Na treće treba reći da, iako se sve što se može znati slaže u pojmu znanja, ipak se ne slaže u tome da jednako usmjeruje prema blaženstvu. Stoga se ne iznosi sve jednako kao ono što treba vjerovati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da čovjek nije obvezan nešto izričito vjerovati. Nitko, naime, nije obvezan na ono što nije u njegovoj vlasti. Ali izričito vjerovati nešto nije u čovjekovoj vlasti; kaže se, naime, u Rim 10: *Kako će vjerovati onome koga nisu čuli? Kako će čuti bez propovjednika? A kako će propovijedati ako ne budu poslani?* Dakle, čovjek nije obvezan nešto izričito vjerovati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a5.obj2": {
+      "text": "Osim toga, kao što smo po vjeri usmjereni prema Bogu, tako i po ljubavi. Ali čovjek nije obvezan izvršavati zapovijedi ljubavi, nego je dovoljna sama pripravnost duha, kao što je očito u onoj Gospodinovoj zapovijedi koja se navodi u Mt 5: *Ako te tko udari po jednom obrazu, pruži mu i drugi*, i u drugim sličnima, kako tumači Augustin u knjizi O Gospodinovu govoru na gori. Dakle, ni čovjek nije obvezan nešto izričito vjerovati, nego je dovoljno da ima duh pripravan vjerovati ono što Bog iznosi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a5.obj3": {
+      "text": "Osim toga, dobro se vjere sastoji u nekoj poslušnosti, prema onome iz Rim 1: *radi poslušnosti vjeri među svim narodima*. Ali za krepost poslušnosti ne zahtijeva se da čovjek obdržava neke određene zapovijedi, nego je dovoljno da ima duh spreman na poslušnost, prema onome iz Psalma: *Spreman sam i nisam se smeo da čuvam zapovijedi tvoje*. Dakle, čini se da je i za vjeru dovoljno da čovjek ima duh spreman vjerovati ono što bi mu Bog mogao iznijeti, a da ništa ne vjeruje izričito.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a5.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Heb 11: *Onaj koji pristupa Bogu mora vjerovati da on jest i da je nagraditelj onih koji ga traže*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a5.resp": {
+      "text": "Odgovaram: treba reći da se zapovijedi zakona koje je čovjek obvezan ispuniti daju o činima kreposti koji su put da se dođe do spasenja. A čin kreposti, kako je gore rečeno, uzima se prema odnošaju habitusa prema predmetu. Ali u predmetu bilo koje kreposti mogu se razmatrati dvije stvari: ono što je u vlastitom smislu i po sebi predmet kreposti, što je nužno u svakom činu kreposti; i opet ono što se akcidentalno ili posljedično odnosi prema vlastitom pojmu predmeta. Tako predmetu jakosti u vlastitom smislu i po sebi pripada podnositi smrtne opasnosti i napadati neprijatelje uz opasnost radi općeg dobra; a to da se čovjek naoruža ili da udara mačem u pravednom ratu, ili da učini nešto takvo, svodi se, doduše, na predmet jakosti, ali akcidentalno. Određenje, dakle, krepostnog čina prema predmetu kreposti koji joj je vlastit i po sebi potpada pod nužnost zapovijedi, kao i sam čin kreposti. Ali određenje krepostnog čina prema onome što se akcidentalno ili drugotno odnosi prema vlastitom i po sebi predmetu kreposti ne potpada pod nužnost zapovijedi, osim za određeno mjesto i vrijeme. Treba, dakle, reći da je po sebi predmet vjere ono po čemu čovjek postaje blažen, kako je gore rečeno. Akcidentalno pak ili drugotno odnosi se prema predmetu vjere sve što je sadržano u Pismu koje je Bog predao, kao to da je Abraham imao dva sina, da je David bio sin Jišajev i drugo takvo. Što se, dakle, tiče prvih stvari koje valja vjerovati, a to su članci vjere, čovjek ih je obvezan vjerovati izričito, kao što je obvezan imati vjeru. Što se pak tiče ostalih stvari koje valja vjerovati, čovjek ih nije obvezan vjerovati izričito, nego samo uključno ili u pripravnosti duha, ukoliko je spreman vjerovati sve što je sadržano u božanskom Pismu. Ali takvo je obvezan vjerovati izričito tek onda kad mu bude utvrđeno da je sadržano u nauku vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, ako se kaže da je nešto u čovjekovoj vlasti uz isključenje pomoći milosti, onda je čovjek obvezan na mnogo toga što ne može bez milosti koja obnavlja, kao na ljubljenje Boga i bližnjega, a slično i na vjerovanje članaka vjere. Ali to ipak čovjek može uz pomoć milosti. Ta se pomoć svima kojima je Bog daje daje iz milosrđa; a kojima se ne daje, ne daje se iz pravednosti, kao kazna za prethodni grijeh, barem za istočni grijeh, kako kaže Augustin u knjizi O ukoru i milosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a5.ad2": {
+      "text": "Na drugo treba reći da je čovjek obvezan određeno ljubiti ono ljubavi vrijedno što je u vlastitom smislu i po sebi predmet ljubavi, to jest Boga i bližnjega. Ali prigovor govori o onim zapovijedima ljubavi koje kao posljedično pripadaju predmetu ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a5.ad3": {
+      "text": "Na treće treba reći da se krepost poslušnosti u vlastitom smislu sastoji u volji. Stoga je za čin poslušnosti dovoljna spremnost volje podložne onome koji zapovijeda, a to je vlastiti i po sebi predmet poslušnosti. Ali ova ili ona zapovijed akcidentalno se ili posljedično odnosi prema vlastitom i po sebi predmetu poslušnosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da su svi jednako obvezni imati izričitu vjeru. Na ono što je nužno za spasenje, naime, obvezni su svi, kao što je očito za zapovijedi ljubavi. Ali izričito izlaganje onoga što treba vjerovati nužno je za spasenje, kako je rečeno. Dakle, svi su jednako obvezni izričito vjerovati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a6.obj2": {
+      "text": "Osim toga, nitko ne treba biti ispitivan o onome što nije obvezan izričito vjerovati. Ali katkad se i priprosti ispituju o najsitnijim člancima vjere. Dakle, svi su obvezni izričito vjerovati sve.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a6.obj3": {
+      "text": "Osim toga, ako niži nisu obvezni imati izričitu vjeru, nego samo uključnu, moraju imati uključnu vjeru u vjeri viših. Ali to se čini opasnim, jer bi se moglo dogoditi da ti viši zabludje. Dakle, čini se da i niži trebaju imati izričitu vjeru. Tako su, dakle, svi jednako obvezni izričito vjerovati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a6.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Job 1: *Volovi su orali, a magarice su pasle pokraj njih*; jer, naime, niži, koje označuju magarice, trebaju u onome što valja vjerovati prianjati uz više, koje označuju volovi, kako tumači Grgur u 2. knjizi Moralija.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a6.resp": {
+      "text": "Odgovaram: treba reći da se izričito izlaganje onoga što treba vjerovati događa po božanskoj objavi, jer ono što valja vjerovati nadilazi naravni razum. A božanska objava dolazi nekim redom do nižih preko viših, kao do ljudi preko anđela, i do nižih anđela preko viših, kako je očito iz Dionizija u knjizi O nebeskoj hijerarhiji. Stoga, s istim razlogom, izričito izlaganje vjere mora dolaziti do nižih ljudi preko viših. I zato, kao što viši anđeli, koji prosvjetljuju niže, imaju potpunije poznavanje božanskih stvari nego niži, kako kaže Dionizije u 12. poglavlju O nebeskoj hijerarhiji, tako su i viši ljudi, kojima pripada poučavati druge, obvezni imati potpunije poznavanje onoga što treba vjerovati i izričitije vjerovati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da izričito izlaganje onoga što treba vjerovati nije s obzirom na sve jednako nužno za spasenje, jer su viši, koji imaju službu poučavanja drugih, obvezni izričito vjerovati više toga nego drugi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a6.ad2": {
+      "text": "Na drugo treba reći da priproste ne treba ispitivati o tananostima vjere, osim kad postoji sumnja da su ih izopačili heretici, koji obično izopačuju vjeru priprostih u onome što pripada tananostima vjere. Ako se ipak nađe da ne prianjaju tvrdokorno uz izopačeni nauk, ako u takvim stvarima zbog priprostosti pogriješe, to im se ne uračunava.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a6.ad3": {
+      "text": "Na treće treba reći da niži nemaju uključnu vjeru u vjeri viših osim ukoliko viši prianjaju uz božanski nauk; stoga i Apostol kaže u 1 Kor 4: *Budite moji nasljedovatelji, kao što sam i ja Kristov*. Stoga pravilo vjere nije ljudska spoznaja, nego božanska istina. Ako od nje neki od viših otpadnu, to ne škodi vjeri priprostih, koji vjeruju da oni imaju ispravnu vjeru, osim ako tvrdokorno prianjaju uz njihove zablude u pojedinostima protiv vjere sveopće Crkve, koja ne može otpasti, jer Gospodin kaže u Lk 22: *Ja sam molio za te, Petre, da ne malakše vjera tvoja*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da izričito vjerovati Kristovo otajstvo nije nužno za spasenje kod svih. Čovjek, naime, nije obvezan izričito vjerovati ono što anđeli ne znaju, jer se izričito izlaganje vjere događa po božanskoj objavi, koja dolazi do ljudi posredstvom anđela, kako je rečeno. Ali i anđeli nisu znali za otajstvo utjelovljenja; zato su pitali u Psalmu: *Tko je taj kralj slave?* i u Iz 63: *Tko je taj koji dolazi iz Edoma?*, kako tumači Dionizije u 7. poglavlju O nebeskoj hijerarhiji. Dakle, ljudi nisu bili obvezni izričito vjerovati otajstvo utjelovljenja.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a7.obj2": {
+      "text": "Osim toga, poznato je da je blaženi Ivan Krstitelj bio od viših i Kristu najbliži, a o njemu Gospodin kaže u Mt 11 da *među rođenima od žene nije ustao veći od njega*. Ali čini se da Ivan Krstitelj nije izričito spoznao Kristovo otajstvo, budući da je upitao Krista: *Jesi li ti onaj koji ima doći ili drugoga čekamo?*, kako stoji u Mt 11. Dakle, ni viši nisu bili obvezni imati izričitu vjeru o Kristu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a7.obj3": {
+      "text": "Osim toga, mnogi su pogani postigli spasenje službom anđela, kako kaže Dionizije u 9. poglavlju O nebeskoj hijerarhiji. Ali pogani, kako se čini, nisu imali vjeru o Kristu ni izričitu ni uključnu, jer im nije bila dana nikakva objava. Dakle, čini se da izričito vjerovati Kristovo otajstvo nije svima bilo nužno za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a7.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u knjizi O ukoru i milosti: *Zdrava je ona vjera kojom vjerujemo da se nijedan čovjek, bio veće ili male dobi, ne oslobađa od zaraze smrti i obveze grijeha osim po jednome posredniku između Boga i ljudi, Isusu Kristu*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a7.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, u vlastitom smislu i po sebi pripada predmetu vjere ono po čemu čovjek postiže blaženstvo. A put kojim ljudi dolaze do blaženstva jest otajstvo Kristova utjelovljenja i muke; kaže se, naime, u Dj 4: *Nije dano ljudima drugo ime u kojem bismo se trebali spasiti*. Stoga je bilo potrebno da otajstvo Kristova utjelovljenja u svako doba kod svih bude na neki način vjerovano, ali različito prema različitosti vremena i osoba. Naime, prije stanja grijeha čovjek je imao izričitu vjeru o Kristovu utjelovljenju ukoliko je ono bilo usmjereno prema dovršenju slave, ali ne ukoliko je bilo usmjereno prema oslobođenju od grijeha po muci i uskrsnuću, jer čovjek nije unaprijed znao za budući grijeh. Čini se pak da je unaprijed znao za Kristovo utjelovljenje po tome što je rekao: *Zato će čovjek ostaviti oca i majku i prionuti uz svoju ženu*, kako stoji u Post 2; a za to Apostol u Ef 5 kaže da je *veliko otajstvo u Kristu i Crkvi*; a ne može se vjerovati da prvi čovjek nije znao za to otajstvo. Nakon grijeha pak Kristovo je otajstvo bilo izričito vjerovano ne samo s obzirom na utjelovljenje, nego i s obzirom na muku i uskrsnuće, kojima se ljudski rod oslobađa od grijeha i smrti. Inače, naime, ne bi bili unaprijed naznačivali Kristovu muku nekim žrtvama i prije Zakona i pod Zakonom. Značenje tih žrtava viši su izričito spoznavali, a niži su, pod velom tih žrtava, vjerujući da ih je Bog odredio s obzirom na Krista koji ima doći, na neki način imali zastrtu spoznaju. I, kako je gore rečeno, ono što se odnosi na Kristova otajstva spoznavali su to razgovjetnije što su bili bliži Kristu. A nakon vremena objavljene milosti i viši i niži obvezni su imati izričitu vjeru o Kristovim otajstvima, osobito s obzirom na ono što se u Crkvi zajednički svetkuje i javno iznosi, kao što su članci o utjelovljenju, o kojima je gore bilo govora. Ostala pak tanana razmatranja o člancima utjelovljenja neki su obvezni vjerovati više ili manje izričito, prema onome što pristaje staležu i službi svakoga pojedinoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da *anđelima nije bilo posve skriveno otajstvo kraljevstva Božjega*, kako kaže Augustin u 5. knjizi O doslovnom tumačenju Knjige postanka. Neke su ipak razloge toga otajstva savršenije spoznali kad im ih je Krist objavio.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a7.ad2": {
+      "text": "Na drugo treba reći da Ivan Krstitelj nije pitao o Kristovu dolasku u tijelu kao da to nije znao, budući da je on to izričito ispovjedio rekavši: *Ja sam vidio i posvjedočio da je ovaj Sin Božji*, kako stoji u Iv 1. Zato nije rekao: Jesi li ti onaj koji je došao?, nego: *Jesi li ti onaj koji ima doći?*, pitajući o budućem, a ne o prošlom. Slično ne treba vjerovati da nije znao da će on doći na muku; on je, naime, rekao: *Evo Jaganjca Božjega koji uzima grijehe svijeta*, unaprijed navješćujući njegovo buduće žrtvovanje; a i drugi su proroci to prije prorekli, kao što je osobito očito u Iz 53. Može se, dakle, reći, kako kaže Grgur, da je pitao ne znajući hoće li osobno sići nad pakao. Znao je, međutim, da će se snaga njegove muke protegnuti sve do onih koji su bili zadržani u limbu, prema onome iz Zah 9: *I ti si po krvi svoga saveza izveo sužnje iz jame u kojoj nema vode*. A nije bio obvezan izričito vjerovati, prije nego što se ispunilo, da će on sam sići. Ili se može reći, kako kaže Ambrozije u Tumačenju Luke, da nije pitao iz sumnje ili neznanja, nego više iz pobožnosti. Ili se može reći, kako kaže Zlatousti, da nije pitao kao da sam ne zna, nego da bi njegovi učenici po Kristu dobili odgovor koji će ih zadovoljiti. Stoga je i Krist, radi poučavanja učenika, odgovorio pokazujući znakove djela.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a7.ad3": {
+      "text": "Na treće treba reći da je mnogim poganima bila dana objava o Kristu, kako je očito iz onoga što su prorekli. Tako se u Job 19 kaže: *Znam da moj otkupitelj živi*. I Sibila je prorekla neke stvari o Kristu, kako kaže Augustin. Nalazi se i u povijestima Rimljana da je u vrijeme Konstantina Augusta i njegove majke Irene pronađen neki grob u kojem je ležao čovjek koji je na prsima imao zlatnu pločicu na kojoj je bilo napisano: *Krist će se roditi od djevice i ja vjerujem u njega. O sunce, za vremena Irene i Konstantina opet ćeš me vidjeti*. Ako su ipak neki bili spašeni kojima nije bila dana objava, nisu bili spašeni bez vjere u Posrednika. Jer, iako nisu imali izričitu vjeru, imali su ipak uključnu vjeru u božansku providnost, vjerujući da je Bog osloboditelj ljudi na načine koji su njemu mili i prema onome što je on objavio nekima koji su spoznali istinu, prema onome iz Job 35: *Koji nas poučava više nego zemaljske životinje*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da izričito vjerovati Trojstvo nije bilo nužno za spasenje. Apostol, naime, kaže u Heb 11: *Onaj koji pristupa Bogu mora vjerovati da on jest i da je nagraditelj onih koji ga traže*. Ali to se može vjerovati bez vjere u Trojstvo. Dakle, nije trebalo imati izričitu vjeru o Trojstvu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a8.obj2": {
+      "text": "Osim toga, Gospodin kaže u Iv 17: *Oče, očitovao sam ime tvoje ljudima*; a tumačeći to, Augustin kaže: *Ne ono tvoje ime kojim se zoveš Bog, nego ono kojim se zoveš moj Otac*. I poslije još dodaje: *Po tome što je Bog stvorio ovaj svijet, poznat je među svim narodima; po tome što ga ne treba štovati zajedno s lažnim bogovima, poznat je Bog u Judeji; a po tome što je Otac ovoga Krista po kojem uzima grijeh svijeta, to ime njegovo, prije skriveno, sada im je očitovao*. Dakle, prije Kristova dolaska nije bilo poznato da u božanstvu postoji očinstvo i sinovstvo. Prema tome, Trojstvo se nije izričito vjerovalo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a8.obj3": {
+      "text": "Osim toga, obvezni smo izričito vjerovati u Bogu ono što je predmet blaženstva. Ali predmet blaženstva je najviša dobrota, koja se u Bogu može shvatiti i bez razlikovanja osoba. Dakle, nije bilo nužno izričito vjerovati Trojstvo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a8.sc": {
+      "text": "Ali protiv toga jest to što je u Starom zavjetu Trojstvo osoba izraženo na mnogo načina, kao što se odmah na početku Knjige postanka kaže, da bi se izrazilo Trojstvo: *Načinimo čovjeka na svoju sliku i sličnost*. Dakle, od početka je bilo nužno za spasenje vjerovati Trojstvo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a8.resp": {
+      "text": "Odgovaram: treba reći da se Kristovo otajstvo ne može izričito vjerovati bez vjere u Trojstvo, jer je u Kristovu otajstvu sadržano to da je Sin Božji uzeo tijelo, da je milošću Duha Svetoga obnovio svijet i opet da je začet od Duha Svetoga. I stoga, na onaj način na koji su Kristovo otajstvo prije Krista viši vjerovali izričito, a niži uključno i kao zasjenjeno, tako i otajstvo Trojstva. I zato su i nakon vremena razglašene milosti svi obvezni izričito vjerovati otajstvo Trojstva. I svi koji se preporađaju u Kristu to postižu zazivanjem Trojstva, prema onome iz Mt 28: *Pođite, naučavajte sve narode krsteći ih u ime Oca i Sina i Duha Svetoga*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da je izričito vjerovati te dvije stvari o Bogu bilo nužno u svako doba i za sve. Ali to nije dovoljno u svako doba i za sve.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a8.ad2": {
+      "text": "Na drugo treba reći da je prije Kristova dolaska vjera u Trojstvo bila skrivena u vjeri viših. Ali po Kristu je preko apostola očitovana svijetu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a8.ad3": {
+      "text": "Na treće treba reći da se najviša Božja dobrota, na način na koji se sada shvaća po učincima, može shvatiti bez Trojstva osoba. Ali ukoliko se shvaća u sebi samoj, kako je vide blaženi, ne može se shvatiti bez Trojstva osoba. I opet, samo poslanje božanskih osoba uvodi nas u blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da vjerovanje nije zaslužno. Počelo je, naime, zasluživanja ljubav, kako je gore rečeno. Ali vjera je predvorje ljubavi, kao i narav. Dakle, kao što čin naravi nije zaslužan (jer naravnim stvarima ne zaslužujemo), tako ni čin vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a9.obj2": {
+      "text": "Osim toga, vjerovanje je sredina između mnijenja i znanja ili razmatranja onoga što se zna. Ali razmatranje znanja nije zaslužno, a slično ni mnijenje. Dakle, ni vjerovanje nije zaslužno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a9.obj3": {
+      "text": "Osim toga, onaj tko vjerujući pristaje uz neku stvar ili ima uzrok koji ga dovoljno navodi na vjerovanje ili nema. Ako ima ono što ga dovoljno navodi na vjerovanje, ne čini se da mu je to zaslužno, jer mu više nije slobodno vjerovati i ne vjerovati. Ako pak nema ono što ga dovoljno navodi na vjerovanje, vjerovati je lakomislenost, prema onome iz Sir 19: *tko brzo vjeruje, lakomislena je srca*; i tako se ne čini zaslužnim. Dakle, vjerovanje ni na koji način nije zaslužno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a9.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Heb 11, da su *sveti po vjeri zadobili obećanja*. To ne bi bilo kad ne bi vjerujući zasluživali. Dakle, samo je vjerovanje zaslužno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a9.resp": {
+      "text": "Odgovaram: treba reći da su, kako je gore rečeno, naši čini zaslužni ukoliko proizlaze iz slobodnog odlučivanja koje Bog pokreće po milosti. Stoga svaki ljudski čin koji je podložan slobodnom odlučivanju, ako je upravljen prema Bogu, može biti zaslužan. A samo je vjerovanje čin uma koji pristaje uz božansku istinu po zapovijedanju volje koju Bog pokreće po milosti; i tako je podložno slobodnom odlučivanju u usmjerenosti prema Bogu. Stoga čin vjere može biti zaslužan.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da se narav odnosi prema ljubavi, koja je počelo zasluživanja, kao tvar prema formi. Vjera se pak odnosi prema ljubavi kao raspoloživost koja prethodi posljednjoj formi. Očito je pak da subjekt ili tvar ne može djelovati snagom forme, a ni raspoloživost koja prethodi, prije nego što forma dođe. Ali nakon što forma dođe, i subjekt i prethodna raspoloživost djeluju snagom forme, koja je glavno počelo djelovanja, kao što toplina vatre djeluje snagom supstancijalne forme. Tako, dakle, ni narav ni vjera bez ljubavi ne mogu proizvesti zaslužan čin; ali kad pridođe ljubav, čin vjere postaje zaslužan po ljubavi, kao i čin naravi i naravnog slobodnog odlučivanja.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a9.ad2": {
+      "text": "Na drugo treba reći da se u znanju mogu razmatrati dvije stvari: sam pristanak onoga koji zna uz stvar koja se zna i razmatranje stvari koja se zna. Pristanak znanja nije podložan slobodnom odlučivanju, jer je onaj koji zna prisiljen na pristanak djelotvornošću dokaza. I zato pristanak znanja nije zaslužan. Ali zbiljsko razmatranje stvari koja se zna podložno je slobodnom odlučivanju: u čovjekovoj je, naime, vlasti razmatrati ili ne razmatrati. I zato razmatranje znanja može biti zaslužno ako se upravi prema svrsi ljubavi, to jest na čast Božju ili na korist bližnjega. Ali u vjeri je oboje podložno slobodnom odlučivanju. I zato s obzirom na oboje čin vjere može biti zaslužan. Mnijenje pak nema čvrst pristanak: ono je, naime, nešto slabo i nemoćno, prema Filozofu u I. knjizi Druge analitike. Stoga se ne čini da proizlazi iz savršene volje. I tako se sa strane pristanka ne čini da ima mnogo od pojma zasluge. Ali sa strane zbiljskog razmatranja može biti zaslužno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a9.ad3": {
+      "text": "Na treće treba reći da onaj koji vjeruje ima ono što ga dovoljno navodi na vjerovanje: navodi ga, naime, autoritet božanskog nauka potvrđenog čudesima i, što je više, unutarnji poticaj Boga koji poziva. Stoga ne vjeruje lakomisleno. Ipak nema ono što bi ga dovoljno navodilo na znanje. I zato se ne dokida pojam zasluge.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da razlog naveden u prilog onome što pripada vjeri umanjuje zaslugu vjere. Grgur, naime, kaže u jednoj homiliji da *nema zasluge ona vjera kojoj ljudski razum pruža potvrdu*. Ako, dakle, ljudski razum koji pruža dovoljnu potvrdu posve isključuje zaslugu vjere, čini se da kakav god ljudski razlog naveden u prilog onome što pripada vjeri umanjuje zaslugu vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a10.obj2": {
+      "text": "Osim toga, što god umanjuje pojam kreposti, umanjuje i pojam zasluge, jer je sreća nagrada kreposti, kako kaže i Filozof u I. knjizi Etike. Ali čini se da ljudski razlog umanjuje pojam kreposti same vjere, jer pojmu vjere pripada da bude o onome što se ne pokazuje, kako je gore rečeno; a što se više razloga navodi za nešto, to je ono manje nešto što se ne pokazuje. Dakle, ljudski razlog naveden u prilog onome što pripada vjeri umanjuje zaslugu vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a10.obj3": {
+      "text": "Osim toga, protivnih su stvari protivni uzroci. Ali ono što se navodi protiv vjere povećava zaslugu vjere, bilo da je to progonstvo onoga koji sili na odstupanje od vjere, bilo neki razlog koji na to nagovara. Dakle, razlog koji pomaže vjeri umanjuje zaslugu vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a10.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1 Pt 3: *uvijek spremni na odgovor svakomu tko od vas ište razlog vjere i nade koja je u vama*. Apostol pak ne bi na to poticao kad bi se time umanjivala zasluga vjere. Dakle, razlog ne umanjuje zaslugu vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a10.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, čin vjere može biti zaslužan ukoliko je podložan volji ne samo s obzirom na uporabu nego i s obzirom na pristanak. Ljudski se pak razlog naveden u prilog onome što pripada vjeri može dvojako odnositi prema volji onoga koji vjeruje. Na jedan način kao ono što prethodi, primjerice kad netko ili ne bi imao volje ili ne bi imao spremne volje za vjerovanje kad se ne bi naveo ljudski razlog. I tako naveden ljudski razlog umanjuje zaslugu vjere, kao što je i gore rečeno da strast koja prethodi izboru u moralnim krepostima umanjuje hvalu krepostnog čina. Kao što, naime, čovjek treba vršiti čine moralnih kreposti zbog suda razuma, a ne zbog strasti, tako čovjek treba vjerovati ono što pripada vjeri ne zbog ljudskog razloga, nego zbog božanskog autoriteta. Na drugi se način ljudski razlog može odnositi prema volji onoga koji vjeruje kao ono što slijedi. Kad, naime, čovjek ima spremnu volju za vjerovanje, ljubi vjerovanu istinu te o njoj razmišlja i prihvaća razloge ako ih može za to naći. I s obzirom na to ljudski razlog ne isključuje zaslugu vjere, nego je znak veće zasluge, kao što je i strast koja slijedi u moralnim krepostima znak spremnije volje, kako je gore rečeno. I to se označuje u Iv 4, gdje su Samarijanci rekli ženi, kojom je označen ljudski razum: *više ne vjerujemo zbog tvoje besjede*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da Grgur govori o onom slučaju kad čovjek nema volje vjerovati osim zbog navedenog razloga. Kad pak čovjek ima volju vjerovati ono što pripada vjeri samo zbog božanskog autoriteta, čak i ako ima dokazni razlog za nešto od toga, primjerice za to da Bog jest, time se ne dokida niti umanjuje zasluga vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a10.ad2": {
+      "text": "Na drugo treba reći da razlozi koji se navode u prilog autoritetu vjere nisu dokazi koji mogu ljudski um dovesti do umljivog gledanja. I zato ono što pripada vjeri ne prestaje biti ono što se ne pokazuje. Ali ti razlozi uklanjaju zapreke vjeri, pokazujući da nije nemoguće ono što se u vjeri predlaže. Stoga se takvim razlozima ne umanjuje ni zasluga vjere ni pojam vjere. A dokazni razlozi navedeni u prilog onome što pripada vjeri, ali što je predvorje člancima, premda umanjuju pojam vjere, jer čine da se ono što se predlaže pokazuje, ipak ne umanjuju pojam ljubavi, po kojoj je volja spremna to vjerovati čak i kad se ne bi pokazivalo. I zato se ne umanjuje pojam zasluge.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q2.a10.ad3": {
+      "text": "Na treće treba reći da ono što se protivi vjeri, bilo u čovjekovu razmatranju bilo u vanjskom progonstvu, utoliko povećava zaslugu vjere ukoliko se pokazuje spremnija i čvršća volja u vjeri. I zato su mučenici imali veću zaslugu vjere ne odstupajući od vjere zbog progonstava; a i mudri imaju veću zaslugu vjere ne odstupajući od vjere zbog razloga filozofa ili heretika navedenih protiv vjere. Ali ono što se slaže s vjerom ne umanjuje uvijek spremnost volje za vjerovanje. I zato ne umanjuje uvijek zaslugu vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    }
+  }
+}

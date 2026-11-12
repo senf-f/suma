@@ -1,0 +1,612 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 1,
+  "units": {
+    "II-II.q1.pr": {
+      "text": "Glede bogoslovnih kreposti, dakle, najprije će trebati razmotriti vjeru; drugo, nadu; treće, ljubav. Glede vjere pak nameće se četverostruko razmatranje: prvo, o samoj vjeri; drugo, o darovima razuma i znanja koji joj odgovaraju; treće, o suprotstavljenim porocima; četvrto, o zapovijedima koje pripadaju toj kreposti. Glede vjere najprije će trebati razmotriti njezin predmet; drugo, njezin čin; treće, sam habitus vjere. Glede prvoga pita se deset stvari. Prvo, je li predmet vjere prva istina. Drugo, je li predmet vjere nešto složeno ili nesloženo, to jest stvar ili izjavljivo. Treće, može li vjeri biti podložno nešto lažno. Četvrto, može li predmet vjere biti nešto viđeno. Peto, može li biti nešto znano. Šesto, treba li ono što valja vjerovati razlikovati po određenim člancima. Sedmo, jesu li isti članci podložni vjeri u svako vrijeme. Osmo, o broju članaka. Deveto, o načinu predavanja članaka u Vjerovanju. Deseto, čija je stvar sastaviti Vjerovanje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da predmet vjere nije prva istina. Čini se, naime, da je predmet vjere ono što nam se predlaže da vjerujemo. Ali nam se ne predlaže da vjerujemo samo ono što pripada božanstvu, koje je prva istina, nego i ono što pripada Kristovu čovještvu, sakramentima Crkve i stvaranju stvorova. Dakle, nije samo prva istina predmet vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a1.obj2": {
+      "text": "Osim toga, vjera i nevjera odnose se na isto, budući da su suprotstavljene. Ali nevjera može biti glede svega što je sadržano u Svetom pismu: tko god, naime, zaniječe bilo što od toga, smatra se nevjernikom. Dakle, i vjera se odnosi na sve što je sadržano u Svetom pismu. Ali ondje je sadržano mnogo toga o ljudima i o drugim stvorenim stvarima. Dakle, predmet vjere nije samo prva istina, nego i stvorena istina.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a1.obj3": {
+      "text": "Osim toga, vjera i ljubav usporedni su članovi iste diobe, kao što je gore rečeno. Ali ljubavlju ne ljubimo samo Boga, koji je najviša dobrota, nego ljubimo i bližnjega. Dakle, predmet vjere nije samo prva istina.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Dionizije u VII. poglavlju djela O božanskim imenima, da se *vjera odnosi na jednostavnu i uvijek postojeću istinu*. A to je prva istina. Dakle, predmet vjere je prva istina.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a1.resp": {
+      "text": "Odgovaram: treba reći da predmet svakoga spoznajnog habitusa ima dvoje: naime ono što se spoznaje tvarno, što je kao tvarni predmet, i ono po čemu se spoznaje, što je formalni razlog predmeta. Tako su u znanosti geometrije tvarno znani zaključci, a formalni razlog znanja jesu srednji termini dokaza, po kojima se zaključci spoznaju. Tako je, dakle, u vjeri: ako promatramo formalni razlog predmeta, on nije ništa drugo nego prva istina. Vjera, naime, o kojoj govorimo ne pristaje ni uz što osim zato što je to od Boga objavljeno; stoga se oslanja na samu božansku istinu kao na sredstvo. Ako pak promatramo tvarno ono uz što vjera pristaje, to nije samo sam Bog, nego i mnogo drugoga. Ipak, to ne potpada pod pristanak vjere osim ukoliko ima neku usmjerenost prema Bogu, naime ukoliko se po nekim učincima božanstva čovjeku pomaže da teži prema uživanju Boga. I stoga je i s te strane predmet vjere na neki način prva istina, ukoliko ništa ne potpada pod vjeru osim u usmjerenosti prema Bogu; kao što je i predmet medicine zdravlje, jer medicina ništa ne razmatra osim u usmjerenosti prema zdravlju.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono što pripada Kristovu čovještvu i sakramentima Crkve ili bilo kojim stvorovima potpada pod vjeru ukoliko smo po tome usmjereni prema Bogu. I uz to također pristajemo zbog božanske istine.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a1.ad2": {
+      "text": "I slično treba reći na drugo, glede svega onoga što se predaje u Svetom pismu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a1.ad3": {
+      "text": "Na treće treba reći da i ljubav ljubi bližnjega zbog Boga; i tako je njezin predmet u vlastitom smislu sam Bog, kao što će se niže reći.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da predmet vjere nije nešto složeno na način izjavljivoga. Predmet je vjere, naime, prva istina, kao što je rečeno. Ali prva je istina nešto nesloženo. Dakle, predmet vjere nije nešto složeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a2.obj2": {
+      "text": "Osim toga, izlaganje vjere sadržano je u Vjerovanju. Ali u Vjerovanju se ne postavljaju izjavljiva, nego stvari: ondje se, naime, ne kaže da je Bog svemoguć, nego: Vjerujem u Boga svemogućega. Dakle, predmet vjere nije izjavljivo, nego stvar.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a2.obj3": {
+      "text": "Osim toga, vjeru nasljeđuje gledanje, prema onome iz 1 Kor 13: *Sada vidimo kao u zrcalu, u zagonetki, a tada licem u lice*. Ali gledanje u domovini odnosi se na nešto nesloženo, budući da je to gledanje same božanske biti. Dakle, i vjera u stanju puta.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a2.sc": {
+      "text": "Ali protiv toga, vjera je sredina između znanja i mnijenja. A sredina i krajnosti pripadaju istom rodu. Budući, dakle, da se znanje i mnijenje odnose na izjavljiva, čini se da se i vjera slično odnosi na izjavljiva. I tako je predmet vjere, budući da se vjera odnosi na izjavljiva, nešto složeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a2.resp": {
+      "text": "Odgovaram: treba reći da je spoznato u spoznavatelju na način spoznavatelja. A vlastiti je način ljudskoga uma da istinu spoznaje sastavljanjem i rastavljanjem, kao što je rečeno u Prvom dijelu. I stoga ono što je samo po sebi jednostavno ljudski um spoznaje u nekoj složenosti, kao što obratno božanski um nesloženo spoznaje ono što je samo po sebi složeno. Tako se, dakle, predmet vjere može promatrati na dva načina. Na jedan način, sa strane same vjerovane stvari, i tako je predmet vjere nešto nesloženo, naime sama stvar o kojoj se ima vjera. Na drugi način, sa strane onoga koji vjeruje, i prema tome je predmet vjere nešto složeno na način izjavljivoga. I stoga su kod starih oba mišljenja bila s pravom zastupana, i oba su u nekom pogledu istinita.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj razlog govori o predmetu vjere sa strane same vjerovane stvari.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a2.ad2": {
+      "text": "Na drugo treba reći da se u Vjerovanju dotiče ono o čemu je vjera ukoliko u tome završava čin onoga koji vjeruje, kao što je jasno iz samog načina govora. A čin onoga koji vjeruje ne završava u izjavljivome, nego u stvari; izjavljiva, naime, ne oblikujemo osim zato da po njima imamo spoznaju o stvarima, kako u znanju, tako i u vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a2.ad3": {
+      "text": "Na treće treba reći da će gledanje u domovini biti gledanje prve istine onakve kakva je u sebi, prema onome iz 1 Iv 3: *Kad se pojavi, bit ćemo mu slični i vidjet ćemo ga kakav jest*. I stoga to gledanje neće biti na način izjavljivoga, nego na način jednostavnog shvaćanja. Ali po vjeri ne zahvaćamo prvu istinu kakva je u sebi. Stoga ne vrijedi isti razlog.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da vjeri može biti podložno nešto lažno. Vjera je, naime, usporedni član iste diobe s nadom i ljubavlju. Ali nadi može biti podložno nešto lažno: mnogi se, naime, nadaju da će imati vječni život, a neće ga imati. Slično i ljubavi: mnoge se, naime, ljubi kao dobre, a ipak nisu dobri. Dakle, i vjeri može biti podložno nešto lažno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a3.obj2": {
+      "text": "Osim toga, Abraham je vjerovao da će se Krist roditi, prema onome iz Iv 8: *Abraham, otac vaš, klicao je da vidi dan moj*. Ali nakon Abrahamova vremena Bog se mogao i ne utjeloviti, jer je tijelo uzeo samo svojom voljom; i tako bi bilo lažno ono što je Abraham vjerovao o Kristu. Dakle, vjeri može biti podložno nešto lažno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a3.obj3": {
+      "text": "Osim toga, vjera starih bila je da će se Krist roditi, i ta je vjera u mnogima trajala sve do propovijedanja Evanđelja. Ali kad se Krist već rodio, prije nego što je počeo propovijedati, bilo je lažno da će se Krist roditi. Dakle, vjeri može biti podložno nešto lažno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a3.obj4": {
+      "text": "Osim toga, jedno od onoga što pripada vjeri jest da tko vjeruje kako je pod sakramentom oltara sadržano pravo Kristovo tijelo. Može se pak dogoditi, kad se ne posveti ispravno, da ondje nije pravo Kristovo tijelo, nego samo kruh. Dakle, vjeri može biti podložno nešto lažno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a3.sc": {
+      "text": "Ali protiv toga, nijedna krepost koja usavršuje um ne odnosi se na lažno, ukoliko je ono zlo uma, kao što je jasno kod Filozofa u VI. knjizi Etike. Ali vjera je neka krepost koja usavršuje um, kao što će niže biti jasno. Dakle, njoj ne može biti podložno ništa lažno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a3.resp": {
+      "text": "Odgovaram: treba reći da ništa nije podložno nekoj moći ili habitusu ili pak činu osim posredstvom formalnog razloga predmeta, kao što se boja ne može vidjeti osim po svjetlu, a zaključak se ne može znati osim po srednjem terminu dokaza. A rečeno je da je formalni razlog predmeta vjere prva istina. Stoga ništa ne može potpasti pod vjeru osim ukoliko stoji pod prvom istinom. Pod njom pak ne može stajati ništa lažno, kao što ni nebiće ne stoji pod bićem, ni zlo pod dobrotom. Stoga preostaje da vjeri ne može biti podložno ništa lažno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da je istinito dobro uma, a nije dobro težnjene snage, sve kreposti koje usavršuju um potpuno isključuju lažno, jer pripada pojmu kreposti da se odnosi samo na dobro. Kreposti pak koje usavršuju težnjeni dio ne isključuju potpuno lažno: netko, naime, može djelovati prema pravednosti ili umjerenosti imajući neko lažno mnijenje o onome oko čega djeluje. I tako, budući da vjera usavršuje um, a nada i ljubav težnjeni dio, ne vrijedi za njih isti razlog. Pa ipak ni nadi nije podložno ništa lažno. Nitko se, naime, ne nada da će imati vječni život po vlastitoj moći (to bi, naime, pripadalo preuzetnosti), nego po pomoći milosti, u kojoj će, ako ustraje, posve nepogrešivo postići vječni život. Slično i ljubavi pripada ljubiti Boga u kome god on bio. Stoga za ljubav nije važno je li Bog u onome koji se ljubi zbog Boga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a3.ad2": {
+      "text": "Na drugo treba reći da je to da se Bog ne utjelovi, promatrano samo po sebi, bilo moguće i nakon Abrahamova vremena. Ali ukoliko potpada pod božansko predznanje, ima neku nužnost nepogrešivosti, kao što je rečeno u Prvom dijelu. I na taj način potpada pod vjeru. Stoga, kako potpada pod vjeru, ne može biti lažno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a3.ad3": {
+      "text": "Na treće treba reći da je nakon Kristova rođenja vjeri onoga koji vjeruje pripadalo to da vjeruje kako se on rađa u neko vrijeme. Ali ono određivanje vremena u kojem se varao nije bilo iz vjere, nego iz ljudskog nagađanja. Moguće je, naime, da vjernik iz ljudskog nagađanja smatra nešto lažno. Ali da iz vjere smatra nešto lažno, to je nemoguće.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a3.ad4": {
+      "text": "Na četvrto treba reći da se vjera onoga koji vjeruje ne odnosi na ove ili one prilike kruha, nego na to da je pravo Kristovo tijelo pod prilikama osjetnoga kruha kad je ispravno posvećeno. Stoga, ako nije ispravno posvećeno, vjeri zbog toga neće biti podložno ništa lažno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:17+00:00"
+    },
+    "II-II.q1.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da predmet vjere jest nešto viđeno. Gospodin, naime, kaže Tomi, Iv 20: *Jer si me vidio, povjerovao si*. Dakle, i viđenje i vjera odnose se na isto.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a4.obj2": {
+      "text": "Osim toga, Apostol u 1 Kor 13 kaže: *Sada vidimo kao u zrcalu, u zagonetki*. I govori o spoznaji vjere. Dakle, ono što se vjeruje vidi se.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a4.obj3": {
+      "text": "Osim toga, vjera je neko duhovno svjetlo. Ali po bilo kojem svjetlu nešto se vidi. Dakle, vjera se odnosi na viđene stvari.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a4.obj4": {
+      "text": "Osim toga, svako se osjetilo naziva vidom, kako kaže Augustin u knjizi O Gospodinovim riječima. Ali vjera se odnosi na ono što se čuje, prema onome iz Rim 10: vjera je po slušanju. Dakle, vjera se odnosi na viđene stvari.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Heb 11, da je *vjera dokaz onoga što se ne pokazuje*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a4.resp": {
+      "text": "Odgovaram: treba reći da vjera uključuje pristanak uma uz ono što se vjeruje. A um uz nešto pristaje na dva načina. Na jedan način, zato što ga na to pokreće sam predmet, koji je ili spoznat po sebi samome, kao što je jasno kod prvih načela, kojih je um; ili je spoznat po drugome, kao što je jasno kod zaključaka, kojih je znanje. Na drugi način um pristaje uz nešto ne zato što bi ga dostatno pokretao vlastiti predmet, nego nekim izborom, voljno se priklanjajući jednoj strani više nego drugoj. I ako se to događa sa sumnjom i bojazni od druge strane, bit će to mnijenje; a ako se događa s izvjesnošću, bez takve bojazni, bit će to vjera. Viđenim se pak naziva ono što samo po sebi pokreće naš um ili osjetilo na svoju spoznaju. Stoga je očito da ni vjera ni mnijenje ne mogu biti o viđenome, bilo prema osjetilu bilo prema umu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je *Toma jedno vidio, a drugo vjerovao. Čovjeka je vidio, a Boga je vjerujući priznao kad je rekao: Gospodin moj i Bog moj*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a4.ad2": {
+      "text": "Na drugo treba reći da se ono što je podložno vjeri može promatrati na dva načina. Na jedan način, posebno, i tako ne može istodobno biti viđeno i vjerovano, kao što je rečeno. Na drugi način, općenito, naime pod općim pojmom onoga što valja vjerovati. I tako to vidi onaj koji vjeruje: ne bi, naime, vjerovao kad ne bi vidio da to valja vjerovati, bilo zbog očitosti znakova bilo zbog nečega takvoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a4.ad3": {
+      "text": "Na treće treba reći da svjetlo vjere čini da se vidi ono što se vjeruje. Kao što, naime, po drugim habitusima kreposti čovjek vidi ono što mu je prikladno prema tom habitusu, tako je i po habitusu vjere duh čovjekov nagnut da pristaje uz ono što je prikladno ispravnoj vjeri, a ne uz drugo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a4.ad4": {
+      "text": "Na četvrto treba reći da se sluh odnosi na riječi koje označuju ono što pripada vjeri, a ne na same stvari o kojima je vjera. I tako nije potrebno da takve stvari budu viđene.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da ono što pripada vjeri može biti znano. Čini se, naime, da je ono što se ne zna neznano, jer se neznanje protivi znanju. Ali ono što pripada vjeri nije neznano: neznanje toga, naime, pripada nevjeri, prema onome iz 1 Tim 1: *Učinio sam to ne znajući, u svojoj nevjeri*. Dakle, ono što pripada vjeri može biti znano.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a5.obj2": {
+      "text": "Osim toga, znanje se stječe razlozima. Ali sveti pisci navode razloge za ono što pripada vjeri. Dakle, ono što pripada vjeri može biti znano.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a5.obj3": {
+      "text": "Osim toga, ono što se dokazuje dokaznim putem jest znano, jer je dokaz silogizam koji čini da se zna. Ali nešto od onoga što je sadržano u vjeri filozofi su dokazali dokaznim putem, kao da Bog jest, i da je Bog jedan, i drugo takvo. Dakle, ono što pripada vjeri može biti znano.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a5.obj4": {
+      "text": "Osim toga, mnijenje je udaljenije od znanja nego vjera, budući da se za vjeru kaže da je sredina između mnijenja i znanja. Ali mnijenje i znanje mogu se na neki način odnositi na isto, kako se kaže u I. knjizi Druge analitike. Dakle, i vjera i znanje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur, da *ono što se pokazuje nema vjere, nego uviđanje*. Dakle, ono o čemu je vjera nema uviđanja. Ali ono što je znano ima uviđanje. Dakle, o onome što je znano ne može biti vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a5.resp": {
+      "text": "Odgovaram: treba reći da se svako znanje ima po nekim po sebi poznatim načelima, i prema tome viđenima. I stoga sve što je znano mora na neki način biti viđeno. A nije moguće da isto bude od istoga i vjerovano i viđeno, kao što je gore rečeno. Stoga je također nemoguće da isto bude od istoga i znano i vjerovano. Ipak se može dogoditi da ono što je od jednoga viđeno ili znano, od drugoga bude vjerovano. Ono, naime, što vjerujemo o Trojstvu nadamo se da ćemo vidjeti, prema onome iz 1 Kor 13: *Sada vidimo kao u zrcalu, u zagonetki, a tada licem u lice*; a to gledanje već imaju anđeli, pa ono što mi vjerujemo oni vide. I slično se može dogoditi da ono što je od jednoga čovjeka, pa i u stanju puta, viđeno ili znano, bude vjerovano od drugoga, koji to ne poznaje dokaznim putem. Ipak, ono što se zajednički svim ljudima predlaže kao ono što valja vjerovati, zajednički nije znano. I to je ono što je naprosto podložno vjeri. I stoga se vjera i znanje ne odnose na isto.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da nevjernici imaju neznanje o onome što pripada vjeri, jer niti to vide ili znaju u njemu samome, niti spoznaju da to valja vjerovati. Ali na taj način vjernici imaju poznavanje toga, ne kao dokaznim putem, nego ukoliko se po svjetlu vjere vidi da to valja vjerovati, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a5.ad2": {
+      "text": "Na drugo treba reći da razlozi koje sveci navode da bi dokazali ono što pripada vjeri nisu dokazni, nego neka uvjeravanja koja pokazuju da nije nemoguće ono što se u vjeri predlaže. Ili polaze od načela vjere, naime od autoriteta Svetoga pisma, kako kaže Dionizije u II. poglavlju djela O božanskim imenima. A iz tih se načela nešto dokazuje kod vjernika kao što se i iz naravno poznatih načela nešto dokazuje kod svih. Stoga je i teologija znanost, kao što je rečeno na početku djela.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a5.ad3": {
+      "text": "Na treće treba reći da se ono što se može dokazati dokaznim putem ubraja među ono što valja vjerovati ne zato što bi o tome kod svih naprosto bila vjera, nego zato što se to prethodno zahtijeva za ono što pripada vjeri, i to moraju barem vjerom pretpostavljati oni koji za to nemaju dokaza.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a5.ad4": {
+      "text": "Na četvrto treba reći da, kako ondje kaže Filozof, različiti ljudi mogu imati znanje i mnijenje o posve istome, kao što je i sada rečeno o znanju i vjeri. Ali jedan te isti može imati vjeru i znanje o istome u nekom pogledu, naime po subjektu, ali ne u istom pogledu: može, naime, biti da netko o jednoj te istoj stvari nešto zna, a nešto drugo mni; i slično netko može o Bogu dokaznim putem znati da je jedan, a vjerovati da je trojedin. Ali o istome u istom pogledu ne može u jednom čovjeku istodobno biti znanje ni s mnijenjem ni s vjerom, premda iz drukčijeg razloga u jednom i u drugom slučaju. Znanje, naime, ne može naprosto biti istodobno s mnijenjem o istome, jer pripada pojmu znanja da se za ono što se zna smatra kako je nemoguće da bude drukčije, a pripada pojmu mnijenja da tko za ono što smatra smatra kako je moguće da bude drukčije. Ali i za ono što se drži vjerom, zbog izvjesnosti vjere, smatra se kako je nemoguće da bude drukčije; nego iz ovog razloga isto ne može istodobno i u istom pogledu biti znano i vjerovano: jer je znano viđeno, a vjerovano je neviđeno, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da ono što valja vjerovati ne treba razlikovati po određenim člancima. O svemu onome, naime, što je sadržano u Svetom pismu treba imati vjeru. Ali to se ne može svesti na neki određeni broj, zbog svojega mnoštva. Dakle, čini se suvišnim razlikovati članke vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a6.obj2": {
+      "text": "Osim toga, tvarno razlikovanje, budući da može ići u beskonačnost, umijeće treba izostaviti. Ali formalni razlog predmeta koji valja vjerovati jedan je i nedjeljiv, kao što je gore rečeno, naime prva istina; i tako se prema formalnom razlogu ono što valja vjerovati ne može razlikovati. Dakle, treba izostaviti tvarno razlikovanje onoga što valja vjerovati po člancima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a6.obj3": {
+      "text": "Osim toga, kako neki kažu, *članak je nedjeljiva istina o Bogu koja nas veže da vjerujemo*. Ali vjerovanje je voljno, jer, kako kaže Augustin, nitko ne vjeruje osim htijući. Dakle, čini se da se ono što valja vjerovati neprikladno razlikuje po člancima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Izidor: *članak je poimanje božanske istine koje teži prema njoj samoj*. Ali poimanje božanske istine pripada nam prema nekom razlikovanju: ono što je u Bogu jedno, umnaža se u našem umu. Dakle, ono što valja vjerovati treba razlikovati po člancima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a6.resp": {
+      "text": "Odgovaram: treba reći da je ime članka, čini se, izvedeno iz grčkoga. Arthron, naime, na grčkom, što se na latinskom kaže articulus, označuje neko međusobno uklapanje nekih razlikovanih dijelova. I stoga se dijelovi tijela međusobno uklopljeni nazivaju člancima udova. I slično se u gramatici kod Grka člancima nazivaju neki dijelovi govora koji se pridružuju drugim riječima da izraze njihov rod, broj ili padež. I slično se u retorici člancima nazivaju neka uklapanja dijelova; Tulije, naime, kaže u IV. knjizi Retorike da se *o članku govori kad se pojedine riječi stankama odvajaju u isprekidanom govoru, na ovaj način: oštrinom, glasom, licem uplašio si protivnike*. Stoga se i za ono što valja vjerovati u kršćanskoj vjeri kaže da se razlikuje po člancima, ukoliko se dijeli na neke dijelove koji imaju neko međusobno uklapanje. A predmet vjere je nešto neviđeno o božanskome, kao što je gore rečeno. I stoga, gdje se pojavljuje nešto neviđeno iz posebnog razloga, ondje je poseban članak; a gdje je mnogo toga nepoznato po istom razlogu, ondje ne treba razlikovati članke. Tako je jedna teškoća vidjeti da je Bog trpio, a druga da je mrtav uskrsnuo; i stoga se članak o uskrsnuću razlikuje od članka o muci. Ali to da je trpio, umro i bio pokopan ima jednu te istu teškoću, tako da, kad se jedno prihvati, nije teško prihvatiti drugo; i zbog toga sve to pripada jednom članku.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je nešto od onoga što valja vjerovati takvo da je o tome vjera po sebi, a nešto takvo da o tome nije vjera po sebi, nego samo u usmjerenosti prema drugome; kao što se i u drugim znanostima nešto predlaže kao ono na što se po sebi smjera, a nešto radi očitovanja drugoga. Budući pak da je vjera ponajprije o onome što se nadamo vidjeti u domovini, prema onome iz Heb 11: *Vjera je supstancija stvari kojima se nadamo*, zato vjeri po sebi pripada ono što nas izravno usmjeruje prema vječnom životu, kao što su tri osobe, Božja svemoć, otajstvo Kristova utjelovljenja i drugo takvo. I prema tome se razlikuju članci vjere. Nešto se pak u Svetom pismu predlaže da se vjeruje ne kao ono na što se ponajprije smjera, nego radi očitovanja prije rečenoga, kao to da je Abraham imao dva sina, da je na dodir Elizejevih kostiju uskrsnuo mrtvac, i drugo takvo, što se u Svetom pismu pripovijeda radi očitovanja božanskoga veličanstva ili Kristova utjelovljenja. I prema takvome nije potrebno razlikovati članke.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a6.ad2": {
+      "text": "Na drugo treba reći da se formalni razlog predmeta vjere može uzeti na dva načina. Na jedan način, sa strane same vjerovane stvari. I tako je formalni razlog svega što valja vjerovati jedan, naime prva istina. I s te se strane članci ne razlikuju. Na drugi način formalni razlog onoga što valja vjerovati može se uzeti s naše strane. I tako je formalni razlog onoga što valja vjerovati to da je neviđeno. I s te se strane članci vjere razlikuju, kao što se vidjelo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a6.ad3": {
+      "text": "Na treće treba reći da je ta definicija članka dana više prema nekoj etimologiji imena, ukoliko ima latinsko podrijetlo, nego prema njegovu pravom značenju, ukoliko potječe iz grčkoga. Stoga nema velike težine. Ipak se može reći da, iako nitko nije vezan na vjerovanje nužnošću prisile, budući da je vjerovanje voljno, ipak je vezan nužnošću svrhe, jer *onaj koji pristupa Bogu mora vjerovati, i bez vjere je nemoguće svidjeti se Bogu*, kako kaže Apostol, Heb 11.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da članci vjere nisu rasli tijekom slijeda vremena. Jer, kako kaže Apostol u Heb 11, *vjera je supstancija stvari kojima se nadamo*. Ali u svako je vrijeme isto ono čemu se treba nadati. Dakle, u svako je vrijeme isto ono što valja vjerovati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a7.obj2": {
+      "text": "Osim toga, u znanostima koje su ljudi uredili došlo je tijekom slijeda vremena do porasta zbog nedostatka spoznaje kod prvih koji su te znanosti pronašli, kao što je jasno kod Filozofa u II. knjizi Metafizike. Ali nauk vjere nisu pronašli ljudi, nego ga je predao Bog: Božji je, naime, dar, kako se kaže Ef 2. Budući, dakle, da u Boga ne može pasti nikakav nedostatak znanja, čini se da je spoznaja onoga što valja vjerovati od početka bila savršena i da nije rasla tijekom slijeda vremena.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a7.obj3": {
+      "text": "Osim toga, djelovanje milosti ne odvija se manje uređeno nego djelovanje prirode. Ali priroda uvijek počinje od savršenoga, kako kaže Boetije u knjizi O utjehi filozofije. Dakle, čini se da je i djelovanje milosti počelo od savršenoga, tako da su oni koji su prvi predali vjeru nju najsavršenije spoznali.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a7.obj4": {
+      "text": "Osim toga, kao što je po apostolima k nama došla Kristova vjera, tako je i u Starom zavjetu spoznaja vjere došla od ranijih otaca do kasnijih, prema onome iz Pnz 32: *Pitaj oca svojega i navijestit će ti*. Ali apostoli su bili najpotpunije poučeni o otajstvima: primili su, naime, *kao što su bili vremenom prije, tako i obilnije od ostalih*, kako kaže Glosa na ono iz Rim 8: *Mi sami koji imamo prvine Duha*. Dakle, čini se da spoznaja onoga što valja vjerovati nije rasla tijekom slijeda vremena.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur, da je *znanje svetih otaca raslo s porastom vremena, i što su bili bliži dolasku Spasitelja, to su potpunije primili otajstva spasenja*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a7.resp": {
+      "text": "Odgovaram: treba reći da se članci vjere u nauku vjere odnose kao po sebi poznata načela u nauku koji se ima po naravnom razumu. U tim se načelima nalazi neki red, tako da su neka uključno sadržana u drugima, kao što se sva načela svode na ovo kao na prvo: *nemoguće je istodobno tvrditi i nijekati*, kao što je jasno kod Filozofa u IV. knjizi Metafizike. I slično su svi članci uključno sadržani u nekim prvim stvarima koje valja vjerovati, naime da se vjeruje da Bog jest i da ima providnost o spasenju ljudi, prema onome iz Heb 11: *Onaj koji pristupa Bogu mora vjerovati da on jest i da je nagraditelj onih koji ga traže*. U božanskom su, naime, bitku uključene sve stvari za koje vjerujemo da vječno postoje u Bogu, u kojima se sastoji naše blaženstvo; a u vjeri u providnost uključeno je sve što Bog u vremenu raspoređuje za spasenje ljudi, a što je put u blaženstvo. I na taj su način i od ostalih članaka, koji slijede, neki sadržani u drugima; tako su u vjeri u otkupljenje ljudi uključno sadržani i Kristovo utjelovljenje i njegova muka i sve takvo. Tako, dakle, treba reći da, što se tiče supstancije članaka vjere, nije došlo do njihova porasta tijekom slijeda vremena, jer sve što su kasniji vjerovali bilo je sadržano u vjeri prethodnih otaca, premda uključno. Ali što se tiče izričitog razvijanja, porastao je broj članaka, jer su kasniji izričito spoznali nešto što raniji nisu izričito spoznavali. Stoga Gospodin kaže Mojsiju, Izl 6: *Ja sam Bog Abrahamov, Bog Izakov, Bog Jakovljev, a ime svoje Adonai nisam im objavio*. I David kaže: *Razumio sam više od staraca*. I Apostol kaže u Ef 3: *Drugim naraštajima nije bilo spoznato otajstvo Kristovo kao što je sada objavljeno njegovim svetim apostolima i prorocima*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da je kod svih uvijek bilo isto ono čemu se treba nadati. Budući pak da ljudi do onoga čemu se nadaju nisu došli osim po Kristu, što su vremenski bili udaljeniji od Krista, to su bili dalje od postizanja onoga čemu se nadaju; stoga Apostol kaže u Heb 11: *U vjeri su umrli svi ovi ne primivši obećanja, nego gledajući ih izdaleka*. A što se nešto gleda iz veće daljine, to se manje razgovijetno vidi. I stoga su dobra kojima se treba nadati razgovjetnije spoznali oni koji su bili blizu Kristovu dolasku.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a7.ad2": {
+      "text": "Na drugo treba reći da se napredak spoznaje događa na dva načina. Na jedan način, sa strane onoga koji poučava, koji napreduje u spoznaji tijekom slijeda vremena, bio on jedan ili ih bilo više. I to je razlog porasta u znanostima pronađenima ljudskim razumom. Na drugi način, sa strane onoga koji uči; tako učitelj koji poznaje cijelo umijeće ne predaje ga učeniku odmah od početka, jer ga ovaj ne bi mogao shvatiti, nego postupno, spuštajući se do njegove sposobnosti. I na taj su način ljudi napredovali u spoznaji vjere tijekom slijeda vremena. Stoga Apostol u Gal 3 uspoređuje stanje Staroga zavjeta s djetinjstvom.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a7.ad3": {
+      "text": "Na treće treba reći da se za prirodno nastajanje prethodno zahtijevaju dva uzroka, naime djelatnik i tvar. Prema redu djelatnog uzroka, dakle, po naravi je prije ono što je savršenije, i tako priroda počinje od savršenoga, jer se nesavršeno ne dovodi do savršenosti osim po nečemu savršenom što prethodno postoji. Prema redu pak tvarnog uzroka, prije je ono što je nesavršenije, i prema tome priroda ide od nesavršenoga k savršenome. U očitovanju vjere pak Bog je kao djelatnik, koji od vječnosti ima savršeno znanje, a čovjek je kao tvar koja prima utjecaj Boga djelatnika. I stoga je trebalo da spoznaja vjere u ljudima ide od nesavršenoga k savršenome. I premda su se neki među ljudima odnosili na način djelatnog uzroka, jer su bili učitelji vjere, ipak se *očitovanje Duha daje takvima na zajedničku korist*, kako se kaže 1 Kor 12. I stoga se ocima koji su bili poučavatelji vjere davalo od spoznaje vjere onoliko koliko je za ono vrijeme trebalo predati narodu, bilo otvoreno bilo u slici.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a7.ad4": {
+      "text": "Na četvrto treba reći da je posljednje dovršenje milosti nastalo po Kristu, pa se stoga i njegovo vrijeme naziva vremenom punine, Gal 4. I stoga su oni koji su bili bliži Kristu, bilo prije, kao Ivan Krstitelj, bilo poslije, kao apostoli, potpunije spoznali otajstva vjere. I glede stanja čovjeka, naime, vidimo to: savršenost je u mladosti, i čovjek ima to savršenije stanje, bilo prije bilo poslije, što je bliži mladosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da se članci vjere neprikladno nabrajaju. Ono, naime, što se može znati dokaznim razumom ne pripada vjeri tako da bi kod svih bilo ono što valja vjerovati, kao što je gore rečeno. Ali da je Bog jedan može se znati dokazom; stoga to i Filozof dokazuje u XII. knjizi Metafizike, a i mnogi su drugi filozofi za to iznijeli dokaze. Dakle, to da je Bog jedan ne treba postaviti kao jedan članak vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.obj2": {
+      "text": "Osim toga, kao što pripada nužnosti vjere da vjerujemo da je Bog svemoguć, tako i da vjerujemo da on sve zna i za sve se brine; a glede i jednoga i drugoga neki su zabludjeli. Dakle, među člancima vjere trebalo je spomenuti božansku mudrost i providnost, kao i svemoć.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.obj3": {
+      "text": "Osim toga, isto je poznavanje Oca i Sina, prema onome iz Iv 14: *Tko vidi mene, vidi i Oca*. Dakle, treba biti samo jedan članak o Ocu i Sinu; i, iz istog razloga, o Duhu Svetom.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.obj4": {
+      "text": "Osim toga, osoba Oca nije manja od osobe Sina i Duha Svetoga. Ali o osobi Duha Svetoga postavlja se više članaka, i slično o osobi Sina. Dakle, treba postaviti više članaka o osobi Oca.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.obj5": {
+      "text": "Osim toga, kao što se nešto prisvaja osobi Oca i osobi Duha Svetoga, tako i osobi Sina po božanstvu. Ali u člancima se postavlja neko djelo prisvojeno Ocu, naime djelo stvaranja; i slično neko djelo prisvojeno Duhu Svetom, naime da je govorio po prorocima. Dakle, i među člancima vjere treba neko djelo prisvojiti Sinu po božanstvu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.obj6": {
+      "text": "Osim toga, sakrament euharistije ima posebnu teškoću u usporedbi s mnogim člancima. Dakle, o njoj je trebalo postaviti poseban članak. Ne čini se, dakle, da su članci dostatno nabrojeni.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.sc": {
+      "text": "Ali protiv toga je autoritet Crkve koja ih tako nabraja.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, vjeri po sebi pripada ono čijim ćemo gledanjem uživati u vječnom životu i po čemu ćemo biti dovedeni u vječni život. A ondje nam se predlaže da gledamo dvoje: naime skrivenost božanstva, čije nas gledanje čini blaženima, i otajstvo Kristova čovještva, po kojemu *imamo pristup u slavu sinova Božjih*, kako se kaže Rim 5. Stoga se kaže Iv 17: *Ovo je vječni život, da upoznaju tebe, pravoga Boga, i onoga kojega si poslao, Isusa Krista*. I stoga je prvo razlikovanje onoga što valja vjerovati u tome da nešto pripada veličanstvu božanstva, a nešto pripada otajstvu Kristova čovještva, koje je otajstvo pobožnosti, kako se kaže 1 Tim 3. Glede veličanstva božanstva predlaže nam se da vjerujemo troje. Prvo, jedinstvo božanstva, i na to se odnosi prvi članak. Drugo, Trojstvo osoba, i o tome su tri članka prema trima osobama. Treće pak, predlažu nam se vlastita djela božanstva. Od njih prvo pripada bitku naravi, i tako nam se predlaže članak o stvaranju. Drugo pak pripada bitku milosti, i tako nam se pod jednim člankom predlaže sve što pripada posvećenju ljudi. Treće pak pripada bitku slave, i tako se postavlja drugi članak o uskrsnuću tijela i o vječnom životu. I tako je sedam članaka koji pripadaju božanstvu. Slično se i glede Kristova čovještva postavlja sedam članaka. Od njih je prvi o utjelovljenju ili o Kristovu začeću; drugi o njegovu rođenju od Djevice; treći o njegovoj muci, smrti i pokopu; četvrti je o silasku nad pakao; peti je o uskrsnuću; šesti o uzašašću; sedmi o dolasku na sud. I tako ih je ukupno četrnaest. Neki pak razlikuju dvanaest članaka vjere, šest koji pripadaju božanstvu i šest koji pripadaju čovještvu. Tri članka o trima osobama, naime, obuhvaćaju pod jednim, jer je ista spoznaja triju osoba. A članak o djelu proslavljenja dijele na dva, naime na uskrsnuće tijela i slavu duše. Slično članak o začeću i članak o rođenju spajaju u jedan.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da vjerom držimo mnogo toga o Bogu što filozofi naravnim razumom nisu mogli istražiti, primjerice o njegovoj providnosti i svemoći, i to da jedino njega treba štovati. A sve je to sadržano pod člankom o Božjem jedinstvu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.ad2": {
+      "text": "Na drugo treba reći da samo ime božanstva uključuje neko providjenje, kao što je rečeno u Prvom dijelu. A moć u onima koji imaju um ne djeluje osim prema volji i spoznaji. I stoga Božja svemoć na neki način uključuje znanje o svemu i providnost za sve: ne bi, naime, mogao činiti sve što bi htio u ovim nižim stvarima kad ih ne bi spoznavao i kad za njih ne bi imao providnost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.ad3": {
+      "text": "Na treće treba reći da je spoznaja Oca i Sina i Duha Svetoga jedna što se tiče jedinstva biti, koje pripada prvom članku. Što se pak tiče razlikovanja osoba, koje je po odnosima podrijetla, na neki je način u spoznaji Oca uključena spoznaja Sina, jer ne bi bio Otac kad ne bi imao Sina, a njihova je sveza Duh Sveti. I glede toga s dobrim su razlogom postupili oni koji su postavili jedan članak o trima osobama. Ali budući da glede pojedinih osoba treba paziti na nešto u čemu se može dogoditi zabluda, s obzirom na to mogu se postaviti tri članka o trima osobama. Arije je, naime, vjerovao da je Otac svemoguć i vječan, ali nije vjerovao da je Sin jednak Ocu i istobitan s Ocem; i stoga je bilo potrebno dodati članak o osobi Sina da se to odredi. I iz istog je razloga protiv Makedonija bilo potrebno postaviti treći članak, o osobi Duha Svetoga. I slično se i Kristovo začeće i rođenje, a također uskrsnuće i vječni život, prema jednom razlogu mogu obuhvatiti pod jednim člankom, ukoliko su usmjereni prema jednome, a prema drugom se razlogu mogu razlikovati, ukoliko odvojeno imaju posebne teškoće.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.ad4": {
+      "text": "Na četvrto treba reći da Sinu i Duhu Svetom pristaje da budu poslani radi posvećenja stvorova, a glede toga javlja se više toga što valja vjerovati. I stoga se glede osobe Sina i Duha Svetoga umnaža više članaka nego glede osobe Oca, koji nikada nije poslan, kao što je rečeno u Prvom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.ad5": {
+      "text": "Na peto treba reći da se posvećenje stvorova po milosti i dovršenje po slavi događa i po daru ljubavi, koji se prisvaja Duhu Svetom, i po daru mudrosti, koji se prisvaja Sinu. I stoga i jedno i drugo djelo pripada i Sinu i Duhu Svetom po prisvajanju, prema različitim razlozima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a8.ad6": {
+      "text": "Na šesto treba reći da se u sakramentu euharistije može promatrati dvoje. Jedno je to što je sakrament, i to ima isti razlog kao i ostali učinci posvećujuće milosti. Drugo je to što je ondje na čudesan način sadržano Kristovo tijelo, i tako je to obuhvaćeno pod svemoći, kao i sva ostala čudesa, koja se pripisuju svemoći.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da članci vjere nisu prikladno postavljeni u Vjerovanje. Sveto je, naime, pismo pravilo vjere, kojemu nije dopušteno ni dodati ni oduzeti; kaže se, naime, u Pnz 4: *Nećete dodati riječi koju vam govorim niti ćete od nje oduzeti*. Dakle, nije bilo dopušteno sastaviti neko Vjerovanje kao pravilo vjere nakon što je Sveto pismo bilo izdano.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.obj2": {
+      "text": "Osim toga, kako kaže Apostol u Ef 4, *jedna je vjera*. Ali Vjerovanje je ispovijest vjere. Dakle, neprikladno se predaje više Vjerovanja.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.obj3": {
+      "text": "Osim toga, ispovijest vjere koja je sadržana u Vjerovanju pripada svim vjernicima. Ali ne pristaje svim vjernicima vjerovati u Boga (credere in Deum), nego samo onima koji imaju oblikovanu vjeru. Dakle, neprikladno se Vjerovanje predaje u ovom obliku riječi: *Vjerujem u jednoga Boga*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.obj4": {
+      "text": "Osim toga, silazak nad pakao jedan je od članaka vjere, kako je gore rečeno. Ali u Vjerovanju otaca ne spominje se silazak nad pakao. Dakle, čini se da je ono nepotpuno sastavljeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.obj5": {
+      "text": "Osim toga, kako kaže Augustin tumačeći ono iz Iv 14, *Vjerujete u Boga, i u mene vjerujte*, Petru ili Pavlu vjerujemo, ali se ne kaže da vjerujemo u nekoga osim u Boga. Budući da je, dakle, Katolička Crkva naprosto nešto stvoreno, čini se da se neprikladno kaže: *u jednu, svetu, katoličku i apostolsku Crkvu*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.obj6": {
+      "text": "Osim toga, Vjerovanje se predaje zato da bude pravilo vjere. Ali pravilo vjere treba se iznositi svima, i to javno. Stoga bi se svako Vjerovanje trebalo pjevati na misi, kao Vjerovanje otaca. Ne čini se, dakle, da je izdavanje članaka vjere u Vjerovanju prikladno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.sc": {
+      "text": "Ali protiv toga jest to što sveopća Crkva ne može zabluditi, jer njome upravlja Duh Sveti, koji je Duh istine; to je, naime, Gospodin obećao učenicima, govoreći u Iv 16: *Kad dođe onaj Duh istine, naučit će vas svu istinu*. A Vjerovanje je izdano autoritetom sveopće Crkve. Dakle, u njemu nije sadržano ništa neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Apostol u Heb 11, *onaj koji pristupa Bogu mora vjerovati*. Nitko pak ne može vjerovati ako mu se ne iznese istina koju bi vjerovao. Stoga je bilo nužno da se istina vjere skupi u jedno, kako bi se lakše mogla iznijeti svima, da ne bi tko zbog neznanja otpao od istine vjere. I od takvog skupljanja izreka vjere uzeto je ime „simbol”.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da je istina vjere u Svetom pismu sadržana razasuto i na razne načine, a na nekim mjestima nejasno; tako da je za izvođenje istine vjere iz Svetoga pisma potrebno dugo proučavanje i vježbanje, do čega ne mogu doći svi oni kojima je nužno spoznati istinu vjere, jer se većina njih, zauzeta drugim poslovima, ne može posvetiti proučavanju. Stoga je bilo nužno da se iz izreka Svetoga pisma sažeto skupi nešto jasno što bi se svima iznijelo da vjeruju. To, dakako, nije dodano Svetom pismu, nego je, štoviše, uzeto iz Svetoga pisma.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.ad2": {
+      "text": "Na drugo treba reći da se u svim Vjerovanjima naučava ista istina vjere. Ali ondje gdje se pojavljuju zablude treba narod brižljivije poučiti o istini vjere, da heretici ne bi pokvarili vjeru priprostih. I to je bio razlog zašto je bilo potrebno izdati više Vjerovanja. Ona se ni u čemu drugome ne razlikuju osim što se u jednome potpunije izričito izlaže ono što je u drugome sadržano uključno, kako je zahtijevalo navaljivanje heretika.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.ad3": {
+      "text": "Na treće treba reći da se ispovijest vjere u Vjerovanju predaje kao u ime cijele Crkve, koja je sjedinjena po vjeri. A vjera Crkve je oblikovana vjera; takva se, naime, vjera nalazi u svima onima koji pripadaju Crkvi i brojem i zaslugom. Stoga se ispovijest vjere u Vjerovanju predaje onako kako pristaje oblikovanoj vjeri, da bi i oni vjernici koji nemaju oblikovanu vjeru nastojali dosegnuti taj oblik.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.ad4": {
+      "text": "Na četvrto treba reći da o silasku nad pakao kod heretika nije bila nastala nikakva zabluda, pa stoga nije bilo nužno da se o tome išta izričito izlaže. I zbog toga se to ne ponavlja u Vjerovanju otaca, nego se pretpostavlja kao već određeno u Apostolskom vjerovanju. Kasnije, naime, Vjerovanje ne ukida prethodno, nego ga, štoviše, tumači, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.ad5": {
+      "text": "Na peto treba reći da, ako se kaže „u svetu Katoličku Crkvu”, to treba shvatiti utoliko što se naša vjera odnosi na Duha Svetoga, koji posvećuje Crkvu, tako da smisao bude: vjerujem u Duha Svetoga koji posvećuje Crkvu. Ali bolje je, i u skladu s općenitijom uporabom, da se ondje ne stavlja „u”, nego da se naprosto kaže „svetu Katoličku Crkvu”, kako kaže i papa Lav.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a9.ad6": {
+      "text": "Na šesto treba reći da se Vjerovanje otaca, budući da razjašnjava Apostolsko vjerovanje i budući da je sastavljeno kad je vjera već bila očitovana i Crkva imala mir, zbog toga javno pjeva na misi. A Apostolsko vjerovanje, koje je izdano u vrijeme progonstva, kad vjera još nije bila javno proglašena, izgovara se potiho na prvoj uri i na povečerju, kao protiv tame prošlih i budućih zabluda.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da vrhovnom svećeniku ne pripada sastavljati Vjerovanje. Novo izdanje Vjerovanja nužno je, naime, radi izričitog izlaganja članaka vjere, kako je rečeno. Ali u Starom zavjetu članci vjere sve su se više izričito izlagali kako su vremena slijedila jedno za drugim, zbog toga što se istina vjere sve više očitovala prema većoj blizini Kristu, kako je gore rečeno. Kad, dakle, u Novom zakonu prestane takav uzrok, ne treba dolaziti do sve većeg izričitog izlaganja članaka vjere. Dakle, ne čini se da novo izdanje Vjerovanja pripada autoritetu vrhovnog svećenika.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a10.obj2": {
+      "text": "Osim toga, ono što je sveopća Crkva zabranila pod anatemom ne podliježe vlasti nijednog čovjeka. Ali novo izdanje Vjerovanja zabranjeno je pod anatemom autoritetom sveopće Crkve. U spisima se, naime, prvog Efeškog sabora kaže da je, *pošto je pročitano Vjerovanje Nicejskog sabora, sveti sabor odredio da nikome nije dopušteno iznositi ili pisati ili sastavljati drugu vjeru osim one koju su odredili sveti oci koji su se u Niceji okupili s Duhom Svetim*, i dodaje se kazna anateme; i isto se ponavlja i u spisima Kalcedonskog sabora. Dakle, čini se da novo izdanje Vjerovanja ne pripada autoritetu vrhovnog svećenika.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a10.obj3": {
+      "text": "Osim toga, Atanazije nije bio vrhovni svećenik, nego aleksandrijski patrijarh. Pa ipak je sastavio Vjerovanje koje se pjeva u Crkvi. Dakle, ne čini se da izdavanje Vjerovanja više pripada vrhovnom svećeniku nego drugima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a10.sc": {
+      "text": "Ali protiv toga jest to što je Vjerovanje izdano na općem saboru. A takav se sabor može sazvati samo autoritetom vrhovnog svećenika, kako stoji u Dekretima, dist. 17. Dakle, izdavanje Vjerovanja pripada autoritetu vrhovnog svećenika.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a10.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, novo izdanje Vjerovanja nužno radi izbjegavanja zabluda koje se pojavljuju. Izdavanje Vjerovanja pripada, dakle, autoritetu onoga čijem autoritetu pripada presudom određivati ono što je vjere, da bi to svi držali nepokolebljivom vjerom. A to pripada autoritetu vrhovnog svećenika, *kojemu se upućuju veća i teža crkvena pitanja*, kako se kaže u Dekretima, dist. 17. Zato je i Gospodin u Lk 22 rekao Petru, kojega je postavio za vrhovnog svećenika: *Ja sam molio za te, Petre, da ne malakše vjera tvoja; a ti, kad se jednom obratiš, utvrdi braću svoju*. A razlog je tome što jedna vjera treba biti vjera cijele Crkve, prema onome iz 1 Kor 1: *Da svi isto govorite i da ne bude među vama raskola*. To se ne bi moglo očuvati kad pitanje vjere koje se pojavi ne bi odredio onaj koji je na čelu cijele Crkve, tako da njegovu presudu čvrsto drži cijela Crkva. Stoga samo autoritetu vrhovnog svećenika pripada novo izdanje Vjerovanja, kao i sve drugo što pripada cijeloj Crkvi, kao što je sazvati opći sabor i drugo tome slično.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da je u nauku Krista i apostola istina vjere dostatno izričito izložena. Ali budući da pokvareni ljudi apostolski nauk i ostala Pisma *izvrću na vlastitu propast*, kako se kaže u 2 Pt 3, zato je, kako vremena odmiču, nužno tumačenje vjere protiv zabluda koje se pojavljuju.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a10.ad2": {
+      "text": "Na drugo treba reći da se zabrana i odluka sabora odnosi na privatne osobe, kojima ne pripada određivati o vjeri. Takvom, naime, odlukom općeg sabora nije sljedećem saboru oduzeta vlast da načini novo izdanje Vjerovanja, koje dakako ne sadrži drugu vjeru, nego istu, potpunije izloženu. Tako je, naime, postupao svaki sabor: da bi sljedeći sabor nešto izložio povrh onoga što je izložio prethodni sabor, zbog potrebe koju je nametala neka hereza koja se pojavila. Stoga to pripada vrhovnom svećeniku, čijim se autoritetom sabor saziva i njegova odluka potvrđuje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    },
+    "II-II.q1.a10.ad3": {
+      "text": "Na treće treba reći da Atanazije nije sastavio očitovanje vjere na način Vjerovanja, nego prije na način nekog nauka, kako je vidljivo iz samog načina govora. Ali budući da je njegov nauk ukratko sadržavao cjelovitu istinu vjere, prihvaćen je autoritetom vrhovnog svećenika, tako da se drži kao pravilo vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:18+00:00"
+    }
+  }
+}

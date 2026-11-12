@@ -1,0 +1,216 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 18,
+  "units": {
+    "II-II.q18.pr": {
+      "text": "Zatim valja razmotriti subjekt nade. I u vezi s tim pita se četvero. Prvo, je li krepost nade u volji kao u subjektu. Drugo, je li u blaženima. Treće, je li u osuđenima. Četvrto, ima li kod putnika sigurnost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nada nije u volji kao u subjektu. Predmet je, naime, nade teško dostižno dobro, kako je gore rečeno. A teško dostižno nije predmet volje, nego srdite moći. Dakle, nada nije u volji, nego u srditoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a1.obj2": {
+      "text": "Osim toga, ondje gdje je jedno dostatno, suvišno se dodaje drugo. Ali za usavršavanje moći volje dostatna je ljubav, koja je najsavršenija od kreposti. Dakle, nada nije u volji.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a1.obj3": {
+      "text": "Osim toga, jedna moć ne može istodobno biti u dvama činima, kao što um ne može istodobno shvaćati mnogo toga. Ali čin nade može biti istodobno s činom ljubavi. Budući, dakle, da čin ljubavi očito pripada volji, čin nade ne pripada njoj. Tako, dakle, nada nije u volji.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a1.sc": {
+      "text": "Ali protiv toga: duša je sposobna primiti Boga samo po duhu, u kojem su pamćenje, razumijevanje i volja, kako je jasno iz Augustina u knjizi O Trojstvu. Ali nada je bogoslovna krepost koja ima Boga za predmet. Budući, dakle, da nije ni u pamćenju ni u razumijevanju, koji pripadaju spoznajnoj sili, preostaje da je u volji kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a1.resp": {
+      "text": "Odgovaram: treba reći da se, kako je jasno iz rečenoga, habitusi spoznaju po činima. A čin nade neki je pokret težnjenoga dijela, budući da je njegov predmet dobro. A budući da je u čovjeku dvostruka težnja, naime osjetilna težnja, koja se dijeli na srditu i požudnu, i umska težnja, koja se naziva volja, kako je utvrđeno u Prvom dijelu, slični pokreti koji su u nižoj težnji sa strašću, u višoj su bez strasti, kako je jasno iz gore rečenoga. A čin kreposti nade ne može pripadati osjetilnoj težnji, jer dobro koje je glavni predmet te kreposti nije neko osjetno dobro, nego božansko dobro. I zato je nada u višoj težnji, koja se naziva volja, kao u subjektu, a ne u nižoj težnji, kojoj pripada srdita moć.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je predmet srdite moći osjetno teško dostižno. A predmet kreposti nade umljivo je teško dostižno, ili bolje, ono što postoji iznad uma.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a1.ad2": {
+      "text": "Na drugo treba reći da ljubav dostatno usavršava volju s obzirom na jedan čin, a to je ljubiti. Ali potrebna je druga krepost da je usavrši s obzirom na drugi njezin čin, a to je nadati se.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a1.ad3": {
+      "text": "Na treće treba reći da su pokret nade i pokret ljubavi međusobno usmjereni jedan prema drugome, kako je jasno iz gore rečenoga. Zato ništa ne priječi da oba pokreta istodobno budu pokreti jedne moći. Kao što i um može istodobno shvaćati mnogo toga što je međusobno usmjereno, kako je utvrđeno u Prvom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je nada u blaženima. Krist je, naime, od početka svojega začeća bio savršeni posjednik. Ali on je imao nadu, budući da se iz njegove osobe kaže u Psalmu: *u tebe se, Gospodine, nadah*, kako tumači Glosa. Dakle, u blaženima može biti nada.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a2.obj2": {
+      "text": "Osim toga, kao što je postizanje blaženstva neko teško dostižno dobro, tako je to i njegovo trajanje. Ali ljudi, prije nego što postignu blaženstvo, imaju nadu da će ga postići. Dakle, pošto su postigli blaženstvo, mogu se nadati njegovu trajanju.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a2.obj3": {
+      "text": "Osim toga, krepošću nade netko se može nadati blaženstvu ne samo za sebe nego i za druge, kako je gore rečeno. Ali blaženi koji su u domovini nadaju se blaženstvu za druge; inače ne bi molili za njih. Dakle, u blaženima može biti nada.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a2.obj4": {
+      "text": "Osim toga, blaženstvu svetaca pripada ne samo slava duše nego i slava tijela. Ali duše svetaca koje su u domovini još očekuju slavu tijela, kako je jasno iz Otk 6 i iz XII. knjige O doslovnom tumačenju Knjige postanka. Dakle, nada može biti u blaženima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Rim 8: *ono što tko vidi, čemu se nada?* A blaženi uživaju u gledanju Boga. Dakle, u njima nada nema mjesta.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kad se odstrani ono što stvari daje vrstu, vrsta razrješuje i stvar ne može ostati ista; kao što, kad se ukloni forma prirodnoga tijela, ono ne ostaje isto po vrsti. A nada prima vrstu od svojega glavnoga predmeta, kao i ostale kreposti, kako je jasno iz gore rečenoga. A njezin je glavni predmet vječno blaženstvo ukoliko ga je moguće imati Božjom pomoću, kako je gore rečeno. Budući, dakle, da teško dostižno moguće dobro ne potpada pod pojam nade osim ukoliko je buduće, zato, kad blaženstvo više nije buduće nego sadašnje, ondje ne može biti krepost nade. I zato nada, kao i vjera, prestaje u domovini, i nijedna od njih ne može biti u blaženima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Krist, iako je bio posjednik, i prema tome blažen, s obzirom na božansko uživanje, ipak istodobno bio putnik s obzirom na trpivost naravi, koju je još nosio. I zato se mogao nadati slavi netrpivosti i besmrtnosti. Ali ipak ne tako da bi imao krepost nade, koja se ne odnosi na slavu tijela kao na glavni predmet, nego radije na božansko uživanje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a2.ad2": {
+      "text": "Na drugo treba reći da se blaženstvo svetaca naziva vječnim životom, jer time što uživaju Boga postaju na neki način dionici božanske vječnosti, koja nadilazi svako vrijeme. I tako se trajanje blaženstva ne razlikuje po sadašnjem, prošlom i budućem. I zato blaženi nemaju nadu u trajanje blaženstva, nego imaju samu stvar, jer ondje nema pojma budućega.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a2.ad3": {
+      "text": "Na treće treba reći da, dok traje krepost nade, istom se nadom netko nada blaženstvu za sebe i za druge. Ali kad je u blaženima prestala nada kojom su se nadali blaženstvu za sebe, oni se doduše nadaju blaženstvu za druge, ali ne krepošću nade, nego radije iz ljubavi (amor caritatis). Kao što i onaj koji ima ljubav (caritas) prema Bogu istom ljubavlju ljubi bližnjega, a ipak netko može ljubiti bližnjega a da nema krepost ljubavi, nekom drugom ljubavlju (amor).",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a2.ad4": {
+      "text": "Na četvrto treba reći da, budući da je nada bogoslovna krepost koja ima Boga za predmet, glavni predmet nade jest slava duše, koja se sastoji u božanskom uživanju, a ne slava tijela. A i slava tijela, iako ima pojam teško dostižnoga u usporedbi s ljudskom naravi, ipak nema pojam teško dostižnoga za onoga koji ima slavu duše. Bilo zato što je slava tijela nešto najmanje u usporedbi sa slavom duše; bilo i zato što onaj koji ima slavu duše već dostatno ima uzrok slave tijela.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da u osuđenima ima nade. Đavao je, naime, i osuđen i knez osuđenih, prema onome iz Mt 25: *Idite, prokleti, u oganj vječni, koji je pripravljen đavlu i anđelima njegovim*. Ali đavao ima nadu, prema onome iz Job 40: *Evo, nada će ga njegova prevariti*. Dakle, čini se da osuđeni imaju nadu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a3.obj2": {
+      "text": "Osim toga, kao što vjera može biti oblikovana i neoblikovana, tako i nada. Ali neoblikovana vjera može biti u demonima i u osuđenima, prema onome iz Jak 2: *Demoni vjeruju i dršću*. Dakle, čini se da i neoblikovana nada može biti u osuđenima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a3.obj3": {
+      "text": "Osim toga, nijednom čovjeku nakon smrti ne pridolazi zasluga ili nezasluga koju nije imao u životu, prema onome iz Prop 11: *Ako stablo padne na jug ili na sjever, na kojem god mjestu padne, ondje će ostati*. Ali mnogi koji će biti osuđeni imali su u ovom životu nadu i nikada nisu očajavali. Dakle, i u budućem će životu imati nadu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a3.sc": {
+      "text": "Ali protiv toga je to što nada uzrokuje radost, prema onome iz Rim 12: radujući se u nadi. Ali osuđeni nisu u radosti, nego u boli i u tuzi, prema onome iz Iz 65: *Sluge moje hvalit će od klicanja srca, a vi ćete vikati od boli srca i od skrušenosti duha zavijati*. Dakle, u osuđenima nema nade.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što pripada pojmu blaženstva da se u njemu volja smiri, tako pripada pojmu kazne da se ono što se nanosi kao kazna protivi volji. Ali ono što se ne zna ne može ni smiriti volju ni joj se protiviti. I zato Augustin kaže u djelu O doslovnom tumačenju Knjige postanka da anđeli nisu mogli biti savršeno blaženi u prvom stanju, prije potvrđenja, niti bijedni prije pada, jer nisu unaprijed znali svoj ishod. Za istinsko i savršeno blaženstvo, naime, zahtijeva se da netko bude siguran u trajnost svoga blaženstva; inače se volja ne bi smirila. Slično tako, budući da trajnost osude pripada kazni osuđenih, ona ne bi uistinu imala pojam kazne kad se ne bi protivila volji; a to ne bi moglo biti kad oni ne bi znali za trajnost svoje osude. I zato pripada stanju bijede osuđenih da sami znaju da ni na koji način ne mogu izbjeći osudi i doći do blaženstva. Zato se kaže u Job 15: *Ne vjeruje da se može vratiti iz tame k svjetlu*. Odatle je jasno da oni ne mogu zahvatiti blaženstvo kao moguće dobro, kao što ni blaženi ne mogu kao buduće dobro. I zato nada nije ni u blaženima ni u osuđenima. Ali u putnicima, bilo da su u ovom životu bilo u čistilištu, može biti nade, jer i ovdje i ondje zahvaćaju blaženstvo kao moguće buduće dobro.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se to, kako kaže Grgur u XXXIII. knjizi Moralija, kaže o đavlu s obzirom na njegove udove, čija će nada biti poništena. Ili, ako se shvati o samom đavlu, može se odnositi na nadu kojom se nada da će izvojevati pobjedu nad svetima, prema onome što je ondje malo prije rekao: *Uzda se da će mu Jordan uteći u usta*. A to nije nada o kojoj govorimo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a3.ad2": {
+      "text": "Na drugo treba reći da je, kako kaže Augustin u Enhiridiju, *vjera i o zlim stvarima i o dobrima, i o prošlima i o sadašnjima i o budućima, i o svojima i o tuđima, a nada je samo o dobrim budućim stvarima koje se odnose na onoga tko se nada*. I zato u osuđenima prije može biti neoblikovana vjera nego nada, jer im božanska dobra nisu moguća buduća dobra, nego su im odsutna.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a3.ad3": {
+      "text": "Na treće treba reći da nedostatak nade u osuđenima ne mijenja nezaslugu, kao što ni nestanak nade u blaženima ne povećava zaslugu, nego se i jedno i drugo događa zbog promjene stanja.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da nada putnika nema sigurnosti. Nada je, naime, u volji kao u subjektu. Ali sigurnost ne pripada volji, nego umu. Dakle, nada nema sigurnosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a4.obj2": {
+      "text": "Osim toga, nada proizlazi iz milosti i zasluga, kao što je gore rečeno. Ali u ovom životu ne možemo sa sigurnošću znati da imamo milost, kao što je gore rečeno. Dakle, nada putnika nema sigurnosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a4.obj3": {
+      "text": "Osim toga, ne može biti sigurnosti o onome što može izostati. Ali mnogi putnici koji imaju nadu ne uspijevaju postići blaženstvo. Dakle, nada putnika nema sigurnosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a4.sc": {
+      "text": "Ali protiv toga je to što je nada sigurno očekivanje budućega blaženstva, kako kaže Učitelj u III. knjizi Sentencija, u 26. distinkciji. To se može uzeti iz onoga što se kaže u 2 Tim 1: *Znam komu sam povjerovao i siguran sam da je moćan sačuvati moj polog*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a4.resp": {
+      "text": "Odgovaram: treba reći da se sigurnost nalazi u nečemu na dva načina, naime bitno i po sudjelovanju. Bitno se nalazi u spoznajnoj sili, a po sudjelovanju u svemu onome što spoznajna sila nepogrešivo pokreće prema njegovoj svrsi. Na taj se način kaže da narav djeluje sa sigurnošću, kao ona koju pokreće božanski um, koji sa sigurnošću pokreće svaku stvar prema njezinoj svrsi. I na taj se način također kaže da moralne kreposti djeluju sigurnije od umijeća, ukoliko ih razum na način naravi pokreće prema njihovim činima. I tako i nada sa sigurnošću teži prema svojoj svrsi, kao da ima udjela u sigurnosti vjere, koja je u spoznajnoj sili.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a4.ad1": {
+      "text": "Odatle je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a4.ad2": {
+      "text": "Na drugo treba reći da se nada ne oslanja ponajprije na milost koja se već ima, nego na božansku svemoć i milosrđe, po kojemu i onaj tko nema milosti može nju postići, da bi tako došao do vječnoga života. A u Božju svemoć i njegovo milosrđe siguran je svatko tko ima vjeru.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q18.a4.ad3": {
+      "text": "Na treće treba reći da to što neki koji imaju nadu ne uspijevaju postići blaženstvo dolazi od nedostatka slobodnog odlučivanja, koje postavlja zapreku grijeha, a ne od nedostatka božanske svemoći ili milosrđa, na koje se nada oslanja. Zato to ne ide na štetu sigurnosti nade.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    }
+  }
+}

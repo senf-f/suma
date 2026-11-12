@@ -1,0 +1,642 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 19,
+  "units": {
+    "II-II.q19.pr": {
+      "text": "Zatim treba razmotriti dar straha. O tome se postavlja dvanaest pitanja. Prvo, treba li se Boga bojati. Drugo, o podjeli straha na sinovski, početni, ropski i svjetovni strah. Treće, je li svjetovni strah uvijek zao. Četvrto, je li ropski strah dobar. Peto, je li po supstanciji isti kao sinovski. Šesto, isključuje li se ropski strah kad dođe ljubav. Sedmo, je li strah početak mudrosti. Osmo, je li početni strah po supstanciji isti kao sinovski strah. Deveto, je li strah dar Duha Svetoga. Deseto, raste li kad raste ljubav. Jedanaesto, ostaje li u domovini. Dvanaesto, što mu odgovara u blaženstvima i plodovima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se Boga ne može bojati. Predmet je straha, naime, buduće zlo, kao što je gore utvrđeno. Ali Bog je lišen svakoga zla, jer je sama dobrota. Dakle, Boga se ne može bojati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a1.obj2": {
+      "text": "Osim toga, strah se suprotstavlja nadi. Ali u Boga imamo nadu. Dakle, ne možemo ga se ujedno i bojati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a1.obj3": {
+      "text": "Osim toga, kao što kaže Filozof u II. knjizi Retorike, *bojimo se onoga od čega nam dolaze zla*. Ali zla nam ne dolaze od Boga, nego od nas samih, prema onome iz Hoš 13: *Propast tvoja, Izraele; od mene je pomoć tvoja*. Dakle, Boga se ne treba bojati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Jr 10: *Tko se neće bojati tebe, kralju naroda?* I u Mal 1: *Ako sam ja gospodar, gdje je strah od mene?*",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a1.resp": {
+      "text": "Odgovaram: treba reći da, kao što nada ima dvostruki predmet, od kojih je jedan samo buduće dobro čije postizanje netko očekuje, a drugi pomoć nekoga po kome očekuje da će postići ono čemu se nada, tako i strah može imati dvostruki predmet: jedan je samo zlo kojega se čovjek kloni, a drugi ono od čega zlo može doći. Na prvi, dakle, način Bog, koji je sama dobrota, ne može biti predmet straha. Ali na drugi način može biti predmet straha, naime ukoliko nam od njega ili u odnosu prema njemu može zaprijetiti neko zlo. Od njega nam, doduše, može zaprijetiti zlo kazne, koje nije zlo naprosto, nego u nekom pogledu, a naprosto je dobro. Budući da se, naime, dobro naziva tako s obzirom na usmjerenost prema svrsi, a zlo uključuje lišenost te usmjerenosti, zlo je naprosto ono što isključuje usmjerenost prema posljednjoj svrsi, a to je zlo krivnje. Zlo kazne je, doduše, zlo ukoliko lišava nekog posebnog dobra, ali je ipak naprosto dobro ukoliko ovisi o redu posljednje svrhe. A u odnosu prema Bogu može nam doći zlo krivnje, ako se od njega odvojimo. I na taj se način Boga može i treba bojati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj razlog vrijedi ukoliko je zlo predmet straha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a1.ad2": {
+      "text": "Na drugo treba reći da u Bogu valja razmotriti i pravednost, po kojoj kažnjava one koji griješe, i milosrđe, po kojemu nas oslobađa. Prema razmatranju, dakle, njegove pravednosti u nama se diže strah, a prema razmatranju milosrđa u nama se budi nada. I tako je Bog, prema različitim pojmovima, predmet nade i straha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a1.ad3": {
+      "text": "Na treće treba reći da zlo krivnje nije od Boga kao od začetnika, nego od nas samih, ukoliko se odmičemo od Boga. A zlo kazne jest, doduše, od Boga kao začetnika ukoliko ima pojam dobra, naime ukoliko je pravedno; ali to što nam se kazna pravedno nanosi, to se ponajprije događa zbog nezasluge našega grijeha. Na taj se način kaže u Mudr 1 da *Bog nije stvorio smrt, nego su je bezbožnici rukama i riječima dozvali*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se strah neprikladno dijeli na sinovski, početni, ropski i svjetovni. Damaščanin, naime, u II. knjizi postavlja šest vrsta straha, naime tromost, sram i ostale o kojima je gore bilo govora, a koje se u ovoj podjeli ne spominju. Dakle, čini se da je ova podjela straha neprikladna.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.obj2": {
+      "text": "Osim toga, svaki je od tih strahova ili dobar ili zao. Ali postoji neki strah, naime naravni, koji niti je moralno dobar, jer je u demonima, prema onome iz Jak 2: *Demoni vjeruju i dršću*; niti je zao, jer je u Kristu, prema onome iz Mk 14: *Isus se poče plašiti i osjećati klonulost*. Dakle, strah se prema navedenome nedostatno dijeli.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.obj3": {
+      "text": "Osim toga, jedan je odnošaj sina prema ocu, drugi žene prema mužu, a treći sluge prema gospodaru. Ali sinovski strah, koji je strah sina u odnosu prema ocu, razlikuje se od ropskoga straha, koji je strah sluge u odnosu prema gospodaru. Dakle, i čisti strah, koji je, čini se, strah žene u odnosu prema mužu, treba razlikovati od svih tih strahova.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.obj4": {
+      "text": "Osim toga, kao što se ropski strah boji kazne, tako i početni i svjetovni. Dakle, te strahove nije trebalo međusobno razlikovati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.obj5": {
+      "text": "Osim toga, kao što je požuda usmjerena na dobro, tako je strah usmjeren na zlo. Ali jedno je požuda očiju, kojom tko žudi za dobrima svijeta, a drugo požuda tijela, kojom tko žudi za vlastitom nasladom. Dakle, jedno je i svjetovni strah, kojim se tko boji izgubiti vanjska dobra, a drugo ljudski strah, kojim se tko boji štete za vlastitu osobu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.sc": {
+      "text": "Ali protiv toga je autoritet Učitelja u III. knjizi Sentencija, u 34. distinkciji.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.resp": {
+      "text": "Odgovaram: treba reći da sada raspravljamo o strahu ukoliko se po njemu na neki način obraćamo Bogu ili se od njega odvraćamo. Budući da je, naime, predmet straha zlo, čovjek se ponekad zbog zala kojih se boji odmiče od Boga, i taj se strah naziva ljudskim ili svjetovnim. A ponekad se čovjek po zlima kojih se boji obraća Bogu i prianja uz njega. To je zlo dvostruko, naime zlo kazne i zlo krivnje. Ako se, dakle, netko obraća Bogu i prianja uz njega zbog straha od kazne, bit će to ropski strah. Ako pak zbog straha od krivnje, bit će to sinovski strah, jer sinovima je svojstveno bojati se uvrede oca. Ako pak zbog jednoga i drugoga, to je početni strah, koji je posrednik između jednoga i drugoga straha. A može li se bojati zla krivnje, utvrđeno je gore, kad se raspravljalo o strasti straha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Damaščanin dijeli strah ukoliko je strast duše. A ova se podjela straha uzima s obzirom na usmjerenost prema Bogu, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.ad2": {
+      "text": "Na drugo treba reći da se moralno dobro ponajprije sastoji u obraćenju Bogu, a moralno zlo u odvraćanju od Boga. I zato svi navedeni strahovi uključuju ili moralno dobro ili moralno zlo. Ali naravni se strah pretpostavlja moralnom dobru i zlu. I zato se ne ubraja među te strahove.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.ad3": {
+      "text": "Na treće treba reći da se odnošaj sluge prema gospodaru zasniva na vlasti gospodara koji sebi podvrgava slugu; a odnošaj sina prema ocu, ili žene prema mužu, zasniva se, obratno, na čuvstvu sina koji se podlaže ocu, ili žene koja se sjedinjuje s mužem sjedinjenjem ljubavi. Zato sinovski i čisti strah pripadaju istome, jer nam po ljubavi (amor caritatis) Bog postaje Otac, prema onome iz Rim 8: *Primili ste Duha posinjenja sinova, u kojemu kličemo: Abba, Oče!*; a po istoj se ljubavi naziva i našim zaručnikom, prema onome iz 2 Kor 11: *Zaručio sam vas jednomu mužu da vas kao čistu djevicu privedem Kristu*. A ropski strah pripada nečemu drugome, jer u svom pojmu ne uključuje ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.ad4": {
+      "text": "Na četvrto treba reći da su navedena tri straha usmjerena na kaznu, ali na različite načine. Svjetovni ili ljudski strah, naime, usmjeren je na kaznu koja odvraća od Boga, a koju ponekad nanose ili kojom prijete neprijatelji Božji. A ropski i početni strah usmjereni su na kaznu po kojoj se ljudi privlače Bogu, a koju Bog nanosi ili kojom prijeti. Na tu je kaznu ropski strah usmjeren ponajprije, a početni strah drugotno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a2.ad5": {
+      "text": "Na peto treba reći da se čovjek iz istoga razloga odvraća od Boga zbog straha da ne izgubi svjetovna dobra i zbog straha da ne izgubi neozlijeđenost vlastitoga tijela, jer vanjska dobra pripadaju tijelu. I zato se ovdje oba straha računaju kao jedan, premda su zla kojih se boji različita, kao i dobra za kojima se žudi. Iz te različitosti doduše proizlazi različitost grijeha po vrsti, ali svima im je zajedničko to što odvode od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da svjetovni strah nije uvijek zao. Čini se, naime, da ljudskom strahu pripada to što poštujemo ljude. Ali neki se kore zbog toga što ne poštuju ljude, kao što je jasno iz Lk 18 o onom nepravednom sucu *koji se nije bojao Boga ni ljude poštovao*. Dakle, čini se da svjetovni strah nije uvijek zao.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a3.obj2": {
+      "text": "Osim toga, čini se da svjetovnom strahu pripadaju kazne koje nanose svjetovne vlasti. Ali takvim se kaznama potičemo da činimo dobro, prema onome iz Rim 13: *Želiš li se ne bojati vlasti? Čini dobro i imat ćeš od nje pohvalu*. Dakle, svjetovni strah nije uvijek zao.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a3.obj3": {
+      "text": "Osim toga, ono što je u nama po naravi, čini se, nije zlo, jer ono što je naravno imamo od Boga. Ali naravno je čovjeku da se boji štete za vlastito tijelo i gubitka vremenitih dobara, kojima se uzdržava sadašnji život. Dakle, čini se da svjetovni strah nije uvijek zao.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a3.sc": {
+      "text": "Ali protiv toga je ono što Gospodin kaže u Mt 10: *Ne bojte se onih koji ubijaju tijelo*, gdje se zabranjuje svjetovni strah. A Bog ne zabranjuje ništa osim zla. Dakle, svjetovni je strah zao.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je jasno iz gore rečenoga, moralni čini i habitusi imaju i ime i vrstu od predmeta. A vlastiti predmet težnjenoga pokreta jest dobro koje je svrha. I zato svaki težnjeni pokret dobiva i vrstu i ime od vlastite svrhe. Kad bi, naime, netko pohlepu nazvao ljubavlju prema trudu, zato što se ljudi zbog pohlepe trude, ne bi je ispravno nazvao; pohlepni, naime, ne traže trud kao svrhu, nego kao ono što vodi k svrsi, a kao svrhu traže bogatstvo. Zato se pohlepa ispravno naziva željom za bogatstvom ili ljubavlju prema bogatstvu, a to je zlo. Na taj se način svjetovnom ljubavlju u vlastitom smislu naziva ona kojom se netko oslanja na svijet kao na svrhu. I tako je svjetovna ljubav uvijek zla. A strah se rađa iz ljubavi, jer čovjek se boji izgubiti ono što ljubi, kao što je jasno iz Augustina u knjizi Osamdeset i tri pitanja. I zato je svjetovni strah onaj koji proizlazi iz svjetovne ljubavi kao iz zloga korijena. I zbog toga je i sam svjetovni strah uvijek zao.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da netko može poštovati ljude na dva načina. Na jedan način, ukoliko je u njima nešto božansko, primjerice dobro milosti ili kreposti, ili barem naravne Božje slike; i na taj se način kore oni koji ne poštuju ljude. Na drugi način netko može poštovati ljude ukoliko se protive Bogu. I tako se hvale oni koji ne poštuju ljude, prema onome što se u Sir 48 kaže o Iliji ili Elizeju: *U svoje dane nije se pobojao vladara*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a3.ad2": {
+      "text": "Na drugo treba reći da su svjetovne vlasti, kad nanose kazne da bi odvratile od grijeha, u tome Božji službenici, prema onome iz Rim 13: *Ona je, naime, Božji službenik, osvetnik na srdžbu onome koji čini zlo*. I s obzirom na to, bojati se svjetovne vlasti ne pripada svjetovnom strahu, nego ropskom ili početnom strahu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a3.ad3": {
+      "text": "Na treće treba reći da je naravno da čovjek bježi od štete za vlastito tijelo ili od gubitaka vremenitih stvari; ali da čovjek zbog toga odstupi od pravednosti, to je protiv naravnoga razuma. Zato i Filozof kaže u III. knjizi Etike da postoje neke stvari, naime grešna djela, na koja nikakav strah nikoga ne smije prisiliti, jer je gore počiniti takve grijehe nego trpjeti bilo kakve kazne.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ropski strah nije dobar. Jer ono čija je uporaba zla, i samo je zlo. Ali uporaba ropskoga straha je zla, jer, kako kaže Glosa uz Rim 8, *tko nešto čini iz straha, iako je dobro ono što čini, ipak ne čini dobro*. Dakle, ropski strah nije dobar.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a4.obj2": {
+      "text": "Osim toga, ono što izrasta iz korijena grijeha nije dobro. Ali ropski strah izrasta iz korijena grijeha, jer uz ono iz Job 3, *Zašto nisam umro u utrobi?*, Grgur kaže: *Kad se zbog grijeha strahuje od sadašnje kazne, a izgubljeno se lice Božje ne ljubi, strah je od nadutosti, a ne od poniznosti*. Dakle, ropski je strah zao.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a4.obj3": {
+      "text": "Osim toga, kao što se ljubavi (amor caritatis) suprotstavlja plaćenička ljubav, tako se, čini se, čistom strahu suprotstavlja ropski strah. Ali plaćenička je ljubav uvijek zla. Dakle, i ropski strah.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a4.sc": {
+      "text": "Ali protiv toga: nikakvo zlo nije od Duha Svetoga. Ali ropski strah jest od Duha Svetoga, jer uz ono iz Rim 8, *Niste primili duha ropstva* itd., Glosa kaže: *Jedan je Duh koji proizvodi dva straha, naime ropski i čisti*. Dakle, ropski strah nije zao.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a4.resp": {
+      "text": "Odgovaram: treba reći da ropski strah ima od ropskosti to što je zao. Ropstvo se, naime, suprotstavlja slobodi. Stoga, budući da je slobodan onaj tko je radi sebe, kako se kaže na početku Metafizike, rob je onaj tko ne djeluje radi sebe, nego kao pokretan izvana. A tko god nešto čini iz ljubavi, djeluje kao sam od sebe, jer ga na djelovanje pokreće vlastita sklonost. I zato je protiv pojma ropskosti da netko djeluje iz ljubavi. Tako se, dakle, ropski strah, ukoliko je ropski, protivi ljubavi. Kad bi, dakle, ropskost pripadala pojmu straha, ropski bi strah morao biti naprosto zao, kao što je preljub naprosto zao, jer ono po čemu se protivi ljubavi pripada vrsti preljuba. Ali navedena ropskost ne pripada vrsti ropskoga straha, kao što ni neoblikovanost ne pripada vrsti neoblikovane vjere. Vrsta se, naime, moralnoga habitusa ili čina uzima od predmeta. A predmet je ropskoga straha kazna. A ropskom se strahu akcidentalno događa ili da se dobro kojemu se kazna protivi ljubi kao posljednja svrha, pa se posljedično kazne boji kao glavnoga zla, što se događa u onome tko nema ljubavi; ili da se to dobro usmjerava prema Bogu kao prema svrsi, pa se posljedično kazne ne boji kao glavnoga zla, što se događa u onome tko ima ljubav. Vrsta habitusa, naime, ne dokida se time što se njegov predmet ili svrha usmjerava prema daljnjoj svrsi. I zato je ropski strah po svojoj supstanciji dobar, ali je njegova ropskost zla.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da tu Augustinovu riječ treba shvatiti o onome tko nešto čini iz ropskoga straha ukoliko je ropski, naime tako da ne ljubi pravednost, nego se samo boji kazne.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a4.ad2": {
+      "text": "Na drugo treba reći da ropski strah po svojoj supstanciji ne izrasta iz nadutosti. Ali njegova se ropskost rađa iz nadutosti, naime ukoliko čovjek ne želi svoje čuvstvo podložiti jarmu pravednosti po ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a4.ad3": {
+      "text": "Na treće treba reći da se plaćeničkom ljubavlju naziva ljubav onoga tko ljubi Boga zbog vremenitih dobara. Ona se sama po sebi protivi ljubavi (caritas). I zato je plaćenička ljubav uvijek zla. Ali ropski strah po svojoj supstanciji ne uključuje ništa osim straha od kazne, bilo da se nje boji kao glavnoga zla, bilo da je se ne boji kao glavnoga zla.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je ropski strah po supstanciji isti kao sinovski strah. Čini se, naime, da se sinovski strah prema ropskom odnosi kao oblikovana vjera prema neoblikovanoj, od kojih je jedna sa smrtnim grijehom, a druga nije. Ali oblikovana i neoblikovana vjera po supstanciji su ista vjera. Dakle, i ropski i sinovski strah po supstanciji su isti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a5.obj2": {
+      "text": "Osim toga, habitusi se razlikuju po predmetima. Ali isti je predmet ropskoga i sinovskoga straha, jer se i jednim i drugim strahom boji Boga. Dakle, ropski strah i sinovski strah po supstanciji su isti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a5.obj3": {
+      "text": "Osim toga, kao što se čovjek nada da će uživati Boga i također od njega dobiti dobročinstva, tako se i boji da će biti odvojen od Boga i da će od njega trpjeti kazne. Ali ista je nada kojom se nadamo da ćemo uživati Boga i kojom se nadamo da ćemo od njega dobiti druga dobročinstva, kao što je rečeno. Dakle, isti je i sinovski strah, kojim se bojimo odvojenosti od Boga, i ropski strah, kojim se bojimo da će nas on kazniti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a5.sc": {
+      "text": "Ali protiv toga je to što Augustin u tumačenju Prve Ivanove poslanice kaže da postoje dva straha, jedan ropski, a drugi sinovski ili čisti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a5.resp": {
+      "text": "Odgovaram: treba reći da je predmet straha u vlastitom smislu zlo. A budući da se čini i habitusi razlikuju po predmetima, kao što je jasno iz rečenoga, nužno je da se i strahovi razlikuju po vrsti prema različitosti zala. A po vrsti se razlikuju zlo kazne, kojega se kloni ropski strah, i zlo krivnje, kojega se kloni sinovski strah, kao što je jasno iz gore rečenoga. Stoga je očito da ropski i sinovski strah nisu isti po supstanciji, nego se razlikuju po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se oblikovana i neoblikovana vjera ne razlikuju po predmetu; i jedna i druga vjera, naime, i vjeruje Bogu (credere Deo) i vjeruje Boga (credere Deum). One se razlikuju samo po nečemu izvanjskome, naime po prisutnosti i odsutnosti ljubavi. I zato se ne razlikuju po supstanciji. Ali ropski i sinovski strah razlikuju se po predmetima. I zato razlog nije sličan.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a5.ad2": {
+      "text": "Na drugo treba reći da ropski strah i sinovski strah nemaju isti odnošaj prema Bogu. Ropski strah, naime, gleda na Boga kao na počelo koje nanosi kazne, a sinovski strah gleda na Boga ne kao na djelatno počelo krivnje, nego radije kao na granicu od koje se kloni odvojiti krivnjom. I zato iz toga predmeta, koji je Bog, ne proizlazi istovjetnost vrste. Jer i naravna se gibanja razlikuju po vrsti prema odnošaju prema nekoj granici: nije, naime, vrstom isto gibanje ono koje je od bjeline i ono koje je prema bjelini.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a5.ad3": {
+      "text": "Na treće treba reći da nada gleda na Boga kao na počelo kako s obzirom na uživanje Boga tako i s obzirom na bilo koje drugo dobročinstvo. Ali sa strahom nije tako. I zato razlog nije sličan.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da ropski strah ne ostaje s ljubavlju. Augustin, naime, u tumačenju Prve Ivanove poslanice kaže da se, *kad ljubav počne prebivati, izgoni strah koji joj je pripremio mjesto.*",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a6.obj2": {
+      "text": "*Osim toga, ljubav je Božja razlivena u srcima našim po Duhu Svetome koji nam je dan*, kako se kaže u Rim 5. *Ali gdje je Duh Gospodnji, ondje je sloboda*, kako stoji u 2 Kor 3. Budući, dakle, da sloboda isključuje ropstvo, čini se da se ropski strah izgoni kad dođe ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a6.obj3": {
+      "text": "Osim toga, ropski strah prouzrokovan je ljubavlju prema sebi, ukoliko kazna umanjuje vlastito dobro. Ali ljubav prema Bogu izgoni ljubav prema sebi, jer navodi na prezir samoga sebe, kao što je jasno iz Augustinova autoriteta u XIV. knjizi O Božjem gradu: *Ljubav prema Bogu sve do prezira sebe tvori Božji grad*. Dakle, čini se da se, kad dođe ljubav, ropski strah dokida.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a6.sc": {
+      "text": "Ali protiv toga je to što je ropski strah dar Duha Svetoga, kao što je gore rečeno. Ali darovi Duha Svetoga ne dokidaju se kad dođe ljubav, po kojoj Duh Sveti prebiva u nama. Dakle, kad dođe ljubav, ropski se strah ne dokida.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a6.resp": {
+      "text": "Odgovaram: treba reći da je ropski strah prouzrokovan ljubavlju prema sebi, jer je to strah od kazne, koja je šteta za vlastito dobro. Stoga na taj način strah od kazne može postojati s ljubavlju (caritas) kao i ljubav (amor) prema sebi; istoga je, naime, pojma da čovjek žudi za svojim dobrom i da se boji da će ga biti lišen. A ljubav prema sebi može se na tri načina odnositi prema bogoslovnoj ljubavi. Na jedan se način protivi ljubavi, naime ukoliko netko u ljubavi prema vlastitom dobru postavlja svrhu. Na drugi je način uključena u ljubav, ukoliko čovjek ljubi sebe radi Boga i u Bogu. Na treći se način doduše razlikuje od ljubavi, ali joj se ne protivi, primjerice kad netko ljubi sebe po pojmu vlastitoga dobra, ali tako da u tom vlastitom dobru ne postavlja svrhu; kao što i prema bližnjemu može postojati neka druga posebna ljubav osim ljubavi (caritas), koja se temelji u Bogu, kad se bližnji ljubi bilo zbog krvnoga srodstva bilo zbog nekoga drugog ljudskog odnosa, koja se ipak može usmjeriti prema ljubavi (caritas). Tako je, dakle, i strah od kazne na jedan način uključen u ljubav; jer biti odvojen od Boga jest neka kazna, koje se ljubav najviše kloni. Stoga to pripada čistom strahu. Na drugi se način protivi ljubavi, ukoliko se netko kloni kazne koja se protivi njegovu naravnom dobru kao glavnoga zla, protivnog dobru koje se ljubi kao svrha. I tako strah od kazne ne postoji s ljubavlju. Na treći se način strah od kazne doduše razlikuje po supstanciji od čistoga straha, naime zato što se čovjek boji kaznenoga zla ne zbog odvojenosti od Boga, nego ukoliko je štetno za vlastito dobro, a ipak u tom dobru ne postavlja svoju svrhu; stoga ni od toga zla ne strahuje kao od glavnoga zla. I takav strah od kazne može postojati s ljubavlju. Ali taj se strah od kazne ne naziva ropskim osim kad se od kazne strahuje kao od glavnoga zla, kao što je jasno iz rečenoga. I zato strah, ukoliko je ropski, ne ostaje s ljubavlju, ali supstancija ropskoga straha može ostati s ljubavlju, kao što ljubav prema sebi može ostati s ljubavlju (caritas).",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori o strahu ukoliko je ropski.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a6.ad2": {
+      "text": "I tako vrijede i druga dva razloga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da strah nije početak mudrosti. Početak je, naime, nešto od same stvari. Ali strah nije nešto od mudrosti, jer je strah u težnjenoj sili, a mudrost je u umskoj sili. Dakle, čini se da strah nije početak mudrosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a7.obj2": {
+      "text": "Osim toga, ništa nije počelo samoga sebe. Ali strah Božji jest sama mudrost, kako se kaže u Job 28. Dakle, čini se da strah Božji nije početak mudrosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a7.obj3": {
+      "text": "Osim toga, ništa nije prije počela. Ali nešto je prije straha, jer vjera prethodi strahu. Dakle, čini se da strah nije početak mudrosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu: *Početak je mudrosti strah Gospodnji*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a7.resp": {
+      "text": "Odgovaram: treba reći da se nešto može nazvati početkom mudrosti na dva načina: na jedan način, zato što je početak same mudrosti s obzirom na njezinu bit; na drugi način, s obzirom na njezin učinak. Tako je početak umijeća s obzirom na njegovu bit ona načela iz kojih umijeće proizlazi, a početak umijeća s obzirom na njegov učinak jest ono odakle umijeće počinje djelovati; kao kad bismo rekli da je počelo graditeljskog umijeća temelj, jer ondje graditelj počinje djelovati. Budući pak da je mudrost spoznaja božanskih stvari, kao što će se niže reći, mi je razmatramo drukčije nego filozofi. Budući da je, naime, naš život usmjeren prema uživanju Boga i ravna se prema nekom sudjelovanju u božanskoj naravi, koje je po milosti, mudrost se po nama ne razmatra samo kao ona koja spoznaje Boga, kao kod filozofa, nego i kao ona koja upravlja ljudskim životom; a on se ne ravna samo prema ljudskim razlozima, nego i prema božanskim razlozima, kao što je jasno iz Augustina u XII. knjizi O Trojstvu. Tako je, dakle, početak mudrosti s obzirom na njezinu bit prva načela mudrosti, a to su članci vjere. I u tom se smislu kaže da je vjera početak mudrosti. Ali s obzirom na učinak, početak mudrosti jest ono odakle mudrost počinje djelovati. I na taj je način strah početak mudrosti. Ipak, na jedan je način to ropski strah, a na drugi sinovski strah. Ropski je strah, naime, kao počelo izvana koje raspolaže za mudrost, ukoliko se netko iz straha od kazne udaljuje od grijeha i time se osposobljuje za učinak mudrosti, prema onome iz Sir 1: *Strah Gospodnji izgoni grijeh*. A čisti ili sinovski strah početak je mudrosti kao prvi učinak mudrosti. Budući da, naime, mudrosti pripada da se ljudski život ravna prema božanskim razlozima, odavde treba uzeti počelo: da čovjek strahopoštuje Boga i da mu se podloži; tako će se, naime, posljedično u svemu ravnati prema Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj razlog pokazuje da strah nije počelo mudrosti s obzirom na bit mudrosti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a7.ad2": {
+      "text": "Na drugo treba reći da se strah Božji prema cijelom ljudskom životu, kojim ravna Božja mudrost, odnosi kao korijen prema stablu. Zato se kaže u Sir 1: *Korijen je mudrosti bojati se Gospodina, a grane su njegove dugovječne*. I zato, kao što se kaže da je korijen virtualno cijelo stablo, tako se kaže da je strah Božji mudrost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a7.ad3": {
+      "text": "Na treće treba reći da je, kao što je rečeno, na jedan način vjera počelo mudrosti, a na drugi način strah. Zato se kaže u Sir 25: *Strah je Božji početak ljubavi prema njemu, a početak vjere valja čvrsto prilijepiti uz nj*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da se početni strah po supstanciji razlikuje od sinovskoga straha. Sinovski strah, naime, prouzrokovan je ljubavlju. Ali početni je strah počelo ljubavi, prema onome iz Sir 25: *Strah je Gospodnji početak ljubavi*. Dakle, početni je strah drugi od sinovskoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a8.obj2": {
+      "text": "Osim toga, početni se strah boji kazne, koja je predmet ropskoga straha; i tako se čini da je početni strah isti kao ropski. Ali ropski je strah drugi od sinovskoga. Dakle, i početni je strah po supstanciji drugi od sinovskoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a8.obj3": {
+      "text": "Osim toga, sredina se iz istoga razloga razlikuje od obaju krajeva. Ali početni je strah sredina između ropskoga straha i sinovskoga straha. Dakle, razlikuje se i od sinovskoga i od ropskoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a8.sc": {
+      "text": "Ali protiv toga je to što savršeno i nesavršeno ne čine različitom supstanciju stvari. Ali početni i sinovski strah razlikuju se po savršenosti i nesavršenosti ljubavi, kao što je jasno iz Augustina u tumačenju Prve Ivanove poslanice. Dakle, početni se strah po supstanciji ne razlikuje od sinovskoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a8.resp": {
+      "text": "Odgovaram: treba reći da se početni strah tako naziva zato što je početak. Ali budući da su i ropski strah i sinovski strah na neki način početak mudrosti, i jedan i drugi može se na neki način nazvati početnim. Ali u tom se smislu ne uzima „početni“ ukoliko se razlikuje od ropskoga i sinovskoga straha, nego se uzima ukoliko pripada stanju početnika, u kojima se začinje neki sinovski strah po začetku ljubavi; ali u njima ipak nema savršenoga sinovskog straha, jer još nisu došli do savršenosti ljubavi. I zato se početni strah na taj način odnosi prema sinovskom kao nesavršena ljubav prema savršenoj. A savršena i nesavršena ljubav ne razlikuju se po biti, nego samo po stanju. I zato treba reći da se i početni strah, kako se ovdje uzima, ne razlikuje po biti od sinovskoga straha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da je strah koji je početak ljubavi ropski strah, koji uvodi ljubav kao što čekinja uvodi lanenu nit, kako kaže Augustin. Ili, ako se to odnosi na početni strah, kaže se da je početak ljubavi ne apsolutno, nego s obzirom na stanje savršene ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a8.ad2": {
+      "text": "Na drugo treba reći da se početni strah ne boji kazne kao vlastitoga predmeta, nego ukoliko ima pridruženo nešto od ropskoga straha. Taj ropski strah po supstanciji doduše ostaje s ljubavlju, kad se ukloni ropskost; a njegov čin ostaje s nesavršenom ljubavlju u onome koga na dobro djelovanje ne pokreće samo ljubav prema pravednosti, nego i strah od kazne; ali taj čin prestaje u onome koji ima savršenu ljubav, koja izgoni van strah koji ima kaznu, kako se kaže u 1 Iv 4.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a8.ad3": {
+      "text": "Na treće treba reći da je početni strah sredina između sinovskoga i ropskoga straha ne kao između onoga što pripada jednom rodu, nego kao što je nesavršeno sredina između savršenoga bića i nebića, kako se kaže u II. knjizi Metafizike; a ono je ipak po supstanciji isto što i savršeno biće, a potpuno se razlikuje od nebića.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da strah nije dar Duha Svetoga. Nijedan se dar Duha Svetoga, naime, ne suprotstavlja kreposti, koja je također od Duha Svetoga; inače bi Duh Sveti bio protivan samomu sebi. Ali strah se suprotstavlja nadi, koja je krepost. Dakle, strah nije dar Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.obj2": {
+      "text": "Osim toga, bogoslovnoj je kreposti svojstveno da ima Boga za predmet. Ali strah ima Boga za predmet, ukoliko se Boga boji. Dakle, strah nije dar, nego bogoslovna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.obj3": {
+      "text": "Osim toga, strah slijedi iz ljubavi. Ali ljubav se postavlja kao neka bogoslovna krepost. Dakle, i strah je bogoslovna krepost, kao da pripada istome.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.obj4": {
+      "text": "Osim toga, Grgur kaže u II. knjizi Moralija da se strah daje protiv oholosti. Ali oholosti se suprotstavlja krepost poniznosti. Dakle, i strah je obuhvaćen krepošću.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.obj5": {
+      "text": "Osim toga, darovi su savršeniji od kreposti, jer se daju kao pomoć krepostima, kako kaže Grgur u II. knjizi Moralija. Ali nada je savršenija od straha, jer je nada usmjerena na dobro, a strah na zlo. Budući, dakle, da je nada krepost, ne treba reći da je strah dar.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.sc": {
+      "text": "Ali protiv toga je to što se u Iz 11 strah Gospodnji nabraja među sedam darova Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.resp": {
+      "text": "Odgovaram: treba reći da je strah mnogostruk, kao što je gore rečeno. A ljudski strah, kako kaže Augustin u knjizi O milosti i slobodnoj volji, nije Božji dar, jer je iz toga straha Petar zanijekao Krista, nego je Božji dar onaj strah o kojemu je rečeno: *Bojte se onoga koji može i dušu i tijelo baciti u Gehenu*. Slično tako ni ropski strah ne treba ubrajati među sedam darova Duha Svetoga, premda je od Duha Svetoga. Jer, kako kaže Augustin u knjizi O naravi i milosti, s njim može biti povezana volja za griješenjem, a darovi Duha Svetoga ne mogu biti s voljom za griješenjem, jer nisu bez ljubavi, kao što je rečeno. Stoga preostaje da je strah Božji koji se ubraja među sedam darova Duha Svetoga sinovski ili čisti strah. Gore je, naime, rečeno da su darovi Duha Svetoga neka habitualna usavršenja moći duše, po kojima one postaju podatne da ih Duh Sveti dobro pokreće, kao što po moralnim krepostima težnjene moći postaju podatne da ih razum dobro pokreće. A da bi nešto bilo podatno da ga neki pokretač dobro pokreće, prvo se zahtijeva da mu bude podložno i da mu se ne opire, jer opiranje pokretljivoga pokretaču priječi gibanje. A to čini sinovski ili čisti strah, ukoliko po njemu strahopoštujemo Boga i klonimo se toga da mu se izmaknemo. I zato sinovski strah zauzima takoreći prvo mjesto među darovima Duha Svetoga kad se ide uzlazno, a posljednje kad se ide silazno, kako kaže Augustin u knjizi O Gospodinovu govoru na gori.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da se sinovski strah ne protivi kreposti nade. Po sinovskom se strahu, naime, ne bojimo da će nam izostati ono što se nadamo postići Božjom pomoću, nego se bojimo da ćemo se izmaknuti toj pomoći. I zato sinovski strah i nada međusobno prianjaju jedno uz drugo i međusobno se usavršuju.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.ad2": {
+      "text": "Na drugo treba reći da je vlastiti i glavni predmet straha zlo kojega se netko kloni. I na taj način Bog ne može biti predmet straha, kao što je gore rečeno. Ali na taj je način predmet nade i ostalih bogoslovnih kreposti. Jer se krepošću nade ne oslanjamo na Božju pomoć samo zato da postignemo bilo koja druga dobra, nego ponajprije zato da postignemo samoga Boga kao glavno dobro. A isto je jasno i u ostalim bogoslovnim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.ad3": {
+      "text": "Na treće treba reći da iz toga što je ljubav počelo straha ne slijedi da strah Božji nije habitus različit od ljubavi (caritas), koja je ljubav (amor) prema Bogu; jer ljubav je počelo svih čuvstava, a ipak se s obzirom na različita čuvstva usavršujemo u različitim habitusima. Ipak, ljubav ima više pojam kreposti nego strah, jer je ljubav usmjerena na dobro, prema kojemu je krepost ponajprije usmjerena po svom vlastitom pojmu, kao što je jasno iz gore rečenoga. I zbog toga se i nada postavlja kao krepost. A strah je ponajprije usmjeren na zlo, jer uključuje bijeg od njega. Stoga je nešto manje od bogoslovne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.ad4": {
+      "text": "Na četvrto treba reći da je, kako se kaže u Sir 10, *početak čovjekove oholosti otpasti od Boga*, to jest ne htjeti se podložiti Bogu, što se suprotstavlja sinovskom strahu, koji strahopoštuje Boga. I tako strah isključuje počelo oholosti, i zbog toga se daje protiv oholosti. Ali ipak ne slijedi da je isti kao krepost poniznosti, nego da je njezino počelo; jer darovi su Duha Svetoga počela umskih i moralnih kreposti, kao što je gore rečeno. Ali bogoslovne su kreposti počela darova, kao što je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a9.ad5": {
+      "text": "Odatle je jasan odgovor na peto.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da se strah umanjuje kad raste ljubav. Augustin, naime, kaže u tumačenju Prve Ivanove poslanice: *Koliko ljubav raste, toliko strah opada*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a10.obj2": {
+      "text": "Osim toga, kad raste nada, strah se umanjuje. Ali kad raste ljubav, raste nada, kao što je gore utvrđeno. Dakle, kad raste ljubav, strah se umanjuje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a10.obj3": {
+      "text": "Osim toga, ljubav uključuje sjedinjenje, a strah odvojenost. Ali kad raste sjedinjenje, umanjuje se odvojenost. Dakle, kad raste ljubav (amor caritatis), strah se umanjuje.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a10.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi Osamdeset i tri pitanja, da *strah Božji ne samo započinje nego i usavršava mudrost, to jest onu koja najviše ljubi Boga i bližnjega kao samoga sebe*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a10.resp": {
+      "text": "Odgovaram: treba reći da je strah Božji dvostruk, kao što je rečeno: jedan je sinovski, kojim se netko boji da će ga uvrijediti ili biti od njega odvojen, a drugi ropski, kojim se netko boji kazne. Nužno je da sinovski strah raste kad raste ljubav, kao što učinak raste kad raste uzrok; što, naime, netko nekoga više ljubi, to se više boji da će ga uvrijediti i biti od njega odvojen. Ali ropski se strah, s obzirom na ropskost, potpuno dokida kad dođe ljubav, no strah od kazne ostaje po supstanciji, kao što je rečeno. I taj se strah umanjuje kad ljubav raste, osobito s obzirom na čin, jer što netko više ljubi Boga, to se manje boji kazne. Prvo, zato što manje pazi na vlastito dobro, kojemu se kazna protivi. Drugo, zato što se, čvršće prianjajući, više pouzdaje u nagradu i posljedično se manje boji kazne.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori o strahu od kazne.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a10.ad2": {
+      "text": "Na drugo treba reći da se strah od kazne umanjuje kad raste nada. Ali kad ona raste, raste sinovski strah, jer što netko sigurnije očekuje da će postići neko dobro po pomoći drugoga, to se više boji da će ga uvrijediti ili biti od njega odvojen.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a10.ad3": {
+      "text": "Na treće treba reći da sinovski strah ne uključuje odvojenost, nego radije podložnost njemu, a kloni se odvojenosti od podložnosti njemu. Ali na neki način uključuje odvojenost time što se ne usuđuje preuzetno izjednačiti s njim, nego mu se podlaže. Ta se odvojenost nalazi i u ljubavi, ukoliko ljubi Boga iznad sebe i iznad svega. Stoga uvećana ljubav (amor caritatis) ne umanjuje strahopoštovanje straha, nego ga povećava.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da strah ne ostaje u domovini. Kaže se, naime, u Izr 1: *uživat će obilje, kad se ukloni strah od zala*, što se shvaća o čovjeku koji već uživa mudrost u vječnom blaženstvu. Ali svaki je strah od nekog zla, jer je zlo predmet straha, kao što je gore rečeno. Dakle, u domovini neće biti nikakva straha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a11.obj2": {
+      "text": "Osim toga, ljudi će u domovini biti suobličeni Bogu, prema onome iz 1 Iv 3: *kad se pojavi, bit ćemo mu slični*. Ali Bog se ničega ne boji. Dakle, ljudi u domovini neće imati nikakva straha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a11.obj3": {
+      "text": "Osim toga, nada je savršenija od straha, jer se nada odnosi na dobro, a strah na zlo. Ali nade neće biti u domovini. Dakle, ni straha neće biti u domovini.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a11.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu: *sveti strah Gospodnji ostaje u vijeke*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a11.resp": {
+      "text": "Odgovaram: treba reći da ropskoga straha, ili straha od kazne, nikako neće biti u domovini; takav se strah, naime, isključuje sigurnošću vječnog blaženstva, koja pripada samom pojmu blaženstva, kao što je gore rečeno. Sinovski pak strah, kao što raste s porastom ljubavi, tako će se usavršiti kad ljubav bude savršena. Stoga u domovini neće imati posve isti čin koji ima sada. Da bi to bilo jasno, treba znati da je vlastiti predmet straha moguće zlo, kao što je vlastiti predmet nade moguće dobro. A budući da je pokret straha kao neki bijeg, strah uključuje bijeg od mogućeg zla koje je teško izbjeći; mala, naime, zla ne izazivaju strah. Kao što je dobro svake stvari u tome da ostane u svojem redu, tako je zlo svake stvari u tome da napusti svoj red. A red razumskog stvora jest da bude pod Bogom i iznad ostalih stvorova. Stoga, kao što je zlo razumskog stvora u tome da se ljubavlju podloži nižem stvoru, tako je njegovo zlo i ako se ne podloži Bogu, nego preuzetno nasrne na njega ili ga prezre. To je pak zlo moguće razumskom stvoru promatranom prema njegovoj naravi, zbog naravne savitljivosti slobodnog odlučivanja, ali u blaženima postaje nemoguće po savršenosti slave. Bijeg, dakle, od ovoga zla, koje se sastoji u tome da se ne bude podložan Bogu, bit će u domovini kao bijeg od zla koje je moguće naravi, a nemoguće blaženstvu. A na putu postoji bijeg od toga zla kao od posve mogućega. Zato Grgur u 17. knjizi Moralija, tumačeći ono iz Job 26: *stupovi nebeski dršću i strepe na njegov mig, same nebeske sile, kaže, koje ga bez prestanka gledaju, dršću u samom motrenju. Ali da im taj isti drhtaj ne bi bio na kaznu, on nije drhtaj straha nego divljenja*; dive se, naime, Bogu kao onome koji postoji iznad njih i koji je za njih neobuhvatljiv. I Augustin u 14. knjizi O Božjem gradu na taj način stavlja strah u domovinu, premda to ostavlja pod sumnjom. *Onaj čisti strah, kaže, koji ostaje u vijek vijeka, ako bude postojao u budućem dobu, neće biti strah koji plaši od zla koje se može dogoditi, nego strah koji drži u dobru koje se ne može izgubiti. Gdje je, naime, ljubav prema postignutom dobru nepromjenljiva, ondje je zacijelo, ako se tako može reći, strah od zla kojega se treba čuvati bezbrižan. Imenom čistog straha, naime, označena je ona volja kojom ćemo nužno ne htjeti griješiti i čuvati se grijeha ne iz zabrinutosti zbog slabosti, da ne bismo možda sagriješili, nego iz spokoja ljubavi. Ili, ako ondje uopće ne bude mogao postojati strah nikakve vrste, možda je za strah rečeno da ostaje u vijek vijeka zato što će ostati ono do čega sam strah dovodi*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da se navedenim mjestom autoriteta od blaženih isključuje strah koji ima zabrinutost i unaprijed se čuva od zla, ali ne i bezbrižan strah, kako kaže Augustin.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a11.ad2": {
+      "text": "Na drugo treba reći da su, kako kaže Dionizije u 9. poglavlju O božanskim imenima, *iste stvari Bogu i slične i neslične: slične po mogućem nasljedovanju Nenasljedivoga*, to jest ukoliko nasljeduju Boga prema svojoj mogućnosti, a on nije savršeno nasljediv; *neslične pak po tome što ono što je uzrokovano ima manje od uzroka, zaostajući za njim beskonačnim i neusporedivim mjerama*. Stoga, ako Bogu ne pristaje strah, jer nema višega kojemu bi bio podložan, ne treba zbog toga da strah ne pristaje blaženima, čije se blaženstvo sastoji u savršenoj podložnosti Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a11.ad3": {
+      "text": "Na treće treba reći da nada uključuje neki nedostatak, naime to da je blaženstvo buduće, a to se uklanja njegovom prisutnošću. Ali strah uključuje naravni nedostatak stvora, ukoliko je beskonačno udaljen od Boga, a to će ostati i u domovini. I zato strah neće biti posve dokinut.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da siromaštvo duhom nije blaženstvo koje odgovara daru straha. Strah je, naime, početak duhovnog života, kao što je jasno iz rečenoga. Ali siromaštvo pripada savršenosti duhovnog života, prema onome iz Mt 19: *ako hoćeš biti savršen, idi, prodaj sve što imaš i podaj siromasima*. Dakle, siromaštvo duhom ne odgovara daru straha.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a12.obj2": {
+      "text": "Osim toga, u Psalmu se kaže: *probodi strahom svojim tijelo moje*, iz čega se čini da strahu pripada obuzdavati tijelo. Ali obuzdavanju tijela ponajviše, čini se, pripada blaženstvo žalovanja. Dakle, blaženstvo žalovanja više odgovara daru straha nego blaženstvo siromaštva.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a12.obj3": {
+      "text": "Osim toga, dar straha odgovara kreposti nade, kao što je rečeno. Ali nadi, čini se, ponajviše odgovara posljednje blaženstvo, koje glasi: *blaženi mirotvorci, jer će se sinovima Božjim zvati*, jer se, kako se kaže u Rim 5, *ponosimo u nadi slave sinova Božjih*. Dakle, to blaženstvo više odgovara daru straha nego siromaštvo duhom.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a12.obj4": {
+      "text": "Osim toga, gore je rečeno da blaženstvima odgovaraju plodovi. Ali među plodovima se ne nalazi ništa što bi odgovaralo daru straha. Dakle, ni među blaženstvima mu ništa ne odgovara.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a12.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O Gospodinovu govoru na gori: *strah Božji pristaje poniznima, o kojima se kaže: blaženi siromasi duhom*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a12.resp": {
+      "text": "Odgovaram: treba reći da strahu u vlastitom smislu odgovara siromaštvo duhom. Budući, naime, da sinovskom strahu pripada iskazivati Bogu poštovanje i biti mu podložan, ono što slijedi iz takve podložnosti pripada daru straha. A time što se netko podlaže Bogu, prestaje tražiti da bude uzveličan u sebi samome ili u ičem drugom osim u Bogu; to bi se, naime, protivilo savršenoj podložnosti Bogu. Stoga se kaže u Psalmu: *jedni s kolima, drugi s konjima, a mi ćemo zazivati ime Boga našega*. I zato iz toga što se netko savršeno boji Boga slijedi da ne traži biti uzveličan u sebi samome po oholosti, a ni u vanjskim dobrima, to jest u častima i bogatstvu. Oboje to pripada siromaštvu duhom, ukoliko se siromaštvo duhom može shvatiti ili kao ispražnjenje napuhanog i oholog duha, kako tumači Augustin, ili također kao odbacivanje vremenitih stvari koje se čini duhom, to jest vlastitom voljom na poticaj Duha Svetoga, kako tumače Ambrozije i Jeronim.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da je blaženstvo čin savršene kreposti, sva blaženstva pripadaju savršenosti duhovnog života. Početak pak te savršenosti, čini se, jest u tome da onaj tko teži savršenom sudjelovanju u duhovnim dobrima prezre zemaljska dobra, kao što i strah ima prvo mjesto među darovima. Ali savršenost se ne sastoji u samom napuštanju vremenitih stvari, nego je to put k savršenosti. Sinovski pak strah, kojemu odgovara blaženstvo siromaštva, postoji i uz savršenost mudrosti, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a12.ad2": {
+      "text": "Na drugo treba reći da se podložnosti Bogu, koju ostvaruje sinovski strah, izravnije suprotstavlja nedolično uzveličavanje čovjeka bilo u sebi samome bilo u drugim stvarima nego naslada u onome što je Bogu strano. Ta se naslada ipak suprotstavlja strahu posljedično, jer onaj tko poštuje Boga i podložan mu je ne nalazi nasladu u stvarima izvan Boga. Ali naslada ipak ne pripada pojmu teško dostižnoga, na koje se odnosi strah, kao što mu pripada uzveličavanje. I zato blaženstvo siromaštva izravno odgovara strahu, a blaženstvo žalovanja posljedično.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a12.ad3": {
+      "text": "Na treće treba reći da nada uključuje pokret s obzirom na odnošaj prema granici prema kojoj se teži, a strah više uključuje pokret s obzirom na odnošaj udaljavanja od granice. I zato posljednje blaženstvo, koje je završetak duhovne savršenosti, prikladno odgovara nadi kao posljednji predmet, a prvo blaženstvo, koje se sastoji u udaljavanju od vanjskih stvari što priječe podložnost Bogu, prikladno odgovara strahu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q19.a12.ad4": {
+      "text": "Na četvrto treba reći da među plodovima daru straha, čini se, pristaju oni koji se odnose na umjerenu uporabu vremenitih stvari ili na uzdržavanje od njih, kao skromnost, uzdržljivost i čistoća.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    }
+  }
+}

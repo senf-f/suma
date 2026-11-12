@@ -1,0 +1,384 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 17,
+  "units": {
+    "II-II.q17.pr": {
+      "text": "Nakon vjere valja zatim razmotriti nadu: prvo, samu nadu; drugo, dar straha; treće, suprotstavljene poroke; četvrto, zapovijedi koje se na to odnose. U pogledu prvoga najprije dolazi razmatranje same nade; drugo, njezina subjekta. U pogledu prvoga pita se osam stvari. Prvo, je li nada krepost. Drugo, je li njezin predmet vječno blaženstvo. Treće, može li se jedan čovjek krepošću nade nadati blaženstvu drugoga. Četvrto, smije li se čovjek nadati u čovjeka. Peto, je li nada bogoslovna krepost. Šesto, o njezinu razlikovanju od drugih bogoslovnih kreposti. Sedmo, o njezinu redu u odnosu na vjeru. Osmo, o njezinu redu u odnosu na ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nada nije krepost. *Krepošću se, naime, nitko ne služi loše*, kako kaže Augustin u knjizi O slobodnoj volji. Ali nadom se netko služi loše, jer se u pogledu strasti nade događa da postoji sredina i krajnosti, kao i u pogledu drugih strasti. Dakle, nada nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a1.obj2": {
+      "text": "Osim toga, nijedna krepost ne proizlazi iz zasluga, jer *krepost Bog djeluje u nama bez nas*, kako kaže Augustin. *Ali nada proizlazi iz milosti i zasluga*, kako kaže Učitelj u III. knjizi Sentencija, 26. razlikovanje. Dakle, nada nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a1.obj3": {
+      "text": "Osim toga, krepost je raspoloživost savršenoga, kako se kaže u VII. knjizi Fizike. A nada je raspoloživost nesavršenoga, naime onoga koji nema ono čemu se nada. Dakle, nada nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a1.sc": {
+      "text": "Ali protiv toga je to što Grgur u I. knjizi Moralija kaže da se trima Jobovim kćerima označuju ove tri kreposti: vjera, nada, ljubav. Dakle, nada je krepost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a1.resp": {
+      "text": "Odgovaram: treba reći da je, prema Filozofu u II. knjizi Etike, *krepost svake stvari ono što čini dobrim onoga koji je ima i njegovo djelo čini dobrim*. Treba, dakle, da gdjegod se nađe neki dobar čin čovjeka, on odgovara nekoj ljudskoj kreposti. A u svemu što se ravna pravilom i mjerom dobro se promatra po tome što nešto dostiže svoje vlastito pravilo, kao što kažemo da je dobra ona haljina koja niti premašuje dužnu mjeru niti zaostaje za njom. A ljudski čini, kako je gore rečeno, imaju dvostruku mjeru: jednu najbližu i istorodnu, naime razum, a drugu najvišu i nadmašujuću, naime Boga. I zato je dobar svaki ljudski čin koji dostiže razum ili samoga Boga. A čin nade o kojoj sada govorimo dostiže Boga. Kao što je, naime, gore rečeno kad se raspravljalo o strasti nade, predmet je nade buduće, teško dostižno dobro koje je moguće imati. A nešto nam je moguće na dva načina: na jedan način, po nama samima; na drugi način, po drugima, kako je jasno iz III. knjige Etike. Ukoliko se, dakle, nadamo nečemu kao mogućemu za nas po Božjoj pomoći, naša nada dostiže samoga Boga, na čiju se pomoć oslanja. I zato je jasno da je nada krepost, jer čini čin čovjeka dobrim i takvim da dostiže dužno pravilo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u strastima sredina kreposti uzima po tome što se dostiže ispravni razum, i u tome se također sastoji pojam kreposti. Zato se i u nadi dobro kreposti uzima po tome što čovjek nadajući se dostiže dužno pravilo, naime Boga. I zato se nitko ne može loše služiti nadom koja dostiže Boga, kao ni moralnom krepošću koja dostiže razum, jer upravo to dostizanje jest dobra uporaba kreposti. Premda nada o kojoj sada govorimo nije strast, nego habitus duha, kako će se dolje pokazati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a1.ad2": {
+      "text": "Na drugo treba reći da se kaže da nada proizlazi iz zasluga s obzirom na samu stvar koja se očekuje, ukoliko se netko nada da će postići blaženstvo iz milosti i zasluga; ili s obzirom na čin oblikovane nade. A sam habitus nade, kojim netko očekuje blaženstvo, nije prouzročen zaslugama, nego čisto milošću.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a1.ad3": {
+      "text": "Na treće treba reći da je onaj koji se nada doduše nesavršen s obzirom na ono što se nada postići, a što još nema; ali je savršen ukoliko već dostiže svoje vlastito pravilo, naime Boga, na čiju se pomoć oslanja.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da vječno blaženstvo nije vlastiti predmet nade. Čovjek se, naime, ne nada onomu što nadilazi svaki pokret njegove duše, budući da je čin nade neki pokret duše. Ali vječno blaženstvo nadilazi svaki pokret ljudske duše; kaže, naime, Apostol u 1 Kor 2 da *u srce čovjekovo nije doprlo*. Dakle, blaženstvo nije vlastiti predmet nade.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a2.obj2": {
+      "text": "Osim toga, prošnja je izraz nade; kaže se, naime, u Psalmu: *otkrij Gospodinu put svoj i nadaj se u njega, i on će učiniti*. Ali čovjek dopušteno moli od Boga ne samo vječno blaženstvo, nego i dobra sadašnjega života, kako duhovna tako i vremenita, a također i oslobođenje od zala, kojih u vječnom blaženstvu neće biti, kako je jasno iz molitve Gospodnje, Mt 6. Dakle, vječno blaženstvo nije vlastiti predmet nade.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a2.obj3": {
+      "text": "Osim toga, predmet je nade teško dostižno. Ali u odnosu na čovjeka mnogo je toga drugoga teško dostižno osim vječnoga blaženstva. Dakle, vječno blaženstvo nije vlastiti predmet nade.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Heb 6: *imamo nadu koja ulazi, to jest koja čini da se ulazi, u unutrašnjost iza zastora, to jest u nebesko blaženstvo*, kako ondje tumači Glosa. Dakle, predmet je nade vječno blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, nada o kojoj govorimo dostiže Boga, oslanjajući se na njegovu pomoć da postigne dobro kojemu se nada. A učinak mora biti razmjeran uzroku. I zato je dobro kojemu se u vlastitom smislu i ponajprije moramo nadati od Boga beskonačno dobro, koje je razmjerno snazi Boga koji pomaže; jer beskonačnoj snazi vlastito je dovesti do beskonačnoga dobra. A to je dobro vječni život, koji se sastoji u uživanju samoga Boga; jer od njega ne treba se nadati nečemu manjemu nego što je on sam, budući da njegova dobrota, po kojoj priopćuje dobra stvorovima, nije manja od njegove biti. I zato je vlastiti i glavni predmet nade vječno blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da vječno blaženstvo doduše ne dopire savršeno u srce čovjekovo, tako naime da bi čovjek putnik mogao spoznati što je i kakvo je; ali po općem pojmu, naime po pojmu savršenoga dobra, može pasti pod čovjekovo zahvaćanje. I na taj se način pokret nade uzdiže prema njemu. Zato i Apostol značajno kaže da nada ulazi sve do unutrašnjosti iza zastora, jer nam je ono čemu se nadamo još zastrto.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a2.ad2": {
+      "text": "Na drugo treba reći da nikakva druga dobra ne smijemo moliti od Boga osim u usmjerenosti prema vječnom blaženstvu. Zato se i nada ponajprije odnosi na vječno blaženstvo, a na drugo što se moli od Boga odnosi se drugotno, u usmjerenosti prema vječnom blaženstvu. Kao što se i vjera ponajprije odnosi na Boga, a drugotno na ono što je usmjereno prema Bogu, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a2.ad3": {
+      "text": "Na treće treba reći da se čovjeku koji čezne za nečim velikim čini malenim sve drugo što je manje od toga. I zato čovjeku koji se nada vječnom blaženstvu, s obzirom na tu nadu, ništa drugo nije teško dostižno. Ali s obzirom na sposobnost onoga koji se nada, i neke druge stvari mogu mu biti teško dostižne. I prema tome može biti nada u pogledu njih, u usmjerenosti prema glavnom predmetu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se netko može nadati vječnom blaženstvu za drugoga. Kaže, naime, Apostol u Fil 1: *uvjeren upravo u to da će onaj koji je u vama započeo dobro djelo dovršiti ga do dana Krista Isusa*. A savršenost toga dana bit će vječno blaženstvo. Dakle, netko se može nadati vječnom blaženstvu za drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a3.obj2": {
+      "text": "Osim toga, ono što od Boga molimo nadamo se od njega i dobiti. Ali od Boga molimo da druge dovede do vječnoga blaženstva, prema onome iz Jak 5: *molite jedni za druge da se spasite*. Dakle, možemo se nadati vječnom blaženstvu za druge.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a3.obj3": {
+      "text": "Osim toga, nada i očaj odnose se na isto. Ali netko može očajavati o nečijem vječnom blaženstvu; inače bi Augustin uzalud rekao u knjizi O riječima Gospodnjim: *ni o kome ne treba očajavati dok je živ*. Dakle, netko se može i nadati vječnom životu za drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u Enhiridiju: *nada se odnosi samo na stvari koje pripadaju onomu za koga se kaže da gaji nadu u njih*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a3.resp": {
+      "text": "Odgovaram: treba reći da se nada može odnositi na nešto na dva načina. Na jedan način, apsolutno; i tako se odnosi samo na teško dostižno dobro koje pripada samomu onome koji se nada. Na drugi način, uz pretpostavku nečega drugoga; i tako se može odnositi i na ono što pripada drugomu. Da bi to bilo jasno, treba znati da se ljubav i nada razlikuju u tome što ljubav uključuje neko sjedinjenje onoga koji ljubi s ljubljenim, a nada uključuje neki pokret ili protezanje težnje prema nekom teško dostižnom dobru. A sjedinjenje je sjedinjenje nekih različitih stvari; i zato se ljubav može izravno odnositi na drugoga, kojega netko ljubavlju sjedinjuje sa sobom, imajući ga kao samoga sebe. A pokret je uvijek usmjeren prema vlastitoj granici razmjernoj pokretljivome; i zato se nada izravno odnosi na vlastito dobro, a ne na ono što pripada drugomu. Ali kad se pretpostavi sjedinjenje ljubavi s drugim, netko već može željeti i nadati se nečemu za drugoga kao za sebe. I prema tome se netko može nadati vječnom životu za drugoga, ukoliko je s njim sjedinjen ljubavlju. I kao što je ista krepost ljubavi kojom netko ljubi Boga, sebe i bližnjega, tako je ista i krepost nade kojom se netko nada za sebe sama i za drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a3.adarg": {
+      "text": "I po tome je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se netko može dopušteno nadati u čovjeka. Predmet je, naime, nade vječno blaženstvo. Ali u postizanju vječnoga blaženstva pomaže nam zaštita svetaca; kaže, naime, Grgur u I. knjizi Dijaloga da *predodređenju pomažu molitve svetaca*. Dakle, netko se može nadati u čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a4.obj2": {
+      "text": "Osim toga, kad se netko ne bi mogao nadati u čovjeka, ne bi se nekomu smjelo uračunati kao porok to što se netko u njega ne može nadati. Ali to se za neke kaže kao porok, kako je jasno iz Jr 9: *neka se svatko čuva svojega bližnjega i neka se ne pouzdaje ni u jednoga svojega brata*. Dakle, netko se dopušteno može nadati u čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a4.obj3": {
+      "text": "Osim toga, prošnja je izraz nade, kako je rečeno. Ali čovjek dopušteno može nešto moliti od čovjeka. Dakle, dopušteno se može od njega nečemu i nadati.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Jr 17: *proklet čovjek koji se uzda u čovjeka*.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a4.resp": {
+      "text": "Odgovaram: treba reći da se nada, kako je rečeno, odnosi na dvoje: naime na dobro koje smjera postići i na pomoć po kojoj se to dobro postiže. A dobro koje se netko nada postići ima pojam svršnoga uzroka, a pomoć po kojoj se netko nada postići to dobro ima pojam tvornoga uzroka. A u rodu i jednoga i drugoga uzroka nalazi se glavno i drugotno. Glavna je, naime, svrha posljednja svrha, a drugotna je svrha dobro koje vodi k svrsi. Slično je glavni djelatni uzrok prvi djelatnik, a drugotni tvorni uzrok jest drugotni i oruđni djelatnik. A nada se odnosi na vječno blaženstvo kao na posljednju svrhu, a na Božju pomoć kao na prvi uzrok koji vodi k blaženstvu. Kao što se, dakle, ne smije nadati nekom dobru osim blaženstva kao posljednjoj svrsi, nego samo kao onome što je usmjereno prema svrsi koja je blaženstvo, tako se također ne smije nadati u nekoga čovjeka ili u neki stvor kao u prvi uzrok koji pokreće prema blaženstvu; ali se smije nadati u nekoga čovjeka ili u neki stvor kao u drugotnoga i oruđnoga djelatnika, po kojem se nekomu pomaže da postigne bilo koja dobra usmjerena prema blaženstvu. I na taj se način obraćamo svecima; i od ljudi nešto molimo; i kude se oni u koje se nitko ne može pouzdati da će mu pružiti pomoć.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a4.adarg": {
+      "text": "I po tome je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da nada nije bogoslovna krepost. Bogoslovna je, naime, krepost ona koja ima Boga za predmet. Ali nada nema za predmet samo Boga, nego i druga dobra koja se nadamo postići od Boga. Dakle, nada nije bogoslovna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a5.obj2": {
+      "text": "Osim toga, bogoslovna se krepost ne sastoji u sredini između dvaju poroka, kako je gore utvrđeno. Ali nada se sastoji u sredini između preuzetnosti i očaja. Dakle, nada nije bogoslovna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a5.obj3": {
+      "text": "Osim toga, očekivanje pripada dugotrpnosti, koja je dio jakosti. Budući, dakle, da je nada neko očekivanje, čini se da nada nije bogoslovna krepost, nego moralna.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a5.obj4": {
+      "text": "Osim toga, predmet je nade teško dostižno. Ali težiti prema teško dostižnome pripada velikodušnosti, koja je moralna krepost. Dakle, nada je moralna krepost, a ne bogoslovna.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a5.sc": {
+      "text": "Ali protiv toga je to što se u 1 Kor 13 ubraja zajedno s vjerom i ljubavlju, koje su bogoslovne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a5.resp": {
+      "text": "Odgovaram: treba reći da, budući da specifične razlike po sebi dijele rod, treba paziti odakle nada ima pojam kreposti, da bismo znali pod koju se razliku kreposti smješta. A gore je rečeno da nada ima pojam kreposti po tome što dostiže najviše pravilo ljudskih čina; a dostiže ga i kao prvi tvorni uzrok, ukoliko se oslanja na njegovu pomoć, i kao posljednji svršni uzrok, ukoliko u uživanju u njemu očekuje blaženstvo. I tako je jasno da je glavni predmet nade, ukoliko je krepost, Bog. Budući, dakle, da se pojam bogoslovne kreposti sastoji u tome da ima Boga za predmet, kako je gore rečeno, očito je da je nada bogoslovna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se svemu drugome što nada očekuje postići nada u usmjerenosti prema Bogu kao prema posljednjoj svrsi i kao prema prvom tvornom uzroku, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a5.ad2": {
+      "text": "Na drugo treba reći da se u onome što se ravna pravilom i mjerom sredina uzima po tome što se dostiže pravilo ili mjera; a ukoliko se pravilo premašuje, to je suvišak; a ukoliko se za pravilom zaostaje, to je manjak. A u samom pravilu ili mjeri ne može se uzeti sredina i krajnosti. A moralna je krepost oko onoga što se ravna razumom kao oko vlastitoga predmeta; i zato joj po sebi pristaje da bude u sredini s obzirom na vlastiti predmet. Ali bogoslovna je krepost oko samoga prvoga pravila, koje se ne ravna nekim drugim pravilom, kao oko vlastitoga predmeta. I zato bogoslovnoj kreposti po sebi i s obzirom na vlastiti predmet ne pristaje da bude u sredini. Ali joj to može pripadati akcidentalno, zbog onoga što je usmjereno prema glavnom predmetu. Tako vjera ne može imati sredinu i krajnosti u tome što se oslanja na prvu istinu, na koju se nitko ne može previše osloniti; ali s obzirom na ono što vjeruje, može imati sredinu i krajnosti, kao što je jedno istinito sredina između dvaju neistinitih. I slično nada nema sredinu i krajnosti s obzirom na glavni predmet, jer se nitko ne može previše osloniti na Božju pomoć; ali s obzirom na ono što se netko pouzdaje da će postići, ondje može biti sredina i krajnosti, ukoliko se netko ili preuzetno uzda u ono što je iznad njegova razmjera ili očajava o onome što mu je razmjerno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a5.ad3": {
+      "text": "Na treće treba reći da očekivanje koje se stavlja u definiciju nade ne uključuje odgađanje, kao očekivanje koje pripada dugotrpnosti, nego uključuje usmjerenost prema Božjoj pomoći, bilo da se ono čemu se nada odgađa bilo da se ne odgađa.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a5.ad4": {
+      "text": "Na četvrto treba reći da velikodušnost teži prema teško dostižnome nadajući se nečemu što je u njezinoj vlasti. Zato se u vlastitom smislu odnosi na djelovanje u nekim velikim stvarima. Ali nada, ukoliko je bogoslovna krepost, odnosi se na teško dostižno koje treba postići tuđom pomoću, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da nada nije krepost različita od drugih bogoslovnih. Habitusi se, naime, razlikuju po predmetima, kako je gore rečeno. Ali isti je predmet nade i drugih bogoslovnih kreposti. Dakle, nada se ne razlikuje od drugih bogoslovnih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a6.obj2": {
+      "text": "Osim toga, u Vjerovanju, u kojem ispovijedamo vjeru, kaže se: *očekujem uskrsnuće mrtvih i život budućega vijeka*. Ali očekivanje budućega blaženstva pripada nadi, kako je gore rečeno. Dakle, nada se ne razlikuje od vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a6.obj3": {
+      "text": "Osim toga, po nadi čovjek teži prema Bogu. Ali to u vlastitom smislu pripada ljubavi. Dakle, nada se ne razlikuje od ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a6.sc": {
+      "text": "Ali protiv toga: gdje nema razlikovanja, nema ni broja. Ali nada se ubraja s drugim bogoslovnim krepostima; kaže, naime, Grgur u I. knjizi Moralija da su tri kreposti: vjera, nada i ljubav. Dakle, nada je krepost različita od drugih bogoslovnih.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a6.resp": {
+      "text": "Odgovaram: treba reći da se neka krepost naziva bogoslovnom po tome što ima za predmet Boga, uz kojega prianja. A netko može prianjati uz neku stvar na dva načina: na jedan način, radi nje same; na drugi način, ukoliko se od nje dolazi do nečega drugoga. Ljubav (caritas), dakle, čini da čovjek prianja uz Boga radi njega samoga, sjedinjujući čovjekov duh s Bogom čuvstvom ljubavi (amor). A nada i vjera čine da čovjek prianja uz Boga kao uz neko počelo iz kojega nam nešto proizlazi. A od Boga nam proizlazi i spoznaja istine i postizanje savršene dobrote. Vjera, dakle, čini da čovjek prianja uz Boga ukoliko nam je on počelo spoznavanja istine: vjerujemo, naime, da je istinito ono što nam Bog govori. A nada čini da se prianja uz Boga ukoliko nam je on počelo savršene dobrote, ukoliko se, naime, po nadi oslanjamo na Božju pomoć da postignemo blaženstvo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Bog predmet tih kreposti prema različitom pojmu, kako je rečeno. A za razlikovanje habitusa dostatan je različit pojam predmeta, kako je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a6.ad2": {
+      "text": "Na drugo treba reći da se očekivanje stavlja u Vjerovanje ne zato što bi bilo vlastiti čin vjere, nego ukoliko čin nade pretpostavlja vjeru, kako će se reći; i tako se čini vjere očituju po činima nade.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a6.ad3": {
+      "text": "Na treće treba reći da nada čini da se teži prema Bogu kao prema nekom svršnom dobru koje treba postići i kao prema nekoj djelotvornoj pomoći koja priskače u pomoć. Ali ljubav u vlastitom smislu čini da se teži prema Bogu sjedinjujući čovjekovo čuvstvo s Bogom, tako naime da čovjek ne živi sebi nego Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da nada prethodi vjeri. Jer uz ono iz Psalma: *nadaj se u Gospodina i čini dobrotu*, Glosa kaže: *nada je ulaz u vjeru, početak spasenja*. Ali spasenje je po vjeri, po kojoj smo opravdani. Dakle, nada prethodi vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a7.obj2": {
+      "text": "Osim toga, ono što se stavlja u definiciju nečega mora biti prije i poznatije. Ali nada se stavlja u definiciju vjere, kako je jasno iz Heb 11: vjera je supstancija stvari kojima se nadamo. Dakle, nada je prije vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a7.obj3": {
+      "text": "Osim toga, nada prethodi zaslužnom činu; kaže, naime, Apostol u 1 Kor 9 da *tko ore, treba orati u nadi da će primiti plod*. Ali čin je vjere zaslužan. Dakle, nada prethodi vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mt 1: *Abraham rodi Izaka*, to jest vjera nadu, kako kaže Glosa.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a7.resp": {
+      "text": "Odgovaram: treba reći da vjera apsolutno prethodi nadi. Predmet je, naime, nade buduće, teško dostižno dobro koje je moguće imati. Da bi se, dakle, netko nadao, potrebno je da mu se predmet nade predoči kao moguć. A predmet je nade na jedan način vječno blaženstvo, a na drugi način Božja pomoć, kako je jasno iz rečenoga. I jedno i drugo predočuje nam se po vjeri, po kojoj nam postaje poznato da možemo doći do vječnoga života i da nam je za to pripravljena Božja pomoć, prema onome iz Heb 11: *tko pristupa Bogu, treba vjerovati da on jest i da nagrađuje one koji ga traže*. Zato je očito da vjera prethodi nadi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kako ondje nadodaje Glosa, nada naziva ulazom u vjeru, to jest u stvar koja se vjeruje, jer se po nadi ulazi u gledanje onoga što se vjeruje. Ili se može reći da je ona ulaz u vjeru zato što po njoj čovjek ulazi u to da se učvrsti i usavrši u vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a7.ad2": {
+      "text": "Na drugo treba reći da se u definiciju vjere stavlja stvar kojoj se treba nadati zato što vlastiti predmet vjere nije očit po sebi samome. Zato je bilo potrebno da se on označi nekim opisnim izrazom, po onome što slijedi iz vjere.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a7.ad3": {
+      "text": "Na treće treba reći da nema svaki zaslužni čin nadu koja mu prethodi, nego je dosta ako ima popratnu ili naknadnu.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da je ljubav prije nade. Kaže, naime, Ambrozije uz ono iz Lk 17: *ako budete imali vjere kao zrno gorušičino itd.: iz vjere je ljubav, iz ljubavi nada*. Ali vjera je prije ljubavi. Dakle, ljubav je prije nade.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a8.obj2": {
+      "text": "Osim toga, Augustin kaže u XIV. knjizi O Božjem gradu da *dobri pokreti i čuvstva dolaze iz ljubavi (amor) i svete ljubavi (caritas)*. Ali nadati se, ukoliko je to čin nade, neki je dobar pokret duše. Dakle, izvodi se iz ljubavi (caritas).",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a8.obj3": {
+      "text": "Osim toga, Učitelj kaže u III. knjizi Sentencija, 26. razlikovanje, da *nada proizlazi iz zasluga, koje prethode ne samo stvari kojoj se nada nego i nadi, kojoj po naravi prethodi ljubav*. Dakle, ljubav je prije nade.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u 1 Tim 1: *svrha je zapovijedi ljubav iz čista srca i dobre savjesti*, Glosa: to jest nade. Dakle, nada je prije ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a8.resp": {
+      "text": "Odgovaram: treba reći da je red dvostruk. Jedan je po putu nastajanja i tvari, po kojem je nesavršeno prije savršenoga. A drugi je red savršenosti i forme, po kojem je savršeno po naravi prije nesavršenoga. Prema prvome redu, dakle, nada je prije ljubavi (caritas). To je jasno ovako. Nada se, naime, kao i svaki težnjeni pokret, izvodi iz ljubavi (amor), kako je gore utvrđeno kad se raspravljalo o strastima. A neka je ljubav savršena, a neka nesavršena. Savršena je ljubav ona kojom se netko ljubi radi sebe samoga, primjerice onaj komu netko hoće dobro, kao što čovjek ljubi prijatelja. Nesavršena je ljubav ona kojom netko ljubi nešto ne radi toga samoga, nego da bi to dobro pripalo njemu samome, kao što čovjek ljubi stvar koju želi. A prva ljubav prema Bogu pripada ljubavi (caritas), koja prianja uz Boga radi njega samoga; a nada pripada drugoj ljubavi, jer onaj koji se nada smjera nešto postići za sebe. I zato je na putu nastajanja nada prije ljubavi (caritas). Jer kao što se netko uvodi u ljubljenje Boga time što, bojeći se da će ga on kazniti, prestaje griješiti, kako kaže Augustin u Tumačenju Prve Ivanove poslanice, tako i nada uvodi u ljubav (caritas), ukoliko se netko, nadajući se da će ga Bog nagraditi, raspaljuje da ljubi Boga i da obdržava njegove zapovijedi. Ali prema redu savršenosti ljubav (caritas) je po naravi prije. I zato, kad dođe ljubav (caritas), nada postaje savršenija, jer se ponajviše nadamo od prijatelja. I na taj način Ambrozije kaže da je nada iz ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a8.ad1": {
+      "text": "Iz toga je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a8.ad2": {
+      "text": "Na drugo treba reći da nada, kao i svaki težnjeni pokret, proizlazi iz neke ljubavi (amor), kojom naime netko ljubi dobro koje očekuje. Ali ne proizlazi svaka nada iz ljubavi (caritas), nego samo pokret oblikovane nade, kojom se netko nada dobru od Boga kao od prijatelja.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    },
+    "II-II.q17.a8.ad3": {
+      "text": "Na treće treba reći da Učitelj govori o oblikovanoj nadi, kojoj po naravi prethode ljubav i zasluge prouzročene ljubavlju.",
+      "prompt_version": "1",
+      "glossary_version": 14,
+      "created_at": "2026-11-12T09:01:20+00:00"
+    }
+  }
+}
