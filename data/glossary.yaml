@@ -3041,12 +3041,13 @@ terms:
   alternatives:
   - zakletva
   note: Iurare = "prisegnuti / prisezati"; periurus = "krivokletnik"; adiurare = "zaklinjati";
-    tentare Deum = "iskušavati Boga"; sortes = "ždrijeb".
+    tentare Deum = "iskušavati Boga"; sortes = "ždrijeb". Iuramentum assertorium /
+    promissorium = "potvrdna / obećavajuća prisega".
   opis: Prisega je zazivanje Boga za svjedoka kako bi se potvrdilo ono što se tvrdi
     ili obećaje; krivokletstvo je prisega bez istine. Zaklinjanjem se Božje ime zaziva
     da se drugoga privoli na nešto. Iskušavati Boga znači riječju ili djelom ispitivati
     njegovo znanje, moć ili volju.
-  mjesto: null
+  mjesto: II-II.q89.a1.resp
 - la: superstitio, idololatria, divinatio, observantiae superstitiosae
   hr: praznovjerje, idolopoklonstvo, gatanje, praznovjerna obdržavanja
   alternatives:
@@ -3057,12 +3058,13 @@ terms:
     daemonum = "zazivanje demona"; necromantia = "nekromancija"; astrologi = "astrolozi";
     augurium = "gatanje po pticama"; omen = "predznak"; incantatio = "bajanje"; maleficium
     = "čaranje", malefici = "čarobnjaci"; ars notoria = "notorijsko umijeće"; pactum
-    = "ugovor (s demonima)".'
+    = "ugovor (s demonima)". Irreligiositas = "nebogoštovnost" (vices opposed to religion
+    by defect, q.97-100).'
   opis: 'Praznovjerje je porok protivan bogoštovlju po pretjeranosti: iskazuje božansko
     štovanje kome ne treba ili kako ne treba. Njegove su vrste idolopoklonstvo, koje
     stvorenju iskazuje božansku čast; gatanje, koje traži spoznaju budućega od demona;
     i praznovjerna obdržavanja.'
-  mjesto: null
+  mjesto: II-II.q92.a1.resp
 - la: sacrilegium, simonia
   hr: svetogrđe, simonija
   alternatives: []
@@ -3072,7 +3074,7 @@ terms:
   opis: Svetogrđe je nepoštovanje svete stvari, osobe ili mjesta. Simonija je svjesna
     volja da se kupi ili proda nešto duhovno ili s duhovnim povezano; ime je dobila
     po Šimunu Magu.
-  mjesto: null
+  mjesto: II-II.q99.a1.resp
 - la: pietas (virtus), observantia, dulia, oboedientia
   hr: pijetet, poštivanje, dulija, poslušnost
   alternatives:
@@ -3086,7 +3088,7 @@ terms:
     kao drugim načelima našega bitka poslije Boga. Poštivanje iskazuje štovanje i
     čast osobama koje se ističu dostojanstvom; dulija je njegov dio koji poštuje gospodare.
     Poslušnost je krepost kojom se vrši zapovijed poglavara.
-  mjesto: null
+  mjesto: II-II.q101.a1.resp
 - la: gratia (gratitudo) / ingratitudo / vindicatio
   hr: zahvalnost / nezahvalnost / osveta
   alternatives:
@@ -3098,7 +3100,7 @@ terms:
   opis: Zahvalnost je krepost kojom se dobročinitelju uzvraća za primljeno dobročinstvo;
     nezahvalnost joj je protivna. Osveta kao krepost je kažnjavanje zločinca radi
     dobra, popravka grešnika ili mira drugih, a ne iz mržnje.
-  mjesto: null
+  mjesto: II-II.q106.a1.resp
 - la: mendacium (officiosum, iocosum, perniciosum), simulatio, hypocrisis, iactantia,
     ironia
   hr: laž (uslužna, šaljiva, pogubna), pretvaranje, licemjerje, hvalisavost, ironija
@@ -3110,7 +3112,7 @@ terms:
     kakav jest. Protivni su joj laž, pretvaranje i licemjerje, a po pretjeranosti
     i nedostatku hvalisavost, koja sebi pripisuje više, i ironija, koja sebi pripisuje
     manje nego što jest.
-  mjesto: null
+  mjesto: II-II.q110.a1.resp
 - la: affabilitas (amicitia) / adulatio / litigium
   hr: ljubaznost (prijateljstvo) / laskanje / svadljivost
   alternatives:
@@ -3121,7 +3123,7 @@ terms:
     ophođenju prikladno odnosi prema drugima. Protivi joj se laskanje, kad netko u
     svemu želi ugoditi više nego što treba, i svadljivost, kad netko svemu proturječi
     i ne mari da drugoga ražalosti.
-  mjesto: null
+  mjesto: II-II.q114.a1.resp
 - la: liberalitas / avaritia / prodigalitas; filiae avaritiae
   hr: darežljivost / škrtost / rasipnost; kćeri škrtosti
   alternatives:
@@ -3130,8 +3132,9 @@ terms:
     "škrtac"; prodigus = "rasipnik"; pecunia = "novac"; divitiae = "bogatstvo". Daughters
     (q.118 a.8): proditio, fraus, fallacia, periurium, inquietudo, violentia, obduratio
     contra misericordiam = izdaja, prijevara, obmana, krivokletstvo, nemir, nasilje,
-    otvrdnuće protiv milosrđa.'
+    otvrdnuće protiv milosrđa. Illiberalitas = "nedarežljivost" where Thomas sets
+    it beside avaritia (q.118-119).'
   opis: Darežljivost je krepost koja uređuje ljubav prema novcu i njegovu uporabu,
     osobito davanje. Škrtost je neumjerena ljubav prema imanju; rasipnost joj je protivna
     po pretjeranom davanju.
-  mjesto: null
+  mjesto: II-II.q117.a1.resp

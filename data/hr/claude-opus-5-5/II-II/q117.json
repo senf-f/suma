@@ -1,0 +1,312 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 117,
+  "units": {
+    "II-II.q117.pr": {
+      "text": "Zatim treba razmotriti darežljivost i suprotstavljene poroke, naime škrtost i rasipnost. O darežljivosti se pita šest stvari. Prvo, je li darežljivost krepost. Drugo, što je njezina građa. Treće, o njezinu činu. Četvrto, pripada li joj više davati nego primati. Peto, je li darežljivost dio pravednosti. Šesto, kako se odnosi prema drugim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da darežljivost nije krepost. Nijedna, naime, krepost nije protivna naravnoj sklonosti. A naravna je sklonost u tome da se netko više brine za sebe nego za druge. Suprotno tome pripada darežljivome, jer, kako kaže Filozof u IV. knjizi Etike, *darežljivome je svojstveno ne gledati na sebe, tako da sebi ostavlja manje*. Dakle, darežljivost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a1.obj2": {
+      "text": "Isto tako, bogatstvom čovjek uzdržava svoj život, i bogatstvo služi sreći kao oruđe, kako se kaže u I. knjizi Etike. Budući da je, dakle, svaka krepost usmjerena prema sreći, čini se da nije krepostan darežljivi, o kojemu Filozof kaže u IV. knjizi Etike da *nije sklon primanju novca ni njegovu čuvanju, nego izdavanju*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a1.obj3": {
+      "text": "Osim toga, kreposti su međusobno povezane. Ali čini se da darežljivost nije povezana s drugim krepostima: mnogi su, naime, krepostni koji ne mogu biti darežljivi, jer nemaju što dati; a mnogi darežljivo daju ili troše, koji su inače poročni. Dakle, darežljivost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a1.sc": {
+      "text": "Ali protiv toga je što Ambrozije kaže u I. knjizi O dužnostima da *u Evanđelju primamo mnoge pouke o pravednoj darežljivosti*. A u Evanđelju se ne uči ništa osim onoga što pripada kreposti. Dakle, darežljivost je krepost.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a1.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Augustin u knjizi O slobodnoj volji, *dobro se služiti onim čime se možemo zlo služiti pripada kreposti*. A dobro i zlo možemo se služiti ne samo onim što je u nama, na primjer moćima i strastima duše, nego i onim što je izvan nas, naime stvarima ovoga svijeta koje su nam dane za uzdržavanje života. I zato, budući da dobro se služiti tim stvarima pripada darežljivosti, slijedi da je darežljivost krepost.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kažu Ambrozije i Bazilije, obilje bogatstva Bog daje nekima da bi stekli zaslugu dobroga raspolaganja. A jednome je malo dovoljno. I zato darežljivi hvalevrijedno troši više na druge nego na sebe. Ali čovjek se uvijek mora više brinuti za sebe u duhovnim dobrima, u kojima svatko ponajprije može pomoći sebi. Pa ipak ni u vremenitim stvarima ne pripada darežljivome da se tako posveti drugima da posve zanemari sebe i svoje. Zato Ambrozije kaže u I. knjizi O dužnostima: *Hvalevrijedna je ona darežljivost da ne zanemaruješ bližnje svoga roda ako znaš da su u oskudici*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a1.ad2": {
+      "text": "Na drugo treba reći da ne pripada darežljivome tako razdavati bogatstvo da mu ne ostane čime bi se uzdržavao i čime bi izvršavao djela kreposti, kojima se dolazi do sreće. Zato Filozof kaže u IV. knjizi Etike da se *darežljivi brine za svoje, želeći time nekima biti dovoljan*. I Ambrozije kaže u knjizi O dužnostima da *Gospodin ne želi da se imetak rasprsne odjednom, nego da se razdjeljuje. Osim možda kao što je Elizej poklao svoje volove i nahranio siromahe onim što je imao, da ga ne bi vezala nikakva kućna briga*; a to pripada stanju savršenosti duhovnoga života, o kojemu će se govoriti kasnije. Pa ipak treba znati da je i samo to što netko darežljivo razdaje svoje, ukoliko je čin kreposti, usmjereno prema blaženstvu.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a1.ad3": {
+      "text": "Na treće treba reći da, kako kaže Filozof u IV. knjizi Etike, oni koji mnogo troše na neumjerenosti nisu darežljivi, nego rasipni. Isto tako i svatko tko rasipa ono što ima zbog bilo kojih drugih grijeha. Zato i Ambrozije kaže u I. knjizi O dužnostima: *Ako pomažeš onome koji nastoji oteti tuđe posjede, to nije dokaz izdašnosti. A ni ona darežljivost nije savršena ako daješ radi hvalisavosti više nego radi milosrđa*. I zato oni kojima nedostaju druge kreposti nisu darežljivi, premda mnogo troše na neka zla djela. Ništa također ne priječi da neki koji mnogo troše na dobre svrhe nemaju habitus darežljivosti, kao što i ljudi čine djela drugih kreposti prije nego što imaju habitus kreposti, premda ne na onaj način na koji ih čine krepostni, kao što je gore rečeno. Isto tako ništa ne priječi da neki krepostni budu darežljivi, premda su siromašni. Zato Filozof kaže u IV. knjizi Etike da se darežljivost određuje prema imetku, to jest prema imovinskim mogućnostima, *jer se ne sastoji u mnoštvu darova, nego u habitusu darovatelja*. I Ambrozije kaže u I. knjizi O dužnostima da *čuvstvo čini prilog bogatim ili siromašnim i daje stvarima cijenu*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se darežljivost ne odnosi na novac. Svaka se, naime, moralna krepost odnosi na djelovanja ili na strasti. A odnositi se na djelovanja vlastito je pravednosti, kako se kaže u V. knjizi Etike. Budući da je, dakle, darežljivost moralna krepost, čini se da se odnosi na strasti, a ne na novac.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a2.obj2": {
+      "text": "Osim toga, darežljivome pripada uporaba bilo kojega bogatstva. Ali naravno je bogatstvo pravije bogatstvo od umjetnoga, koje se sastoji u novcu, kao što je jasno iz Filozofa u I. knjizi Politike. Dakle, darežljivost se ne odnosi ponajprije na novac.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a2.obj3": {
+      "text": "Osim toga, različite kreposti imaju različitu građu, jer se habitusi razlikuju po predmetima. Ali vanjske su stvari građa distributivne i komutativne pravednosti. Dakle, nisu građa darežljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a2.sc": {
+      "text": "Ali protiv toga je što Filozof kaže u IV. knjizi Etike da se *darežljivost čini nekom sredinom u pogledu novca*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a2.resp": {
+      "text": "Odgovaram: treba reći da, prema Filozofu u IV. knjizi Etike, darežljivome pripada da bude sklon izdavanju. Zato se darežljivost drugim imenom naziva i izdašnošću, jer ono što je izdašno nije sklono zadržavanju, nego izdavanju. A čini se da se na isto odnosi i samo ime darežljivosti (liberalitas): kad, naime, netko nešto izdaje od sebe, na neki način to oslobađa (liberat) od svojega čuvanja i vlasništva i pokazuje da mu je duh slobodan (liberum) od privrženosti tomu. A ono što jedan čovjek treba izdavati drugome jesu posjedovana dobra, koja se označuju imenom novca. I zato je vlastita građa darežljivosti novac.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kao što je rečeno, darežljivost ne procjenjuje po količini danoga, nego po čuvstvu darovatelja. A čuvstvo darovatelja raspoloženo je prema onome što se daje strastima ljubavi i požude, a posljedično naslade i žalosti. I zato su neposredna građa darežljivosti unutarnje strasti, a vanjski je novac predmet samih tih strasti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a2.ad2": {
+      "text": "Na drugo treba reći da, kako kaže Augustin u knjizi O kršćanskom nauku, *sve što god ljudi imaju na zemlji i sve čega su gospodari naziva se novcem (pecunia), jer su stari ono što su imali imali u stoci (pecora)*. I Filozof kaže u IV. knjizi Etike: *Novcem nazivamo sve čija se vrijednost mjeri kovanim novcem*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a2.ad3": {
+      "text": "Na treće treba reći da pravednost uspostavlja jednakost u tim vanjskim stvarima, ali njoj u vlastitom smislu ne pripada umjeravati unutarnje strasti. Zato je novac na jedan način građa darežljivosti, a na drugi način građa pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da služiti se novcem nije čin darežljivosti. Različite, naime, kreposti imaju različite čine. Ali služiti se novcem pristaje i drugim krepostima, kao pravednosti i velebnosti. Dakle, to nije vlastiti čin darežljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a3.obj2": {
+      "text": "Osim toga, darežljivome ne pripada samo davati, nego i primati i čuvati. Ali čini se da primanje i čuvanje ne pripadaju uporabi novca. Dakle, neprikladno se kaže da je vlastiti čin darežljivosti uporaba novca.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a3.obj3": {
+      "text": "Osim toga, uporaba se novca ne sastoji samo u tome da se novac daje, nego i u tome da se troši. Ali trošenje se novca odnosi na samoga onoga koji troši, pa se tako ne čini činom darežljivosti; Seneka, naime, kaže u V. knjizi O dobročinstvima: *Nitko nije darežljiv po tome što sebi daruje*. Dakle, ne pripada svaka uporaba novca darežljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a3.sc": {
+      "text": "Ali protiv toga je što Filozof kaže u IV. knjizi Etike: *Svakom se stvari najbolje služi onaj koji ima krepost u pogledu svake od njih. Bogatstvom će se, dakle, najbolje služiti onaj koji ima krepost u pogledu novca*. A taj je darežljivi. Dakle, dobra uporaba novca čin je darežljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a3.resp": {
+      "text": "Odgovaram: treba reći da se vrsta čina uzima od predmeta, kao što je gore utvrđeno. A predmet ili građa darežljivosti jest novac i sve što se novcem može izmjeriti, kao što je rečeno. I budući da se svaka krepost prikladno odnosi prema svojemu predmetu, slijedi da je, budući da je darežljivost krepost, njezin čin razmjeran novcu. A novac potpada pod pojam korisnih dobara, jer su sva vanjska dobra usmjerena na čovjekovu uporabu. I zato je vlastiti čin darežljivosti služiti se novcem ili bogatstvom.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da darežljivosti pripada dobro se služiti bogatstvom kao takvim, zato što je bogatstvo vlastita građa darežljivosti. A pravednosti pripada služiti se bogatstvom pod drugim vidom, naime pod vidom duga, ukoliko se vanjska stvar duguje drugome. I velebnosti pripada služiti se bogatstvom pod nekim posebnim vidom, to jest ukoliko se ono uzima za izvršenje nekog velikog djela. Zato se velebnost na neki način odnosi prema darežljivosti kao dodatak, kao što će se reći kasnije.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a3.ad2": {
+      "text": "Na drugo treba reći da krepostnome ne pripada samo prikladno se služiti svojom građom ili oruđem, nego i pripremati prilike za dobru uporabu; kao što vojnikovoj jakosti ne pripada samo isukati mač na neprijatelje, nego i naoštriti mač i čuvati ga u koricama. Tako i darežljivosti ne pripada samo služiti se novcem, nego ga i pripremati i čuvati za prikladnu uporabu.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a3.ad3": {
+      "text": "Na treće treba reći da su, kao što je rečeno, bliža građa darežljivosti unutarnje strasti kojima je čovjek raspoložen prema novcu. I zato darežljivosti ponajprije pripada da čovjeka neuredna privrženost novcu ne priječi ni u kakvoj njegovoj dužnoj uporabi. A uporaba je novca dvostruka: jedna za sebe, koja, čini se, pripada troškovima ili izdacima; druga kojom se netko njime služi za druge, što pripada davanjima. I zato darežljivome pripada da ga neumjerena ljubav prema novcu ne spriječi ni u prikladnim izdacima ni u prikladnim davanjima. Zato se darežljivost, prema Filozofu u IV. knjizi Etike, odnosi na davanja i troškove. A Senekinu riječ treba shvatiti o darežljivosti ukoliko se odnosi na davanja. Nitko se, naime, ne naziva darežljivim po tome što sebi nešto daruje.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da darežljivome ne pripada najviše davati. Darežljivost, naime, upravlja razboritost, kao i svaku drugu moralnu krepost. Ali čini se da razboritosti najviše pripada čuvati bogatstvo; zato i Filozof kaže u IV. knjizi Etike da *oni koji nisu stekli novac, nego su primili novac što su ga drugi stekli, darežljivije ga troše, jer nisu iskusili oskudicu*. Dakle, čini se da davanje ne pripada najviše darežljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a4.obj2": {
+      "text": "Osim toga, zbog onoga na što netko najviše smjera nitko se ne žalosti niti od toga odustaje. Ali darežljivi se katkad žalosti zbog onoga što je dao, a niti daje svima, kako se kaže u IV. knjizi Etike. Dakle, darežljivome ne pripada najviše davati.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a4.obj3": {
+      "text": "Osim toga, da bi ispunio ono na što najviše smjera, čovjek se služi putovima kojima može. Ali darežljivi nije sklon traženju, kako kaže Filozof u IV. knjizi Etike, premda bi time mogao sebi pribaviti mogućnost da daruje drugima. Dakle, čini se da ne smjera najviše na davanje.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a4.obj4": {
+      "text": "Osim toga, čovjek je više obvezan brinuti se za sebe nego za druge. Ali trošeći nešto brine se za sebe, a dajući brine se za druge. Dakle, darežljivome više pripada trošiti nego davati.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a4.sc": {
+      "text": "Ali protiv toga je što Filozof kaže u IV. knjizi Etike da je *darežljivome svojstveno obilovati u davanju*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a4.resp": {
+      "text": "Odgovaram: treba reći da je darežljivome vlastito služiti se novcem. A uporaba se novca sastoji u njegovu izdavanju; stjecanje se novca, naime, više uspoređuje s nastajanjem nego s uporabom, a čuvanje novca, ukoliko je usmjereno na mogućnost uporabe, uspoređuje se s habitusom. A izdavanje neke stvari, što je usmjereno prema nečemu udaljenijemu, to proizlazi iz veće snage, kao što je očito kod onoga što se baca. I zato iz veće snage proizlazi da netko izdaje novac dajući ga drugima nego da ga troši na sebe. A kreposti je vlastito da ponajprije teži prema onome što je savršenije, jer je krepost neka savršenost, kako se kaže u VII. knjizi Fizike. I zato se darežljivi najviše hvali zbog davanja.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da razboritosti pripada čuvati novac da se ne bi ukrao ili beskorisno potrošio. Ali korisno ga trošiti ne zahtijeva manje razboritosti nego korisno ga čuvati, nego više, jer se kod uporabe stvari, koja se uspoređuje s gibanjem, mora paziti na više toga nego kod čuvanja, koje se uspoređuje s mirovanjem. A što oni koji su primili novac što su ga drugi stekli darežljivije troše, kao oni koji nisu iskusili oskudicu: kad bi darežljivo trošili samo zbog toga neiskustva, ne bi imali krepost darežljivosti. Ali katkad se takvo neiskustvo odnosi samo kao ono što uklanja zapreku darežljivosti, tako da spremnije postupaju darežljivo. Strah od oskudice, naime, koji proizlazi iz njezina iskustva, katkad priječi one koji su stekli novac da ga troše postupajući darežljivo. A isto tako i ljubav kojom ga ljube kao svoj vlastiti učinak, kako kaže Filozof u IV. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a4.ad2": {
+      "text": "Na drugo treba reći da, kao što je rečeno, darežljivosti pripada prikladno se služiti novcem, a posljedično i prikladno davati, što je neka uporaba novca. A svaka se krepost žalosti zbog onoga što je protivno njezinu činu i izbjegava njegove zapreke. A prikladnom davanju suprotstavljene su dvije stvari: ne dati ono što je prikladno dati i dati nešto neprikladno. Zato se darežljivi žalosti zbog obojega, ali više zbog prvoga, jer je ono više suprotstavljeno njegovu vlastitom činu. I zato i ne daje svima, jer bi mu čin bio spriječen kad bi davao bilo kome; ne bi, naime, imao čime dati drugima kojima je prikladno dati.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a4.ad3": {
+      "text": "Na treće treba reći da se davati i primati odnose kao djelovati i trpjeti. A nije isto počelo djelovanja i trpljenja. Zato, budući da je darežljivost počelo davanja, ne pripada darežljivome da bude spreman primati, a još manje tražiti. Ali on usmjerava prema davanju ono što je u skladu s darežljivošću, naime plodove vlastitih posjeda, za koje se brižno skrbi kako bi se njima darežljivo služio.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a4.ad4": {
+      "text": "Na četvrto treba reći da na trošenje za sebe navodi narav. Zato to što netko izlijeva novac na druge pripada u vlastitom smislu kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da darežljivost nije dio pravednosti. Pravednost, naime, gleda na dug. Ali što je nešto više dugovano, to se manje darežljivo daje. Dakle, darežljivost nije dio pravednosti, nego joj se protivi.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a5.obj2": {
+      "text": "Osim toga, pravednost se odnosi na djelovanja, kao što je gore utvrđeno. A darežljivost se ponajprije odnosi na ljubav prema novcu i požudu za novcem, a to su strasti. Dakle, čini se da darežljivost više pripada umjerenosti nego pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a5.obj3": {
+      "text": "Osim toga, darežljivosti ponajprije pripada prikladno davati, kao što je rečeno. Ali prikladno davati pripada dobročinstvu i milosrđu, koji pripadaju ljubavi, kao što je gore rečeno. Dakle, darežljivost je više dio ljubavi nego pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a5.sc": {
+      "text": "Ali protiv toga je što Ambrozije kaže u I. knjizi O dužnostima: *Pravednost se odnosi na zajednicu ljudskoga roda. Pojam se, naime, zajednice dijeli na dva dijela, na pravednost i dobročinstvo, koje nazivaju i darežljivošću ili dobrostivošću*. Dakle, darežljivost pripada pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a5.resp": {
+      "text": "Odgovaram: treba reći da darežljivost nije vrsta pravednosti, jer pravednost iskazuje drugome ono što je njegovo, a darežljivost iskazuje ono što je svoje. Ipak ima neku podudarnost s pravednošću u dvjema stvarima. Prvo, zato što je ponajprije usmjerena prema drugome, kao i pravednost. Drugo, zato što se odnosi na vanjske stvari, kao i pravednost, premda pod drugim vidom, kao što je rečeno. I zato neki darežljivost postavljaju kao dio pravednosti, kao krepost pridruženu njoj kao glavnoj.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da darežljivost, iako ne gleda na zakonski dug, na koji gleda pravednost, ipak gleda na neki moralni dug, koji se određuje prema nekoj doličnosti same stvari, a ne prema tome što bi netko bio obvezan drugome. Zato ima najmanje od pojma duga.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a5.ad2": {
+      "text": "Na drugo treba reći da se umjerenost odnosi na požude za tjelesnim nasladama. A požuda za novcem i naslada u njemu nisu tjelesne, nego prije duševne. Zato darežljivost u vlastitom smislu ne pripada umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a5.ad3": {
+      "text": "Na treće treba reći da davanje dobročinitelja i milosrdnoga proizlazi iz toga što je čovjek na neki način privržen onome kome daje. I zato takvo davanje pripada ljubavi ili prijateljstvu. Ali davanje darežljivosti proizlazi iz toga što je davatelj na neki način raspoložen prema novcu, utoliko što ga ne žudi niti ga ljubi. Zato, kad treba, daje ne samo prijateljima nego i nepoznatima. Zato ne pripada ljubavi, nego prije pravednosti, koja se odnosi na vanjske stvari.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je darežljivost najveća od kreposti. Svaka je, naime, ljudska krepost neka sličnost s Božjom dobrotom. A po darežljivosti čovjek postaje najsličniji Bogu, *koji svima daje obilno i ne predbacuje*, kako se kaže u Jak 1. Dakle, darežljivost je najveća od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a6.obj2": {
+      "text": "Osim toga, prema Augustinu u VI. knjizi O Trojstvu, *u onome što nije veliko obujmom isto je biti veće i biti bolje*. A čini se da pojam dobrote najviše pripada darežljivosti, jer se dobro razlijeva, kao što je jasno iz Dionizija, u IV. poglavlju O božanskim imenima. Zato i Ambrozije kaže u I. knjizi O dužnostima da *pravednost drži strogost, a darežljivost dobrotu*. Dakle, darežljivost je najveća od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a6.obj3": {
+      "text": "Osim toga, ljudi se časte i ljube zbog kreposti. A Boetije kaže u knjizi O utjehi filozofije: *Izdašnost najviše čini slavnima*. I Filozof kaže u IV. knjizi Etike da se *među krepostnima najviše ljube darežljivi*. Dakle, darežljivost je najveća od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a6.sc": {
+      "text": "Ali protiv toga je što Ambrozije kaže u I. knjizi O dužnostima da se *pravednost čini uzvišenijom od darežljivosti, ali je darežljivost milija*. I Filozof kaže u I. knjizi Retorike da se *najviše časte jaki i pravedni, a poslije njih darežljivi*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a6.resp": {
+      "text": "Odgovaram: treba reći da svaka krepost teži prema nekom dobru. Zato je neka krepost to bolja što teži prema boljem dobru. A darežljivost teži prema nekom dobru na dva načina: na jedan način, prvotno i po sebi; na drugi način, posljedično. Prvotno i po sebi teži prema tome da uredi vlastitu privrženost u pogledu posjedovanja i uporabe novca. I tako se, s obzirom na to, darežljivosti pretpostavljaju i umjerenost, koja umjerava požude i naslade što pripadaju vlastitom tijelu, i jakost i pravednost, koje su na neki način usmjerene prema općem dobru, jedna u vrijeme mira, druga u vrijeme rata; a svima se pretpostavljaju kreposti koje usmjeravaju prema božanskom dobru. Božansko, naime, dobro nadmašuje svako ljudsko dobro; a među ljudskim dobrima javno dobro nadmašuje privatno; a među ovima dobro tijela nadmašuje dobro vanjskih stvari. Na drugi je način darežljivost usmjerena prema nekom dobru posljedično. I s obzirom na to, darežljivost je usmjerena prema svim spomenutim dobrima: iz toga, naime, što čovjek nije sklon ljubiti novac slijedi da se njime lako služi i za sebe i za korist drugih i za čast Božju. I s obzirom na to ima neku izvrsnost po tome što je korisna za mnogo toga. Ali budući da se o svakoj stvari više sudi prema onome što joj pristaje prvotno i po sebi nego prema onome što je posljedično, zato treba reći da darežljivost nije najveća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da Božje davanje proizlazi iz toga što ljubi ljude kojima daje, a ne iz toga što bi bio privržen onome što daje. I zato se čini da ono više pripada ljubavi, koja je najveća od kreposti, nego darežljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a6.ad2": {
+      "text": "Na drugo treba reći da svaka krepost ima udjela u pojmu dobra s obzirom na izlaženje vlastitoga čina. A čini nekih drugih kreposti bolji su od novca koji izdaje darežljivi.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q117.a6.ad3": {
+      "text": "Na treće treba reći da se darežljivi najviše ljube, ne prijateljstvom čestitoga, kao da su bolji, nego prijateljstvom korisnoga, jer su korisniji u vanjskim dobrima, za kojima ljudi općenito najviše žude. I zbog istoga razloga postaju slavni.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    }
+  }
+}

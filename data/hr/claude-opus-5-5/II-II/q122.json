@@ -1,0 +1,372 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 122,
+  "units": {
+    "II-II.q122.pr": {
+      "text": "Zatim treba razmotriti zapovijedi pravednosti. I o tome se pita šest stvari. Prvo, jesu li zapovijedi Dekaloga zapovijedi pravednosti. Drugo, o prvoj zapovijedi Dekaloga. Treće, o drugoj. Četvrto, o trećoj. Peto, o četvrtoj. Šesto, o ostalih šest.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da zapovijedi Dekaloga nisu zapovijedi pravednosti. Nakana je, naime, zakonodavca učiniti građane krepostnima u svakoj kreposti, kao što se kaže u II. knjizi Etike; stoga se i u V. knjizi Etike kaže da *zakon nalaže o svim činima svih kreposti*. Ali zapovijedi Dekaloga prva su načela cijeloga božanskog zakona. Zapovijedi Dekaloga, dakle, ne pripadaju samo pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a1.obj2": {
+      "text": "Osim toga, čini se da pravednosti ponajprije pripadaju sudske zapovijedi, koje se razlikuju nasuprot moralnima, kao što je gore utvrđeno. Ali zapovijedi Dekaloga moralne su zapovijedi, kao što je jasno iz gore rečenoga. Zapovijedi Dekaloga, dakle, nisu zapovijedi pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a1.obj3": {
+      "text": "Osim toga, zakon ponajprije daje zapovijedi o činima pravednosti koji pripadaju općem dobru, primjerice o javnim službama i drugim takvim stvarima. Ali o tome se ne spominje ništa u zapovijedima Dekaloga. Čini se, dakle, da zapovijedi Dekaloga u vlastitom smislu ne pripadaju pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a1.obj4": {
+      "text": "Osim toga, zapovijedi Dekaloga razdijeljene su na dvije ploče prema ljubavi prema Bogu i bližnjemu, a to pripada kreposti ljubavi. Zapovijedi Dekaloga, dakle, više pripadaju ljubavi nego pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a1.sc": {
+      "text": "Ali protiv toga jest to što se čini da je samo pravednost krepost po kojoj smo usmjereni prema drugome. Ali po svim zapovijedima Dekaloga usmjereni smo prema drugome, kao što je jasno onome tko prođe pojedine od njih. Sve zapovijedi Dekaloga, dakle, pripadaju pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a1.resp": {
+      "text": "Odgovaram: treba reći da su zapovijedi Dekaloga prve zapovijedi zakona, kojima naravni razum odmah pristaje kao najočitijima. A pojam dugovanoga, koji se traži za zapovijed, najočitije se pokazuje u pravednosti, koja je usmjerena prema drugome; jer u onome što se odnosi na samoga sebe na prvi se pogled čini da je čovjek gospodar samoga sebe i da mu je dopušteno činiti što god hoće; a u onome što je usmjereno prema drugome očito se pokazuje da je čovjek obvezan drugome dati ono što mu duguje. I zato je trebalo da zapovijedi Dekaloga pripadaju pravednosti. Stoga su prve tri zapovijedi o činima bogoštovlja (religije), koje je najvažniji dio pravednosti; četvrta je pak zapovijed o činu pijeteta, koji je drugi dio pravednosti; a ostalih se šest daje o činima pravednosti uzete općenito, koja se uočava među jednakima.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da zakon smjera učiniti sve ljude krepostnima, ali nekim redom, naime tako da im najprije dade zapovijedi o onome u čemu je pojam dugovanoga očitiji, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a1.ad2": {
+      "text": "Na drugo treba reći da su sudske zapovijedi neka određenja moralnih zapovijedi ukoliko su usmjerene prema bližnjemu, kao što su i obredne zapovijedi neka određenja moralnih zapovijedi ukoliko su usmjerene prema Bogu. Stoga ni jedne ni druge nisu sadržane u Dekalogu. Ipak su određenja zapovijedi Dekaloga. I tako pripadaju pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a1.ad3": {
+      "text": "Na treće treba reći da ono što pripada općem dobru treba raspoređivati na različite načine prema različitosti ljudi. I zato to nije trebalo postaviti među zapovijedi Dekaloga, nego među sudske zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a1.ad4": {
+      "text": "Na četvrto treba reći da zapovijedi Dekaloga pripadaju ljubavi kao svrsi, prema onome iz 1 Tim 1: *svrha je zapovijedi ljubav*. Ali pravednosti pripadaju ukoliko su neposredno o činima pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je prva zapovijed Dekaloga neprikladno dana. Čovjek je, naime, više obvezan Bogu nego tjelesnom ocu, prema onome iz Heb 12: *koliko ćemo se više pokoravati Ocu duhova i živjeti?* Ali zapovijed pijeteta, kojim se časti otac, postavlja se potvrdno, kad se kaže: poštuj oca svoga i majku svoju. Mnogo je, dakle, više prva zapovijed bogoštovlja (religije), kojim se časti Bog, trebala biti iznesena potvrdno, osobito budući da je potvrđivanje po naravi prije nijekanja.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a2.obj2": {
+      "text": "Osim toga, prva zapovijed Dekaloga pripada bogoštovlju (religiji), kao što je rečeno. Ali bogoštovlje, budući da je jedna krepost, ima jedan čin. A u prvoj se zapovijedi zabranjuju tri čina: *jer najprije se kaže: nemoj imati tuđih bogova uz mene; drugo se kaže: ne pravi sebi rezana lika; treće: ne klanjaj im se i ne štuj ih*. Prva je zapovijed, dakle, neprikladno dana.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a2.obj3": {
+      "text": "Osim toga, Augustin kaže u knjizi O deset struna da se prvom zapovijedi isključuje porok praznovjerja. Ali osim idolopoklonstva postoje mnoga druga štetna praznovjerja, kao što je gore rečeno. Nedostatno se, dakle, zabranjuje samo idolopoklonstvo.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a2.sc": {
+      "text": "Nasuprot tome stoji autoritet Pisma.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a2.resp": {
+      "text": "Odgovaram: treba reći da zakonu pripada činiti ljude dobrima. I zato zapovijedi zakona treba da budu uređene prema redu nastajanja, kojim, naime, čovjek postaje dobar. A u redu nastajanja treba uočiti dvoje. Prvo je od toga da se prvi dio najprije uspostavlja, kao što u nastajanju životinje najprije nastaje srce, a kod kuće se najprije postavlja temelj. A u dobroti duše prvi je dio dobrota volje, po kojoj se čovjek dobro služi svakom drugom dobrotom. Dobrota se pak volje promatra s obzirom na njezin predmet, a to je svrha. I zato je u onome koga je trebalo zakonom poučiti kreposti najprije trebalo takoreći postaviti neki temelj bogoštovlja (religije), po kojemu se čovjek dužno usmjerava prema Bogu, koji je posljednja svrha ljudske volje. Drugo, u redu nastajanja treba uočiti da se najprije uklanja ono što je protivno i što je zapreka, kao što ratar najprije čisti njivu, a potom baca sjeme, prema onome iz Jr 4: *preorite sebi ledinu i ne sijte na trnje*. I zato je u pogledu bogoštovlja čovjeka najprije trebalo poučiti da isključi zapreke istinskom bogoštovlju. A glavna je zapreka bogoštovlju to da čovjek prianja uz lažnoga boga, prema onome iz Mt 6: *ne možete služiti Bogu i mamonu*. I zato se u prvoj zapovijedi zakona isključuje štovanje lažnih bogova.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se i u pogledu bogoštovlja postavlja jedna potvrdna zapovijed, naime: sjeti se da svetkuješ dan subotnji. Ali trebalo je unaprijed postaviti niječne zapovijedi, kojima bi se uklonile zapreke bogoštovlju. Premda je, naime, potvrđivanje po naravi prije nijekanja, ipak je na putu nastajanja nijekanje, kojim se odstranjuju zapreke, prije, kao što je rečeno. I osobito u božanskim stvarima, u kojima se nijekanja pretpostavljaju potvrđivanjima zbog naše nedostatnosti, kako kaže Dionizije u 2. poglavlju O nebeskoj hijerarhiji.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a2.ad2": {
+      "text": "Na drugo treba reći da su neki obdržavali štovanje tuđih bogova na dva načina. Jedni su, naime, štovali neke stvorove kao bogove bez postavljanja slika; stoga je Varon rekao da su stari Rimljani dugo štovali bogove bez kipova. I to se štovanje zabranjuje najprije, kad se kaže: nemoj imati tuđih bogova. A kod drugih je bilo štovanje lažnih bogova pod nekim slikama. I zato se prikladno zabranjuje i samo postavljanje slika, kad se kaže: ne pravi sebi rezana lika; i štovanje samih slika, kad se kaže: ne štuj ih, i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a2.ad3": {
+      "text": "Na treće treba reći da sva druga praznovjerja proizlaze iz nekog ugovora s demonima, sklopljenog prešutno ili izričito. I zato se razumije da su sva zabranjena time što se kaže: nemoj imati tuđih bogova.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da druga zapovijed Dekaloga nije prikladno dana. Ta se zapovijed, naime: ne uzimaj imena Boga svojega uzalud, ovako tumači u Glosi na Izl 20: *to jest, nemoj smatrati da je stvor Sin Božji*, čime se zabranjuje zabluda protiv vjere. A uz Pnz 5 tumači se: *ne uzimaj imena Boga svojega uzalud, naime pripisujući ime Božje drvu i kamenu*, čime se zabranjuje lažno ispovijedanje, koje je čin nevjere, kao i zabluda. A nevjera je prije praznovjerja, kao i vjera prije bogoštovlja. Ta je zapovijed, dakle, trebala biti postavljena prije prve, u kojoj se zabranjuje praznovjerje.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.obj2": {
+      "text": "Osim toga, ime se Božje uzima za mnogo toga, primjerice za hvaljenje, za činjenje čudesa i općenito za sve što mi govorimo ili činimo, prema onome iz Kol 3: *sve što god činite riječju ili djelom, činite u ime Gospodnje*. Čini se, dakle, da je zapovijed kojom se zabranjuje uzimati ime Božje uzalud općenitija od zapovijedi kojom se zabranjuje praznovjerje. I tako je trebala biti postavljena prije nje.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.obj3": {
+      "text": "Osim toga, u Izl 20 ta se zapovijed tumači: *ne uzimaj imena Boga svojega uzalud, naime prisežući ni za što*. Stoga se čini da se time zabranjuje isprazno prisezanje, naime ono koje je bez rasudnosti. Ali mnogo je teže lažno prisezanje, koje je bez istine, i nepravedno prisezanje, koje je bez pravednosti. Ta su se, dakle, prisezanja prije trebala zabraniti ovom zapoviješću.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.obj4": {
+      "text": "Osim toga, mnogo je teži grijeh bogohulstvo, ili bilo što što se riječju ili djelom čini na pogrdu Bogu, nego krivokletstvo. Bogohulstvo i druge takve stvari, dakle, trebale su se prije zabraniti ovom zapoviješću.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.obj5": {
+      "text": "Osim toga, mnoga su imena Božja. Nije se, dakle, trebalo neodređeno reći: ne uzimaj imena Boga svojega uzalud.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.sc": {
+      "text": "Ali nasuprot tome stoji autoritet Pisma.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.resp": {
+      "text": "Odgovaram: treba reći da u onome koga se poučava kreposti treba prije isključiti zapreke istinskom bogoštovlju (religiji) nego ga utemeljiti u istinskom bogoštovlju. A istinskom se bogoštovlju nešto protivi na dva načina. Na jedan način, pretjeranošću, naime kad se ono što pripada bogoštovlju nedužno iskazuje nekom drugom, što pripada praznovjerju. Na drugi način, takoreći nedostatkom strahopoštovanja, naime kad se Boga prezire, što pripada poroku nebogoštovnosti, kao što je gore utvrđeno. Praznovjerje pak priječi bogoštovlje u tome da se Bog ne prihvati za štovanje. Onaj, naime, čija je duša zapletena u nedužno štovanje ne može ujedno prihvatiti dužno štovanje Boga, prema onome iz Iz 28: *postelja je tako uska da jedan mora pasti*, naime ili pravi ili lažni Bog iz srca čovjekova, *i kratak plašt ne može pokriti obojicu*. A nebogoštovnošću se bogoštovlje priječi u tome da se Bog, pošto je prihvaćen, ne časti. A prije je Boga prihvatiti za štovanje nego ga, kad je prihvaćen, častiti. I zato se zapovijed kojom se zabranjuje praznovjerje postavlja prije druge zapovijedi, kojom se zabranjuje krivokletstvo, koje pripada nebogoštovnosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da su ta tumačenja otajstvena. Doslovno je pak tumačenje ono koje stoji u Pnz 5: *ne uzimaj imena Boga svojega uzalud, naime prisežući za stvar koje nema*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.ad2": {
+      "text": "Na drugo treba reći da se ovom zapoviješću ne zabranjuje bilo koje uzimanje božanskog imena, nego u vlastitom smislu ono kojim se božansko ime uzima za potvrdu ljudske riječi na način prisege, jer je to uzimanje božanskog imena među ljudima češće. Ipak se posljedično može razumjeti da se time zabranjuje svako neuredno uzimanje božanskog imena. I u tom smislu idu ona tumačenja o kojima je gore bilo riječi.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.ad3": {
+      "text": "Na treće treba reći da se za onoga tko priseže za ono čega nema kaže da priseže ni za što, a to pripada lažnom prisezanju, koje se ponajprije naziva krivokletstvom, kao što je gore rečeno. Kad, naime, netko priseže na laž, tada je prisezanje isprazno samo po sebi, jer nema uporište u istini. A kad netko priseže bez rasudnosti, iz neke lakoumnosti, ako priseže na istinu, nema ispraznosti sa strane same prisege, nego samo sa strane onoga koji priseže.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.ad4": {
+      "text": "Na četvrto treba reći da, kao što se onome koga se poučava u nekoj znanosti najprije iznose neke opće pouke, tako je i zakon, koji čovjeka poučava kreposti, u zapovijedima Dekaloga, koje su prve, iznio, bilo zabranjujući bilo nalažući, ono što se u tijeku ljudskog života obično češće događa. I zato se među zapovijedima Dekaloga zabranjuje krivokletstvo, koje se događa češće nego bogohulstvo, u koje čovjek rjeđe zapada.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a3.ad5": {
+      "text": "Na peto treba reći da se imenima Božjim duguje strahopoštovanje sa strane označene stvari, koja je jedna, a ne s obzirom na glasove koji označuju, kojih je mnogo. I zato je rekao u jednini: *ne uzimaj imena Boga svojega uzalud*, jer nije bitno kojim se god imenom Božjim počini krivokletstvo.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q122.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je treća zapovijed Dekaloga, naime o posvećivanju subote, neprikladno dana. Ta je zapovijed, naime, shvaćena duhovno, opća; jer Ambrozije kaže uz ono iz Lk 13: *nadstojnik sinagoge, ljut što je u subotu izliječio: zakon, kaže, ne zabranjuje u subotu liječiti čovjeka, nego obavljati ropska djela, to jest opterećivati se grijesima*. A prema doslovnom smislu ona je obredna zapovijed, jer se kaže u Izl 31: *pazite da držite moju subotu, jer je ona znak između mene i vas u vašim naraštajima*. A zapovijedi Dekaloga i duhovne su zapovijedi i moralne su. Neprikladno se, dakle, postavlja među zapovijedi Dekaloga.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a4.obj2": {
+      "text": "Osim toga, obredne zapovijedi zakona obuhvaćaju svete stvari, žrtve, sakramente i obdržavanja, kao što je gore utvrđeno. A svetim stvarima nisu pripadali samo sveti dani nego i sveta mjesta, sveti sudovi i druge takve stvari. Isto je tako bilo mnogo svetih dana osim subote. Neprikladno je, dakle, što se, uz izostavljanje svih drugih obrednih propisa, spominje samo obdržavanje subote.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a4.obj3": {
+      "text": "Osim toga, tko god prestupa zapovijed Dekaloga, griješi. Ali u Starom zakonu neki koji su prestupali obdržavanje subote nisu griješili, kao oni koji su osmoga dana obrezivali dječake i svećenici koji su subotom radili u Hramu. I Ilija, budući da je četrdeset dana išao do Božje gore Horeba, slijedi da je putovao i u subotu. Isto se tako razumije da su svećenici, dok su sedam dana nosili okolo Kovčeg Gospodnji, kao što se čita u Jš 6, nosili ga okolo i u subotu. Kaže se također u Lk 13: *ne odvezuje li svaki od vas svoga vola ili magarca i ne vodi li ga na pojilo?* Neprikladno se, dakle, postavlja među zapovijedi Dekaloga.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a4.obj4": {
+      "text": "Osim toga, zapovijedi Dekaloga treba obdržavati i u Novom zakonu. Ali se u Novom zakonu ta zapovijed ne obdržava ni s obzirom na subotnji dan ni s obzirom na Dan Gospodnji, kada se i jela kuhaju, i ljudi putuju i love ribu i čine mnoge druge takve stvari. Neprikladno je, dakle, dana zapovijed o obdržavanju subote.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a4.sc": {
+      "text": "Ali nasuprot tome stoji autoritet Pisma.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a4.resp": {
+      "text": "Odgovaram: treba reći da je, pošto su prvom i drugom zapoviješću Dekaloga uklonjene zapreke istinskom bogoštovlju (religiji), kao što je gore rečeno, slijedilo da se postavi treća zapovijed, po kojoj bi se ljudi utemeljili u istinskom bogoštovlju. A bogoštovlju pripada iskazivati Bogu štovanje. Kao što nam se pak u božanskom Pismu stvari predaju pod nekim sličnostima tjelesnih stvari, tako se i vanjsko štovanje iskazuje Bogu po nekom osjetnom znaku. A budući da na unutarnje štovanje, koje se sastoji u molitvi i predanosti, čovjeka više navodi unutarnji poticaj Duha Svetoga, zapovijed zakona trebalo je dati o vanjskom štovanju prema nekom osjetnom znaku. I budući da su zapovijedi Dekaloga takoreći neka prva i opća načela zakona, zato se u trećoj zapovijedi Dekaloga nalaže vanjsko štovanje Boga pod znakom općega dobročinstva koje se tiče svih, naime da se predoči djelo stvaranja svijeta, od kojega se, kako se kaže, Bog odmorio sedmoga dana; u znak toga zapovijeda se da se sedmi dan posvećuje, to jest da se odredi za to da se bude slobodan za Boga. I zato se u Izl 20, nakon što je postavljena zapovijed o posvećivanju subote, navodi razlog: jer je *u šest dana Bog načinio nebo i zemlju, a sedmoga se dana odmorio*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je zapovijed o posvećivanju subote, shvaćena doslovno, dijelom moralna, a dijelom obredna. Moralna, s obzirom na to da čovjek odredi neko vrijeme svoga života za to da bude slobodan za božanske stvari. U čovjeku je, naime, naravna sklonost da se svakoj potrebnoj stvari odredi neko vrijeme, kao tjelesnom okrjepljivanju, snu i drugim takvim stvarima. Stoga i duhovnom okrjepljivanju, kojim se duh čovjekov okrjepljuje u Bogu, čovjek prema nalogu naravnoga razuma određuje neko vrijeme. I tako imati neko vrijeme određeno za to da se bude slobodan za božanske stvari potpada pod moralnu zapovijed. Ali ukoliko se u toj zapovijedi određuje posebno vrijeme u znak stvaranja svijeta, utoliko je ona obredna zapovijed. Isto je tako obredna prema alegorijskom značenju, ukoliko je bila predslika Kristova počinka u grobu, koji je bio sedmoga dana. I isto tako prema moralnom značenju, ukoliko označuje prestanak od svakoga čina grijeha i smirenje duha u Bogu, i u tom je smislu na neki način opća zapovijed. Isto je tako obredna prema anagoškom značenju, naime ukoliko unaprijed predočuje smirenje uživanja Boga koje će biti u domovini. Stoga se zapovijed o posvećivanju subote postavlja među zapovijedi Dekaloga ukoliko je moralna zapovijed, a ne ukoliko je obredna.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a4.ad2": {
+      "text": "Na drugo treba reći da su drugi obredi zakona znakovi nekih posebnih Božjih učinaka. A obdržavanje subote znak je općega dobročinstva, naime proizvođenja čitavoga stvorenja. I zato ga je prikladnije trebalo postaviti među opće zapovijedi Dekaloga nego bilo koji drugi obredni propis zakona.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a4.ad3": {
+      "text": "Na treće treba reći da u obdržavanju subote treba razmotriti dvoje. Jedno je od toga kao svrha, a to je da čovjek bude slobodan za božanske stvari. To se označuje time što kaže: sjeti se da svetkuješ dan subotnji; u zakonu se, naime, kaže da se posvećuje ono što se primjenjuje na božansko štovanje. Drugo je pak prestanak djela, koji se označuje kad se nadodaje: *sedmoga dana, dana Gospodina Boga tvojega, ne radi nikakva posla*. A o kojem se djelu to razumije, vidi se po onome što se tumači u Lev 23: *nikakva ropskog posla ne radite toga dana*. A ropsko se djelo naziva od ropstva. Ropstvo je pak trostruko. Jedno je ono kojim čovjek služi grijehu, prema onome: *tko čini grijeh, rob je grijeha*. I prema tome se svako djelo grijeha naziva ropskim. Drugo je pak ropstvo ono kojim čovjek služi čovjeku. A čovjek je rob drugoga ne po duhu, nego po tijelu, kao što je gore utvrđeno. I zato se prema tome ropskim djelima nazivaju tjelesna djela u kojima jedan čovjek služi drugome. Treće je pak služenje Bogu. I prema tome bi se ropskim djelom moglo nazvati djelo latrije, koje pripada služenju Bogu. Ako se pak ropsko djelo tako shvati, ono nije zabranjeno u subotnji dan. Jer to bi bilo protivno svrsi obdržavanja subote; čovjek se, naime, u subotnji dan uzdržava od drugih djela zato da bude slobodan za djela koja pripadaju služenju Bogu. I odatle je to što se, kako se kaže u Iv 7, *obrezanje prima čovjek u subotu, da se ne prekrši Mojsijev zakon*. Odatle je također to što, kako se kaže u Mt 12, subotom svećenici u Hramu krše subotu, to jest u subotu tjelesno rade, i bez krivnje su. I tako ni svećenici koji su u subotu nosili okolo Kovčeg nisu prestupali zapovijed o obdržavanju subote. I isto tako vršenje nikakva duhovnog čina nije protiv obdržavanja subote, primjerice ako netko poučava riječju ili spisom; stoga uz Br 28 Glosa kaže da *kovači i takvi obrtnici u subotnji dan miruju. A čitač ili naučitelj božanskog zakona ne prestaje sa svojim djelom, a ipak se subota ne oskvrnjuje, kao što svećenici u Hramu krše subotu i bez krivnje su*. Ali druga ropska djela, koja se nazivaju ropskima na prvi ili drugi način, protive se obdržavanju subote, ukoliko priječe da se čovjek primijeni božanskim stvarima. A budući da čovjeka od božanskih stvari više priječi djelo grijeha nego dopušteno djelo, makar bilo tjelesno, zato više postupa protiv ove zapovijedi onaj tko griješi na blagdan nego onaj tko obavlja neko dopušteno tjelesno djelo. Stoga Augustin kaže u knjizi O deset struna: *bolje bi bilo da Židov na svojoj njivi radi nešto korisno nego da u kazalištu bude buntovan. I bolje bi bilo da njihove žene u subotnji dan predu vunu nego da cijeli dan na svoje mlađake bestidno plešu*. A onaj tko u subotu griješi lako ne postupa protiv ove zapovijedi, jer laki grijeh ne isključuje svetost. Također tjelesna djela koja ne pripadaju duhovnom štovanju Boga nazivaju se ropskima utoliko ukoliko u vlastitom smislu pripadaju onima koji služe; a ukoliko su zajednička i robovima i slobodnima, ne nazivaju se ropskima. Svatko je pak, bio rob ili slobodan, dužan u potrebnim stvarima skrbiti ne samo za sebe nego i za bližnjega, ponajprije u onome što pripada zdravlju tijela, prema onome iz Izr 24: izbavi one koje vode u smrt; a drugotno i u izbjegavanju štete na stvarima, prema onome iz Pnz 22: *ne prođi mimo kad vidiš da je zalutao vol ili ovca tvoga brata, nego ih vrati svome bratu*. I zato tjelesno djelo koje pripada očuvanju zdravlja vlastitoga tijela ne krši subotu; nije, naime, protiv obdržavanja subote da netko jede i čini druge takve stvari kojima se čuva zdravlje tijela. I zbog toga Makabejci nisu oskvrnuli subotu boreći se u subotnji dan za svoju obranu, kao što se čita u 1 Mak 2. Isto tako ni Ilija, bježeći u subotnji dan pred Izebelom. I zbog toga i Gospodin u Mt 12 opravdava svoje učenike, koji su u subotnji dan trgali klasje zbog potrebe koju su trpjeli. Isto tako ni tjelesno djelo koje je usmjereno prema tjelesnom zdravlju drugoga nije protiv obdržavanja subote. Stoga Gospodin u Iv 7 kaže: *ljutite se na mene što sam cijeloga čovjeka ozdravio u subotu?* Isto tako tjelesno djelo koje je usmjereno na izbjegavanje prijeteće štete na vanjskoj stvari ne krši subotu. Stoga Gospodin kaže u Mt 12: *koji će čovjek od vas, koji ima jednu ovcu, ako mu ona u subotu upadne u jamu, ne uhvatiti je i ne izvući?*",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a4.ad4": {
+      "text": "Na četvrto treba reći da obdržavanje Dana Gospodnjega u Novom zakonu nasljeđuje obdržavanje subote ne snagom zapovijedi zakona, nego po odredbi Crkve i po običaju kršćanskoga puka. Niti je takvo obdržavanje predslikovno, kao što je bilo obdržavanje subote u Starom zakonu. I zato zabrana rada u Dan Gospodnji nije tako stroga kao u subotnji dan, nego su neka djela dopuštena u Dan Gospodnji koja su u subotnji dan bila zabranjena, kao kuhanje jela i druge takve stvari. A i kod nekih zabranjenih djela zbog potrebe se u Novom zakonu lakše daje oprost nego u Starom zakonu, jer predslika pripada svjedočenju istine, koju ne treba prijeći ni u čemu malome; a djela, promatrana sama po sebi, mogu se mijenjati prema mjestu i vremenu.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je četvrta zapovijed, o časti prema roditeljima, neprikladno dana. Ta zapovijed, naime, pripada pijetetu. Ali kao što je pijetet dio pravednosti, tako su to i poštivanje i zahvalnost i druge kreposti o kojima je bilo riječi. Čini se, dakle, da nije trebalo dati posebnu zapovijed o pijetetu kad se o drugima ne daje.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a5.obj2": {
+      "text": "Osim toga, pijetet ne iskazuje štovanje samo roditeljima nego i domovini i drugima koji su povezani krvlju te onima koji su skloni domovini, kao što je gore rečeno. Neprikladno se, dakle, u ovoj četvrtoj zapovijedi spominje samo čašćenje oca i majke.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a5.obj3": {
+      "text": "Osim toga, roditeljima se ne duguje samo strahopoštovanje časti nego i uzdržavanje. Nedostatno se, dakle, nalaže samo čašćenje roditelja.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a5.obj4": {
+      "text": "Osim toga, događa se katkad da neki koji časte roditelje brzo umru, i obratno, da oni koji ne časte roditelje dugo žive. Neprikladno se, dakle, ovoj zapovijedi dodaje ovo obećanje: *da dugo živiš na zemlji*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a5.sc": {
+      "text": "Nasuprot tome stoji autoritet Svetoga pisma.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a5.resp": {
+      "text": "Odgovaram: treba reći da su zapovijedi Dekaloga usmjerene prema ljubavi prema Bogu i bližnjemu. A među bližnjima najviše smo obvezani roditeljima. I zato se odmah nakon zapovijedi koje nas usmjeravaju prema Bogu postavlja zapovijed koja nas usmjerava prema roditeljima, koji su posebno počelo našega bitka, kao što je Bog opće počelo. I tako postoji neka srodnost ove zapovijedi sa zapovijedima prve ploče.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je, kao što je gore rečeno, pijetet usmjeren na to da se roditeljima vrati dug, što se općenito tiče svih. I zato među zapovijedima Dekaloga, koje su opće, prije treba postaviti nešto što pripada pijetetu nego drugim dijelovima pravednosti, koji imaju u vidu neki poseban dug.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a5.ad2": {
+      "text": "Na drugo treba reći da se roditeljima nešto duguje prije nego domovini i krvnim srodnicima, jer po tome što smo rođeni od roditelja pripadaju nam i krvni srodnici i domovina. I zato, budući da su zapovijedi Dekaloga prve zapovijedi zakona, po njima se čovjek više usmjerava prema roditeljima nego prema domovini ili drugim krvnim srodnicima. Ipak se u ovoj zapovijedi, koja je o čašćenju roditelja, razumije da se zapovijeda sve što pripada vraćanju duga bilo kojoj osobi, kao što je drugotno uključeno u glavnome.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a5.ad3": {
+      "text": "Na treće treba reći da se roditeljima kao takvima duguje čast strahopoštovanja. A uzdržavanje i drugo duguje im se po nekom akcidentu, primjerice ukoliko su u oskudici ili po nečem takvom, kao što je gore rečeno. A budući da je ono što je po sebi prije onoga što je akcidentalno, zato se među prvim zapovijedima zakona, a to su zapovijedi Dekaloga, posebno nalaže čašćenje roditelja. U njemu se ipak, kao u nečem glavnom, razumije da se zapovijeda i uzdržavanje i sve drugo što se duguje roditeljima.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a5.ad4": {
+      "text": "Na četvrto treba reći da se dug život obećava onima koji časte roditelje ne samo s obzirom na budući život nego i s obzirom na sadašnji, prema onome što kaže Apostol u 1 Tim 4: *pobožnost je korisna za sve, jer ima obećanje sadašnjega i budućega života*. I to razložno. Onaj, naime, tko je zahvalan za dobročinstvo zaslužuje po nekoj prikladnosti da mu se dobročinstvo sačuva, a zbog nezahvalnosti netko zaslužuje izgubiti dobročinstvo. A dobročinstvo tjelesnog života imamo, poslije Boga, od roditelja. I zato onaj tko časti roditelje, kao zahvalan za dobročinstvo, zaslužuje očuvanje života, a onaj tko ne časti roditelje, kao nezahvalan, zaslužuje da bude lišen života. Budući pak da sadašnja dobra ili zla ne potpadaju pod zaslugu ili nezaslugu osim ukoliko su usmjerena prema budućoj nagradi, kao što je rečeno, zato su katkad, prema skrivenom razlogu božanskih sudova, koji ponajviše imaju u vidu buduću nagradu, neki koji imaju pijetet prema roditeljima prije lišeni života, a drugi, koji su bez pijeteta prema roditeljima, žive dulje.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je ostalih šest zapovijedi Dekaloga neprikladno dano. Za spasenje, naime, nije dovoljno da netko ne škodi svome bližnjemu, nego se traži da mu vrati dug, prema onome iz Rim 13: *vratite svima dugove*. Ali u šest posljednjih zapovijedi zabranjuje se samo nanošenje štete bližnjemu. Spomenute su zapovijedi, dakle, neprikladno dane.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a6.obj2": {
+      "text": "Osim toga, u spomenutim se zapovijedima zabranjuju ubojstvo, preljub, krađa i lažno svjedočanstvo. Ali bližnjemu se mogu nanijeti mnoge druge štete, kao što je jasno iz onoga što je gore utvrđeno. Čini se, dakle, da su takve zapovijedi neprikladno dane.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a6.obj3": {
+      "text": "Osim toga, požuda se može uzeti na dva načina: na jedan način, ukoliko je čin volje, kao što se kaže u Mudr 6: *požuda za mudrošću vodi do vječnoga kraljevstva*; na drugi način, ukoliko je čin osjetilnosti, kao što se kaže u Jak 4: *odakle ratovi i svađe među vama? Nisu li od požuda koje vojuju u vašim udovima?* Ali zapovijed Dekaloga ne zabranjuje požudu osjetilnosti, jer bi prema tome prvi pokreti bili smrtni grijesi, budući da bi bili protiv zapovijedi Dekaloga. Isto tako ne zabranjuje ni požudu volje, jer je ona uključena u svaki grijeh. Neprikladno se, dakle, među zapovijedi Dekaloga postavljaju neke koje zabranjuju požudu.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a6.obj4": {
+      "text": "Osim toga, ubojstvo je teži grijeh od preljuba ili krađe. Ali se ne postavlja nikakva zapovijed koja zabranjuje požudu za ubojstvom. Neprikladno se, dakle, postavljaju i neke zapovijedi koje zabranjuju požudu za krađom i preljubom.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a6.sc": {
+      "text": "Ali nasuprot tome stoji autoritet Pisma.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a6.resp": {
+      "text": "Odgovaram: treba reći da, kao što se po dijelovima pravednosti vraća dug nekim određenim osobama prema kojima je čovjek obvezan po nekom posebnom razlogu, tako i po pravednosti u vlastitom smislu netko vraća dug općenito svima. I zato je, nakon triju zapovijedi koje pripadaju bogoštovlju (religiji), po kojemu se vraća dug Bogu, i nakon četvrte zapovijedi, koja je zapovijed pijeteta, po kojemu se vraća dug roditeljima, a u kojoj je uključen svaki dug koji se duguje po nekom posebnom razlogu, bilo nužno da se potom postave ostale zapovijedi koje pripadaju pravednosti u vlastitom smislu, koja bez razlike svima vraća dug.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je čovjek općenito obvezan na to da nikome ne nanese štetu. I zato su niječne zapovijedi, kojima se zabranjuju štete koje se mogu nanijeti bližnjima, kao opće, trebalo postaviti među zapovijedi Dekaloga. A ono što treba iskazati bližnjima različitima se iskazuje na različite načine. I zato o tome nije trebalo postaviti potvrdne zapovijedi među zapovijedi Dekaloga.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a6.ad2": {
+      "text": "Na drugo treba reći da se sve druge štete koje se nanose bližnjima mogu svesti na one koje se zabranjuju ovim zapovijedima, kao na nešto općenitije i glavnije. Naime, sve štete koje se nanose osobi bližnjega razumiju se kao zabranjene u ubojstvu, kao u onome glavnijem. One pak koje se nanose povezanoj osobi, i to najviše na način pohote, razumiju se kao zabranjene zajedno s preljubom. One pak koje pripadaju štetama nanesenima na stvarima razumiju se kao zabranjene zajedno s krađom. A one koje pripadaju govoru, kao ogovaranja, bogohulstva i ako ima još nešto takvo, razumiju se kao zabranjene lažnim svjedočanstvom, koje se izravnije protivi pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a6.ad3": {
+      "text": "Na treće treba reći da se zapovijedima koje zabranjuju požudu ne razumije da je zabranjen prvi pokret požude, koji ostaje unutar granica osjetilnosti. Nego se izravno zabranjuje pristanak volje, koji se odnosi na djelo ili na nasladu.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    },
+    "II-II.q122.a6.ad4": {
+      "text": "Na četvrto treba reći da ubojstvo samo po sebi nije predmet požude, nego prije užasa, jer samo od sebe nema pojam nekog dobra. A preljub ima neki pojam dobra, naime ugodnoga. I krađa ima pojam nekog dobra, naime korisnoga. A dobro samo od sebe ima pojam predmeta požude. I zato je trebalo posebnim zapovijedima zabraniti požudu za krađom i preljubom, ali ne i požudu za ubojstvom.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:20+00:00"
+    }
+  }
+}

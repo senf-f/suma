@@ -1,0 +1,108 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 120,
+  "units": {
+    "II-II.q120.pr": {
+      "text": "Zatim treba razmotriti pravičnost. O njoj se pitaju dvije stvari. Prvo, je li pravičnost krepost. Drugo, je li dio pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da pravičnost nije krepost. Nijedna, naime, krepost ne ukida drugu krepost. Ali pravičnost ukida drugu krepost: jer i dokida ono što je pravedno prema zakonu, a čini se da se protivi i strogosti. Dakle, pravičnost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a1.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi O pravoj religiji: *U ovim vremenitim zakonima, premda ljudi o njima sude kad ih ustanovljuju, ipak, kad su ustanovljeni i potvrđeni, sucu neće biti dopušteno suditi o njima, nego prema njima*. Ali čini se da pravičan čovjek sudi o zakonu kad smatra da ga u nekom slučaju ne treba obdržavati. Dakle, pravičnost je više porok nego krepost.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a1.obj3": {
+      "text": "Osim toga, čini se da pravičnosti pripada da pazi na nakanu zakonodavca, kako kaže Filozof u V. knjizi Etike. Ali tumačiti nakanu zakonodavca pripada samo vladaru; stoga car kaže u Kodeksu, u naslovu O zakonima i vladarskim odredbama: *Tumačenje postavljeno između pravičnosti i prava samo je nama i potrebno i dopušteno razmatrati*. Dakle, čin pravičnosti je nedopušten. Dakle, pravičnost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a1.sc": {
+      "text": "Ali protiv toga jest to što je Filozof u V. knjizi Etike postavlja kao krepost.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a1.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno kad je bilo riječi o zakonima, budući da se ljudski čini, o kojima se daju zakoni, sastoje u pojedinačnim kontingentnim stvarima, koje se mogu mijenjati na beskonačno mnogo načina, nije bilo moguće ustanoviti neko pravilo zakona koje ni u jednom slučaju ne bi zakazalo; nego zakonodavci paze na ono što se događa u većini slučajeva, i prema tome donose zakon. Ipak, obdržavati ga u nekim slučajevima protivno je jednakosti pravednosti i protivno općem dobru, na koje zakon smjera. Tako, primjerice, zakon određuje da se pohranjene stvari vraćaju, jer je to u većini slučajeva pravedno; ali katkad se dogodi da je to štetno, primjerice ako je umobolnik pohranio mač i traži ga natrag dok je u ludilu, ili ako netko traži natrag pohranjeno radi napadanja na domovinu. U tim, dakle, i sličnim slučajevima bilo bi zlo slijediti postavljeni zakon, a dobro je, ostavivši po strani riječi zakona, slijediti ono što zahtijeva pojam pravednosti i opća korist. I tome je usmjerena epikeja, koju mi nazivamo pravičnošću. Stoga je jasno da je pravičnost krepost.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da pravičan čovjek ne napušta pravedno naprosto, nego pravedno koje je određeno zakonom. A niti se protivi strogosti, koja slijedi istinu zakona ondje gdje treba; a slijediti riječi zakona ondje gdje ne treba poročno je. Stoga se kaže u Kodeksu, u naslovu O zakonima i vladarskim odredbama: *Nema sumnje da griješi protiv zakona onaj koji se, prianjajući uz riječi zakona, upire protiv volje zakona*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a1.ad2": {
+      "text": "Na drugo treba reći da o zakonu sudi onaj koji kaže da nije dobro postavljen. A onaj koji kaže da riječi zakona ne treba obdržavati u ovom slučaju ne sudi o zakonu, nego o nekom posebnom predmetu koji se pojavio.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a1.ad3": {
+      "text": "Na treće treba reći da tumačenje ima mjesta u dvojbenim stvarima, u kojima nije dopušteno odstupiti od riječi zakona bez vladareve odluke. A u očitim stvarima nije potrebno tumačenje, nego izvršenje.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da pravičnost nije dio pravednosti. Kao što je, naime, jasno iz rečenoga, pravednost je dvostruka: jedna posebna, a druga zakonska. Ali pravičnost nije dio posebne pravednosti, jer se proteže na sve kreposti, kao i zakonska pravednost. Isto tako nije ni dio zakonske pravednosti, jer djeluje mimo onoga što je postavljeno zakonom. Čini se, dakle, da pravičnost nije dio pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a2.obj2": {
+      "text": "Osim toga, glavnija krepost ne pripisuje se kao dio manje glavnoj kreposti; naime, stožernim krepostima, kao glavnima, pripisuju se kao dijelovi drugotne kreposti. Ali čini se da je pravičnost glavnija krepost od pravednosti, kako zvuči i samo njezino ime: naziva se, naime, od epi, što znači iznad, i dikaion, što znači pravedno. Pravičnost, dakle, nije dio pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a2.obj3": {
+      "text": "Osim toga, čini se da je pravičnost isto što i skromnost. Jer u Fil 4, gdje se kaže: skromnost vaša neka bude poznata svim ljudima, u grčkome stoji epieikeia. Ali prema Tuliju skromnost je dio umjerenosti. Pravičnost, dakle, nije dio pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a2.sc": {
+      "text": "Ali protiv toga jest ono što Filozof kaže u V. knjizi Etike, da je *pravično nešto pravedno*.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, neka krepost ima trostruki dio, naime podvrstni, sastavni i takoreći potencijalni. Podvrstni je pak dio onaj o kojemu se cjelina pririče bitno, a on je u manjem opsegu. To se događa na dva načina: katkad se, naime, nešto pririče o više stvari prema jednom pojmu, kao što se životinja pririče o konju i volu; katkad se pak pririče prema prije i kasnije, kao što se biće pririče o supstanciji i akcidentu. Pravičnost je, dakle, dio pravednosti uzete općenito, budući da je neka pravednost, kako kaže Filozof u V. knjizi Etike. Stoga je jasno da je pravičnost podvrstni dio pravednosti. I pravednost se o njoj pririče prije nego o zakonskoj pravednosti, jer se zakonska pravednost ravna prema pravičnosti. Stoga je pravičnost takoreći više pravilo ljudskih čina.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da pravičnost u vlastitom smislu odgovara zakonskoj pravednosti te je na neki način sadržana pod njom, a na neki je način nadmašuje. Ako se, naime, zakonskom pravednošću naziva ona koja se pokorava zakonu bilo s obzirom na riječi zakona bilo s obzirom na nakanu zakonodavca, koja je važnija, tada je pravičnost važniji dio zakonske pravednosti. Ako se pak zakonskom pravednošću naziva samo ona koja se pokorava zakonu prema riječima zakona, tada pravičnost nije dio zakonske pravednosti, nego je dio pravednosti uzete općenito, razlučen nasuprot zakonskoj pravednosti kao ono što je nadmašuje.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a2.ad2": {
+      "text": "Na drugo treba reći da je, kako kaže Filozof u V. knjizi Etike, pravičnost bolja od neke pravednosti, naime od zakonske, koja obdržava riječi zakona. Budući da je ipak i ona sama neka pravednost, nije bolja od svake pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    },
+    "II-II.q120.a2.ad3": {
+      "text": "Na treće treba reći da pravičnosti pripada nešto umjeravati, naime obdržavanje riječi zakona. A skromnost, koja se postavlja kao dio umjerenosti, umjerava vanjski život čovjeka, primjerice u hodu ili odijevanju ili u drugim takvim stvarima. Moguće je ipak da se kod Grka ime pravičnosti po nekoj sličnosti prenosi na sva umjeravanja.",
+      "prompt_version": "1",
+      "glossary_version": 18,
+      "created_at": "2026-11-12T13:32:19+00:00"
+    }
+  }
+}
