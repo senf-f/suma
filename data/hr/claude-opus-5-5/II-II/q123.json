@@ -1,0 +1,588 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 123,
+  "units": {
+    "II-II.q123.pr": {
+      "text": "Nakon pravednosti treba, slijedom toga, razmotriti jakost. I to, prvo, samu krepost jakosti; drugo, njezine dijelove; treće, dar koji joj odgovara; četvrto, zapovijedi koje se na nju odnose. Glede jakosti pak treba razmotriti troje: prvo, samu jakost; drugo, njezin glavni čin, to jest mučeništvo; treće, poroke koji su joj suprotstavljeni. Glede prvoga pita se dvanaest stvari. Prvo, je li jakost krepost. Drugo, je li posebna krepost. Treće, odnosi li se na strahove i smjelosti. Četvrto, odnosi li se samo na strah od smrti. Peto, je li samo u ratnim stvarima. Šesto, je li podnositi njezin glavni čin. Sedmo, djeluje li radi vlastitoga dobra. Osmo, ima li nasladu u svojem činu. Deveto, sastoji li se jakost ponajviše u iznenadnim stvarima. Deseto, služi li se srdžbom u svojem djelovanju. Jedanaesto, je li stožerna krepost. Dvanaesto, o njezinoj usporedbi s drugim stožernim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da jakost nije krepost. Apostol, naime, kaže u 2 Kor 12: *krepost se u slabosti usavršuje*. Ali jakost se protivi slabosti. Dakle, jakost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a1.obj2": {
+      "text": "Osim toga, ako je krepost, onda je ili bogoslovna, ili umska, ili moralna. Ali jakost se ne ubraja ni među bogoslovne kreposti ni među umske, kao što je jasno iz onoga što je gore rečeno. Ne čini se ni da je moralna krepost. Jer, kako kaže Filozof u III. knjizi Etike, neki se čine jakima zbog neznanja ili pak zbog iskustva, kao vojnici, a to više pripada umijeću nego moralnoj kreposti; za neke se pak kaže da su jaki zbog nekih strasti, primjerice zbog straha od prijetnji ili od sramoćenja, ili pak zbog žalosti, srdžbe ili nade. Moralna krepost, međutim, ne djeluje iz strasti, nego iz izbora, kao što je gore utvrđeno. Dakle, jakost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a1.obj3": {
+      "text": "Osim toga, ljudska se krepost ponajviše sastoji u duši, jer ona je dobra kakvoća duha, kao što je već gore rečeno. Ali čini se da se jakost sastoji u tijelu ili da barem slijedi tjelesni sastav. Dakle, čini se da jakost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a1.sc": {
+      "text": "Ali protiv toga stoji to što Augustin u knjizi O običajima Crkve ubraja jakost među kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a1.resp": {
+      "text": "Odgovaram: treba reći da je, prema Filozofu u II. knjizi Etike, *krepost ono što čini dobrim onoga koji je ima i njegovo djelo čini dobrim*. Stoga je krepost čovjeka, o kojoj govorimo, ona koja čini dobrim čovjeka i njegovo djelo čini dobrim. A dobro je čovjeka biti u skladu s razumom, prema Dionizijevu IV. poglavlju O božanskim imenima. I zato ljudskoj kreposti pripada da čovjeka i njegovo djelo učini takvima da budu u skladu s razumom. To se pak događa na tri načina. Na jedan način, ukoliko se ispravlja sam razum, a to biva po umskim krepostima. Na drugi način, ukoliko se sama ispravnost razuma uspostavlja u ljudskim stvarima, a to pripada pravednosti. Treće, ukoliko se uklanjaju zapreke toj ispravnosti koju treba uspostaviti u ljudskim stvarima. Ljudska je pak volja na dva načina sprječavana da slijedi ispravnost razuma. Na jedan način, time što je nešto ugodno privlači prema nečemu drugome nego što to zahtijeva ispravnost razuma; tu zapreku uklanja krepost umjerenosti. Na drugi način, time što nešto odbija volju od onoga što je u skladu s razumom, zbog neke teškoće koja se nameće. Da bi se ta zapreka uklonila, potrebna je jakost duha, kojom se, naime, takvim teškoćama odupire, kao što i čovjek tjelesnom jakošću svladava i odbija tjelesne zapreke. Stoga je očito da je jakost krepost, ukoliko čini da čovjek bude u skladu s razumom.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se krepost duše ne usavršuje u slabosti duše, nego u slabosti tijela, o kojoj je Apostol govorio. A jakosti duha pripada to da jako podnosi slabost tijela, što pripada kreposti strpljivosti ili jakosti. A to da čovjek prizna vlastitu slabost pripada savršenosti koja se naziva poniznost.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a1.ad2": {
+      "text": "Na drugo treba reći da vanjski čin kreposti katkad izvode neki koji nemaju krepost, iz nekoga drugog uzroka, a ne iz kreposti. I zato Filozof u III. knjizi Etike navodi pet načina onih koji se po sličnosti nazivaju jakima, kao da vrše čin jakosti mimo kreposti. To se pak događa na tri načina. Prvo, zato što idu prema onome što je teško kao da nije teško. To se dijeli na tri načina. Katkad se to, naime, događa zbog neznanja, jer čovjek ne opaža veličinu pogibelji. Katkad se pak to događa zato što se čovjek dobro nada da će svladati pogibelji, primjerice kad je iskusio da je često izbjegao pogibeljima. Katkad se pak to događa zbog nekoga znanja i umijeća, kao što biva kod vojnika, koji zbog vještine u oružju i uvježbanosti ne smatraju teškima ratne pogibelji, misleći da se svojim umijećem mogu od njih obraniti; kao što Vegecije kaže u knjizi O vojništvu: *nitko se ne boji činiti ono za što je uvjeren da ga je dobro naučio*. Na drugi način netko vrši čin jakosti bez kreposti zbog poticaja strasti, ili žalosti koju želi odbiti, ili pak srdžbe. Na treći način, zbog izbora, ne dakako dužne svrhe, nego zato da se stekne neka vremenita korist, primjerice čast, užitak ili dobitak, ili da se izbjegne neka neprilika, primjerice pokuda, nevolja ili šteta.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a1.ad3": {
+      "text": "Na treće treba reći da se po sličnosti s tjelesnom jakošću govori o jakosti duše, koja se ubraja u kreposti, kao što je rečeno. Ipak se ne protivi pojmu kreposti to da netko iz naravnoga tjelesnog sastava ima naravnu sklonost prema kreposti, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da jakost nije posebna krepost. U Mudr 8, naime, kaže se da mudrost uči trijeznosti i razboritosti, pravednosti i kreposti, a krepost ondje stoji umjesto jakosti. Budući da je, dakle, ime kreposti zajedničko svim krepostima, čini se da je jakost opća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a2.obj2": {
+      "text": "Osim toga, Ambrozije kaže u I. knjizi O dužnostima: *Nije osrednjega duha jakost, koja jedina brani ures svih kreposti i čuva sudove, i koja se nepomirljivom borbom bori protiv svih poroka. Nepobjediva u naporima, jaka pred pogibeljima, tvrđa prema užicima, ona tjera škrtost kao neku ljagu koja krepost čini mekoputnom*. I isti poslije dodaje o drugim porocima. To pak ne može pristajati nekoj posebnoj kreposti. Dakle, jakost nije posebna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a2.obj3": {
+      "text": "Osim toga, čini se da je ime jakosti uzeto od čvrstoće. Ali držati se čvrsto pripada svakoj kreposti, kao što se kaže u II. knjizi Etike. Dakle, jakost je opća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a2.sc": {
+      "text": "Ali protiv toga stoji to što je Grgur u XXII. knjizi Moralija nabraja zajedno s drugim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je gore rečeno, ime jakosti može uzeti na dva načina. Na jedan način, ukoliko apsolutno uključuje neku čvrstoću duha. Prema tome je ona opća krepost, ili bolje uvjet svake kreposti, jer, kako kaže Filozof u II. knjizi Etike, za krepost se zahtijeva čvrsto i nepokolebljivo djelovati. Na drugi se način jakost može uzeti ukoliko uključuje čvrstoću duha u podnošenju i odbijanju onoga u čemu je ponajviše teško imati čvrstoću, naime u nekim teškim pogibeljima. Zato Tulije u svojoj Retorici kaže da je *jakost promišljeno preuzimanje pogibelji i podnošenje napora*. I tako se jakost ubraja u posebne kreposti, budući da ima određenu građu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, prema Filozofu u I. knjizi O nebu, ime kreposti odnosi na krajnju granicu moći. A moć se na jedan način naziva naravnom ukoliko se njome netko može oduprijeti onome što razara, a na drugi način ukoliko je počelo djelovanja, kao što je jasno iz V. knjige Metafizike. I zato, budući da je ovo drugo značenje općenitije, ime kreposti, ukoliko uključuje krajnju granicu takve moći, zajedničko je; jer krepost uzeta općenito nije ništa drugo nego habitus kojim netko može dobro djelovati. Ukoliko pak uključuje krajnju granicu moći rečene na prvi način, a to je posebniji način, pripisuje se posebnoj kreposti, naime jakosti, kojoj pripada čvrsto stajati protiv svega što napada.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a2.ad2": {
+      "text": "Na drugo treba reći da Ambrozije jakost uzima široko, ukoliko uključuje čvrstoću duha s obzirom na bilo kakve napadaje. Ipak, i ukoliko je posebna krepost koja ima određenu građu, ona pomaže u odupiranju napadajima svih poroka. Jer tko može čvrsto stajati u onome što je najteže podnijeti, iz toga slijedi da je sposoban oduprijeti se drugome što je manje teško.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a2.ad3": {
+      "text": "Na treće treba reći da se onaj prigovor odnosi na jakost rečenu na prvi način.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se jakost ne odnosi na strahove i smjelosti. Grgur, naime, kaže u VII. knjizi Moralija: *jakost je pravednika pobijediti tijelo, protiviti se vlastitim užicima, ugasiti nasladu sadašnjega života*. Dakle, čini se da se jakost više odnosi na naslade nego na strahove i smjelosti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a3.obj2": {
+      "text": "Osim toga, Tulije u svojoj Retorici kaže da jakosti pripada preuzimanje pogibelji i podnošenje napora. Ali čini se da to ne pripada strasti straha ili smjelosti, nego više mukotrpnim ljudskim radnjama ili vanjskim pogibeljnim stvarima. Dakle, jakost se ne odnosi na strahove i smjelosti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a3.obj3": {
+      "text": "Osim toga, strahu se ne suprotstavlja samo smjelost nego i nada, kao što je gore utvrđeno kad se raspravljalo o strastima. Dakle, jakost se ne bi više trebala odnositi na smjelost nego na nadu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a3.sc": {
+      "text": "Ali protiv toga stoji to što Filozof kaže u II. i III. knjizi Etike da se *jakost odnosi na strah i smjelost*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, kreposti jakosti pripada ukloniti zapreku kojom se volja povlači od slijeđenja razuma. A to da se netko povlači od nečega teškoga pripada pojmu straha, koji uključuje neko odstupanje od zla koje sa sobom nosi teškoću, kao što je gore utvrđeno kad se raspravljalo o strastima. I zato se jakost u prvom redu odnosi na strahove od teških stvari, koji mogu povući volju od slijeđenja razuma. Navalu takvih teških stvari pak treba ne samo čvrsto podnositi obuzdavajući strah, nego i umjereno napadati, naime kad ih treba istrijebiti da bi se ubuduće imala sigurnost. A to, čini se, pripada pojmu smjelosti. I zato se jakost odnosi na strahove i smjelosti, kao ona koja strahove obuzdava, a smjelosti umjerava.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Grgur ondje govori o jakosti pravednika ukoliko je ona općenito u odnosu prema svakoj kreposti. Stoga najprije navodi nešto što pripada umjerenosti, kao što je rečeno, a zatim dodaje ono što u vlastitom smislu pripada jakosti ukoliko je ona posebna krepost, govoreći: *ljubiti nedaće ovoga svijeta radi vječnih nagrada*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a3.ad2": {
+      "text": "Na drugo treba reći da pogibeljne stvari i mukotrpni čini ne povlače volju s puta razuma osim ukoliko ih se boji. I zato treba da se jakost neposredno odnosi na strahove i smjelosti, a posredno na pogibelji i napore, kao na predmete spomenutih strasti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a3.ad3": {
+      "text": "Na treće treba reći da se nada suprotstavlja strahu s obzirom na predmet, jer nada je o dobru, a strah o zlu. Smjelost se pak odnosi na isti predmet i suprotstavlja se strahu po približavanju i udaljavanju, kao što je gore rečeno. A budući da jakost u vlastitom smislu gleda na vremenita zla koja povlače od kreposti, kao što je jasno iz Tulijeve definicije, odatle dolazi da se jakost u vlastitom smislu odnosi na strah i smjelost, a ne na nadu, osim ukoliko je ona povezana sa smjelošću, kao što je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se jakost ne odnosi samo na pogibelji smrti. Augustin, naime, kaže u knjizi O običajima Crkve da je *jakost ljubav koja lako podnosi sve radi onoga što se ljubi*. A u VI. knjizi O glazbi kaže da je *jakost čuvstvo koje se ne boji nikakvih nedaća ni smrti*. Dakle, jakost se ne odnosi samo na pogibelji smrti, nego i na sve druge nedaće.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a4.obj2": {
+      "text": "Osim toga, sve strasti duše treba neka krepost svesti na sredinu. Ali nema neke druge kreposti koja bi druge strahove svodila na sredinu. Dakle, jakost se ne odnosi samo na strahove od smrti, nego i na druge strahove.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a4.obj3": {
+      "text": "Osim toga, nijedna krepost nije u krajnostima. Ali strah od smrti jest u krajnosti, jer je najveći od strahova, kao što se kaže u III. knjizi Etike. Dakle, krepost se jakosti ne odnosi na strahove od smrti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a4.sc": {
+      "text": "Ali protiv toga stoji to što Andronik kaže da je *jakost krepost srdite moći koju ne zaprepašćuju lako strahovi što se tiču smrti*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, kreposti jakosti pripada štititi čovjekovu volju da se ne povuče od dobra razuma zbog straha od tjelesnoga zla. A dobro razuma treba čvrsto držati protiv bilo kakva zla, jer nijedno tjelesno dobro nije jednako vrijedno kao dobro razuma. I zato treba da se jakošću duha naziva ona koja čovjekovu volju čvrsto drži u dobru razuma protiv najvećih zala; jer tko stoji čvrst protiv većega, iz toga slijedi da stoji čvrst i protiv manjega, ali ne i obrnuto. A i to pripada pojmu kreposti, da gleda na krajnju granicu. Od svih je pak tjelesnih zala najstrašnija smrt, koja oduzima sva tjelesna dobra. Zato Augustin kaže u knjizi O običajima Crkve: *spona s tijelom potresa dušu strahom od napora i boli, da tijelo ne bude potreseno i mučeno, a strahom od smrti, da ne bude oduzeto i uništeno*. I zato se krepost jakosti odnosi na strahove od pogibelji smrti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se jakost dobro drži u podnošenju svih nedaća. Ipak se čovjek ne smatra naprosto jakim po podnošenju bilo kakvih nedaća, nego samo po tome što dobro podnosi i najveća zla. Po drugima se pak za nekoga kaže da je jak u nekom pogledu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a4.ad2": {
+      "text": "Na drugo treba reći da, budući da se strah rađa iz ljubavi, svaka krepost koja umjerava ljubav prema nekim dobrima slijedom toga umjerava i strah od protivnih zala. Tako darežljivost, koja umjerava ljubav prema novcu, slijedom toga umjerava i strah od njegova gubitka. Isto se vidi u umjerenosti i u drugim krepostima. Ali ljubiti vlastiti život naravno je. I zato je trebalo da postoji posebna krepost koja bi umjeravala strahove od smrti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a4.ad3": {
+      "text": "Na treće treba reći da se krajnost u krepostima određuje po prekoračenju ispravnoga razuma. I zato, ako netko podnese najveće pogibelji u skladu s razumom, to nije protivno kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se jakost u vlastitom smislu ne odnosi na pogibelji smrti koje su u ratu. Mučenici se, naime, osobito hvale zbog jakosti. Ali mučenici se ne hvale zbog ratnih stvari. Dakle, jakost se u vlastitom smislu ne odnosi na pogibelji smrti koje su u ratnim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a5.obj2": {
+      "text": "Osim toga, Ambrozije kaže u I. knjizi O dužnostima da se *jakost dijeli na ratne i kućne stvari*. I Tulije kaže u I. knjizi O dužnostima: *Iako većina misli da su ratne stvari veće od građanskih, to mišljenje treba umanjiti; jer ako hoćemo istinito suditi, bilo je mnogo građanskih stvari većih i slavnijih od ratnih*. Ali oko većih stvari je veća jakost. Dakle, jakost se u vlastitom smislu ne odnosi na smrt koja je u ratu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a5.obj3": {
+      "text": "Osim toga, ratovi su usmjereni prema očuvanju vremenitoga mira države; Augustin, naime, kaže u XIX. knjizi O Božjem gradu da se *ratovi vode s nakanom mira*. Ali ne čini se da bi se netko radi vremenitoga mira države trebao izlagati pogibelji smrti, budući da je takav mir povod mnogim raskalašenostima. Dakle, čini se da se krepost jakosti ne odnosi na pogibelji ratne smrti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a5.sc": {
+      "text": "Ali protiv toga stoji to što Filozof kaže u III. knjizi Etike da se jakost ponajviše odnosi na smrt koja je u ratu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a5.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, jakost učvršćuje čovjekov duh protiv najvećih pogibelji, a to su pogibelji smrti. Ali budući da je jakost krepost, a njezinu pojmu pripada da uvijek teži prema dobru, slijedi da čovjek ne bježi od pogibelji smrti radi postizanja nekoga dobra. A pogibelji smrti koja dolazi od bolesti, ili od oluje na moru, ili od navale razbojnika, ili ako ima još nešto takvo, ne čini se da izravno prijete nekomu zato što teži za nekim dobrom. Ali pogibelji smrti koja je u ratnim stvarima izravno prijete čovjeku radi nekoga dobra, naime ukoliko brani opće dobro pravednim ratom. Pravedan pak rat može biti na dva načina. Na jedan način, opći, kao kad se neki bore u bojnom redu. Na drugi način, pojedinačni, primjerice kad neki sudac, ili čak privatna osoba, ne odstupa od pravednoga suda zbog straha od mača koji prijeti ili od bilo koje pogibelji, makar bila i smrtonosna. Jakosti, dakle, pripada pružati čvrstoću duha protiv pogibelji smrti ne samo onih koje prijete u općem ratu, nego i onih koje prijete u pojedinačnom napadaju, koji se zajedničkim imenom može nazvati ratom. I prema tome treba dopustiti da se jakost u vlastitom smislu odnosi na pogibelji smrti koja je u ratu. Ali i s obzirom na pogibelji bilo koje druge smrti jak se čovjek dobro drži, osobito zato što se čovjek i pogibelji bilo koje smrti može izložiti radi kreposti; primjerice kad netko ne odbija posluživati bolesnoga prijatelja zbog straha od smrtonosne zaraze, ili kad ne odbija putovati da bi obavio neki pobožan posao zbog straha od brodoloma ili razbojnika.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da mučenici podnose osobne napadaje radi najvišega dobra, a to je Bog. Zato se njihova jakost osobito hvali. Ni ona nije izvan roda jakosti koja se odnosi na ratne stvari. Zato se za njih kaže da *postadoše jaki u ratu*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a5.ad2": {
+      "text": "Na drugo treba reći da se kućne ili građanske stvari razlikuju od ratnih, naime onih koje pripadaju općim ratovima. Ipak, i u samim kućnim ili građanskim stvarima mogu prijetiti pogibelji smrti od nekih napadaja, koji su neki pojedinačni ratovi. I tako i s obzirom na takve stvari može postojati jakost u vlastitom smislu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a5.ad3": {
+      "text": "Na treće treba reći da je mir države po sebi dobar i ne postaje zao time što se neki njime loše služe. Jer ima i mnogo drugih koji se njime dobro služe, a po njemu se sprječavaju mnogo gora zla, naime ubojstva i svetogrđa, nego što se njime prouzrokuju zla koja ponajviše pripadaju tjelesnim porocima.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da podnositi nije glavni čin jakosti. Krepost se, naime, odnosi na ono što je teško i dobro, kao što se kaže u II. knjizi Etike. Ali teže je napadati nego podnositi. Dakle, podnositi nije glavni čin jakosti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a6.obj2": {
+      "text": "Osim toga, čini se da je znak veće moći to da nešto može djelovati na drugo nego to da samo ne bude promijenjeno od drugoga. Ali napadati znači djelovati na drugo, a podnositi znači nepomično ustrajati. Budući da, dakle, jakost označuje savršenost moći, čini se da jakosti više pripada napadati nego podnositi.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a6.obj3": {
+      "text": "Osim toga, jedna je protivnost udaljenija od druge protivnosti nego puko nijekanje te druge. Ali onaj koji podnosi ima samo to da se ne boji, dok se onaj koji napada giba protivno onome koji se boji, jer progoni. Dakle, čini se, budući da jakost ponajviše povlači duh od straha, da joj više pripada napadati nego podnositi.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a6.sc": {
+      "text": "Ali protiv toga stoji to što Filozof kaže u III. knjizi Etike da se *neki ponajviše nazivaju jakima po tome što podnose ono što je žalosno*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a6.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je gore rečeno i kao što Filozof kaže u III. knjizi Etike, jakost više odnosi na suzbijanje strahova nego na umjeravanje smjelosti. Teže je, naime, suzbiti strah nego umjeriti smjelost, zato što sama pogibelj, koja je predmet smjelosti i straha, sama po sebi nešto pridonosi suzbijanju smjelosti, a djeluje na porast straha. A napadati pripada jakosti ukoliko ona umjerava smjelost, dok podnositi slijedi iz suzbijanja straha. I zato je glavniji čin jakosti podnositi, to jest nepomično stajati u pogibeljima, nego napadati.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je podnositi teže nego napadati, iz trostrukoga razloga. Prvo, zato što se čini da netko podnosi napad nekoga jačega, dok onaj koji napada nasrće kao jači. A teže je boriti se s jačim nego sa slabijim. Drugo, zato što onaj koji podnosi već osjeća pogibelji koje prijete, dok ih onaj koji napada ima kao buduće. A teže je ne dati se pokrenuti od sadašnjega nego od budućega. Treće, zato što podnositi uključuje dugotrajnost vremena, dok netko može napasti i iz iznenadnoga pokreta. A teže je dugo ostati nepomičan nego se iznenadnim pokretom pokrenuti prema nečemu teško dostižnom. Zato Filozof kaže u III. knjizi Etike da *neki lete naprijed prije pogibelji, a u samim pogibeljima odstupaju, dok se jaki drže obrnuto*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a6.ad2": {
+      "text": "Na drugo treba reći da podnositi doduše uključuje trpnju tijela, ali i čin duše koja najjače prianja uz dobro, iz čega slijedi da ne popušta tjelesnoj trpnji koja već prijeti. A krepost se više promatra s obzirom na dušu nego s obzirom na tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a6.ad3": {
+      "text": "Na treće treba reći da se onaj koji podnosi ne boji, premda je uzrok straha već prisutan, dok ga onaj koji napada nema prisutnim.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da jak čovjek ne djeluje radi dobra vlastitoga habitusa. Svrha je, naime, u onome što treba činiti, iako je prva u nakani, ipak posljednja u izvršenju. Ali čin je jakosti u izvršenju kasniji od samoga habitusa jakosti. Ne može, dakle, biti da jak čovjek djeluje radi dobra vlastitoga habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a7.obj2": {
+      "text": "Osim toga, Augustin kaže u XIII. knjizi O Trojstvu: *Kreposti, koje ljubimo samo radi blaženstva, neki nam se usuđuju tako nametati*, naime govoreći da za njima treba težiti radi njih samih, *da ne ljubimo samo blaženstvo. Ako to učine, zacijelo ćemo prestati ljubiti i same kreposti, kad ne budemo ljubili ono radi čega smo jedino njih ljubili*. Ali jakost je neka krepost. Dakle, čin jakosti ne treba upravljati prema samoj jakosti, nego prema blaženstvu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a7.obj3": {
+      "text": "Osim toga, Augustin kaže u knjizi O običajima Crkve da je *jakost ljubav koja lako sve podnosi radi Boga*. A Bog nije sam habitus jakosti, nego nešto bolje, kao što svrha mora biti bolja od onoga što vodi k svrsi. Dakle, jak čovjek ne djeluje radi dobra vlastitoga habitusa.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a7.sc": {
+      "text": "Ali protiv toga stoji to što Filozof kaže u III. knjizi Etike da je *jakome jakost dobro, a takva je i svrha*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a7.resp": {
+      "text": "Odgovaram: treba reći da je svrha dvostruka, naime bliža i posljednja. Bliža je pak svrha svakoga djelatnika da uvede sličnost svoje forme u drugo, kao što je svrha vatre koja grije da uvede sličnost svoje topline u ono što trpi, a svrha graditelja da uvede sličnost svojega umijeća u tvar. Koje god pak dobro iz toga slijedi, ako je smjerano, može se nazvati daljnjom svrhom djelatnika. Kao što se pak u onome što treba izraditi vanjska tvar raspoređuje po umijeću, tako se i u onome što treba činiti po razboritosti raspoređuju ljudski čini. Tako, dakle, treba reći da jak čovjek kao bližu svrhu smjera na to da sličnost svojega habitusa izrazi u činu; smjera, naime, djelovati u skladu sa svojim habitusom. Daljnja je pak svrha blaženstvo, ili Bog.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a7.ad1": {
+      "text": "I time je jasan odgovor na prigovore. Jer prvi je razlog polazio od toga kao da je sama bit habitusa svrha, a ne njegova sličnost u činu, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a7.ad2": {
+      "text": "Druga se pak dva odnose na posljednju svrhu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da jak čovjek osjeća nasladu u svojem činu. Naslada je, naime, nesmetano djelovanje sunaravnoga habitusa, kao što se kaže u X. knjizi Etike. Ali djelovanje jakoga proizlazi iz habitusa, koji djeluje na način naravi. Dakle, jak čovjek ima nasladu u svojem činu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a8.obj2": {
+      "text": "Osim toga, uz ono iz Gal 5: *A plod je Duha ljubav, radost, mir*, Ambrozije kaže da se djela kreposti nazivaju plodovima *jer krijepe ljudski duh svetom i čistom nasladom*. Ali jak čovjek čini djela kreposti. Dakle, ima nasladu u svojem činu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a8.obj3": {
+      "text": "Osim toga, slabije pobjeđuje jače. Ali jak čovjek više ljubi dobro kreposti nego vlastito tijelo, koje izlaže pogibeljima smrti. Dakle, naslada zbog dobra kreposti dokida tjelesnu bol. I tako djeluje posve s nasladom.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a8.sc": {
+      "text": "Ali protiv toga stoji to što Filozof kaže u III. knjizi Etike da se ne čini da jak čovjek u svojem činu ima išta ugodno.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a8.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je gore rečeno kad se raspravljalo o strastima, naslada dvostruka: jedna tjelesna, koja slijedi tjelesni dodir, a druga duševna, koja slijedi zahvaćanje duše. I ova u vlastitom smislu slijedi djela kreposti, jer se u njima promatra dobro razuma. A glavni je čin jakosti podnositi nešto žalosno po zahvaćanju duše, primjerice to da čovjek gubi tjelesni život (koji krepostan čovjek ljubi ne samo ukoliko je neko naravno dobro nego i ukoliko je nužan za djela kreposti) i ono što mu pripada; i nadalje podnositi nešto bolno po dodiru tijela, primjerice rane i bičeve. I zato jak čovjek s jedne strane ima zbog čega se naslađivati, naime po duševnoj nasladi, to jest zbog samoga čina kreposti i njegove svrhe; a s druge strane ima zbog čega osjećati bol, i to duševno, dok razmatra gubitak vlastitoga života, i tjelesno. Zato, kao što se čita u 2 Mak 6, Eleazar je rekao: *Podnosim strašne boli tijela, ali po duši rado ovo trpim zbog straha pred tobom*. Osjetna pak bol tijela čini da se ne osjeća duševna naslada kreposti, osim možda zbog preobilne Božje milosti, koja dušu jače uzdiže prema božanskim stvarima, u kojima se naslađuje, nego što je pogađaju tjelesne muke; kao što je blaženi Tiburcije, kad je bosim nogama hodao po užarenom ugljevlju, rekao da mu se čini kao da hoda po ružinim cvjetovima. Ipak krepost jakosti čini da razum ne bude progutan tjelesnim bolima. Duševnu pak žalost nadvladava naslada kreposti, ukoliko čovjek pretpostavlja dobro kreposti tjelesnom životu i svemu što mu pripada. I zato Filozof kaže u III. knjizi Etike da se od jakoga ne zahtijeva da se naslađuje, kao da nasladu osjeća, nego je dovoljno da se ne žalosti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da žestina čina ili strasti jedne moći sprječava drugu moć u njezinu činu. I zato bol osjetila sprječava duh jakoga da u vlastitom djelovanju osjeti nasladu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a8.ad2": {
+      "text": "Na drugo treba reći da su djela kreposti ugodna ponajprije zbog svrhe, ali po svojoj naravi mogu biti žalosna. To se osobito događa u jakosti. Zato Filozof kaže u III. knjizi Etike da *ne postoji u svim krepostima ugodno djelovanje, osim ukoliko se dosiže svrha*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a8.ad3": {
+      "text": "Na treće treba reći da duševnu žalost u jakome pobjeđuje naslada kreposti. Ali budući da je tjelesna bol osjetnija, a osjetilno je zahvaćanje čovjeku očitije, odatle dolazi da od veličine tjelesne boli kao da iščezava duhovna naslada, koja je zbog svrhe kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da se jakost ne sastoji ponajviše u iznenadnim stvarima. Čini se, naime, da je u iznenadnim stvarima ono što dolazi nenadano. Ali Tulije u svojoj Retorici kaže da je *jakost promišljeno preuzimanje pogibelji i podnošenje napora*. Dakle, jakost se ne sastoji ponajviše u iznenadnim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a9.obj2": {
+      "text": "Osim toga, Ambrozije kaže u I. knjizi O dužnostima: *Jakoga je muža ne prikrivati kad nešto prijeti, nego to unaprijed predočiti, i kao s neke promatračnice duha predusretati buduće stvari providnom mišlju, da poslije možda ne bi rekao: Zato sam u to upao jer nisam mislio da se može dogoditi*. Ali gdje je nešto iznenadno, ondje se ne može unaprijed predvidjeti ono buduće. Dakle, djelovanje se jakosti ne odnosi na iznenadne stvari.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a9.obj3": {
+      "text": "Osim toga, Filozof kaže u III. knjizi Etike da je jak čovjek pun dobre nade. Ali nada očekuje nešto u budućnosti, što se protivi iznenadnome. Dakle, djelovanje se jakosti ne sastoji u iznenadnim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a9.sc": {
+      "text": "Ali protiv toga stoji to što Filozof kaže u III. knjizi Etike da se *jakost ponajviše odnosi na sve što nanosi smrt kad je iznenadno*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a9.resp": {
+      "text": "Odgovaram: treba reći da u djelovanju jakosti treba razmotriti dvoje. Jedno, s obzirom na izbor samoga djelovanja. I tako se jakost ne odnosi na iznenadne stvari. Jak čovjek, naime, izabire unaprijed promisliti o pogibeljima koje mogu zaprijetiti, da bi im se mogao oduprijeti ili ih lakše podnijeti; jer, kako kaže Grgur u jednoj homiliji, *strijele koje se predviđaju manje ranjavaju, i mi lakše podnosimo zla svijeta ako se protiv njih unaprijed zaštitimo štitom predznanja*. Drugo pak u djelovanju jakosti treba razmotriti s obzirom na očitovanje krepostnoga habitusa. I tako se jakost ponajviše odnosi na iznenadne stvari, jer se, prema Filozofu u III. knjizi Etike, habitus jakosti ponajviše očituje u iznenadnim pogibeljima. Habitus, naime, djeluje na način naravi. Stoga to što netko bez prethodnoga promišljanja čini ono što je od kreposti, kad zbog iznenadnih pogibelji prijeti nužda, ponajviše očituje da je jakost kao habitus učvršćena u duši. Može pak i netko tko nema habitus jakosti dugotrajnim prethodnim promišljanjem pripremiti svoj duh protiv pogibelji. Tom se pripravom služi i jak čovjek kad dođe vrijeme.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a9.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da se jak čovjek ne služi srdžbom u svojem činu. Nitko, naime, ne smije kao oruđe svojega djelovanja uzimati ono čime se ne može služiti po svojoj volji. Ali čovjek se ne može služiti srdžbom po svojoj volji, tako da je može uzeti kad hoće i odložiti kad hoće; jer, kako kaže Filozof u knjizi O pamćenju, kad se tjelesna strast pokrene, ne smiruje se odmah kako čovjek hoće. Dakle, jak čovjek ne smije uzimati srdžbu za svoje djelovanje.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a10.obj2": {
+      "text": "Osim toga, onaj koji je sam po sebi dovoljan da nešto učini ne smije sebi u pomoć uzimati ono što je slabije i nesavršenije. Ali razum je sam po sebi dovoljan za izvršenje djela jakosti, u kojem srditost zakazuje. Zato Seneka kaže u knjizi O srdžbi: *Razum je sam po sebi dovoljan ne samo za predviđanje nego i za obavljanje stvari. I što je luđe nego da on od srditosti traži zaštitu, postojano od nesigurnoga, vjerno od nevjernoga, zdravo od bolesnoga?* Dakle, jakost ne smije uzimati srdžbu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a10.obj3": {
+      "text": "Osim toga, kao što neki zbog srdžbe žešće izvršavaju djela jakosti, tako i zbog žalosti ili požude; zato Filozof kaže u III. knjizi Etike da *se zvijeri zbog žalosti ili boli potiču na pogibelji, a preljubnici zbog požude čine mnogo toga sa smjelošću*. Ali jakost za svoj čin ne uzima ni žalost ni požudu. Dakle, iz istoga razloga ne smije uzimati ni srdžbu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a10.sc": {
+      "text": "Ali protiv toga stoji to što Filozof kaže u III. knjizi Etike da *bijes surađuje s jakima*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a10.resp": {
+      "text": "Odgovaram: treba reći da su, kao što je gore rečeno, o srdžbi i ostalim strastima duše drukčije govorili peripatetici, a drukčije stoici. Stoici su, naime, i srdžbu i sve druge strasti duše isključivali iz duha mudraca ili krepostnoga čovjeka. Peripatetici pak, kojih je prvak bio Aristotel, pripisivali su srdžbu i druge strasti duše krepostnima, ali umjerene razumom. I možda se nisu razlikovali u samoj stvari, nego samo u načinu govora. Jer peripatetici su sve pokrete osjetilne težnje, kakvi god bili, nazivali strastima duše, kao što je gore utvrđeno; i budući da se osjetilna težnja pokreće zapovijedanjem razuma zato da pomogne spremnijem djelovanju, stoga su smatrali da krepostni trebaju uzimati i srdžbu i druge strasti duše, umjerene prema zapovijedanju razuma. Stoici su pak strastima duše nazivali neka neumjerena čuvstva osjetilne težnje (zato su ih nazivali bolestima ili oboljenjima), i zato su ih posve odvajali od kreposti. Tako, dakle, jak čovjek za svoj čin uzima umjerenu srdžbu, ali ne neumjerenu srdžbu.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da je srdžba umjerena prema razumu podložna zapovijedanju razuma. Stoga slijedi da se čovjek njome služi po svojoj volji, ali ne kad bi bila neumjerena.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a10.ad2": {
+      "text": "Na drugo treba reći da razum ne uzima srdžbu za svoj čin kao da od nje prima pomoć, nego zato što se služi osjetilnom težnjom kao oruđem, kao i udovima tijela. Nije pak neprikladno da oruđe bude nesavršenije od glavnoga djelatnika, kao čekić od kovača. A Seneka je bio sljedbenik stoika i navedene riječi iznosi izravno protiv Aristotela.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a10.ad3": {
+      "text": "Na treće treba reći da, budući da jakost, kao što je rečeno, ima dva čina, naime podnositi i napadati, ona ne uzima srdžbu za čin podnošenja, jer taj čin sam razum vrši po sebi, nego za čin napadanja. Za njega uzima srdžbu više nego druge strasti, jer srdžbi pripada skočiti na ono što žalosti, i tako ona izravno surađuje s jakošću u napadanju. Žalost pak, po svojem vlastitom pojmu, podliježe onome što šteti, ali akcidentalno pomaže u napadanju: ili ukoliko je žalost uzrok srdžbe, kao što je gore rečeno, ili ukoliko se netko izlaže pogibelji da bi izbjegao žalost. Slično i požuda, po svojem vlastitom pojmu, teži prema ugodnom dobru, kojemu se po sebi protivi napadanje pogibelji; ali akcidentalno katkad pomaže u napadanju, naime ukoliko netko radije hoće upasti u pogibelji nego ostati bez onoga što je ugodno. I zato Filozof kaže u III. knjizi Etike da se među jakostima koje potječu od strasti najnaravnijom čini ona koja je po srdžbi, a kad primi izbor i ono radi čega (to jest dužnu svrhu), ona je jakost (to jest prava jakost).",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:03+00:00"
+    },
+    "II-II.q123.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da jakost nije stožerna krepost. Srdžba, naime, kao što je rečeno, ima najveću srodnost s jakošću. Ali srdžba se ne ubraja u glavne strasti, a ni smjelost, koja pripada jakosti. Dakle, ni jakost se ne smije ubrajati u stožerne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a11.obj2": {
+      "text": "Osim toga, krepost je usmjerena prema dobru. Ali jakost nije izravno usmjerena prema dobru, nego više prema zlu, naime prema podnošenju pogibelji i napora, kako kaže Tulije. Dakle, jakost nije stožerna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a11.obj3": {
+      "text": "Osim toga, stožerna se krepost odnosi na ono oko čega se ponajviše okreće ljudski život, kao što se vrata okreću na stožeru. Ali jakost se odnosi na pogibelji smrti, koje se rijetko pojavljuju u ljudskom životu. Dakle, jakost se ne smije ubrajati u stožerne ili glavne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a11.sc": {
+      "text": "Ali protiv toga stoji to što Grgur u XXII. knjizi Moralija, Ambrozije u tumačenju Luke i Augustin u knjizi O običajima Crkve ubrajaju jakost među četiri stožerne ili glavne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a11.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je gore rečeno, stožernim ili glavnim krepostima nazivaju one koje ponajviše sebi prisvajaju ono što zajednički pripada krepostima. Među drugim pak zajedničkim uvjetima kreposti jedan je čvrsto djelovati, kao što je jasno iz II. knjige Etike. A hvalu za čvrstoću ponajviše sebi prisvaja jakost. Toliko se, naime, više hvali onaj koji čvrsto stoji koliko teže ono što ga tjera da padne ili da uzmakne. A čovjeka tjeraju da se udalji od onoga što je u skladu s razumom i ugodno dobro i zlo koje muči; ali tjelesna bol tjera jače nego užitak. Augustin, naime, kaže u knjizi Osamdeset i tri pitanja: *Nema nikoga tko ne bi više bježao od boli nego što teži za užitkom, budući da vidimo kako i najdivljije zvijeri strah od boli odvraća od najvećih užitaka*. A među duševnim bolima i pogibeljima najviše se boji onoga što vodi u smrt, protiv čega jak čovjek čvrsto stoji. Stoga je jakost stožerna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da smjelost i srdžba ne surađuju s jakošću u onom njezinu činu koji je podnositi, u kojem se osobito hvali njezina čvrstoća. Tim činom, naime, jak čovjek obuzdava strah, koji je glavna strast, kao što je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a11.ad2": {
+      "text": "Na drugo treba reći da je krepost usmjerena prema dobru razuma, koje treba očuvati protiv navala zala. A jakost je usmjerena prema tjelesnim zlima kao prema protivnostima kojima se odupire, a prema dobru razuma kao prema svrsi koju smjera očuvati.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a11.ad3": {
+      "text": "Na treće treba reći da, iako pogibelji smrti rijetko prijete, ipak se prigode za te pogibelji često pojavljuju, naime kad se protiv čovjeka dižu smrtni neprijatelji zbog pravednosti koju slijedi i zbog drugih dobara koja čini.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da se jakost ističe među svim krepostima. Ambrozije, naime, kaže u I. knjizi O dužnostima: *Jakost je kao uzvišenija od ostalih*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.obj2": {
+      "text": "Osim toga, krepost se odnosi na ono što je teško i dobro. Ali jakost se odnosi na ono što je najteže. Dakle, ona je najveća od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.obj3": {
+      "text": "Osim toga, čovjekova je osoba dostojnija od njegovih stvari. Ali jakost se odnosi na čovjekovu osobu, koju netko izlaže pogibelji smrti radi dobra kreposti, dok se pravednost i druge moralne kreposti odnose na druge, vanjske stvari. Dakle, jakost je glavna među moralnim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.sc1": {
+      "text": "Ali protiv toga stoji to što Tulije kaže u I. knjizi O dužnostima: *U pravednosti je sjaj kreposti najveći; po njoj se ljudi nazivaju dobrima*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.sc2": {
+      "text": "Osim toga, Filozof kaže u I. knjizi Retorike: *Nužno je da su najveće one kreposti koje su drugima najkorisnije*. Ali čini se da je darežljivost korisnija od jakosti. Dakle, ona je veća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.resp": {
+      "text": "Odgovaram: treba reći da je, kao što kaže Augustin u VI. knjizi O Trojstvu, *u onome što nije veliko po masi isto biti veće što i bolje*. Stoga je neka krepost toliko veća koliko je bolja. A dobro je razuma dobro čovjeka, prema Dionizijevu IV. poglavlju O božanskim imenima. To dobro pak bitno ima razboritost, koja je savršenost razuma. Pravednost je pak tvorac toga dobra, naime ukoliko joj pripada uspostaviti red razuma u svim ljudskim stvarima. Druge su pak kreposti čuvarice toga dobra, naime ukoliko umjeravaju strasti, da ne bi odvukle čovjeka od dobra razuma. A u njihovu redu jakost zauzima glavno mjesto, jer je strah od pogibelji smrti ponajviše djelotvoran u tome da čovjeka natjera da odstupi od dobra razuma. Iza nje dolazi umjerenost, jer i naslade dodira ponajviše među ostalim stvarima sprječavaju dobro razuma. A ono što se kaže bitno vrjednije je od onoga što se kaže tvorno, a ovo je opet vrjednije od onoga što se kaže čuvarski, po uklanjanju zapreke. Stoga je među stožernim krepostima razboritost najvrjednija; druga je pravednost; treća jakost; četvrta umjerenost. A poslije njih ostale kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da Ambrozije pretpostavlja jakost drugim krepostima po nekoj općoj korisnosti, naime ukoliko je korisna i u ratnim stvarima i u građanskim ili kućnim stvarima. Zato on ondje najprije kaže: *Sada raspravimo o jakosti, koja se, kao uzvišenija od ostalih, dijeli na ratne i kućne stvari*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.ad2": {
+      "text": "Na drugo treba reći da se pojam kreposti više sastoji u dobru nego u teškome. Stoga veličinu kreposti više treba mjeriti po pojmu dobra nego po pojmu teškoga.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.ad3": {
+      "text": "Na treće treba reći da čovjek ne izlaže svoju osobu pogibeljima smrti osim radi očuvanja pravednosti. I zato hvala jakosti na neki način ovisi o pravednosti. Zato Ambrozije kaže u I. knjizi O dužnostima da je *jakost bez pravednosti građa bezakonja; jer što je snažnija, to je spremnija da tlači slabijega*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.ad4": {
+      "text": "Četvrto prihvaćamo.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q123.a12.ad5": {
+      "text": "Na peto treba reći da je darežljivost korisna u nekim pojedinačnim dobročinstvima. Ali jakost ima opću korisnost za očuvanje cijeloga reda pravednosti. I zato Filozof kaže u I. knjizi Retorike da se *pravedni i jaki najviše ljube, jer su najkorisniji i u ratu i u miru*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 125,
+  "units": {
+    "II-II.q125.pr": {
+      "text": "Zatim treba razmotriti poroke suprotstavljene jakosti. I to, prvo, strah; drugo, bezbojaznost; treće, smjelost. O prvome se pitaju četiri stvari. Prvo, je li strah grijeh. Drugo, suprotstavlja li se jakosti. Treće, je li smrtni grijeh. Četvrto, ispričava li grijeh ili ga umanjuje.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da strah nije grijeh. Strah je, naime, neka strast, kao što je gore utvrđeno. Ali zbog strasti nas niti hvale niti kude, kako se kaže u II. knjizi Etike. Budući, dakle, da je svaki grijeh vrijedan pokude, čini se da strah nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a1.obj2": {
+      "text": "Osim toga, ništa što se zapovijeda u božanskom zakonu nije grijeh, jer je zakon Gospodnji neokaljan, kako se kaže u Psalmu. Ali strah se zapovijeda u Božjem zakonu; kaže se, naime, Ef 6: *Sluge, slušajte tjelesne gospodare sa strahom i drhtanjem*. Dakle, strah nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a1.obj3": {
+      "text": "Osim toga, ništa što je čovjeku naravno svojstveno nije grijeh, jer je grijeh protiv naravi, kako kaže Damaščanin u II. knjizi. Ali bojati se čovjeku je naravno; stoga Filozof u III. knjizi Etike kaže da *bi netko bio bezuman ili bez osjećaja boli kad se ne bi ničega bojao, ni potresa ni poplava*. Dakle, strah nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a1.sc": {
+      "text": "Ali protiv toga jest ono što Gospodin kaže, Mt 10: *Ne bojte se onih koji ubijaju tijelo*. I Ez 2 kaže se: *Ne boj ih se i ne strahuj od njihovih riječi*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a1.resp": {
+      "text": "Odgovaram: treba reći da se nešto u ljudskim činima naziva grijehom zbog neurednosti, jer se dobro ljudskog čina sastoji u nekom redu, kao što je očito iz gore rečenoga. A dužni je red ovaj: da težnja bude podložna upravljanju razuma. A razum određuje da neke stvari treba izbjegavati, a za nekima treba ići; i među onim što treba izbjegavati određuje da neke treba izbjegavati više nego druge; i slično, među onim za čime treba ići određuje da za nekima treba ići više nego za drugima; i koliko je dobro za kojim treba ići, toliko treba izbjegavati neko suprotno zlo. Odatle je da razum određuje da za nekim dobrima treba ići više nego što treba izbjegavati neka zla. Kad, dakle, težnja bježi od onoga što razum određuje da treba podnijeti kako se ne bi odustalo od drugoga za čime više treba ići, strah je neuredan i ima pojam grijeha. A kad težnja, bojeći se, uzmiče od onoga što prema razumu treba izbjegavati, tada težnja nije neuredna, niti je to grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da strah općenito uzet po svome pojmu općenito uključuje bijeg; stoga s obzirom na to ne uključuje pojam dobra ili zla. I slično je s bilo kojom drugom strašću. I zato Filozof kaže da strasti nisu ni hvalevrijedne ni vrijedne pokude, jer se naime ne hvale niti kude oni koji se srde ili boje, nego oni koji se s obzirom na to vladaju bilo uredno bilo neuredno.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a1.ad2": {
+      "text": "Na drugo treba reći da je onaj strah na koji potiče Apostol primjeren razumu, naime da se sluga boji da ne zakaže u službama koje treba iskazivati gospodaru.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a1.ad3": {
+      "text": "Na treće treba reći da razum određuje da treba izbjegavati zla kojima se čovjek ne može oduprijeti i iz čijeg podnošenja čovjeku ne proizlazi ništa dobro. I zato strah od takvih stvari nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se grijeh straha ne suprotstavlja jakosti. Jakost se, naime, tiče pogibelji smrti, kao što je gore utvrđeno. Ali grijeh straha ne odnosi se uvijek na pogibelji smrti. Jer na ono iz Psalma: Blaženi svi koji se boje Gospodina, Glosa kaže da je *ljudski strah onaj kojim se bojimo pretrpjeti pogibelji za tijelo ili izgubiti dobra svijeta*. I na ono Mt 26: Pomoli se treći put istim riječima itd., Glosa kaže da je zli strah trostruk, naime strah od smrti, strah od poniženosti i strah od boli. Dakle, grijeh straha ne suprotstavlja se jakosti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a2.obj2": {
+      "text": "Osim toga, ono što se kod jakosti ponajviše hvali jest to da se izlaže pogibeljima smrti. Ali katkad se netko izlaže smrti iz straha od ropstva ili sramote, kao što Augustin u I. knjizi O Božjem gradu pripovijeda o Katonu, koji se predao smrti da ne bi zapao u Cezarovo ropstvo. Dakle, grijeh straha ne suprotstavlja se jakosti, nego joj je prije sličan.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a2.obj3": {
+      "text": "Osim toga, svaki očaj proizlazi iz nekog straha. Ali očaj se ne suprotstavlja jakosti, nego prije nadi, kao što je gore utvrđeno. Dakle, ni grijeh straha ne suprotstavlja se jakosti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a2.sc": {
+      "text": "Ali protiv toga jest to što Filozof u II. i III. knjizi Etike postavlja plašljivost kao suprotstavljenu jakosti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore utvrđeno, svaki strah proizlazi iz ljubavi, jer se nitko ne boji osim onoga što je protivno onome što ljubi. A ljubav nije ograničena na neki rod kreposti ili poroka, nego je uredna ljubav uključena u svakoj kreposti, jer svaki krepostan čovjek ljubi vlastito dobro kreposti; a neuredna je ljubav uključena u svakom grijehu, jer iz neuredne ljubavi proizlazi neuredna žudnja. Stoga je slično i neuredni strah uključen u svakom grijehu: tako se škrtac boji gubitka novca, neumjeren čovjek gubitka užitka, i tako dalje. Ali najglavniji je strah od pogibelji smrti, kako se dokazuje u III. knjizi Etike; i zato se neurednost takva straha suprotstavlja jakosti, koja se tiče pogibelji smrti. I zbog toga se antonomastički kaže da se plašljivost suprotstavlja jakosti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da oni navodi govore o neurednom strahu općenito uzetom, koji se može suprotstavljati različitim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a2.ad2": {
+      "text": "Na drugo treba reći da se ljudski čini ponajprije prosuđuju po svrsi, kao što je očito iz gore rečenoga. A jakome pripada da se izlaže pogibeljima smrti radi dobra; onoga pak koji se izlaže pogibeljima smrti da bi pobjegao od ropstva ili od nečega mukotrpnoga pobjeđuje strah, što je protivno jakosti. Stoga Filozof u III. knjizi Etike kaže da *umrijeti bježeći od siromaštva ili od žudnje ili od nečega žalosnoga nije svojstveno jakome, nego prije plašljivome; jer je mekoputnost bježati od mukotrpnoga*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a2.ad3": {
+      "text": "Na treće treba reći da je, kao što je gore rečeno, kao što je nada počelo smjelosti, tako strah počelo očaja. Stoga, kao što se kod jakoga, koji se smjelošću služi umjereno, pretpostavlja nada, tako, obratno, očaj proizlazi iz nekog straha. Ali ne treba da svaki očaj proizlazi iz bilo kojeg straha, nego iz onoga koji je njegova roda. A očaj koji se suprotstavlja nadi odnosi se na drugi rod, naime na božanske stvari, nego strah koji se suprotstavlja jakosti, a koji se odnosi na pogibelji smrti. Stoga zaključak ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da strah nije smrtni grijeh. Strah je, naime, kao što je gore rečeno, u srditoj moći, koja je dio osjetilnosti. Ali u osjetilnosti je samo laki grijeh, kao što je gore utvrđeno. Dakle, strah nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a3.obj2": {
+      "text": "Osim toga, svaki smrtni grijeh potpuno odvraća srce od Boga. A to ne čini strah, jer na ono Suci 7: Tko je strašljiv itd., Glosa kaže da je *plašljiv onaj koji na prvi pogled drhti pred okršajem, ali se ipak ne prestraši u srcu, nego se može oporaviti i ohrabriti*. Dakle, strah nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a3.obj3": {
+      "text": "Osim toga, smrtni grijeh ne odvraća samo od savršenosti nego i od zapovijedi. Ali strah ne odvraća od zapovijedi, nego samo od savršenosti, jer na ono Pnz 20: Tko je čovjek strašljiv i plašljiva srca itd., Glosa kaže: *Uči da nitko ne može primiti savršenost motrenja ili duhovne vojne službe tko se još boji da bude ogoljen od zemaljskih bogatstava*. Dakle, strah nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a3.sc": {
+      "text": "Ali protiv toga: samo se za smrtni grijeh duguje kazna pakla. A ona se duguje plašljivima, prema onome Otk 21: *Plašljivima i nevjernima i gnusnima itd., udio će biti u jezeru ognja i sumpora, a to je druga smrt*. Dakle, plašljivost je smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je rečeno, strah grijeh ukoliko je neuredan, naime ukoliko uzmiče od onoga od čega prema razumu ne treba uzmicati. A ta se neurednost straha katkad sastoji samo u osjetilnoj težnji, bez pridolaska pristanka razumske težnje, i tako ne može biti smrtni grijeh, nego samo laki. A katkad takva neurednost straha seže sve do razumske težnje, koja se naziva volja, a koja iz slobodnog odlučivanja uzmiče od nečega ne prema razumu. I takva je neurednost straha katkad smrtni grijeh, katkad laki. Ako je, naime, netko zbog straha kojim uzmiče od pogibelji smrti ili od bilo kojeg drugog vremenitog zla tako raspoložen da učini nešto zabranjeno ili propusti nešto što je zapovjeđeno u božanskom zakonu, takav je strah smrtni grijeh. Inače će biti laki grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj razlog polazi od straha ukoliko ostaje unutar osjetilnosti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a3.ad2": {
+      "text": "Na drugo treba reći da se i ona Glosa može shvatiti o strahu koji postoji u osjetilnosti. Ili se bolje može reći da se svim srcem prestraši onaj čiji duh strah nepopravljivo pobjeđuje. A može se dogoditi da, čak i ako je strah smrtni grijeh, netko ipak nije tako tvrdokorno prestrašen da ga se nagovaranjem ne bi moglo odvratiti; kao što se katkad netko tko smrtno griješi pristajući na požudu odvrati od toga da djelom izvrši ono što je naumio učiniti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a3.ad3": {
+      "text": "Na treće treba reći da ona Glosa govori o strahu koji odvraća čovjeka od dobra koje nije nužno po zapovijedi, nego pripada savršenosti savjeta. A takav strah nije smrtni grijeh, nego katkad laki; katkad pak nije ni grijeh, npr. kad netko ima razuman razlog za strah.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da strah ne ispričava od grijeha. Strah je, naime, grijeh, kao što je rečeno. Ali grijeh ne ispričava od grijeha, nego ga prije otežava. Dakle, strah ne ispričava od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a4.obj2": {
+      "text": "Osim toga, kad bi neki strah ispričavao od grijeha, najviše bi ispričavao strah od smrti, za koji se kaže da obuzima i postojana muža. Ali čini se da taj strah ne ispričava, jer, budući da smrt nužno prijeti svima, ne čini se da je se treba bojati. Dakle, strah ne ispričava od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a4.obj3": {
+      "text": "Osim toga, svaki je strah ili od vremenitog zla ili od duhovnoga. Ali strah od duhovnog zla ne može ispričati grijeh, jer ne navodi na griješenje, nego prije odvraća od grijeha. Ni strah od vremenitog zla ne ispričava od grijeha, jer, kako Filozof kaže u III. knjizi Etike, *ne treba se bojati siromaštva ni bolesti ni bilo čega što ne proizlazi iz vlastite zloće*. Dakle, čini se da strah nipošto ne ispričava od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a4.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Dekretima, pitanje 1: *Onaj koji je pretrpio nasilje i koga su heretici protiv njegove volje zaredili ima osnovu za ispriku*.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, strah utoliko ima pojam grijeha ukoliko je protiv reda razuma. A razum prosuđuje da neka zla treba izbjegavati više nego druga. I zato, kad netko, da bi izbjegao zla koja prema razumu treba više izbjegavati, ne uzmiče od zala koja treba manje izbjegavati, to nije grijeh. Tako tjelesnu smrt treba izbjegavati više nego gubitak stvari; stoga, ako bi netko zbog straha od smrti razbojnicima nešto obećao ili dao, bio bi ispričan od grijeha u koji bi zapao kad bi bez zakonitog razloga, mimoišavši dobre, kojima bi prije trebalo davati, darivao grešnike. A ako bi netko, bježeći iz straha od zala koja prema razumu treba manje izbjegavati, zapao u zla koja prema razumu treba više izbjegavati, ne bi mogao biti potpuno ispričan od grijeha, jer bi takav strah bio neuredan. A zala duše treba se bojati više nego zala tijela, a zala tijela više nego zala vanjskih stvari. I zato, ako netko zapadne u zla duše, to jest u grijehe, bježeći od zala tijela, npr. od bičevanja ili smrti, ili od zala vanjskih stvari, npr. od novčane štete; ili ako podnese zla tijela da bi izbjegao novčanu štetu, nije potpuno ispričan od grijeha. Ipak se njegov grijeh donekle umanjuje, jer je ono što se čini iz straha manje voljno: čovjeku se, naime, zbog straha koji ga pritišće nameće neka nužnost da nešto učini. Stoga Filozof za takve stvari koje se čine iz straha kaže da nisu naprosto voljne, nego mješovite od voljnoga i protuvoljnoga.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da strah ne ispričava s one strane s koje je grijeh, nego s one strane s koje je protuvoljan.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a4.ad2": {
+      "text": "Na drugo treba reći da, iako smrt nužno prijeti svima, ipak je samo skraćivanje vremena života neko zlo i, prema tome, treba ga se bojati.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    },
+    "II-II.q125.a4.ad3": {
+      "text": "Na treće treba reći da prema stoicima, koji su smatrali da vremenita dobra nisu čovjekova dobra, posljedično slijedi da vremenita zla nisu čovjekova zla, pa ih se, prema tome, nipošto ne treba bojati. Ali prema Augustinu, u knjizi O slobodnoj volji, takva su vremenita dobra najmanja dobra. To su smatrali i peripatetici. I zato se njihovih suprotnosti doista treba bojati, ali ne mnogo, tako da bi se zbog njih odstupilo od onoga što je dobro prema kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 19,
+      "created_at": "2026-11-12T14:08:04+00:00"
+    }
+  }
+}
