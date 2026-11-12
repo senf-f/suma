@@ -1,0 +1,522 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 189,
+  "units": {
+    "II-II.q189.pr": {
+      "text": "Potom treba razmotriti stupanje u redovništvo. O tome se pita deset stvari. Prvo, trebaju li stupati u redovništvo oni koji nisu izvježbani u obdržavanju zapovijedi. Drugo, je li dopušteno nekoga obvezati zavjetom na stupanje u redovništvo. Treće, jesu li oni koji su zavjetom obvezani na stupanje u redovništvo dužni ispuniti zavjet. Četvrto, jesu li oni koji se zavjetuju stupiti u redovništvo dužni ondje zauvijek ostati. Peto, treba li primati djecu u redovništvo. Šesto, treba li neke zbog služenja roditeljima odvraćati od stupanja u redovništvo. Sedmo, mogu li prezbiteri župnici ili arhiđakoni prijeći u redovništvo. Osmo, može li netko prijeći iz jednoga reda u drugi. Deveto, treba li netko druge navoditi na stupanje u redovništvo. Deseto, traži li se za stupanje u redovništvo veliko promišljanje s rođacima i prijateljima.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u redovništvo ne trebaju stupati osim oni koji su izvježbani u zapovijedima. Gospodin je, naime, savjet savršenosti dao mladiću koji je rekao da je zapovijedi obdržavao od mladosti. Ali svako je redovništvo uzelo početak od Krista. Čini se, dakle, da u redovništvo ne treba primati osim one koji su izvježbani u zapovijedima.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.obj2": {
+      "text": "Osim toga, Grgur kaže O Ezekijelu: *Nitko ne postaje najviši odjednom, nego se u dobrom vladanju počinje od najmanjega da bi se došlo do velikoga*. Ali veliko su savjeti, koji pripadaju savršenosti života, a manje su zapovijedi, koje pripadaju općoj pravednosti. Čini se, dakle, da neki ne trebaju stupati u redovništvo radi obdržavanja savjeta ako prije nisu bili izvježbani u zapovijedima.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.obj3": {
+      "text": "Osim toga, kao što sveti redovi imaju neku izvrsnost u Crkvi, tako i redovnički stalež. Ali kao što Grgur piše biskupu Sijagriju, a nalazi se u Dekretima, dist. 48: *Redovima treba pristupati po redu; jer pad traži onaj koji do vrhunca najvišega mjesta, preskočivši stupnjeve, traži uspon strminama. Znamo, naime, da sagrađeni zidovi ne primaju teret greda prije nego što se osuše od vlage svoje novosti, da ne bi, ako prime teret prije nego što se učvrste, srušili cijelu zgradu*. Čini se, dakle, da neki ne trebaju prelaziti u redovništvo ako nisu izvježbani u zapovijedima.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.obj4": {
+      "text": "Osim toga, uz ono iz Psalma, Kao odbijeno dojenče na majci svojoj, Glosa kaže: *Najprije smo začeti u utrobi majke Crkve, dok se poučavamo u počecima vjere; zatim smo rođeni na svjetlo, dok se preporađamo krštenjem; zatim nas Crkva kao na rukama nosi i hrani mlijekom, kad se nakon krštenja oblikujemo dobrim djelima i hranimo mlijekom duhovnoga nauka, napredujući dok, već podrasli, od majčina mlijeka ne pristupimo očevu stolu; to jest, od jednostavnoga nauka, u kojem se propovijeda Riječ koja je postala tijelom, pristupimo Riječi Očevoj, koja je u početku kod Boga*. I potom dodaje da se *novokrštenici na Veliku subotu kao na rukama Crkve nose i hrane mlijekom sve do Pedesetnice; u to vrijeme ne nalaže im se ništa teško, ne posti se, ne ustaje se u ponoć; potom, utvrđeni Duhom Braniteljem, kao odbijeni od dojenja, počinju postiti i obdržavati druge teške stvari. A mnogi taj red izokreću, kao heretici i raskolnici, koji se prije vremena odvajaju od mlijeka, pa zato propadaju*. Ali čini se da taj red izokreću oni koji stupaju u redovništvo ili druge navode na stupanje prije nego što su izvježbani u lakšem obdržavanju zapovijedi. Čini se, dakle, da su oni heretici ili raskolnici.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.obj5": {
+      "text": "Osim toga, od prvoga treba prelaziti na kasnije. Ali zapovijedi su prije savjeta, jer su općenitije, budući da se s njima posljedica bitka ne obrće: tko god, naime, obdržava savjete, obdržava zapovijedi, ali ne obratno. A prikladan je red da se od prvoga prelazi na kasnije. Dakle, nitko ne treba prelaziti na obdržavanje savjeta u redovništvu ako prije nije izvježban u zapovijedima.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.sc": {
+      "text": "Ali protiv toga je to što je Gospodin pozvao na obdržavanje savjeta carinika Mateja, koji nije bio izvježban u obdržavanju zapovijedi; kaže se, naime, u Lk 5 da je, ostavivši sve, pošao za njim. Dakle, nije nužno da se netko izvježba u obdržavanju zapovijedi prije nego što prijeđe na savršenost savjeta.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je jasno iz gore rečenoga, redovnički stalež neka duhovna vježba za postizanje savršenosti ljubavi, a to se događa utoliko što se redovničkim obdržavanjima uklanjaju zapreke savršene ljubavi. A to su one stvari koje čovjekovo čuvstvo zapleću u zemaljsko. A time što se čovjekovo čuvstvo zapleće u zemaljsko ne samo da se priječi savršenost ljubavi, nego se katkad gubi i sama ljubav, kad se čovjek neurednim okretanjem prema vremenitim dobrima, smrtno griješeći, odvraća od nepromjenljivoga dobra. Otuda je jasno da redovnička obdržavanja, kao što uklanjaju zapreke savršene ljubavi, tako uklanjaju i prigode za grijeh; kao što je jasno da se postom, bdjenjima, poslušnošću i drugim takvim stvarima čovjek odvraća od grijeha neumjerenosti u jelu i piću i bludnosti te od bilo kojih drugih grijeha. Zato stupanje u redovništvo nije korisno samo onima koji su izvježbani u zapovijedima, da bi došli do veće savršenosti, nego i onima koji nisu izvježbani, da bi lakše izbjegavali grijehe i postigli savršenost.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Jeronim kaže O Mateju: *Slagao je mladić kad je rekao: Sve sam to obdržavao od svoje mladosti. Jer da je djelom ispunio ono što je postavljeno u zapovijedima, Ljubi bližnjega svojega kao samoga sebe, kako bi potom, čuvši: Idi, prodaj sve što imaš i podaj siromasima, otišao žalostan?* Ali treba razumjeti da je slagao glede savršenoga obdržavanja te zapovijedi. Zato Origen O Mateju kaže da *je napisano u Evanđelju po Hebrejima: kad mu je Gospodin rekao: Idi, prodaj sve što imaš, bogataš se počeo češati po glavi. I Gospodin mu reče: Kako kažeš: Ispunio sam Zakon i Proroke? U Zakonu stoji: Ljubi bližnjega svojega kao samoga sebe; a eto, mnoga tvoja braća, sinovi Abrahamovi, odjeveni su u izmet i umiru od gladi, a tvoja je kuća puna mnogih dobara i iz nje im ne izlazi baš ništa. Zato ga Gospodin, koreći ga, kaže: Ako hoćeš biti savršen, i ostalo. Nemoguće je, naime, ispuniti zapovijed koja kaže: Ljubi bližnjega svojega kao samoga sebe, i biti bogat, a pogotovo imati tolike posjede*. To treba razumjeti o savršenom ispunjenju te zapovijedi. A nesavršeno i na općenit način istina je da je obdržavao zapovijedi. Savršenost se, naime, ponajprije sastoji u obdržavanju zapovijedi ljubavi, kao što je gore utvrđeno. Da bi, dakle, Gospodin pokazao da je savršenost savjeta korisna i nevinima i grešnicima, nije pozvao samo nevinoga mladića, nego i grešnoga Mateja. Pa ipak je Matej pošao za onim koji ga je pozvao, a mladić nije, jer se grešnici lakše obraćaju na redovništvo nego oni koji se preuzetno uzdaju u svoju nevinost, kojima Gospodin kaže u Mt 21: *Carinici i bludnice idu prije vas u kraljevstvo Božje*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.ad2": {
+      "text": "Na drugo treba reći da se najviše i najniže može uzeti na tri načina. Na jedan način u istom staležu i u istom čovjeku. I tako je jasno da nitko ne postaje najviši odjednom, jer svatko tko ispravno živi napreduje kroz sve vrijeme svojega života da bi došao do najvišega. Na drugi način u usporedbi s različitim staležima. I tako nije potrebno da onaj tko želi doći do višega staleža počne od nižega; kao što nije potrebno da se onaj tko želi biti klerik prije vježba u laičkom životu. Na treći način s obzirom na različite osobe. I tako je jasno da jedan odmah počinje ne samo od višega staleža nego i od višega stupnja svetosti nego što je najviše do čega drugi dolazi kroz cijeli svoj život. Zato Grgur kaže u 2. knjizi Dijaloga: *Neka svi spoznaju od kolike je savršenosti dječak Benedikt započeo milost redovničkoga života*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.ad3": {
+      "text": "Na treće treba reći da, kao što je gore rečeno, sveti redovi unaprijed zahtijevaju svetost, a redovnički je stalež neka vježba za postizanje svetosti. Zato teret redova treba staviti na zidove već osušene svetošću, a teret redovništva suši zidove, to jest ljude, od vlage poroka.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.ad4": {
+      "text": "Na četvrto treba reći da, kao što se jasno vidi iz riječi one Glose, ona ponajprije govori o redu nauka, ukoliko treba prelaziti od lakšega na teže. Zato iz onoga što slijedi postaje jasno da ono što kaže, da heretici i raskolnici izokreću taj red, pripada redu nauka. Slijedi, naime: Ovaj pak kaže da je obdržao, to jest spomenuti red, *vežući se kletvom ovako, kao da kaže: Ne samo da sam bio ponizan u drugim stvarima, nego i u znanju. Jer sam ponizno mislio, najprije hranjen mlijekom, to jest Riječju koja je postala tijelom, da tako uzrastem do kruha anđeoskoga, to jest do Riječi koja je u početku kod Boga*. A primjer koji je umetnut u sredinu, da se novokrštenima ne nalaže post do Pedesetnice, pokazuje da ih ne treba nužno siliti na teške stvari prije nego što ih Duh Sveti iznutra potakne da teške stvari prihvate vlastitom voljom. Zato i Crkva svetkuje post nakon Pedesetnice, nakon primanja Duha Svetoga. A Duh Sveti, kako kaže Ambrozije O Luki, *dob ga ne zadržava, smrt ga ne dokončava, utroba ga ne isključuje*. I Grgur u homiliji na Pedesetnicu kaže: *Ispunja dječaka citraša i čini ga psalmistom; ispunja dječaka koji se uzdržava i čini ga sucem staraca*. I potom dodaje: *Ne treba nikakvo vrijeme za učenje; čim dotakne duh, poučava sve što hoće*. I kao što se kaže u Prop 8: *Nije u čovjekovoj vlasti zaustaviti duh*. I Apostol u 1 Sol 5 opominje: Ne gasite duha. I u Dj 7 kaže se protiv nekih: *Vi se uvijek opirete Duhu Svetomu*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a1.ad5": {
+      "text": "Na peto treba reći da su neke od zapovijedi glavne, koje su svrha i zapovijedi i savjeta, naime zapovijedi ljubavi. Prema njima su savjeti usmjereni, ne tako da se bez savjeta ne bi mogle obdržavati, nego da se po savjetima savršenije obdržavaju. Druge su pak drugotne zapovijedi, koje su usmjerene prema zapovijedima ljubavi kao one bez kojih se zapovijedi ljubavi nikako ne mogu obdržavati. Tako, dakle, savršeno obdržavanje zapovijedi ljubavi prethodi savjetima po nakani, ali katkad slijedi po vremenu. To je, naime, red svrhe s obzirom na ono što vodi k svrsi. A obdržavanje zapovijedi ljubavi na općenit način, i jednako tako druge zapovijedi, odnose se prema savjetima kao opće prema vlastitom, jer obdržavanje zapovijedi može biti bez savjeta, ali ne obratno. Tako, dakle, obdržavanje zapovijedi općenito uzeto prethodi savjetima po redu naravi, ali nije potrebno da im prethodi po vremenu; jer nešto nije prije u rodu nego što je u nekoj od vrsta. A obdržavanje zapovijedi bez savjeta odnosi se prema obdržavanju zapovijedi sa savjetima kao nesavršena vrsta prema savršenoj, kao nerazumna životinja prema razumnoj. A savršeno je po naravi prije nesavršenoga; jer narav, kako kaže Boetije, počinje od savršenoga. Ipak nije potrebno da se najprije obdržavaju zapovijedi bez savjeta, a poslije sa savjetima; kao što nije potrebno da netko najprije bude magarac, a onda čovjek, ili da najprije bude oženjen, a onda djevac. I jednako tako nije potrebno da netko najprije obdržava zapovijedi u svijetu prije nego što prijeđe u redovništvo; pogotovo zato što svjetovni život ne raspoložuje za savršenost redovništva, nego je više priječi.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se nitko ne bi trebao zavjetom obvezivati na stupanje u redovništvo. Zavjetovanjem se, naime, netko zavjetom veže uz red. Ali prije zavjetovanja daje se godina kušnje, prema pravilu blaženoga Benedikta i prema odredbi Inocenta IV., koji je također zabranio da ih se prije isteka godine kušnje zavjetovanjem veže uz red. Čini se, dakle, da se oni koji su još u svijetu još manje trebaju zavjetom obvezivati na redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a2.obj2": {
+      "text": "Osim toga, Grgur kaže u Registru, a nalazi se u Dekretima, dist. 45, da *Židove treba nagovarati da se obrate ne silom, nego slobodnom voljom*. Ali ispuniti ono što se zavjetuje stvar je nužnosti. Dakle, nikoga ne treba obvezivati na stupanje u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a2.obj3": {
+      "text": "Osim toga, nitko ne smije drugomu davati povod padu; zato se u Izl 21 kaže: *Ako tko otvori bunar, pa u nj padne vol ili magarac, vlasnik bunara neka nadoknadi cijenu životinja*. Ali zbog toga što su neki zavjetom obvezani na redovništvo, neki često padaju u očaj i u razne grijehe. Čini se, dakle, da nikoga ne treba zavjetom obvezivati na stupanje u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a2.sc": {
+      "text": "Ali protiv toga je to što se u Psalmu kaže: Zavjetujte se i ispunite Gospodinu Bogu svojemu; gdje Glosa kaže da *su neki zavjeti vlastiti pojedincima, kao čistoća, djevičanstvo i slično; na zavjetovanje toga, dakle, poziva nas*. Ali Sveto pismo poziva samo na ono što je bolje. Dakle, bolje je da se netko zavjetom obveže na stupanje u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je gore rečeno kad se raspravljalo o zavjetu, jedno te isto djelo učinjeno iz zavjeta hvalevrjednije nego kad se čini bez zavjeta. Kako zato što je zavjetovati se čin bogoštovlja (religije), koje ima neku izvrsnost među krepostima, tako i zato što se zavjetom učvršćuje čovjekova volja za činjenje dobra; i kao što je grijeh teži po tome što proizlazi iz volje okorjele u zlu, tako je dobro djelo hvalevrjednije po tome što proizlazi iz volje zavjetom utvrđene u dobru. Zato je obvezati se zavjetom na stupanje u redovništvo samo po sebi hvalevrijedno.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je redovnički zavjet dvostruk. Jedan je svečani, koji čovjeka čini monahom ili bratom nekoga drugog reda, a zove se zavjetovanje. Takvomu zavjetu mora prethoditi godina kušnje, kao što dokazuje prigovor. Drugi je pak jednostavni zavjet, po kojem netko ne postaje monah ili redovnik, nego je samo obvezan na stupanje u redovništvo. I takvomu zavjetu ne mora prethoditi godina kušnje.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a2.ad2": {
+      "text": "Na drugo treba reći da se onaj Grgurov autoritet razumije o apsolutnom nasilju. A nužnost koja se traži iz obveze zavjeta nije apsolutna nužnost, nego nužnost iz svrhe, to jest zato što nakon zavjeta netko ne može postići svrhu spasenja ako ne ispuni zavjet. A takve se nužnosti ne treba kloniti; štoviše, kako kaže Augustin Armentariju i Paulini, *sretna je nužnost koja tjera na bolje*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a2.ad3": {
+      "text": "Na treće treba reći da je zavjetovati stupanje u redovništvo neko učvršćenje volje za bolje. Zato, što se tiče njega samoga, ono čovjeku ne daje povod padu, nego ga prije oduzima. A ako neki prekršitelj zavjeta teže padne, to ne umanjuje dobrotu zavjeta, kao što ne umanjuje dobrotu krštenja to što neki nakon krštenja teže griješe.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da onaj koji se zavjetom obvezao na stupanje u redovništvo nije dužan stupiti. Kaže se, naime, u Dekretima, XVII, pit. 2: *Prezbiter Konsald, nekoć pritisnut patnjom bolesti, obećao je da će postati monah; ali se nije predao ni samostanu ni opatu, niti je obećanje stavio u pismo, nego se crkvene nadarbine odrekao u ruke odvjetnika, a kad je ozdravio, odbio je postati monah*. I zatim dodaje: *Odlučujemo da spomenuti prezbiter primi nadarbinu i oltare i mirno ih zadrži*. To pak ne bi bilo kad bi bio dužan stupiti u redovništvo. Dakle, čini se da nitko nije dužan ispuniti zavjet kojim se obvezao na stupanje u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a3.obj2": {
+      "text": "Osim toga, nitko nije dužan činiti ono što nije u njegovoj vlasti. Ali to da netko stupi u redovništvo nije u njegovoj vlasti, nego se za to traži pristanak onih k kojima treba prijeći. Dakle, čini se da nitko nije dužan ispuniti zavjet kojim se obvezao na stupanje u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a3.obj3": {
+      "text": "Osim toga, manje korisnim zavjetom ne može se umanjiti korisniji zavjet. Ali ispunjenje zavjeta redovništva moglo bi spriječiti ispunjenje zavjeta križa u pomoć Svetoj zemlji, koji se čini korisnijim, jer po tom zavjetu čovjek postiže otpuštenje grijeha. Dakle, čini se da zavjet kojim se netko obvezao na stupanje u redovništvo nije nužno ispuniti.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Prop 5: *Ako si se Bogu što zavjetovao, ne oklijevaj izvršiti, jer se Bogu ne sviđa nevjerno i ludo obećanje*. A uz onu riječ Psalma: Zavjetujte se i izvršite Gospodinu Bogu svojemu, Glosa kaže: *Zavjetovati se savjetuje se volji, ali nakon obećanja zavjeta izvršenje se nužno zahtijeva*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno gore kad se raspravljalo o zavjetu, zavjet obećanje dano Bogu o onome što pripada Bogu. A kako kaže Grgur u pismu Bonifaciju: *Ako se među ljudima ugovori sklopljeni u dobroj vjeri obično ni s kojega razloga ne razvrgavaju, koliko se manje ovo obećanje što ga je čovjek sklopio s Bogom može razvrgnuti bez kazne*. Zato je čovjek nužno dužan ispuniti ono što je zavjetovao, samo ako je to nešto što pripada Bogu. A očito je da stupanje u redovništvo najviše pripada Bogu, jer se time čovjek potpuno predaje u službu Bogu, kako je jasno iz onoga što je gore rečeno. Prema tome, preostaje da je onaj koji se obvezuje na stupanje u redovništvo dužan stupiti u redovništvo prema nakani s kojom se zavjetom obvezuje: naime, ako mu je nakana obvezati se bezuvjetno, dužan je stupiti što prije može, čim prestane zakonita zapreka; ako se pak obvezuje na određeno vrijeme ili pod određenim uvjetom, dužan je stupiti u redovništvo kad to vrijeme dođe ili kad se uvjet ispuni.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da onaj prezbiter nije bio učinio svečani, nego jednostavni zavjet. Zato nije bio postao monah, tako da bi ga po pravu trebalo prisiliti da ostane u samostanu i napusti crkvu. Ipak, na sudu savjesti trebalo bi mu savjetovati da, ostavivši sve, stupi u redovništvo. Zato se u Dekretalima (O zavjetu i otkupu zavjeta, pogl. Per tuas) savjetuje biskupu iz Grenoblea, koji je nakon zavjeta redovništva preuzeo biskupsku službu, a zavjet nije ispunio, da, *ako želi izliječiti svoju savjest, odstupi od upravljanja crkvom i izvrši Svevišnjemu svoje zavjete*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a3.ad2": {
+      "text": "Na drugo treba reći da je, kako je rečeno gore kad se raspravljalo o zavjetu, onaj koji se zavjetom obvezao na stupanje u određeni red dužan učiniti koliko je do njega da bude primljen u taj red. I ako mu je nakana obvezati se naprosto na redovništvo, a ne bude primljen u jedan red, dužan je ići u drugi. Ako mu je pak nakana obvezati se posebno samo na jedan, dužan je samo prema načinu svoje obveze.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a3.ad3": {
+      "text": "Na treće treba reći da je zavjet redovništva, budući da je trajan, veći od zavjeta hodočašća u Svetu zemlju, koji je vremenit. I kako kaže Aleksandar III., a stoji u Dekretalima (O zavjetu i otkupu zavjeta): *nipošto se ne smatra krivcem za prekršeni zavjet onaj za koga se zna da vremenito služenje zamjenjuje trajnim obdržavanjem redovništva*. S razlogom se pak može reći da netko i stupanjem u redovništvo postiže otpuštenje svih grijeha. Jer ako čovjek davanjem neke milostinje može odmah dati zadovoljštinu za svoje grijehe, prema onome iz Dan 4: Otkupi svoje grijehe milostinjom, mnogo je više dovoljno kao zadovoljština za sve grijehe da se netko stupanjem u redovništvo potpuno preda u službu Bogu; to, naime, nadilazi svaku vrstu zadovoljštine, čak i javnu pokoru, kako stoji u Dekretima, XXXIII. parnica, pit. 2, pogl. Admonere, kao što i paljenica nadilazi žrtvu, kako kaže Grgur u tumačenju Ezekijela. Zato se u Životima otaca čita da oni koji stupaju u redovništvo postižu istu milost koju postižu krštenici. Ako pak time i ne bi bili odriješeni od sve podložnosti kazni, ipak je stupanje u redovništvo korisnije od hodočašća u Svetu zemlju s obzirom na napredovanje u dobru, koje ima veću težinu od odrješenja od kazne.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je onaj koji se zavjetuje da će stupiti u redovništvo dužan zauvijek ostati u redovništvu. Bolje je, naime, ne stupiti u redovništvo nego nakon stupanja izići, prema onome iz 2 Pt 2: *Bolje bi im bilo da nisu upoznali istinu nego da se, pošto su je upoznali, vrate natrag*. I u Lk 9 kaže se: *Nitko tko stavi ruku na plug i gleda natrag nije prikladan za kraljevstvo Božje*. Ali onaj koji se zavjetom obvezao na stupanje u redovništvo dužan je stupiti, kako je rečeno. Dakle, dužan je i zauvijek ostati.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a4.obj2": {
+      "text": "Osim toga, svatko treba izbjegavati ono iz čega slijedi sablazan i čime se drugima daje loš primjer. Ali time što netko nakon stupanja u redovništvo izađe i vrati se u svijet nastaje loš primjer i sablazan za druge, koji se odvraćaju od stupanja i potiču na izlazak. Dakle, čini se da je onaj koji stupa u redovništvo da bi ispunio zavjet što ga je prije učinio dužan ondje zauvijek ostati.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a4.obj3": {
+      "text": "Osim toga, zavjet redovništva smatra se trajnim zavjetom, i zato se pretpostavlja vremenitim zavjetima, kako je rečeno. To pak ne bi bilo kad bi netko, nakon što je položio zavjet redovništva, stupio s namjerom da izađe. Čini se, dakle, da je onaj koji se zavjetuje na stupanje u redovništvo dužan i zauvijek ostati u redovništvu.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a4.sc": {
+      "text": "Ali protiv toga je to što zavjet zavjetovanja, zato što obvezuje čovjeka da zauvijek ostane u redovništvu, unaprijed zahtijeva godinu kušnje, koja se ne zahtijeva unaprijed za jednostavni zavjet kojim se netko obvezuje na stupanje u redovništvo. Dakle, čini se da onaj koji se zavjetuje da će stupiti u redovništvo zbog toga nije dužan ondje zauvijek ostati.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a4.resp": {
+      "text": "Odgovaram: treba reći da obveza zavjeta proizlazi iz volje, jer zavjetovati se pripada volji, kako kaže Augustin. Obveza zavjeta seže, dakle, onoliko koliko se proteže volja i nakana onoga koji se zavjetuje. Ako, dakle, onaj koji se zavjetuje ima nakanu obvezati se ne samo na stupanje u redovništvo nego i na to da zauvijek ostane, dužan je zauvijek ostati. Ako pak ima nakanu obvezati se na stupanje u redovništvo radi okušavanja, sa slobodom da ostane ili ne ostane, očito je da nije dužan ostati. Ako je pak, zavjetujući se, mislio naprosto na stupanje u redovništvo, a nije mislio ni na slobodu izlaska ni na trajno ostajanje, čini se da je obvezan na stupanje prema obliku općega prava, a on je da se onima koji stupaju daje godina kušnje. Zato nije dužan zauvijek ostati u redovništvu.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je bolje stupiti u redovništvo s nakanom okušavanja nego uopće ne stupiti, jer se time čovjek raspolaže za trajno ostajanje. Ipak, ne smatra se da se netko vraća ili gleda natrag osim kad propušta ono na što se obvezao. Inače bi svatko tko neko vrijeme čini kakvo dobro djelo, ako ga ne bi činio uvijek, bio neprikladan za kraljevstvo Božje, a jasno je da je to lažno.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a4.ad2": {
+      "text": "Na drugo treba reći da onaj koji stupa u redovništvo, ako izađe, osobito iz kakva razumnog razloga, ne izaziva sablazan niti daje loš primjer. A ako se drugi sablazni, bit će to trpna sablazan s njegove strane, a ne djelatna sablazan sa strane onoga koji izlazi, jer je učinio ono što mu je bilo dopušteno učiniti i što je bilo probitačno zbog razumnog razloga, na primjer zbog bolesti, slabosti ili čega takva.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a4.ad3": {
+      "text": "Na treće treba reći da se ne čini da onaj koji stupa da bi odmah izašao udovoljava svojemu zavjetu, jer mu to nije bila nakana kad se zavjetovao. Zato je dužan promijeniti svoju namjeru, tako da barem hoće okušati je li mu probitačno ostati u redovništvu. Ali nije dužan zauvijek ostati.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da djecu ne treba primati u redovništvo. Jer u Dekretalima (O redovnicima i onima koji prelaze u redovništvo) kaže se: *Neka se nitko ne postriže osim u zakonitoj dobi i svojom slobodnom voljom*. Ali čini se da djeca nemaju ni zakonitu dob ni slobodnu volju, jer nemaju savršenu uporabu razuma. Dakle, čini se da ih ne treba primati u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a5.obj2": {
+      "text": "Osim toga, čini se da je stalež redovništva stalež pokore; zato se i religio (redovništvo) naziva od religare (ponovno vezati) ili od reeligere (ponovno izabrati), kako kaže Augustin u X. knjizi O Božjem gradu. Ali djeci ne pristaje pokora. Dakle, čini se da ne bi smjela stupati u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a5.obj3": {
+      "text": "Osim toga, kao što se netko obvezuje prisegom, tako se obvezuje i zavjetom. Ali djecu prije četrnaeste godine ne treba obvezivati prisegom, kako stoji u Dekretima, XXII. parnica, pit. 5, pogl. Pueri i pogl. Honestum. Dakle, čini se da ih ne treba obvezivati ni zavjetom.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a5.obj4": {
+      "text": "Osim toga, čini se nedopuštenim obvezati nekoga takvom obvezom koja bi se s pravom mogla poništiti. Ali ako se neki nedorasli obvežu na redovništvo, roditelji ili skrbnici mogu ih povući natrag; kaže se, naime, u Dekretima, XX. parnica, pit. 2, da *ako djevojčica prije dvanaeste godine života svojevoljno uzme sveti veo, njezini roditelji ili skrbnici mogu taj čin odmah poništiti, ako hoće*. Nedopušteno je, dakle, djecu, osobito prije godina spolne zrelosti, primati u redovništvo ili obvezivati na nj.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a5.sc": {
+      "text": "Ali protiv toga je ono što Gospodin kaže u Mt 19: *Pustite dječicu i ne priječite im da dolaze k meni*. Tumačeći to, Origen u tumačenju Mateja kaže: *Isusovi učenici, prije nego što nauče pojam pravednosti, koriju one koji Kristu prinose djecu i dojenčad; ali Gospodin potiče svoje učenike da se spuste do onoga što je djeci na korist. Na to, dakle, moramo paziti da, smatrajući se odličnijima u mudrosti, ne prezremo, kao veliki, malene u Crkvi priječeći djeci da dolaze k Isusu*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a5.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, zavjet redovništva dvostruk. Jedan je jednostavni, koji se sastoji samo u obećanju danom Bogu, a ono proizlazi iz unutarnjeg promišljanja duha. I taj zavjet ima djelotvornost iz božanskoga prava. Ta se djelotvornost ipak može ukloniti na dva načina. Na jedan način, zbog nedostatka promišljanja, kao što je jasno kod umobolnih, čiji zavjeti ne obvezuju, kako stoji u Dekretalima (O redovnicima i onima koji prelaze u redovništvo, pogl. Sicut tenor). A isti je razlog i kod djece koja još nemaju dužnu uporabu razuma, po kojoj su sposobna za podvalu; tu uporabu dječaci obično imaju oko četrnaeste godine, a djevojčice oko dvanaeste, i te se godine nazivaju godinama spolne zrelosti. Kod nekih ona ipak dolazi ranije, a kod nekih kasnije, prema različitoj raspoloživosti naravi. Na drugi način priječi se djelotvornost jednostavnog zavjeta ako se netko Bogu zavjetuje na ono što nije u njegovoj vlasti; na primjer, ako se rob, čak i ako ima uporabu razuma, zavjetuje da će stupiti u redovništvo ili se čak dade zarediti bez znanja svojega gospodara; gospodar to, naime, može opozvati, kako stoji u Dekretima, dist. 54, pogl. Si servus. A budući da su dječak ili djevojčica, prije godina spolne zrelosti, po naravi u vlasti oca s obzirom na raspored svojega života, otac će moći njihov zavjet opozvati ili prihvatiti, kako mu se svidi, kao što se izričito kaže o ženi u Br 30. Ako, dakle, dijete prije godina spolne zrelosti položi jednostavni zavjet prije nego što ima punu uporabu razuma, ne obvezuje se zavjetom. Ako pak ima uporabu razuma prije godina spolne zrelosti, obvezuje se doduše svojim zavjetom koliko je do njega, ali obvezu može ukloniti autoritet oca, u čijoj je vlasti još uvijek; jer odredba zakona, po kojoj je jedan čovjek podložen drugomu, gleda na ono što se događa u većini slučajeva. Ako je pak prešlo godine spolne zrelosti, zavjet ne može opozvati autoritet roditelja; ako ipak još ne bi imalo punu uporabu razuma, ne bi bilo obvezano pred Bogom. Drugi je pak zavjet svečani, koji čini monahom ili redovnikom. On je podložen odredbi Crkve zbog svečanosti koja je s njim povezana. A budući da Crkva gleda na ono što biva u većini slučajeva, zavjetovanje učinjeno prije vremena spolne zrelosti, ma koliko netko imao punu uporabu razuma, tako da je sposoban za podvalu, nema svojega učinka, to jest da onoga koji se zavjetuje već učini redovnikom. Pa ipak, premda se prije godina spolne zrelosti ne mogu zavjetovati, mogu se ipak, uz volju roditelja, primiti u redovništvo da se ondje odgajaju, kao što se o Ivanu Krstitelju čita u Lk 1: *Dijete je raslo i jačalo duhom, i bilo je u pustinjama*. Zato, kako kaže Grgur u II. knjizi Dijaloga, *rimski plemići počeli su blaženomu Benediktu davati svoje sinove da ih odgaja za svemogućega Boga*. To je vrlo probitačno, prema onome iz Tuž 3: *Dobro je čovjeku kad je nosio jaram od svoje mladosti*. Zato se po općem običaju djeca usmjeravaju na one službe ili umijeća u kojima će provoditi život.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je zakonita dob za to da se netko postriže sa svečanim zavjetom redovništva vrijeme spolne zrelosti, u kojem se čovjek može služiti slobodnom voljom. Ali prije godina spolne zrelosti može biti zakonita dob za to da se netko postriže kako bi se odgajao u redovništvu.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a5.ad2": {
+      "text": "Na drugo treba reći da je stalež redovništva prvenstveno usmjeren na postizanje savršenosti, kako je gore utvrđeno. I prema tome pristaje djeci, koja se lako odgajaju. A posljedično se naziva staležom pokore, ukoliko se obdržavanjem redovništva uklanjaju prigode za grijehe, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a5.ad3": {
+      "text": "Na treće treba reći da se djeca, kao što se ne prisiljavaju na prisezanje, kako kaže kanon, tako se ne prisiljavaju ni na zavjetovanje. Ako se ipak zavjetom ili prisegom vežu da će nešto učiniti, obvezana su pred Bogom, ako imaju uporabu razuma, premda prije četrnaeste godine nisu obvezana pred Crkvom.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a5.ad4": {
+      "text": "Na četvrto treba reći da se u Br 30 ne kori žena koja je u djevojačkoj dobi ako se zavjetuje bez pristanka roditelja, ali roditelji mogu zavjet opozvati. Iz toga je jasno da ona zavjetujući se ne griješi, nego se smatra da se zavjetom obvezuje koliko je do nje, bez štete za očinski autoritet.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da neke zbog služenja roditeljima treba odvratiti od stupanja u redovništvo. Nije, naime, dopušteno propustiti ono što je nužno da bi se učinilo ono što je prepušteno slobodnoj volji. Ali služiti roditeljima potpada pod nužnost zapovijedi koja je dana o iskazivanju časti roditeljima u Izl 20; zato i Apostol kaže u 1 Tim 5: *Ako koja udovica ima djecu ili unuke, neka najprije nauči upravljati svojom kućom i uzvraćati roditeljima*. A stupiti u redovništvo prepušteno je slobodnoj volji. Dakle, čini se da nitko ne bi smio propustiti služenje roditeljima zbog stupanja u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a6.obj2": {
+      "text": "Osim toga, čini se da je sin više podložen roditeljima nego rob gospodaru, jer je sinovstvo naravno, a ropstvo potječe od prokletstva grijeha, kako je jasno iz Post 9. Ali rob ne može propustiti služenje svojemu gospodaru da bi stupio u redovništvo ili primio sveti red, kako stoji u Dekretima, dist. 54, Si servus. Dakle, mnogo manje sin može propustiti služenje ocu da bi stupio u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a6.obj3": {
+      "text": "Osim toga, netko je većim dugom obvezan roditeljima nego onima kojima duguje novac. Ali oni koji nekomu duguju novac ne mogu stupiti u redovništvo; Grgur, naime, kaže u Registru, a stoji i u Dekretima, dist. 53, da *ako oni koji su obvezani polagati javne račune kadgod zatraže samostan, nipošto ih ne treba primiti dok najprije ne budu oslobođeni javnih poslova*. Dakle, čini se da djeca mnogo manje mogu stupiti u redovništvo propustivši služenje ocu.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mt 4, da su Jakov i Ivan, *ostavivši mreže i oca, pošli za Gospodinom. Iz toga*, kako kaže Hilarije, *učimo da nas, kad ćemo slijediti Krista, ne smiju sputavati ni briga za svjetovni život ni navika očinske kuće*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a6.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno gore kad se raspravljalo o pijetetu, roditelji imaju značaj počela kao takvi, i zato im po sebi pristaje da se brinu za djecu. I stoga ne bi bilo dopušteno nekomu tko ima djecu stupiti u redovništvo posve zanemarivši brigu za djecu, to jest ne pobrinuvši se kako bi se ona mogla odgojiti; kaže se, naime, u 1 Tim 5: *Ako se tko ne brine za svoje, zatajio je vjeru i gori je od nevjernika*. Akcidentalno pak roditeljima pristaje da im djeca pomažu, ukoliko su, naime, u kakvoj nevolji. I zato treba reći da, kad su roditelji u takvoj nevolji da im se na prikladan način ne može pomoći drukčije nego služenjem djece, djeci nije dopušteno stupiti u redovništvo propustivši služenje roditeljima. Ako pak nisu u takvoj nevolji da bi im služenje djece bilo mnogo potrebno, djeca mogu, propustivši služenje roditeljima, stupiti u redovništvo, čak i protiv zapovijedi roditelja; jer nakon godina spolne zrelosti svaki slobodnorođeni ima slobodu u onome što pripada rasporedu njegova staleža, osobito u onome što se tiče služenja Bogu; *i više se treba pokoravati Ocu duhova, da bismo živjeli, nego roditeljima po tijelu*, kako kaže Apostol u Heb 12. Zato Gospodin, kako se čita u Mt 8 i Lk 9, kori učenika koji ga nije htio odmah slijediti zbog očeva pokopa; bilo je, naime, drugih po kojima se to djelo moglo izvršiti, kako kaže Zlatousti.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se zapovijed o iskazivanju časti roditeljima ne proteže samo na tjelesno služenje nego i na duhovno, i na iskazivanje poštovanja. I zato i oni koji su u redovništvu mogu ispuniti zapovijed o iskazivanju časti roditeljima moleći za njih i iskazujući im poštovanje i pomoć, kako to dolikuje redovnicima. Jer i oni koji žive u svijetu iskazuju čast roditeljima na različite načine, prema njihovu stanju.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a6.ad2": {
+      "text": "Na drugo treba reći da je ropstvo uvedeno kao kazna za grijeh, i zato se ropstvom čovjeku oduzima nešto što bi mu inače pripadalo, naime da može slobodno raspolagati svojom osobom; rob, naime, ono što jest, pripada gospodaru. Ali sin ne trpi štetu time što je podložen ocu, tako da ne bi mogao slobodno raspolagati svojom osobom predajući se u službu Bogu, što najviše pripada čovjekovu dobru.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a6.ad3": {
+      "text": "Na treće treba reći da onaj koji je obvezan na nešto određeno ne može to dopušteno propustiti dok za to ima mogućnosti. I zato, ako je netko obvezan nekomu položiti račun ili vratiti određeni dug, ne može to dopušteno propustiti da bi stupio u redovništvo. Ako ipak duguje neki novac, a nema čime vratiti, dužan je učiniti što može, naime ustupiti svoja dobra vjerovniku. Zbog novca se pak, prema građanskim zakonima, ne obvezuje osoba slobodnoga čovjeka, nego samo stvari, jer osoba slobodnoga čovjeka nadilazi svaku novčanu procjenu. Zato on, predavši svoje stvari, može dopušteno stupiti u redovništvo i nije dužan ostati u svijetu da bi pribavio čime vratiti dug. A sin nije dužan ocu nikakav posebni dug, osim možda u slučaju nevolje, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:43+00:00"
+    },
+    "II-II.q189.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da župnici prezbiteri ne mogu dopušteno stupiti u redovništvo. Grgur, naime, kaže u Pastoralnom pravilu da onaj koji preuzima brigu za duše *biva strašno opomenut kad se kaže: Sine moj, ako si jamčio za prijatelja svojega, dao si svoju ruku tuđincu*. I dodaje: *Jamčiti za prijatelja, naime, znači primiti tuđu dušu uz pogibelj vlastitoga vladanja*. Ali onaj koji je čovjeku obvezan nekim dugom ne može stupiti u redovništvo ako ne isplati ono što duguje, ako može. Budući da, dakle, svećenik može vršiti brigu za duše, na koju se obvezao uz pogibelj svoje duše, čini se da mu nije dopušteno stupiti u redovništvo zanemarivši brigu za duše.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a7.obj2": {
+      "text": "Osim toga, što je dopušteno jednomu, s jednakim je razlogom dopušteno svima sličnima. Ali kad bi svi prezbiteri koji imaju brigu za duše stupili u redovništvo, puk bi ostao bez pastirske brige, što bi bilo neprikladno. Dakle, čini se da župnici prezbiteri ne mogu dopušteno stupiti u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a7.obj3": {
+      "text": "Osim toga, među činima na koje su redovi usmjereni najodličniji su oni kojima netko predaje drugima ono što je motrio. A takvi čini pripadaju župnicima prezbiterima i arhiđakonima, kojima po službi pripada propovijedati i ispovijedati. Dakle, čini se da župniku prezbiteru ili arhiđakonu nije dopušteno prijeći u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Dekretima, XIX. parnica, pit. 2, pogl. Duae sunt leges: *Ako netko od klerika u svojoj crkvi pod biskupom vodi puk i živi svjetovno, a nadahnut Duhom Svetim htjedne se spasiti u kojem samostanu ili kod regularnih kanonika, neka slobodno ide, našim autoritetom, čak i ako mu se njegov biskup protivi*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a7.resp": {
+      "text": "Odgovaram: treba reći da se, kako je gore rečeno, obveza trajnoga zavjeta pretpostavlja svakoj drugoj obvezi. A obvezati se trajnim i svečanim zavjetom da se čovjek posveti službi Bogu pripada u vlastitom smislu biskupima i redovnicima. Župnici prezbiteri i arhiđakoni pak nisu obvezani trajnim i svečanim zavjetom da zadrže brigu za duše, kao što su na to obvezani biskupi. Zato biskupi *ne mogu ni pod kakvom izlikom napustiti predstojničku službu bez autoriteta rimskoga prvosvećenika*, kako stoji u Dekretalima (O redovnicima i onima koji prelaze u redovništvo, pogl. Licet), dok se arhiđakoni i župnici prezbiteri mogu slobodno odreći brige koja im je povjerena i vratiti je biskupu, bez posebnog dopuštenja pape, koji jedini može davati oprost od trajnih zavjeta. Zato je očito da je arhiđakonima i župnicima prezbiterima dopušteno prijeći u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da su se župnici prezbiteri i arhiđakoni obvezali brinuti se za podložnike dokle god zadržavaju arhiđakonat ili župu. Ali nisu se obvezali na to da zauvijek drže arhiđakonat ili župu.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a7.ad2": {
+      "text": "Na drugo treba reći da, kako kaže Jeronim u spisu Protiv Vigilancija, *premda od tebe trpe najljuće ugrize zmijskoga jezika, naime redovnici, protiv kojih dokazuješ i govoriš: Ako se svi zatvore i budu u samoći, tko će slaviti bogoslužje u crkvama? Tko će zadobiti svjetovne ljude? Tko će moći poticati grešnike na kreposti? Na taj bi način, ako bi svi s tobom bili glupi, tko mogao biti mudar? I djevičanstvo ne bi trebalo odobravati, jer ako svi budu djevice i ne bude ženidbe, propast će ljudski rod. Rijetka je krepost i ne teže za njom mnogi*. Jasno je, dakle, da je taj strah lud, kao kad bi se netko, na primjer, bojao zahvatiti vodu da rijeka ne bi presušila.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da nije dopušteno prijeći iz jednoga reda u drugi, čak ni u stroži. Apostol, naime, kaže u Heb 10: Ne napuštajući naše zajedničko okupljanje, kako je kod nekih običaj; a Glosa kaže: *to jest oni koji ili iz straha od progonstva uzmiču ili se iz vlastite preuzetnosti udaljuju od grešnika ili nesavršenih da bi se činili pravednima*. Ali čini se da to čine oni koji iz jednoga reda prelaze u drugi, savršeniji. Dakle, čini se da je to nedopušteno.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a8.obj2": {
+      "text": "Osim toga, zavjetovanje monaha strože je od zavjetovanja regularnih kanonika, kako stoji u Dekretalima (O staležu monaha i regularnih kanonika, pogl. Quod Dei timorem). Ali nikomu nije dopušteno prijeći iz staleža regularnih kanonika u stalež monaha; kaže se, naime, u Dekretima, XIX. parnica, pit. 3: *Nalažemo i općenito zabranjujemo da ijedan kanonik koji se zavjetovao po pravilu postane monah, osim ako, ne daj Bože, javno ne padne*. Dakle, čini se da nikomu nije dopušteno prijeći iz jednoga reda u drugi, veći.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a8.obj3": {
+      "text": "Osim toga, netko je obvezan ispuniti ono što je zavjetovao dokle god to može dopušteno ispuniti; tako je, ako se netko zavjetovao da će obdržavati uzdržljivost, dužan ispuniti zavjet čak i nakon što je sklopio ženidbu riječima o sadašnjosti, prije tjelesnoga sjedinjenja, jer to može učiniti stupanjem u redovništvo. Ako, dakle, netko može dopušteno prijeći iz jednoga reda u drugi, bit će to dužan učiniti ako se na to prije zavjetovao dok je bio u svijetu. A to se čini neprikladnim, jer bi iz toga često mogla nastati sablazan. Dakle, nijedan redovnik ne može prijeći iz jednoga reda u drugi, stroži.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Dekretima, XX. parnica, pit. 4: *Ako su se Bogu posvećene djevice, radi dobitka za svoju dušu, zbog strožega života odlučile otići u drugi samostan i ondje odlučile ostati, sinoda to dopušta*. A čini se da isti razlog vrijedi za bilo koje redovnike. Dakle, netko može dopušteno prijeći iz jednoga reda u drugi.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a8.resp": {
+      "text": "Odgovaram: treba reći da prelaziti iz reda u red, osim zbog velike koristi ili nužde, nije pohvalno. S jedne strane zato što se time često sablažnjavaju oni koje se ostavlja. S druge strane i zato što netko, uz ostale jednake okolnosti, lakše napreduje u redu na koji je navikao nego u onome na koji nije navikao. Zato u Razgovorima otaca opat Nesteros kaže: *Svakomu je korisno da, prema naumu koji je izabrao, s najvećim marom i pomnjom požuri dosegnuti savršenost započetoga djela i da nipošto ne odstupi od zavjetovanja koje je jednom izabrao*. I zatim, navodeći razlog, dodaje: *Nemoguće je, naime, da jedan te isti čovjek bude istodobno poduprt svim krepostima. Ako bi ih tko htio sve podjednako pokušati, nužno je da zapadne u to da, dok slijedi svaku, nijednu potpuno ne postigne*. Različiti se, naime, redovi ističu po različitim djelima kreposti. Ipak, netko može pohvalno prijeći iz jednoga reda u drugi iz trostrukoga razloga. Prvo, iz revnosti za savršeniji red. Ta se odličnost, kako je gore rečeno, ne promatra samo po strogosti, nego prvenstveno po onome na što je red usmjeren, a drugotno po razboritom odmjeravanju obdržavanja razmjernih dužnoj svrsi. Drugo, zbog toga što je red otpao od dužne savršenosti. Na primjer, ako u nekom višem redu redovnici počnu mlitavije živjeti, netko pohvalno prelazi čak i u manji red, ako se u njemu bolje obdržava pravilo; kao što u Razgovorima otaca opat Ivan kaže o sebi da je iz samotničkoga života, u kojem se bio zavjetovao, prešao u manji, naime u život onih koji žive u zajednici, zato što je pustinjački život počeo opadati i labavije se obdržavati. Treće, zbog bolesti ili slabosti, zbog koje se katkad događa da netko ne može obdržavati odredbe strožega reda, a mogao bi obdržavati odredbe blažega reda. Ali u ta tri slučaja postoji razlika. Jer u prvom slučaju treba doduše, zbog poniznosti, zatražiti dopuštenje, koje mu se ipak ne može uskratiti, samo ako je sigurno da je onaj red viši; *ako se pak o tome opravdano dvoji, treba u tome zatražiti sud poglavara*, kako stoji u Dekretalima (O redovnicima i onima koji prelaze u redovništvo, pogl. Licet). Slično se zahtijeva sud poglavara u drugom slučaju. A u trećem je slučaju potreban i oprost.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da oni koji prelaze u viši red to ne čine preuzetno, da bi se činili pravednima, nego predano, da bi postali pravedniji.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a8.ad2": {
+      "text": "Na drugo treba reći da su oba reda, naime red monaha i red regularnih kanonika, usmjerena na djela motrilačkoga života. Među njima su najodličnija ona koja se vrše u božanskim otajstvima, na koja je izravno usmjeren red regularnih kanonika, kojima po sebi pripada da budu redovnički klerici. Ali redovništvu monaha ne pripada po sebi da budu klerici, kako stoji u Dekretima, XVI, pit. 1. I zato, premda je red monaha strožega obdržavanja, ako bi monasi bili laici, bilo bi dopušteno prijeći iz reda monaha u red regularnih kanonika, prema onoj Jeronimovoj riječi monahu Rustiku: Tako živi u samostanu da zaslužiš biti klerik; ali ne i obratno, kako stoji u Dekretima, XIX. parnica, pit. 3, u navedenoj odredbi. Ali ako su monasi klerici koji služe svetim otajstvima, imaju ono što imaju regularni kanonici, i to s većom strogošću. I zato će biti dopušteno prijeći iz reda regularnih kanonika u red monaha, ali uz zatraženo dopuštenje poglavara, kako se kaže u XIX, pit. 3, pogl. Statuimus.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a8.ad3": {
+      "text": "Na treće treba reći da je svečani zavjet kojim se netko obvezuje na manji red jači od jednostavnoga zavjeta kojim se netko veže na veći red; jer kad bi netko nakon jednostavnoga zavjeta sklopio ženidbu, ona ne bi bila razvrgnuta, kao što bi bila nakon svečanoga zavjeta. I zato onaj koji se već zavjetovao u manjem redu nije dužan ispuniti jednostavni zavjet koji je položio da će stupiti u veći red.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da nitko ne bi smio navoditi druge da stupe u redovništvo. Blaženi Benedikt, naime, u svojem pravilu nalaže da *onima koji dolaze u redovništvo ne treba lako dopustiti ulazak, nego treba ispitati jesu li duhovi od Boga*. A to uči i Kasijan u IV. knjizi Ustanova općežića. Mnogo je, dakle, manje dopušteno nekoga navoditi na redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a9.obj2": {
+      "text": "Osim toga, Gospodin kaže u Mt 23: *Jao vama koji obilazite more i kopno da učinite jednoga obraćenika, a kad postane, činite ga sinom pakla dvostruko više nego što ste vi*. Ali čini se da to čine oni koji navode ljude na redovništvo. Dakle, čini se da je to za osudu.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a9.obj3": {
+      "text": "Osim toga, nitko ne bi smio navoditi nekoga na ono što mu je na štetu. Ali onaj koga netko navodi na redovništvo katkad time trpi štetu, jer su katkad obvezani na veći red. Dakle, čini se da nije pohvalno navoditi neke na redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a9.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izl 26: Neka zastor zastor povlači. Dakle, jedan čovjek treba drugoga povlačiti u službu Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a9.resp": {
+      "text": "Odgovaram: treba reći da oni koji druge navode na redovništvo ne samo da ne griješe nego zaslužuju veliku nagradu; kaže se, naime, u posljednjem poglavlju Jakovljeve poslanice: *Tko obrati grešnika s njegova krivoga puta, oslobađa njegovu dušu od smrti i pokriva mnoštvo grijeha*; a u Dan 12 kaže se: *Oni koji mnoge poučavaju u pravednosti bit će kao zvijezde u vječne vjekove*. Ipak, u takvom navođenju mogao bi se dogoditi trostruki nered. Prvo, ako bi netko nasilno prisiljavao drugoga na redovništvo, što se zabranjuje u Dekretima, XX, pit. 3. Drugo, ako bi netko simonijački privlačio drugoga u redovništvo dajući darove, kao što se zabranjuje u Dekretima, pit. 2, pogl. Quam pio. Ali ne pripada ovamo ako netko kojemu siromahu u svijetu pruža ono što mu je potrebno, odgajajući ga za redovništvo, ili ako mu bez pogodbe daje kakve darčiće da bi zadobio prisnost. Treće, ako bi ga mamio lažima. Takvomu, naime, kad je tako naveden, prijeti pogibelj da se, kad uvidi da je prevaren, vrati natrag; i tako bi posljednje stanje toga čovjeka postalo gore od prvoga, kako se kaže u Mt 12.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da se onima koji su navedeni na redovništvo ipak pridržava vrijeme kušnje, u kojem iskuse teškoće redovništva. I tako im se ne daje lak pristup stupanju u redovništvo.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a9.ad2": {
+      "text": "Na drugo treba reći da je, prema Hilariju, ona Gospodinova riječ unaprijed navijestila izopačenu revnost Židova kojom, nakon Kristova propovijedanja, privlačeći pogane ili čak kršćane židovskom obredu, čine ih dvostruko sinovima pakla: naime, i prijašnji grijesi koje su počinili ne otpuštaju im se u židovstvu, i usto upadaju u krivnju židovske nevjere. I prema tome to ne ide u prilog postavljenoj tvrdnji. A prema Jeronimu, to se odnosi na Židove čak i za ono stanje u kojem je bilo dopušteno obdržavati zakonske propise, s obzirom na to da je onaj koga su obraćali na židovstvo, *dok je bio poganin, naprosto je bio u zabludi; a videći poroke učitelja, vraća se svojoj bljuvotini i, postavši poganin, kao prijestupnik zaslužuje veću kaznu*. Iz toga je jasno da se ne osuđuje privlačiti druge na štovanje Boga ili na redovništvo, nego samo to što netko onomu koga obraća daje loš primjer, zbog čega ovaj postaje gori.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a9.ad3": {
+      "text": "Na treće treba reći da je manje uključeno u većem. I zato onoga koji je zavjetom ili prisegom obvezan na stupanje u manji red može se dopušteno navesti da prijeđe u veći red, osim ako postoji nešto posebno što bi to priječilo, na primjer bolest ili nada u veći napredak u manjem redu. Onoga pak koji je zavjetom ili prisegom obvezan na stupanje u veći red ne može se dopušteno navesti na manji red, osim iz kakva posebnog očitog razloga, i to uz oprost poglavara.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da nije pohvalno da netko stupi u redovništvo bez savjeta mnogih i bez dugotrajnog promišljanja koje bi tomu prethodilo. Kaže se, naime, u 1 Iv 4: *Ne vjerujte svakomu duhu, nego kušajte duhove jesu li od Boga*. Ali katkad namjera da se stupi u redovništvo nije od Boga, jer se često razvrgne izlaskom iz redovništva; a u Dj 5 kaže se: *Ako je ovaj naum ili djelo od Boga, nećete ga moći razvrgnuti*. Dakle, čini se da bi neki trebali stupati u redovništvo nakon velikog ispitivanja.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a10.obj2": {
+      "text": "Osim toga, u Izr 25 kaže se: Svoju stvar raspravi s prijateljem svojim. Ali čini se da je najviše čovjekova stvar ono što se tiče promjene staleža. Dakle, čini se da nitko ne bi smio stupiti u redovništvo ako to prije ne raspravi sa svojim prijateljima.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a10.obj3": {
+      "text": "Osim toga, Gospodin u Lk 14 navodi usporedbu o čovjeku koji hoće sagraditi kulu, da najprije sjedne i proračuna troškove koji su mu potrebni, ima li čime dovršiti, da mu se ne bi rugali: Ovaj je čovjek počeo graditi i nije mogao dovršiti. A trošak za gradnju kule, kako kaže Augustin u pismu Letu, *nije ništa drugo nego da se svatko odrekne svega što ima*. Događa se pak katkad da mnogi to ne mogu, kao ni podnositi ostala obdržavanja redovništva; kao predslika toga, u 1 Sam 17 kaže se da *David nije mogao hodati u Šaulovu oružju, jer nije bio naviknut*. Dakle, čini se da nitko ne bi smio stupiti u redovništvo osim nakon dugotrajnog promišljanja i pošto je dobio savjet mnogih.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a10.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mt 4, da su na Gospodinov poziv Petar i Andrija odmah, ostavivši mreže, pošli za njim. Ondje Zlatousti u tumačenju Mateja kaže: *Krist od nas traži takvu poslušnost da ne oklijevamo ni trenutka*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a10.resp": {
+      "text": "Odgovaram: treba reći da se dugotrajno promišljanje i savjeti mnogih traže u velikim i dvojbenim stvarima, kako kaže Filozof u III. knjizi Etike; a u onome što je sigurno i određeno ne traži se promišljanje. A u vezi sa stupanjem u redovništvo mogu se razmatrati tri stvari. Prvo, samo stupanje u redovništvo po sebi. I tako je sigurno da je stupanje u redovništvo veće dobro, i tko o tome dvoji, koliko je do njega, omalovažava Krista, koji je dao taj savjet. Zato Augustin kaže u knjizi O riječima Gospodnjim: Zove te Istok, to jest Krist, a ti gledaš na Zapad, to jest na smrtna čovjeka koji se može prevariti. Na drugi se način stupanje u redovništvo može razmatrati u usporedbi sa snagama onoga koji će stupiti u redovništvo. I tako također nema mjesta dvojbi o stupanju u redovništvo, jer se oni koji stupaju u redovništvo ne uzdaju da mogu opstati svojom snagom, nego pomoću božanske snage, prema onome iz Iz 40: *Koji se uzdaju u Gospodina, obnovit će snagu, uzet će krila kao orlovi, trčat će i neće se umoriti, hodat će i neće sustati*. Ako ipak postoji kakva posebna zapreka, na primjer tjelesna bolest ili teret dugova ili što takvo, u tome se traži promišljanje i savjet s onima za koje se nada da će pomoći, a ne priječiti. Zato se kaže u Sir 37: *S bezbožnim čovjekom raspravljaj o svetosti, i s nepravednim o pravednosti*, kao da kaže: nemoj; pa zatim slijedi: *Ne obaziri se na njih ni u kakvu savjetu, nego budi neprestano s čovjekom svetim*. Ipak, ni u tome ne treba dugotrajno promišljati. Zato Jeronim kaže u pismu Paulinu: *Požuri, molim te, i uže lađice koja je zapela u moru radije presijeci nego odvezuj*. Treće pak, može se razmatrati način stupanja u redovništvo i to u koji bi red netko trebao stupiti. I o takvim se stvarima može tražiti savjet od onih koji ne bi priječili.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da riječ: Kušajte duhove jesu li od Boga, ima mjesta u onome gdje je dvojbeno je li to Božji duh. Tako može biti dvojbeno onima koji su već u redovništvu je li onaj koji se nudi redovništvu vođen Božjim duhom ili pristupa hinjeno; i zato trebaju kušati onoga koji pristupa je li pokretan božanskim duhom. Ali onomu koji pristupa redovništvu ne može biti dvojbeno je li namjera o stupanju u redovništvo, nastala u njegovu srcu, od Božjega duha, kojemu je svojstveno voditi čovjeka u pravu zemlju. Niti se time što se neki vraćaju natrag pokazuje da to nije od Boga. Nije, naime, sve što je od Boga nepropadljivo; inače propadljivi stvorovi ne bi bili od Boga, kako kažu manihejci; a ni neki koji imaju milost od Boga ne bi je mogli izgubiti, što je također heretički. Ali Božji je naum nerazrješiv, a po njemu on čini i ono što je propadljivo i promjenljivo, prema onome iz Iz 46: *Moj će naum stajati i sva će se moja volja izvršiti*. I zato namjera o stupanju u redovništvo ne treba kušanje je li od Boga, jer ono što je sigurno ne treba ispitivanje, kako kaže Glosa uz ono iz posljednjega poglavlja Prve poslanice Solunjanima: Sve kušajte.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a10.ad2": {
+      "text": "Na drugo treba reći da, kao što tijelo žudi protiv duha, kako se kaže u Gal 5, tako se i tjelesni prijatelji često protive duhovnom napretku, prema onome iz Mih 7: *Čovjeku su neprijatelji njegovi ukućani*. Zato Ćiril, tumačeći ono iz Lk 9: Dopusti mi da se oprostim od onih koji su kod kuće, kaže: *Tražiti da se oprosti od onih koji su kod kuće pokazuje da je on nekako razdijeljen; jer razgovarati s bližnjima i savjetovati se s onima koji ne žele misliti pravo pokazuje da je još nekako slab i da uzmiče. Zato od Gospodina čuje: Nitko tko stavi ruku na plug i gleda natrag nije prikladan za kraljevstvo Božje. Gleda, naime, natrag onaj koji traži odgodu pod izlikom da se vrati kući i porazgovara s rodbinom*.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    },
+    "II-II.q189.a10.ad3": {
+      "text": "Na treće treba reći da se gradnjom kule označuje savršenost kršćanskoga života. A odricanje od vlastitih dobara jest trošak za gradnju kule. Nitko pak ne dvoji niti promišlja hoće li imati troškove ili može li sagraditi kulu ako ima troškove, nego se o tome promišlja ima li netko troškove. Slično ne treba da bude predmet promišljanja treba li se netko odreći svega što posjeduje ili može li, čineći to, doći do savršenosti. Nego je predmet promišljanja je li ono što čini odricanje od svega što posjeduje; jer ako se ne odrekne, a to znači imati troškove, ne može, kako se ondje dodaje, biti Kristov učenik, a to znači sagraditi kulu. A strah onih koji strepe mogu li stupanjem u redovništvo doći do savršenosti nerazuman je, i opovrgava ga primjer mnogih. Zato Augustin kaže u VIII. knjizi Ispovijesti: *Otvarala se s one strane na koju sam bio okrenuo lice i kamo sam strepio prijeći čedna dostojanstvenost uzdržljivosti, čestito me mameći da dođem i da ne dvojim, i pružajući da me primi i zagrli pobožne ruke pune mnoštva dobrih primjera. Ondje toliki dječaci i djevojke; ondje mnogo mladeži i svake dobi, i ozbiljne udovice i ostarjele djevice. Smijala mi se ohrabrujućim smijehom, kao da govori: Zar ti nećeš moći ono što mogu ovi i ove? Zar ovi i ove mogu to sami po sebi, a ne u Gospodinu Bogu svojemu? Što stojiš na sebi, a ne stojiš? Baci se na njega. Ne boj se, neće se izmaknuti da padneš. Baci se bez brige, i on će te prihvatiti i iscijeliti*. A onaj primjer koji se navodi o Davidu ne ide u prilog postavljenoj tvrdnji. Jer Šaulovo oružje, kako kaže Glosa, jesu sakramenti Zakona, kao ono što opterećuje; a redovništvo je slatki jaram Kristov, jer, kako kaže Grgur u IV. knjizi Moralija, *što teško stavlja na šiju našega duha onaj koji zapovijeda da izbjegavamo svaku želju koja uznemiruje, koji opominje da se uklonimo s mučnih putova ovoga svijeta?* A onima koji uzmu na sebe taj slatki jaram obećava okrjepu božanskoga uživanja i vjekovječni počinak duša. Do njega neka nas dovede sam onaj koji je to obećao, Isus Krist, Gospodin naš, koji je iznad svega Bog, blagoslovljen u vijeke. Amen.",
+      "prompt_version": "1",
+      "glossary_version": 21,
+      "created_at": "2026-11-12T15:17:44+00:00"
+    }
+  }
+}
