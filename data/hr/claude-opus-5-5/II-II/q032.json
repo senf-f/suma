@@ -1,0 +1,528 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 32,
+  "units": {
+    "II-II.q32.pr": {
+      "text": "Zatim treba razmotriti milostinju. U vezi s tim pita se deset stvari. Prvo, je li davanje milostinje čin ljubavi. Drugo, o razlikovanju milostinja. Treće, koje su milostinje vrjednije, duhovne ili tjelesne. Četvrto, imaju li tjelesne milostinje duhovni učinak. Peto, spada li davanje milostinje pod zapovijed. Šesto, treba li tjelesnu milostinju davati od onoga što je nužno. Sedmo, treba li je davati od nepravedno stečenoga. Osmo, tko smije davati milostinju. Deveto, kome je treba davati. Deseto, o načinu davanja milostinje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da davanje milostinje nije čin ljubavi. Čin ljubavi naime ne može biti bez ljubavi. Ali darivanje milostinje može biti bez ljubavi, prema onome iz 1 Kor 13: *Kad bih sav svoj imetak razdijelio za hranu siromasima, a ljubavi ne bih imao*. Dakle, davanje milostinje nije čin ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a1.obj2": {
+      "text": "Osim toga, milostinja se ubraja među djela zadovoljštine, prema onome iz Dn 4: *Otkupljuj svoje grijehe milostinjom*. Ali zadovoljština je čin pravednosti. Dakle, davanje milostinje nije čin ljubavi, nego pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a1.obj3": {
+      "text": "Osim toga, prinijeti Bogu žrtvu čin je latrije. Ali davati milostinju znači prinositi Bogu žrtvu, prema onome iz posljednjeg poglavlja Poslanice Hebrejima: *Ne zaboravljajte dobročinstva i zajedništva, jer takvim se žrtvama zaslužuje Božja naklonost*. Dakle, davanje milostinje nije čin ljubavi, nego prije latrije.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a1.obj4": {
+      "text": "Osim toga, Filozof kaže u IV. knjizi Etike da je davati nešto radi dobra čin darežljivosti. Ali to se ponajviše događa u darivanju milostinje. Dakle, davanje milostinje nije čin ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a1.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u 1 Iv 3: *Tko ima imetak ovoga svijeta i vidi brata svoga u oskudici te zatvori pred njim srce svoje, kako ljubav Božja ostaje u njemu?*",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a1.resp": {
+      "text": "Odgovaram: treba reći da se vanjski čini pripisuju onoj kreposti kojoj pripada ono što je pobuda za vršenje takvih čina. A pobuda za davanje milostinje jest da se pomogne onome koji trpi oskudicu; zato neki, definirajući milostinju, kažu da je milostinja djelo kojim se nešto daje potrebitome iz suosjećanja, radi Boga. Ta pak pobuda pripada milosrđu, kao što je gore rečeno. Stoga je očito da je davanje milostinje u vlastitom smislu čin milosrđa. To se vidi i iz samog imena: na grčkom se naime ono izvodi od milosrđa, kao i na latinskom miseratio. A budući da je milosrđe učinak ljubavi, kao što je gore pokazano, posljedično je davanje milostinje čin ljubavi, posredstvom milosrđa.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za nešto kaže da je čin kreposti na dva načina. Na jedan način tvarno, kao što je čin pravednosti činiti ono što je pravedno. Takav čin kreposti može biti bez kreposti: mnogi naime koji nemaju habitus pravednosti čine ono što je pravedno, bilo iz naravnog razuma, bilo iz straha ili iz nade da će nešto postići. Na drugi se način kaže da je nešto čin kreposti formalno, kao što je čin pravednosti pravedna radnja izvršena na onaj način na koji je vrši pravedan čovjek, to jest spremno i s nasladom. Na taj način čin kreposti nije bez kreposti. Prema tome, dakle, davati milostinju tvarno može biti bez ljubavi, ali davati milostinju formalno, to jest radi Boga, s nasladom, spremno i na svaki način na koji treba, nije bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a1.ad2": {
+      "text": "Na drugo treba reći da ništa ne priječi da se čin koji je u vlastitom smislu izvedeni čin jedne kreposti pripiše drugoj kreposti kao onoj koja zapovijeda i usmjerava ga prema svojoj svrsi. Na taj se način davanje milostinje ubraja među djela zadovoljštine, ukoliko je smilovanje prema onome koji trpi nedostatak usmjereno na davanje zadovoljštine za krivnju. A ukoliko je usmjereno na umilostivljenje Boga, ima pojam žrtve, i tako ga zapovijeda latrija.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a1.ad3": {
+      "text": "Odatle je jasan odgovor na treće.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a1.ad4": {
+      "text": "Na četvrto treba reći da davanje milostinje pripada darežljivosti ukoliko darežljivost uklanja zapreku tom činu, koja bi mogla proizlaziti iz pretjerane ljubavi prema bogatstvu, zbog koje netko postaje previše sklon da ga zadržava za sebe.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se vrste milostinje neprikladno razlikuju. Navodi se naime sedam tjelesnih milostinja, to jest: nahraniti gladnoga, napojiti žednoga, odjenuti gologa, primiti putnika, pohoditi bolesnoga, otkupiti zarobljenika i pokopati mrtvoga; one su sadržane u ovom stihu: *pohodim, napajam, hranim, otkupljujem, odijevam, primam, pokapam*. Navodi se također drugih sedam duhovnih milostinja, to jest: poučiti neukoga, savjetovati dvoumnoga, utješiti žalosnoga, opomenuti grešnika, oprostiti onome koji vrijeđa, podnositi tegobne i teške te moliti za sve; i one su sadržane u ovom stihu: *savjetuj, kori, tješi, oprosti, podnosi, moli*, tako ipak da se pod istim razumiju savjet i pouka. Čini se pak da se takve milostinje neprikladno razlikuju. Milostinja je naime usmjerena na to da se pomogne bližnjemu. Ali time što se bližnji pokapa ni u čemu mu se ne pomaže; inače ne bi bilo istinito ono što Gospodin kaže u Mt 10: *Ne bojte se onih koji ubijaju tijelo, a poslije toga nemaju više što učiniti*. Zato i Gospodin u Mt 25, nabrajajući djela milosrđa, ne spominje pokapanje mrtvih. Dakle, čini se da se takve milostinje neprikladno razlikuju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a2.obj2": {
+      "text": "Osim toga, milostinja se daje da bi se pomoglo u potrebama bližnjega, kao što je rečeno. Ali ima mnogo drugih potreba ljudskoga života osim navedenih, kao što slijepac treba vodiča, hromi oslonac, siromah bogatstvo. Dakle, navedene se milostinje neprikladno nabrajaju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a2.obj3": {
+      "text": "Osim toga, davanje milostinje čin je milosrđa. Ali čini se da opominjanje prijestupnika više pripada strogosti nego milosrđu. Dakle, ne treba ga ubrajati među duhovne milostinje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a2.obj4": {
+      "text": "Osim toga, milostinja je usmjerena na to da se pomogne u nedostatku. Ali nema čovjeka koji ne trpi nedostatak neznanja u nekim stvarima. Dakle, čini se da bi svatko trebao poučavati svakoga, ako ovaj ne zna ono što on sam zna.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a2.sc": {
+      "text": "Ali protiv toga jest ono što kaže Grgur u jednoj homiliji: *Tko ima um, neka se svakako pobrine da ne šuti; tko ima obilje dobara, neka bdije da ne otupi u darežljivosti milosrđa; tko ima umijeće kojim se uzdržava, neka se veoma trudi da njegovu uporabu i korist podijeli s bližnjim; tko ima priliku govoriti kod bogataša, neka se boji osude zbog zadržanoga talenta ako se, kad može, ne zauzme kod njega za siromahe*. Dakle, navedene se milostinje prikladno razlikuju prema onome u čemu ljudi obiluju i u čemu oskudijevaju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a2.resp": {
+      "text": "Odgovaram: treba reći da se navedeno razlikovanje milostinja prikladno uzima prema različitim nedostacima bližnjih. Neki su od njih sa strane duše, i na njih su usmjerene duhovne milostinje; a neki sa strane tijela, i na njih su usmjerene tjelesne milostinje. Tjelesni je nedostatak naime ili u životu ili poslije života. Ako je u životu, onda je ili opći nedostatak s obzirom na ono što svi trebaju, ili poseban zbog neke nezgode koja nadođe. Ako je na prvi način, nedostatak je ili unutarnji ili vanjski. Unutarnji je dvostruk: jedan je onaj kojemu se pomaže suhom hranom, to jest glad, i prema tome se navodi nahraniti gladnoga; drugi je onaj kojemu se pomaže tekućom hranom, to jest žeđ, i prema tome se kaže napojiti žednoga. Opći je pak nedostatak s obzirom na vanjsku pomoć dvostruk: jedan s obzirom na pokrivalo, i u tom se pogledu navodi odjenuti gologa; drugi s obzirom na stan, i u tom je pogledu primiti putnika. Slično tome, ako je neki nedostatak poseban, on je ili iz unutarnjeg uzroka, kao bolest, i u tom se pogledu navodi pohoditi bolesnoga; ili iz vanjskog uzroka, i u tom se pogledu navodi otkupljivanje zarobljenika. A poslije života mrtvima se iskazuje pokop. Slično se i duhovnim nedostacima pomaže duhovnim činima na dva načina. Na jedan način, traženjem pomoći od Boga, i u tom se pogledu navodi molitva kojom netko moli za druge. Na drugi način, pružanjem ljudske pomoći, i to trostruko. Na jedan način, protiv nedostatka uma: ako je to nedostatak spekulativnog uma, primjenjuje se lijek poukom; ako je pak nedostatak praktičnog uma, primjenjuje se lijek savjetom. Na drugi način, nedostatak je iz strasti težnjene snage, među kojima je najveća žalost, kojoj se pomaže utjehom. Na treći način, sa strane neurednog čina, koji se pak može promatrati trostruko. Na jedan način, sa strane samoga grešnika, ukoliko proizlazi iz njegove neuredne volje, i tako se primjenjuje lijek opomenom. Na drugi način, sa strane onoga protiv koga se griješi: ako je grijeh protiv nas, primjenjujemo lijek opraštajući uvredu; ako je pak protiv Boga ili protiv bližnjega, nije na našoj volji da opraštamo, kako kaže Jeronim u tumačenju Mateja. Na treći način, sa strane posljedica samoga neurednog čina, kojima su opterećeni oni koji s grešnikom žive, i mimo grešnikove nakane; i tako se primjenjuje lijek podnošenjem, ponajviše kod onih koji griješe iz slabosti, prema onome iz Rim 15: *Mi jači dužni smo podnositi slabosti drugih*. I ne samo ukoliko su slabi teški zbog neurednih čina, nego treba podnositi i sva njihova bremena, prema onome iz Gal 6: *Nosite bremena jedni drugih*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da pokop mrtvome ne koristi s obzirom na osjećaj koji bi tijelo imalo poslije smrti. I prema tome Gospodin kaže da oni koji ubijaju tijelo nemaju više što učiniti. Zbog toga Gospodin i ne spominje pokop među drugim djelima milosrđa, nego nabraja samo ona koja su očitije potrebna. Ipak se pokojnika tiče što se čini s njegovim tijelom, kako zato što živi u sjećanju ljudi, a njegova se čast okalja ako ostane nepokopan, tako i zbog čuvstva koje je dok je još živio imao prema svome tijelu, a s kojim se nakon njegove smrti mora suobličiti čuvstvo pobožnih. I prema tome neki su hvaljeni zbog pokapanja mrtvih, kao Tobija i oni koji su pokopali Gospodina, kao što je vidljivo iz Augustina u knjizi O brizi za mrtve.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a2.ad2": {
+      "text": "Na drugo treba reći da se sve druge potrebe svode na ove. Jer i sljepoća i hromost jesu neke bolesti, pa se voditi slijepca i pridržavati hromoga svodi na pohađanje bolesnih. Slično se i pomoć čovjeku protiv bilo kakva tlačenja nanesena izvana svodi na otkupljivanje zarobljenika. A bogatstvo, kojim se pomaže u siromaštvu, traži se samo zato da se pomogne u navedenim nedostacima; zato nije trebalo posebno spominjati taj nedostatak.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a2.ad3": {
+      "text": "Na treće treba reći da se čini da opominjanje grešnika, što se tiče samog izvršenja čina, sadrži strogost pravednosti. Ali što se tiče nakane onoga koji opominje, koji želi čovjeka osloboditi od zla krivnje, pripada milosrđu i čuvstvu ljubavi, prema onome iz Izr 27: *Bolji su udarci onoga koji ljubi nego prijevarni poljupci onoga koji mrzi*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a2.ad4": {
+      "text": "Na četvrto treba reći da ne pripada svako nepoznavanje nedostatku čovjeka, nego samo ono kojim netko ne zna ono što mu priliči znati; pomoći u tom nedostatku poukom pripada milostinji. Pri tome ipak treba poštovati dužne okolnosti osobe, mjesta i vremena, kao i u drugim kreposnim činima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da su tjelesne milostinje vrjednije od duhovnih. Hvalevrjednije je naime dati milostinju potrebitijemu, jer milostinja zaslužuje hvalu upravo po tome što pomaže potrebitome. Ali tijelo, kojemu se pomaže tjelesnim milostinjama, potrebitije je naravi nego duh, kojemu se pomaže duhovnim milostinjama. Dakle, tjelesne su milostinje vrjednije.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a3.obj2": {
+      "text": "Osim toga, uzvraćanje dobročinstva umanjuje hvalu i zaslugu milostinje; zato i Gospodin kaže u Lk 14: *Kad priređuješ objed ili večeru, ne zovi bogatih susjeda, da i oni tebe ne bi pozvali*. Ali u duhovnim milostinjama uvijek ima uzvraćanja, jer onaj koji moli za drugoga sam sebi koristi, prema onome iz Psalma: *Molitva će se moja vratiti u moje krilo*; i tko poučava drugoga, sam napreduje u znanju. To se ne događa kod tjelesnih milostinja. Dakle, tjelesne su milostinje vrjednije od duhovnih.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a3.obj3": {
+      "text": "Osim toga, hvali milostinje pripada to da siromah bude utješen danom milostinjom; zato se u Job 31 kaže: *ako me nisu blagoslivljala bedra njegova*; a apostol kaže u Poslanici Filemonu: *Srca su svetih okrijepljena po tebi, brate*. Ali katkad je siromahu draža tjelesna milostinja nego duhovna. Dakle, tjelesna je milostinja vrjednija od duhovne.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a3.sc": {
+      "text": "Ali protiv toga jest ono što Augustin kaže u knjizi O Gospodinovu govoru na gori, o riječima *Tko od tebe traži, daj mu*: *Treba dati ono što ne škodi ni tebi ni drugome; a kad uskratiš ono što traži, treba mu pokazati pravednost, da ga ne otpustiš praznih ruku. A katkad ćeš dati nešto bolje kad opomeneš onoga koji nepravedno traži*. Opomena je pak duhovna milostinja. Dakle, duhovnim milostinjama treba dati prednost pred tjelesnima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a3.resp": {
+      "text": "Odgovaram: treba reći da se usporedba tih milostinja može promatrati na dva načina. Na jedan način, naprosto govoreći, i prema tome duhovne milostinje imaju prednost, iz trostrukog razloga. Prvo, zato što je ono što se pruža plemenitije, naime duhovni dar, koji nadmašuje tjelesni, prema onome iz Izr 4: *Dat ću vam dobar dar; ne napuštajte moga zakona*. Drugo, zbog onoga kome se pomaže, jer je duh plemenitiji od tijela. Stoga, kao što čovjek treba više skrbiti za sebe s obzirom na duh nego s obzirom na tijelo, tako i za bližnjega, kojega treba ljubiti kao samoga sebe. Treće, s obzirom na same čine kojima se pomaže bližnjemu, jer su duhovni čini plemenitiji od tjelesnih, koji su na neki način ropski. Na drugi se način mogu usporediti s obzirom na neki pojedinačni slučaj, u kojemu se neka tjelesna milostinja pretpostavlja nekoj duhovnoj. Na primjer, onoga koji umire od gladi prije bi trebalo nahraniti nego poučiti; kao što je, prema Filozofu, i potrebitome bolje obogatiti se nego filozofirati, premda je ovo drugo naprosto bolje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je dati potrebitijemu bolje, ako je sve ostalo jednako. Ali ako je manje potrebiti bolji i treba bolje stvari, bolje je dati njemu. Tako je i u ovom slučaju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a3.ad2": {
+      "text": "Na drugo treba reći da uzvraćanje ne umanjuje zaslugu i hvalu milostinje ako se na nj ne smjera, kao što ni ljudska slava, ako se na nju ne smjera, ne umanjuje pojam kreposti; kao što i Salustije kaže o Katonu: *što je više bježao od slave, to ga je slava više slijedila*. Tako se događa i kod duhovnih milostinja. A ipak smjeranje na duhovna dobra ne umanjuje zaslugu kao što je umanjuje smjeranje na tjelesna dobra.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a3.ad3": {
+      "text": "Na treće treba reći da se zasluga onoga koji daje milostinju procjenjuje prema onome u čemu bi se volja primatelja razumno trebala smiriti, a ne prema onome u čemu se smiruje ako je neuredna.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da tjelesne milostinje nemaju duhovni učinak. Učinak naime nije vrjedniji od svog uzroka. Ali duhovna su dobra vrjednija od tjelesnih. Dakle, tjelesne milostinje nemaju duhovne učinke.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a4.obj2": {
+      "text": "Osim toga, dati tjelesno za duhovno porok je simonije. Ali toga se poroka treba posve čuvati. Dakle, ne treba davati milostinju da bi se postigli duhovni učinci.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a4.obj3": {
+      "text": "Osim toga, kad se umnoži uzrok, umnožava se i učinak. Kad bi, dakle, tjelesna milostinja uzrokovala duhovni učinak, slijedilo bi da veća milostinja duhovno više koristi. To se protivi onome što se čita u Lk 21 o udovici koja je ubacila dva sitna novčića u riznicu, a koja je, po Gospodinovu sudu, ubacila više od svih. Dakle, tjelesna milostinja nema duhovni učinak.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a4.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Sir 29: *Milostinja čovjekova čuvat će čovjekovu milost kao zjenicu*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a4.resp": {
+      "text": "Odgovaram: treba reći da se tjelesna milostinja može promatrati trostruko. Na jedan način, prema svojoj supstanciji. I prema tome ima samo tjelesni učinak, naime ukoliko nadomješta tjelesne nedostatke bližnjih. Na drugi se način može promatrati sa strane svog uzroka, naime ukoliko netko daje tjelesnu milostinju iz ljubavi prema Bogu i bližnjemu. I s obzirom na to donosi duhovni plod, prema onome iz Sir 29: *Izgubi novac radi brata. Položi blago u zapovijedi Svevišnjega, i koristit će ti više od zlata*. Na treći način, sa strane učinka. I tako također ima duhovni plod, naime ukoliko je bližnji, kojemu se pomaže tjelesnom milostinjom, potaknut da moli za dobročinitelja. Zato se ondje i dodaje: *Zatvori milostinju u krilo siromaha, i ona će za tebe izmoliti izbavljenje od svakoga zla*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj razlog govori o tjelesnoj milostinji prema njezinoj supstanciji.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a4.ad2": {
+      "text": "Na drugo treba reći da onaj koji daje milostinju ne smjera kupiti nešto duhovno za tjelesno, jer zna da duhovno beskonačno nadmašuje tjelesno, nego smjera čuvstvom ljubavi zaslužiti duhovni plod.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a4.ad3": {
+      "text": "Na treće treba reći da je udovica, koja je po količini dala manje, dala više razmjerno sebi; po tome se u njoj procjenjuje veće čuvstvo ljubavi, od koje tjelesna milostinja ima duhovnu djelotvornost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da davanje milostinje ne spada pod zapovijed. Savjeti se naime razlikuju od zapovijedi. Ali davanje milostinje jest savjet, prema onome iz Dn 4: *Neka se kralju svidi moj savjet: otkupljuj svoje grijehe milostinjom*. Dakle, davanje milostinje ne spada pod zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a5.obj2": {
+      "text": "Osim toga, svakome je dopušteno služiti se svojom stvari i zadržati je. Ali zadržavajući svoju stvar, nitko neće dati milostinju. Dakle, dopušteno je ne davati milostinju. Dakle, davanje milostinje ne spada pod zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a5.obj3": {
+      "text": "Osim toga, sve što potpada pod zapovijed u neko vrijeme obvezuje prijestupnike pod smrtni grijeh, jer afirmativne zapovijedi obvezuju za određeno vrijeme. Kad bi, dakle, davanje milostinje potpadalo pod zapovijed, moglo bi se odrediti neko vrijeme u kojem bi čovjek smrtno griješio ako ne bi dao milostinju. Ali čini se da to nije tako, jer se uvijek može s vjerojatnošću procijeniti da se siromahu može pomoći na drugi način, i da bi ono što bi trebalo podijeliti kao milostinju moglo njemu biti nužno, bilo sada bilo u budućnosti. Dakle, čini se da davanje milostinje ne spada pod zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a5.obj4": {
+      "text": "Osim toga, sve se zapovijedi svode na zapovijedi Dekaloga. Ali među tim zapovijedima ništa nije sadržano o davanju milostinje. Dakle, davanje milostinje ne spada pod zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a5.sc": {
+      "text": "Ali protiv toga: nitko se ne kažnjava vječnom kaznom zbog propuštanja nečega što ne potpada pod zapovijed. Ali neki se kažnjavaju vječnom kaznom zbog propuštanja milostinje, kao što je jasno iz Mt 25. Dakle, davanje milostinje spada pod zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a5.resp": {
+      "text": "Odgovaram: treba reći da, budući da ljubav prema bližnjemu spada pod zapovijed, nužno je da pod zapovijed potpada i sve ono bez čega se ljubav prema bližnjemu ne održava. A ljubavi prema bližnjemu pripada to da bližnjemu ne samo želimo dobro, nego da ga i činimo, prema onome iz 1 Iv 3: *Ne ljubimo riječju ni jezikom, nego djelom i istinom*. A da bismo nečije dobro htjeli i činili, potrebno je da mu pomognemo u potrebi, što se čini darivanjem milostinje. Zato darivanje milostinje spada pod zapovijed. Ali budući da se zapovijedi daju o činima kreposti, nužno je da davanje milostinje potpada pod zapovijed na onaj način na koji je taj čin nužan za krepost, to jest kako to zahtijeva ispravni razum. Prema njemu treba nešto razmotriti sa strane darovatelja, a nešto sa strane onoga kome treba dati milostinju. Sa strane darovatelja treba paziti da ono što treba podijeliti kao milostinju bude njemu suvišno, prema onome iz Lk 11: *Što preostaje, dajte kao milostinju*. A suvišnim ne nazivam samo ono što je suvišno s obzirom na njega samoga, to jest ono što nadilazi ono što je nužno pojedincu, nego i s obzirom na druge za koje mu pripada skrb; jer najprije svatko treba skrbiti za sebe i za one za koje mu pripada skrb (s obzirom na njih govori se o onome što je nužno osobi, ukoliko osoba uključuje dostojanstvo), a potom od ostatka treba pomoći u potrebama drugih. Tako i narav najprije uzima za sebe, za uzdržavanje vlastitog tijela, ono što je nužno službi hranidbene snage, a suvišak daje za rađanje drugoga putem rađalačke snage. Sa strane primatelja pak zahtijeva se da bude u potrebi; inače ne bi bilo razloga da mu se daje milostinja. Ali budući da jedan čovjek ne može pomoći svima koji su u potrebi, ne obvezuje svaka potreba po zapovijedi, nego samo ona bez čijeg otklanjanja onaj koji trpi potrebu ne može opstati. U tom se naime slučaju primjenjuje ono što kaže Ambrozije: *Nahrani onoga koji umire od gladi. Ako ga nisi nahranio, ubio si ga*. Tako, dakle, pod zapovijed spada davati milostinju od suviška, i davati milostinju onome koji je u krajnjoj potrebi. U drugim pak slučajevima davanje milostinje spada pod savjet, kao što se i o svakom većem dobru daju savjeti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Daniel govorio kralju koji nije bio podložan Božjem zakonu. Zato su mu i ono što pripada zapovijedi zakona, koji on nije ispovijedao, trebalo iznositi kao savjet. Ili se može reći da je govorio o onom slučaju u kojemu davanje milostinje ne spada pod zapovijed.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a5.ad2": {
+      "text": "Na drugo treba reći da su vremenita dobra, koja su čovjeku dana od Boga, doduše njegova što se tiče vlasništva, ali što se tiče uporabe ne trebaju biti samo njegova, nego i drugih koji se od njih mogu uzdržavati od onoga što je njemu suvišno. Zato Bazilije kaže: *Ako priznaješ da su ti ona došla od Boga* (naime vremenita dobra), *je li Bog nepravedan što nam nejednako dijeli stvari? Zašto ti obiluješ, a onaj prosi, ako ne zato da ti stekneš zasluge dobrog dijeljenja, a onaj da se okiti nagradama strpljivosti? Kruh gladnoga jest onaj koji ti držiš; haljina gologa ona koju čuvaš u spremištu; obuća bosoga ona koja kod tebe trune; srebro potrebitoga ono koje posjeduješ zakopano. Zato činiš nepravdu tolikima kolikima bi mogao dati*. Isto to kaže i Ambrozije u Dekretu, dist. XLVII.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a5.ad3": {
+      "text": "Na treće treba reći da se može odrediti neko vrijeme u kojem čovjek smrtno griješi ako propusti dati milostinju: sa strane primatelja, kad je očita hitna i nužna potreba, a nije na vidiku nitko tko bi mu pomogao; a sa strane darovatelja, kad ima suvišak koji mu prema sadašnjem stanju nije nužan, koliko se s vjerojatnošću može procijeniti. Niti treba uzimati u obzir sve slučajeve koji se mogu dogoditi u budućnosti, jer to bi značilo brinuti se za sutrašnji dan, što Gospodin zabranjuje u Mt 6. Nego suvišno i nužno treba prosuđivati prema onome što se s vjerojatnošću i u većini slučajeva događa.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a5.ad4": {
+      "text": "Na četvrto treba reći da se svaka pomoć bližnjemu svodi na zapovijed o poštivanju roditelja. Tako to naime tumači i apostol u 1 Tim 4, govoreći: *Pobožnost je korisna za sve, jer ima obećanje sadašnjega i budućega života*; to kaže zato što je zapovijedi o poštivanju roditelja dodano obećanje: da dugo živiš na zemlji. A pod pobožnost spada svako darivanje milostinje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da nitko ne bi smio davati milostinju od onoga što mu je nužno. Red ljubavi naime ne gleda se ništa manje u učinku dobročinstva nego u unutarnjem čuvstvu. A griješi onaj koji izokreće red ljubavi, jer red ljubavi spada pod zapovijed. Budući da, dakle, po redu ljubavi čovjek treba više ljubiti sebe nego bližnjega, čini se da griješi ako sebi uskrati ono što mu je nužno da bi to darovao drugome.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a6.obj2": {
+      "text": "Osim toga, svaki koji daruje od onoga što mu je nužno rasipa vlastiti imetak, a to pripada rasipniku, kao što je jasno iz Filozofa u IV. knjizi Etike. Ali ne treba činiti nijedno poročno djelo. Dakle, ne treba davati milostinju od onoga što je nužno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a6.obj3": {
+      "text": "Osim toga, apostol kaže u 1 Tim 5: *Ako se tko ne brine za svoje, a osobito za ukućane, zatajio je vjeru i gori je od nevjernika*. Ali čini se da davanje od onoga što je nužno njemu ili njegovima umanjuje skrb koju čovjek treba imati za sebe i za svoje. Dakle, čini se da svaki koji daje milostinju od onoga što mu je nužno teško griješi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a6.sc": {
+      "text": "Ali protiv toga jest ono što Gospodin kaže u Mt 19: *Ako želiš biti savršen, idi, prodaj sve što imaš i podaj siromasima*. Ali onaj koji siromasima daje sve što ima ne daje samo suvišno nego i nužno. Dakle, čovjek može davati milostinju od onoga što je nužno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a6.resp": {
+      "text": "Odgovaram: treba reći da se nužno kaže na dva načina. Na jedan način, ono bez čega nešto ne može postojati. I od takvoga nužnoga nipošto ne treba davati milostinju; na primjer, kad bi netko, nalazeći se u času nužde, imao samo toliko da od toga mogu preživjeti on i njegovi sinovi ili drugi koji mu pripadaju; dati naime milostinju od takvoga nužnoga značilo bi oduzeti život sebi i svojima. Ali to kažem osim ako ne bi nastupio takav slučaj da bi, uskraćujući sebi, dao nekoj velikoj osobi koja je oslonac Crkve ili države; jer za oslobođenje takve osobe čovjek bi hvalevrijedno izložio sebe i svoje smrtnoj pogibli, budući da opće dobro treba pretpostaviti vlastitome. Na drugi se način kaže da je nužno ono bez čega se život ne može prikladno provoditi prema prilikama ili staležu vlastite osobe i drugih osoba za koje mu pripada skrb. Granica toga nužnoga nije postavljena u nedjeljivoj točki, nego, kad se mnogo doda, ne može se prosuditi da je to iznad takvoga nužnoga; a kad se mnogo oduzme, još ostaje od čega netko može prikladno provoditi život prema svome staležu. Davati, dakle, milostinju od takvoga nužnoga jest dobro, i to ne potpada pod zapovijed, nego pod savjet. Neuredno bi pak bilo kad bi netko sebi od vlastitih dobara toliko oduzeo da bi darovao drugima da od ostatka ne bi mogao prikladno provoditi život prema svome staležu i poslovima koji nadolaze; nitko naime ne treba živjeti neprikladno. Ali od toga treba izuzeti tri slučaja. Prvi je kad netko mijenja stalež, na primjer stupanjem u redovništvo. Tada naime, darujući sve svoje radi Krista, čini djelo savršenosti, postavljajući se u drugi stalež. Drugi je kad se ono što sebi uskraćuje, premda je nužno za prikladan život, ipak lako može nadoknaditi, tako da ne slijedi najveća neprilika. Treći je kad bi nastupila krajnja potreba neke privatne osobe ili pak neka velika potreba države. U tim bi slučajevima naime netko hvalevrijedno propustio ono što bi se činilo da pripada dostojnosti njegova staleža, da bi pomogao u većoj potrebi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a6.adarg": {
+      "text": "Time je lako jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se milostinja može davati od nedopušteno stečenoga. Kaže se naime u Lk 16: *Steknite sebi prijatelje nepravednim mamonom*. A mamon označuje bogatstvo. Dakle, od nepravedno stečenog bogatstva može netko sebi steći duhovne prijatelje, dijeleći milostinju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a7.obj2": {
+      "text": "Osim toga, čini se da je svaki sramotni dobitak nedopušteno stečen. Ali sramotni je dobitak onaj koji se stječe bludništvom; zato se od takvoga ne smije prinositi Bogu žrtva ili prinos, prema onome iz Pnz 23: *Ne donosi bludničine plaće u dom Boga svoga*. Slično se sramotno stječe i ono što se stječe kockanjem, jer, kako kaže Filozof u IV. knjizi Etike, *takvi stječu dobitak od prijatelja, kojima bi trebalo davati*. Najsramotnije se pak nešto stječe simonijom, kojom netko nanosi nepravdu Duhu Svetomu. A ipak se od takvoga može davati milostinja. Dakle, od zlo stečenoga netko može davati milostinju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a7.obj3": {
+      "text": "Osim toga, veća zla treba više izbjegavati nego manja. Ali zadržavanje tuđe stvari manji je grijeh od ubojstva, u koje netko upada ako ne pomogne onome koji je u krajnjoj potrebi, kao što je jasno iz Ambrozija, koji kaže: *Nahrani onoga koji umire od gladi, jer ako ga nisi nahranio, ubio si ga*. Dakle, netko u nekom slučaju može davati milostinju od zlo stečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a7.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u knjizi O riječima Gospodnjim: *Dajite milostinju od pravednih trudova. Nećete naime podmititi suca Krista da vas ne bi čuo zajedno sa siromasima kojima otimate. Nemojte htjeti davati milostinju od kamata i lihve. Vjernicima to govorim, kojima dijelimo Kristovo tijelo*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a7.resp": {
+      "text": "Odgovaram: treba reći da nešto može biti nedopušteno stečeno na tri načina. Na jedan način, ono što netko nedopušteno stekne duguje se onome od koga je stečeno i ne može ga zadržati onaj koji ga je stekao, kao što se događa kod razbojstva, krađe i lihve. Od takvih stvari, budući da je čovjek dužan na povrat, ne može se davati milostinja. Na drugi je način nešto nedopušteno stečeno zato što ga onaj koji ga je stekao ne može zadržati, ali se ipak ne duguje onome od koga ga je stekao, naime zato što ga je on primio protiv pravednosti, a drugi ga je dao protiv pravednosti, kao što se događa kod simonije, u kojoj i onaj koji daje i onaj koji prima postupaju protiv pravednosti božanskog zakona. Zato se povrat ne treba učiniti onome koji je dao, nego se to treba razdijeliti kao milostinja. Isti je razlog i u sličnim slučajevima, u kojima su naime i davanje i primanje protiv zakona. Na treći je način nešto nedopušteno stečeno, ne zato što bi samo stjecanje bilo nedopušteno, nego zato što je nedopušteno ono iz čega se stječe, kao što je jasno kod onoga što žena stječe bludništvom. I to se u vlastitom smislu naziva sramotnim dobitkom. To naime što se žena bavi bludništvom, sramotno je i protiv Božjeg zakona; ali time što prima ne postupa nepravedno niti protiv zakona. Zato se ono što je tako nedopušteno stečeno može zadržati i od toga se može davati milostinja.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Augustin u knjizi O riječima Gospodnjim, *neki, krivo shvaćajući tu Gospodinovu riječ, otimaju tuđe stvari i nešto od toga dijele siromasima, misleći da čine ono što je zapovjeđeno. Takvo shvaćanje treba ispraviti. Nego se svako bogatstvo naziva bogatstvom nepravde*, kako kaže u knjizi O pitanjima iz Evanđelja, *jer nije bogatstvo osim za nepravedne, koji u njega polažu svoju nadu. Nepravednim mamonom nazvao ga je zato što raznim mamljenjima bogatstva kuša naša čuvstva. Ili zato što se među mnogim precima, kojima nasljeđuješ baštinu, nađe netko tko je nepravedno prisvojio tuđe, premda ti to ne znaš*, kako kaže Bazilije. Ili se svako bogatstvo naziva bogatstvom nepravde, to jest nejednakosti, jer nije jednako raspodijeljeno svima, pa jedan oskudijeva, a drugi preobiluje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a7.ad2": {
+      "text": "Na drugo treba reći da je već rečeno kako se može davati milostinja od onoga što je stečeno bludništvom. Od toga se pak ne prinosi žrtva ili prinos na oltar, kako zbog sablazni, tako i zbog poštovanja prema svetim stvarima. Od onoga što je stečeno simonijom također se može davati milostinja, jer se to ne duguje onome koji je dao, nego on zaslužuje da to izgubi. Što se pak tiče onoga što se stječe kockanjem, čini se da je tu nešto nedopušteno po božanskom pravu, naime da netko stječe dobitak od onih koji ne mogu otuđiti svoju stvar, kao što su maloljetnici, umobolni i slični; zatim da netko iz pohlepe za dobitkom navlači drugoga na igru; i da od njega prijevarom stječe dobitak. U tim je slučajevima dužan na povrat, pa od toga ne može davati milostinju. A čini se da je tu nešto nedopušteno još i po pozitivnom građanskom pravu, koje općenito zabranjuje takav dobitak. Ali budući da građansko pravo ne obvezuje sve, nego samo one koji su podložni tim zakonima, i budući da se može ukinuti neprimjenjivanjem, zato su kod onih koji su obvezani takvim zakonima svi koji stječu dobitak općenito dužni na povrat, osim ako možda ne prevlada protivni običaj, ili osim ako netko nije stekao dobitak od onoga koji ga je navukao na igru. U tom slučaju ne bi bio dužan vratiti, jer onaj koji je izgubio nije dostojan da primi; a ne može ni dopušteno zadržati dok takvo pozitivno pravo traje; zato u tom slučaju od toga treba davati milostinju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a7.ad3": {
+      "text": "Na treće treba reći da je u slučaju krajnje potrebe sve zajedničko. Zato je onome koji trpi takvu potrebu dopušteno uzeti od tuđega za svoje uzdržavanje, ako ne nađe nikoga tko bi mu htio dati. Iz istog je razloga dopušteno imati nešto od tuđega i od toga davati milostinju, štoviše i uzeti, ako se onome koji trpi potrebu ne može drukčije pomoći. Ako se ipak to može učiniti bez pogibli, treba zatražiti volju vlasnika i tako pomoći siromahu koji trpi krajnju potrebu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da onaj koji je pod vlašću drugoga može davati milostinju. Redovnici su naime pod vlašću onih kojima su zavjetovali poslušnost. Ali kad im ne bi bilo dopušteno davati milostinju, imali bi štetu od redovničkog staleža, jer, kako kaže Ambrozije, *sav se zbroj kršćanske religije sastoji u pobožnosti*, koja se ponajviše preporučuje darivanjem milostinje. Dakle, oni koji su pod vlašću drugoga mogu davati milostinju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a8.obj2": {
+      "text": "Osim toga, žena je pod muževom vlašću, kako se kaže u Post 3. Ali žena može davati milostinju, budući da je uzeta u zajedništvo s mužem; zato se i o blaženoj Luciji kaže da je davala milostinju bez znanja zaručnika. Dakle, time što je netko pod vlašću drugoga nije spriječen da može davati milostinju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a8.obj3": {
+      "text": "Osim toga, postoji neka naravna podložnost sinova roditeljima; zato apostol kaže u Ef 6: *Djeco, slušajte svoje roditelje u Gospodinu*. Ali čini se da sinovi mogu davati milostinju od očevih stvari, jer su one na neki način njihove, budući da su baštinici; i budući da se njima mogu služiti za potrebe tijela, čini se da se njima mogu još mnogo više služiti dajući milostinju, za lijek svojoj duši. Dakle, oni koji su pod vlašću mogu davati milostinju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a8.obj4": {
+      "text": "Osim toga, sluge su pod vlašću gospodara, prema onome iz Tit 2: *Sluge neka budu podložne svojim gospodarima*. A dopušteno im je učiniti nešto na korist gospodara, što se ponajviše događa ako za njih dijele milostinju. Dakle, oni koji su pod vlašću mogu davati milostinju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a8.sc": {
+      "text": "Ali protiv toga jest to što se milostinja ne smije davati od tuđega, nego svatko treba davati milostinju od vlastitih pravednih trudova, kako kaže Augustin u knjizi O riječima Gospodnjim. Ali kad bi oni koji su podložni drugima davali milostinju, to bi bilo od tuđega. Dakle, oni koji su pod vlašću drugih ne mogu davati milostinju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a8.resp": {
+      "text": "Odgovaram: treba reći da se onaj koji je pod vlašću drugoga, ukoliko je takav, treba ravnati prema vlasti nadređenoga; to je naime naravni red, da se niže ravna prema višemu. Zato je potrebno da ono u čemu je podređeni podložan nadređenome raspoređuje samo onako kako mu je nadređeni povjerio. Tako, dakle, onaj koji je pod vlašću ne smije davati milostinju od stvari u pogledu koje je podložan nadređenome, osim ukoliko mu to nadređeni dopusti. Ako pak netko ima nešto u pogledu čega nije podložan vlasti nadređenoga, u tom pogledu već nije podložan vlasti, nego je u tome samostalan. I od toga može davati milostinju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da redovnik, ako mu je poglavar povjerio upravljanje, može davati milostinju od samostanskih stvari, prema onome što mu je povjereno. Ako pak nema upravljanja, budući da nema ništa svoje, tada ne može davati milostinju bez dopuštenja opata, bilo izričito dobivenoga bilo s vjerojatnošću pretpostavljenoga, osim možda u času krajnje potrebe, kada bi mu bilo dopušteno i ukrasti da bi dao milostinju. Niti zbog toga postaje gorega položaja, jer, kako se kaže u knjizi O crkvenim dogmama, *dobro je imetak s razborom dijeliti siromasima, ali je bolje, s nakanom da se slijedi Gospodin, sve odjednom darovati i, oslobođen brige, oskudijevati s Kristom*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a8.ad2": {
+      "text": "Na drugo treba reći da žena, ako osim miraza, koji je namijenjen podmirivanju bračnih tereta, ima druge stvari, bilo od vlastite zarade bilo na koji drugi dopušteni način, može davati milostinju i ne tražeći muževa pristanka, ali umjerenu, da muž ne osiromaši zbog njezine pretjeranosti. Inače pak ne smije davati milostinju bez muževa pristanka, bilo izričitoga bilo pretpostavljenoga, osim u času nužde, kao što je rečeno o redovniku. Jer premda je žena jednaka u bračnom činu, ipak je u onome što pripada upravljanju kućom muž glava žene, prema apostolu, 1 Kor 11. A blažena Lucija imala je zaručnika, a ne muža. Zato je uz majčin pristanak mogla davati milostinju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a8.ad3": {
+      "text": "Na treće treba reći da ono što pripada sinu pod očinskom vlašću pripada ocu. Zato on ne može davati milostinju (osim možda neku malu, za koju može pretpostaviti da bi se svidjela ocu), osim ako mu je otac možda povjerio upravljanje nekom stvari. Isto treba reći i o slugama.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a8.ad4": {
+      "text": "Odatle je jasno rješenje četvrtoga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da milostinju ne treba davati više bližim srodnicima. Kaže se, naime, u Sir 12: *Daj milosrdnome, a ne primaj grešnika; čini dobro poniznome, a ne daj bezbožniku*. Ali ponekad se dogodi da su naši srodnici grešnici i bezbožnici. Dakle, njima ne treba davati više milostinje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a9.obj2": {
+      "text": "Osim toga, milostinju treba davati radi uzdarja vječne plaće, prema onome iz Mt 6: *I Otac tvoj, koji vidi u skrovitosti, uzvratit će ti*. Ali vječno se uzdarje ponajviše stječe milostinjom koja se dijeli svetima, prema onome iz Lk 16: *Steknite sebi prijatelje mamonom nepravednosti, da vas, kad ponestanete, prime u vječne šatore*. Tumačeći to, Augustin u knjizi O riječima Gospodnjim kaže: *Tko su oni koji će imati vječna prebivališta ako ne Božji sveti? I tko su oni koje oni trebaju primiti u šatore ako ne oni koji služe njihovoj oskudici?* Dakle, milostinju treba davati više svetijima nego bližim srodnicima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a9.obj3": {
+      "text": "Osim toga, čovjek je samome sebi najbliži. Ali čovjek ne može samome sebi dati milostinju. Dakle, čini se da ne treba davati više milostinje osobi koja nam je tješnje povezana.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a9.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u 1 Tim 5: *Ako se tko ne brine za svoje, a osobito za ukućane, zanijekao je vjeru i gori je od nevjernika*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a9.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Augustin u I. knjizi O kršćanskom nauku, oni koji su s nama tješnje povezani dopadaju nam takoreći nekim ždrijebom, tako da se za njih moramo više brinuti. Ipak, u tome valja primijeniti razborito razlučivanje, prema razlici povezanosti, svetosti i korisnosti. Jer mnogo svetijemu, koji trpi veću oskudicu i koji je korisniji za opće dobro, treba dati više milostinje nego bližem srodniku; osobito ako nam nije toliko povezan da bi nas teretila posebna briga za njega i ako ne trpi veliku nuždu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da grešniku ne treba pomagati ukoliko je grešnik, to jest tako da ga se time podupire u grijehu, nego ukoliko je čovjek, to jest tako da se uzdrži njegova narav.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a9.ad2": {
+      "text": "Na drugo treba reći da djelo milostinje vrijedi za plaću vječnoga uzdarja na dva načina. Na jedan način, iz korijena ljubavi. I prema tome je milostinja zaslužna ukoliko se u njoj čuva red ljubavi, prema kojemu se moramo više brinuti za bliže, kad su ostale okolnosti jednake. Zato Ambrozije kaže u I. knjizi O dužnostima: *Valja odobriti onu darežljivost da ne prezreš svoje krvne srodnike ako znaš da su u potrebi; bolje je, naime, da sam pomogneš svojima, kojima je sram tražiti od drugih sredstva za život*. Na drugi način milostinja vrijedi za uzdarje vječnoga života po zasluzi onoga kojemu se daje, koji moli za onoga koji je dao milostinju. I u tom smislu ondje govori Augustin.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a9.ad3": {
+      "text": "Na treće treba reći da, budući da je milostinja djelo milosrđa, kao što milosrđe nije u vlastitom smislu prema samome sebi, nego po nekoj sličnosti, kako je gore rečeno, tako, govoreći u vlastitom smislu, ni milostinju nitko ne daje samome sebi, osim možda u ime drugoga. Na primjer, kad je netko postavljen za djelitelja milostinje, može i sam sebi uzeti, ako je u potrebi, na isti način na koji i drugima dijeli.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da milostinju ne treba davati obilno. Milostinju, naime, treba ponajviše davati onima koji su nam tješnje povezani. Ali njima je ne treba davati tako da bi time htjeli postati bogatiji, kako kaže Ambrozije u I. knjizi O dužnostima. Dakle, ni drugima je ne treba davati obilno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a10.obj2": {
+      "text": "Osim toga, Ambrozije ondje kaže: *Imetak ne treba odjednom razasuti, nego razdjeljivati*. Ali obilje milostinje spada na razasipanje. Dakle, milostinju ne treba davati obilno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a10.obj3": {
+      "text": "Osim toga, u 2 Kor 8 Apostol kaže: ne da drugima bude olakšanje, to jest da drugi besposleno žive od našega, a vama nevolja, to jest siromaštvo. Ali to bi se dogodilo kad bi se milostinja davala obilno. Dakle, milostinju ne treba udjeljivati obilno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a10.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Tob 4: *Ako budeš imao mnogo, daji obilno*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a10.resp": {
+      "text": "Odgovaram: treba reći da se obilje milostinje može promatrati i sa strane davatelja i sa strane primatelja. Sa strane davatelja, naime, kad netko daje ono što je mnogo u razmjeru s vlastitim mogućnostima. I tako je hvalevrijedno davati obilno; zato je i Gospodin u Lk 21 pohvalio udovicu koja je *od svoje oskudice ubacila sve što je imala za život*, ali uz poštivanje onoga što je gore rečeno o davanju milostinje od nužnoga. Sa strane pak onoga kojemu se daje, milostinja je obilna na dva načina. Na jedan način, tako da dostatno podmiri njegovu oskudicu. I tako je hvalevrijedno obilno davati milostinju. Na drugi način, tako da prelazi mjeru do suvišnosti. I to nije hvalevrijedno, nego je bolje udijeliti većem broju potrebitih. Zato i Apostol kaže u 1 Kor 13: *Kad bih razdijelio za hranu siromasima*; ondje Glosa kaže: *Time se uči opreznost u milostinji, da se ne daje jednome nego mnogima, kako bi koristila većem broju*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da se onaj razlog odnosi na obilje koje premašuje nuždu primatelja milostinje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a10.ad2": {
+      "text": "Na drugo treba reći da onaj autoritet govori o obilju milostinje sa strane davatelja. Ali treba razumjeti da Bog ne želi da se odjednom razaspe sav imetak, osim pri promjeni životnog stanja. Zato ondje dodaje: *osim možda kao što je Elizej poklao svoje volove i nahranio siromahe onim što je imao, da ga ne bi vezala nikakva kućna briga*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q32.a10.ad3": {
+      "text": "Na treće treba reći da navedeni autoritet, s obzirom na ono što kaže: ne da drugima bude olakšanje ili okrepa, govori o obilju milostinje koje premašuje nuždu primatelja, kojemu milostinju ne treba davati zato da od nje raskošno živi, nego da se od nje uzdržava. U tome ipak treba primijeniti razborito razlučivanje zbog različitih stanja ljudi, od kojih neki, odgojeni u većoj profinjenosti, trebaju profinjeniju hranu ili odjeću. Zato i Ambrozije kaže u knjizi O dužnostima: *Pri udjeljivanju treba uzeti u obzir dob i slabost. Ponekad i stid, koji odaje plemenito podrijetlo. Ili ako je tko bez svoje krivnje iz bogatstva pao u siromaštvo*. A s obzirom na ono što se dodaje: a vama nevolja, govori o obilju sa strane davatelja. Ali, kako ondje kaže Glosa, to ne kaže zato što ne bi bilo bolje, naime davati obilno, *nego se boji za slabe, koje opominje da tako daju da ne trpe oskudicu*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    }
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 34,
+  "units": {
+    "II-II.q34.pr": {
+      "text": "Zatim treba razmotriti poroke suprotstavljene ljubavi. I to, prvo, mržnju, koja je suprotstavljena samom činu ljubavi; drugo, duhovnu lijenost (acediju) i zavist, koje su suprotstavljene radosti ljubavi; treće, neslogu i raskol, koji su suprotstavljeni miru; četvrto, uvredu i sablazan, koje su suprotstavljene dobročinstvu i bratskoj opomeni. O prvome se postavlja šest pitanja: prvo, može li se Boga mrziti. Drugo, je li mržnja prema Bogu najveći od grijeha. Treće, je li mržnja prema bližnjemu uvijek grijeh. Četvrto, je li ona najveća među grijesima koji su protiv bližnjega. Peto, je li glavni porok. Šesto, iz kojega glavnog poroka nastaje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nitko ne može mrziti Boga. Dionizije, naime, kaže u 4. poglavlju O božanskim imenima da je *svima ljubljivo i vrijedno ljubavi samo dobro i lijepo*. Ali Bog je sama dobrota i ljepota. Dakle, nitko ga ne mrzi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a1.obj2": {
+      "text": "Osim toga, u Ezrinim apokrifima kaže se da *sve zaziva istinu i blagonaklono prihvaća njezina djela*. Ali Bog je sama istina, kako se kaže Iv 14. Dakle, svi ljube Boga i nitko ga ne može mrziti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a1.obj3": {
+      "text": "Osim toga, mržnja je neko odvraćanje. Ali, kako kaže Dionizije u 4. poglavlju O božanskim imenima, Bog sve okreće k sebi. Dakle, nitko ga ne može mrziti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu: *oholost onih koji te mrze uzdiže se neprestano*; i Iv 15: *a sada su i vidjeli i zamrzili i mene i Oca moga*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kako je jasno iz gore rečenoga, mržnja neki pokret težnjene moći, koja se ne pokreće osim od nečega zahvaćenoga. A Boga čovjek može zahvatiti dvojako: na jedan način, po njemu samome, primjerice kad ga se gleda po biti; na drugi način, po njegovim učincima, naime kad se *nevidljivo Božje motri shvaćeno po onome što je stvoreno*. A Bog je po svojoj biti sama dobrota, koju nitko ne može mrziti, jer pojmu dobra pripada da ga se ljubi. I zato je nemoguće da itko tko gleda Boga po biti mrzi ga. Ali postoje neki njegovi učinci koji ni na koji način ne mogu biti protivni ljudskoj volji, jer biti, živjeti i shvaćati jest poželjno i ljubljivo svima, a to su neki Božji učinci. Stoga se ni Boga, ukoliko ga se zahvaća kao začetnika tih učinaka, ne može mrziti. A postoje neki Božji učinci koji se protive neurednoj volji, kao što je nanošenje kazne; a i obuzdavanje grijeha po božanskom zakonu, koje se protivi volji izopačenoj grijehom. I s obzirom na razmatranje takvih učinaka neki mogu mrziti Boga, ukoliko ga se, naime, zahvaća kao onoga koji zabranjuje grijehe i nanosi kazne.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj razlog vrijedi za one koji gledaju Božju bit, koja je sama bit dobrote.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a1.ad2": {
+      "text": "Na drugo treba reći da taj razlog vrijedi s obzirom na to da se Boga zahvaća kao uzrok onih učinaka koje ljudi naravno ljube, a među njima su djela istine koja ljudima pruža spoznaju o sebi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a1.ad3": {
+      "text": "Na treće treba reći da Bog sve okreće k sebi ukoliko je počelo bitka, jer sve, ukoliko jest, teži prema sličnosti s Bogom, koji je sam bitak.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da mržnja prema Bogu nije najveći od grijeha. Najteži je, naime, grijeh grijeh protiv Duha Svetoga, koji je neoprostiv, kako se kaže Mt 12. Ali mržnja prema Bogu ne ubraja se među vrste grijeha protiv Duha Svetoga, kako je jasno iz gore rečenoga. Dakle, mržnja prema Bogu nije najteži od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a2.obj2": {
+      "text": "Osim toga, grijeh se sastoji u udaljavanju od Boga. Ali čini se da je od Boga udaljeniji nevjernik, koji nema ni spoznaje o Bogu, nego vjernik, koji ga, iako mrzi Boga, ipak barem spoznaje. Dakle, čini se da je grijeh nevjere teži od grijeha mržnje prema Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a2.obj3": {
+      "text": "Osim toga, Boga se mrzi samo zbog njegovih učinaka koji se protive volji, među kojima je najvažnija kazna. Ali mrziti kaznu nije najveći od grijeha. Dakle, mržnja prema Bogu nije najveći od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a2.sc": {
+      "text": "Ali protiv toga je to što je najboljemu suprotstavljeno najgore, kako je jasno po Filozofu u 8. knjizi Etike. A mržnja prema Bogu suprotstavljena je ljubavi prema Bogu, u kojoj se sastoji ono najbolje u čovjeku. Dakle, mržnja prema Bogu najgori je čovjekov grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a2.resp": {
+      "text": "Odgovaram: treba reći da se nedostatak grijeha sastoji u odvraćanju od Boga, kako je gore rečeno. A takvo odvraćanje ne bi imalo obilježje krivnje kad ne bi bilo voljno. Stoga se pojam krivnje sastoji u voljnom odvraćanju od Boga. A to je voljno odvraćanje od Boga po sebi sadržano u mržnji prema Bogu, a u drugim grijesima kao po sudjelovanju i po nečemu drugome. Kao što, naime, volja po sebi prianja uz ono što ljubi, tako po sebi bježi od onoga što mrzi; stoga, kad netko mrzi Boga, njegova se volja po sebi od njega odvraća. Ali u drugim grijesima, primjerice kad netko bludniči, on se ne odvraća od Boga po sebi, nego po nečemu drugome, naime ukoliko teži za neurednom nasladom, s kojom je povezano odvraćanje od Boga. A ono što je po sebi uvijek je jače od onoga što je po nečemu drugome. Stoga je mržnja prema Bogu teža od ostalih grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je, kako kaže Grgur u 25. knjizi Moralija, *jedno ne činiti dobro, a drugo mrziti darovatelja dobara, kao što je jedno griješiti iz naglosti, a drugo iz promišljenosti*; iz čega se daje razumjeti da mrziti Boga, darovatelja svih dobara, znači griješiti iz promišljenosti, a to je grijeh protiv Duha Svetoga. Stoga je očito da je mržnja prema Bogu ponajviše grijeh protiv Duha Svetoga, ukoliko grijeh protiv Duha Svetoga označuje neki poseban rod grijeha. Ipak se ne ubraja među vrste grijeha protiv Duha Svetoga zato što se općenito nalazi u svakoj vrsti grijeha protiv Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a2.ad2": {
+      "text": "Na drugo treba reći da sama nevjera nema obilježje krivnje osim ukoliko je voljna. I zato je to teža što je voljnija. A to da je voljna proizlazi iz toga što netko mrzi istinu koja mu se predlaže. Stoga je jasno da obilježje grijeha u nevjeri potječe od mržnje prema Bogu, o čijoj je istini vjera. I zato, kao što je uzrok jači od učinka, tako je mržnja prema Bogu veći grijeh od nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a2.ad3": {
+      "text": "Na treće treba reći da ne mrzi Boga, začetnika kazni, svatko tko mrzi kazne; jer mnogi mrze kazne, a ipak ih strpljivo podnose iz poštovanja prema božanskoj pravednosti. Stoga i Augustin kaže u 10. knjizi Ispovijesti da Bog zapovijeda da kaznena zla podnosimo, a ne da ih ljubimo. Ali provaliti u mržnju prema Bogu koji kažnjava, to znači mrziti samu Božju pravednost, a to je najteži grijeh. Stoga Grgur kaže u 25. knjizi Moralija: *kao što je katkad teže grijeh ljubiti nego ga počiniti, tako je opakije mrziti pravednost nego je ne činiti*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nije svaka mržnja prema bližnjemu grijeh. Nikakav se, naime, grijeh ne nalazi u zapovijedima ili savjetima božanskoga zakona, prema onome Izr 8: *Pravi su svi govori moji, nema u njima ničega iskrivljenoga ni izopačenoga*. Ali Lk 14 kaže se: *Ako tko dolazi k meni, a ne mrzi oca i majku, ne može biti moj učenik*. Dakle, nije svaka mržnja prema bližnjemu grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a3.obj2": {
+      "text": "Osim toga, ne može biti grijeh ono u čemu nasljedujemo Boga. Ali nasljedujući Boga neke mrzimo, jer se kaže Rim 1: *klevetnici, Bogu mrski*. Dakle, možemo neke mrziti bez grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a3.obj3": {
+      "text": "Osim toga, ništa od onoga što je naravno nije grijeh, jer je *grijeh odstupanje od onoga što je po naravi*, kako kaže Damaščanin u 2. knjizi. Ali svakoj je stvari naravno da mrzi ono što joj je protivno i što nastoji oko njezina propadanja. Dakle, čini se da nije grijeh to što netko mrzi svoga neprijatelja.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže 1 Iv 2: *Tko mrzi brata svoga, u tami je*. A duhovna su tama grijesi. Dakle, mržnja prema bližnjemu ne može biti bez grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a3.resp": {
+      "text": "Odgovaram: treba reći da je mržnja suprotstavljena ljubavi, kako je gore rečeno. Stoga mržnja ima toliko od pojma zla koliko ljubav ima od pojma dobra. A ljubav se duguje bližnjemu po onome što ima od Boga, to jest po naravi i milosti, a ne duguje mu se ljubav po onome što ima od sebe i od đavla, naime po grijehu i nedostatku pravednosti. I zato je dopušteno mrziti u bratu grijeh i sve ono što pripada nedostatku božanske pravednosti, ali samu bratovu narav i milost nitko ne može mrziti bez grijeha. A to samo što u bratu mrzimo krivnju i nedostatak dobra pripada ljubavi prema bratu, jer je istoga pojma da hoćemo nečije dobro i da mrzimo njegovo zlo. Stoga je mržnja prema bratu, uzeta naprosto, uvijek s grijehom.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da roditelje, s obzirom na narav i srodstvo kojim su s nama povezani, trebamo prema Božjoj zapovijedi poštovati, kako je jasno iz Izl 20. A treba ih mrziti s obzirom na to da nam priječe pristup k savršenosti božanske pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a3.ad2": {
+      "text": "Na drugo treba reći da Bog u klevetnicima mrzi krivnju, a ne narav. I tako možemo bez krivnje mrziti klevetnike.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a3.ad3": {
+      "text": "Na treće treba reći da nam ljudi po dobrima koja imaju od Boga nisu protivni, pa ih s obzirom na to treba ljubiti. A protive nam se ukoliko protiv nas iskazuju neprijateljstvo, što pripada njihovoj krivnji, i s obzirom na to treba ih mrziti. To, naime, u njima trebamo mrziti, što su nam neprijatelji.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je mržnja prema bližnjemu najteži od grijeha koji se počinjaju protiv bližnjega. Kaže se, naime, 1 Iv 3: *Svaki koji mrzi brata svoga ubojica je*. Ali ubojstvo je najteži od grijeha koji se počinjaju protiv bližnjega. Dakle, i mržnja.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a4.obj2": {
+      "text": "Osim toga, najgore je suprotstavljeno najboljem. Ali najbolje od onoga što iskazujemo bližnjemu jest ljubav, jer se sve ostalo odnosi na ljubav. Dakle, i najgore je mržnja.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a4.sc1": {
+      "text": "Ali protiv toga, zlim se naziva ono što škodi, prema Augustinu u Enhiridiju. A netko više škodi bližnjemu drugim grijesima nego mržnjom, primjerice krađom, ubojstvom i preljubom. Dakle, mržnja nije najteži grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a4.sc2": {
+      "text": "Osim toga, Zlatousti, tumačeći ono iz Mt: *Tko ukine jednu od ovih najmanjih zapovijedi*, kaže: *Mojsijeve zapovijedi, Ne ubij, Ne čini preljuba, malene su u nagradi, a velike u grijehu; a Kristove zapovijedi, to jest Ne srdi se, Ne požudi, velike su u nagradi, a najmanje u grijehu*. A mržnja pripada unutarnjem pokretu, kao i srdžba i požuda. Dakle, mržnja prema bližnjemu manji je grijeh od ubojstva.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a4.resp": {
+      "text": "Odgovaram: treba reći da grijeh koji se počinja protiv bližnjega ima obilježje zla iz dvoga: na jedan način, iz poremećenosti onoga koji griješi; na drugi način, iz štete koja se nanosi onome protiv koga se griješi. Na prvi je, dakle, način mržnja veći grijeh od vanjskih čina koji idu na štetu bližnjega, jer se, naime, mržnjom poremećuje volja čovjekova, koja je ono najvažnije u čovjeku i iz koje je korijen grijeha. Stoga, kad bi vanjski čini bili neuredni bez neurednosti volje, ne bi bili grijesi, primjerice kad netko iz neznanja ili iz revnosti za pravednost ubije čovjeka. I ako ima kakve krivnje u vanjskim grijesima koji se počinjaju protiv bližnjega, sva je od unutarnje mržnje. Ali s obzirom na štetu koja se nanosi bližnjemu, vanjski su grijesi gori od unutarnje mržnje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a4.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je mržnja glavni porok. Mržnja je, naime, izravno suprotstavljena ljubavi. Ali ljubav je najglavnija od kreposti i majka ostalih. Dakle, mržnja je ponajviše glavni porok i počelo svih ostalih.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a5.obj2": {
+      "text": "Osim toga, grijesi u nama nastaju prema sklonosti strasti, prema onome Rim 7: *Grješne su strasti djelovale u našim udovima da donose plod smrti*. Ali čini se da u strastima duše sve ostale slijede iz ljubavi i mržnje, kako je jasno iz gore rečenoga. Dakle, mržnju treba ubrojiti među glavne poroke.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a5.obj3": {
+      "text": "Osim toga, porok je moralno zlo. Ali mržnja se prvotnije odnosi na zlo nego koja druga strast. Dakle, čini se da mržnju treba postaviti kao glavni porok.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a5.sc": {
+      "text": "Ali protiv toga je to što Grgur u 31. knjizi Moralija ne nabraja mržnju među sedam glavnih poroka.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a5.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, glavni porok onaj iz kojega najčešće nastaju drugi poroci. A porok je protiv naravi čovjeka ukoliko je on razumna životinja. A u onome što se čini protiv naravi malo-pomalo se kvari ono što je od naravi. Stoga se najprije mora odstupiti od onoga što je manje po naravi, a na kraju od onoga što je najviše po naravi, jer je ono što je prvo u izgradnji posljednje u razgradnji. A ono što je čovjeku najviše i najprije naravno jest da ljubi dobro, a osobito božansko dobro i dobro bližnjega. I zato mržnja, koja je suprotstavljena toj ljubavi, nije prva u razaranju kreposti, koje se zbiva po porocima, nego posljednja. I zato mržnja nije glavni porok.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kako se kaže u 7. knjizi Fizike, *krepost svake stvari sastoji u tome da je dobro raspoložena prema svojoj naravi*. I zato u krepostima mora biti prvo i glavno ono što je prvo i glavno u naravnom redu. I zbog toga se ljubav postavlja kao najglavnija od kreposti. I iz istoga razloga mržnja ne može biti prva među porocima, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a5.ad2": {
+      "text": "Na drugo treba reći da je mržnja prema zlu koje se protivi naravnom dobru prva među strastima duše, kao i ljubav prema naravnom dobru. Ali mržnja prema sunaravnom dobru ne može biti prva, nego ima obilježje posljednjega, jer takva mržnja svjedoči o već nastaloj pokvarenosti naravi, kao i ljubav prema dobru koje je naravi strano.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a5.ad3": {
+      "text": "Na treće treba reći da je zlo dvojako. Jedno je istinsko, naime ono koje se protivi naravnom dobru, i mržnja prema tome zlu može imati obilježje prvenstva među strastima. A drugo je zlo koje nije istinsko, nego prividno, naime ono što je istinsko i sunaravno dobro, ali se smatra zlom zbog pokvarenosti naravi. I mržnja prema takvu zlu mora biti na posljednjem mjestu. A ta je mržnja poročna, ali nije prva.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da mržnja ne nastaje iz zavisti. Zavist je, naime, neka žalost zbog tuđih dobara. A mržnja ne nastaje iz žalosti, nego prije obratno, jer se žalostimo zbog prisutnosti zala koja mrzimo. Dakle, mržnja ne nastaje iz zavisti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a6.obj2": {
+      "text": "Osim toga, mržnja je suprotstavljena ljubavi. Ali ljubav prema bližnjemu odnosi se na ljubav prema Bogu, kako je gore utvrđeno. Dakle, i mržnja prema bližnjemu odnosi se na mržnju prema Bogu. Ali mržnja prema Bogu nije uzrokovana zavišću, jer ne zavidimo onima koji su od nas najudaljeniji, nego onima koji nam se čine bliskima, kako je jasno po Filozofu u 2. knjizi Retorike. Dakle, mržnja nije uzrokovana zavišću.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a6.obj3": {
+      "text": "Osim toga, jedan učinak ima jedan uzrok. Ali mržnja je uzrokovana srdžbom, jer Augustin kaže u Pravilu da srdžba prerasta u mržnju. Dakle, mržnja nije uzrokovana zavišću.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a6.sc": {
+      "text": "Ali protiv toga je ono što Grgur kaže u 31. knjizi Moralija, da iz zavisti nastaje mržnja.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a6.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, mržnja prema bližnjemu posljednja u napredovanju grijeha, zato što je suprotstavljena ljubavi kojom se bližnji naravno ljubi. A to da netko odstupi od onoga što je naravno događa se zbog toga što smjera izbjeći nešto od čega se naravno treba bježati. A svaka životinja naravno bježi od žalosti, kao što i teži za nasladom, kako je jasno po Filozofu u 7. i 10. knjizi Etike. I zato, kao što iz naslade biva uzrokovana ljubav, tako iz žalosti biva uzrokovana mržnja; jer kao što bivamo pokrenuti da ljubimo ono što nas naslađuje, ukoliko se upravo time prima pod pojmom dobra, tako bivamo pokrenuti da mrzimo ono što nas žalosti, ukoliko se upravo time prima pod pojmom zla. Stoga, budući da je zavist žalost zbog dobra bližnjega, slijedi da nam dobro bližnjega postaje mrsko. I odatle biva da iz zavisti nastaje mržnja.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da se težnjena sila, kao i zahvatna, vraća na svoje čine, slijedi da u pokretima težnjene snage postoji neko kruženje. Prema prvome, dakle, tijeku težnjenoga pokreta, iz ljubavi slijedi želja, a iz nje slijedi naslada, kad netko postigne ono što je želio. A budući da upravo to naslađivati se ljubljenim dobrom ima neko obilježje dobra, slijedi da naslada uzrokuje ljubav. I po istom razlogu slijedi da žalost uzrokuje mržnju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a6.ad2": {
+      "text": "Na drugo treba reći da kod ljubavi i kod mržnje nije isti razlog. Jer predmet je ljubavi dobro, koje se od Boga izvodi u stvorove, i zato je ljubav prije prema Bogu, a kasnije prema bližnjemu. Ali mržnja je prema zlu, koje nema mjesta u samome Bogu, nego u njegovim učincima; stoga je i gore rečeno da se Boga mrzi samo ukoliko ga se zahvaća po njegovim učincima. I zato je mržnja prema bližnjemu prije nego mržnja prema Bogu. Stoga, budući da je zavist prema bližnjemu majka mržnje prema bližnjemu, ona posljedično postaje uzrokom mržnje prema Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    },
+    "II-II.q34.a6.ad3": {
+      "text": "Na treće treba reći da ništa ne priječi da nešto po različitim pojmovima nastaje iz različitih uzroka. I prema tome mržnja može nastati i iz srdžbe i iz zavisti. Ipak izravnije nastaje iz zavisti, po kojoj samo dobro bližnjega postaje žalosno, a posljedično i mrsko. A iz srdžbe mržnja nastaje po nekom porastu. Jer najprije po srdžbi težimo za zlom bližnjega u nekoj mjeri, naime ukoliko ono ima obilježje osvete, a poslije se trajanjem srdžbe dolazi do toga da čovjek bezuvjetno želi zlo bližnjega, što pripada pojmu mržnje. Stoga je jasno da je mržnja zavišću uzrokovana formalno, po pojmu predmeta, a srdžbom na način raspoloživosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:56+00:00"
+    }
+  }
+}

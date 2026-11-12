@@ -1,0 +1,636 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 26,
+  "units": {
+    "II-II.q26.pr": {
+      "text": "Zatim treba razmotriti red ljubavi. I u vezi s tim postavlja se trinaest pitanja. Prvo, postoji li neki red u ljubavi. Drugo, treba li čovjek ljubiti Boga više nego bližnjega. Treće, više nego samoga sebe. Četvrto, sebe više nego bližnjega. Peto, treba li čovjek više ljubiti bližnjega nego vlastito tijelo. Šesto, jednoga bližnjega više nego drugoga. Sedmo, treba li više ljubiti boljega bližnjega ili onoga koji je s njim tješnje povezan. Osmo, onoga koji je s njim povezan tjelesnim srodstvom ili onoga koji je povezan drugim vezama. Deveto, treba li iz ljubavi više ljubiti sina nego oca. Deseto, treba li više ljubiti majku nego oca. Jedanaesto, ženu više nego oca ili majku. Dvanaesto, treba li više ljubiti dobročinitelja nego onoga kome je učinjeno dobročinstvo. Trinaesto, ostaje li red ljubavi u domovini.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da u ljubavi nema nikakva reda. Ljubav je naime neka krepost. Ali u drugim krepostima ne određuje se nikakav red. Dakle, ni u ljubavi ne treba određivati nikakav red.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a1.obj2": {
+      "text": "Osim toga, kao što je predmet vjere prva istina, tako je predmet ljubavi najviša dobrota. Ali u vjeri se ne postavlja nikakav red, nego se sve jednako vjeruje. Dakle, ni u ljubavi ne treba postavljati nikakav red.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a1.obj3": {
+      "text": "Osim toga, ljubav je u volji. A uređivati nije stvar volje, nego razuma. Dakle, red ne treba pripisivati ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Pj 2: *Uvede me kralj u podrum vinski; uredi u meni ljubav*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a1.resp": {
+      "text": "Odgovaram: treba reći da se, kako kaže Filozof u V. knjizi Metafizike, prije i kasnije kaže s obzirom na odnos prema nekom počelu. A red uključuje u sebi neki način prijašnjega i kasnijega. Stoga je nužno da posvuda gdje postoji neko počelo postoji i neki red. A gore je rečeno da čin ljubavi teži prema Bogu kao prema počelu blaženstva, na zajedništvu u kojem se temelji prijateljstvo ljubavi. Zato je nužno da se u onome što se ljubi iz ljubavi pazi na neki red, s obzirom na odnos prema prvom počelu te ljubavi, a to je Bog.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da ljubav teži prema posljednjoj svrsi pod vidom posljednje svrhe, što ne pristaje nijednoj drugoj kreposti, kako je gore rečeno. A svrha ima značaj počela u onome što je poželjno i u onome što treba činiti, kako je jasno iz prije rečenoga. Zato ljubav ponajviše uključuje usporedbu s prvim počelom. I zato se u njoj ponajviše razmatra red s obzirom na odnos prema prvom počelu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a1.ad2": {
+      "text": "Na drugo treba reći da vjera pripada spoznajnoj sili, čije se djelovanje zbiva tako da su spoznate stvari u onome koji spoznaje. A ljubav je u čuvstvenoj sili, čije se djelovanje sastoji u tome da duša teži prema samim stvarima. A red se izvornije nalazi u samim stvarima, a iz njih se izvodi u našu spoznaju. Zato se red više prisvaja ljubavi nego vjeri. Premda i u vjeri postoji neki red, ukoliko se ona ponajprije odnosi na Boga, a drugotno na ostalo što se upućuje na Boga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a1.ad3": {
+      "text": "Na treće treba reći da red pripada razumu kao onome koji uređuje, a težnjenoj sili pripada kao onome što je uređeno. I na taj se način red postavlja u ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Boga ne treba ljubiti više nego bližnjega. Kaže se naime u 1 Iv 4: *Tko ne ljubi brata svoga, koga vidi, kako može ljubiti Boga, koga ne vidi?* Iz toga se čini da se više može ljubiti ono što je vidljivije; jer i viđenje je počelo ljubavi, kako se kaže u IX. knjizi Etike. Ali Bog je manje vidljiv nego bližnji. Dakle, i iz ljubavi se on manje može ljubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a2.obj2": {
+      "text": "Osim toga, sličnost je uzrok ljubavi, prema onome u Sir 13: *Svako živo biće ljubi sebi slično*. Ali veća je sličnost čovjeka s njegovim bližnjim nego s Bogom. Dakle, čovjek iz ljubavi više ljubi bližnjega nego Boga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a2.obj3": {
+      "text": "Osim toga, ono što ljubav ljubi u bližnjemu jest Bog, kako je jasno iz Augustina, u I. knjizi O kršćanskom nauku. Ali Bog nije veći u samome sebi nego u bližnjemu. Dakle, ne treba ga više ljubiti u njemu samome nego u bližnjemu. Dakle, Boga ne treba ljubiti više nego bližnjega.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a2.sc": {
+      "text": "Ali protiv toga, više treba ljubiti ono radi čega treba mrziti neke druge. Ali bližnje treba mrziti radi Boga, naime ako odvode od Boga, prema onome u Lk 14: *Ako tko dođe k meni, a ne mrzi oca i majku, i ženu i sinove, i braću i sestre, ne može biti moj učenik*. Dakle, iz ljubavi Boga treba ljubiti više nego bližnjega.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a2.resp": {
+      "text": "Odgovaram: treba reći da svako prijateljstvo ponajprije gleda na ono u čemu se ponajprije nalazi ono dobro na čijem se zajedništvu temelji; tako političko prijateljstvo ponajprije gleda na vladara države, o kojemu ovisi cijelo opće dobro države, pa mu stoga građani ponajviše duguju vjernost i poslušnost. A prijateljstvo ljubavi temelji se na zajedništvu u blaženstvu, koje se bitno sastoji u Bogu kao u prvom počelu, od kojega se izvodi na sve koji su sposobni za blaženstvo. Zato Boga iz ljubavi treba ljubiti ponajprije i najviše: on se naime ljubi kao uzrok blaženstva, a bližnji kao onaj koji zajedno s nama od njega ima udjela u blaženstvu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je nešto uzrok ljubavi na dva načina. Na jedan način, kao ono što je razlog ljubavi. I na taj je način dobro uzrok ljubavi, jer se svaka stvar ljubi ukoliko ima pojam dobra. Na drugi način, jer je neki put do stjecanja ljubavi. I na taj je način viđenje uzrok ljubavi; ne doduše tako da bi se nešto moglo ljubiti zato što je vidljivo, nego zato što nas viđenje dovodi do ljubavi. Ne treba dakle da se ono što je vidljivije i više može ljubiti, nego da nam se prije nudi da ga ljubimo. I na taj način argumentira Apostol. Bližnji nam se naime, budući da nam je vidljiviji, prvi nudi da ga ljubimo; *iz onoga što poznaje duh se uči ljubiti nepoznato*, kako kaže Grgur u nekoj homiliji. Stoga, ako netko ne ljubi bližnjega, može se zaključiti da ne ljubi ni Boga; ne zato što bi se bližnji više mogao ljubiti, nego zato što se prije nudi da bude ljubljen. A Bog se više može ljubiti zbog veće dobrote.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a2.ad2": {
+      "text": "Na drugo treba reći da je sličnost koju imamo s Bogom prvotna i uzrok sličnosti koju imamo s bližnjim: time naime što od Boga imamo udjela u onome što i bližnji od njega ima, postajemo slični bližnjemu. Zato zbog sličnosti moramo više ljubiti Boga nego bližnjega.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a2.ad3": {
+      "text": "Na treće treba reći da je Bog, promatran prema svojoj supstanciji, jednak u čemu god bio, jer se ne umanjuje time što je u nečemu. Ali ipak bližnji nema Božju dobrotu jednako kao što je ima Bog: Bog je naime ima po biti, a bližnji po sudjelovanju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da čovjek iz ljubavi ne mora ljubiti Boga više nego samoga sebe. Filozof naime kaže u IX. knjizi Etike da *ono prijateljsko što je prema drugome dolazi od onoga prijateljskog što je prema samome sebi*. Ali uzrok je jači od učinka. Dakle, veće je čovjekovo prijateljstvo prema samome sebi nego prema bilo kome drugome. Dakle, mora više ljubiti sebe nego Boga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a3.obj2": {
+      "text": "Osim toga, svaka se stvar ljubi ukoliko je vlastito dobro. Ali ono što je razlog ljubavi ljubi se više nego ono što se ljubi zbog toga razloga, kao što se načela, koja su razlog spoznavanja, više spoznaju. Dakle, čovjek više ljubi samoga sebe nego bilo koje drugo ljubljeno dobro. Dakle, ne ljubi Boga više nego samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a3.obj3": {
+      "text": "Osim toga, koliko netko ljubi Boga, toliko ljubi uživati u njemu. Ali koliko netko ljubi uživati u Bogu, toliko ljubi samoga sebe, jer je to najveće dobro koje netko može htjeti sebi. Dakle, čovjek iz ljubavi ne mora ljubiti Boga više nego samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u I. knjizi O kršćanskom nauku: *Ako samoga sebe ne trebaš ljubiti radi sebe, nego radi onoga u kojemu je najispravnija svrha tvoje ljubavi, neka se ne ljuti nijedan drugi čovjek ako i njega ljubiš radi Boga*. Ali ono zbog čega je svaka stvar takva, to je i samo još više takvo. Dakle, čovjek mora više ljubiti Boga nego samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a3.resp": {
+      "text": "Odgovaram: treba reći da od Boga možemo primiti dvostruko dobro, naime dobro naravi i dobro milosti. Na zajedništvu naravnih dobara koje nam je Bog dao temelji se naravna ljubav, kojom ne samo čovjek u cjelovitosti svoje naravi ljubi Boga iznad svega i više nego samoga sebe, nego i svaki stvor na svoj način, to jest ili umskom ili razumskom ili životinjskom ljubavlju, ili barem naravnom, kao kamenje i ostalo što je bez spoznaje; jer svaki dio po naravi više ljubi opće dobro cjeline nego posebno vlastito dobro. To se očituje iz djelovanja: svaki dio naime ima glavnu sklonost prema zajedničkoj radnji na korist cjeline. To se vidi i u političkim krepostima, prema kojima građani za opće dobro katkad podnose i štete na vlastitim stvarima i na vlastitim osobama. Stoga se to mnogo više obistinjuje u prijateljstvu ljubavi, koje se temelji na zajedništvu darova milosti. Zato čovjek iz ljubavi mora više ljubiti Boga, koji je opće dobro svih, nego samoga sebe, jer je blaženstvo u Bogu kao u zajedničkom i izvorišnom počelu svih koji mogu imati udjela u blaženstvu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozof govori o onome prijateljskom što je prema drugome u kojemu se dobro koje je predmet prijateljstva nalazi na neki posebni način, a ne o onome prijateljskom što je prema drugome u kojemu se spomenuto dobro nalazi pod vidom cjeline.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a3.ad2": {
+      "text": "Na drugo treba reći da dio doduše ljubi dobro cjeline ukoliko mu je prikladno, ali ne tako da dobro cjeline upućuje na sebe, nego radije tako da sebe upućuje na dobro cjeline.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a3.ad3": {
+      "text": "Na treće treba reći da to što netko hoće uživati u Bogu pripada ljubavi kojom se Bog ljubi ljubavlju želje. A Boga više ljubimo ljubavlju prijateljstva nego ljubavlju želje, jer je Božje dobro u sebi veće od onoga u čemu možemo imati udjela uživajući u njemu. Zato čovjek iz ljubavi naprosto više ljubi Boga nego samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da čovjek iz ljubavi ne mora ljubiti samoga sebe više nego bližnjega. Glavni je naime predmet ljubavi Bog, kako je gore rečeno. Ali katkad čovjek ima bližnjega koji je s Bogom više povezan nego on sam. Dakle, takvoga netko mora ljubiti više nego samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a4.obj2": {
+      "text": "Osim toga, štetu onoga koga više ljubimo više izbjegavamo. Ali čovjek iz ljubavi podnosi štetu za bližnjega, prema onome u Izr 12: *Tko zanemaruje gubitak radi prijatelja, pravedan je*. Dakle, čovjek iz ljubavi mora više ljubiti drugoga nego samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a4.obj3": {
+      "text": "Osim toga, u 1 Kor 13 kaže se da *ljubav ne traži svoje*. Ali najviše ljubimo ono čije dobro najviše tražimo. Dakle, po ljubavi nitko ne ljubi samoga sebe više nego bližnjega.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Lev 19 i Mt 22: *Ljubit ćeš bližnjega svoga kao samoga sebe*; iz toga se čini da je čovjekova ljubav prema samome sebi kao uzor ljubavi koja se ima prema drugome. Ali uzor je jači od onoga što je načinjeno po uzoru. Dakle, čovjek iz ljubavi mora više ljubiti samoga sebe nego bližnjega.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a4.resp": {
+      "text": "Odgovaram: treba reći da su u čovjeku dvije stvari, naime duhovna narav i tjelesna narav. A za čovjeka se kaže da ljubi samoga sebe po tome što ljubi sebe prema duhovnoj naravi, kako je gore rečeno. I prema tome čovjek mora, poslije Boga, više ljubiti sebe nego bilo koga drugoga. To je jasno iz samoga razloga ljubavi. Jer, kako je gore rečeno, Bog se ljubi kao počelo dobra na kojemu se temelji čin ljubavi; a čovjek iz ljubavi ljubi samoga sebe prema razlogu po kojemu ima udjela u spomenutom dobru; a bližnji se ljubi prema razlogu zajedništva u tom dobru. A udruženost je razlog ljubavi prema nekom sjedinjenju u usmjerenosti prema Bogu. Stoga, kao što je jedinstvo jače od sjedinjenja, tako je to što čovjek sam ima udjela u božanskom dobru jači razlog ljubavi nego to što mu se drugi pridružuje u tom sudjelovanju. Zato čovjek iz ljubavi mora više ljubiti samoga sebe nego bližnjega. A znak je toga to što čovjek ne smije podvrgnuti se nikakvom zlu grijeha, koje se protivi sudjelovanju u blaženstvu, da bi bližnjega oslobodio od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da čin ljubavi ne dobiva kolikoću samo od predmeta, a to je Bog, nego i od onoga koji ljubi, a to je sam čovjek koji ima ljubav; kao što i kolikoća bilo koje radnje na neki način ovisi o samom subjektu. Zato, premda je bolji bližnji bliži Bogu, ipak, budući da nije tako blizu onome koji ima ljubav kao što je on sam sebi, ne slijedi da netko mora bližnjega ljubiti više nego samoga sebe.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a4.ad2": {
+      "text": "Na drugo treba reći da tjelesne štete čovjek mora podnositi radi prijatelja, i upravo time više ljubi samoga sebe s obzirom na duhovnu pamet, jer to pripada savršenosti kreposti, koja je dobro pameti. Ali u duhovnim stvarima čovjek ne smije trpjeti štetu griješeći da bi bližnjega oslobodio od grijeha, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a4.ad3": {
+      "text": "Na treće treba reći da, kako kaže Augustin u Pravilu, *ono što se kaže: ljubav ne traži svoje, razumije se tako da ona zajedničko stavlja ispred vlastitoga*. A zajedničko je dobro svakome uvijek vrednije ljubavi nego vlastito dobro, kao što je i samome dijelu vrednije ljubavi dobro cjeline nego djelomično dobro njega samoga, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da čovjek ne mora ljubiti bližnjega više nego vlastito tijelo. U bližnjemu se naime podrazumijeva i tijelo našega bližnjega. Ako dakle čovjek mora ljubiti bližnjega više nego vlastito tijelo, slijedi da mora tijelo bližnjega ljubiti više nego vlastito tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a5.obj2": {
+      "text": "Osim toga, čovjek mora vlastitu dušu ljubiti više nego bližnjega, kako je rečeno. Ali vlastito je tijelo bliže našoj duši nego bližnji. Dakle, vlastito tijelo moramo ljubiti više nego bližnjega.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a5.obj3": {
+      "text": "Osim toga, svatko izlaže ono što manje ljubi za ono što više ljubi. Ali nije svaki čovjek dužan izložiti vlastito tijelo za spas bližnjega, nego je to stvar savršenih, prema onome u Iv 15: *Veće ljubavi nitko nema od ove: da tko položi život svoj za svoje prijatelje*. Dakle, čovjek nije iz ljubavi dužan ljubiti bližnjega više nego vlastito tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u I. knjizi O kršćanskom nauku: *bližnjega moramo ljubiti više nego vlastito tijelo*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a5.resp": {
+      "text": "Odgovaram: treba reći da iz ljubavi treba više ljubiti ono što ima puniji pojam onoga što se može ljubiti iz ljubavi, kako je rečeno. A udruženost u punom sudjelovanju u blaženstvu, koja je razlog ljubavi prema bližnjemu, veći je razlog ljubavi nego sudjelovanje u blaženstvu po prelijevanju, koje je razlog ljubavi prema vlastitom tijelu. Zato bližnjega, s obzirom na spas duše, moramo ljubiti više nego vlastito tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, budući da se prema Filozofu u IX. knjizi Etike čini da je svaka stvar ono što je u njoj glavno, kada se kaže da bližnjega treba ljubiti više nego vlastito tijelo, to razumije s obzirom na dušu, koja je njegov jači dio.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a5.ad2": {
+      "text": "Na drugo treba reći da je naše tijelo bliže našoj duši nego bližnji s obzirom na sastav vlastite naravi. Ali s obzirom na sudjelovanje u blaženstvu, veća je udruženost duše bližnjega s našom dušom nego čak i udruženost vlastitoga tijela s njom.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a5.ad3": {
+      "text": "Na treće treba reći da na svakom čovjeku leži briga za vlastito tijelo, ali ne leži na svakom čovjeku briga za spas bližnjega, osim možda u posebnom slučaju. Zato ljubav ne zahtijeva nužno da čovjek izloži vlastito tijelo za spas bližnjega, osim u slučaju kada je dužan pobrinuti se za njegov spas. Ali da se netko za to dragovoljno ponudi, pripada savršenosti ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da jednoga bližnjega ne treba ljubiti više nego drugoga. Augustin naime kaže u I. knjizi O kršćanskom nauku: *Sve ljude treba jednako ljubiti. Ali budući da ne možeš svima koristiti, ponajprije se treba pobrinuti za one koji su s tobom, prema prilikama mjesta i vremena ili bilo kojih stvari, tješnje povezani kao nekim ždrijebom*. Dakle, od bližnjih jednoga ne treba ljubiti više nego drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a6.obj2": {
+      "text": "Osim toga, gdje je jedan te isti razlog ljubavi prema različitima, ne smije biti nejednaka ljubav. Ali jedan je razlog ljubavi prema svim bližnjima, naime Bog, kako je jasno iz Augustina u I. knjizi O kršćanskom nauku. Dakle, sve bližnje moramo jednako ljubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a6.obj3": {
+      "text": "Osim toga, ljubiti znači htjeti nekome dobro, kako je jasno iz Filozofa u II. knjizi Retorike. Ali svim bližnjima hoćemo jednako dobro, naime vječni život. Dakle, sve bližnje moramo jednako ljubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a6.sc": {
+      "text": "Ali protiv toga je to što svakoga treba to više ljubiti što teže griješi onaj koji djeluje protiv ljubavi prema njemu. Ali teže griješi onaj koji djeluje protiv ljubavi prema nekim bližnjima nego onaj koji djeluje protiv ljubavi prema drugima; stoga se u Lev 20 propisuje: *Tko prokune oca ili majku, neka se smrću kazni*, što se ne propisuje za one koji proklinju druge ljude. Dakle, neke od bližnjih moramo ljubiti više nego druge.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a6.resp": {
+      "text": "Odgovaram: treba reći da je o tome bilo dvojako mišljenje. Neki su naime rekli da sve bližnje treba iz ljubavi jednako ljubiti s obzirom na čuvstvo, ali ne s obzirom na vanjski učinak. Tvrdili su da red ljubavi treba razumjeti prema vanjskim dobročinstvima, koja više moramo iskazivati svojim bližnjima nego tuđincima, a ne prema unutarnjem čuvstvu, koje moramo jednako iskazivati svima, čak i neprijateljima. Ali to se kaže nerazumno. Nije naime čuvstvo ljubavi, koje je sklonost milosti, manje uređeno nego naravna težnja, koja je sklonost naravi: obje naime sklonosti proizlaze iz Božje mudrosti. A u naravnim stvarima vidimo da je naravna sklonost razmjerna činu ili gibanju koji pristaje naravi svake stvari; tako zemlja ima veću sklonost težine nego voda, jer joj pripada da bude ispod vode. Nužno je dakle da i sklonost milosti, a to je čuvstvo ljubavi, bude razmjerna onome što treba izvana činiti, tako naime da jače čuvstvo ljubavi imamo prema onima kojima nam priliči više činiti dobro. Zato treba reći da i s obzirom na čuvstvo treba jednoga od bližnjih ljubiti više nego drugoga. A razlog je to što, budući da je počelo ljubavi Bog i sam onaj koji ljubi, nužno je da veće čuvstvo ljubavi bude prema većoj blizini jednome od tih počela; jer, kako je gore rečeno, u svemu u čemu se nalazi neko počelo, red se određuje prema usporedbi s tim počelom.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da ljubav može biti nejednaka na dva načina. Na jedan način, s obzirom na ono dobro koje želimo prijatelju. I s obzirom na to sve ljude iz ljubavi jednako ljubimo, jer svima želimo isto dobro po rodu, naime vječno blaženstvo. Na drugi se način ljubav naziva većom zbog jačega čina ljubavi. I tako ne treba sve jednako ljubiti. Ili treba drugačije reći da se ljubav prema nekima može imati nejednako na dva načina. Na jedan način, tako što se neki ljube, a drugi se ne ljube. I tu nejednakost treba čuvati u dobročinstvu, jer ne možemo svima koristiti; ali u dobrohotnosti ljubavi takve nejednakosti ne smije biti. Druga je pak nejednakost ljubavi u tome što se neki ljube više nego drugi. Augustin dakle ne namjerava isključiti ovu nejednakost, nego prvu, kako je jasno iz onoga što kaže o dobročinstvu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a6.ad2": {
+      "text": "Na drugo treba reći da se svi bližnji ne odnose jednako prema Bogu, nego su mu neki bliži zbog veće dobrote. Njih iz ljubavi treba ljubiti više nego druge, koji su mu manje bliski.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a6.ad3": {
+      "text": "Na treće treba reći da se taj razlog odnosi na kolikoću ljubavi s obzirom na dobro koje želimo prijateljima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da moramo više ljubiti bolje nego one koji su s nama povezaniji. Čini se naime da treba više ljubiti ono što ni po kojem razlogu ne treba mrziti nego ono što po nekom razlogu treba mrziti, kao što je i bjelje ono što je manje pomiješano s crnim. Ali osobe s nama povezane treba po nekom razlogu mrziti, prema onome u Lk 14: *Ako tko dođe k meni, a ne mrzi oca i majku* itd.; a dobre ljude ni po kojem razlogu ne treba mrziti. Dakle, čini se da bolje treba ljubiti više nego povezanije.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a7.obj2": {
+      "text": "Osim toga, po ljubavi se čovjek najviše suobličuje Bogu. Ali Bog više ljubi boljega. Dakle, i čovjek po ljubavi mora više ljubiti boljega nego onoga koji je s njim povezaniji.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a7.obj3": {
+      "text": "Osim toga, u svakom prijateljstvu treba više ljubiti ono što više pripada onome na čemu se prijateljstvo temelji: naravnim prijateljstvom naime više ljubimo one koji su s nama po naravi više povezani, primjerice roditelje ili djecu. Ali prijateljstvo ljubavi temelji se na zajedništvu u blaženstvu, kojemu više pripadaju bolji nego oni koji su s nama povezaniji. Dakle, iz ljubavi moramo više ljubiti bolje nego one koji su s nama povezaniji.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1 Tim 5: *Ako se tko ne brine za svoje, a osobito za ukućane, zatajio je vjeru i gori je od nevjernika*. Ali unutarnje čuvstvo ljubavi mora odgovarati vanjskom učinku. Dakle, ljubav treba imati više prema bližima nego prema boljima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a7.resp": {
+      "text": "Odgovaram: treba reći da svaki čin mora biti razmjeran i predmetu i djelatniku; ali od predmeta ima vrstu, a od snage djelatnika ima stupanj svoje jačine; kao što gibanje ima vrstu od završne granice prema kojoj ide, a jačinu brzine ima od raspoloživosti pokretljivoga i od snage pokretača. Tako dakle ljubav ima vrstu od predmeta, a jačinu od samoga onoga koji ljubi. A predmet je čina ljubavi Bog, a onaj koji ljubi jest čovjek. Različitost dakle ljubavi koja je po ljubavi (caritas), s obzirom na vrstu, treba promatrati u bližnjima koje treba ljubiti prema usporedbi s Bogom, tako naime da onome koji je bliži Bogu iz ljubavi hoćemo veće dobro. Jer, premda je dobro koje ljubav hoće svima, naime vječno blaženstvo, po sebi jedno, ipak ima različite stupnjeve prema različitim sudjelovanjima u blaženstvu; a ljubavi pripada da hoće da se očuva Božja pravednost, prema kojoj bolji savršenije imaju udjela u blaženstvu. I to pripada vrsti ljubavi: postoje naime različite vrste ljubavi prema različitim dobrima koja želimo onima koje ljubimo. Ali jačinu ljubavi treba promatrati po usporedbi sa samim čovjekom koji ljubi. I prema tome čovjek one koji su mu bliži ljubi jačim čuvstvom za ono dobro za koje ih ljubi nego što bolje ljubi za veće dobro. Tu treba uočiti i drugu razliku. Neki su nam bližnji naime bliski po naravnom podrijetlu, od kojega se ne mogu odvojiti, jer su po njemu ono što jesu. Ali dobrota kreposti, po kojoj se neki približuju Bogu, može doći i otići, porasti i smanjiti se, kako je jasno iz prije rečenoga. Zato iz ljubavi mogu htjeti da ovaj koji je sa mnom povezan bude bolji od drugoga i da tako može doći do višega stupnja blaženstva. A postoji i drugi način na koji iz ljubavi više ljubimo one koji su s nama povezaniji, jer ih ljubimo na više načina. Prema onima naime koji nisu s nama povezani imamo samo prijateljstvo ljubavi. A prema onima koji su s nama povezani imamo i neka druga prijateljstva, prema načinu njihove povezanosti s nama. A budući da je dobro na kojemu se temelji svako drugo časno prijateljstvo usmjereno kao prema svrsi prema dobru na kojemu se temelji ljubav, slijedi da ljubav zapovijeda činu svakoga drugog prijateljstva, kao što umijeće koje se bavi svrhom zapovijeda umijeću koje se bavi onim što vodi k svrsi. I tako upravo to da se nekoga ljubi zato što je krvni srodnik, ili zato što je s nama povezan, ili zato što je sugrađanin, ili zbog bilo čega drugog takvog što je dopušteno i što se može usmjeriti prema svrsi ljubavi, može biti zapovjeđeno od ljubavi. I tako, budući da ljubav i izvodi čin i zapovijeda ga, na više načina više ljubimo one koji su s nama povezaniji.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da nam kod naših bližnjih nije zapovjeđeno mrziti to što su naši bližnji, nego samo to što nas priječe od Boga. I u tome oni nisu bližnji, nego neprijatelji, prema onome u Mih 7: *Neprijatelji su čovjeku ukućani njegovi*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a7.ad2": {
+      "text": "Na drugo treba reći da ljubav čini da se čovjek suobličuje Bogu prema razmjeru, tako naime da se čovjek odnosi prema onome što je njegovo kao što se Bog odnosi prema onome što je njegovo. Neke stvari naime iz ljubavi možemo htjeti jer su nama prikladne, a koje ipak Bog ne hoće, jer njemu nije prikladno da ih hoće, kako je gore izloženo kad se raspravljalo o dobroti volje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a7.ad3": {
+      "text": "Na treće treba reći da ljubav ne izvodi čin ljubavi samo prema razlogu predmeta, nego i prema razlogu onoga koji ljubi, kako je rečeno. Iz toga proizlazi da se povezaniji više ljubi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da ne treba najviše ljubiti onoga koji je s nama povezan po tjelesnom podrijetlu. Kaže se naime u Izr 18: *Čovjek prijazan u druženju bit će veći prijatelj nego brat*. I Valerije Maksim kaže da je *veza prijateljstva vrlo jaka i ni u čemu slabija od snage krvi. Ova je čak izvjesnija i provjerenija, jer onu je dao udes rođenja, slučajno djelo, a ovu sklapa neprisiljena volja svakoga čvrstim sudom*. Dakle, one koji su povezani krvlju ne treba ljubiti više nego druge.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a8.obj2": {
+      "text": "Osim toga, Ambrozije kaže u I. knjizi O dužnostima: *Ne ljubim vas, koje sam rodio u Evanđelju, manje nego da sam vas dobio u braku. Jer narav nije jača u ljubavi od milosti. Zacijelo više moramo ljubiti one za koje mislimo da će zauvijek biti s nama nego one koji će biti s nama samo u ovom dobu*. Dakle, krvne srodnike ne treba ljubiti više od onih koji su s nama drugačije povezani.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a8.obj3": {
+      "text": "*Osim toga, dokaz je ljubavi iskazivanje djelom*, kako kaže Grgur u homiliji. Ali nekima moramo više iskazivati djela ljubavi nego čak krvnim srodnicima, kao što u vojsci treba više slušati vojskovođu nego oca. Dakle, one koji su povezani krvlju ne treba najviše ljubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a8.sc": {
+      "text": "Ali protiv toga je to što se u zapovijedima Dekaloga posebno nalaže štovanje roditelja, kako je jasno iz Izl 20. Dakle, one koji su s nama povezani po tjelesnom podrijetlu treba posebnije ljubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a8.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, one koji su s nama više povezani treba iz ljubavi više ljubiti, kako zato što se jače ljube, tako i zato što se ljube iz više razloga. A jačina ljubavi proizlazi iz povezanosti ljubljenoga s onim koji ljubi. Zato ljubav prema različitima treba mjeriti prema različitom razlogu povezanosti, tako naime da se svatko više ljubi u onome što pripada onoj povezanosti prema kojoj se ljubi. I nadalje, ljubav treba uspoređivati s ljubavlju prema usporedbi povezanosti s povezanošću. Tako dakle treba reći da se prijateljstvo krvnih srodnika temelji na povezanosti naravnog podrijetla, prijateljstvo sugrađana na građanskom zajedništvu, a prijateljstvo suboraca na ratnom zajedništvu. Zato u onome što pripada naravi moramo više ljubiti krvne srodnike, u onome što pripada građanskom životu moramo više ljubiti sugrađane, a u ratnim stvarima više suborce. Stoga i Filozof kaže u IX. knjizi Etike da *svakome treba pridati ono što mu je vlastito i primjereno. A čini se da tako i postupaju. Na svadbu naime pozivaju rođake; a činit će se da roditeljima ponajviše treba osigurati i uzdržavanje, i očinsku čast*. I slično je u ostalome. Ako pak usporedimo povezanost s povezanošću, jasno je da je povezanost naravnog podrijetla prvotnija i nepomičnija, jer je prema onome što pripada supstanciji; a ostale su povezanosti pridošle i mogu se ukloniti. Zato je prijateljstvo krvnih srodnika stabilnije. Ali druga prijateljstva mogu biti jača prema onome što je vlastito svakom prijateljstvu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da se prijateljstvo drugova sklapa vlastitim izborom u onome što potpada pod naš izbor, primjerice u onome što treba činiti, ta ljubav preteže nad ljubavlju krvnih srodnika, tako naime da se s drugovima više slažemo u onome što treba činiti. Ipak je prijateljstvo krvnih srodnika stabilnije, budući da je naravnije, i prevladava u onome što se odnosi na narav. Stoga smo im više dužni u osiguravanju onoga što je potrebno za život.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a8.ad2": {
+      "text": "Na drugo treba reći da Ambrozije govori o ljubavi s obzirom na dobročinstva koja pripadaju zajedništvu u milosti, naime o poučavanju u ćudoređu. U tome naime čovjek mora više pomagati duhovnim sinovima, koje je duhovno rodio, nego tjelesnim sinovima, za koje se više dužan brinuti tjelesnom pomoći.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a8.ad3": {
+      "text": "Na treće treba reći da se time što se vojskovođu u ratu sluša više nego oca ne dokazuje da se otac naprosto manje ljubi, nego da se manje ljubi u nekom pogledu, to jest prema ljubavi ratnog zajedništva.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da čovjek iz ljubavi mora više ljubiti sina nego oca. Onoga naime moramo više ljubiti kojemu moramo više činiti dobro. Ali više moramo činiti dobro djeci nego roditeljima; Apostol naime kaže u 2 Kor 12: *Ne trebaju djeca zgrtati blago roditeljima, nego roditelji djeci*. Dakle, djecu treba više ljubiti nego roditelje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a9.obj2": {
+      "text": "Osim toga, milost usavršava narav. Ali roditelji po naravi više ljube djecu nego što ih djeca ljube, kako kaže Filozof u VIII. knjizi Etike. Dakle, djecu moramo više ljubiti nego roditelje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a9.obj3": {
+      "text": "Osim toga, po ljubavi se čovjekovo čuvstvo suobličuje Bogu. Ali Bog više ljubi sinove nego što ga oni ljube. Dakle, i mi moramo više ljubiti djecu nego roditelje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a9.sc": {
+      "text": "Ali protiv toga je ono što kaže Ambrozije: *Najprije treba ljubiti Boga, drugo roditelje, zatim djecu, potom ukućane*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a9.resp": {
+      "text": "Odgovaram: treba reći da se, kako je gore rečeno, stupanj ljubavi može procjenjivati na dva načina. Na jedan način, s obzirom na predmet. I prema tome treba više ljubiti ono što ima veći pojam dobra i što je Bogu sličnije. I tako oca treba ljubiti više nego sina, naime zato što oca ljubimo pod vidom počela, koje ima pojam uzvišenijega dobra i Bogu sličnijega. Na drugi se način stupnjevi ljubavi računaju s obzirom na samoga onoga koji ljubi. I tako se više ljubi ono što je povezanije. I prema tome sina treba ljubiti više nego oca, kako kaže Filozof u VIII. knjizi Etike. Prvo, zato što roditelji ljube djecu kao nešto svoje, a otac nije nešto sinovo; i zato je ljubav kojom otac ljubi sina sličnija ljubavi kojom netko ljubi samoga sebe. Drugo, zato što roditelji bolje znaju da su neki njihova djeca nego obratno. Treće, zato što je sin bliži roditelju, budući da je njegov dio, nego otac sinu, prema kojemu ima odnošaj počela. Četvrto, zato što su roditelji dulje ljubili: otac naime odmah počinje ljubiti sina, a sin tek s vremenom počinje ljubiti oca. A ljubav je to jača što je dugotrajnija, prema onome u Sir 9: *Ne ostavljaj staroga prijatelja, jer novi mu neće biti sličan*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da se počelu duguje podložnost poštovanja i čast, a učinku razmjerno pristaje da prima utjecaj počela i njegovu skrb. I zbog toga djeca roditeljima više duguju čast, a roditelji djeci više duguju brigu opskrbe.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a9.ad2": {
+      "text": "Na drugo treba reći da otac po naravi više ljubi sina s obzirom na razlog povezanosti sa samim sobom. Ali s obzirom na razlog uzvišenijega dobra sin po naravi više ljubi oca.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a9.ad3": {
+      "text": "Na treće treba reći da, kako kaže Augustin u I. knjizi O kršćanskom nauku, *Bog nas ljubi na našu korist i na svoju čast*. I zato, budući da se otac prema nama odnosi u odnošaju počela, kao i Bog, ocu u vlastitom smislu pripada da mu djeca iskazuju čast, a sinu da se roditelji brinu za njegovu korist. Premda je u času nužde sin, zbog primljenih dobročinstava, obvezan da se ponajviše pobrine za roditelje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da čovjek mora više ljubiti majku nego oca. Kako naime kaže Filozof u I. knjizi O rađanju životinja, *ženka u rađanju daje tijelo*. Ali čovjek ne dobiva dušu od oca, nego stvaranjem od Boga, kako je rečeno u Prvom dijelu. Dakle, čovjek ima više od majke nego od oca. Dakle, mora više ljubiti majku nego oca.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a10.obj2": {
+      "text": "Osim toga, čovjek mora više ljubiti onoga koji više ljubi. Ali majka više ljubi sina nego otac; Filozof naime kaže u IX. knjizi Etike da *majke više ljube djecu. Rađanje je naime majkama mukotrpnije; i one bolje znaju da su djeca njihova nego očevi*. Dakle, majku treba ljubiti više nego oca.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a10.obj3": {
+      "text": "Osim toga, veće čuvstvo ljubavi duguje se onome koji se za nas više namučio, prema onome u Rim 16: *Pozdravite Mariju, koja se mnogo namučila među vama*. Ali majka se više muči u rađanju i odgoju nego otac; stoga se kaže u Sir 7: *Ne zaboravi uzdisaja majke svoje*. Dakle, čovjek mora više ljubiti majku nego oca.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a10.sc": {
+      "text": "Ali protiv toga je ono što kaže Jeronim u tumačenju Ezekiela: *Poslije Boga, oca svih, treba ljubiti oca*, a zatim dodaje o majci.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a10.resp": {
+      "text": "Odgovaram: treba reći da u tim usporedbama ono što se kaže treba razumjeti po sebi, tako naime da se razumije da je pitanje o ocu ukoliko je otac, treba li ga ljubiti više nego majku ukoliko je majka. U svemu takvome naime može biti tolika udaljenost u kreposti i zloći da se prijateljstvo razriješi ili umanji, kako kaže Filozof u VIII. knjizi Etike. I zato, kako kaže Ambrozije, *dobre ukućane treba pretpostaviti lošoj djeci*. Ali, govoreći po sebi, oca treba više ljubiti nego majku. Otac se naime i majka ljube kao neka počela naravnog podrijetla. A otac ima uzvišeniji pojam počela nego majka, jer je otac počelo na način djelatnika, a majka više na način trpnoga i tvari. I zato, govoreći po sebi, oca treba više ljubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da u rađanju čovjeka majka pruža neoblikovanu tvar tijela, a ona se oblikuje oblikotvornom snagom koja je u očevu sjemenu. I premda ta snaga ne može stvoriti razumsku dušu, ipak čini tjelesnu tvar raspoloživom za primanje takve forme.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a10.ad2": {
+      "text": "Na drugo treba reći da to pripada drugom razlogu ljubavi: jedna je naime vrsta prijateljstva kojom ljubimo onoga koji nas ljubi, a druga kojom ljubimo onoga koji nas je rodio. A sada govorimo o prijateljstvu koje se duguje ocu i majci prema razlogu rađanja.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da čovjek mora više ljubiti ženu nego oca i majku. Nitko naime ne ostavlja neku stvar osim radi stvari koja mu je draža. Ali u Post 2 kaže se da će radi žene čovjek ostaviti oca i majku. Dakle, mora više ljubiti ženu nego oca ili majku.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a11.obj2": {
+      "text": "Osim toga, Apostol kaže u Ef 5 da *muževi moraju ljubiti žene kao same sebe*. Ali čovjek mora više ljubiti samoga sebe nego roditelje. Dakle, mora i ženu više ljubiti nego roditelje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a11.obj3": {
+      "text": "Osim toga, gdje je više razloga ljubavi, ondje mora biti veća ljubav. Ali u prijateljstvu prema ženi ima više razloga ljubavi; Filozof naime kaže u VIII. knjizi Etike da *se u tom prijateljstvu, čini se, nalazi i korisno i ugodno i ono radi kreposti, ako su supružnici kreposni*. Dakle, veća mora biti ljubav prema ženi nego prema roditeljima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a11.sc": {
+      "text": "Ali protiv toga je to što muž mora ljubiti svoju ženu kao svoje tijelo, kako se kaže u Ef 5. Ali svoje tijelo čovjek mora manje ljubiti nego bližnjega, kako je gore rečeno. A među bližnjima moramo najviše ljubiti roditelje. Dakle, roditelje moramo ljubiti više nego ženu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a11.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, stupanj ljubavi može promatrati i prema pojmu dobra i prema povezanosti s onim koji ljubi. Prema pojmu dobra, koje je predmet ljubavi, roditelje treba više ljubiti nego žene, jer se ljube pod vidom počela i nekoga uzvišenijeg dobra. A prema razlogu povezanosti više treba ljubiti ženu, jer je žena s mužem povezana tako da su jedno tijelo, prema onome u Mt 19: *Tako više nisu dvoje, nego jedno tijelo*. I zato se žena ljubi jače, ali roditeljima treba iskazivati veće poštovanje.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da se otac i majka ne napuštaju radi žene u svemu: u nekim stvarima naime čovjek mora više pomagati roditeljima nego ženi. Ali s obzirom na sjedinjenje u tjelesnom općenju i u zajedničkom životu, ostavivši sve roditelje, čovjek prianja uz ženu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a11.ad2": {
+      "text": "Na drugo treba reći da Apostolove riječi ne treba razumjeti tako da čovjek mora ljubiti svoju ženu jednako kao samoga sebe, nego tako da je ljubav koju netko ima prema samome sebi razlog ljubavi koju ima prema ženi koja je s njim povezana.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a11.ad3": {
+      "text": "Na treće treba reći da se i u očinskom prijateljstvu nalazi mnogo razloga ljubavi. I u nekom pogledu oni pretežu nad razlogom ljubavi koja se ima prema ženi, naime prema pojmu dobra, premda oni drugi pretežu prema razlogu povezanosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a11.ad4": {
+      "text": "Na četvrto treba reći da ni ono ne treba razumjeti tako da riječca „kao” uključuje jednakost, nego razlog ljubavi. Čovjek naime ljubi svoju ženu ponajprije zbog tjelesne povezanosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da čovjek mora više ljubiti dobročinitelja nego primatelja dobročinstva. Jer, kako kaže Augustin u knjizi O poučavanju neukih, *nema većega poticaja na ljubav nego preteći u ljubavi; previše je naime tvrd duh koji ljubav, ako je i neće iskazati, neće ni uzvratiti*. Ali dobročinitelji nas pretječu dobročinstvom ljubavi. Dakle, dobročinitelje moramo najviše ljubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a12.obj2": {
+      "text": "Osim toga, nekoga treba to više ljubiti što teže čovjek griješi ako odustane od ljubavi prema njemu ili djeluje protiv nje. Ali teže griješi onaj tko ne ljubi dobročinitelja ili djeluje protiv njega nego onaj tko prestane ljubiti onoga komu je dosad činio dobro. Dakle, dobročinitelje treba više ljubiti nego one kojima mi činimo dobro.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a12.obj3": {
+      "text": "Osim toga, od svega što treba ljubiti najviše treba ljubiti Boga, a poslije njega oca, kako kaže Jeronim. Ali oni su najveći dobročinitelji. Dakle, dobročinitelja treba najviše ljubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a12.sc": {
+      "text": "Ali protiv toga je ono što kaže Filozof u IX. knjizi Etike: *čini se da dobročinitelji više ljube primatelje dobročinstva nego obratno*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a12.resp": {
+      "text": "Odgovaram: treba reći da se, kako je gore rečeno, nešto više ljubi na dva načina: na jedan način, jer ima pojam uzvišenijega dobra; na drugi način, zbog veće povezanosti. Na prvi dakle način dobročinitelja treba više ljubiti, jer, budući da je počelo dobra u primatelju dobročinstva, ima pojam uzvišenijega dobra, kako je rečeno i o ocu. A na drugi način više ljubimo primatelje dobročinstva, kako Filozof dokazuje u IX. knjizi Etike četirima razlozima. Prvo, zato što je primatelj dobročinstva kao neko djelo dobročinitelja; stoga se obično kaže za nekoga: ovaj je njegovo djelo. A svakome je naravno da ljubi svoje djelo, kao što vidimo da pjesnici ljube svoje pjesme. A to je zato što svaka stvar ljubi svoj bitak i svoje življenje, što se najviše očituje u njezinu djelovanju. Drugo, zato što svatko po naravi ljubi ono u čemu promatra svoje dobro. Dobročinitelj doduše ima neko dobro u primatelju dobročinstva, i obratno; ali dobročinitelj u primatelju promatra svoje čestito dobro, a primatelj u dobročinitelju svoje korisno dobro. A časno se dobro razmatra s većom nasladom nego korisno dobro, kako zato što je trajnije (korist naime brzo prolazi, a naslada sjećanja nije kao naslada prisutne stvari), tako i zato što se časnih dobara s većom nasladom prisjećamo nego koristi koje su nam došle od drugih. Treće, zato što onome koji ljubi pripada djelovati, jer on hoće dobro ljubljenome i čini ga, a ljubljenome pripada trpjeti. Zato je ljubiti svojstveno uzvišenijemu. I zbog toga dobročinitelju pripada da više ljubi. Četvrto, zato što je teže iskazivati dobročinstva nego ih primati. A ono oko čega se trudimo više ljubimo, dok ono što nam lako dolazi na neki način preziremo.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da od dobročinitelja dolazi to da je primatelj dobročinstva potaknut da ga ljubi. A dobročinitelj ljubi primatelja ne kao da ga je ovaj potaknuo, nego pokrenut sam od sebe. A ono što je od sebe jače je od onoga što je po drugome.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a12.ad2": {
+      "text": "Na drugo treba reći da je ljubav primatelja dobročinstva prema dobročinitelju više dugovana, i zato ono što joj je protivno ima značaj većega grijeha. Ali ljubav dobročinitelja prema primatelju dobročinstva više je dragovoljna, i zato ima veću spremnost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a12.ad3": {
+      "text": "Na treće treba reći da i Bog više ljubi nas nego mi njega, i roditelji više ljube djecu nego što ih djeca ljube. Ipak ne treba da bilo koje primatelje dobročinstva ljubimo više nego bilo koje dobročinitelje. Jer dobročinitelje od kojih smo primili najveća dobročinstva, naime Boga i roditelje, pretpostavljamo onima kojima iskazujemo neka manja dobročinstva.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a13.obj1": {
+      "text": "Na trinaesto se ovako postupa. Čini se da red ljubavi ne ostaje u domovini. Augustin, naime, kaže u knjizi O pravoj religiji: *savršena je ljubav kad veća dobra ljubimo više, a manja manje*. No u domovini će biti savršena ljubav. Dakle, netko će boljega ljubiti više nego sebe sama ili onoga tko mu je blizak.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a13.obj2": {
+      "text": "Osim toga, više se ljubi onaj komu želimo veće dobro. No svatko tko je u domovini želi veće dobro onomu tko ima više dobra; inače njegova volja ne bi u svemu bila suobličena božanskoj volji. A ondje više dobra ima onaj tko je bolji. Dakle, u domovini će svatko više ljubiti boljega. I tako drugoga više nego sebe, i tuđinca više nego srodnika.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a13.obj3": {
+      "text": "Osim toga, sav razlog ljubavi u domovini bit će Bog; tada će se, naime, ispuniti ono što se kaže u 1 Kor 15: *da Bog bude sve u svemu*. Dakle, više se ljubi onaj tko je Bogu bliži. I tako će netko boljega ljubiti više nego sebe, i tuđinca više nego srodnika.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a13.sc": {
+      "text": "Ali protiv toga: narav se slavom ne dokida, nego se usavršava. A gore postavljeni red ljubavi proizlazi iz same naravi. A sve po naravi ljubi sebe više nego drugo. Dakle, taj će red ljubavi ostati u domovini.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a13.resp": {
+      "text": "Odgovaram: treba reći da je nužno da red ljubavi ostane u domovini što se tiče toga da Boga treba ljubiti iznad svega. To će, naime, tada biti naprosto, kad čovjek bude savršeno uživao u njemu. No što se tiče reda između njega samoga i drugih, čini se da treba razlikovati. Jer, kao što je gore rečeno, stupnjevi ljubavi mogu se razlikovati ili prema razlici dobra koje netko želi drugome, ili prema jačini ljubavi. Na prvi način ljubit će bolje više nego sebe, a manje dobre manje. Svaki će, naime, blaženik htjeti da svatko ima ono što mu pripada prema božanskoj pravednosti, zbog savršene suobličenosti ljudske volje s božanskom. Niti će tada biti vrijeme napredovanja zaslugom prema većoj nagradi, kao što se događa sada, kad čovjek može željeti i krepost i nagradu boljega; nego će se tada volja svakoga zaustaviti unutar onoga što je od Boga određeno. Na drugi pak način netko će ljubiti sebe više nego bližnjega, pa i boljega. Jer jačina čina ljubavi dolazi sa strane subjekta koji ljubi, kao što je gore rečeno. I za to se svakome od Boga podjeljuje dar ljubavi: da najprije svoj duh usmjeri prema Bogu, što pripada ljubavi prema samome sebi, a zatim da hoće da i drugi budu usmjereni prema Bogu, ili da to čak i promiče na svoj način. No što se tiče reda bližnjih među sobom, netko će naprosto više ljubiti boljega, prema ljubavi (amor caritatis). Sav se, naime, blaženi život sastoji u usmjerenosti duha prema Bogu. Stoga će se sav red ljubavi blaženika obdržavati s obzirom na Boga, tako naime da svatko više ljubi i sebi bližim smatra onoga tko je Bogu bliži. Tada će, naime, prestati skrb koja je nužna u sadašnjem životu, po kojoj je nužno da svatko više skrbi za onoga tko mu je bliži po bilo kojoj vezi nego za tuđega; zbog toga u ovom životu čovjek iz same sklonosti ljubavi više ljubi onoga tko mu je bliži, komu je dužan više iskazivati učinak ljubavi. Ipak, dogodit će se u domovini da netko onoga tko mu je blizak ljubi iz više razloga; neće, naime, iz duše blaženika nestati uzroci čestite ljubavi. Ipak, pred svim tim razlozima neusporedivo ima prednost razlog ljubavi koji se uzima iz blizine Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a13.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj razlog treba prihvatiti što se tiče onih koji su nekomu bliski. No što se tiče njega samoga, potrebno je da netko ljubi sebe više nego druge, i to toliko više koliko je ljubav savršenija, jer savršenost ljubavi savršeno usmjerava čovjeka prema Bogu, što pripada ljubavi prema samome sebi, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a13.ad2": {
+      "text": "Na drugo treba reći da taj razlog polazi od reda ljubavi prema stupnju dobra koje netko hoće ljubljenome.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    },
+    "II-II.q26.a13.ad3": {
+      "text": "Na treće treba reći da će svakomu Bog biti sav razlog ljubavi zato što je Bog sve čovjekovo dobro; jer kad bi se, uz nemoguću pretpostavku, dopustilo da Bog nije čovjekovo dobro, ne bi mu bio razlog ljubavi. I zato je u redu ljubavi potrebno da čovjek poslije Boga najviše ljubi sebe sama.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:55+00:00"
+    }
+  }
+}

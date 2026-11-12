@@ -1,0 +1,168 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 46,
+  "units": {
+    "II-II.q46.pr": {
+      "text": "Nakon toga treba razmotriti ludost, koja je suprotstavljena mudrosti. I glede toga pita se tri stvari. Prvo, je li ludost suprotstavljena mudrosti. Drugo, je li ludost grijeh. Treće, na koji se glavni grijeh svodi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da ludost nije suprotstavljena mudrosti. Mudrosti se, naime, čini izravno suprotstavljena nemudrost. Ali ludost, čini se, nije isto što i nemudrost, jer se nemudrost, čini se, odnosi samo na božansko, kao i mudrost; a ludost se odnosi i na božansko i na ljudsko. Dakle, mudrosti nije suprotstavljena ludost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a1.obj2": {
+      "text": "Osim toga, jedno od suprotstavljenoga nije put kojim se dolazi do drugoga. Ali ludost je put kojim se dolazi do mudrosti; kaže se, naime, u 1 Kor 3: *ako se tko među vama čini mudrim u ovom dobu, neka postane lud da bude mudar*. Dakle, mudrosti nije suprotstavljena ludost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a1.obj3": {
+      "text": "Osim toga, jedno od suprotstavljenoga nije uzrok drugoga. A mudrost je uzrok ludosti; kaže se, naime, u Jr 10: *lud je postao svaki čovjek od svoga znanja*; a mudrost je neko znanje. I u Iz 47 kaže se: *mudrost tvoja i znanje tvoje, to te prevarilo*; a biti prevaren pripada ludosti. Dakle, mudrosti nije suprotstavljena ludost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a1.obj4": {
+      "text": "Osim toga, Izidor kaže u knjizi Etimologija da je *lud onaj koga sramota ne pokreće na bol i koga ne pokreće nepravda*. Ali to pripada duhovnoj mudrosti, kako kaže Grgur u X. knjizi Moralija. Dakle, mudrosti nije suprotstavljena ludost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a1.sc": {
+      "text": "Ali protiv toga jest ono što kaže Grgur u II. knjizi Moralija, da se dar mudrosti daje protiv ludosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a1.resp": {
+      "text": "Odgovaram: treba reći da je ime ludosti (stultitia), čini se, uzeto od obamrlosti (stupor); stoga Izidor kaže u knjizi Etimologija: *lud je onaj koji zbog obamrlosti ne biva pokrenut*. I ludost se razlikuje od gluposti, kako se ondje kaže, jer ludost uključuje otupjelost srca i tupost smislova, a glupost uključuje potpunu lišenost duhovnog smisla. I zato je ludost prikladno suprotstavljena mudrosti. *Mudar (sapiens)*, naime, kako ondje kaže Izidor, *nazvan je od okusa (sapor), jer kao što je osjetilo okusa prikladno za razlučivanje okusa jela, tako je mudar prikladan za raspoznavanje stvari i uzroka*. Stoga je jasno da je ludost suprotstavljena mudrosti kao protivno, a glupost kao čisto nijekanje. Jer glupome nedostaje smisao za suđenje; lud ga pak ima, ali otupljen; a mudar istančan i pronicljiv.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako ondje kaže Izidor, *nemudar je protivan mudrome zato što je bez okusa razlučivanja i smisla*. Stoga se čini da je nemudrost isto što i ludost. A ponajviše se čini da je netko lud kad trpi nedostatak u presudi suda koja se ravna prema najvišem uzroku; jer ako netko zakaže u sudu o nečemu neznatnome, zbog toga se ne naziva ludim.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a1.ad2": {
+      "text": "Na drugo treba reći da kao što postoji neka zla mudrost, kako je gore rečeno, koja se naziva mudrošću ovoga doba, jer za najviši uzrok i posljednju svrhu uzima neko zemaljsko dobro, tako postoji i neka dobra ludost, suprotstavljena toj zloj mudrosti, po kojoj netko prezire zemaljsko. I o toj ludosti govori Apostol.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a1.ad3": {
+      "text": "Na treće treba reći da je mudrost ovoga doba ona koja vara i čini da se bude lud pred Bogom, kako je jasno iz Apostola, 1 Kor 3.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a1.ad4": {
+      "text": "Na četvrto treba reći da to što nepravde nekoga ne pokreću ponekad dolazi otuda što čovjeku nije u slast zemaljsko, nego samo nebesko. Stoga to pripada ludosti svijeta, ali mudrosti Božjoj, kako ondje kaže Grgur. A ponekad dolazi otuda što je čovjek naprosto tup za sve, kako je jasno kod umobolnih, koji ne razlučuju što je nepravda. I to pripada ludosti naprosto.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ludost nije grijeh. Nijedan grijeh, naime, ne dolazi u nas od naravi. Ali neki su ludi po naravi. Dakle, ludost nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a2.obj2": {
+      "text": "Osim toga, svaki je grijeh voljan, kako kaže Augustin. Ali ludost nije voljna. Dakle, nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a2.obj3": {
+      "text": "Osim toga, svaki je grijeh suprotstavljen nekoj božanskoj zapovijedi. Ali ludost nije suprotstavljena nijednoj zapovijedi. Dakle, ludost nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a2.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Izr 1: *blagostanje ludih upropastit će ih*. Ali nitko ne propada osim zbog grijeha. Dakle, ludost je grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a2.resp": {
+      "text": "Odgovaram: treba reći da ludost, kako je rečeno, uključuje neku obamrlost smisla u suđenju, i to ponajviše o najvišem uzroku, koji je posljednja svrha i najviše dobro. A u pogledu toga netko može trpjeti obamrlost u suđenju na dva načina. Na jedan način, iz naravne neraspoloživosti, kako je jasno kod umobolnih. I takva ludost nije grijeh. Na drugi način, ukoliko čovjek uranja svoj smisao u zemaljske stvari, zbog čega njegov smisao postaje nesposoban za opažanje božanskoga, prema onome iz 1 Kor 2: *životinjski čovjek ne opaža ono što je od Duha Božjega*; kao što i čovjeku koji ima okus pokvaren lošim sokom slatko ne prija. I takva je ludost grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a2.ad1": {
+      "text": "I time je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a2.ad2": {
+      "text": "Na drugo treba reći da, premda nitko ne će ludost, ipak hoće ono na što slijedi da je netko lud, naime odvratiti svoj smisao od duhovnoga i uroniti ga u zemaljsko. I isto se događa i u drugim grijesima. Jer bludnik hoće nasladu bez koje nema grijeha, premda ne hoće naprosto grijeh; htio bi, naime, uživati u nasladi bez grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a2.ad3": {
+      "text": "Na treće treba reći da je ludost suprotstavljena zapovijedima koje se daju o motrenju istine; o njima je bilo gore riječi kad se raspravljalo o znanju i razumu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ludost nije kći bludnosti. Grgur, naime, u XXXI. knjizi Moralija nabraja kćeri bludnosti, među kojima ipak nije sadržana ludost. Dakle, ludost ne proizlazi iz bludnosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a3.obj2": {
+      "text": "Osim toga, Apostol kaže u 1 Kor 3: *mudrost ovoga svijeta ludost je pred Bogom*. Ali, kako kaže Grgur u X. knjizi Moralija, *mudrost je svijeta srce prekrivati spletkama*, što pripada dvoličnosti. Dakle, ludost je prije kći dvoličnosti nego bludnosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a3.obj3": {
+      "text": "Osim toga, iz srdžbe se neki ponajviše okreću u bijes i bezumlje, koji pripadaju ludosti. Dakle, ludost prije nastaje iz srdžbe nego iz bludnosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a3.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Izr 7: odmah ide za njom, naime za bludnicom, ne znajući da se lud vuče u okove.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a3.resp": {
+      "text": "Odgovaram: treba reći da, kako je već rečeno, ludost, ukoliko je grijeh, proizlazi otuda što je duhovni smisao otupio, tako da nije prikladan za prosuđivanje duhovnoga. A smisao čovjeka ponajviše se uranja u zemaljsko po bludnosti, koja se odnosi na najveće naslade, kojima duša biva najviše obuzeta. I zato ludost koja je grijeh ponajviše se rađa iz bludnosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ludosti pripada to da čovjek osjeća gađenje prema Bogu i prema njegovim darovima. Stoga Grgur među kćerima bludnosti nabraja dvije koje pripadaju ludosti, naime mržnju prema Bogu i očaj glede budućega doba, kao da ludost dijeli na dva dijela.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a3.ad2": {
+      "text": "Na drugo treba reći da onu Apostolovu riječ ne treba razumjeti uzročno, nego bitno, naime da je sama mudrost svijeta ludost pred Bogom. Stoga nije potrebno da sve što pripada mudrosti svijeta bude uzrok te ludosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    },
+    "II-II.q46.a3.ad3": {
+      "text": "Na treće treba reći da srdžba, kako je gore rečeno, svojom oštrinom ponajviše mijenja narav tijela. Stoga ponajviše uzrokuje onu ludost koja proizlazi iz tjelesne zapreke. Ali ludost koja proizlazi iz duhovne zapreke, naime iz uranjanja duha u zemaljsko, ponajviše proizlazi iz bludnosti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:58+00:00"
+    }
+  }
+}

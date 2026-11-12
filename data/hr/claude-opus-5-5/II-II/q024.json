@@ -1,0 +1,618 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 24,
+  "units": {
+    "II-II.q24.pr": {
+      "text": "Zatim treba razmotriti ljubav u usporedbi sa subjektom. I glede toga pita se dvanaest stvari. Prvo, je li ljubav u volji kao u subjektu. Drugo, uzrokuje li se ljubav u čovjeku iz prethodnih čina ili božanskim ulijevanjem. Treće, ulijeva li se prema sposobnosti naravnih darova. Četvrto, raste li u onome tko je ima. Peto, raste li dodavanjem. Šesto, raste li svakim činom. Sedmo, raste li u beskonačnost. Osmo, može li ljubav u stanju puta biti savršena. Deveto, o različitim stupnjevima ljubavi. Deseto, može li se ljubav umanjiti. Jedanaesto, može li se ljubav, jednom stečena, izgubiti. Dvanaesto, gubi li se jednim činom smrtnoga grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da volja nije subjekt ljubavi. Ljubav (caritas) je, naime, neka ljubav (amor). Ali ljubav (amor) je, prema Filozofu, u požudnoj moći. Dakle, i ljubav (caritas) je u požudnoj moći, a ne u volji.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a1.obj2": {
+      "text": "Osim toga, ljubav je najglavnija od kreposti, kako je gore rečeno. Ali subjekt kreposti jest razum. Dakle, čini se da je ljubav u razumu, a ne u volji.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a1.obj3": {
+      "text": "Osim toga, ljubav se proteže na sve ljudske čine, prema onome iz posljednjeg poglavlja 1 Kor: *Sve vaše neka bude u ljubavi.* Ali počelo ljudskih čina jest slobodno odlučivanje. Dakle, čini se da je ljubav ponajviše u slobodnom odlučivanju kao u subjektu, a ne u volji.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a1.sc": {
+      "text": "Ali protiv toga je to što je predmet ljubavi dobro, koje je i predmet volje. Dakle, ljubav je u volji kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a1.resp": {
+      "text": "Odgovaram: treba reći da je, budući da je težnja dvostruka, naime osjetilna i umska, koja se naziva voljom, kako je utvrđeno u Prvom dijelu, predmet obiju dobro, ali na različit način. Predmet osjetilne težnje jest, naime, dobro zahvaćeno osjetilom, a predmet umske težnje, odnosno volje, jest dobro pod općim pojmom dobra, kako ga um može zahvatiti. A predmet ljubavi nije neko osjetno dobro, nego božansko dobro, koje se spoznaje samo umom. I zato subjekt ljubavi nije osjetilna težnja, nego umska težnja, to jest volja.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je požudna moć dio osjetilne težnje, a ne umske težnje, kako je pokazano u Prvom dijelu. Stoga je ljubav (amor) koja je u požudnoj moći ljubav prema osjetnom dobru. A na božansko dobro, koje je umljivo, požudna se moć ne može protezati, nego samo volja. I zato požudna moć ne može biti subjekt ljubavi (caritas).",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a1.ad2": {
+      "text": "Na drugo treba reći da je i volja, prema Filozofu u III. knjizi O duši, u razumu. I zato time što je ljubav u volji nije tuđa razumu. Ipak razum nije pravilo ljubavi kao što je pravilo ljudskih kreposti, nego se ona ravna prema Božjoj mudrosti i nadilazi pravilo ljudskog razuma, prema onome iz Ef 3: *Kristovu ljubav koja nadilazi znanje.* Stoga ona nije u razumu ni kao u subjektu, kao razboritost, ni kao u onome što ravna, kao pravednost ili umjerenost, nego samo po nekoj srodnosti volje s razumom.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a1.ad3": {
+      "text": "Na treće treba reći da slobodno odlučivanje nije druga moć od volje, kako je rečeno u Prvom dijelu. Pa ipak ljubav nije u volji po pojmu slobodnog odlučivanja, čiji je čin izabrati: *izbor se, naime, odnosi na ono što vodi k svrsi, a volja na samu svrhu*, kako se kaže u III. knjizi Etike. Stoga za ljubav, čiji je predmet posljednja svrha, prije treba reći da je u volji nego u slobodnom odlučivanju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se ljubav u nama ne uzrokuje ulijevanjem. Ono što je zajedničko svim stvorovima, naime, ljudima je naravno svojstveno. Ali, kako kaže Dionizije u IV. poglavlju O božanskim imenima, *božansko je dobro svima ono što se može ljubiti i voljeti*, koje je predmet ljubavi. Dakle, ljubav je u nama naravno, a ne ulijevanjem.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a2.obj2": {
+      "text": "Osim toga, što je nešto više dostojno ljubavi, to se lakše može ljubiti. Ali Bog je u najvećoj mjeri dostojan ljubavi, budući da je najviše dobar. Dakle, lakše je ljubiti njega nego drugo. Ali da ljubimo druge stvari ne trebamo nikakav uliveni habitus. Dakle, ni da ljubimo Boga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a2.obj3": {
+      "text": "Osim toga, Apostol kaže u 1 Tim 1: *Svrha je zapovijedi ljubav iz dobra srca, čiste savjesti i nehinjene vjere.* Ali to troje pripada ljudskim činima. Dakle, ljubav se u nama uzrokuje iz prethodnih čina, a ne ulijevanjem.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u Rim 5: *Ljubav je Božja razlivena u srcima našim po Duhu Svetom koji nam je dan.*",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, ljubav neko prijateljstvo čovjeka s Bogom, utemeljeno na zajedništvu vječnoga blaženstva. A to zajedništvo nije po naravnim dobrima, nego po besplatnim darovima, jer, kako se kaže u Rim 6, *milost je Božja vječni život*. Stoga i sama ljubav nadilazi mogućnost naravi. A ono što nadilazi mogućnost naravi ne može biti ni naravno ni stečeno naravnim moćima, jer naravni učinak ne nadilazi svoj uzrok. Stoga ljubav ne može ni biti u nama naravno, niti je stečena naravnim silama, nego ulijevanjem Duha Svetoga, koji je ljubav Oca i Sina, a sudjelovanje u njemu jest u nama sama stvorena ljubav, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Dionizije govori o ljubavi prema Bogu koja se temelji na zajedništvu naravnih dobara, i zato je naravno svojstvena svima. A ljubav (caritas) se temelji na nekom nadnaravnom zajedništvu. Stoga razlog nije isti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a2.ad2": {
+      "text": "Na drugo treba reći da, kao što je Bog po sebi u najvećoj mjeri spoznatljiv, ali ne za nas, zbog nedostatnosti naše spoznaje, koja ovisi o osjetnim stvarima, tako je i Bog u sebi u najvećoj mjeri dostojan ljubavi ukoliko je predmet blaženstva, ali na taj način nije u najvećoj mjeri ljubljen od nas, zbog sklonosti našeg čuvstva prema vidljivim dobrima. Stoga je potrebno da se, kako bismo Boga na taj način u najvećoj mjeri ljubili, u naša srca ulije ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a2.ad3": {
+      "text": "Na treće treba reći da se, kad se kaže da ljubav u nama izlazi *iz dobra srca, čiste savjesti i nehinjene vjere*, to mora odnositi na čin ljubavi, koji se pobuđuje iz onoga što je prethodno navedeno. Ili se to također kaže zato što takvi čini raspolažu čovjeka da primi ulijevanje ljubavi. I isto tako treba reći o onome što kaže Augustin, da strah uvodi ljubav, i o onome što se kaže u Glosi na Mt 1, da *vjera rađa nadu, a nada ljubav*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se ljubav ulijeva prema kolikoći naravnih darova. Kaže se, naime, u Mt 25 da *dade svakomu prema vlastitoj snazi*. Ali ljubavi u čovjeku ne prethodi nikakva krepost osim naravne snage, jer bez ljubavi nema nikakve kreposti, kako je rečeno. Dakle, Bog čovjeku ulijeva ljubav prema sposobnosti naravne snage.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a3.obj2": {
+      "text": "Osim toga, kod svega što je međusobno usmjereno jedno prema drugome drugo je razmjerno prvome; tako vidimo da je u tvarnim stvarima forma razmjerna tvari, a u besplatnim darovima slava je razmjerna milosti. Ali ljubav se, budući da je savršenost naravi, odnosi prema naravnoj sposobnosti kao drugo prema prvome. Dakle, čini se da se ljubav ulijeva prema sposobnosti naravnih darova.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a3.obj3": {
+      "text": "Osim toga, ljudi i anđeli imaju udjela u ljubavi po istom pojmu, jer je u jednima i drugima sličan pojam blaženstva, kako stoji u Mt 22 i Lk 20. Ali anđelima su ljubav i drugi besplatni darovi dani prema sposobnosti naravnih darova, kako kaže Učitelj u II. knjizi Sentencija, 3. distinkciji. Dakle, čini se da je isto i kod ljudi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iv 3: *Duh puše gdje hoće*; i u 1 Kor 12: *Sve to čini jedan te isti Duh, dijeleći svakomu kako hoće.* Dakle, ljubav se ne daje prema sposobnosti naravnih darova, nego prema volji Duha koji dijeli svoje darove.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a3.resp": {
+      "text": "Odgovaram: treba reći da kolikoća svake stvari ovisi o vlastitom uzroku te stvari, jer općenitiji uzrok proizvodi veći učinak. A ljubav, budući da nadilazi razmjer ljudske naravi, kako je rečeno, ne ovisi ni o kakvoj naravnoj snazi, nego samo o milosti Duha Svetoga koji je ulijeva. I zato kolikoća ljubavi ne ovisi o stanju naravi ili o sposobnosti naravne snage, nego samo o volji Duha Svetoga koji dijeli svoje darove kako hoće. Stoga i Apostol kaže u Ef 4: *Svakomu je od nas dana milost po mjeri Kristova darivanja.*",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ona snaga prema kojoj Bog svakome daje svoje darove prethodna raspoloživost ili priprava, odnosno nastojanje onoga koji prima milost. Ali i tu raspoloživost ili nastojanje pretječe Duh Sveti, pokrećući čovjekov duh više ili manje prema svojoj volji. Stoga i Apostol kaže u Kol 1: *Koji nas je učinio dostojnima udjela u baštini svetih u svjetlu.*",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a3.ad2": {
+      "text": "Na drugo treba reći da forma ne nadilazi razmjer tvari, nego su istoga roda. Isto se tako i milost i slava odnose na isti rod, jer milost nije ništa drugo nego neki početak slave u nama. Ali ljubav i narav ne pripadaju istom rodu. I zato razlog nije isti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a3.ad3": {
+      "text": "Na treće treba reći da je anđeo umske naravi i da mu, prema njegovu stanju, pripada da cijelim sobom ide prema svemu prema čemu ide, kako je utvrđeno u Prvom dijelu. I zato je u višim anđelima bilo veće nastojanje i prema dobru, u onima koji su ustrajali, i prema zlu, u onima koji su pali. I zato su oni od viših anđela koji su ostali postojani postali bolji, a oni koji su pali postali gori od ostalih. Ali čovjek je razumske naravi, kojoj pripada da je katkad u mogućnosti, a katkad u činu. I zato nije nužno da cijelim sobom ide prema onome prema čemu ide, nego onaj tko ima bolje naravne darove može imati manje nastojanje, i obrnuto. I zato nije isto.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ljubav ne može rasti. Ništa, naime, ne raste osim onoga što ima kolikoću. A kolikoća je dvostruka, naime protežna i virtualna. Od njih prva ne pristaje ljubavi, budući da je ona neka duhovna savršenost. Virtualna se pak kolikoća uzima prema predmetima, a prema njima ljubav ne raste, jer i najmanja ljubav ljubi sve što treba ljubiti iz ljubavi. Dakle, ljubav ne raste.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a4.obj2": {
+      "text": "Osim toga, ono što je na krajnjoj granici ne prima porast. Ali ljubav (caritas) je na krajnjoj granici, budući da je najveća od kreposti i najviša ljubav (amor) prema najboljem dobru. Dakle, ljubav ne može rasti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a4.obj3": {
+      "text": "Osim toga, porast je neko gibanje. Dakle, ono što raste, giba se. Prema tome, ono što raste po biti, giba se po biti. Ali po biti se giba samo ono što propada ili nastaje. Dakle, ljubav ne može rasti po biti, osim ako možda iznova nastaje ili propada, što je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a4.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u Tumačenju Ivanova evanđelja, da *ljubav zaslužuje rasti, da bi, kad naraste, zaslužila i biti usavršena*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a4.resp": {
+      "text": "Odgovaram: treba reći da ljubav na putu može rasti. Putnicima se, naime, nazivamo po tome što idemo prema Bogu, koji je posljednja svrha našega blaženstva. A na tom putu to više napredujemo što se više približavamo Bogu, kojemu se ne približuje koracima tijela, nego čuvstvima duha. Tu pak blizinu čini ljubav, jer se po njoj duh sjedinjuje s Bogom. I stoga pojmu ljubavi na putu pripada da može rasti; kad, naime, ne bi mogla rasti, već bi prestalo napredovanje na putu. I zato apostol ljubav naziva putem, govoreći u 1 Kor 12: *pokazat ću vam još izvrsniji put*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da ljubavi ne pristaje protežna kolikoća, nego samo virtualna kolikoća. Ona se ne uzima samo prema broju predmeta, naime da se ljubi više ili manje stvari, nego i prema intenzitetu čina, naime da se nešto više ili manje ljubi. I na taj način virtualna kolikoća ljubavi raste.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a4.ad2": {
+      "text": "Na drugo treba reći da je ljubav na vrhuncu s obzirom na predmet, ukoliko je, naime, njezin predmet najviše dobro, i iz toga slijedi da je ona izvrsnija od ostalih kreposti. Ali nije svaka ljubav na vrhuncu s obzirom na intenzitet čina.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a4.ad3": {
+      "text": "Na treće treba reći da su neki rekli da ljubav ne raste po svojoj biti, nego samo po ukorijenjenosti u subjektu ili po žaru. Ali oni nisu poznavali vlastito značenje riječi. Budući, naime, da je ona akcident, njezin je bitak u tome da bude u nečemu; stoga to da ona raste po biti nije ništa drugo nego da je ona više u subjektu, a to znači da je više ukorijenjena u subjektu. Slično je ona po svojoj biti krepost usmjerena prema činu; stoga je isto da ona raste po biti i da ima djelotvornost za proizvođenje žarčega čina ljubavi. Raste, dakle, po biti, ne doduše tako da počne biti ili prestane biti u subjektu, kako pretpostavlja prigovor, nego tako da počne biti više u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da ljubav raste dodavanjem. Kao što, naime, postoji porast prema tjelesnoj kolikoći, tako i prema virtualnoj kolikoći. Ali porast tjelesne kolikoće biva dodavanjem; Filozof, naime, kaže u I. knjizi O nastajanju i propadanju da je *porast dodatak već postojećoj veličini*. Dakle, i porast ljubavi, koji je prema virtualnoj kolikoći, bit će dodavanjem.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a5.obj2": {
+      "text": "Osim toga, ljubav je u duši neko duhovno svjetlo, prema onome iz 1 Iv 2: *tko ljubi brata svojega, ostaje u svjetlu*. Ali svjetlo raste u zraku dodavanjem, kao što u kući svjetlo raste kad se zapali još jedna svijeća. Dakle, i ljubav raste u duši dodavanjem.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a5.obj3": {
+      "text": "Osim toga, povećavati ljubav pripada Bogu, kao i stvarati je, prema onome iz 2 Kor 9: *umnožit će prirast plodova vaše pravednosti*. Ali Bog, kad prvi put ulijeva ljubav, čini u duši nešto što ondje prije nije bilo. Dakle, i povećavajući ljubav čini ondje nešto što prije nije bilo. Dakle, ljubav raste dodavanjem.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a5.sc": {
+      "text": "Ali protiv toga je to što je ljubav jednostavna forma. A jednostavno dodano jednostavnome ne čini nešto veće, kako se dokazuje u VI. knjizi Fizike. Dakle, ljubav ne raste dodavanjem.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a5.resp": {
+      "text": "Odgovaram: treba reći da je svako dodavanje dodavanje nečega nečemu. Stoga u svakom dodavanju treba, prije samog dodavanja, barem unaprijed shvatiti razlikovanje onih stvari od kojih se jedna dodaje drugoj. Ako se, dakle, ljubav dodaje ljubavi, treba pretpostaviti da je dodana ljubav različita od ljubavi kojoj se dodaje, ne doduše nužno po bitku, ali barem po shvaćanju. Bog bi, naime, mogao i tjelesnu kolikoću povećati dodajući neku veličinu koja prije nije postojala, nego je tada stvorena; ona, premda prije nije bila u stvarnosti, ipak ima u sebi ono po čemu se može shvatiti njezina različitost od kolikoće kojoj se dodaje. Ako se, dakle, ljubav dodaje ljubavi, treba pretpostaviti, barem po shvaćanju, razlikovanje jedne ljubavi od druge. A razlikovanje je u formama dvostruko: jedno po vrsti, a drugo po broju. Razlikovanje po vrsti kod habitusa je prema različitosti predmeta, a razlikovanje po broju prema različitosti subjekta. Može se, dakle, dogoditi da neki habitus raste dodavanjem kad se proteže na neke predmete na koje se prije nije protezao; i tako raste znanost geometrije u onome koji iznova počinje znati neke geometrijske stvari koje prije nije znao. Ali to se ne može reći o ljubavi, jer se i najmanja ljubav proteže na sve ono što treba ljubiti iz ljubavi. Ne može se, dakle, u porastu ljubavi shvatiti takvo dodavanje koje bi pretpostavljalo razlikovanje po vrsti između dodane ljubavi i one kojoj se nadodaje. Preostaje, dakle, ako dolazi do dodavanja ljubavi ljubavi, da se to događa uz pretpostavljeno razlikovanje po broju, koje je prema različitosti subjekata; kao što bjelina raste time što se bijelo dodaje bijelome, premda tim porastom ništa ne postaje bjelje. Ali to se u ovom slučaju ne može reći. Jer subjekt ljubavi nije drugo nego razumski duh; stoga takav porast ljubavi ne bi mogao nastati osim time da se jedan razumski duh doda drugome, što je nemoguće. Pa čak i kad bi takav porast bio moguć, učinio bi većim onoga koji ljubi, ali ne bi učinio da više ljubi. Preostaje, dakle, da ljubav nikako ne može rasti dodavanjem ljubavi ljubavi, kako neki postavljaju. Tako, dakle, ljubav raste samo time što subjekt sve više i više ima udjela u ljubavi, to jest ukoliko se više dovodi u njezin čin i više joj se podlaže. To je, naime, vlastiti način porasta svake forme koja se intenzivira, zato što se bitak takve forme posve sastoji u tome da prianja uz ono što je prima. I stoga, budući da veličina stvari slijedi njezin bitak, to da je forma veća znači da je ona više u onome što je prima, a ne da pridolazi druga forma. To bi, naime, bilo kad bi forma imala neku kolikoću od same sebe, a ne po odnosu prema subjektu. Tako, dakle, i ljubav raste time što se intenzivira u subjektu, i to je njezin porast po biti, a ne time što se ljubav dodaje ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da tjelesna kolikoća ima nešto ukoliko je kolikoća, a nešto ukoliko je akcidentalna forma. Ukoliko je kolikoća, ima to da je razlučiva po položaju ili po broju. I zato se na taj način promatra porast veličine dodavanjem, kao što je jasno kod životinja. Ukoliko je pak akcidentalna forma, razlučiva je samo po subjektu. I prema tome ima vlastiti porast, kao i druge akcidentalne forme, na način svojega intenziviranja u subjektu, kao što je jasno kod stvari koje se razrjeđuju, kako dokazuje Filozof u IV. knjizi Fizike. I slično i znanost ima kolikoću, ukoliko je habitus, s obzirom na predmete. I tako raste dodavanjem, ukoliko netko spoznaje više stvari. A ima i kolikoću ukoliko je neka akcidentalna forma, po tome što je u subjektu. I prema tome raste u onome koji iste spoznatljive stvari sada spoznaje izvjesnije nego prije. Slično i ljubav ima dvostruku kolikoću. Ali prema onoj koja je s obzirom na predmet, ne raste, kako je rečeno. Stoga preostaje da raste samo intenziviranjem.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a5.ad2": {
+      "text": "Na drugo treba reći da se dodavanje svjetla svjetlu u zraku može shvatiti zbog različitosti svjetlila koja uzrokuju svjetlo. Ali takvo razlikovanje nema mjesta u ovom slučaju, jer postoji samo jedno svjetlilo koje izlijeva svjetlo ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a5.ad3": {
+      "text": "Na treće treba reći da ulijevanje ljubavi uključuje neku promjenu s obzirom na to imati ljubav i nemati je, i zato treba da pridođe nešto čega prije nije bilo. Ali povećanje ljubavi uključuje promjenu s obzirom na to imati je manje ili više. I zato ne treba da bude nešto čega prije nije bilo, nego da više bude ono čega je prije bilo manje. I to je ono što Bog čini povećavajući ljubav: naime da ona više bude u duši i da duša savršenije ima udjela u sličnosti Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da ljubav raste svakim činom ljubavi. Tko, naime, može ono što je veće, može i ono što je manje. Ali svaki čin ljubavi zaslužuje vječni život, koji je nešto veće od jednostavnog porasta ljubavi, jer vječni život uključuje savršenost ljubavi. Dakle, još više svaki čin ljubavi povećava ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a6.obj2": {
+      "text": "Osim toga, kao što habitus stečenih kreposti nastaje iz čina, tako se i porast ljubavi uzrokuje činima ljubavi. Ali svaki krepostan čin djeluje prema nastajanju kreposti. Dakle, i svaki čin ljubavi djeluje prema porastu ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a6.obj3": {
+      "text": "Osim toga, Grgur kaže da na Božjem putu stajati znači nazadovati. Ali nitko, dok se pokreće činom ljubavi, ne nazaduje. Dakle, tko god se pokreće činom ljubavi, napreduje na Božjem putu. Dakle, ljubav raste svakim činom ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a6.sc": {
+      "text": "Ali protiv toga je to što učinak ne nadilazi snagu uzroka. A katkada se neki čin ljubavi izvodi s nekom mlakošću ili oslabljenošću. Dakle, on ne dovodi do izvrsnije ljubavi, nego prije raspolaže za manju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a6.resp": {
+      "text": "Odgovaram: treba reći da je duhovni porast ljubavi na neki način sličan tjelesnom porastu. A tjelesni porast kod životinja i biljaka nije neprekidno gibanje, tako naime da bi, ako nešto naraste toliko u tolikom vremenu, nužno moralo razmjerno u svakom dijelu toga vremena nešto narasti, kao što se događa u mjesnom gibanju; nego priroda neko vrijeme djeluje raspolažući za porast, a ništa zbiljski ne povećava, a poslije u učinak dovodi ono za što je bila raspoložila, povećavajući zbiljski životinju ili biljku. Tako ni ljubav ne raste zbiljski svakim činom ljubavi, nego svaki čin ljubavi raspolaže za porast ljubavi, ukoliko po jednom činu ljubavi čovjek postaje spremniji da ponovno djeluje prema ljubavi; i kad sposobnost poraste, čovjek provaljuje u žarči čin ljubavi, kojim se upinje za napredak ljubavi; i tada ljubav zbiljski raste.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da svaki čin ljubavi zaslužuje vječni život, koji se doduše ne daje odmah, nego u svoje vrijeme. Slično i svaki čin ljubavi zaslužuje porast ljubavi, ali ona ipak ne raste odmah, nego kad se netko upinje za takav porast.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a6.ad2": {
+      "text": "Na drugo treba reći da ni u nastajanju stečene kreposti svaki čin ne dovršava nastajanje kreposti, nego svaki djeluje prema njemu raspolažući, a posljednji, koji je savršeniji, djelujući snagom svih prethodnih, dovodi je u čin. Tako je i s mnogim kapima koje dube kamen.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a6.ad3": {
+      "text": "Na treće treba reći da netko napreduje na Božjem putu ne samo dok mu ljubav zbiljski raste, nego i dok se raspolaže za porast.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da ljubav ne raste u beskonačnost. Svako je, naime, gibanje usmjereno prema nekoj svrsi i granici, kako se kaže u II. knjizi Metafizike. Ali porast ljubavi je neko gibanje. Dakle, teži prema nekoj svrsi i granici. Dakle, ljubav ne raste u beskonačnost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a7.obj2": {
+      "text": "Osim toga, nijedna forma ne nadilazi kapacitet svojega subjekta. Ali kapacitet razumskog stvora, koji je subjekt ljubavi, konačan je. Dakle, ljubav ne može rasti u beskonačnost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a7.obj3": {
+      "text": "Osim toga, svako konačno može neprekidnim porastom doseći kolikoću drugoga konačnoga, koliko god ono bilo veće, osim možda ako je ono što porastom pridolazi uvijek sve manje i manje; kao što Filozof kaže u III. knjizi Fizike da, ako se jednoj crti dodaje ono što se oduzima od druge crte koja se dijeli u beskonačnost, makar se dodavanje vršilo u beskonačnost, nikada se neće doseći određena kolikoća koja je sastavljena od tih dviju crta, naime od podijeljene i od one kojoj se dodaje ono što se oduzima od druge. To se u ovom slučaju ne događa: nije, naime, nužno da sljedeći porast ljubavi bude manji od prethodnoga, nego je vjerojatnije da je jednak ili veći. Budući, dakle, da je ljubav u domovini nešto konačno, ako ljubav na putu može rasti u beskonačnost, slijedi da bi se ljubav na putu mogla izjednačiti s ljubavlju u domovini, što je neprikladno. Dakle, ljubav na putu ne može rasti u beskonačnost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a7.sc": {
+      "text": "Ali protiv toga je ono što apostol kaže u Fil 3: *Ne kao da sam već primio ili da sam već savršen, nego težim ne bih li kako dohvatio*. Ondje Glosa kaže: *nijedan vjernik, makar mnogo napredovao, neka ne kaže: Dosta mi je. Tko, naime, to kaže, izlazi s puta prije kraja*. Dakle, ljubav na putu uvijek može sve više i više rasti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a7.resp": {
+      "text": "Odgovaram: treba reći da se porastu neke forme može unaprijed postaviti granica na tri načina. Na jedan način, iz pojma same forme, koja ima određenu mjeru; kad se do nje dođe, ne može se dalje napredovati u toj formi, nego, ako se napreduje dalje, dolazi se do druge forme, kao što je jasno kod bljedila, čije granice netko neprekidnom kakvoćnom promjenom prelazi, dolazeći ili do bjeline ili do crnine. Na drugi način, s obzirom na djelatnika, čija se snaga ne proteže na daljnje povećavanje forme u subjektu. Na treći način, s obzirom na subjekt, koji nije sposoban za veću savršenost. Ali ni na jedan od tih načina ne postavlja se granica porastu ljubavi u stanju puta. Sama, naime, ljubav prema pojmu svoje vlastite vrste nema granice porasta: ona je, naime, neko sudjelovanje u beskonačnoj ljubavi, koja je Duh Sveti. Slično je i uzrok koji povećava ljubav beskonačne snage, naime Bog. Slično se ni s obzirom na subjekt ne može tom porastu unaprijed postaviti granica, jer uvijek, kad ljubav raste, još više raste sposobnost za daljnji porast. Stoga preostaje da se porastu ljubavi u ovom životu ne može unaprijed postaviti nikakva granica.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da je porast ljubavi usmjeren prema nekoj svrsi, ali ta svrha nije u ovom životu, nego u budućem.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a7.ad2": {
+      "text": "Na drugo treba reći da se kapacitet duhovnog stvora po ljubavi povećava, jer se po njoj srce širi, prema onome iz 2 Kor 6: *srce se naše raširilo*. I zato i dalje ostaje sposobnost za još veći porast.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a7.ad3": {
+      "text": "Na treće treba reći da taj razlog vrijedi za ono što ima kolikoću istoga pojma, ali ne za ono što ima različit pojam kolikoće; kao što crta, koliko god rasla, ne doseže kolikoću površine. A nije isti pojam kolikoće ljubavi na putu, koja slijedi spoznaju vjere, i ljubavi u domovini, koja slijedi otvoreno gledanje. Stoga zaključak ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da ljubav u ovom životu ne može biti savršena. Ta bi savršenost, naime, ponajviše bila u apostolima. Ali u njima je nije bilo; apostol, naime, kaže u Fil 3: *ne kao da sam već dohvatio ili da sam savršen*. Dakle, ljubav u ovom životu ne može biti savršena.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a8.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi Osamdeset i tri pitanja da je *hrana ljubavi smanjivanje žudnje, a savršenost nikakva žudnja*. Ali to ne može biti u ovom životu, u kojem ne možemo živjeti bez grijeha, prema onome iz 1 Iv 1: *ako rečemo da grijeha nemamo, sami sebe zavodimo*; a svaki grijeh proizlazi iz neke neuredne žudnje. Dakle, u ovom životu ljubav ne može biti savršena.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a8.obj3": {
+      "text": "Osim toga, ono što je već savršeno nema kamo dalje rasti. Ali ljubav u ovom životu uvijek može rasti, kako je rečeno. Dakle, ljubav u ovom životu ne može biti savršena.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a8.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u Tumačenju Prve Ivanove poslanice: *ljubav, kad ojača, usavršuje se; kad dođe do savršenosti, kaže: Želim se raspasti i biti s Kristom*. A to je moguće u ovom životu, kao što je bilo u Pavlu. Dakle, ljubav u ovom životu može biti savršena.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a8.resp": {
+      "text": "Odgovaram: treba reći da se savršenost ljubavi može shvatiti dvojako: na jedan način, s obzirom na ono što se ljubi; na drugi način, s obzirom na onoga koji ljubi. S obzirom na ono što se ljubi, ljubav je savršena kad se nešto ljubi onoliko koliko se može ljubiti. A Bog se može ljubiti onoliko koliko je dobar. A njegova je dobrota beskonačna. Stoga se može beskonačno ljubiti. Ali nijedan ga stvor ne može beskonačno ljubiti, budući da je svaka stvorena snaga konačna. Stoga na taj način ljubav nijednoga stvora ne može biti savršena, nego samo ljubav Božja, kojom on ljubi sama sebe. S obzirom pak na onoga koji ljubi, ljubav se naziva savršenom kad netko ljubi koliko god najviše može. To se događa na tri načina. Na jedan način, tako da se cijelo srce čovjekovo uvijek zbiljski kreće prema Bogu. I to je savršenost ljubavi u domovini, koja nije moguća u ovom životu, u kojem je, zbog slabosti ljudskog života, nemoguće uvijek zbiljski misliti na Boga i ljubavlju se kretati prema njemu. Na drugi način, tako da čovjek svoje nastojanje namijeni tome da se posveti Bogu i božanskim stvarima, ostavivši ostalo, osim koliko zahtijeva potreba sadašnjeg života. I to je savršenost ljubavi koja je moguća na putu, ali ipak nije zajednička svima koji imaju ljubav. Na treći način, tako da netko habitualno cijelo svoje srce stavi u Boga, naime tako da ne misli ni ne hoće ništa što bi bilo protivno ljubavi prema Bogu. I ta je savršenost zajednička svima koji imaju ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da apostol za sebe niječe savršenost domovine. Stoga ondje Glosa kaže da *je bio savršen putnik, ali još nije savršenošću samoga putovanja stigao do cilja*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a8.ad2": {
+      "text": "Na drugo treba reći da se to kaže zbog lakih grijeha. Oni nisu protivni habitusu ljubavi, nego činu, i tako se ne protive savršenosti puta, nego savršenosti domovine.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a8.ad3": {
+      "text": "Na treće treba reći da savršenost puta nije savršenost naprosto. I zato uvijek ima u čemu rasti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da se neprikladno razlikuju tri stupnja ljubavi, naime početna, napredujuća i savršena ljubav. Između početka ljubavi i njezine posljednje savršenosti ima, naime, mnogo srednjih stupnjeva. Dakle, nije trebalo postaviti samo jedan srednji.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a9.obj2": {
+      "text": "Osim toga, čim ljubav počne postojati, počinje i napredovati. Dakle, ne treba razlikovati napredujuću ljubav od početne.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a9.obj3": {
+      "text": "Osim toga, koliko god netko na ovom svijetu imao savršenu ljubav, njegova ljubav može i dalje rasti, kako je rečeno. A to da ljubav raste znači da ona napreduje. Dakle, savršenu ljubav ne treba razlikovati od napredujuće. Prema tome, spomenuta tri stupnja ljubavi neprikladno se navode.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a9.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u Tumačenju Prve Ivanove poslanice: *ljubav, kad se rodi, hrani se*, što pripada početnicima; *kad se nahrani, jača*, što pripada onima koji napreduju; *kad ojača, usavršuje se*, što pripada savršenima. Dakle, postoji trostruki stupanj ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a9.resp": {
+      "text": "Odgovaram: treba reći da se duhovni porast ljubavi može promatrati s obzirom na nešto slično tjelesnom porastu čovjeka. Premda se on može razdijeliti na vrlo mnogo dijelova, ipak ima neka određena razlikovanja prema određenim radnjama ili nastojanjima do kojih čovjek dolazi porastom. Tako se govori o dječjoj dobi prije nego što čovjek ima uporabu razuma; poslije se razlikuje drugo stanje čovjeka, kad već počinje govoriti i služiti se razumom; zatim je njegovo treće stanje stanje spolne zrelosti, kad već počinje moći rađati; i tako dalje dok se ne dođe do savršenoga. Tako se i različiti stupnjevi ljubavi razlikuju prema različitim nastojanjima do kojih čovjek dolazi porastom ljubavi. Najprije, naime, čovjeku pripada glavno nastojanje da se udaljuje od grijeha i da se opire njegovim požudama, koje pokreću u smjeru protivnom ljubavi. I to pripada početnicima, u kojima ljubav treba hraniti ili njegovati da ne propadne. Zatim slijedi drugo nastojanje, da čovjek ponajviše smjera na to da napreduje u dobru. I to nastojanje pripada onima koji napreduju, koji ponajviše smjeraju na to da u njima ljubav porastom ojača. A treće je nastojanje da čovjek ponajviše smjera na to da prianja uz Boga i da u njemu uživa. I to pripada savršenima, koji žele raspasti se i biti s Kristom. Kao što također vidimo u tjelesnom gibanju da je prvo udaljavanje od jedne granice, drugo približavanje drugoj granici, a treće smirenje u granici.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da je svako ono određeno razlikovanje koje se može uzeti u porastu ljubavi obuhvaćeno ovim trima koja su navedena. Kao što je i svaka podjela neprekidnih veličina obuhvaćena ovim trima: početkom, sredinom i krajem, kako kaže Filozof u I. knjizi O nebu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a9.ad2": {
+      "text": "Na drugo treba reći da one u kojima ljubav počinje, premda napreduju, ipak pritišće glavnija briga da se odupiru grijesima, čijim su napadanjem uznemiravani. Ali poslije, kad to napadanje manje osjećaju, već kao sigurnije smjeraju na napredak; ipak s jedne strane obavljajući posao, a s druge strane držeći ruku na maču, kako se kaže u Ezri o graditeljima Jeruzalema.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a9.ad3": {
+      "text": "Na treće treba reći da i savršeni napreduju u ljubavi, ali to nije njihova glavna briga, nego se njihovo nastojanje već ponajviše bavi time da prianjaju uz Boga. I premda to traže i početnici i oni koji napreduju, ipak više osjećaju brigu oko drugih stvari: početnici oko izbjegavanja grijeha, a oni koji napreduju oko napretka u krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da se ljubav može smanjiti. Ono što je protivno po naravi biva oko istoga. A smanjivanje i porast su protivni. Budući, dakle, da ljubav raste, kako je gore rečeno, čini se da se može i smanjiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a10.obj2": {
+      "text": "Osim toga, Augustin, govoreći Bogu u X. knjizi Ispovijesti, kaže: *manje tebe ljubi tko s tobom ljubi nešto*. I u knjizi Osamdeset i tri pitanja kaže da je *hrana ljubavi smanjivanje žudnje*; iz čega se čini da je, obratno, i porast žudnje smanjivanje ljubavi. Ali žudnja, kojom se ljubi nešto drugo osim Boga, može u čovjeku rasti. Dakle, ljubav se može smanjiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a10.obj3": {
+      "text": "Osim toga, kao što kaže Augustin u VIII. knjizi O doslovnom tumačenju Knjige postanka, *Bog ne čini čovjeka pravednim, opravdavajući ga, tako da, ako se on udalji, u odsutnome ostane ono što je učinio*; iz toga se može uzeti da Bog na isti način djeluje ljubav u čovjeku održavajući je kao što je djeluje kad mu je prvi put ulijeva. Ali pri prvom ulijevanju ljubavi Bog onome koji se manje priprema ulijeva manju ljubav. Dakle, i pri održavanju ljubavi onome koji se manje priprema održava manju ljubav. Dakle, ljubav se može smanjiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a10.sc": {
+      "text": "Ali protiv toga je to što se ljubav u Pismu uspoređuje s ognjem, prema onome iz Pj 8: svjetiljke njezine, naime ljubavi, svjetiljke su ognja i plamenova. A oganj se, dokle god traje, uvijek uzdiže. Dakle, ljubav se, dokle god traje, može uzdizati, ali se ne može spuštati, to jest smanjivati.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a10.resp": {
+      "text": "Odgovaram: treba reći da se kolikoća ljubavi koju ona ima u odnosu prema vlastitom predmetu ne može smanjiti, kao što se ne može ni povećati, kako je gore rečeno. Ali budući da ona raste prema kolikoći koju ima u odnosu prema subjektu, ovdje treba razmotriti može li se s te strane smanjiti. A ako se smanjuje, mora se smanjivati ili nekim činom ili samim prestankom čina. Prestankom čina smanjuju se kreposti stečene činima, a katkada i propadaju, kako je gore rečeno; stoga Filozof u VIII. knjizi Etike o prijateljstvu kaže da *mnoga prijateljstva razvrgne neobraćanje*, to jest to što se prijatelju ne obraćamo ili s njim ne razgovaramo. Ali to je zato što održavanje svake stvari ovisi o njezinu uzroku; a uzrok stečene kreposti je ljudski čin; stoga, kad prestanu ljudski čini, stečena se krepost smanjuje i na kraju posve propada. Ali to nema mjesta kod ljubavi, jer ljubav ne uzrokuju ljudski čini, nego samo Bog, kako je gore rečeno. Stoga preostaje da se ona, i kad prestane čin, zbog toga niti smanjuje niti propada, ako u samom prestanku nema grijeha. Preostaje, dakle, da smanjenje ljubavi ne može biti uzrokovano osim ili od Boga ili od nekoga grijeha. Od Boga se pak u nama ne uzrokuje nikakav nedostatak osim na način kazne, ukoliko oduzima milost za kaznu zbog grijeha. Stoga mu ni ne pristaje smanjivati ljubav osim na način kazne. A kazna se duguje grijehu. Stoga preostaje da je, ako se ljubav smanjuje, uzrok njezina smanjenja grijeh, bilo tvorno bilo po zasluzi. Ali smrtni grijeh ni na jedan od tih načina ne smanjuje ljubav, nego je posve uništava: i tvorno, jer je svaki smrtni grijeh protivan ljubavi, kako će se dolje reći; a i po zasluzi, jer onaj koji smrtno griješeći čini nešto protiv ljubavi zaslužuje da mu Bog oduzme ljubav. Slično se ni lakim grijehom ljubav ne može smanjiti, ni tvorno ni po zasluzi. Tvorno ne, jer ne dotiče samu ljubav. Ljubav je, naime, oko posljednje svrhe, a laki je grijeh neka neurednost oko onoga što vodi k svrsi. A ljubav prema svrsi ne smanjuje se time što netko počini neku neurednost oko onoga što vodi k svrsi; kao što se katkada događa da se neki bolesnici, premda mnogo ljube zdravlje, ipak neuredno odnose prema pridržavanju dijete; kao što ni u spekulativnim stvarima kriva mnijenja o onome što se izvodi iz načela ne umanjuju izvjesnost načela. Slično ni laki grijeh ne zaslužuje smanjenje ljubavi. Kad, naime, netko pogriješi u manjem, ne zaslužuje pretrpjeti štetu u većem. Bog se, naime, ne odvraća od čovjeka više nego što se čovjek odvraća od njega. Stoga onaj koji se neuredno odnosi prema onome što vodi k svrsi ne zaslužuje pretrpjeti štetu u ljubavi, po kojoj je usmjeren prema posljednjoj svrsi. Stoga slijedi da se ljubav, govoreći izravno, nikako ne može smanjiti. Ipak se neizravno smanjenjem ljubavi može nazvati raspoloživost za njezino propadanje, koja nastaje ili lakim grijesima ili također prestankom vršenja djela ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ono što je protivno oko istoga kad se subjekt jednako odnosi prema obama protivnim. Ali ljubav se ne odnosi na isti način prema porastu i prema smanjenju: može, naime, imati uzrok koji je povećava, ali ne može imati uzrok koji je smanjuje, kako je rečeno. Stoga zaključak ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a10.ad2": {
+      "text": "Na drugo treba reći da je žudnja dvostruka. Jedna je ona kojom se svrha postavlja u stvorove. I ona posve umrtvljuje ljubav, budući da je njezin otrov, kako kaže Augustin na istom mjestu. I ona čini da se Bog manje ljubi, naime manje nego što ga treba ljubiti iz ljubavi, ne doduše smanjujući ljubav, nego je posve uklanjajući. I tako treba shvatiti ono što se kaže: *manje tebe ljubi tko s tobom ljubi nešto*; nadodaje se, naime: *što ne ljubi radi tebe*. To se ne događa kod lakoga grijeha, nego samo kod smrtnoga; ono što se, naime, ljubi u lakom grijehu, ljubi se radi Boga habitualno, premda ne zbiljski. Postoji pak druga žudnja, žudnja lakoga grijeha, koja se ljubavlju uvijek smanjuje; ali ipak takva žudnja ne može smanjiti ljubav, iz već navedenog razloga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a10.ad3": {
+      "text": "Na treće treba reći da se za ulijevanje ljubavi zahtijeva pokret slobodnog odlučivanja, kako je gore rečeno. I zato ono što umanjuje intenzitet slobodnog odlučivanja djeluje raspolažući na to da ljubav koja se ima uliti bude manja. Ali za održavanje ljubavi ne zahtijeva se pokret slobodnog odlučivanja; inače ne bi ostajala u onima koji spavaju. Stoga se ljubav ne smanjuje kad je zapriječen intenzitet pokreta slobodnog odlučivanja.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da se ljubav, kad se jednom ima, ne može izgubiti. Ako se, naime, gubi, gubi se samo zbog grijeha. Ali onaj koji ima ljubav ne može griješiti. Kaže se, naime, u 1 Iv 3: *svaki, naime, koji je rođen od Boga ne čini grijeha, jer sjeme njegovo ostaje u njemu, i ne može griješiti, jer je rođen od Boga*. A ljubav imaju samo sinovi Božji; *ona je, naime, ono što razlikuje sinove kraljevstva od sinova propasti*, kako kaže Augustin u XV. knjizi O Trojstvu. Dakle, onaj koji ima ljubav ne može je izgubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a11.obj2": {
+      "text": "Osim toga, Augustin kaže u VIII. knjizi O Trojstvu da *ljubav, ako nije istinska, ne treba nazivati ljubavlju*. A, kako on sam kaže u Pismu knezu Julijanu, *ljubav koja se može napustiti nikada nije bila istinska*. Dakle, nije bila ni ljubav. Ako se, dakle, ljubav jednom ima, nikada se ne gubi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a11.obj3": {
+      "text": "Osim toga, Grgur kaže u homiliji na Duhove da *ljubav (amor) prema Bogu čini velika djela, ako postoji; ako prestane djelovati, nije ljubav (caritas)*. Ali nitko ne gubi ljubav čineći velika djela. Dakle, ako je ljubav prisutna, ne može se izgubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a11.obj4": {
+      "text": "Osim toga, slobodno odlučivanje ne naginje se grijehu osim po nekom poticaju na grijeh. Ali ljubav (caritas) isključuje sve poticaje na grijeh: i ljubav (amor) prema sebi, i žudnju, i što god je drugo takvo. Dakle, ljubav se ne može izgubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a11.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Otk 2: *imam nešto malo protiv tebe: što si napustio svoju prvu ljubav*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a11.resp": {
+      "text": "Odgovaram: treba reći da po ljubavi Duh Sveti prebiva u nama, kako je jasno iz rečenoga. Ljubav, dakle, možemo promatrati na tri načina. Na jedan način, s obzirom na Duha Svetoga koji pokreće dušu da ljubi Boga. I s te strane ljubav ima nemogućnost griješenja po snazi Duha Svetoga, koji nepogrešivo čini što god hoće. Stoga je nemoguće da ovo dvoje bude istodobno istinito: da Duh Sveti hoće nekoga pokrenuti na čin ljubavi i da taj izgubi ljubav griješeći; jer se dar ustrajnosti ubraja među *dobročinstva Božja kojima se najsigurnije oslobađaju svi koji se oslobađaju*, kako kaže Augustin u knjizi O predodređenju svetih. Na drugi način ljubav se može promatrati prema njezinu vlastitom pojmu. I tako ljubav ne može ništa osim onoga što pripada pojmu ljubavi. Stoga ljubav nikako ne može griješiti, kao što ni toplina ne može hladiti; i kao što ni nepravednost ne može činiti dobro, kako kaže Augustin u knjizi O Gospodinovu govoru na gori. Na treći način ljubav se može promatrati s obzirom na subjekt, koji je promjenljiv prema slobodi odlučivanja. A odnos ljubavi prema tom subjektu može se promatrati i prema općem pojmu po kojem se forma odnosi prema tvari, i prema posebnom pojmu po kojem se habitus odnosi prema moći. Pojmu je forme svojstveno da je u subjektu tako da se može izgubiti kad ne ispunjava svu mogućnost tvari, kao što je jasno kod formi stvari koje nastaju i propadaju. Jer tvar tih stvari tako prima jednu formu da u njoj ostaje mogućnost za drugu formu, kao da jednom formom nije ispunjena sva mogućnost tvari; i zato se jedna forma može izgubiti primanjem druge. Ali forma nebeskoga tijela, budući da ispunjava svu mogućnost tvari, tako da u njoj ne ostaje mogućnost za drugu formu, nalazi se u njemu neizgubivo. Tako se, dakle, ljubav u domovini, budući da ispunjava svu mogućnost razumskoga duha, ukoliko se, naime, svaki njegov zbiljski pokret kreće prema Bogu, posjeduje neizgubivo. Ljubav pak na putu ne ispunjava tako mogućnost svojega subjekta, jer se ne kreće uvijek zbiljski prema Bogu. Stoga, kad se zbiljski ne kreće prema Bogu, može se pojaviti nešto po čemu se ljubav gubi. Habitusu je pak vlastito da naginje moć da čini ono što pristaje habitusu, ukoliko čini da se ono što mu pristaje čini dobrim, a zlim ono što mu se protivi. Kao što, naime, osjetilo okusa prosuđuje okuse prema svojoj raspoloživosti, tako duh čovjekov prosuđuje o onome što treba činiti prema svojoj habitualnoj raspoloživosti; stoga i Filozof kaže u III. knjizi Etike da *kakav je tko, takva mu se čini svrha*. Ljubav se, dakle, posjeduje neizgubivo ondje gdje se ono što pristaje ljubavi ne može činiti drukčijim nego dobrim, naime u domovini, gdje se Bog gleda po biti, koja je sama bit dobrote. I zato se ljubav u domovini ne može izgubiti. Ali ljubav na putu, u čijem se stanju ne gleda sama Božja bit, koja je bit dobrote, može se izgubiti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj autoritet govori s obzirom na moć Duha Svetoga, čijim održavanjem ostaju pošteđeni od grijeha oni koje on pokreće, koliko god on hoće.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a11.ad2": {
+      "text": "Na drugo treba reći da ljubav koja se može napustiti po samom pojmu ljubavi nije istinska ljubav. To bi, naime, bilo kad bi u svojoj ljubavi (amor) imala to da ljubi neko vrijeme, a poslije prestane ljubiti, što ne bi pripadalo istinskoj ljubavi. Ali ako se ljubav gubi zbog promjenljivosti subjekta, protivno odluci ljubavi, koja je uključena u njezin čin, to se ne protivi istinskosti ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a11.ad3": {
+      "text": "Na treće treba reći da ljubav (amor) prema Bogu uvijek čini velika djela u odluci, što pripada pojmu ljubavi (caritas). Ali ne čini uvijek velika djela u činu, zbog stanja subjekta.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a11.ad4": {
+      "text": "Na četvrto treba reći da ljubav, prema pojmu svojega čina, isključuje svaki poticaj na grijeh. Ali katkada se događa da ljubav zbiljski ne djeluje. I tada se može umiješati neki poticaj na grijeh, i ako se na nj pristane, ljubav se gubi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da se ljubav ne gubi jednim činom smrtnog grijeha. Origen, naime, kaže u I. knjizi djela O počelima: *ako katkada zasićenost obuzme nekoga od onih koji su se ustalili na najvišem i savršenom stupnju, ne mislim da se tko iznenada isprazni ili otpadne, nego je nužno da otpada postupno i dio po dio*. A čovjek otpada gubeći ljubav. Dakle, ljubav se ne gubi samo jednim činom smrtnog grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.obj2": {
+      "text": "Osim toga, papa Lav, obraćajući se Petru, kaže u Govoru o muci: *Gospodin je u tebi vidio ne pobijeđenu vjeru, ne odvraćenu ljubav, nego uzdrmanu postojanost. Obilovao je plač gdje nije izostalo čuvstvo, i izvor ljubavi oprao je riječi straha*. I iz toga je Bernard uzeo ono što je rekao, *da u Petru ljubav nije bila ugašena, nego uspavana*. A Petar je, zatajivši Krista, smrtno sagriješio. Dakle, ljubav se ne gubi jednim činom smrtnog grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.obj3": {
+      "text": "Osim toga, ljubav je jača od stečene kreposti. Ali habitus stečene kreposti ne uklanja se jednim protivnim činom grijeha. Dakle, još se manje ljubav uklanja jednim protivnim činom smrtnog grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.obj4": {
+      "text": "Osim toga, ljubav (caritas) uključuje ljubav prema Bogu i bližnjemu. Ali netko tko počini neki smrtni grijeh zadržava, kako se čini, ljubav prema Bogu i bližnjemu; neurednost čuvstva oko onoga što vodi k svrsi, naime, ne uklanja ljubav (amor) prema svrsi, kako je gore rečeno. Dakle, ljubav (caritas) prema Bogu može ostati premda postoji smrtni grijeh zbog neurednog čuvstva prema nekom vremenitom dobru.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.obj5": {
+      "text": "Osim toga, predmet bogoslovne kreposti je posljednja svrha. Ali druge bogoslovne kreposti, naime vjera i nada, ne isključuju se jednim činom smrtnog grijeha, nego ostaju neoblikovane. Dakle, i ljubav može ostati neoblikovana, i kad je počinjen jedan smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.sc": {
+      "text": "Ali protiv toga, po smrtnom grijehu čovjek postaje dostojan vječne smrti, prema onome iz Rim 6: *plaća je grijeha smrt*. A svaki koji ima ljubav ima zaslugu vječnog života; kaže se, naime, u Iv 14: *ako me tko ljubi, njega će ljubiti Otac moj, i ja ću ljubiti njega i očitovat ću mu sebe samoga*; a u tom se očitovanju sastoji vječni život, prema onome iz Iv 17: *ovo je vječni život: da spoznaju tebe, istinitoga Boga, i koga si poslao, Isusa Krista*. Nitko pak ne može istodobno biti dostojan vječnog života i vječne smrti. Dakle, nemoguće je da netko ima ljubav zajedno sa smrtnim grijehom. Ljubav se, dakle, uklanja jednim činom smrtnog grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.resp": {
+      "text": "Odgovaram: treba reći da se jedno protivno uklanja kad nadođe drugo protivno. A svaki je čin smrtnog grijeha protivan ljubavi prema njezinu vlastitom pojmu, koji se sastoji u tome da se Bog ljubi iznad svega i da mu se čovjek posve podloži, upravljajući sve svoje prema njemu. Pojmu je, dakle, ljubavi svojstveno da tako ljubi Boga da mu se u svemu hoće podložiti i u svemu slijediti pravilo njegovih zapovijedi; što god je, naime, protivno njegovim zapovijedima, očito je protivno ljubavi. Stoga to po sebi ima da može isključiti ljubav. I kad bi ljubav bila stečeni habitus koji ovisi o snazi subjekta, ne bi trebalo da se odmah ukloni jednim protivnim činom. Čin, naime, nije izravno protivan habitusu, nego činu; a održavanje habitusa u subjektu ne zahtijeva neprekidnost čina; stoga se stečeni habitus ne isključuje odmah kad nadođe protivan čin. Ali ljubav, budući da je uliveni habitus, ovisi o radnji Boga koji je ulijeva, a on se u ulijevanju i održavanju ljubavi odnosi kao sunce u rasvjetljivanju zraka, kako je rečeno. I zato, kao što bi svjetlo odmah prestalo biti u zraku čim bi se postavila neka zapreka rasvjetljivanju od sunca, tako i ljubav odmah prestaje biti u duši čim se postavi neka zapreka izlijevanju ljubavi od Boga u dušu. A očito je da se svakim smrtnim grijehom, koji je protivan božanskim zapovijedima, postavlja zapreka spomenutom ulijevanju; jer iz samog toga što čovjek izabirući pretpostavlja grijeh Božjem prijateljstvu, koje zahtijeva da slijedimo Božju volju, slijedi da se odmah jednim činom smrtnog grijeha gubi habitus ljubavi. Stoga i Augustin kaže u VIII. knjizi O doslovnom tumačenju Knjige postanka da *čovjek, kad mu je Bog prisutan, biva prosvijetljen, a kad je odsutan, odmah biva pomračen; od njega se ne odlazi udaljenošću mjesta, nego odvraćanjem volje*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da se Origenova riječ može na jedan način shvatiti tako da čovjek koji je u savršenom stanju ne prelazi iznenada na čin smrtnog grijeha, nego se za to raspolaže nekom prethodnom nemarnošću. Stoga se i za lake grijehe kaže da su raspoloživost za smrtni, kako je gore rečeno. Ali ipak jednim činom smrtnog grijeha, ako ga počini, otpada, izgubivši ljubav. No budući da on sam nadodaje: *ako se dogodi neki kratak pad, a čovjek se brzo opameti, ne čini se da se posve srušio*, može se drukčije reći da on misli da se posve isprazni i otpadne onaj koji tako otpada da griješi iz zloće. To se u savršenom čovjeku ne događa odmah od početka.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.ad2": {
+      "text": "Na drugo treba reći da se ljubav gubi dvojako. Na jedan način, izravno, zbiljskim prezirom. I na taj način Petar nije izgubio ljubav. Na drugi način, neizravno, kad se počini nešto protivno ljubavi zbog neke strasti požude ili straha. I na taj je način Petar, djelujući protiv ljubavi, izgubio ljubav, ali ju je brzo ponovno zadobio.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.ad4": {
+      "text": "Na četvrto treba reći da ne čini svaka neurednost čuvstva koja je oko onoga što vodi k svrsi, to jest oko stvorenih dobara, smrtni grijeh, nego samo kad je takva neurednost koja se protivi božanskoj volji. A to je izravno protivno ljubavi, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q24.a12.ad5": {
+      "text": "Na peto treba reći da ljubav uključuje neko sjedinjenje s Bogom, a vjera i nada ne. A svaki se smrtni grijeh sastoji u odvraćanju od Boga, kako je gore rečeno. I zato je svaki smrtni grijeh protivan ljubavi. Ali nije svaki smrtni grijeh protivan vjeri ili nadi, nego samo neki određeni grijesi, po kojima se uklanja habitus vjere i nade, kao što se svakim smrtnim grijehom uklanja habitus ljubavi. Stoga je jasno da ljubav ne može ostati neoblikovana, budući da je posljednja forma kreposti, po tome što gleda na Boga pod vidom posljednje svrhe, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 23,
+  "units": {
+    "II-II.q23.pr": {
+      "text": "Nakon toga treba razmotriti ljubav. I to najprije samu ljubav; zatim dar mudrosti koji joj odgovara. Glede prvoga treba razmotriti pet stvari: prvo, samu ljubav; drugo, predmet ljubavi; treće, njezine čine; četvrto, poroke koji su joj suprotstavljeni; peto, zapovijedi koje se na to odnose. Glede prvoga razmatranje je dvostruko: prvo o samoj ljubavi po sebi; drugo o ljubavi u usporedbi sa subjektom. Glede prvoga pita se osam stvari. Prvo, je li ljubav prijateljstvo. Drugo, je li ona nešto stvoreno u duši. Treće, je li krepost. Četvrto, je li posebna krepost. Peto, je li jedna krepost. Šesto, je li najveća od kreposti. Sedmo, može li bez nje biti ikakve prave kreposti. Osmo, je li ona forma kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da ljubav nije prijateljstvo. *Ništa, naime, nije toliko svojstveno prijateljstvu koliko živjeti zajedno s prijateljem*, kako kaže Filozof u VIII. knjizi Etike. Ali ljubav je ona koju čovjek ima prema Bogu i prema anđelima, koji s ljudima nemaju općenja, kako se kaže u Dn 2. Dakle, ljubav nije prijateljstvo.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a1.obj2": {
+      "text": "Osim toga, prijateljstva nema bez uzvraćene ljubavi, kako se kaže u VIII. knjizi Etike. Ali ljubav se ima i prema neprijateljima, prema onome iz Mt 5: *Ljubite neprijatelje svoje.* Dakle, ljubav nije prijateljstvo.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a1.obj3": {
+      "text": "Osim toga, prema Filozofu, u VIII. knjizi Etike, tri su vrste prijateljstva, naime prijateljstvo radi ugode, radi koristi i radi čestitosti. Ali ljubav nije prijateljstvo radi koristi ili radi ugode, jer Jeronim kaže u Poslanici Paulinu, koja se stavlja na početak Biblije: *Ono je prava povezanost, spojena ljepilom Kristovim, koju ne stvara korist od kućnih dobara, ni samo tjelesna nazočnost, ni podmuklo i umiljato laskanje, nego strah Božji i proučavanje božanskih Pisama.* Isto tako nije ni prijateljstvo radi čestitosti, jer ljubavlju ljubimo i grešnike, a prijateljstvo radi čestitosti ima se samo prema kreposnima, kako se kaže u VIII. knjizi Etike. Dakle, ljubav nije prijateljstvo.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iv 15: *Ne zovem vas više slugama, nego prijateljima svojim.* A to im se nije govorilo ni zbog čega drugoga nego zbog ljubavi. Dakle, ljubav je prijateljstvo.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a1.resp": {
+      "text": "Odgovaram: treba reći da, prema Filozofu u VIII. knjizi Etike, nema svaka ljubav pojam prijateljstva, nego ljubav koja je spojena s dobrohotnošću, to jest kad nekoga tako ljubimo da mu želimo dobro. Ako pak stvarima koje ljubimo ne želimo dobro, nego njihovo dobro želimo sebi, kao što se kaže da ljubimo vino ili konja ili nešto takvo, to nije ljubav prijateljstva, nego neke želje; smiješno je, naime, reći da netko ima prijateljstvo prema vinu ili prema konju. No ni dobrohotnost nije dovoljna za pojam prijateljstva, nego se traži neka uzajamna ljubav, jer prijatelj je prijatelju prijatelj. A takva se uzajamna dobrohotnost temelji na nekom zajedništvu. Budući da, dakle, postoji neko zajedništvo čovjeka s Bogom po tome što nam on daje udjela u svojem blaženstvu, na tom zajedništvu mora se temeljiti neko prijateljstvo. O tom se zajedništvu kaže u 1 Kor 1: *Vjeran je Bog po kojem ste pozvani u zajedništvo Sina njegova.* A ljubav (amor) koja se temelji na tom zajedništvu jest ljubav (caritas). Stoga je očito da je ljubav neko prijateljstvo čovjeka s Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je čovjekov život dvostruk. Jedan je vanjski, prema osjetnoj i tjelesnoj naravi, i po tom životu nemamo zajedništva ni općenja s Bogom i anđelima. Drugi je pak čovjekov duhovni život, prema duhu. I po tom životu imamo općenje i s Bogom i s anđelima. U sadašnjem stanju doduše nesavršeno, pa se zato kaže u Fil 3: *Naše je općenje na nebesima.* Ali to će se općenje usavršiti u domovini, kad će mu sluge njegove služiti i gledati lice njegovo, kako se kaže u posljednjem poglavlju Otkrivenja. I zato je ovdje ljubav nesavršena, ali će se usavršiti u domovini.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a1.ad2": {
+      "text": "Na drugo treba reći da se prijateljstvo na nekoga proteže na dva načina. Na jedan način, s obzirom na njega samoga, i tako se prijateljstvo nikada ne odnosi ni na koga osim na prijatelja. Na drugi način proteže se na nekoga s obzirom na drugu osobu: tako, ako netko ima prijateljstvo prema nekom čovjeku, zbog njega ljubi sve koji pripadaju tom čovjeku, bilo sinove, bilo sluge, bilo one koji su mu na bilo koji način bliski. I ljubav prema prijatelju može biti tolika da se zbog prijatelja ljube oni koji mu pripadaju, čak i ako nas vrijeđaju ili mrze. I na taj se način prijateljstvo ljubavi proteže i na neprijatelje, koje ljubimo iz ljubavi u odnosu prema Bogu, prema kojemu se prijateljstvo ljubavi ponajprije ima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a1.ad3": {
+      "text": "Na treće treba reći da se prijateljstvo radi čestitosti ima samo prema kreposnome kao prema glavnoj osobi, ali se s obzirom na njega ljube i oni koji mu pripadaju, čak i ako nisu kreposni. I na taj se način ljubav, koja je u najvećoj mjeri prijateljstvo radi čestitosti, proteže na grešnike, koje iz ljubavi ljubimo radi Boga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ljubav nije nešto stvoreno u duši. Augustin, naime, kaže u VIII. knjizi O Trojstvu: *Tko ljubi bližnjega, iz toga slijedi da ljubi samu ljubav. A Bog je ljubav. Slijedi, dakle, da ponajprije ljubi Boga.* I u XV. knjizi O Trojstvu kaže: *Rečeno je: Bog je ljubav, onako kako je rečeno: Bog je duh.* Dakle, ljubav nije nešto stvoreno u duši, nego je sam Bog.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a2.obj2": {
+      "text": "Osim toga, Bog je duhovno život duše, kao što je duša život tijela, prema onome iz Pnz 30: *On je život tvoj.* Ali duša oživljuje tijelo sama po sebi. Dakle, i Bog oživljuje dušu sam po sebi. A oživljuje je po ljubavi, prema onome iz 1 Iv 3: *Mi znamo da smo prešli iz smrti u život, jer ljubimo braću.* Dakle, Bog je sama ljubav.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a2.obj3": {
+      "text": "Osim toga, ništa stvoreno nije beskonačne snage, nego je, naprotiv, svaki stvor ispraznost. Ali ljubav nije ispraznost, nego se, naprotiv, protivi ispraznosti, i beskonačne je snage, jer dovodi čovjekovu dušu do beskonačnog dobra. Dakle, ljubav nije nešto stvoreno u duši.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u III. knjizi O kršćanskom nauku: *Ljubavlju nazivam pokret duše prema uživanju Boga radi njega samoga.* A pokret duše jest nešto stvoreno u duši. Dakle, i ljubav je nešto stvoreno u duši.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a2.resp": {
+      "text": "Odgovaram: treba reći da Učitelj istražuje to pitanje u I. knjizi Sentencija, 17. distinkciji, i postavlja da ljubav nije nešto stvoreno u duši, nego da je ona sam Duh Sveti koji prebiva u duhu. Niti mu je nakana reći da je sam taj pokret ljubavi kojim ljubimo Boga Duh Sveti, nego da taj pokret ljubavi dolazi od Duha Svetoga bez posredovanja ikakvog habitusa, kao što drugi kreposni čini dolaze od Duha Svetoga posredstvom habitusa drugih kreposti, na primjer habitusa nade ili vjere ili koje druge kreposti. A to je govorio zbog izvrsnosti ljubavi. Ali ako tko ispravno razmotri, to je prije na štetu ljubavi. Pokret ljubavi, naime, ne izlazi od Duha Svetoga koji pokreće ljudski duh tako da ljudski duh bude samo pokretan i da ni na koji način ne bude počelo toga pokreta, kao kad se neko tijelo giba od nekog vanjskog pokretača. To je, naime, protiv pojma voljnoga, čije počelo mora biti u njemu samome, kako je gore rečeno. Stoga bi slijedilo da ljubiti nije voljno. A to uključuje proturječje, jer ljubav (amor) po svojem pojmu znači da je čin volje. Isto tako ne može se reći da Duh Sveti pokreće volju na čin ljubavi onako kako se pokreće oruđe, koje, premda je počelo čina, ipak nije u njegovoj vlasti djelovati ili ne djelovati. Tako bi se, naime, također uklonio pojam voljnoga i isključio pojam zasluge, a ipak je gore utvrđeno da je čin ljubavi korijen zasluživanja. Nego je potrebno da volja bude tako pokretana od Duha Svetoga na ljubav da i ona sama bude tvorni uzrok toga čina. A nijedan se čin ne proizvodi savršeno od neke djelatne moći ako joj nije sunaravan po nekoj formi koja je počelo radnje. Stoga je Bog, koji sve pokreće prema dužnim svrhama, pojedinim stvarima udijelio forme po kojima su nagnute prema svrhama što ih im je Bog odredio; i u skladu s tim on sve blago raspoređuje, kako se kaže u Mudr 8. A očito je da čin ljubavi nadilazi narav moći volje. Kad se, dakle, naravnoj moći ne bi pridodala neka forma po kojoj bi bila nagnuta prema činu ljubavi, taj bi čin u skladu s tim bio nesavršeniji od naravnih činova i od činova drugih kreposti, i ne bi bio lak i ugodan. A očito je da je to lažno, jer nijedna krepost nema tolike sklonosti prema svojem činu kao ljubav, niti ijedna djeluje s tolikom nasladom. Stoga je u najvećoj mjeri nužno da za čin ljubavi u nama postoji neka habitualna forma pridodana naravnoj moći, koja je naginje činu ljubavi i čini da ona djeluje spremno i s nasladom.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je sama božanska bit ljubav, kao što je i mudrost i kao što je dobrota. Stoga, kao što se kaže da smo dobri dobrotom koja je Bog i mudri mudrošću koja je Bog, jer je dobrota kojom smo formalno dobri neko sudjelovanje u božanskoj dobroti, a mudrost kojom smo formalno mudri neko sudjelovanje u božanskoj mudrosti, tako je i ljubav kojom formalno ljubimo bližnjega neko sudjelovanje u božanskoj ljubavi. Takav je, naime, način govora uobičajen kod platonovaca, čijim je naucima Augustin bio prožet. Neki, ne pazeći na to, uzeli su njegove riječi kao povod zabludi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a2.ad2": {
+      "text": "Na drugo treba reći da je Bog tvorno život i duše po ljubavi i tijela po duši, ali je formalno ljubav život duše, kao što je i duša život tijela. Stoga se iz toga može zaključiti da se, kao što se duša neposredno sjedinjuje s tijelom, tako i ljubav neposredno sjedinjuje s dušom.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a2.ad3": {
+      "text": "Na treće treba reći da ljubav djeluje formalno. A djelotvornost forme ovisi o snazi djelatnika koji uvodi formu. I zato to što ljubav nije ispraznost, nego proizvodi beskonačan učinak dok sjedinjuje dušu s Bogom opravdavajući je, pokazuje beskonačnost božanske snage, koja je začetnica ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ljubav nije krepost. Ljubav je, naime, neko prijateljstvo. Ali filozofi prijateljstvo ne ubrajaju u kreposti, kako je razvidno iz Etike: ono se, naime, ne ubraja ni među moralne ni među umske kreposti. Dakle, ni ljubav nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a3.obj2": {
+      "text": "Osim toga, krepost je krajnost moći, kako se kaže u I. knjizi O nebu. Ali ljubav nije ono krajnje, nego su to prije radost i mir. Dakle, čini se da ljubav nije krepost, nego su to prije radost i mir.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a3.obj3": {
+      "text": "Osim toga, svaka je krepost neki akcidentalni habitus. Ali ljubav nije akcidentalni habitus, budući da je plemenitija od same duše, a nijedan akcident nije plemenitiji od subjekta. Dakle, ljubav nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O običajima Crkve: *Ljubav je krepost koja nas, kad je naše najispravnije čuvstvo, sjedinjuje s Bogom, a po njoj ga ljubimo.*",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a3.resp": {
+      "text": "Odgovaram: treba reći da ljudski čini imaju dobrotu ukoliko se ravnaju prema dužnom pravilu i mjeri; i zato se ljudska krepost, koja je počelo svih dobrih čovjekovih čina, sastoji u dosezanju pravila ljudskih čina. A ono je dvostruko, kako je gore rečeno, naime ljudski razum i sam Bog. Stoga, kao što se moralna krepost definira po tome što je u skladu s ispravnim razumom, kako je razvidno iz II. knjige Etike, tako i dosezanje Boga sačinjava pojam kreposti, kao što je gore rečeno i o vjeri i nadi. Stoga, budući da ljubav doseže Boga, jer nas sjedinjuje s Bogom, kako je razvidno iz navedenog Augustinova autoriteta, slijedi da je ljubav krepost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozof u VIII. knjizi Etike ne niječe da je prijateljstvo krepost, nego kaže da je ono krepost ili da je s krepošću. Moglo bi se, naime, reći da je ono moralna krepost glede djelovanja koja se odnose na drugoga, ali pod drugim vidom nego pravednost. Pravednost se, naime, odnosi na djelovanja usmjerena prema drugome pod vidom zakonskog duga, a prijateljstvo pod vidom nekog prijateljskog i moralnog duga, ili prije pod vidom besplatnog dobročinstva, kako je razvidno iz Filozofa u VIII. knjizi Etike. Ipak se može reći da ono nije krepost po sebi različita od drugih. Ono, naime, nema pojam hvalevrijednoga i čestitoga osim iz predmeta, to jest ukoliko se temelji na čestitosti kreposti; to je razvidno iz toga što nema svako prijateljstvo pojam hvalevrijednoga i čestitoga, kao što se vidi kod prijateljstva radi ugode i radi koristi. Stoga je kreposno prijateljstvo prije nešto što slijedi kreposti nego što je krepost. A nije isto s ljubavlju, koja se ne temelji ponajprije na ljudskoj kreposti, nego na božanskoj dobroti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a3.ad2": {
+      "text": "Na drugo treba reći da istoj kreposti pripada ljubiti nekoga i radovati se zbog njega, jer radost slijedi ljubav, kako je gore utvrđeno kad se raspravljalo o strastima. I zato se kao krepost prije postavlja ljubav nego radost, koja je učinak ljubavi. A ono krajnje što se stavlja u pojam kreposti ne znači red učinka, nego prije red neke nadmašnosti, kao što sto funti nadmašuje šezdeset.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a3.ad3": {
+      "text": "Na treće treba reći da je svaki akcident po svojem bitku niži od supstancije, jer je supstancija biće po sebi, a akcident je u drugome. Ali po pojmu svoje vrste akcident koji je uzrokovan iz počela subjekta doduše je nedostojniji od subjekta, kao učinak od uzroka. A akcident koji je uzrokovan sudjelovanjem u nekoj višoj naravi dostojniji je od subjekta, ukoliko je sličnost više naravi, kao svjetlo u odnosu na prozirno. I na taj je način ljubav dostojnija od duše, ukoliko je neko sudjelovanje u Duhu Svetome.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ljubav nije posebna krepost. Jeronim, naime, kaže: *Da ukratko obuhvatim svaku definiciju kreposti: krepost je ljubav kojom se ljubi Bog i bližnji.* I Augustin kaže u knjizi O običajima Crkve da je *krepost red ljubavi*. Ali nijedna se posebna krepost ne stavlja u definiciju kreposti općenito. Dakle, ljubav nije posebna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a4.obj2": {
+      "text": "Osim toga, ono što se proteže na djela svih kreposti ne može biti posebna krepost. Ali ljubav se proteže na djela svih kreposti, prema onome iz 1 Kor 13: *Ljubav je strpljiva, dobrostiva je* i tako dalje. Proteže se također na sva ljudska djela, prema onome iz posljednjeg poglavlja 1 Kor: *Sva vaša djela neka budu u ljubavi.* Dakle, ljubav nije posebna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a4.obj3": {
+      "text": "Osim toga, zapovijedi zakona odgovaraju činima kreposti. Ali Augustin u knjizi O savršenstvu ljudske pravednosti kaže da je *opća zapovijed: Ljubi; a opća zabrana: Ne poželi.* Dakle, ljubav je opća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a4.sc": {
+      "text": "Ali protiv toga: ništa se opće ne ubraja zajedno s posebnim. Ali ljubav se ubraja zajedno s posebnim krepostima, naime s vjerom i nadom, prema onome iz 1 Kor 13: *A sada ostaju vjera, nada, ljubav, to troje.* Dakle, ljubav je posebna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a4.resp": {
+      "text": "Odgovaram: treba reći da se čini i habitusi određuju po vrsti po predmetima, kako je razvidno iz rečenoga. A vlastiti predmet ljubavi (amor) jest dobro, kako je gore utvrđeno. I zato gdje je poseban pojam dobra, ondje je i poseban pojam ljubavi. A božansko dobro, ukoliko je predmet blaženstva, ima poseban pojam dobra. I zato je ljubav (amor caritatis), koja je ljubav prema tom dobru, posebna ljubav. Stoga je i ljubav (caritas) posebna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ljubav stavlja u definiciju svake kreposti, ne zato što bi po biti bila svaka krepost, nego zato što o njoj na neki način ovise sve kreposti, kako će se niže reći. Kao što se i razboritost stavlja u definiciju moralnih kreposti, kako je razvidno iz II. i VI. knjige Etike, zato što moralne kreposti ovise o razboritosti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a4.ad2": {
+      "text": "Na drugo treba reći da krepost ili umijeće kojemu pripada posljednja svrha zapovijeda krepostima ili umijećima kojima pripadaju druge, drugotne svrhe, kao što ratno umijeće zapovijeda konjaničkome, kako se kaže u I. knjizi Etike. I zato, budući da ljubav ima za predmet posljednju svrhu ljudskoga života, naime vječno blaženstvo, proteže se na čine cijeloga ljudskog života na način zapovijedanja, a ne tako da bi neposredno izvodila sve čine kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a4.ad3": {
+      "text": "Na treće treba reći da se za zapovijed o ljubavi kaže da je opća zapovijed jer se na nju svode sve druge zapovijedi kao na svrhu, prema onome iz 1 Tim 1: *Svrha je zapovijedi ljubav.*",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da ljubav nije jedna krepost. Habitusi se, naime, razlikuju po predmetima. Ali dva su predmeta ljubavi, Bog i bližnji, koji su jedan od drugoga beskonačno udaljeni. Dakle, ljubav nije jedna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a5.obj2": {
+      "text": "Osim toga, različiti pojmovi predmeta razlikuju habitus, čak i ako je predmet u stvarnosti isti, kako je razvidno iz rečenoga. Ali mnogo je razloga da ljubimo Boga, jer smo mu za svako pojedino primljeno dobročinstvo dužni ljubav. Dakle, ljubav nije jedna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a5.obj3": {
+      "text": "Osim toga, pod ljubav je uključeno prijateljstvo prema bližnjemu. Ali Filozof u VIII. knjizi Etike postavlja različite vrste prijateljstva. Dakle, ljubav nije jedna krepost, nego se umnaža u različite vrste.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a5.sc": {
+      "text": "Ali protiv toga: kao što je predmet vjere Bog, tako je on i predmet ljubavi. Ali vjera je jedna krepost zbog jedinstva božanske istine, prema onome iz Ef 4: *Jedna vjera.* Dakle, i ljubav je jedna krepost zbog jedinstva božanske dobrote.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a5.resp": {
+      "text": "Odgovaram: treba reći da je ljubav, kako je rečeno, neko prijateljstvo čovjeka s Bogom. A različite vrste prijateljstava uzimaju se, s jedne strane, po različitosti svrhe, i u tom se smislu govori o tri vrste prijateljstva, naime o prijateljstvu radi koristi, radi ugode i radi čestitosti. S druge strane, po različitosti zajedništava na kojima se prijateljstva temelje: tako je jedna vrsta prijateljstvo rođaka, a druga prijateljstvo sugrađana ili suputnika, od kojih se jedno temelji na naravnom zajedništvu, a druga na građanskom zajedništvu ili na zajedništvu putovanja, kako je razvidno iz Filozofa u VIII. knjizi Etike. Ni na jedan od tih načina ljubav se ne može podijeliti na više njih. Jer jedna je svrha ljubavi, naime božanska dobrota. A jedno je i zajedništvo vječnoga blaženstva na kojem se to prijateljstvo temelji. Stoga preostaje da je ljubav naprosto jedna krepost, koja se ne razlikuje u više vrsta.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da bi onaj razlog izravno vrijedio kad bi Bog i bližnji bili jednako predmeti ljubavi. A to nije istina, nego je Bog glavni predmet ljubavi, a bližnji se iz ljubavi ljubi radi Boga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a5.ad2": {
+      "text": "Na drugo treba reći da se ljubavlju Bog ljubi radi sebe samoga. Stoga ljubav ponajprije uzima u obzir samo jedan razlog ljubavi, naime božansku dobrotu, koja je njegova supstancija, prema onome iz Psalma: *Hvalite Gospodina jer je dobar.* A drugi razlozi koji potiču na ljubav ili koji čine da smo dužni ljubav drugotni su i slijede iz prvoga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a5.ad3": {
+      "text": "Na treće treba reći da ljudsko prijateljstvo, o kojem govori Filozof, ima različitu svrhu i različito zajedništvo. A to kod ljubavi nema mjesta, kako je rečeno. I zato razlog nije isti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da ljubav nije najizvrsnija od kreposti. Više moći, naime, pripada viša krepost, kao i više djelovanje. Ali um je viši od volje i upravlja njome. Dakle, vjera, koja je u umu, izvrsnija je od ljubavi, koja je u volji.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a6.obj2": {
+      "text": "Osim toga, čini se da je ono po čemu nešto drugo djeluje niže od toga, kao što je sluga, po kojemu gospodar nešto čini, niži od gospodara. *Ali vjera djeluje po ljubavi*, kako stoji u Gal 5. Dakle, vjera je izvrsnija od ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a6.obj3": {
+      "text": "Osim toga, čini se da je savršenije ono što se prema drugome odnosi kao dodatak. Ali čini se da se nada prema ljubavi odnosi kao dodatak: predmet je ljubavi, naime, dobro, a predmet nade teško dostižno dobro. Dakle, nada je izvrsnija od ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 1 Kor 13: *Najveća je od njih ljubav.*",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a6.resp": {
+      "text": "Odgovaram: treba reći da se, budući da se dobro u ljudskim činima uzima prema tome koliko se ravnaju prema dužnom pravilu, ljudska krepost, koja je počelo dobrih čina, nužno sastoji u dosezanju pravila ljudskih čina. A dvostruko je pravilo ljudskih čina, kako je gore rečeno, naime ljudski razum i Bog; ali Bog je prvo pravilo, po kojemu se treba ravnati i sam ljudski razum. I zato su bogoslovne kreposti, koje se sastoje u dosezanju toga prvog pravila, jer im je predmet Bog, izvrsnije od moralnih ili umskih kreposti, koje se sastoje u dosezanju ljudskog razuma. Zbog toga je potrebno da i među samim bogoslovnim krepostima bude odličnija ona koja više doseže Boga. A uvijek je ono što je po sebi veće od onoga što je po drugome. Vjera i nada doduše dosežu Boga ukoliko nam od njega dolazi ili spoznaja istine ili postizanje dobra, ali ljubav doseže samoga Boga da bi se u njemu zaustavila, a ne da bi nam od njega nešto došlo. I zato je ljubav izvrsnija od vjere i nade, a posljedično i od svih drugih kreposti. Kao što je i razboritost, koja doseže razum sam po sebi, izvrsnija od drugih moralnih kreposti, koje dosežu razum ukoliko se po njemu uspostavlja sredina u ljudskim djelovanjima ili strastima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se djelovanje uma dovršava time što je ono shvaćeno u onome koji shvaća, i zato se plemenitost umskog djelovanja prosuđuje po mjeri uma. A djelovanje volje i bilo koje težnjene snage usavršava se u nagnuću onoga koji teži prema stvari kao prema završetku. Zato se dostojanstvo težnjenog djelovanja prosuđuje po stvari koja je predmet djelovanja. A ono što je ispod duše na plemenitiji je način u duši nego u sebi samome, jer je svaka stvar u nečemu na način onoga u čemu jest, kako stoji u Knjizi o uzrocima; a ono što je iznad duše na plemenitiji je način u sebi samome nego što je u duši. I zato je kod onoga što je ispod nas spoznaja plemenitija od ljubavi, zbog čega je Filozof u X. knjizi Etike umske kreposti stavio iznad moralnih. Ali kod onoga što je iznad nas ljubav se pretpostavlja spoznaji, a osobito ljubav prema Bogu. I zato je ljubav izvrsnija od vjere.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a6.ad2": {
+      "text": "Na drugo treba reći da vjera ne djeluje po ljubavi kao po oruđu, kao gospodar po slugi, nego kao po vlastitoj formi. I zato razlog ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a6.ad3": {
+      "text": "Na treće treba reći da je isto dobro predmet ljubavi i nade, ali ljubav znači sjedinjenje s tim dobrom, a nada neku udaljenost od njega. I odatle dolazi da ljubav ne gleda to dobro kao teško dostižno, kao što ga gleda nada; ono što je, naime, već sjedinjeno nema pojam teško dostižnoga. I iz toga je očito da je ljubav savršenija od nade.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da bez ljubavi može biti neke prave kreposti. Kreposti je, naime, svojstveno proizvesti dobar čin. Ali oni koji nemaju ljubavi čine neke dobre čine, na primjer kad odijevaju gola, hrane gladna i čine slično. Dakle, bez ljubavi može biti neke prave kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a7.obj2": {
+      "text": "Osim toga, ljubav ne može biti bez vjere: ona, naime, izlazi iz nehinjene vjere, kako kaže Apostol u 1 Tim 1. Ali u nevjernicima može biti prave čistoće, kad obuzdavaju požude, i prave pravednosti, kad ispravno sude. Dakle, prava krepost može biti bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a7.obj3": {
+      "text": "Osim toga, znanost i umijeće neke su kreposti, kako je razvidno iz VI. knjige Etike. Ali takve se nalaze u grešnim ljudima koji nemaju ljubavi. Dakle, prava krepost može biti bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol u 1 Kor 13: *Kad bih sav svoj imutak razdao za hranu siromasima i kad bih predao svoje tijelo da gori, a ljubavi ne bih imao, ništa mi ne bi koristilo.* A prava krepost mnogo koristi, prema onome iz Mudr 8: *Uči trijeznosti i pravednosti, razboritosti i kreposti, od kojih ljudima u životu ništa nije korisnije.* Dakle, bez ljubavi ne može biti prave kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a7.resp": {
+      "text": "Odgovaram: treba reći da je krepost usmjerena prema dobru, kako je gore utvrđeno. A dobro je ponajprije svrha, jer se ono što vodi k svrsi ne naziva dobrim osim u odnosu prema svrsi. Kao što je, dakle, svrha dvostruka, jedna posljednja, a druga bliža, tako je i dobro dvostruko: jedno posljednje, a drugo blisko i posebno. Posljednje i glavno čovjekovo dobro jest uživanje Boga, prema onome iz Psalma: *Meni je dobro prianjati uz Boga*, i prema tome je čovjek usmjeren po ljubavi. A drugotno i takoreći posebno čovjekovo dobro može biti dvostruko: jedno koje je uistinu dobro, jer se, koliko je do njega, može usmjeriti prema glavnom dobru, koje je posljednja svrha; a drugo je prividno, a ne pravo dobro, jer odvodi od konačnog dobra. Tako je, dakle, očito da je naprosto prava krepost ona koja usmjeruje prema glavnom čovjekovu dobru, kao što i Filozof u VII. knjizi Fizike kaže da je krepost raspoloživost savršenoga prema najboljemu. I tako nijedna prava krepost ne može biti bez ljubavi. Ali ako se krepost uzme ukoliko je usmjerena prema nekoj posebnoj svrsi, tada se za neku krepost može reći da je bez ljubavi, ukoliko je usmjerena prema nekom posebnom dobru. Ali ako to posebno dobro nije pravo dobro, nego prividno, ni krepost koja je usmjerena prema tom dobru neće biti prava krepost, nego lažna sličnost kreposti; kao što *nije prava krepost razboritost škrtaca, kojom smišljaju razne vrste sitnih dobitaka; ni pravednost škrtaca, kojom iz straha od teških šteta preziru tuđe; ni umjerenost škrtaca, kojom obuzdavaju težnju za raskošju jer je skupa; ni jakost škrtaca, kojom, kako kaže Horacije, bježe od siromaštva preko mora, preko stijena, kroz ognjeve*, kako kaže Augustin u IV. knjizi Protiv Julijana. Ako pak to posebno dobro jest pravo dobro, na primjer očuvanje države ili nešto takvo, bit će to doduše prava krepost, ali nesavršena, ako se ne odnosi na konačno i savršeno dobro. I prema tome naprosto prava krepost ne može biti bez ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da čin nekoga tko je lišen ljubavi može biti dvojak. Jedan je onaj koji je u skladu s tim što je lišen ljubavi, kao kad čini nešto u odnosu prema onome zbog čega je lišen ljubavi. I takav je čin uvijek zao; kao što Augustin kaže u IV. knjizi Protiv Julijana da je čin nevjernika, ukoliko je nevjernik, uvijek grijeh, čak i ako odijeva gola ili čini bilo što drugo takvo, usmjerujući to prema svrsi svoje nevjere. Drugi pak čin onoga koji je lišen ljubavi može biti ne u skladu s tim što je lišen ljubavi, nego u skladu s tim što ima neki drugi Božji dar, bilo vjeru bilo nadu, ili čak dobro naravi, koje se grijehom ne oduzima posve, kako je gore rečeno. I prema tome bez ljubavi doduše može biti neki čin dobar po svojem rodu, ali ne savršeno dobar, jer mu nedostaje dužna usmjerenost prema posljednjoj svrsi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a7.ad2": {
+      "text": "Na drugo treba reći da, budući da se svrha u onome što treba činiti odnosi kao načelo u spekulativnome, kao što ne može biti naprosto prave znanosti ako nedostaje ispravna procjena o prvom i nedokazivom načelu, tako ne može biti naprosto prave pravednosti ili prave čistoće ako nedostaje dužna usmjerenost prema svrsi, koja je po ljubavi, ma koliko se netko u ostalome ispravno ponašao.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a7.ad3": {
+      "text": "Na treće treba reći da znanost i umijeće po svojem pojmu znače usmjerenost prema nekom posebnom dobru, a ne prema posljednjoj svrsi ljudskoga života, kao moralne kreposti, koje čovjeka naprosto čine dobrim, kako je gore rečeno. I zato razlog nije isti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da ljubav nije forma kreposti. Forma neke stvari, naime, ili je uzorna ili je bitna. Ali ljubav nije uzorna forma drugih kreposti, jer bi tada druge kreposti morale biti iste vrste kao i ona. Isto tako nije ni bitna forma drugih kreposti, jer se tada ne bi razlikovala od drugih. Dakle, ni na koji način nije forma kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a8.obj2": {
+      "text": "Osim toga, ljubav se prema drugim krepostima odnosi kao korijen i temelj, prema onome iz Ef 3: *Ukorijenjeni i utemeljeni u ljubavi.* A korijen ili temelj nema pojam forme, nego prije pojam tvari, jer je prvi dio u nastajanju. Dakle, ljubav nije forma kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a8.obj3": {
+      "text": "Osim toga, forma, svrha i tvorni uzrok ne podudaraju se u brojčano istome, kako je razvidno iz II. knjige Fizike. Ali za ljubav se kaže da je svrha i majka kreposti. Dakle, ne treba se nazivati formom kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Ambrozije, da je ljubav forma kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a8.resp": {
+      "text": "Odgovaram: treba reći da se u moralnome forma čina uzima ponajprije sa strane svrhe; razlog je tomu što je počelo moralnih čina volja, čiji je predmet i takoreći forma svrha. A forma čina uvijek slijedi formu djelatnika. Stoga je potrebno da u moralnome ono što činu daje usmjerenost prema svrsi daje mu i formu. A očito je prema rečenome da se po ljubavi čini svih drugih kreposti usmjeruju prema posljednjoj svrsi. I prema tome ona daje formu činima svih drugih kreposti. I utoliko se za nju kaže da je forma kreposti, jer se i same kreposti nazivaju krepostima u odnosu prema oblikovanim činima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za ljubav kaže da je forma drugih kreposti ne na uzoran ili bitan način, nego prije tvorno, ukoliko, naime, svima nameće formu na spomenuti način.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a8.ad2": {
+      "text": "Na drugo treba reći da se ljubav uspoređuje s temeljem i korijenom ukoliko se iz nje podupiru i hrane sve druge kreposti, a ne po onom pojmu po kojem temelj i korijen imaju pojam tvarnog uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    },
+    "II-II.q23.a8.ad3": {
+      "text": "Na treće treba reći da se za ljubav kaže da je svrha drugih kreposti jer sve druge kreposti usmjeruje prema svojoj svrsi. A budući da je majka ona koja u sebi začinje od drugoga, iz toga se razloga naziva majkom drugih kreposti, jer iz težnje za posljednjom svrhom začinje čine drugih kreposti, zapovijedajući ih.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:54+00:00"
+    }
+  }
+}

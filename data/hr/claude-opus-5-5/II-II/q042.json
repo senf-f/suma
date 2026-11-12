@@ -1,0 +1,108 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 42,
+  "units": {
+    "II-II.q42.pr": {
+      "text": "Zatim treba razmotriti pobunu. I o tome se postavljaju dva pitanja. Prvo, je li ona poseban grijeh. Drugo, je li smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da pobuna nije poseban grijeh, različit od drugih. Jer, kako kaže Izidor u knjizi Etimologija, *buntovnik je onaj koji stvara nesuglasje duhova i rađa nesloge*. Ali time što netko izaziva neki grijeh, ne griješi drugim rodom grijeha nego onim koji izaziva. Dakle, čini se da pobuna nije poseban grijeh, različit od nesloge.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a1.obj2": {
+      "text": "Osim toga, pobuna sa sobom nosi neku podjelu. Ali i ime raskola uzeto je od rascjepa, kao što je gore rečeno. Dakle, čini se da grijeh pobune nije različit od grijeha raskola.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a1.obj3": {
+      "text": "Osim toga, svaki poseban grijeh, različit od drugih, ili je glavni grijeh ili nastaje iz nekog glavnog grijeha. Ali pobuna se ne ubraja ni među glavne grijehe ni među grijehe koji nastaju iz glavnih, kao što je očito u XXXI. knjizi Moralija, gdje se nabrajaju i jedni i drugi. Dakle, pobuna nije poseban grijeh, različit od drugih.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a1.sc": {
+      "text": "Ali protiv toga je što se u 2 Kor 12 pobune razlikuju od drugih grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a1.resp": {
+      "text": "Odgovaram: treba reći da je pobuna neki poseban grijeh, koji se u nečemu slaže s ratom i tučnjavom, a u nečemu se od njih razlikuje. Slaže se s njima u tome što sa sobom nosi neko proturječje. A razlikuje se od njih u dvjema stvarima. Prvo, jer rat i tučnjava sa sobom nose uzajamni napad u činu, a o pobuni se može govoriti bilo da se takav napad zbiva u činu, bilo da je riječ o pripremi za takav napad. Zato Glosa uz 2 Kor 12 kaže da su pobune metež za borbu, kad se, naime, neki pripremaju i smjeraju boriti se. Drugo, razlikuju se jer je rat u vlastitom smislu protiv tuđinaca i neprijatelja, kao mnoštva protiv mnoštva; tučnjava je pak jednoga protiv jednoga ili nekolicine protiv nekolicine; a pobuna je u vlastitom smislu među dijelovima jednoga mnoštva koji se međusobno ne slažu, primjerice kad se jedan dio grada digne u metež protiv drugoga. I zato je pobuna, budući da ima posebno dobro kojemu se protivi, naime jedinstvo i mir mnoštva, poseban grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se buntovnikom naziva onaj koji izaziva pobunu. A budući da pobuna sa sobom nosi neku neslogu, buntovnik je onaj koji stvara neslogu, ne bilo kakvu, nego među dijelovima nekog mnoštva. A grijeh pobune nije samo u onome koji sije neslogu, nego i u onima koji se neuredno međusobno ne slažu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a1.ad2": {
+      "text": "Na drugo treba reći da se pobuna razlikuje od raskola u dvjema stvarima. Prvo, jer se raskol protivi duhovnom jedinstvu mnoštva, naime crkvenom jedinstvu, a pobuna se protivi vremenitom ili svjetovnom jedinstvu mnoštva, primjerice grada ili kraljevstva. Drugo, jer raskol ne nosi sa sobom nikakvu pripremu za tjelesnu borbu, nego samo duhovno nesuglasje, a pobuna sa sobom nosi pripremu za tjelesnu borbu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a1.ad3": {
+      "text": "Na treće treba reći da se pobuna, kao i raskol, sadrži pod neslogom. I jedno i drugo je, naime, neka nesloga, ne jednoga s jednim, nego dijelova mnoštva međusobno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da pobuna nije uvijek smrtni grijeh. Pobuna, naime, sa sobom nosi metež za borbu, kao što je očito iz gore navedene Glose. Ali borba nije uvijek smrtni grijeh, nego je katkad pravedna i dopuštena, kao što je gore utvrđeno. Dakle, još mnogo više pobuna može biti bez smrtnoga grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a2.obj2": {
+      "text": "Osim toga, pobuna je neka nesloga, kao što je rečeno. Ali nesloga može biti bez smrtnoga grijeha, a katkad i bez ikakva grijeha. Dakle, i pobuna.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a2.obj3": {
+      "text": "Osim toga, hvale se oni koji oslobađaju mnoštvo od tiranske vlasti. Ali to se ne može lako učiniti bez nekog nesuglasja u mnoštvu, kad jedan dio mnoštva nastoji zadržati tiranina, a drugi ga nastoji zbaciti. Dakle, pobuna se može dogoditi bez grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a2.sc": {
+      "text": "Ali protiv toga je što Apostol u 2 Kor 12 zabranjuje pobune među ostalim stvarima koje su smrtni grijesi. Dakle, pobuna je smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, pobuna protivi jedinstvu mnoštva, to jest naroda, grada ili kraljevstva. A Augustin kaže u II. knjizi O Božjem gradu da *mudri određuju da narod nije svako okupljanje mnoštva, nego okupljanje udruženo pristankom na pravo i zajedništvom koristi*. Stoga je očito da je jedinstvo kojemu se pobuna protivi jedinstvo prava i zajedničke koristi. Očito je, dakle, da se pobuna protivi i pravednosti i općem dobru. I zato je po svojemu rodu smrtni grijeh, i to toliko teži koliko je opće dobro, koje se napada pobunom, veće od privatnog dobra, koje se napada tučnjavom. A grijeh pobune ponajprije i u prvom redu pripada onima koji izazivaju pobunu, koji najteže griješe. Zatim onima koji ih slijede, remeteći opće dobro. A oni koji brane opće dobro, opirući im se, ne smiju se nazivati buntovnicima, kao što se ni oni koji se brane ne nazivaju svadljivcima, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se borba koja je dopuštena vodi za zajedničku korist, kao što je gore rečeno. A pobuna se diže protiv općeg dobra mnoštva. Stoga je uvijek smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a2.ad2": {
+      "text": "Na drugo treba reći da nesloga s obzirom na ono što nije očito dobro može biti bez grijeha. Ali nesloga s obzirom na ono što je očito dobro ne može biti bez grijeha. A takva je nesloga pobuna, koja se protivi koristi mnoštva, a ta je očito dobro.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q42.a2.ad3": {
+      "text": "Na treće treba reći da tiranska vladavina nije pravedna, jer nije usmjerena prema općem dobru, nego prema privatnom dobru onoga koji vlada, kao što je očito iz Filozofa u III. knjizi Politike i u VIII. knjizi Etike. I zato remećenje takve vladavine nema značaj pobune, osim možda kad se tiraninova vladavina tako neuredno remeti da podložno mnoštvo trpi veću štetu od remećenja koje iz toga slijedi nego od tiraninove vladavine. Štoviše, buntovnik je prije tiranin, koji u narodu koji mu je podložan hrani nesloge i pobune da bi mogao sigurnije gospodovati. To je, naime, tiransko, jer je usmjereno prema vlastitom dobru onoga koji upravlja, na štetu mnoštva.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    }
+  }
+}

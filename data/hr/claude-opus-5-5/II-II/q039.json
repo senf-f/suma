@@ -1,0 +1,192 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 39,
+  "units": {
+    "II-II.q39.pr": {
+      "text": "Zatim treba razmotriti poroke suprotstavljene miru koji pripadaju djelu; to su raskol, tučnjava, pobuna i rat. Najprije se, dakle, u vezi s raskolom pitaju četiri stvari. Prvo, je li raskol poseban grijeh. Drugo, je li teži od nevjere. Treće, o vlasti raskolnika. Četvrto, o njihovoj kazni.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da raskol nije poseban grijeh. Raskol, naime, kako kaže papa Pelagije, znači rascjep. Ali svaki grijeh čini neki rascjep, prema onom iz Iz 59: *vaši su grijesi razdvojili vas i vašega Boga*. Dakle raskol nije poseban grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a1.obj2": {
+      "text": "Osim toga, čini se da su raskolnici oni koji se ne pokoravaju Crkvi. Ali po svakom grijehu čovjek postaje neposlušan zapovijedima Crkve, jer je grijeh, prema Ambroziju, neposlušnost nebeskim zapovijedima. Dakle svaki je grijeh raskol.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a1.obj3": {
+      "text": "Osim toga, i hereza odvaja čovjeka od jedinstva vjere. Ako, dakle, ime raskola uključuje odvajanje, čini se da se on ne razlikuje od grijeha nevjere kao poseban grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a1.sc": {
+      "text": "Ali protiv toga je to što Augustin u spisu Protiv Fausta razlikuje raskol i herezu, govoreći da je *raskol kad se netko, misleći isto i štujući istim obredom kao i ostali, naslađuje samo razdorom zajednice; a hereza misli drukčije od onoga što vjeruje Katolička crkva*. Dakle raskol nije opći grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kako kaže Izidor u knjizi Etimologija, ime raskola nazvano po rascjepu duhova. A rascjep se suprotstavlja jedinstvu. Zato se grijehom raskola naziva onaj grijeh koji se izravno i po sebi suprotstavlja jedinstvu; jer kao što u prirodnim stvarima ono što je akcidentalno ne tvori vrstu, tako ni u moralnim stvarima. U njima je ono što je namjeravano po sebi, a ono što slijedi mimo nakane kao da je akcidentalno. Zato je grijeh raskola u vlastitom smislu poseban grijeh po tome što netko smjera odvojiti se od jedinstva koje čini ljubav. Ona ne sjedinjuje samo jednu osobu s drugom duhovnom vezom ljubavi, nego i cijelu Crkvu u jedinstvu duha. Zato se u vlastitom smislu raskolnicima nazivaju oni koji se svojevoljno i s nakanom odvajaju od jedinstva Crkve, koje je glavno jedinstvo; jer je posebno jedinstvo nekih među sobom usmjereno prema jedinstvu Crkve, kao što je sastav pojedinih udova u prirodnom tijelu usmjeren prema jedinstvu cijeloga tijela. A jedinstvo Crkve promatra se u dvoje: naime u međusobnoj povezanosti udova Crkve, ili zajedništvu; i opet u usmjerenosti svih udova Crkve prema jednoj glavi, prema onom iz Kol 2: *napuhan mišljenjem svoga tijela, i ne držeći se glave, iz koje cijelo tijelo, opskrbljeno i izgrađeno zglobovima i svezama, raste Božjim rastom*. A ta je glava sam Krist, čije mjesto u Crkvi zauzima vrhovni svećenik. Zato se raskolnicima nazivaju oni koji se odbijaju podložiti vrhovnom svećeniku i koji odbijaju zajedništvo s udovima Crkve koji su mu podložni.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da odvajanje čovjeka od Boga po grijehu grešnik ne namjerava, nego se ono događa mimo njegove nakane iz njegova neurednog okretanja prema promjenljivom dobru. Zato to, govoreći po sebi, nije raskol.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a1.ad2": {
+      "text": "Na drugo treba reći da nepokoravanje zapovijedima s nekom buntovnošću tvori pojam raskola. A kažem s buntovnošću kad netko tvrdokorno prezire zapovijedi Crkve i odbija podvrgnuti se njezinu sudu. To pak ne čini svaki grešnik. Zato nije svaki grijeh raskol.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a1.ad3": {
+      "text": "Na treće treba reći da se hereza i raskol razlikuju po onome čemu se jedno i drugo po sebi i izravno suprotstavlja. Hereza se, naime, po sebi suprotstavlja vjeri, a raskol se po sebi suprotstavlja jedinstvu crkvene ljubavi. Zato, kao što su vjera i ljubav različite kreposti, iako je bez ljubavi tko god je bez vjere, tako su i raskol i hereza različiti poroci, iako je tko god je heretik ujedno i raskolnik, ali ne i obratno. I to je ono što kaže Jeronim u Tumačenju Poslanice Galaćanima: *smatram da je razlika između raskola i hereze u tome što hereza ima izopačenu dogmu, a raskol odvaja od Crkve*. Ipak, kao što je gubitak ljubavi put prema gubitku vjere, prema onom iz 1 Tim 1: *od čega su neki skrenuvši*, naime od ljubavi i drugih takvih stvari, zastranili u isprazno govorenje; tako je i raskol put prema herezi. Zato Jeronim ondje dodaje da se *raskol u početku može u nekom pogledu shvatiti kao različit od hereze; ali nema raskola koji sebi ne izmisli neku herezu, da bi se činilo da je s pravom odstupio od Crkve*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je raskol teži grijeh od nevjere. Veći se grijeh, naime, kažnjava težom kaznom, prema onom iz Pnz 25: *prema mjeri grijeha bit će i mjera udaraca*. Ali nalazimo da je grijeh raskola kažnjen teže nego čak i grijeh nevjere ili idolopoklonstva. Čita se, naime, u Izl 32 da su zbog idolopoklonstva neki ubijeni mačem ljudskom rukom; a o grijehu raskola čita se u Br 16: *ako Gospodin učini nešto novo, tako da zemlja otvori svoja usta i proguta njih i sve što im pripada, i siđu živi u pakao, znat ćete da su pohulili na Gospodina*. I deset plemena, koja su se zbog poroka raskola odijelila od Davidova kraljevstva, bila su najteže kažnjena, kako stoji u 2 Kr 17. Dakle grijeh raskola teži je od grijeha nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a2.obj2": {
+      "text": "Osim toga, *dobro mnoštva veće je i božanskije od dobra jednoga*, kao što je jasno iz Filozofa u I. knjizi Etike. Ali raskol je protiv dobra mnoštva, to jest protiv crkvenog jedinstva, a nevjera je protiv posebnog dobra jednoga, a to je vjera jednoga pojedinačnog čovjeka. Dakle čini se da je raskol teži grijeh od nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a2.obj3": {
+      "text": "Osim toga, većem se zlu suprotstavlja veće dobro, kao što je jasno iz Filozofa u VIII. knjizi Etike. Ali raskol se suprotstavlja ljubavi, koja je veća krepost od vjere, kojoj se suprotstavlja nevjera, kao što je jasno iz prethodnoga. Dakle raskol je teži grijeh od nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a2.sc": {
+      "text": "Ali protiv toga, ono što se prema drugome odnosi kao dodatak jače je bilo u dobru bilo u zlu. Ali hereza se prema raskolu odnosi kao dodatak: dodaje, naime, izopačenu dogmu, kao što je jasno iz gore navedenog Jeronimova autoriteta. Dakle raskol je manji grijeh od nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a2.resp": {
+      "text": "Odgovaram: treba reći da se težina grijeha može promatrati na dva načina: na jedan način prema njegovoj vrsti; na drugi način prema okolnostima. I budući da su okolnosti pojedinačne i mogu se mijenjati na beskonačno mnogo načina, kad se općenito pita koji je od dvaju grijeha teži, pitanje treba shvatiti o težini koja se promatra prema rodu grijeha. A rod ili vrsta grijeha promatra se po predmetu, kao što je jasno iz gore rečenoga. Zato je onaj grijeh koji se protivi većem dobru po svom rodu teži, kao grijeh protiv Boga od grijeha protiv bližnjega. A očito je da je nevjera grijeh protiv samoga Boga, ukoliko je on u sebi prva istina, na koju se vjera oslanja. A raskol je protiv crkvenog jedinstva, koje je neko dobro po sudjelovanju i manje od samoga Boga. Stoga je očito da je grijeh nevjere po svom rodu teži od grijeha raskola, iako se može dogoditi da neki raskolnik teže griješi od nekog nevjernika, bilo zbog većeg prezira, bilo zbog veće opasnosti koju izaziva, bilo zbog nečeg takvog.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je tome narodu već po primljenom zakonu bilo očito da je jedan Bog i da ne treba štovati druge bogove, i to je kod njih bilo potvrđeno mnogostrukim znakovima. Zato nije bilo potrebno da oni koji su griješili protiv te vjere idolopoklonstvom budu kažnjeni nekom neuobičajenom i neobičnom kaznom, nego samo običnom. Ali nije im bilo tako poznato da Mojsije treba uvijek biti njihov poglavar. Zato je trebalo da oni koji su se opirali njegovu poglavarstvu budu kažnjeni čudesnom i nesvakidašnjom kaznom. Ili se može reći da je grijeh raskola u tom narodu kadšto teže kažnjen jer je bio sklon pobunama i raskolima; jer se u Ezr 4 kaže: *taj se grad od davnih dana opire kralju, i u njemu se podižu pobune i bitke*. A veća se kazna kadšto izriče za grijeh koji je češći, kao što je gore utvrđeno; jer su kazne neki lijekovi da se ljudi odvrate od grijeha; zato, gdje je veća sklonost griješenju, treba primijeniti strožu kaznu. A deset plemena nije bilo kažnjeno samo zbog grijeha raskola, nego i zbog grijeha idolopoklonstva, kako se ondje kaže.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a2.ad2": {
+      "text": "Na drugo treba reći da, kao što je dobro mnoštva veće od dobra jednoga koji pripada mnoštvu, tako je manje od izvanjskog dobra prema kojem je mnoštvo usmjereno, kao što je dobro reda vojske manje od dobra vojskovođe. Slično je i dobro crkvenog jedinstva, kojemu se suprotstavlja raskol, manje od dobra božanske istine, kojemu se suprotstavlja nevjera.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a2.ad3": {
+      "text": "Na treće treba reći da ljubav ima dva predmeta: jedan glavni, naime božansku dobrotu; i drugi drugotni, naime dobro bližnjega. A raskol i drugi grijesi koji se čine protiv bližnjega suprotstavljaju se ljubavi s obzirom na drugotno dobro, koje je manje od predmeta vjere, a to je sam Bog. Zato su ti grijesi manji od nevjere. Ali mržnja na Boga, koja se suprotstavlja ljubavi s obzirom na glavni predmet, nije manja. Ipak, među grijesima koji su protiv bližnjega, čini se da je grijeh raskola najveći, jer je protiv duhovnog dobra mnoštva.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da raskolnici imaju neku vlast. Augustin, naime, kaže u knjizi Protiv donatista: *kao što se ne krste ponovno oni koji se vraćaju u Crkvu, a bili su kršteni prije nego što su otpali, tako se zacijelo ni oni koji se vraćaju, a bili su zaređeni prije nego što su otpali, ne zaređuju ponovno*. Ali sveti red je neka vlast. Dakle, raskolnici imaju neku vlast, jer zadržavaju sveti red.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a3.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi O jedinstvu krštenja: *odijeljeni može podjeljivati sakrament, kao što ga odijeljeni može i imati*. Ali vlast podjeljivanja sakramenata najveća je vlast. Dakle, raskolnici, koji su odijeljeni od Crkve, imaju duhovnu vlast.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a3.obj3": {
+      "text": "Osim toga, papa Urban kaže: *naređujemo da se oni koje su posvetili biskupi nekoć katolički zaređeni, ali raskolom odijeljeni od Rimske Crkve, kad se vrate u jedinstvo Crkve, milosrdno prime uz zadržavanje njihovih redova, ako ih preporučuju život i znanje*. Ali to ne bi bilo kad kod raskolnika ne bi ostajala duhovna vlast. Dakle, raskolnici imaju duhovnu vlast.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a3.sc": {
+      "text": "Ali protiv toga je ono što Ciprijan kaže u jednoj poslanici, a nalazi se u Dekretima, VII, pit. 1, kan. Novatianus: *tko ne čuva, kaže, ni jedinstvo duha ni mir zajedništva, i odvaja se od veze Crkve i od zbora svećenika, ne može imati ni biskupsku vlast ni čast*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a3.resp": {
+      "text": "Odgovaram: treba reći da je duhovna vlast dvostruka: jedna je sakramentalna, a druga jurisdikcijska. Sakramentalna je vlast ona koja se podjeljuje nekim posvećenjem. A sva su posvećenja Crkve trajna dok god ostaje stvar koja se posvećuje, kao što je očito i kod stvari bez duše: oltar se, naime, jednom posvećen ne posvećuje ponovno, osim ako je bio razoren. I zato takva vlast po svojoj biti ostaje u čovjeku koji ju je posvećenjem stekao dok god živi, bilo da padne u raskol bilo u herezu; to je očito iz toga što se onaj koji se vraća u Crkvu ne posvećuje ponovno. Ali budući da niža vlast ne smije prijeći u čin osim ukoliko je pokreće viša vlast, kao što je očito i u prirodnim stvarima, odatle je da takvi gube uporabu vlasti, tako naime da im nije dopušteno služiti se svojom vlašću. Ako se ipak njome posluže, njihova vlast ima učinak u sakramentalnim stvarima, jer u njima čovjek djeluje samo kao Božje oruđe; stoga se sakramentalni učinci ne isključuju zbog bilo kakve krivnje onoga koji podjeljuje sakrament. Jurisdikcijska je pak vlast ona koja se podjeljuje jednostavnim povjeravanjem od strane čovjeka. I takva vlast ne prianja trajno. Stoga ne ostaje u raskolnicima i hereticima. Zato oni ne mogu ni odrješivati, ni izopćivati, ni podjeljivati oproste od kazni (indulgencije), ni činiti išta takvo; ako to učine, ništa nije učinjeno. Kad se, dakle, kaže da takvi nemaju duhovnu vlast, treba to razumjeti ili o drugoj vlasti, ili, ako se odnosi na prvu vlast, ne treba to odnositi na samu bit vlasti, nego na njezinu zakonitu uporabu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a3.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da nije prikladna kazna za raskolnike da budu izopćeni. Izopćenje, naime, ponajviše odvaja čovjeka od zajedništva sakramenata. Ali Augustin kaže u knjizi Protiv donatista da se krštenje može primiti od raskolnika. Dakle, čini se da izopćenje nije prikladna kazna za raskol.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a4.obj2": {
+      "text": "Osim toga, Kristovim vjernicima pripada da vraćaju one koji su raspršeni; zato se protiv nekih kaže u Ez 34: *odbačeno niste vratili, izgubljeno niste tražili*. Ali raskolnici se prikladnije vraćaju po nekima koji s njima održavaju zajedništvo. Dakle, čini se da ih ne treba izopćivati.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a4.obj3": {
+      "text": "Osim toga, za isti se grijeh ne nameće dvostruka kazna, prema onome u Nah 1: *Bog neće dvaput suditi za isto*. Ali za grijeh raskola neki se kažnjavaju vremenitom kaznom, kako stoji u Dekretima, XXIII, pit. 5, gdje se kaže: *božanski i svjetovni zakoni odredili su da one koji su se odijelili od jedinstva Crkve i remete njezin mir obuzdavaju svjetovne vlasti*. Dakle, ne treba ih kažnjavati izopćenjem.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Br 16: *odstupite od šatora bezbožnih ljudi*, naime onih koji su bili učinili raskol, *i ne dirajte ništa što im pripada, da ne budete uvučeni u njihove grijehe*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a4.resp": {
+      "text": "Odgovaram: treba reći da čime tko griješi, time treba biti i kažnjen, kako se kaže u Mudr 11. A raskolnik, kao što je očito iz rečenoga, griješi u dvjema stvarima. U jednoj, jer se odvaja od zajedništva s udovima Crkve. I s obzirom na to prikladna je kazna za raskolnike da budu izopćeni. U drugoj pak, jer odbijaju podložiti se glavi Crkve. I zato, budući da ne žele da ih obuzdava duhovna vlast Crkve, pravedno je da ih obuzdava vremenita vlast.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da nije dopušteno primati krštenje od raskolnika osim u slučaju nužde, jer je bolje izaći iz ovoga života sa znakom Kristovim, od koga god bio podijeljen, pa makar to bio Židov ili poganin, nego bez toga znaka koji se podjeljuje krštenjem.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a4.ad2": {
+      "text": "Na drugo treba reći da se izopćenjem ne zabranjuje ono općenje kojim netko spasonosnim opomenama vraća odijeljene u jedinstvo Crkve. Ipak ih i samo odvajanje na neki način vraća, dok, posramljeni svojim odvajanjem, katkad bivaju dovedeni do pokore.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q39.a4.ad3": {
+      "text": "Na treće treba reći da su kazne sadašnjega života ljekovite; i zato, kad jedna kazna nije dovoljna da obuzda čovjeka, dodaje se druga, kao što i liječnici primjenjuju različite tjelesne lijekove kad jedan nije djelotvoran. Tako i Crkva, kad neki nisu dovoljno suzbijeni izopćenjem, primjenjuje prisilu svjetovne ruke. Ali ako je jedna kazna dovoljna, ne treba primjenjivati drugu.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    }
+  }
+}

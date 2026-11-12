@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 40,
+  "units": {
+    "II-II.q40.pr": {
+      "text": "Zatim treba razmotriti rat. I o tome se postavljaju četiri pitanja. Prvo, je li ikoji rat dopušten. Drugo, je li klericima dopušteno ratovati. Treće, je li dopušteno onima koji ratuju služiti se zasjedama. Četvrto, je li dopušteno ratovati u blagdane.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je ratovati uvijek grijeh. Kazna se, naime, nameće samo za grijeh. Ali onima koji ratuju Gospodin navješćuje kaznu, prema onome u Mt 26: *svaki koji uzme mač, od mača će poginuti*. Dakle, svaki je rat nedopušten.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a1.obj2": {
+      "text": "Osim toga, sve što se protivi božanskoj zapovijedi grijeh je. Ali ratovati se protivi božanskoj zapovijedi; kaže se, naime, u Mt 5: *ja vam kažem: ne opirite se zlu*; a u Rim 12 kaže se: *ne branite se sami, ljubljeni, nego dajte mjesta srdžbi*. Dakle, ratovati je uvijek grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a1.obj3": {
+      "text": "Osim toga, činu kreposti protivi se samo grijeh. Ali rat se protivi miru. Dakle, rat je uvijek grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a1.obj4": {
+      "text": "Osim toga, svako vježbanje za dopuštenu stvar dopušteno je, kao što je očito u vježbanju znanosti. Ali ratne vježbe, koje se odvijaju na turnirima, Crkva zabranjuje, jer se onima koji poginu u takvim nadmetanjima uskraćuje crkveni ukop. Dakle, čini se da je rat naprosto grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a1.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u govoru o satnikovu sluzi: *Kad bi kršćanski nauk posve osuđivao ratove, onima koji u Evanđelju traže savjet za spasenje prije bi se dao savjet da odbace oružje i posve se povuku iz vojne službe. A rečeno im je: Nikoga ne zlostavljajte; budite zadovoljni svojom plaćom. Kojima je zapovjedio da im bude dovoljna vlastita plaća, njima nije zabranio da vojuju*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a1.resp": {
+      "text": "Odgovaram: treba reći da se za to da neki rat bude pravedan traže tri stvari. Prvo, autoritet vladara po čijem se nalogu rat ima voditi. Ne pripada, naime, privatnoj osobi pokrenuti rat, jer ona može svoje pravo ostvarivati na sudu višega. Isto tako i zato što sazivanje mnoštva, koje je u ratovima potrebno, ne pripada privatnoj osobi. A budući da je briga za državu povjerena vladarima, njima pripada štititi državu, bilo grad, bilo kraljevstvo ili pokrajinu koja im je podložna. I kao što je dopušteno brane tvarnim mačem od unutarnjih remetitelja kad kažnjavaju zločince, prema onome Apostolovu u Rim 13: *ne nosi uzalud mača, jer je Božji služitelj, osvetnik za srdžbu onome koji čini zlo*; tako im i ratnim mačem pripada štititi državu od vanjskih neprijatelja. Zato se i vladarima kaže u Psalmu: *izbavite siromaha i oslobodite ubogoga iz ruke grešnikove*. Stoga Augustin kaže u djelu Protiv Fausta: *naravni red, prilagođen miru smrtnika, zahtijeva da autoritet i promišljanje o poduzimanju rata budu u rukama vladara*. Drugo, traži se pravedan razlog, to jest da oni koje se napada zbog neke krivnje zaslužuju napad. Stoga Augustin kaže u knjizi Pitanja: *pravednima se obično nazivaju oni ratovi koji osvećuju nepravde, kad treba kazniti narod ili grad koji je propustio ili kazniti ono što su njegovi nepošteno učinili, ili vratiti ono što je nepravedno oduzeto*. Treće, traži se da nakana onih koji ratuju bude ispravna, to jest da se njome smjera ili na promicanje dobra ili na izbjegavanje zla. Stoga Augustin kaže u knjizi O riječima Gospodnjim: *kod pravih štovatelja Božjih mirotvorni su čak i oni ratovi koji se ne vode iz žudnje ili okrutnosti, nego iz zauzetosti za mir, da se obuzdaju zli i podupru dobri*. Može se pak dogoditi da, i kad postoje zakoniti autoritet onoga koji navješćuje rat i pravedan razlog, rat ipak postane nedopušten zbog izopačene nakane. Augustin, naime, kaže u knjizi Protiv Fausta: *žudnja za nanošenjem štete, okrutnost osvete, nesmirena i nepomirljiva ćud, divljaštvo buntovništva, pohota za gospodovanjem i sve slično tome, to je ono što se u ratovima s pravom osuđuje*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Augustin u II. knjizi Protiv manihejaca, *mač uzima onaj koji se, bez ikakve više ili zakonite vlasti koja bi to zapovijedala ili dopuštala, naoružava protiv nečije krvi*. A tko se služi mačem po autoritetu vladara ili suca, ako je privatna osoba, ili iz revnosti za pravednost, kao po Božjem autoritetu, ako je javna osoba, taj sam ne uzima mač, nego se služi mačem koji mu je drugi povjerio. Stoga mu kazna ne pripada. Ipak, ni oni koji se mačem služe s grijehom ne bivaju uvijek ubijeni mačem. Ali od svojega vlastitog mača uvijek ginu, jer za grijeh mača bivaju vječno kažnjeni, osim ako se pokaju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a1.ad2": {
+      "text": "Na drugo treba reći da takve zapovijedi, kako kaže Augustin u knjizi O Gospodinovu govoru na gori, uvijek treba obdržavati u pripravnosti duha, to jest da čovjek uvijek bude spreman ne opirati se ili ne braniti se, ako bude potrebno. Ali katkad treba postupiti drukčije radi općeg dobra, pa i radi dobra onih protiv kojih se bori. Stoga Augustin kaže u Poslanici Marcelinu: *mnogo toga treba činiti i s onima koji to ne žele, kažnjavajući ih nekom blagonaklonom strogošću. Jer onaj kome se oduzima sloboda za bezakonje biva pobijeđen na svoju korist, budući da nema ničega nesretnijeg od sreće grešnika, kojom se hrani nekažnjenost koja je sama kazna i jača zla volja, kao unutarnji neprijatelj*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a1.ad3": {
+      "text": "Na treće treba reći da i oni koji vode pravedne ratove smjeraju na mir. I tako se ne protive miru, osim zlom miru, koji Gospodin nije došao donijeti na zemlju, kako se kaže u Mt 10. Stoga Augustin kaže Bonifaciju: *ne traži se mir da bi se vodio rat, nego se vodi rat da bi se stekao mir. Budi, dakle, mirotvoran i dok ratuješ, da one koje svladavaš pobjedom dovedeš do koristi mira*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a1.ad4": {
+      "text": "Na četvrto treba reći da vježbe ljudi za ratne stvari nisu općenito zabranjene, nego neuredne i opasne vježbe iz kojih proizlaze ubojstva i pljačke. Kod starih su pak vježbe za rat bile bez takvih opasnosti, pa su se zato nazivale uvježbavanjem u oružju ili ratovima bez krvi, kao što je očito iz Jeronima, u jednoj poslanici.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je klericima i biskupima dopušteno boriti se. Ratovi su, naime, dopušteni i pravedni utoliko, kako je rečeno, ukoliko štite siromahe i čitavu državu od nepravdi neprijatelja. Ali čini se da to ponajviše pripada poglavarima; Grgur, naime, kaže u jednoj homiliji: *vuk dolazi na ovce kad bilo koji nepravednik i razbojnik tlači vjernike i ponizne. Ali onaj koji se činio pastirom, a nije bio, ostavlja ovce i bježi, jer, dok se boji da mu od njega prijeti opasnost, ne usuđuje se oduprijeti njegovoj nepravdi*. Dakle, poglavarima i klericima dopušteno je boriti se.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a2.obj2": {
+      "text": "Osim toga, papa Lav piše, a nalazi se u Dekretima, XXIII, pit. 8: *budući da su sa saracenske strane često stizale nepovoljne vijesti, neki su govorili da će Saraceni potajno i kradomice doći u rimsku luku. Zbog toga smo zapovjedili da se naš narod okupi te smo odlučili sići na morsku obalu*. Dakle, biskupima je dopušteno ići u rat.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a2.obj3": {
+      "text": "Osim toga, čini se da je isti razlog da čovjek nešto čini i da pristaje uz onoga koji to čini, prema onome u Rim 1: *dostojni su smrti ne samo oni koji to čine, nego i oni koji pristaju uz one koji čine*. A najviše pristaje onaj koji druge navodi da nešto učine. A biskupima je i klericima dopušteno navoditi druge na ratovanje; kaže se, naime, u Dekretima, XXIII, pit. 8, da je *na poticaj i molbe Hadrijana, biskupa grada Rima, Karlo poduzeo rat protiv Langobarda*. Dakle, i njima je dopušteno boriti se.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a2.obj4": {
+      "text": "Osim toga, ono što je samo po sebi časno i zaslužno nije nedopušteno poglavarima i klericima. Ali ratovati je katkad i časno i zaslužno; kaže se, naime, u Dekretima, XXIII, pit. 8, da *ako tko umre za istinu vjere, spas domovine i obranu kršćana, primit će od Boga nebesku nagradu*. Dakle, biskupima je i klericima dopušteno ratovati.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a2.sc": {
+      "text": "Ali protiv toga je što se Petru, u osobi biskupa i klerika, kaže u Mt 26: *vrati svoj mač u korice*. Dakle, njima nije dopušteno boriti se.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a2.resp": {
+      "text": "Odgovaram: treba reći da je za dobro ljudskoga društva potrebno više stvari. A različite stvari bolje i spretnije obavljaju različiti nego jedan, kao što je očito iz Filozofa u njegovoj Politici. A neki su poslovi toliko međusobno nespojivi da se ne mogu prikladno obavljati zajedno. I zato je onima koji su određeni za veće stvari zabranjeno ono manje, kao što je prema ljudskim zakonima vojnicima, koji su određeni za ratne vježbe, zabranjeno trgovanje. A ratne su vježbe ponajviše nespojive sa službama za koje su određeni biskupi i klerici, i to zbog dvoga. Prvo, zbog općeg razloga, jer ratne vježbe sa sobom nose najveće nemire; stoga uvelike odvraćaju duh od motrenja božanskih stvari, od hvaljenja Boga i od molitve za narod, što pripada službi klerika. I zato, kao što je klericima zabranjeno trgovanje, jer previše zapliće duh, tako su im zabranjene i ratne vježbe, prema onome u 2 Tim 2: *nitko tko vojuje za Boga ne zapliće se u svjetovne poslove*. Drugo, zbog posebnog razloga. Svi su, naime, redovi klerika usmjereni prema služenju oltaru, na kojem se pod sakramentom predstavlja Kristova muka, prema onome u 1 Kor 11: *kad god budete jeli ovaj kruh i pili kalež, smrt ćete Gospodnju navješćivati dok on ne dođe*. I zato im ne pristaje ubijati ili prolijevati krv, nego radije biti spremni na prolijevanje vlastite krvi za Krista, da djelom nasljeduju ono što vrše službom. I zbog toga je ustanovljeno da oni koji proliju krv, makar i bez grijeha, budu iregularni. A nikome tko je određen za neku službu nije dopušteno ono čime postaje neprikladan za svoju službu. Stoga klericima nikako nije dopušteno voditi ratove, koji su usmjereni prema prolijevanju krvi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se poglavari moraju opirati ne samo vukovima koji duhovno ubijaju stado, nego i razbojnicima i tiranima koji ga tjelesno muče, ali ne tako da se osobno služe tvarnim oružjem, nego duhovnim, prema onome Apostolovu u 2 Kor 10: *oružje našega vojevanja nije tjelesno, nego duhovno*. A to su spasonosne opomene, pobožne molitve i, protiv tvrdokornih, presuda izopćenja.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a2.ad2": {
+      "text": "Na drugo treba reći da poglavari i klerici, po autoritetu višega, mogu sudjelovati u ratovima, ne doduše tako da se sami bore vlastitom rukom, nego da onima koji se pravedno bore duhovno pomažu svojim poticajima, odrješenjima i drugim takvim duhovnim pomaganjima. Kao što se i u Starom zakonu zapovijedalo, u Jš 6, da svećenici u ratovima trube u svete trube. I u tu je svrhu najprije bilo dopušteno da biskupi ili klerici idu u rat. A to što se neki bore vlastitom rukom, zloporaba je.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a2.ad3": {
+      "text": "Na treće treba reći da, kao što je gore utvrđeno, svaka moć ili umijeće ili krepost kojoj pripada svrha ima raspolagati onim što vodi k svrsi. A tjelesne ratove u vjernom narodu treba odnositi, kao prema svrsi, na duhovno božansko dobro, za koje su određeni klerici. I zato klericima pripada pripremati i navoditi druge da vode pravedne ratove. Njima, naime, nije zabranjeno ratovati zato što bi to bio grijeh, nego zato što takvo zanimanje ne priliči njihovoj osobi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a2.ad4": {
+      "text": "Na četvrto treba reći da, premda je voditi pravedne ratove zaslužno, ipak to postaje nedopušteno klericima zbog toga što su određeni za zaslužnija djela. Kao što i bračni čin može biti zaslužan, a ipak postaje osudljiv za one koji su se zavjetovali na djevičanstvo, zbog njihove obveze prema većem dobru.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da u ratovima nije dopušteno služiti se zasjedama. Kaže se, naime, u Pnz 16: *pravedno provodi ono što je pravedno*. Ali čini se da zasjede, budući da su neke prijevare, pripadaju nepravednosti. Dakle, zasjedama se ne treba služiti ni u pravednim ratovima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a3.obj2": {
+      "text": "Osim toga, čini se da se zasjede i prijevare protive vjernosti, kao i laži. Ali budući da smo dužni čuvati vjernost prema svima, nijednom čovjeku ne smijemo lagati, kao što je očito iz Augustina u knjizi Protiv laži. Budući da, dakle, vjernost treba čuvati i prema neprijatelju, kako kaže Augustin Bonifaciju, čini se da se protiv neprijatelja ne treba služiti zasjedama.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a3.obj3": {
+      "text": "Osim toga, u Mt 7 kaže se: *što god želite da vama čine ljudi, činite i vi njima*, a to treba obdržavati prema svim bližnjima. A i neprijatelji su bližnji. Budući da, dakle, nitko ne želi da mu se pripremaju zasjede ili prijevare, čini se da nitko ne smije voditi ratove pomoću zasjeda.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a3.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u knjizi Pitanja: *kad se poduzima pravedan rat, za pravednost nije ništa važno bori li se tko otvoreno ili iz zasjede*. A to dokazuje autoritetom Gospodina, koji je zapovjedio Jošui da postavi zasjedu stanovnicima grada Aja, kako stoji u Jš 8.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a3.resp": {
+      "text": "Odgovaram: treba reći da su zasjede usmjerene na to da se prevare neprijatelji. A netko se može prevariti činom ili riječju drugoga na dva načina. Na jedan način, time što mu se kaže nešto lažno ili mu se ne održi obećanje. I to je uvijek nedopušteno. I na taj način nitko ne smije varati neprijatelje: postoje, naime, neka ratna prava i ugovori koje treba čuvati čak i među samim neprijateljima, kako kaže Ambrozije u knjizi O dužnostima. Na drugi način netko se može prevariti našom riječju ili činom zato što mu ne otkrivamo svoju namjeru ili misao. A to nismo uvijek dužni činiti, jer i u svetom nauku mnogo toga treba skrivati, osobito pred nevjernicima, da se ne rugaju, prema onome u Mt 7: *ne dajte svetinje psima*. Stoga još mnogo više treba od njih skrivati ono što pripremamo da napadnemo neprijatelje. Zato se među ostalim poukama vojnoga umijeća ovo osobito ističe: da treba skrivati planove kako ne bi doprli do neprijatelja, kao što je očito u knjizi Frontinovih Stratagema. I takvo skrivanje pripada pojmu zasjeda kojima je dopušteno služiti se u pravednim ratovima. Takve se zasjede u vlastitom smislu niti nazivaju prijevarama, niti se protive pravednosti, niti urednoj volji; bila bi, naime, neuredna volja kad bi netko htio da mu drugi ništa ne skrivaju.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a3.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da u blagdane nije dopušteno ratovati. Blagdani su, naime, usmjereni prema tome da se čovjek posveti božanskim stvarima; zato se oni razumiju pod obdržavanjem subote koje se zapovijeda u Izl 20, jer se subota tumači kao počinak. Ali ratovi sa sobom nose najveći nemir. Dakle, u blagdane se nikako ne smije boriti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a4.obj2": {
+      "text": "Osim toga, u Iz 58 prekoravaju se neki zato što u dane posta *utjeruju dugove i zameću sporove, udarajući šakom*. Dakle, još je mnogo više nedopušteno ratovati u blagdane.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a4.obj3": {
+      "text": "Osim toga, ništa ne treba činiti neuredno da bi se izbjegla vremenita nepogodnost. Ali čini se da je ratovati u blagdan samo po sebi neuredno. Dakle, ni zbog kakve nužde izbjegavanja vremenite nepogodnosti nitko ne smije ratovati u blagdan.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a4.sc": {
+      "text": "Ali protiv toga je što se kaže u 1 Mak 2: *Židovi su hvalevrijedno smislili, govoreći: Svakog čovjeka koji god dođe na nas u boj u subotu, borimo se protiv njega*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a4.resp": {
+      "text": "Odgovaram: treba reći da obdržavanje blagdana ne priječi ono što je usmjereno prema čovjekovu spasu, pa i tjelesnom. Zato Gospodin prekorava Židove govoreći, u Iv 7: *srdite li se na mene što sam u subotu svega čovjeka ozdravio?* I odatle je da liječnici dopušteno mogu liječiti ljude u blagdan. A mnogo je više potrebno čuvati spas države, kojim se sprječavaju ubojstva mnogih i bezbrojna zla, i vremenita i duhovna, nego tjelesni spas jednoga čovjeka. I zato je radi zaštite države vjernika dopušteno voditi pravedne ratove u blagdane, ako to ipak nužda zahtijeva; bilo bi, naime, kušanje Boga kad bi netko, dok prijeti takva nužda, htio odustati od rata. Ali kad nužda prestane, nije dopušteno ratovati u blagdane, zbog navedenih razloga.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q40.a4.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    }
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 36,
+  "units": {
+    "II-II.q36.pr": {
+      "text": "Zatim treba razmotriti zavist. I o tome se postavljaju četiri pitanja. Prvo, što je zavist. Drugo, je li grijeh. Treće, je li smrtni grijeh. Četvrto, je li glavni porok, i o njezinim kćerima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da zavist nije žalost. Predmet je žalosti, naime, zlo. Ali predmet je zavisti dobro; jer Grgur u V. knjizi Moralija, govoreći o zavidniku, kaže: *vlastitom kaznom ranjava kopneći duh, onaj koji muči tuđa sreća*. Dakle zavist nije žalost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a1.obj2": {
+      "text": "Osim toga, sličnost nije uzrok žalosti, nego prije naslade. Ali sličnost je uzrok zavisti; jer Filozof u II. knjizi Retorike kaže: *zavidjet će oni kojima su neki slični bilo po rodu, bilo po srodstvu, bilo po stasu, bilo po habitusu, bilo po ugledu*. Dakle zavist nije žalost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a1.obj3": {
+      "text": "Osim toga, žalost je prouzročena nekim nedostatkom; zato su oni koji su u velikom nedostatku skloni žalosti, kao što je gore rečeno kad se raspravljalo o strastima. Ali oni kojima malo nedostaje, i koji su ljubitelji časti, i koji se smatraju mudrima, zavidni su, kao što je jasno iz Filozofa u II. knjizi Retorike. Dakle zavist nije žalost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a1.obj4": {
+      "text": "Osim toga, žalost se suprotstavlja nasladi. A suprotstavljene stvari nemaju isti uzrok. Dakle, budući da je sjećanje na posjedovana dobra uzrok naslade, kao što je gore rečeno, ono neće biti uzrok žalosti. A ono je uzrok zavisti; jer Filozof u II. knjizi Retorike kaže da neki zavide onima koji imaju ili su posjedovali ono što je njima samima pristajalo ili što su oni sami nekoć posjedovali. Dakle zavist nije žalost.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a1.sc": {
+      "text": "Ali protiv toga je to što Damaščanin u II. knjizi stavlja zavist kao vrstu žalosti i kaže da je zavist žalost zbog tuđih dobara.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a1.resp": {
+      "text": "Odgovaram: treba reći da je predmet žalosti vlastito zlo. No događa se da se ono što je tuđe dobro zahvati kao vlastito zlo. I u tom smislu može biti žalosti zbog tuđeg dobra. Ali to se događa na dva načina. Na jedan način, kad se netko žalosti zbog nečijeg dobra ukoliko mu odatle prijeti opasnost neke štete, kao kad se čovjek žalosti zbog uzvišenja svoga neprijatelja, bojeći se da mu ne naudi. I takva žalost nije zavist, nego prije učinak straha, kako kaže Filozof u II. knjizi Retorike. Na drugi se način dobro drugoga procjenjuje kao vlastito zlo ukoliko umanjuje vlastitu slavu ili odličnost. I na taj se način zavist žalosti zbog dobra drugoga. Zato ljudi ponajviše zavide zbog onih dobara u kojima je slava i u kojima ljudi vole biti častvovani i na glasu, kako kaže Filozof u II. knjizi Retorike.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da ništa ne priječi da se ono što je dobro za jednoga zahvati kao zlo za drugoga. I u tom smislu neka žalost može biti zbog dobra, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a1.ad2": {
+      "text": "Na drugo treba reći da, budući da je zavist zbog slave drugoga ukoliko ona umanjuje slavu za kojom netko teži, slijedi da se zavist ima samo prema onima s kojima se čovjek želi izjednačiti ili ih u slavi nadmašiti. A to nije slučaj s onima koji su od njega jako udaljeni; jer nitko, osim bezumnika, ne nastoji izjednačiti se u slavi ili nadmašiti one koji su mnogo veći od njega, primjerice pučanin kralja; ili pak kralj pučanina, kojega uvelike nadmašuje. Zato čovjek ne zavidi onima koji su od njega mnogo udaljeni bilo mjestom, bilo vremenom, bilo položajem, nego onima koji su mu bliski, s kojima se nastoji izjednačiti ili ih nadmašiti. Jer kad nas oni nadmašuju u slavi, to se događa protiv naše koristi, i odatle nastaje žalost. A sličnost uzrokuje nasladu ukoliko se slaže s voljom.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a1.ad3": {
+      "text": "Na treće treba reći da nitko ne teži za onim u čemu mu mnogo nedostaje. Zato, kad ga netko u tome nadmašuje, ne zavidi mu. Ali ako mu malo nedostaje, čini mu se da do toga može doprijeti, i tako za tim teži. Stoga, ako bi njegovo nastojanje bilo osujećeno zbog nadmoćne slave drugoga, žalosti se. I odatle dolazi da su ljubitelji časti zavidniji. Slično su zavidni i malodušni, jer sve smatraju velikim, i koje god dobro koga snađe, smatraju da su nadmašeni u nečem velikom. Zato se i u Job 5 kaže: *maloga ubija zavist*. I Grgur u V. knjizi Moralija kaže: *ne možemo zavidjeti nego onima koje smatramo u nečemu boljima od sebe*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a1.ad4": {
+      "text": "Na četvrto treba reći da sjećanje na prošla dobra, ukoliko su bila posjedovana, uzrokuje nasladu; ali ukoliko su izgubljena, ona uzrokuju žalost. A ukoliko ih posjeduju drugi, uzrokuju zavist, jer se čini da to ponajviše umanjuje vlastitu slavu. Zato Filozof u II. knjizi Retorike kaže da *starci zavide mlađima; a oni koji su mnogo potrošili da nešto postignu zavide onima koji su to postigli uz malen trošak*; jer žale zbog gubitka svojih dobara i zbog toga što su drugi postigli dobra.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da zavist nije grijeh. Jeronim, naime, kaže u pismu Leti o odgoju kćeri: *neka ima drugarice s kojima uči, kojima zavidi, čije je pohvale peku*. Ali nikoga ne treba poticati na griješenje. Dakle zavist nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a2.obj2": {
+      "text": "Osim toga, zavist je žalost zbog tuđih dobara, kako kaže Damaščanin. Ali to se kadšto čini pohvalno; jer se u Izr 29 kaže: *kad bezbožnici preuzmu vlast, narod će uzdisati*. Dakle zavist nije uvijek grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a2.obj3": {
+      "text": "Osim toga, zavist označuje neku revnost. Ali neka je revnost dobra, prema onom iz Psalma: *revnost za kuću tvoju izjeda me*. Dakle zavist nije uvijek grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a2.obj4": {
+      "text": "Osim toga, kazna se razlikuje od krivnje kao njoj suprotstavljeni član diobe. Ali zavist je neka kazna; jer Grgur u V. knjizi Moralija kaže: *kad gnjiloća zavidnosti pokvari pobijeđeno srce, i sama vanjština pokazuje kako teško bezumlje potiče duh: lice, naime, poprima bljedilo, oči se obaraju, duh se raspaljuje, udovi se hlade, u mislima nastaje bjesnilo, u zubima škrgut*. Dakle zavist nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Gal 5: *ne budimo željni isprazne slave, izazivajući jedni druge, zavideći jedni drugima*.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je rečeno, zavist žalost zbog tuđih dobara. Ali ta se žalost može dogoditi na četiri načina. Na jedan način, kad netko žali zbog nečijeg dobra ukoliko se od toga boji štete bilo sebi samome bilo i drugim dobrim ljudima. I takva žalost nije zavist, kao što je rečeno, i može biti bez grijeha. Zato Grgur u XXII. knjizi Moralija kaže: *obično se događa da nas, a da ljubav nije izgubljena, i propast neprijatelja razveseli, i opet nas njegova slava bez krivnje zavisti ražalosti, kad vjerujemo da će se njegovim padom neki dobro podići, a bojimo se da će njegovim napretkom mnogi biti nepravedno potlačeni*. Na drugi način netko se može žalostiti zbog dobra drugoga ne zato što on ima dobro, nego zato što nama nedostaje ono dobro koje on ima. I to je u vlastitom smislu revnost, kako kaže Filozof u II. knjizi Retorike. I ako je ta revnost usmjerena na čestita dobra, pohvalna je, prema onom iz 1 Kor 14: *revnujte za duhovnim darovima*. Ako se pak odnosi na vremenita dobra, može biti i s grijehom i bez grijeha. Na treći način netko se žalosti zbog dobra drugoga ukoliko je onaj kome je dobro zapalo toga nedostojan. Takva žalost ne može nastati zbog čestitih dobara, po kojima netko postaje pravedan; nego se, kako kaže Filozof u II. knjizi Retorike, odnosi na bogatstvo i takve stvari, koje mogu zapasti i dostojne i nedostojne. I ta se žalost, prema njemu, naziva nemeza i pripada dobrim običajima. Ali on to kaže zato što je promatrao sama vremenita dobra po sebi, ukoliko se mogu činiti velikima onima koji ne gledaju na vječna. Ali prema nauku vjere, vremenita dobra koja zapadnu nedostojne raspoređena su po pravednoj Božjoj odredbi bilo za njihovo popravljanje bilo za njihovu osudu, i takva su dobra gotovo ništa u usporedbi s budućim dobrima, koja su pričuvana dobrima. Zato je takva žalost zabranjena u Svetom pismu, prema onom iz Psalma: *ne nadmeći se sa zlikovcima, niti revnuj zbog onih koji čine nepravdu*. I drugdje: *umalo mi se ne poskliznuše koraci, jer sam revnovao zbog bezbožnika, gledajući mir grešnika*. Na četvrti način netko se žalosti zbog nečijih dobara ukoliko ga drugi nadmašuje u dobrima. I to je u vlastitom smislu zavist. I to je uvijek opako, kako kaže i Filozof u II. knjizi Retorike, jer žali zbog onoga zbog čega se treba radovati, naime zbog dobra bližnjega.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ondje zavist uzima za revnost kojom netko treba biti potaknut da napreduje zajedno s boljima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a2.ad2": {
+      "text": "Na drugo treba reći da se taj razlog odnosi na žalost zbog tuđih dobara na prvi način.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a2.ad3": {
+      "text": "Na treće treba reći da se zavist razlikuje od revnosti, kao što je rečeno. Zato neka revnost može biti dobra, a zavist je uvijek zla.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a2.ad4": {
+      "text": "Na četvrto treba reći da ništa ne priječi da neki grijeh, zbog nečega pridodanog, ima narav kazne, kao što je gore rečeno kad se raspravljalo o grijesima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da zavist nije smrtni grijeh. Zavist je, naime, budući da je žalost, strast osjetilne težnje. Ali u osjetilnosti nema smrtnog grijeha, nego samo u razumu, kao što je jasno iz Augustina u XII. knjizi O Trojstvu. Dakle zavist nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a3.obj2": {
+      "text": "Osim toga, u dojenčadi ne može biti smrtnog grijeha. Ali u njih može biti zavisti; jer Augustin u I. knjizi Ispovijesti kaže: *vidio sam i iskusio ljubomorno dijete: još nije govorilo, a blijedo je gorkim pogledom gledalo svoga mliječnog brata*. Dakle zavist nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a3.obj3": {
+      "text": "Osim toga, svaki se smrtni grijeh protivi nekoj kreposti. Ali zavist se ne protivi nekoj kreposti, nego nemezi, koja je neka strast, kao što je jasno iz Filozofa u II. knjizi Retorike. Dakle zavist nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Job 5: *maloga ubija zavist*. A ništa ne ubija duhovno osim smrtnog grijeha. Dakle zavist je smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a3.resp": {
+      "text": "Odgovaram: treba reći da je zavist po svom rodu smrtni grijeh. Rod se grijeha, naime, promatra po predmetu. A zavist se, po pojmu svoga predmeta, protivi ljubavi, po kojoj je duhovni život duše, prema onom iz 1 Iv 3: *mi znamo da smo prešli iz smrti u život, jer ljubimo braću*. Predmet je, naime, jednoga i drugoga, i ljubavi i zavisti, dobro bližnjega, ali po protivnom pokretu: jer se ljubav raduje dobru bližnjega, a zavist se zbog istoga žalosti, kao što je jasno iz rečenoga. Stoga je očito da je zavist po svom rodu smrtni grijeh. Ali, kao što je gore rečeno, u svakom rodu smrtnog grijeha nalaze se neki nesavršeni pokreti koji postoje u osjetilnosti, a koji su laki grijesi, kao u rodu preljuba prvi pokret požude, a u rodu ubojstva prvi pokret srdžbe. Tako se i u rodu zavisti nalaze neki prvi pokreti, kadšto čak i u savršenih ljudi, koji su laki grijesi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je pokret zavisti, ukoliko je strast osjetilnosti, nešto nesavršeno u rodu ljudskih čina, kojih je počelo razum. Zato takva zavist nije smrtni grijeh. A sličan je razlog i za zavist male djece, u kojih nema uporabe razuma.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a3.ad2": {
+      "text": "Odatle je jasan odgovor na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a3.ad3": {
+      "text": "Na treće treba reći da se zavist, prema Filozofu u II. knjizi Retorike, suprotstavlja i nemezi i milosrđu, ali po različitom. Milosrđu se, naime, suprotstavlja izravno, po protivnosti glavnoga predmeta: jer se zavidnik žalosti zbog dobra bližnjega, a milosrdan se žalosti zbog zla bližnjega. Zato zavidni nisu milosrdni, kako se ondje kaže, niti obratno. A s obzirom na onoga zbog čijeg se dobra zavidnik žalosti, zavist se suprotstavlja nemezi: jer se onaj tko osjeća nemezu žalosti zbog dobra onih koji nedostojno postupaju, prema onom iz Psalma: *revnovao sam zbog bezbožnika, gledajući mir grešnika*; a zavidnik se žalosti zbog dobra onih koji su dostojni. Iz toga je jasno da je prva protivnost izravnija od druge. A milosrđe je neka krepost i vlastiti učinak ljubavi. Zato se zavist suprotstavlja milosrđu i ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da zavist nije glavni grijeh. Glavni se grijesi, naime, razlikuju od kćeri glavnih grijeha. Ali zavist je kći isprazne slave; jer Filozof u II. knjizi Retorike kaže da *ljubitelji časti i slave više zavide*. Dakle zavist nije glavni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a4.obj2": {
+      "text": "Osim toga, čini se da su glavni grijesi lakši od drugih koji iz njih nastaju; jer Grgur u XXXI. knjizi Moralija kaže: *prvi se poroci prevarenom duhu nameću kao pod nekim razlogom, a oni koji slijede, dok duh odvlače u svako bezumlje, kao zvjerskom vikom zbunjuju duh*. Ali čini se da je zavist najteži grijeh; jer Grgur u V. knjizi Moralija kaže: *premda se po svakom poroku koji se počini ljudskom srcu ulijeva otrov staroga neprijatelja, ipak u ovoj opačini zmija potresa svu svoju utrobu i izbljuvava kugu zloće da je utisne*. Dakle zavist nije glavni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a4.obj3": {
+      "text": "Osim toga, čini se da joj Grgur neprikladno pripisuje kćeri u XXXI. knjizi Moralija, gdje kaže da *iz zavisti nastaju mržnja, šaptanje, ogovaranje, likovanje zbog nevolja bližnjega i jad zbog njegovih uspjeha*. Likovanje zbog nevolja bližnjega i jad zbog njegovih uspjeha čine se, naime, istim što i zavist, kao što je jasno iz prethodnoga. Dakle to se ne bi smjelo stavljati kao kćeri zavisti.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a4.sc": {
+      "text": "Ali protiv toga je autoritet Grgura u XXXI. knjizi Moralija, koji zavist stavlja kao glavni grijeh i pripisuje joj spomenute kćeri.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što je duhovna lijenost (acedija) žalost zbog duhovnog božanskog dobra, tako je zavist žalost zbog dobra bližnjega. A gore je rečeno da je duhovna lijenost glavni grijeh, zbog toga što čovjeka duhovna lijenost nagoni da čini neke stvari bilo da izbjegne žalost bilo da žalosti udovolji. Stoga se iz istog razloga zavist stavlja kao glavni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Grgur u XXXI. knjizi Moralija, *glavni su grijesi međusobno tako tijesno povezani da jedan nastaje samo iz drugoga. Prvi je, naime, porod oholosti isprazna slava, koja, kad pokvari potlačeni duh, odmah rađa zavist; jer, dok teži za moći ispraznog imena, kopni da tu moć ne bi mogao steći netko drugi*. Nije, dakle, protivno pojmu glavnoga grijeha to da on sam nastaje iz drugoga, nego to da nema neki glavni razlog da iz sebe proizvodi mnoge rodove grijeha. Možda se ipak zbog toga što se zavist očito rađa iz isprazne slave ne stavlja kao glavni grijeh ni kod Izidora, u knjizi O najvišem dobru, ni kod Kasijana, u knjizi O ustanovama općežića.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a4.ad2": {
+      "text": "Na drugo treba reći da se iz onih riječi ne dobiva da je zavist najveći od grijeha, nego da đavao, kad nagovara na zavist, navodi čovjeka na ono što on sam ponajprije ima u srcu; jer, kako se ondje dalje navodi, *zavišću đavlovom smrt je ušla u svijet*. Ipak postoji neka zavist koja se ubraja među najteže grijehe, naime zavist zbog bratove milosti, ukoliko netko žali zbog samoga porasta Božje milosti, a ne samo zbog dobra bližnjega. Zato se ona stavlja kao grijeh protiv Duha Svetoga, jer po toj zavisti čovjek na neki način zavidi Duhu Svetomu, koji se proslavlja u svojim djelima.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    },
+    "II-II.q36.a4.ad3": {
+      "text": "Na treće treba reći da se broj kćeri zavisti može ovako uzeti. U nastojanju zavisti ima, naime, nešto kao početak, nešto kao sredina i nešto kao završetak. Početak je u tome da netko umanjuje slavu drugoga bilo potajno, i tako je to šaptanje; bilo javno, i tako je to ogovaranje. Sredina je u tome što netko, smjerajući umanjiti slavu drugoga, ili to može, i tako je to likovanje zbog nevolja; ili ne može, i tako je to jad zbog uspjeha. Završetak je u samoj mržnji, jer kao što dobro koje naslađuje uzrokuje ljubav, tako žalost uzrokuje mržnju, kao što je gore rečeno. A jad zbog uspjeha bližnjega na jedan je način sama zavist, ukoliko se, naime, netko žalosti zbog nečijih uspjeha ukoliko oni imaju neku slavu. Na drugi je način kći zavisti, ukoliko uspjesi bližnjega dolaze protiv nastojanja zavidnika, koji ih nastoji spriječiti. A likovanje zbog nevolja nije izravno isto što i zavist, nego iz nje slijedi: jer iz žalosti zbog dobra bližnjega, koja je zavist, slijedi likovanje zbog njegova zla.",
+      "prompt_version": "1",
+      "glossary_version": 15,
+      "created_at": "2026-11-12T09:35:57+00:00"
+    }
+  }
+}
