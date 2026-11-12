@@ -1,4 +1,4 @@
-version: 17
+version: 18
 terms:
 - la: esse
   hr: bitak
@@ -3036,3 +3036,102 @@ terms:
     daje Bogu bez takva čina; prvine i desetina su prinosi koje je propisao zakon.
     Zavjet je promišljeno obećanje dano Bogu o nekom boljem dobru.
   mjesto: II-II.q85.a1.resp
+- la: iuramentum, periurium, adiuratio; tentatio Dei
+  hr: prisega, krivokletstvo, zaklinjanje; iskušavanje Boga
+  alternatives:
+  - zakletva
+  note: Iurare = "prisegnuti / prisezati"; periurus = "krivokletnik"; adiurare = "zaklinjati";
+    tentare Deum = "iskušavati Boga"; sortes = "ždrijeb".
+  opis: Prisega je zazivanje Boga za svjedoka kako bi se potvrdilo ono što se tvrdi
+    ili obećaje; krivokletstvo je prisega bez istine. Zaklinjanjem se Božje ime zaziva
+    da se drugoga privoli na nešto. Iskušavati Boga znači riječju ili djelom ispitivati
+    njegovo znanje, moć ili volju.
+  mjesto: null
+- la: superstitio, idololatria, divinatio, observantiae superstitiosae
+  hr: praznovjerje, idolopoklonstvo, gatanje, praznovjerna obdržavanja
+  alternatives:
+  - proricanje
+  - vračanje
+  note: 'Owner''s choice (v18): divinatio = "gatanje", divinator = "gatar", divinare
+    = "gatati" (prophetia stays "proroštvo"). Idololatra = "idolopoklonik"; invocatio
+    daemonum = "zazivanje demona"; necromantia = "nekromancija"; astrologi = "astrolozi";
+    augurium = "gatanje po pticama"; omen = "predznak"; incantatio = "bajanje"; maleficium
+    = "čaranje", malefici = "čarobnjaci"; ars notoria = "notorijsko umijeće"; pactum
+    = "ugovor (s demonima)".'
+  opis: 'Praznovjerje je porok protivan bogoštovlju po pretjeranosti: iskazuje božansko
+    štovanje kome ne treba ili kako ne treba. Njegove su vrste idolopoklonstvo, koje
+    stvorenju iskazuje božansku čast; gatanje, koje traži spoznaju budućega od demona;
+    i praznovjerna obdržavanja.'
+  mjesto: null
+- la: sacrilegium, simonia
+  hr: svetogrđe, simonija
+  alternatives: []
+  note: Sacrilegus = "svetogrdan" / "svetogrdnik"; simoniacus = "simonijački" / "simonijak";
+    spiritualia = "duhovna dobra"; beneficium ecclesiasticum = "crkvena nadarbina";
+    praebenda = "prebenda".
+  opis: Svetogrđe je nepoštovanje svete stvari, osobe ili mjesta. Simonija je svjesna
+    volja da se kupi ili proda nešto duhovno ili s duhovnim povezano; ime je dobila
+    po Šimunu Magu.
+  mjesto: null
+- la: pietas (virtus), observantia, dulia, oboedientia
+  hr: pijetet, poštivanje, dulija, poslušnost
+  alternatives:
+  - pobožnost
+  - poštovanje
+  note: 'Owner''s choice (v18): pietas as the virtue toward parents and country =
+    "pijetet" (the gift pietas stays "pobožnost"); observantia = "poštivanje" (reverentia
+    keeps "poštovanje" / "strahopoštovanje"; never cross them); patria = "domovina";
+    parentes = "roditelji"; superior = "poglavar"; praelatus as before.'
+  opis: Pijetet je krepost kojom se iskazuje dužnost i štovanje roditeljima i domovini,
+    kao drugim načelima našega bitka poslije Boga. Poštivanje iskazuje štovanje i
+    čast osobama koje se ističu dostojanstvom; dulija je njegov dio koji poštuje gospodare.
+    Poslušnost je krepost kojom se vrši zapovijed poglavara.
+  mjesto: null
+- la: gratia (gratitudo) / ingratitudo / vindicatio
+  hr: zahvalnost / nezahvalnost / osveta
+  alternatives:
+  - odmazda
+  note: 'Owner''s choice (v18): vindicatio = "osveta" (the virtue of justly punishing
+    wrong, as in Rom 12:19 "Mihi vindicta", "Moja je osveta"); vindicare = "osvetiti"
+    / "kazniti" by context. Gratia in the sense of q.106 = "zahvalnost"; beneficium
+    = "dobročinstvo"; recompensatio = "uzvraćanje".'
+  opis: Zahvalnost je krepost kojom se dobročinitelju uzvraća za primljeno dobročinstvo;
+    nezahvalnost joj je protivna. Osveta kao krepost je kažnjavanje zločinca radi
+    dobra, popravka grešnika ili mira drugih, a ne iz mržnje.
+  mjesto: null
+- la: mendacium (officiosum, iocosum, perniciosum), simulatio, hypocrisis, iactantia,
+    ironia
+  hr: laž (uslužna, šaljiva, pogubna), pretvaranje, licemjerje, hvalisavost, ironija
+  alternatives: []
+  note: Veritas as the virtue = "istinitost" (v11); mentiri = "lagati"; mendax = "lažac";
+    dissimulatio = "prikrivanje"; hypocrita = "licemjer"; iactator = "hvalisavac";
+    ironia in Aristotle's sense = belittling oneself.
+  opis: Istinitost je krepost kojom čovjek u riječima i djelima pokazuje sebe onakvim
+    kakav jest. Protivni su joj laž, pretvaranje i licemjerje, a po pretjeranosti
+    i nedostatku hvalisavost, koja sebi pripisuje više, i ironija, koja sebi pripisuje
+    manje nego što jest.
+  mjesto: null
+- la: affabilitas (amicitia) / adulatio / litigium
+  hr: ljubaznost (prijateljstvo) / laskanje / svadljivost
+  alternatives:
+  - prepirka
+  note: Affabilitas = "ljubaznost" (v11); adulator = "laskavac"; placere = "ugađati";
+    litigiosus = "svadljiv"; contradicere = "proturječiti".
+  opis: Ljubaznost, koja se naziva i prijateljstvom, krepost je kojom se čovjek u
+    ophođenju prikladno odnosi prema drugima. Protivi joj se laskanje, kad netko u
+    svemu želi ugoditi više nego što treba, i svadljivost, kad netko svemu proturječi
+    i ne mari da drugoga ražalosti.
+  mjesto: null
+- la: liberalitas / avaritia / prodigalitas; filiae avaritiae
+  hr: darežljivost / škrtost / rasipnost; kćeri škrtosti
+  alternatives:
+  - pohlepa
+  note: 'Avaritia = "škrtost" as in v12 (cupiditas = "pohlepa"); avarus = "škrt" /
+    "škrtac"; prodigus = "rasipnik"; pecunia = "novac"; divitiae = "bogatstvo". Daughters
+    (q.118 a.8): proditio, fraus, fallacia, periurium, inquietudo, violentia, obduratio
+    contra misericordiam = izdaja, prijevara, obmana, krivokletstvo, nemir, nasilje,
+    otvrdnuće protiv milosrđa.'
+  opis: Darežljivost je krepost koja uređuje ljubav prema novcu i njegovu uporabu,
+    osobito davanje. Škrtost je neumjerena ljubav prema imanju; rasipnost joj je protivna
+    po pretjeranom davanju.
+  mjesto: null
