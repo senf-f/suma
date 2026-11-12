@@ -1,0 +1,216 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 67,
+  "units": {
+    "II-II.q67.pr": {
+      "text": "Zatim treba razmotriti poroke suprotstavljene komutativnoj pravednosti koji se sastoje u riječima kojima se nanosi šteta bližnjemu. Najprije o onome što pripada sudu; zatim o štetama koje se riječima nanose izvan suda. U pogledu prvoga treba razmotriti pet stvari: prvo, nepravednost suca u suđenju; drugo, nepravednost tužitelja u optuživanju; treće, nepravednost s optuženikove strane u njegovoj obrani; četvrto, nepravednost svjedoka u svjedočenju; peto, nepravednost odvjetnika u zastupanju. U pogledu prvoga pitaju se četiri stvari. Prvo, može li netko pravedno suditi onome koji mu nije podložan. Drugo, je li sucu dopušteno donijeti sud protiv istine koju zna, zbog onoga što mu se iznosi. Treće, može li sudac pravedno osuditi nekoga tko nije optužen. Četvrto, može li dopušteno otpustiti kaznu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da netko može pravedno suditi onome koji mu nije podložan. Jer u Dan 13 kaže se da je Danijel svojim sudom osudio starce osvjedočene u lažnom svjedočanstvu. Ali ti starci nisu bili podložni Danijelu, nego su, štoviše, sami bili suci naroda. Dakle, netko može dopušteno suditi onome tko mu nije podložan.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a1.obj2": {
+      "text": "Osim toga, Krist nije bio podložan nijednom čovjeku, nego je, štoviše, bio kralj kraljeva i gospodar gospodara. A ipak se podvrgnuo sudu čovjeka. Dakle, čini se da netko može dopušteno suditi nekome tko mu nije podložan.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a1.obj3": {
+      "text": "Osim toga, prema pravima svatko potpada pod sudište s obzirom na prijestup. Ali katkad onaj tko prestupi nije podložan onome kojemu pripada sudište toga mjesta, na primjer kad je iz druge biskupije ili kad je izuzet. Dakle, čini se da netko može suditi onome tko mu nije podložan.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur o onom mjestu iz Pnz 23, *Ako uđeš u tuđe žito i tako dalje: Ne može staviti srp suda na stvar za koju se vidi da je povjerena drugome*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a1.resp": {
+      "text": "Odgovaram: treba reći da je presuda suca kao neki posebni zakon za neki pojedinačni slučaj. Stoga, kao što opći zakon mora imati prisilnu snagu, kako je jasno iz Filozofa u X. knjizi Etike, tako i presuda suca mora imati prisilnu snagu kojom se obje strane obvezuju da se drže sučeve presude; inače sud ne bi bio djelotvoran. A prisilnu vlast u ljudskim stvarima dopušteno ima samo onaj tko vrši javnu vlast. Oni koji je vrše smatraju se višima u odnosu na one nad kojima, kao nad podložnicima, primaju vlast, bilo da je imaju redovito, bilo po povjerenju. Stoga je očito da nitko ne može suditi nekome osim ako mu je taj na neki način podložan, bilo po povjerenju bilo po redovitoj vlasti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Danijel primio vlast da sudi onim starcima kao povjerenu po božanskom poticaju. To je označeno time što se ondje kaže da je *Gospodin probudio duh mladoga dječaka*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a1.ad2": {
+      "text": "Na drugo treba reći da se u ljudskim stvarima neki mogu svojevoljno podvrgnuti sudu drugih, iako im ti nisu nadređeni, kao što je jasno kod onih koji se sporazumno obrate nekim arbitrima. Odatle je nužno da se arbitraža osigura kaznom, jer arbitri, koji nisu nadređeni, nemaju sami od sebe punu vlast prisiljavanja. Tako se, dakle, i Krist svojevoljno podvrgnuo ljudskom sudu, kao što se i papa Lav podvrgnuo sudu cara.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a1.ad3": {
+      "text": "Na treće treba reći da biskup u čijoj biskupiji netko prestupi postaje njegov nadređeni s obzirom na prijestup, čak i ako je taj izuzet, osim možda ako prestupi u nekoj izuzetoj stvari, na primjer u upravljanju dobrima nekog izuzetog samostana. Ali ako neki izuzeti počini krađu ili ubojstvo ili nešto slično, ordinarij ga može pravedno osuditi.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da sucu nije dopušteno suditi protiv istine koju zna, zbog onoga što se iznosi u prilog suprotnome. Jer kaže se u Pnz 17: *Doći ćeš svećenicima levitskoga roda i sucu koji bude u ono vrijeme, i pitat ćeš ih, a oni će ti pokazati istinu suda*. Ali katkad se nešto iznosi protiv istine, kao kad se nešto dokazuje preko lažnih svjedoka. Dakle, sucu nije dopušteno suditi prema onome što se iznosi i dokazuje, protiv istine koju sam zna.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a2.obj2": {
+      "text": "Osim toga, čovjek se u suđenju mora suobličiti Božjem sudu, jer sud je Božji, kako se kaže u Pnz 1. Ali Božji je sud prema istini, kako se kaže u Rim 2, a u Iz 11 proriče se o Kristu: *Neće suditi po viđenju očiju niti će koriti po slušanju ušiju, nego će suditi siromasima u pravednosti i koriti u pravičnosti za krotke zemlje*. Dakle, sudac ne smije, prema onome što se pred njim dokazuje, donijeti presudu protiv onoga što sam zna.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a2.obj3": {
+      "text": "Osim toga, dokazi se na sudu traže zato da bi sudac stekao uvjerenje o istini stvari; stoga se u onome što je općepoznato ne traži sudski postupak, prema onome iz 1 Tim 5: *Grijesi nekih ljudi očiti su i idu pred njima na sud*. Ako, dakle, sudac sam po sebi zna istinu, ne treba paziti na ono što se dokazuje, nego donijeti presudu prema istini koju zna.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a2.obj4": {
+      "text": "Osim toga, ime savjesti sadrži primjenu znanja na nešto što treba činiti, kako je utvrđeno u Prvom dijelu. Ali činiti protiv savjesti jest grijeh. Dakle, sudac griješi ako prema iznesenome donese presudu protiv savjesti o istini koju ima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u tumačenju Psaltira: *Dobar sudac ne čini ništa po svom nahođenju, nego izriče sud prema zakonima i pravima*. A to je suditi prema onome što se na sudu iznosi i dokazuje. Dakle, sudac mora suditi prema tome, a ne prema vlastitom nahođenju.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, suditi pripada sucu ukoliko vrši javnu vlast. Stoga se u suđenju mora ravnati ne prema onome što sam zna kao privatna osoba, nego prema onome što mu postaje poznato kao javnoj osobi. A to mu postaje poznato i općenito i pojedinačno. Općenito preko javnih zakona, bilo božanskih bilo ljudskih, protiv kojih ne smije dopustiti nikakve dokaze. A u nekom pojedinačnom predmetu preko isprava, svjedoka i drugih takvih zakonitih dokaznih sredstava, koja u suđenju mora slijediti više nego ono što sam zna kao privatna osoba. Ipak mu to što zna može pomoći da strože ispita podnesene dokaze, kako bi mogao istražiti njihov nedostatak. A ako ih po pravu ne može odbaciti, mora ih, kako je rečeno, u suđenju slijediti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u onim riječima zato najprije spominje pitanje koje treba postaviti sucima, da bi se shvatilo kako suci moraju suditi o istini prema onome što im je bilo izneseno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a2.ad2": {
+      "text": "Na drugo treba reći da Bogu pristaje suditi po vlastitoj vlasti. Stoga se u suđenju ravna prema istini koju sam spoznaje, a ne prema onome što prima od drugih. Isti je razlog i za Krista, koji je pravi Bog i čovjek. A drugi suci ne sude po vlastitoj vlasti. Stoga razlog nije sličan.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a2.ad3": {
+      "text": "Na treće treba reći da Apostol govori o slučaju kad je nešto očito ne samo sucu nego i njemu samome i drugima, tako da optuženik nikako ne može zanijekati zločin, nego je odmah osvjedočen samom očevidnošću čina. A ako je očito sucu, a ne drugima, ili drugima, a ne sucu, tada je nužno sudsko raspravljanje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a2.ad4": {
+      "text": "Na četvrto treba reći da u onome što se tiče njegove vlastite osobe čovjek mora oblikovati svoju savjest iz vlastitog znanja. Ali u onome što se tiče javne vlasti, mora oblikovati svoju savjest prema onome što se može znati na javnom sudu, i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da sudac može nekome suditi i ako nema drugoga koji bi bio tužitelj. Jer ljudska je pravednost izvedena iz božanske pravednosti. Ali Bog sudi grešnicima i ako nema nikakva tužitelja. Dakle, čini se da čovjek može na sudu drugoga osuditi i ako nije prisutan tužitelj.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a3.obj2": {
+      "text": "Osim toga, tužitelj se na sudu traži zato da iznese zločin pred suca. Ali katkad zločin može doći do suca i na drugi način, a ne optužbom, na primjer prijavom ili lošim glasom, ili također ako ga sam sudac vidi. Dakle, sudac može nekoga osuditi bez tužitelja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a3.obj3": {
+      "text": "Osim toga, djela svetaca pripovijedaju se u Pismu kao neki uzori ljudskog života. Ali Danijel je ujedno bio tužitelj i sudac protiv bezakonih staraca, kako je jasno iz Dan 13. Dakle, nije protiv pravednosti ako netko nekoga osudi kao sudac, a sam je ujedno i tužitelj.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a3.sc": {
+      "text": "Ali protiv toga je ono što Ambrozije, tumačeći u 1 Kor 5 Apostolovu presudu o bludniku, kaže: *Nije na sucu da osudi bez tužitelja, jer Gospodin nije odbacio Judu, iako je bio kradljivac, budući da nije bio optužen*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a3.resp": {
+      "text": "Odgovaram: treba reći da je sudac tumač pravednosti; stoga, kako kaže Filozof u V. knjizi Etike, *utječu se sucu kao nekoj živoj pravednosti*. A pravednost, kako je gore utvrđeno, nije prema samome sebi, nego prema drugome. Stoga je potrebno da sudac presuđuje između dvojice, što se zbiva kad je jedan tužitelj, a drugi optuženik. Zato u zločinima sudac ne može nekoga na sudu osuditi ako nema tužitelja, prema onome iz Dj 25: *Nije običaj Rimljana osuditi nekoga čovjeka prije nego što onaj koji je optužen ima tužitelje pred sobom i dobije priliku za obranu, da opere zločine koji su mu se stavljali na teret*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se Bog u svome sudu služi savješću grešnika kao tužiteljem, prema onome iz Rim 2: *Dok se njihove misli međusobno optužuju ili također brane*. Ili također očevidnošću čina što se njega tiče, prema onome iz Post 4: *Glas krvi brata tvoga Abela viče k meni sa zemlje*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a3.ad2": {
+      "text": "Na drugo treba reći da javni loš glas zauzima mjesto tužitelja. Stoga o onom mjestu iz Post 4, *Glas krvi brata tvoga* itd., Glosa kaže: *Očevidnost počinjenog zlodjela ne treba tužitelja*. A u prijavi, kako je gore rečeno, ne smjera se na kažnjavanje grešnika, nego na popravak; stoga se ništa ne čini protiv onoga čiji se grijeh prijavljuje, nego za njega. Zato ondje nije potreban tužitelj. A kazna se izriče zbog neposluha prema Crkvi, koji, budući da je očit, zauzima mjesto tužitelja. Na temelju pak onoga što sam sudac vidi ne može pristupiti donošenju presude osim prema redu javnog suda.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a3.ad3": {
+      "text": "Na treće treba reći da Bog u svome sudu postupa iz vlastitog poznavanja istine, a čovjek ne, kako je gore rečeno. Stoga čovjek ne može ujedno biti tužitelj, sudac i svjedok, kao Bog. A Danijel je ujedno bio tužitelj i sudac kao izvršitelj božanskog suda, čijim je poticajem bio pokretan, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da sudac može dopušteno otpustiti kaznu. Jer kaže se u Jak 2: *Sud bez milosrđa onome tko ne čini milosrđa*. Ali nitko se ne kažnjava zato što ne čini ono što ne može dopušteno činiti. Dakle, svaki sudac može dopušteno iskazati milosrđe otpuštajući kaznu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a4.obj2": {
+      "text": "Osim toga, ljudski sud mora nasljedovati božanski sud. Ali Bog pokajnicima otpušta kaznu, jer ne želi smrt grešnika, kako se kaže u Ez 18. Dakle, i čovjek sudac može pokajniku dopušteno otpustiti kaznu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a4.obj3": {
+      "text": "Osim toga, svakome je dopušteno činiti ono što nekome koristi, a nikome ne škodi. Ali osloboditi optuženika kazne njemu koristi, a nikome ne škodi. Dakle, sudac može dopušteno osloboditi optuženika kazne.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Pnz 13 o onome koji nagovara da se služi tuđim bogovima: *Neka ga ne poštedi oko tvoje da se smiluješ i da ga sakriješ, nego ćeš ga odmah ubiti*. A o ubojici se kaže u Pnz 19: *Umrijet će, i nećeš mu se smilovati*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a4.resp": {
+      "text": "Odgovaram: treba reći da, kako je jasno iz rečenoga, u pogledu suca treba, što se tiče ovoga predmeta, razmotriti dvije stvari: jedna je da on ima suditi između tužitelja i optuženika; druga je da on ne izriče sudsku presudu kao po vlastitoj, nego kao po javnoj vlasti. Dakle, sudac je iz dvaju razloga spriječen da može osloboditi optuženika kazne. Prvo, s tužiteljeve strane, na čije pravo katkad spada da optuženik bude kažnjen, na primjer zbog neke nepravde počinjene protiv njega, a otpuštanje te nepravde nije u nahođenju nijednog suca, jer je svaki sudac dužan svakome dati njegovo pravo. Na drugi je način spriječen sa strane države, čiju vlast vrši, a na čije dobro spada da zločinci budu kažnjeni. Ipak, u tome postoji razlika između nižih sudaca i vrhovnog suca, naime vladara, kojemu je javna vlast povjerena u punini. Niži sudac, naime, nema vlast osloboditi optuženika kazne protiv zakona koje mu je nametnuo viši. Stoga o onom mjestu iz Iv 19, *Ne bi imao nikakve vlasti nada mnom*, Augustin kaže: *Bog je Pilatu dao takvu vlast da bude pod Cezarovom vlašću, tako da mu ne bi bilo posve slobodno osloboditi optuženoga*. Ali vladar, koji ima punu vlast u državi, ako onaj koji je pretrpio nepravdu želi oprostiti, moći će dopušteno osloboditi optuženika, ako vidi da to nije štetno za javnu korist.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da sučevo milosrđe ima mjesta u onome što je prepušteno sučevu nahođenju, u čemu je *svojstveno dobru čovjeku da bude sklon umanjivanju kazni*, kako kaže Filozof u V. knjizi Etike. A u onome što je određeno božanskim ili ljudskim zakonom, nije na njemu da iskazuje milosrđe.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a4.ad2": {
+      "text": "Na drugo treba reći da Bog ima vrhovnu vlast suđenja i njemu pripada sve što se zgriješi protiv bilo koga. Stoga mu je slobodno oprostiti kaznu, osobito zato što se grijehu kazna najviše duguje po tome što je protiv njega. Ipak, ne oprašta kaznu osim ukoliko to dolikuje njegovoj dobroti, koja je korijen svih zakona.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    },
+    "II-II.q67.a4.ad3": {
+      "text": "Na treće treba reći da bi sudac, kad bi neuredno oprostio kaznu, nanio štetu i zajednici, kojoj je probitačno da zlodjela budu kažnjena kako bi se grijesi izbjegavali; stoga se u Pnz 13, nakon kazne zavodnika, dodaje: *Da sav Izrael, čuvši, ima strah i da nitko više nikada ne učini nešto slično tome*. Šteti također osobi kojoj je nanesena nepravda, a koja prima naknadu nekim povratom časti u kazni onoga koji joj je nanio nepravdu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:07+00:00"
+    }
+  }
+}

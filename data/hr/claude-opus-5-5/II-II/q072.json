@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 72,
+  "units": {
+    "II-II.q72.pr": {
+      "text": "Zatim treba razmotriti nepravde riječima koje se nanose izvan suda. I to, prvo, pogrdu; drugo, ogovaranje; treće, spletkarenje; četvrto, ruganje; peto, kletvu. O prvome se pitaju četiri stvari. Prvo, što je pogrda. Drugo, je li svaka pogrda smrtni grijeh. Treće, treba li suzbijati one koji nanose pogrde. Četvrto, o podrijetlu pogrde.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se pogrda ne sastoji u riječima. Pogrda, naime, uključuje neku štetu nanesenu bližnjemu, budući da pripada nepravednosti. Ali čini se da riječi ne nanose bližnjemu nikakvu štetu, ni u stvarima ni u osobi. Dakle, pogrda se ne sastoji u riječima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a1.obj2": {
+      "text": "Osim toga, čini se da pogrda pripada nekom nanošenju nečasti. Ali netko može biti više lišen časti ili pokuđen djelima nego riječima. Dakle, čini se da se pogrda ne sastoji u riječima, nego više u djelima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a1.obj3": {
+      "text": "Osim toga, nanošenje nečasti koje se zbiva riječima naziva se uvredom ili prijekorom. Ali čini se da se pogrda razlikuje od uvrede i prijekora. Dakle, pogrda se ne sastoji u riječima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a1.sc": {
+      "text": "Ali protiv toga: ništa se ne opaža sluhom osim riječi. Ali pogrda se opaža sluhom, prema onome iz Jr 20: *čuo sam pogrde unaokolo*. Dakle, pogrda je u riječima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a1.resp": {
+      "text": "Odgovaram: treba reći da pogrda uključuje nanošenje nečasti nekome. A to se događa na dva načina. Budući, naime, da čast slijedi neku izvrsnost, na jedan način netko drugome nanosi nečast kad ga lišava izvrsnosti zbog koje je imao čast. A to se čini grijesima djela, o kojima je gore bilo riječi. Na drugi način, kad netko ono što je protiv nečije časti iznese do znanja njemu i drugima. I to pripada u vlastitom smislu pogrdi. A to se čini nekim znakovima. Ali, kako kaže Augustin u II. knjizi O kršćanskom nauku, *svi su znakovi, u usporedbi s riječima, vrlo malobrojni, jer su riječi među ljudima zadobile prvenstvo u označivanju svega što se u duhu zamisli*. I zato se pogrda, govoreći u vlastitom smislu, sastoji u riječima. Stoga Izidor kaže u Etimologijama da se netko naziva pogrditeljem *jer je brz i nadima se riječima nepravde*. Budući, međutim, da se i nekim djelima nešto označuje, a ona, u tome što označuju, imaju snagu riječi koje označuju, odatle je da se, proširenjem imena, pogrdom naziva i ono što je u djelima. Stoga, o onome iz Rim 1: *pogrditelje, oholice*, Glosa kaže da su *pogrditelji oni koji riječima ili djelima nanose pogrde i sramote*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da riječi po svojoj biti, to jest ukoliko su neki čujni zvukovi, ne nanose drugome nikakvu štetu, osim možda opterećujući sluh, na primjer kad netko govori preglasno. Ukoliko su pak znakovi koji nešto predočuju do znanja drugih, tako mogu nanijeti mnoge štete. Među njima je jedna ta da je čovjek oštećen u pogledu umanjenja svoje časti ili poštovanja koje mu drugi trebaju iskazivati. I zato je pogrda veća ako netko nekome kaže njegov nedostatak pred mnogima. Pa ipak, ako to kaže njemu samome, može biti pogrda, ukoliko onaj koji govori postupa protiv poštovanja prema slušatelju.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a1.ad2": {
+      "text": "Na drugo treba reći da netko drugome djelima nanosi nečast utoliko ukoliko ta djela ili čine ili označuju ono što je protiv nečije časti. Od toga prvo ne pripada pogrdi, nego drugim vrstama nepravednosti, o kojima je gore bilo riječi. Drugo pak pripada pogrdi ukoliko djela imaju snagu riječi u označivanju.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a1.ad3": {
+      "text": "Na treće treba reći da se uvreda i prijekor sastoje u riječima, kao i pogrda, jer se svima njima predočuje neki nečiji nedostatak na štetu njegove časti. A takav je nedostatak trostruk. Naime, nedostatak krivnje, koji se predočuje pogrdnim riječima. I nedostatak općenito krivnje i kazne, koji se predočuje uvredom (convitium), jer se o mani (vitium) obično govori ne samo kod duše, nego i kod tijela. Stoga, ako netko nekome uvredljivo kaže da je slijep, izriče doduše uvredu, ali ne pogrdu; ako pak netko kaže drugome da je lopov, ne nanosi samo uvredu, nego i pogrdu. Ponekad pak netko nekome predočuje nedostatak umanjenosti ili oskudice, koji također umanjuje čast koja prati bilo kakvu izvrsnost. A to se čini riječju prijekora, koji je u vlastitom smislu kad netko drugome uvredljivo dozove u pamćenje pomoć koju mu je pružio kad je trpio oskudicu. Stoga se kaže u Sir 20: *malo će dati, a mnogo predbacivati*. Ponekad se, ipak, jedno od toga stavlja umjesto drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da pogrda ili uvreda nije smrtni grijeh. Nijedan smrtni grijeh, naime, nije čin neke kreposti. Ali izgovarati uvrede čin je neke kreposti, naime duhovitosti, kojoj pripada na dobar način izgovarati uvrede, prema Filozofu u IV. knjizi Etike. Dakle, uvreda ili pogrda nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a2.obj2": {
+      "text": "Osim toga, smrtni se grijeh ne nalazi u savršenim ljudima. A oni ipak ponekad izgovaraju uvrede ili pogrde, kao što je jasno kod Apostola, koji je u Gal 3 rekao: *O nerazumni Galaćani!* A i Gospodin kaže u posljednjem poglavlju Luke: *O ludi i spora srca da vjerujete!* Dakle, uvreda ili pogrda nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a2.obj3": {
+      "text": "Osim toga, iako ono što je laki grijeh po rodu može postati smrtni, ipak grijeh koji je po rodu smrtni ne može biti laki, kako je gore utvrđeno. Kad bi, dakle, izgovoriti uvredu ili pogrdu bio smrtni grijeh po svom rodu, slijedilo bi da je uvijek smrtni grijeh. A to se čini lažnim, kao što je jasno kod onoga koji olako i iz nepromišljena poriva, ili iz blage srdžbe, izgovori neku pogrdnu riječ. Dakle, pogrda ili uvreda nije po svom rodu smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a2.sc": {
+      "text": "Ali protiv toga: ništa ne zaslužuje vječnu paklenu kaznu osim smrtnoga grijeha. Ali uvreda ili pogrda zaslužuje paklenu kaznu, prema onome iz Mt 5: *tko rekne svome bratu: Glupane!, bit će podložan ognjenoj gehenni*. Dakle, uvreda ili pogrda jest smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, riječi ukoliko su neki zvukovi ne nanose štetu drugima, nego ukoliko nešto označuju. A to označivanje proizlazi iz unutarnjeg čuvstva. I zato se u grijesima riječi čini da najviše treba razmotriti iz kakvog čuvstva netko izgovara riječi. Budući, dakle, da uvreda ili pogrda po svom pojmu uključuje neko nanošenje nečasti, ako je nakana onoga koji govori usmjerena na to da riječima koje izgovara oduzme čast drugome, to je u vlastitom smislu i po sebi izgovarati uvredu ili pogrdu. I to je smrtni grijeh, ne manje nego krađa ili otimačina; jer čovjek ne ljubi manje svoju čast nego stvar koju posjeduje. Ako pak netko drugome kaže uvredljivu ili pogrdnu riječ, ali ne s namjerom da mu nanese nečast, nego možda radi opomene ili radi nečega takvog, ne izgovara uvredu ili pogrdu formalno i po sebi, nego akcidentalno i tvarno, ukoliko, naime, izgovara ono što može biti uvreda ili pogrda. Stoga to ponekad može biti laki grijeh, a ponekad i bez ikakva grijeha. U tome je, ipak, potrebno razlučivanje, da se čovjek takvim riječima služi umjereno. Jer uvreda bi mogla biti tako teška da bi, izgovorena neoprezno, oduzela čast onome protiv koga se izgovara. I tada bi čovjek mogao smrtno sagriješiti, čak i ako ne bi smjerao na nanošenje nečasti drugome. Kao što i onaj tko, neoprezno udarivši drugoga u igri, teško ga ozlijedi, nije bez krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da duhovitom čovjeku pripada reći neku laku uvredu, ne zato da nanese nečast ili žalost onome kome je upućena, nego više radi naslade i šale. I to može biti bez grijeha, ako se poštuju dužne okolnosti. Ako pak netko ne zazire od toga da ražalosti onoga kome se takva šaljiva uvreda upućuje, samo da drugima izazove smijeh, to je poročno, kako se ondje kaže.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a2.ad2": {
+      "text": "Na drugo treba reći da, kao što je dopušteno nekoga udariti ili mu nanijeti štetu u stvarima radi stege, tako i radi stege netko drugome, koga treba opomenuti, može reći neku uvredljivu riječ. I na taj je način Gospodin nazvao učenike ludima, a Apostol Galaćane nerazumnima. Ipak, kako kaže Augustin u knjizi O Gospodnjem govoru na gori, *rijetko i iz velike nužde treba se služiti ukorima, u kojima trebamo nastojati ne da služimo sebi, nego Gospodinu*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a2.ad3": {
+      "text": "Na treće treba reći da, budući da grijeh uvrede ili pogrde ovisi o nakani onoga koji govori, može se dogoditi da bude laki grijeh, ako je uvreda laka, koja čovjeku ne nanosi mnogo nečasti, i ako se izgovori iz neke lakomislenosti duha ili iz blage srdžbe, bez čvrste odluke da se nekome nanese nečast, na primjer kad netko takvom riječju smjera nekoga malo ražalostiti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da netko ne treba podnositi pogrde koje su mu nanesene. Tko, naime, podnosi pogrdu koja mu je nanesena, hrani smjelost onoga koji vrijeđa. Ali to ne treba činiti. Dakle, čovjek ne treba podnositi pogrdu koja mu je nanesena, nego radije odgovoriti onome koji vrijeđa.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a3.obj2": {
+      "text": "Osim toga, čovjek treba više ljubiti sebe nego drugoga. Ali netko ne treba podnositi da se drugome nanosi uvreda; stoga se kaže u Izr 26: *tko ludome nametne šutnju, ublažuje srdžbe*. Dakle, ni netko ne treba podnositi pogrde koje su njemu nanesene.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a3.obj3": {
+      "text": "Osim toga, nikome nije dopušteno osvećivati se sam, prema onome: *Meni osvetu, i ja ću uzvratiti*. Ali netko se, ne odupirući se pogrdi, osvećuje, prema onoj Zlatoustoga: *ako se hoćeš osvetiti, šuti, i zadao si mu smrtonosan udarac*. Dakle, netko ne treba, šuteći, podnositi pogrdne riječi, nego radije odgovoriti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu: *oni koji su mi tražili zlo govorili su ispraznosti*; a poslije nadodaje: *a ja kao gluh nisam čuo, i kao nijem koji ne otvara svojih usta*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a3.resp": {
+      "text": "Odgovaram: treba reći da kao što je strpljivost potrebna u onome što se čini protiv nas, tako i u onome što se govori protiv nas. A zapovijedi strpljivosti u onome što se čini protiv nas treba imati u pripravnosti duše, kao što Augustin u knjizi O Gospodnjem govoru na gori tumači onu Gospodinovu zapovijed: *ako te tko udari po jednom obrazu, pruži mu i drugi*, naime tako da čovjek bude spreman to učiniti, ako bude potrebno; ali nije uvijek dužan to i činom učiniti, jer to nije učinio ni sam Gospodin, nego je, kad je primio pljusku, rekao: Zašto me udaraš?, kako stoji u Iv 18. I zato isto treba shvatiti i o pogrdnim riječima koje se govore protiv nas. Dužni smo, naime, imati duh spreman podnositi pogrde ako to bude korisno. Ponekad, ipak, treba da nanesenu pogrdu odbijemo, ponajviše zbog dvoje. Prvo, radi dobra onoga koji nanosi pogrdu, to jest da se suzbije njegova smjelost i da se ubuduće ne usuđuje na takve stvari; prema onome iz Izr 26: *odgovori ludome prema ludosti njegovoj, da se ne bi sebi činio mudrim*. Na drugi način, radi dobra mnogih, čiji se napredak priječi pogrdama koje se nama nanose. Stoga Grgur kaže, u IX. homiliji o Ezekijelu: *oni čiji je život postavljen kao primjer za nasljedovanje trebaju, ako mogu, ušutkati riječi onih koji ih ogovaraju, da ne bi njihovo propovijedanje prestali slušati oni koji su ga mogli slušati i da, ostajući u izopačenim običajima, ne bi prezreli dobro živjeti*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da netko treba umjereno suzbiti smjelost pogrdnoga uvreditelja, to jest zbog dužnosti ljubavi, a ne iz žudnje za osobnom čašću. Stoga se kaže u Izr 26: *ne odgovaraj ludome prema ludosti njegovoj, da mu ne postaneš sličan*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a3.ad2": {
+      "text": "Na drugo treba reći da kad netko suzbija pogrde nanesene drugima, ne treba se toliko bojati žudnje za osobnom čašću kao kad netko odbija pogrde nanesene njemu samome; štoviše, čini se da to više proizlazi iz čuvstva ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a3.ad3": {
+      "text": "Na treće treba reći da kad bi netko šutio s tom nakanom da šutnjom izazove srdžbu onoga koji ga vrijeđa, to bi pripadalo osveti. Ali ako netko šuti želeći dati mjesta srdžbi, to je hvalevrijedno. Stoga se kaže u Sir 8: *ne prepiri se s brbljavim čovjekom i ne slaži drva na njegovu vatru*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da pogrda ne proizlazi iz srdžbe. Kaže se, naime, u Izr 11: *gdje je oholost, ondje je pogrda*. Ali srdžba je porok različit od oholosti. Dakle, pogrda ne proizlazi iz srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a4.obj2": {
+      "text": "Osim toga, u Izr 20 se kaže: *svi se ludi upleću u pogrde*. Ali ludost je porok suprotstavljen mudrosti, kako je gore utvrđeno, dok se srdžba suprotstavlja blagosti. Dakle, pogrda ne proizlazi iz srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a4.obj3": {
+      "text": "Osim toga, nijedan se grijeh ne umanjuje zbog svoga uzroka. Ali grijeh pogrde se umanjuje ako se izgovori iz srdžbe; teže, naime, griješi onaj tko nanosi pogrdu iz mržnje nego onaj tko to čini iz srdžbe. Dakle, pogrda ne proizlazi iz srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a4.sc": {
+      "text": "Ali protiv toga je ono što Grgur kaže u XXXI. knjizi Moralija, da iz srdžbe proizlaze pogrde.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a4.resp": {
+      "text": "Odgovaram: treba reći da, iako jedan grijeh može proizlaziti iz različitih izvora, ipak se kaže da ponajprije ima podrijetlo iz onoga iz kojega obično najčešće proizlazi, zbog blizine njegovoj svrsi. A pogrda je vrlo blizu svrsi srdžbe, a to je osveta; nijedna, naime, osveta srditome nije više pri ruci nego nanijeti drugome pogrdu. I zato pogrda ponajviše proizlazi iz srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da pogrda nije usmjerena prema svrsi oholosti, a to je uzvišenost, i zato pogrda ne proizlazi izravno iz oholosti. Ipak, oholost čini sklonim pogrdi, ukoliko oni koji sebe smatraju višima lakše druge preziru i nanose im nepravde. Lakše se i srde, jer smatraju nedostojnim sve što se čini protiv njihove volje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a4.ad2": {
+      "text": "Na drugo treba reći da, prema Filozofu u VII. knjizi Etike, srdžba ne sluša savršeno razum, i tako srdit čovjek trpi nedostatak razuma, u čemu se podudara s ludošću. I zbog toga pogrda proizlazi iz ludosti, prema srodnosti koju ona ima sa srdžbom.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q72.a4.ad3": {
+      "text": "Na treće treba reći da, prema Filozofu u II. knjizi Retorike, *srdit čovjek smjera na očitu povredu, do čega onome koji mrzi nije stalo*. I zato pogrda, koja uključuje očitu nepravdu, više pripada srdžbi nego mržnji.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    }
+  }
+}

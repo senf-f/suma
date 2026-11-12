@@ -1,0 +1,108 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 74,
+  "units": {
+    "II-II.q74.pr": {
+      "text": "Zatim treba razmotriti spletkarenje. U vezi s tim pitaju se dvije stvari. Prvo, je li spletkarenje grijeh različit od ogovaranja. Drugo, koje je od njih dvoje teže.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da spletkarenje nije grijeh različit od ogovaranja. Izidor, naime, kaže u knjizi Etimologija: *Spletkar (susurro) dobiva ime po zvuku govora, jer ne govori nekome u lice, nego na uho, ogovarajući.* Ali govoriti o drugome ogovarajući pripada ogovaranju. Dakle, spletkarenje nije grijeh različit od ogovaranja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a1.obj2": {
+      "text": "Osim toga, u Lev 19 kaže se: *Ne budi potvarač ni spletkar u narodu.* Ali čini se da je potvarač isto što i ogovaratelj. Dakle, ni spletkarenje se ne razlikuje od ogovaranja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a1.obj3": {
+      "text": "Osim toga, u Sir 28 kaže se: *Spletkar i dvojezičnik bit će proklet.* Ali čini se da je dvojezičnik isto što i ogovaratelj, jer je svojstveno ogovarateljima govoriti dvostrukim jezikom, naime drugačije u odsutnosti, a drugačije u prisutnosti. Dakle, spletkar je isto što i ogovaratelj.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a1.sc": {
+      "text": "Ali protiv toga je ono što Glosa kaže uz ono iz Rim 1, *spletkari, ogovaratelji*: *Spletkari, koji siju neslogu među prijateljima; ogovaratelji, koji niječu ili umanjuju dobra drugih.*",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a1.resp": {
+      "text": "Odgovaram: treba reći da se spletkarenje i ogovaranje slažu u građi, a također i u formi, odnosno u načinu govora, jer i jedan i drugi skriveno govore zlo o bližnjemu. Zbog te se sličnosti katkad jedno stavlja umjesto drugoga; stoga uz ono iz Sir 5, *Ne daj da te nazovu spletkarom*, Glosa kaže: to jest ogovarateljem. Ali razlikuju se u svrsi. Jer ogovaratelj smjera ocrniti dobar glas bližnjega, pa zato o bližnjemu iznosi ponajprije ona zla kojima bi bližnji mogao izgubiti dobar glas, ili bi mu se barem dobar glas umanjio. Spletkar pak smjera razdvojiti prijateljstvo, kao što je jasno iz navedene Glose i iz onoga što se kaže u Izr 26: *Kad se ukloni spletkar, svađe se smiruju.* I zato spletkar o bližnjemu iznosi takva zla koja mogu protiv njega uzbuditi duh slušatelja, prema onome iz Sir 28: *Grešan čovjek smutit će prijatelje i među one koji imaju mir ubacuje neprijateljstvo.*",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za spletkara, utoliko što govori zlo o drugome, kaže da ogovara. Ali se u tome razlikuje od ogovaratelja što ne smjera naprosto govoriti zlo, nego bilo što što bi moglo uznemiriti duh jednoga protiv drugoga, makar to bilo naprosto dobro, a ipak prividno zlo, utoliko što se ne sviđa onome kome se govori.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a1.ad2": {
+      "text": "Na drugo treba reći da se potvarač razlikuje i od spletkara i od ogovaratelja. Jer potvarač je onaj tko drugima javno pripisuje zločine, bilo optužujući bilo vrijeđajući, što ne pripada ogovaratelju i spletkaru.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a1.ad3": {
+      "text": "Na treće treba reći da se dvojezičnikom u vlastitom smislu naziva spletkar. Budući, naime, da je prijateljstvo među dvojicom, spletkar nastoji s obje strane raskinuti prijateljstvo, i zato se služi dvama jezicima prema dvojici, govoreći jednome zlo o drugome. Zbog toga se kaže u Sir 28: *Spletkar i dvojezičnik proklet je*, i dodaje se: *jer mnoge koji imaju mir smućuju.*",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je ogovaranje teži grijeh od spletkarenja. Grijesi usta, naime, sastoje se u tome što netko govori zlo. Ali ogovaratelj o bližnjemu govori ono što je naprosto zlo, jer iz toga nastaje gubitak dobrog glasa ili se dobar glas umanjuje, a spletkaru je stalo govoriti samo prividna zla, naime ona koja se ne sviđaju slušatelju. Dakle, ogovaranje je teži grijeh od spletkarenja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a2.obj2": {
+      "text": "Osim toga, tko god nekome oduzima dobar glas, oduzima mu ne samo jednoga prijatelja nego mnoge, jer svatko izbjegava prijateljstvo s osobama na lošem glasu; zato se protiv nekoga kaže u 2 Ljet 19: *Udružuješ se prijateljstvom s onima koji mrze Gospodina.* Spletkarenje pak oduzima samo jednoga prijatelja. Dakle, ogovaranje je teži grijeh od spletkarenja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a2.obj3": {
+      "text": "Osim toga, u Jak 4 kaže se: *Tko ogovara brata svojega, ogovara zakon*, a posljedično i Boga, koji je zakonodavac; i tako se čini da je grijeh ogovaranja grijeh protiv Boga, koji je najteži, kao što je gore utvrđeno. Grijeh spletkarenja pak je protiv bližnjega. Dakle, grijeh ogovaranja teži je od grijeha spletkarenja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Sir 5: *Najgora je sramota na dvojezičniku, a spletkaru mržnja, neprijateljstvo i pogrda.*",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je gore rečeno, grijeh protiv bližnjega to teži što se njime bližnjemu nanosi veća šteta, a šteta je to veća što je veće dobro koje se oduzima. Među ostalim vanjskim dobrima nadmašuje pak prijatelj, jer bez prijatelja nitko ne bi mogao živjeti, kao što je jasno iz Filozofa u VIII. knjizi Etike. Stoga se kaže u Sir 6: *Vjernom prijatelju nema usporedbe*, jer je i najbolji dobar glas, koji se oduzima ogovaranjem, ponajviše potreban zato da bi se čovjek smatrao prikladnim za prijateljstvo. I zato je spletkarenje veći grijeh od ogovaranja, pa i od pogrde, jer je prijatelj bolji od časti, i biti ljubljen bolje je nego biti čašćen, kako kaže Filozof u VIII. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se vrsta i težina grijeha više promatraju po svrsi nego po tvarnom predmetu. I zato je spletkarenje teže po razlogu svrhe, premda ogovaratelj katkad govori gore stvari.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a2.ad2": {
+      "text": "Na drugo treba reći da je dobar glas raspoloživost za prijateljstvo, a loš glas za neprijateljstvo. A raspoloživost zaostaje za onim za što raspolaže. I zato onaj koji radi na nečemu što je raspoloživost za neprijateljstvo griješi manje od onoga koji izravno radi na izazivanju neprijateljstva.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q74.a2.ad3": {
+      "text": "Na treće treba reći da se za onoga koji ogovara brata čini da ogovara zakon utoliko što prezire zapovijed o ljubavi prema bližnjemu. Protiv nje izravnije djeluje onaj koji nastoji raskinuti prijateljstvo. Stoga je taj grijeh ponajviše protiv Boga, jer Bog je ljubav, kako se kaže u 1 Iv 4. I zbog toga se kaže u Izr 6: *Šest je stvari koje mrzi Gospodin, a sedmu se gnuša duša njegova*, a kao tu sedmu navodi *onoga koji sije neslogu među braćom*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 80,
+  "units": {
+    "II-II.q80.pr": {
+      "text": "Zatim treba razmotriti potencijalne dijelove pravednosti, to jest kreposti koje su s njom povezane. I o tome treba razmotriti dvoje: prvo, koje su kreposti povezane s pravednošću; drugo, treba razmotriti pojedine kreposti povezane s pravednošću.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se kreposti povezane s pravednošću neprikladno navode. Tulije, naime, nabraja šest, to jest *bogoštovlje (religiju), pijetet, zahvalnost, osvetu, poštovanje, istinitost*. Ali osveta je, čini se, vrsta komutativne pravednosti, po kojoj se za nanesene nepravde uzvraća osvetom, kao što je jasno iz rečenoga. Dakle, ne treba je postavljati među kreposti povezane s pravednošću.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.obj2": {
+      "text": "Osim toga, Makrobije, u komentaru na Scipionov san, postavlja sedam, to jest *nevinost, prijateljstvo, slogu, pijetet, bogoštovlje, naklonost, čovječnost*; od njih Tulije mnoge izostavlja. Dakle, čini se da su kreposti pridružene pravednosti nedostatno nabrojene.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.obj3": {
+      "text": "Osim toga, neki drugi postavljaju pet dijelova pravednosti, to jest poslušnost prema višemu, stegu prema nižemu, nepristranost prema jednakima, vjernost i istinitost prema svima; od njih Tulije postavlja samo istinitost. Dakle, čini se da je nedostatno nabrojio kreposti povezane s pravednošću.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.obj4": {
+      "text": "Osim toga, Andronik Peripatetik postavlja devet dijelova povezanih s pravednošću, *naime darežljivost, dobrostivost, osvetničku krepost, eugnomosinu, euzebiju, euharistiju, svetost, dobru razmjenu, zakonodavnu krepost*; od njih i Tulije očito postavlja samo osvetničku. Dakle, čini se da je nedostatno nabrojio.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.obj5": {
+      "text": "Osim toga, Aristotel u V. knjizi Etike postavlja pravičnost kao pridruženu pravednosti, a o njoj se, čini se, ni u jednom od prethodnih nabrajanja ne govori. Dakle, kreposti povezane s pravednošću nedostatno su nabrojene.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.resp": {
+      "text": "Odgovaram: treba reći da kod kreposti koje se pridružuju nekoj glavnoj kreposti treba razmotriti dvoje: prvo, da se te kreposti u nečemu slažu s glavnom kreposti; drugo, da u nečemu zaostaju za njezinim savršenim pojmom. Budući da je pravednost usmjerena na drugoga, kao što je jasno iz rečenoga, sve kreposti koje su usmjerene na drugoga mogu se zbog toga slaganja povezati s pravednošću. A pojam pravednosti sastoji se u tome da se drugome dade ono što mu se duguje prema jednakosti, kao što je jasno iz rečenoga. Neka krepost koja je usmjerena na drugoga zaostaje, dakle, za pojmom pravednosti na dva načina: na jedan način, ukoliko zaostaje za pojmom jednakoga; na drugi način, ukoliko zaostaje za pojmom dužnoga. Postoje, naime, neke kreposti koje drugome daju ono što mu se duguje, ali ne mogu dati jednako. Prvo, sve što čovjek daje Bogu dužno je, ali ne može biti jednako, tako naime da mu čovjek dade onoliko koliko duguje, prema onome iz Psalma: *što da uzvratim Gospodinu za sve što mi je uzvratio?* I prema tome se pravednosti pridružuje bogoštovlje (religija), koje, kako kaže Tulije, *pruža brigu i obred ili štovanje nekoj višoj naravi, koju nazivaju božanskom*. Drugo, roditeljima se ne može po jednakosti nadoknaditi ono što im se duguje, kao što je jasno iz Filozofa, u VIII. knjizi Etike. I tako se pravednosti pridružuje pijetet, po kojemu se, kako kaže Tulije, *krvnim srodnicima i onima koji su skloni domovini iskazuje služba i brižno štovanje*. Treće, čovjek ne može kreposti nadoknaditi jednakom nagradom, kao što je jasno iz Filozofa, u IV. knjizi Etike. I tako se pravednosti pridružuje poštovanje, po kojemu se, kako kaže Tulije, *ljudi koji se ističu nekim dostojanstvom udostojavaju nekog štovanja i časti*. Nedostatak pak u odnosu na pojam dužnoga kod pravednosti može se promatrati ukoliko je dug dvostruk, naime moralni i zakonski; zato i Filozof u VIII. knjizi Etike prema tome navodi dvostruko pravedno. Zakonski je dug onaj na čije je davanje netko obvezan zakonom, i takav dug u vlastitom smislu ima u vidu pravednost koja je glavna krepost. Moralni je pak dug onaj koji netko duguje zbog čestitosti kreposti. A budući da dug uključuje nužnost, takav dug ima dva stupnja. Jedan je, naime, tako nužan da se bez njega ne može održati čestitost ćudoređa, i on ima više od pojma duga. I taj se dug može promatrati sa strane samoga dužnika. I tako tom dugu pripada da se čovjek drugome pokazuje u riječima i djelima onakvim kakav jest. I tako se pravednosti pridružuje istinitost, po kojoj se, kako kaže Tulije, *bez promjene kazuje ono što jest, što je bilo ili što će biti*. Može se promatrati i sa strane onoga kome se duguje, naime ukoliko netko nekome uzvraća prema onome što je učinio. Katkad u dobru. I tako se pravednosti pridružuje zahvalnost, u kojoj je, kako kaže Tulije, *sadržano sjećanje na tuđa prijateljstva i usluge te volja da se drugome uzvrati*. Katkad pak u zlu. I tako se pravednosti pridružuje osveta, po kojoj se, kako kaže Tulije, *obranom ili kažnjavanjem odbija nasilje ili nepravda i uopće sve što je mračno*. Drugi je pak dug nužan kao nešto što pridonosi većoj čestitosti, ali se čestitost ipak može održati i bez njega. Taj dug ima u vidu darežljivost, ljubaznost ili prijateljstvo i druge takve kreposti. Njih Tulije u navedenom nabrajanju izostavlja, jer malo imaju od pojma duga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da osveta koja se vrši autoritetom javne vlasti prema presudi suca pripada komutativnoj pravednosti. Ali osveta koju netko vrši na vlastiti poticaj, ali ne protiv zakona, ili koju netko traži od suca, pripada kreposti pridruženoj pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.ad2": {
+      "text": "Na drugo treba reći da je Makrobije, čini se, imao u vidu dva sastavna dijela pravednosti, naime uklanjati se od zla, čemu pripada nevinost, i činiti dobro, čemu pripada ostalih šest. Od njih se dvije, čini se, odnose na jednake, naime prijateljstvo u vanjskom suživotu i sloga iznutra. Dvije se pak odnose na više: pijetet prema roditeljima i bogoštovlje prema Bogu. A dvije na niže: naime naklonost, ukoliko nam je drago njihovo dobro, i čovječnost, kojom se pomaže njihovim nedostacima. Izidor, naime, kaže u knjizi Etimologija da se *netko naziva čovječnim zato što prema čovjeku ima ljubav i čuvstvo samilosti; stoga se čovječnošću naziva ono čime se međusobno štitimo*. I prema tome se prijateljstvo uzima ukoliko uređuje vanjski suživot, kako o njemu raspravlja Filozof u IV. knjizi Etike. Prijateljstvo se može uzeti i ukoliko u vlastitom smislu ima u vidu čuvstvo, kako ga određuje Filozof u VIII. i IX. knjizi Etike. I tako prijateljstvu pripadaju tri stvari, naime dobrohotnost, koja se ovdje naziva naklonošću; sloga; i dobročinstvo, koje se ovdje naziva čovječnošću. Ali njih je Tulije izostavio jer malo imaju od pojma duga, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.ad3": {
+      "text": "Na treće treba reći da je poslušnost uključena u poštovanje, koje Tulije postavlja; osobama koje se ističu, naime, duguje se i poštovanje časti i poslušnost. Vjernost pak, po kojoj se čini ono što je rečeno, uključena je u istinitost, što se tiče održavanja obećanja. Ali istinitost obuhvaća više, kao što će biti jasno niže. Stega se pak ne duguje kao nužan dug, jer nitko nije obvezan nižemu ukoliko je niži (ipak netko može biti obvezan višemu da se pobrine za niže, prema onome iz Mt 24: *vjerni i razboriti sluga kojega je gospodar postavio nad svojim ukućanima*). I zato je Tulije izostavlja. Ali može biti sadržana pod čovječnošću, koju postavlja Makrobije. A nepristranost pod pravičnošću ili prijateljstvom.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.ad4": {
+      "text": "Na četvrto treba reći da se u onom nabrajanju postavljaju neke stvari koje pripadaju pravoj pravednosti. Posebnoj, naime, dobra razmjena, za koju kaže da je *habitus koji u razmjenama čuva jednakost*. Zakonskoj pak pravednosti, što se tiče onoga što treba općenito obdržavati, postavlja se zakonodavna krepost, koja je, kako on sam kaže, *znanost o političkim razmjenama koje se odnose na zajednicu*. A što se tiče onoga što se katkad pojedinačno mora činiti mimo općih zakona, postavlja se eugnomosina, kao dobra gnoma, koja usmjerava u takvim stvarima, kao što je gore utvrđeno u raspravi o razboritosti. I zato o njoj kaže da je voljno opravdanje, jer, naime, po njoj čovjek vlastitom odlukom čuva ono što je pravedno, a ne prema pisanom zakonu. A to se dvoje pripisuje razboritosti s obzirom na usmjeravanje, a pravednosti s obzirom na izvršenje. Euzebija se pak naziva takoreći dobrim štovanjem. Stoga je isto što i bogoštovlje. Zato o njoj kaže da je znanost služenja Bogu (a govori na način na koji je Sokrat govorio da su sve kreposti znanosti). I na isto se svodi svetost, kao što će se poslije reći. Euharistija je pak isto što i dobra zahvalnost, koju postavlja Tulije, kao što postavlja i osvetničku krepost. Dobrostivost pak, čini se, isto je što i naklonost, koju postavlja Makrobije. Stoga i Izidor kaže u knjizi Etimologija da je *dobrostiv čovjek koji je sam od sebe spreman činiti dobro i blag u govoru*. A sam Andronik kaže da je *dobrostivost habitus koji voljno čini dobro*. Darežljivost pak, čini se, pripada čovječnosti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q80.a1.ad5": {
+      "text": "Na peto treba reći da se pravičnost ne pridružuje posebnoj, nego zakonskoj pravednosti. I čini se da je isto što i ona koja je nazvana eugnomosinom.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    }
+  }
+}

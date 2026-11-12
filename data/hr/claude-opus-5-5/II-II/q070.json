@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 70,
+  "units": {
+    "II-II.q70.pr": {
+      "text": "Zatim treba razmotriti nepravednost koja se odnosi na osobu svjedoka. I u vezi s tim pitaju se četiri stvari. Prvo, je li čovjek dužan svjedočiti. Drugo, je li dovoljno svjedočanstvo dvojice ili trojice. Treće, odbacuje li se nečije svjedočanstvo bez njegove krivnje. Četvrto, je li davanje lažnog svjedočanstva smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da čovjek nije dužan svjedočiti. Augustin, naime, kaže u Pitanjima o Knjizi postanka da je Abraham, govoreći o svojoj ženi: „Ona je moja sestra“, htio prikriti istinu, a ne izreći laž. Ali onaj tko prikriva istinu suzdržava se od svjedočenja. Dakle, nitko nije dužan svjedočiti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a1.obj2": {
+      "text": "Osim toga, nitko nije dužan postupati prijevarno. Ali u Izr 11 se kaže: *tko prijevarno hodi, otkriva tajne, a tko je vjeran, krije ono što mu je prijatelj povjerio*. Dakle, čovjek nije uvijek dužan svjedočiti, osobito o onome što mu je prijatelj povjerio u tajnosti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a1.obj3": {
+      "text": "Osim toga, na ono što je nužno za spasenje najviše su obvezni klerici i svećenici. Ali klericima i svećenicima zabranjeno je svjedočiti u krvnoj parnici. Dakle, svjedočiti nije nužno za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin: *i onaj tko skriva istinu i onaj tko iznosi laž, obojica su krivi: onaj jer neće koristiti, a ovaj jer želi naškoditi*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a1.resp": {
+      "text": "Odgovaram: treba reći da kod davanja svjedočanstva treba razlikovati. Jer ponekad se nečije svjedočanstvo traži, a ponekad se ne traži. Ako se svjedočanstvo nekog podložnika traži autoritetom poglavara kojemu je on dužan pokoravati se u onome što pripada pravednosti, nema sumnje da je dužan svjedočiti u onome u čemu se od njega svjedočanstvo zahtijeva prema pravnom redu, na primjer o očitim stvarima i o onome o čemu se već pronio loš glas. Ako se pak od njega svjedočanstvo zahtijeva o drugim stvarima, na primjer o skrivenima i o onima o kojima se nije pronio loš glas, nije dužan svjedočiti. Ako se pak njegovo svjedočanstvo traži, ali ne autoritetom poglavara kojemu je dužan pokoravati se, tada treba razlikovati. Jer ako se svjedočanstvo traži da bi se čovjek oslobodio bilo od nepravedne smrti ili od bilo kakve kazne, bilo od lažnog lošeg glasa, ili pak od nepravedne štete, tada je čovjek dužan svjedočiti. A i ako se njegovo svjedočanstvo ne traži, dužan je učiniti što je do njega da istinu prijavi nekome tko u tome može pomoći. Kaže se, naime, u Psalmu: *izbavite siromaha i ubogoga oslobodite iz ruke grešnikove*; i u Izr 24: *spašavaj one koje vode u smrt*. I u Rim 1 se kaže: *smrti su dostojni ne samo oni koji to čine, nego i oni koji pristaju uz one koji to čine*, gdje Glosa kaže: *pristajati znači šutjeti kad možeš prekoriti*. O onome pak što se odnosi na nečiju osudu nitko nije dužan svjedočiti osim kad ga poglavar na to prisiljava prema pravnom redu. Jer ako se u tome istina prikrije, nikome iz toga ne nastaje posebna šteta. Ili, ako tužitelju prijeti opasnost, o tome ne treba voditi brigu, jer se on sam u tu opasnost dragovoljno upustio. Drugačije je, međutim, s optuženikom, kojemu opasnost prijeti protiv njegove volje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin govori o prikrivanju istine u onom slučaju kad nekoga autoritet poglavara ne prisiljava da istinu obznani, i kad prikrivanje istine nikome posebno ne nanosi štetu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a1.ad2": {
+      "text": "Na drugo treba reći da o onome što je čovjeku povjereno u tajnosti po ispovijedi nikako ne smije svjedočiti, jer to ne zna kao čovjek, nego kao Božji službenik, a veza sakramenta veća je od bilo koje ljudske zapovijedi. O onome pak što je čovjeku pod tajnom povjereno na drugi način, treba razlikovati. Ponekad je, naime, riječ o takvim stvarima koje je čovjek dužan obznaniti čim mu dođu do znanja, na primjer ako bi se odnosile na duhovnu ili tjelesnu propast mnoštva, ili na tešku štetu neke osobe, ili ako je posrijedi nešto drugo te vrste, što je čovjek dužan obznaniti bilo svjedočenjem bilo prijavom. I protiv te dužnosti ne može se obvezati povjeravanjem tajne, jer bi time prekršio vjernost koju duguje drugome. Ponekad je pak riječ o takvim stvarima koje čovjek nije dužan otkriti. Stoga se može obvezati time što su mu povjerene pod tajnom. I tada ih nikako nije dužan otkriti, čak ni po zapovijedi poglavara, jer čuvati vjernost pripada naravnom pravu, a čovjeku se ne može zapovjediti ništa protiv onoga što pripada naravnom pravu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a1.ad3": {
+      "text": "Na treće treba reći da službenicima oltara ne priliči činiti ili sudjelovati u ubojstvu čovjeka, kako je gore rečeno. I zato ih se prema pravnom redu ne može prisiliti da svjedoče u krvnoj parnici.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nije dovoljno svjedočanstvo dvojice ili trojice. Sud, naime, zahtijeva sigurnost. Ali iskazom dvojice svjedoka ne postiže se sigurnost istine; čita se, naime, u 1 Kr 21 da je Nabot na iskaz dvojice svjedoka lažno osuđen. Dakle, svjedočanstvo dvojice ili trojice nije dovoljno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a2.obj2": {
+      "text": "Osim toga, da bi svjedočanstvo bilo vjerodostojno, mora biti složno. Ali svjedočanstvo dvojice ili trojice često se u nečemu razilazi. Dakle, ono nije djelotvorno za dokazivanje istine na sudu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a2.obj3": {
+      "text": "Osim toga, u II, pit. 4, kaže se: *biskup neka se ne osudi osim sa sedamdeset i dva svjedoka. Kardinal prezbiter neka se ne svrgne osim sa četrdeset i četiri svjedoka. Kardinal đakon grada Rima neka se ne osudi osim s dvadeset i osam svjedoka. Subđakon, akolit, egzorcist, lektor, ostijarij neka se ne osude osim sa sedam svjedoka*. Ali opasniji je grijeh onoga tko je postavljen u većem dostojanstvu, pa ga zato manje treba podnositi. Dakle, ni za osudu drugih nije dovoljno svjedočanstvo dvojice ili trojice.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Pnz 17: *na iskaz dvojice ili trojice svjedoka poginut će onaj koji se ima pogubiti*; i niže, u 19: *na iskazu dvojice ili trojice svjedoka stajat će svaka riječ*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a2.resp": {
+      "text": "Odgovaram: treba reći da, prema Filozofu u I. knjizi Etike, *sigurnost ne treba jednako tražiti u svakoj građi*. U ljudskim, naime, činima, o kojima se donose sudovi i traže svjedočanstva, ne može se imati dokazna sigurnost, jer se odnose na ono što je kontingentno i promjenljivo. I zato je dovoljna vjerojatna sigurnost, koja u većini slučajeva dosiže istinu, iako u manjem broju slučajeva od istine odstupa. A vjerojatno je da iskaz mnogih više sadrži istinu nego iskaz jednoga. I zato, budući da je optuženik jedan koji niječe, a mnogi svjedoci tvrde isto što i tužitelj, razložno je ustanovljeno, božanskim i ljudskim pravom, da se treba držati iskaza svjedoka. A svako se mnoštvo obuhvaća u troje, naime u početku, sredini i kraju; stoga, prema Filozofu u I. knjizi O nebu, sve i cjelinu postavljamo u troje. Trojica onih koji tvrde nastaju kad se dvojica svjedoka slažu s tužiteljem. I zato se traže dvojica svjedoka ili, radi veće sigurnosti, da ih bude troje, što je savršeno mnoštvo, među samim svjedocima. Stoga se i u Prop 4 kaže: *trostruko uže teško se kida*. A Augustin, o onome iz Iv 8: *svjedočanstvo dvojice ljudi istinito je*, kaže da je *u tome otajstveno naznačeno Trojstvo*, u kojemu je trajna čvrstoća istine.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, koliko god se odredio broj svjedoka, svjedočanstvo bi ponekad moglo biti nepravedno, jer je pisano u Izl 23: *ne slijedi mnoštvo da činiš zlo*. Ipak, zato što se u takvim stvarima ne može imati nepogrešiva sigurnost, ne treba zanemariti sigurnost koja se s vjerojatnošću može imati po dvojici ili trojici svjedoka, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a2.ad2": {
+      "text": "Na drugo treba reći da neslaganje svjedoka u nekim glavnim okolnostima, koje mijenjaju bit čina, na primjer u vremenu ili mjestu ili u osobama o kojima je prvenstveno riječ, oduzima svjedočanstvu djelotvornost; jer ako se razilaze u takvim stvarima, čini se da su osamljeni u svojim svjedočanstvima i da govore o različitim činima. Na primjer, ako jedan kaže da se to dogodilo u to i to vrijeme ili na tom i tom mjestu, a drugi u drugo vrijeme ili na drugom mjestu, ne čini se da govore o istom činu. Svjedočanstvu se, međutim, ne nanosi šteta ako jedan kaže da se ne sjeća, a drugi tvrdi određeno vrijeme ili mjesto. I ako se u takvim stvarima svjedoci tužitelja i optuženika potpuno razilaze, ako su jednaki brojem i ravni dostojanstvom, presuđuje se u korist optuženika, jer sudac mora biti spremniji osloboditi nego osuditi; osim možda u povlaštenim parnicama, kao što je parnica o slobodi i slično. Ako se pak razilaze svjedoci iste strane, sudac mora po pokretu svoga duha prosuditi koje se strane treba držati, bilo prema broju svjedoka, bilo prema njihovu dostojanstvu, bilo prema povlaštenosti parnice, bilo prema naravi posla i iskaza. A još se mnogo više odbacuje svjedočanstvo jednoga ako proturječi samome sebi kad je ispitan o onome što je vidio i znao. Ne, međutim, ako proturječi kad je ispitan o mnijenju i glasinama, jer je mogao biti potaknut da različito odgovori prema različitim stvarima koje je vidio i čuo. Ako je pak neslaganje svjedočanstva u nekim okolnostima koje ne pripadaju biti čina, na primjer je li vrijeme bilo oblačno ili vedro, ili je li kuća bila oslikana ili nije, ili nešto slično, takvo neslaganje ne nanosi štetu svjedočanstvu, jer ljudi obično ne obraćaju mnogo pozornosti na takve stvari, pa im one lako ispadnu iz pamćenja. Štoviše, neko neslaganje u takvim stvarima čini svjedočanstvo vjerodostojnijim, kako kaže Zlatousti u komentaru Mateja, jer kad bi se slagali u svemu, i u najmanjim pojedinostima, činilo bi se da po dogovoru izgovaraju isti govor. To se, ipak, prepušta razboritosti suca da razluči.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a2.ad3": {
+      "text": "Na treće treba reći da to vrijedi posebno za biskupe, prezbitere, đakone i klerike Rimske Crkve, zbog njezina dostojanstva. I to iz trostrukog razloga. Prvo, zato što u njoj trebaju biti postavljeni takvi čijoj se svetosti vjeruje više nego mnogim svjedocima. Drugo, zato što ljudi koji trebaju suditi o drugima često, zbog pravednosti, imaju mnogo protivnika. Stoga ne treba olako vjerovati svjedocima protiv njih, osim ako se slaže veliko mnoštvo. Treće, zato što bi se osudom nekoga od njih u mnijenju ljudi naškodilo dostojanstvu i autoritetu te Crkve. A to je opasnije nego u njoj podnositi nekog grešnika, osim ako je vrlo javan i očit, tako da bi iz toga nastala teška sablazan.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nečije svjedočanstvo ne treba odbaciti osim zbog krivnje. Nekima se, naime, za kaznu određuje da ne budu pripušteni svjedočenju, kao što je jasno kod onih koji su žigosani lošim glasom. Ali kazna se ne smije nanositi osim za krivnju. Dakle, čini se da ničije svjedočanstvo ne treba odbaciti osim zbog krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a3.obj2": {
+      "text": "Osim toga, *o svakome treba pretpostaviti dobro, osim ako se ne pokaže suprotno*. Ali dobroti čovjeka pripada da daje istinito svjedočanstvo. Budući, dakle, da se suprotno ne može utvrditi osim zbog neke krivnje, čini se da ničije svjedočanstvo ne treba odbaciti osim zbog krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a3.obj3": {
+      "text": "Osim toga, nitko ne postaje nesposoban za ono što je nužno za spasenje osim zbog grijeha. Ali svjedočiti istinu nužno je za spasenje, kako je gore rečeno. Dakle, nitko ne smije biti isključen od svjedočenja osim zbog krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur, a stoji u II, pit. 1: *budući da su biskupa optužile njegove sluge, treba znati da ih nipošto nije trebalo saslušati*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a3.resp": {
+      "text": "Odgovaram: treba reći da svjedočanstvo, kako je rečeno, nema nepogrešivu, nego vjerojatnu sigurnost. I zato sve što donosi vjerojatnost za suprotno čini svjedočanstvo nedjelotvornim. A vjerojatnim postaje da netko nije čvrst u svjedočenju istine ponekad zbog krivnje, kao što su nevjernici, osobe lošeg glasa, a isto tako oni koji su krivi za javni zločin, koji ne mogu ni optuživati; ponekad pak bez krivnje. I to bilo zbog nedostatka razuma, kao što je jasno kod djece, umobolnih i žena; bilo zbog čuvstva, kao što je jasno kod neprijatelja i kod rođaka i ukućana; bilo pak zbog vanjskog položaja, kao što su siromasi, sluge i oni kojima se može zapovijedati, za koje je vjerojatno da ih se lako može navesti da svjedoče protiv istine. I tako je jasno da se nečije svjedočanstvo odbacuje i zbog krivnje i bez krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da odbaciti nekoga od svjedočenja pripada više opreznosti da bi se izbjeglo lažno svjedočanstvo nego kazni. Stoga zaključak ne slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a3.ad2": {
+      "text": "Na drugo treba reći da o svakome treba pretpostaviti dobro, osim ako se ne pokaže suprotno, samo ako to ne vodi u opasnost za drugoga. Jer tada treba primijeniti opreznost, tako da se ne vjeruje olako svakome, prema onome iz 1 Iv 4: *ne vjerujte svakom duhu*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a3.ad3": {
+      "text": "Na treće treba reći da je svjedočiti nužno za spasenje, pod pretpostavkom sposobnosti svjedoka i pravnog reda. Stoga ništa ne priječi da neki budu oslobođeni od svjedočenja ako se prema pravnim propisima ne smatraju sposobnima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da lažno svjedočanstvo nije uvijek smrtni grijeh. Događa se, naime, da netko da lažno svjedočanstvo iz neznanja činjenice. Ali takvo neznanje ispričava od smrtnoga grijeha. Dakle, lažno svjedočanstvo nije uvijek smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a4.obj2": {
+      "text": "Osim toga, laž koja nekome koristi, a nikome ne škodi, jest uslužna laž, koja nije smrtni grijeh. Ali ponekad je u lažnom svjedočanstvu takva laž, na primjer kad netko daje lažno svjedočanstvo da bi nekoga oslobodio od smrti ili od nepravedne presude koja se priprema po drugim lažnim svjedocima ili po izopačenosti suca. Dakle, takvo lažno svjedočanstvo nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a4.obj3": {
+      "text": "Osim toga, od svjedoka se traži prisega da bi se bojao smrtno sagriješiti krivokletstvom. A to ne bi bilo potrebno kad bi samo lažno svjedočanstvo bilo smrtni grijeh. Dakle, lažno svjedočanstvo nije uvijek smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izr 19: *lažni svjedok neće ostati nekažnjen*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a4.resp": {
+      "text": "Odgovaram: treba reći da lažno svjedočanstvo ima trostruku izopačenost. Na jedan način zbog krivokletstva, jer se svjedoci ne pripuštaju ako nisu prisegnuli. I po tome je uvijek smrtni grijeh. Na drugi način zbog povrede pravednosti. I na taj je način smrtni grijeh po svom rodu, kao i svaka nepravednost. I zato je u zapovijedi Dekaloga lažno svjedočanstvo zabranjeno u ovom obliku, kad se kaže u Izl 20: *ne govori lažna svjedočanstva protiv svoga bližnjega*; jer ne postupa protiv nekoga onaj tko ga sprečava da počini nepravdu, nego samo onaj tko mu oduzima njegovo pravo. Na treći način zbog same lažnosti, ukoliko je svaka laž grijeh. I po tome lažno svjedočanstvo nema to da je uvijek smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da pri svjedočenju čovjek ne smije kao sigurno tvrditi, kao da zna, ono u što nije siguran, nego ono što je dvojbeno mora iznijeti kao dvojbeno, a ono u što je siguran tvrditi kao sigurno. Ali budući da se zbog nestalnosti ljudskog pamćenja događa da čovjek ponekad misli da je siguran u nešto što je lažno, ako netko, razmišljajući s dužnom brižnošću, smatra da je siguran u nešto što je lažno, ne griješi smrtno tvrdeći to, jer ne izriče lažno svjedočanstvo po sebi i s nakanom, nego akcidentalno, protiv onoga što smjera.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a4.ad2": {
+      "text": "Na drugo treba reći da nepravedni sud nije sud. I zato lažno svjedočanstvo izrečeno u nepravednom sudu da bi se spriječila nepravda nema, s obzirom na sud, narav smrtnoga grijeha, nego samo zbog povrijeđene prisege.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q70.a4.ad3": {
+      "text": "Na treće treba reći da ljudi najviše zaziru od grijeha koji su protiv Boga, kao od najtežih, među kojima je i krivokletstvo. Ne zaziru pak toliko od grijeha koji su protiv bližnjega. I zato se, radi veće sigurnosti svjedočanstva, od svjedoka traži prisega.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    }
+  }
+}

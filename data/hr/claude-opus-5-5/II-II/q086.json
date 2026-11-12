@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 86,
+  "units": {
+    "II-II.q86.pr": {
+      "text": "Zatim treba razmotriti prinose i prvine. U vezi s tim postavljaju se četiri pitanja. Prvo, jesu li neki prinosi nužni po zapovijedi. Drugo, kome se duguju prinosi. Treće, od kojih ih stvari treba davati. Četvrto, posebno o prinošenju prvina: jesu li ljudi na njih nužno obvezni.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da ljudi nisu obvezni na prinose po nužnosti zapovijedi. Ljudi u vrijeme Evanđelja, naime, nisu obvezni obdržavati obredne zapovijedi Staroga zakona, kako je gore izloženo. Ali davanje prinosa ubraja se među obredne zapovijedi Staroga zakona; kaže se, naime, u Izl 23: *triput svake godine slavit ćete mi blagdane*, a zatim se dodaje: *nećeš se pojaviti preda mnom praznih ruku*. Dakle ljudi sada nisu obvezni na prinose po nužnosti zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a1.obj2": {
+      "text": "Osim toga, prinosi, prije nego što se učine, stoje u čovjekovoj volji, kako se čini po onome što Gospodin kaže u Mt 5: *ako prinosiš svoj dar na oltar*, kao da je to prepušteno slobodnoj odluci onih koji prinose. A nakon što su prinosi učinjeni, ne ostaje mjesta da ih se ponovno prinosi. Dakle nitko ni na koji način nije obvezan na prinose po nužnosti zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a1.obj3": {
+      "text": "Osim toga, tko god je obvezan nešto dati Crkvi, ako to ne dade, može se na to prisiliti uskraćivanjem crkvenih sakramenata. Ali čini se nedopuštenim uskraćivati crkvene sakramente onima koji ne bi htjeli prinositi, prema onoj odredbi Šeste sinode koja se nalazi u Dekretima, I, pit. 1: *nitko tko dijeli svetu pričest neka ništa ne traži od onoga koji prima milost; ako pak bude tražio, neka se svrgne*. Dakle ljudi nisu nužno obvezni na prinose.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a1.sc": {
+      "text": "Ali protiv toga je što Grgur kaže: *svaki kršćanin neka se pobrine da na svečanim misama nešto prinese Bogu*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, ime prinosa zajedničko svim stvarima koje se iskazuju za Božje štovanje. Tako, ako se nešto iskazuje za božansko štovanje kao za neku svetu radnju u kojoj to treba biti utrošeno, to je i prinos i žrtva; stoga se kaže u Izl 29: *prinijet ćeš cijeloga ovna da izgori na oltaru; to je prinos Gospodinu, najugodniji miris žrtve Božje*; a u Lev 2 kaže se: *kad duša prinese Gospodinu prinos žrtve, njezin će prinos biti od bijeloga brašna*. Ako se pak iskazuje tako da ostane cijelo, da bi se namijenilo božanskom štovanju ili utrošilo za potrebe služitelja, bit će prinos, a ne žrtva. Takvi, dakle, prinosi po svome pojmu imaju to da se prinose voljno, prema onome iz Izl 25: *od čovjeka koji prinosi dragovoljno, primit ćete ih*. Ipak se može dogoditi da netko bude obvezan na prinose iz četverostrukog razloga. Prvo, zbog prethodnog ugovora, kao kad se nekomu ustupi neko crkveno zemljište da u određeno vrijeme daje određene prinose. To, međutim, ima pojam zakupnine. Drugo, zbog prethodne namjene ili obećanja, kao kad netko prinosi darovanje među živima ili kad oporukom ostavlja Crkvi neku stvar, pokretnu ili nepokretnu, da se ubuduće preda. Treće, zbog potrebe Crkve, na primjer kad crkveni služitelji ne bi imali od čega se uzdržavati. Četvrto, zbog običaja: vjernici su, naime, obvezni o nekim svetkovinama davati neke uobičajene prinose. Ipak u ova dva posljednja slučaja prinos na neki način ostaje voljan, naime što se tiče količine ili vrste prinesene stvari.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da u Novom zakonu ljudi nisu obvezni na prinos zbog zakonskih svetkovina, kako se kaže u Knjizi izlaska, nego iz nekih drugih razloga, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a1.ad2": {
+      "text": "Na drugo treba reći da su neki obvezni na davanje prinosa i prije nego što ih daju, kao na prvi, treći i četvrti način, a i nakon što su ih dali putem namjene ili obećanja: obvezni su, naime, stvarno predati ono što je Crkvi prineseno putem namjene.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a1.ad3": {
+      "text": "Na treće treba reći da se oni koji ne daju dužne prinose mogu kazniti uskraćivanjem sakramenata, ne od samoga svećenika kojemu trebaju davati prinose, da se ne bi činilo da traži nešto za dijeljenje sakramenata, nego od nekoga višega.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se prinosi ne duguju samo svećenicima. Među prinosima, naime, vidimo da su najvažniji oni koji se namjenjuju za žrtve. Ali ono što se daje siromasima u Pismu se naziva žrtvama, prema onome iz Heb 13: *dobročinstvo i zajedništvo ne zaboravljajte, jer se takvim žrtvama Bogu ugađa*. Dakle prinosi se tim više duguju siromasima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a2.obj2": {
+      "text": "Osim toga, u mnogim župama monasi imaju udio u prinosima. A jedan je položaj klerika, a drugi monaha, kako kaže Jeronim. Dakle prinosi se ne duguju samo svećenicima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a2.obj3": {
+      "text": "Osim toga, laici uz pristanak Crkve kupuju prinose, kao kruhove i slično. A to ne čine ni zbog čega drugoga nego da ih upotrijebe za svoje potrebe. Dakle prinosi mogu pripadati i laicima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže kanon pape Damaza, a nalazi se u Dekretima, X, pit. 1: *prinose koji se prinose u svetoj Crkvi smiju jesti i piti samo svećenici, za koje se vidi da svakodnevno služe Gospodinu. Jer je u Starom zavjetu Gospodin zabranio sinovima Izraelovim jesti svete kruhove, osim samo Aronu i njegovim sinovima*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a2.resp": {
+      "text": "Odgovaram: treba reći da je svećenik na neki način postavljen kao posrednik koji stoji u sredini između naroda i Boga, kako se čita o Mojsiju u Pnz 5. Zato njemu pripada predavati narodu božanske nauke i sakramente; a opet, ono što je od naroda, na primjer molbe, žrtve i prinosi, treba se preko njega iskazivati Gospodinu, prema onome Apostolovu iz Heb 5: *svaki veliki svećenik, uzet između ljudi, postavlja se za ljude u onome što se odnosi na Boga, da prinosi darove i žrtve za grijehe*. Zato prinosi koje narod iskazuje Bogu pripadaju svećenicima, ne samo da ih upotrebljavaju za svoje potrebe nego i da ih vjerno raspodjeljuju: dijelom ih trošeći na ono što pripada božanskom štovanju; dijelom na ono što pripada njihovu vlastitom uzdržavanju, jer oni koji služe oltaru imaju udjela u oltaru, kako se kaže u 1 Kor 9; a dijelom i za potrebe siromaha, koje treba, koliko je moguće, uzdržavati od crkvenih dobara; jer je i Gospodin imao kesu za potrebe siromaha, kako kaže Jeronim u tumačenju Mateja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što ono što se daje siromasima nije u vlastitom smislu žrtva, ali se ipak naziva žrtvom ukoliko im se daje radi Boga, tako se po istom razlogu može nazvati i prinosima, ali ne u vlastitom smislu, jer se ne prinosi neposredno Bogu. A prinosi u vlastitom smislu riječi idu za potrebe siromaha ne po raspodjeli onih koji prinose, nego po raspodjeli svećenika.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a2.ad2": {
+      "text": "Na drugo treba reći da monasi ili drugi redovnici mogu primati prinose na tri načina. Prvo, kao siromasi, po raspodjeli svećenika ili po odredbi Crkve. Drugo, ako su služitelji oltara. I tada mogu primati prinose koji su dobrovoljno prineseni. Treće, ako su župe njihove. I tada ih mogu primati kao nešto dugovano, kao upravitelji crkve.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a2.ad3": {
+      "text": "Na treće treba reći da prinosi, nakon što su posvećeni, ne mogu prijeći na uporabu laika, kao ni sveto posuđe i ruho. I na taj se način razumije izreka pape Damaza. Oni pak koji nisu posvećeni mogu prijeći na uporabu laika po raspodjeli svećenika, bilo putem darovanja bilo putem prodaje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da čovjek ne može davati prinose od svih stvari koje zakonito posjeduje. Jer prema ljudskom pravu *bludnica postupa sramotno time što je bludnica, ali ne prima sramotno*, i tako zakonito posjeduje. Ali od toga nije dopušteno davati prinos, prema onome iz Pnz 23: *nemoj prinositi bludničke plaće u dom Gospodina, Boga svoga*. Dakle nije dopušteno davati prinos od svega što se zakonito posjeduje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a3.obj2": {
+      "text": "Osim toga, na istome se mjestu zabranjuje da se cijena psa prinosi u domu Božjem. A očito je da se cijena pravedno prodanoga psa pravedno posjeduje. Dakle nije dopušteno davati prinos od svega što se pravedno posjeduje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a3.obj3": {
+      "text": "Osim toga, u Mal 1 kaže se: *ako se prinese hromo i bolesno, nije li to zlo?* A hroma i bolesna životinja pravedno se posjeduje. Dakle čini se da se prinos ne može davati od svega što se pravedno posjeduje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izr 3: *časti Gospodina od svoga imetka*. A čovjekovu imetku pripada sve što pravedno posjeduje. Dakle prinos se može davati od svega što se pravedno posjeduje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a3.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Augustin u knjizi O riječima Gospodnjim, *kad bi opljačkao nekoga nemoćnoga i od plijena njegova dao nešto sucu da presudi u tvoju korist, tolika je snaga pravednosti da se to ne bi svidjelo ni tebi. Tvoj Bog nije takav kakav ne smiješ biti ni ti*. Zato se kaže u Sir 34: *prinos onoga koji žrtvuje od nepravde okaljan je*. Stoga je jasno da se od nepravedno stečenoga i posjedovanoga ne može davati prinos. A u Starom zakonu, u kojem se služilo predslikama, neke su se stvari zbog onoga što su označivale smatrale nečistima, i njih nije bilo dopušteno prinositi. Ali u Novom zakonu svaki se Božji stvor smatra čistim, kako se kaže u Tit 1. Zato se, što se tiče same stvari, prinos može davati od bilo čega što se zakonito posjeduje. Akcidentalno se ipak događa da se od nečega što se zakonito posjeduje ne može davati prinos, na primjer ako to ide na uštrb drugoga, kao kad bi neki sin prinio Bogu ono čime treba hraniti oca, što Gospodin osuđuje u Mt 15; ili zbog sablazni, ili zbog prezira, ili zbog nečega drugog takvoga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je u Starom zakonu prinos od bludničke plaće bio zabranjen zbog nečistoće. A u Novom zakonu zbog sablazni, da se ne bi činilo da Crkva podupire grijeh ako od dobitka grijeha prima prinos.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a3.ad2": {
+      "text": "Na drugo treba reći da se pas prema Zakonu smatrao nečistom životinjom. Ipak, druge su se nečiste životinje otkupljivale i njihova se cijena mogla prinositi, prema onome iz Lev 27: *ako je životinja nečista, otkupit će je onaj koji ju je prinio*. Ali pas se niti prinosio niti otkupljivao, s jedne strane zato što su se idolopoklonici služili psima u žrtvama idolima, a s druge i zato što psi označuju grabežljivost, od koje se ne može davati prinos. Ali ta zabrana prestaje u Novom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a3.ad3": {
+      "text": "Na treće treba reći da je prinos slijepe ili hrome životinje bio nedopušten iz trostrukog razloga. Prvo, zbog onoga za što se prinosio. Stoga se kaže u Mal 1: *ako prinosite slijepo za žrtvovanje, nije li to zlo?* A žrtve su morale biti bez mane. Drugo, zbog prezira. Stoga se ondje dodaje: *vi ste oskvrnuli moje ime time što govorite: stol je Gospodnji okaljan, i ono što se na nj stavlja prezira je vrijedno*. Treće, zbog prethodnog zavjeta, kojim se čovjek obvezuje da preda neoštećeno ono što je zavjetovao. Stoga se ondje dodaje: *proklet bio podmukli koji u svome stadu ima muško, a kad se zavjetuje, žrtvuje Gospodinu slabašno*. I isti razlozi ostaju u Novom zakonu. Kad oni otpadnu, to nije nedopušteno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ljudi nisu obvezni davati prvine. Jer u Izl 13, nakon što je dan zakon o prvorođencima, dodaje se: *bit će ti kao znak na ruci*, i tako se čini da je to obredna zapovijed. Ali obredne zapovijedi ne treba obdržavati u Novom zakonu. Dakle ne treba davati ni prvine.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a4.obj2": {
+      "text": "Osim toga, prvine su se prinosile Gospodinu za posebno dobročinstvo iskazano onom narodu, pa se stoga kaže u Pnz 26: *uzet ćeš od svih svojih plodova prvine, doći ćeš svećeniku koji bude u one dane i reći ćeš mu: ispovijedam danas pred Gospodinom, Bogom tvojim, da sam ušao u zemlju za koju se zakleo našim očevima da će nam je dati*. Dakle drugi narodi nisu obvezni davati prvine.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a4.obj3": {
+      "text": "Osim toga, ono na što je netko obvezan mora biti određeno. Ali ni u Novom ni u Starom zakonu ne nalazi se određena količina prvina. Dakle ljudi nisu nužno obvezni davati ih.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Dekretima, XVI, pit. 7: *treba od svega naroda primati desetine i prvine, za koje određujemo da po pravu pripadaju svećenicima*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a4.resp": {
+      "text": "Odgovaram: treba reći da prvine pripadaju nekom rodu prinosa, jer se iskazuju Bogu uz neko ispovijedanje, kako stoji u Pnz 26. Stoga se ondje i dodaje: svećenik će, primivši košaricu, to jest s prvinama, iz ruke onoga koji donosi prvine, staviti je pred oltar Gospodina, Boga tvoga; a zatim mu se nalaže da kaže: zato *sada prinosim prvine plodova zemlje koje mi je Gospodin dao*. A prvine su se prinosile iz posebnog razloga, naime u priznanje Božjega dobročinstva, kao da netko ispovijeda da plodove zemlje prima od Boga i da je zato obvezan nešto od toga iskazati Bogu, prema onome iz 1 Ljet 29: *što smo primili iz tvoje ruke, dali smo tebi*. A budući da Bogu treba iskazati ono što je najodabranije, bilo je zapovjeđeno da se Bogu prinose prvine, kao nešto najodabranije od plodova zemlje. I budući da je svećenik postavljen za narod u onome što se odnosi na Boga, prvine koje je narod prinosio išle su za potrebe svećenika, pa se stoga kaže u Br 18: *Gospodin reče Aronu: evo, dao sam ti čuvanje mojih prvina*. A naravnom pravu pripada da čovjek od stvari koje mu je Bog dao nešto iskaže na njegovu čast. Ali da se to iskaže takvim osobama, ili od prvih plodova, ili u takvoj količini, to je u Starom zakonu bilo određeno božanskim pravom, a u Novom se zakonu utvrđuje određenjem Crkve, po kojem su ljudi obvezni davati prvine prema običaju kraja i potrebi crkvenih služitelja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da su obredne zapovijedi u vlastitom smislu bile znak budućega, i zato su prestale kad je nastupila prisutnost označene istine. A prinos prvina bio je znak prošloga dobročinstva, iz kojega proizlazi i dug priznanja prema nalogu naravnoga razuma. Zato takva obveza općenito ostaje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a4.ad2": {
+      "text": "Na drugo treba reći da su se u Starom zakonu prvine prinosile ne samo zbog dobročinstva obećane zemlje koju je Bog dao, nego i zbog dobročinstva plodova zemlje koje je Bog dao. Stoga se kaže u Pnz 26: *prinosim prvine plodova zemlje koje mi je dao Gospodin Bog*. A taj je drugi razlog zajednički svima. Može se reći i to da je Bog, kao što je posebnim dobročinstvom darovao obećanu zemlju, tako općim dobročinstvom cijelom ljudskom rodu darovao gospodstvo nad zemljom, prema onome iz Psalma: *zemlju je dao sinovima ljudskim*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q86.a4.ad3": {
+      "text": "Na treće treba reći da je, kako kaže Jeronim, *predajom starijih uvedeno da su oni koji su davali najviše davali svećenicima četrdeseti dio umjesto prvina, a oni koji su davali najmanje šezdeseti*. Stoga se čini da prvine treba prinositi unutar tih granica, prema običaju kraja. Ipak, s razlogom količina prvina nije bila određena u Zakonu, jer se, kako je rečeno, prvine daju na način prinosa, a pojmu prinosa pripada da bude voljan.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    }
+  }
+}

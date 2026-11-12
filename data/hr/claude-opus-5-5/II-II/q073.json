@@ -1,0 +1,216 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 73,
+  "units": {
+    "II-II.q73.pr": {
+      "text": "Zatim treba razmotriti ogovaranje. I o tome se pitaju četiri stvari. Prvo, što je ogovaranje. Drugo, je li ono smrtni grijeh. Treće, o njegovoj usporedbi s drugim grijesima. Četvrto, griješi li netko slušajući ogovaranje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da ogovaranje nije ocrnjivanje tuđega dobrog glasa skrivenim riječima, kako ga neki definiraju. Skriveno i očito su, naime, okolnosti koje ne tvore vrstu grijeha, jer je za grijeh akcidentalno zna li za nj mnogo ljudi ili malo njih. A ono što ne tvori vrstu grijeha ne pripada njegovu pojmu i ne treba se stavljati u njegovu definiciju. Dakle, pojmu ogovaranja ne pripada to da se čini skrivenim riječima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a1.obj2": {
+      "text": "Osim toga, pojmu dobrog glasa pripada javno poznavanje. Ako se, dakle, ogovaranjem ocrnjuje nečiji dobar glas, to se neće moći činiti skrivenim riječima, nego riječima izrečenima javno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a1.obj3": {
+      "text": "Osim toga, ogovara (detrahit) onaj tko nešto oduzima ili umanjuje od onoga što jest. Ali katkad se nečiji dobar glas ocrnjuje iako se ništa ne oduzima od istine, primjerice kad netko razotkriva nečije istinite zločine. Dakle, nije svako ocrnjivanje dobrog glasa ogovaranje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Prop 10: *Ako zmija ugrize u tišini, ništa nije bolji onaj koji potajno ogovara.* Dakle, potajno grizti nečiji dobar glas znači ogovarati.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a1.resp": {
+      "text": "Odgovaram: treba reći da, kao što netko djelom drugome šteti na dva načina – očito, kao u otimačini ili bilo kojem nanesenom nasilju, a skriveno, kao u krađi i podmuklom udarcu – tako i riječju netko nekoga vrijeđa na dva načina. Na jedan način javno, i to se čini pogrdom, kao što je gore rečeno; na drugi način skriveno, i to se čini ogovaranjem. Time što netko očito izgovara riječi protiv drugoga, čini se da ga malo cijeni, pa se upravo time on obeščašćuje; i zato pogrda nanosi štetu časti onoga protiv koga se izriče. Ali tko izgovara riječi protiv nekoga u skrovitosti, čini se da ga se više boji nego što ga malo cijeni; zato ne nanosi izravno štetu časti, nego dobrom glasu, utoliko što, izgovarajući takve riječi skriveno, koliko je do njega, čini da oni koji slušaju steknu loše mišljenje o onome protiv koga govori. Čini se, naime, da ogovaratelj to smjera i za tim teži: da se povjeruje njegovim riječima. Stoga je jasno da se ogovaranje razlikuje od pogrde na dva načina. Na jedan način, s obzirom na način iznošenja riječi: pogrditelj, naime, govori protiv nekoga očito, a ogovaratelj skriveno. Na drugi način, s obzirom na smjeranu svrhu, odnosno s obzirom na nanesenu štetu: pogrditelj, naime, umanjuje čast, a ogovaratelj dobar glas.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da u protuvoljnim razmjenama, na koje se svode sve štete nanesene bližnjemu riječju ili djelom, skriveno i očito čine razliku u pojmu grijeha, jer je jedan pojam protuvoljnoga po nasilju, a drugi po neznanju, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a1.ad2": {
+      "text": "Na drugo treba reći da se riječi ogovaranja nazivaju skrivenima ne naprosto, nego u usporedbi s onim o kome se govore, jer se govore kad je on odsutan i ne zna za to. Pogrditelj pak govori protiv čovjeka u lice. Stoga, ako netko govori loše o drugome pred mnogima dok je on odsutan, to je ogovaranje; a ako je prisutan samo on, to je pogrda. Ipak, čak i ako netko govori zlo o odsutnome samo jednome čovjeku, kvari njegov dobar glas, ne u cijelosti, nego djelomično.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a1.ad3": {
+      "text": "Na treće treba reći da se za nekoga kaže da ogovara (detrahere) ne zato što umanjuje istinu, nego zato što umanjuje nečiji dobar glas. To se katkad čini izravno, a katkad neizravno. Izravno na četiri načina: prvo, kad drugome pripisuje nešto lažno; drugo, kad svojim riječima uvećava grijeh; treće, kad otkriva ono što je skriveno; četvrto, kad za ono što je dobro kaže da je učinjeno sa zlom nakanom. Neizravno pak ili niječući drugome dobro, ili zlonamjerno prešućujući.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ogovaranje nije smrtni grijeh. Nijedan čin kreposti, naime, nije smrtni grijeh. Ali otkriti skriveni grijeh, što, kao što je rečeno, pripada ogovaranju, čin je kreposti: ili ljubavi, kad netko prijavljuje bratov grijeh smjerajući na njegovo popravljanje, ili pak pravednosti, kad netko optužuje brata. Dakle, ogovaranje nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a2.obj2": {
+      "text": "Osim toga, uz ono iz Izr 24, *Ne miješaj se s ogovarateljima*, Glosa kaže: *Ovim se porokom osobito izlaže pogibli sav ljudski rod.* Ali nijedan se smrtni grijeh ne nalazi u svem ljudskom rodu, jer se mnogi suzdržavaju od smrtnoga grijeha, a laki su grijesi oni koji se nalaze u svima. Dakle, ogovaranje je laki grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a2.obj3": {
+      "text": "Osim toga, Augustin u homiliji o čistilišnom ognju među sitne grijehe ubraja to kad posve lako ili nepromišljeno zlo govorimo, što pripada ogovaranju. Dakle, ogovaranje je laki grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Rim 1: *ogovaratelji, mrski Bogu*, što je dodano zato, kako kaže Glosa, *da se ne bi smatralo lakim zbog toga što se sastoji u riječima*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, grijehe riječi treba ponajviše prosuđivati prema nakani onoga koji govori. A ogovaranje je po svojem pojmu usmjereno na ocrnjivanje nečijeg dobrog glasa. Stoga, govoreći po sebi, ogovara onaj tko o nekome dok je odsutan govori protiv njega zato da mu ocrni dobar glas. A oduzeti nekome dobar glas vrlo je teško, jer se čini da je među vremenitim stvarima dobar glas dragocjeniji, a kad ga nema, čovjek je spriječen u mnogim dobrim djelima. Zbog toga se kaže u Sir 41: *Brini se za dobro ime, jer će ti ono ostati dulje nego tisuću velikih i dragocjenih blaga.* I zato je ogovaranje, govoreći po sebi, smrtni grijeh. Ipak se katkad događa da netko izgovori neke riječi kojima se umanjuje nečiji dobar glas, ne smjerajući na to, nego na nešto drugo. To pak nije ogovaranje govoreći po sebi i formalno, nego samo tvarno i kao akcidentalno. I ako netko izgovara riječi kojima se umanjuje dobar glas drugoga radi nekog dobra ili nečeg nužnog, poštujući dužne okolnosti, to nije grijeh i ne može se nazvati ogovaranjem. Ako ih pak izgovara iz lakoumnosti ili radi nečeg što nije nužno, to nije smrtni grijeh, osim možda ako je riječ koja se kaže toliko teška da znatno povrjeđuje nečiji dobar glas, osobito u onome što se tiče čestitosti života; jer to već po samom rodu riječi ima pojam smrtnoga grijeha. I čovjek je dužan vratiti dobar glas, kao što je dužan vratiti bilo koju oduzetu stvar, na način koji je gore rečen kad se raspravljalo o povratu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da otkriti nečiji skriveni grijeh prijavljujući ga radi njegova popravljanja ili optužujući radi dobra javne pravednosti nije ogovaranje, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a2.ad2": {
+      "text": "Na drugo treba reći da ona Glosa ne kaže da se ogovaranje nalazi u svem ljudskom rodu, nego dodaje: gotovo. Bilo zato što je bezbroj ludih, a malo je onih koji hode putem spasenja; bilo i zato što je malo ili nimalo onih koji katkad iz lakoumnosti ne kažu nešto čime se u nečemu, makar lako, umanjuje dobar glas drugoga, jer, kako se kaže u Jak 3, *Tko ne griješi u riječi, savršen je čovjek.*",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a2.ad3": {
+      "text": "Na treće treba reći da Augustin govori o slučaju kad netko o drugome kaže neko lako zlo ne s nakanom da naškodi, nego iz lakoumnosti ili zbog omaknuća jezika.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je ogovaranje teže od svih grijeha koji se čine protiv bližnjega. Jer uz ono iz Psalma, *Umjesto da me ljube, ogovarali su me*, Glosa kaže: *Više štete oni koji ogovaraju Krista u njegovim udovima, jer ubijaju duše onih koji će povjerovati, nego oni koji su usmrtili njegovo tijelo, koje je imalo uskoro uskrsnuti.* Iz toga se čini da je ogovaranje teži grijeh od ubojstva, onoliko koliko je teže ubiti dušu nego ubiti tijelo. A ubojstvo je najteže među ostalim grijesima koji se čine protiv bližnjega. Dakle, ogovaranje je naprosto najteže od svih.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a3.obj2": {
+      "text": "Osim toga, čini se da je ogovaranje teži grijeh od pogrde, jer pogrdu čovjek može odbiti, a skriveno ogovaranje ne može. Ali čini se da je pogrda veći grijeh od preljuba, time što preljub sjedinjuje dvoje u jedno tijelo, a pogrda dijeli na mnoge one koji su sjedinjeni. Dakle, ogovaranje je veći grijeh od preljuba, koji ipak među ostalim grijesima protiv bližnjega ima veliku težinu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a3.obj3": {
+      "text": "Osim toga, pogrda se rađa iz srdžbe, a ogovaranje iz zavisti, kao što je jasno iz Grgura, u XXXI. knjizi Moralija. Ali zavist je veći grijeh od srdžbe. Dakle, i ogovaranje je veći grijeh od pogrde. I tako slijedi isto što i prije.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a3.obj4": {
+      "text": "Osim toga, neki je grijeh to teži što uzrokuje teži nedostatak. Ali ogovaranje uzrokuje najteži nedostatak, to jest zasljepljenje duha. Grgur, naime, kaže: *Što drugo čine ogovaratelji nego da pušu u prah i dižu sebi zemlju u oči, tako da što više ogovaranja ispušu, to manje istine vide?* Dakle, ogovaranje je najteži grijeh među onima koji se čine protiv bližnjega.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a3.sc": {
+      "text": "Ali protiv toga: teže je griješiti djelom nego riječju. Ali ogovaranje je grijeh riječi, a preljub, ubojstvo i krađa grijesi su u djelima. Dakle, ogovaranje nije teže od ostalih grijeha protiv bližnjega.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a3.resp": {
+      "text": "Odgovaram: treba reći da grijehe koji se čine protiv bližnjega po sebi treba odmjeravati prema štetama koje se nanose bližnjemu, jer odatle imaju pojam krivnje. A šteta je to veća što se oduzima veće dobro. Budući da je čovjekovo dobro trostruko, naime dobro duše, dobro tijela i dobro vanjskih stvari, dobro duše, koje je najveće, ne može nekome oduzeti drugi osim prigodno, primjerice zlim nagovaranjem, koje ne nameće nužnost; a druga dva dobra, naime dobro tijela i dobro vanjskih stvari, drugi može nasilno oduzeti. A budući da dobro tijela nadmašuje dobro vanjskih stvari, teži su grijesi kojima se nanosi šteta tijelu nego oni kojima se nanosi šteta vanjskim stvarima. Stoga je među ostalim grijesima protiv bližnjega najteže ubojstvo, kojim se oduzima život bližnjega koji već postoji u činu; zatim preljub, koji je protiv dužnoga reda ljudskoga rađanja, kojim se ulazi u život. Zatim dolaze vanjska dobra. Među njima dobar glas nadmašuje bogatstvo, jer je bliži duhovnim dobrima; zato se kaže u Izr 22: *Bolje je dobro ime nego veliko bogatstvo.* I zato je ogovaranje po svojem rodu veći grijeh od krađe, ali manji od ubojstva ili preljuba. Ipak, može biti i drugačiji red zbog otežavajućih ili olakšavajućih okolnosti. Akcidentalno pak težina grijeha promatra se sa strane onoga koji griješi: on teže griješi ako griješi promišljeno nego ako griješi iz slabosti ili nepažnje. I prema tome grijesi govora imaju neku lakoću, utoliko što lako proizlaze iz omaknuća jezika, bez velikoga promišljanja unaprijed.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da oni koji ogovaraju Krista, priječeći vjeru njegovih udova, umanjuju njegovo božanstvo, na koje se vjera oslanja. Stoga to nije jednostavno ogovaranje, nego bogohulstvo.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a3.ad2": {
+      "text": "Na drugo treba reći da je pogrda teži grijeh od ogovaranja utoliko što sadrži veći prezir prema bližnjemu, kao što je i otimačina teži grijeh od krađe, kao što je gore rečeno. Ipak, pogrda nije teži grijeh od preljuba, jer se težina preljuba ne odmjerava po sjedinjenju tijela, nego po neredu u ljudskom rađanju. Pogrditelj pak ne uzrokuje dostatno neprijateljstvo u drugome, nego sjedinjene dijeli samo prigodno, naime utoliko što time što iznosi zla drugoga, koliko je do njega, odvaja druge od prijateljstva s njim, iako ih njegove riječi na to ne prisiljavaju. Tako je i ogovaratelj prigodno ubojica, naime utoliko što svojim riječima daje drugome povod da mrzi ili prezire bližnjega. Zbog toga se u Klementovoj poslanici kaže da su ogovaratelji ubojice, naime prigodno, *jer tko mrzi brata svojega, ubojica je*, kako se kaže u 1 Iv 3.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a3.ad3": {
+      "text": "Na treće treba reći da, budući da srdžba traži da osvetu izvrši očito, kako kaže Filozof u II. knjizi Retorike, ogovaranje, koje je skriveno, nije kći srdžbe kao pogrda, nego prije zavisti, koja nastoji na bilo koji način umanjiti slavu bližnjega. Ipak iz toga ne slijedi da je ogovaranje teže od pogrde, jer iz manjega poroka može nastati veći grijeh, kao što se iz srdžbe rađaju ubojstvo i bogohulstvo. Podrijetlo se grijeha, naime, promatra prema sklonosti prema svrsi, što je sa strane okretanja, a težina se grijeha više promatra sa strane odvraćanja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a3.ad4": {
+      "text": "Na četvrto treba reći da, budući da se čovjek raduje presudi svojih usta, kako se kaže u Izr 15, odatle dolazi da onaj koji ogovara počinje više ljubiti i vjerovati ono što govori, i posljedično više mrziti bližnjega, i tako se više udaljavati od spoznaje istine. Ipak, taj učinak može slijediti i iz drugih grijeha koji pripadaju mržnji prema bližnjemu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da slušatelj koji podnosi ogovaratelja ne griješi teško. Nitko, naime, nije više dužan drugome nego samome sebi. Ali hvalevrijedno je ako čovjek strpljivo podnosi svoje ogovaratelje; Grgur, naime, kaže u IX. homiliji o Ezekijelu: *Jezike ogovaratelja, kao što ne smijemo svojim nastojanjem raspirivati da oni ne propadnu, tako ih, kad su raspireni njihovom zloćom, moramo mirne duše podnositi, da nam raste zasluga.* Dakle, ne griješi onaj tko se ne opire ogovaranjima drugih.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a4.obj2": {
+      "text": "Osim toga, u Sir 4 kaže se: *Ni na koji način ne proturječi riječi istine.* Ali katkad netko ogovara govoreći riječi istine, kao što je gore rečeno. Dakle, čini se da čovjek nije uvijek dužan opirati se ogovaranjima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a4.obj3": {
+      "text": "Osim toga, nitko ne smije priječiti ono što je na korist drugima. Ali ogovaranje je često na korist onima protiv kojih se ogovara; papa Pio, naime, kaže: *Katkad se ogovaranje podiže protiv dobrih, da ogovaranje ponizi one koje je ili ulagivanje ukućana ili naklonost drugih uzdiglo u visinu.* Dakle, nitko ne smije priječiti ogovaranja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Jeronim: *Čuvaj se da ti jezik ili uši ne svrbe, ili da druge ogovaraš, ili da slušaš druge kako ogovaraju.*",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a4.resp": {
+      "text": "Odgovaram: treba reći da su, prema Apostolu u Rim 1, *dostojni smrti ne samo oni koji čine grijehe, nego i oni koji pristaju uz one koji čine grijehe*. To se događa na dva načina. Na jedan način izravno, naime kad netko navodi drugoga na grijeh ili mu se grijeh sviđa. Na drugi način neizravno, naime kad mu se ne opire iako bi se mogao oprijeti, a to se katkad događa ne zato što se grijeh sviđa, nego zbog nekog ljudskog straha. Treba, dakle, reći da onaj tko sluša ogovaranja bez opiranja izgleda da pristaje uz ogovaratelja, pa postaje dionikom njegova grijeha. I ako ga navodi da ogovara, ili mu se barem ogovaranje sviđa zbog mržnje prema onome koga se ogovara, ne griješi manje od onoga koji ogovara, a katkad i više. Stoga Bernard kaže: *Ogovarati ili slušati ogovaratelja – ne bih lako rekao što je od toga dvoga više za osudu.* Ako mu se pak grijeh ne sviđa, nego iz straha ili nemara ili pak iz nekog stida propušta odbiti ogovaratelja, griješi doduše, ali mnogo manje nego onaj koji ogovara, i većinom lako. Katkad to može biti i smrtni grijeh: ili zato što je nekome po službi dužnost opomenuti ogovaratelja, ili zbog neke opasnosti koja slijedi, ili zbog korijena, budući da ljudski strah katkad može biti smrtni grijeh, kao što je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da nitko ne sluša ogovaranja protiv sebe, jer zla koja se govore o nekome dok on sluša nisu, u vlastitom smislu govoreći, ogovaranja, nego pogrde, kao što je rečeno. Ipak, ogovaranja izrečena protiv nekoga mogu doprijeti do njegova znanja preko pričanja drugih. I tada je na njegovoj volji hoće li trpjeti štetu svojem dobrom glasu, osim ako to ne prijeti opasnošću drugima, kao što je gore rečeno. I zato se u tome može pohvaliti njegova strpljivost, što strpljivo podnosi ogovaranja protiv sebe. Ali nije na njegovoj volji hoće li trpjeti štetu dobrom glasu drugoga. I zato mu se uračunava u krivnju ako se ne opire, iako se može oprijeti, iz istog razloga iz kojega je netko dužan podići tuđega magarca koji leži pod teretom, kako se zapovijeda u Pnz 22.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a4.ad2": {
+      "text": "Na drugo treba reći da se čovjek ne mora uvijek oprijeti ogovaratelju dokazujući mu laž, osobito ako zna da je istina ono što se govori. Ali ga mora riječima ukoriti zbog toga što griješi ogovarajući brata, ili barem žalosnim licem pokazati da mu se ogovaranje ne sviđa; jer, kako se kaže u Izr 25, *Sjeverac rastjeruje kiše, a žalosno lice jezik koji ogovara.*",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    },
+    "II-II.q73.a4.ad3": {
+      "text": "Na treće treba reći da korist koja proizlazi iz ogovaranja nije od nakane onoga koji ogovara, nego od Božjega uređenja, koji iz bilo kojega zla izvlači dobro. I zato se ništa manje treba opirati ogovarateljima, kao i otimačima ili tlačiteljima drugih, iako time potlačenima ili opljačkanima po strpljivosti raste zasluga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:08+00:00"
+    }
+  }
+}

@@ -1,0 +1,894 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 83,
+  "units": {
+    "II-II.q83.pr": {
+      "text": "Zatim valja razmotriti molitvu. I o tome se postavlja sedamnaest pitanja. Prvo, je li molitva čin težnjene ili spoznajne snage. Drugo, je li prikladno moliti. Treće, je li molitva čin bogoštovlja (religije). Četvrto, treba li moliti samo Boga. Peto, treba li u molitvi tražiti nešto određeno. Šesto, trebamo li moleći tražiti vremenita dobra. Sedmo, trebamo li moliti za druge. Osmo, trebamo li moliti za neprijatelje. Deveto, o sedam prošnji molitve Gospodnje. Deseto, je li moliti vlastito razumskom stvoru. Jedanaesto, mole li sveti u domovini za nas. Dvanaesto, treba li molitva biti glasna. Trinaesto, zahtijeva li se za molitvu pozornost. Četrnaesto, treba li molitva biti dugotrajna. Petnaesto, je li molitva djelotvorna da se isprosi ono što se traži. Šesnaesto, je li zaslužna. Sedamnaesto, o vrstama molitve.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je molitva čin težnjene snage. Molitvi, naime, pripada da bude uslišana. Ali ono što Bog uslišava jest želja, prema onome iz Psalma: *Gospodin je uslišao želju siromaha*. Dakle, molitva je želja. A želja je čin težnjene snage. Dakle, i molitva.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a1.obj2": {
+      "text": "Osim toga, Dionizije kaže u III. poglavlju O božanskim imenima: *korisno je prije svega započeti molitvom, kao oni koji sami sebe predaju Bogu i s njim se sjedinjuju*. Ali sjedinjenje s Bogom događa se po ljubavi, koja pripada težnjenoj sili. Dakle, molitva pripada težnjenoj sili.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a1.obj3": {
+      "text": "Osim toga, Filozof u III. knjizi O duši postavlja dva djelovanja umskog dijela: prvo je od njih shvaćanje nedjeljivoga, po kojemu, naime, o svakoj stvari zahvaćamo što jest; drugo je pak sastavljanje i rastavljanje, po kojemu se, naime, zahvaća da nešto jest ili nije. Njima se dodaje treće, rasuđivati, naime napredujući od poznatoga k nepoznatome. Ali molitva se ne svodi ni na jedno od tih djelovanja. Dakle, nije čin umske snage, nego težnjene.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Izidor u knjizi Etimologija, da je moliti isto što i govoriti. A govor pripada umu. Dakle, molitva nije čin težnjene snage, nego umske.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a1.resp": {
+      "text": "Odgovaram: treba reći da se, prema Kasiodoru, molitva (oratio) naziva takoreći oris ratio (razum usta). A spekulativni i praktični razum razlikuju se u tome što spekulativni razum stvari samo zahvaća, dok ih praktični razum ne samo zahvaća nego i uzrokuje. A nešto je uzrok drugoga na dva načina. Na jedan način savršeno, uvodeći nužnost; i to se događa kad je učinak potpuno podložan vlasti uzroka. Na drugi način nesavršeno, samo pripravljajući, kad, naime, učinak nije potpuno podložan vlasti uzroka. Tako je, dakle, i razum na dva načina uzrok nekih stvari. Na jedan način kao onaj koji nameće nužnost; i na taj način razumu pripada zapovijedati ne samo nižim moćima i udovima tijela nego i ljudima koji su mu podložni, što se, dakako, događa zapovijedanjem. Na drugi način kao onaj koji navodi i na neki način pripravlja; i na taj način razum traži da nešto učine oni koji mu nisu podložni, bilo da su mu jednaki bilo nadređeni. A i jedno i drugo od toga, naime zapovijedati i tražiti ili usrdno moliti, uključuje neko usmjeravanje, ukoliko, naime, čovjek određuje da nešto bude učinjeno po nekome drugome. Zato pripadaju razumu, kojemu je svojstveno usmjeravati; zbog toga Filozof kaže u I. knjizi Etike da razum usrdno moli za ono što je najbolje. Tako sada govorimo o molitvi ukoliko ona označuje neku usrdnu molbu ili prošnju, kao što Augustin kaže u knjizi O riječima Gospodnjim da je molitva neka prošnja; i Damaščanin kaže u III. knjizi da je molitva prošnja od Boga za ono što je dolično. Tako je, dakle, jasno da je molitva o kojoj sada govorimo čin razuma.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se kaže da Gospodin uslišava želju siromaha ili zato što je želja uzrok traženja, budući da je prošnja na neki način tumač želje; ili se to kaže da bi se pokazala brzina uslišanja, jer, naime, Bog uslišava dok je nešto još samo u želji siromaha, prije nego što iznesu molitvu, prema onome iz Iz 65: *I bit će: prije nego što zazovu, ja ću uslišati*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a1.ad2": {
+      "text": "Na drugo treba reći da, kao što je gore rečeno, volja pokreće razum prema svojoj svrsi. Zato ništa ne priječi da čin razuma, kad ga volja pokreće, teži prema svrsi ljubavi, a to je sjediniti se s Bogom. A molitva teži prema Bogu, kao pokrenuta voljom ljubavi, na dva načina. Na jedan način s obzirom na ono što se traži, jer u molitvi treba prije svega tražiti to da se sjedinimo s Bogom, prema onome iz Psalma: *Jedno sam zatražio od Gospodina, to ću iskati: da prebivam u domu Gospodnjem sve dane života svoga*. Na drugi način s obzirom na samoga onoga koji traži, koji mora pristupiti onome od koga traži: ili mjestom, kao čovjeku, ili duhom, kao Bogu. Zato on ondje kaže: *kad molitvama zazivamo Boga, otkrivena smo duha pred njim*. I u tom smislu i Damaščanin kaže da je *molitva uzlaženje uma k Bogu*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a1.ad3": {
+      "text": "Na treće treba reći da ta tri čina pripadaju spekulativnom razumu. Ali praktičnom razumu nadalje pripada nešto uzrokovati na način zapovijedanja ili na način prošnje, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nije prikladno moliti. Čini se, naime, da je molitva potrebna zato da onome od koga tražimo damo do znanja ono što nam je potrebno. Ali, kao što se kaže u Mt 6, *zna Otac vaš da vam je to potrebno*. Dakle, nije prikladno moliti Boga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a2.obj2": {
+      "text": "Osim toga, molitvom se prigiba duh onoga koga se moli da učini ono što se od njega traži. Ali Božji je duh nepromjenljiv i neprigibljiv, prema onome iz 1 Sam 15: *Pobjednik u Izraelu neće poštedjeti niti će se kajanjem prignuti*. Dakle, nije prikladno da molimo Boga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a2.obj3": {
+      "text": "Osim toga, darežljivije je dati nešto onome tko ne traži nego onome tko traži, jer, kao što kaže Seneka, *nijedna se stvar ne kupuje skuplje od one koja je kupljena molbama*. Ali Bog je najdarežljiviji. Dakle, ne čini se prikladnim da molimo Boga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Lk 18: *treba moliti i ne sustajati*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a2.resp": {
+      "text": "Odgovaram: treba reći da je u starih bila trostruka zabluda o molitvi. Neki su, naime, postavljali da ljudskim stvarima ne upravlja Božja providnost. Iz toga slijedi da je uzaludno moliti i uopće štovati Boga. I o njima se kaže u Mal 3: *Rekoste: Uzaludan je onaj koji služi Bogu*. Drugo je bilo mišljenje onih koji su postavljali da se sve, i u ljudskim stvarima, događa iz nužnosti, bilo zbog nepromjenljivosti Božje providnosti, bilo zbog nužnosti zvijezda, bilo zbog povezanosti uzroka. I prema njima se također isključuje korisnost molitve. Treće je bilo mišljenje onih koji su doduše postavljali da ljudskim stvarima upravlja Božja providnost i da ljudske stvari ne proizlaze iz nužnosti, ali su isto tako govorili da je raspored Božje providnosti promjenljiv i da se molitvama i drugim stvarima koje pripadaju štovanju Boga raspored Božje providnosti mijenja. A sve je to opovrgnuto u Prvom dijelu. I zato korisnost molitve treba tako uvesti da niti ljudskim stvarima, koje su podložne Božjoj providnosti, nametnemo nužnost, niti smatramo da je Božji raspored promjenljiv. Da bi to bilo jasno, treba, dakle, razmotriti da se Božjom providnošću ne raspoređuje samo koji će učinci nastati, nego i iz kojih će uzroka i kojim redom proizaći. A među ostalim uzrocima i ljudski su čini uzroci nekih stvari. Zato ljudi moraju nešto činiti, ne da bi svojim činima promijenili Božji raspored, nego da bi svojim činima ostvarili neke učinke prema redu koji je Bog rasporedio. I isto je tako i s naravnim uzrocima. A slično je i s molitvom. Ne molimo, naime, zato da bismo promijenili Božji raspored, nego da bismo isprosili ono što je Bog rasporedio da se ostvari po molitvama svetih, *to jest, da bi ljudi moleći zaslužili primiti ono što im je svemogući Bog prije vjekova odredio darovati*, kako kaže Grgur u knjizi Dijaloga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da nije potrebno da Bogu upućujemo molbe kako bismo mu očitovali svoje potrebe ili želje, nego zato da bismo sami razmotrili da u tim stvarima treba pribjeći Božjoj pomoći.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a2.ad2": {
+      "text": "Na drugo treba reći da, kao što je rečeno, naša molitva nije usmjerena prema promjeni Božjeg rasporeda, nego prema tome da se našim molbama postigne ono što je Bog rasporedio.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a2.ad3": {
+      "text": "Na treće treba reći da nam Bog iz svoje darežljivosti daje mnogo toga i kad to ne tražimo. A to što nam nešto hoće dati kad tražimo, to je radi naše koristi, naime da steknemo neko pouzdanje da se utječemo Bogu i da priznamo da je on začetnik naših dobara. Zato Zlatousti kaže: *Promotri kolika ti je sreća dana, kolika slava udijeljena: molitvama razgovarati s Bogom, s Kristom voditi razgovore, željeti što hoćeš, tražiti što želiš*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da molitva nije čin bogoštovlja (religije). Bogoštovlje je, naime, budući da je dio pravednosti, u volji kao u subjektu. Ali molitva pripada umskom dijelu, kao što je jasno iz rečenoga. Dakle, čini se da molitva nije čin bogoštovlja, nego dara razuma, po kojemu se duh uzdiže k Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a3.obj2": {
+      "text": "Osim toga, čin latrije potpada pod nužnost zapovijedi. Ali čini se da molitva ne potpada pod nužnost zapovijedi, nego da proizlazi iz puke volje, budući da nije ništa drugo nego prošnja za ono što se hoće. Dakle, čini se da molitva nije čin bogoštovlja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a3.obj3": {
+      "text": "Osim toga, čini se da bogoštovlju pripada to da netko *božanskoj naravi prinosi štovanje i obred*. Ali čini se da molitva Bogu ništa ne prinosi, nego radije od njega traži nešto što treba postići. Dakle, molitva nije čin bogoštovlja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu: *Neka se molitva moja upravi kao kad pred lice tvoje*, gdje Glosa kaže: *kao predslika toga govorilo se da se u Starom zakonu kad prinosi Gospodinu na ugodan miris*. A to pripada bogoštovlju. Dakle, molitva je čin bogoštovlja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, bogoštovlju u vlastitom smislu pripada iskazivati Bogu poštovanje i čast. I zato sve ono po čemu se Bogu iskazuje poštovanje pripada bogoštovlju. A po molitvi čovjek iskazuje Bogu poštovanje, ukoliko mu se, naime, podlaže i moleći priznaje da ga treba kao začetnika svojih dobara. Zato je očito da je molitva u vlastitom smislu čin bogoštovlja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da volja pokreće druge moći duše prema svojoj svrsi, kao što je gore rečeno. I zato bogoštovlje, koje je u volji, usmjerava čine drugih moći prema poštovanju Boga. A među drugim moćima duše um je viši i volji bliži. I zato je nakon predanosti, koja pripada samoj volji, molitva, koja pripada umskom dijelu, najvažnija među činima bogoštovlja; po njoj bogoštovlje pokreće čovjekov um prema Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a3.ad2": {
+      "text": "Na drugo treba reći da pod zapovijed ne potpada samo tražiti ono što želimo, nego i ispravno nešto željeti. Ali željeti potpada pod zapovijed ljubavi, a tražiti pod zapovijed bogoštovlja. Ta je zapovijed postavljena u Mt 7, gdje se kaže: *Tražite, i primit ćete*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a3.ad3": {
+      "text": "Na treće treba reći da moleći čovjek predaje Bogu svoj duh, koji mu iz poštovanja podlaže i na neki način prikazuje, kao što je jasno iz prije navedenog Dionizijeva autoriteta. I zato, kao što ljudski duh nadilazi vanjske ili tjelesne udove ili vanjske stvari koje se primjenjuju na služenje Bogu, tako i molitva nadilazi druge čine bogoštovlja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da treba moliti samo Boga. Molitva je, naime, čin bogoštovlja (religije), kao što je rečeno. Ali samo Boga treba štovati bogoštovljem. Dakle, samo Boga treba moliti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a4.obj2": {
+      "text": "Osim toga, uzalud se upravlja molitva onome tko molitvu ne spoznaje. Ali samo je Bogu svojstveno spoznavati molitvu. Kako zato što se molitva većinom više vrši unutarnjim činom, koji samo Bog spoznaje, nego glasom, prema onome što Apostol kaže u 1 Kor 14: Molit ću duhom, molit ću i pameću; tako i zato što, kako kaže Augustin u knjizi O brizi za mrtve, *mrtvi, pa i sveti, ne znaju što čine živi, pa ni njihovi sinovi*. Dakle, molitvu treba upravljati samo Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a4.obj3": {
+      "text": "Osim toga, ako nekim svetima upravljamo molitvu, to je samo ukoliko su sjedinjeni s Bogom. Ali neki koji žive na ovom svijetu, ili su čak u čistilištu, uvelike su sjedinjeni s Bogom po milosti. A njima se ne upravlja molitva. Dakle, ni svetima koji su u raju ne trebamo upravljati molitvu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Job 5: *Zovi, ima li tko da ti odgovori, i obrati se nekome od svetih*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a4.resp": {
+      "text": "Odgovaram: treba reći da se molitva nekome upravlja na dva načina: na jedan način kao ono što će on sam ispuniti; na drugi način kao ono što će se po njemu isprositi. Na prvi način upravljamo molitvu samo Bogu, jer sve naše molitve moraju biti usmjerene prema postizanju milosti i slave, koje daje samo Bog, prema onome iz Psalma: *Milost i slavu dat će Gospodin*. Ali na drugi način upravljamo molitvu svetim anđelima i ljudima, ne da bi po njima Bog spoznao naše prošnje, nego da bi po njihovim molbama i zaslugama naše molitve postigle učinak. I zato se kaže u Otk 8 da se *dim mirisa, to jest molitve svetih, uzdigao iz ruke anđela pred Gospodina*. I to je također jasno iz samog načina kojim se Crkva služi u molitvi. Jer od Svetoga Trojstva tražimo da nam se smiluje, a od bilo kojih drugih svetih tražimo da mole za nas.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da bogoštovno štovanje moleći iskazujemo samo onome od koga nastojimo postići ono što molimo, jer time očitujemo da je on začetnik naših dobara; ali ne onima koje molimo kao svoje zagovornike kod Boga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a4.ad2": {
+      "text": "Na drugo treba reći da mrtvi, s obzirom na svoje naravno stanje, ne spoznaju ono što se zbiva na ovom svijetu, a osobito ne unutarnje pokrete srca. Ali blaženima se, kako kaže Grgur u XII. knjizi Moralija, u Riječi očituje ono što im dolikuje spoznati od onoga što se zbiva oko nas, i to s obzirom na unutarnje pokrete srca. A ponajviše dolikuje njihovoj uzvišenosti da spoznaju prošnje koje su im upućene bilo glasom bilo srcem. I zato prošnje koje im upravljamo spoznaju kad ih Bog očituje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a4.ad3": {
+      "text": "Na treće treba reći da oni koji su na ovom svijetu ili u čistilištu još ne uživaju gledanje Riječi, tako da bi mogli spoznati ono što mislimo ili govorimo. I zato njihov zagovor ne zazivamo moleći, nego ga od živih tražimo razgovarajući s njima.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da u molitvi ne trebamo od Boga tražiti ništa određeno. Jer, kako kaže Damaščanin, *molitva je prošnja od Boga za ono što je dolično*. Zato je nedjelotvorna molitva kojom se traži ono što ne koristi, prema onome iz Jak 4: *Tražite i ne primate, jer zlo tražite*. Ali, kao što se kaže u Rim 8: *Što da molimo kako treba, ne znamo*. Dakle, ne trebamo moleći tražiti ništa određeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a5.obj2": {
+      "text": "Osim toga, tko god od drugoga traži nešto određeno, nastoji njegovu volju nakloniti da učini ono što on sam hoće. A ne trebamo težiti tome da Bog hoće ono što mi hoćemo, nego radije tome da mi hoćemo ono što Bog hoće, kako kaže Glosa uz ono iz Psalma: *Kličite, pravednici, u Gospodinu*. Dakle, ne trebamo od Boga tražiti ništa određeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a5.obj3": {
+      "text": "Osim toga, zlo ne treba tražiti od Boga, a na dobra nas sam Bog poziva. A uzalud se od nekoga traži ono što smo pozvani primiti. Dakle, ne treba u molitvi od Boga tražiti ništa određeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a5.sc": {
+      "text": "Ali protiv toga je to što je Gospodin, u Mt 6 i Lk 11, poučio učenike da određeno traže ono što je sadržano u prošnjama molitve Gospodnje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a5.resp": {
+      "text": "Odgovaram: treba reći da je, kako izvješćuje Valerije Maksim, *Sokrat smatrao da od besmrtnih bogova ne treba tražiti ništa više osim da daju dobra, jer jedino oni znaju što je kome korisno; a mi u svojim željama većinom tražimo ono što bi bilo bolje da nismo isprosili*. To je mišljenje donekle istinito s obzirom na ono što može imati loš ishod i čime se čovjek može služiti i loše i dobro, kao što je bogatstvo, koje je, kako se ondje kaže, *mnogima bilo na propast; časti, koje su mnoge upropastile; kraljevstva, čiji se ishodi često vide bijednima; sjajne ženidbe, koje katkad do temelja ruše kuće*. Ima ipak nekih dobara kojima se čovjek ne može loše služiti, naime onih koja ne mogu imati loš ishod. A to su ona kojima postajemo blaženi i kojima zaslužujemo blaženstvo. Njih sveti moleći traže bezuvjetno, prema onome: *Pokaži lice svoje i bit ćemo spašeni*; i opet: *Povedi me stazom svojih zapovijedi*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda čovjek sam od sebe ne može znati što treba moliti, Duh ipak, kako se ondje kaže, pomaže našoj slabosti u tome što nas, nadahnjujući nam svete želje, navodi da ispravno tražimo. Zato Gospodin kaže u Iv 4 da se *pravi klanjatelji moraju klanjati u duhu i istini*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a5.ad2": {
+      "text": "Na drugo treba reći da, kad moleći tražimo nešto što pripada našem spasenju, suobličujemo svoju volju volji Boga, o kojemu se kaže u 1 Tim 2 da *hoće da se svi ljudi spase*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a5.ad3": {
+      "text": "Na treće treba reći da nas Bog na dobra poziva tako da im ne pristupamo koracima tijela, nego pobožnim željama i predanim molitvama.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da čovjek ne treba moleći tražiti od Boga vremenita dobra. Ono za što moleći prosimo, naime, to i tražimo. Ali vremenita dobra ne trebamo tražiti; kaže se, naime, u Mt 6: Tražite najprije kraljevstvo Božje i pravednost njegovu, i sve će vam se to nadodati, to jest vremenita dobra; za njih ne kaže da ih treba tražiti, nego da će se nadodati onome što se traži. Dakle, vremenita dobra ne treba u molitvi prositi od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a6.obj2": {
+      "text": "Osim toga, nitko ne traži drugo osim onoga za što se brine. Ali za vremenita dobra ne trebamo imati brige, prema onome što se kaže u Mt 6: *Ne brinite se za svoj život, što ćete jesti*. Dakle, ne trebamo moleći tražiti vremenita dobra.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a6.obj3": {
+      "text": "Osim toga, po našoj se molitvi duh mora uzdići k Bogu. Ali tražeći vremenita dobra, on silazi k onome što je ispod njega, protivno onome što je Apostol govorio u 2 Kor 4: *Mi ne promatramo ono što se vidi, nego ono što se ne vidi; jer ono što se vidi vremenito je, a ono što se ne vidi vječno*. Dakle, čovjek ne treba u molitvi od Boga tražiti vremenita dobra.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a6.obj4": {
+      "text": "Osim toga, čovjek ne treba od Boga tražiti ništa osim dobra i korisna. Ali katkad su vremenita dobra, kad se posjeduju, štetna, ne samo duhovno nego i vremenito. Dakle, ne treba ih u molitvi tražiti od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izr 30: *Daj mi samo ono što je potrebno za moje uzdržavanje*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a6.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Augustin u pismu Probi o moljenju Boga, *dopušteno je moliti ono što je dopušteno željeti*. A vremenita je dobra dopušteno željeti, ne doduše prvotno, tako da u njima postavimo svrhu, nego kao neka pomagala koja nam pomažu da težimo k blaženstvu, ukoliko se, naime, po njima održava tjelesni život i ukoliko nam služe kao oruđa za čine kreposti, kao što i Filozof kaže u I. knjizi Etike. I zato je dopušteno moliti za vremenita dobra. I to je ono što Augustin kaže Probi: *Ne želi nedolično dovoljnost za život onaj tko nju želi i ništa više. Za njom se, naime, ne teži radi nje same, nego radi zdravlja tijela i izgleda primjerenog čovjekovoj osobi, da ne bude neprikladan onima s kojima treba živjeti. Za to, dakle, treba moliti: kad se ima, da se zadrži; kad se nema, da se dobije*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da vremenita dobra ne treba tražiti prvotno, nego drugotno. Zato Augustin kaže u knjizi O Gospodinovu govoru na gori: kad je rekao da ono treba tražiti najprije, naime kraljevstvo Božje, naznačio je da ovo, naime vremenito dobro, *treba tražiti kasnije, ne vremenski, nego po dostojanstvu: ono kao naše dobro, ovo kao ono što nam je potrebno*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a6.ad2": {
+      "text": "Na drugo treba reći da nije zabranjena svaka briga za vremenite stvari, nego suvišna i neuredna, kao što je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a6.ad3": {
+      "text": "Na treće treba reći da, kad naš duh smjera na vremenite stvari tako da se u njima smiri, ostaje u njima pritisnut prema dolje. Ali kad na njih smjera s obzirom na postizanje blaženstva, one ga ne pritišću prema dolje, nego ih on radije uzdiže uvis.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a6.ad4": {
+      "text": "Na četvrto treba reći da, budući da vremenita dobra ne tražimo kao ono što se prvotno traži, nego s obzirom na nešto drugo, tražimo ih od Boga pod tim uvjetom da nam se dadu ukoliko koriste za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da ne trebamo moliti za druge. U molitvi, naime, trebamo slijediti obrazac koji je predao Gospodin. Ali u molitvi Gospodnjoj iznosimo prošnje za sebe, a ne za druge, govoreći: Kruh naš svagdanji daj nam danas, i druge takve. Dakle, ne trebamo moliti za druge.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a7.obj2": {
+      "text": "Osim toga, molitva se vrši zato da bude uslišana. Ali jedan od uvjeta koji se zahtijevaju da bi molitva mogla biti uslišana jest da netko moli za sebe; zato uz ono iz Iv 16: *Ako što zamolite Oca u moje ime, dat će vam*, Augustin kaže: *Svi bivaju uslišani za sebe, ali ne za sve. Zato nije rečeno bilo kako ‚dat će’, nego ‚dat će vam’*. Dakle, čini se da ne trebamo moliti za druge, nego samo za sebe.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a7.obj3": {
+      "text": "Osim toga, za druge nam je, ako su zli, zabranjeno moliti, prema onome iz Jr 7: *Ti, dakle, ne moli za ovaj narod i ne protivi mi se, jer te neću uslišati*. A za dobre nije potrebno moliti, jer oni sami, moleći za sebe, bivaju uslišani. Dakle, čini se da ne trebamo moliti za druge.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Jak 5: *Molite jedni za druge da se spasite*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a7.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, moleći trebamo tražiti ono što trebamo željeti. A dobra trebamo željeti ne samo sebi nego i drugima; to, naime, pripada pojmu ljubavi koju dugujemo iskazivati bližnjima, kao što je jasno iz rečenoga. I zato ljubav zahtijeva da molimo za druge. Zato Zlatousti kaže u tumačenju Mateja: *Za sebe moliti nagoni potreba, a za drugoga potiče bratska ljubav. A slađa je pred Bogom molitva, ne ona koju šalje potreba, nego ona koju preporučuje bratska ljubav*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Ciprijan u knjizi O molitvi Gospodnjoj, *zato ne kažemo ‚Oče moj’, nego ‚naš’, niti ‚daj meni’, nego ‚daj nam’, jer Učitelj jedinstva nije htio da se molba vrši zasebno, to jest da netko moli samo za sebe. Htio je, naime, da jedan moli za sve, kao što je on sam u jednome nosio sve*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a7.ad2": {
+      "text": "Na drugo treba reći da se moliti za sebe postavlja kao uvjet molitve, ne doduše kao nužan za učinak zasluživanja, nego kao nužan za to da molitva nepogrešivo isprosi. Događa se, naime, katkad da molitva izrečena za drugoga ne isprosi, čak i ako se vrši pobožno, ustrajno i za ono što pripada spasenju, zbog zapreke koja je na strani onoga za koga se moli, prema onome iz Jr 15: *Kad bi Mojsije i Samuel stali preda mnom, duša moja ne bi bila uz ovaj narod*. Ipak, molitva će biti zaslužna za onoga koji moli, jer moli iz ljubavi, prema onome iz Psalma: *Molitva će se moja vratiti u moje krilo*, a Glosa tumači: *iako im nije koristila, ja ipak nisam ostao bez svoje plaće*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a7.ad3": {
+      "text": "Na treće treba reći da treba moliti i za grešnike, da se obrate, i za pravednike, da ustraju i napreduju. Ipak, oni koji mole ne bivaju uslišani za sve grešnike, nego za neke: bivaju, naime, uslišani za predodređene, ali ne za one koji su predznani za smrt. Kao što i opomena kojom opominjemo braću ima učinak u predodređenima, a ne u odbačenima, prema onome iz Prop 7: *Nitko ne može opomenuti onoga koga je Bog prezreo*. I zato se kaže u 1 Iv 5: *Tko zna da njegov brat griješi grijehom koji nije na smrt, neka moli, i dat će se život onome koji griješi grijehom koji nije na smrt*. Ali kao što nikome, dok ovdje živi, ne treba uskratiti dobročinstvo opomene, jer ne možemo razlikovati predodređene od odbačenih, kako kaže Augustin u knjizi O opomeni i milosti, tako ni nikome ne treba uskratiti pomoć molitve. Za pravednike također treba moliti, iz trostrukog razloga. Prvo, zato što se molbe mnogih lakše uslišavaju. Zato uz ono iz Rim 15: *da mi pomognete svojim molitvama*, Glosa kaže: *Dobro Apostol moli manje da mole za njega. Mnogi, naime, najmanji, kad se jednodušno okupe, postaju veliki, i nemoguće je da molbe mnogih ne isprose* ono, naime, što se može isprositi. Drugo, da mnogi zahvaljuju Bogu za dobročinstva koja daje pravednicima, a koja se okreću i na korist mnogih, kao što je jasno iz Apostola, u 2 Kor 1. Treće, da se veći ne bi oholili, dok razmatraju da im je potrebna pomoć manjih.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da ne trebamo moliti za neprijatelje. Jer, kako se kaže u Rim 15, *sve što je napisano, napisano je za našu pouku*. Ali u Svetom pismu navode se mnoge kletve protiv neprijatelja; kaže se, naime, u Psalmu: *neka se postide i smetu svi neprijatelji moji, neka se postide i smetu vrlo brzo*. Dakle i mi trebamo moliti protiv neprijatelja, a ne za njih.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a8.obj2": {
+      "text": "Osim toga, osveta nad neprijateljima ide na zlo neprijateljima. Ali sveti traže osvetu nad neprijateljima, prema onome iz Otk 6: *dokle nećeš osvetiti krv našu na onima koji prebivaju na zemlji?* Zato se i raduju osveti nad bezbožnicima, prema onome iz Psalma: *radovat će se pravednik kad vidi osvetu*. Dakle ne treba moliti za neprijatelje, nego radije protiv njih.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a8.obj3": {
+      "text": "Osim toga, čovjekovo djelovanje i njegova molitva ne smiju biti protivni jedno drugome. Ali ljudi katkad dopušteno napadaju neprijatelje; inače bi svi ratovi bili nedopušteni, što je protiv onoga što je gore rečeno. Dakle ne trebamo moliti za neprijatelje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mt 5: *molite za one koji vas progone i kleveću*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a8.resp": {
+      "text": "Odgovaram: treba reći da moliti za drugoga pripada ljubavi, kako je rečeno. Stoga smo na isti način na koji smo dužni ljubiti neprijatelje dužni i moliti za neprijatelje. A kako smo dužni ljubiti neprijatelje, utvrđeno je gore, u raspravi o ljubavi: naime tako da u njima ljubimo narav, a ne krivnju; i da je ljubiti neprijatelje općenito pod zapovijedi, a pojedinačno nije pod zapovijedi osim po pripravnosti duše, to jest tako da čovjek bude spreman i pojedinačno ljubiti neprijatelja i pomoći mu u trenutku nužde, ili ako bi zamolio oproštenje; ali pojedinačno, naprosto, ljubiti neprijatelje i pomagati im pripada savršenosti. Slično je i nužno da u našim zajedničkim molitvama koje izričemo za druge ne isključujemo neprijatelje. A da za njih posebno molimo, to pripada savršenosti, ne nužnosti, osim u nekom posebnom slučaju.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da se kletve koje se nalaze u Svetom pismu mogu razumjeti na četiri načina. Prvo, tako da *proroci obično u liku onoga koji kune proriču buduće*, kako kaže Augustin u knjizi O Gospodinovu govoru na gori. Drugo, ukoliko Bog katkad grešnicima šalje neka vremenita zla radi popravka. Treće, jer se razumije da ne mole protiv samih ljudi, nego protiv kraljevstva grijeha, naime da se popravkom ljudi uništi grijeh. Četvrto, tako da svoju volju suobličuju Božjoj pravednosti glede osude onih koji ustraju u grijehu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a8.ad2": {
+      "text": "Na drugo treba reći da je, kako kaže Augustin u istoj knjizi, *osveta mučenika u tome da se obori kraljevstvo grijeha pod čijom su vladavinom toliko pretrpjeli*. Ili, kako se kaže u knjizi Pitanja o Starom i Novom zavjetu, *traže da budu osvećeni ne glasom, nego razlogom, kao što je krv Abelova vapila sa zemlje*. A raduju se osveti ne zbog nje same, nego zbog Božje pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a8.ad3": {
+      "text": "Na treće treba reći da je dopušteno napadati neprijatelje da bi se suzdržali od grijeha, što ide na dobro njih i drugih. I tako je također dopušteno u molitvi tražiti neka vremenita zla za neprijatelje da bi se popravili. I tako molitva i djelovanje neće biti protivni jedno drugome.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da se sedam prošnji Gospodnje molitve neprikladno navodi. Uzaludno je, naime, tražiti ono što uvijek jest. Ali Božje je ime uvijek sveto, prema onome iz Lk 1: *sveto je ime njegovo*. I njegovo je kraljevstvo vjekovječno, prema onome iz Psalma: *kraljevstvo tvoje, Gospodine, kraljevstvo je svih vjekova*. I Božja se volja uvijek ispunja, prema onome iz Iz 46: sva će se volja moja ispuniti. Uzaludno je, dakle, tražiti da se sveti Božje ime, da dođe njegovo kraljevstvo i da bude njegova volja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.obj2": {
+      "text": "Osim toga, prije je odstupiti od zla nego postići dobro. Čini se, dakle, neprikladnim da se prošnje koje se odnose na postizanje dobra stavljaju ispred prošnji koje se odnose na uklanjanje zla.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.obj3": {
+      "text": "Osim toga, nešto se traži zato da bude darovano. Ali najodličniji je Božji dar Duh Sveti i ono što nam se po njemu daje. Dakle, čini se da su prošnje neprikladno postavljene, jer ne odgovaraju darovima Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.obj4": {
+      "text": "Osim toga, prema Luki se u Gospodnjoj molitvi navodi samo pet prošnji, kao što je očito u Lk 11. Suvišno je, dakle, bilo što se prema Mateju navodi sedam prošnji.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.obj5": {
+      "text": "Osim toga, čini se uzaludnim pridobivati dobrohotnost onoga koji nas svojom dobrohotnošću pretječe. Ali Bog nas pretječe svojom dobrohotnošću, jer nas je on prvi ljubio, kako se kaže u 1 Iv 4. Suvišno se, dakle, ispred prošnji stavlja *Oče naš, koji jesi na nebesima*, što, čini se, pripada pridobivanju dobrohotnosti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.sc": {
+      "text": "Ali za suprotno dostaje autoritet Krista koji je ustanovio tu molitvu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.resp": {
+      "text": "Odgovaram: treba reći da je Gospodnja molitva najsavršenija, jer, kako kaže Augustin u pismu Probi, *ako ispravno i prikladno molimo, ne možemo reći ništa drugo nego ono što je stavljeno u ovu Gospodnju molitvu*. Budući da je, naime, molitva na neki način tumač naše želje pred Bogom, ispravno moleći tražimo samo ono što možemo ispravno željeti. A u Gospodnjoj molitvi ne traži se samo sve što možemo ispravno željeti, nego i onim redom kojim to treba željeti, tako da nas ova molitva ne poučava samo kako tražiti, nego i oblikuje sve naše čuvstvo. Očito je pak da u želju najprije dolazi svrha, a zatim ono što vodi k svrsi. A naša je svrha Bog. Prema njemu naše čuvstvo teži na dva načina: na jedan način ukoliko hoćemo Božju slavu, na drugi način ukoliko hoćemo uživati njegovu slavu. Od toga prvo pripada ljubavi kojom ljubimo Boga u njemu samome, a drugo ljubavi kojom ljubimo sebe u Bogu. I zato se stavlja prva prošnja, sveti se ime tvoje, kojom tražimo Božju slavu. A druga se stavlja, dođi kraljevstvo tvoje, kojom tražimo da dođemo do slave njegova kraljevstva. A prema spomenutoj svrsi nešto nas usmjeruje na dva načina: na jedan način po sebi, na drugi način akcidentalno. Po sebi, dobro koje je korisno za svrhu. A nešto je korisno za svrhu blaženstva na dva načina. Na jedan način izravno i glavno, po zasluzi kojom zaslužujemo blaženstvo pokoravajući se Bogu. I s obzirom na to stavlja se: *budi volja tvoja, kako na nebu, tako i na zemlji*. Na drugi način oruđno, i kao ono što nam pomaže da zaslužimo. I tome pripada ono što se kaže: *kruh naš svagdanji daj nam danas*, bilo da se to razumije o sakramentalnom kruhu, čija svagdanja uporaba koristi čovjeku i u kojem se razumiju i svi drugi sakramenti; bilo da se razumije i o tjelesnom kruhu, tako da se pod kruhom razumije sva dostatnost hrane, kako kaže Augustin u pismu Probi; jer je i Euharistija najodličniji sakrament, i kruh je najodličnija hrana, pa je zato i u Evanđelju po Mateju napisano „nadsupstancijalni”, to jest najodličniji, kako tumači Jeronim. A akcidentalno smo usmjereni prema blaženstvu uklanjanjem onoga što priječi. Tri su pak stvari koje nas priječe od blaženstva. Prvo, grijeh, koji izravno isključuje iz kraljevstva, prema onome iz 1 Kor 6: *ni bludnici ni idolopoklonici itd. neće baštiniti kraljevstva Božjega*. I tome pripada ono što se kaže: otpusti nam duge naše. Drugo, kušnja, koja nas priječi u obdržavanju Božje volje. I tome pripada ono što se kaže: i ne uvedi nas u napast, čime ne tražimo da ne budemo kušani, nego da nas kušnja ne pobijedi, što znači biti uveden u napast. Treće, sadašnja kažnjivost, koja priječi dostatnost života. I s obzirom na to kaže se: izbavi nas od zla.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Augustin u knjizi O Gospodinovu govoru na gori, kad kažemo „sveti se ime tvoje”, *ne traži se to kao da Božje ime nije sveto, nego da ga ljudi drže svetim*; a to pripada širenju Božje slave među ljudima. A to što se kaže „dođi kraljevstvo tvoje”, *nije rečeno kao da Bog sada ne kraljuje*, nego, kako kaže Augustin u pismu Probi, *svoju želju potičemo prema onome kraljevstvu da nam dođe i da u njemu kraljujemo*. A to što se kaže „budi volja tvoja”, *ispravno se razumije: neka se slušaju tvoje zapovijedi. Kako na nebu tako i na zemlji, to jest, kako od anđela, tako od ljudi*. Stoga će se ove tri prošnje savršeno ispuniti u budućem životu, a ostale se četiri odnose na potrebu sadašnjeg života, kako kaže Augustin u Enhiridiju.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.ad2": {
+      "text": "Na drugo treba reći da, budući da je molitva tumač želje, red prošnji ne odgovara redu izvršenja, nego redu želje ili nakane, u kojem je svrha prije onoga što vodi k svrsi, i postizanje dobra prije uklanjanja zla.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.ad3": {
+      "text": "Na treće treba reći da Augustin u knjizi O Gospodinovu govoru na gori prilagođuje sedam prošnji darovima i blaženstvima, govoreći: *ako je strah Božji ono po čemu su blaženi siromasi duhom, molimo da se među ljudima sveti ime Božje čistim strahom. Ako je pobožnost ono po čemu su blaženi krotki, molimo da dođe njegovo kraljevstvo, da postanemo krotki i da mu se ne protivimo. Ako je znanje ono po čemu su blaženi koji tuguju, molimo da bude volja njegova, jer tako nećemo tugovati. Ako je jakost ono po čemu su blaženi koji gladuju, molimo da nam se dade kruh naš svagdanji. Ako je savjet ono po čemu su blaženi milosrdni, otpuštajmo duge da se i nama naši otpuste. Ako je razum ono po čemu su blaženi čista srca, molimo da ne budemo dvostruka srca, prianjajući uz vremenite stvari iz kojih u nama nastaju kušnje. Ako je mudrost ono po čemu su blaženi mirotvorci, jer će se sinovima Božjim zvati, molimo da budemo izbavljeni od zla, jer će nas samo izbavljenje učiniti slobodnima, sinovima Božjim*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.ad4": {
+      "text": "Na četvrto treba reći da, kako kaže Augustin u Enhiridiju, *Luka je u Gospodnjoj molitvi obuhvatio ne sedam, nego pet prošnji. Pokazujući, naime, da je treća prošnja na neki način ponavljanje dviju prethodnih, izostavljanjem daje da se ona razumije*, jer naime Božja volja ponajprije teži tome da spoznamo njegovu svetost i da s njim kraljujemo. *Ono što je Matej stavio na posljednje mjesto, izbavi nas od zla, Luka nije stavio, da svatko zna da je izbavljen od zla time što nije uveden u napast*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a9.ad5": {
+      "text": "Na peto treba reći da se molitva ne upravlja Bogu da bismo njega prignuli, nego da bismo u sebi samima pobudili pouzdanje u traženju. A ono se u nama ponajviše pobuđuje razmatranjem njegove ljubavi prema nama, kojom hoće naše dobro, i zato kažemo „Oče naš”; i njegove uzvišenosti, kojom može, i zato kažemo „koji jesi na nebesima”.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da moliti nije vlastito razumskom stvoru. Čini se, naime, da istome pripada tražiti i primati. Ali primati pristaje i nestvorenim osobama, naime Sinu i Duhu Svetomu. Dakle i njima pristaje moliti; jer i Sin kaže, Iv 14: *ja ću moliti Oca*; a o Duhu Svetome kaže Apostol: *Duh moli za nas*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a10.obj2": {
+      "text": "Osim toga, anđeli su iznad razumskih stvorova, jer su umske supstancije. Ali anđelima pripada moliti, pa se zato u Psalmu kaže: *klanjajte mu se, svi anđeli njegovi*. Dakle moliti nije vlastito razumskom stvoru.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a10.obj3": {
+      "text": "Osim toga, istome pripada moliti kojemu pripada zazivati Boga, što se ponajviše čini moleći. Ali nerazumnim životinjama pristaje zazivati Boga, prema onome iz Psalma: *koji daje stoci hranu njezinu i mladim gavranima koji ga zazivaju*. Dakle moliti nije vlastito razumskom stvoru.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a10.sc": {
+      "text": "Ali protiv toga: molitva je čin razuma, kako je gore utvrđeno. Ali razumski se stvor naziva po razumu. Dakle moliti je vlastito razumskom stvoru.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a10.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je očito iz rečenoga, molitva čin razuma kojim netko moli višega, kao što je zapovijedanje čin razuma kojim se niži usmjeruje prema nečemu. Moliti, dakle, u vlastitom smislu pripada onome kojemu pristaje imati razum i višega kojega može moliti. Ali ništa nije više od božanskih osoba, a nerazumne životinje nemaju razuma. Stoga moliti ne pristaje ni božanskim osobama ni nerazumnim životinjama, nego je vlastito razumskom stvoru.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da božanskim osobama pristaje primati po naravi, a moliti pripada onome koji prima po milosti. A za Sina se kaže da traži ili moli po uzetoj naravi, naime ljudskoj, ne po božanskoj. A za Duha Svetoga kaže se da moli jer čini da mi molimo.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a10.ad2": {
+      "text": "Na drugo treba reći da razum i um u nama nisu različite moći, kako je utvrđeno u Prvom dijelu, nego se razlikuju kao savršeno i nesavršeno. I zato se umski stvorovi, a to su anđeli, katkad razlikuju od razumskih, a katkad se ubrajaju među razumske. I na taj se način kaže da je molitva vlastita razumskom stvoru.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a10.ad3": {
+      "text": "Na treće treba reći da se za mlade gavrane kaže da zazivaju Boga zbog naravne želje kojom sve na svoj način želi postići Božju dobrotu. Tako se također kaže da nerazumne životinje slušaju Boga zbog naravnog nagona kojim ih Bog pokreće.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da sveti koji su u domovini ne mole za nas. Nečiji je, naime, čin zaslužniji za njega samoga nego za druge. Ali sveti koji su u domovini ne zaslužuju za sebe niti mole za sebe, jer su već postavljeni na završetak. Dakle ne mole ni za nas.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.obj2": {
+      "text": "Osim toga, sveti savršeno suobličuju svoju volju Bogu, tako da ne hoće ništa osim onoga što Bog hoće. Ali ono što Bog hoće uvijek se ispunja. Dakle uzalud bi sveti molili za nas.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.obj3": {
+      "text": "Osim toga, kao što su sveti koji su u domovini viši od nas, tako su i oni koji su u čistilištu, jer više ne mogu griješiti. Ali oni koji su u čistilištu ne mole za nas, nego radije mi za njih. Dakle ni sveti koji su u domovini ne mole za nas.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.obj4": {
+      "text": "Osim toga, kad bi sveti koji su u domovini molili za nas, molitva viših svetih bila bi djelotvornija. Ne bi, dakle, trebalo zazivati pomoć molitava nižih svetih, nego samo viših.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.obj5": {
+      "text": "Osim toga, Petrova duša nije Petar. Kad bi, dakle, duše svetih molile za nas dok su odijeljene od tijela, ne bismo trebali zazivati svetoga Petra da moli za nas, nego njegovu dušu. A Crkva čini suprotno. Dakle sveti ne mole za nas, barem ne prije uskrsnuća.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.sc": {
+      "text": "Ali protiv toga je ono što se kaže u 2 Mak, u posljednjem poglavlju: *ovo je onaj koji mnogo moli za narod i za sav sveti grad, Jeremija, prorok Božji*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.resp": {
+      "text": "Odgovaram: treba reći da je, kako kaže Jeronim, *Vigilancijeva zabluda bila u tome da, dok živimo, možemo uzajamno moliti jedni za druge, a nakon što umremo, ničija se molitva za drugoga ne može uslišati, osobito jer mučenici, prizivajući osvetu za svoju krv, nisu to mogli isprositi*. Ali to je posve lažno. Jer, budući da molitva za druge proizlazi iz ljubavi, kako je rečeno, što su sveti koji su u domovini savršenije ljubavi, to više mole za putnike, kojima molitve mogu pomoći; i što su sjedinjeniji s Bogom, to su njihove molitve djelotvornije. Božanski red, naime, ima to da se iz uzvišenosti viših izlijeva na niže, kao iz sjaja sunca na zrak. Zato se i o Kristu kaže, Heb 7: *pristupajući po samome sebi k Bogu da posreduje za nas*. I zbog toga Jeronim, Protiv Vigilancija, kaže: *ako apostoli i mučenici, dok su još u tijelu, mogu moliti za druge, kad se još za sebe moraju brinuti, koliko više nakon vijenaca, pobjeda i trijumfa*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da svetima koji su u domovini, budući da su blaženi, ne nedostaje ništa osim slave tijela, za koju mole. A mole za nas, kojima nedostaje posljednje savršenstvo blaženstva. I njihove molitve imaju djelotvornost da isprose na temelju njihovih prethodnih zasluga i Božjeg prihvaćanja.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.ad2": {
+      "text": "Na drugo treba reći da sveti isprose ono za što Bog hoće da se ostvari po njihovim molitvama. I traže ono za što smatraju da se po Božjoj volji ima ispuniti njihovim molitvama.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.ad3": {
+      "text": "Na treće treba reći da su oni koji su u čistilištu, iako su viši od nas zbog nemogućnosti da griješe, ipak niži s obzirom na kazne koje trpe. I prema tome nisu u stanju da mole, nego radije da se za njih moli.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.ad4": {
+      "text": "Na četvrto treba reći da Bog hoće da niže stvari dobivaju pomoć po svim višima. I zato treba zazivati ne samo više, nego i niže svete. Inače bi trebalo zazivati samo Božje milosrđe. Ipak se katkad događa da je zazivanje nižega svetoga djelotvornije, bilo zato što se oni zazivaju s više predanosti, bilo zato što Bog hoće očitovati njihovu svetost.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a11.ad5": {
+      "text": "Na peto treba reći da, budući da su sveti za života zaslužili da mole za nas, zato ih zazivamo imenima kojima su se ovdje zvali i po kojima su nam i poznatiji. I opet, da se nagovijesti vjera u uskrsnuće, kao što se čita u Izl 3: *ja sam Bog Abrahamov*, i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da molitva ne treba biti glasna. Molitva se, naime, kao što je očito iz rečenoga, ponajprije upravlja Bogu. A Bog poznaje govor srca. Uzalud se, dakle, služimo glasnom molitvom.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a12.obj2": {
+      "text": "Osim toga, po molitvi se čovjekov duh treba uzdizati k Bogu, kako je rečeno. Ali riječi izgovorene glasom odvlače ljude od uzdizanja motrenja k Bogu, kao i druge osjetne stvari. Dakle u molitvi se ne treba služiti glasom.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a12.obj3": {
+      "text": "Osim toga, molitvu treba prinositi Bogu u skrovitosti, prema onome iz Mt 6: *a ti kad moliš, uđi u svoju sobu, zatvori vrata i moli Oca svoga u skrovitosti*. Ali glasom se molitva obznanjuje. Dakle molitva ne treba biti glasna.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a12.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu: *glasom svojim zavapih Gospodinu, glasom svojim Gospodina zamolih*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a12.resp": {
+      "text": "Odgovaram: treba reći da je molitva dvojaka: zajednička i pojedinačna. Zajednička je molitva ona koju službenici Crkve prinose Bogu u ime svega vjernoga naroda. I zato treba da takva molitva bude poznata svemu narodu za koji se izriče. A to se ne bi moglo dogoditi kad ne bi bila glasna. I zato je razumno ustanovljeno da službenici Crkve takve molitve izgovaraju i visokim glasom, kako bi mogle doći do znanja svih. A pojedinačna je molitva ona koju prinosi pojedina osoba, bilo tko da moli za sebe ili za druge. I za takvu molitvu nije nužno da bude glasna. Ipak se takvoj molitvi pridružuje glas iz trostrukog razloga. Prvo, da se pobudi unutarnja predanost, kojom se duh onoga koji moli uzdiže k Bogu. Jer se po vanjskim znakovima, bilo riječima bilo i nekim djelima, čovjekov duh pokreće i po zahvaćanju, a posljedično i po čuvstvu. Zato Augustin kaže u pismu Probi da *riječima i drugim znakovima same sebe snažnije potičemo da umnožimo svetu želju*. I zato se u pojedinačnoj molitvi treba služiti riječima i takvim znakovima samo toliko koliko koristi da se duh iznutra potakne. Ako se pak duh time rastresa ili na bilo koji način priječi, treba s takvim stvarima prestati. A to se osobito događa kod onih čiji je duh i bez takvih znakova dovoljno pripravan za predanost. Zato je Psalmist govorio: *tebi reče srce moje, tebe traži lice moje*; a o Ani se čita u 1 Sam 1 da je govorila u svome srcu. Drugo, glasna se molitva pridružuje kao vraćanje duga, naime da čovjek služi Bogu svime onim što ima od Boga, to jest ne samo duhom nego i tijelom. A to osobito pristaje molitvi ukoliko je zadovoljštinska. Zato se kaže u Hoš, u posljednjem poglavlju: *ukloni svako bezakonje i primi dobro, i prinijet ćemo telad usana svojih*. Treće, glasna se molitva pridružuje zbog nekog prelijevanja iz duše u tijelo uslijed snažnog čuvstva, prema onome iz Psalma: *razveseli se srce moje i zakliktao je jezik moj*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da se glasna molitva ne izgovara zato da bi se Bogu očitovalo nešto što mu je nepoznato, nego zato da se duh onoga koji moli ili drugih potakne prema Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a12.ad2": {
+      "text": "Na drugo treba reći da riječi koje se odnose na nešto drugo rastresaju duh i priječe predanost onoga koji moli. Ali riječi koje označuju nešto što se odnosi na predanost potiču duhove, osobito one manje predane.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a12.ad3": {
+      "text": "Na treće treba reći da, kako kaže Zlatousti u tumačenju Mateja, *Gospodin zabranjuje moliti u skupu s tom nakanom da te skup vidi. Stoga onaj koji moli ne treba činiti ništa neobično što bi ljudi gledali, bilo vičući, bilo udarajući se u prsa, bilo raširujući ruke*. Ipak, kako kaže Augustin u knjizi O Gospodinovu govoru na gori, *nije grijeh da te ljudi vide, nego to činiti zato da te ljudi vide*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a13.obj1": {
+      "text": "Na trinaesto se ovako postupa. Čini se da je za molitvu nužno da bude pozorna. Kaže se, naime, u Iv 4: *Bog je duh, i oni koji mu se klanjaju moraju mu se klanjati u duhu i istini*. Ali molitva nije u duhu ako nije pozorna. Dakle, za molitvu je nužno da bude pozorna.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a13.obj2": {
+      "text": "Osim toga, molitva je uzdizanje uma k Bogu. Ali kad molitva nije pozorna, um se ne uzdiže k Bogu. Dakle, za molitvu je nužno da bude pozorna.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a13.obj3": {
+      "text": "Osim toga, za molitvu je nužno da bude bez ikakva grijeha. Ali nije bez grijeha to da netko u molitvi trpi lutanje duha; čini se da se ruga Bogu, kao kad bi govorio nekom čovjeku i ne bi pazio na ono što sam izgovara. Zato Bazilije kaže: *Božju pomoć treba zazivati ne mlitavo, ni s duhom koji luta amo-tamo, jer takav ne samo da neće isprositi što traži, nego će Boga još više razdražiti*. Dakle, čini se da je za molitvu nužno da bude pozorna.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a13.sc": {
+      "text": "Ali protiv toga je to što i sveti muževi katkad u molitvi trpe lutanje duha, prema onome iz Psalma: *srce me moje ostavilo*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a13.resp": {
+      "text": "Odgovaram: treba reći da ovo pitanje ponajprije ima mjesta kod glasne molitve. O njoj treba znati da se nešto naziva nužnim na dva načina. Na jedan način, ono po čemu se bolje dolazi do svrhe. I tako je pozornost naprosto nužna za molitvu. Na drugi se način nužnim naziva ono bez čega stvar ne može postići svoj učinak. A trostruk je učinak molitve. Prvi je zajednički svim činima oblikovanima ljubavlju, a to je zasluživati. I za taj se učinak ne zahtijeva nužno da pozornost bude prisutna kroz cijelu molitvu, nego snaga prve nakane, s kojom netko pristupa molitvi, čini cijelu molitvu zaslužnom, kao što se događa i kod drugih zaslužnih čina. A drugi je učinak molitve njoj vlastit, a to je isprositi. I za taj učinak također dostaje prva nakana, na koju Bog ponajprije gleda. Ako pak nedostaje prva nakana, molitva nije ni zaslužna ni djelotvorna za isprošnju; *Bog, naime, ne čuje one molitve na koju ne pazi ni onaj koji moli*, kako kaže Grgur. A treći je učinak molitve onaj koji ona proizvodi u sadašnjosti, naime neko duhovno okrepljenje duha. I za to se u molitvi nužno zahtijeva pozornost. Zato se kaže u 1 Kor 14: *ako molim jezikom, moj je duh bez ploda*. Ipak treba znati da je trostruka pozornost koja se može primijeniti u glasnoj molitvi. Jedna je ona kojom se pazi na riječi, da tko u njima ne pogriješi. Druga je ona kojom se pazi na smisao riječi. Treća je ona kojom se pazi na svrhu molitve, naime na Boga i na stvar za koju se moli; ona je najnužnija. I nju mogu imati i neuki. A katkad je ta nakana, kojom se duh nosi prema Bogu, toliko obilna da duh zaboravi i sve drugo, kako kaže Hugo od Svetog Viktora.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a13.ad1": {
+      "text": "Na prvo, dakle, treba reći da u duhu i istini moli onaj koji pristupa molitvi po poticaju Duha, makar mu duh poslije iz neke slabosti i odlutao.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a13.ad2": {
+      "text": "Na drugo treba reći da ljudski duh zbog slabosti naravi ne može dugo stajati na visini; težinom ljudske slabosti, naime, duša se pritišće prema nižim stvarima. I zato se događa da duh onoga koji moli, kad se motrenjem uzdigne k Bogu, iznenada odluta iz neke slabosti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a13.ad3": {
+      "text": "Na treće treba reći da, ako netko u molitvi namjerno pusti duh da luta, to je grijeh i priječi plod molitve. I protiv toga Augustin kaže u Pravilu: *kad se Bogu molite psalmima i himnima, neka se u srcu razmatra ono što se izgovara ustima*. A lutanje duha koje se događa mimo namjere ne oduzima plod molitve. Zato Bazilije kaže: *ako pak, oslabljen grijehom, ne možeš postojano moliti, obuzdaj se koliko god možeš, i Bog oprašta, jer ne iz nemara, nego iz krhkosti ne možeš stajati pred njim kako treba*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a14.obj1": {
+      "text": "Na četrnaesto se ovako postupa. Čini se da molitva ne treba biti dugotrajna. Kaže se, naime, u Mt 6: *kad molite, ne govorite mnogo*. Ali onaj koji dugo moli mora mnogo govoriti, osobito ako je molitva glasna. Dakle molitva ne treba biti dugotrajna.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a14.obj2": {
+      "text": "Osim toga, molitva je izražavanje želje. Ali želja je to svetija što je više usredotočena na jedno, prema onome iz Psalma: *jedno sam molio od Gospodina, to ću tražiti*. Dakle i molitva je Bogu to milija što je kraća.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a14.obj3": {
+      "text": "Osim toga, čini se nedopuštenim da čovjek prekoračuje granice koje je Bog unaprijed postavio, osobito u onome što se odnosi na štovanje Boga, prema onome iz Izl 19: *opomeni narod da ne bi možda htio prijeći postavljene granice da vidi Gospodina, i da ne pogine od njih silno mnoštvo*. Ali Bog nam je unaprijed postavio granicu moljenja ustanovivši Gospodnju molitvu, kao što je očito u Mt 6. Dakle nije dopušteno molitvu protezati dalje od toga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a14.sc": {
+      "text": "Ali protiv toga, čini se da treba neprestano moliti. Jer Gospodin kaže, Lk 18: *treba uvijek moliti i ne sustajati*. I 1 Sol 5: *bez prestanka molite*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a14.resp": {
+      "text": "Odgovaram: treba reći da o molitvi možemo govoriti na dva načina: na jedan način prema njoj samoj, na drugi način prema njezinu uzroku. A uzrok je molitve želja ljubavi, iz koje molitva treba proizlaziti. Ta želja u nama treba biti neprestana, bilo u činu bilo virtualno; snaga te želje, naime, ostaje u svemu što činimo iz ljubavi, a sve trebamo činiti na slavu Božju, kako se kaže u 1 Kor 10. I prema tome molitva treba biti neprestana. Zato Augustin kaže u pismu Probi: *u samoj vjeri, nadi i ljubavi neprekidnom željom uvijek molimo*. Ali sama molitva, promatrana po sebi, ne može biti neprekidna, jer se treba baviti i drugim poslovima. Nego, kako Augustin na istome mjestu kaže, *zato u određenim razmacima sati i vremena molimo Boga i riječima, da se tim znakovima stvari opomenemo, da sami sebi postanemo svjesni koliko smo u toj želji napredovali i da se snažnije potaknemo da to činimo*. A kolikoća svake stvari treba biti razmjerna svrsi, kao što je kolikoća napitka razmjerna zdravlju. Zato je i prikladno da molitva traje toliko koliko je korisno da se pobudi žar unutarnje želje. A kad prijeđe tu mjeru, tako da ne može trajati bez dosade, molitvu ne treba dalje protezati. Zato Augustin kaže u pismu Probi: *kaže se da braća u Egiptu imaju česte molitve, ali vrlo kratke i nekako hitro odapete, da ona budno uspravljena nakana, koja je onome koji moli najnužnija, ne bi dužim zadržavanjem iščeznula i otupjela. I time sami dovoljno pokazuju da tu nakanu, kao što ne treba otupljivati ako ne može dulje potrajati, tako, ako potraje, ne treba ni brzo prekidati*. I kao što na to treba paziti u pojedinačnoj molitvi s obzirom na nakanu onoga koji moli, tako i u zajedničkoj molitvi s obzirom na predanost naroda.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a14.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Augustin u pismu Probi, *nije to moliti s mnogo riječi ako se moli dulje. Jedno je mnogo govora, a drugo dugotrajno čuvstvo. Jer i o samome Gospodinu je napisano da je provodio noć u molitvi i da je dulje molio, kako bi nam dao primjer*. I poslije dodaje: *neka je daleko od molitve mnogo govora, ali neka ne nedostaje mnogo moljenja, ako žarka nakana ustraje. Jer mnogo govoriti u molitvi znači nužnu stvar obavljati suvišnim riječima. A ovaj se posao najčešće obavlja više uzdasima nego riječima*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a14.ad2": {
+      "text": "Na drugo treba reći da se duljina molitve ne sastoji u tome da se mnogo toga traži, nego u tome da čuvstvo neprekidno ostaje u želji za jednim.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a14.ad3": {
+      "text": "Na treće treba reći da Gospodin nije ustanovio ovu molitvu zato da se u moljenju moramo služiti samo ovim riječima, nego zato što nakana naše molitve treba težiti samo tome da se isprosi ovo, na bilo koji način to izgovarali ili mislili.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a14.ad4": {
+      "text": "Na četvrto treba reći da netko neprestano moli ili zbog neprekidnosti želje, kako je rečeno; ili zato što ne propušta moliti u određeno vrijeme; ili zbog učinka, bilo u samome onome koji moli, koji i nakon molitve ostaje predaniji, bilo i u drugome, na primjer kad netko svojim dobročinstvima potakne drugoga da moli za njega, i onda kad on sam prestane moliti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a15.obj1": {
+      "text": "Na petnaesto se ovako postupa. Čini se da molitva nije zaslužna. Svaka, naime, zasluga proizlazi iz milosti. Ali molitva prethodi milosti, jer se i sama milost isprosi molitvom, prema onome iz Lk 11: *vaš će Otac s neba dati dobroga duha onima koji ga mole*. Dakle molitva nije zaslužni čin.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a15.obj2": {
+      "text": "Osim toga, ako molitva nešto zaslužuje, čini se da ponajviše zaslužuje ono što se molitvom traži. Ali to ne zaslužuje uvijek, jer mnogo puta ni molitve svetih nisu uslišane; kao što Pavao nije bio uslišan kad je tražio da se od njega ukloni žalac tijela. Dakle molitva nije zaslužni čin.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a15.obj3": {
+      "text": "Osim toga, molitva se ponajviše oslanja na vjeru, prema onome iz Jak 1: *neka pak traži s vjerom, ništa ne sumnjajući*. A vjera nije dovoljna da se zasluži, kao što je očito kod onih koji imaju neoblikovanu vjeru. Dakle molitva nije zaslužni čin.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a15.sc": {
+      "text": "Ali protiv toga je to što uz ono iz Psalma: *molitva će se moja vratiti u moje krilo*, Glosa kaže: *iako njima nije koristila, ja ipak nisam ostao bez svoje plaće*. A plaća se duguje samo zasluzi. Dakle molitva ima pojam zasluge.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a15.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, molitva, osim učinka duhovne utjehe koju donosi u sadašnjosti, ima dvostruku snagu s obzirom na budući učinak, naime snagu zasluživanja i snagu isprošnje. A molitva, kao i svaki drugi čin kreposti, ima djelotvornost zasluživanja ukoliko proizlazi iz korijena ljubavi, čiji je vlastiti predmet vječno dobro, čije uživanje zaslužujemo. Ipak molitva proizlazi iz ljubavi posredstvom bogoštovlja (religije), čiji je čin molitva, kako je rečeno, uz popratnu prisutnost i nekih drugih kreposti koje se zahtijevaju za dobrotu molitve, naime poniznosti i vjere. Bogoštovlju, naime, pripada samu molitvu prinijeti Bogu. A ljubavi pripada želja za stvari čije ostvarenje molitva traži. Vjera je pak nužna s obzirom na Boga, kojemu molimo, naime da vjerujemo da od njega možemo dobiti ono što tražimo. A poniznost je nužna s obzirom na samoga onoga koji traži, koji priznaje svoju oskudicu. Nužna je također i predanost, ali ona pripada bogoštovlju, čiji je prvi čin, nužan za sve sljedeće, kako je gore rečeno. A djelotvornost isprošnje ima od milosti Boga, kojemu molimo, koji nas i potiče na molitvu. Zato Augustin kaže u knjizi O riječima Gospodnjim: *ne bi nas poticao da tražimo kad ne bi htio dati*. A Zlatousti kaže: *nikada ne uskraćuje dobročinstva onome koji moli onaj koji svojom milostivošću potiče one koji mole da ne sustanu*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a15.ad1": {
+      "text": "Na prvo, dakle, treba reći da molitva koja je bez milosti koja čini ugodnim nije zaslužna, kao ni bilo koji drugi krepostan čin. Ipak, i molitva koja isprosi milost koja čini ugodnim proizlazi iz neke milosti, kao iz besplatnog dara, jer je samo moljenje neki Božji dar, kako kaže Augustin u knjizi O ustrajnosti.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a15.ad2": {
+      "text": "Na drugo treba reći da zasluga molitve katkad ponajprije gleda na nešto drugo nego na ono što se traži; zasluga je, naime, ponajprije usmjerena prema blaženstvu, a prošnja se molitve katkad izravno proteže i na neke druge stvari, kao što je očito iz rečenoga. Ako, dakle, to drugo što netko traži za sebe nije korisno za njegovo blaženstvo, on to ne zaslužuje, nego katkad tražeći i želeći to gubi zaslugu, na primjer ako od Boga traži da mu dade izvršiti neki grijeh, što znači ne moliti pobožno. A katkad to nije nužno za spasenje, ali ni očito protivno spasenju. I tada, premda onaj koji moli može moleći zaslužiti vječni život, ipak ne zaslužuje da dobije ono što traži. Zato Augustin kaže u knjizi Prosperovih sentencija: *tko vjerno moli Boga za potrebe ovoga života, i milosrdno biva uslišan i milosrdno biva neuslišan. Jer što je korisno bolesniku, bolje zna liječnik nego bolesnik*. I zbog toga ni Pavao nije bio uslišan kad je tražio da se ukloni žalac tijela, jer to nije bilo probitačno. A ako je ono što se traži korisno za čovjekovo blaženstvo, kao nešto što pripada njegovu spasenju, on to zaslužuje ne samo moleći nego i čineći druga dobra djela. I zato nedvojbeno prima ono što traži, ali kad treba primiti; *neke se stvari, naime, ne uskraćuju, nego se odgađaju da bi se dale u prikladno vrijeme*, kako kaže Augustin u tumačenju Ivana. To se ipak može spriječiti ako netko ne ustraje u traženju. I zbog toga Bazilije kaže: *zato katkad tražiš i ne primaš, jer si tražio naopako, ili bez vjere ili lakoumno, ili ono što ti ne koristi, ili si odustao*. A budući da čovjek ne može drugome zaslužiti vječni život po dostojnosti, kako je gore rečeno, posljedično ni ono što pripada vječnom životu netko ne može katkad drugome zaslužiti po dostojnosti. I zbog toga onaj koji moli za drugoga nije uvijek uslišan, kako je gore utvrđeno. I zato se postavljaju četiri uvjeta, uz koje zajedno netko uvijek isprosi ono što traži: naime da traži za sebe, ono što je nužno za spasenje, pobožno i ustrajno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a15.ad3": {
+      "text": "Na treće treba reći da se molitva ponajviše oslanja na vjeru ne s obzirom na djelotvornost zasluživanja, jer se tako ponajviše oslanja na ljubav, nego s obzirom na djelotvornost isprošnje. Jer po vjeri čovjek ima poznavanje Božje svemoći i milosrđa, iz kojih molitva isprosi ono što traži.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a16.obj1": {
+      "text": "Na šesnaesto se ovako postupa. Čini se da grešnici molitvom ne isprose ništa od Boga. Kaže se, naime, u Iv 9: *znamo da Bog grešnike ne uslišava*. To se slaže s onim što se kaže u Izr 28: *tko okreće svoje uši da ne čuje zakona, njegova će molitva biti odvratna*; a odvratna molitva ne isprosi ništa od Boga. Dakle grešnici ne isprose ništa od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a16.obj2": {
+      "text": "Osim toga, pravednici isprose od Boga ono što zaslužuju, kako je gore utvrđeno. Ali grešnici ne mogu ništa zaslužiti, jer su bez milosti, a i bez ljubavi, koja je snaga pobožnosti, kako kaže Glosa uz 2 Tim 3, uz ono: *imaju doduše privid pobožnosti, ali su se odrekli njezine snage*; i tako ne mole pobožno, što se zahtijeva da bi molitva isprosila, kako je gore rečeno. Dakle grešnici moleći ništa ne isprose.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a16.obj3": {
+      "text": "Osim toga, Zlatousti kaže u tumačenju Mateja: *Otac ne uslišava rado molitvu koju Sin nije izrekao*. Ali u molitvi koju je Krist izrekao kaže se: *otpusti nam duge naše, kako i mi otpuštamo dužnicima našim*, što grešnici ne čine. Dakle ili lažu kad to govore, pa tako nisu dostojni uslišanja; ili, ako to ne govore, nisu uslišani, jer ne drže se oblika moljenja koji je ustanovio Krist.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a16.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u tumačenju Ivana: *kad Bog ne bi uslišavao grešnike, uzalud bi carinik bio rekao: Gospodine, milostiv budi meni grešniku*. A Zlatousti kaže u tumačenju Mateja: *svatko tko traži, prima, to jest bio pravednik ili grešnik*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a16.resp": {
+      "text": "Odgovaram: treba reći da u grešniku treba razmotriti dvoje: naime narav, koju Bog ljubi, i krivnju, koju mrzi. Ako, dakle, grešnik u molitvi traži nešto ukoliko je grešnik, to jest prema želji za grijehom, to ga Bog ne uslišava iz milosrđa, nego ga katkad uslišava za kaznu, dopuštajući da grešnik još dublje padne u grijehe; Bog, naime, neke stvari uskraćuje kad je milostiv, a dopušta ih kad je srdit, kako kaže Augustin. A molitvu grešnika koja proizlazi iz dobre želje naravi Bog uslišava, ne kao iz pravednosti, jer grešnik to ne zaslužuje, nego iz čistog milosrđa, ipak uz poštivanje četiriju spomenutih uvjeta, naime da traži za sebe, ono što je nužno za spasenje, pobožno i ustrajno.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a16.ad1": {
+      "text": "Na prvo, dakle, treba reći da su to, kako kaže Augustin u tumačenju Ivana, riječi slijepca kojemu oči još nisu bile pomazane, to jest koji još nije bio savršeno prosvijetljen. I zato nisu mjerodavne. Premda se mogu potvrditi kao istinite ako se razumiju o grešniku ukoliko je grešnik. Na taj se način i za njegovu molitvu kaže da je odvratna.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a16.ad2": {
+      "text": "Na drugo treba reći da grešnik ne može moliti pobožno tako da bi njegova molitva bila oblikovana habitusom kreposti. Ipak njegova molitva može biti pobožna utoliko što traži nešto što pripada pobožnosti, kao što onaj tko nema habitus pravednosti može htjeti nešto pravedno, kao što je očito iz gore rečenoga. I premda njegova molitva nije zaslužna, ipak može biti djelotvorna za isprošnju, jer se zasluga oslanja na pravednost, a isprošnja na milost.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a16.ad3": {
+      "text": "Na treće treba reći da se, kako je rečeno, Gospodnja molitva izgovara u zajedničko ime cijele Crkve. I zato, ako netko tko ne želi otpustiti duge bližnjemu izgovara Gospodnju molitvu, ne laže, premda ono što govori nije istinito s obzirom na njegovu osobu; istinito je, naime, s obzirom na osobu Crkve. Izvan nje je on po zasluzi, i zato je bez ploda molitve. Ipak su katkad neki grešnici spremni otpustiti svojim dužnicima. I zato oni, kad mole, bivaju uslišani, prema onome iz Sir 28: *oprosti bližnjemu svome koji ti nanosi štetu, i tada će ti se, kad budeš molio, otpustiti grijesi*.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:09+00:00"
+    },
+    "II-II.q83.a17.obj1": {
+      "text": "Na sedamnaesto se ovako postupa. Čini se da se neprikladno kaže da su dijelovi molitve preklinjanja, molitve, molbe i zahvaljivanja. Čini se, naime, da je preklinjanje neko zaklinjanje. Ali, kako kaže Origen u tumačenju Mateja, *ne treba da čovjek koji hoće živjeti po Evanđelju zaklinje drugoga; jer ako nije dopušteno prisezati, nije dopušteno ni zaklinjati*. Dakle preklinjanje se neprikladno postavlja kao dio molitve.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q83.a17.obj2": {
+      "text": "Osim toga, molitva je, prema Damaščaninu, traženje doličnih stvari od Boga. Neprikladno se, dakle, molitve suprotstavljaju molbama.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q83.a17.obj3": {
+      "text": "Osim toga, zahvaljivanja se odnose na prošlo, a ostalo na buduće. Ali prošlo je prije budućega. Neprikladno se, dakle, zahvaljivanja stavljaju iza ostaloga.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q83.a17.sc": {
+      "text": "Za suprotno je autoritet Apostola, 1 Tim 2.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q83.a17.resp": {
+      "text": "Odgovaram: treba reći da se za molitvu zahtijeva troje. Od toga je prvo da onaj koji moli pristupi Bogu, kojemu moli. To se označuje imenom molitve, jer je molitva uzdizanje uma k Bogu. Drugo, zahtijeva se prošnja, koja se označuje imenom molbe, bilo da se prošnja iznosi određeno, što neki u vlastitom smislu nazivaju molbom; bilo neodređeno, kao kad netko traži da mu Bog pomogne, što nazivaju poniznom molbom; bilo da se samo pripovijeda činjenica, prema onome iz Iv 11: *evo, onaj kojega ljubiš bolestan je*, što nazivaju nagovještajem. Treće, zahtijeva se razlog zbog kojega se isprosi ono što se traži. I to bilo s Božje strane, bilo sa strane onoga koji traži. Razlog isprošnje s Božje strane jest njegova svetost, zbog koje tražimo da budemo uslišani, prema onome iz Dn 9: *radi samoga sebe prigni, Bože moj, uho svoje*. I tome pripada preklinjanje, koje je pozivanje na svete stvari, kao kad kažemo: po rođenju svome izbavi nas, Gospodine. A razlog isprošnje sa strane onoga koji traži jest zahvaljivanje, jer zahvaljujući za primljena dobročinstva zaslužujemo primiti veća, kako se kaže u zbornoj molitvi. I zato Glosa uz 1 Tim 2 kaže da *su u misi preklinjanja ono što prethodi posvećenju*, u čemu se spominju neke svete stvari; molitve su u samome posvećenju, u kojem se duh ponajviše treba uzdići k Bogu; a molbe *su u prošnjama koje slijede; zahvaljivanja na kraju*. I u mnogim se crkvenim zbornim molitvama mogu zapaziti ove četiri stvari. Tako u zbornoj molitvi o Trojstvu ono što se kaže: „svemogući vječni Bože”, pripada uzdizanju molitve k Bogu; ono što se kaže: „koji si dao slugama svojim” itd., pripada zahvaljivanju; ono što se kaže: „podaj, molimo” itd., pripada molbi; a ono što se stavlja na kraju: „po Gospodinu našem” itd., pripada preklinjanju. A u Razgovorima otaca kaže se da je *preklinjanje zazivanje za grijehe; molitva, kad Bogu nešto zavjetujemo; molba, kad tražimo za druge*. Ali prvo je bolje.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q83.a17.ad1": {
+      "text": "Na prvo, dakle, treba reći da preklinjanje nije zaklinjanje radi prisiljavanja, koje je zabranjeno, nego radi zazivanja milosrđa.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q83.a17.ad2": {
+      "text": "Na drugo treba reći da molitva uzeta općenito uključuje sve što se ovdje navodi. Ali ukoliko se suprotstavlja ostalima, u vlastitom smislu znači uzdizanje k Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    },
+    "II-II.q83.a17.ad3": {
+      "text": "Na treće treba reći da kod različitih stvari prošlo prethodi budućem, ali jedna te ista stvar prije je buduća nego što je prošla. I zato zahvaljivanje za jedna dobročinstva prethodi molbi za druga dobročinstva; ali isto se dobročinstvo najprije moli, a na posljednjem mjestu, kad je primljeno, za njega se zahvaljuje. A molbi prethodi molitva, po kojoj se pristupa onome od koga tražimo. A molitvi prethodi preklinjanje, jer se iz razmatranja Božje dobrote usuđujemo pristupiti k njemu.",
+      "prompt_version": "1",
+      "glossary_version": 17,
+      "created_at": "2026-11-12T12:04:10+00:00"
+    }
+  }
+}
