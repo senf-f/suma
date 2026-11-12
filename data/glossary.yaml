@@ -1,4 +1,4 @@
-version: 18
+version: 19
 terms:
 - la: esse
   hr: bitak
@@ -3138,3 +3138,56 @@ terms:
     osobito davanje. Škrtost je neumjerena ljubav prema imanju; rasipnost joj je protivna
     po pretjeranom davanju.
   mjesto: II-II.q117.a1.resp
+- la: fortitudo; martyrium; timor / intimiditas / audacia
+  hr: jakost; mučeništvo; strah / bezbojaznost / smjelost
+  alternatives:
+  - neustrašivost
+  note: 'Owner''s choice (v19): intimiditas = "bezbojaznost" (the vice of fearing
+    nothing; never "neustrašivost", which reads as praise). Fortitudo stays "jakost"
+    (v11), fortis = "jak" / "hrabar" by context; martyr = "mučenik"; sustinere / aggredi
+    = "podnositi / napadati"; pericula mortis = "pogibelji smrti"; timidus = "plašljiv";
+    audax = "smion".'
+  opis: Jakost je stožerna krepost koja učvršćuje čovjeka da ne odstupi od dobra razuma
+    zbog straha od teških zala, ponajprije od pogibelji smrti; njezin je glavni čin
+    podnositi, a ne napadati. Mučeništvo je njezin najsavršeniji čin. Protivni su
+    joj strah, bezbojaznost i smjelost.
+  mjesto: null
+- la: magnanimitas / praesumptio, ambitio, inanis gloria, pusillanimitas
+  hr: velikodušnost / preuzetnost, častohleplje, isprazna slava, malodušnost
+  alternatives:
+  - slavohleplje
+  note: 'Owner''s choice (v19): ambitio = "častohleplje", ambitiosus = "častohlepan"
+    (philotimia stays "častoljublje"). Magnanimus = "velikodušan"; pusillanimis =
+    "malodušan"; praesumptio as in v14 = "preuzetnost"; fiducia = "pouzdanje"; securitas
+    = "sigurnost". Daughters of inanis gloria (q.132 a.5): iactantia, praesumptio
+    novitatum, hypocrisis, pertinacia, discordia, contentio, inobedientia = hvalisavost,
+    preuzetnost u novotarijama, licemjerje, tvrdoglavost, nesloga, prepirka, neposlušnost.'
+  opis: Velikodušnost je dio jakosti kojim duh teži velikim stvarima i velikoj časti
+    kako je dostojno. Po pretjeranosti joj se protive preuzetnost, častohleplje i
+    isprazna slava, a po nedostatku malodušnost.
+  mjesto: null
+- la: magnificentia / parvificentia, consumptio (banausia)
+  hr: velebnost / sitničavost, razmetljivost
+  alternatives:
+  - rasipništvo
+  note: 'Owner''s choice (v19): parvificentia = "sitničavost", parvificus = "sitničav";
+    consumptio / banausia = "razmetljivost" (prodigalitas stays "rasipnost"). Magnificentia
+    stays "velebnost" (v11), magnificus = "velebni"; sumptus = "trošak"; opus magnum
+    = "veliko djelo".'
+  opis: Velebnost je krepost kojom se čini neko veliko djelo, s velikim troškom koji
+    mu je primjeren. Protivi joj se sitničavost, koja za veliko djelo troši premalo,
+    i razmetljivost, koja troši preko razmjera.
+  mjesto: null
+- la: patientia, longanimitas, perseverantia, constantia / mollities, pertinacia
+  hr: strpljivost, dugotrpnost, ustrajnost, postojanost / mekoputnost, tvrdoglavost
+  alternatives:
+  - mlitavost
+  note: 'Owner''s choice (v19): mollities = "mekoputnost", mollis = "mekoputan" (where
+    it means effeminacy in the vice list of 1 Cor 6 the same word serves). Patiens
+    = "strpljiv"; perseverare = "ustrajati"; perseverantia finalis stays "konačna
+    ustrajnost"; pertinax = "tvrdoglav"; tristitia = "žalost".'
+  opis: Strpljivost čuva dobro razuma protiv žalosti; dugotrpnost čeka dobro koje
+    dugo izostaje; ustrajnost ostaje u dobru unatoč duljini napora, a postojanost
+    unatoč vanjskim zaprekama. Ustrajnosti se protivi mekoputnost, koja lako odustaje,
+    i tvrdoglavost, koja ne odustaje ni kad treba.
+  mjesto: null
