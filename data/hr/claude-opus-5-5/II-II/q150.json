@@ -1,0 +1,216 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 150,
+  "units": {
+    "II-II.q150.pr": {
+      "text": "Zatim treba razmotriti pijanstvo. I o tome se pita četiri stvari. Prvo, je li pijanstvo grijeh. Drugo, je li smrtni grijeh. Treće, je li najteži od grijeha. Četvrto, ispričava li od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da pijanstvo nije grijeh. Svaki, naime, grijeh ima drugi grijeh sebi suprotstavljen, kao što se plašljivosti suprotstavlja smjelost, a malodušnosti preuzetnost. Ali pijanstvu se ne suprotstavlja nikakav grijeh. Dakle, pijanstvo nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a1.obj2": {
+      "text": "Osim toga, svaki je grijeh voljan. Ali nitko ne želi biti pijan, jer nitko ne želi biti lišen uporabe razuma. Dakle, pijanstvo nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a1.obj3": {
+      "text": "Osim toga, tko god je drugome uzrok griješenja, griješi. Kad bi, dakle, pijanstvo bilo grijeh, slijedilo bi da griješe oni koji druge pozivaju na piće od kojega se opijaju. A to se čini vrlo tvrdim.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a1.obj4": {
+      "text": "Osim toga, svim grijesima pripada opomena. Ali pijancima se ne upućuje opomena; Grgur, naime, kaže da *ih valja s oproštenjem prepustiti njihovoj ćudi, da ne postanu gori ako ih se iščupa iz takve navike*. Dakle, pijanstvo nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol, Rim 13: *ne u žderanju i pijanstvima*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a1.resp": {
+      "text": "Odgovaram: treba reći da se pijanstvo može uzeti dvojako. Na jedan način, ukoliko označuje sam nedostatak čovjeka koji nastaje od mnogo popijena vina, zbog čega se događa da čovjek nije vladar svoga razuma. I prema tome pijanstvo ne imenuje krivnju, nego kazneni nedostatak koji slijedi iz krivnje. Na drugi način pijanstvo može imenovati čin kojim tko upada u taj nedostatak. A taj čin može prouzročiti pijanstvo dvojako. Na jedan način, zbog prevelike jakosti vina, mimo mišljenja onoga koji pije. I tako se pijanstvo može dogoditi i bez grijeha, osobito ako se ne dogodi iz čovjekova nemara; i tako se vjeruje da se opio Noa, kako se čita u Post 9. Na drugi način, iz neuredne požude za vinom i neuredne uporabe vina. I tako se pijanstvo uzima kao grijeh. I ono je sadržano pod neumjerenošću u jelu i piću kao vrsta pod rodom; neumjerenost u jelu i piću, naime, dijeli se na žderanje i pijanstvo, što Apostol zabranjuje u navedenom mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kako kaže Filozof u III. knjizi Etike, neosjetljivost, koja se suprotstavlja umjerenosti, ne događa često. I zato i ona sama i sve njezine vrste, koje se suprotstavljaju različitim vrstama neumjerenosti, nemaju imena. Stoga je i porok koji se suprotstavlja pijanstvu bez imena. Pa ipak, kad bi se tko svjesno toliko uzdržavao od vina da bi time teško opteretio narav, ne bi bio slobodan od krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a1.ad2": {
+      "text": "Na drugo treba reći da se onaj prigovor odnosi na nedostatak koji slijedi, a koji je protuvoljan. Ali neumjerena uporaba vina, u kojoj se sastoji pojam grijeha, voljna je.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a1.ad3": {
+      "text": "Na treće treba reći da, kao što se onaj koji se opije ispričava od grijeha ako ne zna za jakost vina, tako se i onaj koji koga poziva da pije ispričava od grijeha ako ne zna da je stanje onoga koji pije takvo da će se od toga pića opiti. Ali ako nema neznanja, nijedan od njih nije ispričan od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a1.ad4": {
+      "text": "Na četvrto treba reći da opomenu grešnika katkad treba propustiti, da on od toga ne postane gori, kako je gore rečeno. Stoga Augustin, govoreći o žderanju i pijanstvima, kaže u poslanici biskupu Aureliju: *Ovo se, koliko ja smatram, ne uklanja oštro, ne tvrdo, ne zapovjednički, nego više poučavanjem nego naređivanjem, više opominjanjem nego prijetnjom. Tako, naime, valja postupati s mnoštvom grešnika, a strogost treba primjenjivati prema grijehu malobrojnih*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da pijanstvo nije smrtni grijeh. Augustin, naime, u govoru O čistilištu kaže da je pijanstvo smrtni grijeh ako je učestalo. Ali učestalost donosi okolnost koja ne prenosi u drugu vrstu grijeha, pa tako ne može otežavati unedogled, tako da od lakoga grijeha učini smrtni, kao što je jasno iz onoga što je gore rečeno. Dakle, ako inače pijanstvo nije smrtni grijeh, neće biti smrtni grijeh ni na taj način.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a2.obj2": {
+      "text": "Osim toga, Augustin u istom govoru kaže: *Kad god tko u jelu ili piću uzme više nego što je potrebno, neka zna da to spada među sitne grijehe*. A sitnim se grijesima nazivaju laki grijesi. Dakle, pijanstvo, koje je prouzročeno neumjerenim pićem, laki je grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a2.obj3": {
+      "text": "Osim toga, nijedan se smrtni grijeh ne smije počiniti radi lijeka. Ali neki po savjetu liječničkog umijeća piju preko mjere, da bi se poslije očistili povraćanjem; a od toga prekomjernog pića slijedi pijanstvo. Dakle, pijanstvo nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a2.sc": {
+      "text": "Ali protiv toga je ono što se čita u Apostolskim kanonima: *Biskup ili prezbiter ili đakon koji se odaje kocki ili pijanstvu neka ili prestane ili bude svrgnut. A subđakon ili čitač ili pjevač koji čini slično neka ili prestane ili bude lišen zajedništva. Isto tako i laik*. Ali takve se kazne izriču samo za smrtni grijeh. Dakle, pijanstvo je smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a2.resp": {
+      "text": "Odgovaram: treba reći da se krivnja pijanstva, kako je rečeno, sastoji u neumjerenoj uporabi vina i neumjerenoj požudi za njim. A to se može dogoditi trojako. Na jedan način, tako da tko ne zna da je piće neumjereno i da može opiti. I tako se pijanstvo može dogoditi bez grijeha, kako je rečeno. Na drugi način, tako da tko opaža da je piće neumjereno, ali ipak ne smatra da piće može opiti. I tako pijanstvo može biti s lakim grijehom. Na treći način, može se dogoditi da tko dobro uočava da je piće neumjereno i da opija, pa ipak radije hoće upasti u pijanstvo nego se uzdržati od pića. I takav se u vlastitom smislu naziva pijanim, jer moralne stvari primaju vrstu ne od onoga što se događa akcidentalno, mimo nakane, nego od onoga što je po sebi smjerano. I tako je pijanstvo smrtni grijeh. Jer prema tome čovjek hotimice i svjesno sebe lišava uporabe razuma, kojom djeluje prema kreposti i izbjegava grijehe; i tako smrtno griješi, izlažući se pogibelji griješenja. Ambrozije, naime, kaže u knjizi O patrijarsima: *Kažemo da treba izbjegavati pijanstvo, zbog kojega se ne možemo čuvati zločina; jer ono čega se trijezni čuvamo, to zbog pijanstva u neznanju počinjamo*. Stoga je pijanstvo, govoreći po sebi, smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da učestalost čini pijanstvo smrtnim grijehom ne zbog samoga ponavljanja čina, nego zato što ne može biti da se čovjek učestalo opija a da ne upada u pijanstvo svjesno i hotimice, budući da mnogo puta iskušava jakost vina i svoju sklonost pijanstvu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a2.ad2": {
+      "text": "Na drugo treba reći da uzimati u jelu ili piću više nego što je potrebno spada na porok neumjerenosti u jelu i piću, koja nije uvijek smrtni grijeh. Ali svjesno uzimati više pića sve do pijanstva, to je smrtni grijeh. Stoga Augustin kaže u X. knjizi Ispovijesti: *Pijanstvo je daleko od mene; smilovat ćeš se da mi se ne približi. A prejedanje se katkad prikralo tvome sluzi*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a2.ad3": {
+      "text": "Na treće treba reći da, kako je rečeno, jelo i piće treba odmjeravati prema onome što priliči zdravlju tijela. I zato, kao što se katkad događa da jelo ili piće koje je umjereno za zdravoga bude prekomjerno za bolesnoga, tako se može dogoditi i obratno, da ono koje je prekomjerno za zdravoga bude umjereno za bolesnoga. I na taj način, kad tko mnogo jede ili pije po savjetu liječničkog umijeća da izazove povraćanje, to se jelo ili piće ne treba smatrati prekomjernim. Ipak, za izazivanje povraćanja nije potrebno da piće bude opojno, jer i pijenje mlake vode uzrokuje povraćanje. I zato se zbog toga razloga nitko ne bi ispričao od pijanstva.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je pijanstvo najteži od grijeha. Zlatousti, naime, kaže da *ništa nije tako prijateljsko đavlu kao pijanstvo i raskalašenost, koja je majka svih poroka*. I u Dekretima se kaže, dist. 35: *Klerici neka prije svega izbjegavaju pijanstvo, koje je korijen i hranitelj svih poroka*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a3.obj2": {
+      "text": "Osim toga, za nešto se kaže da je grijeh po tome što isključuje dobro razuma. Ali to najviše čini pijanstvo. Dakle, pijanstvo je najveći od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a3.obj3": {
+      "text": "Osim toga, veličina krivnje pokazuje se iz veličine kazne. Ali čini se da je pijanstvo najviše kažnjeno; Ambrozije, naime, kaže: *Ne bi bilo ropstva među ljudima da nije bilo pijanstva*. Dakle, pijanstvo je najveći od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a3.sc": {
+      "text": "Ali protiv toga je to što su, prema Grguru, duhovni poroci veći od tjelesnih. Ali pijanstvo je sadržano među tjelesnim porocima. Dakle, ono nije najveći od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a3.resp": {
+      "text": "Odgovaram: treba reći da se za nešto kaže da je zlo po tome što lišava dobra. Stoga, što je veće dobro kojega se lišava zlom, to je zlo teže. A očito je da je božansko dobro veće od ljudskoga dobra. I zato su grijesi koji su izravno protiv Boga teži od grijeha pijanstva, koji se izravno suprotstavlja dobru ljudskoga razuma.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da čovjek ima najveću nagnutost prema grijesima neumjerenosti, zbog toga što su nam takve požude i naslade sunaravne. I prema tome se za takve grijehe kaže da su najviše prijateljski đavlu, ne zato što bi bili teži od drugih, nego zato što su među ljudima češći.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a3.ad2": {
+      "text": "Na drugo treba reći da se dobro razuma priječi dvojako: na jedan način, onim što je protivno razumu; na drugi način, onim što oduzima uporabu razuma. A više ima od pojma zla ono što je protivno razumu nego ono što na neko vrijeme oduzima uporabu razuma. Jer uporaba razuma, koja se uklanja pijanstvom, može biti i dobra i zla; ali dobra kreposti, koja se uklanjaju onim što je protivno razumu, uvijek su dobra.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a3.ad3": {
+      "text": "Na treće treba reći da je ropstvo proizašlo iz pijanstva prigodno, ukoliko je Ham primio prokletstvo ropstva u svome potomstvu zato što se narugao opijenome ocu. Ali ropstvo nije bilo izravno kazna za pijanstvo.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da pijanstvo ne ispričava od grijeha. Filozof, naime, kaže u III. knjizi Etike da *pijan zaslužuje dvostruke osude*. Dakle, pijanstvo grijeh više otežava nego što ga ispričava.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a4.obj2": {
+      "text": "Osim toga, grijeh se ne ispričava grijehom, nego se još povećava. A pijanstvo je grijeh. Dakle, ono ne ispričava od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a4.obj3": {
+      "text": "Osim toga, Filozof kaže u VII. knjizi Etike da, kao što je razum čovjeka sputan pijanstvom, tako je sputan i požudom. Ali požuda ne ispričava od grijeha. Dakle, ne ispričava ni pijanstvo.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a4.sc": {
+      "text": "Ali protiv toga je to što se Lot ispričava od rodoskvrnuća zbog pijanstva, kako kaže Augustin u djelu Protiv Fausta.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a4.resp": {
+      "text": "Odgovaram: treba reći da se u pijanstvu, kako je rečeno, uočavaju dvije stvari, naime nedostatak koji slijedi i čin koji prethodi. S obzirom na nedostatak koji slijedi, u kojemu je uporaba razuma sputana, pijanstvo može ispričati grijeh, ukoliko uzrokuje protuvoljnost putem neznanja. Ali s obzirom na čin koji prethodi, čini se da valja razlikovati. Jer ako je iz onoga prethodnog čina pijanstvo uslijedilo bez grijeha, tada je grijeh koji slijedi potpuno ispričan od krivnje, kao što se možda dogodilo s Lotom. Ako je pak prethodni čin bio kažnjiv, tada tko nije potpuno ispričan od grijeha koji slijedi, koji, naime, postaje voljan iz htijenja prethodnoga čina, ukoliko, naime, tko, baveći se nedopuštenom stvari, upada u grijeh koji slijedi. Ipak se grijeh koji slijedi umanjuje, kao što se umanjuje i pojam voljnoga. Stoga Augustin kaže u djelu Protiv Fausta da *Lota treba okriviti ne koliko je zaslužilo ono rodoskvrnuće, nego koliko je zaslužilo pijanstvo*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Filozof ne kaže da pijan zaslužuje težu osudu, nego da zaslužuje dvostruke osude, zbog dvostrukoga grijeha. Ili se može reći da on govori prema zakonu nekoga Pitaka, koji je, kako se kaže u II. knjizi Politike, odredio da se pijani, ako koga udare, kažnjavaju više nego trijezni, jer češće nanose nepravdu. U tome se, kako ondje kaže Aristotel, čini da je više gledao na korist, naime da se suzbiju nepravde, nego na oproštenje koje treba imati prema pijanima, zbog toga što nisu gospodari sami sebe.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a4.ad2": {
+      "text": "Na drugo treba reći da pijanstvo može ispričati grijeh ne s one strane po kojoj je grijeh, nego sa strane nedostatka koji slijedi, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q150.a4.ad3": {
+      "text": "Na treće treba reći da požuda ne sputava razum potpuno, kao pijanstvo, osim ako možda nije tolika da čovjeka učini bezumnim. Pa ipak strast požude umanjuje grijeh, jer je lakše griješiti iz slabosti nego iz zloće.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    }
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 162,
+  "units": {
+    "II-II.q162.pr": {
+      "text": "Zatim treba razmotriti oholost. I to najprije oholost općenito; drugo, grijeh prvoga čovjeka, za koji se drži da je bio oholost. Glede prvoga pita se osam stvari. Prvo, je li oholost grijeh. Drugo, je li poseban porok. Treće, u čemu je kao u subjektu. Četvrto, o njezinim vrstama. Peto, je li smrtni grijeh. Šesto, je li najteži od svih grijeha. Sedmo, o njezinu odnosu prema drugim grijesima. Osmo, treba li je postaviti kao glavni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da oholost nije grijeh. Nijedan grijeh, naime, Bog ne obećava; jer Bog obećava ono što će sam učiniti, a on nije začetnik grijeha. Ali oholost se ubraja među božanska obećanja, jer se u Iz 60 kaže: *Postavit ću te za oholost vjekova, za radost od naraštaja do naraštaja*. Dakle, oholost nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a1.obj2": {
+      "text": "Osim toga, težiti za božanskom sličnošću nije grijeh; jer za tim naravno teži svaki stvor i u tome se sastoji njegovo najveće dobro. A to osobito pristaje razumnom stvoru, koji je stvoren na sliku i sličnost Božju. Ali, kako se kaže u Prosperovoj knjizi Sentencija, oholost je ljubav prema vlastitoj izvrsnosti, po kojoj se čovjek upodobljuje Bogu, koji je najizvrsniji; zato Augustin kaže u II. knjizi Ispovijesti: *Oholost oponaša uzvišenost, dok si ti jedini Bog uzvišen iznad svega*. Dakle, oholost nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a1.obj3": {
+      "text": "Osim toga, grijeh se ne protivi samo kreposti nego i suprotstavljenom poroku, kako je očito po Filozofu u II. knjizi Etike. Ali ne nalazi se nijedan porok suprotstavljen oholosti. Dakle, oholost nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a1.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Tob 4: *Nikada ne dopusti da oholost vlada u tvojoj misli ili u tvojoj riječi*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a1.resp": {
+      "text": "Odgovaram: treba reći da oholost (superbia) dobiva ime po tome što tko voljom teži iznad (supra) onoga što jest; zato Izidor kaže u knjizi Etimologija: *Ohol (superbus) je nazvan tako jer želi izgledati iznad (super) onoga što jest; jer tko želi nadići ono što jest, ohol je*. A ispravni razum zahtijeva da se volja svakoga upravlja prema onome što mu je razmjerno. I zato je očito da oholost sa sobom nosi nešto što se protivi ispravnom razumu. A to čini pojam grijeha, jer je prema Dioniziju, u IV. poglavlju knjige O božanskim imenima, zlo duše biti mimo razuma. Zato je očito da je oholost grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se oholost može shvatiti na dva načina. Na jedan način, po tome što nadilazi pravilo razuma. I tako kažemo da je grijeh. Na drugi se način oholost može nazvati naprosto po prekomjernosti. I prema tome se sve što prekomjerno nadilazi može nazvati ohološću. I tako Bog obećava oholost, kao neku prekomjernost dobara. Zato i Jeronimova glosa ondje kaže da postoji dobra i zla oholost. Premda bi se moglo reći i da se oholost ondje uzima tvarno, za obilje stvari zbog kojih se ljudi mogu oholiti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a1.ad2": {
+      "text": "Na drugo treba reći da je razum taj koji uređuje ono za čim čovjek naravno teži; i tako, ako tko odstupi od pravila razuma, bilo prema više bilo prema manje, takva će težnja biti poročna, kao što je očito u težnji za hranom, koja se naravno želi. A oholost teži za izvrsnošću preko ispravnoga razuma; zato Augustin kaže u XIV. knjizi O Božjem gradu da je oholost težnja za izopačenom uzvišenošću. I odatle je također, kako kaže Augustin u XIX. knjizi O Božjem gradu, da *oholost izopačeno oponaša Boga. Jer mrzi jednakost s drugovima pod njim, a hoće drugovima nametnuti svoje gospodstvo umjesto njega*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a1.ad3": {
+      "text": "Na treće treba reći da se oholost izravno suprotstavlja kreposti poniznosti, koja se na neki način odnosi na isto što i velikodušnost, kako je gore rečeno. Zato je i porok koji se suprotstavlja oholosti naginjući prema nedostatku blizak poroku malodušnosti, koja se suprotstavlja velikodušnosti po nedostatku. Jer kao što velikodušnosti pripada poticati duh prema velikome, protiv očaja, tako poniznosti pripada odvraćati duh od neuredne težnje za velikim, protiv preuzetnosti. A malodušnost, ako znači nedostatak u nastojanju oko velikoga, u vlastitom se smislu suprotstavlja velikodušnosti na način nedostatka; ako pak znači usmjeravanje duha na nešto niže nego što čovjeku priliči, suprotstavljat će se poniznosti po nedostatku; jer oboje proizlazi iz malenosti duha. Kao što se i, obratno, oholost po prekomjernosti može suprotstavljati i velikodušnosti i poniznosti, pod različitim vidovima: poniznosti, ukoliko prezire podložnost; velikodušnosti pak, ukoliko se neuredno pruža prema velikome. Ali budući da oholost sa sobom nosi neku nadmoćnost, izravnije se suprotstavlja poniznosti, kao što se i malodušnost, koja znači malenost duha u težnji prema velikome, izravnije suprotstavlja velikodušnosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da oholost nije poseban grijeh. Augustin, naime, kaže u knjizi O naravi i milosti: *Nećeš naći nijednoga grijeha bez naziva oholosti*. A Prosper kaže u knjizi O motrilačkom životu: *Nijedan grijeh ne može, niti je mogao, niti će moći biti bez oholosti*. Dakle, oholost je opći grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a2.obj2": {
+      "text": "Osim toga, uz ono iz Job 33, da odvrati čovjeka od bezakonja, Glosa kaže da *oholiti se protiv Stvoritelja znači griješeći prestupati njegove zapovijedi*. Ali prema Ambroziju, *svaki je grijeh prestupanje božanskoga zakona i neposlušnost nebeskim zapovijedima*. Dakle, svaki je grijeh oholost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a2.obj3": {
+      "text": "Osim toga, svaki se poseban grijeh suprotstavlja nekoj posebnoj kreposti. Ali oholost se suprotstavlja svim krepostima; jer Grgur kaže u XXXIV. knjizi Moralija: *Oholost se nikako ne zadovoljava uništenjem jedne kreposti; uzdiže se kroz sve udove duše i kao opća i kužna bolest kvari cijelo tijelo*. A Izidor kaže u knjizi Etimologija da je ona propast svih kreposti. Dakle, oholost nije poseban grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a2.obj4": {
+      "text": "Osim toga, svaki poseban grijeh ima posebnu građu. Ali oholost ima opću građu; jer Grgur kaže u XXXIV. knjizi Moralija da se *jedan nadima zlatom, drugi rječitošću, treći najnižim i zemaljskim stvarima, četvrti najvišim i nebeskim krepostima*. Dakle, oholost nije poseban, nego opći grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a2.sc": {
+      "text": "Ali protiv toga jest ono što Augustin kaže u knjizi O naravi i milosti: *Neka traži, i naći će da je prema Božjem zakonu oholost grijeh koji se uvelike razlikuje od drugih poroka*. A rod se ne razlikuje od svojih vrsta. Dakle, oholost nije opći, nego poseban grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a2.resp": {
+      "text": "Odgovaram: treba reći da se grijeh oholosti može promatrati na dva načina. Na jedan način, prema vlastitoj vrsti, koju ima iz pojma vlastitoga predmeta. I na taj je način oholost poseban grijeh, jer ima poseban predmet: ona je, naime, neuredna težnja za vlastitom izvrsnošću, kako je rečeno. Na drugi se način može promatrati prema nekom prelijevanju u druge grijehe. I prema tome ima neku općenitost, ukoliko naime iz oholosti mogu nastati svi grijesi, i to s dvostrukoga razloga. Na jedan način, po sebi, ukoliko se naime drugi grijesi usmjeruju prema svrsi oholosti, a to je vlastita izvrsnost, prema kojoj se može usmjeriti sve za čim tko neuredno teži. Na drugi način, neizravno i kao akcidentalno, naime uklanjanjem zapreke, ukoliko naime po oholosti čovjek prezire božanski zakon, kojim mu se brani griješiti, prema onome iz Jr 2: *Slomio si jaram, raskinuo si sveze, rekao si: Neću služiti*. Treba ipak znati da toj općenitosti oholosti pripada to da svi poroci ponekad mogu nastati iz oholosti, ali joj ne pripada to da svi poroci uvijek nastaju iz oholosti. Jer premda tko može prestupiti sve zapovijedi zakona bilo kojim grijehom iz prezira, koji pripada oholosti, ipak ne prestupa tko Božje zapovijedi uvijek iz prezira, nego katkad iz neznanja, katkad iz slabosti. I odatle je, kako kaže Augustin u knjizi O naravi i milosti, da se *mnogo toga čini naopako što se ne čini oholo*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin te riječi u knjizi O naravi i milosti ne navodi u svoje ime, nego u ime drugoga, protiv kojega raspravlja. Zato ih poslije i pobija, pokazujući da se ne griješi uvijek iz oholosti. Ipak se može reći da se ti navodi autoriteta shvaćaju s obzirom na vanjski učinak oholosti, a to je prestupati zapovijedi, što se nalazi u svakom grijehu; a ne s obzirom na unutarnji čin oholosti, a to je prezir zapovijedi. Jer grijeh se ne čini uvijek iz prezira, nego katkad iz neznanja, katkad iz slabosti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a2.ad2": {
+      "text": "Na drugo treba reći da katkad tko počini neki grijeh po učinku, ali ne po čuvstvu; kao što onaj tko iz neznanja ubije oca počini oceubojstvo po učinku, ali ne po čuvstvu, jer to nije smjerao. I prema tome se za prestupanje Božje zapovijedi kaže da je oholjenje protiv Boga, po učinku doduše uvijek, ali ne uvijek po čuvstvu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a2.ad3": {
+      "text": "Na treće treba reći da neki grijeh može pokvariti krepost na dva načina. Na jedan način, izravnom protivnošću kreposti. I na taj način oholost ne kvari bilo koju krepost, nego samo poniznost, kao što i svaki drugi poseban grijeh kvari posebnu krepost koja mu je suprotstavljena, čineći protivno. Na drugi način neki grijeh kvari krepost zlouporabom same kreposti. I tako oholost kvari svaku krepost, ukoliko naime iz samih kreposti uzima povod za oholjenje, kao i iz bilo kojih drugih stvari koje pripadaju izvrsnosti. Zato ne slijedi da je opći grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a2.ad4": {
+      "text": "Na četvrto treba reći da oholost gleda na poseban pojam predmeta, koji se ipak može naći u različitoj građi. Ona je, naime, neuredna ljubav prema vlastitoj izvrsnosti, a izvrsnost se može naći u različitim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da oholost nije u srditoj moći kao u subjektu. Grgur, naime, kaže u XXIII. knjizi Moralija: *Zapreka je istini nadutost duha, jer dok nadima, zamračuje*. Ali spoznaja istine ne pripada srditoj moći, nego razumskoj sili. Dakle, oholost nije u srditoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a3.obj2": {
+      "text": "Osim toga, Grgur kaže u XXIV. knjizi Moralija da *oholi ne razmatraju život onih iza kojih bi se ponizno postavili, nego onih ispred kojih se oholo stavljaju*; i tako se čini da oholost proizlazi iz nedolična razmatranja. Ali razmatranje ne pripada srditoj moći, nego prije razumskoj. Dakle, oholost nije u srditoj, nego prije u razumskoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a3.obj3": {
+      "text": "Osim toga, oholost ne traži izvrsnost samo u osjetnim stvarima, nego i u duhovnim i umljivima; i sama se ponajprije sastoji u preziranju Boga, prema onome iz Sir 10: *Početak je ljudske oholosti otpasti od Boga*. Ali srdita moć, budući da je dio osjetilne težnje, ne može se protezati na Boga i na umljivo. Dakle, oholost ne može biti u srditoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a3.obj4": {
+      "text": "Osim toga, kako se kaže u Prosperovoj knjizi Sentencija, *oholost je ljubav prema vlastitoj izvrsnosti*. Ali ljubav nije u srditoj, nego u požudnoj moći. Dakle, oholost nije u srditoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a3.sc": {
+      "text": "Ali protiv toga jest to što Grgur u II. knjizi Moralija protiv oholosti postavlja dar straha. A strah pripada srditoj moći. Dakle, oholost je u srditoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a3.resp": {
+      "text": "Odgovaram: treba reći da subjekt bilo koje kreposti ili poroka treba istraživati iz vlastitoga predmeta; jer predmet habitusa ili čina ne može biti ništa drugo nego ono što je predmet moći koja je podložna i jednomu i drugomu. A vlastiti je predmet oholosti teško dostižno, jer ona je težnja za vlastitom izvrsnošću, kako je rečeno. Zato oholost na neki način mora pripadati srditoj sili. Ali srdita se moć može shvatiti na dva načina. Na jedan način, u vlastitom smislu. I tako je ona dio osjetilne težnje, kao što je i srdžba, uzeta u vlastitom smislu, neka strast osjetilne težnje. Na drugi se način srdita moć može shvatiti šire, tako naime da pripada i umskoj težnji, kojoj se katkad također pripisuje srdžba, ukoliko naime pripisujemo srdžbu Bogu i anđelima, ne doduše po strasti, nego po sudu pravednosti onoga koji sudi. Ipak, srdita moć tako općenito shvaćena nije moć različita od požudne, kako je očito iz onoga što je rečeno u Prvom dijelu. Kad bi, dakle, teško dostižno, koje je predmet oholosti, bilo samo nešto osjetno, prema čemu bi mogla težiti osjetilna težnja, trebalo bi da oholost bude u srditoj moći koja je dio osjetilne težnje. Ali budući da se teško dostižno na koje gleda oholost općenito nalazi i u osjetnim i u duhovnim stvarima, nužno je reći da je subjekt oholosti srdita moć ne samo uzeta u vlastitom smislu, ukoliko je dio osjetilne težnje, nego i uzeta općenitije, ukoliko se nalazi u umskoj težnji. Zato se oholost pripisuje i demonima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je spoznaja istine dvostruka. Jedna je čisto spekulativna. Nju oholost priječi neizravno, oduzimajući uzrok. Jer ohol čovjek niti podlaže svoj um Bogu da bi od njega primio spoznaju istine, prema onome iz Mt 11, sakrio si ovo od mudrih i razboritih, to jest od oholih, koji se sami sebi čine mudrima i razboritima, i objavio si to malenima, to jest poniznima; niti se oholi udostojavaju učiti od ljudi, premda se u Sir 6 kaže: *Ako prigneš svoje uho*. Naime, ponizno slušajući, primit ćeš nauk. Druga je pak čuvstvena spoznaja istine. I takvu spoznaju istine oholost izravno priječi. Jer oholi, dok se naslađuju vlastitom izvrsnošću, osjećaju odbojnost prema izvrsnosti istine, kao što Grgur kaže u XXIII. knjizi Moralija da *oholi neke tajne doduše shvaćaju i spoznaju, ali njihovu slatkoću ne mogu iskusiti; i ako znaju kakve su, ne znaju kakva su okusa*. Zato se i u Izr 11 kaže: *Gdje je poniznost, ondje je mudrost*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a3.ad2": {
+      "text": "Na drugo treba reći da, kako je gore rečeno, poniznost pazi na pravilo ispravnoga razuma, prema kojemu tko ima istinitu procjenu o sebi. A oholost ne pazi na to pravilo ispravnoga razuma, nego o sebi misli više nego što jest. To se događa iz neuredne težnje za vlastitom izvrsnošću, jer ono što tko žarko želi, lako vjeruje. I iz toga se i njegova težnja upravlja prema višemu nego što mu pristaje. I zato sve što pridonosi tome da tko smatra da je iznad onoga što jest navodi čovjeka na oholost. Jedno je od toga da tko razmatra nedostatke drugih; kao što, obratno, Grgur ondje kaže da *sveti muževi razmatranjem kreposti jedni druge stavljaju iznad sebe*. Iz toga, dakle, ne proizlazi da je oholost u razumskoj moći, nego da je neki njezin uzrok u razumu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a3.ad3": {
+      "text": "Na treće treba reći da oholost nije u srditoj moći samo ukoliko je ona dio osjetilne težnje, nego ukoliko se srdita moć uzima općenitije, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a3.ad4": {
+      "text": "Na četvrto treba reći da, kako kaže Augustin u XIV. knjizi O Božjem gradu, ljubav prethodi svim drugim čuvstvima duše i njihov je uzrok. I zato se može staviti umjesto bilo kojega od drugih čuvstava. I prema tome se kaže da je oholost ljubav prema vlastitoj izvrsnosti, ukoliko iz ljubavi biva uzrokovana neuredna preuzetnost da se nadvisi druge, što u vlastitom smislu pripada oholosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se neprikladno određuju četiri vrste oholosti koje Grgur određuje u XXIII. knjizi Moralija, govoreći: *Četiri su, naime, vrste po kojima se očituje sva nadutost uznositih: kad misle da dobro imaju od samih sebe; ili, ako vjeruju da im je dano odozgo, misle da su ga primili po svojim zaslugama; ili kad se hvale da imaju ono što nemaju; ili, prezirući ostale, žele se pokazati kao da jedini imaju ono što imaju*. Oholost je, naime, porok različit od nevjere, kao što je i poniznost krepost različita od vjere. Ali to da tko smatra da dobro nema od Boga, ili da dobro milosti ima po vlastitim zaslugama, pripada nevjeri. Dakle, to se ne smije postavljati kao vrste oholosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a4.obj2": {
+      "text": "Osim toga, isto se ne smije postavljati kao vrsta različitih rodova. Ali hvalisavost se postavlja kao vrsta laži, kako je gore utvrđeno. Dakle, ne smije se postavljati kao vrsta oholosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a4.obj3": {
+      "text": "Osim toga, čini se da oholosti pripada i nešto drugo što se ovdje ne nabraja. Jeronim, naime, kaže da *ništa nije tako oholo kao pokazati se nezahvalnim*. A Augustin kaže u XIV. knjizi O Božjem gradu da oholosti pripada ispričavati se za počinjeni grijeh. I čini se da ponajviše oholosti pripada preuzetnost, kojom tko teži postići nešto što je iznad njega. Dakle, navedena podjela ne obuhvaća dostatno vrste oholosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a4.obj4": {
+      "text": "Osim toga, nalaze se i druge podjele oholosti. Anzelmo, naime, dijeli uzvisivanje oholosti, govoreći da je jedno u volji, drugo u govoru, treće u djelovanju. A i Bernard postavlja dvanaest stupnjeva oholosti, a to su: *radoznalost, lakoumnost, nesuvisla veselost, hvalisavost, osebujnost, uznositost, preuzetnost, obrana grijeha, hinjena ispovijed, buntovnost, samovolja, navika griješenja*. Čini se da oni nisu obuhvaćeni vrstama koje je odredio Grgur. Dakle, čini se da se te vrste neprikladno određuju.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a4.sc": {
+      "text": "Ali protiv toga neka bude dostatan Grgurov autoritet.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a4.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, oholost sa sobom nosi neumjerenu težnju za izvrsnošću, koja naime nije u skladu s ispravnim razumom. Treba pak imati na umu da svaka izvrsnost slijedi iz nekoga posjedovanog dobra. A to se može promatrati na tri načina. Na jedan način, po sebi. Očito je, naime, da što je veće dobro koje tko ima, to po njemu postiže veću izvrsnost. I zato, kad tko sebi pripisuje veće dobro nego što ga ima, slijedi da njegova težnja teži prema vlastitoj izvrsnosti preko mjere koja mu pristaje. I tako nastaje treća vrsta oholosti, naime kad se tko hvali da ima ono što nema. Na drugi način, s obzirom na uzrok, ukoliko je izvrsnije da je neko dobro u kome od njega samoga nego da je u njemu od drugoga. I zato, kad tko dobro koje ima od drugoga smatra kao da ga ima od sebe samoga, njegova se težnja posljedično upravlja prema vlastitoj izvrsnosti iznad njegove mjere. A tko je uzrok svoga dobra na dva načina: na jedan način tvorno, na drugi način zaslužno. I prema tome se uzimaju prve dvije vrste oholosti, naime kad tko misli da od sebe samoga ima ono što ima od Boga, ili kad vjeruje da mu je dano odozgo po vlastitim zaslugama. Na treći način, s obzirom na način posjedovanja, ukoliko tko postaje izvrsniji time što neko dobro posjeduje izvrsnije od ostalih. Zato se i iz toga težnja neuredno upravlja prema vlastitoj izvrsnosti. I prema tome se uzima četvrta vrsta oholosti, a to je kad tko, prezirući ostale, želi da ga se vidi kao jedinoga.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se istinita procjena može pokvariti na dva načina. Na jedan način, općenito. I tako se u onome što spada na svrhu istinita procjena kvari nevjerom. Na drugi način, u nečemu pojedinačnom što je predmet izbora. I to ne čini nevjeru. Tako onaj tko čini blud smatra da je za njega u tom času dobro činiti blud, a ipak nije nevjernik, kao što bi bio kad bi općenito tvrdio da je blud dobar. I tako je i u ovom slučaju. Jer reći općenito da postoji neko dobro koje nije od Boga, ili da se milost ljudima daje po zaslugama, pripada nevjeri. Ali to da se tko, iz neuredne težnje za vlastitom izvrsnošću, tako hvali svojim dobrima kao da ih ima od sebe ili po vlastitim zaslugama, pripada oholosti, a ne nevjeri, u vlastitom smislu govoreći.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a4.ad2": {
+      "text": "Na drugo treba reći da se hvalisavost postavlja kao vrsta laži s obzirom na vanjski čin, kojim tko sebi lažno pripisuje ono što nema. Ali s obzirom na unutarnju uznositost srca, Grgur je postavlja kao vrstu oholosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a4.ad3": {
+      "text": "Na treće treba reći da je nezahvalan onaj tko sebi pripisuje ono što ima od drugoga. Zato prve dvije vrste oholosti pripadaju nezahvalnosti. A to da se tko ispričava za grijeh koji ima pripada trećoj vrsti, jer time tko sebi pripisuje dobro nedužnosti, koje nema. A to da tko preuzetno teži prema onome što je iznad njega, čini se da ponajviše pripada četvrtoj vrsti, prema kojoj tko hoće da ga se stavlja iznad drugih.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a4.ad4": {
+      "text": "Na četvrto treba reći da se ono troje što postavlja Anzelmo uzima prema napredovanju bilo kojega grijeha, koji se najprije začinje u srcu, drugo, izgovara se ustima, treće, dovršava se djelom. A onih dvanaest što ih postavlja Bernard uzima se po suprotnosti prema dvanaest stupnjeva poniznosti, o kojima je bilo riječi gore. Jer prvi je stupanj poniznosti srcem i tijelom uvijek pokazivati poniznost, s pogledom uprtim u zemlju. Njemu se suprotstavlja radoznalost, po kojoj tko radoznalo i neuredno posvuda gleda oko sebe. Drugi je stupanj poniznosti da tko govori malo riječi, i to razumnih, ne vičući. Njemu se suprotstavlja lakoumnost, po kojoj se naime čovjek u riječi ponaša oholo. Treći je stupanj poniznosti da ne bude lak ni spreman na smijeh. Njemu se suprotstavlja nesuvisla veselost. Četvrti je stupanj poniznosti šutljivost dok ga se ne upita. Njemu se suprotstavlja hvalisavost. Peti je stupanj poniznosti držati se onoga što sadrži zajedničko pravilo samostana. Njemu se suprotstavlja osebujnost, po kojoj naime tko hoće izgledati svetiji. Šesti je stupanj poniznosti vjerovati i izjavljivati da je od svih niži. Njemu se suprotstavlja uznositost, po kojoj se naime čovjek stavlja iznad drugih. Sedmi je stupanj poniznosti priznavati i vjerovati da je za sve beskoristan i nedostojan. Njemu se suprotstavlja preuzetnost, po kojoj naime tko sebe smatra dostatnim za veće stvari. Osmi je stupanj poniznosti ispovijed grijeha. Njemu se suprotstavlja obrana grijeha. Deveti je stupanj u teškom i grubom prigrliti strpljivost. Njemu se suprotstavlja hinjena ispovijed, po kojoj naime tko ne želi podnijeti kaznu za grijehe koje hinjeno ispovijeda. Deseti je stupanj poniznosti poslušnost. Njemu se suprotstavlja buntovnost. Jedanaesti je pak stupanj da čovjek ne nalazi naslade u vršenju vlastite volje. Njemu se suprotstavlja samovolja, po kojoj se naime čovjek naslađuje time da slobodno čini što hoće. Posljednji je pak stupanj poniznosti strah Božji. Njemu se suprotstavlja navika griješenja, koja uključuje prezir Boga. U tih dvanaest stupnjeva ne dotiču se pak samo vrste oholosti, nego i nešto što im prethodi i što iz njih slijedi, kao što je i gore rečeno o poniznosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da oholost nije smrtni grijeh. Jer uz ono iz Psalma: *Gospodine, Bože moj, ako sam to učinio*, Glosa kaže: naime opći grijeh, a to je oholost. Kad bi, dakle, oholost bila smrtni grijeh, svaki bi grijeh bio smrtan.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a5.obj2": {
+      "text": "Osim toga, svaki se grijeh protivi ljubavi. Ali čini se da se grijeh oholosti ne protivi ljubavi, ni s obzirom na ljubav prema Bogu ni s obzirom na ljubav prema bližnjemu; jer izvrsnost za kojom tko po oholosti neuredno teži ne protivi se uvijek Božjoj časti ili koristi bližnjega. Dakle, oholost nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a5.obj3": {
+      "text": "Osim toga, svaki se smrtni grijeh protivi kreposti. Ali oholost se ne protivi kreposti, nego prije iz nje nastaje; jer, kako Grgur kaže u XXXIV. knjizi Moralija, *katkad se čovjek nadima najvišim i nebeskim krepostima*. Dakle, oholost nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a5.sc": {
+      "text": "Ali protiv toga jest ono što Grgur kaže u istoj knjizi: *Najočitiji je znak odbačenih oholost, a, naprotiv, poniznost znak izabranih*. Ali ljudi ne postaju odbačeni zbog lakih grijeha. Dakle, oholost nije laki, nego smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a5.resp": {
+      "text": "Odgovaram: treba reći da se oholost suprotstavlja poniznosti. A poniznost se u vlastitom smislu odnosi na podložnost čovjeka Bogu, kako je gore rečeno. Zato se, obratno, oholost u vlastitom smislu odnosi na nedostatak te podložnosti, naime ukoliko se tko uzdiže iznad onoga što mu je postavljeno prema božanskom pravilu ili mjeri, protiv onoga što kaže Apostol: *A mi se ne hvalimo preko mjere, nego prema mjeri kojom nam je Bog odmjerio*. I zato se u Sir 10 kaže da je *početak ljudske oholosti otpasti od Boga*, to jest, korijen se oholosti vidi u tome što se čovjek na neki način ne podlaže Bogu i njegovu pravilu. A očito je da samo to ne biti podložan Bogu ima pojam smrtnoga grijeha, jer to znači odvratiti se od Boga. Zato slijedi da je oholost po svom rodu smrtni grijeh. Ipak, kao što u drugim grijesima koji su po svom rodu smrtni, primjerice u bludu i preljubu, postoje neki pokreti koji su laki grijesi zbog svoje nesavršenosti, naime zato što prethode sudu razuma i mimo su njegova pristanka, tako se i s ohološću događa da su neki pokreti oholosti laki grijesi, dok im razum ne pristaje.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako je gore rečeno, oholost nije opći grijeh po svojoj biti, nego po nekom prelijevanju, ukoliko naime iz oholosti mogu nastati svi grijesi. Zato ne slijedi da su svi grijesi smrtni, nego samo kad nastaju iz potpune oholosti, za koju smo rekli da je smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a5.ad2": {
+      "text": "Na drugo treba reći da se oholost uvijek protivi ljubavi prema Bogu, ukoliko se naime ohol čovjek ne podlaže božanskom pravilu kako bi trebao. A katkad se protivi i ljubavi prema bližnjemu, ukoliko se naime tko neuredno stavlja iznad bližnjega ili se izvlači iz podložnosti njemu. Time se također krnji božansko pravilo, po kojem su ustanovljeni redovi među ljudima, naime tako da jedan od njih treba biti pod drugim.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a5.ad3": {
+      "text": "Na treće treba reći da oholost ne nastaje iz kreposti kao iz uzroka po sebi, nego kao iz akcidentalnog uzroka, ukoliko naime tko iz kreposti uzima povode za oholost. A ništa ne priječi da jedno od protivnoga bude akcidentalni uzrok drugoga, kako se kaže u VIII. knjizi Fizike. Zato se neki ohole čak i samom poniznošću.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da oholost nije najteži od grijeha. Jer što se nekog grijeha teže čuvamo, to se čini da je lakši. A oholosti se najteže čuvamo, jer, kao što Augustin kaže u Pravilu, *ostali se grijesi vrše u zlim djelima da bi se počinili, a oholost vreba na dobra djela da bi propala*. Dakle, oholost nije najteži grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a6.obj2": {
+      "text": "*Osim toga, veće je zlo suprotstavljeno većem dobru*, kako kaže Filozof u VIII. knjizi Etike. Ali poniznost, kojoj je suprotstavljena oholost, nije najveća od kreposti, kao što je gore utvrđeno. Dakle, i poroci koji su suprotstavljeni većim krepostima, primjerice nevjera, očaj, mržnja prema Bogu, ubojstvo i drugi takvi, teži su grijesi od oholosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a6.obj3": {
+      "text": "Osim toga, veće se zlo ne kažnjava manjim zlom. Ali oholost se katkad kažnjava drugim grijesima, kao što je očito u Rim 1, gdje se kaže da su filozofi zbog uzoholjenosti srca *predani izopačenu umu, da čine ono što ne priliči*. Dakle, oholost nije najteži od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a6.sc": {
+      "text": "Ali protiv toga je to što o onom mjestu u Psalmu, *oholi su posvuda činili bezakonje*, Glosa kaže: *najveći je grijeh u čovjeku oholost*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a6.resp": {
+      "text": "Odgovaram: treba reći da se u grijehu razmatraju dvije stvari, naime okretanje prema promjenljivom dobru, koje se u grijehu odnosi kao tvarni element, i odvraćanje od nepromjenljivoga dobra, koje je formalni i dovršujući element grijeha. S obzirom na okretanje, oholost nema to da bude najveći od grijeha, jer uzvišenost, za kojom ohol neuredno teži, po svojem pojmu nije u najvećoj protivnosti s dobrom kreposti. Ali s obzirom na odvraćanje, oholost ima najveću težinu, jer se u drugim grijesima čovjek odvraća od Boga ili zbog neznanja, ili zbog slabosti, ili zbog želje za kakvim drugim dobrom; a oholost ima odvraćanje od Boga upravo po tome što se ne želi podložiti Bogu i njegovu pravilu. Stoga Boetije kaže: *dok svi poroci bježe od Boga, jedino se oholost Bogu suprotstavlja*. Zbog toga se i posebno kaže u Jak 4 da se *Bog oholima protivi*. I zato odvratiti se od Boga i njegovih zapovijedi, što je u drugim grijesima tek kao posljedica, po sebi pripada oholosti, čiji je čin prezir Boga. A budući da je ono što jest po sebi uvijek jače od onoga što jest po drugome, slijedi da je oholost po svojem rodu najteži od grijeha, jer nadmašuje u odvraćanju, koje formalno dovršuje grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se nekog grijeha teško čuvati na dva načina. Na jedan način, zbog žestine napada, kao što srdžba žestoko napada zbog svojega naleta. A još je teže oduprijeti se požudi, zbog njezine sunaravnosti, kako se kaže u II. knjizi Etike. I takva teškoća izbjegavanja grijeha umanjuje težinu grijeha, jer što netko pada pod naletom manje kušnje, to teže griješi, kako kaže Augustin. Na drugi je način teško izbjeći neki grijeh zbog njegove skrivenosti. I na taj je način teško izbjeći oholost, jer povod uzima i iz samih dobara, kao što je rečeno. I zato Augustin znakovito kaže da vreba na dobra djela, a u Psalmu se kaže: *na ovom putu kojim sam hodio sakriše mi oholi zamku*. I zato pokret oholosti koji se potajno prikrada nema najveću težinu prije nego što ga uoči sud razuma. Ali nakon što ga razum uoči, tada ga je lako izbjeći. Bilo razmatranjem vlastite slabosti, prema onome iz Sir 10: Što se oholi zemlja i pepeo? Bilo i razmatranjem božanske veličine, prema onome iz Job 15: Što se nadima protiv Boga duh tvoj? Bilo i na temelju nesavršenosti dobara kojima se čovjek oholi, prema onome iz Iz 40: *svako je tijelo sijeno, i sva je slava njegova kao cvijet poljski*; i niže, u Iz 64: *kao krpa žene u mjesečnici sve su pravednosti naše*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a6.ad2": {
+      "text": "Na drugo treba reći da se suprotstavljenost poroka kreposti promatra prema predmetu, koji se razmatra s obzirom na okretanje. I prema tome oholost nema to da bude najveći od grijeha, kao što ni poniznost nema to da bude najveća od kreposti. Ali s obzirom na odvraćanje ona je najveća, jer drugim grijesima pridaje veličinu. Naime, upravo time grijeh nevjere postaje teži ako proizlazi iz prezira oholosti nego ako potječe iz neznanja ili slabosti. A isto treba reći o očaju i o drugim takvima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a6.ad3": {
+      "text": "Na treće treba reći da, kao što se u silogizmima koji vode do nemogućega netko katkad pobija time što ga se dovede do očitijeg besmisla, tako i Bog, da bi pobio oholost ljudi, neke kažnjava dopuštajući im da se strovale u tjelesne grijehe, koji, iako su manji, ipak sadrže očitiju sramotnost. Stoga Izidor kaže u knjizi O najvišem dobru: *oholost je gora od svakoga poroka, bilo zato što je prihvaćaju najviše i prve osobe, bilo zato što izrasta iz djela pravednosti i kreposti, pa se njezina krivnja manje osjeća. A tjelesna je bludnost svima zamjetljiva zato što je odmah po sebi sramotna. Pa ipak, po Božjem rasporedu, oholost je manja; ali tko je zaokupljen ohološću, a ne osjeća je, pada u tjelesnu bludnost, da bi se, njome ponižen, podigao iz smetenosti*. Iz toga je također očita težina grijeha oholosti. Jer kao što mudar liječnik, kao lijek za težu bolest, dopušta da bolesnik upadne u lakšu bolest, tako se i grijeh oholosti pokazuje težim upravo po tome što Bog, kao lijek za nju, dopušta da se čovjek strovali u druge grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da oholost nije prvi od svih grijeha. Jer ono što je prvo sačuvano je u svemu što iz njega slijedi. Ali nisu svi grijesi s ohološću niti nastaju iz oholosti; jer Augustin kaže u knjizi O naravi i milosti da se *mnogo toga čini naopako što se ne čini oholo*. Dakle, oholost nije prvi od svih grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.obj2": {
+      "text": "Osim toga, u Sir 10 se kaže da je *početak oholosti otpasti od Boga*. Dakle, otpad od Boga je prije oholosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.obj3": {
+      "text": "Osim toga, čini se da je red grijeha prema redu kreposti. Ali poniznost nije prva od kreposti, nego je to prije vjera. Dakle, oholost nije prvi od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.obj4": {
+      "text": "Osim toga, u 2 Tim 3 se kaže: *zli ljudi i zavodnici napredovat će u gore*; i tako se čini da početak čovjekove zloće nije od najvećega grijeha. Ali oholost je najveći od grijeha, kao što je rečeno. Dakle, ona nije prvi grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.obj5": {
+      "text": "Osim toga, ono što jest po prividu i hinjenju kasnije je od onoga što jest po istini. Ali Filozof kaže u III. knjizi Etike da je *ohol hinitelj jakosti i smjelosti*. Dakle, porok smjelosti je prije poroka oholosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Sir 10: *početak je svakoga grijeha oholost*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.resp": {
+      "text": "Odgovaram: treba reći da je ono što jest po sebi prvo u bilo kojem rodu. A gore je rečeno da odvraćanje od Boga, koje formalno dovršuje pojam grijeha, pripada oholosti po sebi, a drugim grijesima kao posljedica. I odatle oholost ima pojam prvoga; a ona je također i počelo svih grijeha, kao što je gore rečeno kad se raspravljalo o uzrocima grijeha, i to s obzirom na odvraćanje, koje je u grijehu glavnije.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za oholost kaže da je početak svakoga grijeha, ne zato što svaki pojedini grijeh nastaje iz oholosti, nego zato što je svaki rod grijeha po naravi takav da može nastati iz oholosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.ad2": {
+      "text": "Na drugo treba reći da se za otpadanje od Boga kaže da je početak ljudske oholosti, ne kao da je to neki drugi grijeh koji postoji izvan oholosti, nego zato što je to prvi dio oholosti. Rečeno je naime da oholost ponajprije gleda na podložnost Bogu, koju prezire, a kao posljedicu prezire i to da se podloži stvoru radi Boga.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.ad3": {
+      "text": "Na treće treba reći da red kreposti i poroka ne mora biti isti. Jer porok razara krepost. A ono što je prvo u nastajanju, posljednje je u propadanju. I zato, kao što je vjera prva od kreposti, tako je nevjera posljednji od grijeha, do kojega čovjek katkad bude doveden drugim grijesima. O onom mjestu u Psalmu, *Rušite, rušite do temelja u njemu*, Glosa kaže da se *gomilanjem poroka prikrada nepovjerenje*. A Apostol kaže u 1 Tim 1 da su *neki, odbacivši dobru savjest, doživjeli brodolom u vjeri*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.ad4": {
+      "text": "Na četvrto treba reći da se za oholost kaže da je najteži grijeh zbog onoga što grijehu pripada po sebi, a po čemu se promatra težina u grijehu. I zato oholost uzrokuje težinu drugih grijeha. Može se dakle dogoditi da prije oholosti postoje neki lakši grijesi, naime oni koji se počinjaju iz neznanja ili slabosti. Ali među teškim grijesima prva je oholost, kao uzrok po kojem drugi grijesi postaju teži. A budući da je ono što je prvo u uzrokovanju također posljednje u udaljavanju, zato o onom mjestu u Psalmu, *očistit ću se od najvećega prijestupa*, Glosa kaže: *to jest, od prijestupa oholosti, koji je posljednji onima koji se vraćaju Bogu, a prvi onima koji se od njega udaljuju*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a7.ad5": {
+      "text": "Na peto treba reći da Filozof stavlja oholost u područje hinjenja jakosti ne zato što se ona sastoji samo u tome, nego zato što čovjek misli da time ponajviše može postići izvrsnost kod ljudi, ako se čini smionim ili jakim.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da oholost treba postaviti kao glavni grijeh. Jer Izidor, a također i Kasijan, nabrajaju oholost među glavnim grijesima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a8.obj2": {
+      "text": "Osim toga, čini se da je oholost isto što i isprazna slava, jer obje traže izvrsnost. Ali isprazna slava postavlja se kao glavni grijeh. Dakle, i oholost treba postaviti kao glavni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a8.obj3": {
+      "text": "Osim toga, Augustin kaže u knjizi O svetom djevičanstvu da *oholost rađa zavist i nikada nije bez takve pratilje*. Ali zavist se postavlja kao glavni grijeh, kao što je gore utvrđeno. Dakle, mnogo više oholost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a8.sc": {
+      "text": "Ali protiv toga je to što Grgur u XXXI. knjizi Moralija ne nabraja oholost među glavnim grijesima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a8.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je očito iz gore rečenoga, oholost može razmatrati na dva načina: na jedan način, po sebi, naime ukoliko je neki poseban grijeh; na drugi način, ukoliko ima neki opći utjecaj na sve grijehe. A glavni se grijesi postavljaju kao neki posebni grijesi iz kojih nastaju mnogi rodovi grijeha. I zato su je neki, razmatrajući oholost ukoliko je neki poseban grijeh, ubrojili s drugim glavnim grijesima. A Grgur, razmatrajući njezin opći utjecaj koji ima na sve poroke, kao što je rečeno, nije je ubrojio s drugim glavnim grijesima, nego ju je postavio kao kraljicu i majku svih poroka. Stoga Grgur kaže u XXXI. knjizi Moralija: *sama kraljica poroka, oholost, kad potpuno svlada i zauzme srce, odmah ga predaje sedmorici glavnih poroka, kao nekim svojim vojskovođama, da ga opustoše; a iz njih nastaje mnoštvo poroka*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a8.ad1": {
+      "text": "I time je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a8.ad2": {
+      "text": "Na drugo treba reći da oholost nije isto što i isprazna slava, nego njezin uzrok. Jer oholost neuredno teži za izvrsnošću, a isprazna slava teži za očitovanjem izvrsnosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q162.a8.ad3": {
+      "text": "Na treće treba reći da iz toga što zavist, koja je glavni grijeh, nastaje iz oholosti ne slijedi da je oholost glavni grijeh, nego da je nešto glavnije od glavnih grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    }
+  }
+}

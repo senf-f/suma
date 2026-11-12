@@ -1,0 +1,216 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 151,
+  "units": {
+    "II-II.q151.pr": {
+      "text": "Zatim treba razmotriti čistoću. I to najprije samu krepost čistoće; drugo, djevičanstvo, koje je dio čistoće; treće, bludnost, koja je suprotstavljeni porok. O prvome se pitaju četiri stvari. Prvo, je li čistoća krepost. Drugo, je li opća krepost. Treće, je li krepost različita od apstinencije. Četvrto, kako se odnosi prema čednosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da čistoća nije krepost. Sada, naime, govorimo o kreposti duše. Ali čini se da čistoća spada na tijelo; za nekoga se, naime, kaže da je čist po tome što se na neki način odnosi prema uporabi nekih dijelova tijela. Dakle, čistoća nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a1.obj2": {
+      "text": "Osim toga, krepost je voljni habitus, kako se kaže u II. knjizi Etike. Ali čini se da čistoća nije nešto voljno, budući da se čini da se nasiljem oduzima ženama koje su nasilno svladane. Dakle, čini se da čistoća nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a1.obj3": {
+      "text": "Osim toga, nikakve kreposti nema u nevjernicima. Ali neki su nevjernici čisti. Dakle, čistoća nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a1.obj4": {
+      "text": "Osim toga, plodovi se razlikuju od kreposti. Ali čistoća se ubraja među plodove, kao što je jasno iz Gal 5. Dakle, čistoća nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O deset struna: *Premda bi trebao u kreposti predvoditi ženu, budući da je čistoća krepost, ti padaš pod jednim navalom pohote i hoćeš da tvoja žena bude pobjednica*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a1.resp": {
+      "text": "Odgovaram: treba reći da se ime čistoće (castitas) uzima od toga što razum kroti (castigatur) požudu, koju treba obuzdavati poput djeteta, kao što je jasno iz Filozofa, u III. knjizi Etike. A pojam ljudske kreposti sastoji se u tome da je nešto odmjereno prema razumu, kao što je jasno iz onoga što je gore rečeno. Stoga je očito da je čistoća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se čistoća doduše nalazi u duši kao u subjektu, ali svoju građu ima u tijelu. Čistoći, naime, pripada da se tko prema sudu razuma i izboru volje umjereno služi tjelesnim udovima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a1.ad2": {
+      "text": "Na drugo treba reći da, kako kaže Augustin u I. knjizi O Božjem gradu, *dok ostaje odluka duha, po kojoj je i tijelo zaslužilo biti posvećeno, ni samome tijelu ne oduzima svetost nasilje tuđe pohote, koju čuva ustrajnost vlastite uzdržljivosti*. I ondje kaže da je ona *krepost duha, koja za pratilicu ima jakost, kojom duh odlučuje radije podnijeti bilo kakva zla nego pristati na zlo*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a1.ad3": {
+      "text": "Na treće treba reći da, kako kaže Augustin u IV. knjizi Protiv Julijana, *daleko bilo da u kome bude prava krepost ako nije pravedan. A daleko bilo da bude uistinu pravedan ako ne živi od vjere*. I zato zaključuje da u nevjernicima nema ni prave čistoće ni bilo koje druge kreposti, naime zato što se ne odnose prema dužnoj svrsi. I, kako ondje nadodaje, kreposti se od poroka ne razlikuju po službama, to jest po činima, nego po svrhama.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a1.ad4": {
+      "text": "Na četvrto treba reći da čistoća, ukoliko djeluje prema razumu, ima pojam kreposti, a ukoliko ima nasladu u svome činu, ubraja se među plodove.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je čistoća opća krepost. Augustin, naime, kaže u knjizi O laži da je *čistoća duha uređeni pokret duha koji ne podvrgava veće manjemu*. Ali to pripada bilo kojoj kreposti. Dakle, čistoća je opća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a2.obj2": {
+      "text": "Osim toga, ime čistoće (castitas) uzima se od kroćenja (castigatio). Ali svaki pokret težnjenoga dijela treba da razum kroti. Budući da se, dakle, svakom moralnom kreposti obuzdava neki težnjeni pokret, čini se da je svaka moralna krepost čistoća.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a2.obj3": {
+      "text": "Osim toga, čistoći se suprotstavlja blud. Ali čini se da blud spada na svaki rod grijeha; kaže se, naime, u Psalmu: Uništit ćeš sve koji bludno odlaze od tebe. Dakle, čistoća je opća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a2.sc": {
+      "text": "Ali protiv toga je to što je Makrobije postavlja kao dio umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a2.resp": {
+      "text": "Odgovaram: treba reći da se ime čistoće uzima dvojako. Na jedan način, u vlastitom smislu. I tako je ona posebna krepost, koja ima posebnu građu, naime požude za ugodnim stvarima koje se nalaze u spolnim užicima. Na drugi se način ime čistoće uzima preneseno. Kao što se, naime, u tjelesnom miješanju sastoji spolna naslada, oko koje je u vlastitom smislu čistoća i suprotstavljeni porok, naime bludnost, tako se i u nekom duhovnom sjedinjenju duha s nekim stvarima sastoji neka naslada, oko koje je neka duhovna čistoća, preneseno rečena, ili također duhovni blud, isto tako preneseno rečen. Ako se, naime, duh čovjekov naslađuje u duhovnom sjedinjenju s onim s čime se treba sjediniti, naime s Bogom, i uzdržava se od toga da se s naslađivanjem sjedini s drugim stvarima, protiv dužnosti božanskoga reda, nazvat će se to duhovnom čistoćom, prema onome 2 Kor 11: *Zaručio sam vas s jednim mužem, da vas kao čistu djevicu privedem Kristu*. Ako se pak duh s naslađivanjem, protiv dužnosti božanskoga reda, sjedini s bilo kojim drugim stvarima, nazvat će se to duhovnim bludom, prema onome Jr 3: *A ti si bludničila s mnogim ljubavnicima*. I uzimajući čistoću na taj način, čistoća je opća krepost, jer se svakom kreposti ljudski duh odvlači od toga da se s naslađivanjem sjedini s nedopuštenim stvarima. Ipak se pojam te čistoće prvotno sastoji u ljubavi i u drugim bogoslovnim krepostima, kojima se duh čovjekov sjedinjuje s Bogom.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se onaj razlog odnosi na preneseno rečenu čistoću.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a2.ad2": {
+      "text": "Na drugo treba reći da je, kako je gore rečeno, požuda za ugodnim najviše slična djetetu, zato što nam je težnja za ugodnim sunaravna, a osobito za onim što je ugodno dodiru, što je usmjereno na održavanje naravi. I odatle dolazi da će se požuda za tim ugodnim stvarima, ako se hrani time što se na nju pristaje, najviše povećati, kao dijete koje se prepusti vlastitoj volji. I tako požuda za tim ugodnim stvarima najviše treba kroćenja. I zato se čistoća antonomastički kaže o takvim požudama, kao što je i jakost oko onih stvari u kojima nam je najviše potrebna čvrstoća duha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a2.ad3": {
+      "text": "Na treće treba reći da se onaj prigovor odnosi na preneseno rečeni duhovni blud, koji se suprotstavlja duhovnoj čistoći, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da čistoća nije krepost različita od apstinencije. Jer za građu jednoga roda dostaje jedna krepost. Ali čini se da je jednoga roda ono što spada na jedno osjetilo. Budući da, dakle, naslada u jelima, oko koje je apstinencija, i spolna naslada, oko koje je čistoća, spadaju na dodir, čini se da čistoća nije druga krepost od apstinencije.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a3.obj2": {
+      "text": "Osim toga, Filozof u III. knjizi Etike sve poroke neumjerenosti uspoređuje s dječjim grijesima, kojima je potrebno kroćenje. Ali čistoća (castitas) se naziva po kroćenju (castigatio) suprotstavljenih poroka. Budući da se, dakle, apstinencijom obuzdavaju neki poroci neumjerenosti, čini se da je apstinencija čistoća.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a3.obj3": {
+      "text": "Osim toga, naslade drugih osjetila spadaju na umjerenost ukoliko su usmjerene na naslade dodira, oko kojih je umjerenost. Ali naslade u jelima, oko kojih je apstinencija, usmjerene su na spolne naslade, oko kojih je čistoća; stoga Jeronim kaže: *Trbuh i spolni udovi blizu su jedno drugome, da bi se iz blizine udova razumio savez poroka*. Dakle, apstinencija i čistoća nisu međusobno različite kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a3.sc": {
+      "text": "Ali protiv toga je to što Apostol, 2 Kor 6, čistoću ubraja zajedno s postovima, koji spadaju na apstinenciju.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, umjerenost u vlastitom smislu oko požuda za nasladama dodira. I zato treba da ondje gdje su različiti pojmovi naslade budu i različite kreposti obuhvaćene pod umjerenošću. A naslade su razmjerne djelovanjima, kojih su savršenosti, kako se kaže u X. knjizi Etike. Očito je pak da su drugoga roda djelovanja koja spadaju na uporabu jela, kojima se održava narav pojedinca, i djelovanja koja spadaju na uporabu spolnih užitaka, kojima se održava narav vrste. I zato je čistoća, koja je oko spolnih naslada, krepost različita od apstinencije, koja je oko naslada u jelima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da umjerenost nije prvotno oko naslada dodira s obzirom na sud osjetila o dodirljivim stvarima, koji je istoga pojma u svima, nego s obzirom na samu uporabu dodirljivih stvari, kako se kaže u III. knjizi Etike. A drugi je pojam služenja jelima i pićima, a drugi spolnim užicima. I zato treba da budu različite kreposti, premda pripadaju jednome osjetilu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a3.ad2": {
+      "text": "Na drugo treba reći da su spolne naslade žešće i više pritišću razum nego naslade u jelima. I zbog toga im je više potrebno kroćenje i obuzdavanje, jer ako se na njih pristane, od toga više raste sila požude i obara se snaga duha. Stoga Augustin kaže u I. knjizi Solilokvija: *Osjećam da ništa ne obara muški duh s njegove utvrde više nego ženske milopojke i onaj dodir tijela bez kojega se žena ne može imati*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a3.ad3": {
+      "text": "Na treće treba reći da naslade drugih osjetila ne spadaju na održavanje čovjekove naravi, osim ukoliko su usmjerene na ono što je ugodno dodiru. I zato oko takvih naslada nema neke druge kreposti obuhvaćene pod umjerenošću. Ali naslade u jelima, premda su na neki način usmjerene na spolne naslade, ipak su i po sebi usmjerene na održavanje čovjekova života. I zato i po sebi imaju posebnu krepost, premda ona krepost koja se naziva apstinencijom usmjerava svoj čin prema svrsi čistoće.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da čednost ne spada posebno na čistoću. Augustin, naime, kaže u I. knjizi O Božjem gradu da je *čednost neka krepost duše*. Dakle, ona nije nešto što spada na čistoću, nego je po samoj sebi krepost različita od čistoće.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a4.obj2": {
+      "text": "Osim toga, čednost (pudicitia) se naziva po stidnosti (pudor), za koju se čini da je isto što i stid. Ali stid je, prema Damaščaninu, zbog sramotnoga čina, a to pristaje svakom poročnom činu. Dakle, čednost ne spada na čistoću više nego na druge kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a4.obj3": {
+      "text": "Osim toga, Filozof kaže u III. knjizi Etike da je svaka neumjerenost općenito najviše vrijedna prijekora. Ali čini se da čednosti pripada bježati od onoga što je vrijedno prijekora. Dakle, čednost spada na sve dijelove umjerenosti, a ne posebno na čistoću.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O ustrajnosti: *Treba propovijedati čednost, da onaj tko ima uši da čuje ne počini spolnim udovima ništa nedopušteno*. Ali uporaba spolnih udova u vlastitom smislu spada na čistoću. Dakle, čednost u vlastitom smislu spada na čistoću.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a4.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, ime čednosti (pudicitia) uzima od stidnosti (pudor), kojom se označuje stid. I zato treba da čednost u vlastitom smislu bude oko onih stvari kojih se ljudi više stide. A ljudi se najviše stide spolnih čina, kako kaže Augustin u XIV. knjizi O Božjem gradu, toliko da ni bračno općenje, koje je urešeno čestitošću ženidbe, nije bez stida. A to zato što pokret spolnih udova nije podvrgnut zapovijedanju razuma kao pokret drugih vanjskih udova. A čovjek se stidi ne samo onoga spolnog miješanja nego i bilo kojih njegovih znakova, kako kaže Filozof u II. knjizi Retorike. I zato se čednost u vlastitom smislu odnosi na spolne užitke, a osobito na znakove spolnih užitaka, kao što su nečedni pogledi, poljupci i dodiri. I budući da se to obično više opaža, zato čednost više gleda na takve vanjske znakove, a čistoća više na samo spolno miješanje. I zato je čednost usmjerena prema čistoći, ne kao krepost od nje različita, nego kao ono što izražava neku okolnost čistoće. Katkad se ipak jedno stavlja umjesto drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin ondje uzima čednost umjesto čistoće.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a4.ad2": {
+      "text": "Na drugo treba reći da, premda svi poroci imaju neku sramotnost, ipak je posebno imaju poroci neumjerenosti, kao što je jasno iz onoga što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q151.a4.ad3": {
+      "text": "Na treće treba reći da su među porocima neumjerenosti osobito vrijedni prijekora spolni grijesi. Kako zbog neposlušnosti spolnih udova, tako i zbog toga što takve stvari najviše upijaju razum.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    }
+  }
+}

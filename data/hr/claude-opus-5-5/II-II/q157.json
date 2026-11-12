@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 157,
+  "units": {
+    "II-II.q157.pr": {
+      "text": "Zatim treba razmotriti milostivost i blagost te poroke koji su im suprotstavljeni. A o samim tim krepostima pitaju se četiri stvari. Prvo, jesu li milostivost i blagost isto. Drugo, je li svaka od njih krepost. Treće, je li svaka od njih dio umjerenosti. Četvrto, o njihovoj usporedbi s drugim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da su milostivost i blagost posve isto. Blagost, naime, umjerava srdžbe, kako kaže Filozof u IV. knjizi Etike. A srdžba je težnja za osvetom. *Budući, dakle, da je milostivost blagonaklonost višega prema nižemu u određivanju kazni*, kako kaže Seneka u II. knjizi O milostivosti, a osveta se ostvaruje kaznama, čini se da su milostivost i blagost isto.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a1.obj2": {
+      "text": "Osim toga, Tulije u II. knjizi Retorike kaže da je *milostivost krepost po kojoj se duh, potaknut na mržnju prema nekome, dobrostivošću zadržava*; i tako se čini da milostivost umjerava mržnju. Ali mržnju, kako kaže Augustin, uzrokuje srdžba, a o srdžbi je blagost. Dakle, čini se da su blagost i milostivost isto.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a1.obj3": {
+      "text": "Osim toga, isti porok nije protivan različitim krepostima. Ali blagosti i milostivosti suprotstavljen je isti porok, naime okrutnost. Dakle, čini se da su blagost i milostivost posve isto.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a1.sc": {
+      "text": "Ali protiv toga je to što je, prema navedenoj Senekinoj definiciji, milostivost blagonaklonost višega prema nižemu. Blagost pak nije samo višega prema nižemu, nego bilo koga prema bilo kome. Dakle, blagost i milostivost nisu posve isto.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a1.resp": {
+      "text": "Odgovaram: treba reći da se, kako se kaže u II. knjizi Etike, moralna krepost odnosi na strasti i radnje. A unutarnje strasti počela su vanjskih radnja, ili pak njihove zapreke. Zato kreposti koje umjeravaju strasti na neki način pridonose istom učinku zajedno s krepostima koje umjeravaju radnje, premda se razlikuju po vrsti. Tako pravednosti u vlastitom smislu pripada da čovjeka suzdrži od krađe, na koju je tko nagnut neurednom ljubavlju ili požudom za novcem, koje se umjeravaju darežljivošću; i zato darežljivost zajedno s pravednošću pridonosi tom učinku, a to je suzdržati se od krađe. I to treba razmotriti i u ovom predmetu. Iz strasti srdžbe, naime, netko biva potaknut da nanese težu kaznu. A milostivosti izravno pripada da ublažuje kazne, što bi pak moglo biti spriječeno pretjeranom srdžbom. I zato blagost, ukoliko obuzdava nalet srdžbe, pridonosi istom učinku zajedno s milostivošću. Ipak se međusobno razlikuju po tome što milostivost umjerava vanjsko kažnjavanje, a blagost u vlastitom smislu umanjuje strast srdžbe.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se blagost u vlastitom smislu odnosi na samu težnju za osvetom, a milostivost se odnosi na same kazne koje se izvana primjenjuju radi osvete.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a1.ad2": {
+      "text": "Na drugo treba reći da je čovjekovo čuvstvo nagnuto prema umanjivanju onoga što mu se po sebi ne sviđa. A iz toga što netko nekoga ljubi proizlazi da mu se kazna toga drugoga ne sviđa po sebi, nego samo u usmjerenosti prema nečemu drugome, primjerice prema pravednosti ili prema popravljanju onoga koji se kažnjava. I zato iz ljubavi proizlazi da je tko spreman ublažiti kazne, što pripada milostivosti, a mržnja takvo ublažavanje priječi. I zbog toga Tulije kaže da se duh potaknut na mržnju, to jest na teže kažnjavanje, milostivošću zadržava, naime da ne nanese oštriju kaznu; ne kao da milostivost izravno umjerava mržnju, nego kaznu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a1.ad3": {
+      "text": "Na treće treba reći da je blagosti, koja se izravno odnosi na srdžbe, u vlastitom smislu suprotstavljen porok srdljivosti, koji uključuje pretjeranost srdžbe. A okrutnost uključuje pretjeranost u kažnjavanju. Zato Seneka kaže u II. knjizi O milostivosti da se *okrutnima nazivaju oni koji imaju razlog za kažnjavanje, a nemaju mjere*. A oni koji se naslađuju kaznama ljudi radi njih samih, čak i bez razloga, mogu se nazvati surovima ili divljima, kao oni koji nemaju ljudskoga čuvstva, po kojemu čovjek naravno ljubi čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da ni milostivost ni blagost nisu kreposti. Nijedna se, naime, krepost ne suprotstavlja drugoj kreposti. Ali čini se da se obje suprotstavljaju strogosti, koja je neka krepost. Dakle, ni milostivost ni blagost nisu kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a2.obj2": {
+      "text": "Osim toga, krepost propada pretjeranošću i manjkom. Ali i milostivost i blagost sastoje se u nekom umanjivanju: milostivost, naime, ublažuje kazne, a blagost umanjuje srdžbu. Dakle, ni milostivost ni blagost nisu kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a2.obj3": {
+      "text": "Osim toga, blagost ili krotkost navodi se u Mt 5 među blaženstvima, a u Gal 5 među plodovima. Ali kreposti se razlikuju i od blaženstava i od plodova. Dakle, blagost nije obuhvaćena krepošću.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Seneka u II. knjizi O milostivosti: *Milostivost i blagost iskazivat će svi dobri ljudi*. Ali krepost je u vlastitom smislu ono što pripada dobrim ljudima, jer je *krepost ono što čini dobrim onoga koji je ima i njegovo djelo čini dobrim*, kako se kaže u II. knjizi Etike. Dakle, milostivost i blagost su kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a2.resp": {
+      "text": "Odgovaram: treba reći da se pojam moralne kreposti sastoji u tome da težnja bude podložna razumu, kao što je očito po Filozofu u I. knjizi Etike. A to se čuva i u milostivosti i u blagosti: milostivost, naime, u ublažavanju kazni gleda na razum, kako kaže Seneka u II. knjizi O milostivosti; isto tako i blagost umjerava srdžbe prema ispravnom razumu, kako se kaže u IV. knjizi Etike. Stoga je očito da su i milostivost i blagost kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se blagost ne suprotstavlja izravno strogosti, jer je blagost o srdžbama, a strogost se promatra s obzirom na vanjsko nanošenje kazni. Zato bi se prema tome činilo da se više suprotstavlja milostivosti, koja se također promatra s obzirom na vanjsko kažnjavanje, kako je rečeno. Ipak joj se ne suprotstavlja, jer su obje prema ispravnom razumu. Strogost je, naime, nepopustljiva u nanošenju kazni kada to ispravni razum zahtijeva, a milostivost ublažuje kazne također prema ispravnom razumu, naime kada treba i u čemu treba. I zato nisu suprotstavljene, jer nisu o istome.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a2.ad2": {
+      "text": "Na drugo treba reći da je, prema Filozofu u IV. knjizi Etike, *habitus koji drži sredinu u srdžbi bez imena; i zato se krepost imenuje po umanjivanju srdžbe, koje se označuje imenom blagosti*, jer je krepost bliža manjku nego pretjeranosti, zbog toga što je čovjeku naravnije težiti za osvetom za nanesene nepravde nego u tome zaostajati; jer se *jedva kome nanesene mu nepravde čine premalenima*, kako kaže Salustije. Milostivost pak ublažuje kazne, ne doduše s obzirom na ono što je prema ispravnom razumu, nego s obzirom na ono što je prema općem zakonu, na koji gleda zakonska pravednost; ali zbog nekih posebnih okolnosti koje uzima u obzir, milostivost ublažuje kazne, kao da odlučuje da čovjeka ne treba više kažnjavati. Zato Seneka kaže u II. knjizi O milostivosti: *Milostivost ponajprije čini to da za one koje otpušta izjavljuje da nisu morali ništa drugo trpjeti; a oproštenje je otpuštenje dužne kazne*. Iz toga je očito da se milostivost odnosi prema strogosti kao pravičnost prema zakonskoj pravednosti, čiji je dio strogost s obzirom na nanošenje kazni prema zakonu. Ipak se milostivost razlikuje od pravičnosti, kako će se niže reći.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a2.ad3": {
+      "text": "Na treće treba reći da su blaženstva čini kreposti, a plodovi su naslade u činima kreposti. I zato ništa ne priječi da se blagost navede i kao krepost i kao blaženstvo i kao plod.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da navedene kreposti nisu dijelovi umjerenosti. Milostivost, naime, ublažuje kazne, kako je rečeno. A to Filozof u V. knjizi Etike pripisuje pravičnosti, koja pripada pravednosti, kako je gore utvrđeno. Dakle, čini se da milostivost nije dio umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a3.obj2": {
+      "text": "Osim toga, umjerenost je o požudama. A blagost i milostivost ne odnose se na požude, nego radije na srdžbu i osvetu. Dakle, ne treba ih postavljati kao dijelove umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a3.obj3": {
+      "text": "Osim toga, Seneka kaže u II. knjizi O milostivosti: *Surovost koja je komu užitak možemo nazvati ludilom*. A to se suprotstavlja milostivosti i blagosti. Budući, dakle, da se ludilo suprotstavlja razboritosti, čini se da su milostivost i blagost prije dijelovi razboritosti nego umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a3.sc": {
+      "text": "Ali protiv toga je ono što Seneka kaže u II. knjizi O milostivosti, da je *milostivost umjerenost duha u vlasti osvećivanja*. I Tulije također postavlja milostivost kao dio umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a3.resp": {
+      "text": "Odgovaram: treba reći da se glavnim krepostima pridaju dijelovi ukoliko ih nasljeduju u nekim drugotnim građama, s obzirom na način o kojemu ponajprije ovisi pohvala kreposti, po kojemu ona i dobiva ime. Tako se način i ime pravednosti sastoje u nekoj jednakosti, jakosti u nekoj čvrstoći, a umjerenosti u nekom obuzdavanju, naime ukoliko obuzdava najžešće požude za užicima dodira. A milostivost i blagost isto se tako sastoje u nekom obuzdavanju, jer milostivost ublažuje kazne, a blagost stišava srdžbu, kao što je očito iz rečenoga. I zato se i milostivost i blagost pridružuju umjerenosti kao glavnoj kreposti. I prema tome se postavljaju kao njezini dijelovi.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da u ublažavanju kazni treba razmotriti dvoje. Jedno je to da se ublažavanje kazni događa prema nakani zakonodavca, premda ne prema riječima zakona. I u tom pogledu pripada pravičnosti. Drugo je pak neko umjeravanje čuvstva, tako da se čovjek ne služi svojom vlašću u nanošenju kazni. I to u vlastitom smislu pripada milostivosti, zbog čega Seneka kaže da je ona umjerenost duha u vlasti osvećivanja. A to umjeravanje duha proizlazi iz neke nježnosti čuvstva, zbog koje se tko gnuša svega onoga što može drugoga ražalostiti. I zato Seneka kaže da je *milostivost neka blagonaklonost duha*. Naprotiv, čini se da je oporost duha u onome koji se ne libi druge žalostiti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a3.ad2": {
+      "text": "Na drugo treba reći da se pridruživanje drugotnih kreposti glavnima više promatra prema načinu kreposti, koji je kao neka njezina forma, nego prema građi. A blagost i milostivost slažu se s umjerenošću u načinu, kako je rečeno, premda se ne slažu u građi.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a3.ad3": {
+      "text": "Na treće treba reći da se ludilo (insania) naziva po propadanju zdravlja (sanitas). Kao što, naime, tjelesno zdravlje propada time što tijelo odstupa od dužnoga tjelesnog sastava ljudske vrste, tako se i ludilo s obzirom na dušu uzima po tome što ljudska duša odstupa od dužne raspoloživosti ljudske vrste. A to se događa i s obzirom na razum, primjerice kad tko izgubi uporabu razuma, i s obzirom na težnjenu snagu, primjerice kad tko izgubi ljudsko čuvstvo, po kojemu je čovjek naravno prijatelj svakom čovjeku, kako se kaže u VIII. knjizi Etike. Ludilo koje isključuje uporabu razuma suprotstavlja se razboritosti. Ali za to što se tko naslađuje kaznama ljudi kaže se da je ludilo, jer se čini da je čovjek time lišen ljudskoga čuvstva, na koje se nadovezuje milostivost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da su milostivost i blagost najizvrsnije kreposti. Pohvala se, naime, kreposti ponajprije sastoji u tome što čovjeka usmjerava prema blaženstvu, koje se sastoji u spoznaji Boga. Ali blagost najviše usmjerava čovjeka prema spoznaji Boga, jer se kaže u Jak 1: *U blagosti primite usađenu riječ*; i u Sir 5: *Budi blag da slušaš riječ Božju*; a Dionizije kaže u Pismu Demofilu da je *Mojsije zbog velike blagosti smatran dostojnim Božjega ukazanja*. Dakle, blagost je najizvrsnija od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a4.obj2": {
+      "text": "Osim toga, neka se krepost čini to izvrsnijom što je više prihvaćena od Boga i od ljudi. Ali čini se da je blagost najviše prihvaćena od Boga, jer se kaže u Sir 1 da su *Bogu mile vjera i blagost*. Zato nas i Krist posebno poziva da nasljedujemo njegovu blagost, govoreći: *Učite od mene jer sam krotka i ponizna srca*; a Hilarije kaže da *po blagosti našega duha Krist prebiva u nama*. Ona je također ljudima najmilija, zato se kaže u Sir 3: *Sine, u blagosti vrši svoja djela, i bit ćeš ljubljen više od slave ljudi*. Zbog toga se i u Izr 20 kaže da se *milostivošću učvršćuje kraljevsko prijestolje*. Dakle, blagost i milostivost najizvrsnije su kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a4.obj3": {
+      "text": "Osim toga, Augustin kaže u knjizi O Gospodinovu govoru na gori da su *krotki oni koji popuštaju pred nepoštenjima i ne opiru se zlu, nego dobrom pobjeđuju zlo*. A čini se da to pripada milosrđu ili pobožnosti, koja se čini najizvrsnijom od kreposti, jer uz ono iz 1 Tim 4, Pobožnost je korisna za sve, Ambrozijeva Glosa kaže da se *sav zbir kršćanske religije sastoji u pobožnosti*. Dakle, blagost i milostivost najveće su kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a4.sc": {
+      "text": "Ali protiv toga je to što se one ne postavljaju kao glavne kreposti, nego se pridružuju drugoj kreposti kao glavnijoj.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a4.resp": {
+      "text": "Odgovaram: treba reći da ništa ne priječi da neke kreposti ne budu najizvrsnije naprosto ni u svemu, nego u nekom pogledu i u nekom rodu. Nije pak moguće da milostivost i blagost budu naprosto najizvrsnije kreposti. Jer se njihova pohvala promatra u tome što odvraćaju od zla, naime ukoliko umanjuju srdžbu ili kaznu. A savršenije je postići dobro nego biti bez zla. I zato su kreposti koje naprosto usmjeravaju prema dobru, kao vjera, nada, ljubav, a također razboritost i pravednost, naprosto veće kreposti od milostivosti i blagosti. Ali u nekom pogledu ništa ne priječi da blagost i milostivost imaju neku izvrsnost među krepostima koje se odupiru izopačenim čuvstvima. Srdžba, naime, koju stišava blagost, zbog svojega naleta najviše priječi čovjekov duh da slobodno prosuđuje istinu. I zbog toga blagost ponajviše čini da čovjek bude gospodar samoga sebe; zato se kaže u Sir 10: *Sine, u blagosti čuvaj svoju dušu*. Premda su požude za užicima dodira sramotnije i trajnije napadaju, zbog čega se umjerenost radije postavlja kao glavna krepost, kao što je očito iz rečenoga. Čini se pak da se milostivost, time što ublažuje kazne, najviše približava ljubavi, koja je najizvrsnija od kreposti, po kojoj činimo dobro bližnjima i priječimo njihova zla.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da blagost pripravlja čovjeka za spoznaju Boga uklanjajući zapreku. I to na dva načina. Prvo, čineći čovjeka gospodarom samoga sebe umanjivanjem srdžbe, kako je rečeno. Na drugi način, jer blagosti pripada da čovjek ne proturječi riječima istine, što neki često čine iz uzbuđenja srdžbe. I zato Augustin kaže u II. knjizi O kršćanskom nauku da je *biti krotak ne proturječiti božanskom Pismu, bilo shvaćenom, ako udara po kojem od naših poroka, bilo neshvaćenom, kao da bismo mi mogli bolje i istinitije znati i nalagati*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a4.ad2": {
+      "text": "Na drugo treba reći da blagost i milostivost čine čovjeka prihvaćenim od Boga i od ljudi ukoliko pridonose istom učinku zajedno s ljubavlju, koja je najveća od kreposti, naime u otklanjanju zala bližnjih.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q157.a4.ad3": {
+      "text": "Na treće treba reći da se milosrđe i pobožnost slažu s blagošću i milostivošću ukoliko pridonose istom učinku, a to je spriječiti zla bližnjih. Ipak se razlikuju s obzirom na pobudu. Pobožnost, naime, uklanja zla bližnjih iz poštovanja koje ima prema nekome višemu, primjerice prema Bogu ili roditelju. Milosrđe pak uklanja zla bližnjih time što se tko zbog njih žalosti, ukoliko smatra da se ona tiču njega samoga, kako je gore rečeno, što proizlazi iz prijateljstva, koje čini da se prijatelji zbog istih stvari raduju i žaloste. Blagost pak to čini ukoliko uklanja srdžbu koja potiče na osvetu. A milostivost to čini iz blagonaklonosti duha, ukoliko sudi da je pravo da tko ne bude više kažnjen.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    }
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 152,
+  "units": {
+    "II-II.q152.pr": {
+      "text": "Zatim treba razmotriti djevičanstvo. I o tome se pita pet stvari. Prvo, u čemu se sastoji djevičanstvo. Drugo, je li dopušteno. Treće, je li krepost. Četvrto, o njegovoj izvrsnosti u odnosu na ženidbu. Peto, o njegovoj izvrsnosti u odnosu na druge kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se djevičanstvo ne sastoji u neoštećenosti tijela. Augustin, naime, kaže u knjizi O ženidbi i požudi da je *djevičanstvo u propadljivome tijelu trajno razmišljanje o nepropadljivosti*. Ali razmišljanje ne spada na tijelo. Dakle, djevičanstvo se ne sastoji u tijelu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a1.obj2": {
+      "text": "Osim toga, djevičanstvo uključuje neku čednost. Ali Augustin kaže u I. knjizi O Božjem gradu da se čednost sastoji u duši. Dakle, djevičanstvo se ne sastoji u neoštećenosti tijela.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a1.obj3": {
+      "text": "Osim toga, čini se da se cjelovitost tijela sastoji u pečatu djevičanske stidnosti. Ali katkad se taj pečat slomi bez štete za djevičanstvo. Augustin, naime, kaže u I. knjizi O Božjem gradu: *Ti udovi mogu, ranjeni raznim nezgodama, pretrpjeti nasilje; i liječnici, pomažući zdravlju, katkad ondje čine ono od čega se pogled zgraža; a i babica, ispitujući rukom cjelovitost neke djevice, dok ju je pregledavala, uništila ju je*. I nadodaje: *Ne mislim da je itko tako ludo mudar da bi smatrao da je ona izgubila išta čak ni od svetosti samoga tijela, premda je cjelovitost onoga uda već izgubljena*. Dakle, djevičanstvo se ne sastoji u neoštećenosti tijela.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a1.obj4": {
+      "text": "Osim toga, oštećenje tijela najviše se sastoji u izlijevanju sjemena, koje se može dogoditi bez spolnog općenja, bilo u snu bilo na javi. Ali čini se da se bez spolnog općenja ne gubi djevičanstvo; Augustin, naime, kaže u knjizi O djevičanstvu da su *djevičanska cjelovitost i, po pobožnoj uzdržljivosti, slobodnost od svakoga spolnog općenja anđeoski udio*. Dakle, djevičanstvo se ne sastoji u neoštećenosti tijela.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a1.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u istoj knjizi, da je *djevičanstvo uzdržljivost kojom se cjelovitost tijela samome Stvoritelju duše i tijela zavjetuje, posvećuje i čuva*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a1.resp": {
+      "text": "Odgovaram: treba reći da se čini da je ime djevičanstva (virginitas) uzeto od zelenila (viror). I kao što se za ono što je zeleno kaže da ostaje u svome zelenilu ako nije iskusilo sprženost od prekomjerne topline, tako i djevičanstvo uključuje to da je osoba kojoj ono pripada slobodna od sprženosti požude, koja se, čini se, nalazi u ispunjenju najveće tjelesne naslade, kakva je spolna naslada. Stoga Ambrozije kaže u knjizi O djevičanstvu da je *djevičanska čistoća cjelovitost lišena okuženja*. A u spolnoj nasladi treba razmotriti tri stvari. Jedno je sa strane tijela, naime povreda djevičanskoga pečata. Drugo je ono u čemu se sjedinjuje ono što je duše s onim što je tijela, naime samo izlijevanje sjemena koje uzrokuje osjetnu nasladu. Treće je samo sa strane duše, naime odluka da se dođe do takve naslade. Od te tri stvari, ono što je prvo postavljeno odnosi se akcidentalno prema moralnom činu, koji se po sebi ne razmatra osim prema onome što je duše. Drugo se pak odnosi prema moralnom činu tvarno, jer su osjetne strasti građa moralnih čina. Treće se pak odnosi formalno i dovršujuće, jer se pojam moralnih stvari dovršava u onome što je razuma. Budući da se, dakle, djevičanstvo naziva po uklanjanju spomenutoga oštećenja, slijedi da se cjelovitost tjelesnoga uda odnosi prema djevičanstvu akcidentalno. A sama slobodnost od naslade koja se sastoji u izlijevanju sjemena odnosi se tvarno. A sama odluka da se trajno uzdržava od takve naslade odnosi se u djevičanstvu formalno i dovršujuće.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da ona Augustinova definicija u izravnom smislu dotiče ono što je u djevičanstvu formalno, jer se pod razmišljanjem razumije odluka razuma. A to što se dodaje „trajno” ne razumije se tako kao da djevica mora uvijek u činu imati takvo razmišljanje, nego zato što to mora nositi u odluci, da u tome trajno ustraje. A ono što je tvarno dotiče se u neizravnom smislu kad se kaže „o nepropadljivosti u propadljivome tijelu”. To se dodaje da se pokaže težina djevičanstva; jer kad tijelo ne bi moglo propasti, ne bi bilo teško imati trajno razmišljanje o nepropadljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a1.ad2": {
+      "text": "Na drugo treba reći da je čednost doduše bitno u duši, a tvarno u tijelu, i isto tako djevičanstvo. Stoga Augustin kaže u knjizi O djevičanstvu da, premda se djevičanstvo čuva u tijelu i zbog toga je tjelesno, *ipak je duhovno ono koje zavjetuje i čuva uzdržljivost pobožnosti*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a1.ad3": {
+      "text": "Na treće treba reći da se, kako je rečeno, cjelovitost tjelesnoga uda odnosi prema djevičanstvu akcidentalno, ukoliko, naime, time što se tko po odluci volje uzdržava od spolne naslade, ostaje cjelovitost u tjelesnom udu. Stoga, ako se dogodi da se na koji drugi način nekom nezgodom naruši cjelovitost uda, to ne nanosi štetu djevičanstvu više nego kad bi se ozlijedila ruka ili noga.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a1.ad4": {
+      "text": "Na četvrto treba reći da se naslada koja potječe od izlijevanja sjemena može dogoditi dvojako. Na jedan način, tako da proizlazi iz odluke duha. I tako uklanja djevičanstvo, bilo da se dogodi spolnim općenjem bilo bez spolnoga općenja. A Augustin spominje spolno općenje zato što se takvo izlijevanje obično i naravno uzrokuje spolnim općenjem. Na drugi način može nastati mimo odluke duha: bilo u snu; bilo nanesenim nasiljem, na koje duh ne pristaje, premda tijelo osjeća nasladu; bilo i iz slabosti naravi, kao što je jasno kod onih koji trpe istjecanje sjemena. I tako se djevičanstvo ne gubi, jer se takvo onečišćenje ne događa po nečednosti, koju djevičanstvo isključuje.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je djevičanstvo nedopušteno. Sve, naime, što je protivno zapovijedi naravnoga zakona nedopušteno je. Ali kao što je zapovijed naravnoga zakona za održavanje pojedinca ona koja se dotiče u Post 2: *Jedi sa svakoga stabla koje je u raju*, tako je i zapovijed naravnoga zakona za održavanje vrste ona koja se postavlja u Post 1: *Rastite i množite se i napunite zemlju*. Dakle, kao što bi griješio onaj tko bi se uzdržavao od svakoga jela, jer čini protiv dobra pojedinca, tako griješi i onaj tko se posve uzdržava od čina rađanja, jer čini protiv dobra vrste.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a2.obj2": {
+      "text": "Osim toga, sve što odstupa od sredine kreposti čini se poročnim. Ali djevičanstvo odstupa od sredine kreposti, jer se uzdržava od svih spolnih naslada; Filozof, naime, kaže u II. knjizi Etike: *Tko uživa svaki užitak i ne odstupa ni od jednoga, neumjeren je; a tko bježi od svih, neotesan je i neosjetljiv*. Dakle, djevičanstvo je nešto poročno.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a2.obj3": {
+      "text": "Osim toga, kazna pripada samo poroku. Ali kod starih su se po zakonima kažnjavali oni koji su uvijek provodili neoženjen život, kako kaže Valerije Maksim. Stoga se i za Platona, prema Augustinu u knjizi O pravoj religiji, kaže da je prinio žrtvu *da bi se njegova trajna uzdržljivost izbrisala kao grijeh*. Dakle, djevičanstvo je grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a2.sc": {
+      "text": "Ali protiv toga, nijedan grijeh ne potpada ispravno pod savjet. Ali djevičanstvo ispravno potpada pod savjet; kaže se, naime, u 1 Kor 7: *O djevicama pak nemam Gospodnje zapovijedi, ali dajem savjet*. Dakle, djevičanstvo nije nešto nedopušteno.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a2.resp": {
+      "text": "Odgovaram: treba reći da je u ljudskim činima poročno ono što je mimo ispravnoga razuma. A ispravni razum ima to da se tko služi onim što vodi k svrsi prema onoj mjeri koja odgovara svrsi. A trostruko je dobro čovjeka, kako se kaže u I. knjizi Etike: jedno koje se sastoji u vanjskim stvarima, primjerice u bogatstvu; drugo koje se sastoji u dobrima tijela; treće koje se sastoji u dobrima duše, među kojima su i dobra motrilačkoga života vrednija od dobara djelatnoga života, kako dokazuje Filozof u X. knjizi Etike, i kako kaže Gospodin, Lk 10: *Marija je izabrala najbolji dio*. Od tih dobara vanjska su usmjerena na ono što je tijela, ono što je tijela na ono što je duše, a nadalje ono što je djelatnoga života na ono što je motrilačkoga života. Ispravnosti razuma, dakle, pripada da se tko služi vanjskim dobrima prema onoj mjeri koja odgovara tijelu, i slično s ostalim. Stoga, ako se tko uzdržava od posjedovanja nekih stvari koje bi inače bilo dobro posjedovati, kako bi se pobrinuo za tjelesno zdravlje ili također za motrenje istine, to ne bi bilo poročno, nego prema ispravnom razumu. I slično, ako se tko uzdržava od tjelesnih naslada da bi se slobodnije posvetio motrenju istine, to pripada ispravnosti razuma. A pobožno se djevičanstvo uzdržava od svake spolne naslade zato da bi se slobodnije posvetilo božanskom motrenju; Apostol, naime, kaže, 1 Kor 7: *Neudana žena i djevica misli na ono što je Gospodnje, da bude sveta i tijelom i duhom; a udana misli na ono što je svjetovno, kako da ugodi mužu*. Stoga preostaje da djevičanstvo nije nešto poročno, nego naprotiv hvalevrijedno.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da zapovijed ima pojam dugovanoga, kako je gore rečeno. A nešto je dugovano dvojako. Na jedan način, tako da ga izvrši jedan, i takav se dug ne može propustiti bez grijeha. Drugi je pak dug koji treba izvršiti mnoštvo. I na izvršenje takvoga duga nije obvezan svatko iz mnoštva; mnogo je, naime, toga potrebno mnoštvu za čije izvršenje jedan ne dostaje, nego to izvršava mnoštvo, dok jedan čini ovo, a drugi ono. Zapovijed naravnoga zakona dana čovjeku o jelu nužno je, dakle, da izvrši svaki pojedini, jer se inače pojedinac ne bi mogao održati. Ali zapovijed dana o rađanju gleda na cijelo mnoštvo ljudi, kojemu je potrebno ne samo da se tjelesno umnožava nego i da duhovno napreduje. I zato je ljudskom mnoštvu dostatno pobrinuto ako se jedni bave tjelesnim rađanjem, a drugi, uzdržavajući se od njega, posvećuju se motrenju božanskih stvari, na ljepotu i spasenje cijeloga ljudskog roda. Kao što i u vojsci jedni čuvaju tabor, drugi nose zastave, treći se bore mačevima; a sve je to ipak dugovano mnoštvu, ali ne može biti izvršeno po jednome.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a2.ad2": {
+      "text": "Na drugo treba reći da je onaj tko se uzdržava od svih naslada mimo ispravnoga razuma, kao da se gnuša naslada po sebi, neosjetljiv, poput seljaka. Ali djevica se ne uzdržava od svake naslade, nego samo od spolne naslade, i od nje se uzdržava prema ispravnom razumu, kako je rečeno. A sredina kreposti ne određuje se prema kolikoći, nego prema ispravnom razumu, kako se kaže u II. knjizi Etike. Stoga se o velikodušnome kaže u IV. knjizi Etike da *je po veličini krajnost, a po tome što je kako treba, sredina*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a2.ad3": {
+      "text": "Na treće treba reći da se zakoni donose prema onome što se događa u većini slučajeva. A kod starih je bilo rijetko da se tko iz ljubavi prema motrenju istine uzdržava od svake spolne naslade; čita se da je to učinio jedino Platon. Stoga on nije prinio žrtvu kao da je to smatrao grijehom, nego popuštajući izopačenom mišljenju sugrađana, kako ondje kaže Augustin.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da djevičanstvo nije krepost. Nijedna nam, naime, krepost nije dana od naravi, kako kaže Filozof u II. knjizi Etike. Ali djevičanstvo je dano od naravi, jer je svatko tek rođen djevac. Dakle, djevičanstvo nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.obj2": {
+      "text": "Osim toga, tko god ima jednu krepost, ima sve, kako je gore utvrđeno. Ali neki imaju druge kreposti, a nemaju djevičanstvo; inače, budući da bez kreposti nitko ne dolazi u kraljevstvo nebesko, nitko ne bi mogao doći u nj bez djevičanstva, a to bi značilo osuditi ženidbu. Dakle, djevičanstvo nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.obj3": {
+      "text": "Osim toga, svaka se krepost vraća pokorom. Ali djevičanstvo se ne obnavlja pokorom; stoga Jeronim kaže: *Premda Bog može sve ostalo, ne može obnoviti djevicu nakon pada*. Dakle, čini se da djevičanstvo nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.obj4": {
+      "text": "Osim toga, nijedna se krepost ne gubi bez grijeha. Ali djevičanstvo se gubi bez grijeha, naime ženidbom. Dakle, djevičanstvo nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.obj5": {
+      "text": "Osim toga, djevičanstvo se razvrstava zajedno s udovištvom i bračnom čednošću. Ali ni jedno od toga dvoga ne postavlja se kao krepost. Dakle, djevičanstvo nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Ambrozije u knjizi O djevičanstvu: *Ljubav prema djevičanstvu poziva nas da nešto kažemo o djevičanstvu, da se ne bi činilo kako je tek usput dotaknuto ono što je glavna krepost*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, u djevičanstvu kao ono formalno i dovršujuće odluka da se trajno uzdržava od spolne naslade, a ta odluka postaje hvalevrijednom iz svrhe, ukoliko se, naime, to čini da bi se posvetilo božanskim stvarima. A tvarno je u djevičanstvu cjelovitost tijela bez ikakva iskustva spolne naslade. Očito je pak da ondje gdje je posebna građa koja ima posebnu izvrsnost, ondje se nalazi i poseban pojam kreposti, kao što je jasno u velebnosti, koja je oko velikih troškova i po tome je posebna krepost, različita od darežljivosti, koja se općenito odnosi na svaku uporabu novca. A to da se tko čuva slobodnim od iskustva spolnoga užitka ima neku izvrsnost hvale iznad toga da se čuva slobodnim od neurednosti spolnoga užitka. I zato je djevičanstvo neka posebna krepost, koja se prema čistoći odnosi kao velebnost prema darežljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ljudi od svoga rođenja imaju ono što je u djevičanstvu tvarno, naime cjelovitost tijela slobodnu od iskustva spolnih užitaka. Ali nemaju ono što je u djevičanstvu formalno, naime da imaju odluku da tu cjelovitost čuvaju radi Boga. A po tome djevičanstvo ima pojam kreposti. Stoga Augustin kaže u knjizi O djevičanstvu: *Ni mi kod djevica ne hvalimo to što su djevice, nego to što su djevice posvećene Bogu pobožnom uzdržljivošću*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.ad2": {
+      "text": "Na drugo treba reći da se povezanost kreposti uzima prema onome što je u krepostima formalno, to jest prema ljubavi ili prema razboritosti, kako je gore utvrđeno, a ne prema onome što je u krepostima tvarno. Ništa, naime, ne priječi da kojemu krepostnom čovjeku bude na raspolaganju građa jedne kreposti, a ne građa druge, kao što siromah ima građu umjerenosti, ali nema građu velebnosti. I na taj način kome koji ima druge kreposti nedostaje građa djevičanstva, to jest spomenuta cjelovitost tijela. Ipak može imati ono što je u djevičanstvu formalno, naime da u pripravnosti duha ima odluku da čuva spomenutu cjelovitost, kad bi mu to pristajalo. Kao što siromah može u pripravnosti duha imati odluku da čini velebne troškove, kad bi mu to pristajalo; i slično onaj koji je u blagostanju ima u pripravnosti duha odluku da protivštine podnosi ravnodušno. I bez te pripravnosti duha nitko ne može biti krepostan.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.ad3": {
+      "text": "Na treće treba reći da se krepost pokorom može obnoviti s obzirom na ono što je u kreposti formalno, ali ne s obzirom na ono što je u njoj tvarno. Ako je, naime, koji velebni čovjek potrošio svoje bogatstvo, pokorom za grijeh ne vraća mu se bogatstvo. I slično onaj koji je griješeći izgubio djevičanstvo pokorom ne dobiva natrag građu djevičanstva, ali dobiva natrag odluku djevičanstva. A u pogledu građe djevičanstva postoji nešto što bi se moglo čudesno obnoviti Božjom moću, naime cjelovitost uda, za koju smo rekli da se akcidentalno odnosi prema djevičanstvu. A drugo je ono što se ne može obnoviti ni čudom, naime da onaj tko je iskusio spolni užitak postane neiskusan; Bog, naime, ne može učiniti da ono što je učinjeno ne bude učinjeno, kako je utvrđeno u Prvom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.ad4": {
+      "text": "Na četvrto treba reći da djevičanstvo, ukoliko je krepost, uključuje odluku, učvršćenu zavjetom, da se cjelovitost trajno čuva; Augustin, naime, kaže u knjizi O djevičanstvu da se po djevičanstvu cjelovitost tijela *samome Stvoritelju duše i tijela zavjetuje, posvećuje i čuva*. Stoga se djevičanstvo, ukoliko je krepost, nikada ne gubi osim grijehom.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a3.ad5": {
+      "text": "Na peto treba reći da bračna čistoća ima hvalu samo po tome što se uzdržava od nedopuštenih užitaka; stoga nema neke izvrsnosti iznad zajedničke čistoće. A udovištvo doduše dodaje nešto iznad zajedničke čistoće, ali ipak ne dolazi do onoga što je savršeno u toj građi, naime do potpune slobodnosti od spolnoga užitka, nego do toga dolazi samo djevičanstvo. I zato se samo djevičanstvo postavlja kao posebna krepost, iznad čistoće kao velebnost iznad darežljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da djevičanstvo nije izvrsnije od ženidbe. Augustin, naime, kaže u knjizi O dobru ženidbe: *nije nejednaka zasluga uzdržljivosti u Ivanu, koji nije iskusio nikakve svadbe, i u Abrahamu, koji je rodio sinove*. Ali veća krepost ima veću zaslugu. Dakle, djevičanstvo nije vrednija krepost od bračne čistoće.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a4.obj2": {
+      "text": "Osim toga, pohvala kreposnoga ovisi o kreposti. Ako bi se, dakle, djevičanstvo pretpostavljalo bračnoj uzdržljivosti, čini se da bi slijedilo da je svaka djevica hvalevrjednija od bilo koje udane žene. A to je lažno. Dakle, djevičanstvo se ne pretpostavlja braku.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a4.obj3": {
+      "text": "Osim toga, opće je dobro vrednije od privatnoga dobra, kao što je jasno iz Filozofa, u I. knjizi Etike. Ali brak je usmjeren prema općem dobru; Augustin, naime, kaže u knjizi O dobru ženidbe: *što je hrana za dobrobit čovjeka, to je spolno općenje za dobrobit ljudskoga roda*. Djevičanstvo je pak usmjereno prema posebnom dobru, naime da se izbjegne nevolja tijela koju podnose bračni drugovi, kao što je jasno iz Apostola, 1 Kor 7. Dakle, djevičanstvo nije vrednije od bračne uzdržljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O djevičanstvu: *pouzdanim razlogom i autoritetom svetih Pisama nalazimo i da svadbe nisu grijeh, i ipak ih ne izjednačujemo s dobrom ni djevičanske uzdržljivosti, pa ni udovičke*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a4.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je jasno iz Jeronimove knjige Protiv Jovinijana, to bila zabluda Jovinijana, koji je tvrdio da djevičanstvo ne treba pretpostavljati ženidbi. Ta se zabluda ponajprije pobija i primjerom Krista, koji je i izabrao majku djevicu i sam sačuvao djevičanstvo; i naukom Apostola, koji je u 1 Kor 7 savjetovao djevičanstvo kao veće dobro; a također i razlogom. Prvo, zato što je božansko dobro vrednije od ljudskoga dobra. Drugo, zato što se dobro duše pretpostavlja dobru tijela. Treće, zato što se dobro motrilačkoga života pretpostavlja dobru djelatnoga. Djevičanstvo je pak usmjereno prema dobru duše po motrilačkom životu, a to je misliti na ono što je Božje. Brak je, naprotiv, usmjeren prema dobru tijela, a to je tjelesno umnažanje ljudskoga roda, i pripada djelatnom životu, jer muž i žena koji žive u ženidbi moraju misliti na ono što je od svijeta, kao što je jasno iz Apostola, 1 Kor 7. Stoga, bez ikakve sumnje, djevičanstvo treba pretpostaviti bračnoj uzdržljivosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se zasluga ne odmjerava samo po rodu čina, nego još više po duši onoga koji djeluje. Abraham je pak imao dušu tako raspoloženu da je bio spreman sačuvati djevičanstvo da je za to bilo prikladno vrijeme. Stoga se zasluga bračne uzdržljivosti u njemu izjednačuje sa zaslugom djevičanske uzdržljivosti u Ivanu s obzirom na bitnu nagradu, ali ne s obzirom na akcidentalnu nagradu. Zato Augustin kaže u knjizi O dobru ženidbe da su *Ivanov celibat i Abrahamov brak, prema rasporedu vremenâ, vojevali za Krista, ali je Ivan uzdržljivost imao i u djelu, a Abraham samo u habitusu*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a4.ad2": {
+      "text": "Na drugo treba reći da, premda je djevičanstvo bolje od bračne uzdržljivosti, ipak oženjeni može biti bolji od djevice, i to s dvaju razloga. Prvo, s obzirom na samu čistoću: naime, ako onaj koji je oženjen ima dušu spremniju da sačuva djevičanstvo, kad bi trebalo, nego onaj koji je zbiljski djevica. Stoga Augustin u knjizi O dobru ženidbe poučava djevicu da kaže: *ja nisam bolja od Abrahama, ali je čistoća neoženjenih bolja od čistoće bračnih*. I poslije dodaje razlog, govoreći: *ono, naime, što ja sada činim, oni bi bolje činili da je tada to trebalo činiti; a ono što su oni činili, ja ne bih tako činila, čak ni kad bi to sada trebalo činiti*. Drugo, zato što možda onaj koji nije djevica ima neku izvrsniju krepost. Stoga Augustin kaže u knjizi O djevičanstvu: *odakle djevica zna, premda se brine za ono što je Gospodnje, nije li možda, zbog neke sebi nepoznate slabosti, još nezrela za mučeništvo, dok ona žena kojoj se rado htjela pretpostaviti već može piti čašu Gospodnje muke?*",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a4.ad3": {
+      "text": "Na treće treba reći da je opće dobro vrednije od privatnoga dobra ako su istoga roda; ali može biti da je privatno dobro bolje po svom rodu. I na taj se način djevičanstvo posvećeno Bogu pretpostavlja tjelesnoj plodnosti. Zato Augustin kaže u knjizi O djevičanstvu da *treba vjerovati da plodnost tijela, čak i onih žena koje u ovo vrijeme u braku ne traže ništa drugo nego potomstvo koje bi predale Kristu, ne može nadoknaditi izgubljeno djevičanstvo*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je djevičanstvo najveća od kreposti. Ciprijan, naime, kaže u knjizi O djevičanstvu: *sada nam je govor o djevicama. Što je uzvišenija njihova slava, to je veća i briga. One su cvijet crkvenoga izdanka, dika i ures duhovne milosti, slavniji dio Kristova stada*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a5.obj2": {
+      "text": "Osim toga, većoj kreposti pripada veća nagrada. Ali djevičanstvu pripada najveća nagrada, naime stostruki plod, kao što je jasno iz Glose na Mt 13. Dakle, djevičanstvo je najveća od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a5.obj3": {
+      "text": "Osim toga, neka je krepost to veća što se po njoj netko više suobličuje Kristu. Ali netko se najviše suobličuje Kristu po djevičanstvu; o djevicama se, naime, kaže u Otk 14 da idu za Jaganjcem kamo god pođe i da *pjevaju novu pjesmu koju nitko drugi nije mogao izreći*. Dakle, djevičanstvo je najveća od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a5.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u knjizi O djevičanstvu: *nitko se, koliko mislim, nije usudio pretpostaviti djevičanstvo samostanu*. A u istoj knjizi kaže: *najsjajnije svjedočanstvo pruža crkveni autoritet, po kojem je vjernicima poznato na kojem se mjestu pri oltarskim otajstvima spominju mučenici, a na kojem preminule posvećene djevice*. Time se daje razumjeti da se mučeništvo pretpostavlja djevičanstvu, a isto tako i samostanski stalež.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a5.resp": {
+      "text": "Odgovaram: treba reći da se nešto može nazvati najizvrsnijim na dva načina. Na jedan način, u nekom rodu. I tako je djevičanstvo najizvrsnije, naime u rodu čistoće: ono, naime, nadilazi i udovičku i bračnu čistoću. A budući da se čistoći antonomastički pripisuje dražest, zato se djevičanstvu posljedično pripisuje najizvrsnija ljepota. Stoga i Ambrozije kaže u knjizi O djevičanstvu: *tko može smatrati ikoju ljepotu većom od dražesti djevice, koju ljubi kralj, odobrava sudac, koja se predaje Gospodinu, posvećuje Bogu?* Na drugi se način nešto može nazvati najizvrsnijim naprosto. I tako djevičanstvo nije najizvrsnija od kreposti. Svrha, naime, uvijek nadmašuje ono što vodi k svrsi, i što je nešto djelotvornije usmjereno prema svrsi, to je bolje. A svrha zbog koje djevičanstvo postaje hvalevrijedno jest posvetiti se božanskim stvarima, kao što je rečeno. Stoga se same bogoslovne kreposti, a također i krepost bogoštovlja (religije), čiji je čin samo bavljenje božanskim stvarima, pretpostavljaju djevičanstvu. Isto tako, snažnije nastoje prionuti uz Boga mučenici, koji radi toga zapostavljaju vlastiti život, i oni koji žive u samostanima, koji radi toga zapostavljaju vlastitu volju i sve što mogu imati, nego djevice, koje radi toga zapostavljaju spolne užitke. I zato djevičanstvo nije naprosto najveća od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da su djevice slavniji dio Kristova stada i da je njihova slava uzvišenija u usporedbi s udovicama i udanim ženama.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a5.ad2": {
+      "text": "Na drugo treba reći da se stostruki plod pripisuje djevičanstvu, prema Jeronimu, zbog izvrsnosti koju ono ima u odnosu na udovištvo, kojemu se pripisuje šezdesetostruki, i na ženidbu, kojoj se pripisuje tridesetostruki. Ali, kao što kaže Augustin u knjizi O pitanjima Evanđelja, *stostruki plod pripada mučenicima, šezdesetostruki djevicama, a tridesetostruki oženjenima*. Stoga iz toga ne slijedi da je djevičanstvo naprosto najveća od svih kreposti, nego samo u odnosu na druge stupnjeve čistoće.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    },
+    "II-II.q152.a5.ad3": {
+      "text": "Na treće treba reći da djevice idu za Jaganjcem kamo god pođe zato što nasljeduju Krista ne samo u cjelovitosti duha nego i u cjelovitosti tijela, kao što kaže Augustin u knjizi O djevičanstvu. I zato idu za Jaganjcem u više stvari. Ipak, ne mora biti da ga slijede izbliza više od drugih, jer druge kreposti čine da se uz Boga prianja bliže po nasljedovanju duha. A nova pjesma koju pjevaju samo djevice jest radost koju imaju zbog sačuvane cjelovitosti tijela.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:00+00:00"
+    }
+  }
+}

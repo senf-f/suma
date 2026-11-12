@@ -1,0 +1,264 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 144,
+  "units": {
+    "II-II.q144.pr": {
+      "text": "Zatim treba razmotriti dijelove umjerenosti posebno. I to, prvo, takoreći sastavne dijelove, a to su stid i čestitost. O stidu se pak pitaju četiri stvari. Prvo, je li stid krepost. Drugo, na što se stid odnosi. Treće, pred kime se čovjek stidi. Četvrto, koji se ljudi stide.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je stid krepost. *Biti u sredini prema određenju razuma vlastito je kreposti*, kao što je očito iz definicije kreposti koja se postavlja u II. knjizi Etike. Ali stid se sastoji u takvoj sredini, kao što je očito po Filozofu u II. knjizi Etike. Dakle, stid je krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.obj2": {
+      "text": "Osim toga, sve što je hvalevrijedno ili je krepost ili pripada kreposti. Ali stid je nešto hvalevrijedno. A nije dio nijedne kreposti. Nije, naime, dio razboritosti, jer nije u razumu, nego u težnji. Niti je dio pravednosti, jer stid uključuje neku strast, a pravednost se ne odnosi na strasti. Slično nije ni dio jakosti, jer jakosti pripada ustrajati i napadati, a stidu uzmicati od nečega. Niti je dio umjerenosti, jer se umjerenost odnosi na požude, a stid je neki strah, kao što je očito po Filozofu u IV. knjizi Etike i po Damaščaninu u II. knjizi. Preostaje, dakle, da je stid krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.obj3": {
+      "text": "Osim toga, čestito je zamjenjivo s krepošću, kao što je očito po Tuliju u I. knjizi O dužnostima. Ali stid je neki dio čestitosti; Ambrozije, naime, kaže u I. knjizi O dužnostima da je *stid drug i prisni pratilac smirenosti duha: tjera obijest, tuđ je svakoj raskoši, ljubi trijeznost, njeguje čestitost i traži doličnost*. Dakle, stid je krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.obj4": {
+      "text": "Osim toga, svaki se porok protivi nekoj kreposti. Ali neki se poroci protive stidu, naime bestidnost i neuredno zaprepaštenje. Dakle, stid je krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.obj5": {
+      "text": "*Osim toga, iz čina nastaju slični habitusi*, kako se kaže u II. knjizi Etike. Ali stid uključuje hvalevrijedan čin. Dakle, iz mnogih takvih čina nastaje habitus. Ali habitus hvalevrijednih djela jest krepost, kao što je očito po Filozofu u I. knjizi Etike. Dakle, stid je krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.sc": {
+      "text": "Ali protiv toga jest što Filozof u II. i IV. knjizi Etike kaže da stid nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.resp": {
+      "text": "Odgovaram: treba reći da se krepost uzima na dva načina, naime u vlastitom smislu i općenito. U vlastitom smislu krepost je neka savršenost, kako se kaže u VII. knjizi Fizike. I zato sve što se protivi savršenosti, čak i ako je dobro, ne doseže pojam kreposti. A stid se protivi savršenosti. On je, naime, strah od nečega sramotnog, to jest od onoga što je vrijedno prijekora; stoga Damaščanin kaže da je stid strah od sramotnog čina. A kao što se nada odnosi na moguće i teško dostižno dobro, tako se i strah odnosi na moguće i teško zlo, kao što je gore utvrđeno kad se raspravljalo o strastima. Onaj pak koji je savršen po habitusu kreposti ne zahvaća ništa što je vrijedno prijekora i sramotno, a što bi trebalo učiniti, kao moguće i teško, to jest teško za izbjegavanje, niti zbiljski čini išta sramotno zbog čega bi se bojao poruge. Stoga stid, u vlastitom smislu govoreći, nije krepost, jer ne doseže savršenost kreposti. Općenito se pak krepošću naziva sve što je dobro i hvalevrijedno u ljudskim činima ili strastima. I prema tome se stid ponekad naziva krepošću, budući da je neka hvalevrijedna strast.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da biti u sredini nije dovoljno za pojam kreposti, premda je to jedan dijelić postavljen u definiciji kreposti, nego se nadalje zahtijeva da bude izborni habitus, to jest da djeluje iz izbora. A stid ne označuje habitus, nego strast. Niti je njegov pokret iz izbora, nego iz nekog naleta strasti. Stoga ne doseže pojam kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.ad2": {
+      "text": "Na drugo treba reći da je, kao što je rečeno, stid strah od sramotnosti i prijekora. A gore je rečeno da je porok neumjerenosti najsramotniji i najviše vrijedan prijekora. I zato stid prvotnije pripada umjerenosti nego ijednoj drugoj kreposti, s obzirom na pokretni razlog, a to je sramotno, ali ne prema vrsti strasti, a to je strah. Ipak, ukoliko su poroci suprotstavljeni drugim krepostima sramotni i vrijedni prijekora, stid može pripadati i drugim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.ad3": {
+      "text": "Na treće treba reći da stid njeguje čestitost uklanjajući ono što je čestitosti protivno, ali ne tako da bi dosegao savršeni pojam čestitosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.ad4": {
+      "text": "Na četvrto treba reći da svaki nedostatak uzrokuje porok, ali nije svako dobro dovoljno za pojam kreposti. I zato ne mora biti krepost sve ono čemu se porok izravno protivi. Premda se svaki porok po svome podrijetlu protivi nekoj kreposti. I tako se bestidnost, ukoliko proizlazi iz prevelike ljubavi prema sramotnostima, protivi umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a1.ad5": {
+      "text": "Na peto treba reći da iz čestoga stiđenja nastaje habitus stečene kreposti po kojoj netko izbjegava sramotno, na što se odnosi stid, ali ne tako da se netko i dalje stidi. Nego se po tom habitusu stečene kreposti netko tako drži da bi se više stidio kad bi bila prisutna tvar stida.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se stid ne odnosi na sramotan čin. Filozof, naime, kaže u IV. knjizi Etike da je stid strah od nečasti. Ali ponekad oni koji ne čine ništa sramotno podnose nečast, prema onome iz Psalma: *Zbog tebe podnio sam porugu, posramljenost mi je prekrila lice*. Dakle, stid se u vlastitom smislu ne odnosi na sramotan čin.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a2.obj2": {
+      "text": "Osim toga, čini se da je sramotno samo ono što ima pojam grijeha. Ali čovjek se stidi nekih stvari koje nisu grijesi, primjerice ako netko obavlja ropske poslove. Dakle, čini se da se stid u vlastitom smislu ne odnosi na sramotan čin.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a2.obj3": {
+      "text": "Osim toga, djelovanja kreposti nisu sramotna, nego najljepša, kako se kaže u I. knjizi Etike. Ali ponekad se neki stide činiti neka djela kreposti, kako se kaže Lk 9: *Tko se bude sramio mene i mojih riječi, njega će se sramiti Sin Čovječji* itd. Dakle, stid se ne odnosi na sramotan čin.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a2.obj4": {
+      "text": "Osim toga, kad bi se stid u vlastitom smislu odnosio na sramotan čin, trebalo bi da se čovjek više stidi onoga što je sramotnije. Ali ponekad se čovjek više stidi onoga što je manji grijeh, dok se ipak nekim najtežim grijesima hvale, prema onome iz Psalma: *Što se hvališ zloćom?* Dakle, stid se u vlastitom smislu ne odnosi na sramotan čin.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a2.sc": {
+      "text": "Ali protiv toga jest ono što kažu Damaščanin u II. knjizi i Grgur iz Nise, da je *stid strah pri sramotnom činu ili pri počinjenom sramotnom djelu*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je gore rečeno kad se raspravljalo o strasti straha, strah u vlastitom smislu odnosi na teško zlo, to jest na ono koje se teško izbjegava. A dvostruka je sramotnost. Jedna je poročna, koja se, naime, sastoji u nakaznosti voljnoga čina. I ona, u vlastitom smislu govoreći, nema pojam teškoga zla: ono što se, naime, sastoji samo u volji, ne čini se teškim i uzdignutim iznad čovjekove moći, i zbog toga se ne zahvaća pod pojmom strašnoga. I zbog toga Filozof kaže u II. knjizi Retorike da od takvih zala nema straha. Druga je pak sramotnost takoreći kaznena, koja se sastoji u tome što se netko kudi, kao što se neki sjaj slave sastoji u tome što se netko časti. I budući da takva pokuda ima pojam teškoga zla, kao što čast ima pojam teško dostižnoga dobra, stid, koji je strah od sramotnosti, prvo i glavno gleda na pokudu ili porugu. A budući da se pokuda u vlastitom smislu duguje poroku, kao čast kreposti, zato stid posljedično gleda i na poročnu sramotnost. Stoga se, kako kaže Filozof u II. knjizi Retorike, čovjek manje stidi nedostataka koji ne proizlaze iz njegove krivnje. A stid gleda na krivnju na dva načina. Na jedan način, tako da netko prestane činiti ono što je poročno zbog straha od pokude. Na drugi način, tako da čovjek u sramotnome što čini izbjegava javne poglede zbog straha od pokude. Od toga prvo, prema Grguru iz Nise, pripada sramu, a drugo stidu; stoga on kaže da *tko se stidi, skriva se u onome što čini, a tko se srami, boji se da će zapasti u nečast*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da stid u vlastitom smislu gleda na nečast ukoliko se ona duguje krivnji, koja je voljni nedostatak. Stoga Filozof kaže u II. knjizi Retorike da se *čovjek više stidi svega onoga čemu je sam uzrok*. A poruge koje se nekome nanose zbog kreposti krepostan čovjek prezire, jer mu se nanose nezasluženo, kao što Filozof kaže o velikodušnima u IV. knjizi Etike; i o apostolima se kaže Dj 5 da su *apostoli odlazili radosni ispred Vijeća, jer su bili dostojni podnijeti pogrdu za ime Isusovo*. A iz nesavršenosti kreposti događa se da se netko stidi poruga koje mu se nanose zbog kreposti, jer koliko je netko krepostniji, toliko više prezire vanjska dobra ili zla. Stoga se kaže Iz 51: *Ne boj se poruge ljudi*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a2.ad2": {
+      "text": "Na drugo treba reći da kao što čast, kako je gore utvrđeno, premda se istinski duguje samo kreposti, ipak gleda na neku nadmoć, tako i pokuda, premda se u vlastitom smislu duguje samo krivnji, ipak gleda, barem prema mnijenju ljudi, na bilo koji nedostatak. I zato se netko stidi siromaštva, neplemenita roda, ropstva i drugoga takvog.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a2.ad3": {
+      "text": "Na treće treba reći da se stid ne odnosi na krepostna djela razmatrana sama po sebi. Ipak se akcidentalno događa da ih se netko stidi, bilo ukoliko se prema mnijenju ljudi smatraju poročnima, bilo ukoliko čovjek u djelima kreposti izbjegava žig preuzetnosti ili pak pretvaranja.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a2.ad4": {
+      "text": "Na četvrto treba reći da se ponekad događa da su neki teži grijesi manje vrijedni stida, bilo zato što imaju manje od pojma sramotnosti, kao duhovni grijesi u usporedbi s tjelesnima, bilo zato što pokazuju neko obilje vremenitoga dobra, kao što se čovjek više stidi plašljivosti nego smjelosti, i krađe nego otimačine, zbog nekog privida moći. I slično je u drugim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se čovjek ne stidi više pred bliskim osobama. U II. knjizi Retorike, naime, kaže se da se *ljudi više srame pred onima od kojih žele da im se dive*. Ali to čovjek najviše želi od boljih, koji ponekad nisu bliži. Dakle, čovjek se ne srami više pred bližima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a3.obj2": {
+      "text": "Osim toga, čini se da su bliži oni koji čine slična djela. Ali čovjek se ne srami svoga grijeha pred onima za koje zna da podliježu sličnom grijehu, jer, kako se kaže u II. knjizi Retorike, *što tko sam čini, to bližnjima ne zabranjuje*. Dakle, čovjek se ne stidi više pred najbližima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a3.obj3": {
+      "text": "Osim toga, Filozof kaže u II. knjizi Retorike da se *čovjek više stidi pred onima koji mnogima razglašuju što znaju, kao što su podrugljivci i izmišljači priča*. Ali oni koji su bliži obično ne razglašuju poroke. Dakle, pred njima se ne treba najviše stidjeti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a3.obj4": {
+      "text": "Osim toga, Filozof na istome mjestu kaže da se *ljudi najviše stide pred onima među kojima ni u čemu nisu podbacili, i pred onima od kojih prvi put nešto traže, i čiji sada prvi put žele postati prijatelji*. A takvi su manje bliski. Dakle, čovjek se ne stidi više pred bližima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a3.sc": {
+      "text": "Ali protiv toga jest što se kaže u II. knjizi Retorike, da se *ljudi više srame pred onima koji će uvijek biti uz njih*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a3.resp": {
+      "text": "Odgovaram: treba reći da se pokuda protivi časti; i kao što čast uključuje neko svjedočanstvo o nečijoj nadmoći, osobito onoj koja je po kreposti, tako i poruga, čiji je strah stid, uključuje svjedočanstvo o nečijem nedostatku, osobito po nekoj krivnji. I zato, koliko se nečije svjedočanstvo smatra težim, toliko se netko više stidi pred njim. A neko se svjedočanstvo može smatrati težim bilo zbog izvjesnosti istine bilo zbog učinka. Izvjesnost istine pripada pak nečijem svjedočanstvu zbog dvoga. Na jedan način, zbog ispravnosti suda, kao što je očito kod mudrih i krepostnih, od kojih čovjek i više želi biti počašćen i pred kojima se više stidi. Stoga se nitko ne stidi pred djecom i životinjama, zbog nedostatka ispravnoga suda koji je u njima. Na drugi način, zbog spoznaje onoga o čemu je svjedočanstvo, jer svatko dobro sudi o onome što spoznaje. I tako se više stidimo pred bliskim osobama, koje više razmatraju naša djela. A pred strancima i posve nepoznatima, do kojih naša djela ne dopiru, nikako se ne stidimo. Po učinku pak neko je svjedočanstvo velike težine zbog koristi ili štete koja iz njega proizlazi. I zato ljudi više žele biti počašćeni od onih koji im mogu pomoći, i više se stide pred onima koji mogu naškoditi. I odatle je također da se u nekom pogledu više stidimo pred bliskim osobama, s kojima ćemo uvijek živjeti, kao da nam iz toga proizlazi trajna šteta. A ono što dolazi od stranaca i prolaznika takoreći brzo prolazi.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je sličan razlog zbog kojega se stidimo pred boljima i pred bližima. Jer kao što se svjedočanstvo boljih smatra djelotvornijim zbog opće spoznaje koju imaju o stvarima i zbog nepokolebljivoga suda koji se ne odvaja od istine, tako se i svjedočanstvo prisnih osoba čini djelotvornijim zbog toga što bolje poznaju pojedinosti koje se tiču nas.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a3.ad2": {
+      "text": "Na drugo treba reći da se ne pribojavamo svjedočanstva onih koji su nam bliski po sličnosti grijeha, jer ne smatramo da naš nedostatak zahvaćaju kao nešto sramotno.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a3.ad3": {
+      "text": "Na treće treba reći da se stidimo pred onima koji razglašuju zbog štete koja odatle proizlazi, a to je gubitak dobroga glasa kod mnogih.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a3.ad4": {
+      "text": "Na četvrto treba reći da se i pred onima među kojima nismo učinili ništa zlo više stidimo zbog štete koja slijedi, naime zato što time gubimo dobro mnijenje koje su o nama imali. I također zato što se protivnosti, postavljene jedna uz drugu, čine većima; stoga kad netko iznenada zamijeti nešto sramotno kod nekoga koga je smatrao dobrim, zahvaća to kao sramotnije. A pred onima od kojih nešto iznova tražimo ili čiji sada prvi put želimo biti prijatelji više se stidimo zbog štete koja odatle proizlazi, a to je zapreka ispunjenju molbe i dovršenju prijateljstva.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da i u krepostnim ljudima može biti stida. Protivnosti, naime, imaju protivne učinke. Ali oni koji su pretjerane zloće ne stide se, prema onome Jr 3: *Dobila si lik bludnice, nisi se znala sramiti*. Dakle, oni koji su krepostni više se stide.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a4.obj2": {
+      "text": "Osim toga, Filozof kaže u II. knjizi Retorike da se *ljudi ne srame samo poroka, nego i znakova poroka*. A oni se nalaze i u krepostnima. Dakle, u krepostnima može biti stida.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a4.obj3": {
+      "text": "Osim toga, stid je strah od nečasti. Ali događa se da su neki krepostni bez časti, primjerice ako su lažno ozloglašeni ili ako nezasluženo trpe poruge. Dakle, stid može biti u krepostnom čovjeku.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a4.obj4": {
+      "text": "Osim toga, stid je dio umjerenosti, kao što je rečeno. A dio se ne odvaja od cjeline. Budući, dakle, da je umjerenost u krepostnom čovjeku, čini se da je u njemu i stid.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a4.sc": {
+      "text": "Ali protiv toga jest ono što Filozof kaže u IV. knjizi Etike, da *stid ne pripada vrsnome čovjeku*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a4.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je rečeno, stid strah od neke sramotnosti. A da se neko zlo ne boji, može se dogoditi iz dvostrukog razloga: na jedan način, jer se ne smatra zlom; na drugi način, jer se ne smatra mogućim ili teškim za izbjegavanje. I prema tome stid kod nekoga izostaje na dva načina. Na jedan način, jer se ono čega se treba sramiti ne zahvaća kao sramotno. I na taj su način bez stida ljudi ogrezli u grijesima, kojima njihovi grijesi nisu mrski, nego se njima radije hvale. Na drugi način, jer ne zahvaćaju sramotnost kao moguću za sebe ili kao ne lako izbježivu. I na taj su način starci i krepostni bez stida. Ipak su tako raspoloženi da bi se, kad bi u njima bilo nešto sramotno, toga stidjeli; stoga Filozof kaže u IV. knjizi Etike da *stid u vrsnoga čovjeka postoji pod pretpostavkom*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da nedostatak stida nastupa kod najgorih i najboljih ljudi iz različitih uzroka, kao što je rečeno. A stid se nalazi kod onih koji se drže osrednje, ukoliko u njima ima nešto ljubavi prema dobru, a ipak nisu posve slobodni od zla.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a4.ad2": {
+      "text": "Na drugo treba reći da krepostnome pripada izbjegavati ne samo poroke nego i ono što ima privid poroka, prema onome 1 Sol 5: *Uzdržavajte se od svake pojave zla*. I Filozof kaže u IV. knjizi Etike da krepostan treba izbjegavati kako ono što je zlo po istini tako i ono što je zlo po mnijenju.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a4.ad3": {
+      "text": "Na treće treba reći da krepostan, kao što je rečeno, prezire ozloglašavanja i poruge kao nešto čega on nije dostojan. I zato se toga nitko mnogo ne stidi. Ipak postoji neki pokret stida koji pretječe razum, kao i kod ostalih strasti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q144.a4.ad4": {
+      "text": "Na četvrto treba reći da stid nije dio umjerenosti kao da ulazi u njezinu bit, nego kao ono što prema njoj raspoložuje. Stoga Ambrozije kaže u I. knjizi O dužnostima da *stid postavlja prve temelje umjerenosti*, ukoliko, naime, ulijeva užas od sramotnosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    }
+  }
+}

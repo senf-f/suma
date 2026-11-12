@@ -1,0 +1,420 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 141,
+  "units": {
+    "II-II.q141.pr": {
+      "text": "Slijedi razmatranje umjerenosti. I to, prvo, same umjerenosti; drugo, njezinih dijelova; treće, njezinih zapovijedi. Glede umjerenosti pak najprije treba razmotriti samu umjerenost; drugo, poroke koji su joj suprotstavljeni. Glede prvoga pita se osam stvari. Prvo, je li umjerenost krepost. Drugo, je li posebna krepost. Treće, odnosi li se samo na požude i naslade. Četvrto, odnosi li se samo na naslade dodira. Peto, odnosi li se na naslade okusa ukoliko je okus ili samo ukoliko je okus neka vrsta dodira. Šesto, što je pravilo umjerenosti. Sedmo, je li stožerna ili glavna krepost. Osmo, je li najizvrsnija od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da umjerenost nije krepost. Nijedna se, naime, krepost ne protivi sklonosti naravi, jer je *u nama naravna prikladnost za krepost*, kako se kaže u II. knjizi Etike. Ali umjerenost odvlači od naslada prema kojima narav naginje, kako se kaže u II. knjizi Etike. Dakle, umjerenost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a1.obj2": {
+      "text": "Osim toga, kreposti su međusobno povezane, kao što je gore utvrđeno. Ali neki imaju umjerenost, a nemaju drugih kreposti: mnogi su, naime, umjereni, a ipak su škrti ili plašljivi. Dakle, umjerenost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a1.obj3": {
+      "text": "Osim toga, svakoj kreposti odgovara neki dar, kao što je jasno iz onoga što je gore rečeno. Ali čini se da umjerenosti ne odgovara nikakav dar, jer su već prije svi darovi pripisani drugim krepostima. Dakle, umjerenost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a1.sc": {
+      "text": "Ali protiv toga stoji to što Augustin kaže u VI. knjizi O glazbi: *krepost je ona koja se naziva umjerenost*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a1.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, pojmu kreposti pripada da čovjeka nagne k dobru. A dobro je čovjeka biti u skladu s razumom, kako kaže Dionizije u IV. poglavlju O božanskim imenima. Stoga je ljudska krepost ona koja naginje k onome što je u skladu s razumom. A umjerenost očito naginje k tome, jer se već u samom njezinu imenu podrazumijeva neko odmjeravanje ili umjeravanje koje provodi razum. Stoga je umjerenost krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da narav naginje k onome što je svakomu prikladno. Zato čovjek po naravi teži za nasladom koja mu je prikladna. Budući da je pak čovjek, kao takav, razuman, slijedi da su čovjeku prikladne one naslade koje su u skladu s razumom. I od njih umjerenost ne odvlači, nego radije od onih koje su protiv razuma. Odatle je jasno da se umjerenost ne protivi sklonosti ljudske naravi, nego se s njom slaže. Protivi se ipak sklonosti životinjske naravi koja nije podložna razumu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a1.ad2": {
+      "text": "Na drugo treba reći da umjerenost, ukoliko savršeno ima pojam kreposti, nije bez razboritosti, koje su lišeni svi poročni. Stoga oni kojima nedostaju druge kreposti, jer su podložni protivnim porocima, nemaju umjerenosti koja je krepost, nego vrše čine umjerenosti iz neke naravne raspoloživosti, ukoliko su neke nesavršene kreposti ljudima naravne, kao što je gore rečeno; ili iz raspoloživosti stečene navikom, koja bez razboritosti nema savršenosti razuma, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a1.ad3": {
+      "text": "Na treće treba reći da i umjerenosti odgovara neki dar, naime dar straha, kojim se netko obuzdava od naslada tijela, prema onoj riječi Psalma: *probodi strahom svojim tijelo moje*. Dar straha doduše ponajprije gleda na Boga, čiju uvredu izbjegava, i u tom smislu odgovara kreposti nade, kao što je gore rečeno. Drugotno pak može gledati na sve ono od čega netko bježi da bi izbjegao uvredu Božju. A čovjeku je Božji strah ponajviše potreban da bi bježao od onoga što najviše mami, a na to se odnosi umjerenost. Stoga i umjerenosti odgovara dar straha.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da umjerenost nije posebna krepost. Augustin, naime, kaže u knjizi O običajima Crkve da umjerenosti pripada čuvati se cjelovitim i neiskvarenim za Boga. Ali to pristaje svakoj kreposti. Dakle, umjerenost je opća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a2.obj2": {
+      "text": "Osim toga, Ambrozije kaže u I. knjizi O dužnostima da se *u umjerenosti ponajviše gleda i traži spokoj duha*. Ali to pripada svakoj kreposti. Dakle, umjerenost je opća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a2.obj3": {
+      "text": "Osim toga, Tulije kaže u I. knjizi O dužnostima da se *dolično ne može odijeliti od čestitoga i da je sve pravedno dolično*. Ali dolično se u vlastitom smislu razmatra kod umjerenosti, kako se ondje kaže. Dakle, umjerenost nije posebna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a2.sc": {
+      "text": "Ali protiv toga stoji to što je Filozof u II. i III. knjizi Etike postavlja kao posebnu krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a2.resp": {
+      "text": "Odgovaram: treba reći da se, prema običaju ljudskoga govora, neka zajednička imena ograničuju na ono što je najistaknutije među onim što je obuhvaćeno takvom zajedničkošću, kao što se ime grad uzima antonomastički za Rim. Tako se dakle ime umjerenosti može uzeti dvojako. Na jedan način, prema općenitosti svojega značenja. I tako umjerenost nije posebna krepost, nego opća, jer ime umjerenosti označuje neko umjeravanje, to jest odmjeravanje, koje razum unosi u ljudska djelovanja i strasti; a to je zajedničko svakoj moralnoj kreposti. Ipak se umjerenost po pojmu razlikuje od jakosti i onda kad se obje uzimaju kao opće kreposti. Jer umjerenost odvlači od onoga što mami težnju protiv razuma, a jakost potiče na podnošenje ili napadanje onoga zbog čega čovjek bježi od dobra razuma. Ako se pak umjerenost razmatra antonomastički, ukoliko obuzdava težnju od onoga što čovjeka najviše mami, tako je posebna krepost, budući da ima posebnu građu, kao i jakost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se čovjekova težnja ponajviše kvari onim čime se čovjek mami da odstupi od pravila razuma i božanskoga zakona. Stoga, kao što se samo ime umjerenosti može uzeti dvojako, na jedan način općenito, na drugi način u izvrsnom smislu, tako i cjelovitost koju Augustin pripisuje umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a2.ad2": {
+      "text": "Na drugo treba reći da ono na što se odnosi umjerenost ponajviše može uznemiriti duh, zbog toga što je čovjeku bitno, kako će se niže reći. Stoga se spokoj duha na neki izvrstan način pripisuje umjerenosti, premda općenito pristaje svim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a2.ad3": {
+      "text": "Na treće treba reći da se, premda ljepota pristaje svakoj kreposti, ipak na izvrstan način pripisuje umjerenosti, i to iz dvaju razloga. Prvo, prema općem pojmu umjerenosti, kojoj pripada neki odmjeren i prikladan razmjer, u čemu se sastoji pojam ljepote, kao što je jasno iz Dionizija u IV. poglavlju O božanskim imenima. Drugo, zato što je ono od čega umjerenost obuzdava ono najniže u čovjeku, što mu pristaje po životinjskoj naravi, kako će se niže reći, pa se time čovjek po naravi najviše može nagrditi. I prema tome se ljepota ponajviše pripisuje umjerenosti, koja ponajprije uklanja čovjekovu sramotnost. Iz istoga se razloga i čestito ponajviše pripisuje umjerenosti. Izidor, naime, kaže u knjizi Etimologija: *čestitim se naziva ono što nema ničega sramotnoga, jer se čestitost naziva tako kao da je stanje časti*, a ono se ponajviše razmatra kod umjerenosti, koja odbija najsramotnije poroke, kako će se niže reći.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se umjerenost ne odnosi samo na požude i naslade. Tulije, naime, kaže u svojoj Retorici da je *umjerenost čvrsto i odmjereno gospodstvo razuma nad pohotom i drugim neispravnim porivima duha*. Ali porivima duha nazivaju se sve strasti duše. Dakle, čini se da se umjerenost ne odnosi samo na požude i naslade.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a3.obj2": {
+      "text": "Osim toga, krepost se odnosi na ono što je teško i dobro. Ali čini se da je teže umjeriti strah, osobito pred pogibeljima smrti, nego odmjeriti požude i naslade, koje se zbog boli i pogibelji smrti preziru, kako kaže Augustin u knjizi Osamdeset i tri pitanja. Dakle, čini se da se krepost umjerenosti ne odnosi ponajprije na požude i naslade.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a3.obj3": {
+      "text": "Osim toga, umjerenosti pripada dražest odmjerenosti, kako kaže Ambrozije u I. knjizi O dužnostima. A Tulije kaže u I. knjizi O dužnostima da *umjerenosti pripada svako smirivanje uzbuđenja duha i mjera u stvarima*. Mjeru pak treba postaviti ne samo u požudama i nasladama nego i u vanjskim činima i u bilo čemu vanjskom. Dakle, umjerenost se ne odnosi samo na požude i naslade.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a3.sc": {
+      "text": "Ali protiv toga stoji to što Izidor kaže u knjizi Etimologija da je umjerenost ono čime se obuzdavaju pohota i požuda.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, moralnoj kreposti pripada čuvanje dobra razuma protiv strasti koje se protive razumu. A pokret je strasti duše dvostruk, kao što je gore rečeno kad se raspravljalo o strastima. Jedan je onaj kojim osjetilna težnja ide za osjetnim i tjelesnim dobrima; drugi onaj kojim bježi od osjetnih i tjelesnih zala. Prvi se pokret osjetilne težnje protivi razumu ponajviše neodmjerenošću. Jer osjetna i tjelesna dobra, razmatrana prema svojoj vrsti, ne protive se razumu, nego mu radije služe kao oruđa kojima se razum služi da postigne vlastitu svrhu. Protive mu se pak ponajviše ukoliko osjetilna težnja teži k njima ne prema mjeri razuma. Stoga moralnoj kreposti u vlastitom smislu pripada odmjeravati takve strasti koje uključuju posezanje za dobrom. Pokret pak osjetilne težnje koja bježi od osjetnih zala ponajviše se protivi razumu ne svojom neodmjerenošću, nego ponajviše svojim učinkom, naime ukoliko netko, bježeći od osjetnih i tjelesnih zala koja katkad prate dobro razuma, posljedično odstupa od samoga dobra razuma. Stoga moralnoj kreposti pripada da u takvima pruži čvrstoću u dobru razuma. Kao što se dakle krepost jakosti, čijemu pojmu pripada pružati čvrstoću, ponajprije odnosi na strast koja pripada bijegu od tjelesnih zala, naime na strah, a posljedično na smjelost, koja napada ono strašno u nadi nekoga dobra, tako se i umjerenost, koja uključuje neko odmjeravanje, ponajprije odnosi na strasti koje teže k osjetnim dobrima, naime na požudu i nasladu, a posljedično na žalosti koje nastaju zbog odsutnosti takvih naslada. Jer kao što smjelost pretpostavlja ono strašno, tako i takva žalost proizlazi iz odsutnosti spomenutih naslada.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što je gore rečeno kad se raspravljalo o strastima, strasti koje pripadaju bijegu od zla pretpostavljaju strasti koje pripadaju posezanju za dobrom, a strasti srdite moći pretpostavljaju strasti požudne moći. I tako, dok umjerenost izravno odmjerava strasti požudne moći koje teže k dobru, po nekoj posljedičnosti odmjerava i sve druge strasti, ukoliko iz odmjerenosti prvih slijedi odmjerenost potonjih. Jer tko ne žudi neodmjereno, slijedi da se odmjereno nada i da se odmjereno žalosti zbog odsutnosti onoga za čim žudi.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a3.ad2": {
+      "text": "Na drugo treba reći da požuda uključuje neki nalet težnje prema ugodnome, kojemu je potrebno obuzdavanje, a to pripada umjerenosti. Strah pak uključuje neko povlačenje duha od nekih zala, protiv čega je čovjeku potrebna čvrstoća duha, koju pruža jakost. Stoga se umjerenost u vlastitom smislu odnosi na požude, a jakost na strahove.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a3.ad3": {
+      "text": "Na treće treba reći da vanjski čini proizlaze iz unutarnjih strasti duše. Stoga njihovo odmjeravanje ovisi o odmjeravanju unutarnjih strasti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se umjerenost ne odnosi samo na požude i naslade dodira. Augustin, naime, kaže u knjizi O običajima Crkve da je *zadaća umjerenosti u suzbijanju i smirivanju žudnji kojima hlepimo za onim što nas odvraća od Božjih zakona i od ploda njegove dobrote*. I malo zatim dodaje da je *dužnost umjerenosti prezirati sve tjelesne primamljivosti i pohvalu svjetine*. Ali od Božjih nas zakona ne odvraćaju samo žudnje za nasladama dodira, nego i požude za nasladama drugih osjetila, koje također pripadaju tjelesnim primamljivostima, a slično i žudnje za bogatstvom ili pak za svjetovnom slavom; zato se kaže u 1 Tim, u posljednjem poglavlju: *korijen je svih zala pohlepa*. Dakle, umjerenost se ne odnosi samo na požude za nasladama dodira.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.obj2": {
+      "text": "Osim toga, Filozof kaže u IV. knjizi Etike da je *onaj koji je dostojan malih stvari i smatra se njih dostojnim umjeren, a ne velikodušan*. Ali male ili velike časti, o kojima ondje govori, nisu ugodne po dodiru, nego po duševnom zahvaćanju. Dakle, umjerenost se ne odnosi samo na požude za nasladama dodira.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.obj3": {
+      "text": "Osim toga, čini se da ono što je jednoga roda iz istoga razloga pripada građi neke kreposti. Ali čini se da su sve naslade osjetila jednoga roda. Dakle, iz jednakoga razloga pripadaju građi umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.obj4": {
+      "text": "Osim toga, duhovne su naslade veće od tjelesnih, kao što je gore utvrđeno kad se raspravljalo o strastima. Ali katkad zbog požuda za duhovnim nasladama neki odstupaju od Božjih zakona i od stanja kreposti, kao zbog radoznalosti za znanjem. Zato je i prvomu čovjeku đavao obećao znanje, Post 3, govoreći: *bit ćete kao bogovi, znajući dobro i zlo*. Dakle, umjerenost se ne odnosi samo na naslade dodira.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.obj5": {
+      "text": "Osim toga, kad bi naslade dodira bile vlastita građa umjerenosti, umjerenost bi se morala odnositi na sve naslade dodira. Ali ne odnosi se na sve, primjerice na one koje su u igrama. Dakle, naslade dodira nisu vlastita građa umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.sc": {
+      "text": "Ali protiv toga stoji to što Filozof kaže u III. knjizi Etike da se umjerenost u vlastitom smislu odnosi na požude i naslade dodira.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, umjerenost odnosi na požude i naslade onako kako se jakost odnosi na strahove i smjelosti. A jakost se odnosi na strahove i smjelosti glede najvećih zala, kojima se gasi sama narav, a to su pogibelji smrti. Zato se slično i umjerenost mora odnositi na požude za najvećim nasladama. A budući da naslada slijedi sunaravno djelovanje, neke su naslade to žešće što slijede naravnija djelovanja. Životinjama su pak najnaravnija ona djelovanja kojima se održava narav pojedinca hranom i pićem i narav vrste sjedinjenjem muškoga i ženskoga. Stoga se umjerenost u vlastitom smislu odnosi na naslade jela i pića i na spolne naslade. Takve pak naslade slijede osjetilo dodira. Prema tome, preostaje da se umjerenost odnosi na naslade dodira.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin ondje, čini se, ne uzima umjerenost ukoliko je posebna krepost koja ima određenu građu, nego ukoliko joj pripada odmjeravanje razuma u bilo kojoj građi, što pripada općem obilježju kreposti. Premda se može reći i to da onaj koji može obuzdati najveće naslade mnogo više može obuzdati i manje naslade. Stoga umjerenosti glavno i u vlastitom smislu pripada odmjeravati požude za nasladama dodira, a drugotno druge požude.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.ad2": {
+      "text": "Na drugo treba reći da Filozof ondje ime umjerenosti odnosi na odmjerenost vanjskih stvari, kad naime netko teži k nečemu što mu je primjereno, a ne ukoliko se odnosi na odmjeravanje čuvstava duše, koje pripada kreposti umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.ad3": {
+      "text": "Na treće treba reći da naslade drugih osjetila drukčije stoje kod ljudi, a drukčije kod drugih životinja. Kod drugih se, naime, životinja iz drugih osjetila naslade ne uzrokuju osim u odnosu na ono što je osjetno dodirom: tako se lav naslađuje videći jelena ili čujući njegov glas, radi hrane. Čovjek se pak naslađuje po drugim osjetilima ne samo radi toga, nego i radi prikladnosti osjetnih stvari. Tako se dakle umjerenost odnosi na naslade drugih osjetila ukoliko su usmjerene prema nasladama dodira, ne glavno, nego posljedično. Ukoliko su pak osjetne stvari drugih osjetila ugodne zbog svoje prikladnosti, kao kad se čovjek naslađuje skladno usklađenim zvukom, ta naslada ne pripada održavanju naravi. Zato takve strasti nemaju one prvenstvenosti da bi se za umjerenost antonomastički reklo da se na njih odnosi.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.ad4": {
+      "text": "Na četvrto treba reći da se duhovne naslade, premda su po svojoj naravi veće od tjelesnih naslada, ipak ne opažaju tako osjetilom. I prema tome ne djeluju tako snažno na osjetilnu težnju, protiv čijega se naleta dobro razuma čuva moralnom kreposti. Ili treba reći da su duhovne naslade, govoreći o njima po sebi, u skladu s razumom. Zato ih ne treba obuzdavati, osim akcidentalno, ukoliko naime jedna duhovna naslada odvlači od druge, bolje i dužnije.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a4.ad5": {
+      "text": "Na peto treba reći da sve naslade dodira ne pripadaju održavanju naravi. Stoga nije nužno da se umjerenost odnosi na sve naslade dodira.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se umjerenost odnosi na vlastite naslade okusa. Naslade su, naime, okusa u jelima i pićima, koja su potrebnija za čovjekov život nego spolne naslade, koje pripadaju dodiru. Ali prema rečenome, umjerenost se odnosi na naslade onoga što je nužno za čovjekov život. Dakle, umjerenost se više odnosi na vlastite naslade okusa nego na vlastite naslade dodira.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a5.obj2": {
+      "text": "Osim toga, umjerenost se više odnosi na strasti nego na same stvari. Ali, kako se kaže u II. knjizi O duši, čini se da je dodir osjetilo hrane glede same supstancije hrane, dok je ukus, koji je u vlastitom smislu predmet okusa, kao neka slast hrane. Dakle, umjerenost se više odnosi na okus nego na dodir.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a5.obj3": {
+      "text": "Osim toga, kako se kaže u VII. knjizi Etike, *umjerenost i neumjerenost, uzdržljivost i neuzdržljivost, ustrajnost i mekoputnost odnose se na isto*, a mekoputnosti pripadaju poslastice. Ali čini se da poslasticama pripada naslada koja je u ukusima, a ukusi pripadaju okusu. Dakle, umjerenost se odnosi na vlastite naslade okusa.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a5.sc": {
+      "text": "Ali protiv toga stoji to što Filozof kaže da se umjerenost i neumjerenost, čini se, malo ili nimalo služe okusom.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a5.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, umjerenost odnosi na glavne naslade, koje ponajviše pripadaju održavanju ljudskoga života, bilo u vrsti bilo u pojedincu. U njima se nešto razmatra glavno, a nešto drugotno. Glavno je sama uporaba nužne stvari, primjerice ili žene, koja je nužna za održavanje vrste, ili jela ili pića, koja su nužna za održavanje pojedinca. I sama uporaba tih nužnih stvari ima pridruženu neku bitnu nasladu. Drugotno se pak kod jedne i druge uporabe razmatra nešto što pridonosi tome da uporaba bude ugodnija, kao ljepota i ukrašenost žene, i ugodan ukus u jelu, a također i miris. Stoga se umjerenost glavno odnosi na nasladu dodira, koja po sebi slijedi samu uporabu nužnih stvari, kojih je sva uporaba u dodirivanju. Na naslade pak bilo okusa, bilo njuha, bilo vida umjerenost i neumjerenost odnose se drugotno, ukoliko osjetne stvari tih osjetila pridonose ugodnoj uporabi nužnih stvari, koja pripada dodiru. Budući ipak da je okus bliži dodiru nego druga osjetila, umjerenost se više odnosi na okus nego na druga osjetila.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da i sama uporaba jela i naslada koja je bitno slijedi pripadaju dodiru; zato Filozof kaže u II. knjizi O duši da je *dodir osjetilo hrane, jer se hranimo toplim i hladnim, vlažnim i suhim*. Okusu pak pripada razlučivanje ukusa, koji pridonose nasladi hrane ukoliko su znakovi prikladne prehrane.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a5.ad2": {
+      "text": "Na drugo treba reći da je naslada ukusa kao nešto pridošlo, a naslada dodira po sebi slijedi uporabu jela i pića.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a5.ad3": {
+      "text": "Na treće treba reći da se poslastice glavno sastoje u samoj supstanciji hrane, a drugotno u probranom ukusu i pripravljanju jela.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se pravilo umjerenosti ne treba uzimati prema potrebi sadašnjega života. Ono što je više, naime, ne ravna se po nižemu. Ali umjerenost, budući da je krepost duše, viša je od tjelesne potrebe. Dakle, pravilo se umjerenosti ne treba uzimati prema tjelesnoj potrebi.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a6.obj2": {
+      "text": "Osim toga, tko god prekorači pravilo, griješi. Kad bi dakle tjelesna potreba bila pravilo umjerenosti, griješio bi protiv umjerenosti tko god bi se poslužio nekom nasladom preko potrebe naravi, kojoj je dovoljno vrlo malo. A to se čini neprikladnim.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a6.obj3": {
+      "text": "Osim toga, nitko tko dosegne pravilo ne griješi. Kad bi dakle tjelesna potreba bila pravilo umjerenosti, tko god bi se poslužio nekom nasladom zbog tjelesne potrebe, primjerice zbog zdravlja, bio bi slobodan od grijeha. Ali to se čini lažnim. Dakle, tjelesna potreba nije pravilo umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a6.sc": {
+      "text": "Ali protiv toga stoji to što Augustin kaže u knjizi O običajima Crkve: *umjeren čovjek ima u stvarima ovoga života pravilo potvrđeno u jednom i drugom Zavjetu: da ništa od njih ne ljubi, da ništa ne smatra poželjnim po sebi, nego da od njih uzima koliko je dovoljno za potrebu ovoga života i dužnosti, sa skromnošću onoga koji se služi, a ne s čuvstvom onoga koji ljubi*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a6.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je jasno iz rečenoga, dobro moralne kreposti ponajprije sastoji u redu razuma, jer dobro je čovjeka biti u skladu s razumom, kako kaže Dionizije u IV. poglavlju O božanskim imenima. Glavni se pak red razuma sastoji u tome da nešto usmjeruje prema svrsi, i u tom se redu ponajviše sastoji dobro razuma; jer dobro ima pojam svrhe, a sama je svrha pravilo onoga što vodi k svrsi. Sve pak ugodne stvari koje dolaze u čovjekovu uporabu usmjerene su prema nekoj potrebi ovoga života kao prema svrsi. Stoga umjerenost uzima potrebu ovoga života kao pravilo ugodnih stvari kojima se služi, tako naime da se njima služi onoliko koliko zahtijeva potreba ovoga života.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što je rečeno, potreba ovoga života ima pojam pravila ukoliko je svrha. Treba pak uzeti u obzir da je katkad jedno svrha onoga koji djeluje, a drugo svrha djela, kao što je jasno da je svrha gradnje kuća, a svrha graditelja katkad dobitak. Tako je dakle svrha i pravilo same umjerenosti blaženstvo, a svrha i pravilo stvari kojom se služi jest potreba ljudskoga života, ispod koje je ono što dolazi u uporabu života.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a6.ad2": {
+      "text": "Na drugo treba reći da se potreba ljudskoga života može promatrati dvojako: na jedan način, ukoliko se nužnim naziva ono bez čega stvar nikako ne može biti, kao što je hrana nužna životinji; na drugi način, ukoliko se nužnim naziva ono bez čega stvar ne može biti kako dolikuje. Umjerenost pak ne pazi samo na prvu potrebu nego i na drugu; zato Filozof kaže u III. knjizi Etike da *umjeren čovjek teži za ugodnim stvarima radi zdravlja ili radi dobroga stanja*. Druge pak stvari, koje za to nisu nužne, mogu biti dvojake. Neke su, naime, zapreke zdravlju ili dobrom stanju. I njima se umjeren čovjek nikako ne služi, jer to bi bio grijeh protiv umjerenosti. Neke pak tome nisu zapreke. I njima se služi odmjereno, prema mjestu i vremenu i prema onome što pristaje onima s kojima živi. Zato Filozof ondje kaže da umjeren čovjek teži i za drugim ugodnim stvarima, koje naime nisu nužne za zdravlje ili za dobro stanje, a nisu im zapreka.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a6.ad3": {
+      "text": "Na treće treba reći da, kao što je rečeno, umjerenost gleda na potrebu glede onoga što pristaje životu. To se pak promatra ne samo prema onome što pristaje tijelu, nego i prema onome što pristaje vanjskim stvarima, primjerice bogatstvu i dužnostima; a mnogo više prema onome što pristaje čestitosti. Zato Filozof ondje dodaje da umjeren čovjek u ugodnim stvarima kojima se služi ne pazi samo da ne priječe zdravlje i dobro tjelesno stanje, nego i da ne budu mimo dobra, to jest protiv čestitosti, i da ne budu iznad imetka, to jest iznad mogućnosti bogatstva. I Augustin kaže u knjizi O običajima Crkve da umjeren čovjek gleda ne samo na potrebu ovoga života nego i na potrebu dužnosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da umjerenost nije stožerna krepost. Dobro moralne kreposti, naime, ovisi o razumu. Ali umjerenost se odnosi na ono što je više udaljeno od razuma, naime na naslade koje su zajedničke nama i nerazumnim životinjama, kako se kaže u III. knjizi Etike. Dakle, čini se da umjerenost nije glavna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a7.obj2": {
+      "text": "Osim toga, što je nešto naglije, to se čini da ga je teže obuzdati. Ali čini se da je srdžba, koju obuzdava blagost, naglija od požude, koju obuzdava umjerenost; kaže se, naime, u Izr 27: *srdžba nema milosrđa, ni bijes koji provaljuje; a nalet uzbuđenoga duha tko će podnijeti?* Dakle, blagost je glavnija krepost od umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a7.obj3": {
+      "text": "Osim toga, nada je glavniji pokret duše od želje ili požude, kao što je gore utvrđeno. Ali poniznost obuzdava preuzetnost neodmjerene nade. Dakle, čini se da je poniznost glavnija krepost od umjerenosti, koja obuzdava požudu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a7.sc": {
+      "text": "Ali protiv toga stoji to što Grgur u II. knjizi Moralija ubraja umjerenost među glavne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a7.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je gore rečeno, glavnom ili stožernom krepošću naziva ona koja se glavnije hvali zbog nečega od onoga što se općenito zahtijeva za pojam kreposti. A odmjerenost, koja se zahtijeva u svakoj kreposti, ponajviše je hvalevrijedna u nasladama dodira, na koje se odnosi umjerenost: s jedne strane zato što su takve naslade nama naravnije, pa je teže od njih se suzdržavati i obuzdavati požude za njima; s druge strane i zato što su njihovi predmeti potrebniji za sadašnji život, kao što je jasno iz rečenoga. Stoga se umjerenost postavlja kao glavna ili stožerna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se snaga djelatnika pokazuje to većom što svoje djelovanje može protegnuti na ono što je udaljenije. Stoga se upravo time pokazuje veća snaga razuma što može odmjeravati i požude i naslade koje su od njega najudaljenije. Zato to pripada glavnosti umjerenosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a7.ad2": {
+      "text": "Na drugo treba reći da je nalet srdžbe uzrokovan nečim akcidentalnim, primjerice nekom povredom koja ražalošćuje, pa zato brzo prolazi, premda ima velik nalet. Nalet pak požude za ugodnim stvarima dodira proizlazi iz naravnoga uzroka, zato je dugotrajniji i rašireniji. Stoga obuzdavati ga pripada glavnijoj kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a7.ad3": {
+      "text": "Na treće treba reći da je ono na što se odnosi nada uzvišenije od onoga na što se odnosi požuda, i zbog toga se nada postavlja kao glavna strast u srditoj moći. Ali ono na što se odnose požuda i naslada dodira snažnije pokreće težnju, jer je naravnije. Stoga je umjerenost, koja tome postavlja mjeru, glavna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da je umjerenost najveća od kreposti. Ambrozije, naime, kaže u I. knjizi O dužnostima da se *u umjerenosti ponajviše gleda i traži briga za čestito i obzir prema doličnome*. Ali krepost je hvalevrijedna ukoliko je čestita i dolična. Dakle, umjerenost je najveća od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a8.obj2": {
+      "text": "Osim toga, većoj kreposti pripada činiti ono što je teže. Ali teže je obuzdati požude i naslade dodira nego ispraviti vanjske radnje, od čega prvo pripada umjerenosti, a drugo pravednosti. Dakle, umjerenost je veća krepost od pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a8.obj3": {
+      "text": "Osim toga, što je nešto općenitije, to se čini potrebnijim i boljim. Ali jakost se odnosi na pogibelji smrti, koje se rjeđe događaju nego ugodne stvari dodira, koje se događaju svakodnevno; i tako je uporaba umjerenosti općenitija od uporabe jakosti. Dakle, umjerenost je plemenitija krepost od jakosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a8.sc": {
+      "text": "Ali protiv toga stoji to što Filozof kaže u I. knjizi Retorike: *najveće su kreposti one koje su drugima najkorisnije, i zbog toga ponajviše častimo hrabre i pravedne*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a8.resp": {
+      "text": "Odgovaram: treba reći da je, kako kaže Filozof u I. knjizi Etike, *dobro mnoštva božanskije od dobra jednoga*. Stoga je neka krepost to bolja što više pripada dobru mnoštva. A pravednost i jakost više pripadaju dobru mnoštva nego umjerenost, jer se pravednost sastoji u uzajamnim odnosima, koji su usmjereni prema drugome; jakost pak u ratnim pogibeljima, koje se podnose za opći spas; a umjerenost odmjerava samo požude i naslade onoga što pripada samomu čovjeku. Odatle je očito da su pravednost i jakost izvrsnije kreposti od umjerenosti, a od njih su pak bolje razboritost i bogoslovne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da se čestitost i doličnost ponajviše pripisuju umjerenosti, ne zbog prvenstva vlastitoga dobra, nego zbog sramotnosti protivnoga zla od kojega odvlači, ukoliko naime odmjerava naslade koje su zajedničke nama i nerazumnim životinjama.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a8.ad2": {
+      "text": "Na drugo treba reći da se, budući da se krepost odnosi na ono što je teško i dobro, dostojanstvo kreposti više promatra prema pojmu dobra, u čemu nadmašuje pravednost, nego prema pojmu teškoga, u čemu nadmašuje umjerenost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    },
+    "II-II.q141.a8.ad3": {
+      "text": "Na treće treba reći da ona općenitost po kojoj nešto pripada mnoštvu ljudi više pridonosi izvrsnosti dobrote nego ona koja se razmatra po tome što se nešto često događa; u prvoj nadmašuje jakost, u drugoj umjerenost. Zato je jakost naprosto bolja, premda se u nekom pogledu može reći da je umjerenost bolja ne samo od jakosti nego i od pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:52:59+00:00"
+    }
+  }
+}

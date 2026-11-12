@@ -1,0 +1,108 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 159,
+  "units": {
+    "II-II.q159.pr": {
+      "text": "Zatim treba razmotriti okrutnost. I o tome se postavljaju dva pitanja. Prvo, je li okrutnost suprotstavljena milostivosti. Drugo, o njezinu odnosu prema surovosti ili divljaštvu.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da okrutnost nije suprotstavljena milostivosti. Seneka, naime, kaže u II. knjizi O milostivosti da se *okrutnima nazivaju oni koji prekoračuju mjeru u kažnjavanju*, a to je protivno pravednosti. Ali milostivost se ne postavlja kao dio pravednosti, nego umjerenosti. Dakle, ne čini se da je okrutnost suprotstavljena milostivosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a1.obj2": {
+      "text": "Osim toga, u Jr 6 se kaže: *okrutan je i neće se smilovati*, pa se tako čini da je okrutnost suprotstavljena milosrđu. Ali milosrđe nije isto što i milostivost, kao što je gore rečeno. Dakle, okrutnost nije suprotstavljena milostivosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a1.obj3": {
+      "text": "Osim toga, milostivost se razmatra s obzirom na nanošenje kazni, kao što je rečeno. Ali okrutnost se razmatra i u uskraćivanju dobročinstava, prema onome iz Izr 11: *tko je okrutan, odbacuje bližnje svoje*. Dakle, okrutnost nije suprotstavljena milostivosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Seneka u II. knjizi O milostivosti: *milostivosti je suprotstavljena okrutnost, koja nije ništa drugo nego grubost duha u izricanju kazni*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a1.resp": {
+      "text": "Odgovaram: treba reći da se čini da je ime okrutnosti (crudelitas) uzeto od sirovosti (cruditas). Kao što ono što je skuhano i probavljeno obično ima ugodan i sladak okus, tako ono što je sirovo ima odvratan i opor okus. A gore je rečeno da milostivost uključuje neku blagost ili slatkoću duše, po kojoj je netko sklon ublažavanju kazni. Stoga je okrutnost izravno suprotstavljena milostivosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što ublažavanje kazni koje je po razumu pripada pravičnosti, dok sama slatkoća čuvstva iz koje je čovjek tome sklon pripada milostivosti, tako i pretjerivanje u kaznama, s obzirom na ono što se izvana čini, pripada nepravednosti, a s obzirom na strogost duše po kojoj netko postaje spreman povećavati kazne, pripada okrutnosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a1.ad2": {
+      "text": "Na drugo treba reći da se milosrđe i milostivost slažu u tome što oboje bježi od tuđe bijede i zazire od nje, ali svako na svoj način. Milosrđu, naime, pripada pomoći u bijedi davanjem dobročinstva, a milostivosti pripada umanjiti bijedu uskraćivanjem kazni. A budući da okrutnost uključuje pretjeranost u izricanju kazni, ona je izravnije suprotstavljena milostivosti nego milosrđu. Ipak, zbog sličnosti tih kreposti, okrutnost se katkad uzima u značenju nemilosrdnosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a1.ad3": {
+      "text": "Na treće treba reći da se okrutnost ondje uzima u značenju nemilosrdnosti, kojoj pripada ne udjeljivati dobročinstva. Premda bi se moglo reći i da je samo uskraćivanje dobročinstva neka kazna.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se okrutnost ne razlikuje od surovosti ili divljaštva. Jednoj kreposti, naime, s jedne strane, čini se da je suprotstavljen jedan porok. Ali milostivosti su po pretjeranosti suprotstavljene i okrutnost i surovost. Dakle, čini se da su surovost i okrutnost isto.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a2.obj2": {
+      "text": "Osim toga, Izidor kaže u Etimologijama da se *strog (severus) kaže kao da je surov i istinit (saevus et verus), jer drži pravednost bez samilosti*, pa se tako čini da surovost isključuje oproštenje kazni u sudovima, koje pripada samilosti. A rečeno je da to pripada okrutnosti. Dakle, okrutnost je isto što i surovost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a2.obj3": {
+      "text": "Osim toga, kao što je kreposti suprotstavljen neki porok po pretjeranosti, tako i po nedostatku, a on je protivan i kreposti, koja je u sredini, i poroku koji je u pretjeranosti. Ali isti porok koji pripada nedostatku, naime popustljivost ili mlitavost, suprotstavljen je i okrutnosti i surovosti; Grgur, naime, kaže u XX. knjizi Moralija: *neka bude ljubavi, ali ne one koja razmekšava; neka bude strogosti, ali ne one koja ogorčuje; neka bude revnosti, ali ne one koja neumjereno bjesni; neka bude samilosti, ali ne one koja štedi više nego što je korisno*. Dakle, surovost je isto što i okrutnost.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Seneka u II. knjizi O milostivosti: *onaj koji se srdi a da nije povrijeđen, i to ne na grešnika, ne naziva se okrutnim, nego divljim ili surovim*.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a2.resp": {
+      "text": "Odgovaram: treba reći da je ime surovosti i divljaštva uzeto po sličnosti s divljim zvijerima, koje se također nazivaju surovima. Takve životinje, naime, nanose ljudima štetu da bi se hranile njihovim tijelima, a ne iz nekog razloga pravednosti, čije razmatranje pripada samo razumu. I zato se, u vlastitom smislu govoreći, divljaštvom ili surovošću naziva ono po čemu netko pri nanošenju kazni ne uzima u obzir nikakvu krivnju onoga koji se kažnjava, nego samo to da se naslađuje mučenjem ljudi. I tako je jasno da je to sadržano pod zvjerskošću; takva naslada, naime, nije ljudska, nego zvjerska, a proizlazi ili iz loše navike ili iz pokvarenosti naravi, kao i druga takva zvjerska čuvstva. Okrutnost pak uzima u obzir krivnju onoga koji se kažnjava, ali prekoračuje mjeru u kažnjavanju. I zato se okrutnost razlikuje od surovosti ili divljaštva kao ljudska zloća od zvjerskosti, kako se kaže u VII. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je milostivost ljudska krepost, pa joj je stoga izravno suprotstavljena okrutnost, koja je ljudska zloća. Surovost pak ili divljaštvo sadržano je pod zvjerskošću. Stoga nije izravno suprotstavljeno milostivosti, nego nadmoćnijoj kreposti, koju Filozof naziva herojskom ili božanskom, a koja se, po našem shvaćanju, čini da pripada darovima Duha Svetoga. Stoga se može reći da je surovost izravno suprotstavljena daru pobožnosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a2.ad2": {
+      "text": "Na drugo treba reći da se strog čovjek ne naziva naprosto surovim, jer to zvuči kao porok, nego se naziva surovim glede istine, zbog neke sličnosti sa surovošću, koja nije sklona ublažavanju kazni.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    },
+    "II-II.q159.a2.ad3": {
+      "text": "Na treće treba reći da popustljivost u kažnjavanju nije porok osim ukoliko se zanemaruje red pravednosti po kojemu netko treba biti kažnjen zbog krivnje, koju okrutnost prekoračuje. Surovost pak uopće ne uzima u obzir taj red. Stoga je popustljivost u kažnjavanju izravno suprotstavljena okrutnosti, ali ne i surovosti.",
+      "prompt_version": "1",
+      "glossary_version": 20,
+      "created_at": "2026-11-12T14:53:01+00:00"
+    }
+  }
+}
