@@ -1,0 +1,636 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 58,
+  "units": {
+    "II-II.q58.pr": {
+      "text": "Zatim treba razmotriti pravednost. O njoj se pita dvanaest stvari. Prvo, što je pravednost. Drugo, je li pravednost uvijek prema drugome. Treće, je li ona krepost. Četvrto, je li u volji kao u subjektu. Peto, je li opća krepost. Šesto, je li, ukoliko je opća, po biti isto što i svaka krepost. Sedmo, postoji li neka posebna pravednost. Osmo, ima li posebna pravednost vlastitu građu. Deveto, je li ona oko strasti ili samo oko djelovanja. Deseto, je li sredina pravednosti sredina stvari. Jedanaesto, je li čin pravednosti dati svakome ono što je njegovo. Dvanaesto, je li pravednost prva među ostalim moralnim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da pravnici neprikladno definiraju da je *pravednost stalna i trajna volja koja svakome dodjeljuje njegovo pravo. Pravednost je, naime*, prema Filozofu u V. knjizi Etike, *habitus po kojem su neki kadri činiti ono što je pravedno, i po kojem čine i hoće ono što je pravedno*. Ali volja označuje moć, ili također čin. Dakle, neprikladno se kaže da je pravednost volja.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.obj2": {
+      "text": "Osim toga, ispravnost volje nije volja; inače, kad bi volja bila svoja ispravnost, slijedilo bi da nijedna volja nije izopačena. Ali prema Anselmu, u knjizi O istini, pravednost je ispravnost. Dakle, pravednost nije volja.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.obj3": {
+      "text": "Osim toga, samo je Božja volja trajna. Ako je, dakle, pravednost trajna volja, pravednost će biti samo u Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.obj4": {
+      "text": "Osim toga, sve što je trajno, stalno je, jer je nepromjenljivo. Suvišno se, dakle, u definiciji pravednosti stavlja oboje, i trajno i stalno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.obj5": {
+      "text": "Osim toga, dati svakome pravo pripada vladaru. Ako je, dakle, pravednost ono što svakome dodjeljuje njegovo pravo, slijedit će da pravednost postoji samo u vladaru. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.obj6": {
+      "text": "Osim toga, Augustin kaže u knjizi O običajima Katoličke crkve da je *pravednost ljubav koja služi samo Bogu*. Dakle, ona ne daje svakome ono što je njegovo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.resp": {
+      "text": "Odgovaram: treba reći da je navedena definicija pravednosti prikladna, ako se ispravno shvati. Budući da je, naime, svaka krepost habitus koji je počelo dobroga čina, nužno je da se krepost definira dobrim činom oko vlastite građe kreposti. A pravednost je oko onoga što je prema drugome kao oko vlastite građe, kao što će niže biti jasno. I zato se čin pravednosti u odnosu na vlastitu građu i predmet dotiče kad se kaže: koja svakome dodjeljuje njegovo pravo; jer, kako kaže Izidor u knjizi Etimologija, pravedan se naziva tako jer čuva pravo. A da bi neki čin oko bilo koje građe bio krepostan, traži se da bude voljan, te da bude postojan i čvrst; jer Filozof kaže u II. knjizi Etike da se za čin kreposti traži, prvo, da netko djeluje znajući, drugo, da djeluje izabirući i radi dužne svrhe, treće, da djeluje nepokolebljivo. Prvo je od toga uključeno u drugome, jer ono što se čini iz neznanja jest protuvoljno, kao što se kaže u III. knjizi Etike. I zato se u definiciji pravednosti najprije stavlja volja, da bi se pokazalo da čin pravednosti mora biti voljan. A dodaje se ono o stalnosti i trajnosti, da bi se označila čvrstoća čina. I zato je navedena definicija potpuna definicija pravednosti, osim što je čin stavljen umjesto habitusa, koji se specificira činom; habitus se, naime, izriče u odnosu na čin. I kad bi je netko htio svesti na dužni oblik definicije, mogao bi reći ovako: pravednost je habitus po kojem netko stalnom i trajnom voljom svakome dodjeljuje njegovo pravo. I to je gotovo ista definicija kao ona koju postavlja Filozof u V. knjizi Etike, govoreći da je *pravednost habitus po kojem se za nekoga kaže da izborom čini ono što je pravedno*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da volja ovdje označuje čin, a ne moć. A kod pisaca je uobičajeno da se habitusi definiraju činima, kao što Augustin kaže u Tumačenju Ivanova evanđelja da je vjera vjerovati ono što ne vidiš.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.ad2": {
+      "text": "Na drugo treba reći da ni pravednost nije bitno ispravnost, nego samo uzročno; ona je, naime, habitus po kojem netko ispravno djeluje i hoće.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.ad3": {
+      "text": "Na treće treba reći da se volja može nazvati trajnom na dva načina. Na jedan način, s obzirom na sam čin, koji traje bez prestanka. I tako je samo Božja volja trajna. Na drugi način, s obzirom na predmet, naime zato što netko hoće trajno nešto činiti. I to se traži za pojam pravednosti. Za pojam pravednosti, naime, nije dovoljno da netko hoće načas, u nekom poslu, čuvati pravednost, jer se jedva nalazi netko tko bi htio u svemu postupati nepravedno; nego se traži da čovjek ima volju trajno i u svemu čuvati pravednost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.ad4": {
+      "text": "Na četvrto treba reći da, budući da se „trajno“ ne uzima prema trajnom trajanju čina volje, nije suvišno dodano „stalna“; tako da, kao što se time što se kaže „trajna volja“ označuje da netko nosi trajnu odluku da čuva pravednost, tako se i time što se kaže „stalna“ označuje da u toj odluci čvrsto ustraje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.ad5": {
+      "text": "Na peto treba reći da sudac daje svakome njegovo na način onoga koji zapovijeda i upravlja, jer je sudac živo pravedno, a vladar je čuvar pravednoga, kako se kaže u V. knjizi Etike. A podložnici daju svakome njegovo na način izvršenja.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a1.ad6": {
+      "text": "Na šesto treba reći da, kao što je u ljubavi prema Bogu uključena ljubav prema bližnjemu, kao što je gore rečeno, tako je i u tome što čovjek služi Bogu uključeno da svakome dade ono što duguje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q58.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da pravednost nije uvijek prema drugome. Apostol, naime, kaže u Rim 3 da je *Božja pravednost po vjeri Isusa Krista*. Ali vjera se ne izriče u odnosu jednoga čovjeka prema drugome. Dakle, ni pravednost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a2.obj2": {
+      "text": "Osim toga, prema Augustinu, u knjizi O običajima Katoličke crkve, pravednosti pripada, zato što služi Bogu, *dobro zapovijedati ostalome što je čovjeku podložno*. Ali osjetilna je težnja podložna čovjeku, kao što je jasno iz Post 4, gdje se kaže: pod tobom će biti njegova težnja, naime težnja grijeha, i ti ćeš njime vladati. Dakle, pravednosti pripada vladati vlastitom težnjom. I tako će pravednost biti prema samome sebi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a2.obj3": {
+      "text": "Osim toga, Božja je pravednost vječna. Ali ništa drugo nije bilo suvječno Bogu. Dakle, ne pripada pojmu pravednosti da bude prema drugome.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a2.obj4": {
+      "text": "Osim toga, kao što djelovanja koja su prema drugome trebaju biti ispravljena, tako i djelovanja koja su prema samome sebi. Ali pravednošću se ispravljaju djelovanja, prema onome iz Izr 11: *Pravednost bezazlenoga upravlja njegov put*. Dakle, pravednost nije samo oko onoga što je prema drugome, nego i oko onoga što je prema samome sebi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a2.sc": {
+      "text": "Ali protiv toga, Tulije kaže u I. knjizi O dužnostima da je *pravednost ono načelo kojim se održava društvo ljudi među sobom i zajednica života*. A to uključuje usmjerenost prema drugome. Dakle, pravednost je samo oko onoga što je prema drugome.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a2.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, budući da ime pravednosti uključuje jednakost, pravednost po svojem pojmu ima to da bude prema drugome; ništa, naime, nije jednako samome sebi, nego drugome. A budući da pravednosti pripada ispravljati ljudske čine, kao što je rečeno, nužno je da ta drugost koju pravednost zahtijeva bude drugost različitih bića koja mogu djelovati. A radnje pripadaju supozitima i cjelinama, a ne, u vlastitom smislu govoreći, dijelovima i formama, ili moćima; ne kaže se, naime, u vlastitom smislu da ruka udara, nego čovjek rukom; niti se u vlastitom smislu kaže da toplina grije, nego vatra toplinom. Ipak se to kaže po nekoj sličnosti. Pravednost, dakle, u vlastitom smislu zahtijeva različitost supozita, i zato postoji samo između jednoga čovjeka i drugoga. Ali po sličnosti se u jednom te istom čovjeku različita počela radnji uzimaju kao različiti djelatnici, kao razum, srdita i požudna moć. I zato se preneseno kaže da u jednom te istom čovjeku postoji pravednost, ukoliko razum zapovijeda srditoj i požudnoj moći, i ukoliko se one pokoravaju razumu, i općenito ukoliko se svakom dijelu čovjeka pripisuje ono što mu pristaje. Zato Filozof u V. knjizi Etike ovu pravednost naziva pravednošću rečenom po metafori.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je pravednost koja se po vjeri ostvaruje u nama ona po kojoj se opravdava bezbožnik, a ona se sastoji u samoj dužnoj uređenosti dijelova duše, kao što je gore rečeno kad je bila riječ o opravdanju bezbožnika. A to pripada pravednosti rečenoj preneseno, koja se može naći i u nekome tko živi samotnim životom.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a2.ad2": {
+      "text": "I time je jasan odgovor na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a2.ad3": {
+      "text": "Na treće treba reći da je Božja pravednost od vječnosti po vječnoj volji i odluci, i u tome se ponajprije sastoji pravednost. Premda po učinku nije od vječnosti, jer ništa nije suvječno Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a2.ad4": {
+      "text": "Na četvrto treba reći da se radnje čovjeka prema samome sebi dovoljno ispravljaju time što su ostalim moralnim krepostima ispravljene strasti. Ali radnje koje su prema drugome trebaju posebno ispravljanje, ne samo u odnosu na djelatnika, nego i u odnosu na onoga prema kome su. I zato je oko njih posebna krepost, a to je pravednost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da pravednost nije krepost. Kaže se, naime, u Lk 17: *Kad učinite sve što vam je zapovjeđeno, recite: Sluge smo beskorisne; učinili smo što smo morali učiniti*. Ali nije beskorisno činiti djelo kreposti; Ambrozije, naime, kaže u II. knjizi O dužnostima: *Korisnošću ne nazivamo procjenu novčanoga dobitka, nego stjecanje pobožnosti*. Dakle, činiti ono što netko mora činiti nije djelo kreposti. A to je djelo pravednosti. Dakle, pravednost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a3.obj2": {
+      "text": "Osim toga, ono što se čini iz nužnosti nije zaslužno. Ali dati nekome ono što je njegovo, što pripada pravednosti, stvar je nužnosti. Dakle, to nije zaslužno. A činima kreposti zaslužujemo. Dakle, pravednost nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a3.obj3": {
+      "text": "Osim toga, svaka je moralna krepost oko onoga što treba činiti. Ali ono što se uspostavlja izvana nije ono što treba činiti, nego ono što treba izraditi, kao što je jasno iz Filozofa u IX. knjizi Metafizike. Budući da, dakle, pravednosti pripada izvana izraditi neko djelo po sebi pravedno, čini se da pravednost nije moralna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a3.sc": {
+      "text": "Ali protiv toga, Grgur kaže u II. knjizi Moralija da se na četiri kreposti, naime na umjerenosti, razboritosti, jakosti i pravednosti, podiže cijela zgrada dobroga djela.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a3.resp": {
+      "text": "Odgovaram: treba reći da je ljudska krepost *ona koja čini dobrim ljudski čin, i samoga čovjeka čini dobrim*. A to pristaje pravednosti. Čin čovjeka, naime, postaje dobrim time što doseže pravilo razuma, prema kojem se ispravljaju ljudski čini. Stoga, budući da pravednost ispravlja ljudska djelovanja, očito je da čini dobrim djelo čovjeka. I kako kaže Tulije u I. knjizi O dužnostima, *po pravednosti se ljudi ponajviše nazivaju dobrima*. Zato je, kako ondje kaže, u njoj najveći sjaj kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kad netko čini ono što mora, ne donosi korist dobitka onome kome čini što mora, nego se samo suzdržava od toga da mu nanese štetu. Ali sebi donosi korist, ukoliko spontanom i spremnom voljom čini ono što mora, a to je postupati krepostno. Zato se kaže u Mudr 8 da *Božja mudrost uči trijeznosti i pravednosti, razboritosti i kreposti*; od kojih ništa u životu nije korisnije ljudima, naime krepostnima.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a3.ad2": {
+      "text": "Na drugo treba reći da je nužnost dvostruka. Jedna je nužnost prisile, i ona, budući da se protivi volji, uklanja pojam zasluge. Druga je pak nužnost iz obveze zapovijedi, ili iz nužnosti svrhe, naime kad netko ne može postići svrhu kreposti ako to ne učini. I takva nužnost ne isključuje pojam zasluge, ukoliko netko ono što je tako nužno čini voljno. Isključuje ipak slavu činjenja više od dužnoga, prema onome iz 1 Kor 9: *Ako budem navješćivao evanđelje, nije mi to na slavu, jer nužnost me pritišće*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a3.ad3": {
+      "text": "Na treće treba reći da se pravednost ne odnosi na vanjske stvari s obzirom na njihovo izrađivanje, što pripada umijeću, nego s obzirom na to da se njima služi prema drugome.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da pravednost nije u volji kao u subjektu. Pravednost se, naime, katkad naziva istinom. Ali istina ne pripada volji, nego umu. Dakle, pravednost nije u volji kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a4.obj2": {
+      "text": "Osim toga, pravednost je oko onoga što je prema drugome. Ali usmjeriti nešto prema drugome stvar je razuma. Dakle, pravednost nije u volji kao u subjektu, nego prije u razumu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a4.obj3": {
+      "text": "Osim toga, pravednost nije umska krepost, jer nije usmjerena prema spoznaji. Stoga preostaje da je moralna krepost. Ali subjekt moralne kreposti jest ono što je razumsko po sudjelovanju, a to su srdita i požudna moć, kao što je jasno iz Filozofa u I. knjizi Etike. Dakle, pravednost nije u volji kao u subjektu, nego prije u srditoj i požudnoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a4.sc": {
+      "text": "Ali protiv toga, Anselmo kaže da je *pravednost ispravnost volje čuvana radi nje same*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a4.resp": {
+      "text": "Odgovaram: treba reći da je subjekt kreposti ona moć na ispravljanje čijega je čina krepost usmjerena. A pravednost nije usmjerena na upravljanje nekim spoznajnim činom; ne nazivamo se, naime, pravednima zato što nešto ispravno spoznajemo. I zato subjekt pravednosti nije um ili razum, koji je spoznajna moć. Ali budući da se nazivamo pravednima po tome što nešto ispravno činimo, a najbliže počelo čina jest težnjena sila, nužno je da pravednost bude u nekoj težnjenoj sili kao u subjektu. A težnja je dvostruka: naime volja, koja je u razumu, i osjetilna težnja, koja slijedi osjetilno zahvaćanje i koja se dijeli na srditu i požudnu, kao što je utvrđeno u Prvom dijelu. A dati svakome ono što je njegovo ne može proizlaziti iz osjetilne težnje, jer se osjetilno zahvaćanje ne proteže dotle da bi moglo razmatrati razmjer jednoga prema drugome, nego je to vlastito razumu. Stoga pravednost ne može biti kao u subjektu u srditoj ili požudnoj moći, nego samo u volji. I zato Filozof definira pravednost činom volje, kao što je jasno iz rečenoga gore.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da je volja razumska težnja, ispravnost razuma, koja se naziva istinom, utisnuta u volju, zbog blizine razumu zadržava ime istine. I otuda je da se pravednost katkad naziva istinom.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a4.ad2": {
+      "text": "Na drugo treba reći da se volja upravlja prema svojem predmetu slijedom zahvaćanja razuma. I zato, budući da razum usmjerava prema drugome, volja može htjeti nešto u usmjerenosti prema drugome, što pripada pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a4.ad3": {
+      "text": "Na treće treba reći da razumsko po sudjelovanju nije samo srdita i požudna moć, nego općenito sve težnjeno, kako se kaže u I. knjizi Etike, jer se svaka težnja pokorava razumu. A pod težnjeno spada i volja. I zato volja može biti subjekt moralne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da pravednost nije opća krepost. Pravednost se, naime, u diobi stavlja uz druge kreposti, kao što je jasno iz Mudr 8: *Uči trijeznosti i pravednosti, razboritosti i kreposti*. Ali opće se u diobi ne stavlja uz vrste sadržane pod tim općim niti se s njima nabraja. Dakle, pravednost nije opća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a5.obj2": {
+      "text": "Osim toga, kao što se pravednost postavlja kao stožerna krepost, tako i umjerenost i jakost. Ali umjerenost ili jakost ne postavljaju se kao opća krepost. Dakle, ni pravednost ne treba ni na koji način postavljati kao opću krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a5.obj3": {
+      "text": "Osim toga, pravednost je uvijek prema drugome, kao što je gore rečeno. Ali grijeh koji je protiv bližnjega nije opći grijeh, nego se u diobi suprotstavlja grijehu kojim čovjek griješi protiv samoga sebe. Dakle, ni pravednost nije opća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a5.sc": {
+      "text": "Ali protiv toga, Filozof kaže u V. knjizi Etike da je pravednost svaka krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a5.resp": {
+      "text": "Odgovaram: treba reći da pravednost, kao što je rečeno, usmjerava čovjeka u odnosu prema drugome. A to može biti na dva načina. Na jedan način, prema drugome uzetom pojedinačno. Na drugi način, prema drugome uzetom zajednički, naime ukoliko onaj koji služi nekoj zajednici služi svim ljudima koji su sadržani pod tom zajednicom. Prema oboje se, dakle, pravednost može odnositi po vlastitom pojmu. A očito je da se svi koji su sadržani pod nekom zajednicom odnose prema zajednici kao dijelovi prema cjelini. Dio pak, ono što jest, pripada cjelini; zato je i svako dobro dijela usmjerivo prema dobru cjeline. Prema tome, dakle, dobro bilo koje kreposti, bilo da usmjerava nekoga čovjeka prema samome sebi, bilo da ga usmjerava prema nekim drugim pojedinačnim osobama, može se odnositi na opće dobro, prema kojem usmjerava pravednost. I prema tome čini svih kreposti mogu pripadati pravednosti, ukoliko ona usmjerava čovjeka prema općem dobru. I s obzirom na to pravednost se naziva općom krepošću. A budući da zakonu pripada usmjeravati prema općem dobru, kao što je gore utvrđeno, otuda je da se takva pravednost, opća na navedeni način, naziva zakonskom pravednošću, jer se, naime, po njoj čovjek slaže sa zakonom koji usmjerava čine svih kreposti prema općem dobru.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se pravednost u diobi stavlja uz druge kreposti ili se s njima nabraja ne ukoliko je opća, nego ukoliko je posebna krepost, kao što će se niže reći.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a5.ad2": {
+      "text": "Na drugo treba reći da su umjerenost i jakost u osjetilnoj težnji, to jest u požudnoj i srditoj moći. A takve su sile težnjene za neka posebna dobra, kao što je i osjetilo spoznajno za pojedinačno. Ali pravednost je kao u subjektu u umskoj težnji, koja može težiti za sveopćim dobrom, koje um zahvaća. I zato pravednost prije može biti opća krepost nego umjerenost ili jakost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a5.ad3": {
+      "text": "Na treće treba reći da je ono što je prema samome sebi usmjerivo prema drugome, osobito s obzirom na opće dobro. Zato se i zakonska pravednost, ukoliko usmjerava prema općem dobru, može nazvati općom krepošću; i iz istoga se razloga nepravednost može nazvati općim grijehom; zato se kaže u 1 Iv 3 da je svaki grijeh bezakonje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je pravednost, ukoliko je opća, po biti isto što i svaka krepost. Filozof, naime, kaže u V. knjizi Etike da su krepost i zakonska pravednost *isto što i svaka krepost, ali bitak nije isti*. Ali ono što se razlikuje samo po bitku, ili po pojmu, ne razlikuje se po biti. Dakle, pravednost je po biti isto što i svaka krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a6.obj2": {
+      "text": "Osim toga, svaka krepost koja po biti nije isto što i svaka krepost jest dio kreposti. Ali navedena pravednost, kako na istome mjestu kaže Filozof, nije dio kreposti, nego cijela krepost. Dakle, navedena je pravednost bitno isto što i svaka krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a6.obj3": {
+      "text": "Osim toga, time što neka krepost usmjerava svoj čin prema višoj svrsi, habitus se ne mijenja po biti; tako je, na primjer, habitus umjerenosti bitno isti, čak i ako se njegov čin usmjeri prema božanskom dobru. Ali zakonskoj pravednosti pripada da se čini svih kreposti usmjere prema višoj svrsi, to jest prema općem dobru mnoštva, koje nadilazi dobro jedne pojedinačne osobe. Dakle, čini se da je zakonska pravednost bitno svaka krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a6.obj4": {
+      "text": "Osim toga, svako je dobro dijela usmjerivo prema dobru cjeline; zato, ako se ne usmjeri prema njemu, čini se da je isprazno i uzaludno. Ali ono što je po kreposti ne može biti takvo. Dakle, čini se da nijedan čin ne može pripadati nekoj kreposti a da ne pripada općoj pravednosti, koja usmjerava prema općem dobru. I tako se čini da je opća pravednost po biti isto što i svaka krepost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a6.sc": {
+      "text": "Ali protiv toga, Filozof kaže u V. knjizi Etike da se *mnogi u vlastitim stvarima mogu služiti krepošću, ali u onome što je prema drugome ne mogu*. I u III. knjizi Politike kaže da *nije naprosto ista krepost dobroga čovjeka i dobroga građanina*. Ali krepost dobroga građanina jest opća pravednost, po kojoj se netko usmjerava prema općem dobru. Dakle, opća pravednost nije isto što i krepost uzeta općenito, nego se jedna može imati bez druge.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a6.resp": {
+      "text": "Odgovaram: treba reći da se nešto naziva općim na dva načina. Na jedan način, po priricanju, kao što je „životinja“ opće s obzirom na čovjeka i konja i druga takva bića. I na taj način opće mora biti bitno isto s onim za što je opće, jer rod pripada biti vrste i ulazi u njezinu definiciju. Na drugi se način nešto naziva općim po snazi, kao što je opći uzrok opći s obzirom na sve učinke, kao sunce s obzirom na sva tijela, koja se njegovom snagom osvjetljuju ili izmjenjuju. I na taj način opće ne mora biti po biti isto s onim za što je opće, jer nije ista bit uzroka i učinka. Na taj se pak način, prema rečenome, zakonska pravednost naziva općom krepošću, naime ukoliko usmjerava čine ostalih kreposti prema svojoj svrsi, a to znači pokretati zapovijedanjem sve ostale kreposti. Kao što se, naime, ljubav može nazvati općom krepošću ukoliko usmjerava čine svih kreposti prema božanskom dobru, tako i zakonska pravednost ukoliko usmjerava čine svih kreposti prema općem dobru. Kao što je, dakle, ljubav, koja gleda na božansko dobro kao na vlastiti predmet, neka posebna krepost po svojoj biti, tako je i zakonska pravednost posebna krepost po svojoj biti, ukoliko gleda na opće dobro kao na vlastiti predmet. I tako je ona u vladaru na glavni način i kao arhitektonski, a u podložnicima na drugotni način i kao služiteljski. Ipak se svaka krepost, ukoliko je od navedene kreposti, koja je posebna po biti, a opća po snazi, usmjerena prema općem dobru, može nazvati zakonskom pravednošću. I na taj način govora zakonska je pravednost po biti isto što i svaka krepost, a razlikuje se po pojmu. I na taj način govori Filozof.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a6.ad1": {
+      "text": "Stoga je jasan odgovor na prvo i drugo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a6.ad3": {
+      "text": "Na treće treba reći da i taj argument na taj način govori o zakonskoj pravednosti, ukoliko se krepost kojoj zapovijeda zakonska pravednost naziva zakonskom pravednošću.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a6.ad4": {
+      "text": "Na četvrto treba reći da svaka krepost po vlastitom pojmu usmjerava svoj čin prema vlastitoj svrsi te kreposti. A to da se usmjeri prema daljnjoj svrsi, bilo uvijek bilo katkad, nema po vlastitom pojmu, nego mora postojati neka druga, viša krepost po kojoj se usmjerava prema toj svrsi. I tako mora postojati jedna viša krepost koja usmjerava sve kreposti prema općem dobru, a to je zakonska pravednost, i ona je po biti drukčija od svake kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da nema neke posebne pravednosti osim opće pravednosti. U krepostima, naime, nema ničega suvišnog, kao ni u naravi. Ali opća pravednost dostatno usmjeruje čovjeka u svemu što se odnosi na drugoga. Dakle, nije potrebna neka posebna pravednost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a7.obj2": {
+      "text": "Osim toga, jedno i mnoštvo ne čine različitom vrstu kreposti. Ali zakonska pravednost usmjeruje čovjeka prema drugome u onome što se tiče mnoštva, kao što je jasno iz rečenoga. Dakle, nema druge vrste pravednosti koja bi usmjeravala čovjeka prema drugome u onome što se tiče jedne pojedinačne osobe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a7.obj3": {
+      "text": "Osim toga, između jedne pojedinačne osobe i mnoštva države nalazi se kućno mnoštvo. Ako, dakle, osim opće pravednosti postoji druga, posebna pravednost s obzirom na jednu osobu, s jednakim bi razlogom morala postojati i druga, kućanska pravednost, koja bi usmjeravala čovjeka prema općem dobru jedne obitelji. A to se ipak ne kaže. Dakle, ni osim zakonske pravednosti nema neke posebne pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže Zlatousti uz ono iz Mt 5, *Blaženi koji gladuju i žeđaju pravednost; a pravednošću naziva ili opću krepost ili posebnu krepost protivnu škrtosti*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a7.resp": {
+      "text": "Odgovaram: treba reći da, kao što je rečeno, zakonska pravednost nije po biti svaka krepost, nego osim zakonske pravednosti, koja čovjeka neposredno usmjeruje prema općem dobru, moraju postojati druge kreposti koje čovjeka neposredno usmjeruju u pogledu posebnih dobara. A ta se dobra mogu odnositi ili na njega samoga ili na drugu pojedinačnu osobu. Kao što, dakle, osim zakonske pravednosti moraju postojati neke posebne kreposti koje usmjeruju čovjeka u njemu samome, primjerice umjerenost i jakost, tako i osim zakonske pravednosti mora postojati neka posebna pravednost koja usmjeruje čovjeka u onome što se odnosi na drugu pojedinačnu osobu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da zakonska pravednost doduše dostatno usmjeruje čovjeka u onome što se odnosi na drugoga: što se tiče općeg dobra, neposredno, a što se tiče dobra jedne pojedinačne osobe, posredno. I zato mora postojati neka posebna pravednost koja čovjeka neposredno usmjeruje prema dobru druge pojedinačne osobe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a7.ad2": {
+      "text": "Na drugo treba reći da se opće dobro države i pojedinačno dobro jedne osobe ne razlikuju samo po mnogome i malome, nego po formalnoj razlici; drukčiji je, naime, pojam općeg dobra, a drukčiji pojedinačnoga, kao što je i drukčiji pojam cjeline, a drukčiji dijela. Zato Filozof u I. knjizi Politike kaže: *ne govore dobro oni koji kažu da se država, kuća i druge takve stvari razlikuju samo mnoštvom i malobrojnošću, a ne vrstom*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a7.ad3": {
+      "text": "Na treće treba reći da se kućno mnoštvo, prema Filozofu u I. knjizi Politike, razlikuje po trima vezama, to jest žene i muža, oca i sina, gospodara i roba, a od tih je osoba jedna kao nešto drugoga. I zato prema takvoj osobi nema pravednosti naprosto, nego neka vrsta pravednosti, to jest kućanska, kako se kaže u V. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da posebna pravednost nema posebne građe. Jer uz ono iz Post 2, *četvrta je rijeka Eufrat*, Glosa kaže: *Eufrat se tumači kao plodonosan. I ne kaže se prema čemu teče, jer se pravednost tiče svih dijelova duše*. A to ne bi bilo kad bi imala posebnu građu, jer svaka posebna građa pripada nekoj posebnoj moći. Dakle, posebna pravednost nema posebne građe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a8.obj2": {
+      "text": "Osim toga, Augustin u knjizi Osamdeset i tri pitanja kaže da su *četiri kreposti duše kojima se u ovom životu duhovno živi, to jest razboritost, umjerenost, jakost, pravednost*, i kaže da je četvrta pravednost, koja se razlijeva kroz sve. Dakle, posebna pravednost, koja je jedna od četiriju stožernih kreposti, nema posebne građe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a8.obj3": {
+      "text": "Osim toga, pravednost dostatno upravlja čovjekom u onome što se odnosi na drugoga. Ali po svemu što pripada ovom životu čovjek može biti usmjeren prema drugome. Dakle, građa je pravednosti opća, a ne posebna.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a8.sc": {
+      "text": "Ali protiv toga je to što Filozof u V. knjizi Etike postavlja posebnu pravednost posebno u pogledu onoga što se tiče zajedništva života.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a8.resp": {
+      "text": "Odgovaram: treba reći da je sve što god razum može ispraviti građa moralne kreposti, koja se definira po ispravnom razumu, kao što je jasno iz Filozofa u II. knjizi Etike. A razumom se mogu ispraviti i unutarnje strasti duše, i vanjske radnje, i vanjske stvari koje dolaze u čovjekovu uporabu. Ipak, uređenost odnosa jednog čovjeka prema drugome promatra se po vanjskim radnjama i po vanjskim stvarima, kojima ljudi mogu međusobno općiti, dok se po unutarnjim strastima razmatra ispravljanje čovjeka u njemu samome. I zato, budući da je pravednost usmjerena prema drugome, ona nije u pogledu sve građe moralne kreposti, nego samo u pogledu vanjskih radnji i stvari, prema nekom posebnom pojmu predmeta, ukoliko se, naime, po njima jedan čovjek dovodi u red s drugim.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da pravednost po biti pripada doduše jednom dijelu duše, u kojem je kao u subjektu, to jest volji, koja svojim zapovijedanjem pokreće sve ostale dijelove duše. I tako pravednost ne izravno, nego kao nekim prelijevanjem pripada svim dijelovima duše.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a8.ad2": {
+      "text": "Na drugo treba reći da se, kao što je gore rečeno, stožerne kreposti uzimaju na dva načina. Na jedan način, ukoliko su posebne kreposti koje imaju određenu građu. Na drugi način, ukoliko označuju neke opće načine kreposti. I na taj način ondje govori Augustin. Kaže, naime, da je razboritost spoznaja onoga za čim treba težiti i onoga što treba izbjegavati; umjerenost je obuzdavanje žudnje od onoga što vremenito naslađuje; jakost je čvrstoća duha protiv onoga što je vremenito tegobno; pravednost je, ona koja se razlijeva kroz ostale, ljubav prema Bogu i bližnjemu, koja je, naime, zajednički korijen sve usmjerenosti prema drugome.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a8.ad3": {
+      "text": "Na treće treba reći da unutarnje strasti, koje su dio moralne građe, same po sebi nisu usmjerene prema drugome, što pripada posebnom pojmu pravednosti; ali njihovi se učinci, to jest vanjska djelovanja, mogu usmjeriti prema drugome. Stoga ne slijedi da je građa pravednosti opća.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da je pravednost u pogledu strasti. Filozof, naime, u II. knjizi Etike kaže da je *moralna krepost u pogledu užitaka i žalosti*. A užitak, to jest naslada, i žalost jesu neke strasti, kao što je gore utvrđeno kad se raspravljalo o strastima. Dakle, pravednost, budući da je moralna krepost, bit će u pogledu strasti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a9.obj2": {
+      "text": "Osim toga, pravednošću se ispravljaju djelovanja koja se odnose na drugoga. Ali takva se djelovanja ne mogu ispraviti ako nisu ispravljene strasti, jer iz neurednosti strasti proizlazi neurednost u navedenim djelovanjima: zbog požude za spolnim užicima dolazi se, naime, do preljuba, a zbog pretjerane ljubavi prema novcu dolazi se do krađe. Dakle, pravednost mora biti u pogledu strasti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a9.obj3": {
+      "text": "Osim toga, kao što se posebna pravednost odnosi na drugoga, tako i zakonska pravednost. Ali zakonska je pravednost u pogledu strasti; inače se ne bi protezala na sve kreposti, od kojih su neke očito u pogledu strasti. Dakle, pravednost je u pogledu strasti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a9.sc": {
+      "text": "Ali protiv toga je ono što Filozof kaže u V. knjizi Etike, da je ona u pogledu djelovanja.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a9.resp": {
+      "text": "Odgovaram: treba reći da se istina ovoga pitanja vidi iz dvoga. Prvo, iz samog subjekta pravednosti, a to je volja, čiji pokreti ili čini nisu strasti, kao što je gore utvrđeno, nego se strastima nazivaju samo pokreti osjetilne težnje. I zato pravednost nije u pogledu strasti, kao što su umjerenost i jakost, koje pripadaju srditoj i požudnoj moći, u pogledu strasti. Na drugi način, s obzirom na građu. Jer pravednost je u pogledu onoga što se odnosi na drugoga. A unutarnjim strastima nismo neposredno usmjereni prema drugome. I zato pravednost nije u pogledu strasti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da nije svaka moralna krepost u pogledu užitaka i žalosti kao u pogledu građe, jer je jakost u pogledu strahova i smjelosti. Ali je svaka moralna krepost usmjerena prema nasladi i žalosti kao prema nekim svrhama koje slijede, jer, kako kaže Filozof u VII. knjizi Etike, *naslada i žalost glavna su svrha, gledajući na koju za svaku stvar kažemo da je ovo zlo, a ono dobro*. I na taj način pripadaju i pravednosti, jer nije pravedan onaj tko se ne raduje pravednim djelovanjima, kako se kaže u I. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a9.ad2": {
+      "text": "Na drugo treba reći da su vanjska djelovanja na neki način posredna između vanjskih stvari, koje su njihova građa, i unutarnjih strasti, koje su njihova počela. A događa se katkad da postoji nedostatak u jednom od njih, a da nema nedostatka u drugome: kao kad netko ukrade tuđu stvar ne iz žudnje za posjedovanjem, nego iz volje da naškodi; ili obratno, kad netko žudi za tuđom stvari, a ipak je ne želi ukrasti. Ispravljanje, dakle, djelovanja ukoliko završavaju u vanjskim stvarima pripada pravednosti, a ispravljanje njih ukoliko proizlaze iz strasti pripada drugim moralnim krepostima, koje su u pogledu strasti. Stoga krađu tuđe stvari sprječava pravednost ukoliko je protivna jednakosti koju treba uspostaviti u vanjskim stvarima, a darežljivost ukoliko proizlazi iz neumjerene požude za bogatstvom. Ali budući da vanjska djelovanja ne primaju vrstu od unutarnjih strasti, nego radije od vanjskih stvari, kao od predmeta, zato su, govoreći po sebi, vanjska djelovanja više građa pravednosti nego drugih moralnih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a9.ad3": {
+      "text": "Na treće treba reći da je opće dobro svrha pojedinih osoba koje postoje u zajednici, kao što je dobro cjeline svrha svakog od dijelova. A dobro jedne pojedinačne osobe nije svrha druge. I zato se zakonska pravednost, koja je usmjerena prema općem dobru, može više protezati na unutarnje strasti, kojima je čovjek na neki način raspoložen u sebi samome, nego posebna pravednost, koja je usmjerena prema dobru druge pojedinačne osobe. Premda se zakonska pravednost ponajprije proteže na druge kreposti s obzirom na njihova vanjska djelovanja, ukoliko, naime, *zakon propisuje činiti djela jakoga, i djela umjerenoga, i djela blagoga*, kako se kaže u V. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da sredina pravednosti nije sredina stvari. Pojam roda, naime, očuvan je u svim vrstama. Ali moralna se krepost u II. knjizi Etike definira kao *izborni habitus koji se sastoji u sredini u odnosu na nas, određenoj razumom*. Dakle, i u pravednosti je sredina razuma, a ne stvari.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a10.obj2": {
+      "text": "Osim toga, u onome što je naprosto dobro ne može se uzeti pretjerano i umanjeno, pa prema tome ni sredina, kao što je jasno kod kreposti, kako se kaže u II. knjizi Etike. Ali pravednost je u pogledu onoga što je naprosto dobro, kako se kaže u V. knjizi Etike. Dakle, u pravednosti nema sredine stvari.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a10.obj3": {
+      "text": "Osim toga, za druge se kreposti kaže da imaju sredinu razuma, a ne stvari, zato što se ona uzima različito s obzirom na različite osobe, jer što je jednome mnogo, drugome je malo, kako se kaže u II. knjizi Etike. Ali to se opaža i u pravednosti: ne kažnjava se, naime, istom kaznom onaj tko udari vladara i onaj tko udari privatnu osobu. Dakle, ni pravednost nema sredinu stvari, nego sredinu razuma.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a10.sc": {
+      "text": "Ali protiv toga je to što Filozof u V. knjizi Etike određuje sredinu pravednosti po aritmetičkoj proporcionalnosti, a to je sredina stvari.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a10.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je gore rečeno, druge moralne kreposti ponajprije odnose na strasti, čije se ispravljanje promatra samo s obzirom na samoga čovjeka čije su to strasti, ukoliko se, naime, srdi i žudi kako treba prema različitim okolnostima. I zato se sredina takvih kreposti ne uzima po razmjeru jedne stvari prema drugoj, nego samo s obzirom na samoga krepostnog čovjeka. I zbog toga je u njima sredina samo po razumu u odnosu na nas. Ali građa je pravednosti vanjsko djelovanje ukoliko ono, ili stvar koja se upotrebljava, ima dužni razmjer prema drugoj osobi. I zato se sredina pravednosti sastoji u nekoj jednakosti razmjera vanjske stvari prema vanjskoj osobi. A jednako je stvarno sredina između većega i manjega, kako se kaže u X. knjizi Metafizike. Stoga pravednost ima sredinu stvari.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ta sredina stvari ujedno i sredina razuma. I zato se u pravednosti čuva pojam moralne kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a10.ad2": {
+      "text": "Na drugo treba reći da se naprosto dobro kaže na dva načina. Na jedan način, ono što je dobro na sve načine, kao što su kreposti dobre. I tako u onome što je naprosto dobro nema sredine i krajnosti. Na drugi se način kaže da je nešto naprosto dobro jer je apsolutno dobro, to jest razmatrano po svojoj naravi, premda zlouporabom može postati zlo, kao što je jasno kod bogatstva i časti. I u takvima se može uzeti pretjerano, umanjeno i sredina s obzirom na ljude, koji se njima mogu služiti dobro ili zlo. I tako se kaže da je pravednost u pogledu onoga što je naprosto dobro.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a10.ad3": {
+      "text": "Na treće treba reći da nanesena nepravda ima jedan razmjer prema vladaru, a drugi prema privatnoj osobi. I zato treba drukčije izjednačiti jednu i drugu nepravdu kažnjavanjem. A to pripada različitosti stvari, a ne samo različitosti razuma.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da čin pravednosti nije davati svakome ono što je njegovo. Augustin, naime, u XIV. knjizi O Trojstvu pripisuje pravednosti pomaganje bijednima. Ali kad pomažemo bijednima, ne dajemo im ono što je njihovo, nego radije ono što je naše. Dakle, čin pravednosti nije dodjeljivati svakome ono što je njegovo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a11.obj2": {
+      "text": "Osim toga, Tulije u I. knjizi O dužnostima kaže da dobročinstvo, koje je dopušteno nazvati dobrostivošću ili darežljivošću, pripada pravednosti. Ali darežljivosti je svojstveno davati nekome od vlastitoga, a ne od onoga što je njegovo. Dakle, čin pravednosti nije davati svakome ono što je njegovo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a11.obj3": {
+      "text": "Osim toga, pravednosti ne pripada samo raspodjeljivati stvari na dužan način, nego i sprječavati radnje koje nanose nepravdu, primjerice ubojstva, preljube i drugo tome slično. Ali čini se da davati ono što je njegovo pripada samo raspodjeli stvari. Dakle, čin pravednosti nije dostatno označen time što se kaže da je njezin čin davati svakome ono što je njegovo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a11.sc": {
+      "text": "Ali protiv toga je ono što kaže Ambrozije u I. knjizi O dužnostima: *pravednost je ona koja svakome dodjeljuje ono što je njegovo, tuđe ne prisvaja, vlastitu korist zanemaruje da bi čuvala zajedničku pravičnost*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a11.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je rečeno, građa pravednosti vanjsko djelovanje ukoliko je ono, ili stvar kojom se njime služimo, razmjerno drugoj osobi, prema kojoj smo pravednošću usmjereni. A njegovim se za svaku osobu naziva ono što joj se duguje prema jednakosti razmjera. I zato vlastiti čin pravednosti nije ništa drugo nego davati svakome ono što je njegovo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da se pravednosti, budući da je stožerna krepost, pridružuju neke druge, drugotne kreposti, kao milosrđe, darežljivost i druge takve kreposti, kao što će biti jasno niže. I zato se pomaganje bijednima, koje pripada milosrđu ili samilosti, i darežljivo činjenje dobra, koje pripada darežljivosti, nekim svođenjem pripisuju pravednosti kao glavnoj kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a11.ad2": {
+      "text": "I time je jasan odgovor na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a11.ad3": {
+      "text": "Na treće treba reći da se, kako kaže Filozof u V. knjizi Etike, sve suvišno u onome što pripada pravednosti, proširenim značenjem imena, naziva dobitkom, kao što se i sve što je manje naziva štetom. A to stoga što se pravednost najprije vršila i općenitije se vrši u voljnim razmjenama stvari, primjerice u kupnji i prodaji, u kojima se ta imena govore u vlastitom smislu; i odatle se ta imena prenose na sve ono u pogledu čega može biti pravednost. Isti je razlog i za to da se kaže davati svakome ono što je njegovo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da pravednost ne nadmašuje sve moralne kreposti. Pravednosti, naime, pripada davati drugome ono što je njegovo. A darežljivosti pripada davati od vlastitoga, što je krepostnije. Dakle, darežljivost je veća krepost od pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a12.obj2": {
+      "text": "Osim toga, ništa se ne ukrašava osim nečim dostojnijim od sebe. Ali velikodušnost je ukras i pravednosti i svih kreposti, kako se kaže u IV. knjizi Etike. Dakle, velikodušnost je plemenitija od pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a12.obj3": {
+      "text": "Osim toga, krepost je u pogledu teškoga i dobroga, kako se kaže u II. knjizi Etike. Ali jakost je u pogledu težih stvari nego pravednost, to jest u pogledu smrtnih pogibelji, kako se kaže u III. knjizi Etike. Dakle, jakost je plemenitija od pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a12.sc": {
+      "text": "Ali protiv toga je ono što kaže Tulije u I. knjizi O dužnostima: *u pravednosti je sjaj kreposti najveći; po njoj se ljudi nazivaju dobrima*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a12.resp": {
+      "text": "Odgovaram: treba reći da je, ako govorimo o zakonskoj pravednosti, očito da je ona najsjajnija među svim moralnim krepostima, ukoliko opće dobro nadmašuje pojedinačno dobro jedne osobe. I u tom smislu Filozof u V. knjizi Etike kaže da se *čini da je pravednost najsjajnija od kreposti, i ni Večernjica ni Danica nisu tako divne*. Ali i ako govorimo o posebnoj pravednosti, ona se ističe među drugim moralnim krepostima iz dvaju razloga. Prvi se od njih može uzeti s obzirom na subjekt, naime zato što je u plemenitijem dijelu duše, to jest u razumskoj težnji, odnosno u volji, dok su druge moralne kreposti u osjetilnoj težnji, kojoj pripadaju strasti, koje su građa drugih moralnih kreposti. Drugi se razlog uzima s obzirom na predmet. Druge se, naime, kreposti hvale samo prema dobru samoga krepostnog čovjeka. A pravednost se hvali ukoliko se krepostan čovjek dobro odnosi prema drugome, i tako je pravednost na neki način dobro drugoga, kako se kaže u V. knjizi Etike. I zbog toga Filozof u I. knjizi Retorike kaže: *nužno je da najveće kreposti budu one koje su drugima najčestitije, budući da je krepost moć koja čini dobro. Zbog toga ljudi najviše časte jake i pravedne, jer je jakost korisna drugima u ratu, a pravednost i u ratu i u miru*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da darežljivost, iako daje od svojega, ipak to čini ukoliko u tome promatra dobro vlastite kreposti. A pravednost daje drugome ono što je njegovo kao promatrajući opće dobro. Osim toga, pravednost se obdržava prema svima, a darežljivost se ne može protezati na sve. I nadalje, darežljivost, koja daje od svojega, utemeljena je na pravednosti, po kojoj se svakome čuva ono što je njegovo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a12.ad2": {
+      "text": "Na drugo treba reći da velikodušnost, ukoliko pridolazi pravednosti, povećava njezinu dobrotu. Ali bez pravednosti ne bi imala ni pojam kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q58.a12.ad3": {
+      "text": "Na treće treba reći da se jakost sastoji u pogledu težih stvari, ali nije u pogledu boljih, budući da je korisna samo u ratu, a pravednost i u miru i u ratu, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    }
+  }
+}

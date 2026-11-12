@@ -1,0 +1,300 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 53,
+  "units": {
+    "II-II.q53.pr": {
+      "text": "Zatim treba razmotriti poroke suprotstavljene razboritosti. A Augustin u IV. knjizi Protiv Julijana kaže: *svim krepostima nisu protivni samo poroci koji se od njih očito razlikuju, kao razboritosti nesmotrenost, nego i oni koji su im na neki način susjedni, slični ne po istini, nego po nekom varljivom izgledu, kao samoj razboritosti lukavost*. Stoga najprije treba razmotriti poroke koji su očito protivni razboritosti, to jest poroke koji proizlaze iz nedostatka razboritosti ili onoga što se za razboritost zahtijeva; drugo, poroke koji imaju neku lažnu sličnost s razboritošću, to jest koji nastaju zloupotrebom onoga što se za razboritost zahtijeva. A budući da brižnost pripada razboritosti, o prvome treba razmotriti dvoje: prvo, nerazboritost; drugo, nemar, koji je suprotstavljen brižnosti. O prvome se postavlja šest pitanja. Prvo, o nerazboritosti: je li grijeh. Drugo, je li poseban grijeh. Treće, o brzopletosti ili nesmotrenosti. Četvrto, o nepromišljenosti. Peto, o nepostojanosti. Šesto, o podrijetlu tih poroka.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nerazboritost nije grijeh. Svaki je, naime, grijeh voljan, kako kaže Augustin. A nerazboritost nije nešto voljno: nitko, naime, ne želi biti nerazborit. Dakle, nerazboritost nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a1.obj2": {
+      "text": "Osim toga, nijedan se grijeh ne rađa s čovjekom osim istočnoga. Ali nerazboritost se rađa s čovjekom, pa su stoga i mladi nerazboriti. A nije ni istočni grijeh, koji je suprotstavljen izvornoj pravednosti. Dakle, nerazboritost nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a1.obj3": {
+      "text": "Osim toga, svaki se grijeh uklanja pokorom. Ali nerazboritost se ne uklanja pokorom. Dakle, nerazboritost nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a1.sc": {
+      "text": "Ali protiv toga, duhovno blago milosti ne oduzima se osim grijehom. A oduzima se nerazboritošću, prema onome iz Izr 21: *poželjno blago i ulje u stanu pravednika, a nerazborit će ga čovjek rasuti*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a1.resp": {
+      "text": "Odgovaram: treba reći da se nerazboritost može uzeti dvojako: na jedan način kao lišenost, na drugi način kao protivnost. Kao puko nijekanje, naime tako da bi uključivala samo odsutnost razboritosti, koja može biti bez grijeha, ne kaže se u vlastitom smislu. Kao lišenost nerazboritost se kaže ukoliko je netko lišen razboritosti koju je po naravi određen i dužan imati. I prema tome je nerazboritost grijeh zbog nemara, kojim netko ne ulaže trud da stekne razboritost. A kao protivnost nerazboritost se uzima ukoliko se razum pokreće ili djeluje na način protivan razboritosti. Na primjer, ako ispravni razum razboritosti djeluje promišljajući, nerazboriti prezire promišljanje; i tako s drugim stvarima koje treba obdržavati u činu razborita čovjeka. I na taj je način nerazboritost grijeh po vlastitom pojmu razboritosti. Ne može se, naime, dogoditi da čovjek djeluje protiv razboritosti, osim ako skrene od pravila po kojima se ispravlja razum razboritosti. Stoga, ako se to dogodi odvraćanjem od božanskih pravila, smrtni je grijeh, na primjer kad netko, kao da prezire i odbacuje božanske pouke, djeluje brzopleto. A ako djeluje mimo njih bez prezira i bez štete za ono što je nužno za spasenje, laki je grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da izobličenost nerazboritosti nitko ne želi, ali čin nerazboritosti želi nesmotreni, koji želi djelovati brzopleto. Stoga i Filozof u VI. knjizi Etike kaže da se *onaj koji u pogledu razboritosti griješi voljno manje prihvaća*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a1.ad2": {
+      "text": "Na drugo treba reći da taj razlog vrijedi za nerazboritost ukoliko se uzima kao nijekanje. Ipak treba znati da je odsutnost razboritosti i bilo koje kreposti uključena u odsutnost izvorne pravednosti, koja je usavršavala cijelu dušu. I prema tome se svi ti nedostaci kreposti mogu svesti na istočni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a1.ad3": {
+      "text": "Na treće treba reći da se pokorom vraća ulivena razboritost, i tako prestaje odsutnost te razboritosti. Ali stečena se razboritost ne vraća s obzirom na habitus, nego se uklanja protivni čin, u kojem se u vlastitom smislu sastoji grijeh nerazboritosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nerazboritost nije poseban grijeh. Tko god, naime, griješi, djeluje protiv ispravnoga razuma, a to je razboritost. Ali nerazboritost se sastoji u tome da netko djeluje protiv razboritosti, kako je rečeno. Dakle, nerazboritost nije poseban grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a2.obj2": {
+      "text": "Osim toga, razboritost je srodnija moralnim činima nego znanje. Ali neznanje, koje je suprotstavljeno znanju, postavlja se među opće uzroke grijeha. Dakle, mnogo više nerazboritost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a2.obj3": {
+      "text": "Osim toga, grijesi nastaju time što se izopačuju okolnosti kreposti; stoga i Dionizije u IV. poglavlju O božanskim imenima kaže da *zlo nastaje iz pojedinačnih nedostataka*. Ali za razboritost se zahtijeva mnogo toga, kao rasuđivanje, razumijevanje, poučljivost i ostalo što je gore postavljeno. Dakle, mnogo je vrsta nerazboritosti. Dakle, ona nije poseban grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a2.sc": {
+      "text": "Ali protiv toga, nerazboritost je protivna razboritosti, kako je rečeno. A razboritost je jedna posebna krepost. Dakle, nerazboritost je jedan poseban porok.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a2.resp": {
+      "text": "Odgovaram: treba reći da se neki porok ili grijeh može nazvati općim dvojako: na jedan način, apsolutno, naime zato što je opći s obzirom na sve grijehe; na drugi način, zato što je opći s obzirom na neke poroke koji su njegove vrste. A na prvi se način neki porok može nazvati općim dvojako. Na jedan način, po biti, naime zato što se pririče o svim grijesima. I na taj način nerazboritost nije opći grijeh, kao što ni razboritost nije opća krepost, budući da se tiču posebnih čina, naime samih čina razuma. Na drugi način, po sudjelovanju. I na taj je način nerazboritost opći grijeh. Kao što, naime, u svim krepostima na neki način sudjeluje razboritost, ukoliko ih usmjerava, tako i nerazboritost u svim porocima i grijesima: nijedan se grijeh, naime, ne može dogoditi ako nema nedostatka u nekom činu razuma koji usmjerava, a to pripada nerazboritosti. A ako se grijeh naziva općim ne naprosto, nego prema nekom rodu, naime zato što pod sobom sadrži mnoge vrste, tako je nerazboritost opći grijeh. Ona, naime, pod sobom sadrži različite vrste trostruko. Na jedan način, po suprotstavljenosti različitim podvrstnim dijelovima razboritosti. Kao što se, naime, razboritost dijeli na monastičku, koja upravlja jednim čovjekom, i na druge vrste razboritosti koje upravljaju mnoštvom, kao što je gore utvrđeno, tako i nerazboritost. Na drugi način, prema takoreći potencijalnim dijelovima razboritosti, a to su pridružene kreposti, i uzimaju se prema različitim činima razuma. I na taj je način, s obzirom na nedostatak promišljanja, kojega se tiče eubulija, vrsta nerazboritosti brzopletost ili nesmotrenost. A s obzirom na nedostatak suda, kojega se tiču sineza i gnoma, nepromišljenost. A s obzirom na samu zapovijed, koja je vlastiti čin razboritosti, nepostojanost i nemar. Na treći se način mogu uzeti po suprotstavljenosti onome što se zahtijeva za razboritost, a to su takoreći sastavni dijelovi razboritosti. Ali budući da je sve to usmjereno prema usmjeravanju spomenutih triju čina razuma, odatle je da se svi suprotstavljeni nedostaci svode na četiri spomenuta dijela. Tako su neopreznost i neobazrivost uključene u nepromišljenost. A to da netko ima nedostatak u poučljivosti ili pamćenju ili rasuđivanju, pripada brzopletosti. Neprovidnost pak i nedostatak razumijevanja i oštroumnosti pripadaju nemaru i nepostojanosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj razlog vrijedi za općenitost koja je po sudjelovanju.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a2.ad2": {
+      "text": "Na drugo treba reći da, budući da je znanje po vlastitom pojmu i jednoga i drugoga udaljenije od moralnoga nego razboritost, odatle je da neznanje samo po sebi nema pojam moralnoga grijeha, nego samo zbog prethodnoga nemara ili učinka koji slijedi. I zbog toga se postavlja među opće uzroke grijeha. Ali nerazboritost po vlastitom pojmu uključuje moralni porok. I zato se prije može postaviti kao poseban grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a2.ad3": {
+      "text": "Na treće treba reći da, kad izopačenje različitih okolnosti ima istu pobudu, vrsta grijeha ne postaje različita: tako je iste vrste grijeh kad netko uzima ono što nije njegovo gdje ne treba i kad ne treba. Ali kad bi bile različite pobude, tada bi bile različite vrste: na primjer, kad bi jedan uzimao odakle ne bi trebao da bi nanio nepravdu svetome mjestu, što bi činilo vrstu svetogrđa, a drugi kad ne bi trebao, samo zbog suvišne težnje za posjedovanjem, što bi bila obična škrtost. I zato nedostaci onoga što se zahtijeva za razboritost ne čine vrste različitima osim ukoliko su usmjereni prema različitim činima razuma, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da brzopletost nije grijeh obuhvaćen nerazboritošću. Nerazboritost je, naime, suprotstavljena kreposti razboritosti. Ali brzopletost je suprotstavljena daru savjeta: Grgur, naime, u II. knjizi Moralija kaže da se dar savjeta daje protiv brzopletosti. Dakle, brzopletost nije grijeh obuhvaćen nerazboritošću.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a3.obj2": {
+      "text": "Osim toga, čini se da brzopletost pripada nesmotrenosti. A nesmotrenost uključuje preuzetnost, koja pripada oholosti. Dakle, brzopletost nije porok obuhvaćen nerazboritošću.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a3.obj3": {
+      "text": "Osim toga, čini se da brzopletost uključuje neku neurednu žurbu. Ali u promišljanju se ne događa da je grijeh samo time što je netko žuran, nego i ako je prespor, tako da prođe prikladni trenutak za djelo; a i prema neurednostima drugih okolnosti, kako se kaže u VI. knjizi Etike. Dakle, brzopletost ne treba više postaviti kao grijeh obuhvaćen nerazboritošću nego sporost ili nešto drugo takvo što pripada neurednosti promišljanja.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izr 4: *put je bezbožnika taman, ne znaju gdje će se srušiti*. A tama puta bezbožnosti pripada nerazboritosti. Dakle, srušiti se ili strmoglaviti se (praecipitari) pripada nerazboritosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a3.resp": {
+      "text": "Odgovaram: treba reći da se brzopletost (praecipitatio) u činima duše kaže preneseno, po sličnosti uzetoj od tjelesnoga gibanja. A u tjelesnom se gibanju kaže da se strmoglavljuje ono što od višega dospijeva do najnižega po nekom zaletu vlastitoga gibanja ili nečega što ga tjera, ne napredujući uredno po stupnjevima. A najviše u duši jest sam razum. Najniže je pak djelovanje izvršeno tijelom. A srednji stupnjevi, po kojima treba uredno silaziti, jesu pamćenje prošloga, razumijevanje sadašnjega, oštroumnost u razmatranju budućih događaja, rasuđivanje koje uspoređuje jedno s drugim, poučljivost, po kojoj netko pristaje uz mišljenja starijih; po tim stupnjevima netko uredno silazi ispravno promišljajući. Ako se pak netko dade nositi na djelovanje zaletom volje ili strasti, preskočivši takve stupnjeve, bit će to brzopletost. Budući da, dakle, neurednost promišljanja pripada nerazboritosti, očito je da je porok brzopletosti obuhvaćen nerazboritošću.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da ispravnost promišljanja pripada daru savjeta i kreposti razboritosti, iako na različit način, kao što je gore rečeno. I zato je brzopletost protivna i jednome i drugome.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a3.ad2": {
+      "text": "Na drugo treba reći da se kaže da se nesmotreno čini ono čime ne upravlja razum. A to se može dogoditi dvojako. Na jedan način, iz zaleta volje ili strasti. Na drugi način, iz prezira prema pravilu koje usmjerava; i to u vlastitom smislu uključuje nesmotrenost. Stoga se čini da ona proizlazi iz korijena oholosti, koja izbjegava biti podložna tuđem pravilu. A brzopletost se odnosi na oboje. Stoga je nesmotrenost obuhvaćena brzopletošću, iako se brzopletost više odnosi na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a3.ad3": {
+      "text": "Na treće treba reći da u istraživanju promišljanja treba razmotriti mnogo toga posebnoga, i zato Filozof u VI. knjizi Etike kaže: *treba promišljati polako*. Stoga je brzopletost izravnije suprotstavljena ispravnosti promišljanja nego pretjerana sporost, koja ima neku sličnost s ispravnim promišljanjem.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da nepromišljenost nije poseban grijeh sadržan pod nerazboritošću. Božanski nas, naime, zakon ne navodi ni na kakav grijeh, prema onome iz Psalma: *zakon je Gospodnji neokaljan*. A navodi nas na to da ne razmatramo, prema onome iz Mt 10: *ne mislite kako ili što ćete govoriti*. Dakle, nepromišljenost nije grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a4.obj2": {
+      "text": "Osim toga, tko god promišlja, mora razmotriti mnogo toga. Ali brzopletost nastaje zbog nedostatka promišljanja, a prema tome i zbog nedostatka razmatranja. Dakle, brzopletost je sadržana pod nepromišljenošću. Nepromišljenost, dakle, nije poseban grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a4.obj3": {
+      "text": "Osim toga, razboritost se sastoji u činima praktičnoga razuma, a to su: promišljati, suditi o onome o čemu se promislilo i nalagati. Ali razmatranje prethodi svim tim činima, jer pripada i spekulativnom umu. Dakle, nepromišljenost nije poseban grijeh sadržan pod nerazboritošću.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a4.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Izr 4: *oči tvoje neka gledaju ono što je pravo, i vjeđe tvoje neka prethode koracima tvojim*, što pripada razboritosti. A nepromišljenošću se čini protivno tome. Dakle, nepromišljenost je poseban grijeh sadržan pod nerazboritošću.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a4.resp": {
+      "text": "Odgovaram: treba reći da razmatranje uključuje čin uma koji promatra istinu stvari. A kao što istraživanje pripada razumu, tako sud pripada umu; zato se i u spekulativnim stvarima dokazna znanost naziva prosuditeljskom, ukoliko se svođenjem na prva umljiva načela prosuđuje o istini onoga što se istražilo. I zato razmatranje ponajviše pripada sudu. Stoga i nedostatak ispravnoga suda pripada poroku nepromišljenosti, ukoliko, naime, netko zakazuje u ispravnom suđenju zato što prezire ili zanemaruje paziti na ono iz čega proizlazi ispravni sud. Stoga je očito da je nepromišljenost grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Gospodin ne zabranjuje razmatrati ono što treba činiti ili govoriti kad čovjek ima prilike za to. Nego navedenim riječima daje učenicima pouzdanje da se, kad im ponestane prilike, bilo zbog neiskustva bilo zato što su iznenada zatečeni, uzdaju samo u božanski savjet, jer *kad ne znamo što trebamo činiti, preostaje nam samo to da svoje oči upravimo k Bogu*, kako se kaže u 2 Ljet 20. Inače, ako čovjek propusti učiniti ono što može, očekujući samo božansku pomoć, čini se da kuša Boga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a4.ad2": {
+      "text": "Na drugo treba reći da je sve razmatranje onoga na što se pazi u promišljanju usmjereno prema ispravnom suđenju, i zato se razmatranje dovršava u sudu. Stoga se i nepromišljenost ponajviše suprotstavlja ispravnosti suda.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a4.ad3": {
+      "text": "Na treće treba reći da se nepromišljenost ovdje uzima s obzirom na određenu građu, to jest s obzirom na ljudske stvari koje treba činiti, u kojima za ispravno suđenje treba paziti na više toga nego i u spekulativnim stvarima, jer su djelovanja u pojedinačnome.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da nepostojanost nije porok sadržan pod nerazboritošću. Čini se, naime, da se nepostojanost sastoji u tome da čovjek ne ustraje u nečemu teškome. Ali ustrajati u teškim stvarima pripada jakosti. Dakle, nepostojanost se više suprotstavlja jakosti nego razboritosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a5.obj2": {
+      "text": "Osim toga, u Jak 3 kaže se: *gdje je ljubomora i prepirka, ondje je nepostojanost i svako zlo djelo*. Ali ljubomora pripada zavisti. Dakle, nepostojanost ne pripada nerazboritosti, nego više zavisti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a5.obj3": {
+      "text": "Osim toga, čini se da je nepostojan onaj tko ne ustraje u onome što je bio naumio. A to u nasladama pripada neuzdržljivu, a u žalostima mekušcu ili razmaženu, kako se kaže u VII. knjizi Etike. Dakle, nepostojanost ne pripada nerazboritosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a5.sc": {
+      "text": "Ali protiv toga jest to što razboritosti pripada pretpostaviti veće dobro manjemu. Dakle, odustati od boljega pripada nerazboritosti. A to je nepostojanost. Dakle, nepostojanost pripada nerazboritosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a5.resp": {
+      "text": "Odgovaram: treba reći da nepostojanost uključuje neko odstupanje od određenoga dobrog nauma. Takvo odstupanje ima, doduše, počelo u težnjenoj sili: nitko, naime, ne odstupa od prijašnjega dobrog nauma osim zbog nečega što mu se neuredno sviđa. Ali to se odstupanje ne dovršava osim nedostatkom razuma, koji se vara u tome što odbacuje ono što je ispravno bio prihvatio; i budući da se može oduprijeti porivu strasti, ako se ne odupre, to dolazi od njegove slabosti, jer se ne drži čvrsto dobra koje je zamislio. I zato nepostojanost, s obzirom na svoje dovršenje, pripada nedostatku razuma. A kao što svaka ispravnost praktičnoga razuma na neki način pripada razboritosti, tako svaki njegov nedostatak pripada nerazboritosti. I zato nepostojanost, s obzirom na svoje dovršenje, pripada nerazboritosti. I kao što brzopletost proizlazi iz nedostatka u pogledu čina promišljanja, a nepromišljenost u pogledu čina suda, tako nepostojanost u pogledu čina nalaganja: netko se, naime, naziva nepostojanim zato što razum zakazuje u nalaganju onoga o čemu se promislilo i što se prosudilo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u dobru razboritosti sudjeluje u svim moralnim krepostima, i prema tome ustrajati u dobru pripada svim moralnim krepostima. Ponajviše ipak jakosti, koja trpi veći poriv prema protivnome.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a5.ad2": {
+      "text": "Na drugo treba reći da zavist i srdžba, koja je počelo prepirke, uzrokuju nepostojanost sa strane težnjene snage, od koje potječe počelo nepostojanosti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a5.ad3": {
+      "text": "Na treće treba reći da se čini da uzdržljivost i ustrajnost nisu u težnjenoj sili, nego samo u razumu. Uzdržljiv, naime, doduše trpi izopačene požude, a ustrajan teške žalosti, što označuje nedostatak težnjene snage; ali razum čvrsto ustraje, i to razum uzdržljivoga protiv požuda, a razum ustrajnoga protiv žalosti. Stoga se čini da su uzdržljivost i ustrajnost vrste postojanosti koja pripada razumu, a na nju se odnosi i nepostojanost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da spomenuti poroci ne proizlaze iz bludnosti. Nepostojanost, naime, proizlazi iz zavisti, kako je rečeno. Ali zavist je porok različit od bludnosti. Dakle, spomenuti poroci ne proizlaze iz bludnosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a6.obj2": {
+      "text": "Osim toga, u Jak 1 kaže se: *čovjek dvoličan nepostojan je na svim svojim putovima*. Ali ne čini se da dvoličnost pripada bludnosti, nego više podmuklosti, koja je kći škrtosti, prema Grguru u XXXI. knjizi Moralija. Dakle, spomenuti poroci ne proizlaze iz bludnosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a6.obj3": {
+      "text": "Osim toga, spomenuti poroci pripadaju nedostatku razuma. Ali duhovni su poroci bliži razumu nego tjelesni poroci. Dakle, spomenuti poroci više proizlaze iz duhovnih poroka nego iz tjelesnih.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a6.sc": {
+      "text": "Ali protiv toga jest to što Grgur u XXXI. knjizi Moralija postavlja da spomenuti poroci proizlaze iz bludnosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a6.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Filozof u VI. knjizi Etike, *naslada ponajviše kvari procjenu razboritosti*, a osobito naslada u spolnim stvarima, koja cijelu dušu upija i vuče prema osjetnoj nasladi; a savršenost razboritosti, i bilo koje umske kreposti, sastoji se u apstrahiranju od osjetnoga. Stoga, budući da spomenuti poroci pripadaju nedostatku razboritosti i praktičnoga razuma, kako je utvrđeno, slijedi da ponajviše proizlaze iz bludnosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da zavist i srdžba uzrokuju nepostojanost tako što razum odvlače k nečemu drugome, a bludnost uzrokuje nepostojanost tako što posve gasi sud razuma. Stoga Filozof kaže u VII. knjizi Etike da *neuzdržljivi u srdžbi sluša, doduše, razum, ali ne savršeno, a neuzdržljivi u požudi uopće ga ne sluša*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a6.ad2": {
+      "text": "Na drugo treba reći da je i dvoličnost duše nešto što prati bludnost, kao i nepostojanost, ukoliko dvoličnost duše uključuje prevrtljivost duše prema različitim stvarima. Stoga i Terencije kaže u Eunuhu da *u ljubavi je rat, i opet mir i primirje*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q53.a6.ad3": {
+      "text": "Na treće treba reći da tjelesni poroci utoliko više gase sud razuma ukoliko dalje odvode od razuma.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    }
+  }
+}

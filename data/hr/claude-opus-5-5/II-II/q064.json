@@ -1,0 +1,444 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 64,
+  "units": {
+    "II-II.q64.pr": {
+      "text": "Zatim treba razmotriti poroke suprotstavljene komutativnoj pravednosti. I najprije treba razmotriti grijehe koji se čine kod protuvoljnih razmjena; drugo, grijehe koji se čine kod voljnih razmjena. A grijesi kod protuvoljnih razmjena čine se time što se bližnjemu nanosi neka šteta protiv njegove volje; to se pak može dogoditi na dva načina, naime djelom i riječju. Djelom, kad se bližnji povrijedi ili u vlastitoj osobi, ili u povezanoj osobi, ili u vlastitim stvarima. O tome, dakle, treba redom razmotriti. I najprije o ubojstvu, kojim se bližnjemu najviše škodi. I o tome se pita osam stvari. Prvo, je li ubijati nerazumne životinje ili čak biljke grijeh. Drugo, je li dopušteno ubiti grešnika. Treće, je li to dopušteno privatnoj osobi ili samo javnoj. Četvrto, je li to dopušteno kleriku. Peto, je li nekome dopušteno ubiti samoga sebe. Šesto, je li dopušteno ubiti pravedna čovjeka. Sedmo, je li nekome dopušteno ubiti čovjeka braneći sebe. Osmo, je li slučajno ubojstvo smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je nedopušteno ubijati bilo koja živa bića. Kaže, naime, Apostol u Rim 13: *Tko se protivi Božjoj uredbi, sam sebi navlači osudu*. Ali po uredbi božanske providnosti sva se živa bića održavaju, prema onome iz Psalma: *Koji daje da na gorama raste trava i daje stoci njezinu hranu*. Dakle, čini se da je nedopušteno usmrćivati bilo koja živa bića.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a1.obj2": {
+      "text": "Osim toga, ubojstvo je grijeh zato što se čovjek lišava života. Ali život je zajednički svim životinjama i biljkama. Dakle, čini se da je s istog razloga grijeh ubijati nerazumne životinje i biljke.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a1.obj3": {
+      "text": "Osim toga, u božanskom se zakonu posebna kazna određuje samo za grijeh. Ali onome koji ubije tuđu ovcu ili vola u božanskom je zakonu utvrđena određena kazna, kao što je očito iz Izl 22. Dakle, ubijanje nerazumnih životinja jest grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u I. knjizi O Božjem gradu: *Kad čujemo: Ne ubij, ne shvaćamo da je to rečeno o grmlju, jer ono nema nikakva osjeta, ni o nerazumnim životinjama, jer s nama nisu povezane nikakvim razumom. Preostaje, dakle, da ono što je rečeno: Ne ubij, shvatimo o čovjeku*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a1.resp": {
+      "text": "Odgovaram: treba reći da nitko ne griješi time što se služi nekom stvari za ono za što ona postoji. A u redu stvari nesavršenije postoji radi savršenijega, kao što i na putu nastajanja priroda napreduje od nesavršenoga prema savršenome. Otuda je da, kao što je u nastajanju čovjeka najprije živo biće, zatim životinja, a naposljetku čovjek, tako i ono što samo živi, kao biljke, postoji općenito radi svih životinja, a životinje postoje radi čovjeka. Stoga, ako se čovjek služi biljkama na korist životinja i životinjama na korist ljudi, to nije nedopušteno, kao što je očito i kod Filozofa u I. knjizi Politike. A među ostalim uporabama čini se da je najnužnija ta da se životinje služe biljkama za hranu, a ljudi životinjama, što se ne može dogoditi bez njihova usmrćivanja. I zato je dopušteno i biljke usmrćivati na uporabu životinja, i životinje na uporabu ljudi, po samoj božanskoj uredbi; kaže se, naime, u Post 1: *Evo, dajem vam svaku travu i sva stabla da vam budu za hranu, i svim živim bićima*. I u Post 9 se kaže: *Sve što se miče i živi bit će vam za hranu*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se po božanskoj uredbi život životinja i biljaka održava ne radi njih samih, nego radi čovjeka. Stoga, kako kaže Augustin u I. knjizi O Božjem gradu: *Po najpravednijoj Stvoriteljevoj uredbi i njihov život i njihova smrt podložni su našoj uporabi*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a1.ad2": {
+      "text": "Na drugo treba reći da nerazumne životinje i biljke nemaju razumskog života, po kojem bi same sebe vodile, nego ih uvijek kao drugi vodi neki naravni poriv. I to je znak da su po naravi robovske i prilagođene uporabi drugih.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a1.ad3": {
+      "text": "Na treće treba reći da onaj koji ubije tuđega vola doista griješi, ali ne zato što ubija vola, nego zato što čovjeku nanosi štetu u njegovoj stvari. Stoga to ne spada pod grijeh ubojstva, nego pod grijeh krađe ili otimačine.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nije dopušteno ubijati ljude grešnike. Gospodin je, naime, u Mt 13, u prispodobi, zabranio iščupati kukolj, koji su sinovi Zloga, kako se ondje kaže. Ali sve što je Bog zabranio jest grijeh. Dakle, ubiti grešnika jest grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a2.obj2": {
+      "text": "Osim toga, ljudska se pravednost suobličuje božanskoj pravednosti. Ali prema božanskoj se pravednosti grešnici čuvaju za pokoru, prema onome iz Ez 18: *ne želim smrti grešnika, nego da se obrati i živi*. Dakle, čini se da je posve nepravedno da se grešnici ubijaju.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a2.obj3": {
+      "text": "Osim toga, ono što je samo po sebi zlo ne smije se činiti ni radi kakve dobre svrhe, kako je jasno iz Augustina, u knjizi Protiv laži, i iz Filozofa, u II. knjizi Etike. Ali ubiti čovjeka samo je po sebi zlo, jer prema svim ljudima moramo imati ljubav; a za prijatelje želimo da žive i da postoje, kako se kaže u IX. knjizi Etike. Dakle, nipošto nije dopušteno usmrtiti čovjeka grešnika.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a2.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Izl 22: *zločince nemoj ostaviti na životu*; i u Psalmu: *ujutro sam ubijao sve grešnike zemlje*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, dopušteno ubijati nerazumne životinje ukoliko su po naravi usmjerene prema uporabi ljudi, kao što je nesavršeno usmjereno prema savršenom. A svaki je dio usmjeren prema cjelini kao nesavršeno prema savršenom. I zato je svaki dio po naravi radi cjeline. I zbog toga vidimo da se, ako je za zdravlje cijeloga ljudskog tijela korisno odsijecanje nekog uda, primjerice kad je gnjio i kvari ostale udove, on hvalevrijedno i spasonosno odsijeca. A svaka se pojedinačna osoba odnosi prema cijeloj zajednici kao dio prema cjelini. I zato, ako je neki čovjek opasan za zajednicu i kvari je zbog nekoga grijeha, hvalevrijedno se i spasonosno ubija da bi se sačuvalo opće dobro; jer malo kvasca kvari cijelo tijesto, kako se kaže u 1 Kor 5.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Gospodin zapovjedio da se suzdrže od iskorjenjivanja kukolja kako bi se poštedjela pšenica, to jest dobri. A to se događa kad se zli ne mogu ubiti a da se zajedno s njima ne ubiju i dobri: bilo zato što se skrivaju među dobrima, bilo zato što imaju mnogo sljedbenika, tako da se ne mogu usmrtiti bez opasnosti za dobre, kako kaže Augustin, Protiv Parmenijana. Stoga Gospodin uči da je bolje pustiti zle da žive i osvetu pričuvati do posljednjega suda nego da se zajedno s njima ubiju i dobri. A kad od ubijanja zlih dobrima ne prijeti opasnost, nego im ono prije donosi zaštitu i spas, tada se zli mogu dopušteno ubiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a2.ad2": {
+      "text": "Na drugo treba reći da Bog, prema redu svoje mudrosti, katkad grešnike odmah ubija, radi oslobođenja dobrih, a katkad im daje vremena za pokoru, već prema tome kako on zna da je korisno njegovim izabranicima. I to, koliko može, nasljeduje i ljudska pravednost: one, naime, koji su pogubni za druge ubija, a one koji griješe ne nanoseći drugima teške štete čuva za pokoru.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a2.ad3": {
+      "text": "Na treće treba reći da čovjek griješeći odstupa od reda razuma i zato otpada od ljudskoga dostojanstva, ukoliko je, naime, čovjek po naravi slobodan i postoji radi sebe samoga, te nekako zapada u ropstvo životinja, tako da se, naime, njime raspolaže prema onome što je korisno drugima; prema onome iz Psalma: *čovjek, premda je bio u časti, nije razumio; izjednačen je s nerazumnom stokom i postao joj je sličan*; i u Izr 11 kaže se: *tko je lud, služit će mudromu*. I zato, premda je ubiti čovjeka koji ostaje u svojem dostojanstvu samo po sebi zlo, ipak ubiti čovjeka grešnika može biti dobro, kao i ubiti životinju; jer zao je čovjek gori od životinje i više šteti, kako kaže Filozof u I. knjizi Politike i u VII. knjizi Etike.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je privatnoj osobi dopušteno ubiti čovjeka grešnika. U božanskom se zakonu, naime, ne zapovijeda ništa nedopušteno. Ali u Izl 32 Mojsije je zapovjedio: *neka svatko ubije svoga bližnjega, brata i prijatelja svoga*, zbog grijeha salivenoga teleta. Dakle, i privatnim je osobama dopušteno ubiti grešnika.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a3.obj2": {
+      "text": "Osim toga, čovjek se zbog grijeha izjednačuje sa životinjama, kako je rečeno. Ali ubiti divlju životinju, osobito štetnu, dopušteno je bilo kojoj privatnoj osobi. Dakle, s jednakim razlogom i ubiti čovjeka grešnika.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a3.obj3": {
+      "text": "Osim toga, hvalevrijedno je da čovjek, pa makar bio i privatna osoba, čini ono što je korisno općem dobru. Ali ubijanje zločinaca korisno je općem dobru, kako je rečeno. Dakle, hvalevrijedno je ako i privatne osobe ubijaju zločince.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a3.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u I. knjizi O Božjem gradu: *tko bez ikakve javne službe usmrti zločinca, sudit će mu se kao ubojici, i to tim strože što se nije bojao prisvojiti vlast koju mu Bog nije dao*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, ubiti zločinca dopušteno ukoliko je to usmjereno prema spasu cijele zajednice. I zato to pripada samo onomu komu je povjerena briga za očuvanje zajednice, kao što liječniku pripada odsjeći gnjio ud kad mu je povjerena briga za zdravlje cijeloga tijela. A briga za opće dobro povjerena je vladarima koji imaju javni autoritet. I zato je samo njima dopušteno ubijati zločince, a ne privatnim osobama.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da nešto čini onaj čijim se autoritetom to čini, kako je jasno iz Dionizija, u XIII. poglavlju O nebeskoj hijerarhiji. I zato, kako kaže Augustin u I. knjizi O Božjem gradu, *ne ubija sam onaj koji svoju službu duguje zapovjedniku, kao što mač služi onomu tko se njime služi*. Stoga se čini da oni koji su po Gospodinovoj zapovijedi ubili bližnje i prijatelje nisu to učinili sami, nego prije onaj čijim su autoritetom to učinili; kao što i vojnik ubija neprijatelja autoritetom vladara, a sudski službenik razbojnika autoritetom suca.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a3.ad2": {
+      "text": "Na drugo treba reći da je životinja po naravi različita od čovjeka. Stoga se za to ne traži nikakav sud treba li je ubiti, ako je divlja. Ako je pak domaća, tražit će se sud, ne radi nje same, nego radi štete za njezina vlasnika. Ali čovjek grešnik nije po naravi različit od pravednih ljudi. I zato je potreban javni sud da bi se razlučilo treba li ga ubiti radi općega spasa.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a3.ad3": {
+      "text": "Na treće treba reći da je učiniti na opću korist nešto što nikomu ne šteti dopušteno bilo kojoj privatnoj osobi. Ali ako je to sa štetom za drugoga, ne smije se činiti osim po sudu onoga komu pripada procijeniti što treba oduzeti dijelovima radi zdravlja cjeline.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je klericima dopušteno ubijati zločince. Klerici, naime, ponajprije moraju ispuniti ono što kaže Apostol u 1 Kor 4: *budite moji nasljedovatelji, kao što sam i ja Kristov*, čime nam se nalaže da nasljedujemo Boga i njegove svete. Ali sam Bog, komu iskazujemo štovanje, ubija zločince, prema onome iz Psalma: *koji je udario Egipat s njihovim prvorođencima*. I Mojsije je po levitima dao ubiti dvadeset i tri tisuće ljudi zbog klanjanja teletu, kako stoji u Izl 32. I svećenik Pinhas ubio je Izraelca koji je općio s Midjankom, kako stoji u Br 25. I Samuel je ubio Agaga, amalečkoga kralja; i Ilija Baalove svećenike; i Matatija onoga koji je pristupio da prinese žrtvu; a u Novom zavjetu Petar Ananiju i Safiru. Dakle, čini se da je i klericima dopušteno ubijati zločince.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a4.obj2": {
+      "text": "Osim toga, duhovna je vlast veća od vremenite i bliže je povezana s Bogom. Ali vremenita vlast dopušteno ubija zločince kao Božji službenik, kako se kaže u Rim 13. Dakle, mnogo više klerici, koji su Božji službenici s duhovnom vlašću, mogu dopušteno ubijati zločince.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a4.obj3": {
+      "text": "Osim toga, tko god dopušteno preuzme neku službu, može dopušteno vršiti ono što pripada toj službi. Ali služba je zemaljskoga vladara ubijati zločince, kako je rečeno. Dakle, klerici koji su zemaljski vladari mogu dopušteno ubijati zločince.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a4.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u 1 Tim 3: *biskup treba biti bez zločina, ne pijanica, ne nasilnik*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a4.resp": {
+      "text": "Odgovaram: treba reći da klericima nije dopušteno ubijati, i to iz dvaju razloga. Prvo, zato što su izabrani za službu oltara, na kojem se predstavlja muka ubijenoga Krista, *koji, kad su ga udarali, nije uzvraćao udarcem*, kako se kaže u 1 Pt 2. I zato ne priliči da klerici budu nasilnici ili ubojice; jer službenici moraju nasljedovati svoga gospodara, prema onome iz Sir 10: *kakav je sudac naroda, takvi su i njegovi službenici*. Drugi je razlog to što je klericima povjerena služba Novoga zakona, u kojem nije određena kazna smrti ni tjelesnoga sakaćenja. I zato se, da bi bili prikladni službenici Novoga zavjeta, moraju kloniti takvih stvari.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Bog općenito djeluje u svemu što je ispravno, ali u svakome prema onome što mu priliči. I zato svatko mora nasljedovati Boga u onome što posebno njemu priliči. Stoga, premda Bog i tjelesno ubija zločince, ipak ne treba da ga u tome svi nasljeduju. A Petar nije svojim autoritetom ili svojom rukom ubio Ananiju i Safiru, nego je prije proglasio božansku presudu o njihovoj smrti. A svećenici ili leviti Staroga zavjeta bili su službenici Staroga zakona, prema kojemu su se izricale tjelesne kazne, pa je zato i njima priličilo ubijati vlastitom rukom.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a4.ad2": {
+      "text": "Na drugo treba reći da je služba klerika usmjerena prema nečemu boljemu od tjelesnih ubijanja, naime prema onome što pripada duhovnom spasenju. I zato im ne priliči da se upleću u ono što je niže.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a4.ad3": {
+      "text": "Na treće treba reći da crkveni prelati primaju službe zemaljskih vladara ne zato da bi sami izvršavali krvni sud, nego da bi ga njihovim autoritetom izvršavali drugi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je nekomu dopušteno ubiti sebe samoga. Ubojstvo je, naime, grijeh ukoliko je protivno pravednosti. Ali nitko ne može sam sebi počiniti nepravednost, kako se dokazuje u V. knjizi Etike. Dakle, nitko ne griješi ubijajući sebe samoga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.obj2": {
+      "text": "Osim toga, onomu tko ima javnu vlast dopušteno je ubijati zločince. Ali katkad je onaj koji ima javnu vlast zločinac. Dakle, njemu je dopušteno ubiti sebe samoga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.obj3": {
+      "text": "Osim toga, dopušteno je da netko dragovoljno podnese manju opasnost da bi izbjegao veću, kao što je dopušteno da netko čak i sam sebi odsiječe gnjio ud da bi se spasilo cijelo tijelo. Ali katkad netko ubijanjem sebe samoga izbjegava veće zlo, bilo bijedan život bilo sramotu nekoga grijeha. Dakle, nekomu je dopušteno ubiti sebe samoga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.obj4": {
+      "text": "Osim toga, Samson je ubio sebe samoga, kako stoji u Suc 16, a ipak se ubraja među svete, kako je jasno iz Heb 11. Dakle, nekomu je dopušteno ubiti sebe samoga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.obj5": {
+      "text": "Osim toga, u 2 Mak 14 kaže se da je neki Razija ubio sebe samoga, izabravši radije plemenito umrijeti nego *postati podložan grešnicima i trpjeti uvrede nedostojne svoga roda*. Ali ništa što se čini plemenito i hrabro nije nedopušteno. Dakle, ubiti sebe samoga nije nedopušteno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u I. knjizi O Božjem gradu: *preostaje da ono što je rečeno, Ne ubij, razumijemo o čovjeku. Dakle, ni drugoga ni sebe. Jer onaj tko ubija sebe ne ubija ništa drugo nego čovjeka*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.resp": {
+      "text": "Odgovaram: treba reći da je ubiti sebe samoga posve nedopušteno iz trostrukoga razloga. Prvo, zato što svaka stvar po naravi ljubi samu sebe, a tomu pripada to što svaka stvar po naravi održava sebe u bitku i opire se onomu što je razara koliko god može. I zato je to što netko ubija sebe samoga protivno naravnoj sklonosti i protivno ljubavi kojom svatko mora ljubiti sebe samoga. I zato je samoubojstvo uvijek smrtni grijeh, budući da je protivno naravnomu zakonu i protivno ljubavi. Drugo, zato što svaki dio, ono što jest, pripada cjelini. A svaki je čovjek dio zajednice, i tako ono što jest pripada zajednici. Stoga time što ubija sebe samoga nanosi nepravdu zajednici, kako je jasno iz Filozofa u V. knjizi Etike. Treće, zato što je život neki dar koji je čovjeku dodijelio Bog i koji je podložan vlasti onoga koji usmrćuje i oživljuje. I zato onaj tko sebe lišava života griješi protiv Boga, kao što onaj tko ubije tuđega roba griješi protiv gospodara čiji je to rob; i kao što griješi onaj tko sebi prisvaja sud o stvari koja mu nije povjerena. Samo Bogu, naime, pripada sud o smrti i životu, prema onome iz Pnz 32: *ja ću usmrtiti i ja ću oživiti*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da ubojstvo nije grijeh samo zato što je protivno pravednosti, nego i zato što je protivno ljubavi koju netko mora imati prema samomu sebi. I s te je strane samoubojstvo grijeh u odnosu na samoga sebe. A u odnosu na zajednicu i na Boga ono ima pojam grijeha i po suprotstavljenosti pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.ad2": {
+      "text": "Na drugo treba reći da onaj koji ima javnu vlast može dopušteno ubiti zločinca time što može o njemu suditi. A nitko nije sudac sam sebi. Stoga onomu koji ima javnu vlast nije dopušteno ubiti sebe samoga ni zbog kakva grijeha. Dopušteno mu je, ipak, predati se sudu drugih.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.ad3": {
+      "text": "Na treće treba reći da je čovjek postavljen za gospodara samoga sebe po slobodnom odlučivanju. I zato čovjek može dopušteno raspolagati sobom u pogledu onoga što pripada ovomu životu, kojim se upravlja čovjekovim slobodnim odlučivanjem. Ali prijelaz iz ovoga života u drugi, sretniji, nije podložan čovjekovu slobodnom odlučivanju, nego božanskoj vlasti. I zato čovjeku nije dopušteno ubiti sebe samoga da bi prešao u sretniji život. Isto tako ni zato da bi izbjegao bilo kakve bijede sadašnjega života. Jer posljednje i najstrašnije od zala ovoga života jest smrt, kako je jasno iz Filozofa u III. knjizi Etike. I tako nanijeti sebi smrt da bi se izbjegle ostale bijede ovoga života znači uzeti na se veće zlo da bi se izbjeglo manje. Isto tako nije dopušteno ubiti sebe samoga zbog nekoga počinjenoga grijeha. S jedne strane, zato što time sebi najviše šteti, jer sebi oduzima vrijeme potrebno za pokoru. S druge strane, zato što ubiti zločinca nije dopušteno osim po sudu javne vlasti. Isto tako ni ženi nije dopušteno ubiti samu sebe da je drugi ne bi obeščastio. Jer ona ne smije na sebi počiniti najveći zločin, a to je samoubojstvo, da bi izbjegla manji, tuđi zločin (nije, naime, zločin žene koja je silom obeščašćena ako nema pristanka, jer se tijelo ne oskvrnjuje osim uz pristanak duha, kako je rekla Lucija). A jasno je da su blud ili preljub manji grijeh od ubojstva, a osobito od ubojstva samoga sebe, koje je najteže, jer se njime šteti samomu sebi, a sebi se duguje najveća ljubav. Ono je i najopasnije, jer ne preostaje vremena da se okaje pokorom. Isto tako nikomu nije dopušteno ubiti sebe samoga iz straha da ne pristane na grijeh. Jer *ne smije se činiti zlo da bi došlo dobro*, ili da bi se izbjeglo zlo, osobito manje i manje izvjesno. Neizvjesno je, naime, hoće li netko u budućnosti pristati na grijeh; jer Bog je moćan osloboditi čovjeka od grijeha, kakva god kušnja nadošla.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.ad4": {
+      "text": "Na četvrto treba reći da, kako kaže Augustin u I. knjizi O Božjem gradu, *ni Samson se ne opravdava drukčije za to što je sebe zajedno s neprijateljima zatrpao rušenjem kuće, nego time što mu je to potajno zapovjedio Duh koji je po njemu činio čudesa*. I isti razlog navodi za neke svete žene koje su u vrijeme progonstva ubile same sebe, a čiji se spomen slavi u Crkvi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a5.ad5": {
+      "text": "Na peto treba reći da jakosti pripada to da netko ne bježi od toga da od drugoga pretrpi smrt radi dobra kreposti i da bi izbjegao grijeh. A to što netko sam sebi nanosi smrt da bi izbjegao kaznena zla ima doduše neki privid jakosti, zbog čega su neki ubili sami sebe smatrajući da postupaju hrabro, a među njima je bio i Razija; ali to nije prava jakost, nego prije neka mekoća duha koji ne može podnijeti kaznena zla, kako je jasno iz Filozofa u III. knjizi Etike i iz Augustina u I. knjizi O Božjem gradu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je u nekom slučaju dopušteno usmrtiti nevinoga. Strah Božji, naime, ne očituje se grijehom; naprotiv, *strah Gospodnji tjera grijeh*, kako se kaže u Sir 1. Ali Abraham je pohvaljen što se bojao Gospodina, jer je htio usmrtiti nevinoga sina. Dakle, netko može usmrtiti nevinoga bez grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a6.obj2": {
+      "text": "Osim toga, u rodu grijeha koji se čine protiv bližnjega čini se da je nešto to veći grijeh što se veća šteta nanosi onomu protiv koga se griješi. Ali ubijanje više šteti grešniku nego nevinomu, koji po smrti prelazi iz bijede ovoga života u nebesku slavu. Budući da je, dakle, u nekom slučaju dopušteno ubiti grešnika, mnogo je više dopušteno ubiti nevinoga ili pravednoga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a6.obj3": {
+      "text": "Osim toga, ono što se čini prema redu pravednosti nije grijeh. Ali katkad je netko prisiljen prema redu pravednosti ubiti nevinoga: primjerice kad sudac, koji mora suditi prema iznesenim dokazima, osudi na smrt onoga za koga zna da je nevin, a kojemu su lažni svjedoci dokazali krivnju; i slično sudski službenik koji, slušajući suca, ubija nepravedno osuđenoga. Dakle, netko može bez grijeha ubiti nevinoga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a6.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Izl 23: *nevinoga i pravednoga ne ubij*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a6.resp": {
+      "text": "Odgovaram: treba reći da se neki čovjek može razmatrati na dva načina: na jedan način, sam po sebi; na drugi način, u odnosu na nešto drugo. Razmatrajući čovjeka samoga po sebi, nije dopušteno ubiti nijednoga, jer u svakome, pa i u grešniku, moramo ljubiti narav koju je Bog stvorio, a koja se ubijanjem razara. Ali, kako je gore rečeno, ubijanje grešnika postaje dopušteno u odnosu na opće dobro, koje se grijehom razara. A život pravednih čuva i promiče opće dobro, jer su oni glavniji dio mnoštva. I zato nipošto nije dopušteno ubiti nevinoga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da Bog ima gospodstvo nad smrću i životom, jer po njegovoj odredbi umiru i grešnici i pravedni. I zato onaj tko po Božjoj zapovijedi ubija nevinoga ne griješi, kao što ne griješi ni Bog, čiji je on izvršitelj; i pokazuje se da se boji Boga, pokoravajući se njegovim zapovijedima.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a6.ad2": {
+      "text": "Na drugo treba reći da pri odmjeravanju težine grijeha više treba uzeti u obzir ono što je po sebi nego ono što je akcidentalno. Stoga onaj koji ubija pravednoga teže griješi nego onaj koji ubija grešnika. Prvo, zato što šteti onomu koga mora više ljubiti, i tako više postupa protiv ljubavi. Drugo, zato što nanosi nepravdu onomu koji ju je manje zaslužio, i tako više postupa protiv pravednosti. Treće, zato što lišava zajednicu većega dobra. Četvrto, zato što više prezire Boga, prema onome iz Lk 10: *tko vas prezire, mene prezire*. A to što Bog ubijenoga pravednika dovodi u slavu odnosi se prema ubijanju akcidentalno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a6.ad3": {
+      "text": "Na treće treba reći da sudac, ako zna da je nevin netko kome lažni svjedoci dokazuju krivnju, mora brižljivije ispitati svjedoke da bi našao povod da oslobodi nedužnoga, kao što je učinio Daniel. Ako pak to ne može, mora ga uputiti višemu da mu on sudi. A ako ni to ne može, ne griješi kad izriče presudu prema iznesenim dokazima, jer ne ubija on nevinoga, nego oni koji tvrde da je kriv. A službenik suca koji osuđuje nevinoga, ako presuda sadrži nepodnošljivu zabludu, ne smije poslušati; inače bi bili ispričani krvnici koji su ubijali mučenike. Ako pak ne sadrži očitu nepravednost, ne griješi izvršavajući zapovijed, jer nije na njemu da raspravlja o presudi višega; niti on ubija nevinoga, nego sudac, kojemu on služi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da nikomu nije dopušteno ubiti nekoga braneći se. Augustin, naime, kaže u pismu Publikoli: *ne sviđa mi se savjet da se ubijaju ljudi kako netko od njih ne bi bio ubijen, osim možda ako je vojnik ili ga obvezuje javna služba, tako da to ne čini za sebe nego za druge, primivši zakonitu vlast, ako to pristaje njegovoj osobi*. Ali onaj tko braneći se ubije nekoga ubija ga zato da sam ne bi bio od njega ubijen. Dakle, čini se da je to nedopušteno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.obj2": {
+      "text": "Osim toga, u I. knjizi O slobodnoj volji kaže se: *kako su pred božanskom providnošću slobodni od grijeha oni koji su se zbog stvari koje treba prezirati okaljali ljudskim krvoprolićem?* A on kaže da treba prezirati one stvari koje ljudi mogu izgubiti protiv svoje volje, kako je jasno iz prethodnoga. A među njih spada tjelesni život. Dakle, nikomu nije dopušteno ubiti čovjeka da bi sačuvao tjelesni život.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.obj3": {
+      "text": "Osim toga, papa Nikola kaže, a nalazi se u Dekretima, dist. 50: *što se tiče klerika o kojima si tražio savjet, to jest onih koji su braneći se ubili pogana, mogu li se poslije, po pokori, vratiti u prijašnje stanje ili se uzdići na viši stupanj, znaj da im ne dajemo nikakva povoda ni ikakva dopuštenja da ubiju bilo kojega čovjeka na bilo koji način*. Ali moralne zapovijedi jednako su obvezni obdržavati i klerici i laici. Dakle, ni laicima nije dopušteno ubiti nekoga braneći se.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.obj4": {
+      "text": "Osim toga, ubojstvo je teži grijeh od jednostavnoga bluda ili preljuba. Ali nikomu nije dopušteno počiniti jednostavni blud ili preljub, ili bilo koji drugi smrtni grijeh, radi očuvanja vlastitoga života, jer duhovni život treba pretpostaviti tjelesnomu. Dakle, nikomu nije dopušteno, braneći sebe, ubiti drugoga da bi sačuvao vlastiti život.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.obj5": {
+      "text": "Osim toga, ako je stablo zlo, zao je i plod, kako se kaže u Mt 7. Ali čini se da je sama obrana sebe nedopuštena, prema onome iz Rim 12: *ne branite se, predragi*. Dakle, i ubijanje čovjeka koje odatle proizlazi nedopušteno je.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Izl 22: *ako se lopov zatekne kako provaljuje u kuću ili je potkopava, pa ranjen umre, onaj koji ga je udario neće biti kriv za krv*. Ali mnogo je više dopušteno braniti vlastiti život nego vlastitu kuću. Dakle, ni onaj tko ubije nekoga u obrani svojega života neće biti kriv za ubojstvo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.resp": {
+      "text": "Odgovaram: treba reći da ništa ne priječi da jedan čin ima dva učinka, od kojih je samo jedan u nakani, a drugi je izvan nakane. A moralni čini primaju vrstu prema onome na što se smjera, a ne od onoga što je izvan nakane, budući da je to akcidentalno, kako je jasno iz prije rečenoga. Iz čina, dakle, nekoga tko brani sebe mogu slijediti dva učinka: jedan je očuvanje vlastitoga života, a drugi ubijanje napadača. Takav, dakle, čin, s obzirom na to da se njime smjera na očuvanje vlastitoga života, nema pojam nedopuštenoga, jer je svakomu naravno da sebe održava u bitku koliko može. Ipak, neki čin koji proizlazi iz dobre nakane može postati nedopušten ako nije razmjeran svrsi. I zato, ako netko radi obrane vlastitoga života upotrijebi veće nasilje nego što treba, to će biti nedopušteno. Ako pak umjereno odbija nasilje, obrana će biti dopuštena; jer prema pravnim propisima *dopušteno je silu odbiti silom uz umjerenost neskrivljene obrane*. I nije nužno za spasenje da čovjek propusti čin umjerene obrane kako bi izbjegao ubijanje drugoga, jer je čovjek više obvezan skrbiti za svoj život nego za tuđi. Ali budući da nije dopušteno ubiti čovjeka osim javnim autoritetom radi općega dobra, kako je jasno iz prije rečenoga, nedopušteno je da čovjek smjera ubiti čovjeka da bi obranio sebe, osim onomu koji ima javni autoritet; on, smjerajući ubiti čovjeka radi svoje obrane, to upravlja prema javnom dobru, kako je jasno kod vojnika koji se bori protiv neprijatelja i kod sudskoga službenika koji se bori protiv razbojnika. Premda i oni griješe ako ih pokreće privatna žudnja.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustinov autoritet treba shvatiti za onaj slučaj kad netko smjera ubiti čovjeka da bi sebe oslobodio od smrti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.ad2": {
+      "text": "Za taj se slučaj shvaća i autoritet naveden iz knjige O slobodnoj volji. Stoga se izričito kaže: zbog stvari, čime se označuje nakana. I time je jasan odgovor na drugo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.ad3": {
+      "text": "Na treće treba reći da nepravilnost slijedi čin ubojstva čak i ako je bez grijeha, kako je jasno kod suca koji nekoga pravedno osudi na smrt. I zbog toga klerik, čak i ako braneći se ubije nekoga, navlači na sebe nepravilnost, premda ne smjera ubiti, nego obraniti sebe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.ad4": {
+      "text": "Na četvrto treba reći da čin bluda ili preljuba nije nužno usmjeren prema očuvanju vlastitoga života, kao što je to čin iz kojega katkad slijedi ubojstvo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a7.ad5": {
+      "text": "Na peto treba reći da se ondje zabranjuje obrana koja je popraćena zlobom osvete. Stoga Glosa kaže: *ne branite se, to jest, ne uzvraćajte udarcem protivnicima*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da onaj tko slučajno ubije čovjeka navlači na sebe krivnju ubojstva. Čita se, naime, u Post 4 da je Lameh, misleći da ubija životinju, ubio čovjeka, i to mu je uračunato kao ubojstvo. Dakle, krivnju ubojstva navlači na sebe onaj tko slučajno ubije čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a8.obj2": {
+      "text": "Osim toga, u Izl 21 kaže se: *ako tko udari trudnu ženu i izazove pobačaj, a uslijedi njezina smrt, dat će život za život*. Ali to se može dogoditi bez nakane ubijanja. Dakle, slučajno ubojstvo nosi krivnju ubojstva.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a8.obj3": {
+      "text": "Osim toga, u Dekretima, dist. 50, navode se mnogi kanoni u kojima se kažnjavaju slučajna ubojstva. Ali kazna se duguje samo krivnji. Dakle, onaj tko slučajno ubije čovjeka navlači na sebe krivnju ubojstva.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a8.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u pismu Publikoli: *daleko bilo da nam se uračuna ako se po onome što činimo radi dobra i dopušteno nekomu, mimo naše volje, dogodi kakvo zlo*. Ali događa se katkad da onima koji nešto čine radi dobra slučajno uslijedi ubojstvo. Dakle, onomu tko to čini ne uračunava se kao krivnja.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a8.resp": {
+      "text": "Odgovaram: treba reći da je, prema Filozofu u II. knjizi Fizike, slučaj uzrok koji djeluje mimo nakane. I zato ono što je slučajno, naprosto govoreći, nije ni nakanjeno ni voljno. A budući da je svaki grijeh voljan, prema Augustinu, slijedi da ono što je slučajno, kao takvo, nije grijeh. Ipak se događa da ono što nije u činu i po sebi htjeno ili nakanjeno bude akcidentalno htjeno i nakanjeno, u smislu u kojem se akcidentalnim uzrokom naziva ono što uklanja zapreku. Stoga, ako onaj tko ne uklanja ono iz čega slijedi ubojstvo to mora ukloniti, to će na neki način biti voljno ubojstvo. A to se događa na dva načina: na jedan način, kad netko, baveći se nedopuštenim stvarima koje je morao izbjegavati, upadne u ubojstvo; na drugi način, kad ne uloži dužnu brižnost. I zato, prema pravnim propisima, ako se netko bavi dopuštenom stvari ulažući dužnu pozornost, pa iz toga uslijedi ubojstvo, ne navlači na sebe krivnju ubojstva; ako se pak bavi nedopuštenom stvari, ili se čak bavi dopuštenom stvari ne ulažući dužnu pozornost, ne izbjegava krivnju ubojstva ako iz njegova djela uslijedi smrt čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da Lameh nije uložio dovoljnu pozornost da izbjegne ubojstvo, i zato nije izbjegao krivnju ubojstva.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a8.ad2": {
+      "text": "Na drugo treba reći da se onaj tko udari trudnu ženu bavi nedopuštenom stvari. I zato, ako uslijedi smrt bilo žene bilo ploda koji ima dušu, neće izbjeći zločin ubojstva, osobito budući da je posve izgledno da od takva udarca uslijedi smrt.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q64.a8.ad3": {
+      "text": "Na treće treba reći da se prema kanonima kazna izriče onima koji slučajno ubiju baveći se nedopuštenom stvari ili ne ulažući dužnu pozornost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    }
+  }
+}

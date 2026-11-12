@@ -1,0 +1,204 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 57,
+  "units": {
+    "II-II.q57.pr": {
+      "text": "Nakon razboritosti treba, slijedom toga, razmotriti pravednost. O njoj se nameće četverostruko razmatranje: prvo je o pravednosti; drugo o njezinim dijelovima; treće o daru koji se na to odnosi; četvrto o zapovijedima koje pripadaju pravednosti. O pravednosti pak treba razmotriti četiri stvari: prvo, o pravu; drugo, o samoj pravednosti; treće, o nepravednosti; četvrto, o sudu. O prvome se pitaju četiri stvari. Prvo, je li pravo predmet pravednosti. Drugo, dijeli li se pravo prikladno na naravno i pozitivno pravo. Treće, je li pravo naroda naravno pravo. Četvrto, treba li posebno razlikovati gospodarevo i očinsko pravo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da pravo nije predmet pravednosti. Pravnik Celzo, naime, kaže da je pravo umijeće dobroga i pravičnoga. Umijeće pak nije predmet pravednosti, nego je po sebi umska krepost. Dakle, pravo nije predmet pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a1.obj2": {
+      "text": "Osim toga, zakon je, kako kaže Izidor u knjizi Etimologija, vrsta prava. Zakon pak nije predmet pravednosti, nego prije razboritosti; zato i Filozof zakonodavni dio razboritosti postavlja kao dio razboritosti. Dakle, pravo nije predmet pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a1.obj3": {
+      "text": "Osim toga, pravednost ponajprije podvrgava čovjeka Bogu; Augustin, naime, kaže u knjizi O običajima Katoličke crkve da je *pravednost ljubav koja služi samo Bogu i zbog toga dobro zapovijeda ostalome što je čovjeku podložno*. Ali pravo se ne odnosi na božanske stvari, nego samo na ljudske; Izidor, naime, kaže u knjizi Etimologija da je *fas božanski zakon, a ius (pravo) ljudski zakon*. Dakle, pravo nije predmet pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a1.sc": {
+      "text": "Ali protiv toga, Izidor na istome mjestu kaže da se pravo naziva tako jer je pravedno. A pravedno je predmet pravednosti; Filozof, naime, kaže u V. knjizi Etike da *svi žele pravednošću nazvati onaj habitus po kojem ljudi čine ono što je pravedno*. Dakle, pravo je predmet pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a1.resp": {
+      "text": "Odgovaram: treba reći da je pravednosti, među ostalim krepostima, vlastito da usmjerava čovjeka u onome što je prema drugome. Ona, naime, uključuje neku jednakost, kao što pokazuje i samo njezino ime; jer se u običnom govoru za ono što se izjednačuje kaže da se „justira“. A jednakost je prema drugome. Ostale pak kreposti usavršuju čovjeka samo u onome što mu pristaje po njemu samome. Tako se, dakle, ono što je ispravno u djelima ostalih kreposti, prema čemu teži nakana kreposti kao prema vlastitom predmetu, uzima samo u odnosu na djelatnika. Ispravno pak koje je u djelu pravednosti uspostavlja se, i mimo odnosa prema djelatniku, odnosom prema drugome; u našem se djelu, naime, pravednim naziva ono što po nekoj jednakosti odgovara drugome, na primjer naknada dugovane plaće za izvršenu službu. Tako se, dakle, nešto naziva pravednim kao ono što ima ispravnost pravednosti i u čemu se dovršava radnja pravednosti, čak i kad se ne uzima u obzir kako je djelatnik vrši. U ostalim se pak krepostima nešto ispravno određuje samo prema tome kako to na neki način čini djelatnik. I zbog toga se pravednosti, posebno u odnosu na ostale kreposti, po sebi određuje predmet, koji se naziva pravedno. A to je pravo. Odatle je očito da je pravo predmet pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je uobičajeno da se imena od svojega prvotnog nadijevanja izvrću da bi označivala druge stvari; tako je ime „medicina“ najprije nadjenuto da označuje lijek koji se pruža bolesniku radi ozdravljenja, a zatim je preneseno da označuje umijeće kojim se to čini. Tako je i ovo ime „pravo“ najprije nadjenuto da označuje samu pravednu stvar; potom je izvedeno na umijeće kojim se spoznaje što je pravedno; i dalje, da označuje mjesto na kojem se pravo dosuđuje, kao kad se kaže da se netko pojavljuje pred pravom; i dalje, pravom se naziva i ono što dosuđuje onaj u čiju službu spada izvršavati pravdu, premda je i ono što on odluči nepravično.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a1.ad2": {
+      "text": "Na drugo treba reći da, kao što za ono što se umijećem čini izvana u duhu umjetnika prethodno postoji neki nacrt, koji se naziva pravilo umijeća, tako i za ono pravedno djelo koje razum određuje prethodno postoji u duhu neki nacrt, kao neko pravilo razboritosti. I to se, ako se zapiše, naziva zakon; zakon je, naime, prema Izidoru, pisana odredba. I zato zakon, u vlastitom smislu govoreći, nije samo pravo, nego neki nacrt prava.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a1.ad3": {
+      "text": "Na treće treba reći da, budući da pravednost uključuje jednakost, a Bogu ne možemo uzvratiti nečim istovrijednim, otuda je da Bogu ne možemo dati ono pravedno prema savršenom pojmu. I zbog toga se božanski zakon u vlastitom smislu ne naziva ius (pravo), nego fas, jer je, naime, Bogu dovoljno da ispunimo ono što možemo. Pravednost ipak teži za tim da čovjek, koliko može, uzvrati Bogu, podvrgavajući mu potpuno svoju dušu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se pravo ne dijeli prikladno na naravno pravo i pozitivno pravo. Ono, naime, što je naravno, nepromjenljivo je i isto kod svih. Ali u ljudskim se stvarima ne nalazi ništa takvo, jer sva pravila ljudskoga prava u nekim slučajevima zakazuju i nemaju svoju snagu posvuda. Dakle, nema nekoga naravnog prava.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a2.obj2": {
+      "text": "Osim toga, pozitivnim se naziva ono što proizlazi iz ljudske volje. Ali nešto nije pravedno zato što proizlazi iz ljudske volje; inače ljudska volja ne bi mogla biti nepravedna. Dakle, budući da je pravedno isto što i pravo, čini se da nema nikakvoga pozitivnog prava.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a2.obj3": {
+      "text": "Osim toga, božansko pravo nije naravno pravo, jer nadilazi ljudsku narav. Isto tako nije ni pozitivno pravo, jer se ne oslanja na ljudski autoritet, nego na božanski autoritet. Dakle, pravo se neprikladno dijeli na naravno i pozitivno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a2.sc": {
+      "text": "Ali protiv toga, Filozof kaže u V. knjizi Etike da *političko pravedno jednim je dijelom naravno, a drugim zakonsko*, to jest postavljeno zakonom.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je rečeno, pravo, ili pravedno, neko djelo izjednačeno s drugim prema nekom načinu jednakosti. A nešto može biti izjednačeno s nekim čovjekom na dva načina. Na jedan način, iz same naravi stvari, na primjer kad netko daje toliko da bi primio isto toliko. I to se naziva naravno pravo. Na drugi je način nešto izjednačeno ili odmjereno prema drugome po dogovoru, ili po zajedničkoj suglasnosti, naime kad se netko smatra zadovoljnim ako primi toliko. A to se opet može dogoditi na dva načina. Na jedan način, po nekom privatnom dogovoru, kao ono što se utvrđuje nekim ugovorom među privatnim osobama. Na drugi način, po javnom dogovoru, na primjer kad cijeli narod pristane da se nešto smatra izjednačenim i odmjerenim prema drugome; ili kad to odredi vladar, koji ima brigu za narod i predstavlja njegovu osobu. I to se naziva pozitivno pravo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono što je naravno onome što ima nepromjenljivu narav mora biti takvo uvijek i posvuda. Ali ljudska je narav promjenljiva. I zato ono što je čovjeku naravno može ponekad zakazati. Tako, na primjer, naravnu jednakost ima to da se polog vrati onome tko ga je položio; i kad bi bilo tako da je ljudska narav uvijek ispravna, to bi uvijek trebalo obdržavati. Ali budući da se katkad dogodi da se volja čovjeka izopači, postoji neki slučaj u kojem polog ne treba vratiti, da ga čovjek izopačene volje ne bi zlo upotrijebio, na primjer kad bi umobolnik ili neprijatelj države tražio natrag pohranjeno oružje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a2.ad2": {
+      "text": "Na drugo treba reći da ljudska volja po zajedničkom dogovoru može učiniti nešto pravednim u onome što samo po sebi nema nikakve oprečnosti s naravnom pravednošću. I u tome ima mjesta pozitivno pravo. Zato Filozof kaže u V. knjizi Etike da je zakonsko pravedno *ono za što u početku nije nimalo važno je li ovako ili drukčije, a kad se postavi, jest važno*. Ali ako se nešto samo po sebi protivi naravnom pravu, ne može ljudskom voljom postati pravedno, na primjer kad bi se odredilo da je dopušteno krasti ili činiti preljub. Zato se kaže u Iz 10: *Jao onima koji donose nepravične zakone*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a2.ad3": {
+      "text": "Na treće treba reći da se božanskim pravom naziva ono što Bog proglašava. I to se dijelom odnosi na ono što je naravno pravedno, ali čija je pravednost ljudima skrivena, a dijelom na ono što postaje pravedno božanskom ustanovom. Stoga se i božansko pravo može razlikovati po ovo dvoje, kao i ljudsko pravo. U božanskom zakonu, naime, neke su stvari zapovjeđene jer su dobre i zabranjene jer su zle, a neke su dobre jer su zapovjeđene i zle jer su zabranjene.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je pravo naroda isto što i naravno pravo. Svi se ljudi, naime, slažu samo u onome što im je naravno. Ali u pravu naroda slažu se svi ljudi; pravnik, naime, kaže da je pravo naroda ono kojim se služe ljudski narodi. Dakle, pravo naroda je naravno pravo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a3.obj2": {
+      "text": "Osim toga, ropstvo je među ljudima naravno; neki su, naime, po naravi robovi, kao što Filozof dokazuje u I. knjizi Politike. Ali ropstva pripadaju pravu naroda, kao što kaže Izidor. Dakle, pravo naroda je naravno pravo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a3.obj3": {
+      "text": "Osim toga, pravo se, kao što je rečeno, dijeli na naravno i pozitivno pravo. Ali pravo naroda nije pozitivno pravo; jer se svi narodi nikada nisu sastali da bi po zajedničkom dogovoru nešto odredili. Dakle, pravo naroda je naravno pravo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a3.sc": {
+      "text": "Ali protiv toga, Izidor kaže da je pravo ili naravno, ili građansko, ili pravo naroda. I tako se pravo naroda razlikuje od naravnoga prava.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je rečeno, naravno pravo ili pravedno ono što je po svojoj naravi izjednačeno ili odmjereno prema drugome. A to se može dogoditi na dva načina. Na jedan način, prema apsolutnom razmatranju same stvari, kao što muško po svojem pojmu ima odmjerenost prema ženskome da bi s njim rađalo, i roditelj prema djetetu da bi ga hranio. Na drugi je način nešto naravno odmjereno prema drugome ne prema apsolutnom pojmu same stvari, nego prema nečemu što iz nje proizlazi, na primjer vlasništvo nad posjedima. Ako se, naime, ova njiva razmatra apsolutno, nema ničega po čemu bi više pripadala ovome nego onome; ali ako se razmatra s obzirom na prikladnost obrađivanja i na mirnu uporabu njive, prema tome ima neku odmjerenost za to da pripada jednome, a ne drugome, kao što je jasno iz Filozofa u II. knjizi Politike. A apsolutno zahvatiti nešto ne pristaje samo čovjeku, nego i drugim životinjama. I zato je pravo koje se naziva naravnim na prvi način zajedničko nama i drugim životinjama. Od tako shvaćenoga naravnog prava odstupa pravo naroda, kao što kaže pravnik, *jer je ono zajedničko svim životinjama, a ovo samo ljudima među sobom*. Razmatrati pak nešto uspoređujući ga s onim što iz njega slijedi vlastito je razumu. I zato je to naravno čovjeku prema naravnom razumu, koji to nalaže. I zato pravnik Gaj kaže: *Ono što je naravni razum ustanovio među svim ljudima, to se čuva kod svih naroda i naziva se pravo naroda*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a3.ad1": {
+      "text": "I time je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a3.ad2": {
+      "text": "Na drugo treba reći da to da je ovaj čovjek rob prije nego neki drugi, apsolutno razmatrano, nema naravnog razloga, nego samo prema nekoj koristi koja odatle slijedi, ukoliko je ovome korisno da njime upravlja mudriji, a onome da mu ovaj pomaže, kao što se kaže u I. knjizi Politike. I zato je ropstvo koje pripada pravu naroda naravno na drugi način, ali ne na prvi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a3.ad3": {
+      "text": "Na treće treba reći da, budući da ono što pripada pravu naroda nalaže naravni razum, na primjer ono što ima blisku i očitu pravičnost, otuda je da mu nije potrebna nikakva posebna ustanova, nego ga ustanovljuje sam naravni razum, kao što je rečeno u navedenom autoritetu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ne treba posebno razlikovati očinsko i gospodarevo pravo. Pravednosti, naime, pripada dati svakome ono što je njegovo, kako kaže Ambrozije u I. knjizi O dužnostima. Ali pravo je predmet pravednosti, kao što je rečeno. Dakle, pravo se jednako odnosi na svakoga. I tako ne treba posebno razlikovati pravo oca i gospodara.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a4.obj2": {
+      "text": "Osim toga, nacrt pravednoga jest zakon, kao što je rečeno. Ali zakon gleda na opće dobro grada i kraljevstva, kao što je gore utvrđeno, a ne gleda na privatno dobro jedne osobe ili čak jedne obitelji. Dakle, ne treba postojati neko posebno gospodarevo ili očinsko pravo ili pravedno, budući da gospodar i otac pripadaju kući, kao što se kaže u I. knjizi Politike.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a4.obj3": {
+      "text": "Osim toga, među ljudima ima mnogo drugih razlika u stupnjevima, na primjer to da su neki vojnici, neki svećenici, neki vladari. Dakle, i za njih treba odrediti neko posebno pravedno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a4.sc": {
+      "text": "Ali protiv toga, Filozof u V. knjizi Etike od političkoga pravednoga posebno razlikuje gospodarevo i očinsko, i druga takva.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a4.resp": {
+      "text": "Odgovaram: treba reći da se pravo, ili pravedno, tako naziva po odmjerenosti prema drugome. A „drugo“ se može reći na dva načina. Na jedan način, ono što je naprosto drugo, kao ono što je posve odijeljeno, kao što se vidi kod dvojice ljudi od kojih jedan nije pod drugim, nego su obojica pod jednim vladarom grada. I među takvima, prema Filozofu u V. knjizi Etike, postoji naprosto pravedno. Na drugi se način nešto naziva drugim ne naprosto, nego kao da je nešto njegovo. I na taj je način u ljudskim stvarima sin nešto očevo, jer je na neki način njegov dio, kao što se kaže u VIII. knjizi Etike; a rob je nešto gospodarevo, jer je njegovo oruđe, kao što se kaže u I. knjizi Politike. I zato odnos oca prema sinu nije kao prema naprosto drugome, i zbog toga ondje nema naprosto pravednoga, nego nekoga pravednoga, naime očinskoga. I iz istoga razloga ni između gospodara i roba, nego među njima postoji gospodarevo pravedno. Žena pak, premda je nešto muževo, jer se on prema njoj odnosi kao prema vlastitom tijelu, kao što je jasno iz Apostola, Ef 5, ipak se više razlikuje od muža nego sin od oca ili rob od gospodara; ona se, naime, uzima u neki zajednički život braka. I zato, kako kaže Filozof, između muža i žene ima više od pojma pravednoga nego između oca i sina, ili gospodara i roba. Ali budući da muž i žena imaju neposredan odnos prema kućnoj zajednici, kao što je jasno iz I. knjige Politike, zato ni među njima nema naprosto političkoga pravednoga, nego prije kućansko pravedno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da pravednosti pripada dati svakome njegovo pravo, ali uz pretpostavku različitosti jednoga od drugoga; ako, naime, netko sam sebi daje ono što mu se duguje, to se u vlastitom smislu ne naziva pravednim. A budući da ono što je sinovo pripada ocu, i ono što je robovo pripada gospodaru, zato u vlastitom smislu nema pravednosti oca prema sinu ili gospodara prema robu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a4.ad2": {
+      "text": "Na drugo treba reći da je sin, ukoliko je sin, nešto očevo; i slično je rob, ukoliko je rob, nešto gospodarevo. Ali svaki od njih, ukoliko se razmatra kao neki čovjek, jest nešto što samostoji po sebi, odijeljeno od drugih. I zato, ukoliko je svaki od njih čovjek, prema njima na neki način postoji pravednost. I zbog toga se daju i neki zakoni o onome što je između oca i sina, ili gospodara i roba. Ali ukoliko je svaki od njih nešto drugoga, u tom pogledu ondje nedostaje savršeni pojam pravednoga ili prava.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    },
+    "II-II.q57.a4.ad3": {
+      "text": "Na treće treba reći da sve ostale različitosti osoba koje postoje u gradu imaju neposredan odnos prema zajednici grada i prema njezinu vladaru. I zato prema njima postoji pravedno prema savršenom pojmu pravednosti. To se pravedno ipak razlikuje prema različitim službama. Zato se i govori o vojničkom pravu ili o pravu magistrata ili svećenika, ne zbog odstupanja od naprosto pravednoga, kao što se govori o očinskom i gospodarevu pravu, nego zbog toga što se svakom položaju osobe, prema njegovoj vlastitoj službi, duguje nešto vlastito.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:50+00:00"
+    }
+  }
+}

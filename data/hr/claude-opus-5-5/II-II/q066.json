@@ -1,0 +1,444 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 66,
+  "units": {
+    "II-II.q66.pr": {
+      "text": "Zatim treba razmotriti grijehe suprotstavljene pravednosti kojima se bližnjemu nanosi šteta u stvarima, naime krađu i otimačinu. I u vezi s tim pita se devet stvari. Prvo, je li čovjeku naravan posjed vanjskih stvari. Drugo, je li dopušteno da netko posjeduje neku stvar kao vlastitu. Treće, je li krađa potajno uzimanje tuđe stvari. Četvrto, je li otimačina grijeh različit po vrsti od krađe. Peto, je li svaka krađa grijeh. Šesto, je li krađa smrtni grijeh. Sedmo, je li dopušteno krasti u nuždi. Osmo, je li svaka otimačina smrtni grijeh. Deveto, je li otimačina teži grijeh od krađe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da posjedovanje vanjskih stvari nije čovjeku naravno. Nitko, naime, ne smije sebi pripisivati ono što je Božje. A gospodstvo nad svim stvorovima u vlastitom smislu pripada Bogu, prema onome iz Psalma: *Gospodnja je zemlja* i tako dalje. Dakle, posjedovanje stvari nije čovjeku naravno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a1.obj2": {
+      "text": "Osim toga, Bazilije, tumačeći riječ bogataša koji govori, Lk 12: *Sabrat ću sve što mi je uroslo i svoja dobra*, kaže: *Reci mi, što je tvoje? Odakle si to uzeo i donio u život?* A za ono što čovjek posjeduje naravno netko može prikladno reći da je njegovo. Dakle, čovjek ne posjeduje naravno vanjska dobra.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a1.obj3": {
+      "text": "Osim toga, kako kaže Ambrozije u knjizi O Trojstvu, gospodar je ime vlasti. A čovjek nema vlasti nad vanjskim stvarima, jer ne može ništa izmijeniti u njihovoj naravi. Dakle, posjedovanje vanjskih stvari nije čovjeku naravno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu: Sve si podložio pod noge njegove, to jest čovjekove.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a1.resp": {
+      "text": "Odgovaram: treba reći da se vanjska stvar može promatrati na dva načina. Na jedan način s obzirom na njezinu narav, koja nije podložna ljudskoj vlasti, nego samo božanskoj, kojoj se sve pokorava na mig. Na drugi način s obzirom na uporabu same stvari. I tako čovjek ima naravno gospodstvo nad vanjskim stvarima, jer se razumom i voljom može služiti vanjskim stvarima na svoju korist, kao da su radi njega načinjene; uvijek je, naime, nesavršenije radi savršenijega, kako je gore utvrđeno. I iz toga razloga Filozof u I. knjizi Politike dokazuje da je posjedovanje vanjskih stvari čovjeku naravno. A to naravno gospodstvo nad ostalim stvorovima, koje čovjeku pripada po razumu, u kojem se sastoji Božja slika, očituje se u samom stvaranju čovjeka, Post 1, gdje se kaže: *Načinimo čovjeka na sličnost i sliku našu, i neka vlada ribama morskim,* i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da Bog ima glavno gospodstvo nad svim stvarima. I on je po svojoj providnosti odredio neke stvari za tjelesno uzdržavanje čovjeka. I zbog toga čovjek ima naravno gospodstvo nad stvarima s obzirom na vlast da se njima služi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a1.ad2": {
+      "text": "Na drugo treba reći da se onaj bogataš kori zato što je smatrao da su vanjska dobra prvotno njegova, kao da ih nije primio od drugoga, to jest od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a1.ad3": {
+      "text": "Na treće treba reći da se onaj razlog odnosi na gospodstvo nad vanjskim stvarima s obzirom na same njihove naravi, a takvo gospodstvo pripada samo Bogu, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nikomu nije dopušteno posjedovati neku stvar kao vlastitu. Sve što je protiv naravnog prava, naime, nedopušteno je. A po naravnom pravu sve je zajedničko, a tom se zajedništvu protivi vlasništvo nad posjedima. Dakle, nijednom čovjeku nije dopušteno prisvajati sebi neku vanjsku stvar.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a2.obj2": {
+      "text": "Osim toga, Bazilije, tumačeći spomenutu riječ bogataša, kaže: *Kao kad bi netko, stigavši prvi na priredbu, priječio one koji pridolaze, prisvajajući sebi ono što je određeno za zajedničku uporabu; takvi su bogataši koji ono zajedničko, što su prvi zaposjeli, smatraju svojim*. A bilo bi nedopušteno drugima zatvarati put da dođu do zajedničkih dobara. Dakle, nedopušteno je prisvajati sebi neku zajedničku stvar.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a2.obj3": {
+      "text": "Osim toga, Ambrozije kaže, a nalazi se u Dekretima, dist. 47, kan. Sicut hi: neka nitko ne naziva vlastitim ono što je zajedničko. A zajedničkima naziva vanjske stvari, kako je jasno iz onoga što prethodno kaže. Dakle, čini se da je nedopušteno da netko prisvaja sebi neku vanjsku stvar.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a2.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u knjizi O herezama: *Apostolicima se nazivaju oni koji su sebe najoholije prozvali tim imenom, zato što u svoje zajedništvo nisu primali one koji žive u braku i posjeduju vlastite stvari, a takvih Katolička Crkva ima i među redovnicima i među vrlo mnogim klericima*. Ali ti su heretici upravo zato što, odvajajući se od Crkve, misle da nikakve nade nemaju oni koji se služe tim stvarima kojih su oni sami lišeni. Dakle, pogrešno je reći da čovjeku nije dopušteno posjedovati ono što je vlastito.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a2.resp": {
+      "text": "Odgovaram: treba reći da s obzirom na vanjsku stvar čovjeku pripadaju dvije stvari. Jedna je od njih vlast da se za nju skrbi i da se njome raspolaže. I s obzirom na to dopušteno je da čovjek posjeduje vlastito. A to je i nužno za ljudski život, iz triju razloga. Prvo, zato što je svatko brižniji kad treba skrbiti za nešto što pripada samo njemu nego za nešto što je zajedničko svima ili mnogima, jer svatko, bježeći od napora, prepušta drugome ono što se odnosi na zajedničko, kako se događa kad ima mnoštvo služinčadi. Drugo, zato što se ljudskim poslovima upravlja urednije ako svakom pojedincu pripada vlastita briga da skrbi za neku stvar, a bila bi zbrka kad bi se svatko bez razlike skrbio za bilo što. Treće, zato što se time bolje čuva mirno stanje među ljudima, dok je svatko zadovoljan svojom stvari. Zato vidimo da među onima koji nešto posjeduju zajednički i nepodijeljeno češće nastaju svađe. A druga stvar koja čovjeku pripada s obzirom na vanjske stvari jest njihova uporaba. I s obzirom na to čovjek ne smije imati vanjske stvari kao vlastite, nego kao zajedničke, tako naime da ih lako dijeli s drugima u njihovim potrebama. Zato Apostol kaže, 1 Tim, posljednje poglavlje: *Bogatašima ovoga svijeta zapovijedaj da rado daju, da dijele*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se zajedništvo stvari pripisuje naravnom pravu ne zato što bi naravno pravo nalagalo da se sve posjeduje zajednički i da se ništa ne posjeduje kao vlastito, nego zato što razdioba posjeda nije po naravnom pravu, nego prije po ljudskom dogovoru, koji pripada pozitivnom pravu, kako je gore rečeno. Zato vlasništvo nad posjedima nije protiv naravnog prava, nego se naravnom pravu nadodaje izumom ljudskog razuma.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a2.ad2": {
+      "text": "Na drugo treba reći da onaj tko bi, stigavši prvi na priredbu, drugima pripremio put, ne bi postupao nedopušteno, nego postupa nedopušteno time što druge priječi. I slično, bogataš ne postupa nedopušteno ako, zaposjevši prvi posjed stvari koja je u početku bila zajednička, dijeli s drugima; ali griješi ako druge bez razbora priječi u uporabi te stvari. Zato Bazilije na istom mjestu kaže: *Zašto ti obiluješ, a onaj prosi, ako ne zato da ti postigneš zasluge dobrog raspolaganja, a onaj bude okrunjen nagradama strpljivosti?*",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a2.ad3": {
+      "text": "Na treće treba reći da kad Ambrozije kaže: *Neka nitko ne naziva vlastitim ono što je zajedničko*, govori o vlasništvu s obzirom na uporabu. Zato dodaje: *Ono što je više nego što bi bilo dovoljno za trošak, nasilno je stečeno*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da potajno uzimanje tuđe stvari ne pripada pojmu krađe. Ono, naime, što umanjuje grijeh ne čini se da pripada pojmu grijeha. A griješiti potajno pridonosi umanjenju grijeha, kao što se, naprotiv, da bi se uveličao grijeh nekih, kaže u Iz 3: *Grijeh su svoj kao Sodoma razglasili i nisu ga skrivali*. Dakle, potajno uzimanje tuđe stvari ne pripada pojmu krađe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a3.obj2": {
+      "text": "Osim toga, Ambrozije kaže, a nalazi se u Dekretima, dist. 47: *Nije manji zločin oduzeti onome koji ima nego, kad možeš i obiluješ, uskratiti potrebnima*. Dakle, kao što se krađa sastoji u uzimanju tuđe stvari, tako se sastoji i u njezinu zadržavanju.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a3.obj3": {
+      "text": "Osim toga, čovjek može kradom uzeti od drugoga i ono što je njegovo, primjerice stvar koju je pohranio kod drugoga ili koju mu je on nepravedno oduzeo. Dakle, ne pripada pojmu krađe da bude potajno uzimanje tuđe stvari.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a3.sc": {
+      "text": "Ali protiv toga je ono što Izidor kaže u knjizi Etimologija: *Lopov (fur) je nazvan od furvus, to jest od tamnoga, jer se služi vremenom noći*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a3.resp": {
+      "text": "Odgovaram: treba reći da se u pojmu krađe stječu tri stvari. Prva od njih pripada joj ukoliko se protivi pravednosti, koja svakome daje ono što je njegovo. I po tome joj pripada da prisvaja tuđe. Druga pak pripada pojmu krađe ukoliko se ona razlikuje od grijeha koji su protiv osobe, kao što su ubojstvo i preljub. I po tome krađi pripada da se odnosi na posjedovanu stvar. Ako, naime, netko uzme ono što je drugoga ne kao posjed, nego kao dio, kao kad bi mu odsjekao ud, ili kao osobu povezanu s njim, kao kad bi mu odveo kćer ili ženu, to u vlastitom smislu nema pojam krađe. Treća je razlika ona koja dovršava pojam krađe, naime da se tuđe prisvaja potajno. I po tome je vlastiti pojam krađe da bude potajno uzimanje tuđe stvari.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je skrivanje ponekad uzrok grijeha, primjerice kad se netko služi skrivanjem da bi griješio, kao što se događa kod prijevare i podvale. I na taj način ono ne umanjuje grijeh, nego tvori njegovu vrstu. I tako je kod krađe. Na drugi je način skrivanje puka okolnost grijeha. I tako umanjuje grijeh, kako zato što je znak stida, tako i zato što uklanja sablazan.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a3.ad2": {
+      "text": "Na drugo treba reći da zadržavanje onoga što se duguje drugome ima isti pojam štete kao i uzimanje. I zato se pod nepravednim uzimanjem razumijeva i nepravedno zadržavanje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a3.ad3": {
+      "text": "Na treće treba reći da ništa ne priječi da ono što je naprosto jednoga bude u nekom pogledu drugoga. Tako pohranjena stvar naprosto pripada onome koji ju je pohranio, ali pripada onome kod koga je pohranjena s obzirom na čuvanje. A ono što je otimačinom oduzeto pripada otimaču, ne naprosto, nego s obzirom na zadržavanje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da krađa i otimačina nisu grijesi različiti po vrsti. Krađa i otimačina, naime, razlikuju se po skrivenom i očitom: krađa uključuje potajno uzimanje, a otimačina nasilno i očito. Ali u drugim rodovima grijeha skriveno i očito ne razlikuju vrstu. Dakle, krađa i otimačina nisu grijesi različiti po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a4.obj2": {
+      "text": "Osim toga, moralni čini primaju vrstu od svrhe, kako je gore rečeno. A krađa i otimačina usmjerene su prema istoj svrsi, naime prema tome da se ima tuđe. Dakle, ne razlikuju se po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a4.obj3": {
+      "text": "Osim toga, kao što se nešto otima da bi se posjedovalo, tako se otima žena radi naslade; zato i Izidor kaže u knjizi Etimologija da se *otmičar naziva skvrniteljem, a oteta oskvrnjenom*. A otmicom se naziva bilo da se žena odvodi javno bilo potajno. Dakle, i za posjedovanu stvar kaže se da je oteta bilo da je oteta potajno bilo javno. Dakle, krađa i otimačina ne razlikuju se.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a4.sc": {
+      "text": "Ali protiv toga je to što Filozof u V. knjizi Etike razlikuje krađu od otimačine, određujući da je krađa potajna, a otimačina nasilna.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a4.resp": {
+      "text": "Odgovaram: treba reći da su krađa i otimačina poroci suprotstavljeni pravednosti, ukoliko netko drugome čini nepravedno. A nitko ne trpi nepravedno svojom voljom, kako se dokazuje u V. knjizi Etike. I zato krađa i otimačina imaju pojam grijeha po tome što je uzimanje protuvoljno s obzirom na onoga kome se nešto oduzima. A protuvoljno se kaže na dva načina, naime po neznanju i po nasilju, kako stoji u III. knjizi Etike. I zato jedan pojam grijeha ima otimačina, a drugi krađa. I zbog toga se razlikuju po vrsti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u drugim rodovima grijeha pojam grijeha ne uzima po nečem protuvoljnom, kao što se uzima kod grijeha suprotstavljenih pravednosti. I zato gdje se javlja različit pojam protuvoljnoga, ondje je i različita vrsta grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a4.ad2": {
+      "text": "Na drugo treba reći da otimačina i krađa imaju istu daljnju svrhu, ali to nije dovoljno za istovjetnost vrste, jer postoji različitost u bližim svrhama. Otimač, naime, hoće steći vlastitom moći, a lopov lukavošću.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a4.ad3": {
+      "text": "Na treće treba reći da otmica žene ne može biti skrivena s obzirom na ženu koja se otima. I zato, čak i ako je skrivena s obzirom na druge, kojima se otima, ipak ostaje pojam otimačine s obzirom na ženu, kojoj se nanosi nasilje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da krađa nije uvijek grijeh. Nijedan grijeh, naime, ne potpada pod božansku zapovijed, jer se kaže u Sir 15: *Nikome nije zapovjedio da bezbožno postupa*. Ali nalazi se da je Bog zapovjedio krađu, jer se kaže u Izl 12: *Sinovi Izraelovi učiniše kako je Gospodin zapovjedio Mojsiju, i opljačkaše Egipćane*. Dakle, krađa nije uvijek grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a5.obj2": {
+      "text": "Osim toga, čini se da onaj koji nađe stvar koja nije njegova, ako je uzme, počinja krađu, jer uzima tuđu stvar. Ali to se čini dopuštenim po naravnoj pravičnosti, kako kažu pravnici. Dakle, čini se da krađa nije uvijek grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a5.obj3": {
+      "text": "Osim toga, ne čini se da griješi onaj koji uzima svoju stvar, budući da ne postupa protiv pravednosti, čiju jednakost ne ukida. Ali krađa se počinja i ako netko potajno uzme svoju stvar koju drugi zadržava ili čuva. Dakle, čini se da krađa nije uvijek grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Izl 20: *Ne kradi*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a5.resp": {
+      "text": "Odgovaram: treba reći da će onaj tko razmotri pojam krađe u njoj naći dva razloga grijeha. Prvo, zbog protivnosti pravednosti, koja svakome daje ono što je njegovo. I tako se krađa suprotstavlja pravednosti, ukoliko je krađa uzimanje tuđe stvari. Drugo, zbog podvale ili prijevare koju lopov čini prisvajajući tuđu stvar potajno i kao iz zasjede. Zato je očito da je svaka krađa grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da uzeti tuđu stvar, bilo potajno bilo očito, po ovlasti suca koji to odredi, nije krađa, jer to time postaje dugovano onome tko uzima, što mu je sudskom presudom dosuđeno. Zato je još mnogo manje bila krađa to što su sinovi Izraelovi odnijeli plijen Egipćana po zapovijedi Gospodina koji je to odredio zbog nevolja kojima su ih Egipćani bez razloga tlačili. I zato se znakovito kaže u Mudr 10: *Pravednici su odnijeli plijen bezbožnika*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a5.ad2": {
+      "text": "Na drugo treba reći da s obzirom na nađene stvari treba razlikovati. Neke su, naime, takve da nikad nisu bile ničija imovina, kao kamenčići i dragulji koji se nalaze na morskoj obali, i takve se prepuštaju onome koji ih zaposjedne. A isti je razlog i za blaga u davno vrijeme skrivena pod zemljom, koja nemaju nikakva posjednika, osim što je po građanskim zakonima nalaznik dužan dati polovicu gospodaru polja, ako ga je našao u tuđem polju; zbog toga se u evanđeoskoj prispodobi, Mt 13, kaže o onome koji je našao blago skriveno u polju da je kupio polje, kao da bi stekao pravo posjedovati cijelo blago. Neke su pak nađene stvari nedavno bile u nečijoj imovini. I tada, ako ih netko uzme ne s namjerom da ih zadrži, nego s namjerom da ih vrati vlasniku, koji ih ne smatra napuštenima, ne čini krađu. I slično, ako se smatraju napuštenima i nalaznik to vjeruje, iako ih zadrži za sebe, ne čini krađu. Inače se pak čini grijeh krađe. Zato Augustin kaže u jednoj homiliji, a nalazi se u XIV, pit. 5: *Ako si što našao i nisi vratio, oteo si*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a5.ad3": {
+      "text": "Na treće treba reći da onaj koji kradom uzme svoju stvar pohranjenu kod drugoga opterećuje čuvara, jer je ovaj dužan vratiti je ili pokazati da je nedužan. Zato je očito da griješi i da je dužan skinuti teret s čuvara. A onaj koji kradom uzme svoju stvar koju drugi nepravedno zadržava griješi doduše, ali ne zato što bi opterećivao onoga koji je zadržava, pa zato nije dužan ništa vratiti ni nadoknaditi, nego griješi protiv opće pravednosti, time što sam sebi prisvaja sud o svojoj stvari, mimoišavši pravni red. I zato je dužan dati Bogu zadovoljštinu i nastojati da se smiri sablazan bližnjih, ako je iz toga nastala.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da krađa nije smrtni grijeh. Kaže se, naime, u Izr 6: *Nije velika krivnja kad netko ukrade*. A svaki je smrtni grijeh velika krivnja. Dakle, krađa nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a6.obj2": {
+      "text": "Osim toga, za smrtni se grijeh duguje kazna smrti. Ali za krađu se u Zakonu ne izriče kazna smrti, nego samo imovinska kazna, prema onome iz Izl 22: *Ako tko ukrade vola ili ovcu, vratit će pet volova za jednoga vola i četiri ovce za jednu ovcu*. Dakle, krađa nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a6.obj3": {
+      "text": "Osim toga, krađa se može počiniti u malim stvarima, kao i u velikima. Ali čini se neprikladnim da netko za krađu neke male stvari, primjerice jedne igle ili jednog pera, bude kažnjen vječnom smrću. Dakle, krađa nije smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a6.sc": {
+      "text": "Ali protiv toga je to što nitko nije osuđen po božanskom sudu osim za smrtni grijeh. A netko biva osuđen za krađu, prema onome iz Zah 5: *Ovo je prokletstvo koje izlazi na lice sve zemlje, jer će svaki lopov, kako je ondje pisano, biti osuđen*. Dakle, krađa je smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a6.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore utvrđeno, smrtni grijeh onaj koji se protivi ljubavi, po kojoj je duhovni život duše. A ljubav se sastoji prvotno u tome da se ljubi Bog, a drugotno u tome da se ljubi bližnji, čemu pripada da bližnjemu želimo i činimo dobro. Krađom pak čovjek nanosi štetu bližnjemu u njegovim stvarima, a kad bi ljudi posvuda jedni drugima krali, propalo bi ljudsko društvo. Zato je krađa, kao nešto protivno ljubavi, smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za krađu kaže da nije velika krivnja iz dvaju razloga. Prvo, zbog potrebe koja navodi na krađu, a koja umanjuje ili potpuno uklanja krivnju, kako će se niže pokazati. Zato dodaje: *Krade, naime, da nasiti gladnu dušu*. Na drugi način kaže se da krađa nije velika krivnja u usporedbi s krivnjom preljuba, koji se kažnjava smrću. Zato se o lopovu dodaje da će *uhvaćen vratiti sedmerostruko, a tko je preljubnik, upropastit će dušu svoju*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a6.ad2": {
+      "text": "Na drugo treba reći da su kazne sadašnjeg života više ljekovite nego odmazdne; odmazda je, naime, pridržana božanskom sudu, koji je po istini protiv grešnika. I zato se po sudu sadašnjeg života kazna smrti ne izriče za bilo koji smrtni grijeh, nego samo za one koji nanose nepopravljivu štetu, ili također za one koji u sebi imaju neku užasnu nakaznost. I zato se za krađu, koja nanosi popravljivu štetu, po sadašnjem sudu ne izriče kazna smrti, osim ako je krađa otežana nekom teškom okolnošću, kao što je jasno kod svetogrđa, koje je krađa svete stvari, i kod pronevjere, koja je krađa zajedničke stvari, kako je jasno iz Augustina, O Ivanovu evanđelju; i kod otmice čovjeka, koja je krađa čovjeka, za koju se kažnjava smrću, kako je jasno iz Izl 21.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a6.ad3": {
+      "text": "Na treće treba reći da ono što je neznatno razum zahvaća kao da nije ništa. I zato u onome što je najmanje čovjek ne smatra da mu se nanosi šteta, a onaj koji uzima može pretpostaviti da to nije protiv volje onoga čija je stvar. I utoliko, ako netko kradom uzme takve najmanje stvari, može se ispričati od smrtnog grijeha. Ako ipak ima namjeru krasti i nanijeti štetu bližnjemu, i u takvim najmanjim stvarima može biti smrtni grijeh, kao i u samoj misli po pristanku.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da nikome nije dopušteno krasti zbog potrebe. Pokora se, naime, nameće samo onome koji griješi. Ali u Dekretalima, pod naslovom O krađama, kaže se: *Ako tko zbog potrebe od gladi ili golotinje ukrade hranu, odjeću ili stoku, neka čini pokoru tri tjedna*. Dakle, nije dopušteno krasti zbog potrebe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a7.obj2": {
+      "text": "Osim toga, Filozof kaže u II. knjizi Etike da su *neke stvari čim se imenuju spojene sa zloćom*, a među njih ubraja krađu. A ono što je samo po sebi zlo ne može zbog neke dobre svrhe postati dobro. Dakle, nitko ne može dopušteno krasti da bi pomogao svojoj potrebi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a7.obj3": {
+      "text": "Osim toga, čovjek treba ljubiti bližnjega kao samoga sebe. Ali nije dopušteno krasti zato da bi netko milostinjom pomogao bližnjemu, kako kaže Augustin u knjizi Protiv laži. Dakle, nije dopušteno ni krasti da bi se pomoglo vlastitoj potrebi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a7.sc": {
+      "text": "Ali protiv toga je to što je u potrebi sve zajedničko. I tako se ne čini da je grijeh ako netko uzme stvar drugoga, koju mu je potreba učinila zajedničkom.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a7.resp": {
+      "text": "Odgovaram: treba reći da ono što pripada ljudskom pravu ne može ići na uštrb naravnom pravu ili božanskom pravu. A po naravnom redu, ustanovljenom od božanske providnosti, niže su stvari usmjerene prema tome da se njima pomaže ljudskoj potrebi. I zato podjela i prisvajanje stvari, koje proizlazi iz ljudskog prava, ne priječi da se takvim stvarima treba pomoći čovjekovoj potrebi. I zato se stvari koje neki imaju u izobilju po naravnom pravu duguju za uzdržavanje siromaha. Zato Ambrozije kaže, a nalazi se u Dekretima, dist. 47: *Kruh gladnih je ono što ti zadržavaš; odjeća golih je ono što ti zaključavaš; otkup i oslobođenje bijednih je novac koji ti zakapaš u zemlju*. Ali budući da je mnogo onih koji trpe oskudicu, a istom se stvari ne može svima pomoći, raspolaganje vlastitim stvarima prepušta se odluci svakoga, da bi iz njih pomagao onima koji trpe oskudicu. Ako je ipak potreba toliko hitna i očita da je jasno da se neodgodivoj potrebi treba pomoći onim što je pri ruci, primjerice kad osobi prijeti opasnost i drukčije joj se ne može pomoći, tada netko može dopušteno pomoći svojoj potrebi tuđim stvarima, oduzetima bilo očito bilo potajno. I to u vlastitom smislu nema pojam krađe ni otimačine.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da ona dekretala govori o slučaju u kojem nema hitne potrebe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a7.ad2": {
+      "text": "Na drugo treba reći da služiti se tuđom stvari potajno uzetom u slučaju krajnje potrebe nema, u vlastitom smislu govoreći, pojam krađe. Jer po takvoj potrebi postaje nečijim ono što on uzima da bi uzdržao vlastiti život.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a7.ad3": {
+      "text": "Na treće treba reći da u slučaju slične potrebe netko može i potajno uzeti tuđu stvar da bi pomogao bližnjemu koji je tako u oskudici.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da otimačina može biti bez grijeha. Plijen se, naime, uzima nasiljem, a čini se da to pripada pojmu otimačine, prema rečenome. Ali dopušteno je uzimati plijen od neprijatelja; Ambrozije, naime, kaže u knjizi O patrijarsima: *Kad plijen bude u vlasti pobjednika, vojničkoj stezi priliči da se sve sačuva za kralja*, naime da ga razdijeli. Dakle, otimačina je u nekom slučaju dopuštena.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a8.obj2": {
+      "text": "Osim toga, dopušteno je oduzeti nekome ono što nije njegovo. Ali stvari koje imaju nevjernici nisu njihove; Augustin, naime, kaže u pismu donatistu Vincenciju: *Lažno nazivate svojim stvari koje ni pravedno ne posjedujete, a po zakonima zemaljskih kraljeva naređeno vam je da ih izgubite*. Dakle, čini se da bi netko mogao dopušteno otimati od nevjernika.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a8.obj3": {
+      "text": "Osim toga, zemaljski vladari mnogo toga nasilno iznuđuju od svojih podanika, a čini se da to pripada pojmu otimačine. A čini se teškim reći da time griješe, jer bi tako gotovo svi vladari bili osuđeni. Dakle, otimačina je u nekom slučaju dopuštena.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a8.sc": {
+      "text": "Ali protiv toga je to što se od svega što je dopušteno stečeno može Bogu prinijeti žrtva ili prinos. A od otimačine se ne može, prema onome iz Iz 61: *Ja sam Gospodin koji ljubim sud i mrzim otimačinu u paljenici*. Dakle, nije dopušteno nešto uzeti otimačinom.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a8.resp": {
+      "text": "Odgovaram: treba reći da otimačina uključuje neko nasilje i prisilu kojom se, protiv pravednosti, nekome oduzima ono što je njegovo. A u ljudskom društvu nitko nema prisile osim po javnoj vlasti. I zato svatko tko nasiljem nešto oduzme drugome, ako je privatna osoba koja se ne služi javnom vlašću, postupa nedopušteno i čini otimačinu, kao što je jasno kod razbojnika. Vladarima je pak javna vlast povjerena zato da budu čuvari pravednosti. I zato im nije dopušteno služiti se nasiljem i prisilom osim u skladu s pravednošću, i to bilo boreći se protiv neprijatelja, bilo kažnjavajući zločince među građanima. I ono što se takvim nasiljem oduzima nema pojam otimačine, budući da nije protiv pravednosti. Ako pak neki protiv pravednosti javnom vlašću nasilno oduzmu stvari drugih, postupaju nedopušteno i čine otimačinu, i dužni su na povrat.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da s obzirom na plijen treba razlikovati. Jer ako oni koji pljačkaju neprijatelje vode pravedan rat, ono što nasiljem steknu u ratu postaje njihovo. I to nema pojam otimačine, pa zato nisu ni dužni na povrat. Premda oni koji vode pravedan rat mogu pri uzimanju plijena griješiti pohlepom iz pokvarene nakane, naime ako se ne bore prvotno radi pravednosti, nego radi plijena; Augustin, naime, kaže u knjizi O Gospodnjim riječima da je *služiti vojsku radi plijena grijeh*. Ako pak oni koji uzimaju plijen vode nepravedan rat, čine otimačinu i dužni su na povrat.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a8.ad2": {
+      "text": "Na drugo treba reći da neki nevjernici nepravedno posjeduju svoje stvari utoliko ukoliko im je po zakonima zemaljskih vladara naređeno da ih izgube. I zato im se one mogu nasiljem oduzeti, ali ne privatnom ovlašću, nego javnom.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a8.ad3": {
+      "text": "Na treće treba reći da ako vladari od podanika zahtijevaju ono što im se po pravednosti duguje radi očuvanja općeg dobra, to nije otimačina, čak i ako se upotrijebi nasilje. Ako pak vladari nasiljem iznude nešto što im se ne duguje, to je otimačina, kao i razbojništvo. Zato Augustin kaže u IV. knjizi O Božjem gradu: *Kad se ukloni pravednost, što su kraljevstva nego velika razbojništva? Jer i razbojništva, što su nego mala kraljevstva?* I u Ez 22 kaže se: *Njezini su knezovi usred nje kao vukovi koji grabe plijen*. Zato su i dužni na povrat, kao i razbojnici. I toliko teže griješe od razbojnika koliko opasnije i općenitije postupaju protiv javne pravednosti, kojoj su postavljeni za čuvare.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da je krađa teži grijeh od otimačine. Krađa, naime, osim uzimanja tuđe stvari, ima pridruženu prijevaru i podvalu, čega nema u otimačini. A prijevara i podvala same po sebi imaju pojam grijeha, kako je gore utvrđeno. Dakle, čini se da je krađa teži grijeh od otimačine.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a9.obj2": {
+      "text": "Osim toga, stid je strah od sramotna čina, kako se kaže u IV. knjizi Etike. Ali ljudi se više stide krađe nego otimačine. Dakle, krađa je sramotnija od otimačine.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a9.obj3": {
+      "text": "Osim toga, što neki grijeh šteti većem broju ljudi, to se čini težim. Ali krađom se može nanijeti šteta i velikima i malima, a otimačinom samo nemoćnima, kojima se može nanijeti nasilje. Dakle, čini se da je grijeh krađe teži od grijeha otimačine.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a9.sc": {
+      "text": "Ali protiv toga je to što se po zakonima otimačina kažnjava teže nego krađa.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a9.resp": {
+      "text": "Odgovaram: treba reći da otimačina i krađa imaju pojam grijeha, kako je gore rečeno, zbog protuvoljnoga koje je na strani onoga kome se nešto oduzima; ali tako da je kod krađe protuvoljno po neznanju, a kod otimačine protuvoljno po nasilju. A nešto je više protuvoljno po nasilju nego po neznanju, jer se nasilje izravnije protivi volji nego neznanje. I zato je otimačina teži grijeh od krađe. Postoji i drugi razlog. Jer otimačinom se nekome ne nanosi samo šteta u stvarima, nego se to okreće i u neku sramotu ili nepravdu prema osobi. A to preteže nad prijevarom ili podvalom, koje pripadaju krađi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a9.ad1": {
+      "text": "Iz toga je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a9.ad2": {
+      "text": "Na drugo treba reći da se ljudi koji prianjaju uz osjetne stvari više diče vanjskom snagom, koja se očituje u otimačini, nego unutarnjom krepošću, koja se gubi grijehom. I zato se manje stide otimačine nego krađe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    },
+    "II-II.q66.a9.ad3": {
+      "text": "Na treće treba reći da, iako se krađom može naštetiti većem broju ljudi nego otimačinom, ipak se otimačinom mogu nanijeti teže štete nego krađom. Zato je i po tome otimačina odvratnija.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:52+00:00"
+    }
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 60,
+  "units": {
+    "II-II.q60.pr": {
+      "text": "Zatim treba razmotriti sud. I o tome se postavlja šest pitanja. Prvo, je li sud čin pravednosti. Drugo, je li dopušteno suditi. Treće, treba li suditi na temelju sumnji. Četvrto, treba li ono što je dvojbeno tumačiti u boljem smislu. Peto, treba li sud uvijek izricati prema pisanim zakonima. Šesto, izopačuje li se sud prisvajanjem.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da sud nije čin pravednosti. Filozof, naime, u I. knjizi Etike kaže da *svatko dobro sudi o onome što spoznaje*, i tako se čini da sud pripada spoznajnoj sili. A spoznajna se sila usavršuje razboritošću. Dakle, sud više pripada razboritosti nego pravednosti, koja je u volji, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a1.obj2": {
+      "text": "Osim toga, Apostol kaže u 1 Kor 2: *duhovni sudi o svemu*. Ali čovjek ponajviše postaje duhovan po kreposti ljubavi, koja se *razlijeva u srcima našim po Duhu Svetome koji nam je dan*, kako se kaže u Rim 5. Dakle, sud više pripada ljubavi nego pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a1.obj3": {
+      "text": "Osim toga, svakoj kreposti pripada ispravan sud o vlastitoj građi, jer je krepostan čovjek u pojedinostima pravilo i mjera, prema Filozofu u knjizi Etike. Dakle, sud ne pripada više pravednosti nego drugim moralnim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a1.obj4": {
+      "text": "Osim toga, čini se da sud pripada samo sucima. A čin pravednosti nalazi se u svim pravednima. Budući, dakle, da nisu samo suci pravedni, čini se da sud nije vlastiti čin pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Psalmu: *dok se pravednost ne obrati u sud*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a1.resp": {
+      "text": "Odgovaram: treba reći da sud u vlastitom smislu imenuje čin suca ukoliko je sudac. A sudac (iudex) se naziva tako kao onaj koji govori pravo (ius dicens). A pravo je predmet pravednosti, kao što je gore utvrđeno. I zato sud, prema prvom nadijevanju imena, uključuje definiranje ili određivanje pravednoga ili prava. A to da netko dobro definira nešto u krepostnim djelima u vlastitom smislu proizlazi iz habitusa kreposti, kao što čist čovjek ispravno određuje ono što pripada čistoći. I zato sud, koji uključuje ispravno određivanje onoga što je pravedno, u vlastitom smislu pripada pravednosti. Zbog toga Filozof u V. knjizi Etike kaže da *ljudi utječu sucu kao nekoj živoj pravednosti*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ime suda, koje po prvom nadijevanju označuje ispravno određivanje pravednih stvari, prošireno tako da označuje ispravno određivanje u bilo kojim stvarima, kako u spekulativnima tako i u praktičnima. Ali u svima se za ispravan sud traže dvije stvari. Jedna je od njih sama snaga koja izriče sud. I tako je sud čin razuma, jer razumu pripada reći ili definirati nešto. Druga je pak raspoloživost onoga koji sudi, po kojoj on ima prikladnost za ispravno suđenje. I tako u onome što pripada pravednosti sud proizlazi iz pravednosti, kao i u onome što pripada jakosti iz jakosti. Tako je, dakle, sud neki čin pravednosti kao one koja naginje ispravnom suđenju, a razboritosti kao one koja izriče sud. Stoga se i za sinezu, koja pripada razboritosti, kaže da dobro prosuđuje, kao što je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a1.ad2": {
+      "text": "Na drugo treba reći da duhovni čovjek iz habitusa ljubavi ima sklonost ispravno suditi o svemu prema božanskim pravilima, iz kojih izriče sud po daru mudrosti, kao što pravedan čovjek po kreposti razboritosti izriče sud iz pravila prava.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a1.ad3": {
+      "text": "Na treće treba reći da druge kreposti usmjeruju čovjeka u njemu samome, a pravednost usmjeruje čovjeka prema drugome, kao što je jasno iz rečenoga. A čovjek je gospodar onoga što pripada njemu, ali nije gospodar onoga što pripada drugome. I zato se u onome što je po drugim krepostima traži samo sud krepostnoga, ali uz prošireno ime suda, kao što je rečeno. A u onome što pripada pravednosti traži se nadalje sud nekoga višega, *koji bi mogao obojicu ukoriti i položiti ruku svoju na obojicu*. I zbog toga sud posebnije pripada pravednosti nego bilo kojoj drugoj kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a1.ad4": {
+      "text": "Na četvrto treba reći da je pravednost u vladaru kao arhitektonska krepost, koja kao da zapovijeda i propisuje ono što je pravedno, a u podanicima je kao izvršna i poslužna krepost. I zato sud, koji uključuje definiranje pravednoga, pripada pravednosti ukoliko je ona na glavniji način u onome koji predsjeda.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nije dopušteno suditi. Kazna se, naime, nanosi samo za ono što je nedopušteno. Ali onima koji sude prijeti kazna koju izbjegavaju oni koji ne sude, prema onome iz Mt 7: *Ne sudite, da ne budete suđeni*. Dakle, suditi je nedopušteno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a2.obj2": {
+      "text": "Osim toga, u Rim 14 kaže se: *Tko si ti da sudiš tuđega slugu? Svojemu gospodaru stoji ili pada*. A gospodar svih jest Bog. Dakle, nijednom čovjeku nije dopušteno suditi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a2.obj3": {
+      "text": "Osim toga, nijedan čovjek nije bez grijeha, prema onome iz 1 Iv 1: *Ako kažemo da nemamo grijeha, sami sebe zavodimo*. Ali onome tko griješi nije dopušteno suditi, prema onome iz Rim 2: *Neispričiv si, o čovječe, svaki koji sudiš; jer u čemu drugoga sudiš, sebe osuđuješ; ta isto činiš što sudiš*. Dakle, nikome nije dopušteno suditi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Pnz 16: *Postavit ćeš suce i učitelje na svim vratima svojim, da sude narodu pravednim sudom*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a2.resp": {
+      "text": "Odgovaram: treba reći da je sud utoliko dopušten ukoliko je čin pravednosti. A kao što je jasno iz rečenoga, da bi sud bio čin pravednosti, traže se tri stvari: prvo, da proizlazi iz sklonosti pravednosti; drugo, da proizlazi iz autoriteta onoga koji predsjeda; treće, da se izriče prema ispravnom razumu razboritosti. Ako god nešto od toga nedostaje, sud je poročan i nedopušten. Na jedan način, kad je protiv ispravnosti pravednosti, i tako se naziva izopačenim ili nepravednim sudom. Na drugi način, kad čovjek sudi u onome u čemu nema autoriteta, i tako se naziva prisvojenim sudom. Na treći način, kad nedostaje izvjesnost razuma, primjerice kad netko sudi o onome što je dvojbeno ili skriveno na temelju nekih slabih nagađanja, i tako se naziva sumnjičavim ili nepromišljenim sudom.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da Gospodin ondje zabranjuje nepromišljeni sud, koji je o nakani srca ili o drugim neizvjesnim stvarima, kako kaže Augustin u knjizi O Gospodinovu govoru na gori. Ili ondje zabranjuje sud o božanskim stvarima, o kojima, budući da su iznad nas, ne smijemo suditi, nego ih naprosto vjerovati, kako kaže Hilarije uz Mateja. Ili zabranjuje sud koji ne proizlazi iz dobrohotnosti, nego iz gorčine duha, kako kaže Zlatousti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a2.ad2": {
+      "text": "Na drugo treba reći da je sudac postavljen kao Božji službenik. Stoga se kaže u Pnz 1: *Što je pravedno, sudite*; i zatim dodaje: *jer je sud Božji*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a2.ad3": {
+      "text": "Na treće treba reći da oni koji su u teškim grijesima ne smiju suditi one koji su u istim ili manjim grijesima, kako kaže Zlatousti uz ono iz Mt 7, *Ne sudite*. I to osobito treba razumjeti kad su ti grijesi javni, jer se time rađa sablazan u srcima drugih. Ako pak nisu javni, nego skriveni, a prijeti nužnost suđenja zbog službe, može s poniznošću i strahom ili ukoriti ili suditi. Stoga Augustin u knjizi O Gospodinovu govoru na gori kaže: *Ako nađemo da smo i mi u istom poroku, uzdišimo zajedno i pozovimo ga da se zajedno trudimo*. Ipak, time čovjek ne osuđuje samoga sebe tako da bi sebi stekao novu zaslugu osude, nego zato što, osuđujući drugoga, pokazuje da je i sam jednako vrijedan osude, zbog istoga ili sličnoga grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da sud koji proizlazi iz sumnje nije nedopušten. Sumnja se, naime, čini nesigurnim mnijenjem o nekom zlu; zato i Filozof u VI. knjizi Etike postavlja da se sumnja odnosi i na istinito i na lažno. Ali o pojedinačnim kontingentnim stvarima ne može se imati drugo nego nesigurno mnijenje. Budući da se, dakle, ljudski sud odnosi na ljudske čine, koji su u pojedinačnim i kontingentnim stvarima, čini se da nijedan sud ne bi bio dopušten kad ne bi bilo dopušteno suditi iz sumnje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a3.obj2": {
+      "text": "Osim toga, nedopuštenim se sudom nanosi neka nepravda bližnjemu. Ali zla se sumnja sastoji samo u čovjekovu mnijenju, pa se tako ne čini da se tiče nepravde nanesene drugome. Dakle, sud iz sumnje nije nedopušten.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a3.obj3": {
+      "text": "Osim toga, ako je nedopušten, mora se svesti na nepravednost, jer je sud čin pravednosti, kako je rečeno. Ali nepravednost je po svojem rodu uvijek smrtni grijeh, kako je gore utvrđeno. Dakle, sud iz sumnje uvijek bi bio smrtni grijeh kad bi bio nedopušten. Ali to je lažno, jer sumnje ne možemo izbjeći, kako kaže Augustinova Glosa uz ono iz 1 Kor 4: *Ne sudite prije vremena*. Dakle, ne čini se da je sumnjičav sud nedopušten.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a3.sc": {
+      "text": "Ali protiv toga je ono što Zlatousti kaže uz ono iz Mt 7, *Ne sudite* itd.: *Gospodin ovom zapoviješću ne zabranjuje kršćanima da iz dobrohotnosti ukoravaju druge, nego da kršćani, hvastajući se svojom pravednošću, ne preziru kršćane, mrzeći i osuđujući druge većinom samo na temelju sumnji*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a3.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Tulije, sumnja označuje mnijenje o zlu kad proizlazi iz neznatnih znakova. A to se događa iz triju razloga. Na jedan način, iz toga što je netko sam u sebi zao, pa upravo zbog toga, kao svjestan svoje zloće, lako o drugima misli zlo, prema onome iz Prop 10: *Lud koji ide putem, budući da je sam nerazuman, sve smatra ludima*. Na drugi način dolazi iz toga što je netko zlo raspoložen prema drugome. Jer kad netko nekoga prezire ili mrzi, ili se na nj srdi ili mu zavidi, iz neznatnih znakova misli o njemu zlo, jer svatko lako vjeruje ono za čim teži. Na treći način dolazi iz dugoga iskustva; zato Filozof kaže u II. knjizi Retorike da su *starci najsumnjičaviji jer su mnogo puta iskusili nedostatke drugih*. Prva dva uzroka sumnje očito pripadaju izopačenosti čuvstva. A treći uzrok umanjuje pojam sumnje, ukoliko iskustvo vodi k izvjesnosti, koja je protiv pojma sumnje. I zato sumnja označuje neki porok, i što sumnja više napreduje, to je poročnija. A postoji trostruki stupanj sumnje. Prvi je stupanj kad čovjek iz neznatnih znakova počne dvojiti o nečijoj dobroti. I to je laki i malen grijeh, jer pripada *ljudskoj kušnji, bez koje se ovaj život ne provodi*, kako stoji u Glosi uz ono iz 1 Kor 4: *Ne sudite prije vremena*. Drugi je stupanj kad netko iz neznatnih znakova pouzdano drži da je drugi zao. I to je, ako se radi o nečem teškom, smrtni grijeh, ukoliko nije bez prezira prema bližnjemu; zato Glosa na istome mjestu dodaje: *Premda, dakle, ne možemo izbjeći sumnje, jer smo ljudi, ipak se moramo suzdržavati od sudova, to jest od konačnih i čvrstih presuda*. Treći je stupanj kad neki sudac iz sumnje pristupa osudi nekoga. I to izravno pripada nepravednosti. Zato je smrtni grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u ljudskim činima nalazi neka izvjesnost, ne doduše kao u stvarima koje se dokazuju, nego onakva kakva priliči takvoj građi, npr. kad se nešto dokaže prikladnim svjedocima.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a3.ad2": {
+      "text": "Na drugo treba reći da upravo time što netko bez dovoljnog razloga ima loše mnijenje o drugome, nezasluženo ga prezire. I zato mu nanosi nepravdu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a3.ad3": {
+      "text": "Na treće treba reći da, budući da se pravednost i nepravednost odnose na vanjska djelovanja, kako je rečeno, sumnjičav sud izravno pripada nepravednosti onda kad prelazi u vanjski čin. I tada je smrtni grijeh, kako je rečeno. A unutarnji sud pripada pravednosti ukoliko se odnosi prema vanjskom sudu kao unutarnji čin prema vanjskome, kao požuda prema bludu i srdžba prema ubojstvu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ono što je dvojbeno ne treba tumačiti u bolju stranu. Sud se, naime, ponajviše mora odnositi na ono što se događa u većini slučajeva. Ali u većini slučajeva događa se da neki čine zlo, *jer je ludih beskonačan broj*, kako se kaže u Prop 1; *jer su čovjekova osjetila sklona zlu od mladosti njegove*, kako se kaže u Post 8. Dakle, dvojbene stvari moramo prije tumačiti na zlo nego na dobro.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a4.obj2": {
+      "text": "Osim toga, Augustin kaže da pobožno i pravedno živi onaj koji je neokaljan procjenitelj stvari, ne priklanjajući se ni na jednu stranu. Ali onaj koji ono što je dvojbeno tumači u bolju stranu priklanja se jednoj strani. Dakle, to ne treba činiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a4.obj3": {
+      "text": "Osim toga, čovjek mora ljubiti bližnjega kao samoga sebe. Ali s obzirom na sebe čovjek mora dvojbene stvari tumačiti u goru stranu, prema onome iz Job 9: *Bojao sam se svih svojih djela*. Dakle, čini se da ono što je dvojbeno u vezi s bližnjima treba tumačiti u goru stranu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a4.sc": {
+      "text": "Ali protiv toga, uz ono iz Rim 14: *Tko ne jede, neka ne sudi onoga koji jede*, Glosa kaže: *Dvojbene stvari treba tumačiti u bolju stranu*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a4.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, upravo time što netko bez dovoljnog razloga ima loše mnijenje o drugome, nanosi mu nepravdu i prezire ga. A nitko ne smije drugoga prezirati ili mu nanositi ikakvu štetu bez razloga koji na to prisiljava. I zato, gdje se ne pokazuju očiti znakovi nečije zloće, moramo ga smatrati dobrim, tumačeći u bolju stranu ono što je dvojbeno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se može dogoditi da se onaj koji tumači u bolju stranu češće vara. Ali bolje je da se netko često vara imajući dobro mnijenje o nekom zlom čovjeku nego da se rjeđe vara imajući loše mnijenje o nekom dobrom; jer se ovim drugim nekome nanosi nepravda, a onim prvim ne.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a4.ad2": {
+      "text": "Na drugo treba reći da je jedno suditi o stvarima, a drugo o ljudima. Jer u sudu kojim sudimo o stvarima ne gleda se dobro ili zlo sa strane same stvari o kojoj sudimo, kojoj ništa ne škodi kako god o njoj sudili, nego se ondje gleda samo dobro onoga koji sudi, ako sudi istinito, ili zlo, ako sudi lažno; *jer je istinito dobro uma, a lažno je njegovo zlo*, kako se kaže u VI. knjizi Etike. I zato se svatko mora truditi da o stvarima sudi onako kakve jesu. Ali u sudu kojim sudimo o ljudima ponajprije se gleda dobro i zlo sa strane onoga o kome se sudi, koji se smatra časnim upravo time što se o njemu sudi da je dobar, a prezrenim ako se o njemu sudi da je zao. I zato u takvom sudu moramo prije težiti tome da o čovjeku sudimo da je dobar, osim ako se ne pokaže očit razlog za suprotno. A samome čovjeku koji sudi lažan sud, kojim dobro sudi o drugome, ne pripada zlu njegova uma, kao što ni njegovoj savršenosti po sebi ne pripada spoznavati istinu pojedinačnih kontingentnih stvari; nego to prije pripada dobrom čuvstvu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a4.ad3": {
+      "text": "Na treće treba reći da se nešto tumači u goru ili bolju stranu na dva načina. Na jedan način, putem neke pretpostavke. I tako, kad nekim zlima moramo primijeniti lijek, bilo našima bilo tuđima, korisno je, da bi se lijek sigurnije primijenio, pretpostaviti ono što je gore; jer lijek koji je djelotvoran protiv većega zla mnogo je djelotvorniji protiv manjega zla. Na drugi način tumačimo nešto na dobro ili na zlo određujući ili utvrđujući. I tako se u sudu o stvarima svatko mora truditi da svaku stvar tumači onakvom kakva jest, a u sudu o osobama da tumači u bolju stranu, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da ne treba uvijek suditi prema pisanim zakonima. Uvijek, naime, treba izbjegavati nepravedan sud. Ali katkad pisani zakoni sadrže nepravednost, prema onome iz Iz 10: *Jao onima koji donose opake zakone i koji su pišući napisali nepravednosti*. Dakle, ne treba uvijek suditi prema pisanim zakonima.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a5.obj2": {
+      "text": "Osim toga, sud se mora odnositi na pojedinačne događaje. Ali nijedan pisani zakon ne može obuhvatiti sve pojedinačne događaje, kako je jasno po Filozofu u V. knjizi Etike. Dakle, čini se da ne treba uvijek suditi prema pisanim zakonima.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a5.obj3": {
+      "text": "Osim toga, zakon se piše zato da se očituje misao zakonodavca. Ali katkad se događa da bi sam zakonodavac, kad bi bio prisutan, drukčije sudio. Dakle, ne treba uvijek suditi prema pisanom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O pravoj religiji: *O ovim vremenitim zakonima, premda ljudi o njima sude kad ih ustanovljuju, ipak, kad su jednom ustanovljeni i potvrđeni, sucima neće biti dopušteno suditi o njima, nego prema njima*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a5.resp": {
+      "text": "Odgovaram: treba reći da, kako je rečeno, sud nije ništa drugo nego neko određivanje ili utvrđivanje onoga što je pravedno. A nešto postaje pravedno na dva načina: na jedan način, iz same naravi stvari, i to se zove naravno pravo; na drugi način, iz nekog dogovora među ljudima, i to se zove pozitivno pravo, kako je gore utvrđeno. A zakoni se pišu radi izražavanja obaju prava, ali na različit način. Jer pisani tekst zakona naravno pravo doduše sadrži, ali ga ne ustanovljuje, jer ono nema snagu od zakona, nego od naravi. A pozitivno pravo pisani tekst zakona i sadrži i ustanovljuje, dajući mu snagu autoriteta. I zato je nužno da se sud donosi prema pisanom tekstu zakona; inače bi sud odstupao ili od naravno pravednoga ili od pozitivno pravednoga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da pisani zakon, kao što naravnom pravu ne daje snagu, tako mu ni ne može snagu umanjiti ili oduzeti, jer ni čovjekova volja ne može izmijeniti narav. I zato, ako pisani tekst zakona sadrži nešto protiv naravnoga prava, nepravedan je i nema snagu obvezivanja; jer pozitivno pravo ima mjesta ondje gdje s obzirom na naravno pravo nema nikakve razlike hoće li se nešto učiniti ovako ili drukčije, kako je gore utvrđeno. I zato se takvi pisani tekstovi i ne nazivaju zakonima, nego prije izopačenjima zakona, kako je gore rečeno. I zato ne treba suditi prema njima.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a5.ad2": {
+      "text": "Na drugo treba reći da, kao što se opaki zakoni sami po sebi protive naravnome pravu, bilo uvijek bilo u većini slučajeva, tako i zakoni koji su ispravno postavljeni u nekim slučajevima zakazuju, naime u onima u kojima bi, kad bi se obdržavali, to bilo protiv naravnoga prava. I zato u takvim slučajevima ne treba suditi po slovu zakona, nego se treba utjecati pravičnosti, na koju zakonodavac smjera. Zato pravnik kaže: *Nikakav razlog prava ni blagonaklonost pravičnosti ne dopušta da ono što je spasonosno uvedeno na korist ljudi mi strožim tumačenjem protiv njihove koristi dovedemo do strogosti*. I u takvim bi slučajevima i sam zakonodavac drukčije sudio i, da je to razmotrio, zakonom bi bio odredio.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a5.ad3": {
+      "text": "I time je jasan odgovor na treće.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da sud ne postaje izopačen prisvajanjem. Pravednost je, naime, neka ispravnost u onome što treba činiti. Ali istina ništa ne gubi, tko god je izrekao, nego je treba prihvatiti od bilo koga. Dakle, ni pravednost ništa ne gubi, tko god odredio ono što je pravedno, a to pripada pojmu suda.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a6.obj2": {
+      "text": "Osim toga, kažnjavati grijehe pripada sudu. Ali za neke čitamo da su hvalevrijedno kaznili grijehe, iako nisu imali autoritet nad onima koje su kažnjavali: tako Mojsije ubivši Egipćanina, kako stoji u Izl 2; i Pinhas, sin Eleazarov, ubivši Zimrija, sina Saluova, kako se čita u Br 25, *i to mu se uračuna u pravednost*, kako se kaže u Psalmu. Dakle, prisvajanje suda ne pripada nepravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a6.obj3": {
+      "text": "Osim toga, duhovna se vlast razlikuje od vremenite. Ali katkad se poglavari koji imaju duhovnu vlast miješaju u ono što pripada svjetovnoj vlasti. Dakle, prisvojeni sud nije nedopušten.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a6.obj4": {
+      "text": "Osim toga, kao što se za ispravno suđenje zahtijeva autoritet, tako se zahtijeva i pravednost onoga koji sudi i znanje, kako je jasno iz rečenoga. Ali ne kaže se da je sud nepravedan ako sudi netko tko nema habitus pravednosti ili nema znanje prava. Dakle, ni prisvojeni sud, koji nastaje zbog nedostatka autoriteta, neće uvijek biti nepravedan.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Rim 14: *Tko si ti da sudiš tuđem slugi?*",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a6.resp": {
+      "text": "Odgovaram: treba reći da, budući da sud treba donositi prema pisanim zakonima, kako je rečeno, onaj koji donosi sud na neki način tumači ono što zakon kaže, primjenjujući to na pojedinačni slučaj. A budući da istom autoritetu pripada tumačiti zakon i donositi zakon, kao što se zakon ne može donijeti osim javnim autoritetom, tako se ni sud ne može donijeti osim javnim autoritetom, koji se proteže na one koji su podložni zajednici. I zato, kao što bi bilo nepravedno da netko prisiljava drugoga na obdržavanje zakona koji nije potvrđen javnim autoritetom, tako je nepravedno i ako netko nekoga sili da se podvrgne sudu koji se ne donosi javnim autoritetom.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da izricanje istine ne uključuje prisiljavanje da se ona prihvati, nego je svakome slobodno da je prihvati ili ne prihvati kako hoće. Ali sud uključuje neko primoravanje. I zato je nepravedno da nekome sudi onaj koji nema javni autoritet.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a6.ad2": {
+      "text": "Na drugo treba reći da se čini da je Mojsije ubio Egipćanina kao onaj koji je po božanskom nadahnuću zadobio autoritet, kako se vidi po onome što se kaže u Dj 7, da je, *pošto je udario Egipćanina, Mojsije mislio da njegova braća razumiju da Gospodin po njegovoj ruci daje spasenje Izraelu*. Ili se može reći da je Mojsije ubio Egipćanina braneći onoga koji je trpio nepravdu, u granicama neskrivljene obrane. Zato Ambrozije kaže u knjizi O dužnostima da je *onaj koji ne odbija nepravdu od druga kad može, toliko u poroku koliko i onaj koji je čini*; i navodi primjer Mojsija. Ili se može reći, kako kaže Augustin u Pitanjima o Izlasku, da *kao što se zemlja prije korisnog sjemenja hvali plodnošću beskorisnog bilja, tako je ono Mojsijevo djelo doduše bilo poročno, ali je nosilo znak velike plodnosti*, ukoliko je, naime, bilo znak njegove snage kojom je imao osloboditi narod. A o Pinhasu treba reći da je to učinio po božanskom nadahnuću, potaknut revnošću za Boga. Ili zato što je, premda još nije bio veliki svećenik, ipak bio sin velikoga svećenika, pa je njemu pripadao taj sud, kao i drugim sucima kojima je to bilo zapovjeđeno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a6.ad3": {
+      "text": "Na treće treba reći da je svjetovna vlast podložna duhovnoj kao tijelo duši. I zato nije prisvojeni sud ako se duhovni poglavar miješa u vremenite stvari u onome u čemu mu je svjetovna vlast podložna, ili u onome što mu svjetovna vlast prepušta.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q60.a6.ad4": {
+      "text": "Na četvrto treba reći da su habitusi znanja i pravednosti savršenosti pojedine osobe, i zato se zbog njihova nedostatka ne govori o prisvojenom sudu, kao što se govori zbog nedostatka javnog autoriteta, od kojega sud ima prisilnu moć.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    }
+  }
+}

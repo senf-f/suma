@@ -1,0 +1,426 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 62,
+  "units": {
+    "II-II.q62.pr": {
+      "text": "Zatim treba razmotriti povrat. U vezi s tim postavlja se osam pitanja. Prvo, čiji je to čin. Drugo, je li za spasenje nužno da se vrati sve oduzeto. Treće, treba li vratiti višestruko. Četvrto, treba li vratiti ono što netko nije uzeo. Peto, treba li vratiti onome od koga je uzeto. Šesto, je li dužan vratiti onaj koji je uzeo. Sedmo, je li dužan neki drugi. Osmo, treba li vratiti odmah.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da povrat nije čin komutativne pravednosti. Pravednost se, naime, odnosi na pojam dugovanoga. Ali kao što darivanje može biti onoga što se ne duguje, tako i povrat. Dakle, povrat nije čin nijednog dijela pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a1.obj2": {
+      "text": "Osim toga, ono što je već prošlo i ne postoji ne može se vratiti. Ali pravednost i nepravednost odnose se na neke radnje i trpnje, koje ne ostaju, nego prolaze. Dakle, ne čini se da je povrat čin ikojeg dijela pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a1.obj3": {
+      "text": "Osim toga, povrat je kao neka naknada onoga što je oduzeto. Ali čovjeku se nešto može oduzeti ne samo u razmjeni, nego i u raspodjeli, npr. kad onaj koji raspodjeljuje nekome daje manje nego što bi trebao imati. Dakle, povrat nije više čin komutativne nego distributivne pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a1.sc": {
+      "text": "Ali protiv toga, povrat je suprotan oduzimanju. A oduzimanje tuđe stvari čin je nepravednosti u razmjenama. Dakle, njezin je povrat čin pravednosti koja usmjeruje razmjene.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a1.resp": {
+      "text": "Odgovaram: treba reći da se čini da vratiti nije ništa drugo nego ponovno nekoga postaviti u posjed ili vlasništvo njegove stvari. I tako se u povratu gleda jednakost pravednosti prema naknadi stvari za stvar, a to pripada komutativnoj pravednosti. I zato je povrat čin komutativne pravednosti, naime kad netko ima stvar drugoga, bilo s njegovom voljom, kao u zajmu ili pologu, bilo protiv njegove volje, kao u otimačini ili krađi.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono što se drugome ne duguje nije, u vlastitom smislu govoreći, njegovo, premda je nekoć bilo njegovo. I zato se čini da je to prije novo darivanje nego povrat kad netko drugome daje ono što mu ne duguje. Ipak ima neku sličnost s povratom, jer je stvar tvarno ista. Ali nije ista prema formalnom pojmu na koji pravednost gleda, a to je biti nečije vlastito. Zato se ni ne naziva povratom u vlastitom smislu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a1.ad2": {
+      "text": "Na drugo treba reći da ime povrata, ukoliko označuje neko ponavljanje, pretpostavlja istovjetnost stvari. I zato se, prema prvom nadijevanju imena, čini da povrat ima mjesta ponajprije u vanjskim stvarima, koje, ostajući iste i po supstanciji i po pravu vlasništva, mogu prijeći od jednoga k drugome. Ali kao što je ime razmjene od takvih stvari preneseno na radnje ili trpnje koje se tiču poštovanja ili nepravde prema nekoj osobi, ili štete ili koristi, tako se i ime povrata izvodi na ono što, premda ne ostaje u stvarnosti, ipak ostaje u učinku: bilo tjelesnom, npr. kad se udarcem ozlijedi tijelo, bilo onom koji je u mnijenju ljudi, kao kad netko zbog sramotne riječi ostane obeščašćen ili umanjen u svojoj časti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a1.ad3": {
+      "text": "Na treće treba reći da se naknada koju onaj koji raspodjeljuje daje onome kome je dao manje nego što je trebao čini prema usporedbi stvari sa stvari, tako da mu se dade onoliko više koliko je manje imao nego što je trebao. I zato to već pripada komutativnoj pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nije nužno za spasenje da se vrati ono što je oduzeto. Ono što je nemoguće, naime, nije nužno za spasenje. Ali katkad je nemoguće vratiti ono što je oduzeto, npr. kad je netko nekome oduzeo ud ili život. Dakle, ne čini se da je nužno za spasenje da netko vrati ono što je drugome oduzeo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a2.obj2": {
+      "text": "Osim toga, počiniti neki grijeh nije nužno za spasenje, jer bi tako čovjek bio u bezizlaznoj neprilici. Ali katkad se ono što se oduzima ne može vratiti bez grijeha, npr. kad je netko nekome oduzeo dobar glas govoreći istinu. Dakle, vratiti oduzeto nije nužno za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a2.obj3": {
+      "text": "Osim toga, ono što je učinjeno ne može postati neučinjeno. Ali katkad se nekome oduzima čast njegove osobe upravo time što je pretrpio da ga netko nepravedno kudi. Dakle, ne može mu se vratiti ono što je oduzeto. I tako nije nužno za spasenje vratiti oduzeto.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a2.obj4": {
+      "text": "Osim toga, čini se da onaj koji nekoga sprječava da postigne neko dobro to njemu oduzima, jer *kad malo nedostaje, čini se kao da ništa ne nedostaje*, kako kaže Filozof u II. knjizi Fizike. Ali kad netko nekoga sprječava da dobije nadarbinu ili nešto slično, ne čini se da mu je dužan vratiti nadarbinu, jer to katkad ne bi mogao. Dakle, vratiti oduzeto nije nužno za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a2.sc": {
+      "text": "Ali protiv toga je što Augustin kaže: *Grijeh se ne otpušta ako se ne vrati oduzeto*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a2.resp": {
+      "text": "Odgovaram: treba reći da je povrat, kako je rečeno, čin komutativne pravednosti, koja se sastoji u nekoj jednakosti. I zato vratiti označuje davanje one stvari koja je nepravedno oduzeta; jer se tako njezinim ponovnim davanjem ponovno uspostavlja jednakost. Ako je pak pravedno oduzeta, bit će nejednakost ako mu se vrati, jer se pravednost sastoji u jednakosti. Budući, dakle, da je čuvati pravednost nužno za spasenje, slijedi da je vratiti ono što je nekome nepravedno oduzeto nužno za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je u onome u čemu se ne može naknaditi istovrijedno dovoljno da se naknadi ono što je moguće, kao što je jasno kod časti koje se iskazuju Bogu i roditeljima, kako kaže Filozof u VIII. knjizi Etike. I zato, kad ono što je oduzeto nije moguće vratiti nečim jednakim, mora se dati naknada kakva je moguća. Npr. kad je netko nekome oduzeo ud, mora mu to naknaditi bilo novcem bilo nekom čašću, uzimajući u obzir položaj obiju osoba, prema procjeni poštena čovjeka.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a2.ad2": {
+      "text": "Na drugo treba reći da netko može nekome oduzeti dobar glas na tri načina. Na jedan način, govoreći istinu i pravedno, npr. kad netko otkrije nečiji zločin poštujući dužni red. I tada nije dužan na povrat dobroga glasa. Na drugi način, govoreći laž i nepravedno. I tada je dužan vratiti dobar glas priznajući da je govorio laž. Na treći način, govoreći istinu, ali nepravedno, npr. kad netko otkrije zločin drugoga protiv dužnoga reda. I tada je dužan na povrat dobroga glasa koliko može, ali ipak bez laži, npr. tako da kaže da je loše govorio ili da ga je nepravedno ocrnio. Ili, ako ne može vratiti dobar glas, mora mu to naknaditi na drugi način, kako je rečeno i za druge slučajeve.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a2.ad3": {
+      "text": "Na treće treba reći da se radnja onoga koji nanosi pogrdu ne može učiniti nepostojećom. Ali može se postići da se njezin učinak, naime umanjenje dostojanstva osobe u mnijenju ljudi, popravi iskazivanjem poštovanja.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a2.ad4": {
+      "text": "Na četvrto treba reći da netko može nekoga spriječiti da dobije nadarbinu na mnogo načina. Na jedan način, pravedno, npr. ako, smjerajući na Božju čast ili korist Crkve, nastoji da se ona dade nekoj dostojnijoj osobi. I tada ni na koji način nije dužan na povrat ili na davanje bilo kakve naknade. Na drugi način, nepravedno, npr. ako smjera na štetu onoga koga sprječava, iz mržnje ili osvete ili nečega sličnoga. I tada, ako sprječava da se nadarbina dade dostojnome, savjetujući da se ne dade, prije nego što je utvrđeno da mu se dade, dužan je doduše na neku naknadu, uzevši u obzir prilike osoba i posla, prema procjeni mudroga čovjeka; ali nije dužan na jednako, jer je onaj još nije bio dobio i mogao je biti spriječen na mnogo načina. Ako je pak već utvrđeno da se nekome dade nadarbina, a netko zbog neopravdanog razloga nastoji da se to opozove, to je isto kao da mu oduzima ono što je već imao. I zato je dužan na povrat jednakoga, ali prema svojim mogućnostima.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nije dovoljno vratiti jednostruko ono što je nepravedno oduzeto. Kaže se, naime, u Izl 22: *Ako tko ukrade vola ili ovcu pa ga zakolje ili proda, neka vrati pet volova za jednoga vola i četiri ovce za jednu ovcu*. Ali svatko je dužan obdržavati nalog božanskog zakona. Dakle, onaj koji krade dužan je vratiti četverostruko ili peterostruko.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a3.obj2": {
+      "text": "Osim toga, *što je napisano, za našu je pouku napisano*, kako se kaže u Rim 15. Ali u Lk 19 Zakej kaže Gospodinu: *Ako sam koga prevario, vraćam četverostruko*. Dakle, čovjek treba vratiti umnoženo ono što je nepravedno primio.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a3.obj3": {
+      "text": "Osim toga, nikome se ne može pravedno oduzeti ono što nije dužan dati. Ali sudac od onoga koji je ukrao pravedno oduzima više nego što je ukrao, kao globu. Dakle, čovjek je to dužan platiti. I tako nije dovoljno vratiti jednostruko.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a3.sc": {
+      "text": "Ali protiv toga je to što povrat svodi na jednakost ono što je nejednako oduzeto. Ali tko vrati jednostruko ono što je primio, svodi na jednakost. Dakle, dužan je vratiti samo onoliko koliko je primio.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a3.resp": {
+      "text": "Odgovaram: treba reći da kad netko nepravedno uzme tuđu stvar, tu je dvoje. Jedno je od toga nejednakost s obzirom na stvar, koja je katkad bez nepravednosti, kao što je očito kod zajmova. Drugo je pak krivnja nepravednosti, koja može postojati i uz jednakost stvari, na primjer kad netko smjera nanijeti nasilje, ali ne uspije. Što se, dakle, tiče prvoga, lijek se primjenjuje povratom, ukoliko se njime uspostavlja jednakost; a za to je dovoljno da vrati onoliko koliko je imao od tuđega. Ali što se tiče krivnje, lijek se primjenjuje kaznom, čije izricanje pripada sucu. Stoga, prije nego što bude osuđen sudom, nije dužan vratiti više nego što je primio; ali nakon što je osuđen, dužan je platiti kaznu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a3.ad1": {
+      "text": "I time je jasan odgovor na prvo, jer onaj zakon određuje kaznu koju treba izreći sudac. I premda nakon Kristova dolaska nitko nije dužan obdržavati sudsku zapovijed, kao što je gore utvrđeno, ipak se isto ili slično može ustanoviti u ljudskom zakonu, za koji će vrijediti isti razlog.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a3.ad2": {
+      "text": "Na drugo treba reći da je Zakej to rekao kao onaj koji želi učiniti više od dužnoga. Zato je i prije toga rekao: *Evo, polovicu svojih dobara dajem siromasima*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a3.ad3": {
+      "text": "Na treće treba reći da sudac, osuđujući, može pravedno uzeti nešto više, kao globu, što ipak onaj, prije nego što je bio osuđen, nije bio dužan.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da netko treba vratiti ono što nije oduzeo. Onaj, naime, koji nekome nanosi štetu dužan je štetu otkloniti. Ali katkad netko nekome nanese štetu iznad onoga što je uzeo; na primjer, kad netko iskopa sjeme, nanosi štetu onome koji je posijao u cijeloj budućoj žetvi; i tako se čini da je dužan to vratiti. Dakle, netko je dužan vratiti ono što nije oduzeo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a4.obj2": {
+      "text": "Osim toga, čini se da onaj koji zadržava novac vjerovnika preko unaprijed utvrđenog roka nanosi mu štetu u svemu onome što bi mogao zaraditi tim novcem. A to on ipak ne oduzima. Dakle, čini se da je netko dužan vratiti ono što nije oduzeo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a4.obj3": {
+      "text": "Osim toga, ljudska pravednost potječe od božanske pravednosti. Ali Bogu netko treba vratiti više nego što je od njega primio, prema onome Mt 25: *Znao si da žanjem gdje nisam sijao i skupljam gdje nisam rasuo*. Dakle, pravedno je da i čovjeku vrati nešto što nije primio.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a4.sc": {
+      "text": "Ali protiv toga je to što naknada pripada pravednosti ukoliko uspostavlja jednakost. Ali kad bi netko vratio ono što nije primio, to ne bi bilo jednako. Dakle, nije pravedno da se takav povrat izvrši.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a4.resp": {
+      "text": "Odgovaram: treba reći da se čini da onaj koji nekome nanosi štetu oduzima mu ono u čemu mu nanosi štetu; šteta se, naime, tako naziva po tome što netko ima manje nego što treba imati, prema Filozofu u V. knjizi Etike. Stoga je čovjek dužan vratiti ono u čemu je nekome nanio štetu. Ali netko trpi štetu na dva načina. Na jedan način, jer mu se oduzima ono što je u činu imao. I takvu štetu uvijek treba vratiti po naknadi jednakoga; na primjer, ako netko nekome nanese štetu rušeći mu kuću, dužan je onoliko koliko kuća vrijedi. Na drugi način netko nekome nanosi štetu priječeći ga da stekne ono što je bio na putu da ima. I takvu štetu nije potrebno nadoknaditi u jednakoj mjeri. Jer manje je imati nešto virtualno nego imati u činu. A onaj koji je na putu da nešto stekne ima to samo virtualno ili u mogućnosti. Stoga, kad bi mu se vratilo tako da to ima u činu, vratilo bi mu se ono što je oduzeto ne jednostruko, nego umnoženo, što ne spada na nužnost povrata, kao što je rečeno. Ipak je dužan dati neku naknadu, prema stanju osoba i poslova.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a4.ad1": {
+      "text": "I time je jasan odgovor na prvo i na drugo. Jer onaj koji je posijao sjeme na njivi još nema žetvu u činu, nego samo virtualno; i slično, onaj koji ima novac još nema dobitak u činu, nego samo virtualno; a i jedno i drugo može biti spriječeno na mnogo načina.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a4.ad3": {
+      "text": "Na treće treba reći da Bog od čovjeka ne traži ništa osim dobra koje je on sam u nama posijao. Stoga se ona riječ ili shvaća prema izopačenom mišljenju lijenoga sluge, koji je mislio da nije primio od drugoga; ili se shvaća u tom smislu da Bog od nas traži plodove darova, koji su i od njega i od nas, premda su sami darovi od Boga bez nas.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da nije potrebno uvijek izvršiti povrat onome od koga je nešto uzeto. Nikome, naime, ne smijemo škoditi. Ali katkad bi bilo na štetu čovjeku kad bi mu se vratilo ono što je od njega uzeto, ili čak na štetu drugima; na primjer, kad bi netko umobolnome vratio pohranjeni mač. Dakle, ne treba uvijek vratiti onome od koga je uzeto.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.obj2": {
+      "text": "Osim toga, onaj koji je nešto nedopušteno dao ne zaslužuje to dobiti natrag. Ali katkad netko nedopušteno daje ono što drugi također nedopušteno prima, kao što je očito kod onoga koji daje i onoga koji prima nešto simonijački. Dakle, ne treba uvijek vratiti onome od koga je uzeto.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.obj3": {
+      "text": "Osim toga, nitko nije dužan na nemoguće. Ali katkad je nemoguće vratiti onome od koga je uzeto, bilo zato što je umro, bilo zato što je predaleko, bilo zato što je nepoznat. Dakle, ne treba uvijek izvršiti povrat onome od koga je uzeto.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.obj4": {
+      "text": "Osim toga, čovjek treba više uzvratiti onome od koga je primio veće dobročinstvo. Ali od drugih osoba, kao od roditelja, čovjek je primio više dobročinstva nego od onoga koji mu je dao zajam ili kod njega nešto pohranio. Dakle, katkad treba radije pomoći nekoj drugoj osobi nego vratiti onome od koga je uzeto.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.obj5": {
+      "text": "Osim toga, uzaludno je vraćati ono što povratom dolazi u ruke onoga koji vraća. Ali ako je prelat nepravedno nešto oduzeo Crkvi i vrati joj, to će doći u njegove ruke, jer je on čuvar crkvenih stvari. Dakle, ne treba vratiti Crkvi od koje je oduzeo. I tako ne treba uvijek vratiti onome od koga je oduzeto.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Rim 13: *Dajte svima što ste dužni: komu porez, porez; komu carinu, carinu*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.resp": {
+      "text": "Odgovaram: treba reći da se povratom vrši svođenje na jednakost komutativne pravednosti, koja se sastoji u izjednačenju stvari, kao što je rečeno. A takvo izjednačenje stvari ne bi se moglo provesti kad se onome koji ima manje od onoga što je njegovo ne bi nadoknadilo ono što nedostaje. A da bi se izvršila ta nadoknada, potrebno je da se povrat izvrši onome od koga je uzeto.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da kad se stvar koju treba vratiti pokaže teško štetnom za onoga kome treba izvršiti povrat ili za drugoga, tada mu se ne smije vratiti, jer je povrat usmjeren prema koristi onoga kome se vraća; sve, naime, što se posjeduje potpada pod pojam korisnoga. Ipak onaj koji zadržava tuđu stvar ne smije je prisvojiti sebi, nego je treba ili sačuvati da je vrati u prikladno vrijeme, ili je čak predati negdje drugdje da se sigurnije čuva.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.ad2": {
+      "text": "Na drugo treba reći da netko nešto nedopušteno daje na dva načina. Na jedan način, jer je samo davanje nedopušteno i protiv zakona, kao što je očito kod onoga koji je nešto dao simonijački. Takav zaslužuje izgubiti ono što je dao; stoga mu se to ne smije vratiti. A budući da je i onaj koji je primio primio protivno zakonu, ne smije to zadržati za sebe, nego to treba obratiti u pobožne svrhe. Na drugi način netko nedopušteno daje jer daje radi nedopuštene stvari, premda samo davanje nije nedopušteno, kao kad netko daje bludnici radi bluda. Stoga i žena može zadržati za sebe ono što joj je dano; a kad bi prijevarom ili podvalom iznudila nešto preko mjere, dužna je to istome vratiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.ad3": {
+      "text": "Na treće treba reći da, ako je onaj kome treba izvršiti povrat posve nepoznat, čovjek treba vratiti onako kako može, naime dajući milostinju za njegovo spasenje, bio on mrtav ili živ; ipak tek nakon što je brižljivo istražio tko je osoba kojoj treba izvršiti povrat. Ako je pak onaj kome treba izvršiti povrat mrtav, treba vratiti njegovu nasljedniku, koji se računa kao jedna osoba s njim. Ako je pak jako daleko, treba mu poslati ono što mu se duguje, osobito ako je stvar velike vrijednosti i ako se može lako poslati. Inače je treba pohraniti na nekom sigurnom mjestu da se čuva za njega, i o tome obavijestiti vlasnika.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.ad4": {
+      "text": "Na četvrto treba reći da se netko od onoga što mu je vlastito treba više odužiti roditeljima ili onima od kojih je primio veća dobročinstva. Ali nitko se ne smije odužiti dobročinitelju tuđim, a to bi se dogodilo kad bi ono što duguje jednome vratio drugome; osim možda u slučaju krajnje nužde, u kojem bi netko mogao i trebao čak oduzeti tuđe da pomogne ocu.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a5.ad5": {
+      "text": "Na peto treba reći da prelat može otuđiti crkvenu stvar na tri načina. Na jedan način, ako bi crkvenu stvar koja nije dodijeljena njemu, nego drugome, prisvojio sebi; na primjer, ako bi biskup sebi prisvojio stvar kaptola. I tada je jasno da je treba vratiti stavljajući je u ruke onih kojima po pravu pripada. Na drugi način, ako crkvenu stvar povjerenu njegovu čuvanju prenese u vlasništvo drugoga, na primjer rođaka ili prijatelja. I tada je treba vratiti Crkvi i pobrinuti se da dođe do njegova nasljednika u službi. Na treći način prelat može otuđiti crkvenu stvar samo u duhu, naime kad počne imati namjeru posjedovati je kao svoju, a ne u ime Crkve. I tada je treba vratiti odbacivši takvu namjeru.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da onaj koji je uzeo nije uvijek dužan vratiti. Povratom se, naime, uspostavlja jednakost pravednosti, koja se sastoji u tome da se oduzme onome koji ima više i dade onome koji ima manje. Ali katkad se dogodi da onaj koji je nekome oduzeo neku stvar nema je, nego je dospjela u ruke drugoga. Dakle, nije dužan vratiti onaj koji je uzeo, nego drugi koji stvar ima.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a6.obj2": {
+      "text": "Osim toga, nitko nije dužan otkriti svoj zločin. Ali katkad netko vršeći povrat otkriva svoj zločin, kao što je očito kod krađe. Dakle, onaj koji je oduzeo nije uvijek dužan vratiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a6.obj3": {
+      "text": "Osim toga, istu stvar ne treba vraćati više puta. Ali katkad mnogi zajedno otuđe neku stvar, a jedan je od njih vrati u cijelosti. Dakle, onaj koji je uzeo nije uvijek dužan vratiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a6.sc": {
+      "text": "Ali protiv toga: onaj koji je sagriješio dužan je dati zadovoljštinu. Ali povrat pripada zadovoljštini. Dakle, onaj koji je oduzeo dužan je vratiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a6.resp": {
+      "text": "Odgovaram: treba reći da kod onoga koji je uzeo tuđu stvar treba razmotriti dvoje, naime samu uzetu stvar i samo uzimanje. S obzirom na stvar dužan ju je vratiti dokle god je ima kod sebe, jer ono što ima iznad onoga što je njegovo treba mu se oduzeti i dati onome kome nedostaje, prema obliku komutativne pravednosti. Ali samo uzimanje tuđe stvari može biti trojako. Katkad se, naime, njime nanosi nepravda, to jest ono se protivi volji onoga koji je vlasnik stvari, kao što je očito kod krađe i otimačine. I tada je dužan vratiti ne samo s obzirom na stvar, nego i s obzirom na radnju kojom je nanesena nepravda, čak i ako stvar ne ostane kod njega. Jer kao što je onaj koji nekoga udari dužan nadoknaditi nepravdu onome koji ju je pretrpio, premda kod njega ništa ne ostaje, tako je i onaj koji krade ili otima dužan nadoknaditi nanesenu štetu, čak i ako od toga ništa nema; a povrh toga treba biti kažnjen za nanesenu nepravdu. Na drugi način netko uzima stvar drugoga na svoju korist bez nepravde, naime s voljom onoga čija je stvar, kao što je očito kod zajmova. I tada je onaj koji je uzeo dužan vratiti ono što je uzeo ne samo s obzirom na stvar, nego i s obzirom na uzimanje, čak i ako je stvar izgubio; dužan je, naime, obeštetiti onoga koji mu je učinio uslugu, a to se ne bi dogodilo kad bi on zbog toga pretrpio štetu. Na treći način netko uzima stvar drugoga bez nepravde ne na svoju korist, kao što je očito kod pohrana. I zato onaj koji je tako uzeo nije ni na što dužan s obzirom na uzimanje, štoviše, uzimajući iskazuje uslugu; ali je dužan s obzirom na stvar. I zbog toga, ako mu se stvar oduzme bez njegove krivnje, nije dužan vratiti. Drukčije bi pak bilo kad bi pohranjenu stvar izgubio svojom velikom krivnjom.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da povrat nije prvenstveno usmjeren prema tome da onaj koji ima više nego što treba prestane to imati, nego prema tome da se nadoknadi onome koji ima manje. Stoga povrat nema mjesta kod onih stvari koje netko može primiti od drugoga bez njegove štete, na primjer kad netko uzme svjetlo od tuđe svijeće. I zato, premda onaj koji je oduzeo nema ono što je uzeo, nego je to preneseno na drugoga, ipak, budući da je drugi lišen svoje stvari, dužni su mu vratiti i onaj koji je stvar oduzeo, s obzirom na radnju kojom je nanesena nepravda, i onaj koji stvar ima, s obzirom na samu stvar.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a6.ad2": {
+      "text": "Na drugo treba reći da čovjek, premda nije dužan otkriti svoj zločin ljudima, ipak je dužan otkriti svoj zločin Bogu u ispovijedi. I tako može preko svećenika kojemu se ispovijeda izvršiti povrat tuđe stvari.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a6.ad3": {
+      "text": "Na treće treba reći da, budući da je povrat prvenstveno usmjeren prema otklanjanju štete onoga od koga je nešto nepravedno oduzeto, nakon što mu je jedan izvršio dostatan povrat, drugi mu nisu dužni dalje vraćati, nego radije nadoknaditi onome koji je vratio, koji im to ipak može oprostiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da oni koji nisu uzeli nisu dužni vratiti. Povrat je, naime, neka kazna onoga koji uzima. Ali nitko ne treba biti kažnjen osim onoga koji je sagriješio. Dakle, nitko ne treba vratiti osim onoga koji je uzeo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a7.obj2": {
+      "text": "Osim toga, pravednost nikoga ne obvezuje da uvećava imovinu drugoga. Ali kad bi na povrat bio dužan ne samo onaj koji je uzeo, nego i oni koji na bilo koji način surađuju, time bi se uvećala imovina onoga kome je nešto oduzeto: kako zato što bi mu se povrat izvršio više puta, tako i zato što se katkad neki trude da se nekome oduzme neka stvar koja mu ipak ne bude oduzeta. Dakle, drugi nisu dužni na povrat.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a7.obj3": {
+      "text": "Osim toga, nitko nije dužan izložiti se pogibli da bi spasio stvar drugoga. Ali katkad bi se netko, prokazujući razbojnika ili mu se opirući, izložio smrtnoj pogibli. Dakle, nitko nije dužan na povrat zbog toga što ne prokaže razbojnika ili mu se ne odupre.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Rim 1: *Smrti su dostojni ne samo oni koji to čine, nego i oni koji pristaju uz one koji čine*. Dakle, s jednakim razlogom i oni koji pristaju trebaju vratiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a7.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je rečeno, netko dužan na povrat ne samo s obzirom na tuđu stvar koju je uzeo, nego i s obzirom na uzimanje kojim je nanesena nepravda. Stoga je svatko tko je uzrok nepravednog uzimanja dužan na povrat. To se pak događa na dva načina, naime izravno i neizravno. Izravno, kad netko navodi drugoga na uzimanje. I to na tri načina. Prvo, pokrećući na samo uzimanje, što se čini zapovijedanjem, savjetovanjem, izričitim pristankom i hvaljenjem nekoga kao odvažnoga zbog toga što uzima tuđe. Na drugi način, s obzirom na samoga onoga koji uzima, naime time što mu daje utočište ili mu na bilo koji način pruža pomoć. Na treći način, s obzirom na uzetu stvar, naime time što je sudionik krađe ili otimačine, kao drug u zlodjelu. Neizravno pak, kad netko ne spriječi, iako može i treba spriječiti: bilo zato što uskrati zapovijed ili savjet koji bi spriječio krađu ili otimačinu; bilo zato što uskrati svoju pomoć kojom bi se mogao suprotstaviti; bilo zato što poslije djela prikrije. To je obuhvaćeno ovim stihovima: *zapovijed, savjet, pristanak, ulizica, utočište, sudionik, nijemi, onaj koji se ne suprotstavlja, onaj koji ne prokazuje*. Ipak treba znati da pet od navedenih uvijek obvezuje na povrat. Prvo, zapovijed, jer je onaj koji zapovijeda glavni pokretač; zato je on prvenstveno dužan vratiti. Drugo, pristanak, naime kod onoga bez koga se otimačina ne može izvršiti. Treće, utočište, naime kad je netko jatak razbojnika i pruža im zaštitu. Četvrto, sudioništvo, naime kad netko sudjeluje u razbojničkom zločinu i u plijenu. Peto, dužan je onaj koji se ne suprotstavlja iako je dužan suprotstaviti se: tako su vladari, koji su dužni čuvati pravednost u zemlji, dužni na povrat ako se njihovim propustom razbojnici namnože; jer su prihodi koje imaju kao plaće ustanovljene zato da čuvaju pravednost u zemlji. U ostalim pak nabrojenim slučajevima netko nije uvijek obvezan na povrat. Nije, naime, savjet ili laskanje ili nešto takvo uvijek djelotvoran uzrok otimačine. Stoga je savjetnik ili ulizica, to jest laskavac, dužan na povrat samo onda kad se može s vjerojatnošću procijeniti da je iz takvih uzroka uslijedilo nepravedno uzimanje.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da ne griješi samo onaj koji izvršava grijeh, nego i onaj koji je na bilo koji način uzrok grijeha, bilo savjetovanjem, bilo zapovijedanjem, bilo na bilo koji drugi način.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a7.ad2": {
+      "text": "Na drugo treba reći da je prvenstveno dužan vratiti onaj koji je glavni u djelu: najprije onaj koji zapovijeda, potom onaj koji izvršava, a zatim ostali redom. Ali kad jedan vrati onome koji je pretrpio štetu, drugi mu nije dužan vratiti; nego su oni koji su glavni u djelu, i do kojih je stvar dospjela, dužni vratiti ostalima koji su vratili. A kad netko zapovijedi nepravedno uzimanje koje ne uslijedi, ne treba izvršiti povrat, budući da je povrat prvenstveno usmjeren prema tome da se nadoknadi imovina onoga kome je nepravedno nanesena šteta.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a7.ad3": {
+      "text": "Na treće treba reći da onaj koji ne prokaže razbojnika nije uvijek dužan na povrat, niti onaj koji se ne suprotstavi ili koji ne ukori, nego samo kad je to nekome dužnost po službi, kao vladarima zemlje. Njima zbog toga ne prijeti velika pogibao; zato, naime, i imaju javnu vlast, da budu čuvari pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da nitko nije dužan odmah vratiti, nego da radije smije dopušteno odgoditi povrat. Afirmativne zapovijedi, naime, ne obvezuju za svaki trenutak. Ali nužnost vraćanja proizlazi iz afirmativne zapovijedi. Dakle, čovjek nije obvezan odmah vratiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a8.obj2": {
+      "text": "Osim toga, nitko nije dužan na nemoguće. Ali katkad netko ne može odmah vratiti. Dakle, nitko nije dužan odmah vratiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a8.obj3": {
+      "text": "Osim toga, povrat je neki čin kreposti, naime pravednosti. A vrijeme je jedna od okolnosti koje se zahtijevaju za čine kreposti. Budući, dakle, da ostale okolnosti u činima kreposti nisu određene, nego su odredive prema mjerilu razboritosti, čini se da ni u povratu vrijeme nije određeno, tako da bi netko bio dužan odmah vratiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a8.sc": {
+      "text": "Ali protiv toga je to što se čini da isti razlog vrijedi za sve što treba vratiti. Ali onaj koji unajmljuje rad najamnika ne može odgoditi povrat, kao što je očito iz onoga što stoji u Lev 19: *Neka ne ostane zarada tvoga najamnika kod tebe do jutra*. Dakle, ni pri vršenju drugih povrata ne smije biti odgode, nego treba odmah vratiti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a8.resp": {
+      "text": "Odgovaram: treba reći da kao što je uzeti tuđu stvar grijeh protiv pravednosti, tako je i zadržavati je; jer time što netko zadržava tuđu stvar protiv volje vlasnika, priječi ga u uporabi njegove stvari i tako mu nanosi nepravdu. A očito je da nije dopušteno ni kratko vrijeme ostati u grijehu, nego je svatko dužan odmah ostaviti grijeh, prema onome Sir 21: *Bježi od grijeha kao pred zmijom*. Stoga je svatko dužan odmah vratiti ili zamoliti odgodu od onoga koji može dopustiti uporabu stvari.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da zapovijed o vršenju povrata, premda je po obliku afirmativna, ipak u sebi uključuje negativnu zapovijed, kojom nam se zabranjuje zadržavati stvar drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a8.ad2": {
+      "text": "Na drugo treba reći da kad netko ne može odmah vratiti, sama ga nemoć oslobađa od trenutačnog vršenja povrata, kao što je i potpuno oslobođen povrata ako je posve nemoćan. Ipak treba od onoga kome duguje zamoliti otpust duga ili odgodu, bilo sam bilo preko drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q62.a8.ad3": {
+      "text": "Na treće treba reći da okolnost čiji se propust protivi kreposti treba smatrati određenom, i tu okolnost treba obdržavati. A budući da se odgađanjem povrata čini grijeh nepravednog zadržavanja, koji se protivi pravednosti, nužno je da vrijeme bude određeno, tako da se povrat izvrši odmah.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    }
+  }
+}

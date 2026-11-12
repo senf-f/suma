@@ -1,0 +1,216 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 61,
+  "units": {
+    "II-II.q61.pr": {
+      "text": "Zatim treba razmotriti dijelove pravednosti. I to, prvo, podvrstne dijelove, koji su vrste pravednosti, naime distributivnu i komutativnu; drugo, takoreći sastavne dijelove; treće, takoreći potencijalne dijelove, to jest pridružene kreposti. U vezi s prvim javlja se dvostruko razmatranje: prvo, o samim dijelovima pravednosti; drugo, o suprotstavljenim porocima. A budući da se čini da je povrat čin komutativne pravednosti, prvo treba razmotriti razlikovanje komutativne i distributivne pravednosti, drugo, povrat. U vezi s prvim postavljaju se četiri pitanja. Prvo, postoje li dvije vrste pravednosti, distributivna i komutativna pravednost. Drugo, uzima li se u njima sredina na isti način. Treće, je li njihova građa jednolika ili mnogostruka. Četvrto, je li prema nekoj od tih vrsta pravedno isto što i uzvrat.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se neprikladno postavljaju dvije vrste pravednosti, distributivna i komutativna pravednost. Naime, ne može biti vrsta pravednosti ono što škodi mnoštvu, budući da je pravednost usmjerena prema općem dobru. Ali raspodjeljivati zajednička dobra mnogima škodi općem dobru mnoštva, kako zato što se iscrpljuju zajednička sredstva, tako i zato što se kvari ćudoređe ljudi; jer Tulije kaže u knjizi O dužnostima: *Gori postaje onaj koji prima, i uvijek spremniji da isto očekuje*. Dakle, raspodjela ne pripada nijednoj vrsti pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.obj2": {
+      "text": "Osim toga, čin je pravednosti dati svakome ono što je njegovo, kako je gore utvrđeno. Ali u raspodjeli se nekome ne daje ono što je bilo njegovo, nego mu se nanovo dodjeljuje kao vlastito ono što je bilo zajedničko. Dakle, to ne pripada pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.obj3": {
+      "text": "Osim toga, pravednost nije samo u vladaru, nego i u podložnicima, kako je gore utvrđeno. Ali raspodjeljivati uvijek pripada vladaru. Dakle, distributivna pravednost ne pripada pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.obj4": {
+      "text": "Osim toga, distributivno pravedno odnosi se na zajednička dobra, kako se kaže u V. knjizi Etike. Ali ono što je zajedničko pripada zakonskoj pravednosti. Dakle, distributivna pravednost nije vrsta posebne pravednosti, nego zakonske pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.obj5": {
+      "text": "Osim toga, jedno i mnogo ne razlikuju vrstu kreposti. Ali komutativna se pravednost sastoji u tome da se nešto daje jednome, a distributivna u tome da se nešto daje mnogima. Dakle, nisu različite vrste pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.sc": {
+      "text": "Ali protiv toga je što Filozof u V. knjizi Etike postavlja dva dijela pravednosti i kaže da *jedan usmjeruje raspodjele, a drugi razmjene*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kako je rečeno, posebna pravednost usmjerena prema nekoj privatnoj osobi, koja se prema zajednici odnosi kao dio prema cjelini. A s obzirom na neki dio može se promatrati dvostruki red. Jedan je red dijela prema dijelu, kojemu je sličan red jedne privatne osobe prema drugoj. I taj red usmjeruje komutativna pravednost, koja se odnosi na ono što se uzajamno zbiva između dviju osoba. Drugi je red cjeline prema dijelovima, a tom je redu sličan red onoga što je zajedničko prema pojedinim osobama. Taj red usmjeruje distributivna pravednost, koja raspodjeljuje ono što je zajedničko prema razmjernosti. I zato postoje dvije vrste pravednosti, naime komutativna i distributivna.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što se u darivanjima privatnih osoba hvali mjera, a rasipanje se kudi, tako i u raspodjeli zajedničkih dobara treba čuvati mjeru, i u tome usmjeruje distributivna pravednost.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.ad2": {
+      "text": "Na drugo treba reći da, kao što su dio i cjelina na neki način isto, tako ono što pripada cjelini na neki način pripada dijelu. I tako, kad se od zajedničkih dobara nešto raspodjeljuje pojedincima, svatko na neki način prima ono što je njegovo.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.ad3": {
+      "text": "Na treće treba reći da čin raspodjele zajedničkih dobara pripada samo onome koji je postavljen nad zajedničkim dobrima; ali ipak distributivna pravednost postoji i u podložnicima, kojima se raspodjeljuje, ukoliko su, naime, zadovoljni pravednom raspodjelom. Premda se katkad vrši i raspodjela dobara koja nisu zajednička državi, nego jednoj obitelji, a njihova se raspodjela može obaviti autoritetom neke privatne osobe.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.ad4": {
+      "text": "Na četvrto treba reći da gibanja primaju vrstu od završne granice. I zato zakonskoj pravednosti pripada usmjeravati ono što pripada privatnim osobama prema općem dobru, a obratno, usmjeravati opće dobro prema pojedinim osobama putem raspodjele pripada posebnoj pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a1.ad5": {
+      "text": "Na peto treba reći da se distributivna i komutativna pravednost ne razlikuju samo po jednome i mnogome, nego po različitom pojmu dugovanoga; jer na jedan se način nekome duguje ono što je zajedničko, a na drugi način ono što je vlastito.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se sredina u distributivnoj i komutativnoj pravednosti uzima na isti način. Obje su, naime, sadržane pod posebnom pravednošću, kako je rečeno. Ali u svim dijelovima umjerenosti ili jakosti sredina se uzima na jedan način. Dakle, i u distributivnoj i komutativnoj pravednosti sredinu treba uzimati na isti način.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a2.obj2": {
+      "text": "Osim toga, forma moralne kreposti sastoji se u sredini koja se određuje prema razumu. Budući, dakle, da jedna krepost ima jednu formu, čini se da u objema treba uzimati sredinu na isti način.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a2.obj3": {
+      "text": "Osim toga, u distributivnoj pravednosti sredina se uzima s obzirom na različito dostojanstvo osoba. Ali dostojanstvo osoba uzima se u obzir i u komutativnoj pravednosti, kao kod kažnjavanja; jer se više kažnjava onaj koji je udario vladara nego onaj koji je udario privatnu osobu. Dakle, u objema se pravednostima sredina uzima na isti način.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a2.sc": {
+      "text": "Ali protiv toga je što Filozof kaže u V. knjizi Etike da se u distributivnoj pravednosti sredina uzima prema geometrijskoj razmjernosti, a u komutativnoj prema aritmetičkoj.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, u distributivnoj pravednosti nešto daje nekoj privatnoj osobi ukoliko je ono što pripada cjelini dugovano dijelu. A to je to veće što sam dio ima veće prvenstvo u cjelini. I zato se u distributivnoj pravednosti nekome od zajedničkih dobara daje to više što ta osoba ima veće prvenstvo u zajednici. A to se prvenstvo u aristokratskoj zajednici gleda prema kreposti, u oligarhijskoj prema bogatstvu, u demokratskoj prema slobodi, a u drugima drukčije. I zato se u distributivnoj pravednosti sredina ne uzima prema jednakosti stvari sa stvari, nego prema razmjeru stvari prema osobama, tako da, naime, kao što jedna osoba nadmašuje drugu, tako i stvar koja se daje jednoj osobi nadmašuje stvar koja se daje drugoj. I zato Filozof kaže da je takva sredina prema geometrijskoj razmjernosti, u kojoj se jednako gleda ne prema kolikoći, nego prema razmjeru. Kao kad bismo rekli da se šest prema četiri odnosi kao tri prema dva, jer je i ovdje i ondje omjer jedan i pol, u kojem veće sadrži cijelo manje i još njegovu polovinu; ali nema jednakosti viška prema kolikoći, jer šest nadmašuje četiri za dva, a tri nadmašuje dva za jedan. A u razmjenama se nešto daje nekoj pojedinoj osobi zbog njezine stvari koja je primljena, kako je najjasnije u kupnji i prodaji, u kojima se prvotno nalazi pojam razmjene. I zato treba izjednačiti stvar sa stvari, tako da koliko taj ima više nego što mu pripada od onoga što je drugoga, toliko vrati onome čije je. I tako nastaje jednakost prema aritmetičkoj sredini, koja se gleda prema jednakom višku kolikoće, kao što je pet sredina između šest i četiri, jer za jedinicu nadmašuje i biva nadmašeno. Ako je, dakle, na početku svaki od njih imao pet, a jedan je od njih uzeo jedan od onoga što je drugoga, jedan će, naime onaj koji je uzeo, imati šest, a drugome će ostati četiri. Bit će, dakle, pravednost ako se obojica svedu na sredinu, tako da se uzme jedan od onoga koji ima šest i dade onome koji ima četiri; tako će, naime, obojica imati pet, što je sredina.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u drugim moralnim krepostima sredina uzima prema razumu, a ne prema stvari. Ali u pravednosti se uzima sredina stvari, i zato se prema različitosti stvari sredina uzima na različit način.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a2.ad2": {
+      "text": "Na drugo treba reći da je opća forma pravednosti jednakost, u kojoj se distributivna pravednost slaže s komutativnom. Ali u jednoj se nalazi jednakost prema geometrijskoj razmjernosti, a u drugoj prema aritmetičkoj.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a2.ad3": {
+      "text": "Na treće treba reći da u radnjama i trpnjama položaj osobe utječe na kolikoću stvari; jer je veća nepravda ako se udari vladar nego ako se udari privatna osoba. I tako se položaj osobe u distributivnoj pravednosti gleda po sebi, a u komutativnoj ukoliko se time mijenja stvar.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da građa obiju pravednosti nije različita. Različitost građe, naime, čini različitost kreposti, kako je jasno kod umjerenosti i jakosti. Ako, dakle, distributivna i komutativna pravednost imaju različitu građu, čini se da nisu sadržane pod jednom kreposti, naime pod pravednošću.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a3.obj2": {
+      "text": "Osim toga, raspodjela, koja pripada distributivnoj pravednosti, *odnosi se na novac ili čast ili na druge stvari koje se mogu razdijeliti među onima koji su dionici zajednice*, kako se kaže u V. knjizi Etike. A tih stvari ima i razmjena među osobama, koja pripada komutativnoj pravednosti. Dakle, građa distributivne i komutativne pravednosti nije različita.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a3.obj3": {
+      "text": "Osim toga, ako distributivna pravednost ima jednu građu, a komutativna drugu zbog toga što se razlikuju po vrsti, onda gdje nema razlike vrste, ne bi smjelo biti različitosti građe. Ali Filozof postavlja jednu vrstu komutativne pravednosti, koja ipak ima mnogostruku građu. Dakle, ne čini se da je građa tih vrsta mnogostruka.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a3.sc": {
+      "text": "Suprotno tome, u V. knjizi Etike kaže se da jedna vrsta pravednosti *usmjeruje raspodjele, a druga razmjene*.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a3.resp": {
+      "text": "Odgovaram: treba reći da se, kako je gore rečeno, pravednost odnosi na neka vanjska djelovanja, naime raspodjelu i razmjenu, koja su uporaba nečega vanjskoga: bilo stvari, bilo osoba, bilo pak radova. Stvari, kao kad netko drugome oduzme ili vrati njegovu stvar; osoba, kao kad netko nanosi nepravdu samoj osobi čovjeka, npr. udarajući ga ili vrijeđajući, ili pak kad joj iskazuje poštovanje; radova, kao kad tko od drugoga pravedno zahtijeva neki rad ili ga drugome obavi. Ako, dakle, kao građu obiju pravednosti uzmemo ono čija su uporaba ta djelovanja, ista je građa distributivne i komutativne pravednosti; jer se i stvari mogu raspodjeljivati od zajedničkoga pojedincima i razmjenjivati od jednoga drugome; a postoji i neka raspodjela mukotrpnih radova i naknada za njih. Ako pak kao građu obiju pravednosti uzmemo same glavne radnje kojima se služimo osobama, stvarima i radovima, tada se kod jedne i druge nalazi različita građa. Jer distributivna pravednost usmjeruje raspodjelu, a komutativna pravednost usmjeruje razmjene koje se mogu promatrati između dviju osoba. Od njih su neke protuvoljne, a neke voljne. Protuvoljne su kad se netko služi tuđom stvari ili osobom ili radom protiv njegove volje. A to se događa katkad potajno, prijevarom, a katkad otvoreno, nasiljem. I jedno i drugo događa se ili protiv stvari, ili protiv same osobe, ili protiv osobe s njom povezane. Protiv stvari: ako netko potajno uzme tuđu stvar, zove se krađa; ako pak otvoreno, zove se otimačina. Protiv same osobe: bilo s obzirom na samu opstojnost osobe, bilo s obzirom na njezino dostojanstvo. S obzirom na opstojnost osobe, netko se ozljeđuje potajno podmuklim ubijanjem ili udarcem i davanjem otrova; otvoreno pak javnim ubijanjem, ili zatvaranjem, ili udaranjem, ili sakaćenjem uda. S obzirom na dostojanstvo osobe, netko se ozljeđuje potajno lažnim svjedočanstvima ili ogovaranjima, kojima mu se oduzima dobar glas, i drugim takvim stvarima; otvoreno pak optužbom na sudu ili nanošenjem uvrede. S obzirom na povezanu osobu, netko se ozljeđuje u ženi, većinom potajno, preljubom; u robu pak, kad netko zavede roba da ode od gospodara; a i to se može činiti otvoreno. I isti je razlog za druge povezane osobe, protiv kojih se također na sve načine mogu počiniti nepravde kao i protiv glavne osobe. Ali preljub i zavođenje roba u vlastitom su smislu nepravde u vezi s tim osobama; ipak, budući da je rob neki posjed, to se svodi na krađu. Voljnima se pak nazivaju razmjene kad netko voljno prenosi svoju stvar na drugoga. I ako svoju stvar naprosto prenosi na drugoga bez dugovanja, kao u darivanju, to nije čin pravednosti, nego darežljivosti. A voljni prijenos utoliko pripada pravednosti ukoliko u njemu ima nečega od pojma dugovanoga. A to se događa na tri načina. Na jedan način, kad netko svoju stvar naprosto prenosi na drugoga za naknadu druge stvari, kako se događa u prodaji i kupnji. Na drugi način, kad netko predaje svoju stvar drugome, dopuštajući mu uporabu stvari uz dužnost da mu stvar vrati. I ako uporabu stvari dopušta besplatno, kod stvari koje donose neki plod to se zove plodouživanje, a kod stvari koje ne donose ploda, kao što su novac, posude i slično, naprosto zajam ili posudba. Ako se pak ni sama uporaba ne dopušta besplatno, zove se najam i zakup. Na treći način netko predaje svoju stvar da mu bude vraćena, ne radi uporabe, nego bilo radi čuvanja, kao u pologu, bilo radi obveze, kao kad netko svoju stvar daje u zalog ili kad netko jamči za drugoga. A u svim takvim radnjama, bilo voljnim bilo protuvoljnim, isti je razlog uzimanja sredine prema jednakosti naknade. I zato sve te radnje pripadaju jednoj vrsti pravednosti, naime komutativnoj.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a3.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je pravedno naprosto isto što i uzvrat. Božji je, naime, sud naprosto pravedan. Ali ovo je forma Božjega suda: da netko trpi prema onome što je učinio, prema onome iz Mt 7: *Kakvim sudom sudite, takvim će vam se suditi, i kakvom mjerom mjerite, takvom će vam se mjeriti*. Dakle, pravedno je naprosto isto što i uzvrat.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a4.obj2": {
+      "text": "Osim toga, u objema vrstama pravednosti nekome se daje nešto prema nekoj jednakosti: u distributivnoj pravednosti s obzirom na dostojanstvo osobe, a čini se da se dostojanstvo osobe ponajviše gleda prema djelima kojima je netko služio zajednici; u komutativnoj pravednosti s obzirom na stvar u kojoj je netko oštećen. A prema objema jednakostima netko uzvratno trpi prema onome što je učinio. Dakle, čini se da je pravedno naprosto isto što i uzvrat.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a4.obj3": {
+      "text": "Osim toga, čini se da bi ponajviše zbog razlike između voljnoga i protuvoljnoga trebalo da netko ne trpi uzvratno prema onome što je učinio; jer se onaj koji je protuvoljno nanio nepravdu manje kažnjava. Ali voljno i protuvoljno, koji se uzimaju s naše strane, ne razlikuju sredinu pravednosti, koja je sredina stvari, a ne s obzirom na nas. Dakle, čini se da je pravedno naprosto isto što i uzvrat.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a4.sc": {
+      "text": "Ali protiv toga je što Filozof u V. knjizi Etike dokazuje da nije svako pravedno uzvrat.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a4.resp": {
+      "text": "Odgovaram: treba reći da ono što se naziva uzvratom označuje jednaku naknadu trpnje za prethodnu radnju. A to se u najvlastitijem smislu kaže za nepravedne trpnje kojima netko ozljeđuje osobu bližnjega; npr. ako udari, da bude uzvratno udaren. I to je pravedno određeno u zakonu, Izl 21: *Dat će život za život, oko za oko*, i tako dalje. A budući da je i oduzeti tuđu stvar neko činjenje, zato se drugotno i u tim stvarima govori o uzvratu, naime ukoliko je onaj koji je nanio štetu i sam oštećen u svojoj stvari. I to je pravedno također sadržano u zakonu, Izl 22: *Ako tko ukrade vola ili ovcu pa ga zakolje ili proda, vratit će pet volova za jednog vola i četiri ovce za jednu ovcu*. Treće, ime uzvrata prenosi se na voljne razmjene, u kojima je s obiju strana i radnja i trpnja; ali voljnost umanjuje pojam trpnje, kako je rečeno. A u svima tim slučajevima mora se, prema pojmu komutativne pravednosti, dati naknada prema jednakosti, tako naime da trpnja kojom se naknađuje bude jednaka radnji. Ali ne bi uvijek bila jednaka kad bi netko trpio po vrsti isto što je učinio. Jer, prvo, kad netko nepravedno ozlijedi osobu drugoga koja je veća, radnja je veća nego trpnja iste vrste koju bi on sam trpio. I zato onaj koji udari vladara ne biva samo uzvratno udaren, nego biva mnogo teže kažnjen. Slično, kad netko nekoga protiv njegove volje ošteti u njegovoj stvari, radnja je veća nego što bi bila trpnja kad bi se njemu oduzela samo ta stvar, jer onaj koji je drugoga oštetio sam ne bi bio nimalo oštećen u svojoj stvari. I zato se kažnjava time što vraća višestruko, i zato što nije oštetio samo privatnu osobu, nego i državu, narušavajući sigurnost njezine zaštite. Slično ni u voljnim razmjenama trpnja ne bi uvijek bila jednaka kad bi netko davao svoju stvar primajući tuđu, jer je možda tuđa stvar mnogo veća od njegove. I zato u razmjenama treba izjednačiti trpnju s radnjom prema nekom razmjernom odmjeravanju, radi čega je izumljen novac. I tako je uzvrat komutativno pravedno. A u distributivnoj pravednosti nema mjesta. Jer se u distributivnoj pravednosti ne gleda jednakost prema razmjeru stvari prema stvari, ili trpnje prema radnji, po čemu se govori o uzvratu, nego prema razmjernosti stvari prema osobama, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ta forma Božjega suda promatra prema pojmu komutativne pravednosti, naime ukoliko zasluge naknađuje nagradama, a grijehe kaznama.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a4.ad2": {
+      "text": "Na drugo treba reći da, kad bi se nekome tko je služio zajednici nešto uzvratilo za uloženu službu, to ne bi pripadalo distributivnoj, nego komutativnoj pravednosti. Jer se u distributivnoj pravednosti ne gleda jednakost onoga što netko prima prema onome što je sam uložio, nego prema onome što prima drugi, u skladu s položajem obiju osoba.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    },
+    "II-II.q61.a4.ad3": {
+      "text": "Na treće treba reći da je, kad je nepravedna radnja voljna, nepravda veća, i tako se uzima kao veća stvar. Zato joj treba uzvratiti većom kaznom, ne prema razlici s obzirom na nas, nego prema razlici stvari.",
+      "prompt_version": "1",
+      "glossary_version": 16,
+      "created_at": "2026-11-12T10:58:51+00:00"
+    }
+  }
+}
