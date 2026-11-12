@@ -1,4 +1,4 @@
-version: 19
+version: 20
 terms:
 - la: esse
   hr: bitak
@@ -3193,3 +3193,80 @@ terms:
     unatoč vanjskim zaprekama. Ustrajnosti se protivi mekoputnost, koja lako odustaje,
     i tvrdoglavost, koja ne odustaje ni kad treba.
   mjesto: II-II.q136.a1.resp
+- la: temperantia (verecundia, honestas) / insensibilitas, intemperantia
+  hr: umjerenost (stid, čestitost) / neosjetljivost, neumjerenost
+  alternatives: []
+  note: Temperatus = "umjeren"; intemperatus = "neumjeren"; honestas = "čestitost"
+    (honestum = "čestito"); turpitudo = "sramotnost"; pulchritudo spiritualis = "duhovna
+    ljepota"; delectationes tactus = "užici dodira"; concupiscentia = "požuda"; verecundia
+    = "stid" as in I-II.
+  opis: Umjerenost je stožerna krepost koja obuzdava požude i užitke, ponajprije užitke
+    dodira u jelu, piću i spolnosti, prema mjeri razuma. Njezini su sastavni dijelovi
+    stid, koji se zgraža nad sramotnim, i čestitost, koja ljubi ljepotu umjerenosti.
+    Protivi joj se neumjerenost, a po nedostatku neosjetljivost.
+  mjesto: null
+- la: abstinentia, ieiunium, gula / sobrietas, ebrietas
+  hr: apstinencija, post, neumjerenost u jelu i piću / trijeznost, pijanstvo
+  alternatives:
+  - uzdržavanje od jela
+  note: 'Owner''s choice (v20): abstinentia = "apstinencija" (continentia stays "uzdržljivost").
+    Ieiunare = "postiti"; ieiunium Ecclesiae = "crkveni post"; gula stays "neumjerenost
+    u jelu i piću" (v12), gulosus = "neumjeren u jelu i piću"; Gregory''s five ways
+    (praepropere, laute, nimis, ardenter, studiose) = prerano, probrano, previše,
+    pohlepno, pomno pripremljeno; daughters of gula (inepta laetitia, scurrilitas,
+    immunditia, multiloquium, hebetudo mentis) = nesuvisla veselost, lakrdijaštvo,
+    nečistoća, mnogogovorljivost, otupjelost duha; sobrius = "trijezan"; ebrius =
+    "pijan".'
+  opis: Apstinencija je krepost koja uređuje uzimanje hrane, a njezin je čin post;
+    trijeznost uređuje piće. Protivi im se neumjerenost u jelu i piću, kojoj pripada
+    i pijanstvo.
+  mjesto: null
+- la: 'castitas, virginitas, pudicitia / luxuria: fornicatio, stuprum, raptus, adulterium,
+    incestus, mollities, vitium contra naturam'
+  hr: 'čistoća, djevičanstvo, čednost / bludnost: blud, oskvrnuće djevice, otmica,
+    preljub, rodoskvrnuće, samozadovoljavanje, grijeh protiv naravi'
+  alternatives:
+  - onanija
+  note: 'Owner''s choice (v20): mollities in the sexual sense (q.154 a.11) = "samozadovoljavanje";
+    as the vice opposed to perseverance (q.138) it stays "mekoputnost". Luxuria stays
+    "bludnost" (v12); fornicatio simplex = "jednostavni blud"; fornicator = "bludnik";
+    meretrix = "bludnica"; virgo = "djevica"; matrimonium = "ženidba"; actus venereus
+    / venerea = "spolni čin" / "spolni užici"; osculum, tactus = "poljubac, dodir".
+    Daughters of luxuria (q.153 a.5): caecitas mentis, inconsideratio, praecipitatio,
+    inconstantia, amor sui, odium Dei, affectus praesentis saeculi, horror vel desperatio
+    futuri saeculi = sljepoća duha, nepromišljenost, brzopletost, nepostojanost, ljubav
+    prema sebi, mržnja prema Bogu, privrženost sadašnjem svijetu, užas ili očaj glede
+    budućega svijeta.'
+  opis: 'Čistoća je krepost kojom razum uređuje spolne užitke; djevičanstvo je trajno
+    uzdržavanje od njih radi posvećenosti Bogu. Protivi im se bludnost, kojoj Toma
+    ubraja vrste: blud, oskvrnuće djevice, otmicu, preljub, rodoskvrnuće, svetogrđe
+    i grijeh protiv naravi.'
+  mjesto: null
+- la: continentia / incontinentia; clementia, mansuetudo / iracundia, crudelitas,
+    saevitia
+  hr: uzdržljivost / neuzdržljivost; milostivost, blagost / srdljivost, okrutnost,
+    surovost
+  alternatives:
+  - klementnost
+  note: 'Owner''s choice (v20): clementia = "milostivost", clemens = "milostiv" (mansuetudo
+    stays "blagost", misericordia "milosrđe"). Continens / incontinens = "uzdržljiv
+    / neuzdržljiv"; ira = "srdžba", iracundus = "srdljiv"; poenae diminutio = "ublažavanje
+    kazne".'
+  opis: Uzdržljivost je odluka volje da ne slijedi žestoke požude, iako ih osjeća;
+    nije savršena krepost. Milostivost ublažava vanjske kazne, a blagost obuzdava
+    srdžbu. Okrutnost je nemilosrdnost u kažnjavanju, a surovost uživanje u tuđoj
+    patnji.
+  mjesto: null
+- la: 'modestia: humilitas / superbia; studiositas / curiositas; eutrapelia'
+  hr: 'skromnost: poniznost / oholost; studioznost / radoznalost; duhovitost'
+  alternatives:
+  - znatiželja
+  note: 'Owner''s choice (v20): studiositas = "studioznost", curiositas = "radoznalost",
+    curiosus = "radoznao". Humilis = "ponizan"; superbus = "ohol"; gradus humilitatis
+    = "stupnjevi poniznosti"; primum peccatum primi hominis = "prvi grijeh prvoga
+    čovjeka"; ludus = "igra"; histrio = "glumac"; scurrilitas = "lakrdijaštvo"; ornatus
+    = "ukras"; agrestis = "neotesan"; eutrapelia stays "duhovitost" (v11).'
+  opis: 'Skromnost je dio umjerenosti koji obuzdava manje žestoka gibanja: poniznost
+    uređuje težnju za izvrsnošću, a oholost joj se protivi; studioznost uređuje želju
+    za znanjem, a radoznalost je njezin porok; duhovitost uređuje igru i zabavu.'
+  mjesto: null
