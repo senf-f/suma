@@ -1,4 +1,4 @@
-version: 13
+version: 14
 terms:
 - la: esse
   hr: bitak
@@ -2717,5 +2717,80 @@ terms:
     operatio virtutum, prophetia, discretio spirituum, genera linguarum, interpretatio
     sermonum = vjera, govor mudrosti, govor znanja, dar ozdravljanja, činjenje čudesa,
     proroštvo, razlučivanje duhova, vrste jezika, tumačenje govora.'
+  opis: null
+  mjesto: null
+- la: credere Deum / Deo / in Deum
+  hr: vjerovati Boga / Bogu / u Boga
+  alternatives: []
+  note: 'Owner''s choice (v14): the traditional forms, with the Latin in brackets
+    at the first mention in each article ("vjerovati Boga (credere Deum)"), since
+    the argument turns on the grammatical case. Credere = "vjerovati"; credibilia
+    = "ono što valja vjerovati"; cogitare cum assensu = "razmišljati s pristankom";
+    assensus = "pristanak".'
+  opis: 'Toma s Augustinom razlikuje tri vida čina vjere: vjerovati Boga, to jest
+    vjerovati da Bog jest, što se odnosi na predmet vjere; vjerovati Bogu, to jest
+    vjerovati njegovoj riječi kao razlogu pristanka; i vjerovati u Boga, to jest volju
+    usmjeriti prema Bogu kao svrsi.'
+  mjesto: null
+- la: obiectum fidei / veritas prima / symbolum
+  hr: predmet vjere / prva istina / Vjerovanje
+  alternatives:
+  - simbol
+  note: Symbolum = "Vjerovanje" (symbolum Apostolorum / Nicaenum / Athanasii = "Apostolsko
+    / Nicejsko / Atanazijevo vjerovanje"); "simbol" only where Thomas discusses the
+    word itself. Explicite / implicite = "izričito / uključno"; articulus fidei =
+    "članak vjere" as before.
+  opis: Formalni predmet vjere je prva istina, sam Bog koji objavljuje; tvarno vjera
+    obuhvaća sve što je Bog objavio. Istine vjere sažete su u člancima Vjerovanja.
+  mjesto: null
+- la: fides formata / informis
+  hr: oblikovana / neoblikovana vjera
+  alternatives:
+  - živa / mrtva vjera
+  note: Owner's choice (v14). Forma fidei = "oblik vjere" (caritas); fides viva /
+    mortua, where Thomas uses them, = "živa / mrtva vjera".
+  opis: Vjera je oblikovana kad je oživljuje ljubav, koja je oblik svih kreposti;
+    neoblikovana je vjera onoga tko vjeruje, ali je u smrtnom grijehu. To je isti
+    habitus vjere, ali bez ljubavi nije savršena krepost.
+  mjesto: null
+- la: infidelitas / haeresis / apostasia
+  hr: nevjera / hereza / otpad (od vjere)
+  alternatives:
+  - nevjerstvo
+  - krivovjerje
+  - apostazija
+  note: 'Owner''s choice (v14): infideles = "nevjernici", haeretici = "heretici",
+    apostatae = "otpadnici"; schisma = "raskol"; blasphemia = "bogohulstvo"; ritus
+    infidelium = "obredi nevjernika"; Iudaei / gentiles / pagani = "Židovi / pogani".'
+  opis: Nevjera je grijeh protivan vjeri; hereza je nevjera onoga tko je primio vjeru
+    Kristovu, ali izabire ono što mu se sviđa i odbacuje ostalo; otpad je potpuno
+    napuštanje vjere koju je netko primio.
+  mjesto: null
+- la: timor servilis / filialis (castus) / initialis / mundanus
+  hr: ropski / sinovski (čisti) / početni / svjetovni strah
+  alternatives: []
+  note: Timor Dei = "strah Božji"; the gift stays "strah Božji".
+  opis: Ropski se strah boji kazne, sinovski se boji uvrijediti Boga i rastaviti se
+    od njega; početni je strah između njih, a svjetovni se strah boji gubitka zemaljskih
+    dobara pa odvraća od Boga.
+  mjesto: null
+- la: praesumptio / peccatum in Spiritum Sanctum
+  hr: preuzetnost / grijeh protiv Duha Svetoga
+  alternatives:
+  - drskost
+  note: 'Owner''s choice (v14): praesumptio = "preuzetnost", praesumere = "preuzetno
+    se uzdati". The six species of the sin against the Holy Spirit (q.14 a.2): desperatio,
+    praesumptio, impugnatio veritatis agnitae, invidentia fraternae gratiae, impoenitentia,
+    obstinatio = "očaj, preuzetnost, napadanje spoznate istine, zavist zbog bratove
+    milosti, nepokajanje, okorjelost".'
+  opis: Preuzetnost je grijeh protivan nadi kojim se čovjek neuredno uzda u Božje
+    milosrđe ili u vlastite snage, očekujući oproštenje bez pokajanja ili slavu bez
+    zasluge.
+  mjesto: null
+- la: caecitas mentis / hebetudo sensus
+  hr: sljepoća duha / otupjelost smisla
+  alternatives: []
+  note: The vices opposed to the gifts of understanding and knowledge (q.15); sensus
+    here = the inner sense of spiritual things, so "smisao".
   opis: null
   mjesto: null
