@@ -1,4 +1,4 @@
-version: 16
+version: 17
 terms:
 - la: esse
   hr: bitak
@@ -2966,3 +2966,73 @@ terms:
     possessio = "posjed", res aliena = "tuđa stvar".
   opis: null
   mjesto: II-II.q64.a2.resp
+- la: iudex, accusator, reus, testis, advocatus; accusatio, calumnia, praevaricatio,
+    tergiversatio
+  hr: sudac, tužitelj, optuženik, svjedok, odvjetnik; optužba, kleveta, prevarikacija,
+    odustajanje od optužbe
+  alternatives:
+  - branitelj
+  note: Sins in court (q.67-71). Accusare = "optužiti"; denuntiatio = "prijava"; testimonium
+    = "svjedočanstvo"; causa (in court) = "parnica" / "spor"; sententia = "presuda";
+    praevaricatio = colluding with the accused to hide the crime ("prevarikacija,
+    to jest dosluh s optuženikom" at first mention).
+  opis: Toma razmatra grijehe protiv pravednosti u sudskom postupku sa strane suca,
+    tužitelja, optuženika, svjedoka i odvjetnika. Tužitelj griješi klevetom, kad lažno
+    optužuje; prevarikacijom, kad prikriva istinu u dosluhu s optuženikom; i odustajanjem
+    od optužbe bez razloga.
+  mjesto: null
+- la: contumelia (convicium), detractio, susurratio, derisio, maledictio
+  hr: pogrda (uvreda), ogovaranje, spletkarenje, ruganje, kletva
+  alternatives:
+  - došaptavanje
+  - proklinjanje
+  note: 'Owner''s choice (v17). Injuries by word outside court (q.72-76): detractor
+    = "ogovaratelj"; susurro = "spletkar" (sowing discord between friends); maledicere
+    = "kleti" / "proklinjati"; fama = "dobar glas"; honor = "čast".'
+  opis: Pogrda vrijeđa čast drugoga u njegovoj prisutnosti; ogovaranje mu potajno
+    oduzima dobar glas; spletkarenje razbija prijateljstvo; ruganje ga posramljuje;
+    a kletva mu priziva zlo.
+  mjesto: null
+- la: fraudulentia (in emptione et venditione) / usura
+  hr: prijevara (u kupnji i prodaji) / lihva
+  alternatives:
+  - kamata
+  note: 'Owner''s choice (v17): usura = "lihva", usurarius = "lihvar"; mutuum = "zajam";
+    pretium iustum = "pravedna cijena"; negotiatio = "trgovina", negotiator = "trgovac".'
+  opis: 'Prodati stvar skuplje ili kupiti jeftinije nego što vrijedi po sebi je nepravedno.
+    Lihva je uzimanje plaće za posuđeni novac: time se prodaje ono čega nema, jer
+    se uporaba novca ne razlikuje od samoga novca.'
+  mjesto: null
+- la: religio (virtus)
+  hr: bogoštovlje (religija)
+  alternatives:
+  - religioznost
+  note: 'Owner''s choice (v17): religio as the virtue = "bogoštovlje", with "(religija)"
+    in brackets at the first mention in each article (as with acedia); religiosus
+    = "pobožan" or "redovnik" (member of a religious order) by context; cultus = "štovanje";
+    latria = "latrija"; dulia = "dulija"; sanctitas = "svetost".'
+  opis: Bogoštovlje je moralna krepost, dio pravednosti, kojom čovjek iskazuje dužno
+    štovanje Bogu kao prvom načelu stvaranja i upravljanja svime. Njezini su unutarnji
+    čini predanost i molitva, a vanjski klanjanje, žrtva, prinosi, zavjet i prisega.
+  mjesto: null
+- la: devotio / oratio / adoratio
+  hr: predanost / molitva / klanjanje
+  alternatives:
+  - odanost
+  note: 'Owner''s choice (v17): devotio = "predanost", devotus = "predan" (pietas
+    the gift stays "pobožnost"). Orare = "moliti"; petitio = "prošnja"; impetrare
+    = "isprositi"; oratio vocalis = "glasna molitva"; attentio = "pozornost".'
+  opis: Predanost je volja spremno se predati onome što pripada služenju Bogu. Molitva
+    je čin razuma kojim se od Boga traži ono što je prikladno; klanjanje je vanjsko
+    iskazivanje počasti Bogu tijelom.
+  mjesto: null
+- la: sacrificium, oblatio, primitiae, decimae, votum
+  hr: žrtva, prinos, prvine, desetina, zavjet
+  alternatives: []
+  note: Offerre = "prinositi"; votum solemne / simplex = "svečani / jednostavni zavjet";
+    vovere = "zavjetovati"; dispensatio voti = "oprost od zavjeta"; commutatio voti
+    = "zamjena zavjeta"; professio = "zavjetovanje" (religious).
+  opis: Žrtva je ono što se Bogu prinosi tako da se na tome nešto čini; prinos se
+    daje Bogu bez takva čina; prvine i desetina su prinosi koje je propisao zakon.
+    Zavjet je promišljeno obećanje dano Bogu o nekom boljem dobru.
+  mjesto: null
