@@ -1,4 +1,4 @@
-version: 15
+version: 16
 terms:
 - la: esse
   hr: bitak
@@ -2854,3 +2854,115 @@ terms:
   opis: 'Ludost je porok protivan daru mudrosti: otupjelost suda o najvišem uzroku;
     glupost je potpuni nedostatak duhovnoga suda.'
   mjesto: II-II.q46.a1.resp
+- la: 'partes prudentiae: memoria, intelligentia, docilitas, solertia, ratio, providentia,
+    circumspectio, cautio'
+  hr: 'dijelovi razboritosti: pamćenje, razumijevanje, poučljivost, oštroumnost, rasuđivanje,
+    providnost, obazrivost, opreznost'
+  alternatives:
+  - predviđanje
+  - snalažljivost
+  note: The eight integral parts (q.49). Intelligentia here = "razumijevanje" (of
+    first practical principles), ratio = "rasuđivanje"; providentia as a part of prudence
+    = "providnost" (as God's providence); eustochia = "dobro pogađanje". Partes integrales
+    / subiectivae / potentiales = "sastavni / podvrstni / potencijalni dijelovi".
+  opis: 'Toma navodi osam sastavnih dijelova razboritosti: pamćenje prošloga, razumijevanje
+    sadašnjega, poučljivost i oštroumnost u stjecanju spoznaje, rasuđivanje kojim
+    se iz spoznatoga zaključuje, te providnost, obazrivost i opreznost kojima se spoznaja
+    primjenjuje na djelovanje.'
+  mjesto: null
+- la: prudentia regnativa, politica, oeconomica, militaris
+  hr: vladalačka, politička, kućanska, vojnička razboritost
+  alternatives:
+  - ekonomska
+  note: The subjective parts (q.50). Oeconomia = "upravljanje kućom"; eubulia, synesis,
+    gnome stay "eubulija, sineza, gnoma" (I-II q.57).
+  opis: 'Osim razboritosti kojom čovjek upravlja sobom, postoje vrste razboritosti
+    kojima se upravlja mnoštvom: vladalačka u vladaru, politička u podanicima, kućanska
+    u kući i vojnička u vojsci.'
+  mjesto: null
+- la: 'imprudentia: praecipitatio, inconsideratio, inconstantia; negligentia'
+  hr: 'nerazboritost: brzopletost, nepromišljenost, nepostojanost; nemar'
+  alternatives:
+  - naglost
+  note: Negligentia = "nemar" (negligens = "nemaran"); torpor = "tromost"; sollicitudo
+    = "brižnost" (as the act of prudence), "briga / zabrinutost" for temporal things
+    (q.55).
+  opis: 'Nerazboritosti pripadaju poroci suprotni pojedinim činima razboritosti: brzopletost
+    protiv promišljanja, nepromišljenost protiv prosudbe, nepostojanost i nemar protiv
+    zapovijedanja.'
+  mjesto: null
+- la: prudentia carnis, astutia, dolus, fraus
+  hr: razboritost tijela, lukavost, podvala, prijevara
+  alternatives:
+  - lukavština
+  - varka
+  note: 'Owner''s choice (v16): astutia = "lukavost" (devising false ways to an end),
+    dolus = "podvala" (carrying out astutia in words and deeds), fraus = "prijevara"
+    (in deeds). Prudentia carnis = "razboritost tijela", prudentia huius saeculi =
+    "razboritost ovoga svijeta".'
+  opis: Razboritost tijela postavlja svrhu u tjelesnim dobrima. Lukavost smišlja lažne
+    i prividne putove do svrhe; podvala je izvršenje lukavosti riječima i djelima,
+    a prijevara njezino izvršenje djelima.
+  mjesto: null
+- la: ius / iustitia (legalis, particularis) / iniustitia
+  hr: pravo / pravednost (zakonska, posebna) / nepravednost
+  alternatives:
+  - opća pravednost
+  note: Ius as the object of justice = "pravo" (iustum = "pravedno"); iustitia legalis
+    (generalis) = "zakonska (opća) pravednost"; iniuria = "nepravda" (as a wrong done),
+    iniustum = "nepravedno"; dominium = "vlasništvo" / "gospodstvo" by context.
+  opis: Predmet pravednosti je pravo, to jest ono što je pravedno. Pravednost je postojana
+    i trajna volja da se svakome dade njegovo pravo. Zakonska pravednost usmjeruje
+    čine svih kreposti prema općem dobru, a posebna pravednost uređuje odnose s drugom
+    pojedinom osobom.
+  mjesto: null
+- la: iustitia commutativa / distributiva; aequalitas arithmetica / geometrica
+  hr: komutativna / distributivna pravednost; aritmetička / geometrijska jednakost
+  alternatives:
+  - zamjenska
+  - razdjelna
+  note: Owner's choice (v16). Commutatio = "razmjena"; contrapassum = "uzvrat"; medium
+    rei = "sredina stvari".
+  opis: Komutativna pravednost uređuje razmjene između pojedinaca prema aritmetičkoj
+    jednakosti stvari i stvari; distributivna pravednost razdjeljuje zajednička dobra
+    pojedincima prema geometrijskoj jednakosti, razmjerno njihovu položaju u zajednici.
+  mjesto: null
+- la: iudicium (temerarium) / iudex
+  hr: sud (nepromišljeni) / sudac
+  alternatives:
+  - prosudba
+  note: Iudicium as the act of justice and in court = "sud"; iudicare = "suditi";
+    as an act of reason in general = "prosudba". Usurpatum iudicium = "prisvojeni
+    sud"; suspicio = "sumnja".
+  opis: Sud kao čin pravednosti je ispravno određivanje onoga što je pravedno. Da
+    bi bio čin pravednosti, mora proizlaziti iz sklonosti pravednosti, iz vlasti onoga
+    tko sudi i iz pravila razboritosti; inače je nepravedan, prisvojen ili nepromišljen.
+  mjesto: null
+- la: restitutio
+  hr: povrat
+  alternatives:
+  - naknada
+  - restitucija
+  note: 'Owner''s choice (v16): restitutio = "povrat", restituere = "vratiti"; recompensatio
+    = "naknada"; damnum = "šteta".'
+  opis: Povrat je čin komutativne pravednosti kojim se onome kome je nešto oduzeto
+    ponovno uspostavlja jednakost, vraćanjem same stvari ili naknadom.
+  mjesto: null
+- la: acceptio personarum
+  hr: pristranost
+  alternatives:
+  - gledanje na osobe
+  note: 'Owner''s choice (v16): acceptio personarum = "pristranost"; personarum acceptor
+    = "pristran"; "Non est personarum acceptor Deus" = "Bog nije pristran".'
+  opis: 'Pristranost je grijeh protivan distributivnoj pravednosti: kad se nekome
+    nešto dodjeljuje ne zbog razloga po kojem mu to pripada, nego zbog same osobe.'
+  mjesto: null
+- la: homicidium, mutilatio, furtum, rapina
+  hr: ubojstvo, sakaćenje, krađa, otimačina
+  alternatives:
+  - razbojstvo
+  note: Sins against commutative justice by deed (q.64-66). Occidere = "ubiti"; occisio
+    sui ipsius = "samoubojstvo"; verberatio = "udaranje"; incarceratio = "zatvaranje";
+    possessio = "posjed", res aliena = "tuđa stvar".
+  opis: null
+  mjesto: null
