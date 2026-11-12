@@ -8,8 +8,9 @@ BASE_URL = "https://www.corpusthomisticum.org/"
 USER_AGENT = "suma-pilot (personal research; contact via github.com/senf-f)"
 PILOT_PAGES = ["sth1001.html", "sth1002.html", "sth1003.html"]
 # First page and file-name prefix of each Part, checked against the live site.
-# I-II starts with a page holding only the Part's prologue; its chain ends where sth3000.html (II-II) begins.
-PARTS = {"I": ("sth1001.html", "sth1"), "I-II": ("sth2000.html", "sth2")}
+# I-II and II-II each start with a page holding only the Part's prologue (sth2000, sth3000); each chain
+# ends where the next Part's prefix begins.
+PARTS = {"I": ("sth1001.html", "sth1"), "I-II": ("sth2000.html", "sth2"), "II-II": ("sth3000.html", "sth3")}
 _NEXT_LINK = re.compile(rb'HREF="([^"]+)"><IMG SRC="icons/ageultra\.gif"', re.IGNORECASE)
 
 
