@@ -11,7 +11,6 @@
 </script>
 <link rel="icon" href="{{ root }}static/favicon.svg?v={{ v }}" type="image/svg+xml">
 <link rel="stylesheet" href="{{ root }}static/style.css?v={{ v }}">
-<link rel="stylesheet" href="{{ root }}pagefind/pagefind-ui.css">
 </head>
 <body{% if with_latin %} class="with-la"{% endif %}>
 <header class="site">
@@ -45,9 +44,9 @@
 <main{% block main_attrs %}{% endblock %}>
 {% block main %}{% endblock %}
 </main>
-<footer class="site">Strojni prijevod (pilot), u izradi. Prevedeno s latinskog teksta izdanja <a href="https://www.corpusthomisticum.org/">Corpus Thomisticum</a> (© Fundación Tomás de Aquino), uz dopuštenje. <a href="{{ root }}index.html#kako-pomoci">Kako pomoći</a> · <a href="mailto:{{ contact_email }}">{{ contact_email }}</a></footer>
-<script src="{{ root }}pagefind/pagefind-ui.js"></script>
+<footer class="site">Strojni prijevod. Prevedeno s latinskog teksta izdanja <a href="https://www.corpusthomisticum.org/">Corpus Thomisticum</a> (© Fundación Tomás de Aquino), uz dopuštenje. <a href="{{ root }}index.html#kako-pomoci">Kako pomoći</a> · <a href="mailto:{{ contact_email }}">{{ contact_email }}</a></footer>
 <script>window.SUMA_ROOT = "{{ root }}";</script>
+<script src="{{ root }}static/search.js?v={{ v }}"></script>
 <script src="{{ root }}static/reader.js?v={{ v }}"></script>
 </body>
 </html>

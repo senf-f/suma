@@ -226,11 +226,24 @@ def test_home_page_explains_the_project_and_how_to_contribute(site):
     assert "Prvi dio: 1 pitanje" in home  # what is available so far, counted from the build
 
 
-def test_search_bundle_path_is_absolute(site):
-    # Pagefind loads its bundle with import(); on top-level pages SUMA_ROOT is "", and a bare
-    # "pagefind/" is rejected as a module specifier, so the path must be resolved to a full URL.
+def test_search_loads_pagefind_from_a_full_url(site):
+    # import() rejects a bare "pagefind/pagefind.js" on top-level pages, where SUMA_ROOT is "".
     js = (site / "static" / "reader.js").read_text(encoding="utf-8")
-    assert 'bundlePath: new URL((window.SUMA_ROOT || "") + "pagefind/", document.baseURI).href' in js
+    assert 'new URL((window.SUMA_ROOT || "") + "pagefind/pagefind.js", document.baseURI).href' in js
+
+
+def test_search_box_is_our_own_and_filters_prefix_fallbacks(site):
+    html = (site / "index.html").read_text(encoding="utf-8")
+    assert "pagefind-ui" not in html  # Pagefind's ready-made UI cannot drop fallback results
+    assert 'src="static/search.js?v=' in html and html.index("search.js") < html.index("reader.js")
+    js = (site / "static" / "reader.js").read_text(encoding="utf-8")
+    assert "SumaSearch.accepts(" in js
+    assert (site / "static" / "search.js").exists()
+
+
+def test_footer_does_not_call_the_translation_a_pilot(site):
+    footer = (site / "index.html").read_text(encoding="utf-8").split('<footer class="site">')[1]
+    assert "pilot" not in footer and "u izradi" not in footer
 
 
 def test_home_page_does_not_promise_more_parts(site):

@@ -113,13 +113,90 @@
     }
   });
 
-  if (window.PagefindUI) {
-    new PagefindUI({
-      element: "#search",
-      // A full URL: import() rejects a bare "pagefind/" on top-level pages, where SUMA_ROOT is "".
-      bundlePath: new URL((window.SUMA_ROOT || "") + "pagefind/", document.baseURI).href,
-      showSubResults: true,
-      translations: { placeholder: "Pretraži prijevod", zero_results: "Nema rezultata za [SEARCH_TERM]" },
+  // Search: our own box on Pagefind's search API rather than Pagefind's ready-made UI, so that results
+  // matching only a far shorter prefix of the typed word ("supplementum" -> "su") can be dropped.
+  if (search && window.SumaSearch) {
+    search.innerHTML =
+      '<input type="search" class="search-input" placeholder="Pretraži prijevod" aria-label="Pretraži prijevod" autocomplete="off">' +
+      '<p class="search-message" aria-live="polite"></p>' +
+      '<ol class="search-results"></ol>' +
+      '<button type="button" class="search-more" hidden>Prikaži više</button>';
+    var searchInput = search.querySelector(".search-input");
+    var searchMessage = search.querySelector(".search-message");
+    var searchList = search.querySelector(".search-results");
+    var searchMore = search.querySelector(".search-more");
+    var PAGE = 10;
+    var pagefind = null, searchId = 0, timer = null, found = [], shown = 0, query = "";
+
+    function loadPagefind() {
+      // A full URL: import() rejects a bare "pagefind/pagefind.js" on top-level pages, where SUMA_ROOT is "".
+      if (!pagefind) {
+        pagefind = import(new URL((window.SUMA_ROOT || "") + "pagefind/pagefind.js", document.baseURI).href)
+          .then(function (pf) { return pf.options({ excerptLength: 30 }).then(function () { return pf; }); });
+      }
+      return pagefind;
+    }
+    function countLabel(n) {
+      return n + ((n % 10 === 1 && n % 100 !== 11) ? " rezultat" : " rezultata");
+    }
+    function escapeText(s) {
+      return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+    }
+    function renderResult(data) {
+      // Pagefind's excerpts are escaped page text with <mark> around the matches.
+      var li = document.createElement("li");
+      var html = '<a class="search-title" href="' + escapeText(data.url) + '">' + escapeText(data.meta.title || data.url) + "</a>" +
+        '<p class="search-excerpt">' + data.excerpt + "</p>";
+      var subs = (data.sub_results || []).filter(function (sub) { return sub.url !== data.url; }).slice(0, 3);
+      if (subs.length) {
+        html += '<ul class="search-subs">' + subs.map(function (sub) {
+          return '<li><a href="' + escapeText(sub.url) + '">' + escapeText(sub.title) + '</a><p class="search-excerpt">' + sub.excerpt + "</p></li>";
+        }).join("") + "</ul>";
+      }
+      li.innerHTML = html;
+      searchList.appendChild(li);
+    }
+    function nothing() {
+      searchMessage.textContent = "Nema rezultata za „" + query + "“.";
+      searchMore.hidden = true;
+    }
+    function showMore(id) {
+      var batch = found.slice(shown, shown + PAGE);
+      shown += batch.length;
+      return Promise.all(batch.map(function (r) { return r.data(); })).then(function (datas) {
+        if (id !== searchId) return;
+        datas.forEach(function (data) { if (SumaSearch.accepts(query, SumaSearch.matchedWords(data))) renderResult(data); });
+        searchMore.hidden = shown >= found.length;
+      });
+    }
+    function runSearch(text) {
+      var id = ++searchId;
+      query = text.trim();
+      searchList.innerHTML = "";
+      searchMore.hidden = true;
+      found = []; shown = 0;
+      if (!query) { searchMessage.textContent = ""; return; }
+      searchMessage.textContent = "Pretražujem…";
+      loadPagefind().then(function (pf) { return pf.search(query); }).then(function (res) {
+        if (id !== searchId) return;
+        if (!res || !res.results.length) return nothing();
+        // Pagefind falls back for the whole result set at once, so the first result tells whether
+        // the results contain what was typed or only a far shorter prefix of it.
+        return res.results[0].data().then(function (first) {
+          if (id !== searchId) return;
+          if (!SumaSearch.accepts(query, SumaSearch.matchedWords(first))) return nothing();
+          found = res.results;
+          searchMessage.textContent = countLabel(found.length) + " za „" + query + "“";
+          return showMore(id);
+        });
+      }).catch(function () {
+        if (id === searchId) searchMessage.textContent = "Pretraživanje trenutačno ne radi.";
+      });
+    }
+    searchInput.addEventListener("input", function () {
+      clearTimeout(timer);
+      timer = setTimeout(function () { runSearch(searchInput.value); }, 250);
     });
+    searchMore.addEventListener("click", function () { showMore(searchId); });
   }
 })();
