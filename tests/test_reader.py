@@ -226,6 +226,12 @@ def test_home_page_explains_the_project_and_how_to_contribute(site):
     assert "Prvi dio: 1 pitanje" in home  # what is available so far, counted from the build
 
 
+def test_home_page_does_not_promise_more_parts(site):
+    home = (site / "index.html").read_text(encoding="utf-8")
+    assert "slijede" not in home and "u nastajanju" not in home  # the whole Summa is translated
+    assert "Dopuna" in home  # says why the Supplementum is not included
+
+
 def test_question_count_is_declined():
     from suma.reader import count_questions
     assert [count_questions(n) for n in (1, 2, 5, 11, 21, 119)] == [
