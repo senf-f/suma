@@ -1,4 +1,4 @@
-version: 23
+version: 24
 terms:
 - la: esse
   hr: bitak
@@ -3443,3 +3443,64 @@ terms:
     je dan uskrsnuo, uzašao na nebo i sjedi zdesna Ocu, a Otac mu je dao sudačku vlast
     nad živima i mrtvima.
   mjesto: III.q52.a1.resp
+- la: sacramentum (signum rei sacrae); materia, forma (verba); minister; character;
+    sacramentum tantum / res et sacramentum / res tantum
+  hr: sakrament (znak svete stvari); tvar, forma (riječi); služitelj; biljeg; samo
+    sakrament / stvar i sakrament / samo stvar
+  alternatives:
+  - samo znak / stvarnost i znak / samo stvarnost
+  note: 'Owner''s choice (v24): the triad sacramentum tantum / res et sacramentum
+    / res tantum = "samo sakrament / stvar i sakrament / samo stvar". Materia sacramenti
+    = "tvar" (the element: voda, kruh, ulje), forma = "forma" (the words); minister
+    = "služitelj", ministrare = "podjeljivati"; conferre gratiam = "podjeljivati milost";
+    instrumentum = "oruđe"; intentio = "nakana"; character = "biljeg" (imprimere =
+    "utisnuti"); sacramentalia = "sakramentali".'
+  opis: Sakrament je znak svete stvari ukoliko posvećuje ljude. Sastoji se od tvari
+    i riječi kao forme, a djeluje kao oruđe Kristove muke. Krštenje, potvrda i sveti
+    red utiskuju neizbrisiv biljeg.
+  mjesto: null
+- la: baptismus (fluminis, flaminis, sanguinis); confirmatio; chrisma; patrinus
+  hr: krštenje (vode, želje, krvi); potvrda (krizma); krizma (ulje); kum
+  alternatives:
+  - krizma
+  note: 'Owner''s choice (v24): confirmatio = "potvrda", with "(krizma)" in brackets
+    at its first mention in each article, afterwards plain "potvrda"; confirmare =
+    "potvrditi / učvrstiti" by context; chrisma (the oil) = "krizma"; consignare =
+    "označiti znakom". Baptizare = "krstiti"; baptizatus = "krštenik"; ablutio = "pranje";
+    immersio = "uranjanje"; exorcismus = "egzorcizam"; catechismus = "kateheza"; catechumenus
+    = "katekumen"; susceptor = "kum"; baptismus flaminis = "krštenje želje".'
+  opis: Krštenje je sakrament preporođenja vodom u riječi; ondje gdje se ne može primiti
+    vodom, nadomješta ga krštenje želje ili krvi. Potvrda (krizma) daje puninu Duha
+    Svetoga na jačanje i utiskuje biljeg vojnika Kristova.
+  mjesto: null
+- la: Eucharistia; transsubstantiatio, conversio; species (panis et vini); accidentia
+    sine subiecto; concomitantia
+  hr: Euharistija; pretvorba; prilike (kruha i vina); akcidenti bez subjekta; popratnost
+  alternatives:
+  - transupstancijacija
+  note: 'Owner''s choice (v24): transsubstantiatio and conversio = "pretvorba" (converti
+    = "pretvoriti se"). Species sacramentales = "prilike" (not "vrste"); consecratio
+    = "posveta", consecrare = "posvetiti"; communio = "pričest", communicare = "pričestiti
+    se"; manducatio sacramentalis / spiritualis = "sakramentalno / duhovno blagovanje";
+    sacrificium Missae = "misna žrtva"; ex vi sacramenti = "snagom sakramenta"; per
+    concomitantiam = "po popratnosti"; viaticum = "popudbina"; altare = "oltar"; calix
+    = "kalež".'
+  opis: U Euharistiji se cijela supstancija kruha pretvara u Kristovo tijelo i cijela
+    supstancija vina u njegovu krv, dok prilike kruha i vina ostaju bez subjekta.
+    Snagom sakramenta ondje je Kristovo tijelo, a po popratnosti cijeli Krist.
+  mjesto: null
+- la: poenitentia (sacramentum / virtus); contritio, confessio, satisfactio; absolutio;
+    claves
+  hr: pokora (sakrament) / pokajanje (krepost); skrušenost, ispovijed, zadovoljština;
+    odrješenje; ključevi
+  alternatives:
+  - krepost pokore
+  note: 'Owner''s choice (v24): poenitentia as the sacrament and as the penance performed
+    = "pokora" (sakrament pokore, činiti pokoru); as the virtue and the inner act
+    = "pokajanje" (krepost pokajanja); poenitere = "kajati se"; poenitens = "pokornik".
+    Attritio = "nesavršeno pokajanje"; remissio peccatorum = "otpuštenje grijeha";
+    absolvere = "odriješiti"; sacerdos = "svećenik"; reviviscentia (q.89) = "oživljavanje".'
+  opis: Pokora je sakrament u kojem su čini pokornika, skrušenost, ispovijed i zadovoljština,
+    tvar, a svećenikovo odrješenje forma. Pokajanje je i krepost, dio pravednosti,
+    kojom čovjek žali za počinjenim grijehom kao uvredom Boga i nakanjuje se popraviti.
+  mjesto: null
