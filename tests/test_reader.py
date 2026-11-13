@@ -226,6 +226,13 @@ def test_home_page_explains_the_project_and_how_to_contribute(site):
     assert "Prvi dio: 1 pitanje" in home  # what is available so far, counted from the build
 
 
+def test_search_bundle_path_is_absolute(site):
+    # Pagefind loads its bundle with import(); on top-level pages SUMA_ROOT is "", and a bare
+    # "pagefind/" is rejected as a module specifier, so the path must be resolved to a full URL.
+    js = (site / "static" / "reader.js").read_text(encoding="utf-8")
+    assert 'bundlePath: new URL((window.SUMA_ROOT || "") + "pagefind/", document.baseURI).href' in js
+
+
 def test_home_page_does_not_promise_more_parts(site):
     home = (site / "index.html").read_text(encoding="utf-8")
     assert "slijede" not in home and "u nastajanju" not in home  # the whole Summa is translated

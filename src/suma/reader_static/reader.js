@@ -116,7 +116,8 @@
   if (window.PagefindUI) {
     new PagefindUI({
       element: "#search",
-      bundlePath: (window.SUMA_ROOT || "") + "pagefind/",
+      // A full URL: import() rejects a bare "pagefind/" on top-level pages, where SUMA_ROOT is "".
+      bundlePath: new URL((window.SUMA_ROOT || "") + "pagefind/", document.baseURI).href,
       showSubResults: true,
       translations: { placeholder: "Pretraži prijevod", zero_results: "Nema rezultata za [SEARCH_TERM]" },
     });
