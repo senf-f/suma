@@ -1,0 +1,396 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 60,
+  "units": {
+    "III.q60.pr": {
+      "text": "Nakon razmatranja onoga što se odnosi na otajstva utjelovljene Riječi, treba razmotriti sakramente Crkve, koji od same utjelovljene Riječi imaju djelotvornost. Prvo će razmatranje biti o sakramentima općenito, drugo o svakom pojedinom sakramentu posebno. U vezi s prvim treba razmotriti pet stvari: prvo, što je sakrament; drugo, o nužnosti sakramenata; treće, o učincima sakramenata; četvrto, o njihovu uzroku; peto, o njihovu broju. U vezi s prvim pita se osam stvari. Prvo, je li sakrament u rodu znaka. Drugo, je li svaki znak svete stvari sakrament. Treće, je li sakrament znak samo jedne stvari ili više njih. Četvrto, je li sakrament znak koji je osjetna stvar. Peto, zahtijeva li se za sakrament određena osjetna stvar. Šesto, zahtijeva li se za sakrament označivanje koje biva riječima. Sedmo, zahtijevaju li se određene riječi. Osmo, može li se tim riječima nešto dodati ili oduzeti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da sakrament nije u rodu znaka. Čini se, naime, da se sakrament (sacramentum) naziva od posvećivanja (sacrare), kao što se lijek (medicamentum) naziva od liječenja (medicare). Ali to se, čini se, više odnosi na pojam uzroka nego na pojam znaka. Dakle, sakrament je više u rodu uzroka nego u rodu znaka.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a1.obj2": {
+      "text": "Osim toga, čini se da sakrament označuje nešto skriveno, prema onome Tob 12: *dobro je skrivati kraljevu tajnu (sacramentum)*; i Ef 3: *kakav je naum otajstva skrivenoga od vjekova u Bogu*. Ali ono što je skriveno, čini se, protivi se pojmu znaka, jer *znak je ono što, osim lika koji utiskuje u osjetila, čini da nešto drugo dođe u spoznaju*, kako je jasno iz Augustina, u II. knjizi O kršćanskom nauku. Dakle, čini se da sakrament nije u rodu znaka.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a1.obj3": {
+      "text": "Osim toga, prisega se ponekad naziva sakramentom; kaže se, naime, u Dekretima, XXII. slučaj, pit. 5: *djeca koja nisu u razumskoj dobi neka se ne prisiljavaju prisezati; a tko je jednom krivo prisegnuo, neka poslije toga ne bude svjedok niti neka sakramentu*, to jest prisezi, *pristupa*. Ali prisega ne pripada pojmu znaka. Dakle, čini se da sakrament nije u rodu znaka.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u X. knjizi O Božjem gradu: *vidljiva je žrtva sakrament, to jest sveti znak, nevidljive žrtve*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a1.resp": {
+      "text": "Odgovaram: treba reći da sve ono što je usmjereno prema nečemu jednome, makar i na različite načine, može od toga dobiti ime. Tako se od zdravlja koje je u živom biću zdravim naziva ne samo živo biće, koje je subjekt zdravlja, nego se zdravim naziva i lijek, ukoliko proizvodi zdravlje, način prehrane, ukoliko ga čuva, i mokraća, ukoliko ga označuje. Tako se, dakle, nešto može nazvati sakramentom bilo zato što u sebi ima neku skrivenu svetost, i prema tome je sakrament isto što i sveta tajna, bilo zato što ima neki odnošaj prema toj svetosti, bilo kao uzrok, bilo kao znak, bilo prema bilo kojem drugom odnošaju. Sada, međutim, posebno govorimo o sakramentima ukoliko uključuju odnošaj znaka. I prema tome se sakrament stavlja u rod znaka.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da se lijek odnosi kao tvorni uzrok zdravlja, odatle dolazi da se sve što je nazvano od lijeka naziva po usmjerenosti prema jednom prvom djelatniku; i po tome lijek uključuje neku uzročnost. Ali svetost, od koje sakrament dobiva ime, ne označuje se na način tvornog uzroka, nego više na način formalnog ili svršnog uzroka. Zato nije nužno da sakrament uvijek uključuje uzročnost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a1.ad2": {
+      "text": "Na drugo treba reći da onaj razlog polazi od toga da je sakrament isto što i sveta tajna. A ne kaže se samo za Božju tajnu nego i za kraljevu da je nešto sveto i sakrament. Jer su kod starih svetim ili presvetim nazivali sve ono što nije bilo dopušteno povrijediti, kao i gradske zidine i osobe postavljene u dostojanstva. Stoga se one tajne, bilo božanske bilo ljudske, koje nije dopušteno povrijediti objavljujući ih bilo kome, nazivaju svetima ili sakramentima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a1.ad3": {
+      "text": "Na treće treba reći da i prisega ima neki odnošaj prema svetim stvarima, ukoliko je, naime, neko svjedočanstvo dano po nečem svetom. I prema tome se kaže da je sakrament, ali ne po istom pojmu po kojem sada govorimo o sakramentima; ipak se ime sakrament ne uzima dvoznačno, nego analogno, naime prema različitom odnošaju prema nečemu jednome, a to je sveta stvar.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nije svaki znak svete stvari sakrament. Svi su, naime, osjetni stvorovi znakovi svetih stvari, prema onome Rim 1: *nevidljivo Božje promatra se razumom po onome što je stvoreno*. A ipak se ne mogu sve osjetne stvari nazvati sakramentima. Dakle, nije svaki znak svete stvari sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a2.obj2": {
+      "text": "Osim toga, sve što se događalo u Starom zakonu predočivalo je Krista, koji je Svetac nad svecima, prema onome 1 Kor 10: *sve im se to događalo kao predslika*, i Kol 2: *to je sjena budućega, a tijelo je Kristovo*. A ipak nisu sakramenti sva djela otaca Staroga zavjeta, pa ni svi obredi Zakona, nego samo neki posebno, kao što je izloženo u Drugom dijelu. Dakle, čini se da nije svaki znak svete stvari sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a2.obj3": {
+      "text": "Osim toga, i u Novom zavjetu mnogo toga se čini kao znak neke svete stvari, a ipak se ne naziva sakramentima, kao škropljenje blagoslovljenom vodom, posveta oltara i slično. Dakle, nije svaki znak svete stvari sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a2.sc": {
+      "text": "Ali protiv toga je to što je definicija zamjenjiva s definiranim. A neki definiraju sakrament time što je znak svete stvari, a to se vidi i iz Augustinova autoriteta navedenoga gore. Dakle, čini se da je svaki znak svete stvari sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a2.resp": {
+      "text": "Odgovaram: treba reći da se znakovi daju ljudima, kojima je svojstveno da preko poznatoga dolaze do nepoznatoga. Zato se u vlastitom smislu sakramentom naziva ono što je znak neke svete stvari koja se odnosi na ljude; tako da se u vlastitom smislu, kako sada govorimo o sakramentima, sakramentom naziva ono što je znak svete stvari ukoliko ona posvećuje ljude.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da osjetni stvorovi označuju nešto sveto, naime božansku mudrost i dobrotu, ukoliko su one svete u sebi, a ne ukoliko smo mi po njima posvećeni. Zato se oni ne mogu nazvati sakramentima u smislu u kojem sada govorimo o sakramentima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a2.ad2": {
+      "text": "Na drugo treba reći da su neke stvari koje pripadaju Starom zavjetu označivale Kristovu svetost ukoliko je on svet u sebi. Druge su pak označivale njegovu svetost ukoliko smo po njoj mi posvećeni; tako je žrtvovanje pashalnoga janjeta označivalo Kristovo žrtvovanje, kojim smo posvećeni. I takve se stvari u vlastitom smislu nazivaju sakramentima Staroga zakona.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a2.ad3": {
+      "text": "Na treće treba reći da stvari dobivaju ime od svrhe i dovršenja. A raspoloživost nije svrha, nego savršenost. Zato se ono što označuje raspoloživost za svetost, o čemu govori prigovor, ne naziva sakramentima, nego samo ono što označuje savršenost ljudske svetosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da sakrament nije znak nego samo jedne stvari. Ono, naime, čime se označuje mnogo toga jest dvosmislen znak, a posljedično i povod za obmanu, kao što je jasno kod dvoznačnih imena. Ali svaka obmana mora biti uklonjena iz kršćanske religije, prema onome Kol 2: *pazite da vas tko ne zavede filozofijom i ispraznom obmanom*. Dakle, čini se da sakrament nije znak više stvari.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a3.obj2": {
+      "text": "Osim toga, kao što je rečeno, sakrament označuje svetu stvar ukoliko je ona uzrok ljudskoga posvećenja. Ali jedan je jedini uzrok ljudskoga posvećenja, naime Kristova krv, prema onome Heb 13: *Isus je, da bi svojom krvlju posvetio narod, trpio izvan vrata*. Dakle, čini se da sakrament ne označuje više stvari.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a3.obj3": {
+      "text": "Osim toga, rečeno je da sakrament u vlastitom smislu označuje samu svrhu posvećenja. Ali svrha je posvećenja vječni život, prema onome Rim 6: *imate svoj plod u posvećenju, a svrhu – vječni život*. Dakle, čini se da sakramenti ne označuju nego jednu stvar, naime vječni život.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a3.sc": {
+      "text": "Ali protiv toga je to što su u oltarskom sakramentu dvije označene stvari, naime pravo i otajstveno Kristovo tijelo, kako kaže Augustin u knjizi Prosperovih sentencija.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a3.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, sakramentom u vlastitom smislu naziva ono što je usmjereno na to da označuje naše posvećenje. U njemu se mogu razmatrati tri stvari: sam uzrok našega posvećenja, a to je Kristova muka; forma našega posvećenja, koja se sastoji u milosti i krepostima; i posljednja svrha našega posvećenja, a to je vječni život. I sve se to označuje sakramentima. Stoga je sakrament i znak koji podsjeća na ono što je prethodilo, naime na Kristovu muku; i znak koji pokazuje ono što se u nama ostvaruje po Kristovoj muci, naime milost; i znak koji predskazuje, to jest unaprijed navješćuje, buduću slavu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je znak dvosmislen, i pruža povod za obmanu, onda kad označuje mnogo toga od čega jedno nije usmjereno prema drugome. Ali kad označuje mnogo toga ukoliko od toga po nekom redu nastaje nešto jedno, tada nije dvosmislen znak, nego izvjestan; tako ime čovjek označuje dušu i tijelo ukoliko se od njih sastoji ljudska narav. I na taj način sakrament označuje spomenute tri stvari ukoliko su one po nekom redu jedno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a3.ad2": {
+      "text": "Na drugo treba reći da sakrament, time što označuje stvar koja posvećuje, mora označivati i učinak, koji se podrazumijeva u samom uzroku koji posvećuje ukoliko je uzrok koji posvećuje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a3.ad3": {
+      "text": "Na treće treba reći da je za pojam sakramenta dovoljno da označuje savršenost koja je forma, a nije nužno da označuje samo savršenost koja je svrha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da sakrament nije uvijek neka osjetna stvar. Jer prema Filozofu, u Prvoj analitici, svaki je učinak znak svoga uzroka. Ali kao što postoje neki osjetni učinci, tako postoje i neki umljivi učinci; tako je znanje učinak dokaza. Dakle, nije svaki znak osjetan. A za pojam sakramenta dovoljno je da bude znak neke svete stvari ukoliko je čovjek po njoj posvećen, kao što je gore rečeno. Dakle, za sakrament se ne zahtijeva da bude neka osjetna stvar.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a4.obj2": {
+      "text": "Osim toga, sakramenti pripadaju Božjem kraljevstvu i Božjem štovanju. Ali osjetne stvari, čini se, ne pripadaju Božjem štovanju; kaže se, naime, Iv 4: *Bog je duh, i oni koji mu se klanjaju moraju se klanjati u duhu i istini*; i Rim 14: *kraljevstvo Božje nije jelo i piće*. Dakle, za sakramente se ne zahtijevaju osjetne stvari.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a4.obj3": {
+      "text": "Osim toga, Augustin kaže u knjizi O slobodnoj volji da su *osjetne stvari najmanja dobra, bez kojih čovjek može ispravno živjeti*. Ali sakramenti su nužni za ljudsko spasenje, kao što će biti jasno niže, pa tako čovjek bez njih ne može ispravno živjeti. Dakle, za sakramente se ne zahtijevaju osjetne stvari.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u tumačenju Ivana: *pridolazi riječ elementu i nastaje sakrament*. A ondje govori o osjetnom elementu, a to je voda. Dakle, za sakramente se zahtijevaju osjetne stvari.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a4.resp": {
+      "text": "Odgovaram: treba reći da se božanska mudrost brine za svaku stvar prema njezinu načinu, i zbog toga se u Mudr 8 kaže da *blago raspoređuje sve*. Stoga se i u Mt 25 kaže da *dijeli svakomu prema njegovoj vlastitoj sposobnosti*. A čovjeku je sunaravno da preko osjetnoga dolazi do spoznaje umljivoga. Znak je pak ono po čemu netko dolazi do spoznaje nečega drugog. Stoga, budući da su svete stvari koje se označuju sakramentima neka duhovna i umljiva dobra kojima se čovjek posvećuje, slijedi da se označivanje sakramenta ostvaruje nekim osjetnim stvarima, kao što nam se i u božanskom Pismu duhovne stvari opisuju po sličnosti s osjetnim stvarima. I odatle dolazi da se za sakramente zahtijevaju osjetne stvari, kao što dokazuje i Dionizije u 1. poglavlju O nebeskoj hijerarhiji.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da svaka stvar ponajprije dobiva ime i definira se po onome što joj pripada prvotno i po sebi, a ne po onome što joj pripada po nečem drugom. A osjetni učinak po sebi ima to da vodi do spoznaje nečega drugog, budući da se čovjeku daje spoznati prvotno i po sebi, jer sva naša spoznaja počinje od osjetila. Umljivi pak učinci nemaju toga da mogu voditi do spoznaje nečega drugog osim ukoliko su očitovani po nečem drugom, to jest po nečem osjetnom. I odatle dolazi da se prvotno i ponajprije znakovima nazivaju oni koji se pružaju osjetilima, kao što kaže Augustin u II. knjizi O kršćanskom nauku: *znak je ono što, osim lika koji utiskuje u osjetila, čini da nešto drugo dođe u spoznaju*. Umljivi pak učinci nemaju pojam znaka osim ukoliko su očitovani nekim znakovima. I na taj se način i neke stvari koje nisu osjetne na neki način nazivaju sakramentima, ukoliko su označene nečim osjetnim; o njima će biti riječi niže.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a4.ad2": {
+      "text": "Na drugo treba reći da osjetne stvari, razmatrane u svojoj naravi, ne pripadaju štovanju ili kraljevstvu Božjem, nego samo ukoliko su znakovi duhovnih stvari, u kojima se sastoji kraljevstvo Božje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a4.ad3": {
+      "text": "Na treće treba reći da Augustin ondje govori o osjetnim stvarima razmatranim u njihovoj naravi, a ne ukoliko su uzete da označuju duhovna dobra, koja su najveća dobra.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se za sakramente ne zahtijevaju određene stvari. Osjetne se, naime, stvari zahtijevaju u sakramentima radi označivanja, kao što je rečeno. Ali ništa ne priječi da se različitim osjetnim stvarima označuje isto; tako se u Svetom pismu Bog preneseno katkad označuje kamenom, katkad lavom, katkad suncem ili nečim takvim. Dakle, čini se da istom sakramentu mogu pristajati različite stvari. Dakle, u sakramentima se ne zahtijevaju određene stvari.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a5.obj2": {
+      "text": "Osim toga, spasenje duše potrebnije je od zdravlja tijela. Ali u tjelesnim lijekovima, koji su usmjereni prema zdravlju tijela, jedna se stvar može staviti umjesto druge kad nje nema. Dakle, mnogo će se više u sakramentima, koji su duhovni lijekovi usmjereni prema spasenju duše, moći uzeti jedna stvar umjesto druge kad one nema.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a5.obj3": {
+      "text": "Osim toga, nije prikladno da božanski zakon, a osobito Kristov zakon, koji je došao spasiti sve, sužava spasenje ljudi. Ali u stanju naravnoga zakona u sakramentima se nisu zahtijevale neke određene stvari, nego su se uzimale po zavjetu, kao što je jasno iz Post 28, gdje se Jakov zavjetovao da će Bogu prinositi desetine i žrtve pričesnice. Dakle, čini se da čovjek, a osobito u Novom zakonu, nije trebao biti sužen na uporabu neke određene stvari u sakramentima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a5.sc": {
+      "text": "Ali protiv toga je ono što Gospodin kaže, Iv 3: *ako se tko ne nanovo rodi iz vode i Duha Svetoga, ne može ući u kraljevstvo Božje*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a5.resp": {
+      "text": "Odgovaram: treba reći da se u uporabi sakramenata mogu razmatrati dvije stvari, naime božansko štovanje i posvećenje čovjeka; od toga se prvo odnosi na čovjeka u usporedbi s Bogom, a drugo se, obratno, odnosi na Boga u usporedbi s čovjekom. A nikome ne pripada određivati ono što je u vlasti drugoga, nego samo ono što je u njegovoj vlasti. Budući, dakle, da je posvećenje čovjeka u vlasti Boga koji posvećuje, ne pripada čovjeku da po svojem sudu uzima stvari kojima bi se posvećivao, nego to mora biti određeno božanskom ustanovom. I zato se u sakramentima Novoga zakona, kojima se ljudi posvećuju, prema onome 1 Kor 6: *oprani ste, posvećeni ste*, treba služiti stvarima određenima božanskom ustanovom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, iako se isto može označivati različitim znakovima, ipak odrediti kojim se znakom treba služiti za označivanje pripada onome tko označuje. A Bog je onaj koji nam označuje duhovne stvari osjetnim stvarima u sakramentima i riječima koje se služe sličnostima u Pismima. I zato, kao što je sudom Duha Svetoga određeno kojim se sličnostima na pojedinim mjestima Pisma označuju duhovne stvari, tako i božanskom ustanovom mora biti određeno koje se stvari uzimaju za označivanje u ovom ili onom sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a5.ad2": {
+      "text": "Na drugo treba reći da osjetne stvari imaju naravno usađene snage koje pridonose tjelesnom zdravlju, pa stoga nije važno kojom se od njih tko služi, ako dvije od njih imaju istu snagu. Ali prema posvećenju one nisu usmjerene po nekoj naravno usađenoj snazi, nego samo po božanskoj ustanovi. I zato je trebalo da Bog odredi kojim se osjetnim stvarima treba služiti u sakramentima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a5.ad3": {
+      "text": "Na treće treba reći da, kao što kaže Augustin u XIX. knjizi Protiv Fausta, različiti sakramenti pristaju različitim vremenima, kao što se i različitim riječima označuju različita vremena, naime sadašnje, prošlo i buduće. I zato, kao što su u stanju naravnoga zakona ljudi, bez ikakva izvana danoga zakona, samo unutarnjim poticajem bili pokretani na štovanje Boga, tako im je i unutarnjim poticajem bilo određivano kojim će se osjetnim stvarima služiti za štovanje Boga. Poslije je pak bilo nužno da se zakon dade i izvana, i zbog zamračenja naravnoga zakona ljudskim grijesima, i radi izražajnijeg označivanja Kristove milosti, po kojoj se ljudski rod posvećuje. I zato je također bilo nužno da se odrede stvari kojima će se ljudi služiti u sakramentima. Time se ipak ne sužava put spasenja, jer su stvari čija je uporaba nužna u sakramentima ili općenito dostupne ili se uz malo truda mogu nabaviti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se za označivanje sakramenata ne zahtijevaju riječi. Augustin, naime, kaže u XIX. knjizi Protiv Fausta: *što su drugo svi tjelesni sakramenti nego neke vidljive riječi?* I tako se čini da dodavati riječi osjetnim stvarima u sakramentima znači dodavati riječi riječima. A to je suvišno. Dakle, u sakramentima se uz osjetne stvari ne zahtijevaju riječi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a6.obj2": {
+      "text": "Osim toga, sakrament je nešto jedno. A čini se da od onoga što pripada različitim rodovima ne može nastati nešto jedno. Budući, dakle, da osjetne stvari i riječi pripadaju različitim rodovima, jer su osjetne stvari od naravi, a riječi od razuma, čini se da se u sakramentima uz osjetne stvari ne zahtijevaju riječi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a6.obj3": {
+      "text": "Osim toga, sakramenti Novoga zakona nasljeđuju sakramente Staroga zakona, jer su, kad su oni uklonjeni, ovi ustanovljeni, kako kaže Augustin u XIX. knjizi Protiv Fausta. Ali u sakramentima Staroga zakona nije se zahtijevala nikakva forma riječi. Dakle, ni u sakramentima Novoga zakona.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol, Ef 5: *Krist je ljubio Crkvu i predao samoga sebe za nju da je posveti, očistivši je kupelji vode u riječi života*. I Augustin kaže u tumačenju Ivana: *pridolazi riječ elementu i nastaje sakrament*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a6.resp": {
+      "text": "Odgovaram: treba reći da se sakramenti, kao što je rečeno, primjenjuju za posvećenje ljudi kao neki znakovi. Mogu se, dakle, razmatrati na tri načina, i na svaki im način pristaje da se riječi pridružuju osjetnim stvarima. Prvo, mogu se razmatrati sa strane uzroka koji posvećuje, a to je utjelovljena Riječ, kojoj je sakrament na neki način suobličen time što se osjetnoj stvari pridodaje riječ, kao što je u otajstvu utjelovljenja Božja Riječ sjedinjena s osjetnim tijelom. Drugo, sakramenti se mogu razmatrati sa strane čovjeka koji se posvećuje, a koji je sastavljen od duše i tijela; njemu je primjeren sakramentalni lijek, koji vidljivom stvari dotiče tijelo, a riječju biva prihvaćen od duše po vjeri. Stoga Augustin kaže o onome Iv 15: *Vi ste već čisti zbog riječi itd., odakle vodi tolika snaga da dotiče tijelo, a pere srce, ako ne po djelovanju riječi, ne zato što se izgovara, nego zato što se vjeruje?* Treće, može se razmatrati sa strane samoga sakramentalnog označivanja. A Augustin kaže u II. knjizi O kršćanskom nauku da su *riječi među ljudima zadobile prvenstvo u označivanju*, jer se riječi mogu oblikovati na različite načine da označuju različite zamisli duha, i zbog toga riječima možemo razgovjetnije izraziti ono što duhom zamišljamo. I zato je za savršenost sakramentalnog označivanja bilo nužno da se označivanje osjetnih stvari odredi nekim riječima. Voda, naime, može označivati i pranje, zbog svoje vlažnosti, i osvježenje, zbog svoje hladnoće; ali kad se kaže: Ja te krstim, očituje se da se vodom u krštenju služimo da označimo duhovno očišćenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se vidljive stvari sakramenata nazivaju riječima po nekoj sličnosti, ukoliko, naime, imaju udjela u nekoj sili označivanja koja je ponajprije u samim riječima, kao što je rečeno. I zato nije suvišno udvostručavanje riječi kad se u sakramentima vidljivim stvarima dodaju riječi, jer se jedno od njih određuje drugim, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a6.ad2": {
+      "text": "Na drugo treba reći da, premda su riječi i druge osjetne stvari u različitom rodu što se tiče naravi stvari, ipak se slažu u pojmu označivanja, koji je savršeniji u riječima nego u drugim stvarima. I zato od riječi i stvari u sakramentima nastaje na neki način jedno, kao od forme i tvari, ukoliko se, naime, riječima usavršuje označivanje stvari, kao što je rečeno. A pod stvarima se podrazumijevaju i sami osjetni čini, na primjer pranje, pomazanje i drugo takvo, jer je u njima isti pojam označivanja kao i u stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a6.ad3": {
+      "text": "Na treće treba reći da, kao što kaže Augustin u knjizi Protiv Fausta, jedni moraju biti sakramenti sadašnje stvari, a drugi buduće stvari. A sakramenti Staroga zakona bili su navjestitelji Krista koji će doći. I zato nisu tako izričito označivali Krista kao sakramenti Novoga zakona, koji proistječu od samoga Krista i u sebi imaju neku njegovu sličnost, kao što je rečeno. Ipak su se u Starom zakonu služili nekim riječima u onome što se odnosi na štovanje Boga, kako svećenici, koji su bili služitelji onih sakramenata, prema onome Br 6: *Ovako ćete blagoslivljati sinove Izraelove i reći ćete im: Neka te blagoslovi Gospodin*, itd.; tako i oni koji su se služili onim sakramentima, prema onome Pnz 26: *Ispovijedam danas pred Gospodinom, Bogom tvojim,* i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se u sakramentima ne zahtijevaju određene riječi. Jer, kako kaže Filozof, *glasovi nisu isti kod svih*. Ali spasenje, koje se traži po sakramentu, isto je kod svih. Dakle, u sakramentima se ne zahtijevaju nikakve određene riječi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a7.obj2": {
+      "text": "Osim toga, riječi se u sakramentima zahtijevaju ukoliko su ponajprije sredstvo označivanja, kao što je gore rečeno. Ali događa se da se različitim riječima označuje isto. Dakle, u sakramentima se ne zahtijevaju određene riječi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a7.obj3": {
+      "text": "Osim toga, iskvarenost bilo koje stvari mijenja njezinu vrstu. Ali neki iskrivljeno izgovaraju riječi, a ipak se ne vjeruje da je zbog toga spriječen učinak sakramenata; inače bi nepismeni i mucavci koji podjeljuju sakramente često uzrokovali nedostatak u sakramentima. Dakle, čini se da se u sakramentima ne zahtijevaju određene riječi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a7.sc": {
+      "text": "Ali protiv toga je to što je Gospodin pri posveti sakramenta Euharistije izgovorio određene riječi, rekavši, Mt 26: *Ovo je tijelo moje*. Isto je tako naložio učenicima da krste pod određenom formom riječi, rekavši, Mt 28: *Pođite i naučite sve narode krsteći ih u ime Oca i Sina i Duha Svetoga*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a7.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, u sakramentima riječi odnose na način forme, a osjetne stvari na način tvari. A u svemu što je sastavljeno od tvari i forme počelo određenja je sa strane forme, koja je na neki način svrha i granica tvari. I zato se za bitak stvari prvotnije zahtijeva određena forma nego određena tvar, jer se određena tvar traži zato da bude primjerena određenoj formi. Budući, dakle, da se u sakramentima zahtijevaju određene osjetne stvari, koje se u sakramentima odnose kao tvar, mnogo se više u njima zahtijeva određena forma riječi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Augustin u tumačenju Ivana, riječ djeluje u sakramentima ne zato što se izgovara, to jest ne po vanjskom zvuku glasa, nego zato što se vjeruje, po smislu riječi koji se drži vjerom. I taj je smisao isti kod svih, iako glasovi, što se tiče zvuka, nisu isti. I zato, riječima kojega god jezika se taj smisao izrekao, sakrament se ostvaruje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a7.ad2": {
+      "text": "Na drugo treba reći da, iako se u svakom jeziku događa da se različitim glasovima označuje isto, ipak uvijek postoji neki od tih glasova kojim se ljudi toga jezika prvotnije i češće služe da to označe. I takav glas treba uzeti za označivanje sakramenta. Tako se i među osjetnim stvarima za označivanje sakramenta uzima ona čija je uporaba češća za čin kojim se označuje učinak sakramenta; tako se ljudi vodom najčešće služe za tjelesno pranje, kojim se označuje duhovno pranje, i zato se voda uzima kao tvar u krštenju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a7.ad3": {
+      "text": "Na treće treba reći da onaj tko iskrivljeno izgovara sakramentalne riječi, ako to čini namjerno, čini se da ne smjera činiti ono što čini Crkva, pa se tako, čini se, sakrament ne ostvaruje. Ako pak to čini iz zablude ili zbog lapsusa jezika, ako je iskrivljenje toliko da posve uklanja smisao izričaja, čini se da se sakrament ne ostvaruje. A to se osobito događa kad se iskrivljenje dogodi na početku riječi, na primjer kad bi netko umjesto „u ime Oca“ rekao „u ime majke“. Ako se pak takvim iskrivljenjem smisao izričaja ne uklanja potpuno, sakrament se ipak ostvaruje. A to se osobito događa kad se iskrivljenje dogodi na kraju riječi, na primjer kad bi netko rekao „patrias et filias“. Premda, naime, takve iskrivljeno izgovorene riječi ne označuju ništa po snazi nametanja imena, ipak se uzimaju kao da nešto označuju po prilagodbi uporabe. I zato, iako se mijenja osjetni zvuk, ipak ostaje isti smisao. A ono što je rečeno o razlici iskrivljenja na početku ili na kraju riječi ima razlog u tome što kod nas promjena riječi na početku mijenja značenje, dok promjena na kraju riječi ponajčešće ne mijenja značenje. Kod Grka se pak riječ pri pregibanju mijenja i na svojem početku. Ipak se, čini se, više treba paziti na veličinu iskrivljenja riječi. Jer na objema stranama ono može biti tako maleno da ne uklanja smisao riječi, i tako veliko da ga uklanja. Ali jedno se od toga lakše događa na početku, a drugo na kraju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da riječima u kojima se sastoji forma sakramenata nije dopušteno ništa dodati. Takve, naime, sakramentalne riječi nisu manje nužne od riječi Svetoga pisma. Ali riječima Svetoga pisma nije dopušteno ništa dodati niti oduzeti; kaže se, naime, Pnz 4: *Nećete dodati riječi koju vam govorim niti ćete od nje oduzeti*; i Otk 22: *Svjedočim svakomu koji sluša riječi proroštva ove knjige: ako tko ovome što doda, Bog će na nj dodati zla opisana u ovoj knjizi; i ako tko oduzme, Bog će oduzeti njegov dio iz knjige života*. Dakle, čini se da ni u formama sakramenata nije dopušteno išta dodati ili oduzeti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a8.obj2": {
+      "text": "Osim toga, riječi se u sakramentima odnose na način forme, kao što je rečeno. Ali u formama svako dodavanje ili oduzimanje mijenja vrstu, kao i kod brojeva, kako se kaže u VIII. knjizi Metafizike. Dakle, čini se da, ako se formi sakramenta nešto doda ili oduzme, neće biti isti sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a8.obj3": {
+      "text": "Osim toga, kao što se za formu sakramenta zahtijeva određeni broj riječi, tako se zahtijeva i određeni red riječi, a također i neprekinutost govora. Ako, dakle, dodavanje ili oduzimanje ne uklanja istinitost sakramenta, čini se da je, s istog razloga, ne uklanja ni premetanje riječi, pa ni prekidanje izgovora.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a8.sc": {
+      "text": "Ali protiv toga je to što u formama sakramenata neki stavljaju nešto što drugi ne stavljaju; tako Latini krste pod ovom formom: Ja te krstim u ime Oca i Sina i Duha Svetoga; a Grci pod ovom: Krsti se sluga Kristov N. u ime Oca, i tako dalje. Pa ipak i jedni i drugi podjeljuju pravi sakrament. Dakle, u formama sakramenata dopušteno je nešto dodati ili oduzeti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a8.resp": {
+      "text": "Odgovaram: treba reći da, u vezi sa svim tim promjenama koje se mogu dogoditi u formama sakramenata, čini se da treba razmotriti dvije stvari. Jedna je sa strane onoga koji izgovara riječi, čija se nakana zahtijeva za sakrament, kao što će se reći niže. I zato, ako takvim dodavanjem ili oduzimanjem smjera uvesti drugi obred koji Crkva nije primila, čini se da se sakrament ne ostvaruje, jer se ne čini da smjera činiti ono što čini Crkva. Drugo pak treba razmotriti sa strane značenja riječi. Budući, naime, da riječi u sakramentima djeluju u pogledu smisla koji tvore, kao što je gore rečeno, treba razmotriti uklanja li se takvom promjenom dužni smisao riječi, jer je tada očito da se uklanja istinitost sakramenta. A očito je da se, ako se oduzme nešto od onoga što pripada biti sakramentalne forme, uklanja dužni smisao riječi, i zato se sakrament ne ostvaruje. Stoga Didim kaže u knjizi O Duhu Svetome: *Ako bi tko pokušao krstiti tako da izostavi jedno od spomenutih imena*, naime Oca i Sina i Duha Svetoga, *krstit će bez savršenosti*. Ako se pak oduzme nešto što ne pripada biti forme, takvo oduzimanje ne uklanja dužni smisao riječi, a posljedično ni savršenost sakramenta. Tako u formi Euharistije, koja glasi: Ovo je naime tijelo moje, izostavljena riječca „naime“ (enim) ne uklanja dužni smisao riječi i zato ne priječi savršenost sakramenta, premda se može dogoditi da onaj koji je izostavlja griješi iz nemara ili prezira. Što se tiče dodavanja, također se događa da se doda nešto što kvari dužni smisao, na primjer ako bi netko rekao: *Ja te krstim u ime Oca većega i Sina manjega*, kao što su krstili arijanci. I zato takvo dodavanje uklanja istinitost sakramenta. Ako je pak dodavanje takvo da ne uklanja dužni smisao, ne uklanja se istinitost sakramenta. I nije važno događa li se takvo dodavanje na početku, u sredini ili na kraju. Tako, ako bi netko rekao: Ja te krstim u ime Boga Oca svemogućega, i njegova jedinorođenoga Sina, i Duha Svetoga Branitelja, bit će to pravo krštenje. I slično, ako bi netko rekao: Ja te krstim u ime Oca i Sina i Duha Svetoga, i neka ti pomogne Blažena Djevica, bit će to pravo krštenje. Možda pak, kad bi rekao: Ja te krstim u ime Oca i Sina i Duha Svetoga i Blažene Djevice Marije, ne bi bilo krštenje, jer se kaže 1 Kor 1: *Zar je Pavao za vas razapet? Ili ste u ime Pavlovo kršteni?* Ali to je istina ako se tako shvati da se krsti u ime Blažene Djevice kao u ime Trojstva, kojim se krštenje posvećuje; takav bi, naime, smisao bio protivan pravoj vjeri, i posljedično bi uklonio istinitost sakramenta. Ako se pak dodatak „i u ime Blažene Djevice“ shvati tako da ne bi ime Blažene Djevice nešto djelovalo u krštenju, nego da bi njezin zagovor koristio krštenome za očuvanje krsne milosti, ne uklanja se savršenost sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da riječima Svetoga pisma nije dopušteno ništa dodati u pogledu smisla; ali u pogledu izlaganja Svetoga pisma naučitelji im dodaju mnoge riječi. Ipak nije dopušteno ni riječi Svetoga pisma dodavati tako da se kaže da pripadaju cjelovitosti Svetoga pisma, jer bi to bila porok lažnosti. I slično, kad bi tko rekao da nešto pripada nužnosti forme što joj ne pripada.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a8.ad2": {
+      "text": "Na drugo treba reći da riječi pripadaju formi sakramenta zbog označenoga smisla. I zato, kakvo god se dodavanje ili oduzimanje glasova dogodilo koje dužnom smislu ništa ne dodaje niti oduzima, ne uklanja se vrsta sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    },
+    "III.q60.a8.ad3": {
+      "text": "Na treće treba reći da se, ako je prekid riječi tolik da se presiječe nakana onoga koji izgovara, uklanja smisao sakramenta, a posljedično i njegova istinitost. Ne uklanja se pak kad je kod onoga koji izgovara malen prekid, koji ne oduzima nakanu i razumijevanje. I isto treba reći i o premetanju riječi. Jer, ako uklanja smisao izričaja, sakrament se ne ostvaruje, kao što je jasno kod nijekanja stavljenoga ispred ili iza znaka. Ako je pak premetanje takvo da ne mijenja smisao izričaja, ne uklanja se istinitost sakramenta, prema onome što kaže Filozof, da *imena i glagoli, premetnuti, označuju isto*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:01+00:00"
+    }
+  }
+}

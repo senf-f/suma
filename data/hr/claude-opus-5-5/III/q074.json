@@ -1,0 +1,420 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 74,
+  "units": {
+    "III.q74.pr": {
+      "text": "Zatim treba razmotriti tvar ovoga sakramenta. I to prvo, vrstu tvari; drugo, pretvorbu kruha i vina u Kristovo tijelo; treće, način postojanja Kristova tijela u ovom sakramentu; četvrto, akcidente kruha i vina koji ostaju u ovom sakramentu. Glede prvoga pita se osam stvari. Prvo, jesu li kruh i vino tvar ovoga sakramenta. Drugo, zahtijeva li se za tvar ovoga sakramenta određena količina. Treće, je li tvar ovoga sakramenta pšenični kruh. Četvrto, treba li to biti beskvasni ili kvasni kruh. Peto, je li tvar ovoga sakramenta vino od vinove loze. Šesto, treba li mu primiješati vodu. Sedmo, je li voda nužna za ovaj sakrament. Osmo, o količini vode koja se dodaje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da tvar ovoga sakramenta nisu kruh i vino. Naime, ovaj sakrament treba savršenije predstavljati Kristovu muku nego sakramenti Staroga zakona. Ali meso životinja, koje je bilo tvar sakramenata Staroga zakona, izrazitije predstavlja Kristovu muku nego kruh i vino. Dakle, tvar ovoga sakramenta prije treba biti meso životinja nego kruh i vino.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a1.obj2": {
+      "text": "Osim toga, ovaj se sakrament treba slaviti posvuda. Ali u mnogim se zemljama ne nalazi kruh, a u mnogima se ne nalazi vino. Dakle, kruh i vino nisu prikladna tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a1.obj3": {
+      "text": "Osim toga, ovaj sakrament pripada i zdravima i bolesnima. Ali vino nekim bolesnicima škodi. Dakle, čini se da vino ne treba biti tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a1.sc": {
+      "text": "Ali protiv toga je što papa Aleksandar kaže: *U prinosima sakramenata neka se kao žrtva prinose samo kruh i vino pomiješano s vodom*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a1.resp": {
+      "text": "Odgovaram: treba reći da su glede tvari ovoga sakramenta neki na mnogo načina zabludjeli. Naime, neki, koji se nazivaju artotiriti, kako kaže Augustin u knjizi O herezama, *prinose u ovom sakramentu kruh i sir, govoreći da su prvi ljudi slavili prinose od plodova zemlje i od ovaca*. Za druge pak, naime katafrižane i pepuzijance, *pripovijeda se da kao svoju euharistiju pripravljaju od krvi djeteta, koju iz cijeloga njegova tijela istiskuju sitnim ubodnim ranama, miješajući je s brašnom i od toga praveći kruh*. A neki, koji se nazivaju akvarijci, prinose u ovom sakramentu samo vodu, pod izlikom trijeznosti. A sve se te zablude i njima slične isključuju time što je Krist ovaj sakrament ustanovio pod prilikom kruha i vina, kako je jasno iz Mt 26. Stoga su kruh i vino prikladna tvar ovoga sakramenta. I to s razlogom. Prvo, glede uporabe ovoga sakramenta, a to je blagovanje. Kao što se, naime, u sakramentu krštenja voda uzima za uporabu duhovnoga pranja, jer se tjelesno pranje obično obavlja vodom, tako se kruh i vino, kojima se ljudi najčešće okrepljuju, uzimaju u ovom sakramentu za uporabu duhovnoga blagovanja. Drugo, glede Kristove muke, u kojoj je krv bila odijeljena od tijela. Zato se u ovom sakramentu, koji je spomen Gospodnje muke, odvojeno uzima kruh kao sakrament tijela i vino kao sakrament krvi. Treće, glede učinka promatranoga u svakome od onih koji ga primaju. Jer, kako kaže Ambrozije o Poslanici Korinćanima, ovaj sakrament vrijedi za zaštitu tijela i duše; i zato se Kristovo tijelo pod prilikom kruha prinosi za spas tijela, a krv pod prilikom vina za spas duše, kao što se kaže u Lev 17 da je duša životinje u krvi. Četvrto, glede učinka s obzirom na cijelu Crkvu, koja se sastoji od različitih vjernika, kao što se *kruh pravi od različitih zrna, a vino teče iz različitih grozdova*, kako kaže Glosa uz ono iz 1 Kor 10: *Mnogi smo jedno tijelo,* i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda meso ubijenih životinja izrazito predstavlja Kristovu muku, ipak manje odgovara općoj uporabi ovoga sakramenta i označivanju crkvenoga jedinstva.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a1.ad2": {
+      "text": "Na drugo treba reći da, premda pšenica i vino ne rastu u svim zemljama, ipak se u sve zemlje može lako donijeti onoliko koliko je dovoljno za uporabu ovoga sakramenta. Niti zbog nedostatka jednoga treba posvetiti samo jedno bez drugoga, jer to ne bi bila savršena žrtva.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a1.ad3": {
+      "text": "Na treće treba reći da vino uzeto u maloj količini ne može bolesniku mnogo naškoditi. Ipak, ako se boji štete, nije nužno da svi koji primaju Kristovo tijelo primaju i krv, kako će se niže reći.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se za tvar ovoga sakramenta zahtijeva određena količina kruha i vina. Naime, učinci milosti nisu manje uređeni od učinaka prirode. Ali, kako se kaže u 2. knjizi O duši, *svemu što postoji po prirodi postavljena je granica i mjera veličine i rasta*. Dakle, mnogo se više u ovom sakramentu, koji se naziva Euharistija, to jest dobra milost, zahtijeva određena količina kruha i vina.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a2.obj2": {
+      "text": "Osim toga, služiteljima Crkve Krist nije dao vlast za ono što pripada izrugivanju vjere i njegovih sakramenata, prema onome iz 2 Kor 10: *Prema vlasti koju mi je Bog dao za izgradnju, a ne za rušenje*. Ali bilo bi na izrugivanje sakramentu kad bi svećenik htio posvetiti sav kruh koji se prodaje na trgu i sve vino koje je u podrumu. Dakle, to ne može učiniti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a2.obj3": {
+      "text": "Osim toga, ako se netko krsti u moru, formom krštenja ne posvećuje se sva morska voda, nego samo ona voda kojom se pere tijelo krštenika. Dakle, ni u ovom se sakramentu ne može posvetiti suvišna količina kruha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a2.sc": {
+      "text": "Ali protiv toga je što je mnogo protivno malome, a veliko sitnome. Ali nema tako male količine kruha ili vina koja se ne bi mogla posvetiti. Dakle, nema ni tako velike koja se ne bi mogla posvetiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a2.resp": {
+      "text": "Odgovaram: treba reći da su neki tvrdili da svećenik ne bi mogao posvetiti golemu količinu kruha ili vina, primjerice sav kruh koji se prodaje na trgu ili sve vino koje je u bačvi. Ali čini se da to nije istinito. Jer u svemu što ima tvar razlog određenosti tvari uzima se iz usmjerenosti prema svrsi; tako je tvar pile željezo, da bi bila prikladna za rezanje. A svrha je ovoga sakramenta uporaba vjernika. Stoga treba da se količina tvari ovoga sakramenta odredi s obzirom na uporabu vjernika. Ali ne može biti da se odredi s obzirom na uporabu vjernika koji su sada nazočni; inače svećenik koji ima malo župljana ne bi mogao posvetiti mnogo hostija. Preostaje, dakle, da se tvar ovoga sakramenta određuje s obzirom na uporabu vjernika naprosto. A broj je vjernika neodređen. Stoga se ne može reći da je količina tvari ovoga sakramenta određena.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da tvar bilo koje naravne stvari dobiva određenu količinu s obzirom na određenu formu. Ali broj vjernika, na čiju je uporabu usmjeren ovaj sakrament, neodređen je. Stoga nije slično.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a2.ad2": {
+      "text": "Na drugo treba reći da je vlast služitelja Crkve usmjerena prema dvoje: prvo, prema vlastitom učinku; drugo, prema svrsi učinka. A ono drugo ne ukida prvo. Stoga, ako svećenik smjera posvetiti Kristovo tijelo radi neke zle svrhe, primjerice da se ruga ili da čini vračanja, griješi zbog nakane zle svrhe, ali ipak, zbog vlasti koja mu je dana, ostvaruje sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a2.ad3": {
+      "text": "Na treće treba reći da se sakrament krštenja ostvaruje u uporabi tvari. I zato se formom krštenja ne posvećuje više vode nego koliko dolazi u uporabu. A ovaj se sakrament ostvaruje u posveti tvari. Zato nije slično.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se za tvar ovoga sakramenta ne zahtijeva da bude pšenični kruh. Naime, ovaj je sakrament spomen Gospodnje muke. Ali čini se da je Gospodnjoj muci primjereniji ječmeni kruh, koji je oporiji i kojim je također nahranio mnoštvo na gori, kako se kaže u Iv 6, nego pšenični kruh. Dakle, pšenični kruh nije vlastita tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a3.obj2": {
+      "text": "Osim toga, oblik je znak vrste u naravnim stvarima. Ali ima nekih žitarica koje imaju oblik sličan pšeničnom zrnu, kao dvozrnac i pir, od kojega se na nekim mjestima također pravi kruh za uporabu ovoga sakramenta. Dakle, pšenični kruh nije vlastita tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a3.obj3": {
+      "text": "Osim toga, miješanje razara vrstu. Ali teško se nalazi pšenično brašno koje nema primjese drugoga žita, osim ako se možda brižljivo napravi od odabranih zrna. Dakle, ne čini se da je pšenični kruh vlastita tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a3.obj4": {
+      "text": "Osim toga, čini se da je ono što je pokvareno druge vrste. Ali neki obavljaju ovaj sakrament od pokvarenoga kruha, za koji se čini da više nije pšenični kruh. Dakle, čini se da takav kruh nije vlastita tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a3.sc": {
+      "text": "Ali protiv toga je što je u ovom sakramentu sadržan Krist, koji se uspoređuje sa zrnom žita, govoreći u Iv 12: *Ako zrno žita, pavši u zemlju, ne umre, ostaje samo*. Dakle, kruh od žita, odnosno pšenični kruh, tvar je ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a3.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, za uporabu sakramenata uzima takva tvar koja kod ljudi češće dolazi u takvu uporabu. A među ostalim kruhovima ljudi se najčešće služe pšeničnim kruhom; jer čini se da su drugi kruhovi uvedeni zbog nestašice ovoga kruha. Zato se vjeruje da je Krist ovaj sakrament ustanovio u ovoj vrsti kruha. Taj kruh i jača čovjeka, i tako prikladnije označuje učinak ovoga sakramenta. Zato je vlastita tvar ovoga sakramenta pšenični kruh.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ječmeni kruh prikladan za označivanje tvrdoće Staroga zakona. Kako zbog tvrdoće kruha, tako i zato što, kako kaže Augustin u knjizi Osamdeset i tri pitanja, *srž ječma, koja je pokrivena vrlo žilavom pljevom, označuje ili sam Zakon, koji je bio tako dan da je u njemu životna hrana duše bila prekrivena tjelesnim sakramentima, ili sam narod, koji još nije bio svukao sa sebe tjelesnu želju, koja je kao pljeva prianjala uz njegovo srce*. A ovaj sakrament pripada Kristovu blagom jarmu, istini koja je već očitovana i duhovnom narodu. Stoga ječmeni kruh ne bi bio prikladna tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a3.ad2": {
+      "text": "Na drugo treba reći da onaj koji rađa rađa sebi slično po vrsti, ali ipak ponekad nastaje neka nesličnost rođenoga prema rodiocu glede akcidenata, bilo zbog tvari, bilo zbog slabosti rađalačke snage. Zato, ako ima nekih žitarica koje mogu nastati iz pšeničnoga sjemena, kao što iz zrna posijana u lošoj zemlji niče raž, kruh pripravljen od takva žita može biti tvar ovoga sakramenta. Ali čini se da to nema mjesta ni kod ječma, ni kod pira, pa ni kod dvozrnca, koji je među svima najsličniji pšeničnom zrnu. A sličnost oblika kod takvih stvari, čini se, prije označuje blizinu nego istovjetnost vrste; kao što se iz sličnosti oblika očituje da su pas i vuk bliskih vrsta, ali ne iste. Stoga se od takvih žitarica, koje ni na koji način ne mogu nastati iz sjemena pšeničnoga zrna, ne može pripraviti kruh koji bi bio propisana tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a3.ad3": {
+      "text": "Na treće treba reći da malo miješanje ne razara vrstu, jer ono što je malo mnogo na neki način proguta. Zato, ako je mala primjesa drugoga žita uz mnogo veću količinu pšenice, od toga se može pripraviti kruh koji je tvar ovoga sakramenta. Ako je pak miješanje veliko, primjerice u jednakom ili gotovo jednakom omjeru, takvo miješanje mijenja vrstu. Stoga kruh pripravljen od toga neće biti propisana tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a3.ad4": {
+      "text": "Na četvrto treba reći da je ponekad pokvarenost kruha tolika da se razara vrsta kruha, kao kad se razara neprekinutost, a mijenjaju se okus, boja i drugi akcidenti. Stoga se od takve tvari ne može ostvariti Kristovo tijelo. A ponekad pokvarenost nije tolika da razara vrstu, nego postoji neka raspoloživost za kvarenje, što pokazuje neka izmjena okusa. I od takva se kruha može ostvariti Kristovo tijelo, ali griješi onaj tko ga ostvaruje, zbog nepoštovanja prema sakramentu. A budući da je škrob od pokvarene pšenice, ne čini se da kruh pripravljen od njega može postati Kristovo tijelo, premda neki tvrde suprotno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se ovaj sakrament ne treba sastavljati od beskvasnoga kruha. Jer u ovom sakramentu trebamo nasljedovati Kristovu ustanovu. A čini se da je Krist ovaj sakrament ustanovio u kvasnom kruhu, jer, kako se čita u Izl 12, Židovi su po Zakonu počinjali jesti beskvasne kruhove na dan Pashe, koji se slavi četrnaestoga dana mjeseca; a Krist je ovaj sakrament ustanovio na večeri koju je proslavio prije dana Pashe, kako stoji u Iv 13. Dakle i mi trebamo ovaj sakrament slaviti u kvasnom kruhu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a4.obj2": {
+      "text": "Osim toga, ono što pripada Zakonu ne treba obdržavati u vrijeme milosti. A služiti se beskvasnim kruhovima bio je neki obred Zakona, kako je očito iz Izl 12. Dakle se u ovom sakramentu milosti ne trebamo služiti beskvasnim kruhovima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a4.obj3": {
+      "text": "Osim toga, kako je gore rečeno, Euharistija je sakrament ljubavi, kao što je krštenje sakrament vjere. A žar ljubavi označuje se kvascem, kako je očito iz Glose uz ono Mt 13: *Kraljevstvo je nebesko slično kvascu* i tako dalje. Dakle se ovaj sakrament treba sastavljati od kvasnoga kruha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a4.obj4": {
+      "text": "Osim toga, beskvasno i kvasno akcidenti su kruha, koji ne mijenjaju njegovu vrstu. A kod tvari krštenja ne pravi se nikakvo razlikovanje s obzirom na razliku akcidenata vode, na primjer je li slana ili slatka, topla ili hladna. Dakle se ni u ovom sakramentu ne treba praviti nikakvo razlikovanje je li kruh beskvasan ili kvasan.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a4.sc": {
+      "text": "Ali protiv toga jest to što se u Dekretalima, u naslovu O slavljenju misa, u poglavlju Litteras, kažnjava svećenik koji se *usudio slaviti svečanost mise u kvasnom kruhu i s drvenom čašom*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a4.resp": {
+      "text": "Odgovaram: treba reći da se glede tvari ovoga sakramenta mogu razmotriti dvije stvari, naime što je nužno i što je prikladno. Nužno je, dakako, da to bude pšenični kruh, kako je rečeno, bez kojega se sakrament ne ostvaruje. Ali za sakrament nije nužno da bude beskvasan ili kvasan, jer se može sastaviti u jednom i u drugom. A prikladno je da svatko u slavljenju sakramenta čuva obred svoje Crkve. O tome pak postoje različiti običaji Crkava. Jer blaženi Grgur kaže u Registru: *Rimska Crkva prinosi beskvasne kruhove zato što je Gospodin uzeo tijelo bez ikakva miješanja. Ali ostale Crkve prinose kvasni kruh zato što se Riječ Očeva obukla u tijelo, kao što se i kvasac miješa s brašnom*. Stoga, kao što griješi svećenik koji u Crkvi Latina slavi s kvasnim kruhom, tako bi griješio grčki prezbiter koji bi u Crkvi Grka slavio s beskvasnim kruhom, kao da izvrće obred svoje Crkve. Ipak je običaj slavljenja s beskvasnim kruhom razložniji. Prvo, zbog Kristove ustanove, koji je ovaj sakrament ustanovio prvoga dana beskvasnih kruhova, kako stoji u Mt 26, Mk 14 i Lk 22, kojega dana u kućama Židova nije smjelo biti ništa kvasno, kako stoji u Izl 12. Drugo, jer je kruh u vlastitom smislu sakrament Kristova tijela, koje je začeto bez kvarenja, više nego sakrament samoga njegova božanstva, kako će se niže pokazati. Treće, jer to više pristaje iskrenosti vjernika, koja se zahtijeva za uporabu ovoga sakramenta, prema onome 1 Kor 5: *Naša je Pasha, Krist, žrtvovan; zato svetkujmo s beskvasnim kruhovima iskrenosti i istine*. Ipak, taj običaj Grka ima neki razlog, i zbog značenja koje dotiče Grgur, i radi odbijanja hereze nazarejaca, koji su miješali ono što pripada Zakonu s Evanđeljem.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je, kako se čita u Izl 12, pashalna svetkovina počinjala navečer četrnaestoga dana mjeseca. I tada je Krist, nakon žrtvovanja pashalnoga janjeta, ustanovio ovaj sakrament. Stoga Ivan za taj dan kaže da prethodi sljedećem danu Pashe, a ostala tri evanđelista nazivaju ga prvim danom beskvasnih kruhova, kada se u kućama Židova nije nalazilo ništa kvasno, kako je rečeno. A o tome je potpunije zabilježeno gore, u raspravi o Gospodnjoj muci.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a4.ad2": {
+      "text": "Na drugo treba reći da oni koji sastavljaju sakrament od beskvasnoga kruha ne smjeraju obdržavati obrede Zakona, nego se suobličiti Kristovoj ustanovi. I zato ne židovstvuju. Inače bi i oni koji slave u kvasnom kruhu židovstvovali, jer su Židovi prinosili kvasne kruhove prvina.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a4.ad3": {
+      "text": "Na treće treba reći da kvasac označuje ljubav zbog nekog učinka, naime zato što kruh čini ukusnijim i većim. Ali kvarenje označuje po samom pojmu svoje vrste.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a4.ad4": {
+      "text": "Na četvrto treba reći da, budući da kvasac ima u sebi nešto od kvarenja, a od pokvarenoga se kruha ovaj sakrament ne može sastaviti, kako je rečeno, zato se kod kruha više pazi na razliku beskvasnoga i kvasnoga nego kod vode krštenja na razliku tople i hladne. Jer bi kvarenje od kvasca moglo biti tako veliko da se od toga ne bi mogao učiniti sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q74.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da vino od vinove loze nije vlastita tvar ovoga sakramenta. Jer kao što je voda tvar krštenja, tako je vino tvar ovoga sakramenta. A krštenje se može obaviti u bilo kojoj vodi. Dakle se ovaj sakrament može sastaviti u bilo kojem vinu, na primjer od mogranja ili dudova ili od čega takva, osobito jer u nekim zemljama ne raste vinova loza.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a5.obj2": {
+      "text": "Osim toga, ocat je neka vrsta vina koje se dobiva od vinove loze, kako kaže Izidor. A od octa se ovaj sakrament ne može sastaviti. Dakle se čini da vino od vinove loze nije vlastita tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a5.obj3": {
+      "text": "Osim toga, kao što se od vinove loze dobiva pročišćeno vino, tako i sok nezrela grožđa i mošt. A čini se da se od njih ne može sastaviti ovaj sakrament, prema onome što se čita na Šestom saboru: *Doznali smo da u nekim Crkvama svećenici sa žrtvom prinosa spajaju grožđe, i tako narodu podjeljuju oboje zajedno. Zato nalažemo da nijedan svećenik to više ne čini*. I papa Julije kori neke koji *u sakramentu Gospodnjega kaleža prinose istisnuto vino*. Dakle se čini da vino od vinove loze nije vlastita tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a5.sc": {
+      "text": "Ali protiv toga jest to što se Gospodin, kao što je sebe usporedio sa zrnom pšenice, tako sebe usporedio i s vinovom lozom, govoreći u Iv 15: *Ja sam pravi trs*. A samo je kruh od pšenice tvar ovoga sakramenta, kako je rečeno. Dakle je samo vino od vinove loze vlastita tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a5.resp": {
+      "text": "Odgovaram: treba reći da se ovaj sakrament može sastaviti samo od vina od vinove loze. Prvo, zbog Kristove ustanove, jer je on ovaj sakrament ustanovio u vinu od vinove loze, kako je očito iz onoga što sam kaže u Lk 22, kod ustanove ovoga sakramenta: *Odsad neću piti od ovoga roda trsova*. Drugo, jer se, kako je rečeno, za tvar sakramenata uzima ono što u vlastitom smislu i općenito ima takvu vrstu. A vinom se u vlastitom smislu naziva ono što se dobiva od vinove loze, dok se druga pića nazivaju vinom po nekoj sličnosti s vinom od vinove loze. Treće, jer vino od vinove loze više pristaje učinku ovoga sakramenta, a to je duhovno veselje, jer je pisano da *vino veseli srce čovječje*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ta pića ne nazivaju vinom u vlastitom smislu, nego po sličnosti. A pravo se vino može donijeti u one zemlje u kojima ne raste vinova loza, koliko je dosta za ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a5.ad2": {
+      "text": "Na drugo treba reći da vino postaje octom kvarenjem, pa stoga nema povratka od octa u vino, kako se kaže u VIII. knjizi Metafizike. I zato, kao što se od potpuno pokvarenoga kruha ne može sastaviti ovaj sakrament, tako se ne može sastaviti ni od octa. Ipak se može sastaviti od vina koje se kiseli, kao i od kruha koji je na putu kvarenja, premda griješi onaj tko tako sastavlja, kako je prije rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a5.ad3": {
+      "text": "Na treće treba reći da je sok nezrela grožđa na putu nastajanja, i zato još nema vrstu vina. I zbog toga se od njega ne može sastaviti ovaj sakrament. A mošt već ima vrstu vina, jer njegova slatkoća svjedoči o probavi, koja je *dovršenje od naravne topline*, kako se kaže u IV. knjizi Meteorologike. I zato se od mošta može sastaviti ovaj sakrament. Ipak se s ovim sakramentom ne smiju miješati cijele bobice grožđa, jer bi tu tada bilo nešto osim vina. Zabranjuje se također da se u kaležu prinosi mošt tek istisnut iz grožđa, jer je to nedolično zbog nečistoće mošta. Ipak se u nuždi može učiniti, jer isti papa Julije kaže: *Ako bude potrebno, neka se grozd istisne u kalež*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da vodu ne treba miješati s vinom. Jer je Kristova žrtva bila predslikana prinosom Melkisedeka, za kojega se u Post 14 ne čita da je prinio išta osim kruha i vina. Dakle se čini da u ovom sakramentu ne treba dodavati vodu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a6.obj2": {
+      "text": "Osim toga, različiti sakramenti imaju različite tvari. A voda je tvar krštenja. Dakle je ne treba uzimati za tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a6.obj3": {
+      "text": "Osim toga, kruh i vino tvar su ovoga sakramenta. A kruhu se ništa ne dodaje. Dakle ni vinu ne treba ništa dodavati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a6.sc": {
+      "text": "Ali protiv toga jest to što piše papa Aleksandar: *U prinosima sakramenata koji se za svečanosti mise prinose Gospodinu neka se kao žrtva prinose samo kruh i vino pomiješano s vodom*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a6.resp": {
+      "text": "Odgovaram: treba reći da s vinom koje se prinosi u ovom sakramentu treba miješati vodu. Prvo, zbog ustanove. Jer se s vjerojatnošću vjeruje da je Gospodin ovaj sakrament ustanovio u vinu pomiješanom s vodom, po običaju one zemlje; stoga se i u Izr 9 kaže: *Pijte vino koje sam vam pomiješala*. Drugo, jer to pristaje predočivanju Gospodnje muke. Stoga papa Aleksandar kaže: *U Gospodnjem se kaležu ne smije prinositi ni samo vino ni sama voda, nego oboje pomiješano, jer se čita da je oboje poteklo iz Kristova boka u njegovoj muci*. Treće, jer to pristaje označivanju učinka ovoga sakramenta, a to je sjedinjenje kršćanskoga naroda s Kristom, jer, kako kaže papa Julije, *vidimo da se u vodi razumijeva narod, a u vinu da se pokazuje Kristova krv. Kada se, dakle, u kaležu voda miješa s vinom, narod se ujedinjuje s Kristom*. Četvrto, jer to pristaje posljednjem učinku ovoga sakramenta, a to je ulazak u vječni život. Stoga Ambrozije kaže u knjizi O sakramentima: *Voda se izlijeva u kalež i izvire u vječni život*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je, kako ondje kaže Ambrozije, Kristova žrtva, kao što je bila označena prinosom Melkisedeka, tako bila označena i vodom koja je u pustinji potekla iz stijene, prema onome 1 Kor 10: *A pili su iz duhovne stijene koja ih je pratila*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a6.ad2": {
+      "text": "Na drugo treba reći da se voda u krštenju uzima radi uporabe pranja. A u ovom se sakramentu uzima radi uporabe okrepe, prema onome iz Psalma: *Na vodi okrepe odgojio me*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a6.ad3": {
+      "text": "Na treće treba reći da se kruh pravi od vode i brašna. I zato, kada se voda miješa s vinom, nijedno od njih nije bez vode.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da je miješanje vode nužno za ovaj sakrament. Jer Ciprijan kaže Ceciliju: *Tako Gospodnji kalež nije sama voda i samo vino ako se oboje ne pomiješa, kao što ni Gospodnje tijelo ne može biti samo brašno ako se oboje, naime brašno i voda, ne sjedini*. A primješavanje vode brašnu nužno je za ovaj sakrament. Dakle je, s jednakim razlogom, nužno i primješavanje vode vinu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a7.obj2": {
+      "text": "Osim toga, u Gospodnjoj muci, kojoj je ovaj sakrament spomen, kao što je iz njegova boka izišla krv, tako i voda. A vino, koje je sakrament krvi, nužno je za ovaj sakrament. Dakle je, s jednakim razlogom, nužna i voda.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a7.obj3": {
+      "text": "Osim toga, kad voda ne bi bila nužna za ovaj sakrament, ne bi bilo važno kakva se voda dodaje ovom sakramentu, pa bi se tako mogla dodati ružina voda ili bilo koja druga takva voda. A to nije u običaju Crkve. Dakle je voda nužna za ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a7.sc": {
+      "text": "Ali protiv toga jest to što Ciprijan kaže: *Ako netko od naših prethodnika iz neznanja ili iz priprostosti nije obdržavao* to, naime da u sakramentu pomiješa vodu s vinom, *njegovoj se priprostosti može dati oproštenje*. To ne bi bilo kad bi voda bila nužna za sakrament, kao što je nužno vino ili kruh. Dakle primješavanje vode nije nužno za sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a7.resp": {
+      "text": "Odgovaram: treba reći da sud o znaku valja uzeti iz onoga što se označuje. A dodavanje vode vinu odnosi se na označivanje sudjelovanja vjernika u ovom sakramentu, utoliko što se vodom pomiješanom s vinom označuje narod sjedinjen s Kristom, kako je rečeno. Ali i samo to što je iz boka Krista koji je visio na križu potekla voda odnosi se na isto, jer se vodom označivalo pranje od grijeha, koje se zbivalo po Kristovoj muci. A gore je rečeno da se ovaj sakrament ostvaruje u posveti tvari, dok uporaba od strane vjernika nije nužna za sakrament, nego je nešto što slijedi za sakramentom. I zato slijedi da dodavanje vode nije nužno za sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da tu Ciprijanovu riječ treba razumjeti u smislu u kojem se kaže da ne može biti ono što ne može prikladno biti. I tako se ta sličnost uzima s obzirom na ono što treba učiniti, a ne s obzirom na nužnost, jer voda pripada biti kruha, a ne pripada biti vina.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a7.ad2": {
+      "text": "Na drugo treba reći da se izlijevanje krvi izravno odnosilo na samu Kristovu muku, jer je naravno da iz ranjenoga ljudskog tijela poteče krv. Ali izlijevanje vode nije bilo nužno za muku, nego je bilo radi pokazivanja učinka, a to je pranje od grijeha i rashlađenje protiv žara požude. I zato se u ovom sakramentu voda ne prinosi odvojeno od vina, kao što se vino prinosi odvojeno od kruha, nego se voda prinosi pomiješana s vinom, da bi se pokazalo da vino po sebi pripada ovom sakramentu, kao ono što je za nj nužno, a voda utoliko ukoliko se dodaje vinu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a7.ad3": {
+      "text": "Na treće treba reći da, budući da primješavanje vode vinu nije nužno za sakrament, s obzirom na nužnost sakramenta nije važno kakva se voda miješa s vinom, bila naravna ili umjetna, kao ružina voda. Ipak, s obzirom na prikladnost sakramenta, griješi onaj tko miješa drugu vodu osim naravne i prave, jer je iz boka Krista koji je visio na križu potekla prava voda, a ne sluzava tekućina, kako su neki rekli, da bi se pokazalo da je Kristovo tijelo uistinu bilo sastavljeno od četiriju elemenata, kao što se krvlju koja je tekla pokazivalo da je bilo sastavljeno od četiriju sokova, kako kaže Inocent III. u jednoj dekretali. A budući da je primješavanje vode brašnu nužno za ovaj sakrament, jer tvori supstanciju kruha, kad bi se brašnu primiješala ružina voda ili bilo koja druga tekućina osim prave vode, od toga se ne bi mogao sastaviti sakrament, jer to nije uistinu kruh.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da vodu treba dodavati u velikoj količini. Jer kao što je krv osjetno potekla iz Kristova boka, tako i voda; stoga se u Iv 19 kaže: *Onaj koji je vidio posvjedočio je*. A voda ne bi mogla osjetno biti u ovom sakramentu ako se ne bi stavila u velikoj količini. Dakle se čini da vodu treba dodavati u velikoj količini.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a8.obj2": {
+      "text": "Osim toga, malo vode pomiješano s mnogo vina propada. A ono što je propalo, ne postoji. Dakle je isto dodati malo vode u ovom sakramentu i ne dodati ništa. A nije dopušteno ne dodati ništa. Dakle nije dopušteno dodati malo.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a8.obj3": {
+      "text": "Osim toga, kad bi bilo dosta dodati malo, slijedilo bi da bi bilo dovoljno da se kap vode baci u cijelu bačvu. A to se čini smiješnim. Dakle nije dosta da se stavi mala količina.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a8.sc": {
+      "text": "Ali protiv toga jest to što se u Dekretalima, u naslovu O slavljenju misa, kaže: *U tvojim je krajevima uhvatila korijen pogubna zlouporaba, naime da se u žrtvu stavlja veća količina vode nego vina, premda, prema razložnom običaju opće Crkve, u njoj treba staviti više vina nego vode*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a8.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Inocent III. u jednoj dekretali, o vodi dodanoj vinu postoji trostruko mišljenje. Jedni naime kažu da voda dodana vinu ostaje po sebi, dok se vino pretvara u krv. Ali to se mišljenje nikako ne može održati. Jer u sakramentu oltara nakon posvete nema ničega osim Kristova tijela i krvi, kako kaže Ambrozije u knjizi O službama: *Prije blagoslova imenuje se druga vrsta, nakon blagoslova označuje se tijelo*. Inače mu se ne bi klanjalo štovanjem latrije. I zato su drugi rekli da se, kao što se vino pretvara u krv, tako voda pretvara u vodu koja je potekla iz Kristova boka. Ali to se ne može razložno reći. Jer bi se prema tome voda posvećivala odvojeno od vina, kao vino odvojeno od kruha. I zato je, kako on sam kaže, vjerojatnije mišljenje drugih, koji kažu da se voda pretvara u vino, a vino u krv. A to se ne bi moglo dogoditi ako se ne bi dodalo toliko malo vode da se pretvori u vino. I zato je uvijek sigurnije dodati malo vode, a osobito ako je vino slabo, jer, kad bi se dodalo toliko vode da se razgradi vrsta vina, ne bi se mogao ostvariti sakrament. Stoga papa Julije kori neke koji *čuvaju preko cijele godine laneno platno natopljeno moštom, a u vrijeme žrtve vodom ispiru dio njega i tako prinose*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da je za značenje ovoga sakramenta dosta da se voda osjeti dok se dodaje vinu, a nije potrebno da bude osjetna nakon miješanja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a8.ad2": {
+      "text": "Na drugo treba reći da bi se, kad se voda uopće ne bi dodala, značenje potpuno isključilo; ali kad se voda pretvara u vino, označuje se da se narod pritjelovljuje Kristu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    },
+    "III.q74.a8.ad3": {
+      "text": "Na treće treba reći da, kad bi se voda dodala bačvi, to ne bi bilo dosta za značenje ovoga sakramenta, nego vodu treba dodati vinu pri samom slavljenju sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:04+00:00"
+    }
+  }
+}

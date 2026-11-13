@@ -1,0 +1,612 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 83,
+  "units": {
+    "III.q83.pr": {
+      "text": "Zatim treba razmotriti obred ovoga sakramenta. I o tome se pita šest stvari. Prvo, žrtvuje li se Krist u slavljenju ovoga otajstva. Drugo, o vremenu slavljenja. Treće, o mjestu i ostalome što pripada opremi ovoga slavljenja. Četvrto, o onome što se govori u slavljenju ovoga otajstva. Peto, o onome što se čini oko slavljenja ovoga otajstva. Šesto, o nedostacima koji se događaju oko slavljenja ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se u slavljenju ovoga sakramenta Krist ne žrtvuje. Kaže se, naime, u Heb 10 da je *Krist jednim prinosom zauvijek usavršio posvećene*. Ali onaj je prinos bio njegovo žrtvovanje. Dakle, Krist se ne žrtvuje u slavljenju ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a1.obj2": {
+      "text": "Osim toga, Kristovo se žrtvovanje dogodilo na križu, na kojem je *predao sama sebe kao prinos i žrtvu Bogu na miomiris*, kako se kaže u Ef 5. Ali u slavljenju ovoga otajstva Krist se ne razapinje. Dakle, ni ne žrtvuje se.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a1.obj3": {
+      "text": "Osim toga, kao što kaže Augustin u IV. knjizi O Trojstvu, u Kristovu su žrtvovanju isti svećenik i žrtva. Ali u slavljenju ovoga sakramenta nisu isti svećenik i žrtva. Dakle, slavljenje ovoga sakramenta nije Kristovo žrtvovanje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a1.sc": {
+      "text": "Ali protiv toga jest ono što Augustin kaže u knjizi Prosperovih izreka: *Krist je jednom žrtvovan u samome sebi, a ipak se svakodnevno žrtvuje u sakramentu*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a1.resp": {
+      "text": "Odgovaram: treba reći da se slavljenje ovoga sakramenta naziva Kristovim žrtvovanjem iz dvaju razloga. Prvo, zato što, kako kaže Augustin u djelu Simplicijanu, *slike se obično nazivaju imenima onih stvari kojih su slike, kao kad, gledajući sliku na ploči ili oslikani zid, kažemo: Ono je Ciceron, ono Salustije*. A slavljenje ovoga sakramenta, kako je gore rečeno, jest neka slika koja predočuje Kristovu muku, koja je pravo žrtvovanje. Stoga Ambrozije kaže u komentaru Poslanice Hebrejima: *U Kristu je jednom prinesena žrtva moćna za vječno spasenje. Što, dakle, mi? Zar ne prinosimo svaki dan na spomen njegove smrti?* Na drugi način, s obzirom na učinak muke, naime zato što po ovom sakramentu postajemo dionici ploda Gospodnje muke. Stoga se i u tihoj molitvi (sekreti) jedne nedjelje kaže: *kad god se slavi spomen ove žrtve, vrši se djelo našega otkupljenja*. Što se, dakle, tiče prvoga načina, za Krista se moglo reći da se žrtvuje i u predslikama Staroga zavjeta; stoga se i u Otk 13 kaže: *kojih imena nisu zapisana u knjizi života Jaganjca, koji je zaklan od postanka svijeta*. Ali što se tiče drugoga načina, vlastito je ovom sakramentu da se u njegovu slavljenju Krist žrtvuje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je, kako Ambrozije ondje kaže, jedna žrtva, naime ona koju je Krist prinio i mi prinosimo, *a ne mnoge, jer je Krist jednom prinesen, a ova je žrtva odslik one. Kao što je, naime, ono što se posvuda prinosi jedno tijelo, a ne mnoga tijela, tako je i jedna žrtva*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a1.ad2": {
+      "text": "Na drugo treba reći da, kao što je slavljenje ovoga sakramenta slika koja predočuje Kristovu muku, tako oltar predočuje njegov križ, na kojem je Krist bio žrtvovan u vlastitom liku.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a1.ad3": {
+      "text": "Na treće treba reći da iz istoga razloga i svećenik nosi sliku Krista, u čijoj osobi i snazi izgovara riječi posvete, kao što je jasno iz onoga što je gore rečeno. I tako su na neki način isti svećenik i žrtva.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je vrijeme slavljenja ovoga otajstva neprikladno određeno. Ovaj sakrament, naime, predočuje Gospodnju muku, kako je rečeno. Ali spomen Gospodnje muke vrši se u Crkvi jednom u godini; Augustin, naime, kaže u tumačenju Psalama: *Kad god se slavi Pasha, zar se Krist toliko puta ubija? Ali ipak godišnji spomen predočuje ono što se nekoć dogodilo, i tako čini da budemo ganuti kao da gledamo Gospodina prisutnoga na križu*. Dakle, ovaj se sakrament ne bi trebao slaviti osim jednom u godini.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.obj2": {
+      "text": "Osim toga, Kristova se muka spominje u Crkvi u petak prije Pashe, a ne na blagdan Rođenja. Budući, dakle, da je ovaj sakrament spomen Gospodnje muke, čini se neprikladnim da se na dan Rođenja ovaj sakrament slavi triput, a na Veliki petak posve izostavlja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.obj3": {
+      "text": "Osim toga, u slavljenju ovoga sakramenta Crkva treba nasljedovati Kristovu ustanovu. Ali Krist je ovaj sakrament posvetio u večernji sat. Dakle, čini se da bi se ovaj sakrament trebao slaviti u takav sat.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.obj4": {
+      "text": "Osim toga, kako stoji u Dekretima, O posveti, dist. 1, papa Leon piše Dioskoru, aleksandrijskom biskupu, da je dopušteno slaviti mise u prvom dijelu dana. Ali dan počinje od ponoći, kako je gore rečeno. Dakle, čini se da je dopušteno slaviti i poslije ponoći.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.obj5": {
+      "text": "Osim toga, u tihoj molitvi (sekreti) jedne nedjelje kaže se: *Daj nam, molimo, Gospodine, da često slavimo ova otajstva*. Ali veća će biti učestalost ako svećenik slavi i u više sati na dan. Dakle, čini se da svećeniku ne bi trebalo zabranjivati da slavi više puta na dan.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.sc": {
+      "text": "Ali protiv toga jest običaj koji Crkva obdržava prema odredbama kanona.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, u slavljenju ovoga otajstva uzima u obzir i predočivanje Gospodnje muke i sudjelovanje u njezinu plodu. I prema objema trebalo je odrediti vrijeme prikladno za slavljenje ovoga sakramenta. Budući da, naime, plod Gospodnje muke trebamo svakodnevno zbog svakodnevnih nedostataka, ovaj se sakrament u Crkvi redovito prinosi svaki dan. Stoga nas i Gospodin uči moliti, Lk 11: *kruh naš svagdanji daj nam danas*; tumačeći to, Augustin u knjizi O riječima Gospodnjim kaže: *Ako je kruh svagdanji, zašto ga primaš nakon godine dana, kako to obično čine Grci na Istoku? Primaj svaki dan ono što ti svaki dan koristi*. A budući da se Gospodnja muka odvijala od trećega do devetoga sata, zato se ovaj sakrament u Crkvi redovito svečano slavi u tom dijelu dana.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u ovom sakramentu spominje Kristova muka ukoliko se njezin učinak izlijeva na vjernike. A u vrijeme muke spominje se Kristova muka samo ukoliko je bila izvršena u samoj našoj Glavi. To se pak dogodilo jednom, a plod Gospodnje muke vjernici primaju svakodnevno. I zato se samo spomen vrši jednom u godini, a ovo svakodnevno, i zbog ploda i zbog neprestanoga sjećanja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.ad2": {
+      "text": "Na drugo treba reći da, kad dođe istina, prestaje predslika. A ovaj je sakrament neka predslika i odslik Gospodnje muke, kako je rečeno. I zato se na dan kad se spominje sama Gospodnja muka onako kako se zbiljski dogodila ne vrši posveta ovoga sakramenta. Ipak, da Crkva ni toga dana ne bi bila bez ploda muke koji nam se pruža po ovom sakramentu, Kristovo tijelo posvećeno prethodnoga dana čuva se da se primi toga dana. Ali ne i krv, zbog opasnosti, i zato što je krv na posebniji način slika Gospodnje muke, kako je gore rečeno. Nije istina ni ono što neki kažu, da se stavljanjem čestice tijela u vino vino pretvara u krv. To se, naime, ne može dogoditi drukčije nego posvetom izvršenom u dužnoj formi riječi. Na dan Rođenja pak slavi se više misa, zbog trostrukoga Kristova rođenja. Od njih je jedno vječno, koje je, što se nas tiče, skriveno. I zato se jedna misa pjeva noću, u čijoj se ulaznoj pjesmi kaže: *Gospodin mi reče: Sin si moj, ja te danas rodih*. Drugo je pak vremenito, ali duhovno, ono po kojem Krist *izlazi kao Danica u srcima našim*, kako se kaže u 2 Pt 1. I zbog toga se pjeva misa u zoru, u čijoj se ulaznoj pjesmi kaže: *Svjetlo će zasjati nad nama*. Treće je Kristovo rođenje vremenito i tjelesno, po kojemu je, vidljiv nama, izašao iz djevičanske utrobe odjeven puti. I zbog toga se treća misa pjeva za punoga dana, u čijoj se ulaznoj pjesmi kaže: *Dijete nam se rodilo*. Premda bi se obratno moglo reći da je vječno rođenje, samo po sebi, u punom svjetlu, i zbog toga se u Evanđelju treće mise spominje vječno rođenje. A što se tiče tjelesnoga rođenja, doslovno se rodio noću, na znak da je dolazio u tamu naše slabosti; stoga se i u noćnoj misi čita Evanđelje o Kristovu tjelesnom rođenju. Tako se i u druge dane u koje se susreće više Kristovih dobročinstava koja treba ili spominjati ili isprositi slavi više misa na dan, primjerice jedna za blagdan, a druga za post ili za mrtve.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.ad3": {
+      "text": "Na treće treba reći da je, kako je gore rečeno, Krist htio ovaj sakrament predati učenicima na posljetku, da bi se jače utisnuo u njihova srca. I zato je ovaj sakrament posvetio i predao učenicima poslije večere i na kraju dana. A mi ga slavimo u sat Gospodnje muke, naime: ili na blagdane u treći sat, kad je bio razapet jezicima Židova, kako se kaže u Mk 15, i kad je Duh Sveti sišao na učenike; ili u obične dane u šesti sat, kad je bio razapet rukama vojnika, kako stoji u Iv 19; ili u dane posta u deveti sat, kad je *povikavši jakim glasom ispustio duh*, kako se kaže u Mt 27. Ipak, slavljenje se može odgoditi, osobito kad treba podjeljivati ređenja, a ponajviše na Veliku subotu: kako zbog duljine službe, tako i zato što ređenja pripadaju nedjeljnom danu, kako stoji u Dekretima, dist. 75, pogl. Quod a patribus. Ipak, mise se mogu slaviti i u prvom dijelu dana zbog neke potrebe, kako stoji u Dekretima, O posveti, dist. 1, pogl. Necesse est i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.ad4": {
+      "text": "Na četvrto treba reći da se misa redovito treba slaviti danju, a ne noću, jer je u ovom sakramentu prisutan sam Krist, koji kaže, Iv 9: *Ja moram činiti djela onoga koji me posla dok je dan. Dolazi noć, kad nitko ne može djelovati. Dok sam na svijetu, svjetlo sam svijeta*. Ipak tako da se početak dana ne uzima od ponoći; ni od izlaska sunca, to jest kad se sama supstancija sunca pojavi nad zemljom; nego kad se počne pojavljivati zora. Tada se, naime, na neki način kaže da je sunce izašlo, ukoliko se pojavljuje sjaj njegovih zraka. Stoga se i u Mk 16 kaže da su žene došle na grob kad je sunce već izašlo, premda su došle na grob dok je još bila tama, kako se kaže u Iv 20; tako, naime, tu proturječnost rješava Augustin u knjizi O suglasju evanđelista. Ipak se posebno slavi misa u noći Rođenja, zato što se Gospodin rodio noću, kako stoji u Dekretima, O posveti, dist. 1, pogl. Nocte i tako dalje. I slično također na Veliku subotu oko početka noći, zato što je Gospodin uskrsnuo noću, to jest dok je još bila tama, prije očitoga izlaska sunca.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a2.ad5": {
+      "text": "Na peto treba reći da, kako stoji u Dekretima, O posveti, dist. 1, iz dekreta pape Aleksandra, *dovoljno je svećeniku slaviti jednu misu na dan, jer je Krist jednom trpio i otkupio sav svijet; i vrlo je sretan onaj koji može dostojno slaviti jednu. Neki ipak slave jednu za pokojne, a drugu od dana, ako je potrebno. A za one koji se za novac ili radi laskanja svjetovnjaka usuđuju slaviti više misa u jednom danu, ne mislim da će izbjeći osudu*. I u Dekretalima, u naslovu O slavljenju misa, Inocent III. kaže da je, *osim na dan Gospodnjega rođenja, ako na to ne nagoni razlog potrebe, dovoljno svećeniku jednom na dan slaviti samo jednu misu*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da ovaj sakrament ne treba slaviti u svetoj kući i svetim posudama. Ovaj sakrament, naime, predočuje Gospodnju muku. Ali Krist nije trpio u kući, nego izvan gradskih vrata, prema onome iz Heb 13: *Isus je, da bi svojom krvlju posvetio narod, trpio izvan vrata*. Dakle, čini se da se ovaj sakrament ne bi trebao slaviti u kući, nego radije pod vedrim nebom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.obj2": {
+      "text": "Osim toga, u slavljenju ovoga sakramenta Crkva treba nasljedovati običaj Krista i apostola. Ali kuća u kojoj je Krist prvi put obavio ovaj sakrament nije bila posvećena, nego je bila neka obična dvorana na katu koju je pripremio neki domaćin, kako stoji u Lk 22. Čita se također u Dj 2 da su *apostoli složno ustrajali u Hramu; i lomeći kruh po kućama, blagovali su s klicanjem*. Dakle, ni sada ne treba da budu posvećene kuće u kojima se ovaj sakrament slavi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.obj3": {
+      "text": "Osim toga, ništa se ne bi smjelo činiti uzalud u Crkvi, kojom upravlja Duh Sveti. Ali čini se da se uzalud primjenjuje posveta na crkvu ili oltar i na takve stvari bez duše, koje nisu prijemljive za milost ili duhovnu snagu. Dakle, neprikladno se takve posvete vrše u Crkvi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.obj4": {
+      "text": "Osim toga, samo se božanska djela trebaju spominjati s nekom svečanošću, prema onome iz Psalma: *klicat ću nad djelima ruku tvojih*. Ali crkva ili oltar posvećuju se ljudskim djelom, kao i kalež i služitelji i druge takve stvari. A posvete se tih stvari ne spominju svečano u Crkvi. Dakle, ni posveta crkve ili oltara ne bi se trebala spominjati sa svečanošću.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.obj5": {
+      "text": "Osim toga, istina treba odgovarati predslici. Ali u Starom zavjetu, koji je bio predslika Novoga, oltar se nije gradio od tesanoga kamenja; kaže se, naime, u Izl 20: *Oltar od zemlje načinite mi. A ako mi načinite kameni oltar, ne gradite ga od tesanoga kamenja*. I u Izl 27 nalaže se da se oltar načini od drva šitim, obložen broncom; ili također zlatom, kako stoji u Izl 25. Dakle, čini se da se u Crkvi neprikladno obdržava to da se oltar gradi samo od kamenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.obj6": {
+      "text": "Osim toga, kalež s pliticom predočuje Kristov grob. A on je bio isklesan u stijeni, kako stoji u Evanđeljima. Dakle, kalež bi se trebao izrađivati od kamena, a ne samo od srebra ili zlata, ili također od kositra.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.obj7": {
+      "text": "Osim toga, kao što je zlato najdragocjenije među tvarima za posude, tako su svilene tkanine dragocjenije od ostalih tkanina. Dakle, kao što se kalež izrađuje od zlata, tako bi se i oltarnici trebali izrađivati od svile, a ne samo od lanene tkanine.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.obj8": {
+      "text": "Osim toga, dijeljenje sakramenata i uređivanje u vezi s njima pripada služiteljima Crkve, kao što je dijeljenje vremenitih stvari podložno uređenju svjetovnih vladara; stoga Apostol kaže, 1 Kor 4: *neka nas čovjek smatra Kristovim služiteljima i upraviteljima Božjih otajstava*. Ali ako bi se u dijeljenju vremenitih stvari što učinilo protiv odredaba vladara, smatra se ništavim. Dakle, ako je ono što je rečeno prikladno ustanovljeno od crkvenih prelata, čini se da se bez toga ovaj sakrament ne može izvršiti. I tako, čini se, slijedi da Kristove riječi nisu dovoljne za izvršenje ovoga sakramenta, što je neprikladno. Dakle, ne čini se da je bilo prikladno da se to ustanovi u vezi sa slavljenjem sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.sc": {
+      "text": "Ali protiv toga jest to što ono što Crkva ustanovljuje uređuje sam Krist, koji kaže, Mt 18: *gdje god budu dvojica ili trojica sabrana u moje ime, ondje sam ja među njima*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.resp": {
+      "text": "Odgovaram: treba reći da se u onome što okružuje ovaj sakrament razmatraju dvije stvari: jedna se odnosi na predočivanje onoga što se dogodilo oko Gospodnje muke; druga pak na poštovanje prema ovom sakramentu, u kojemu je Krist sadržan po istini, a ne samo kao u predslici. Stoga se posvete primjenjuju i na one stvari koje dolaze u uporabu ovoga sakramenta, kako zbog poštovanja prema sakramentu, tako i radi predočivanja učinka svetosti koji proizlazi iz Kristove muke, prema onome iz Heb 13: *Isus, da bi svojom krvlju posvetio narod,* i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ovaj sakrament redovito treba slaviti u kući, kojom se označuje Crkva, prema onome iz 1 Tim 3: *da znaš kako se treba ponašati u kući Božjoj, koja je Crkva Boga živoga*. Izvan Crkve, naime, nije mjesto prave žrtve, kako kaže Augustin. A budući da Crkva nije trebala biti zatvorena u granice židovskoga naroda, nego je trebala biti utemeljena po svem svijetu, zato Kristova muka nije bila izvršena unutar grada Židova, nego pod vedrim nebom, da bi se tako sav svijet odnosio prema Kristovoj muci kao kuća. Pa ipak, kako se kaže u Dekretima, O posveti, dist. 1, pogl. Concedimus, *onima koji su na putu, ako nema crkve, dopuštamo da pod vedrim nebom ili pod šatorom slave svečanosti misa, ako su ondje prisutni posvećena ploča i ostala sveta otajstva koja pripadaju toj službi*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.ad2": {
+      "text": "Na drugo treba reći da se kuća u kojoj se ovaj sakrament slavi, budući da označuje Crkvu, kao što se i naziva crkvom, prikladno posvećuje: kako radi predočivanja posvećenja koje je Crkva postigla po Kristovoj muci, tako i radi označivanja svetosti koja se traži u onima koji ovaj sakrament trebaju primati. Oltarom se pak označuje sam Krist, o kojemu Apostol kaže u Heb 13: *po njemu prinosimo Bogu žrtvu hvale*. Stoga i posveta oltara označuje Kristovu svetost, o kojoj se kaže u Lk 1: *ono sveto što će se roditi od tebe zvat će se Sin Božji*. Stoga se u Dekretima, O posveti, dist. 1, kaže: *odlučeno je da se oltari posvećuju ne samo pomazanjem krizmom nego i svećeničkim blagoslovom*. I zato redovito nije dopušteno slaviti ovaj sakrament osim u posvećenim kućama. Stoga ovako stoji u Dekretima, O posveti, dist. 1: *neka se nijedan prezbiter ne usudi slaviti misu osim na mjestima koja je posvetio biskup*. Zbog toga se također, budući da pogani nisu od Crkve, kao ni drugi nevjernici, u istoj distinkciji čita: *crkvu u kojoj se pokapaju tjelesa umrlih nevjernika nije dopušteno posvetiti, nego, ako se čini prikladnom za posvetu, neka se, nakon što se iz nje izvade tjelesa i ostružu zidovi ili grede toga mjesta, ponovno sagradi. Ali ako je prije bila posvećena, dopušteno je u njoj slaviti mise, ako su ipak oni koji su u njoj pokopani bili vjernici*. Zbog potrebe ipak se ovaj sakrament može obaviti u neposvećenim ili oskvrnjenim kućama, ali ipak uz pristanak biskupa. Stoga se u istoj distinkciji čita: *određujemo da se svečanosti misa ne slave bilo gdje, nego na mjestima koja je posvetio biskup ili gdje on dopusti*. Ali ne bez posvećenoga prijenosnog oltara; stoga se u istoj distinkciji čita: *dopuštamo, ako su crkve spaljene ili izgorjele, da se u kapelama slave mise s posvećenom pločom*. Budući, naime, da je Kristova svetost izvor sve crkvene svetosti, zato je u potrebi za obavljanje ovoga sakramenta dovoljan posvećeni oltar. Zbog toga se također crkva nikada ne posvećuje bez oltara, ali se katkada bez crkve posvećuje oltar, s moćima svetih, čiji je *život skriven s Kristom u Bogu*. Stoga se u istoj distinkciji čita: *odlučeno je da oltare u kojima se ne utvrdi da je pohranjeno ikakvo tijelo ili moći mučenika biskupi koji su nad tim mjestima, ako je moguće, poruše*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.ad3": {
+      "text": "Na treće treba reći da se crkva i oltar i druge takve stvari bez duše posvećuju, ne zato što bi bile prijemljive za milost, nego zato što posvetom zadobivaju neku duhovnu snagu po kojoj postaju prikladne za božansko štovanje, naime da ljudi odatle prime neku predanost, kako bi bili spremniji za božanske stvari, ako to ne bi bilo priječeno zbog nepoštovanja. Stoga se i u 2 Mak 3 kaže: *uistinu je neka Božja snaga u tom mjestu, jer onaj koji ima prebivalište na nebesima pohoditelj je i pomoćnik onoga mjesta*. I odatle je to da se takve stvari prije posvete čiste i egzorciziraju, da bi se odande otjerala snaga neprijatelja. I iz istoga se razloga crkve *koje su oskvrnjene prolijevanjem krvi ili bilo čijim sjemenom* ponovno pomiruju, jer se po grijehu ondje počinjenom ondje očituje neko djelovanje neprijatelja. Zbog toga se također u istoj distinkciji čita: *crkve arijanaca, gdje god ih nađete, bez ikakva oklijevanja posvetite božanskim molitvama i djelima kao katoličke crkve*. Stoga i neki s razlogom kažu da čovjek ulaskom u posvećenu crkvu postiže otpuštenje lakih grijeha, kao i škropljenjem blagoslovljenom vodom, navodeći ono što se kaže u Psalmu: *blagoslovio si, Gospodine, zemlju svoju, otpustio si bezakonje puka svoga*. I zato se, zbog snage koju zadobiva posvetom, posveta crkve ne ponavlja. Stoga se u istoj distinkciji, iz Nicejskoga sabora, čita: *crkve koje su jednom posvećene Bogu ne smiju se ponovno posvećivati, osim ako su izgorjele u vatri ili oskvrnjene prolijevanjem krvi ili bilo čijim sjemenom; jer kao što dijete koje je bilo koji svećenik jednom krstio u ime Oca i Sina i Duha Svetoga ne smije biti ponovno kršteno, tako ni mjesto posvećeno Bogu ne treba ponovno posvećivati, osim zbog razloga koje smo gore naveli; ako su ipak oni koji su ga posvetili držali vjeru u Sveto Trojstvo*. Inače, oni koji su izvan Crkve ne mogu posvećivati. Ali, kako se u istoj distinkciji čita, *crkve ili oltari za koje je dvojbeno jesu li posvećeni neka se posvete*. Također zbog toga što posvetom zadobivaju neku duhovnu snagu, u istoj se distinkciji čita odredba: *drvena građa posvećene crkve ne smije se spajati za drugo djelo, osim za drugu crkvu; ili neka se spali u vatri, ili neka posluži na korist braći u samostanu; a u djela laika ne smije se pripuštati*. I na istom se mjestu čita: *oltarnik, sjedalo, svijećnjak i zastor, ako se istroše od starosti, neka se predaju vatri; i njihov pepeo neka se unese u krstionicu, ili neka se baci u zid ili u udubine poda, da se ne onečisti nogama onih koji ulaze*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.ad4": {
+      "text": "Na četvrto treba reći da se, budući da posveta oltara predočuje Kristovu svetost, a posveta kuće svetost cijele Crkve, zato prikladnije spominje sa svečanošću posveta crkve ili oltara. Zbog toga se također svečanost posvete slavi osam dana, da se označi blaženo uskrsnuće Krista i udova Crkve. A posveta crkve i oltara nije djelo samoga čovjeka, budući da ima duhovnu snagu. Stoga se u Dekretima, O posveti, u istoj distinkciji, kaže: *svečanosti posvete crkava treba svečano slaviti svake godine. A da posvetni blagdan treba slaviti osam dana, naći ćeš u Trećoj knjizi Kraljeva, kad pročitaš o posveti Hrama*, naime u 8. poglavlju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.ad5": {
+      "text": "Na peto treba reći da, kako se čita u Dekretima, O posveti, dist. 1, *oltari, ako nisu kameni, neka se ne posvećuju pomazanjem krizmom*. To pak odgovara i značenju ovoga sakramenta: kako zato što oltar označuje Krista, a kaže se u 1 Kor 10: *a stijena bijaše Krist*; tako i zato što je Kristovo tijelo bilo položeno u kameni grob. Odgovara također s obzirom na uporabu sakramenta: kamen je, naime, i čvrst i lako se može naći posvuda. To nije bilo potrebno u Starom zakonu, gdje se oltar gradio na jednome mjestu. A to što se nalaže da se oltar gradi od zemlje ili od netesanoga kamenja, bilo je radi uklanjanja idolopoklonstva.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.ad6": {
+      "text": "Na šesto treba reći da, kako se kaže u istoj distinkciji, pogl. Vasa, *nekoć se svećenici nisu služili zlatnim nego drvenim kaležima; papa Zefirin pak odredio je da se mise slave sa staklenim pliticama; zatim je Urban sve učinio srebrnim*. Poslije je pak određeno *da se Gospodnji kalež, s pliticom, izrađuje ili od zlata ili od srebra, ili da se barem ima kositreni kalež. Od bronce pak ili od mjedi neka se ne izrađuje, jer to pod djelovanjem vina izaziva rđu i ujedno povraćanje. A nitko neka se ne usudi pjevati misu u drvenom ili staklenom kaležu*, naime zato što je drvo porozno, pa bi posvećena krv u njemu ostajala; staklo je pak lomljivo, pa bi mogla prijetiti opasnost loma. A isti je razlog i za kamen. I zato je, zbog poštovanja prema sakramentu, određeno da se kalež izrađuje od spomenutih tvari.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.ad7": {
+      "text": "Na sedmo treba reći da je Crkva, gdje se to moglo učiniti bez opasnosti, u vezi s ovim sakramentom odredila ono što izričitije predočuje Kristovu muku. A nije bila tolika opasnost u vezi s tijelom, koje se stavlja na korporal, kao u vezi s krvlju, koja je sadržana u kaležu. I zato, premda se kalež ne izrađuje od kamena, korporal se ipak izrađuje od lanene tkanine, u kakvu je bilo umotano Kristovo tijelo. Stoga se u poslanici pape Silvestra, u istoj distinkciji, čita: *po savjetu svih određujemo da se nitko ne usudi slaviti žrtvu oltara, misu, na svilenoj ili obojenoj tkanini, nego na čistom lanenom platnu koje je posvetio biskup, kao što je Kristovo tijelo bilo pokopano u čistom lanenom pokrovu*. Lanena tkanina također odgovara, zbog svoje čistoće, za označivanje čistoće savjesti; i, zbog višestrukoga truda kojim se takva tkanina priprema, za označivanje Kristove muke.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a3.ad8": {
+      "text": "Na osmo treba reći da dijeljenje sakramenata pripada služiteljima Crkve, ali njihova posveta je od samoga Boga. I zato služitelji Crkve nemaju što određivati u vezi s formom posvete, nego u vezi s uporabom sakramenta i načinom slavljenja. I zato, ako svećenik izgovori riječi posvete nad dužnom tvari s nakanom da posveti, bez svega spomenutoga, naime bez posvećene kuće i oltara, kaleža i korporala, i ostaloga takvoga što je Crkva ustanovila, uistinu posvećuje Kristovo tijelo, ali teško griješi, jer ne obdržava obred Crkve.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q83.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je neprikladno uređeno ono što se govori u ovom sakramentu. Ovaj se sakrament, naime, posvećuje Kristovim riječima, kako kaže Ambrozije u knjizi O sakramentima. Dakle, u ovom se sakramentu ne bi trebalo govoriti ništa drugo osim Kristovih riječi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.obj2": {
+      "text": "Osim toga, Kristove riječi i djela postaju nam poznata po Evanđelju. Ali u vezi s posvetom ovoga sakramenta govore se neke stvari koje se ne nalaze u Evanđeljima. U Evanđelju se, naime, ne čita da je Krist pri ustanovljenju ovoga sakramenta podigao oči k nebu; slično se i u Evanđeljima kaže: Uzmite i jedite, a ne stoji: svi, dok se u slavljenju ovoga sakramenta kaže: podigavši oči k nebu, i opet: Uzmite i blagujte od ovoga svi. Dakle, neprikladno se takve riječi govore u slavljenju ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.obj3": {
+      "text": "Osim toga, svi su ostali sakramenti usmjereni prema spasenju svih vjernika. Ali u slavljenju ostalih sakramenata ne vrši se zajednička molitva za spasenje svih vjernika i pokojnih. Dakle, neprikladno se vrši u ovom sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.obj4": {
+      "text": "Osim toga, krštenje se na poseban način naziva sakramentom vjere. Dakle, ono što pripada poučavanju u vjeri trebalo bi se više predavati u vezi s krštenjem nego u vezi s ovim sakramentom, kao što je apostolski i evanđeoski nauk.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.obj5": {
+      "text": "Osim toga, u svakom se sakramentu traži predanost vjernika. Dakle, ne bi se više u ovom sakramentu nego u ostalima trebala pobuđivati predanost vjernika božanskim hvalama i opomenama, primjerice kad se kaže: Gore srca.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.obj6": {
+      "text": "Osim toga, služitelj ovoga sakramenta je svećenik, kako je rečeno. Dakle, sve što se u ovom sakramentu govori trebao bi govoriti svećenik, a ne nešto služitelji, nešto zbor.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.obj7": {
+      "text": "Osim toga, ovaj sakrament s izvjesnošću ostvaruje božanska snaga. Dakle, suvišno svećenik moli za dovršenje ovoga sakramenta kad kaže: *Ovaj prinos ti, Bože, u svemu*, i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.obj8": {
+      "text": "Osim toga, žrtva Novoga zakona mnogo je izvrsnija od žrtve drevnih otaca. Dakle, neprikladno svećenik moli da ova žrtva bude primljena kao žrtva Abelova, Abrahamova i Melkisedekova.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.obj9": {
+      "text": "Osim toga, kao što Kristovo tijelo nije počelo biti u ovom sakramentu promjenom mjesta, kako je gore rečeno, tako ni ne prestaje biti u njemu. Dakle, neprikladno svećenik moli: *zapovjedi da ovo rukama tvoga svetog anđela bude preneseno na tvoj uzvišeni oltar*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Dekretima, O posveti, dist. 1: *Jakov, brat Gospodnji po tijelu, i Bazilije, biskup cezarejski, sastavili su obred slavljenja mise*. Iz njihova je autoriteta jasno da se svaka od tih stvari prikladno govori.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.resp": {
+      "text": "Odgovaram: treba reći da se ovaj sakrament, budući da je u njemu obuhvaćeno cijelo otajstvo našega spasenja, vrši s većom svečanošću nego ostali sakramenti. I budući da je pisano u Prop 4: *Čuvaj nogu svoju kad ulaziš u dom Gospodnji*, i u Sir 18: *Prije molitve pripravi dušu svoju*, zato se prije slavljenja ovoga otajstva najprije stavlja neka priprava za dostojno vršenje onoga što slijedi. Prvi je dio te priprave božanska hvala, koja se vrši u ulaznoj pjesmi, prema onome iz Psalma: *Žrtva hvale proslavit će me, i ondje je put kojim ću mu pokazati spasenje Božje*. A ona se većinom uzima iz Psalama, ili se barem pjeva s psalmom, jer, kako kaže Dionizije u 3. poglavlju O crkvenoj hijerarhiji, psalmi na način hvale obuhvaćaju sve što je sadržano u Svetom pismu. Drugi dio sadrži spomen sadašnje bijede, dok se moli za milosrđe govoreći triput Gospodine, smiluj se za osobu Oca; triput za osobu Sina, kad se kaže Kriste, smiluj se; i triput za osobu Duha Svetoga, kad se nadoda Gospodine, smiluj se; protiv trostruke bijede: neznanja, krivnje i kazne; ili da se označi da su sve osobe jedna u drugoj. Treći pak dio spominje nebesku slavu, prema kojoj težimo nakon sadašnje bijede, govoreći: Slava Bogu na visini. Ona se pjeva na blagdane, u koje se spominje nebeska slava, a izostavlja se u žalobnim službama, koje se odnose na spomen bijede. Četvrti pak dio sadrži molitvu koju svećenik upravlja za narod, da budu dostojni tolikih otajstava. Drugo, stavlja se unaprijed poučavanje vjernoga naroda, jer je ovaj sakrament otajstvo vjere, kako je gore utvrđeno. To se poučavanje na pripravni način vrši naukom proroka i apostola, koji se u Crkvi čita po čitačima i subđakonima. Nakon toga čitanja zbor pjeva graduale, koji označuje napredak života; i aleluja, koji označuje duhovno klicanje; ili trakt u žalobnim službama, koji označuje duhovno uzdisanje. To, naime, treba slijediti u narodu iz spomenutoga nauka. A savršeno se narod poučava Kristovim naukom sadržanim u Evanđelju, koji čitaju najviši služitelji, naime đakoni. I budući da Kristu vjerujemo kao božanskoj istini, prema onome iz Iv 8: *Ako vam govorim istinu, zašto mi ne vjerujete?*, nakon pročitanog Evanđelja pjeva se Vjerovanje, u kojemu narod pokazuje da po vjeri pristaje uz Kristov nauk. A to se Vjerovanje pjeva na one blagdane o kojima se u tom Vjerovanju nešto spominje, kao na blagdane Krista i Blažene Djevice, i apostola, koji su utemeljili tu vjeru, i na druge takve. Pošto je, dakle, narod tako pripravljen i poučen, pristupa se slavljenju otajstva. Ono se i prinosi kao žrtva, i posvećuje i prima kao sakrament: najprije se, naime, vrši prinos; drugo, posveta prinesene tvari; treće, njezino primanje. U vezi s prinosom vrše se dvije stvari, naime hvala naroda u pjevanju prinosne pjesme, čime se označuje radost onih koji prinose; i molitva svećenika, koji moli da prinos naroda bude Bogu prihvatljiv. Stoga je u 1 Ljet David rekao: *Ja sam u jednostavnosti srca svoga prinio sve ovo, i vidio sam s velikom radošću kako ti tvoj narod koji se ovdje našao prinosi darove*, i poslije moli, govoreći: Gospodine Bože, sačuvaj ovu volju. Zatim, u vezi s posvetom, koja se vrši nadnaravnom snagom, najprije se narod potiče na predanost u predslovlju, pa se i opominje da ima srca gore kod Gospodina. I zato, kad završi predslovlje, narod s predanošću hvali Kristovo božanstvo s anđelima, govoreći: Svet, svet, svet; a čovještvo s djecom, govoreći: Blagoslovljen koji dolazi. Zatim svećenik tiho spominje, najprije one za koje se ova žrtva prinosi, naime opću Crkvu i one koji su postavljeni na visoke položaje, 1 Tim 2; i posebno neke koji prinose ili za koje se prinosi. Drugo, spominje svete, čiji zagovor zaziva za spomenute, kad kaže: U zajedništvu i častimo spomen, i tako dalje. Treće, zaključuje prošnju kad kaže: Ovaj, dakle, prinos i tako dalje, da prinos bude spasonosan za one za koje se prinosi. Zatim pristupa samoj posveti. U njoj najprije moli za učinak posvete, kad kaže: Ovaj prinos ti, Bože. Drugo, vrši posvetu riječima Spasitelja, kad kaže: On, dan prije, i tako dalje. Treće, opravdava preuzetnost poslušnošću Kristovu nalogu, kad kaže: Stoga, spominjući se. Četvrto, moli da ova izvršena žrtva bude Bogu prihvatljiva, kad kaže: Na to blagonaklono, i tako dalje. Peto, moli za učinak ove žrtve i sakramenta: najprije s obzirom na same one koji primaju, kad kaže: Ponizno te molimo; drugo, s obzirom na mrtve, koji više ne mogu primati, kad kaže: Spomeni se, Gospodine, i tako dalje; treće, posebno s obzirom na same svećenike koji prinose, kad kaže: I nama grešnicima, i tako dalje. Zatim se postupa o primanju sakramenta. I najprije se narod priprema za primanje. Najprije zajedničkom molitvom cijeloga naroda, a to je Gospodnja molitva, u kojoj molimo da nam se dade kruh naš svagdanji; a i privatnom, koju svećenik posebno prinosi za narod, kad kaže: Izbavi nas, molimo, Gospodine. Drugo, narod se priprema mirom, koji se daje govoreći: Jaganjče Božji; ovo je, naime, sakrament jedinstva i mira, kako je gore rečeno. U misama za pokojne pak, u kojima se ova žrtva prinosi ne za sadašnji mir nego za pokoj mrtvih, mir se izostavlja. Zatim slijedi primanje sakramenta, tako da najprije prima svećenik, a poslije daje drugima; jer, kako kaže Dionizije u 3. poglavlju O crkvenoj hijerarhiji, onaj koji drugima predaje božanske stvari treba najprije sam biti njihov dionik. Na kraju pak cijelo slavljenje mise završava zahvaljivanjem, dok narod kliče zbog primanja otajstva, što označuje pjesma poslije pričesti, a svećenik molitvom prinosi zahvalu, kao što je i Krist, proslavivši večeru s učenicima, izrekao hvalospjev, kako se kaže u Mt 26.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se posveta izvršava samim Kristovim riječima. A ostalo je trebalo dodati radi priprave naroda koji prima, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.ad2": {
+      "text": "Na drugo treba reći da je, kako se kaže u Iv 21, Gospodin učinio ili rekao mnogo toga što evanđelisti nisu napisali. Među tim je bilo i to da je Gospodin na večeri podigao oči k nebu, što je Crkva ipak imala iz predaje apostola. Razložno se, naime, čini da je onaj koji je pri uskrišenju Lazara, kako stoji u Iv 11, i u molitvi koju je izrekao za učenike, Iv 17, podigao oči k Ocu, to mnogo više učinio pri ustanovljenju ovoga sakramenta, kao u važnijoj stvari. A to što se kaže blagujte, a ne jedite, ne razlikuje se po smislu. I nije mnogo važno što se kaže, osobito budući da te riječi ne pripadaju formi, kako je gore rečeno. A to što se dodaje svi, razumije se u riječima Evanđelja, premda nije izraženo, jer je on rekao, Iv 6: *Ako ne budete blagovali tijela Sina Čovječjega, nećete imati života u sebi*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.ad3": {
+      "text": "Na treće treba reći da je Euharistija sakrament jedinstva cijele Crkve. I zato se posebno u ovom sakramentu, više nego u ostalima, treba spominjati sve što pripada spasenju cijele Crkve.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.ad4": {
+      "text": "Na četvrto treba reći da je dvostruko poučavanje. Jedno je ono koje se daje onima koje tek treba uvesti u vjeru, naime katekumenima. I takvo se poučavanje vrši u vezi s krštenjem. Drugo je pak poučavanje kojim se poučava vjerni narod, koji ima udjela u ovom otajstvu. I takvo se poučavanje vrši u ovom sakramentu. Pa ipak se od toga poučavanja ne odbijaju ni katekumeni i nevjernici. Stoga se kaže u Dekretima, O posveti, dist. 1: *neka biskup nikome ne brani da uđe u crkvu i sluša riječ Božju, bio on poganin ili heretik ili Židov, sve do mise katekumena*, u kojoj je, naime, sadržano poučavanje u vjeri.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.ad5": {
+      "text": "Na peto treba reći da se u ovom sakramentu traži veća predanost nego u ostalim sakramentima, zato što je u ovom sakramentu sadržan cijeli Krist. I također općenitija, jer se u ovom sakramentu traži predanost cijeloga naroda, za koji se žrtva prinosi, a ne samo onih koji primaju sakrament, kao u ostalim sakramentima. I zato, kako kaže Ciprijan, *svećenik, stavivši unaprijed predslovlje, priprema duhove braće govoreći: Gore srca, da, dok narod odgovara: Imamo kod Gospodina, bude opomenut da ne misli ni na što drugo osim na Boga*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.ad6": {
+      "text": "Na šesto treba reći da se u ovom sakramentu, kako je rečeno, dotiče ono što pripada cijeloj Crkvi. I zato neke stvari koje pripadaju narodu govori zbor. Od njih neke zbor izvodi do kraja, naime one koje su nadahnute cijelom narodu. Neke pak narod nastavlja nakon što svećenik započne, budući da on nosi osobu Boga, na znak da je takvo što došlo do naroda iz božanske objave, kao vjera i nebeska slava. I zato svećenik započinje Vjerovanje i Slava Bogu na visini. Neke se pak govore po služiteljima, kao nauk Novoga i Staroga zavjeta, na znak da je taj nauk navješten narodima po služiteljima koje je Bog poslao. Neke pak izvodi sam svećenik, naime one koje pripadaju vlastitoj službi svećenika, to jest da prinosi darove i molitve za narod, kako se kaže u Heb 5. Ipak, od toga neke govori javno, naime one koje pripadaju i svećeniku i narodu, kao što su zajedničke molitve. Neke pak pripadaju samo svećeniku, kao prinos i posveta. I zato ono što u vezi s time treba reći svećenik govori potajno. Ipak, u jednima i drugima pobuđuje pozornost naroda govoreći: Gospodin s vama; i čeka pristanak onih koji govore: Amen. I zato u onome što se govori tiho unaprijed javno izriče: Gospodin s vama, i dodaje: U sve vijeke vjekova. Ili svećenik neke stvari govori potajno na znak da u vrijeme Kristove muke učenici nisu ispovijedali Krista osim potajno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.ad7": {
+      "text": "Na sedmo treba reći da djelotvornost sakramentalnih riječi može biti spriječena nakanom svećenika. Ipak, nije neprikladno da od Boga molimo ono za što posve izvjesno znamo da će ga on učiniti, kao što je Krist, Iv 17, molio za svoje proslavljenje. Ipak, ne čini se da svećenik ondje moli da se posveta izvrši, nego da nam bude plodonosna; stoga izričito kaže: da nam postane tijelo i krv. I to označuju riječi koje stavlja unaprijed govoreći: Udostoj se učiniti ovaj prinos blagoslovljenim, prema Augustinu, to jest onim po kojem smo blagoslovljeni, naime po milosti; upisanim, to jest onim po kojem smo upisani na nebu; potvrđenim, to jest onim po kojem se ubrajamo u Kristovu nutrinu; razumnim, to jest onim po kojem se svlačimo od životinjskoga osjećanja; prihvatljivim, to jest da mi, koji sami sebi ne ugađamo, po njemu postanemo prihvatljivi njegovu jedinorođenom Sinu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.ad8": {
+      "text": "Na osmo treba reći da su, premda se ova žrtva sama po sebi pretpostavlja svim drevnim žrtvama, ipak žrtve drevnih bile Bogu najmilije zbog njihove predanosti. Svećenik, dakle, moli da ova žrtva bude prihvaćena od Boga zbog predanosti onih koji prinose, kao što su one bile prihvaćene od Boga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a4.ad9": {
+      "text": "Na deveto treba reći da svećenik ne moli da se sakramentalne prilike prenesu na nebo; niti pravo Kristovo tijelo, koje ondje ne prestaje biti. Nego to moli za otajstveno tijelo, koje se, naime, u ovom sakramentu označuje: da, naime, molitve i naroda i svećenika anđeo koji stoji uz božanska otajstva prikaže Bogu, prema onome iz Otk 8: *uziđe dim kadova od prinosa svetih iz ruke anđela*. A uzvišenim Božjim oltarom naziva se ili sama Crkva pobjednička, u koju molimo da budemo preneseni, ili sam Bog, u kojemu molimo da imamo udjela; o tom se, naime, oltaru kaže u Izl 20: *Nemoj se uspinjati k mojemu oltaru po stubama, to jest, u Trojstvu nemoj stvarati stupnjeva*. Ili se pod anđelom razumije sam Krist, koji je Anđeo velikoga savjeta, koji svoje otajstveno tijelo sjedinjuje s Bogom Ocem i s Crkvom pobjedničkom. I zbog toga se i zove misa (Missa): jer svećenik po anđelu šalje (mittit) molitve Bogu, kao što narod šalje po svećeniku. Ili zato što je Krist žrtva nama poslana. Stoga i na kraju mise đakon na blagdane otpušta narod govoreći: *Idite, misa je*, naime žrtva je poslana Bogu po anđelu, to jest da bude Bogu prihvatljiva.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da ono što se čini u slavljenju ovoga sakramenta nije prikladno. Ovaj sakrament, naime, pripada Novom savezu, kao što je očito iz same njegove forme. A u Novom savezu ne treba obdržavati obrede Staroga saveza. Njima je pripadalo to da su se svećenik i služitelji prali vodom kad su pristupali prinošenju; čita se, naime, u Izl 30: *Aron i sinovi njegovi neka peru ruke svoje i noge kad budu ulazili k oltaru*. Nije, dakle, prikladno da svećenik pere svoje ruke za vrijeme svečanoga misnog slavlja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj2": {
+      "text": "Osim toga, ondje je Gospodin naredio da svećenik pali miomirisni kâd na oltaru koji je bio pred Pomirilištem. I to je pripadalo obredu Staroga saveza. Neprikladno se, dakle, svećenik u misi služi kađenjem.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj3": {
+      "text": "Osim toga, ono što se čini u sakramentima Crkve ne treba ponavljati. Neprikladno, dakle, svećenik ponavlja znakove križa nad ovim sakramentom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj4": {
+      "text": "Osim toga, Apostol kaže, Heb 7: *bez ikakva proturječja, ono što je manje blagoslivlja se od većega*. Ali Krist, koji je u ovom sakramentu nakon posvete, mnogo je veći od svećenika. Neprikladno, dakle, svećenik nakon posvete blagoslivlja ovaj sakrament označujući ga znakom križa.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj5": {
+      "text": "Osim toga, u sakramentu Crkve ne smije se činiti ništa što bi se činilo smiješnim. A čini se smiješnim izvoditi kretnje, a čini se da k njima pripada to što svećenik katkad raširi ruke, sklopi ruke, savije prste i nakloni se. Dakle, to se ne smije činiti u ovom sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj6": {
+      "text": "Osim toga, čini se smiješnim i to što se svećenik mnogo puta okreće prema narodu i mnogo puta također pozdravlja narod. Ne treba se, dakle, to činiti u slavljenju ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj7": {
+      "text": "Osim toga, Apostol u 1 Kor 1 smatra neprikladnim da bi Krist bio razdijeljen. Ali nakon posvete Krist je u ovom sakramentu. Neprikladno, dakle, svećenik lomi hostiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj8": {
+      "text": "Osim toga, ono što se čini u ovom sakramentu prikazuje Kristovu muku. Ali u Kristovoj muci tijelo je bilo razdijeljeno na mjestima pet rana. Dakle, Kristovo bi se tijelo trebalo lomiti na pet dijelova, a ne na tri.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj9": {
+      "text": "Osim toga, cijelo se Kristovo tijelo u ovom sakramentu posvećuje odvojeno od krvi. Neprikladno se, dakle, jedan njegov dio miješa s krvlju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj10": {
+      "text": "Osim toga, kao što se Kristovo tijelo u ovom sakramentu pruža kao jelo, tako i Kristova krv kao piće. Ali uz primanje Kristova tijela u slavljenju mise ne dodaje se drugo tjelesno jelo. Neprikladno, dakle, svećenik nakon primanja Kristove krvi uzima neposvećeno vino.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj11": {
+      "text": "Osim toga, istina mora odgovarati predslici. Ali za pashalno janje, koje je bilo predslika ovoga sakramenta, zapovjeđeno je da *ništa od njega ne ostane do jutra*. Neprikladno se, dakle, posvećene hostije pohranjuju, a ne primaju se odmah.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.obj12": {
+      "text": "Osim toga, svećenik govori u množini onima koji slušaju, na primjer kad kaže: Gospodin s vama, i: Zahvaljujmo. Ali čini se neprikladnim govoriti u množini samo jednome, a najviše manjemu. Dakle, čini se neprikladnim da svećenik slavi misu kad je prisutan samo jedan služitelj. Tako se, dakle, čini da se neke stvari u slavljenju ovoga sakramenta čine neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.sc": {
+      "text": "Ali protiv toga je običaj Crkve, koja ne može zabludjeti, budući da je poučena od Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je gore rečeno, u sakramentima nešto označuje na dva načina, naime riječima i radnjama, kako bi označivanje bilo savršenije. A u slavljenju ovoga sakramenta riječima se označuju neke stvari koje pripadaju Kristovoj muci, koja se prikazuje u ovom sakramentu; ili također otajstvenom tijelu, koje se označuje u ovom sakramentu; i neke stvari koje pripadaju uporabi sakramenta, koja mora biti s predanošću i poštovanjem. I zato se u slavljenju ovoga otajstva neke stvari čine da bi se prikazala Kristova muka ili također raspored otajstvenoga tijela; a neke se čine koje pripadaju predanosti i poštovanju u uporabi ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se pranje ruku u slavljenju mise čini zbog poštovanja prema ovom sakramentu. I to na dva načina. Prvo, zato što dragocjene stvari nismo navikli dirati osim opranim rukama. Stoga se čini nedoličnim da netko pristupi tako velikom sakramentu s rukama, makar i tjelesno, onečišćenima. Drugo, radi značenja. Jer, kako kaže Dionizije u 3. poglavlju djela O crkvenoj hijerarhiji, pranje krajnjih udova označuje očišćenje i od najmanjih grijeha, prema onome Iv 13: *tko je opran, ne treba drugo nego da opere noge*. A takvo se očišćenje traži od onoga koji pristupa ovom sakramentu. To se označuje i ispovijedi koja se obavlja prije ulazne pjesme mise. I to je isto označivalo pranje svećenika u Starom zakonu, kako ondje kaže Dionizije. Ipak, Crkva to ne obdržava kao obrednu zapovijed Staroga zakona, nego kao nešto što je ustanovila Crkva, kao nešto samo po sebi prikladno. I zato se ne obdržava na isti način kao tada. Izostavlja se, naime, pranje nogu, a zadržava se pranje ruku, koje se može lakše obaviti i koje je dovoljno da označi savršenu čistoću. Budući da je, naime, ruka oruđe oruđa, kako se kaže u III. knjizi O duši, sva se djela pripisuju rukama. Zato se i u Psalmu kaže: *oprat ću među nevinima ruke svoje*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad2": {
+      "text": "Na drugo treba reći da se kađenjem ne služimo kao obrednom zapoviješću Zakona, nego kao odredbom Crkve. Stoga se njime ne služimo na isti način kao što je bilo određeno u Starom zakonu. A ono se odnosi na dvoje. Prvo, na poštovanje prema ovom sakramentu, naime da se ugodnim mirisom otjera tjelesni neugodni miris, ako bi ga na tom mjestu bilo, koji bi mogao izazvati gađenje. Drugo, odnosi se na prikazivanje učinka milosti, koje je Krist bio pun kao ugodnoga mirisa, prema onome Post 27: *evo, miris sina moga kao miris punoga polja*; a od Krista se ona službom služitelja izvodi na vjernike, prema onome 2 Kor 2: *miris svoga poznavanja širi po nama na svakome mjestu*. I zato, kad se sa svih strana okadi oltar, kojim se označuje Krist, kade se svi po redu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad3": {
+      "text": "Na treće treba reći da se svećenik u slavljenju mise služi znakom križa da bi izrazio Kristovu muku, koja je završila na križu. A Kristova je muka izvršena kao nekim stupnjevima. Jer, prvo je bilo predanje Krista, koje su izvršili Bog, Juda i Židovi. To označuje trostruki znak križa nad onim riječima: *ove darove, ove poklone, ove svete neokaljane žrtve*. Drugo je bila prodaja Krista. A prodan je svećenicima, pismoznancima i farizejima. Da bi se to označilo, čini se opet trostruki znak križa nad onim riječima: *blagoslovljenu, odobrenu, valjanu*. Ili da bi se pokazala cijena prodaje, naime trideset srebrnjaka. A dodaje se i dvostruki nad onim riječima: *da nam postane tijelo i krv,* itd., da bi se označile osoba Jude prodavatelja i osoba prodanoga Krista. Treće je bilo unaprijedno označenje Kristove muke, učinjeno na večeri. Da bi se to označilo, čine se treće dva križa, jedan pri posveti tijela, drugi pri posveti krvi, gdje se na oba mjesta kaže: blagoslovi. Četvrto je bila sama Kristova muka. Stoga se, da bi se prikazalo pet rana, četvrto čini peterostruki znak križa nad onim riječima: *žrtvu čistu, žrtvu svetu, žrtvu neokaljanu, sveti kruh vječnoga života i kalež vječnoga spasenja*. Peto, prikazuju se ispruženost tijela, prolijevanje krvi i plod muke trostrukim znakom križa koji se čini nad onim riječima: *primimo tijelo i krv, svakim blagoslovom* i ostalo. Šesto, prikazuje se trostruka molitva koju je izrekao na križu: jednu za progonitelje, kad je rekao: *Oče, oprosti im*; drugu za oslobođenje od smrti, kad je rekao: *Bože, Bože moj, zašto si me ostavio?* Treća se odnosi na postizanje slave, kad je rekao: *Oče, u ruke tvoje predajem duh svoj*. I da bi se to označilo, čini se trostruki znak križa nad onim riječima: *posvećuješ, oživljuješ, blagoslivlješ* i ostalo. Sedmo, prikazuju se tri sata kroz koja je visio na križu, naime od šestoga sata do devetoga. I da bi se to označilo, čini se opet trostruki znak križa kod onih riječi: *po njemu, i s njim, i u njemu*. Osmo, prikazuje se odvajanje duše od tijela dvama križevima koji slijede, učinjenima izvan kaleža. Deveto, prikazuje se uskrsnuće, koje se zbilo treći dan, trima križevima koji se čine kod onih riječi: *mir Gospodnji bio uvijek s vama*. Može se pak kraće reći da posveta ovoga sakramenta, prihvaćanje žrtve i njezin plod proizlaze iz snage Kristova križa. I zato se svećenik, gdjegod se spominje nešto od toga, služi znakom križa.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad4": {
+      "text": "Na četvrto treba reći da se svećenik nakon posvete ne služi znakom križa da bi blagoslivljao i posvećivao, nego samo da bi spomenuo snagu križa i način Kristove muke, kao što je očito iz rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad5": {
+      "text": "Na peto treba reći da ono što svećenik čini na misi nisu smiješne kretnje, jer se čine da bi se nešto prikazalo. To što svećenik nakon posvete raširi ruke označuje raširenost Kristovih ruku na križu. Također podiže ruke dok moli, da bi se označilo da se njegova molitva za narod upravlja k Bogu, prema onome Tuž 3: *podignimo srca svoja s rukama k Bogu na nebo*. I u Izl 17 kaže se da je, *kad bi Mojsije podigao ruke, pobjeđivao Izrael*. A to što katkad sklapa ruke i naklanja se, moleći ponizno i smjerno, označuje Kristovu poniznost i poslušnost, iz koje je pretrpio muku. A nakon posvete spaja prste, naime palac s kažiprstom, kojima je dirao posvećeno Kristovo tijelo, da se ne bi raspršila koja čestica ako se prilijepila za prste. To pripada poštovanju prema sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad6": {
+      "text": "Na šesto treba reći da se svećenik pet puta okreće prema narodu da bi se označilo da se Gospodin na dan uskrsnuća pet puta očitovao, kao što je gore rečeno u raspravi o Kristovu uskrsnuću. A narod pozdravlja sedam puta, naime pet puta kad se okreće prema narodu i dvaput kad se ne okreće, naime prije predslovlja, kad kaže: *Gospodin s vama*, i kad kaže: *mir Gospodnji bio uvijek s vama*, da bi se označila sedmerostruka milost Duha Svetoga. A biskup, kad slavi na blagdane, u prvom pozdravu kaže: *mir vama*, što je nakon uskrsnuća rekao Gospodin, čiju osobu biskup ponajprije predstavlja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad7": {
+      "text": "Na sedmo treba reći da lomljenje hostije označuje troje: prvo, samo razdvajanje Kristova tijela, koje se dogodilo u muci; drugo, razlikovanje otajstvenoga tijela prema različitim stanjima; treće, razdjeljivanje milosti koje proizlaze iz Kristove muke, kako kaže Dionizije u 3. poglavlju djela O crkvenoj hijerarhiji. Stoga takvo lomljenje ne uvodi diobu Krista.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad8": {
+      "text": "Na osmo treba reći da je, kako kaže papa Sergije, a nalazi se u Dekretima, O posveti, dist. 2, *trojako tijelo Gospodnje. Prineseni dio stavljen u kalež pokazuje Kristovo tijelo koje je već uskrsnulo*, naime samoga Krista i Blaženu Djevicu ili ako su koji drugi sveci s tijelima u slavi. *Pojedeni dio – tijelo koje još hoda po zemlji*, jer se, naime, oni koji žive na zemlji sjedinjuju sakramentom i satiru se trpljenjima, kao što se pojedeni kruh satire zubima. *Dio koji ostaje na oltaru do svršetka mise jest Kristovo tijelo koje ostaje u grobu, jer će tijela svetih do svršetka svijeta biti u grobovima*, iako su njihove duše ili u čistilištu ili u nebu. Ipak, taj se obred sada ne obdržava, naime da se jedan dio čuva do svršetka mise. Ali ostaje isto značenje dijelova. To su neki izrazili stihom, govoreći: *hostija se dijeli na dijelove: umočeni označuje potpuno blažene, suhi žive, sačuvani pokopane*. Neki pak kažu da dio stavljen u kalež označuje one koji žive na ovome svijetu; dio sačuvan izvan kaleža označuje one koji su potpuno blaženi s obzirom na dušu i tijelo; a pojedeni dio označuje ostale.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad9": {
+      "text": "Na deveto treba reći da se kaležem može označiti dvoje. Na jedan način, sama muka, koja se prikazuje u ovom sakramentu. I prema tome, dijelom stavljenim u kalež označuju se oni koji još imaju udjela u Kristovim trpljenjima. Na drugi način, može se označiti blaženo uživanje, koje je također u ovom sakramentu unaprijed naznačeno predslikom. I zato se oni čija su tijela već u punom blaženstvu označuju dijelom stavljenim u kalež. I treba primijetiti da se dio stavljen u kalež ne smije davati narodu kao dopuna pričesti, jer Krist umočeni kruh nije pružio nikome osim Judi izdajici.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad10": {
+      "text": "Na deseto treba reći da vino zbog svoje vlažnosti ima moć ispiranja. I zato se uzima nakon primanja ovoga sakramenta, da se isperu usta, kako ne bi ostali kakvi ostaci, što pripada poštovanju prema sakramentu. Stoga u Dekretalima, u naslovu O slavljenju misa, pogl. Ex parte, stoji: *svećenik treba isprati usta vinom nakon što je primio cijeli sakrament, osim kad bi istoga dana morao slaviti drugu misu, da ne bi, ako bi slučajno uzeo vino ispiranja, spriječio drugo slavlje*. I iz istoga razloga ispire vinom prste kojima je dirao Kristovo tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad11": {
+      "text": "Na jedanaesto treba reći da istina u nečemu mora odgovarati predslici, naime u tome da se dio posvećene hostije od koje se pričešćuju svećenik i služitelji, ili također narod, ne smije pohraniti za sutradan. Stoga je, kako se nalazi u O posveti, dist. 2, papa Klement odredio: *neka se na oltaru prinese toliko paljenica koliko treba da bude dovoljno za narod. A ako ostanu, neka se ne pohranjuju za sutradan, nego neka ih brižljivošću klerika potroše sa strahom i drhtanjem*. Ali budući da ovaj sakrament treba primati svakodnevno, a pashalno se janje nije svakodnevno blagovalo, zato treba druge posvećene hostije čuvati za bolesnike. Stoga se u istoj distinkciji čita: *prezbiter neka uvijek ima pripravljenu Euharistiju, da, kad se tko razboli, odmah ga pričesti, da ne umre bez pričesti*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a5.ad12": {
+      "text": "Na dvanaesto treba reći da na svečanom slavlju mise mora biti prisutno više njih. Stoga papa Soter kaže, kako se nalazi u O posveti, dist. 1: *i ovo je određeno: da se nijedan od prezbitera ne usudi slaviti svečano misno slavlje ako, uz dvojicu prisutnih koji mu odgovaraju, on sam nije treći; jer, budući da on u množini govori: Gospodin s vama, i ono u tihim molitvama: Molite za mene, posve je očito prikladno da mu se odgovori na pozdrav*. Stoga se ondje čita i odredba da, radi veće svečanosti, biskup obavlja svečano misno slavlje s više njih. Ali na privatnim misama dovoljno je imati jednoga služitelja, koji predstavlja osobu svega katoličkoga naroda i u čije ime odgovara svećeniku u množini.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se nedostacima koji se javljaju oko slavljenja ovoga sakramenta ne može dostatno doskočiti obdržavajući odredbe Crkve. Događa se, naime, katkad da svećenik prije posvete ili poslije nje umre ili izgubi svijest, ili ga kakva druga bolest spriječi da primi sakrament i dovrši misu. Dakle, čini se da se ne može ispuniti odredba Crkve kojom se nalaže da se svećenik koji posvećuje pričesti svojom žrtvom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.obj2": {
+      "text": "Osim toga, događa se katkad da se svećenik prije posvete ili poslije nje sjeti da je nešto pojeo ili popio, ili da je pod kakvim smrtnim grijehom, ili također pod izopćenjem, čega se prije nije sjećao. Nužno je, dakle, da onaj koji se nađe u takvu položaju smrtno zgriješi postupajući protiv odredbe Crkve, bilo da primi bilo da ne primi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.obj3": {
+      "text": "Osim toga, događa se katkad da nakon posvete u kalež padne muha ili pauk ili kakva otrovna životinja; ili također svećenik spozna da je neki zlonamjernik stavio otrov u kalež da bi ga ubio. U tom slučaju, ako primi, čini se da smrtno griješi, ubijajući sebe ili iskušavajući Boga. Slično, ako ne primi, griješi postupajući protiv odredbe Crkve. Dakle, čini se da je u bezizlaznom položaju i podložan nužnosti da griješi. A to je neprikladno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.obj4": {
+      "text": "Osim toga, događa se da se nemarom služitelja u kalež ne stavi voda, ili čak ni vino, i svećenik to opazi. Dakle, i u tom se slučaju čini da je u bezizlaznom položaju, bilo da primi tijelo bez krvi, kao da prinosi nesavršenu žrtvu, bilo da ne primi ni tijelo ni krv.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.obj5": {
+      "text": "Osim toga, događa se da se svećenik ne sjeća je li izgovorio riječi posvete, ili također druge riječi koje se izgovaraju pri posveti ovoga sakramenta. Čini se, dakle, da u tom slučaju griješi, bilo da nad istom tvari ponovi riječi koje je možda već bio izgovorio, bilo da se služi neposvećenim kruhom i vinom kao posvećenima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.obj6": {
+      "text": "Osim toga, događa se katkad da svećeniku zbog hladnoće hostija isklizne u kalež, bilo prije lomljenja bilo poslije. U tom, dakle, slučaju svećenik neće moći ispuniti obred Crkve, bilo glede samoga lomljenja bilo glede toga da se samo treći dio stavi u kalež.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.obj7": {
+      "text": "Osim toga, događa se katkad da se nemarom svećenika prolije Kristova krv; ili također da svećenik povrati primljeni sakrament; ili također da se posvećene hostije čuvaju toliko dugo da istrunu; ili također da ih izgrizu miševi; ili također da se na bilo koji način izgube. U tim se slučajevima čini da se ovom sakramentu ne može iskazati dužno poštovanje prema odredbama Crkve. Ne čini se, dakle, da se tim nedostacima ili pogibeljima može doskočiti uz očuvanje odredaba Crkve.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.sc": {
+      "text": "Ali protiv toga je to što, kao ni Bog, ni Crkva ne nalaže ništa nemoguće.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.resp": {
+      "text": "Odgovaram: treba reći da se pogibeljima ili nedostacima koji se događaju oko ovoga sakramenta može doskočiti na dva načina. Na jedan način, preduhitrujući, naime da se pogibelj ne dogodi. Na drugi način, naknadno, naime tako da se ono što se dogodilo popravi, bilo primjenom lijeka bilo barem pokorom onoga koji je nemarno postupio s ovim sakramentom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, ako svećenika snađe smrt ili teška bolest prije posvete tijela i krvi Gospodnje, nije potrebno da ga drugi nadomjesti. Ako se pak to dogodi nakon što je posveta započeta, na primjer kad je tijelo posvećeno, a krv još nije, ili također kad je oboje posvećeno, slavlje mise mora dovršiti drugi. Stoga se, kako se nalazi u Dekretima, VII, pit. 1, pogl. *Nihil*, čita na Toledskom saboru: *smatrali smo prikladnim da, kad svećenici u vrijeme mise posvećuju sveta otajstva, ako se dogodi kakav slučaj bolesti zbog kojega se započeto otajstvo ne može dovršiti, biskup ili drugi prezbiter smije izvršiti posvetu započete službe. Jer za dopunu započetih otajstava ne pristaje ništa drugo nego da budu dovršena blagoslovom bilo svećenika koji je započeo bilo onoga koji ga slijedi, jer se ne mogu smatrati savršenima ako se ne dovrše savršenim redom. Budući da smo, naime, svi jedno u Kristu, razlika osoba ne tvori ništa protivno ondje gdje jedinstvo vjere predstavlja djelotvornost uspjeha. Ipak, neka se ono što se dopušta radi naravne slabosti ne pretvori u pogubu preuzetnosti. Neka se nijedan služitelj ili svećenik, kad je započeo, bez očitoga nastupa tegobe ne usudi posve napustiti nedovršene službe. Ako se tko to drsko usudi, podnijet će presudu izopćenja*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.ad2": {
+      "text": "Na drugo treba reći da, gdje nastane poteškoća, uvijek treba izabrati ono što nosi manje pogibelji. A najpogibeljnije je u vezi s ovim sakramentom ono što je protiv savršenosti samoga sakramenta, jer je to strašno svetogrđe. Manje je pak ono što se odnosi na kakvoću onoga koji prima. I zato, ako se svećenik nakon započete posvete sjeti da je nešto pojeo ili popio, ipak mora dovršiti žrtvu i primiti sakrament. Slično, ako se sjeti da je počinio kakav grijeh, mora se kajati s odlukom da se ispovjedi i dade zadovoljštinu, i tako primiti sakrament ne nedostojno, nego plodonosno. Isto vrijedi ako se sjeti da je pod bilo kakvim izopćenjem. Mora, naime, donijeti odluku da zatraži odrješenje, i tako po nevidljivom prvosvećeniku, Isusu Kristu, postiže odrješenje glede ovoga čina, to jest da dovrši božanska otajstva. Ako se pak čega od navedenoga sjeti prije posvete, smatrao bih sigurnijim, osobito u slučaju jela i izopćenja, da napusti započetu misu, osim ako bi se trebalo bojati teške sablazni.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.ad3": {
+      "text": "Na treće treba reći da, ako muha ili pauk padne u kalež prije posvete, ili ako svećenik otkrije da je stavljen otrov, vino treba izliti i, nakon što se kalež opere, iznova uliti drugo vino da se posveti. Ako se pak što od toga dogodi nakon posvete, životinju treba oprezno uhvatiti, brižljivo oprati i spaliti, a vodu od pranja, zajedno s pepelom, izliti u sakrarij. Ako pak otkrije da je ondje stavljen otrov, nipošto ga ne smije primiti ni dati drugima, da se kalež života ne bi preokrenuo u smrt, nego ga treba brižljivo sačuvati s ostacima u kakvoj posudici prikladnoj za to. I, da sakrament ne bi ostao nedovršen, mora staviti vino u kalež, iznova početi od posvete krvi i dovršiti žrtvu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.ad4": {
+      "text": "Na četvrto treba reći da, ako svećenik nakon posvete tijela, a prije posvete krvi, opazi da u kaležu nema ili vina ili vode, mora ih odmah dodati i posvetiti. Ako pak nakon riječi posvete opazi da nedostaje voda, ipak mora nastaviti, jer dodavanje vode, kao što je gore rečeno, nije nužno za sakrament. Ipak treba kazniti onoga čijim se nemarom to dogodilo. Ali nipošto se voda ne smije miješati s već posvećenim vinom, jer bi slijedilo djelomično propadanje sakramenta, kao što je gore rečeno. Ako pak nakon riječi posvete opazi da vino nije bilo stavljeno u kalež, onda, ako to opazi prije primanja tijela, mora, odlivši vodu ako je ondje bila, uliti vino s vodom i iznova početi od riječi posvete krvi. Ako pak to opazi nakon primanja tijela, mora staviti drugu hostiju da se ponovno posveti zajedno s krvlju. A to kažem zato što, kad bi izgovorio samo riječi posvete krvi, ne bi se obdržao dužni red posvećivanja, a, kako se kaže u spomenutom poglavlju Toledskoga sabora, *žrtve se ne mogu smatrati savršenima ako se ne dovrše savršenim redom*. Ako bi pak počeo od posvete krvi i ponovio sve riječi koje slijede, one ne bi pristajale ako ne bi bila prisutna posvećena hostija, jer se u tim riječima nalaze neke stvari koje treba reći i učiniti ne samo glede krvi, nego i glede tijela. I na kraju mora primiti ponovno posvećenu hostiju i krv, čak i ako je prije uzeo vodu koja je bila u kaležu, jer zapovijed o savršenosti sakramenta ima veću težinu nego zapovijed da se ovaj sakrament prima natašte, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.ad5": {
+      "text": "Na peto treba reći da se svećenik, iako se ne sjeća je li izgovorio nešto od onoga što je trebao izgovoriti, ipak zbog toga ne smije uznemiriti u duhu. Jer onaj tko mnogo govori ne sjeća se svega što je rekao, osim ako možda govoreći nije nešto zahvatio pod vidom već rečenoga; tako, naime, nešto postaje pamtljivo. Stoga, ako netko pozorno misli ono što govori, ali ne misli o tome da to govori, poslije se baš i ne sjeća da je to rekao. Tako, naime, nešto postaje predmet pamćenja ukoliko se zahvaća pod vidom prošloga, kako se kaže u knjizi O pamćenju. Ako je ipak svećeniku vjerojatno da je nešto izostavio, onda, ako to nije nužno za sakrament, ne smatram da bi zbog toga morao iznova početi mijenjajući red žrtve, nego mora nastaviti dalje. Ako se pak uvjeri da je izostavio nešto od onoga što je nužno za sakrament, naime formu posvete, budući da je forma nužna za sakrament kao i tvar, čini se da treba učiniti isto što je rečeno za nedostatak tvari, naime da se iznova počne od forme posvete i da se ostalo po redu ponovi, kako se ne bi promijenio red žrtve.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.ad6": {
+      "text": "Na šesto treba reći da se lomljenje posvećene hostije, i to da se samo jedan dio stavlja u kalež, odnosi na otajstveno tijelo, kao što i primiješanje vode označuje narod. I zato izostavljanje toga ne čini žrtvu nesavršenom, tako da bi zbog toga bilo nužno nešto ponoviti u slavljenju ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q83.a6.ad7": {
+      "text": "Na sedmo treba reći da, kako se čita u O posveti, dist. 2, iz dekreta pape Pija: *ako se nemarom nešto od krvi prolije na dasku koja prianja uz zemlju, neka se poliže jezikom i daska ostruže. Ako pak nije bilo daske, neka se zemlja ostruže i spali ognjem, a pepeo neka se pohrani u oltar. I svećenik neka čini pokoru četrdeset dana. Ako pak kalež kapne na oltar, neka služitelj posrče kap. I neka čini pokoru tri dana. Ako kap padne na oltarnik i prodre do drugoga, neka čini pokoru četiri dana. Ako do trećega, neka čini pokoru devet dana. Ako do četvrtoga, neka čini pokoru dvadeset dana. A oltarnike koje je kap dotaknula neka služitelj opere tri puta, s kaležem podmetnutim ispod, i neka se voda od pranja uzme i pohrani pokraj oltara*. Mogao bi je i služitelj popiti, osim ako bi se to zbog odvratnosti izostavilo. Neki pak k tome izrežu onaj dio oltarnika i spale ga, a pepeo pohrane u oltar ili u sakrarij. Ondje se pak dodaje, iz Pokorničkoga priručnika Bede Prezbitera: *ako tko zbog pijanstva ili proždrljivosti povrati Euharistiju, neka čini pokoru četrdeset dana; klerici ili monasi, ili đakoni ili prezbiteri, šezdeset dana; biskup devedeset. Ako je pak povrati zbog bolesti, neka čini pokoru sedam dana*. I u istoj se distinkciji čita, iz Orleanskoga sabora: *tko ne bude dobro čuvao žrtvu, pa je miš ili koja druga životinja u crkvi pojede, neka čini pokoru četrdeset dana. A tko je izgubi u crkvi, ili njezin dio padne i ne bude pronađen, neka čini pokoru trideset dana*. I čini se da istu pokoru zaslužuje svećenik čijim nemarom posvećene hostije istrunu. A u spomenute dane pokornik mora postiti i suzdržavati se od pričesti. Ipak, uzevši u obzir okolnosti stvari i osobe, spomenuta se pokora može smanjiti ili povećati. Ali treba paziti na ovo: gdjegod se nađu cjelovite prilike, treba ih s poštovanjem čuvati ili također primiti, jer, dok ostaju prilike, ondje ostaje Kristovo tijelo, kao što je gore rečeno. A ono u čemu se nađu treba spaliti ako se to može prikladno učiniti, a pepeo pohraniti u sakrarij, kao što je rečeno za strugotine daske.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    }
+  }
+}

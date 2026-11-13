@@ -3454,11 +3454,12 @@ terms:
     = "tvar" (the element: voda, kruh, ulje), forma = "forma" (the words); minister
     = "služitelj", ministrare = "podjeljivati"; conferre gratiam = "podjeljivati milost";
     instrumentum = "oruđe"; intentio = "nakana"; character = "biljeg" (imprimere =
-    "utisnuti"); sacramentalia = "sakramentali".'
+    "utisnuti"); sacramentalia = "sakramentali". Fictio (blocking a sacrament''s effect)
+    = "neiskrenost", fictus = "neiskren"; regeneratio = "preporođenje".'
   opis: Sakrament je znak svete stvari ukoliko posvećuje ljude. Sastoji se od tvari
     i riječi kao forme, a djeluje kao oruđe Kristove muke. Krštenje, potvrda i sveti
     red utiskuju neizbrisiv biljeg.
-  mjesto: null
+  mjesto: III.q60.a2.resp
 - la: baptismus (fluminis, flaminis, sanguinis); confirmatio; chrisma; patrinus
   hr: krštenje (vode, želje, krvi); potvrda (krizma); krizma (ulje); kum
   alternatives:
@@ -3472,7 +3473,7 @@ terms:
   opis: Krštenje je sakrament preporođenja vodom u riječi; ondje gdje se ne može primiti
     vodom, nadomješta ga krštenje želje ili krvi. Potvrda (krizma) daje puninu Duha
     Svetoga na jačanje i utiskuje biljeg vojnika Kristova.
-  mjesto: null
+  mjesto: III.q72.a1.resp
 - la: Eucharistia; transsubstantiatio, conversio; species (panis et vini); accidentia
     sine subiecto; concomitantia
   hr: Euharistija; pretvorba; prilike (kruha i vina); akcidenti bez subjekta; popratnost
@@ -3484,11 +3485,15 @@ terms:
     se"; manducatio sacramentalis / spiritualis = "sakramentalno / duhovno blagovanje";
     sacrificium Missae = "misna žrtva"; ex vi sacramenti = "snagom sakramenta"; per
     concomitantiam = "po popratnosti"; viaticum = "popudbina"; altare = "oltar"; calix
-    = "kalež".'
+    = "kalež". Quantitas dimensiva = "protežna kolikoća"; hostia (the consecrated
+    bread) = "hostija", as sacrifice = "žrtva"; species propria (Christ''s own form)
+    = "vlastiti lik"; in q.76-77, where Thomas sets caro against corpus, caro = "meso"
+    (John 6 included); elsewhere "tijelo i krv"; transubstantiatio is glossed once
+    as "transupstancijacija" in q.75 a.4 and a.8, where Thomas introduces the name.'
   opis: U Euharistiji se cijela supstancija kruha pretvara u Kristovo tijelo i cijela
     supstancija vina u njegovu krv, dok prilike kruha i vina ostaju bez subjekta.
     Snagom sakramenta ondje je Kristovo tijelo, a po popratnosti cijeli Krist.
-  mjesto: null
+  mjesto: III.q75.a4.resp
 - la: poenitentia (sacramentum / virtus); contritio, confessio, satisfactio; absolutio;
     claves
   hr: pokora (sakrament) / pokajanje (krepost); skrušenost, ispovijed, zadovoljština;
@@ -3503,4 +3508,4 @@ terms:
   opis: Pokora je sakrament u kojem su čini pokornika, skrušenost, ispovijed i zadovoljština,
     tvar, a svećenikovo odrješenje forma. Pokajanje je i krepost, dio pravednosti,
     kojom čovjek žali za počinjenim grijehom kao uvredom Boga i nakanjuje se popraviti.
-  mjesto: null
+  mjesto: III.q84.a1.resp

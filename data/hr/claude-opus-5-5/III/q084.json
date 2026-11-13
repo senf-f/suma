@@ -1,0 +1,564 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 84,
+  "units": {
+    "III.q84.pr": {
+      "text": "Potom treba razmotriti sakrament pokore. U vezi s njim treba razmotriti: prvo, samu pokoru; drugo, njezin učinak; treće, njezine dijelove; četvrto, one koji primaju ovaj sakrament; peto, vlast služitelja; šesto, svečani obred ovoga sakramenta. U vezi s prvim treba razmotriti dvoje: prvo, pokoru ukoliko je sakrament; drugo, pokajanje ukoliko je krepost. U vezi s prvim pita se deset stvari. Prvo, je li pokora sakrament. Drugo, o njezinoj vlastitoj tvari. Treće, o njezinoj formi. Četvrto, traži li se za ovaj sakrament polaganje ruke. Peto, je li ovaj sakrament nužan za spasenje. Šesto, o njegovu redu prema drugim sakramentima. Sedmo, o njegovu ustanovljenju. Osmo, o njegovu trajanju. Deveto, o njegovoj neprekidnosti. Deseto, može li se ponavljati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da pokora nije sakrament. Grgur, naime, kaže, a nalazi se u Dekretima, I, pit. 1: *sakramenti su krštenje, krizma, tijelo i krv Kristova, koji se zato nazivaju sakramentima što pod pokrovom tjelesnih stvari božanska snaga potajnije djeluje spasenje*. Ali to se ne događa u pokori, jer se ne primjenjuju nikakve tjelesne stvari pod kojima bi božanska snaga djelovala spasenje. Dakle, pokora nije sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a1.obj2": {
+      "text": "Osim toga, sakramente Crkve podjeljuju Kristovi služitelji, prema onome 1 Kor 4: *neka nas čovjek smatra Kristovim služiteljima i upraviteljima Božjih otajstava*. Ali pokoru ne podjeljuju Kristovi služitelji, nego je Bog iznutra nadahnjuje ljudima, prema onome Jr 31: *nakon što si me obratio, činio sam pokoru*. Dakle, čini se da pokora nije sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a1.obj3": {
+      "text": "Osim toga, u sakramentima o kojima smo gore govorili postoji nešto što je samo sakrament, nešto što je stvar i sakrament, a nešto što je samo stvar, kao što je očito iz prethodnoga. Ali to se ne nalazi u pokori. Dakle, pokora nije sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a1.sc": {
+      "text": "Ali protiv toga je to što se, kao što se krštenje primjenjuje radi čišćenja od grijeha, tako primjenjuje i pokora; zato je i Petar rekao Šimunu, Dj 8: *čini pokoru zbog ove svoje opačine*. Ali krštenje je sakrament, kao što je gore rečeno. Dakle, s jednakim razlogom i pokora.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a1.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Grgur na gore navedenom mjestu, *sakrament postoji u nekom slavlju kad se radnja izvodi tako da na označujući način primamo nešto što treba sveto primiti*. A očito je da se u pokori radnja izvodi tako da se označuje nešto sveto, kako sa strane grešnika pokornika tako i sa strane svećenika koji odrješuje: jer grešnik pokornik onim što čini i govori označuje da se njegovo srce odvratilo od grijeha; slično i svećenik onim što čini i govori glede pokornika označuje djelo Boga koji otpušta grijeh. Stoga je očito da je pokora koja se vrši u Crkvi sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se pod imenom tjelesnih stvari u širem smislu razumiju i sami vanjski osjetni čini, koji se u ovom sakramentu odnose kao voda u krštenju ili krizma u potvrdi (krizmi). Valja pak uočiti da se u onim sakramentima u kojima se podjeljuje izvrsna milost, koja nadilazi svaku sposobnost ljudskoga čina, izvana primjenjuje neka tjelesna tvar: kao u krštenju, gdje biva potpuno otpuštenje grijeha i glede krivnje i glede kazne; i u potvrdi, gdje se daje punina Duha Svetoga; i u posljednjem pomazanju, gdje se podjeljuje savršeno duhovno zdravlje; a to proizlazi iz snage Kristove kao iz nekoga izvanjskog počela. Stoga, ako u takvim sakramentima ima kakvih ljudskih čina, oni ne pripadaju biti tvari sakramenata, nego se prema sakramentima odnose kao raspoloživost. A u onim sakramentima koji imaju učinak koji odgovara ljudskim činima, sami osjetni ljudski čini zauzimaju mjesto tvari, kao što se događa u pokori i ženidbi. Tako su i kod tjelesnih lijekova neke stvari koje se primjenjuju izvana, kao obloge i ljekovite smjese, a neki su čini onih koje treba izliječiti, na primjer neke vježbe.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a1.ad2": {
+      "text": "Na drugo treba reći da u sakramentima koji imaju tjelesnu tvar tu tvar mora primijeniti služitelj Crkve, koji predstavlja osobu Kristovu, u znak toga da je izvrsnost snage koja djeluje u sakramentu od Krista. A u sakramentu pokore, kao što je rečeno, ljudski su čini umjesto tvari, a oni proizlaze iz unutarnjega nadahnuća. Stoga tvar ne primjenjuje služitelj, nego Bog koji djeluje iznutra; ali dovršenje sakramenta daje služitelj kad odrješuje pokornika.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a1.ad3": {
+      "text": "Na treće treba reći da i u pokori postoji nešto što je samo sakrament, naime čini koje izvršuju kako grešnik pokornik tako i svećenik koji odrješuje. A stvar i sakrament jest unutarnje pokajanje grešnika. A samo stvar, a ne sakrament, jest otpuštenje grijeha. Od toga je prvo, uzeto sve zajedno, uzrok drugoga; a prvo i drugo uzrok su trećega.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da grijesi nisu vlastita tvar ovoga sakramenta. Tvar se, naime, u drugim sakramentima posvećuje nekim riječima i, posvećena, izvodi učinak sakramenta. Ali grijesi se ne mogu posvetiti, zato što se protive učinku sakramenta, a to je milost koja otpušta grijehe. Dakle, grijesi nisu vlastita tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a2.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi O pokori: *nitko ne može započeti novi život ako se ne kaje zbog staroga života*. Ali starosti života ne pripadaju samo grijesi, nego i kaznene tegobe sadašnjega života. Dakle, grijesi nisu vlastita tvar pokore.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a2.obj3": {
+      "text": "Osim toga, od grijeha je jedan istočni, drugi smrtni, treći laki. Ali sakrament pokore nije usmjeren protiv istočnoga grijeha, koji se uklanja krštenjem; ni protiv lakoga, koji se uklanja udaranjem u prsa, blagoslovljenom vodom i drugim takvim stvarima. Dakle, grijesi nisu vlastita tvar pokore.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Apostol, 2 Kor 12: *nisu činili pokoru zbog nečistoće i bluda i nečednosti koje su počinili*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a2.resp": {
+      "text": "Odgovaram: treba reći da je tvar dvojaka, naime bliža i daljnja; tako je bliža tvar kipa kovina, a daljnja voda. A rečeno je da su bliža tvar ovoga sakramenta čini pokornika, čija su tvar grijesi, zbog kojih osjeća bol, koje ispovijeda i za koje daje zadovoljštinu. Stoga preostaje da su daljnja tvar pokore grijesi, ne kao nešto što treba pokušati, nego kao nešto čega se treba gnušati i što treba uništiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se onaj razlog odnosi na bližu tvar sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a2.ad2": {
+      "text": "Na drugo treba reći da je stari i smrtni život predmet pokajanja ne zbog kazne, nego zbog krivnje koja je s njim povezana.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a2.ad3": {
+      "text": "Na treće treba reći da se pokora na neki način odnosi na svaki rod grijeha, ali ne na isti način. Jer, na osobni smrtni grijeh pokora se odnosi u vlastitom smislu i ponajprije: u vlastitom smislu zato što se u vlastitom smislu kaže da se kajemo za ono što smo počinili svojom voljom; ponajprije pak zato što je ovaj sakrament ustanovljen za brisanje smrtnoga grijeha. Za lake pak grijehe postoji neka pokora u vlastitom smislu, ukoliko su učinjeni našom voljom, ali ovaj sakrament nije ponajprije ustanovljen protiv njih. Za istočni pak grijeh pokora ne postoji ni ponajprije, jer protiv njega nije usmjeren ovaj sakrament, nego prije krštenje, ni u vlastitom smislu, jer istočni grijeh nije počinjen našom voljom; osim možda ukoliko se Adamova volja smatra našom, prema načinu govora kojim Apostol kaže, Rim 5: *u kojem su svi zgriješili*. Ipak, ukoliko se pokajanje uzima u širem smislu za bilo kakvo gnušanje nad nečim prošlim, može se govoriti o pokajanju za istočni grijeh, kako govori Augustin u knjizi O pokori.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da forma ovoga sakramenta nije: ja te odrješujem. Forme se sakramenata, naime, imaju iz Kristove ustanove i iz uporabe Crkve. Ali ne čita se da je Krist ustanovio ovu formu. Nije ni u općoj uporabi; štoviše, u nekim odrješenjima koja se u Crkvi javno obavljaju, kao u primi i na povečerju te na Večeri Gospodnjoj, onaj koji odrješuje ne služi se izjavnim govorom, tako da kaže: ja vas odrješujem, nego molbenim govorom, kad kaže: smilovao vam se svemogući Bog, ili: odrješenje neka vam podijeli svemogući Bog. Dakle, forma ovoga sakramenta nije: ja te odrješujem.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.obj2": {
+      "text": "Osim toga, papa Leon kaže: *Božje se oproštenje ne može postići osim molitvama svećenika.* A govori o Božjem oproštenju koje se daje pokornicima. Dakle, forma ovoga sakramenta treba biti na način molbe.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.obj3": {
+      "text": "Osim toga, isto je odriješiti od grijeha i otpustiti grijeh. Ali *samo Bog otpušta grijeh, on koji jedini i iznutra čisti od grijeha*, kako kaže Augustin u tumačenju Ivanova evanđelja. Čini se, dakle, da samo Bog odrješuje od grijeha. Svećenik, dakle, ne treba reći: ja te odrješujem, kao što ne kaže: ja ti otpuštam grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.obj4": {
+      "text": "Osim toga, kao što je Gospodin učenicima dao vlast odrješivati od grijeha, tako im je dao i vlast liječiti bolesti, to jest *da izgone demone i da liječe slabosti*, kako stoji u Mt 10 i Lk 9. Ali apostoli se, ozdravljajući bolesne, nisu služili ovim riječima: ja te ozdravljam, nego: neka te ozdravi Gospodin Isus Krist. Čini se, dakle, da se svećenici, koji imaju vlast što ju je Krist predao apostolima, ne trebaju služiti ovom formom riječi: ja te odrješujem, nego: odrješenje neka ti podijeli Krist.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.obj5": {
+      "text": "Osim toga, neki koji se služe ovom formom tumače je ovako: *ja te odrješujem, to jest, pokazujem da si odriješen.* Ali ni to svećenik ne može učiniti ako mu to nije od Boga objavljeno. Zato, kako se čita u Mt 16, prije nego što je Petru rečeno: *što god razriješiš na zemlji, bit će* itd., rečeno mu je: *Blago tebi, Šimune, sine Jonin, jer ti to nije objavilo tijelo i krv, nego Otac moj koji je na nebesima.* Čini se, dakle, da svećenik kojemu nije dana objava preuzetno kaže: ja te odrješujem, pa čak i ako se to tumači: to jest, pokazujem da si odriješen.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.sc": {
+      "text": "Ali protiv toga jest to što je, kao što je Gospodin rekao učenicima, u posljednjem poglavlju Mt: *Pođite, naučavajte sve narode, krsteći ih*, tako rekao Petru, u Mt 16: *Što god razriješiš.* Ali svećenik, oslanjajući se na autoritet onih Kristovih riječi, kaže: ja te krstim. Dakle, istim autoritetom treba u ovom sakramentu reći: ja te odrješujem.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.resp": {
+      "text": "Odgovaram: treba reći da se u svakoj stvari savršenost pripisuje formi. A gore je rečeno da se ovaj sakrament dovršava onim što je na strani svećenika. Stoga treba da ono što je na strani pokornika, bilo da su riječi bilo djela, bude neka tvar ovoga sakramenta, a ono što je na strani svećenika odnosi se na način forme. Budući pak da sakramenti Novoga zakona izvode ono što predočuju, kako je gore rečeno, treba da forma sakramenta označuje ono što se u sakramentu zbiva, razmjerno tvari sakramenta. Stoga je forma krštenja: ja te krstim, a forma potvrde (krizme): *označujem te znakom križa i potvrđujem te krizmom spasenja*, zato što se takvi sakramenti dovršavaju u uporabi tvari. A u sakramentu Euharistije, koji se sastoji u samoj posveti tvari, izražava se istinitost posvete kad se kaže: *Ovo je tijelo moje.* Ovaj pak sakrament, naime sakrament pokore, ne sastoji se u posveti neke tvari ni u uporabi neke posvećene tvari, nego prije u uklanjanju neke tvari, naime grijeha, ukoliko se za grijehe kaže da su tvar pokore, kako je jasno iz rečenoga gore. A takvo se uklanjanje označuje od svećenika kad se kaže: ja te odrješujem; jer grijesi su neke sveze, prema onome iz Izr 5: *Bezbožnika hvataju njegova bezakonja i svatko se steže užima svojih grijeha.* Stoga je jasno da je ovo najprikladnija forma ovoga sakramenta: ja te odrješujem.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ova forma uzeta iz samih Kristovih riječi kojima je rekao Petru: *Što god razriješiš na zemlji* itd. I takvom se formom Crkva služi u sakramentalnom odrješenju. A takva odrješenja koja se obavljaju javno nisu sakramentalna, nego su neke molitve usmjerene prema otpuštenju lakih grijeha. Stoga u sakramentalnom odrješenju ne bi bilo dovoljno reći: smilovao ti se svemogući Bog, ili: odrješenje i otpuštenje neka ti podijeli Bog, jer tim riječima svećenik ne označuje da se odrješenje zbiva, nego moli da se zbude. Ipak se i u sakramentalnom odrješenju unaprijed izgovara takva molitva, da ne bi učinak sakramenta bio spriječen na strani pokornika, čiji se čini u ovom sakramentu odnose kao tvar, ali ne u krštenju ili u potvrdi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.ad2": {
+      "text": "Na drugo treba reći da riječ pape Leona treba shvatiti s obzirom na molitvu koja se izgovara prije odrješenja. Ali ona ne isključuje da svećenici odrješuju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.ad3": {
+      "text": "Na treće treba reći da samo Bog po autoritetu i odrješuje od grijeha i otpušta grijehe. A svećenici i jedno i drugo čine po službi, ukoliko, naime, riječi svećenika u ovom sakramentu djeluju kao oruđe, kao i u drugim sakramentima; jer božanska je snaga ono što iznutra djeluje u svim sakramentalnim znakovima, bilo da su stvari bilo riječi, kako je jasno iz rečenoga gore. Stoga je i Gospodin izrazio i jedno i drugo: u Mt 16 rekao je Petru: *Što god razriješiš na zemlji* itd.; a u Iv 20 rekao je učenicima: *Kojima otpustite grijehe, otpuštaju im se.* Ipak, svećenik radije kaže: ja te odrješujem, nego: ja ti otpuštam grijehe, zato što to više odgovara riječima koje je Gospodin izrekao pokazujući snagu ključeva, po kojima svećenici odrješuju. Budući pak da svećenik odrješuje kao služitelj, prikladno se dodaje nešto što se odnosi na prvotni autoritet Boga, tako da se kaže: *ja te odrješujem u ime Oca i Sina i Duha Svetoga*, ili: po snazi Kristove muke, ili: autoritetom Božjim, kako tumači Dionizije u 13. poglavlju O nebeskoj hijerarhiji. Ali budući da to nije određeno Kristovim riječima, kao u krštenju, takav se dodatak prepušta prosudbi svećenika.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.ad4": {
+      "text": "Na četvrto treba reći da apostolima nije dana vlast da oni sami ozdravljaju bolesne, nego da na njihovu molitvu bolesni budu ozdravljeni. Ali dana im je vlast da djeluju kao oruđe, ili kao služitelji, u sakramentima. I zato u sakramentalnim formama mogu više izraziti svoj čin nego u ozdravljanju bolesti. Pa ipak se u njima nisu uvijek služili molbenim načinom, nego kadšto i izjavnim i zapovjednim, kao što se u Dj 3 čita da je Petar rekao hromome: *Što imam, to ti dajem. U ime Isusa Krista, ustani i hodaj.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a3.ad5": {
+      "text": "Na peto treba reći da je ovo tumačenje: *ja te odrješujem, to jest, pokazujem da si odriješen*, u nečemu doduše istinito, ali nije savršeno. Sakramenti Novoga zakona, naime, ne samo da označuju, nego i izvode ono što označuju. Stoga, kao što svećenik, krsteći nekoga, riječima i djelima pokazuje da je čovjek iznutra opran, ne samo označujući nego i izvodeći, tako i kad kaže: ja te odrješujem, pokazuje da je čovjek odriješen ne samo označujući nego i izvodeći. A ipak ne govori kao o nesigurnoj stvari. Jer kao što drugi sakramenti Novoga zakona imaju po sebi siguran učinak iz snage Kristove muke, premda on može biti spriječen na strani primatelja, tako je i u ovom sakramentu. Zato Augustin kaže u knjizi O preljubničkim brakovima: *Nije sramotno ni teško nakon počinjenih i očišćenih preljuba pomirenje braka, gdje se ne sumnja da se po ključevima kraljevstva nebeskoga zbiva otpuštenje grijeha.* Stoga svećeniku nije potrebna posebna objava njemu dana, nego je dovoljna opća objava vjere po kojoj se otpuštaju grijesi. Zato se i kaže da je Petru dana objava vjere. Savršenije bi pak bilo tumačenje: ja te odrješujem, to jest, podjeljujem ti sakrament odrješenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se za ovaj sakrament zahtijeva polaganje svećenikovih ruku. Kaže se, naime, u posljednjem poglavlju Mk: *Na bolesnike će polagati ruke i bit će im dobro.* A bolesnici su u duhovnom smislu grešnici, koji po ovom sakramentu primaju dobro stanje. Dakle, u ovom sakramentu treba obaviti polaganje ruku.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a4.obj2": {
+      "text": "Osim toga, u sakramentu pokore čovjek ponovno zadobiva izgubljenoga Duha Svetoga; zato se u Psalmu u osobi pokornika kaže: *Vrati mi radost spasenja svojega i duhom vodećim učvrsti me.* Ali Duh Sveti daje se polaganjem ruku; čita se, naime, u Dj 8 da su *apostoli polagali ruke na njih, i oni su primali Duha Svetoga*; a u Mt 19 kaže se da su *Gospodinu doneseni mališani da na njih položi ruke*. Dakle, u ovom sakramentu treba obaviti polaganje ruku.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a4.obj3": {
+      "text": "Osim toga, svećenikove riječi u ovom sakramentu nisu veće djelotvornosti nego u drugim sakramentima. Ali u drugim sakramentima nisu dovoljne riječi služitelja ako ne izvrši i neki čin; tako se u krštenju, zajedno s time što svećenik kaže: ja te krstim, zahtijeva tjelesno pranje. Dakle, i zajedno s time što svećenik kaže: ja te odrješujem, treba da izvrši neki čin nad pokornikom, polažući na nj ruke.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a4.sc": {
+      "text": "Ali protiv toga jest to što je Gospodin rekao Petru: *Što god razriješiš na zemlji, bit će* itd., ne spominjući nikakvo polaganje ruku. Ni kad je svim apostolima zajedno rekao: *Kojima otpustite grijehe, otpuštaju im se.* Dakle, za ovaj se sakrament ne zahtijeva polaganje ruku.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a4.resp": {
+      "text": "Odgovaram: treba reći da se polaganje ruku u sakramentima Crkve obavlja da bi se označio neki obilni učinak milosti, kojim se oni na koje se polažu ruke na neki način, po nekoj sličnosti, nadovezuju na služitelje, u kojima treba biti obilje. I zato se polaganje ruku obavlja u sakramentu potvrde (krizme), u kojem se podjeljuje punina Duha Svetoga, i u sakramentu reda, u kojem se podjeljuje neka izvrsnost vlasti u božanskim službama; zato se i u 2 Tim 1 kaže: *da raspiriš milost Božju koja je u tebi po polaganju mojih ruku.* A sakrament pokore nije usmjeren prema postizanju neke izvrsnosti milosti, nego prema otpuštenju grijeha. I zato se za ovaj sakrament ne zahtijeva polaganje ruku, kao ni za krštenje, u kojem se ipak zbiva potpunije otpuštenje grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da ono polaganje ruku nije sakramentalno, nego je usmjereno prema činjenju čudesa, naime da se dodirom ruke posvećenoga čovjeka ukloni i tjelesna bolest. Kao što se i o Gospodinu čita u Mk 6 da je *bolesne ozdravio položivši na njih ruke*; a u Mt 8 čita se da je dodirom očistio gubavca.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a4.ad2": {
+      "text": "Na drugo treba reći da ne zahtijeva svako primanje Duha Svetoga polaganje ruku, jer i u krštenju čovjek prima Duha Svetoga, a ipak se ondje ne polažu ruke. Ali primanje Duha Svetoga s puninom zahtijeva polaganje ruku, a to pripada potvrdi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a4.ad3": {
+      "text": "Na treće treba reći da u sakramentima koji se dovršavaju u uporabi tvari služitelj treba izvršiti neki tjelesni čin nad onim koji prima sakrament, kao u krštenju, potvrdi i posljednjem pomazanju. Ali ovaj se sakrament ne sastoji u uporabi neke izvana primijenjene tvari, nego mjesto tvari zauzima ono što je na strani pokornika. Stoga, kao što u Euharistiji svećenik samim izgovaranjem riječi nad tvari dovršava sakrament, tako i same riječi svećenika koji odrješuje nad pokornikom dovršavaju sakrament odrješenja. A kad bi i bio neki tjelesni čin na strani svećenika, ne bi manje pristajalo znamenovanje križem, koje se primjenjuje u Euharistiji, nego polaganje ruku, kao znak da se grijesi otpuštaju po krvi Kristova križa. Pa ipak, to nije nužno za sakrament, kao što nije nužno ni za Euharistiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da ovaj sakrament nije nužan za spasenje. Jer uz ono iz Psalma: *Koji siju u suzama* itd., Glosa kaže: *Ne budi žalostan ako imaš dobru volju, iz koje se žanje mir.* Ali žalost pripada pojmu pokajanja, prema onome iz 2 Kor 7: *Žalost koja je po Bogu proizvodi pokajanje na trajno spasenje.* Dakle, dobra je volja, bez pokore, dovoljna za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a5.obj2": {
+      "text": "Osim toga, u Izr 10 kaže se: *Ljubav pokriva sve prijestupe*; a niže, u 15: *Milosrđem i vjerom čiste se grijesi.* Ali ovaj sakrament postoji samo zato da očisti grijehe. Dakle, imajući ljubav, vjeru i milosrđe, svatko može postići spasenje i bez sakramenta pokore.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a5.obj3": {
+      "text": "Osim toga, sakramenti Crkve imaju početak u Kristovoj ustanovi. Ali, kako se čita u Iv 8, Krist je odriješio ženu preljubnicu bez pokore. Čini se, dakle, da pokora nije nužna za spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a5.sc": {
+      "text": "Ali protiv toga jest to što Gospodin kaže u Lk 13: *Ako ne budete činili pokoru, svi ćete zajedno propasti.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a5.resp": {
+      "text": "Odgovaram: treba reći da je nešto nužno za spasenje na dva načina: na jedan način, apsolutno; na drugi način, uz pretpostavku. Apsolutno je nužno ono bez čega nitko ne može postići spasenje, kao Kristova milost i sakrament krštenja, po kojem se netko preporađa u Kristu. A uz pretpostavku je nužan sakrament pokore, koji doduše nije nužan svima, nego onima koji su podložni grijehu; kaže se, naime, u posljednjem poglavlju 2 Ljet: *I ti, Gospodine pravednika, nisi odredio pokoru pravednicima, Abrahamu, Izaku i Jakovu, onima koji ti nisu sagriješili. A grijeh, kad se dovrši, rađa smrt*, kako se kaže u Jak 1. I zato je za spasenje grešnika nužno da se grijeh od njega ukloni. A to se ne može zbiti bez sakramenta pokore, u kojem djeluje snaga Kristove muke po svećenikovu odrješenju zajedno s djelom pokornika, koji surađuje s milošću na uništenje grijeha; jer, kako kaže Augustin u tumačenju Ivanova evanđelja, *onaj koji te stvorio bez tebe, neće te opravdati bez tebe.* Stoga je jasno da je sakrament pokore nužan za spasenje nakon grijeha, kao što je nužno tjelesno liječenje kad čovjek zapadne u opasnu bolest.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ona Glosa, čini se, treba shvatiti o onome tko ima dobru volju bez prekida koji nastaje grijehom; takvi, naime, nemaju razloga za žalost. Ali otkad se grijehom dobra volja ukloni, ne može se vratiti bez žalosti kojom netko boluje zbog prošloga grijeha, a to pripada pokajanju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a5.ad2": {
+      "text": "Na drugo treba reći da otkad netko upadne u grijeh, ljubav, vjera i milosrđe ne oslobađaju čovjeka od grijeha bez pokore. Ljubav, naime, zahtijeva da čovjek boluje zbog uvrede nanesene prijatelju i da se nastoji pomiriti s prijateljem. Sama vjera također zahtijeva da traži da bude opravdan od grijeha po snazi Kristove muke, koja djeluje u sakramentima Crkve. Sámo uređeno milosrđe također zahtijeva da čovjek kajući se pritekne u pomoć svojoj bijedi u koju je zapao grijehom, prema onome iz Izr 14: *Grijeh čini narode bijednima*; zato se i u Sir 30 kaže: *Smiluj se svojoj duši ugađajući Bogu.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a5.ad3": {
+      "text": "Na treće treba reći da je vlasti izvrsnosti, koju je imao samo Krist, kako je gore rečeno, pripadalo to što je Krist učinak sakramenta pokore, a to je otpuštenje grijeha, podijelio ženi preljubnici bez sakramenta pokore, premda ne bez unutarnjega pokajanja, koje je on sam u njoj izveo milošću.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da pokora nije druga daska nakon brodoloma. Jer uz ono iz Iz 3: *Svoj su grijeh razglasili kao Sodoma*, Glosa kaže: *Druga daska nakon brodoloma jest skrivati grijehe.* A pokora ne skriva grijehe, nego ih prije otkriva. Dakle, pokora nije druga daska.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a6.obj2": {
+      "text": "Osim toga, temelj u zgradi ne zauzima drugo, nego prvo mjesto. A pokora je u duhovnoj zgradi temelj, prema onome iz Heb 6: *Ne polažući ponovno temelj pokore od mrtvih djela.* Zato ona i prethodi samom krštenju, prema onome iz Dj 2: *Činite pokoru i neka se svaki od vas krsti.* Dakle, pokoru ne treba nazivati drugom daskom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a6.obj3": {
+      "text": "Osim toga, svi su sakramenti neke daske, to jest lijekovi protiv grijeha. Ali pokora ne zauzima drugo mjesto među sakramentima, nego prije četvrto, kako je jasno iz rečenoga gore. Dakle, pokoru ne treba nazivati drugom daskom nakon brodoloma.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a6.sc": {
+      "text": "Ali protiv toga jest to što Jeronim kaže da je *druga daska nakon brodoloma pokora*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a6.resp": {
+      "text": "Odgovaram: treba reći da je ono što je po sebi po naravi prije od onoga što je akcidentalno, kao što je i supstancija prije od akcidenta. A neki su sakramenti po sebi usmjereni prema spasenju čovjeka, kao krštenje, koje je duhovno rađanje, i potvrda (krizma), koja je duhovni rast, i Euharistija, koja je duhovna hrana. Pokora pak usmjerena je prema spasenju čovjeka takoreći akcidentalno, uz nešto pretpostavljeno, naime uz pretpostavku grijeha. Kad, naime, čovjek ne bi osobno griješio, ne bi mu bila potrebna pokora, ali bi mu ipak bili potrebni krštenje, potvrda i Euharistija; kao što ni u tjelesnom životu čovjeku ne bi bilo potrebno liječenje kad ne bi obolio, a po sebi su čovjeku za život potrebni rađanje, rast i hrana. I zato pokora zauzima drugo mjesto s obzirom na stanje cjelovitosti, koje se podjeljuje i održava spomenutim sakramentima. Stoga se preneseno naziva drugom daskom nakon brodoloma. Jer prvi je lijek za one koji prelaze more da se sačuvaju u cijeloj lađi, a drugi je lijek, kad se lađa razbije, da se tko uhvati za dasku. Tako je i prvi lijek na moru ovoga života da čovjek sačuva cjelovitost, a drugi je lijek, ako je grijehom izgubi, da se po pokori vrati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se skrivanje grijeha događa na dva načina. Na jedan način, dok se sami grijesi čine. A gore je griješiti javno nego potajno, bilo zato što se čini da javni grešnik griješi iz većega prezira, bilo i zato što griješi uz sablazan drugih. I zato je neki lijek u grijesima to što netko griješi potajno. I prema tome Glosa kaže da je *druga daska nakon brodoloma skrivati grijehe*, ne zato što se time uklanja grijeh, kao pokorom, nego zato što time grijeh postaje manji. Na drugi način, netko skriva prije počinjeni grijeh zanemarujući ispovijed. I to se protivi pokori. I tako skrivati grijeh nije druga daska, nego prije ono što je protivno dasci; kaže se, naime, u Izr 28: *Tko skriva svoje zločine, neće uspjeti.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a6.ad2": {
+      "text": "Na drugo treba reći da se pokora ne može nazvati temeljem duhovne zgrade naprosto, to jest u prvoj gradnji, nego je temelj u drugoj, ponovnoj gradnji, koja se zbiva nakon razaranja grijehom; jer onima koji se vraćaju Bogu najprije izlazi ususret pokora. Apostol ipak ondje govori o temelju duhovnoga nauka. A pokajanje koje prethodi krštenju nije sakrament pokore.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a6.ad3": {
+      "text": "Na treće treba reći da se tri prethodna sakramenta odnose na cijelu lađu, to jest na stanje cjelovitosti, s obzirom na koje se pokora naziva drugom daskom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da ovaj sakrament nije prikladno ustanovljen u Novom zakonu. Ono, naime, što je po naravnom pravu ne treba ustanovu. Ali kajati se za zla koja je tko počinio jest po naravnom pravu; ne može, naime, netko ljubiti dobro, a da ne boluje zbog protivnoga. Dakle, pokora nije prikladno ustanovljena u Novom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a7.obj2": {
+      "text": "Osim toga, ono što je bilo u Starom zakonu nije trebalo ustanovljavati. Ali i u Starom zakonu bila je pokora; zato se i Gospodin tuži u Jr 8 govoreći: *Nema nikoga tko bi činio pokoru za svoj grijeh govoreći: Što sam učinio?* Dakle, pokora nije trebala biti ustanovljena u Novom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a7.obj3": {
+      "text": "Osim toga, pokora dolazi nakon krštenja, budući da je druga daska, kako je gore rečeno. Ali čini se da je Gospodin ustanovio pokoru prije krštenja, jer se čita da je Gospodin na početku svojega propovijedanja rekao, u Mt 4: *Činite pokoru, jer približit će se kraljevstvo nebesko.* Dakle, ovaj sakrament nije prikladno ustanovljen u Novom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a7.obj4": {
+      "text": "Osim toga, sakramenti Novoga zakona imaju ustanovu od Krista, iz čije snage djeluju, kako je gore rečeno. Ali čini se da Krist nije ustanovio ovaj sakrament, budući da se on sam njime nije služio, kao drugim sakramentima koje je sam ustanovio. Dakle, ovaj sakrament nije prikladno ustanovljen u Novom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a7.sc": {
+      "text": "Ali protiv toga jest to što Gospodin kaže u posljednjem poglavlju Lk: *Trebalo je da Krist trpi i treći dan uskrsne od mrtvih te da se u njegovo ime propovijeda pokora i otpuštenje grijeha svim narodima.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a7.resp": {
+      "text": "Odgovaram: treba reći da se, kako je rečeno, u ovom sakramentu čin pokornika odnosi kao tvar, a ono što je na strani svećenika, koji djeluje kao Kristov služitelj, odnosi se kao ono što je formalno i što dovršava sakrament. A tvar i u drugim sakramentima postoji unaprijed, od prirode, kao voda, ili od nekoga umijeća, kao kruh; ali da se takva tvar uzme za sakrament, za to je potrebna ustanova koja to određuje. Forma pak sakramenta i njegova snaga potpuno su iz Kristove ustanove, iz čije muke izlazi snaga sakramenata. Tako, dakle, tvar postoji unaprijed od naravi, jer se čovjek naravnim razumom pokreće da se kaje za zla koja je učinio; ali da čovjek čini pokoru na ovaj ili onaj način, to je iz božanske ustanove. Stoga je i Gospodin na početku svojega propovijedanja naložio ljudima ne samo da se kaju, nego i da čine pokoru, označujući određene načine čina koji se zahtijevaju za ovaj sakrament. A ono što pripada službi služitelja odredio je u Mt 16, gdje je rekao Petru: *Tebi ću dati ključeve kraljevstva nebeskoga* itd. A djelotvornost ovoga sakramenta i izvor njegove snage očitovao je nakon uskrsnuća, u posljednjem poglavlju Lk, gdje je rekao da je *trebalo da se u njegovo ime propovijeda pokora i otpuštenje grijeha svim narodima*, pošto je prije spomenuo muku i uskrsnuće; jer snagom imena Isusa Krista koji trpi i uskrsava ovaj sakrament ima djelotvornost za otpuštenje grijeha. I tako je jasno da je ovaj sakrament prikladno ustanovljen u Novom zakonu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da je po naravnom pravu to da se netko kaje za zla koja je učinio, s obzirom na to da boluje što ih je učinio i da na neki način traži lijek boli, te da pokaže i neke znakove boli, kao što su učinili Ninivljani, kako se čita u Jon 3. Kod njih je ipak bilo pridruženo nešto od vjere koju su primili iz Jonina propovijedanja, naime da su to činili u nadi da će postići oproštenje od Boga, prema onome što se ondje čita: *Tko zna, možda će se Bog okrenuti i oprostiti te se odvratiti od žestine svoje srdžbe, pa nećemo propasti?* Ali kao što je ostalo što je po naravnom pravu primilo određenje iz ustanove božanskoga zakona, kako je rečeno u Drugom dijelu, tako i pokora.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a7.ad2": {
+      "text": "Na drugo treba reći da ono što je po naravnom pravu na različit način prima određenje u Starom i u Novom zakonu, kako odgovara nesavršenosti Staroga zakona i savršenosti Novoga. Stoga je i pokora u Starom zakonu imala neko određenje. Što se tiče boli, da bude više u srcu nego u vanjskim znakovima, prema onome iz Jl 2: *Razderite srca svoja, a ne haljine svoje.* A što se tiče traženja lijeka boli, da na neki način ispovijede svoje grijehe Božjim služiteljima, barem općenito; zato Gospodin u Lev 5 kaže: *Duša koja sagriješi iz neznanja prinijet će svećeniku ovna bez mane iz stada, prema mjeri i procjeni grijeha, i on će moliti za nju jer je učinila ne znajući, i oprostit će joj se*; jer time samim što je tko prinosio prinos za svoj grijeh, na neki je način ispovijedao svoj grijeh svećeniku. I prema tome se kaže u Izr 28: *Tko skriva svoje zločine, neće uspjeti; a tko ih ispovjedi i ostavi, postići će milosrđe.* Ali još nije bila ustanovljena vlast ključeva, koja proizlazi iz Kristove muke. I prema tome još nije bilo ustanovljeno da netko boluje zbog grijeha s odlukom da se ispoviješću i zadovoljštinom podloži ključevima Crkve, u nadi da će postići oproštenje snagom Kristove muke.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a7.ad3": {
+      "text": "Na treće treba reći da, ako tko ispravno razmotri, ono što je Gospodin rekao o nužnosti krštenja, u Iv 3, vremenski je prethodilo onomu što je rekao, u Mt 4, o nužnosti pokore. Jer ono što je rekao Nikodemu o krštenju bilo je prije Ivanova zatočenja, o kojem se poslije dodaje da je krstio; a ono što je rekao o pokori, u Mt 4, bilo je nakon Ivanova zatočenja. Ako bi ipak prije pozvao na pokoru nego na krštenje, to bi bilo zato što se i prije krštenja zahtijeva neko pokajanje, kao što je i Petar rekao, u Dj 2: *Činite pokoru i neka se svaki od vas krsti.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a7.ad4": {
+      "text": "Na četvrto treba reći da se Krist nije služio krštenjem koje je sam ustanovio, nego je kršten Ivanovim krštenjem, kako je gore rečeno. Ali ni djelatno se nije služio svojom službom, jer on sam obično nije krstio, nego njegovi učenici, kako se kaže u Iv 4; premda se čini da treba vjerovati da je krstio učenike, kako kaže Augustin u pismu Seleucijani. A uporaba ovoga sakramenta, koji je on ustanovio, nikako mu nije pristajala: ni s obzirom na to da se on sam kaje, jer u njemu nije bilo grijeha, ni s obzirom na to da ovaj sakrament pruža drugima, jer je, da pokaže svoje milosrđe i svoju snagu, pružao učinak ovoga sakramenta bez sakramenta, kako je gore rečeno. A sakrament Euharistije i sam je primio i drugima dao. Bilo zato da preporuči izvrsnost ovoga sakramenta; bilo zato što je ovaj sakrament spomen njegove muke, ukoliko je Krist svećenik i žrtva.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da pokora ne treba trajati do kraja života. Pokora je, naime, usmjerena prema brisanju grijeha. Ali pokornik odmah postiže otpuštenje grijeha, prema onome iz Ez 18: *Ako bezbožnik bude činio pokoru za sve svoje grijehe koje je počinio, živ će ostati i neće umrijeti.* Dakle, ne treba pokoru dalje produživati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a8.obj2": {
+      "text": "Osim toga, činiti pokoru pripada stanju početnika. Ali čovjek iz toga stanja treba napredovati u stanje onih koji napreduju, a dalje u stanje savršenih. Dakle, čovjek ne treba činiti pokoru do kraja života.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a8.obj3": {
+      "text": "Osim toga, kao što u drugim sakramentima čovjek treba obdržavati odredbe Crkve, tako i u ovom sakramentu. Ali prema kanonima određena su vremena pokore, tako da onaj koji je počinio ovaj ili onaj grijeh čini pokoru toliko godina. Čini se, dakle, da pokoru ne treba protezati do kraja života.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a8.sc": {
+      "text": "Ali protiv toga jest ono što kaže Augustin u knjizi O pokori: *Što nam preostaje nego da bolujemo u životu? Gdje, naime, prestaje bol, nestaje pokajanja. A ako prestane pokajanje, što preostaje od oproštenja?*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a8.resp": {
+      "text": "Odgovaram: treba reći da postoji dvoje: unutarnje pokajanje i vanjska pokora. Unutarnje je pokajanje ono kojim netko boluje zbog počinjenoga grijeha. I takvo pokajanje treba trajati do kraja života. Čovjeku, naime, uvijek treba biti mrsko što je sagriješio; jer kad bi mu se sviđalo što je sagriješio, već bi time samim upao u grijeh i izgubio plod oproštenja. A nesviđanje uzrokuje bol u onome koji je prijemljiv za bol, kakav je čovjek u ovom životu. A nakon ovoga života sveti nisu prijemljivi za bol. Stoga će im se prošli grijesi ne sviđati bez ikakve žalosti, prema onome iz Iz 65: *Predane su zaboravu prijašnje tjeskobe.* Vanjska je pak pokora ona kojom netko pokazuje vanjske znakove boli, riječima ispovijeda svoje grijehe svećeniku koji odrješuje i prema njegovoj prosudbi daje zadovoljštinu. I takva pokora ne treba trajati do kraja života, nego do određenoga vremena, prema mjeri grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da pravo pokajanje ne samo da uklanja prošle grijehe, nego i čuva čovjeka od budućih grijeha. Premda, dakle, čovjek u prvom trenutku pravoga pokajanja postiže otpuštenje prošlih grijeha, ipak treba da pokajanje u čovjeku ustraje, da ne bi ponovno upao u grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a8.ad2": {
+      "text": "Na drugo treba reći da imati unutarnje pokajanje i ujedno činiti vanjsku pokoru pripada stanju početnika, naime onih koji se iznova vraćaju od grijeha. Ali unutarnje pokajanje ima mjesta i kod onih koji napreduju i kod savršenih, prema onome iz Psalma: *Uspone je u srcu svojem odredio u dolini suza.* Zato je i sam Pavao govorio, u 1 Kor 15: *Nisam dostojan zvati se apostolom, jer sam progonio Crkvu Božju.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a8.ad3": {
+      "text": "Na treće treba reći da se ona vremena unaprijed određuju pokornicima s obzirom na djelatnost vanjske pokore.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da pokajanje ne može biti neprekidno. Kaže se, naime, u Jr 31: *Neka se tvoj glas smiri od plača i tvoje oči od suza.* Ali to ne bi moglo biti kad bi pokajanje, koje se sastoji u plaču i suzama, neprekidno trajalo. Dakle, pokajanje ne može neprekidno trajati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a9.obj2": {
+      "text": "Osim toga, zbog svakoga dobrog djela čovjek se treba radovati, prema onome iz Psalma: *Služite Gospodinu u veselju.* Ali činiti pokoru jest dobro djelo. Dakle, zbog toga se samoga čovjek treba radovati. Ali *čovjek se ne može u isto vrijeme žalostiti i radovati*, kako je jasno iz Filozofa, u 9. knjizi Etike. Dakle, ne može biti da se pokornik u isto vrijeme žalosti zbog prošlih grijeha, a to pripada pojmu pokajanja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a9.obj3": {
+      "text": "Osim toga, u 2 Kor 2 Apostol kaže: *Utješite* ga, naime pokornika, *da možda takav ne bi bio progutan prevelikom žalošću.* Ali utjeha odgoni žalost, koja pripada pojmu pokajanja. Dakle, pokajanje ne treba biti neprekidno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a9.sc": {
+      "text": "Ali protiv toga jest to što Augustin kaže u knjizi O pokori: *Bol neka se u pokajanju neprekidno čuva.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a9.resp": {
+      "text": "Odgovaram: treba reći da se o kajanju govori na dva načina, naime po činu i po habitusu. Činom je doista nemoguće da se čovjek neprekidno kaje, jer je nužno da čin pokornika, bilo unutarnji bilo vanjski, bude prekidan, barem snom i drugim stvarima koje pripadaju potrebi tijela. Na drugi se način kaže da se netko kaje po habitusu. I tako treba da se čovjek neprekidno kaje, i s obzirom na to da čovjek nikada ne učini nešto protivno pokajanju, čime bi se uklonila habitualna raspoloživost pokornika, i s obzirom na to da treba držati u odluci da mu prošli grijesi uvijek budu mrski.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da plač i suze pripadaju činu vanjske pokore, koji ne samo da ne treba biti neprekidan, nego nije potrebno ni da traje do kraja života, kako je rečeno. Zato se ondje i znakovito dodaje da ima plaće tvojemu djelu. A plaća djela pokornika jest potpuno otpuštenje grijeha i s obzirom na krivnju i s obzirom na kaznu, a nakon što se ono postigne, nije nužno da čovjek dalje čini vanjsku pokoru. Time se ipak ne isključuje neprekidnost pokajanja kakva je opisana.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a9.ad2": {
+      "text": "Na drugo treba reći da o boli i radosti možemo govoriti na dva načina. Na jedan način, ukoliko su strasti osjetilne težnje. I tako nikako ne mogu biti zajedno, zato što su potpuno protivne, bilo s obzirom na predmet, primjerice kad se odnose na isto, bilo barem s obzirom na pokret srca; jer je radost praćena širenjem srca, a žalost stezanjem. I na taj način govori Filozof u 9. knjizi Etike. Na drugi način možemo govoriti o radosti i žalosti ukoliko se sastoje u jednostavnom činu volje, kojoj se nešto sviđa ili ne sviđa. I prema tome, ne mogu biti protivne osim s obzirom na predmet, primjerice kad se odnose na isto i pod istim vidom. I tako radost i žalost ne mogu biti zajedno, jer se isto pod istim vidom ne može u isto vrijeme sviđati i ne sviđati. Ako se pak radost i žalost, tako shvaćene, ne odnose na isto i pod istim vidom, nego ili na različite stvari ili na isto pod različitim vidovima, onda nema protivnosti radosti i žalosti. Stoga ništa ne priječi da se čovjek u isto vrijeme raduje i žalosti; primjerice, ako vidimo da pravednik trpi nevolju, u isto nam se vrijeme sviđa njegova pravednost, a ne sviđa nevolja. I na taj način može se nekomu ne sviđati to što je sagriješio, a sviđati to što mu se to ne sviđa, uz nadu u oproštenje, tako da sama žalost bude građa radosti. Zato i Augustin kaže u knjizi O pokori: *Neka pokornik uvijek boluje i neka se raduje zbog boli.* A kad žalost nikako ne bi trpjela uza se radost, time se ne bi uklonila habitualna neprekidnost pokajanja, nego zbiljska.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a9.ad3": {
+      "text": "Na treće treba reći da, prema Filozofu, u 2. knjizi Etike, kreposti pripada držati sredinu u strastima. A žalost koja u osjetilnoj težnji pokornika slijedi iz nesviđanja volje jest neka strast. Stoga je treba umjeravati prema kreposti, a njezina je pretjeranost poročna, jer navodi na očaj. To označuje Apostol ondje govoreći: *Da takav ne bi bio progutan većom žalošću.* I tako utjeha o kojoj ondje govori Apostol umjerava žalost, a ne uklanja je potpuno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da sakrament pokore ne treba ponavljati. Apostol, naime, kaže u Heb 6: *Nemoguće je one koji su jednom bili prosvijetljeni i okusili nebeski dar i postali dionici Duha Svetoga, a otpali su, ponovno obnoviti na pokoru.* Ali svi koji su se pokajali bili su prosvijetljeni i primili su dar Duha Svetoga. Dakle, tko god sagriješi nakon pokore, ne može se ponovno pokajati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.obj2": {
+      "text": "Osim toga, Ambrozije kaže u knjizi O pokori: *Nalaze se oni koji misle da pokoru treba češće činiti. Oni se razuzdavaju u Kristu. Jer kad bi uistinu činili pokoru, ne bi mislili da je poslije treba ponavljati; jer kao što je jedno krštenje, tako je i jedna pokora.* Ali krštenje se ne ponavlja. Dakle, ni pokora.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.obj3": {
+      "text": "Osim toga, čudesa kojima je Gospodin ozdravljao tjelesne bolesti označuju ozdravljenja duhovnih bolesti, kojima se, naime, ljudi oslobađaju od grijeha. Ali ne čita se da je Gospodin ijednoga slijepca dvaput prosvijetlio, ili ijednoga gubavca dvaput očistio, ili ijednoga mrtvaca dvaput uskrisio. Čini se, dakle, da ni ijednomu grešniku ne podjeljuje dvaput oproštenje po pokori.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.obj4": {
+      "text": "Osim toga, Grgur kaže u korizmenoj homiliji: *Pokora je oplakivati prije počinjene grijehe, i ne činiti ponovno ono što treba oplakivati.* A Izidor kaže u knjizi O najvišem dobru: *Rugač je, a ne pokornik, onaj koji još čini ono za što se kaje.* Ako se, dakle, netko uistinu kaje, neće ponovno griješiti. Dakle, ne može biti da se pokora ponavlja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.obj5": {
+      "text": "Osim toga, kao što krštenje ima djelotvornost iz Kristove muke, tako i pokora. Ali krštenje se ne ponavlja zbog jednosti Kristove muke i smrti. Dakle, s jednakim razlogom ni pokora se ne ponavlja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.obj6": {
+      "text": "Osim toga, Grgur kaže: *Lakoća oproštenja pruža poticaj na prijestup.* Ako, dakle, Bog često pruža oproštenje po pokori, čini se da on sam pruža ljudima poticaj na prijestup, i tako se čini da mu se grijesi sviđaju. A to ne pristaje njegovoj dobroti. Dakle, pokora se ne može ponavljati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.sc": {
+      "text": "Ali protiv toga jest to što se čovjek potiče na milosrđe primjerom Božjega milosrđa, prema onome iz Lk 6: *Budite milosrdni, kao što je i Otac vaš milosrdan.* Ali Gospodin nalaže učenicima ovo milosrđe, da češće opraštaju braći koja griješe protiv njih; zato, kako se kaže u Mt 18, Petru koji je pitao: *Koliko puta da oprostim bratu svojemu kad sagriješi protiv mene? Do sedam puta?*, Isus je odgovorio: *Ne kažem ti do sedam puta, nego do sedamdeset puta sedam.* Dakle, i Bog češće po pokori pruža oproštenje onima koji griješe, osobito jer nas uči moliti: *Otpusti nam duge naše kako i mi otpuštamo dužnicima našim.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.resp": {
+      "text": "Odgovaram: treba reći da su se glede pokore neki zabludjeli govoreći da čovjek ne može po pokori drugi put postići oproštenje grijeha. Od njih su neki, naime novacijanci, to toliko protegnuli da su govorili kako oni koji griješe nakon prve pokore, koja se čini u krštenju, ne mogu po pokori ponovno biti uspostavljeni. A drugi su bili heretici, kako kaže Augustin u knjizi O pokori, koji su govorili da je pokora nakon krštenja doduše korisna, ali ne više puta, nego samo jednom. A čini se da su takve zablude proizašle iz dvoga. Prvo, iz toga što su se varali glede pojma pravoga pokajanja. Budući, naime, da se za pravo pokajanje zahtijeva ljubav, bez koje se grijesi ne brišu, vjerovali su da se ljubav, jednom stečena, ne može izgubiti, i prema tome da pokajanje, ako je pravo, nikada ne biva uklonjeno grijehom, tako da bi ga bilo nužno ponavljati. Ali to je opovrgnuto u Drugom dijelu, gdje je pokazano da se ljubav, jednom stečena, zbog slobode odlučivanja može izgubiti; i prema tome nakon pravoga pokajanja netko može smrtno sagriješiti. Drugo, iz toga što su se varali glede procjene težine grijeha. Mislili su, naime, da je grijeh koji netko počini nakon isprošenoga oproštenja toliko težak da ga nije moguće otpustiti. U tome su se varali i s obzirom na grijeh, koji i nakon postignutoga otpuštenja može biti i teži i lakši čak i od samoga prvoga otpuštenoga grijeha, a mnogo više protiv beskonačnosti Božjega milosrđa, koje je iznad svakoga broja i veličine grijeha, prema onome iz Psalma: *Smiluj mi se, Bože, po velikom milosrđu svojem, i po mnoštvu smilovanja svojih izbriši bezakonje moje.* Stoga se odbacuje riječ Kajina koji govori, u Post 4: *Veće je bezakonje moje nego da bih zaslužio oproštenje.* I zato Božje milosrđe onima koji griješe po pokori pruža oproštenje bez ikakve granice. Zato se kaže u posljednjem poglavlju 2 Ljet: *Neizmjerno je i neistraživo milosrđe obećanja tvojega nad zloćama ljudi.* Stoga je očito da se pokora može ponavljati više puta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da su, budući da su kod Židova prema Zakonu bila ustanovljena neka pranja kojima su se više puta čistili od nečistoća, neki Židovi vjerovali da se i kupelji krštenja netko može više puta očistiti. Da bi to isključio, Apostol piše Hebrejima da je nemoguće one koji su jednom bili prosvijetljeni, naime po krštenju, ponovno obnoviti na pokoru, naime po krštenju, koje je *kupelj preporođenja i obnove Duha Svetoga*, kako se kaže u Tit 3. I navodi razlog iz toga što čovjek po krštenju s Kristom umire; zato slijedi: *ponovno razapinjući u sebi Sina Božjega*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.ad2": {
+      "text": "Na drugo treba reći da Ambrozije govori o svečanoj pokori, koja se u Crkvi ne ponavlja, kako će se reći niže.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.ad3": {
+      "text": "Na treće treba reći da, kako kaže Augustin u knjizi O pokori, *Gospodin je mnoge slijepce u različito vrijeme prosvijetlio i mnoge nemoćne okrijepio, pokazujući u onim različitim slučajevima da se isti grijesi često otpuštaju, tako da onoga koga je prije ozdravio kao gubavca drugi put prosvjetljuje kao slijepca. Zato je, naime, ozdravio toliko slijepih, hromih i usahlih, da grešnik ne bi očajavao kad često griješi. Zato se ne piše da je ikoga ozdravio više nego jednom, da se svatko boji vezati se uz grijeh. Liječnikom sebe naziva, i to ne potrebnim zdravima, nego onima kojima je zlo; ali kakav bi to bio liječnik koji ne bi znao izliječiti ponovljenu bolest? Liječničko je, naime, sto puta liječiti onoga tko je sto puta bolestan. On bi bio manji od drugih kad ne bi znao ono što je drugima moguće.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.ad4": {
+      "text": "Na četvrto treba reći da kajati se znači oplakivati prije počinjene grijehe i ne činiti ono što treba oplakivati, i to dok se oplakuje, bilo činom bilo odlukom. Rugač je, naime, a ne pokornik, onaj koji, dok se kaje, čini ono za što se kaje; jer odlučuje ponovno učiniti ono što je učinio, ili i zbiljski griješi istom ili drugom vrstom grijeha. A to što netko poslije griješi, bilo činom bilo odlukom, ne isključuje da je prvo pokajanje bilo pravo. Istinitost se, naime, prethodnoga čina nikada ne isključuje protivnim činom koji slijedi; jer kao što je uistinu trčao onaj koji poslije sjedi, tako se uistinu pokajao onaj koji poslije griješi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.ad5": {
+      "text": "Na peto treba reći da krštenje ima snagu iz Kristove muke kao neko duhovno preporođenje, s duhovnom smrću prijašnjega života. A ljudima je određeno jednom umrijeti i jednom se roditi. I zato čovjek treba biti kršten samo jednom. Ali pokora ima snagu iz Kristove muke kao duhovno liječenje, koje se može često ponavljati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q84.a10.ad6": {
+      "text": "Na šesto treba reći da Augustin u knjizi O pokori kaže: *Jasno je da su Bogu grijesi veoma mrski, jer je uvijek spreman uništiti ih, da se ne bi razorilo ono što je stvorio, da ne bi propalo ono što je ljubio*, naime očajem.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    }
+  }
+}

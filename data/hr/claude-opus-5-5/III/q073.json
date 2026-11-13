@@ -1,0 +1,300 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 73,
+  "units": {
+    "III.q73.pr": {
+      "text": "Zatim treba razmotriti sakrament Euharistije. I to prvo, sam sakrament; drugo, njegovu tvar; treće, formu; četvrto, učinak; peto, one koji primaju ovaj sakrament; šesto, služitelja; sedmo, obred. Glede prvoga pita se šest stvari. Prvo, je li Euharistija sakrament. Drugo, je li ona jedan ili više sakramenata. Treće, je li nužna za spasenje. Četvrto, o njezinim imenima. Peto, o njezinoj ustanovi. Šesto, o njezinim predslikama.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da Euharistija nije sakrament. Naime, dva sakramenta ne trebaju biti usmjerena prema istome, jer je svaki sakrament djelotvoran da proizvede svoj učinak. Budući, dakle, da su potvrda (krizma) i Euharistija usmjerene prema savršenosti, kako kaže Dionizije u 4. poglavlju O crkvenoj hijerarhiji, čini se da Euharistija nije sakrament, budući da je potvrda sakrament, kako je prije utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a1.obj2": {
+      "text": "Osim toga, u svakom sakramentu Novoga zakona ono što se vidljivo podvrgava osjetilu proizvodi nevidljivi učinak sakramenta; tako pranje vodom uzrokuje i krsni biljeg i duhovno pranje, kako je gore rečeno. Ali prilike kruha i vina, koje se u ovom sakramentu podvrgavaju osjetilu, ne proizvode ni samo pravo Kristovo tijelo, koje je stvar i sakrament, ni otajstveno tijelo, koje je u Euharistiji samo stvar. Dakle, čini se da Euharistija nije sakrament Novoga zakona.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a1.obj3": {
+      "text": "Osim toga, sakramenti Novoga zakona koji imaju tvar ostvaruju se u uporabi tvari, kao krštenje u pranju, a potvrda u označivanju znakom krizme. Ako je, dakle, Euharistija sakrament, ostvarivala bi se u uporabi tvari, a ne u posveti same tvari. A očito je da je to lažno, jer su forma ovoga sakramenta riječi koje se izgovaraju pri posveti tvari, kako će niže biti jasno. Dakle, Euharistija nije sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a1.sc": {
+      "text": "Ali protiv toga je što se u zbornoj molitvi kaže: *Ovaj tvoj sakrament neka nam ne bude na podložnost kazni*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a1.resp": {
+      "text": "Odgovaram: treba reći da su sakramenti Crkve usmjereni na to da pomognu čovjeku u duhovnom životu. A duhovni je život suobličen tjelesnom, jer tjelesne stvari nose sličnost duhovnih. A očito je da, kao što se za tjelesni život zahtijeva rađanje, po kojem čovjek prima život, i rast, kojim se čovjek dovodi do savršenosti života, tako se zahtijeva i hrana, kojom se čovjek održava u životu. Zato, kao što je za duhovni život trebalo da postoji krštenje, koje je duhovno rađanje, i potvrda, koja je duhovni rast, tako je trebalo da postoji i sakrament Euharistije, koji je duhovna hrana.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je savršenost dvostruka. Jedna je ona koja je u samom čovjeku i do koje se dolazi rastom. I takva savršenost pripada potvrdi. Druga je pak savršenost koju čovjek postiže dodavanjem hrane ili odjeće ili nečega takvoga. I takva savršenost pripada Euharistiji, koja je duhovno okrepljenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a1.ad2": {
+      "text": "Na drugo treba reći da voda krštenja ne uzrokuje nikakav duhovni učinak zbog same vode, nego zbog snage Duha Svetoga koja je u vodi; stoga Zlatousti, tumačeći ono iz Iv 5, kaže: *Anđeo Gospodnji u određeno vrijeme itd.: u krštenima ne djeluje naprosto voda, nego tek kad primi milost Duha Svetoga, tada razrješuje sve grijehe*. A kao što se snaga Duha Svetoga odnosi prema vodi krštenja, tako se pravo Kristovo tijelo odnosi prema prilikama kruha i vina. Stoga prilike kruha i vina ne proizvode ništa osim snagom pravoga Kristova tijela.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a1.ad3": {
+      "text": "Na treće treba reći da se sakrament tako naziva po tome što sadrži nešto sveto. A nešto može biti sveto na dva načina, naime apsolutno i u usmjerenosti prema drugome. A razlika je između Euharistije i drugih sakramenata koji imaju osjetnu tvar u tome što Euharistija sadrži nešto sveto apsolutno, naime samoga Krista, dok voda krštenja sadrži nešto sveto u usmjerenosti prema drugome, naime snagu za posvećivanje; i isto vrijedi za krizmu i slično. Zato se sakrament Euharistije ostvaruje u samoj posveti tvari, a drugi se sakramenti ostvaruju u primjeni tvari na čovjeka kojega treba posvetiti. I iz toga slijedi i druga razlika. Naime, u sakramentu Euharistije ono što je stvar i sakrament nalazi se u samoj tvari, a ono što je samo stvar, naime milost koja se podjeljuje, nalazi se u primatelju. A u krštenju je oboje u primatelju: i biljeg, koji je stvar i sakrament, i milost otpuštenja grijeha, koja je samo stvar. I isto vrijedi za druge sakramente.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Euharistija nije jedan sakrament, nego više njih. Naime, u zbornoj se molitvi kaže: *Neka nas očiste, molimo, Gospodine, sakramenti koje smo primili*, a to se kaže zbog primanja Euharistije. Dakle, Euharistija nije jedan sakrament, nego više njih.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a2.obj2": {
+      "text": "Osim toga, nemoguće je da se, kad se umnoži rod, ne umnoži vrsta, kao što je nemoguće da jedan čovjek bude više životinja. Ali znak je rod sakramenta, kako je gore rečeno. Budući, dakle, da u Euharistiji ima više znakova, naime znak kruha i znak vina, čini se da slijedi da ima više sakramenata.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a2.obj3": {
+      "text": "Osim toga, ovaj se sakrament ostvaruje u posveti tvari, kako je rečeno. Ali u ovom je sakramentu posveta tvari dvostruka. Dakle, i sakrament je dvostruk.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a2.sc": {
+      "text": "Ali protiv toga je što Apostol kaže u 1 Kor 10: *Mnogi smo jedan kruh i jedno tijelo, svi mi koji imamo udjela u jednom kruhu i jednom kaležu*. Iz toga je jasno da je Euharistija sakrament crkvenoga jedinstva. A sakrament nosi sličnost stvari čiji je sakrament. Dakle, Euharistija je jedan sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kako se kaže u 5. knjizi Metafizike, jednim ne naziva samo ono što je nedjeljivo ili što je neprekinuto, nego i ono što je savršeno, kao kad se kaže jedna kuća i jedan čovjek. A jedno je po savršenosti ono čijoj cjelovitosti pridonosi sve što se zahtijeva za njegovu svrhu; tako je čovjek cjelovit po svim udovima potrebnima za djelovanje duše, a kuća po dijelovima koji su potrebni za stanovanje. I tako se ovaj sakrament naziva jednim. Naime, usmjeren je prema duhovnom okrepljenju, koje je suobličeno tjelesnom. A za tjelesno se okrepljenje zahtijevaju dvije stvari, naime jelo, koje je suha hrana, i piće, koje je tekuća hrana. Zato i cjelovitosti ovoga sakramenta pridonose dvije stvari, naime duhovno jelo i duhovno piće, prema onome iz Iv 6: *Tijelo je moje uistinu jelo, i krv je moja uistinu piće*. Dakle, ovaj je sakrament tvarno doduše mnoštvo, ali formalno i po savršenosti jedno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u zbornoj molitvi o istome najprije kaže u množini: *Neka nas očiste sakramenti koje smo primili*, a zatim se u jednini dodaje: *Ovaj tvoj sakrament neka nam ne bude na podložnost kazni*, da bi se pokazalo da je ovaj sakrament na neki način mnoštvo, a naprosto jedno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a2.ad2": {
+      "text": "Na drugo treba reći da su kruh i vino tvarno doduše više znakova, ali formalno i po savršenosti jedan znak, ukoliko se od njih ostvaruje jedno okrepljenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a2.ad3": {
+      "text": "Na treće treba reći da se iz toga što je posveta ovoga sakramenta dvostruka ne može izvesti ništa više nego da je ovaj sakrament tvarno mnoštvo, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je ovaj sakrament nužan za spasenje. Naime, Gospodin kaže u Iv 6: *Ako ne budete jeli tijela Sina čovječjega i pili njegove krvi, nećete imati života u sebi*. Ali u ovom se sakramentu jede Kristovo tijelo i pije njegova krv. Dakle, bez ovoga sakramenta čovjek ne može imati spas duhovnoga života.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a3.obj2": {
+      "text": "Osim toga, ovaj je sakrament neka duhovna hrana. Ali tjelesna je hrana nužna za tjelesni spas. Dakle, i ovaj je sakrament nužan za duhovni spas.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a3.obj3": {
+      "text": "Osim toga, kao što je krštenje sakrament Gospodnje muke, bez koje nema spasenja, tako je i Euharistija; jer Apostol kaže u 1 Kor 11: *Kad god budete jeli ovaj kruh i pili kalež, navješćivat ćete smrt Gospodnju dok on ne dođe*. Dakle, kao što je krštenje nužno za spasenje, tako je i ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a3.sc": {
+      "text": "Ali protiv toga je što Augustin piše Bonifaciju, protiv pelagijanaca: *Ne mislite ni to da djeca koja nemaju udjela u tijelu i krvi Kristovoj ne mogu imati život*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a3.resp": {
+      "text": "Odgovaram: treba reći da u ovom sakramentu valja razmotriti dvoje, naime sam sakrament i stvar sakramenta. A rečeno je da je stvar sakramenta jedinstvo otajstvenoga tijela, bez kojega ne može biti spasenja; jer nikome nije otvoren pristup spasenju izvan Crkve, kao što ga ni u potopu nije bilo bez Noine korablje, koja označuje Crkvu, kako stoji u 1 Pt 3. A gore je rečeno da se stvar nekoga sakramenta može imati prije primanja sakramenta, iz same želje da se sakrament primi. Stoga prije primanja ovoga sakramenta čovjek može imati spasenje iz želje da primi ovaj sakrament, kao i prije krštenja iz želje za krštenjem, kako je gore rečeno. Ipak, postoji razlika glede dvoga. Prvo, jer je krštenje počelo duhovnoga života i vrata sakramenata, a Euharistija je kao dovršenje duhovnoga života i svrha svih sakramenata, kako je gore rečeno; naime, posvećenjima svih sakramenata zbiva se priprava za primanje ili posvećivanje Euharistije. Zato je primanje krštenja nužno da se započne duhovni život, a primanje Euharistije nužno je da se on dovrši, ne zato da bi se on naprosto imao, nego je dovoljno to primanje imati u želji, kao što se i svrha ima u želji i nakani. Druga je razlika u tome što se po krštenju čovjek usmjeruje prema Euharistiji. Zato su djeca, samim time što se krste, po Crkvi usmjerena prema Euharistiji. I tako, kao što vjeruju iz vjere Crkve, tako iz nakane Crkve žele Euharistiju, i posljedično primaju njezinu stvar. Ali prema krštenju nisu usmjerena po nekom drugom prethodnom sakramentu. Zato prije primanja krštenja djeca ni na koji način nemaju krštenje u želji, nego samo odrasli. Stoga ne mogu primiti stvar sakramenta bez primanja sakramenta. I zato ovaj sakrament nije na taj način nužan za spasenje kao krštenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Augustin tumačeći onu Ivanovu riječ, tom hranom i pićem, naime svojega tijela i krvi, *on hoće da se razumije zajedništvo tijela i njegovih udova, a to je Crkva, u njegovim predodređenim, pozvanim, opravdanim i proslavljenim svetima i vjernicima*. Stoga, kako on sam kaže u poslanici Bonifaciju, *nitko ne smije nimalo dvojiti da svaki od vjernika postaje dionikom tijela i krvi Gospodnje onda kad u krštenju postaje udom tijela Kristova, i da nije otuđen od zajedništva onoga kruha i kaleža, čak i ako ode s ovoga svijeta, postavljen u jedinstvu tijela Kristova, prije nego što pojede onaj kruh i popije kalež*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a3.ad2": {
+      "text": "Na drugo treba reći da je razlika između tjelesne i duhovne hrane u tome što se tjelesna hrana pretvara u supstanciju onoga koji se hrani, i zato tjelesna hrana ne može čovjeku koristiti za održanje života ako se stvarno ne uzme. Ali duhovna hrana pretvara čovjeka u sebe, prema onome što kaže Augustin u knjizi Ispovijesti, da je *kao da je čuo glas Krista koji govori: Nećeš ti mene promijeniti u sebe, kao hranu svoga tijela, nego ćeš se ti promijeniti u mene*. A netko se može promijeniti u Krista i pritjeloviti mu se željom duha, čak i bez primanja ovoga sakramenta. Zato nije slično.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a3.ad3": {
+      "text": "Na treće treba reći da je krštenje sakrament Kristove smrti i muke ukoliko se čovjek preporađa u Kristu snagom njegove muke. A Euharistija je sakrament Kristove muke ukoliko se čovjek usavršava u sjedinjenju s Kristom koji je pretrpio muku. Stoga, kao što se krštenje naziva sakramentom vjere, koja je temelj duhovnoga života, tako se Euharistija naziva sakramentom ljubavi, koja je sveza savršenosti, kako se kaže u Kol 3.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da se ovaj sakrament neprikladno naziva s više imena. Naime, imena trebaju odgovarati stvarima. Ali ovaj je sakrament jedan, kako je rečeno. Dakle, ne treba ga nazivati s više imena.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a4.obj2": {
+      "text": "Osim toga, vrsta se ne označuje prikladno onim što je zajedničko cijelom rodu. Ali Euharistija je sakrament Novoga zakona. A svim je sakramentima zajedničko to da se u njima podjeljuje milost, što označuje ime Euharistija, koje znači isto što i dobra milost. Također, svi nam sakramenti donose lijek na putu sadašnjega života, što pripada pojmu popudbine. Također se u svim sakramentima čini nešto sveto, što pripada pojmu žrtve. I po svim sakramentima vjernici imaju međusobno zajedništvo, što označuje ime sinaksa na grčkom, odnosno pričest (communio) na latinskom. Dakle, ova se imena ne pridaju prikladno ovom sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a4.obj3": {
+      "text": "Osim toga, čini se da je hostija isto što i žrtva. Kao što se, dakle, ovaj sakrament ne naziva u vlastitom smislu žrtvom, tako se ni u vlastitom smislu ne naziva hostijom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a4.sc": {
+      "text": "Ali protiv toga je ono što drži praksa vjernika.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a4.resp": {
+      "text": "Odgovaram: treba reći da ovaj sakrament ima trostruko značenje. Jedno s obzirom na prošlost, naime ukoliko je spomen Gospodnje muke, koja je bila prava žrtva, kako je gore rečeno. I po tome se naziva žrtvom. Drugo značenje ima s obzirom na sadašnju stvar, naime na crkveno jedinstvo, u koje se ljudi sabiru po ovom sakramentu. I po tome se naziva pričest (communio) ili sinaksa; naime, Damaščanin u 4. knjizi kaže da se *naziva pričest jer po njoj imamo zajedništvo s Kristom; i jer imamo udjela u njegovu tijelu i božanstvu; i jer po njoj imamo zajedništvo i sjedinjujemo se jedni s drugima*. Treće značenje ima s obzirom na budućnost, naime ukoliko ovaj sakrament unaprijed označuje uživanje Boga koje će biti u domovini. I po tome se naziva popudbina, jer nam pruža put da onamo stignemo. I po tome se također naziva Euharistija, to jest dobra milost, jer je *milost Božja vječni život*, kako se kaže u Rim 6; ili zato što stvarno sadrži Krista, koji je pun milosti. Naziva se također na grčkom metalepsa, to jest uzimanje, jer, kako kaže Damaščanin, *po njemu uzimamo Sinovo božanstvo*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da ništa ne priječi da se isto naziva s više imena prema različitim svojstvima ili učincima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a4.ad2": {
+      "text": "Na drugo treba reći da se ono što je zajedničko svim sakramentima pridaje ovome antonomastički, zbog njegove izvrsnosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a4.ad3": {
+      "text": "Na treće treba reći da se ovaj sakrament naziva žrtvom ukoliko predstavlja samu Kristovu muku. A naziva se hostijom ukoliko sadrži samoga Krista, koji je hostija ugodna mirisa, kako se kaže u Ef 5.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da ustanova ovoga sakramenta nije bila prikladna. Naime, kako kaže Filozof u 2. knjizi O nastajanju i propadanju, *hranimo se od onoga od čega jesmo*. Ali po krštenju, koje je duhovno preporođenje, primamo duhovni bitak, kako kaže Dionizije u 2. poglavlju O crkvenoj hijerarhiji. Dakle, po krštenju se i hranimo. Nije, dakle, bilo nužno ustanoviti ovaj sakrament kao duhovnu hranu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a5.obj2": {
+      "text": "Osim toga, po ovom se sakramentu ljudi sjedinjuju s Kristom kao udovi s Glavom. Ali Krist je Glava svih ljudi, i onih koji su bili od početka svijeta, kako je gore rečeno. Dakle, ustanova ovoga sakramenta nije se trebala odgađati do Gospodnje večere.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a5.obj3": {
+      "text": "Osim toga, za ovaj se sakrament kaže da je spomen Gospodnje muke, prema onome iz Mt 26: *Ovo činite meni na spomen*. Ali sjećanje se odnosi na prošlo. Dakle, ovaj sakrament nije trebao biti ustanovljen prije Kristove muke.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a5.obj4": {
+      "text": "Osim toga, po krštenju se netko usmjeruje prema Euharistiji, koja se smije davati samo krštenima. Ali krštenje je bilo ustanovljeno nakon Kristove muke i uskrsnuća, kako je jasno iz Mt 28. Dakle, ovaj je sakrament neprikladno bio ustanovljen prije Kristove muke.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a5.sc": {
+      "text": "Ali protiv toga je što je ovaj sakrament ustanovio Krist, o kojemu se kaže u Mk 7: *Sve je dobro učinio*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a5.resp": {
+      "text": "Odgovaram: treba reći da je ovaj sakrament prikladno ustanovljen na večeri, naime na onoj na kojoj je Krist posljednji put bio sa svojim učenicima. Prvo, zbog sadržaja ovoga sakramenta. Naime, sam je Krist sadržan u Euharistiji kao u sakramentu. Zato, kad je sam Krist u vlastitom liku imao otići od učenika, ostavio im je sebe u sakramentalnom liku, kao što se u odsutnosti cara izlaže njegova slika da joj se iskazuje štovanje. Stoga Euzebije kaže: *Budući da je uzeto tijelo imao ukloniti s očiju i odnijeti među zvijezde, bilo je nužno da na dan večere posveti za nas sakrament svoga tijela i krvi, da bi se po otajstvu neprestano štovalo ono što je jednom bilo prineseno kao otkupnina*. Drugo, jer bez vjere u Kristovu muku nikada nije moglo biti spasenja, prema onome iz Rim 3: *Njega je Bog postavio za pomiritelja po vjeri u njegovoj krvi*. Zato je trebalo da u svako vrijeme kod ljudi postoji nešto što predstavlja Gospodnju muku. U Starom je zavjetu glavni takav sakrament bilo pashalno janje; stoga i Apostol kaže u 1 Kor 5: *Naša je Pasha, Krist, žrtvovan*. A u Novom ga je zavjetu naslijedio sakrament Euharistije, koji je spomen prošle muke, kao što je i ono bilo predslika buduće. Zato je bilo prikladno da Krist, kad je muka bila blizu, pošto je proslavljen prijašnji sakrament, ustanovi novi sakrament, kako kaže papa Leon. Treće, jer se ono što se kaže posljednje, osobito od prijatelja koji odlaze, jače preporučuje pamćenju, ponajviše zato što se tada čuvstvo prema prijateljima jače razgori; a ono prema čemu smo jače čuvstveno nagnuti dublje se utiskuje u duh. Budući, dakle, da, kako kaže blaženi papa Aleksandar, *među žrtvama ne može biti ništa veće od tijela i krvi Kristove, niti je ijedan prinos vrjedniji od ovoga*, zato je Gospodin, da bi se ovaj sakrament držao u većem štovanju, ustanovio ga pri svojem posljednjem odlasku od učenika. I to je ono što kaže Augustin u knjizi Odgovora Januariju: *Spasitelj je, da bi snažnije preporučio uzvišenost onoga otajstva, htio da ono posljednje utisne u srca i pamćenje učenika, od kojih je imao otići na muku*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se hranimo od onoga od čega jesmo, ali nam to ne pristupa na isti način. Naime, ono od čega jesmo pristupa nam po rađanju, a isto to, ukoliko se time hranimo, pristupa nam po jedenju. Stoga, kao što se po krštenju preporađamo u Kristu, tako po Euharistiji blagujemo Krista.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a5.ad2": {
+      "text": "Na drugo treba reći da je Euharistija savršeni sakrament Gospodnje muke, jer sadrži samoga Krista koji je pretrpio muku. Zato nije mogla biti ustanovljena prije utjelovljenja, nego su tada imali mjesta sakramenti koji su bili samo predslike Gospodnje muke.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a5.ad3": {
+      "text": "Na treće treba reći da je onaj sakrament bio ustanovljen na večeri da bi ubuduće, kad se muka izvrši, bio spomen Gospodnje muke. Stoga znakovito kaže: *Ovo, kad god budete činili*, govoreći o budućnosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a5.ad4": {
+      "text": "Na četvrto treba reći da ustanova odgovara redu nakane. A sakrament Euharistije, premda je u primanju kasniji od krštenja, ipak je u nakani prvi. Zato je trebao biti prije ustanovljen. Ili se može reći da je krštenje bilo ustanovljeno već u samom Kristovu krštenju. Stoga su neki već bili kršteni samim Kristovim krštenjem, kako se čita u Iv 3.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da pashalno janje nije bilo glavna predslika ovoga sakramenta. Naime, za Krista se kaže da je svećenik po redu Melkisedekovu zato što je Melkisedek nosio predsliku Kristove žrtve, prinoseći kruh i vino. Ali izraženost sličnosti čini da se jedno imenuje po drugome. Dakle, čini se da je Melkisedekov prinos bio najodličnija predslika ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a6.obj2": {
+      "text": "Osim toga, prijelaz preko Crvenoga mora bio je predslika krštenja, prema onome iz 1 Kor 10: *Svi su kršteni u oblaku i u moru*. Ali žrtvovanje pashalnoga janjeta prethodilo je prijelazu preko Crvenoga mora, a za njim je slijedila mana, kao što Euharistija slijedi za krštenjem. Dakle, mana je izrazitija predslika ovoga sakramenta nego pashalno janje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a6.obj3": {
+      "text": "Osim toga, najodličnija snaga ovoga sakramenta jest u tome što nas uvodi u kraljevstvo nebesko, kao neka popudbina. Ali to je najviše bilo predslikano u sakramentu pomirenja, kad je *veliki svećenik ulazio jednom godišnje s krvlju u Svetinju nad svetinjama*, kako dokazuje Apostol u Heb 9. Dakle, čini se da je ona žrtva bila izrazitija predslika ovoga sakramenta nego pashalno janje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a6.sc": {
+      "text": "Ali protiv toga je što Apostol kaže u 1 Kor 5: *Naša je Pasha, Krist, žrtvovan. Zato svetkujmo s beskvasnim kruhovima iskrenosti i istine*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a6.resp": {
+      "text": "Odgovaram: treba reći da u ovom sakramentu možemo razmotriti troje: naime ono što je samo sakrament, to jest kruh i vino; ono što je stvar i sakrament, to jest pravo Kristovo tijelo; i ono što je samo stvar, to jest učinak ovoga sakramenta. Glede, dakle, onoga što je samo sakrament, najodličnija predslika ovoga sakramenta bio je prinos Melkisedeka, koji je prinio kruh i vino. A glede samoga Krista koji je pretrpio muku, a koji je sadržan u ovom sakramentu, njegove su predslike bile sve žrtve Staroga zavjeta, a osobito žrtva pomirenja, koja je bila najsvečanija. A glede učinka, njegova je glavna predslika bila mana, koja je *u sebi imala slast svakoga okusa*, kako se kaže u Mudr 16, kao što i milost ovoga sakramenta okrepljuje duh u svemu. Ali pashalno je janje unaprijed predslikovalo ovaj sakrament glede svega ovoga troga. Glede prvoga, jer se jelo s beskvasnim kruhovima, prema onome iz Izl 12: *Jest će meso i beskvasne kruhove*. Glede drugoga, jer ga je žrtvovalo sve mnoštvo sinova Izraelovih četrnaestoga dana mjeseca, što je bila predslika muke Krista, koji se zbog nedužnosti naziva janjetom. A glede učinka, jer su krvlju pashalnoga janjeta sinovi Izraelovi bili zaštićeni od anđela zatornika i izvedeni iz egipatskoga ropstva. I glede toga se pashalno janje postavlja kao glavna predslika ovoga sakramenta, jer ga predstavlja u svemu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q73.a6.adarg": {
+      "text": "I time je jasan odgovor na prigovore.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    }
+  }
+}

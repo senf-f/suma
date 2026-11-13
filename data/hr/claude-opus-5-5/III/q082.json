@@ -1,0 +1,504 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 82,
+  "units": {
+    "III.q82.pr": {
+      "text": "Zatim treba razmotriti služitelja ovoga sakramenta. I o tome se pita deset stvari. Prvo, je li posvećivati ovaj sakrament vlastito svećeniku. Drugo, mogu li više svećenika zajedno posvetiti istu hostiju. Treće, pripada li dijeljenje ovoga sakramenta samo svećeniku. Četvrto, je li svećeniku koji posvećuje dopušteno uzdržati se od pričesti. Peto, je li svećeniku dopušteno posve se uzdržati od slavljenja. Šesto, može li svećenik grešnik ostvariti ovaj sakrament. Sedmo, vrijedi li misa zloga svećenika manje od mise dobroga. Osmo, mogu li heretici, raskolnici ili izopćenici ostvariti ovaj sakrament. Deveto, mogu li to degradirani. Deseto, griješe li oni koji od takvih primaju pričest.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da posveta ovoga sakramenta nije u vlastitom smislu svećenikova. Gore je, naime, rečeno da se ovaj sakrament posvećuje snagom riječi koje su forma ovoga sakramenta. Ali te se riječi ne mijenjaju, izgovarao ih svećenik ili bilo tko drugi. Dakle, čini se da ne samo svećenik nego i bilo tko drugi može posvetiti ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a1.obj2": {
+      "text": "Osim toga, svećenik ostvaruje ovaj sakrament u Kristovoj osobi. Ali svet laik sjedinjen je s Kristom po ljubavi. Dakle, čini se da i laik može ostvariti ovaj sakrament. Stoga i Zlatousti kaže, u tumačenju Mateja, da je *svaki svetac svećenik*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a1.obj3": {
+      "text": "Osim toga, kao što je krštenje usmjereno prema spasenju ljudi, tako i ovaj sakrament, kako je očito iz gore rečenoga. Ali i laik može krstiti, kako je gore utvrđeno. Dakle, nije vlastito svećeniku ostvarivati ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a1.obj4": {
+      "text": "Osim toga, ovaj se sakrament dovršava u posveti tvari. Ali posvećivati druge tvari, naime krizmu, sveto ulje i blagoslovljeno ulje, pripada samo biskupu, premda njihova posveta nije tolikog dostojanstva kao posveta Euharistije, u kojoj je cijeli Krist. Dakle, ostvarivati ovaj sakrament nije vlastito svećeniku, nego samo biskupu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže Izidor u nekoj poslanici, a nalazi se u Dekretima, dist. 25: *prezbiteru pripada ostvarivati sakrament tijela i krvi Gospodnje na Božjem oltaru*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a1.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, ovaj sakrament tolikog dostojanstva da se ostvaruje samo u Kristovoj osobi. A tko god nešto čini u osobi drugoga, to mora biti po vlasti koju je onaj dao. Kao što se pak krštenome od Krista daje vlast primati ovaj sakrament, tako se svećeniku, kad se zaređuje, podjeljuje vlast posvećivati ovaj sakrament u Kristovoj osobi; time se, naime, postavlja u stupanj onih kojima je Gospodin rekao: *Ovo činite meni na spomen*. I zato treba reći da je vlastito svećenicima ostvarivati ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se sakramentalna snaga sastoji u više stvari, a ne samo u jednoj, kao što se snaga krštenja sastoji i u riječima i u vodi. Stoga se i posvetna snaga ne sastoji samo u samim riječima, nego i u vlasti predanoj svećeniku u njegovu posvećenju ili ređenju, kad mu biskup kaže: *Primi vlast prinositi žrtvu u Crkvi i za žive i za mrtve*. Jer se i oruđna snaga sastoji u više oruđa, po kojima djeluje glavni djelatnik.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a1.ad2": {
+      "text": "Na drugo treba reći da je pravedan laik sjedinjen s Kristom duhovnim sjedinjenjem po vjeri i ljubavi, a ne po sakramentalnoj vlasti. I zato ima duhovno svećeništvo za prinošenje duhovnih žrtava, o kojima se kaže u Psalmu: *Žrtva je Bogu duh skrušen*, i u Rim 12: *da prikažete svoja tijela kao živu žrtvu*. Stoga se i u 1 Pt 2 kaže: *sveto svećeništvo, da prinosi duhovne žrtve*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a1.ad3": {
+      "text": "Na treće treba reći da primanje ovoga sakramenta nije tolike nužnosti kao primanje krštenja, kako je očito iz gore rečenoga. I zato, premda laik u slučaju nužde može krstiti, ipak ne može ostvariti ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a1.ad4": {
+      "text": "Na četvrto treba reći da biskup prima vlast da djeluje u Kristovoj osobi nad njegovim otajstvenim tijelom, to jest nad Crkvom; tu vlast svećenik ne prima u svojem posvećenju, premda je može imati po biskupovu povjerenju. I zato ono što ne pripada uređivanju otajstvenoga tijela nije pridržano biskupu, kao što je posveta ovoga sakramenta. A biskupu pripada da ne samo narodu nego i svećenicima predaje ono čime se mogu služiti u vlastitim službama. I budući da blagoslov krizme, svetoga ulja i ulja bolesnika te drugih stvari koje se posvećuju, na primjer oltara, crkve, ruha i posuda, daje neku prikladnost za ostvarivanje sakramenata koji pripadaju službi svećenika, zato su takve posvete pridržane biskupu kao poglavaru cijeloga crkvenog reda.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da više svećenika ne može posvetiti jednu te istu hostiju. Gore je, naime, rečeno da više njih ne može krstiti jednoga. Ali snaga svećenika koji posvećuje nije manja od snage čovjeka koji krsti. Dakle, ni više njih ne može zajedno posvetiti jednu hostiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a2.obj2": {
+      "text": "Osim toga, što se može učiniti po jednome, suvišno se čini po mnogima. A u Kristovim sakramentima ništa ne smije biti suvišno. Budući, dakle, da je jedan dovoljan za posvećivanje, čini se da više njih ne može posvetiti jednu hostiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a2.obj3": {
+      "text": "Osim toga, kako kaže Augustin u tumačenju Ivana, ovaj je sakrament sakrament jedinstva. Ali čini se da je jedinstvu protivno mnoštvo. Dakle, ne čini se prikladnim za ovaj sakrament da više svećenika posvećuje istu hostiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a2.sc": {
+      "text": "Ali protiv toga je to što, prema običaju nekih Crkava, svećenici, kad su tek zaređeni, koncelebriraju s biskupom koji ih zaređuje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a2.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, svećenik, kad se zaređuje, postavljen u stupanj onih koji su od Gospodina na večeri primili vlast posvećivanja. I zato, prema običaju nekih Crkava, kao što su apostoli večerali zajedno s Kristom dok je on večerao, tako novozaređeni koncelebriraju s biskupom koji ih zaređuje. Time se ne ponavlja posveta nad istom hostijom, jer, kako kaže Inocent III., nakana svih mora biti usmjerena na isti trenutak posvete.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ne čita da je Krist krstio zajedno s apostolima kad im je povjerio službu krštavanja. I zato razlog nije isti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a2.ad2": {
+      "text": "Na drugo treba reći da bi, kad bi svaki od svećenika djelovao vlastitom snagom, ostali slavitelji bili suvišni, jer bi jedan dovoljno slavio. Ali budući da svećenik posvećuje samo u Kristovoj osobi, a mnogi su jedno u Kristu, zato nije važno posvećuje li se ovaj sakrament po jednome ili po mnogima, osim što treba obdržavati obred Crkve.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a2.ad3": {
+      "text": "Na treće treba reći da je Euharistija sakrament crkvenoga jedinstva, koje se sastoji u tome što su mnogi jedno u Kristu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da dijeljenje ovoga sakramenta ne pripada samo svećeniku. Kristova krv, naime, ne pripada ovom sakramentu manje nego tijelo. Ali Kristovu krv dijele đakoni; stoga je i blaženi Lovro rekao blaženom Sikstu: *Iskušaj jesi li izabrao prikladnog služitelja, kojemu si povjerio dijeljenje Gospodnje krvi*. Dakle, s istoga razloga dijeljenje Gospodnjega tijela ne pripada samo svećenicima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a3.obj2": {
+      "text": "Osim toga, svećenici su postavljeni za služitelje sakramenata. Ali ovaj se sakrament dovršava u posveti tvari, a ne u uporabi, kojoj pripada dijeljenje. Dakle, čini se da ne pripada svećeniku dijeliti Gospodnje tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a3.obj3": {
+      "text": "Osim toga, Dionizije kaže u knjizi O crkvenoj hijerarhiji da ovaj sakrament ima usavršavajuću snagu, kao i krizma. Ali označivati krštenike krizmom ne pripada svećeniku, nego biskupu. Dakle, i dijeliti ovaj sakrament pripada biskupu, a ne svećeniku.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Dekretima, O posveti, dist. 2: *Doprlo je do našega znanja da neki prezbiteri predaju tijelo Gospodnje laiku ili ženi da ga odnesu bolesnicima. Zato sinoda zabranjuje da se takva preuzetnost ubuduće čini, nego neka prezbiter sam osobno pričešćuje bolesnike*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a3.resp": {
+      "text": "Odgovaram: treba reći da dijeljenje Kristova tijela pripada svećeniku iz triju razloga. Prvo, zato što on, kako je rečeno, posvećuje u Kristovoj osobi. A sam je Krist, kao što je na večeri posvetio svoje tijelo, tako ga i dao drugima da ga primaju. Stoga, kao što svećeniku pripada posveta Kristova tijela, tako mu pripada i dijeljenje. Drugo, zato što je svećenik postavljen u sredinu između Boga i naroda. Stoga, kao što njemu pripada prinositi Bogu darove naroda, tako mu pripada i predavati narodu darove koje je Bog posvetio. Treće, zato što ovoga sakramenta, iz poštovanja prema njemu, ne dotiče ništa osim onoga što je posvećeno; stoga se posvećuju i korporal i kalež, a slično i svećenikove ruke, za dodirivanje ovoga sakramenta. Stoga ga nikome drugome nije dopušteno dodirivati, osim u nuždi, na primjer kad bi pao na zemlju, ili u kojem drugom slučaju nužde.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da đakon, kao onaj koji je blizu svećeničkom redu, ima nešto udjela u njegovoj službi, naime da dijeli krv, ali ne tijelo, osim u nuždi, po nalogu biskupa ili prezbitera. Prvo, zato što se Kristova krv sadrži u posudi. Stoga nije potrebno da je dodiruje onaj tko je dijeli, kao što se dodiruje Kristovo tijelo. Drugo, zato što krv označuje otkupljenje koje se od Krista izlilo na narod; stoga se i krvi primiješa voda, koja označuje narod. I budući da su đakoni između svećenika i naroda, đakonima više pristaje dijeljenje krvi nego dijeljenje tijela.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a3.ad2": {
+      "text": "Na drugo treba reći da istomu pripada i dijeliti i posvećivati ovaj sakrament, iz već rečenog razloga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a3.ad3": {
+      "text": "Na treće treba reći da, kao što đakon u nečemu ima udjela u prosvjetljujućoj snazi svećenika, ukoliko dijeli krv, tako svećenik ima udjela u usavršavajućem dijeljenju biskupa, ukoliko dijeli ovaj sakrament, kojim se čovjek usavršava u sebi samome po sjedinjenju s Kristom. A ostala usavršavanja, kojima se čovjek usavršava u odnosu prema drugima, pridržana su biskupu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da svećenik koji posvećuje nije dužan primiti ovaj sakrament. U drugim posvetama, naime, onaj koji posvećuje tvar ne služi se njome; tako se biskup koji posvećuje krizmu ne maže njome. Ali ovaj se sakrament sastoji u posveti tvari. Dakle, svećenik koji ostvaruje ovaj sakrament ne mora se njime služiti, nego se može dopušteno uzdržati od njegova primanja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a4.obj2": {
+      "text": "Osim toga, u drugim sakramentima služitelj ne podjeljuje sakrament samom sebi; nitko, naime, ne može krstiti samoga sebe, kako je gore utvrđeno. Ali kao što se krštenje dijeli po redu, tako i ovaj sakrament. Dakle, svećenik koji ostvaruje ovaj sakrament ne smije ga primati sam od sebe.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a4.obj3": {
+      "text": "Osim toga, događa se katkad da se Kristovo tijelo na oltaru čudesno pojavi pod prilikom mesa, a krv pod prilikom krvi. A to nije prikladno za jelo ili piće; stoga se, kako je gore rečeno, zbog toga i predaju pod drugom prilikom, da ne bi izazivali gnušanje u onima koji ih primaju. Dakle, svećenik koji posvećuje nije uvijek dužan primiti ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a4.sc": {
+      "text": "Ali protiv toga je ono što se čita na Toledskom saboru, a nalazi se u Dekretima, O posveti, dist. 2, pogl. Relatum: *Treba se na svaki način držati toga da, koliko god puta onaj koji prinosi žrtvu žrtvuje na oltaru tijelo i krv Gospodina našega Isusa Krista, toliko se puta učini dionikom primanjem tijela i krvi*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a4.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, Euharistija nije samo sakrament, nego i žrtva. A tko god prinosi žrtvu, mora postati dionikom žrtve. Jer vanjska žrtva koju prinosi znak je unutarnje žrtve kojom netko prinosi samoga sebe Bogu, kako kaže Augustin u X. knjizi O Božjem gradu. Stoga time što ima udjela u žrtvi pokazuje da unutarnja žrtva pripada njemu. Slično i time što žrtvu dijeli narodu pokazuje da je on djelitelj božanskih stvari narodu, kojih on sam mora prvi biti dionik, kako kaže Dionizije u knjizi O crkvenoj hijerarhiji. I zato on mora primiti prije nego što podijeli narodu. Stoga se u spomenutom poglavlju čita: *Kakva je to žrtva u kojoj se ni sam onaj koji žrtvuje ne pokazuje dionikom?* A dionikom postaje time što uzima od žrtve, prema onome Apostolovu iz 1 Kor 10: *Nisu li oni koji jedu žrtve dionici oltara?* I zato je nužno da svećenik, koliko god puta posvećuje, primi ovaj sakrament cjelovito.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da posveta krizme ili bilo koje druge tvari nije žrtva, kao što je posveta Euharistije. I zato razlog nije isti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a4.ad2": {
+      "text": "Na drugo treba reći da se sakrament krštenja dovršava u samoj uporabi tvari. I zato nitko ne može krstiti samoga sebe, jer u sakramentu ne može isti biti onaj koji djeluje i onaj koji trpi. Stoga ni u ovom sakramentu svećenik ne posvećuje samoga sebe, nego kruh i vino, a u toj se posveti ostvaruje ovaj sakrament. A uporaba sakramenta dolazi kao posljedica ovoga sakramenta. I zato nije slično.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a4.ad3": {
+      "text": "Na treće treba reći da, ako se Kristovo tijelo čudesno pojavi na oltaru pod prilikom mesa ili krv pod prilikom krvi, ne treba ga primiti. Jeronim, naime, kaže u tumačenju Levitskoga zakonika: *Od ove žrtve, doduše, koja se čudesno čini na Kristov spomen; a od one koju je Krist prinio na žrtveniku križa po sebi samoj nikome nije dopušteno jesti*. Zbog toga svećenik ne postaje prekršitelj, jer ono što se događa čudesno nije podložno zakonima. Ipak, svećeniku bi trebalo savjetovati da ponovno posveti i primi tijelo i krv Gospodnju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da zao svećenik ne može posvetiti Euharistiju. Jeronim, naime, kaže u tumačenju Sofonije: *Svećenici koji služe Euharistiji i dijele krv Gospodnju bezbožno postupaju protiv Kristova zakona, misleći da Euharistiju čine riječi onoga koji moli, a ne život, i da je nužna svečana molitva, a ne zasluge svećenika. O njima se kaže: Svećenik na kojem bude ljage neka ne pristupa prinositi prinose Gospodinu*. Ali svećenik grešnik, budući da je okaljan, nema ni života ni zasluga koje pristaju ovom sakramentu. Dakle, svećenik grešnik ne može posvetiti Euharistiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a5.obj2": {
+      "text": "Osim toga, Damaščanin kaže u IV. knjizi da *kruh i vino dolaskom Duha Svetoga nadnaravno prelaze u tijelo i krv Gospodnju*. Ali papa Gelazije kaže, a nalazi se u Dekretima, I, pit. 1, pogl. Sacrosancta: *Kako će zazvani nebeski Duh doći na posvetu božanskoga otajstva ako se pokaže da je svećenik koji ga moli da bude prisutan pun zločinačkih djela?* Dakle, po zlom svećeniku ne može se posvetiti Euharistija.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a5.obj3": {
+      "text": "Osim toga, ovaj se sakrament posvećuje svećenikovim blagoslovom. Ali blagoslov svećenika grešnika nije djelotvoran za posvetu ovoga sakramenta, budući da je pisano: *Prokleti ću vaše blagoslove*. I Dionizije kaže u poslanici monahu Demofilu: *Posve je otpao od svećeničkoga reda onaj koji nije prosvijetljen; i čini mi se da je takav doista drzak kad stavlja ruku na svećeničke stvari; i usuđuje se nečiste sramote, jer ih neću nazvati molitvama, nad božanskim simbolima kristoliko izgovarati*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u knjizi O tijelu Gospodnjem: *Unutar Katoličke Crkve, u otajstvu tijela i krvi Gospodnje, ništa se po dobrom svećeniku ne ostvaruje više, ništa po zlom manje, jer se ne ostvaruje po zasluzi onoga koji posvećuje, nego po riječi Stvoritelja i po snazi Duha Svetoga*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a5.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, svećenik posvećuje ovaj sakrament ne vlastitom snagom, nego kao Kristov služitelj, u čijoj osobi posvećuje ovaj sakrament. A netko ne prestaje biti Kristov služitelj time što je zao; Gospodin, naime, ima dobre i zle služitelje ili sluge. Stoga u Mt 24 Gospodin kaže: *Tko je, misliš, vjeran i razborit sluga* itd.; i zatim dodaje: *Ako li onaj zli sluga reče u srcu svojem* i tako dalje. I Apostol kaže u 1 Kor 4: *Tako neka nas čovjek smatra kao Kristove služitelje*, a ipak zatim dodaje: *Ničega nisam svjestan, ali time nisam opravdan*. Bio je, dakle, siguran da je Kristov služitelj, ali nije bio siguran da je pravedan. Netko, dakle, može biti Kristov služitelj i ako nije pravedan. I to pripada Kristovoj uzvišenosti, kojemu, kao pravom Bogu, služi ne samo dobro nego i zlo, koje se njegovom providnošću usmjeruje na njegovu slavu. Stoga je očito da svećenici, i ako nisu pravedni, nego grešnici, mogu posvetiti Euharistiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da Jeronim tim riječima osuđuje zabludu svećenika koji su vjerovali da mogu dostojno posvetiti Euharistiju samo zato što su svećenici, i ako su grešnici. To Jeronim osuđuje time što se okaljanima zabranjuje pristupati oltaru. Ali se time ne isključuje da ono što prinose, ako pristupe, bude prava žrtva.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a5.ad2": {
+      "text": "Na drugo treba reći da papa Gelazije pred te riječi stavlja: *Presveta religija, koja sadrži katoličku stegu, traži za sebe toliko poštovanje da joj se nitko ne usudi pristupiti osim s čistom savješću*. Iz toga se jasno vidi da mu je nakana da svećenik grešnik ne smije pristupati ovom sakramentu. Stoga ono što dodaje: *Kako će doći prizvani nebeski Duh*, treba shvatiti tako da on ne dolazi po zasluzi svećenika, nego po snazi Krista, čije riječi svećenik izgovara.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a5.ad3": {
+      "text": "Na treće treba reći da, kao što ista radnja, ukoliko proizlazi iz izopačene nakane sluge, može biti zla, a dobra ukoliko proizlazi iz dobre nakane gospodara, tako je blagoslov svećenika grešnika, ukoliko ga on nedostojno daje, dostojan prokletstva i smatra se gotovo sramotom ili bogohulstvom, a ne molitvom; a ukoliko se izgovara u Kristovoj osobi, svet je i djelotvoran. Stoga se znakovito kaže: *Prokleti ću vaše blagoslove*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da misa zloga svećenika ne vrijedi manje od mise dobroga svećenika. Grgur, naime, kaže u Registru: *Jao, u kako veliku zamku upadaju oni koji vjeruju da božanska i skrivena otajstva mogu biti više posvećena od jednih nego od drugih, kad ih jedan te isti Duh Sveti, djelujući skriveno i nevidljivo, posvećuje*. A ta se skrivena otajstva slave u misi. Dakle, misa zloga svećenika ne vrijedi manje od mise dobroga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a6.obj2": {
+      "text": "Osim toga, kao što služitelj podjeljuje krštenje snagom Krista, koji krsti, tako i ovaj sakrament, koji se posvećuje u Kristovoj osobi. Ali bolji služitelj ne daje bolje krštenje, kako je gore utvrđeno. Dakle, ni misa koju slavi bolji svećenik nije bolja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a6.obj3": {
+      "text": "Osim toga, kao što se zasluge svećenikā razlikuju po dobrom i boljem, tako se razlikuju i po dobrom i zlom. Ako je, dakle, misa boljega svećenika bolja, slijedi da je misa zloga svećenika zla. A to je neprikladno, jer se zloća služitelja ne može preliti na Kristova otajstva, kako kaže Augustin u knjizi O krštenju. Dakle, ni misa boljega svećenika nije bolja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a6.sc": {
+      "text": "Ali protiv toga je ono što stoji u Dekretima, I, pit. 1: *Što su svećenici dostojniji, to se lakše uslišavaju u potrebama za koje vape*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a6.resp": {
+      "text": "Odgovaram: treba reći da u misi treba razmotriti dvoje: sam sakrament, koji je glavno, i molitve koje se u misi izriču za žive i mrtve. Što se, dakle, tiče sakramenta, misa zloga svećenika ne vrijedi manje od mise dobroga, jer se i u jednom i u drugom slučaju ostvaruje isti sakrament. A i molitva koja se izriče u misi može se razmatrati dvojako. Na jedan način, ukoliko ima djelotvornost iz predanosti svećenika koji moli. I tako nema sumnje da je misa boljega svećenika plodonosnija. Na drugi način, ukoliko molitvu u misi izgovara svećenik u osobi cijele Crkve, kojoj je svećenik služitelj. A ta služba ostaje i u grešnicima, kao što je gore rečeno o služenju Kristu. Stoga je u tom pogledu plodonosna ne samo molitva svećenika grešnika u misi nego i sve druge njegove molitve koje izriče u crkvenim službama, u kojima nastupa u osobi Crkve. Ali njegove privatne molitve nisu plodonosne, prema onome iz Izr 28: *Tko okreće uho svoje da ne čuje zakona, molitva će mu biti gnusna*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da Grgur ondje govori o svetosti božanskoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a6.ad2": {
+      "text": "Na drugo treba reći da se u sakramentu krštenja ne izriču svečane molitve za sve vjernike kao u misi. I zato u tom pogledu nije slično. Ali slično je glede učinka sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a6.ad3": {
+      "text": "Na treće treba reći da se po snazi Duha Svetoga, koji po jedinstvu ljubavi čini da su dobra Kristovih udova međusobno zajednička, događa da privatno dobro koje je u misi dobroga svećenika bude plodonosno drugima. A privatno zlo jednoga čovjeka ne može naškoditi drugome, osim po nekom pristanku, kako kaže Augustin u knjizi Protiv Parmenijana.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da heretici, raskolnici i izopćenici ne mogu posvećivati. Augustin, naime, kaže da *izvan Katoličke Crkve nema mjesta pravoj žrtvi*. I papa Leon kaže, a nalazi se u Dekretima, I, pit. 1: drukčije (to jest nego u Crkvi, koja je Kristovo tijelo) *nisu valjana svećeništva ni prave žrtve*. Ali heretici, raskolnici i izopćenici odvojeni su od Crkve. Dakle, ne mogu ostvariti pravu žrtvu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a7.obj2": {
+      "text": "Osim toga, kako se ondje čita, papa Inocent kaže: *Što se tiče arijanaca i ostalih takvih kuga, budući da njihove laike primamo pod vidom pokore, ne čini se da njihovi klerici imaju dostojanstvo svećeništva ili kojega drugog otajstva koje bi primili, jer njima dopuštamo da je valjano samo krštenje*. Ali nitko ne može posvetiti Euharistiju ako nema dostojanstva svećeništva. Dakle, heretici i ostali takvi ne mogu ostvariti Euharistiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a7.obj3": {
+      "text": "Osim toga, ne čini se da onaj koji je izvan Crkve može išta činiti u osobi cijele Crkve. Ali svećenik koji posvećuje Euharistiju to čini u osobi cijele Crkve, što je očito iz toga što sve molitve iznosi u osobi Crkve. Dakle, čini se da oni koji su izvan Crkve, naime heretici, raskolnici i izopćenici, ne mogu posvetiti Euharistiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u II. knjizi Protiv Parmenijana: kao što je u njima, naime u hereticima, raskolnicima i izopćenicima, ostalo cjelovito krštenje, tako je ostalo cjelovito i ređenje. Ali snagom ređenja svećenik može posvetiti Euharistiju. Dakle, čini se da heretici, raskolnici i izopćenici, budući da u njima ostaje cjelovito ređenje, mogu posvetiti Euharistiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a7.resp": {
+      "text": "Odgovaram: treba reći da su neki rekli kako heretici, raskolnici i izopćenici, budući da su izvan Crkve, ne mogu ostvariti ovaj sakrament. Ali u tome se varaju. Jer, kako kaže Augustin u II. knjizi Protiv Parmenijana, *jedno je nešto uopće nemati, a drugo nemati na ispravan način; i slično, jedno je ne davati, a drugo ne davati na ispravan način*. Oni, dakle, koji su, postavljeni unutar Crkve, primili vlast posvećivanja u svećeničkom ređenju, imaju doduše vlast na ispravan način, ali se njome ne služe na ispravan način ako se poslije herezom, raskolom ili izopćenjem odvoje od Crkve. A oni koji se zaređuju kad su tako odvojeni niti imaju vlast na ispravan način niti se njome služe na ispravan način. A da i jedni i drugi imaju vlast, očito je po tome što, kako ondje kaže Augustin, kad se vrate u jedinstvo Crkve, ne zaređuju se ponovno, nego se primaju u svojim redovima. I budući da je posveta Euharistije čin koji proizlazi iz vlasti reda, oni koji su od Crkve odvojeni herezom, raskolom ili izopćenjem mogu doduše posvetiti Euharistiju, koja, kad je oni posvete, sadrži pravo Kristovo tijelo i krv; ali to ne čine ispravno, nego čineći to griješe. I zato ne primaju plod žrtve, a to je duhovna žrtva.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj autoritet i slični treba shvatiti u tom smislu da se izvan Crkve žrtva ne prinosi na ispravan način. Stoga izvan Crkve ne može biti duhovne žrtve, koja je prava istinitošću ploda, premda je ondje prava istinitošću sakramenta; kao što je i gore rečeno da grešnik prima Kristovo tijelo sakramentalno, ali ne duhovno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a7.ad2": {
+      "text": "Na drugo treba reći da se samo krštenju dopušta da bude valjano kod heretika i raskolnika, jer oni mogu dopušteno krstiti u slučaju nužde. A ni u kojem slučaju ne mogu dopušteno posvetiti Euharistiju ili podjeljivati druge sakramente.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a7.ad3": {
+      "text": "Na treće treba reći da svećenik u misi u molitvama doduše govori u osobi Crkve, u čijem jedinstvu postoji. Ali u posveti sakramenta govori u Kristovoj osobi, čije mjesto u tome zauzima po vlasti reda. I zato, ako svećenik odsječen od jedinstva Crkve slavi misu, budući da ne gubi vlast reda, posvećuje pravo Kristovo tijelo i krv; ali budući da je odvojen od jedinstva Crkve, njegove molitve nemaju djelotvornosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da degradirani svećenik ne može ostvariti ovaj sakrament. Nitko, naime, ne ostvaruje ovaj sakrament osim po vlasti posvećivanja koju ima. *Ali degradirani nema vlasti posvećivanja, premda ima vlast krštavanja*, kako kaže kanon. Dakle, čini se da degradirani prezbiter ne može posvetiti Euharistiju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a8.obj2": {
+      "text": "Osim toga, onaj koji nešto daje može i oduzeti. Ali biskup daje prezbiteru vlast posvećivanja zaređujući ga. Dakle, može mu je i oduzeti degradirajući ga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a8.obj3": {
+      "text": "Osim toga, svećenik degradacijom gubi ili vlast posvećivanja ili samo njezino izvršavanje. Ali ne samo izvršavanje, jer tako degradirani ne bi gubio više nego izopćenik, koji je lišen izvršavanja. Dakle, čini se da gubi vlast posvećivanja. I tako se čini da ne može ostvariti ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a8.sc": {
+      "text": "Ali protiv toga je to što Augustin u II. knjizi Protiv Parmenijana dokazuje da otpadnici od vjere nisu lišeni krštenja time što se *onima koji se vraćaju po pokori ono ne vraća ponovno, i zato se sudi da se ne može izgubiti*. Ali slično ni degradiranoga, ako se pomiri, ne treba ponovno zarediti. Dakle, nije izgubio vlast posvećivanja. I tako degradirani svećenik može ostvariti ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a8.resp": {
+      "text": "Odgovaram: treba reći da vlast posvećivanja Euharistije pripada biljegu svećeničkoga reda. A svaki je biljeg, budući da se daje s nekom posvetom, neizbrisiv, kako je gore rečeno, kao što su i posvete bilo kojih stvari trajne te se ne mogu ni izgubiti ni ponoviti. Stoga je očito da se vlast posvećivanja ne gubi degradacijom. Augustin, naime, kaže u II. knjizi Protiv Parmenijana da je i jedno i drugo, naime krštenje i red, sakrament, *i oboje se daje čovjeku nekom posvetom: ono kad se krsti, a ovo kad se zaređuje. Zato katolicima nije dopušteno ni jedno ni drugo ponavljati*. I tako je očito da degradirani svećenik može ostvariti ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj kanon ne govori tvrdeći, nego pitajući, kako se može razabrati iz okolnoga teksta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a8.ad2": {
+      "text": "Na drugo treba reći da biskup ne daje vlast svećeničkoga reda vlastitom snagom, nego kao oruđe, kao Božji služitelj, čiji učinak čovjek ne može ukloniti, prema onome iz Mt 19: *Koje je Bog združio, čovjek neka ne rastavlja*. I zato biskup ne može oduzeti tu vlast, kao što ni onaj koji krsti ne može oduzeti krsni biljeg.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a8.ad3": {
+      "text": "Na treće treba reći da je izopćenje ljekovito. I zato se izopćenicima izvršavanje svećeničke vlasti ne oduzima kao zauvijek, nego radi popravka, do nekog vremena. A degradiranima se izvršavanje oduzima kao onima koji su osuđeni zauvijek.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da netko može dopušteno primiti pričest od svećenika heretika ili izopćenika, ili čak grešnika, i od njih slušati misu. Kao što, naime, kaže Augustin Protiv Petilijana: *Neka nitko ni u dobru ni u zlu čovjeku ne bježi od Božjih sakramenata*. Ali svećenici, premda su grešnici i heretici ili izopćenici, ostvaruju pravi sakrament. Dakle, čini se da ne treba izbjegavati primanje pričesti od njih ili slušanje njihove mise.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a9.obj2": {
+      "text": "Osim toga, pravo Kristovo tijelo predslikuje otajstveno tijelo, kako je gore rečeno. Ali spomenuti svećenici posvećuju pravo Kristovo tijelo. Dakle, čini se da oni koji pripadaju otajstvenom tijelu mogu sudjelovati u njihovim žrtvama.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a9.obj3": {
+      "text": "Osim toga, mnogi su grijesi teži od bluda. Ali nije zabranjeno slušati mise svećenika koji griješe na drugi način. Dakle, ne bi trebalo biti zabranjeno ni slušati mise svećenika bludnika.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a9.sc": {
+      "text": "Ali protiv toga je ono što kaže kanon, dist. 32: *Neka nitko ne sluša misu svećenika za kojega nedvojbeno zna da ima priležnicu*. I Grgur kaže u III. knjizi Dijaloga da je *nevjerni otac poslao sinu arijanskoga biskupa, da iz njegove ruke primi pričest svetogrdne posvete; ali je muž predan Bogu prekorio arijanskoga biskupa kad je došao, kako je i trebalo*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a9.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, svećenici, ako su heretici ili raskolnici ili izopćenici, ili čak grešnici, premda imaju vlast posvećivati Euharistiju, ipak se njome ne služe ispravno, nego služeći se njome griješe. A tko god s nekim ima zajedništvo u grijehu, sam postaje dionik grijeha; stoga se i u drugoj kanonskoj Ivanovoj poslanici čita da onaj tko mu kaže „Zdravo“, naime heretiku, *ima udjela u njegovim zlim djelima*. I zato nije dopušteno od spomenutih primati pričest ili slušati njihovu misu. Ipak, postoji razlika među spomenutim skupinama. Heretici, naime, i raskolnici i izopćenici presudom su Crkve lišeni izvršavanja posvećivanja. I zato griješi tko god sluša njihovu misu ili od njih prima sakramente. Ali nisu svi grešnici presudom Crkve lišeni izvršavanja ove vlasti. I tako, premda su suspendirani što se tiče Božje presude, ipak nisu u odnosu prema drugima po presudi Crkve. I zato je, sve do presude Crkve, dopušteno od njih primati pričest i slušati njihovu misu. Stoga na ono iz 1 Kor 5, *s takvim ni ne jesti*, Augustinova Glosa kaže: *Govoreći to, nije htio da čovjek čovjeku sudi na temelju proizvoljne sumnje, ili čak izvanrednim prisvojenim sudom, nego radije prema Božjem zakonu, po redu Crkve, bilo da je on sam dobrovoljno priznao, bilo da je optužen i proglašen krivim*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da time što izbjegavamo slušati misu takvih svećenika ili od njih primati pričest ne bježimo od Božjih sakramenata, nego ih radije častimo; stoga se hostiji koju su posvetili takvi svećenici treba klanjati i, ako se sačuva, može je dopušteno primiti zakoniti svećenik. Ali izbjegavamo krivnju onih koji nedostojno služe.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a9.ad2": {
+      "text": "Na drugo treba reći da je jedinstvo otajstvenoga tijela plod primljenoga pravog tijela. A oni koji nedostojno primaju ili podjeljuju lišeni su ploda, kako je gore rečeno. I zato oni koji su u jedinstvu Crkve ne smiju primati sakrament iz njihova dijeljenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a9.ad3": {
+      "text": "Na treće treba reći da, premda blud nije teži od ostalih grijeha, ljudi su ipak skloniji njemu zbog požude tijela. I zato je Crkva posebno zabranila svećenicima taj grijeh, tako da nitko ne smije slušati misu svećenika koji živi s priležnicom. Ali to treba shvatiti o javno poznatom grijehu, bilo po presudi izrečenoj protiv onoga koji je proglašen krivim, bilo po priznanju danom pred sudom, bilo kad se grijeh ne može prikriti nikakvim izmotavanjem.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da je svećeniku dopušteno posve se uzdržati od posvete Euharistije. Jer kao što svećeničkoj službi pripada posvećivati Euharistiju, tako joj pripada i krstiti i podjeljivati ostale sakramente. Ali svećenik nije dužan podjeljivati ostale sakramente osim zbog preuzete brige za duše. Dakle, čini se da nije dužan ni posvećivati Euharistiju ako nema brigu za duše.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a10.obj2": {
+      "text": "Osim toga, nitko nije dužan činiti ono što mu nije dopušteno; inače bi bio u bezizlaznom položaju. Ali svećeniku grešniku, ili čak izopćenome, nije dopušteno posvećivati Euharistiju, kao što je jasno iz onoga što je gore rečeno. Dakle, čini se da takvi nisu dužni slaviti misu. A tako ni drugi, jer bi inače oni prvi iz svoje krivnje izvukli korist.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a10.obj3": {
+      "text": "Osim toga, svećeničko se dostojanstvo ne gubi zbog naknadne slabosti. Papa Gelazije, naime, kaže, a nalazi se u Dekretima, dist. 55: *kao što kanonski propisi ne dopuštaju da u svećeništvo dođu oni koji su slabi tijelom, tako, ako je tko u nj postavljen pa je tada ranjen, ne može izgubiti ono što je primio u vrijeme svoje neoštećenosti*. Događa se pak katkada da oni koji su zaređeni za svećenike zapadnu u neke nedostatke koji ih priječe u slavljenju, kao što je guba, padavica ili nešto takvo. Dakle, ne čini se da su svećenici dužni slaviti misu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a10.sc": {
+      "text": "Ali protiv toga jest ono što Ambrozije kaže u jednoj molitvi: *teško je što tvome stolu ne pristupamo čista srca i nevinih ruku, ali je teže ako, dok se bojimo grijeha, ne prinesemo ni žrtvu*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a10.resp": {
+      "text": "Odgovaram: treba reći da su neki rekli da se svećenik može posve dopušteno uzdržati od posvete, osim ako je zbog brige koja mu je povjerena dužan slaviti misu za narod i dijeliti sakramente. Ali to se kaže nerazumno. Jer svatko je dužan služiti se milošću koja mu je dana kad je to prikladno, prema onome iz 2 Kor 6: *opominjemo vas da ne primate uzalud milosti Božje*. A prikladnost za prinošenje žrtve ne prosuđuje se samo s obzirom na Kristove vjernike, kojima treba podjeljivati sakramente, nego ponajprije s obzirom na Boga, kojemu se u posveti ovoga sakramenta prinosi žrtva. Stoga svećeniku, čak i ako nema brigu za duše, nije dopušteno posve prestati slaviti misu, nego se čini da je dužan slaviti barem na glavne blagdane, a osobito u one dane u koje se vjernici obično pričešćuju. I zato se u 2 Mak 4 kaže protiv nekih svećenika da *više nisu bili posvećeni službama oko oltara, nego su prezreli Hram i zanemarili žrtve*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ostali sakramenti dovršavaju u uporabi vjernika. I zato ih je dužan podjeljivati samo onaj koji preuzme brigu nad vjernicima. Ali ovaj se sakrament dovršava u posveti Euharistije, u kojoj se Bogu prinosi žrtva, na što je svećenik obvezan po redu koji je već primio.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a10.ad2": {
+      "text": "Na drugo treba reći da je svećenik grešnik, ako je presudom Crkve lišen vršenja reda, bilo naprosto bilo na neko vrijeme, postao nesposoban za prinošenje žrtve, i zato se obveza ukida. To mu pak više ide na štetu duhovnoga ploda nego na korist. Ako pak nije lišen vlasti slavljenja, obveza se ne ukida. Ipak, nije u bezizlaznom položaju, jer se može kajati za grijeh i slaviti misu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q82.a10.ad3": {
+      "text": "Na treće treba reći da slabost ili bolest koja nastupi nakon svećeničkoga reda ne ukida red, ali priječi vršenje reda što se tiče posvete Euharistije. Katkada, doduše, zbog nemogućnosti vršenja, kao kad je tko lišen očiju ili prstiju ili uporabe jezika. Katkada pak zbog opasnosti, kao što je jasno kod onoga koji boluje od padavice ili od bilo kakva pomućenja duha. Katkada zbog odvratnosti, kao što je jasno kod gubavca, koji ne smije javno slaviti misu. Ipak, može reći misu potajno, osim ako guba toliko uznapreduje da ga izjedanjem udova učini za to nesposobnim.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    }
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 86,
+  "units": {
+    "III.q86.pr": {
+      "text": "Zatim treba razmotriti učinak pokore. I to, prvo, s obzirom na otpuštenje smrtnih grijeha; drugo, s obzirom na otpuštenje lakih grijeha; treće, s obzirom na povratak otpuštenih grijeha; četvrto, s obzirom na ponovnu uspostavu kreposti. O prvome se pita šest stvari. Prvo, uklanjaju li se smrtni grijesi pokorom. Drugo, mogu li se ukloniti bez pokajanja. Treće, može li se jedan otpustiti bez drugoga. Četvrto, uklanja li pokora krivnju, dok ostaje podložnost kazni. Peto, ostaju li ostaci grijeha. Šesto, je li uklanjanje grijeha učinak pokajanja ukoliko je krepost ili pokore ukoliko je sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da se pokorom ne uklanjaju svi grijesi. Apostol, naime, kaže u Heb 12 da *Ezav nije našao mjesta pokajanju, premda ga je sa suzama tražio*, a Glosa: *to jest, nije našao mjesta oproštenju i blagoslovu po pokajanju*. I u 2 Mak 9 kaže se o Antiohu: *Molio je onaj zločinac Gospodina, od kojega nije imao postići milosrđe.* Ne čini se, dakle, da se pokorom uklanjaju svi grijesi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a1.obj2": {
+      "text": "Osim toga, Augustin kaže u knjizi O Gospodinovu govoru na gori da je *tolika ljaga toga grijeha (naime kad netko, nakon spoznaje Boga po Kristovoj milosti, napada bratstvo i protiv same milosti biva gonjen bakljama zavisti) da se ne može podvrgnuti poniznosti moljenja, čak i ako ga zla savjest prisiljava da svoj grijeh prizna i obznani*. Ne može se, dakle, svaki grijeh ukloniti pokorom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a1.obj3": {
+      "text": "Osim toga, Gospodin kaže u Mt 12: *Tko rekne riječ protiv Duha Svetoga, neće mu se otpustiti ni u ovom vijeku ni u budućem.* Ne može se, dakle, svaki grijeh otpustiti pokorom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a1.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u Ez 18: *Svih njegovih bezakonja koja je počinio neću se više spominjati.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a1.resp": {
+      "text": "Odgovaram: treba reći da bi se to da se neki grijeh ne može ukloniti pokorom moglo dogoditi na dva načina: na jedan način, zato što se netko ne bi mogao pokajati za grijeh; na drugi način, zato što pokora ne bi mogla izbrisati grijeh. Na prvi se način ne mogu izbrisati grijesi demona, pa ni grijesi osuđenih ljudi, jer su njihova čuvstva učvršćena u zlu, tako da im se grijeh ne može ne sviđati ukoliko je krivnja, nego im se ne sviđa samo ukoliko je kazna koju trpe; zbog toga imaju neko pokajanje, ali bez ploda, prema onome iz Mudr 5: *Kajući se i stenjući od tjesnobe duha.* Stoga takvo pokajanje nije povezano s nadom u oproštenje, nego s očajem. A takav ne može biti nijedan grijeh čovjeka putnika, čije je slobodno odlučivanje savitljivo prema dobru i prema zlu. Stoga je zabluda reći da u ovom životu postoji neki grijeh za koji se netko ne bi mogao pokajati. Prvo, zato što bi se time ukinula sloboda odlučivanja. Drugo, zato što bi se time umanjivala snaga milosti, po kojoj se srce bilo kojega grešnika može pokrenuti na pokajanje, prema onome iz Izr 21: *Srce je kraljevo u ruci Božjoj, i kamo god hoće, okrenut će ga.* A zabluda je također reći da se na drugi način neki grijeh ne bi mogao otpustiti istinskom pokorom. Prvo, zato što se to protivi Božjem milosrđu, o kojem se kaže u Jl 2 da je *dobrostiv i milosrdan, i velikoga milosrđa, i spreman smilovati se nad zloćom*. Bog bi, naime, na neki način bio nadvladan od čovjeka ako bi čovjek htio da se izbriše grijeh koji Bog ne bi htio izbrisati. Drugo, zato što bi to umanjivalo snagu Kristove muke, po kojoj djeluje pokora, kao i ostali sakramenti, budući da je napisano u 1 Iv 2: *On je pomirnica za grijehe naše, i ne samo za naše, nego i za grijehe svega svijeta.* Stoga treba naprosto reći da se svaki grijeh u ovom životu može izbrisati pokorom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se Ezav nije istinski pokajao. To je jasno iz onoga što je rekao: *Doći će dani žalovanja za ocem mojim, i ubit ću Jakova, brata svojega.* Slično se ni Antioh nije istinski pokajao. Žalostio se, naime, zbog prošle krivnje ne zbog uvrede Boga, nego zbog tjelesne bolesti koju je trpio.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a1.ad2": {
+      "text": "Na drugo treba reći da onu Augustinovu riječ treba ovako shvatiti: tolika je ljaga toga grijeha da se ne može podvrgnuti poniznosti moljenja, naime lako, u smislu u kojem se kaže da ne može ozdraviti onaj tko ne može lako ozdraviti. To se ipak može dogoditi snagom Božje milosti, koja ponekad obraća i u dubine mora, kako se kaže u Psalmu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a1.ad3": {
+      "text": "Na treće treba reći da je ona riječ ili bogohulstvo protiv Duha Svetoga konačno nepokajanje, kako kaže Augustin u knjizi O Gospodinovim riječima, i ono je potpuno neotpustivo, jer nakon svršetka ovoga života nema otpuštenja grijeha. Ili, ako se pod bogohulstvom protiv Duha Svetoga razumije grijeh koji se čini iz svjesne zloće, ili pak samo bogohulstvo protiv Duha Svetoga, kaže se da se ne otpušta, naime lako, jer takav grijeh nema u sebi razloga za ispriku; ili zato što se za takav grijeh netko kažnjava i u ovom vijeku i u budućem, kao što je izloženo u Drugom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se grijeh može otpustiti bez pokajanja. Božja, naime, snaga nije manja prema odraslima nego prema djeci. Ali djeci on otpušta grijehe bez pokajanja. Dakle, i odraslima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a2.obj2": {
+      "text": "Osim toga, Bog svoju snagu nije vezao uz sakramente. Ali pokora je neki sakrament. Dakle, Božjom snagom grijesi se mogu otpustiti bez pokore.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a2.obj3": {
+      "text": "Osim toga, Božje je milosrđe veće od čovjekova milosrđa. Ali čovjek ponekad oprašta drugom čovjeku uvredu nanesenu sebi, čak i onome koji se ne kaje; zato i sam Gospodin nalaže, u Mt 5: *Ljubite neprijatelje svoje, činite dobro onima koji vas mrze.* Dakle, mnogo više Bog oprašta ljudima koji se ne kaju uvredu nanesenu sebi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a2.sc": {
+      "text": "Ali protiv toga jest ono što Gospodin kaže u Jr 18: *Ako se taj narod pokaje od zla koje je učinio, i ja ću se pokajati od zla koje sam namislio učiniti mu.* I tako se, obratno, čini da Bog čovjeku ne oprašta uvredu ako se čovjek ne pokaje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a2.resp": {
+      "text": "Odgovaram: treba reći da je nemoguće da se osobni smrtni grijeh otpusti bez pokajanja, govoreći o pokajanju koje je krepost. Budući da je grijeh uvreda Boga, Bog, naime, otpušta grijeh na onaj način na koji oprašta uvredu počinjenu protiv sebe. A uvreda je izravno suprotstavljena milosti; za nekoga se, naime, kaže da je uvrijeđen na drugoga zato što ga odbija od svoje milosti. A kao što je izloženo u Drugom dijelu, između Božje milosti i čovjekove milosti postoji ova razlika: čovjekova milost ne uzrokuje, nego pretpostavlja dobrotu, istinsku ili prividnu, u onome koji mu je mio, dok Božja milost uzrokuje dobrotu u čovjeku koji mu je mio, zato što je Božja dobra volja, koja se razumije pod imenom milosti, uzrok stvorenoga dobra. Stoga se može dogoditi da čovjek oprosti uvredu zbog koje se uvrijedio na nekoga bez ikakve izmjene volje toga drugoga; ali se ne može dogoditi da Bog nekome oprosti uvredu bez izmjene njegove volje. A uvreda smrtnoga grijeha proizlazi iz toga što je čovjekova volja odvraćena od Boga okretanjem prema nekom promjenljivom dobru. Stoga se za otpuštenje uvrede nanesene Bogu zahtijeva da se čovjekova volja tako izmijeni da se okrene prema Bogu, s gnušanjem nad spomenutim okretanjem i s odlukom o naknadi. A to pripada pojmu pokajanja ukoliko je krepost. I zato je nemoguće da se nekome grijeh otpusti bez pokajanja ukoliko je krepost. A sakrament pokore, kao što je gore rečeno, dovršava se službom svećenika koji veže i razrješuje. Bez toga Bog može otpustiti grijeh, kao što je Krist otpustio ženi preljubnici, kako se čita u Iv 8, i grešnici, kako se čita u Lk 7. Njima ipak nije otpustio grijehe bez kreposti pokajanja; jer, kako kaže Grgur u homiliji, milošću je iznutra privukao, naime k pokajanju, *onu koju je milosrđem izvana primio*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da u djeci postoji samo istočni grijeh, koji se ne sastoji u aktualnoj neurednosti volje, nego u nekoj habitualnoj neurednosti naravi, kao što je izloženo u Drugom dijelu. I zato im se grijeh otpušta s habitualnom izmjenom po ulijevanju milosti i kreposti, ali ne s aktualnom. Ali odraslome, u kojemu su osobni grijesi, koji se sastoje u aktualnoj neurednosti volje, ne otpuštaju se grijesi, čak ni u krštenju, bez aktualne izmjene volje, a to se zbiva pokajanjem.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a2.ad2": {
+      "text": "Na drugo treba reći da taj razlog vrijedi za pokoru ukoliko je sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a2.ad3": {
+      "text": "Na treće treba reći da je Božje milosrđe veće snage od čovjekova milosrđa u tome što mijenja čovjekovu volju na pokajanje, a to čovjekovo milosrđe ne može učiniti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se pokorom može otpustiti jedan grijeh bez drugoga. Kaže se, naime, u Am 4: *Pustio sam kišu na jedan grad, a na drugi nisam pustio kišu; jedan je dio bio natopljen kišom, a dio na koji nisam pustio kišu usahnuo je.* Tumačeći to, Grgur kaže u djelu o Ezekielu: *Kad se onaj koji mrzi bližnjega popravi od drugih poroka, jedan te isti grad djelomično je natopljen kišom, a djelomično ostaje suh, jer ima onih koji, kad odsijecaju neke poroke, u drugima teško ustraju.* Dakle, jedan se grijeh može otpustiti pokorom bez drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.obj2": {
+      "text": "Osim toga, Ambrozije kaže u tumačenju psalma Blaženi neporočni: *Prva je utjeha što Bog ne zaboravlja smilovati se; druga je po kažnjavanju, gdje, čak i ako nedostaje vjera, kazna daje zadovoljštinu i rasterećuje.* Netko, dakle, može biti rasterećen od nekoga grijeha dok ostaje grijeh nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.obj3": {
+      "text": "Osim toga, od onoga što nije nužno da bude zajedno, jedno se može ukloniti bez drugoga. Ali grijesi, kao što je izloženo u Drugom dijelu, nisu povezani, pa tako jedan od njih može biti bez drugoga. Dakle, jedan od njih može se pokorom otpustiti bez drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.obj4": {
+      "text": "Osim toga, grijesi su dugovi za koje molimo da nam se otpuste kad u Gospodnjoj molitvi govorimo: Otpusti nam duge naše. Ali čovjek ponekad otpusti jedan dug bez drugoga. Dakle, i Bog pokorom otpušta jedan grijeh bez drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.obj5": {
+      "text": "Osim toga, ljudima se grijesi otpuštaju po Božjoj ljubavi, prema onome iz Jr 31: *Ljubavlju vječnom ljubio sam te, zato sam te privukao smilovavši se.* Ali ništa ne priječi da Bog čovjeka ljubi s obzirom na jedno, a da je na nj uvrijeđen s obzirom na drugo, kao što grešnika ljubi s obzirom na narav, a mrzi ga s obzirom na krivnju. Dakle, čini se mogućim da Bog pokorom otpusti jedan grijeh bez drugoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.sc": {
+      "text": "Ali protiv toga jest ono što Augustin kaže u knjizi O pokori: *Mnogo je onih koji se kaju što su sagriješili, ali ne posve, zadržavajući sebi neke grijehe u kojima bi se naslađivali, ne opažajući da je Gospodin istodobno oslobodio od demona nijemoga i gluhoga, poučavajući nas time da nikada ne ozdravljamo osim od svega.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.resp": {
+      "text": "Odgovaram: treba reći da je nemoguće da se pokorom otpusti jedan grijeh bez drugoga. Prvo, zato što se grijeh otpušta ukoliko se milošću uklanja uvreda Boga; zato je u Drugom dijelu izloženo da se nijedan grijeh ne može otpustiti bez milosti. A svaki je smrtni grijeh protivan milosti i isključuje je. Stoga je nemoguće da se jedan grijeh otpusti bez drugoga. Drugo, zato što se, kao što je pokazano, smrtni grijeh ne može otpustiti bez istinskoga pokajanja, kojemu pripada napustiti grijeh ukoliko je protiv Boga. A to je zajedničko svim smrtnim grijesima. A gdje je isti razlog, ondje je i isti učinak. Stoga ne može biti istinski pokornik onaj koji se kaje za jedan grijeh, a ne za drugi. Kad bi mu se, naime, onaj grijeh ne sviđao zato što je protiv Boga, ljubljenoga iznad svega, što se zahtijeva za pojam istinskoga pokajanja, slijedilo bi da se kaje za sve grijehe. Stoga slijedi da je nemoguće da se jedan grijeh otpusti bez drugoga. Treće, zato što bi to bilo protiv savršenosti Božjega milosrđa, čija su djela savršena, kako se kaže u Pnz 32. Stoga, komu se smiluje, smiluje mu se potpuno. I to je ono što Augustin kaže u knjizi O pokori: *Neka je bezbožnost nevjere od onoga koji je pravedan i sama pravednost nadati se polovičnom oproštenju.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da onu Grgurovu riječ ne treba shvatiti s obzirom na otpuštenje krivnje, nego s obzirom na prestanak čina, jer ponekad onaj koji je navikao činiti više grijeha napusti jedan, ali ne i drugi. To se doduše zbiva Božjom pomoći, koja ipak ne doseže do otpuštenja krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.ad2": {
+      "text": "Na drugo treba reći da se u onoj Ambrozijevoj riječi ne može uzeti vjera kojom se vjeruje u Krista, jer, kako kaže Augustin uz ono iz Iv 15: *Da nisam došao i da im nisam govorio, ne bi imali grijeha*, naime grijeha nevjere, *to je, naime, grijeh kojim se drže svi grijesi*. Nego se vjera uzima u značenju savjesti, jer ponekad netko po kaznama koje strpljivo podnosi postiže otpuštenje grijeha kojega nema na savjesti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.ad3": {
+      "text": "Na treće treba reći da grijesi, iako nisu povezani s obzirom na okretanje prema promjenljivom dobru, ipak jesu povezani s obzirom na odvraćanje od nepromjenljivoga dobra, u kojemu se slažu svi smrtni grijesi. I s te strane imaju pojam uvrede, koju treba ukloniti pokorom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.ad4": {
+      "text": "Na četvrto treba reći da dug neke vanjske stvari, na primjer novca, nije protivan prijateljstvu, iz kojega se dug otpušta. I zato se jedan može otpustiti bez drugoga. Ali dug krivnje protivan je prijateljstvu. I zato se jedna krivnja ili uvreda ne otpušta bez druge. Činilo bi se i smiješnim da netko od čovjeka moli oproštenje za jednu uvredu, a ne za drugu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a3.ad5": {
+      "text": "Na peto treba reći da ljubav kojom Bog ljubi čovjekovu narav nije usmjerena prema dobru slave, od kojega čovjeka priječi bilo koji smrtni grijeh. Ali ljubav milosti, po kojoj se zbiva otpuštenje smrtnoga grijeha, usmjeruje čovjeka prema vječnom životu, prema onome iz Rim 6: *Milost je Božja vječni život.* Stoga nije isti razlog.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da, kad je krivnja otpuštena pokorom, ne ostaje podložnost kazni. Kad se, naime, ukloni uzrok, uklanja se i učinak. Ali krivnja je uzrok podložnosti kazni; netko je, naime, zato dostojan kazne što je počinio krivnju. Dakle, kad je krivnja otpuštena, ne može ostati podložnost kazni.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a4.obj2": {
+      "text": "Osim toga, kao što kaže Apostol u Rim 5, Kristov je dar djelotvorniji od grijeha. Ali griješeći čovjek istodobno navlači na sebe krivnju i podložnost kazni. Dakle, mnogo se više po daru milosti istodobno otpušta krivnja i uklanja podložnost kazni.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a4.obj3": {
+      "text": "Osim toga, otpuštenje grijeha zbiva se u pokori snagom Kristove muke, prema onome iz Rim 3: *Njega je Bog postavio za pomiritelja po vjeri u njegovoj krvi, radi otpuštenja prijašnjih prijestupa.* Ali Kristova muka dostatno daje zadovoljštinu za sve grijehe, kao što je gore izloženo. Dakle, nakon otpuštenja krivnje ne ostaje nikakva podložnost kazni.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a4.sc": {
+      "text": "Ali protiv toga jest ono što se kaže u 2 Sam 12: kad je David, kajući se, rekao Natanu: Sagriješih Gospodinu, Natan mu je rekao: *I Gospodin je uklonio tvoj grijeh: nećeš umrijeti. Ali sin koji ti se rodio umrijet će smrću*; a to je bilo za kaznu za prethodni grijeh, kako se ondje kaže. Dakle, kad je krivnja otpuštena, ostaje podložnost nekoj kazni.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a4.resp": {
+      "text": "Odgovaram: treba reći da su, kao što je izloženo u Drugom dijelu, u smrtnom grijehu dvije stvari, naime odvraćanje od nepromjenljivoga dobra i neuredno okretanje prema promjenljivom dobru. Sa strane, dakle, odvraćanja od nepromjenljivoga dobra iz smrtnoga grijeha slijedi podložnost vječnoj kazni, tako da onaj koji je sagriješio protiv vječnoga dobra bude kažnjen dovijeka. A i sa strane okretanja prema promjenljivom dobru, ukoliko je neuredno, iz smrtnoga grijeha slijedi podložnost nekoj kazni, jer se neurednost krivnje ne vraća u red pravednosti osim kaznom; pravedno je, naime, da onaj koji je svojoj volji popustio više nego što je smio pretrpi nešto protiv svoje volje, jer će tako biti jednakost; zato se i u Otk 18 kaže: *Koliko se proslavljala i živjela u raskoši, toliko joj zadajte muke i jada.* Budući da je ipak okretanje prema promjenljivom dobru konačno, smrtni grijeh s te strane nema to da mu se duguje vječna kazna. Stoga, ako postoji neuredno okretanje prema promjenljivom dobru bez odvraćanja od Boga, kao što je u lakim grijesima, grijehu se ne duguje vječna kazna, nego vremenita. Kad se, dakle, po milosti otpušta krivnja, uklanja se odvraćanje duše od Boga, ukoliko se duša po milosti sjedinjuje s Bogom. Stoga se, kao posljedica, istodobno uklanja i podložnost vječnoj kazni. Ali može ostati podložnost nekoj vremenitoj kazni.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da smrtna krivnja ima oboje, i odvraćanje od Boga i okretanje prema stvorenom dobru; ali, kao što je izloženo u Drugom dijelu, odvraćanje od Boga u njoj je kao ono formalno, a okretanje prema stvorenom dobru kao ono tvarno. A kad se ukloni ono formalno bilo koje stvari, uklanja se vrsta, kao što se, kad se ukloni ono razumsko, uklanja ljudska vrsta. I zato se kaže da je smrtna krivnja otpuštena upravo time što se po milosti uklanja odvraćanje duha od Boga, zajedno s podložnošću vječnoj kazni. Ali ostaje ono što je tvarno, naime neuredno okretanje prema stvorenom dobru. Za nj se duguje podložnost vremenitoj kazni.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a4.ad2": {
+      "text": "Na drugo treba reći da, kao što je izloženo u Drugom dijelu, milosti pripada djelovati u čovjeku opravdavajući ga od grijeha i surađivati s čovjekom da ispravno djeluje. Otpuštenje krivnje i podložnosti vječnoj kazni pripada, dakle, djelatnoj milosti, a otpuštenje podložnosti vremenitoj kazni pripada sudjelatnoj milosti, ukoliko se, naime, čovjek, uz pomoć Božje milosti, strpljivo podnoseći kazne, oslobađa i od podložnosti vremenitoj kazni. Kao što je, dakle, učinak djelatne milosti prije nego učinak sudjelatne, tako je i otpuštenje krivnje i vječne kazne prije nego potpuno oslobođenje od vremenite kazne; i jedno je i drugo, naime, od milosti, ali prvo od same milosti, a drugo od milosti i od slobodnoga odlučivanja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a4.ad3": {
+      "text": "Na treće treba reći da je Kristova muka sama po sebi dostatna da ukloni svaku podložnost kazni, ne samo vječnoj nego i vremenitoj; i u mjeri u kojoj čovjek ima udjela u snazi Kristove muke, prima i oslobođenje od podložnosti kazni. A u krštenju čovjek potpuno ima udjela u snazi Kristove muke, budući da po vodi i Duhu s Kristom umire grijehu i u njemu se preporađa za novi život. I zato u krštenju čovjek postiže otpuštenje podložnosti svakoj kazni. A u pokori postiže snagu Kristove muke na način vlastitih čina, koji su tvar pokore, kao što je voda tvar krštenja, kao što je gore rečeno. I zato se podložnost svakoj kazni ne razrješuje odmah prvim činom pokore, kojim se otpušta krivnja, nego kad se dovrše svi čini pokore.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da se, kad je otpuštena smrtna krivnja, uklanjaju svi ostaci grijeha. Augustin, naime, kaže u knjizi O pokori: *Gospodin nikada nije ozdravio nikoga koga nije potpuno oslobodio; u subotu je, naime, ozdravio cijeloga čovjeka, jer je tijelo oslobodio od svake slabosti, a dušu od svake zaraze*. Ali ostaci grijeha pripadaju slabosti grijeha. Dakle, ne čini se mogućim da, kad je krivnja otpuštena, ostanu ostaci grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a5.obj2": {
+      "text": "Osim toga, prema Dioniziju, u 4. poglavlju O božanskim imenima, dobro je djelotvornije od zla, jer zlo ne djeluje osim snagom dobra. Ali čovjek griješeći odjednom navlači na sebe svu zarazu grijeha. Dakle, mnogo se više, kajući se, oslobađa i od svih ostataka grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a5.obj3": {
+      "text": "Osim toga, Božje je djelo djelotvornije od čovjekova djela. Ali vršenjem ljudskih djela usmjerenih k dobru uklanjaju se ostaci protivnoga grijeha. Dakle, mnogo se više uklanjaju otpuštenjem krivnje, koje je Božje djelo.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a5.sc": {
+      "text": "Ali protiv toga je ono što se čita u Mk 8: slijepac kojega je Gospodin prosvijetlio najprije je bio vraćen do nesavršenoga vida, pa zato kaže: *Vidim ljude kao drveće gdje hodaju*; zatim je bio savršeno ozdravljen, tako da je sve jasno vidio. A prosvjetljenje slijepca označuje oslobođenje grešnika. Dakle, nakon prvoga otpuštenja krivnje, kojim se grešniku vraća duhovni vid, u njemu još ostaju neki ostaci prijašnjega grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a5.resp": {
+      "text": "Odgovaram: treba reći da smrtni grijeh s obzirom na neuredno okretanje prema promjenljivom dobru uzrokuje u duši neku raspoloživost, ili čak habitus, ako se čin često ponavlja. A kao što je rečeno, krivnja smrtnoga grijeha otpušta se ukoliko se milošću uklanja odvraćanje duha od Boga. No kad se ukloni ono što pripada odvraćanju, ipak može ostati ono što pripada neurednom okretanju, budući da se može dogoditi da ovo bude bez onoga, kao što je prije rečeno. Stoga ništa ne priječi da, kad je krivnja otpuštena, ostanu raspoloživosti uzrokovane prethodnim činima, koje se nazivaju ostacima grijeha. Ipak ostaju oslabljene i umanjene, tako da ne gospodare čovjekom. I to više na način raspoloživosti nego na način habitusa, kao što i žarište grijeha ostaje nakon krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da Bog cijeloga čovjeka savršeno liječi, ali katkad iznenada, kao što je Petrovu punicu odmah vratio savršenom zdravlju, tako da je ustala i posluživala ga, kako se čita u Lk 4; a katkad postupno, kao što je rečeno o slijepcu kojega je prosvijetlio, u Mk 8. Tako i duhovno katkad tako snažnim potresom obraća čovjekovo srce da ono iznenada savršeno postigne duhovno zdravlje, ne samo time što mu je otpuštena krivnja nego i time što su uklonjeni svi ostaci grijeha, kao što je očito kod Magdalene, Lk 7. A katkad najprije otpušta krivnju djelatnom milošću, a poslije sudjelatnom milošću postupno uklanja ostatke grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a5.ad2": {
+      "text": "Na drugo treba reći da i grijeh katkad odmah uvodi slabu raspoloživost, naime onu uzrokovanu jednim činom, a katkad jaču, uzrokovanu mnogim činima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a5.ad3": {
+      "text": "Na treće treba reći da se jednim ljudskim činom ne uklanjaju svi ostaci grijeha, jer, kako se kaže u Kategorijama, *pokvaren čovjek, priveden boljim vježbama, malo će napredovati, tako da bude bolji*; a kad se vježbanje umnoži, dolazi dotle da bude dobar stečenom kreposti. A to mnogo djelotvornije čini božanska milost, bilo jednim bilo mnogim činima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da otpuštenje krivnje nije učinak pokajanja ukoliko je ono krepost. Pokajanje se, naime, naziva kreposti ukoliko je počelo ljudskoga čina. Ali ljudski čini ne djeluju na otpuštenje krivnje, koje je učinak djelatne milosti. Dakle, otpuštenje krivnje nije učinak pokajanja ukoliko je ono krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a6.obj2": {
+      "text": "Osim toga, neke su druge kreposti izvrsnije od pokajanja. Ali za otpuštenje krivnje ne kaže se da je učinak ikoje druge kreposti. Dakle, nije ni učinak pokajanja ukoliko je ono krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a6.obj3": {
+      "text": "Osim toga, otpuštenje krivnje ne biva drukčije nego snagom Kristove muke, prema onome Heb 9: *bez prolijevanja krvi nema otpuštenja*. Ali pokora, ukoliko je sakrament, djeluje snagom Kristove muke, kao i ostali sakramenti, kako je očito iz gore rečenoga. Dakle, otpuštenje krivnje nije učinak pokajanja ukoliko je krepost, nego pokore ukoliko je sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a6.sc": {
+      "text": "Ali protiv toga: u vlastitom je smislu uzrok nečega ono bez čega to ne može biti; svaki, naime, učinak ovisi o svojem uzroku. Ali otpuštenje krivnje može doći od Boga bez sakramenta pokore, ali ne bez pokajanja ukoliko je krepost, kao što je gore rečeno. Zato je Bog i prije sakramenata Novoga zakona otpuštao grijehe onima koji su se kajali. Dakle, otpuštenje krivnje učinak je pokajanja ukoliko je krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a6.resp": {
+      "text": "Odgovaram: treba reći da je pokajanje krepost ukoliko je počelo nekih ljudskih čina. A ljudski čini koji su sa strane grešnika imaju se u sakramentu pokore kao tvar. A svaki sakrament proizvodi svoj učinak ne samo snagom forme nego i snagom tvari, jer od obojega nastaje jedan sakrament, kao što je gore utvrđeno. Zato, kao što se otpuštenje krivnje u krštenju ne događa samo snagom forme, od koje i sama voda prima snagu, tako je i otpuštenje krivnje učinak pokore: ponajprije doduše snagom ključeva, koje imaju služitelji, s čije se strane uzima ono što je formalno u ovom sakramentu, kao što je gore rečeno; a drugotno snagom čina pokornika koji pripadaju kreposti pokajanja, ipak ukoliko su ti čini na neki način usmjereni prema ključevima Crkve. I tako je očito da je otpuštenje krivnje učinak pokajanja ukoliko je krepost, ali ponajprije pokore ukoliko je sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je učinak djelatne milosti opravdanje bezbožnika, kao što je rečeno u Drugom dijelu. U njemu, kako je ondje rečeno, nije samo ulijevanje milosti i otpuštenje krivnje, nego i pokret slobodnoga odlučivanja prema Bogu, koji je čin oblikovane vjere, i pokret slobodnoga odlučivanja protiv grijeha, koji je čin pokajanja. Ti su ljudski čini ondje ipak kao učinci djelatne milosti, proizvedeni istodobno s otpuštenjem krivnje. Zato otpuštenje krivnje ne biva bez čina kreposti pokajanja, premda je učinak djelatne milosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a6.ad2": {
+      "text": "Na drugo treba reći da u opravdanju bezbožnika nije samo čin pokajanja nego i čin vjere, kao što je rečeno. Zato se otpuštenje krivnje ne postavlja kao učinak samo kreposti pokajanja, nego ponajprije vjere i ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a6.ad3": {
+      "text": "Na treće treba reći da je čin kreposti pokajanja usmjeren prema Kristovoj muci i po vjeri i po usmjerenosti prema ključevima Crkve. Zato na oba načina uzrokuje otpuštenje krivnje snagom Kristove muke.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q86.a6.ad4": {
+      "text": "A na ono što se prigovara u prilog suprotnome treba reći da čin kreposti pokajanja ima to da bez njega ne može biti otpuštenja krivnje ukoliko je neodvojiv učinak milosti, po kojoj se krivnja ponajprije otpušta i koja djeluje i u svim sakramentima. Stoga se iz toga ne može zaključiti ništa drugo osim da je milost glavniji uzrok otpuštenja krivnje nego sakrament pokore. Ipak treba znati da je i u Starom zakonu i u zakonu naravi na neki način postojao sakrament pokore, kao što je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    }
+  }
+}

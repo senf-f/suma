@@ -1,0 +1,696 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 80,
+  "units": {
+    "III.q80.pr": {
+      "text": "Zatim treba razmotriti uporabu ili primanje ovoga sakramenta. I to najprije općenito; drugo, kako se Krist poslužio ovim sakramentom. O prvome se pita dvanaest stvari. Prvo, postoje li dva načina blagovanja ovoga sakramenta, naime sakramentalno i duhovno. Drugo, pristaje li samo čovjeku duhovno blagovati. Treće, je li samo pravednom čovjeku svojstveno sakramentalno blagovati. Četvrto, griješi li grešnik koji sakramentalno blaguje. Peto, o veličini toga grijeha. Šesto, treba li grešnika koji pristupa ovom sakramentu odbiti. Sedmo, priječi li noćna polucija čovjeka da primi ovaj sakrament. Osmo, smiju li ga primati samo oni koji su natašte. Deveto, treba li ga davati onima koji nemaju uporabu razuma. Deseto, treba li ga primati svaki dan. Jedanaesto, je li dopušteno posve se od njega ustezati. Dvanaesto, je li dopušteno primiti tijelo bez krvi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da ne treba razlikovati dva načina blagovanja Kristova tijela, naime duhovno i sakramentalno. Kao što je, naime, krštenje duhovno preporođenje, prema onome Iv 3, *Ako se tko ne rodi iznova iz vode i Duha Svetoga* itd., tako je i ovaj sakrament duhovna hrana; zato Gospodin, govoreći o ovom sakramentu, kaže Iv 6: *Riječi koje sam vam govorio duh su i život*. Ali kod krštenja se ne razlikuje dvostruki način primanja, naime sakramentalni i duhovni. Dakle, ni kod ovoga sakramenta ne treba primjenjivati to razlikovanje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a1.obj2": {
+      "text": "Osim toga, ono od čega je jedno radi drugoga ne treba međusobno dijeliti, jer jedno od drugoga dobiva vrstu. Ali sakramentalno je blagovanje usmjereno prema duhovnome kao prema svrsi. Dakle, sakramentalno blagovanje ne treba diobom suprotstavljati duhovnome.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a1.obj3": {
+      "text": "Osim toga, ono od čega jedno ne može biti bez drugoga ne treba diobom suprotstavljati jedno drugome. Ali čini se da nitko ne može duhovno blagovati ako i sakramentalno ne blaguje; inače bi drevni oci duhovno blagovali ovaj sakrament. Također bi sakramentalno blagovanje bilo uzaludno kad bi duhovno moglo biti bez njega. Dakle, ne razlikuje se prikladno dvostruko blagovanje, naime sakramentalno i duhovno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a1.sc": {
+      "text": "Ali protiv toga je to što uz ono 1 Kor 11, *Tko jede i pije nedostojno* itd., Glosa kaže: *Kažemo da postoje dva načina blagovanja: jedan sakramentalni, a drugi duhovni*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a1.resp": {
+      "text": "Odgovaram: treba reći da kod primanja ovoga sakramenta treba razmotriti dvoje, naime sam sakrament i njegov učinak, o čemu je oboje već gore rečeno. Savršen je, dakle, način primanja ovoga sakramenta kada netko tako prima ovaj sakrament da zadobije njegov učinak. Događa se pak katkad, kao što je gore rečeno, da je netko spriječen zadobiti učinak ovoga sakramenta, i takvo je primanje ovoga sakramenta nesavršeno. Kao što se, dakle, savršeno diobom suprotstavlja nesavršenome, tako se sakramentalno blagovanje, po kojemu se prima samo sakrament bez njegova učinka, suprotstavlja duhovnom blagovanju, po kojemu netko zadobiva učinak ovoga sakramenta, kojim se čovjek duhovno sjedinjuje s Kristom po vjeri i ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se i kod krštenja i drugih takvih sakramenata primjenjuje slično razlikovanje: neki, naime, primaju samo sakrament, a neki sakrament i stvar sakramenta. Ovdje ipak postoji razlika: budući da se drugi sakramenti dovršavaju u uporabi tvari, primiti sakrament jest samo dovršenje sakramenta; ovaj se pak sakrament dovršava u posveti tvari, i zato obje uporabe slijede nakon ovoga sakramenta. Kod krštenja pak i drugih sakramenata koji utiskuju biljeg oni koji primaju sakrament primaju neki duhovni učinak, naime biljeg, što se ne događa kod ovoga sakramenta. I zato se kod ovoga sakramenta sakramentalna uporaba više razlikuje od duhovne nego kod krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a1.ad2": {
+      "text": "Na drugo treba reći da se sakramentalno blagovanje koje doseže do duhovnoga ne suprotstavlja duhovnome, nego je u nj uključeno. Duhovnome se pak suprotstavlja ono sakramentalno blagovanje koje ne postiže učinak, kao što se savršenome suprotstavlja nesavršeno, koje ne doseže savršenost vrste.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a1.ad3": {
+      "text": "Na treće treba reći da, kao što je gore rečeno, netko može zadobiti učinak sakramenta ako sakrament ima u želji, iako ga nema u stvarnosti. I zato, kao što se neki krste krštenjem želje, zbog želje za krštenjem, prije nego što se krste krštenjem vode, tako i neki duhovno blaguju ovaj sakrament prije nego što ga sakramentalno prime. Ali to se događa dvojako. Na jedan način, zbog želje da se primi sam sakrament; i na taj se način za one koji žele primiti te već ustanovljene sakramente kaže da se krste i blaguju duhovno, a ne sakramentalno. Na drugi način, po predslici, kao što Apostol kaže 1 Kor 10 da su drevni oci *bili kršteni u oblaku i u moru te da su jeli duhovnu hranu i pili duhovno piće*. Ipak se sakramentalno blagovanje ne primjenjuje uzalud, jer samo primanje sakramenta potpunije proizvodi učinak sakramenta nego sama želja, kao što je gore rečeno o krštenju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da nije samo čovjekovo duhovno primati ovaj sakrament, nego i anđela. Jer uz ono iz Psalma, *Kruh anđeoski jeo je čovjek*, Glosa kaže: *to jest, tijelo Krista, koji je uistinu hrana anđela*. Ali to ne bi bilo kad anđeli ne bi duhovno blagovali Krista. Dakle, anđeli duhovno blaguju Krista.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a2.obj2": {
+      "text": "Osim toga, Augustin kaže u tumačenju Ivanova evanđelja: *Ovom hranom i pićem želi da se razumije zajedništvo tijela i njegovih udova, a to je Crkva u predodređenima*. Ali tomu zajedništvu ne pripadaju samo ljudi nego i sveti anđeli. Dakle, i sveti anđeli duhovno blaguju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a2.obj3": {
+      "text": "Osim toga, Augustin u knjizi O riječima Gospodnjim kaže: *Krista treba duhovno blagovati, kako on sam kaže: Tko jede moje tijelo i pije moju krv, ostaje u meni i ja u njemu*. Ali to ne pristaje samo ljudima nego i svetim anđelima, u kojima je po ljubavi Krist, i oni u njemu. Dakle, čini se da duhovno blagovati nije svojstveno samo ljudima, nego i anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a2.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u tumačenju Ivanova evanđelja: *Kruh s oltara duhovno blagujte, nevinost donosite k oltaru*. Ali nije svojstveno anđelima pristupati oltaru kao da bi odande nešto primili. Dakle, nije svojstveno anđelima duhovno blagovati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a2.resp": {
+      "text": "Odgovaram: treba reći da je u ovom sakramentu sadržan sam Krist, ne doduše u vlastitom liku, nego u prilici sakramenta. Dvojako se, dakle, može duhovno blagovati. Na jedan način, samoga Krista kakav postoji u svome vlastitom liku. I na taj način anđeli duhovno blaguju samoga Krista, ukoliko su s njim sjedinjeni uživanjem savršene ljubavi i jasnim gledanjem (a taj kruh očekujemo u domovini), a ne po vjeri, kao što smo mi ovdje s njim sjedinjeni. Na drugi se način može duhovno blagovati Krista kakav je pod prilikama ovoga sakramenta, ukoliko, naime, netko vjeruje u Krista sa željom da primi ovaj sakrament. I to nije samo duhovno blagovati Krista, nego i duhovno blagovati ovaj sakrament. A to ne pristaje anđelima. I zato, iako anđeli duhovno blaguju Krista, ipak im ne pristaje duhovno blagovati ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je primanje Krista pod ovim sakramentom usmjereno, kao prema svrsi, prema uživanju domovine, kojim anđeli u njemu uživaju. A budući da se ono što vodi k svrsi izvodi iz svrhe, odatle je da se to blagovanje Krista kojim ga primamo pod ovim sakramentom na neki način izvodi iz onoga blagovanja kojim anđeli uživaju u Kristu u domovini. I zato se kaže da čovjek jede kruh anđeoski, jer je on prvotno i glavno kruh anđela, koji u njemu uživaju u njegovu vlastitom liku, a drugotno kruh ljudi, koji Krista primaju pod sakramentom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a2.ad2": {
+      "text": "Na drugo treba reći da zajedništvu otajstvenoga tijela pripadaju i ljudi, po vjeri, i anđeli, po jasnom gledanju. Sakramenti su pak primjereni vjeri, po kojoj se istina gleda u zrcalu i u zagonetki. I zato ovdje, u vlastitom smislu govoreći, duhovno blagovati ovaj sakrament ne pristaje anđelima, nego upravo ljudima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a2.ad3": {
+      "text": "Na treće treba reći da Krist u ljudima, u sadašnjem stanju, ostaje po vjeri, a u blaženim je anđelima po jasnom gledanju. I zato nije slično, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nitko ne može sakramentalno blagovati Krista osim pravednog čovjeka. Augustin, naime, kaže u knjizi O lijeku pokore: *Čemu spremaš zub i trbuh? Vjeruj, i pojeo si. Vjerovati, naime, u njega, to je blagovati živi kruh*. Ali grešnik ne vjeruje u njega, jer nema oblikovane vjere, kojoj pripada vjerovati u Boga (credere in Deum), kao što je izloženo u Drugom dijelu. Dakle, grešnik ne može blagovati ovaj sakrament, koji je živi kruh.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a3.obj2": {
+      "text": "Osim toga, za ovaj se sakrament kaže da je ponajviše sakrament ljubavi, kao što je gore rečeno. Ali kao što su nevjernici lišeni vjere, tako su svi grešnici lišeni ljubavi. A čini se da nevjernici ne mogu sakramentalno primati ovaj sakrament, budući da se u formi ovoga sakramenta kaže: otajstvo vjere. Dakle, iz istoga razloga ni itko od grešnika ne može sakramentalno blagovati Kristovo tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a3.obj3": {
+      "text": "Osim toga, grešnik je Bogu odvratniji od nerazumnoga stvora; kaže se, naime, u Psalmu o grešnome čovjeku: *Čovjek, dok je bio u časti, nije razumio; izjednačen je s nerazumnom stokom i postao joj je sličan*. Ali nerazumna životinja, primjerice miš ili pas, ne može primiti ovaj sakrament, kao što ne može primiti ni sakrament krštenja. Dakle, čini se da iz istoga razloga ni grešnici ne blaguju ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a3.sc": {
+      "text": "Ali protiv toga je to što uz ono Iv 6, *da tko od njega bude jeo, ne umre*, Augustin kaže: *Mnogi primaju s oltara i primajući umiru; zato Apostol kaže: Sud sebi jede i pije*. Ali primajući umiru samo grešnici. Dakle, grešnici sakramentalno blaguju Kristovo tijelo, a ne samo pravednici.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a3.resp": {
+      "text": "Odgovaram: treba reći da su u tome neki stari pogriješili, govoreći da grešnici Kristovo tijelo ne primaju čak ni sakramentalno, nego da, čim se prisloni na usne grešnika, odmah pod sakramentalnim prilikama prestaje biti Kristovo tijelo. Ali to je zabluda. To se, naime, protivi istinitosti ovoga sakramenta, kojoj pripada, kao što je gore rečeno, da Kristovo tijelo, dok prilike ostaju, ne prestaje biti pod njima. A prilike ostaju sve dok bi ostala supstancija kruha kad bi ondje bila nazočna, kao što je gore rečeno. Očito je pak da supstancija kruha koju primi grešnik ne prestaje odmah biti, nego ostaje sve dok je naravna toplina ne probavi. Stoga Kristovo tijelo ostaje toliko dugo pod sakramentalnim prilikama koje su grešnici primili. Stoga treba reći da grešnik može sakramentalno blagovati Kristovo tijelo, a ne samo pravednik.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da te i slične riječi treba razumjeti o duhovnom blagovanju, koje ne pristaje grešnicima. I zato se čini da je spomenuta zabluda proizašla iz krivoga razumijevanja tih riječi, jer nisu znali razlikovati tjelesno i duhovno blagovanje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a3.ad2": {
+      "text": "Na drugo treba reći da i ako nevjernik primi sakramentalne prilike, prima Kristovo tijelo pod sakramentom. Stoga sakramentalno blaguje Krista, ako riječ „sakramentalno“ određuje glagol s obzirom na ono što se blaguje. Ako pak s obzirom na onoga koji blaguje, tada, u vlastitom smislu govoreći, ne blaguje sakramentalno, jer se onim što prima ne služi kao sakramentom, nego kao običnom hranom. Osim ako bi možda nevjernik smjerao primiti ono što Crkva podjeljuje, premda ne bi imao pravu vjeru o drugim člancima ili o ovom sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a3.ad3": {
+      "text": "Na treće treba reći da, čak i ako miš ili pas pojede posvećenu hostiju, supstancija Kristova tijela neće prestati biti pod prilikama sve dok te prilike ostaju, to jest dok bi ostala supstancija kruha, kao i kad bi bila bačena u blato. Niti to ide na štetu dostojanstvu Krista, koji je htio da ga grešnici razapnu bez umanjenja svoga dostojanstva, osobito jer miš ili pas ne dotiče samo Kristovo tijelo u njegovu vlastitom liku, nego samo s obzirom na sakramentalne prilike. Neki su pak rekli da Kristovo tijelo prestaje ondje biti čim miš ili pas dotakne sakrament. I to se protivi istinitosti sakramenta, kao što je gore rečeno. Ipak ne treba reći da nerazumna životinja sakramentalno blaguje Kristovo tijelo, jer po naravi nije sposobna služiti se njime kao sakramentom. Stoga Kristovo tijelo ne blaguje sakramentalno, nego akcidentalno, kao što bi ga blagovao onaj tko bi primio posvećenu hostiju ne znajući da je posvećena. A budući da ono što je akcidentalno ne ulazi u diobu nekoga roda, zato se taj način blagovanja Kristova tijela ne postavlja kao treći, osim sakramentalnoga i duhovnoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da grešnik koji sakramentalno prima Kristovo tijelo ne griješi. Krist, naime, nije većega dostojanstva pod prilikom sakramenta nego u vlastitom liku. Ali grešnici koji su dodirivali Kristovo tijelo u njegovoj vlastitoj supstanciji nisu griješili, nego su, štoviše, zadobivali oproštenje grijeha, kako se čita Lk 7 o grešnoj ženi; a Mt 14 kaže se: *Koji god dotaknuše rub njegove haljine, spasiše se*. Dakle, primajući sakrament Kristova tijela ne griješe, nego radije zadobivaju spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.obj2": {
+      "text": "Osim toga, ovaj je sakrament, kao i drugi, neki duhovni lijek. Ali lijek se daje bolesnima za ozdravljenje, prema onome Mt 9: *Ne trebaju zdravi liječnika, nego oni kojima je zlo*. A duhovno bolesni ili oni kojima je duhovno zlo jesu grešnici. Dakle, ovaj se sakrament može primiti bez krivnje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.obj3": {
+      "text": "Osim toga, ovaj je sakrament, budući da u sebi sadrži Krista, među najvećim dobrima. A najveća su dobra, prema Augustinu u knjizi O slobodnoj volji, *ona kojima se nitko ne može zlo služiti*. A nitko ne griješi osim zloupotrebom neke stvari. Dakle, nijedan grešnik koji prima ovaj sakrament ne griješi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.obj4": {
+      "text": "Osim toga, kao što se ovaj sakrament zamjećuje okusom i dodirom, tako i vidom. Ako, dakle, grešnik griješi time što ovaj sakrament prima okusom i dodirom, čini se da bi griješio i gledajući ga. A očito je da je to lažno, budući da Crkva svima izlaže ovaj sakrament da ga gledaju i da mu se klanjaju. Dakle, grešnik ne griješi time što blaguje ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.obj5": {
+      "text": "Osim toga, događa se katkad da neki grešnik nije svjestan svoga grijeha. Ipak se ne čini da takav griješi primajući Kristovo tijelo, jer bi u tom slučaju griješili svi koji ga primaju, kao da se izlažu pogibli, budući da Apostol kaže 1 Kor 4: *Ničega nisam svjestan, ali time nisam opravdan*. Dakle, ne čini se da se grešniku uračunava u krivnju ako primi ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.sc": {
+      "text": "Ali protiv toga je ono što Apostol kaže 1 Kor 11: *Tko jede i pije nedostojno, sud sebi jede i pije*. A Glosa ondje kaže: *Nedostojno jede i pije onaj tko je u teškom grijehu ili tko s njim postupa bez poštovanja*. Dakle, tko je u smrtnom grijehu, ako primi ovaj sakrament, stječe osudu, smrtno griješeći.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.resp": {
+      "text": "Odgovaram: treba reći da je u ovom sakramentu, kao i u drugima, ono što je sakrament znak onoga što je stvar sakramenta. A dvostruka je stvar ovoga sakramenta, kao što je gore rečeno: jedna koja je označena i sadržana, naime sam Krist; a druga koja je označena, ali nije sadržana, naime otajstveno Kristovo tijelo, koje je zajedništvo svetih. Tko god, dakle, prima ovaj sakrament, samim time označuje da je sjedinjen s Kristom i pritjelovljen njegovim udovima. A to biva po oblikovanoj vjeri, koju nitko nema sa smrtnim grijehom. I zato je očito da tko god prima ovaj sakrament sa smrtnim grijehom, počinja neistinu u ovom sakramentu. I zato upada u svetogrđe, kao povreditelj sakramenta. I zbog toga smrtno griješi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da Krist, pojavljujući se u vlastitom liku, nije davao ljudima da ga dodiruju u znak duhovnoga sjedinjenja s njim, kao što se daje da ga se prima u ovom sakramentu. I zato grešnici koji su ga dodirivali u vlastitom liku nisu upadali u zločin neistine glede božanskih stvari, kao grešnici koji primaju ovaj sakrament. Osim toga, Krist je još nosio sličnost grešnoga tijela, i zato je prikladno davao grešnicima da ga dodiruju. Ali kad je slavom uskrsnuća uklonjena sličnost grešnoga tijela, zabranio je da ga dodirne žena koja je trpjela nedostatak vjere u njega, prema onome Iv 20: *Ne dotiči me se, jer još nisam uzašao k svome Ocu*, naime u tvome srcu, kako tumači Augustin. I zato se grešnici, koji trpe nedostatak oblikovane vjere u njega, odbijaju od dodira s ovim sakramentom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.ad2": {
+      "text": "Na drugo treba reći da ne pristaje svaki lijek u svakom stanju. Jer lijek koji se daje za okrjepu onima koji su već oslobođeni groznice škodio bi kad bi se davao onima koji još imaju groznicu. Tako su i krštenje i pokora čistilni lijekovi, koji se daju da se ukloni groznica grijeha. Ovaj je pak sakrament okrjepni lijek, koji se ne smije davati nego onima koji su oslobođeni od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.ad3": {
+      "text": "Na treće treba reći da Augustin ondje pod najvećim dobrima razumijeva kreposti duše, kojima se nitko ne služi zlo kao počelima zle uporabe. Ali netko se njima služi zlo kao predmetima zle uporabe, kao što je očito kod onih koji se oholo uznose zbog kreposti. Tako i ovaj sakrament, što se tiče njega samoga, nije počelo zle uporabe, nego predmet. Zato Augustin kaže: *Mnogi nedostojno primaju Gospodnje tijelo, po čemu se učimo koliko se treba čuvati da se dobro zlo primi. Evo, naime, nastalo je zlo dok se dobro zlo prima, kao što je, obratno, Apostolu nastalo dobro kad se zlo dobro primilo, naime kad se trn Sotonin strpljivo podnosio*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.ad4": {
+      "text": "Na četvrto treba reći da se vidom ne prima Kristovo tijelo kao takvo, nego samo njegov sakrament, jer, naime, vid ne doseže do supstancije Kristova tijela, nego samo do sakramentalnih prilika, kao što je gore rečeno. Ali onaj tko blaguje ne prima samo sakramentalne prilike, nego i Krista, koji je pod njima. I zato se nikome tko je primio Kristov sakrament, naime krštenje, ne zabranjuje viđenje Kristova tijela; nekrštene pak ne treba pripuštati ni gledanju ovoga sakramenta, kao što je jasno iz Dionizija u knjizi O crkvenoj hijerarhiji. Ali k blagovanju ne treba pripuštati nikoga osim onih koji su s Kristom sjedinjeni ne samo sakramentalno nego i stvarno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a4.ad5": {
+      "text": "Na peto treba reći da to što netko nije svjestan svoga grijeha može se dogoditi dvojako. Na jedan način, njegovom krivnjom: bilo zato što zbog neznanja prava, koje ne ispričava, smatra da nije grijeh ono što jest grijeh, primjerice kad bi neki bludnik smatrao da jednostavni blud nije smrtni grijeh; bilo zato što je nemaran u ispitivanju samoga sebe, protiv onoga što Apostol kaže 1 Kor 11: *Neka čovjek ispita samoga sebe, pa tako neka jede od onoga kruha i pije iz kaleža*. I tako grešnik koji prima Kristovo tijelo ipak griješi, iako nije svjestan grijeha, jer mu je samo neznanje grijeh. Na drugi se način može dogoditi bez njegove krivnje, primjerice kad je osjetio bol zbog grijeha, ali nije dovoljno skrušen. I u takvom slučaju ne griješi primajući Kristovo tijelo, jer čovjek ne može sa sigurnošću znati je li uistinu skrušen. Dovoljno je ipak ako u sebi nađe znakove skrušenosti, primjerice da osjeća bol zbog prošlih grijeha i odlučuje čuvati se budućih. Ako pak zbog neznanja činjenice, koje ispričava, ne zna da je ono što je učinio čin grijeha, primjerice ako je pristupio ženi koja nije njegova, a vjerovao je da je njegova, ne treba ga zbog toga nazvati grešnikom. Slično tako, ako je posve zaboravio grijeh, za njegovo je brisanje dovoljna opća skrušenost, kao što će se niže reći. Stoga ga više ne treba nazvati grešnikom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da je pristupiti ovom sakramentu sa sviješću o grijehu najteži od svih grijeha. Apostol, naime, kaže 1 Kor 11: *Tko god bude jeo kruh i pio kalež Gospodnji nedostojno, bit će kriv tijela i krvi Gospodnje*, a Glosa ondje: *bit će kažnjen kao da je ubio Krista*. Ali čini se da je grijeh onih koji su ubili Krista bio najteži. Dakle, čini se da je i ovaj grijeh, kojim netko sa sviješću o grijehu pristupa Gospodnjem stolu, najteži.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a5.obj2": {
+      "text": "Osim toga, Jeronim kaže u jednoj poslanici: *Što ti imaš sa ženama, ti koji kod oltara razgovaraš s Gospodinom? Reci, svećeniče, reci, kleriče, kako istim usnama cjelivaš Sina Božjega kojima si cjelivao kćer bludnice? O Juda, poljupcem predaješ Sina Čovječjega*. I tako se čini da bludnik koji pristupa Kristovu stolu griješi kao što je griješio Juda, čiji je grijeh bio najteži. Ali mnogi su drugi grijesi teži od grijeha bluda, a osobito grijeh nevjere. Dakle, grijeh bilo kojega grešnika koji pristupa Kristovu stolu najteži je.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a5.obj3": {
+      "text": "Osim toga, duhovna je nečistoća Bogu odvratnija od tjelesne. Ali kad bi tko bacio Kristovo tijelo u blato ili na gnojište, to bi se smatralo najtežim grijehom. Dakle, teže griješi ako ga primi s grijehom, koji je duhovna nečistoća. Dakle, ovaj je grijeh najteži.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a5.sc": {
+      "text": "Ali protiv toga je to što uz ono Iv 15, *Da nisam došao i govorio im, ne bi imali grijeha*, Augustin kaže da to treba razumjeti o grijehu nevjere, kojim se zadržavaju svi grijesi. I tako se čini da ovaj grijeh nije najteži, nego je to radije grijeh nevjere.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a5.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je izloženo u Drugom dijelu, neki grijeh može nazvati težim od drugoga dvojako: na jedan način, po sebi; na drugi način, akcidentalno. Po sebi, prema pojmu svoje vrste, koja se uzima s obzirom na predmet. I prema tome, što je veće ono protiv čega se griješi, to je grijeh teži. A budući da je Kristovo božanstvo veće od njegova čovještva, a samo je čovještvo vrjednije od sakramenata čovještva, odatle je da su najteži grijesi oni koji se čine protiv samoga božanstva, kao što je grijeh nevjere i bogohulstva. Drugotno su pak teški grijesi koji se čine protiv Kristova čovještva; zato se kaže Mt 12: *Tko kaže riječ protiv Sina Čovječjega, oprostit će mu se; a tko kaže riječ protiv Duha Svetoga, neće mu se oprostiti ni na ovom svijetu ni u budućem*. Na trećem su pak mjestu grijesi koji se čine protiv sakramenata, koji pripadaju Kristovu čovještvu. A nakon toga dolaze drugi grijesi, protiv pukih stvorova. Akcidentalno je pak jedan grijeh teži od drugoga s obzirom na onoga koji griješi; primjerice, grijeh koji je iz neznanja ili slabosti lakši je od grijeha koji je iz prezira ili iz svjesnoga znanja; a isti je razlog i za druge okolnosti. I prema tome, taj grijeh u nekima može biti teži, kao u onima koji iz aktualnoga prezira sa sviješću o grijehu pristupaju ovom sakramentu; u nekima pak manje težak, primjerice u onima koji sa sviješću o grijehu pristupaju ovom sakramentu iz nekog straha da ne budu otkriveni u grijehu. Tako je, dakle, jasno da je ovaj grijeh po svojoj vrsti teži od mnogih drugih, ali ipak nije najteži od svih.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da se grijeh onih koji nedostojno primaju ovaj sakrament uspoređuje s grijehom onih koji su ubili Krista po sličnosti, jer se oboje čini protiv Kristova tijela, ali ne po veličini zločina. Grijeh onih koji su ubili Krista bio je, naime, mnogo teži. Prvo, jer je onaj grijeh bio protiv Kristova tijela u njegovu vlastitom liku, a ovaj je protiv Kristova tijela u prilici sakramenta. Drugo, jer je onaj grijeh proizašao iz nakane da se naudi Kristu, a ovaj grijeh nije.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a5.ad2": {
+      "text": "Na drugo treba reći da se bludnik koji prima Kristovo tijelo uspoređuje s Judom koji cjeliva Krista s obzirom na sličnost zločina, jer obojica znakom ljubavi vrijeđaju Krista, ali ne s obzirom na veličinu zločina, kao što je i prije rečeno. Ta sličnost ipak ne pristaje ništa manje drugim grešnicima nego bludnicima; jer se i drugim smrtnim grijesima djeluje protiv Kristove ljubavi, čiji je znak ovaj sakrament, i to tim više što su grijesi teži. U nekom pogledu ipak grijeh bluda čini čovjeka nesposobnijim za primanje ovoga sakramenta, ukoliko se, naime, po tom grijehu duh ponajviše podvrgava tijelu, i tako se priječi žar ljubavi koji se traži u ovom sakramentu. Ali više teži zapreka same ljubavi nego zapreka njezina žara. Stoga i grijeh nevjere, koji čovjeka iz temelja odvaja od jedinstva Crkve, naprosto govoreći, ponajviše čini čovjeka nesposobnim za primanje ovoga sakramenta, koji je sakrament crkvenoga jedinstva, kao što je rečeno. Stoga i nevjernik koji prima ovaj sakrament teže griješi nego grešnik vjernik; i više prezire Krista ukoliko je pod ovim sakramentom, osobito ako ne vjeruje da je Krist uistinu pod ovim sakramentom, jer, koliko je do njega, umanjuje svetost ovoga sakramenta i snagu Krista koji djeluje u ovom sakramentu, a to je prezirati sam sakrament u njemu samome. Vjernik pak koji ga prima sa sviješću o grijehu prezire ovaj sakrament ne u njemu samome, nego s obzirom na uporabu, primajući ga nedostojno. Zato i Apostol, 1 Kor 11, navodeći razlog toga grijeha, kaže: ne razlikujući tijela Gospodnjega, to jest ne razlučujući ga od drugih jela, a to ponajviše čini onaj tko ne vjeruje da je Krist pod ovim sakramentom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a5.ad3": {
+      "text": "Na treće treba reći da bi onaj tko bi bacio ovaj sakrament u blato teže griješio od onoga tko sa sviješću o smrtnom grijehu pristupa ovom sakramentu. Prvo, jer bi onaj to činio s nakanom da nanese nepravdu ovom sakramentu, na što ne smjera grešnik koji nedostojno prima Kristovo tijelo. Drugo, jer je grešan čovjek sposoban za milost, pa je zato i prikladniji za primanje ovoga sakramenta nego bilo koji drugi nerazumni stvor. Stoga bi se ovim sakramentom najneurednije služio onaj tko bi ga bacio psima da ga jedu, ili tko bi ga bacio u blato da se gazi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da svećenik mora uskratiti Kristovo tijelo grešniku koji ga traži. Ne treba, naime, postupati protiv Kristove zapovijedi radi izbjegavanja sablazni ni radi izbjegavanja nečijega lošeg glasa. Ali Gospodin je zapovjedio, Mt 7: *Ne dajite svetinje psima*. A ponajviše se svetinja daje psima kad se ovaj sakrament daje grešnicima. Dakle, ni radi izbjegavanja sablazni ni radi izbjegavanja nečijega lošeg glasa ne treba ovaj sakrament davati grešniku koji ga traži.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a6.obj2": {
+      "text": "Osim toga, od dvaju zala treba izabrati manje zlo. Ali čini se da je manje zlo ako grešnik dođe na loš glas, ili čak ako mu se dade neposvećena hostija, nego ako smrtno sagriješi primajući Kristovo tijelo. Dakle, čini se da radije treba izabrati to: ili da grešnik koji traži Kristovo tijelo dođe na loš glas, ili da mu se dade neposvećena hostija.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a6.obj3": {
+      "text": "Osim toga, Kristovo se tijelo katkad daje onima koji su osumnjičeni za zločin, da bi se oni razotkrili; čita se, naime, u Dekretima, II, pit. 4: *Često se događa da se u samostanima monaha čine krađe. Stoga određujemo da, kad se sama braća moraju od takvih stvari očistiti, opat ili netko od nazočne braće slavi misu, i tako, nakon dovršene mise, neka se svi pričeste s ovim riječima: Tijelo Kristovo neka ti danas bude na dokaz*. I niže: *Ako se biskupu ili prezbiteru pripiše neko zlodjelo, za svako se mora slaviti misa i pričestiti se, i za svako što mu se pripisuje pokazati se nevinim*. Ali skrivene grešnike ne treba razotkrivati, jer će, ako odbace čelo stida, slobodnije griješiti, kako kaže Augustin u knjizi O riječima Gospodnjim. Dakle, skrivenim grešnicima ne treba davati Kristovo tijelo, čak i ako ga traže.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a6.sc": {
+      "text": "Ali protiv toga je to što uz ono iz Psalma, *Jeli su i klanjali se svi pretili zemlje*, Augustin kaže: *neka djelitelj ne brani pretilima zemlje*, to jest grešnicima, da blaguju za Gospodnjim stolom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a6.resp": {
+      "text": "Odgovaram: treba reći da glede grešnika treba razlikovati. Jedni su, naime, skriveni, a drugi javni: bilo očitošću djela, kao javni lihvari ili javni otimači; bilo i nekom crkvenom ili svjetovnom presudom. Javnim, dakle, grešnicima ne treba davati svetu pričest, čak ni kad je traže. Stoga Ciprijan nekome piše: *Ti si u svojoj ljubavi smatrao da me trebaš upitati što mislim o glumcima i o onom čarobnjaku koji, nastanjen kod vas, još ustraje u sramoti svoga umijeća: treba li takvima davati svetu pričest zajedno s ostalim kršćanima. Mislim da ne priliči ni božanskom veličanstvu ni evanđeoskoj stezi da se stid i čast Crkve okalja tako sramotnom i ozloglašenom zarazom*. Ako pak nisu javni nego skriveni grešnici, ne može im se, kad je traže, uskratiti sveta pričest. Budući da je, naime, svaki kršćanin, samim time što je kršten, pripušten Gospodnjem stolu, ne može im se oduzeti njihovo pravo osim zbog nekoga javnog razloga. Stoga uz ono 1 Kor 5, *Ako onaj koji se među vama naziva bratom* itd., Augustinova Glosa kaže: *Mi ne možemo nikoga isključiti iz pričesti, osim ako nije sam priznao ili ako nije na nekom crkvenom ili svjetovnom sudu imenovan i osuđen*. Ipak, svećenik koji zna za zločin može potajno opomenuti skrivenoga grešnika, ili čak javno, općenito, sve, da ne pristupaju Gospodnjem stolu prije nego što učine pokoru i pomire se s Crkvom. Jer nakon pokore i pomirenja ni javnim grešnicima ne treba uskratiti pričest, osobito na samrti. Stoga se na Kartaškom saboru čita: *Kazališnim glumcima i lakrdijašima i ostalim takvim osobama, ili otpadnicima, kad se obrate Bogu, neka se ne uskrati pomirenje*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se zabranjuje davati svetinje psima, to jest javnim grešnicima. Ali skrivene stvari ne mogu se javno kažnjavati, nego ih treba prepustiti Božjem sudu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a6.ad2": {
+      "text": "Na drugo treba reći da, premda je za skrivenoga grešnika gore smrtno sagriješiti primajući Kristovo tijelo nego doći na loš glas, ipak je za svećenika koji podjeljuje Kristovo tijelo gore smrtno sagriješiti nepravedno izvrgavajući skrivenoga grešnika lošem glasu nego da onaj smrtno sagriješi, jer nitko ne smije počiniti smrtni grijeh da bi drugoga oslobodio od grijeha. Stoga Augustin kaže u knjizi Pitanja o Knjizi postanka: *Najopasnije se dopušta ova naknada, da mi učinimo nešto zlo kako drugi ne bi učinio teže zlo*. Skriveni bi grešnik ipak radije trebao izabrati da dođe na loš glas nego da nedostojno pristupi Kristovu stolu. Ali neposvećena se hostija nipošto ne smije davati umjesto posvećene, jer svećenik koji to čini, koliko je do njega, navodi na idolopoklonstvo one koji vjeruju da je hostija posvećena, bilo ostale nazočne bilo samoga onoga koji je prima; jer, kako kaže Augustin, *neka nitko ne blaguje Kristovo tijelo ako mu se prije ne pokloni*. Stoga se u Dekretalima, u naslovu O slavljenju misa, pogl. De homine, kaže: *Iako onaj koji se zbog svijesti o svome zločinu smatra nedostojnim teško griješi ako se nametne, ipak se čini da teže vrijeđa onaj koji bi se drznuo to prijevarno hiniti*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a6.ad3": {
+      "text": "Na treće treba reći da su te odredbe dokinute suprotnim dokumentima rimskih prvosvećenika. Papa Stjepan, naime, kaže: *Sveti kanoni ne dopuštaju da se od bilo koga iznuđuje priznanje kušnjom užarenoga željeza ili kipuće vode. Našoj je, naime, upravi dano da sudi prijestupe počinjene i obznanjene dobrovoljnim priznanjem ili dokazom svjedoka, a skrivene i nepoznate treba prepustiti onomu koji jedini poznaje srca sinova ljudskih*. I isto se nalazi u Dekretalima, u naslovu O očišćenjima, pogl. Ex tuarum. U svim se takvim stvarima, naime, čini da je riječ o iskušavanju Boga, pa se zato ne mogu činiti bez grijeha. I činilo bi se težim kad bi netko u ovom sakramentu, koji je ustanovljen kao lijek spasenja, upao u sud smrti. Stoga se Kristovo tijelo nipošto ne smije davati nekome tko je osumnjičen za zločin kao radi ispitivanja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da noćna polucija nikoga ne priječi da primi Kristovo tijelo. Nitko, naime, nije spriječen primiti Kristovo tijelo osim zbog grijeha. Ali noćna se polucija događa bez grijeha; kaže, naime, Augustin u XII. knjizi O doslovnom tumačenju Knjige postanka: *kad sama mašta koja nastaje u misli onoga koji govori bude tako izražena u viđenju onoga koji sanja da se između nje i pravoga sjedinjenja tijela ne pravi razlika, odmah se pokreće put i slijedi ono što obično slijedi taj pokret, budući da se to događa jednako bez grijeha kao što budni bez grijeha izgovaraju ono što je, da bi se izreklo, bez sumnje bilo zamišljeno*. Dakle, noćna polucija ne priječi čovjeka da primi ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.obj2": {
+      "text": "Osim toga, Grgur kaže u poslanici Augustinu, biskupu Angla: *Ako se tko služi svojom ženom ne zanesen žudnjom za užitkom, nego samo radi rađanja djece, njega doista, bilo glede ulaska u crkvu bilo glede primanja otajstva Gospodnjega tijela, treba prepustiti njegovu vlastitom sudu, jer mi ne smijemo zabraniti da primi onomu koji, stavljen u oganj, ne zna gorjeti*. Iz toga je jasno da tjelesna polucija, čak i budnoga, ako je bez grijeha, ne zabranjuje čovjeku da primi Kristovo tijelo. Mnogo, dakle, manje to zabranjuje noćna polucija onoga koji spava.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.obj3": {
+      "text": "Osim toga, čini se da noćna polucija sa sobom nosi samo tjelesnu nečistoću. Ali druge tjelesne nečistoće, koje su prema Zakonu priječile ulazak u svetište, u Novom zakonu ne priječe primanje Kristova tijela, kako blaženi Grgur piše Augustinu, biskupu Angla, o ženi koja rađa, ili koja ima mjesečnicu, ili koja trpi krvarenje. Dakle, čini se da ni noćna polucija ne priječi čovjeka da primi ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.obj4": {
+      "text": "Osim toga, laki grijeh ne priječi čovjeka da primi ovaj sakrament, pa ni smrtni grijeh nakon pokore. A ako se i pretpostavi da je noćna polucija potekla od nekoga prethodnog grijeha, bilo prejedanja bilo sramotnih misli, takav je grijeh najčešće laki; a ako je katkad i smrtni, može se dogoditi da se čovjek ujutro pokaje i ispovjedi svoj grijeh. Dakle, čini se da ga ne bi trebalo priječiti da primi ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.obj5": {
+      "text": "Osim toga, ubojstvo je teži grijeh od bluda. Ali ako netko noću sanja da čini ubojstvo ili krađu, ili bilo koji drugi grijeh, zbog toga nije spriječen primiti Kristovo tijelo. Dakle, čini se da još mnogo manje priječi primanje ovoga sakramenta sanjani blud s polucijom koja ga slijedi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Lev 15: *Čovjek od kojega izađe sjeme snošaja bit će nečist do večeri*. A nečistima nije otvoren pristup sakramentima. Dakle, čini se da je zbog noćne polucije netko spriječen primiti ovaj sakrament, koji je najveći sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.resp": {
+      "text": "Odgovaram: treba reći da se glede noćne polucije mogu razmotriti dvije stvari: jedna zbog koje ona nužno priječi čovjeka da primi ovaj sakrament, a druga zbog koje ga ne priječi nužno, nego zbog neke prikladnosti. Nužno pak priječi čovjeka da primi ovaj sakrament samo smrtni grijeh. I premda sama noćna polucija, razmatrana po sebi, ne može biti smrtni grijeh, ipak je zbog svojega uzroka katkad povezana sa smrtnim grijehom. Zato treba razmotriti uzrok noćne polucije. Katkad, naime, ona potječe od izvanjskoga duhovnog uzroka, to jest od obmane demona, koji, kako je utvrđeno u Prvom dijelu, mogu pokretati maštovne slike, nakon čijeg se pojavljivanja katkad javlja polucija. Katkad pak polucija potječe od unutarnjega duhovnog uzroka, to jest od prethodnih misli. Katkad opet od unutarnjega tjelesnog uzroka, bilo od preobilja ili slabosti naravi, bilo i od preobilja jela i pića. Svaki pak od ta tri uzroka može postojati i bez grijeha i s lakim ili smrtnim grijehom. Ako je bez grijeha ili s lakim grijehom, ne priječi nužno primanje ovoga sakramenta, to jest tako da bi čovjek primajući ga bio kriv tijela i krvi Gospodnje. Ako je pak sa smrtnim grijehom, priječi nužno. Obmana demona, naime, katkad potječe od prethodnoga nemara u pripremanju za predanost, a on može biti ili smrtni ili laki grijeh. Katkad pak potječe samo od pakosti demona koji hoće spriječiti čovjeka da primi ovaj sakrament. Zato se u Razgovorima otaca čita da su starci, kad je netko uvijek trpio poluciju na blagdane na koje se trebao pričestiti, pošto su utvrdili da s njegove strane nije prethodio nikakav uzrok, odlučili da zbog toga ne odustaje od pričesti, i tako je prestala obmana demona. Isto tako i prethodne pohotne misli mogu katkad biti posve bez grijeha, na primjer kad je netko radi čitanja ili raspravljanja prisiljen misliti o takvim stvarima. I ako je to bez požude i naslade, misli neće biti nečiste, nego čestite, a ipak iz njih može slijediti polucija, kako je jasno iz navedenoga Augustinova autoriteta. Katkad su pak prethodne misli s požudom i nasladom, pa ako je prisutan pristanak, bit će smrtni grijeh, a ako nije, laki. Isto je tako i tjelesni uzrok katkad bez grijeha, na primjer kad potječe od slabosti naravi, zbog čega neki i na javi bez grijeha trpe izljev sjemena; ili također ako potječe od preobilja naravi: kao što se, naime, događa da krvi bez grijeha bude previše, tako i sjemena, koje je, prema Filozofu, višak krvi. Katkad je pak s grijehom, na primjer kad potječe od preobilja jela ili pića. I to također može biti laki ili smrtni grijeh, premda se smrtni grijeh češće događa glede sramotnih misli, zbog lakoće pristanka, nego glede uzimanja jela i pića. Zato Grgur, pišući Augustinu, biskupu Angla, kaže da treba odustati od pričesti kad polucija potječe od sramotnih misli, ali ne kad potječe od preobilja jela i pića, osobito ako postoji nužda. Tako se, dakle, prema uzroku polucije može razmotriti priječi li noćna polucija nužno primanje ovoga sakramenta. Zbog neke pak prikladnosti priječi glede dviju stvari. Jedna se od njih uvijek događa, to jest neka tjelesna onečišćenost, s kojom, zbog poštovanja prema sakramentu, ne dolikuje pristupiti oltaru, pa i oni koji žele dotaknuti nešto sveto peru ruke; osim možda ako je takva nečistoća trajna ili dugotrajna, kao što je guba ili krvarenje ili nešto slično. Druga je pak rastresenost duha koja slijedi noćnu poluciju, osobito kad se događa sa sramotnom slikom u mašti. Ipak, ova zapreka koja potječe od prikladnosti mora ustupiti pred nekom nuždom, na primjer, kako kaže Grgur, *kad možda ili blagdan to zahtijeva, ili sama nužda sili da se vrši služba, zato što nema drugoga svećenika*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da čovjek nije nužno spriječen primiti ovaj sakrament osim zbog smrtnoga grijeha, ali zbog neke prikladnosti čovjek može biti spriječen i zbog drugih uzroka, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.ad2": {
+      "text": "Na drugo treba reći da bračni snošaj, ako je bez grijeha, na primjer ako se vrši radi rađanja potomstva ili radi vraćanja duga, ne priječi primanje sakramenta iz drugoga razloga nego kako je rečeno o noćnoj poluciji koja se događa bez grijeha, to jest zbog tjelesne nečistoće i rastresenosti duha. Zbog toga Jeronim kaže u tumačenju Mateja: *Ako kruhove prinošenja nisu smjeli jesti oni koji su se dotaknuli žena, koliko više kruh koji je sišao s neba ne smiju oskvrnuti i dotaknuti oni koji su malo prije bili u bračnim zagrljajima. Ne da osuđujemo ženidbu, nego da se u ono vrijeme kad ćemo jesti meso janjeta moramo uzdržavati od tjelesnih djela*. Ali budući da to treba shvatiti po prikladnosti, a ne po nužnosti, Grgur kaže da takvoga *treba prepustiti njegovu vlastitom sudu. Ako pak u činu ne prevladava ljubav prema rađanju potomstva, nego užitak*, kako ondje Grgur dodaje, tada mu treba zabraniti da pristupi ovom sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.ad3": {
+      "text": "Na treće treba reći da se, kako kaže Grgur u gore spomenutoj poslanici Augustinu, biskupu Angla, u Starom zavjetu za neke govorilo da su onečišćeni u predslikovnom smislu, što narod Novoga zakona shvaća duhovno. Zato takve tjelesne nečistoće, ako su trajne ili dugotrajne, ne priječe primanje ovoga spasonosnog sakramenta kao što su priječile pristup predslikovnim sakramentima. Ako pak brzo prolaze, kao nečistoća noćne polucije, zbog neke prikladnosti priječi primanje ovoga sakramenta toga dana kada se to dogodi. Zato se i u Pnz 23 kaže: *Ako među vama bude čovjek koji se onečistio noćnim snom, neka izađe izvan tabora i neka se ne vrati dok se navečer ne opere vodom*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.ad4": {
+      "text": "Na četvrto treba reći da se, iako se skrušenošću i ispovijeđu uklanja krivnja, ipak ne uklanja tjelesna nečistoća ni rastresenost duha koja je proizašla iz polucije.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a7.ad5": {
+      "text": "Na peto treba reći da san o ubojstvu ne uzrokuje tjelesnu nečistoću, a ni toliku rastresenost duha kao blud, zbog žestine naslade. Ako pak san o ubojstvu potječe od uzroka koji je grijeh, osobito smrtni, priječi primanje ovoga sakramenta zbog svojega uzroka.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da prethodno uzeto jelo ili piće ne priječi primanje ovoga sakramenta. Ovaj je sakrament, naime, Gospodin ustanovio na večeri. Ali Gospodin je, pošto je večerao, predao ovaj sakrament učenicima, kako je jasno iz Lk 22 i 1 Kor 11. Dakle, čini se da i nakon što smo uzeli druga jela trebamo primati ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.obj2": {
+      "text": "Osim toga, u 1 Kor 11 kaže se: *Kad se okupljate da jedete*, to jest Gospodnje tijelo, *čekajte jedni druge; ako je pak tko gladan, neka jede kod kuće*. I tako se čini da netko, pošto je jeo kod kuće, može u crkvi jesti Kristovo tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.obj3": {
+      "text": "Osim toga, u Kartaškom koncilu čita se, a nalazi se u Dekretima, O posveti, 1. distinkcija: *Sakramenti oltara neka se slave samo od ljudi natašte, osim jednoga godišnjeg dana kada se slavi Gospodnja večera*. Dakle, barem toga dana netko može primiti Kristovo tijelo nakon drugih jela.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.obj4": {
+      "text": "Osim toga, uzimanje vode ili lijeka, ili drugoga jela ili pića u vrlo maloj količini, ili također ostataka hrane koji su ostali u ustima, niti prekida crkveni post niti ukida trijeznost koja se traži da bi netko s poštovanjem primio ovaj sakrament. Dakle, zbog spomenutoga nitko nije spriječen primiti ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.obj5": {
+      "text": "Osim toga, neki jedu ili piju duboko u noć, ili možda, provevši cijelu noć bez sna, ujutro primaju sveta otajstva, a da još nisu posve probavili. A trijeznost bi čovjeka bila manje narušena kad bi ujutro malo pojeo, a poslije, oko devete ure, primio ovaj sakrament, jer je katkad i vremenski razmak veći. Dakle, čini se da takvo prethodno uzimanje jela ne priječi čovjeka da primi ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.obj6": {
+      "text": "Osim toga, ovom sakramentu, pošto je primljen, ne duguje se manje poštovanje nego prije primanja. Ali nakon primanja sakramenta dopušteno je uzeti jelo ili piće. Dakle, i prije primanja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u knjizi Odgovori Januariju: *Svidjelo se Duhu Svetomu da u čast tako velikoga sakramenta Gospodnje tijelo uđe u usta kršćanina prije nego ostala jela*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.resp": {
+      "text": "Odgovaram: treba reći da nešto priječi primanje ovoga sakramenta na dva načina. Na jedan način po sebi, kao smrtni grijeh, koji se protivi onomu što ovaj sakrament označuje, kako je gore rečeno. Na drugi način zbog crkvene zabrane. I tako je netko spriječen primiti ovaj sakrament nakon uzetoga jela ili pića, iz trostrukoga razloga. Prvo, kako kaže Augustin, u čast ovoga sakramenta, to jest da uđe u usta čovjeka koja još nisu okaljana nikakvim jelom ili pićem. Drugo, zbog značenja, to jest da se dade razumjeti kako Krist, koji je stvar ovoga sakramenta, i njegova ljubav moraju najprije biti utemeljeni u našim srcima, prema onom iz Mt 6: *Tražite najprije kraljevstvo Božje*. Treće, zbog opasnosti od povraćanja i pijanstva, koji se katkad događaju zato što se ljudi neuredno služe jelima, kao što i Apostol kaže u 1 Kor 11: *Jedan je gladan, a drugi pijan*. Od ovoga se općeg pravila ipak izuzimaju bolesnici, koje treba odmah pričestiti, čak i nakon jela, ako se zbog njihove pogibelji strahuje da bi mogli umrijeti bez pričesti, jer nužda nema zakona. Zato se kaže u Dekretima, O posveti, 2. distinkcija: *Neka prezbiter odmah pričesti bolesnika, da ne umre bez pričesti*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako Augustin kaže u istoj knjizi, *zato što je Gospodin dao nakon jela, ne treba da se braća okupljaju da prime ovaj sakrament pošto su objedovali ili večerali, ili da ga miješaju sa svojim stolovima, kao što su činili oni koje Apostol kori i ispravlja. Jer Spasitelj je, da bi što snažnije preporučio uzvišenost toga otajstva, htio da to posljednje utisne u srca i pamćenje učenika. I zato nije propisao kojim će se redom ono ubuduće primati, kako bi to ostavio apostolima, po kojima je imao urediti Crkve*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.ad2": {
+      "text": "Na drugo treba reći da se ta riječ u Glosi ovako tumači: *Ako je tko gladan i, nestrpljiv, neće čekati druge, neka jede svoja jela kod kuće, to jest neka se hrani zemaljskim kruhom, i neka poslije ne prima Euharistiju*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.ad3": {
+      "text": "Na treće treba reći da ono poglavlje govori prema običaju koji se nekoć kod nekih obdržavao, da toga dana, kao predočenje Gospodnje večere, Kristovo tijelo primaju i oni koji nisu natašte. Ali sada je to ukinuto. Jer, kako kaže Augustin u spomenutoj knjizi, *taj se običaj obdržava po svem svijetu*, to jest da Kristovo tijelo primaju oni koji su natašte.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.ad4": {
+      "text": "Na četvrto treba reći da je, kako je utvrđeno u Drugom dijelu, post dvostruk. Prvi je naravni post, koji podrazumijeva lišenost bilo čega prethodno uzetoga na način jela ili pića. I takav se post traži za ovaj sakrament, zbog onoga što je rečeno. Zato nije dopušteno primiti ovaj sakrament ni nakon uzimanja vode ili kojega drugog jela ili pića, ili također lijeka, u ma kako maloj količini. I nije važno hrani li nešto takvo ili ne hrani, bilo samo po sebi bilo s drugim stvarima, samo ako se uzima na način jela ili pića. Ostaci pak hrane koji ostaju u ustima, ako se slučajno progutaju, ne priječe primanje ovoga sakramenta, jer se ne gutaju na način jela, nego na način sline. Isti je razlog i za ostatke vode ili vina kojima se ispiru usta, samo ako se ne gutaju u velikoj količini, nego pomiješani sa slinom, što se ne može izbjeći. Drugi je pak crkveni post, koji je ustanovljen radi trapljenja tijela. I takav se post ne prekida onim što je spomenuto, jer to ne hrani mnogo, nego se više uzima radi kakvoćne promjene.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.ad5": {
+      "text": "Na peto treba reći da kad se kaže: *ovaj sakrament mora ući u usta kršćanina prije nego druga jela*, to ne treba shvatiti bezuvjetno s obzirom na sve vrijeme; inače onaj tko je jednom jeo i pio nikada ne bi poslije mogao primiti ovaj sakrament. Nego to treba shvatiti s obzirom na isti dan. I premda različiti ljudi različito uzimaju početak dana, jer jedni počinju dan od podneva, drugi od zalaska sunca, treći od ponoći, a neki od izlaska sunca, Crkva ipak, prema Rimljanima, počinje dan od ponoći. Zato, ako je netko poslije ponoći uzeo nešto na način jela ili pića, ne može istoga dana primiti ovaj sakrament, a može ako je to bilo prije ponoći. I nije važno, s obzirom na smisao zapovijedi, je li poslije jela ili pića spavao, ili je li čak probavio. Važno je pak s obzirom na uznemirenost duha koju ljudi trpe zbog nesanice ili neprobavljenosti: ako se zbog njih duh jako uznemiri, čovjek postaje nesposoban za primanje ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a8.ad6": {
+      "text": "Na šesto treba reći da se najveća predanost traži u samom primanju sakramenta, jer se tada prima učinak sakramenta. A tu predanost više priječi ono što prethodi nego ono što slijedi. Zato je radije ustanovljeno da ljudi poste prije primanja ovoga sakramenta nego poslije. Ipak, mora postojati neki razmak između primanja ovoga sakramenta i ostalih jela. Zato se i u misi poslije pričesti izgovara molitva zahvaljivanja, a i oni koji se pričešćuju izgovaraju svoje privatne molitve. Prema starim je kanonima, ipak, papa Klement odredio, kako se nalazi u Dekretima, O posveti, 2. distinkcija: *Ako se ujutro pojede Gospodnji dio, neka služitelji koji su ga primili poste do šeste ure; a ako su ga primili u treću ili četvrtu uru, neka poste do večeri*. Nekoć su se, naime, svečane mise rjeđe slavile, i s većom pripravom. Sada pak, budući da treba češće slaviti sveta otajstva, to se ne bi moglo lako obdržavati. Zato je ukinuto suprotnim običajem.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da oni koji nemaju uporabe razuma ne bi trebali primati ovaj sakrament. Traži se, naime, da netko pristupi ovom sakramentu s predanošću i nakon prethodnoga ispitivanja samoga sebe, prema onom iz 1 Kor 11: *Neka čovjek ispita sam sebe, i tako neka jede od onoga kruha i pije iz kaleža*. Ali to ne može biti kod onih kojima nedostaje uporaba razuma. Dakle, ne bi im se trebao davati ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a9.obj2": {
+      "text": "Osim toga, među ostalima kojima nedostaje uporaba razuma jesu i pomamni, koji se nazivaju energumeni. Ali takve se, prema Dioniziju u knjizi O crkvenoj hijerarhiji, udaljuje čak i od promatranja ovoga sakramenta. Dakle, onima kojima nedostaje uporaba razuma ne bi se trebao davati ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a9.obj3": {
+      "text": "Osim toga, među ostalima kojima nedostaje uporaba razuma najnevinija se čine djeca. Ali djeci se ovaj sakrament ne daje. Dakle, još mnogo manje ostalima kojima nedostaje uporaba razuma.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a9.sc": {
+      "text": "Ali protiv toga je ono što se čita u Oranškom koncilu, a nalazi se u Dekretima, XXVI. kauza, 6. pitanje: *Umobolnima treba podijeliti sve što pripada pobožnosti*. I tako im treba podijeliti ovaj sakrament, koji je sakrament pobožnosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a9.resp": {
+      "text": "Odgovaram: treba reći da se za neke kaže da nemaju uporabe razuma na dva načina. Na jedan način zato što imaju slabu uporabu razuma, kao što se kaže da ne vidi onaj tko loše vidi. I budući da takvi mogu začeti neku predanost prema ovom sakramentu, ne treba im ga uskratiti. Na drugi se način za neke kaže da posve nemaju uporabe razuma. Ili je, dakle, nikada nisu imali, nego su takvi ostali od rođenja, i tada takvima ne treba davati ovaj sakrament, jer u njima ni na koji način nije prethodila predanost prema ovom sakramentu. Ili nisu uvijek bili bez uporabe razuma. I tada, ako se u njima prije, dok su bili pri zdravoj pameti, očitovala predanost prema ovom sakramentu, treba im ga dati na samrti, osim ako se možda ne strahuje od opasnosti povraćanja ili ispljuvavanja. Zato se čita u Četvrtom kartaškom koncilu, a nalazi se u Dekretima, XXVI. kauza, 6. pitanje: *Onaj tko u bolesti traži pokoru, ako slučajno, dok svećenik pozvan k njemu dolazi, svladan bolešću onijemi ili padne u bunilo, neka posvjedoče oni koji su ga čuli, i neka primi pokoru; i ako se misli da će uskoro umrijeti, neka se pomiri polaganjem ruku i neka mu se u usta ulije Euharistija*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da oni kojima nedostaje uporaba razuma mogu imati predanost prema sakramentu: jedni sadašnju, a drugi prošlu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a9.ad2": {
+      "text": "Na drugo treba reći da Dionizije ondje govori o energumenima koji još nisu kršteni, to jest u kojima još nije ugašena demonova sila, koja je u njima djelotvorna po istočnom grijehu. Ali za krštene koje nečisti duhovi tjelesno muče vrijedi isti razlog kao i za ostale umobolne. Zato Kasijan za one koje muče nečisti duhovi kaže: *ne sjećamo se da su im naši stariji ikada zabranili presvetu pričest*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a9.ad3": {
+      "text": "Na treće treba reći da isti razlog vrijedi za tek rođenu djecu i za umobolne koji nikada nisu imali uporabe razuma. Zato takvima ne treba davati sveta otajstva, premda neki Grci čine suprotno, zato što Dionizije u 2. poglavlju O crkvenoj hijerarhiji kaže da krštenima treba dati svetu pričest, ne shvaćajući da Dionizije ondje govori o krštenju odraslih. A ipak zbog toga ne trpe nikakvu štetu za život, unatoč tomu što Gospodin kaže u Iv 6: *Ako ne budete jeli tijelo Sina Čovječjega i pili njegovu krv, nećete imati života u sebi*, jer, kako Augustin piše Bonifaciju, *tada svaki vjernik postaje dionikom tijela i krvi Gospodnje, to jest duhovno, kada u krštenju postane udom Kristova tijela*. Ali kada djeca već počnu imati neku uporabu razuma, tako da mogu začeti predanost prema ovom sakramentu, tada im se ovaj sakrament može podijeliti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da nije dopušteno svakodnevno primati ovaj sakrament. Kao što, naime, krštenje predočuje Gospodnju muku, tako i ovaj sakrament. Ali nije dopušteno krstiti se više puta, nego samo jednom, jer je Krist samo jednom umro za naše grijehe, kako se kaže u 1 Pt 3. Dakle, čini se da nije dopušteno svakodnevno primati ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.obj2": {
+      "text": "Osim toga, istina mora odgovarati predslici. Ali pashalno janje, koje je bilo glavna predslika ovoga sakramenta, kako je gore rečeno, jelo se samo jednom godišnje. A i Crkva jednom godišnje slavi Kristovu muku, koje je ovaj sakrament spomen. Dakle, čini se da nije dopušteno svakodnevno primati ovaj sakrament, nego jednom godišnje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.obj3": {
+      "text": "Osim toga, ovom sakramentu, u kojem je sadržan cijeli Krist, duguje se najveće poštovanje. A poštovanju pripada da se netko uzdržava od ovoga sakramenta; zato se i hvali satnik, koji je rekao, Mt 8: *Gospodine, nisam dostojan da uđeš pod moj krov*; i Petar, koji je rekao, Lk 5: *Idi od mene, Gospodine, jer sam čovjek grešnik*. Dakle, nije hvalevrijedno da čovjek svakodnevno prima ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.obj4": {
+      "text": "Osim toga, kad bi bilo hvalevrijedno često primati ovaj sakrament, što bi se češće primao, to bi bilo hvalevrjednije. Ali veća bi bila učestalost kad bi čovjek više puta na dan primao ovaj sakrament. Dakle, bilo bi hvalevrijedno da se čovjek više puta na dan pričešćuje. A to ipak nije crkveni običaj. Dakle, ne čini se hvalevrijednim da netko svakodnevno prima ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.obj5": {
+      "text": "Osim toga, Crkva svojim odredbama smjera skrbiti za korist vjernika. Ali prema crkvenoj odredbi vjernici su dužni pričestiti se samo jednom godišnje; zato se kaže u Dekretalima, u naslovu O pokori i otpuštenju: *Svaki vjernik obaju spolova neka s poštovanjem primi barem o Uskrsu sakrament Euharistije, osim ako možda, po savjetu svojega svećenika, zbog nekoga razumnog razloga ne odluči na neko vrijeme uzdržati se od njegova primanja*. Dakle, nije hvalevrijedno da se ovaj sakrament svakodnevno prima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u knjizi O riječima Gospodnjim: *Ovaj je kruh svagdanji; primaj svaki dan ono što ti svaki dan koristi*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.resp": {
+      "text": "Odgovaram: treba reći da se glede uporabe ovoga sakramenta mogu razmotriti dvije stvari. Jedna sa strane samoga sakramenta, čija je snaga ljudima spasonosna. Zato je korisno svakodnevno ga primati, da čovjek svaki dan prima njegov plod. Zato Ambrozije kaže u knjizi O sakramentima: *Ako se Kristova krv, kad god se prolijeva, prolijeva za otpuštenje grijeha, moram je uvijek primati, ja koji uvijek griješim; moram uvijek imati lijek*. Na drugi se način može razmotriti sa strane onoga koji prima, od kojega se traži da ovomu sakramentu pristupi s velikom predanošću i poštovanjem. Zato, ako se netko svaki dan nađe pripravnim za to, hvalevrijedno je da ga svaki dan prima. Zato Augustin, pošto je rekao: *Primaj ono što ti svaki dan koristi*, dodaje: *Tako živi da svaki dan zaslužiš primati*. Ali budući da se vrlo često kod mnogih ljudi javljaju mnoge zapreke toj predanosti, zbog neraspoloživosti tijela ili duše, nije korisno svim ljudima svakodnevno pristupati ovom sakramentu, nego kad god se čovjek nađe pripravnim za njega. Zato se u knjizi O crkvenim dogmama kaže: *Svakodnevno primati euharistijsku pričest niti hvalim niti kudim*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da se po sakramentu krštenja čovjek suobličuje Kristovoj smrti, primajući u sebe njegov biljeg; i zato, kao što je Krist jednom umro, tako se i čovjek mora samo jednom krstiti. Ali po ovom sakramentu čovjek ne prima Kristov biljeg, nego samoga Krista, čija snaga ostaje dovijeka; zato Heb 10: *Jednim je prinosom zauvijek usavršio posvećene*. I zato, budući da je čovjeku svaki dan potrebna Kristova spasonosna snaga, može svaki dan hvalevrijedno primati ovaj sakrament. I budući da je krštenje ponajprije duhovno preporođenje, zato, kao što se čovjek jednom tjelesno rađa, tako se mora jednom duhovno preporoditi krštenjem, kako kaže Augustin o onom iz Iv 3: *Kako se može čovjek roditi kad je star?* Ali ovaj je sakrament duhovna hrana; zato, kao što se tjelesna hrana uzima svaki dan, tako je i ovaj sakrament hvalevrijedno primati svaki dan. Zato Gospodin, Lk 11, uči moliti: *Kruh naš svagdanji daj nam danas*; tumačeći to, Augustin kaže u knjizi O riječima Gospodnjim: ako primaš svaki dan, to jest ovaj sakrament, *svaki ti je dan danas, tebi Krist svaki dan uskrsava; danas je, naime, kada Krist uskrsava*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.ad2": {
+      "text": "Na drugo treba reći da je pashalno janje ponajprije bilo predslika ovoga sakramenta glede Kristove muke, koja se predočuje ovim sakramentom. I zato se jelo samo jednom godišnje, jer je Krist jednom umro. I zbog toga i Crkva jednom godišnje slavi spomen Kristove muke. Ali u ovom nam se sakramentu predaje spomen Kristove muke na način hrane, koja se svaki dan uzima. I zato se s obzirom na to označuje manom, koja se svaki dan davala narodu u pustinji.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.ad3": {
+      "text": "Na treće treba reći da poštovanje prema ovom sakramentu ima strah povezan s ljubavlju; zato se strah poštovanja prema Bogu naziva sinovskim strahom, kako je rečeno u Drugom dijelu. Iz ljubavi se, naime, budi želja za primanjem, a iz straha izvire poniznost poštovanja. I zato oboje pripada poštovanju prema ovom sakramentu: i da se svaki dan prima i da se katkad uzdrži od njega. Zato Augustin kaže: *Ako netko kaže da Euharistiju ne treba primati svaki dan, a drugi tvrdi da treba svaki dan, neka svaki čini ono što prema svojoj vjeri pobožno vjeruje da treba činiti. Ta nisu se međusobno prepirali Zakej i onaj satnik, premda je jedan od njih radosno primio Gospodina, a drugi rekao: Nisam dostojan da uđeš pod moj krov, obojica časteći Spasitelja, iako ne na isti način*. Ljubav i nada, na koje nas Pismo uvijek potiče, ipak se pretpostavljaju strahu; zato je i Isus, kad je Petar rekao: *Idi od mene, Gospodine, jer sam grešan čovjek*, odgovorio: Ne boj se.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.ad4": {
+      "text": "Na četvrto treba reći da se, budući da Gospodin kaže: *Kruh naš svagdanji daj nam danas*, ne treba pričešćivati više puta na dan, da bi se barem time što se netko pričešćuje jednom na dan predočilo jedinstvo Kristove muke.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a10.ad5": {
+      "text": "Na peto treba reći da su prema različitom stanju Crkve o tome proistekle različite odredbe. U prvotnoj Crkvi, naime, kada je više cvala predanost kršćanske vjere, bilo je određeno da se vjernici pričešćuju svaki dan. Zato papa Anaklet kaže: *Pošto se obavi posveta, neka se pričeste svi koji ne žele biti lišeni crkvenih pragova; tako su, naime, odredili i apostoli, i tako drži sveta Rimska Crkva*. Kasnije pak, kad je oslabio žar vjere, papa Fabijan dopustio je *da se, ako ne češće, barem triput godišnje svi pričeste*, to jest o Uskrsu, o Duhovima i o Božiću. I papa Soter kaže da se treba pričestiti na Gospodnju večeru, kako se nalazi u Dekretima, O posveti, 2. distinkcija. *Kasnije pak, zbog obilja bezakonja, kad se ohladila ljubav mnogih*, Inocent III. odredio je da se vjernici pričeste barem jednom godišnje, to jest o Uskrsu. Ipak se u knjizi O crkvenim dogmama savjetuje *da se pričešćuje svih nedjelja*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da je dopušteno posve odustati od pričesti. Hvali se, naime, satnik zbog toga što kaže, Mt 8: *Gospodine, nisam dostojan da uđeš pod moj krov*. S njim se uspoređuje onaj tko smatra da se mora uzdržati od pričesti, kako je rečeno. Budući da se, dakle, nigdje ne čita da je Krist došao u njegovu kuću, čini se da je nekomu dopušteno cijeloga svojega života uzdržavati se od pričesti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a11.obj2": {
+      "text": "Osim toga, svakomu je dopušteno uzdržati se od onoga što nije nužno za spasenje. Ali ovaj sakrament nije nužan za spasenje, kako je gore rečeno. Dakle, dopušteno je posve odustati od primanja ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a11.obj3": {
+      "text": "Osim toga, grešnici nisu dužni pričešćivati se; zato je papa Fabijan, pošto je rekao: *Neka se svi pričeste triput godišnje*, dodao: *osim ako koga možda ne priječe veći zločini*. Ako su, dakle, oni koji nisu u grijehu dužni pričešćivati se, čini se da su grešnici u boljem položaju od pravednika, što je neprikladno. Dakle, čini se da je i pravednicima dopušteno odustati od pričesti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a11.sc": {
+      "text": "Ali protiv toga je ono što Gospodin kaže u Iv 6: *Ako ne budete jeli tijelo Sina Čovječjega i pili njegovu krv, nećete imati života u sebi*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a11.resp": {
+      "text": "Odgovaram: treba reći da, kako je gore rečeno, postoji dvostruki način primanja ovoga sakramenta, to jest duhovni i sakramentalni. A očito je da su svi dužni barem duhovno blagovati, jer to znači biti pritjelovljen Kristu, kako je gore rečeno. Duhovno pak blagovanje uključuje želju ili čežnju za primanjem ovoga sakramenta, kako je gore rečeno. Zato bez želje za primanjem ovoga sakramenta čovjek ne može imati spasenja. A želja bi bila uzaludna kad se ne bi ispunila kad se pruži prilika. Zato je očito da je čovjek dužan primati ovaj sakrament, ne samo po crkvenoj odredbi nego i po zapovijedi Gospodina, koji kaže, Mt 26: *Ovo činite meni na spomen*. Crkvenom su pak odredbom određena vremena za izvršenje Kristove zapovijedi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Grgur u Pastoralnom pravilu, *ona je prava poniznost kad netko nije tvrdoglav u odbacivanju onoga što se korisno nalaže*. Zato ne može biti hvalevrijedna poniznost ako se netko protiv Kristove i crkvene zapovijedi uzdržava od pričesti. Ta satniku nije bilo naloženo da Krista primi u svoju kuću.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a11.ad2": {
+      "text": "Na drugo treba reći da se za ovaj sakrament kaže da nije nužan kao krštenje s obzirom na djecu, koja mogu imati spasenje bez ovoga sakramenta, ali ne bez sakramenta krštenja. S obzirom pak na odrasle, oboje je nužno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a11.ad3": {
+      "text": "Na treće treba reći da grešnici trpe veliku štetu time što su odbijeni od primanja ovoga sakramenta; zato time nisu u boljem položaju. I premda oni koji ostaju u grijesima nisu zbog toga ispričani od prekršaja zapovijedi, ipak je ispričan pokornik koji se, kako kaže Inocent, uzdržava po savjetu svećenika.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da nije dopušteno primati Gospodnje tijelo bez krvi. Papa Gelazije, naime, kaže, a nalazi se u Dekretima, O posveti, 2. distinkcija: *Doznali smo da se neki, pošto prime samo dio svetoga tijela, uzdržavaju od kaleža posvećene krvi. Budući da ih ne znam kakvo praznovjerje uči da se time vežu, neka bez sumnje ili primaju cjelovite sakramente ili neka budu udaljeni od cjelovitih*. Dakle, nije dopušteno primati Kristovo tijelo bez krvi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a12.obj2": {
+      "text": "Osim toga, savršenosti ovoga sakramenta pridonose i blagovanje tijela i pijenje krvi, kako je gore utvrđeno. Ako se, dakle, primi tijelo bez krvi, sakrament će biti nesavršen. A čini se da to pripada svetogrđu. Zato ondje Gelazije dodaje: *jer dijeljenje jednoga te istoga otajstva ne može se dogoditi bez velikoga svetogrđa*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a12.obj3": {
+      "text": "Osim toga, ovaj se sakrament slavi na spomen Gospodnje muke, kako je gore utvrđeno, i prima se za spasenje duše. Ali Kristova se muka više izražava u krvi nego u tijelu; i krv se prinosi za spasenje duše, kako je gore utvrđeno. Dakle, prije bi se trebalo uzdržati od primanja tijela nego od primanja krvi. Dakle, oni koji pristupaju ovom sakramentu ne smiju primati tijelo bez njegove krvi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a12.sc": {
+      "text": "Ali protiv toga je praksa mnogih Crkava, u kojima se narodu koji se pričešćuje daje da primi Kristovo tijelo, ali ne i krv.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a12.resp": {
+      "text": "Odgovaram: treba reći da se glede uporabe ovoga sakramenta mogu razmotriti dvije stvari: jedna sa strane samoga sakramenta, druga sa strane onih koji ga primaju. Sa strane samoga sakramenta prikladno je da se prima oboje, to jest i tijelo i krv, jer se u oboje sastoji savršenost sakramenta. I zato, budući da svećeniku pripada posvetiti i dovršiti ovaj sakrament, on nipošto ne smije primiti Kristovo tijelo bez krvi. Sa strane pak onih koji primaju traži se najveće poštovanje i opreznost, da se ne dogodi nešto što bi bilo na nepravdu tako velikom otajstvu. A to bi se osobito moglo dogoditi pri primanju krvi, koja bi se, kad bi se neoprezno primala, lako mogla proliti. I budući da, kako raste mnoštvo kršćanskoga naroda, u kojem su starci i mladi i mala djeca, od kojih neki nisu toliko rasudni da bi primijenili dužnu opreznost glede uporabe ovoga sakramenta, zato se u nekim Crkvama mudro obdržava da se narodu ne daje krv da je prima, nego da je prima samo svećenik.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da papa Gelazije govori o svećenicima, koji se, kao što posvećuju cijeli sakrament, tako moraju i pričestiti cijelim. Kako se, naime, čita u Toledskom koncilu: *kakva će to biti žrtva u kojoj se ne razabire da je sudionik čak ni sam onaj koji žrtvuje?*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a12.ad2": {
+      "text": "Na drugo treba reći da savršenost ovoga sakramenta nije u uporabi vjernika, nego u posveti tvari. Zato ništa ne umanjuje savršenost ovoga sakramenta ako narod prima tijelo bez krvi, samo ako svećenik koji posvećuje prima oboje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    },
+    "III.q80.a12.ad3": {
+      "text": "Na treće treba reći da se predočivanje Gospodnje muke vrši u samoj posveti ovoga sakramenta, u kojoj se tijelo ne smije posvetiti bez krvi. A narod može primati tijelo bez krvi, i odatle ne slijedi nikakva šteta. Jer svećenik u ime svih prinosi i prima krv, a pod objema je prilikama sadržan cijeli Krist, kako je gore utvrđeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:05+00:00"
+    }
+  }
+}

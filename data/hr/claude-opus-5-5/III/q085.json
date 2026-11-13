@@ -1,0 +1,324 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 85,
+  "units": {
+    "III.q85.pr": {
+      "text": "Zatim treba razmotriti pokajanje ukoliko je krepost. I o tome se pita šest stvari. Prvo, je li pokajanje krepost. Drugo, je li ono posebna krepost. Treće, pod koju se vrstu kreposti ubraja. Četvrto, o njegovu subjektu. Peto, o njegovu uzroku. Šesto, o njegovu odnosu prema drugim krepostima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da pokajanje nije krepost. Pokora je, naime, jedan sakrament, pribrojen ostalim sakramentima, kako je jasno iz onoga što je gore rečeno. Ali nijedan drugi od sakramenata nije krepost. Dakle, ni pokora nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a1.obj2": {
+      "text": "Osim toga, prema Filozofu, u IV. knjizi Etike, stid nije krepost, kako zato što je strast koja ima tjelesnu izmjenu, tako i zato što nije stanje savršenoga, budući da se odnosi na sramotan čin, koji nema mjesta u krepostnom čovjeku. Ali slično je i pokajanje neka strast koja ima tjelesnu izmjenu, naime plač, kao što Grgur kaže da *kajati se znači oplakivati prošle grijehe*. Ono se također odnosi na sramotna djela, naime na grijehe, koji nemaju mjesta u krepostnom čovjeku. Dakle, pokajanje nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a1.obj3": {
+      "text": "Osim toga, prema Filozofu, u IV. knjizi Etike, *nitko od onih koji su po kreposti nije lud*. Ali čini se ludim žalostiti se zbog počinjenoga u prošlosti, što ne može ne biti, a to ipak pripada pokajanju. Dakle, pokajanje nije krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a1.sc": {
+      "text": "Ali protiv toga jest to što se zapovijedi zakona daju o činima kreposti, jer zakonodavac smjera na to da građane učini krepostnima, kako se kaže u II. knjizi Etike. Ali postoji zapovijed božanskog zakona o pokori, prema onome iz Mt 3: Činite pokoru itd. Dakle, pokajanje je krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a1.resp": {
+      "text": "Odgovaram: treba reći da, kao što je jasno iz rečenoga, kajati se znači žalostiti se zbog nečega što je netko prije sam učinio. A gore je rečeno da se bol ili žalost kaže na dva načina. Na jedan način, ukoliko je neka strast osjetilne težnje. I s obzirom na to pokajanje nije krepost, nego strast. Na drugi način, ukoliko se sastoji u volji. I na taj je način povezano s nekim izborom. Ako je taj izbor ispravan, nužno je da bude čin kreposti; kaže se, naime, u II. knjizi Etike da je *krepost izborni habitus u skladu s ispravnim razumom*. A ispravnom razumu pripada da se netko žalosti zbog onoga zbog čega se treba žalostiti. To se upravo obdržava u pokajanju o kojem sada govorimo; pokornik, naime, preuzima umjerenu bol zbog prošlih grijeha, s nakanom da ih ukloni. Stoga je očito da je pokajanje o kojem sada govorimo ili krepost ili čin kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kao što je rečeno, u sakramentu pokore ljudski čini odnose kao tvar, što se ne događa u krštenju ni u potvrdi (krizmi). I zato, budući da je krepost počelo nekog čina, pokora je prije krepost, ili je povezana s krepošću, nego krštenje ili potvrda.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a1.ad2": {
+      "text": "Na drugo treba reći da pokajanje, ukoliko je strast, nije krepost, kao što je rečeno. Na taj način ono ima pridruženu tjelesnu preinaku. A krepost je ukoliko sa strane volje ima ispravan izbor. To se ipak više može reći o pokajanju nego o stidu. Stid se, naime, odnosi na sramotan čin kao sadašnji, a pokajanje se odnosi na sramotan čin kao prošli. A protivi se savršenosti kreposti da netko u sadašnjosti ima sramotan čin zbog kojega se mora stidjeti. Ali ne protivi se savršenosti kreposti da je netko prije počinio sramotna djela zbog kojih se mora kajati, budući da netko od poročnoga postaje krepostan.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a1.ad3": {
+      "text": "Na treće treba reći da bi bilo ludo žalostiti se zbog onoga što je prije učinjeno s ovom nakanom: nastojati da ono ne bude učinjeno. Ali pokornik ne smjera na to, nego je njegova bol nesviđanje ili osuda prošloga čina s nakanom da ukloni ono što iz njega slijedi, naime uvredu Boga i podložnost kazni. A to nije ludo.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da pokajanje nije posebna krepost. Čini se, naime, da je istoga pojma radovati se dobru koje je prije učinjeno i žalostiti se zbog zala koja su počinjena. Ali radost zbog dobra prije učinjenoga nije posebna krepost, nego neko hvalevrijedno čuvstvo koje proizlazi iz ljubavi, kako je jasno iz Augustina, u XIV. knjizi O Božjem gradu; zato i Apostol, u 1 Kor 13, kaže da se *ljubav ne raduje bezakonju, a raduje se istini*. Dakle, iz istoga razloga pokajanje, koje je bol zbog prošlih grijeha, nije posebna krepost, nego neko čuvstvo koje proizlazi iz ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a2.obj2": {
+      "text": "Osim toga, svaka posebna krepost ima posebnu građu, jer se habitusi razlikuju po činima, a čini po predmetima. Ali pokajanje nema posebnu građu; njegova su, naime, građa prošli grijesi u bilo kojoj građi. Dakle, pokajanje nije posebna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a2.obj3": {
+      "text": "Osim toga, ništa se ne izgoni osim onim što mu je protivno. Ali pokajanje izgoni sve grijehe. Dakle, ono je protivno svim grijesima. Nije, dakle, posebna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a2.sc": {
+      "text": "Ali protiv toga jest to što se o njemu daje posebna zapovijed zakona, kao što je gore izloženo.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je izloženo u Drugom dijelu, vrste habitusa razlikuju po vrstama čina, i zato je, gdje god se nađe poseban hvalevrijedan čin, nužno postaviti poseban habitus kreposti. A očito je da se u pokajanju nalazi poseban pojam hvalevrijednoga čina, naime djelovati na uništenje prošloga grijeha ukoliko je uvreda Boga, što ne pripada pojmu nijedne druge kreposti. Stoga je nužno postaviti da je pokajanje posebna krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se neki čin izvodi iz ljubavi na dva načina. Na jedan način, kao izveden iz nje. I takav krepostan čin ne zahtijeva nikakvu drugu krepost osim ljubavi, kao što je ljubiti dobro i radovati se njemu te žalostiti se zbog njegove suprotnosti. Na drugi način neki čin proizlazi iz ljubavi kao zapovjeđen od ljubavi. I tako, budući da ona zapovijeda svim krepostima, jer ih usmjeruje prema svojoj svrsi, čin koji proizlazi iz ljubavi može pripadati i nekoj drugoj posebnoj kreposti. Ako se, dakle, u činu pokornika promatra samo nesviđanje prošloga grijeha, to neposredno pripada ljubavi, kao i radovati se prošlim dobrima. Ali nakana da se djeluje na brisanje prošloga grijeha zahtijeva posebnu krepost pod ljubavlju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a2.ad2": {
+      "text": "Na drugo treba reći da pokajanje doduše u stvarnosti ima opću građu, ukoliko se odnosi na sve grijehe, ali ipak pod posebnim vidom, ukoliko se oni mogu popraviti činom čovjeka koji surađuje s Bogom na svoje opravdanje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a2.ad3": {
+      "text": "Na treće treba reći da svaka posebna krepost izgoni habitus suprotstavljenoga poroka, kao što bjelina izgoni crninu iz istoga subjekta. Ali pokajanje izgoni svaki grijeh tvorno, ukoliko djeluje na uništenje grijeha, kako se on može otpustiti Božjom milošću uz čovjekovu suradnju. Stoga ne slijedi da je ono opća krepost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da krepost pokajanja nije vrsta pravednosti. Pravednost, naime, nije bogoslovna nego moralna krepost, kako je jasno u Drugom dijelu. A čini se da je pokajanje bogoslovna krepost, jer ima Boga za predmet: ono, naime, daje zadovoljštinu Bogu, s kojim i pomiruje grešnika. Dakle, čini se da pokajanje nije dio pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a3.obj2": {
+      "text": "Osim toga, pravednost se, budući da je moralna krepost, sastoji u sredini. Ali pokajanje se ne sastoji u sredini, nego u nekoj pretjeranosti, prema onome iz Jr 6: *Učini sebi žalovanje kao za jedincem, gorak plač.* Dakle, pokajanje nije vrsta pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a3.obj3": {
+      "text": "Osim toga, dvije su vrste pravednosti, kako se kaže u V. knjizi Etike, naime distributivna i komutativna. Ali čini se da se pokajanje ne ubraja ni pod jednu od njih. Dakle, čini se da pokajanje nije vrsta pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a3.obj4": {
+      "text": "Osim toga, uz ono iz Lk 6: *Blaženi vi koji sada plačete*, Glosa kaže: *Evo razboritosti, po kojoj se pokazuje kako su ove zemaljske stvari bijedne, a kako su nebeske blažene.* Ali plakati je čin pokajanja. Dakle, pokajanje više pripada razboritosti nego pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a3.sc": {
+      "text": "Ali protiv toga jest ono što Augustin kaže u knjizi O pokori: *Pokajanje je neka osveta onoga koji se žalosti, koji uvijek u sebi kažnjava ono zbog čega se žalosti što je počinio.* Ali vršiti osvetu pripada pravednosti; zato Tulije u svojoj Retorici postavlja osvetničku pravednost kao jednu vrstu pravednosti. Dakle, čini se da je pokajanje vrsta pravednosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a3.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, pokajanje nema to da bude posebna krepost samo iz toga što se žalosti zbog počinjenoga zla (za to bi, naime, bila dovoljna ljubav), nego iz toga što se pokornik žalosti zbog počinjenoga grijeha ukoliko je on uvreda Boga, s odlukom da se popravi. A popravak uvrede počinjene protiv nekoga ne postiže se samim prestankom uvrede, nego se zahtijeva još i neka naknada, koja ima mjesta u uvredama počinjenima protiv drugoga, kao i odmazda; samo što je naknada sa strane onoga koji je uvrijedio, kao na primjer zadovoljštinom, a odmazda je sa strane onoga protiv koga je uvreda počinjena. A oboje pripada građi pravednosti, jer je oboje neka razmjena. Stoga je očito da je pokajanje, ukoliko je krepost, dio pravednosti. Ipak treba znati da se, prema Filozofu, u V. knjizi Etike, pravedno kaže na dva načina, naime naprosto i u nekom pogledu. Naprosto je pravedno ono što je među jednakima, zato što je pravednost neka jednakost. To on naziva političkim ili građanskim pravednim, zato što su svi građani jednaki s obzirom na to da su neposredno pod vladarom, kao oni koji su slobodni. A u nekom se pogledu pravednim naziva ono što je među onima od kojih je jedan pod vlašću drugoga, kao sluga pod gospodarom, sin pod ocem, žena pod mužem. I takvo se pravedno promatra u pokajanju. Stoga se pokornik, s odlukom da se popravi, utječe Bogu kao sluga gospodaru, prema onome iz Psalma: *Kao što su oči slugu uprte u ruke gospodara njihovih, tako su oči naše uprte u Gospodina Boga našega, dok se ne smiluje nama*; i kao sin ocu, prema onome iz Lk 15: *Oče, sagriješih protiv neba i pred tobom*; i kao žena mužu, prema onome iz Jr 3: *Bludničila si s mnogim ljubavnicima, ipak se vrati k meni, govori Gospodin.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je, kako se kaže u V. knjizi Etike, pravednost prema drugome. A onaj prema kojemu je pravednost ne naziva se građom pravednosti, nego su to prije stvari koje se raspodjeljuju ili razmjenjuju. Stoga ni građa pokajanja nije Bog, nego ljudski čini kojima se Bog vrijeđa ili umilostivljuje, a Bog se odnosi kao onaj prema kojemu je pravednost. Iz toga je jasno da pokajanje nije bogoslovna krepost, jer nema Boga za građu ni za predmet.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a3.ad2": {
+      "text": "Na drugo treba reći da je sredina pravednosti jednakost koja se uspostavlja među onima među kojima je pravednost, kako se kaže u V. knjizi Etike. Ali među nekima se ne može uspostaviti savršena jednakost zbog odličnosti jednoga od njih, kao između sina i oca, između čovjeka i Boga, kako kaže Filozof u VIII. knjizi Etike. Stoga u takvima onaj koji zaostaje mora učiniti sve što može, a ni to ipak neće biti dovoljno, osim po prihvaćanju nadređenoga. I to se označuje pretjeranošću koja se pripisuje pokajanju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a3.ad3": {
+      "text": "Na treće treba reći da, kao što postoji neka razmjena u dobročinstvima, kad, naime, netko za primljeno dobročinstvo uzvraća zahvalnošću, tako postoji i razmjena u uvredama, kad netko za uvredu počinjenu protiv drugoga ili biva kažnjen protiv svoje volje, što pripada osvetničkoj pravednosti, ili dobrovoljno daje naknadu kao popravak, što pripada pokajanju, koje se odnosi na osobu grešnika kao što se osvetnička pravednost odnosi na osobu suca. Stoga je očito da se i jedno i drugo ubraja pod komutativnu pravednost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a3.ad4": {
+      "text": "Na četvrto treba reći da pokajanje, iako je izravno vrsta pravednosti, ipak na neki način obuhvaća ono što pripada svim krepostima. Ukoliko je, naime, neka pravednost čovjeka prema Bogu, mora imati udjela u onome što pripada bogoslovnim krepostima, koje imaju Boga za predmet. Stoga je pokajanje povezano s vjerom u Kristovu muku, po kojoj se opravdavamo od grijeha, i s nadom u oproštenje, i s mržnjom prema porocima, što pripada ljubavi. A ukoliko je moralna krepost, ima nešto udjela u razboritosti, koja upravlja svim moralnim krepostima. Ali iz samoga pojma pravednosti ono nema samo ono što pripada pravednosti, nego i ono što pripada umjerenosti i jakosti, ukoliko, naime, ono što uzrokuje nasladu, koja pripada umjerenosti, ili ono što zadaje strah, koji jakost umjerava, ulazi u razmjenu pravednosti. I u skladu s tim pravednosti pripada i suzdržavati se od ugodnoga, što pripada umjerenosti, i podnositi teškoće, što pripada jakosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da subjekt pokajanja u vlastitom smislu nije volja. Pokajanje je, naime, vrsta žalosti. Ali žalost je u požudnoj moći, kao i radost. Dakle, pokajanje je u požudnoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a4.obj2": {
+      "text": "Osim toga, pokajanje je neka osveta, kako kaže Augustin u knjizi O pokori. Ali čini se da osveta pripada srditoj moći, jer je srdžba težnja za osvetom. Dakle, čini se da je pokajanje u srditoj moći.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a4.obj3": {
+      "text": "Osim toga, prošlo je vlastiti predmet pamćenja, prema Filozofu, u knjizi O pamćenju. Ali pokajanje se odnosi na prošlo, kao što je rečeno. Dakle, pokajanje je u pamćenju kao u subjektu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a4.obj4": {
+      "text": "Osim toga, ništa ne djeluje ondje gdje nije. Ali pokajanje isključuje grijehe iz svih sila duše. Dakle, pokajanje je u svakoj sili duše, a ne samo u volji.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a4.sc": {
+      "text": "Ali protiv toga, pokajanje je neka žrtva, prema onome iz Psalma: *Žrtva je Bogu duh skrušen.* Ali prinositi žrtvu čin je volje, prema onome iz Psalma: *Voljno ću ti žrtvovati.* Dakle, pokajanje je u volji.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a4.resp": {
+      "text": "Odgovaram: treba reći da o pokajanju možemo govoriti na dva načina. Na jedan način, ukoliko je neka strast. I tako je, budući da je vrsta žalosti, u požudnoj moći kao u subjektu. Na drugi način, ukoliko je krepost. I tako je, kao što je rečeno, vrsta pravednosti. A pravednost, kao što je rečeno u Drugom dijelu, ima za subjekt razumsku težnju, koja je volja. Stoga je očito da je pokajanje, ukoliko je krepost, u volji kao u subjektu. A njegov je vlastiti čin odluka da se Bogu nadoknadi ono što je protiv njega počinjeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj razlog vrijedi za pokajanje ukoliko je strast.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a4.ad2": {
+      "text": "Na drugo treba reći da iz strasti tražiti osvetu nad drugim pripada srditoj moći. Ali težiti za osvetom ili je vršiti iz razuma, nad sobom ili nad drugim, pripada volji.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a4.ad3": {
+      "text": "Na treće treba reći da je pamćenje zahvatna sila za prošlo. A pokajanje ne pripada zahvatnoj sili, nego težnjenoj, koja pretpostavlja čin zahvatne. Stoga pokajanje nije u pamćenju, nego ga pretpostavlja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a4.ad4": {
+      "text": "Na četvrto treba reći da volja, kao što je izloženo u Prvom dijelu, pokreće sve druge moći duše. I zato nije neprikladno ako pokajanje, koje postoji u volji, nešto djeluje u pojedinim moćima duše.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da počelo pokajanja nije iz straha. Pokajanje, naime, počinje u nesviđanju grijeha. Ali to pripada ljubavi, kao što je gore rečeno. Dakle, pokajanje prije nastaje iz ljubavi nego iz straha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a5.obj2": {
+      "text": "Osim toga, ljudi se na pokoru potiču očekivanjem nebeskoga kraljevstva, prema onome iz Mt 4: *Činite pokoru, jer približit će se kraljevstvo nebesko.* Ali kraljevstvo nebesko predmet je nade. Dakle, pokajanje prije proizlazi iz nade nego iz straha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a5.obj3": {
+      "text": "Osim toga, strah je unutarnji čin čovjeka. A čini se da pokajanje nije od čovjekova djela, nego od Božjega djela, prema onome iz Jr 31: *Pošto si me obratio, činio sam pokoru.* Dakle, pokajanje ne proizlazi iz straha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a5.sc": {
+      "text": "Ali protiv toga jest to što se kaže u Iz 26: *Kao što ona koja je začela, kad se približi porodu, u bolovima svojim viče od boli, tako postadosmo*, naime po pokajanju; a poslije se dodaje, prema drugom čitanju: *Od straha tvojega, Gospodine, začesmo, i u porodnim smo mukama bili, i rodismo duh spasenja*, to jest spasonosnoga pokajanja, kako je jasno iz prethodnoga. Dakle, pokajanje proizlazi iz straha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a5.resp": {
+      "text": "Odgovaram: treba reći da o pokajanju možemo govoriti na dva načina. Na jedan način, s obzirom na habitus. I tako ga Bog neposredno ulijeva, bez nas kao glavnih djelatnika, ali ipak ne bez nas koji surađujemo pripravljajući se nekim činima. Na drugi način možemo govoriti o pokajanju s obzirom na čine kojima surađujemo s Bogom koji djeluje u pokajanju. Prvo je počelo tih čina Božje djelovanje kojim on obraća srce, prema onome iz posljednjeg poglavlja Tuž: *Obrati nas, Gospodine, k sebi, i obratit ćemo se.* Drugi je čin pokret vjere. Treći je čin pokret ropskoga straha, kojim se netko iz straha od kazni povlači od grijeha. Četvrti je čin pokret nade, kojim netko, u nadi da će postići oproštenje, donosi odluku da se popravi. Peti je čin pokret ljubavi, kojim se nekome grijeh ne sviđa po sebi samome, a ne više zbog kazni. Šesti je čin pokret sinovskoga straha, kojim netko zbog strahopoštovanja prema Bogu voljno prinosi Bogu naknadu. Tako je, dakle, jasno da čin pokajanja proizlazi iz ropskoga straha kao iz prvoga pokreta čuvstva koji je k tome usmjeren, a iz sinovskoga straha kao iz neposrednoga i bliskoga počela.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da grijeh čovjeku, osobito grešniku, prije počinje biti nemio zbog kazni, na koje se odnosi ropski strah, nego zbog uvrede Boga ili sramotnosti grijeha, što pripada ljubavi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a5.ad2": {
+      "text": "Na drugo treba reći da se pod kraljevstvom nebeskim koje se približava razumije dolazak kralja koji ne samo nagrađuje, nego i kažnjava. Zato je i Ivan Krstitelj, u Mt 3, govorio: *Leglo zmijsko, tko vam je pokazao da bježite od srdžbe koja dolazi?*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a5.ad3": {
+      "text": "Na treće treba reći da i sam pokret straha proizlazi iz čina Boga koji obraća srce; zato se kaže u Pnz 5: *Tko će dati da imaju takav duh da me se boje?* I zato time što pokajanje proizlazi iz straha nije isključeno da ono proizlazi iz čina Boga koji obraća srce.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je pokajanje prva od kreposti. Jer uz ono iz Mt 3: *Činite pokoru*, Glosa kaže: *Prva je krepost pokajanjem kažnjavati staroga čovjeka i mrziti poroke.*",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a6.obj2": {
+      "text": "Osim toga, čini se da je udaljavanje od granice prije nego približavanje granici. Ali čini se da sve druge kreposti pripadaju približavanju granici, jer se po svima njima čovjek usmjeruje na činjenje dobra. A čini se da je pokajanje usmjereno na udaljavanje od zla. Dakle, čini se da je pokajanje prije od svih drugih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a6.obj3": {
+      "text": "Osim toga, prije pokajanja grijeh je u duši. Ali zajedno s grijehom u duši nema nikakve kreposti. Dakle, nijedna krepost nije prije pokajanja, nego se čini da je ono prvo, budući da drugima otvara pristup isključujući grijeh.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a6.sc": {
+      "text": "Ali protiv toga jest to što pokajanje proizlazi iz vjere, nade i ljubavi, kao što je već rečeno. Pokajanje, dakle, nije prva od kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a6.resp": {
+      "text": "Odgovaram: treba reći da se u krepostima ne gleda vremenski red s obzirom na habituse, jer, budući da su kreposti povezane, kao što je izloženo u Drugom dijelu, sve one istodobno počinju biti u duši. Ali za jednu se od njih kaže da je prije od druge redom naravi, koji se promatra po redu čina, naime ukoliko čin jedne kreposti pretpostavlja čin druge kreposti. Prema tome, dakle, treba reći da neki hvalevrijedni čini mogu i vremenski prethoditi činu i habitusu pokajanja, kao čini neoblikovane vjere i nade te čin ropskoga straha. A čin i habitus ljubavi vremenski su istodobni s činom i habitusom pokajanja i s habitusima drugih kreposti; jer, kao što je izloženo u Drugom dijelu, u opravdanju bezbožnika istodobno postoje pokret slobodnoga odlučivanja prema Bogu, koji je čin vjere oblikovane ljubavlju, i pokret slobodnoga odlučivanja protiv grijeha, koji je čin pokajanja. Ipak, od tih dvaju čina prvi po naravi prethodi drugomu; čin je, naime, kreposti pokajanja protiv grijeha iz ljubavi prema Bogu, pa je stoga prvi čin razlog i uzrok drugoga. Tako, dakle, pokajanje nije naprosto prva od kreposti, ni vremenskim redom ni redom naravi, jer joj redom naravi naprosto prethode bogoslovne kreposti. Ali u nekom je pogledu prva među ostalim krepostima vremenskim redom, s obzirom na njezin čin koji se prvi javlja u opravdanju bezbožnika. Ali čini se da su redom naravi druge kreposti prije, kao što je ono što je po sebi prije od onoga što je akcidentalno; jer čini se da su druge kreposti po sebi nužne za čovjekovo dobro, a pokajanje uz pretpostavku nečega, naime prethodno postojećega grijeha; kao što je također rečeno o odnosu sakramenta pokore prema drugim spomenutim sakramentima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da ta Glosa govori s obzirom na to da je čin pokajanja vremenski prvi među činima drugih kreposti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a6.ad2": {
+      "text": "Na drugo treba reći da je u postupnim gibanjima udaljavanje od granice vremenski prije nego dolazak do granice; i po naravi je prije s obzirom na subjekt, odnosno prema redu tvarnoga uzroka. Ali prema redu djelatnoga i svršnoga uzroka prije je dolazak do granice, jer to je ono na što djelatnik najprije smjera. I taj se red osobito gleda u činima duše, kako se kaže u II. knjizi Fizike.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    },
+    "III.q85.a6.ad3": {
+      "text": "Na treće treba reći da pokajanje otvara pristup krepostima izgoneći grijeh po kreposti vjere i ljubavi, koje su po naravi prije. Ali im ipak otvara pristup tako da one ulaze istodobno s njim; jer u opravdanju bezbožnika, istodobno s pokretom slobodnoga odlučivanja prema Bogu i protiv grijeha, događa se otpuštenje krivnje i ulijevanje milosti, s kojom se istodobno ulijevaju sve kreposti, kao što je izloženo u Drugom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:06+00:00"
+    }
+  }
+}

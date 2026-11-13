@@ -1,0 +1,612 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 68,
+  "units": {
+    "III.q68.pr": {
+      "text": "Zatim treba razmotriti one koji primaju krštenje. U vezi s tim pita se dvanaest stvari. Prvo, jesu li svi dužni primiti krštenje. Drugo, može li se netko spasiti bez krštenja. Treće, treba li krštenje odgađati. Četvrto, treba li krstiti grešnike. Peto, treba li krštenim grešnicima nametati djela zadovoljštine. Šesto, zahtijeva li se ispovijed grijeha. Sedmo, zahtijeva li se nakana od strane krštenika. Osmo, zahtijeva li se vjera. Deveto, treba li krstiti djecu. Deseto, treba li krstiti djecu Židova protiv volje roditelja. Jedanaesto, treba li neke krstiti dok su još u majčinoj utrobi. Dvanaesto, treba li krstiti mahnite i umobolne.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nisu svi dužni primiti krštenje. Po Kristu, naime, ljudima nije sužen put spasenja. Ali prije Kristova dolaska ljudi su se mogli spasiti bez krštenja. Dakle i poslije Kristova dolaska.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a1.obj2": {
+      "text": "Osim toga, čini se da je krštenje ustanovljeno ponajviše kao lijek protiv istočnoga grijeha. Ali čini se da onaj koji je kršten, budući da nema istočnoga grijeha, ne može ga prenijeti na potomstvo. Dakle, čini se da djecu krštenih ne treba krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a1.obj3": {
+      "text": "Osim toga, krštenje se daje zato da netko po milosti bude očišćen od grijeha. Ali to bez krštenja postižu oni koji su posvećeni u utrobi. Dakle, oni nisu dužni primiti krštenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iv 3: *Ako se tko ne rodi iznova iz vode i Duha Svetoga, ne može ući u kraljevstvo Božje*. A u knjizi O crkvenim dogmama kaže se: *Vjerujemo da put spasenja imaju samo kršteni*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a1.resp": {
+      "text": "Odgovaram: treba reći da su ljudi dužni na ono bez čega ne mogu postići spasenje. A očito je da nitko ne može postići spasenje osim po Kristu; zato i Apostol kaže, Rim 5: *Kao što je po prijestupu jednoga došlo na sve ljude osuđenje, tako i po pravednosti jednoga na sve ljude opravdanje života*. A krštenje se daje zato da netko, preporođen po njemu, bude pritjelovljen Kristu, postavši njegovim udom; zato se kaže u Gal 3: *Svi vi koji ste kršteni u Kristu, Krista ste obukli*. Stoga je očito da su svi dužni primiti krštenje i da bez njega ljudima nema spasenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ljudi nikada, ni prije Kristova dolaska, nisu mogli spasiti ako ne bi postali udovi Kristovi, jer, kako se kaže u Dj 4, *nije ljudima dano drugo ime u kojem bismo se imali spasiti*. Ali prije Kristova dolaska ljudi su bivali pritjelovljeni Kristu po vjeri u budući dolazak, a pečat te vjere bilo je obrezanje, kako kaže Apostol, Rim 4. A prije nego što je obrezanje bilo ustanovljeno, ljudi su bivali pritjelovljeni Kristu samom vjerom, kako kaže Grgur, uz prinošenje žrtava kojima su stari oci ispovijedali svoju vjeru. I poslije Kristova dolaska ljudi se pritjelovljuju Kristu po vjeri, prema onome iz Ef 3: *Da Krist po vjeri prebiva u vašim srcima*. Ali vjera u stvar koja je već prisutna očituje se drugim znakom nego što se pokazivala dok je stvar bila buduća, kao što se drugim riječima označuje sadašnje, prošlo i buduće. I zato, premda sam sakrament krštenja nije uvijek bio nužan za spasenje, vjera, čiji je sakrament krštenje, uvijek je bila nužna.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a1.ad2": {
+      "text": "Na drugo treba reći da, kako je rečeno u Drugom dijelu, oni koji se krste bivaju po krštenju obnovljeni po duhu, ali tijelo ostaje podložno starini grijeha, prema onome iz Rim 8: *Tijelo je doduše mrtvo zbog grijeha, a duh živi zbog opravdanja*. Zato Augustin u knjizi Protiv Julijana dokazuje da se *u čovjeku ne krsti sve što je u njemu*. A očito je da čovjek tjelesnim rađanjem ne rađa po duhu, nego po tijelu. I zato se djeca krštenih rađaju s istočnim grijehom. Stoga ih treba krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a1.ad3": {
+      "text": "Na treće treba reći da oni koji su posvećeni u utrobi doduše postižu milost koja čisti od istočnoga grijeha, ali time samim ne postižu biljeg kojim bi se suobličili Kristu. I zbog toga, kad bi sada neki bili posvećeni u utrobi, bilo bi ih nužno krstiti, da bi se primanjem biljega suobličili ostalim udovima Kristovim.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da se bez krštenja nitko ne može spasiti. Gospodin, naime, kaže, Iv 3: *Ako se tko ne rodi iznova iz vode i Duha Svetoga, ne može ući u kraljevstvo Božje*. Ali spašavaju se samo oni koji uđu u kraljevstvo Božje. Dakle, nitko se ne može spasiti bez krštenja, kojim se netko preporađa iz vode i Duha Svetoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a2.obj2": {
+      "text": "Osim toga, u knjizi O crkvenim dogmama kaže se: *Vjerujemo da nijedan katekumen, makar i umro u dobrim djelima, nema vječnoga života, osim u mučeništvu, u kojem se ispunjaju svi sakramenti krštenja*. Ali kad bi se netko mogao spasiti bez krštenja, to bi ponajviše vrijedilo za katekumene koji imaju dobra djela, za koje se čini da imaju vjeru koja djeluje po ljubavi. Čini se, dakle, da se bez krštenja nitko ne može spasiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a2.obj3": {
+      "text": "Osim toga, kako je gore rečeno, sakrament krštenja nužan je za spasenje. A nužno je ono bez čega nešto ne može biti, kako se kaže u V. knjizi Metafizike. Dakle, čini se da bez krštenja nitko ne može postići spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a2.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin o Levitskom zakoniku: *Nevidljivo posvećenje nekima je bilo nazočno i koristilo im bez vidljivih sakramenata, a vidljivo posvećenje, koje se događa vidljivim sakramentom, može biti nazočno bez nevidljivoga, ali ne može koristiti*. Budući da, dakle, sakrament krštenja pripada vidljivom posvećenju, čini se da netko bez sakramenta krštenja može postići spasenje po nevidljivom posvećenju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a2.resp": {
+      "text": "Odgovaram: treba reći da sakrament krštenja nekome može nedostajati na dva načina. Na jedan način, i u stvari i u želji, što se događa kod onih koji niti su kršteni niti žele biti kršteni. To očito pripada preziru sakramenta, kad je riječ o onima koji imaju uporabu slobodnoga odlučivanja. I zato oni kojima na taj način nedostaje krštenje ne mogu postići spasenje, jer nisu pritjelovljeni Kristu, po kojem jedinom je spasenje, ni sakramentalno ni duhom. Na drugi način sakrament krštenja može nekome nedostajati u stvari, ali ne u želji, kao kad netko želi biti kršten, ali ga nekim slučajem pretekne smrt prije nego što primi krštenje. A takav može postići spasenje bez stvarnoga krštenja, zbog želje za krštenjem, koja proizlazi iz vjere koja djeluje po ljubavi, po kojoj Bog iznutra posvećuje čovjeka, a njegova moć nije vezana uz vidljive sakramente. Zato Ambrozije kaže o Valentinijanu, koji je umro kao katekumen: *Onoga koga sam imao preporoditi izgubio sam, ali on milost koju je zatražio nije izgubio*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako se kaže u 1 Sam 16, *ljudi vide ono što se pokazuje, a Gospodin gleda srce*. A onaj koji želi po krštenju biti preporođen iz vode i Duha Svetoga preporođen je doduše srcem, premda ne tijelom, kao što i Apostol kaže, Rim 2, da je *obrezanje srca u duhu, ne u slovu; njegova hvala nije od ljudi, nego od Boga*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a2.ad2": {
+      "text": "Na drugo treba reći da nitko ne dolazi do vječnoga života ako nije odriješen od svake krivnje i podložnosti kazni. To sveopće odrješenje događa se u primanju krštenja i u mučeništvu; zbog toga se kaže da se u mučeništvu ispunjaju svi sakramenti krštenja, naime s obzirom na potpuno oslobođenje od krivnje i kazne. Ako je, dakle, neki katekumen koji ima želju za krštenjem (jer inače ne bi umro u dobrim djelima, koja ne mogu biti bez vjere koja djeluje po ljubavi), takav, umrijevši, ne dolazi odmah do vječnoga života, nego će trpjeti kaznu za prošle grijehe, *ali on sam bit će spašen, ipak tako kao kroz oganj*, kako se kaže u 1 Kor 3.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a2.ad3": {
+      "text": "Na treće treba reći da se utoliko kaže da je sakrament krštenja nužan za spasenje ukoliko čovjek ne može imati spasenja ako ga nema barem u volji, a to se kod Boga računa kao da je učinjeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da krštenje treba odgađati. Papa Leon, naime, kaže: *Rimski je prvosvećenik za krštavanje unaprijed odredio dva zakonita vremena, to jest Uskrs i Duhove. Zato opominjemo vašu ljubav da ovom obdržavanju ne pridružujete nikakve druge dane*. Čini se, dakle, da neke ne treba krstiti odmah, nego krštenje treba odgoditi do spomenutih vremena.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a3.obj2": {
+      "text": "Osim toga, na Agatskom saboru čita se: *Židovi, čija se nevjernost često vraća na bljuvotinu, ako budu htjeli prijeći na katoličke zakone, neka osam mjeseci među katekumenima stupaju na crkveni prag, pa ako se spozna da dolaze s čistom vjerom, tek neka tada zasluže milost krštenja*. Dakle, ljude ne treba krstiti odmah, nego krštenje treba odgoditi do određenog vremena.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a3.obj3": {
+      "text": "Osim toga, kako se kaže u Iz 27, *ovo je sav plod: da se ukloni grijeh*. Ali čini se da se grijeh više uklanja, ili barem umanjuje, ako se krštenje odgodi. Prvo, jer oni koji griješe poslije krštenja teže griješe, prema onome iz Heb 10: *Koliko mislite da gore kazne zaslužuje onaj koji je krv saveza, u kojoj je posvećen, smatrao okaljanom*, naime po krštenju? Drugo, jer krštenje briše prošle grijehe, ali ne buduće; stoga, što se krštenje više odgađa, to će više grijeha izbrisati. Čini se, dakle, da krštenje treba dugo odgađati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Sir 5: *Ne oklijevaj obratiti se Gospodinu i ne odgađaj iz dana u dan*. A savršeno obraćenje Bogu pripada onima koji se preporađaju u Kristu po krštenju. Dakle, krštenje ne treba odgađati iz dana u dan.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a3.resp": {
+      "text": "Odgovaram: treba reći da u vezi s tim treba razlikovati treba li krstiti djecu ili odrasle. Ako, naime, treba krstiti djecu, krštenje ne treba odgađati. Prvo, jer se kod njih ne očekuje veća pouka ili potpunije obraćenje. Drugo, zbog pogibelji smrti, jer im se ne može pomoći drugim lijekom osim sakramentom krštenja. Odraslima se pak može pomoći samom željom za krštenjem, kako je gore rečeno. I zato odraslima sakrament krštenja ne treba podijeliti odmah čim se obrate, nego ga treba odgoditi do nekoga određenog vremena. Prvo, zbog opreznosti Crkve, da ne bi bila prevarena podjeljujući ga onima koji pristupaju s pretvaranjem, prema onome iz 1 Iv 4: *Ne vjerujte svakom duhu, nego provjeravajte duhove jesu li od Boga*. To se provjeravanje vrši s onima koji pristupaju krštenju kad se kroz neko vrijeme ispituju njihova vjera i ćudoređe. Drugo, to je nužno radi koristi onih koji se krste, jer im je potrebno neko vrijeme da budu potpuno poučeni u vjeri i da se izvježbaju u onome što pripada kršćanskom životu. Treće, to je nužno radi stanovitoga poštovanja prema sakramentu, budući da se ljudi pripuštaju krštenju o glavnim svetkovinama, to jest o Uskrsu i Duhovima, pa tako primaju sakrament s većom predanošću. Ali tu odgodu treba izostaviti iz dvaju razloga. Prvo, kad se oni koje treba krstiti pokažu savršeno poučenima u vjeri i prikladnima za krštenje, kao što je Filip odmah krstio eunuha, kako stoji u Dj 8, i Petar Kornelija i one koji su bili s njim, kako stoji u Dj 10. Drugo, zbog bolesti ili kakve pogibelji smrti. Zato papa Leon kaže: *Oni koje pritišće nužda smrti, bolesti, opsade, progonstva i brodoloma moraju biti kršteni u svako vrijeme*. Ako ipak nekoga, dok čeka vrijeme koje je Crkva ustanovila, pretekne smrt, tako da trenutak nužde isključi sakrament, spašava se, premda kroz oganj, kako je gore rečeno. A griješi ako bi primanje krštenja odgađao preko vremena koje je Crkva odredila, osim iz nužnoga razloga i s dopuštenjem crkvenih poglavara. Ali i taj se grijeh s ostalima može izbrisati naknadnom skrušenošću, koja zamjenjuje krštenje, kako je gore rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da onu zapovijed pape Leona o obdržavanju dvaju vremena za krštenje treba shvatiti s iznimkom pogibelji smrti (koje se kod djece uvijek treba bojati), kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a3.ad2": {
+      "text": "Na drugo treba reći da je ono o Židovima određeno radi opreznosti Crkve, da ne bi kvarili vjeru priprostih ako ne bi bili potpuno obraćeni. Pa ipak, kako se ondje dodaje, *ako unutar propisanoga vremena zapadnu u kakvu pogibelj bolesti, moraju biti kršteni*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a3.ad3": {
+      "text": "Na treće treba reći da krštenje po milosti koju podjeljuje ne samo uklanja prošle grijehe nego i sprječava da se počine budući. A na ovo treba gledati: da ljudi ne griješe; drugotno je da lakše griješe ili da im se grijesi očiste, prema onome iz 1 Iv 2: *Dječice moja, ovo vam pišem da ne griješite. Ali ako tko i zgriješi, imamo zagovornika kod Oca, Isusa Krista pravednika, i on je pomirnica za naše grijehe*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da grešnike treba krstiti. Kaže se, naime, u Zah 13: *U onaj dan bit će otvoren izvor domu Davidovu i stanovnicima Jeruzalema za pranje grešnika i žene u mjesečnoj nečistoći*, što se shvaća o krsnom izvoru. Dakle, čini se da sakrament krštenja treba pružiti i grešnicima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a4.obj2": {
+      "text": "Osim toga, Gospodin kaže, Mt 9: *Ne treba liječnik zdravima, nego bolesnima*. A bolesni su grešnici. Budući da je, dakle, krštenje lijek duhovnoga liječnika, to jest Krista, čini se da grešnicima treba pružiti sakrament krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a4.obj3": {
+      "text": "Osim toga, grešnicima ne treba uskratiti nikakvu pomoć. Ali kršteni grešnici dobivaju duhovnu pomoć od samoga krsnog biljega, budući da je on neka raspoloživost za milost. Dakle, čini se da grešnicima treba pružiti sakrament krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin: *Onaj koji te stvorio bez tebe neće te opravdati bez tebe*. Ali grešnik, budući da ima volju koja nije raspoložena, ne surađuje s Bogom. Dakle, uzalud mu se primjenjuje krštenje radi opravdanja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a4.resp": {
+      "text": "Odgovaram: treba reći da se netko može nazvati grešnikom na dva načina. Na jedan način, zbog ljage i prošle krivnje. I u tom smislu grešnicima treba podijeliti sakrament krštenja, jer je on posebno zato ustanovljen da se po njemu očiste nečistoće grijeha, prema onome iz Ef 5: *Očistivši je, to jest Crkvu, kupelji vode u riječi života*. Na drugi način netko se može nazvati grešnikom zbog volje za griješenjem i odluke da ustraje u grijehu. I u tom smislu grešnicima ne treba podijeliti sakrament krštenja. Prvo, jer se po krštenju ljudi pritjelovljuju Kristu, prema onome iz Gal 3: *Svi vi koji ste kršteni u Kristu, Krista ste obukli*. A dokle god netko ima volju za griješenjem, ne može biti sjedinjen s Kristom, prema onome iz 2 Kor 6: *Kakvo je zajedništvo pravednosti s bezakonjem?* Zato i Augustin kaže u knjizi O pokori da *nitko tko je postavljen kao sudac svoje volje ne može započeti novi život ako se ne kaje zbog staroga života*. Drugo, jer u djelima Krista i Crkve ništa ne smije biti uzalud. A uzaludno je ono što ne dopire do svrhe prema kojoj je usmjereno. A nitko tko ima volju za griješenjem ne može ujedno biti očišćen od grijeha, a to je ono prema čemu je usmjereno krštenje, jer bi to značilo postaviti da proturječnosti postoje istodobno. Treće, jer u sakramentalnim znakovima ne smije biti nikakve lažnosti. A lažan je znak kojemu ne odgovara označena stvar. A time što se netko pruža da bude opran krštenjem označuje se da se raspolaže za unutarnje pranje. To se ne događa kod onoga koji ima odluku da ustraje u grijehu. Stoga je očito da takvima ne treba podijeliti sakrament krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da tu riječ treba shvatiti o grešnicima koji imaju volju odstupiti od grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a4.ad2": {
+      "text": "Na drugo treba reći da duhovni liječnik, to jest Krist, djeluje na dva načina. Na jedan način iznutra, po samome sebi, i tako pripravlja volju čovjeka da hoće dobro i mrzi zlo. Na drugi način djeluje po služiteljima, izvana primjenjujući sakramente, i tako djeluje dovršujući ono što je izvana započeto. I zato sakrament krštenja ne treba pružiti nikome osim onomu u kojem se pokazuje neki znak unutarnjega obraćenja, kao što se ni tjelesni lijek ne primjenjuje bolesniku ako se u njemu ne pokazuje neki životni pokret.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a4.ad3": {
+      "text": "Na treće treba reći da je krštenje sakrament vjere. A neoblikovana vjera nije dovoljna za spasenje, niti je ona temelj, nego samo oblikovana vjera, koja djeluje po ljubavi, kako kaže Augustin u knjizi O vjeri i djelima. Stoga ni sakrament krštenja ne može podijeliti spasenje uz volju za griješenjem, koja isključuje oblik vjere. A utiskivanjem krsnoga biljega nikoga ne treba raspolagati za milost dokle god se u njemu pokazuje volja za griješenjem, jer Bog nikoga ne prisiljava na krepost, kako kaže Damaščanin.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da krštenim grešnicima treba nametnuti djela zadovoljštine. Čini se, naime, da pripada Božjoj pravednosti da netko bude kažnjen za svaki grijeh, prema onome iz Prop 12: *Sve što se čini Bog će izvesti na sud*. A djela zadovoljštine nameću se grešnicima kao kazna za prošle grijehe. Dakle, čini se da krštenim grešnicima treba nametnuti djela zadovoljštine.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a5.obj2": {
+      "text": "Osim toga, djelima zadovoljštine vježbaju se u pravednosti grešnici koji su se nedavno obratili i uklanjaju se prigode za grijeh, jer *dati zadovoljštinu znači iskorijeniti uzroke grijeha i ne dopustiti grijesima pristup*. A to je ponajviše nužno onima koji su nedavno kršteni. Dakle, čini se da krštenima treba naložiti djela zadovoljštine.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a5.obj3": {
+      "text": "Osim toga, čovjek nije manje dužan dati zadovoljštinu Bogu nego bližnjemu. Ali onima koji su nedavno kršteni treba naložiti da dadu zadovoljštinu bližnjima, ako su ih oštetili. Dakle, treba im naložiti i da dadu zadovoljštinu Bogu djelima pokore.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a5.sc": {
+      "text": "Ali protiv toga je ono što Ambrozije, tumačeći Rim 11, *Bez pokajanja su darovi i poziv Božji*, kaže: *Milost Božja u krštenju ne traži jecanja ni plača, pa ni ikakva djela, nego samo vjeru, i sve oprašta besplatno*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a5.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Apostol, Rim 6, *svi mi koji smo kršteni u Kristu Isusu, u njegovu smo smrt kršteni; s njim smo, naime, suukopani po krštenju u smrt*, i to tako da se čovjek po krštenju pritjelovljuje samoj Kristovoj smrti. A iz gore rečenoga očito je da je Kristova smrt bila dostatna zadovoljština za grijehe, *ne samo naše nego i cijeloga svijeta*, kako se kaže u 1 Iv 2. I zato onome koji se krsti ne treba nalagati nikakvu zadovoljštinu ni za kakve grijehe; to bi, naime, značilo nanijeti nepravdu muci i smrti Kristovoj, kao da ona ne bi bila dostatna za potpunu zadovoljštinu za grijehe onih koji se krste.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Augustin u knjizi O krštenju djece, *krštenje vrijedi za to da kršteni budu pritjelovljeni Kristu kao njegovi udovi*. Stoga je sama Kristova kazna bila zadovoljština za grijehe onih koji se krste, kao što i kazna jednoga uda može biti zadovoljština za grijeh drugoga uda. Zato se kaže u Iz 53: *Uistinu, on je ponio naše slabosti i on je nosio naše boli*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a5.ad2": {
+      "text": "Na drugo treba reći da one koji su nedavno kršteni treba vježbati u pravednosti ne kaznenim djelima, nego lakim djelima, *da bi kao nekim mlijekom lakoga vježbanja napredovali prema savršenijemu*, kako kaže Glosa na onu riječ Psalma: *Kao odbijeno dijete kod majke svoje*. Zato je i Gospodin svoje učenike, koji su se nedavno obratili, ispričao od posta, kako je jasno iz Mt 9. I to je ono što se kaže u 1 Pt 2: *Kao novorođena dojenčad žudite za mlijekom, da po njemu rastete za spasenje*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a5.ad3": {
+      "text": "Na treće treba reći da vratiti bližnjima ono što im je nepravedno oduzeto i dati zadovoljštinu za nanesene nepravde znači prestati griješiti, jer je upravo to, zadržavati tuđe i ne umiriti bližnjega, grijeh. I zato krštenim grešnicima treba naložiti da dadu zadovoljštinu bližnjima, kao i da odustanu od grijeha. Ali im ne treba naložiti da trpe kakvu kaznu za prošle grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da su grešnici koji pristupaju krštenju dužni ispovjediti svoje grijehe. Kaže se, naime, u Mt 3 da su *mnogi bili kršteni od Ivana u Jordanu, ispovijedajući svoje grijehe*. Ali Kristovo je krštenje savršenije od Ivanova krštenja. Dakle, čini se da bi mnogo više oni koje treba krstiti Kristovim krštenjem morali ispovjediti svoje grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a6.obj2": {
+      "text": "Osim toga, u Izr 28 kaže se: *Tko skriva svoja zlodjela, neće biti upravljen, a tko ih ispovjedi i ostavi, zadobit će milosrđe*. Ali neki se krste zato da zadobiju milosrđe za svoje grijehe. Dakle, oni koje treba krstiti moraju ispovjediti svoje grijehe.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a6.obj3": {
+      "text": "Osim toga, prije krštenja zahtijeva se pokora, prema onome iz Dj 2: *Činite pokoru i neka se svaki od vas krsti*. A ispovijed je dio pokore. Dakle, čini se da se prije krštenja zahtijeva ispovijed grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a6.sc": {
+      "text": "Ali protiv toga je to što ispovijed grijeha mora biti s plačem, kako kaže Augustin u knjizi O pokori: *Svu tu raznolikost treba razmotriti i oplakati*. Ali, kako kaže Ambrozije, *milost Božja u krštenju ne traži jecanja ni plača*. Dakle, od onih koje treba krstiti ne treba zahtijevati ispovijed grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a6.resp": {
+      "text": "Odgovaram: treba reći da je ispovijed grijeha dvostruka. Jedna je unutarnja, koja se čini Bogu. I takva se ispovijed grijeha zahtijeva prije krštenja, naime da čovjek, promišljajući o svojim grijesima, žali zbog njih, *jer ne može započeti novi život ako se ne kaje zbog staroga života*, kako kaže Augustin u knjizi O pokori. A druga je vanjska ispovijed grijeha, koja se čini svećeniku. I takva se ispovijed ne zahtijeva prije krštenja. Prvo, jer takva ispovijed, budući da se odnosi na osobu služitelja, pripada sakramentu pokore, koji se ne zahtijeva prije krštenja, koje je vrata svih sakramenata. Drugo, jer je vanjska ispovijed, koja se čini svećeniku, usmjerena k tome da svećenik onoga koji se ispovijeda odriješi od grijeha i obveže na djela zadovoljštine, koja se krštenima ne smiju nametati, kako je gore rečeno. A kršteni i ne trebaju otpuštenje grijeha po ključevima Crkve, budući da im se po krštenju sve otpušta. Treće, jer je sama pojedinačna ispovijed učinjena čovjeku mučna, zbog stida onoga koji se ispovijeda. A krštenome se ne nameće nikakva vanjska kazna. I zato se od krštenih ne zahtijeva posebna ispovijed grijeha, nego je dovoljna opća, koju čine kad se, prema obredu Crkve, odriču Sotone i svih njegovih djela. I na taj način neka Glosa na Mt 3 kaže da se *u Ivanovu krštenju onima koje treba krstiti daje primjer da ispovijedaju grijehe i obećaju bolje*. Ako bi ipak neki od onih koje treba krstiti iz predanosti htjeli ispovjediti svoje grijehe, trebalo bi saslušati njihovu ispovijed, ne zato da im se nametne zadovoljština, nego zato da im se, protiv grijeha na koje su navikli, dade pouka za duhovni život.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u Ivanovu krštenju grijesi nisu otpuštali, nego je to bilo krštenje pokore. I zato su oni koji su pristupali tom krštenju prikladno ispovijedali grijehe, da bi im se prema kakvoći grijeha odredila pokora. Ali Kristovo je krštenje bez vanjske pokore, kako kaže Ambrozije. Stoga razlog nije sličan.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a6.ad2": {
+      "text": "Na drugo treba reći da je krštenima, da bi bili upravljeni i zadobili milosrđe, dovoljna unutarnja ispovijed učinjena Bogu, a također i vanjska opća ispovijed, i ne zahtijeva se posebna vanjska ispovijed, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a6.ad3": {
+      "text": "Na treće treba reći da je ispovijed dio sakramentalne pokore, koja se ne zahtijeva prije krštenja, kako je rečeno; ali se zahtijeva krepost unutarnjega pokajanja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se od strane krštenika ne zahtijeva nakana da primi sakrament krštenja. Krštenik se, naime, u sakramentu odnosi kao onaj koji trpi. A nakana se ne zahtijeva od strane onoga koji trpi, nego od strane djelatnika. Dakle, čini se da se od strane krštenika ne zahtijeva nakana da primi krštenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a7.obj2": {
+      "text": "Osim toga, ako se izostavi ono što se zahtijeva za krštenje, čovjeka treba ponovno krstiti, kao kad se izostavi zazivanje Trojstva, kako je gore rečeno. Ali ne čini se da bi netko trebao biti ponovno kršten zato što nije imao nakanu primiti krštenje; inače bi, budući da nakana krštenika nije poznata, svatko mogao tražiti da bude ponovno kršten zbog nedostatka nakane. Ne čini se, dakle, da se od strane krštenika zahtijeva nakana da bi primio sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a7.obj3": {
+      "text": "Osim toga, krštenje se daje protiv istočnoga grijeha. Ali istočni se grijeh navlači bez nakane onoga koji se rađa. Dakle, krštenje, kako se čini, ne zahtijeva nakanu od strane krštenika.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a7.sc": {
+      "text": "Ali protiv toga je to što, prema obredu Crkve, oni koje treba krstiti izjavljuju da od Crkve traže krštenje. Time izjavljuju svoju nakanu da prime sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a7.resp": {
+      "text": "Odgovaram: treba reći da po krštenju netko umire staromu životu grijeha i započinje neku novost života, prema onome iz Rim 6: *Suukopani smo s Kristom po krštenju u smrt, da, kao što je Krist uskrsnuo od mrtvih, tako i mi hodimo u novosti života*. I zato, kao što se, prema Augustinu, da bi čovjek umro staromu životu, kod onoga koji ima uporabu slobodnoga odlučivanja zahtijeva volja kojom se kaje zbog staroga života, tako se zahtijeva i volja kojom smjera na novost života, čije je počelo upravo primanje sakramenta. I zato se od strane krštenika zahtijeva volja, ili nakana, da primi sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da u opravdanju, koje se događa po krštenju, trpnja nije prisilna, nego voljna. I zato se zahtijeva nakana da se primi ono što mu se daje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a7.ad2": {
+      "text": "Na drugo treba reći da bi, kad bi odraslome nedostajala nakana da primi sakrament, trebalo ga ponovno krstiti. Ako to pak ne bi bilo poznato, trebalo bi reći: Ako nisi kršten, ja te krstim.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a7.ad3": {
+      "text": "Na treće treba reći da krštenje nije usmjereno samo protiv istočnoga grijeha, nego i protiv osobnih grijeha, koji se uzrokuju voljom i nakanom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da se od strane krštenika zahtijeva vjera. Sakrament je krštenja, naime, ustanovio Krist. Ali Krist, predajući formu krštenja, stavlja vjeru ispred krštenja, govoreći, Mk 16: *Tko bude vjerovao i bude kršten, bit će spašen*. Dakle, čini se da, ako nema vjere, ne može biti sakramenta krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a8.obj2": {
+      "text": "Osim toga, u sakramentima Crkve ništa se ne čini uzalud. Ali prema obredu Crkve onoga koji pristupa krštenju pita se o vjeri, kad se kaže: *Vjeruješ li u Boga, Oca svemogućega?* Dakle, čini se da se za krštenje zahtijeva vjera.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a8.obj3": {
+      "text": "Osim toga, za krštenje se zahtijeva nakana da se primi sakrament. Ali to ne može biti bez prave vjere, budući da je krštenje sakrament prave vjere; po njemu se, naime, ljudi pritjelovljuju Kristu, kako kaže Augustin u knjizi O krštenju djece; a to ne može biti bez prave vjere, prema onome iz Ef 3: *Da Krist po vjeri prebiva u vašim srcima*. Dakle, čini se da onaj koji nema pravu vjeru ne može primiti sakrament krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a8.obj4": {
+      "text": "Osim toga, nevjera je najteži grijeh, kako je izloženo u Drugom dijelu. Ali one koji ostaju u grijehu ne treba krstiti. Dakle, ni one koji ostaju u nevjeri.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Grgur, pišući biskupu Kviriku: *Iz drevne ustanove otaca naučili smo da se oni koji su kod hereze kršteni u ime Trojstva, kad se vraćaju u svetu Crkvu, privode natrag u krilo majke Crkve ili pomazanjem krizmom, ili polaganjem ruke, ili samim ispovijedanjem vjere*. A to ne bi bilo tako kad bi se vjera nužno zahtijevala za primanje krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a8.resp": {
+      "text": "Odgovaram: treba reći da se, kako je jasno iz rečenoga, po krštenju u duši proizvode dvije stvari, to jest biljeg i milost. Na dva se, dakle, načina nešto nužno zahtijeva za krštenje. Na jedan način, ono bez čega se ne može imati milost, koja je posljednji učinak sakramenta. I na taj se način prava vjera nužno zahtijeva za krštenje, jer, kako se kaže u Rim 3, *Božja je pravednost po vjeri u Isusa Krista*. Na drugi se način za krštenje nužno zahtijeva ono bez čega se biljeg krštenja ne može utisnuti. I u tom se smislu prava vjera krštenika ne zahtijeva nužno za krštenje, kao ni prava vjera onoga koji krsti, samo ako je prisutno sve ostalo što je nužno za sakrament. Sakrament se, naime, ne ostvaruje po pravednosti čovjeka koji daje ili prima krštenje, nego po Božjoj snazi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da Gospodin ondje govori o krštenju ukoliko ono vodi ljude do spasenja po opravdavajućoj milosti, što doista ne može biti bez prave vjere. I zato izričito kaže: *Tko bude vjerovao i bude kršten, bit će spašen*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a8.ad2": {
+      "text": "Na drugo treba reći da Crkva smjera krstiti ljude da bi bili očišćeni od grijeha, prema onome iz Iz 27: *Ovo je sav plod: da se ukloni grijeh*. I zato, što se nje tiče, ne smjera davati krštenje osim onima koji imaju pravu vjeru, bez koje nema otpuštenja grijeha. I zbog toga pita one koji pristupaju krštenju vjeruju li. Ako ipak netko bez prave vjere primi krštenje izvan Crkve, ne prima ga sebi na spasenje. Zato Augustin kaže: *Crkva, uspoređena s rajem, pokazuje nam da ljudi njezino krštenje doduše mogu primiti i izvana, ali da spasenje blaženstva izvan nje nitko ne prima ni ne zadržava*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a8.ad3": {
+      "text": "Na treće treba reći da i onaj koji nema pravu vjeru o drugim člancima može imati pravu vjeru o sakramentu krštenja, i tako nije spriječen imati nakanu da primi sakrament krštenja. Ako pak ni o tom sakramentu ne misli ispravno, za primanje sakramenta dovoljna je opća nakana kojom smjera primiti krštenje kako ga je Krist ustanovio i kako ga Crkva predaje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a8.ad4": {
+      "text": "Na četvrto treba reći da, kao što sakrament krštenja ne treba podijeliti onome koji ne želi odstupiti od drugih grijeha, tako ni onome koji ne želi napustiti nevjeru. Ipak, i jedan i drugi prima sakrament ako mu se podijeli, premda ne na spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da djecu ne treba krstiti. Kod onoga koji se krsti zahtijeva se, naime, nakana da primi sakrament, kako je gore rečeno. Ali takvu nakanu djeca ne mogu imati, budući da nemaju uporabu slobodnoga odlučivanja. Dakle, čini se da ne mogu primiti sakrament krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a9.obj2": {
+      "text": "Osim toga, krštenje je sakrament vjere, kako je gore rečeno. Ali djeca nemaju vjere, koja se sastoji u volji onih koji vjeruju, kako kaže Augustin u tumačenju Ivanova evanđelja. Ne može se reći ni to da se spašavaju u vjeri roditelja, jer su roditelji katkad nevjernici, pa bi tako djeca prije bila osuđena zbog njihove nevjere. Dakle, čini se da djeca ne mogu biti krštena.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a9.obj3": {
+      "text": "Osim toga, u 1 Pt 3 kaže se da *ljude spašava krštenje, ne odlaganje tjelesne nečistoće, nego upit dobre savjesti prema Bogu*. Ali djeca niti imaju dobru ili zlu savjest, budući da nemaju uporabu razuma, niti ih je prikladno pitati, budući da ne razumiju. Dakle, djecu ne treba krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a9.sc": {
+      "text": "Ali protiv toga je ono što kaže Dionizije u posljednjem poglavlju djela O crkvenoj hijerarhiji: *Naši božanski vođe, to jest apostoli, odobrili su da se djeca primaju na krštenje*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a9.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Apostol, Rim 5, *ako je zbog prijestupa jednoga smrt zakraljevala po jednome, to jest po Adamu, mnogo će više oni koji primaju obilje milosti i dara i pravednosti kraljevati u životu po jednome, Isusu Kristu*. A djeca od Adamova grijeha navlače istočni grijeh, što je jasno iz toga što su podložna smrtnosti, koja je po grijehu prvoga čovjeka prešla na sve, kako ondje kaže Apostol. Stoga djeca mnogo više mogu po Kristu primiti milost, da kraljuju u vječnom životu. A sam Gospodin kaže, Iv 3: *Ako se tko ne rodi iznova iz vode i Duha Svetoga, ne može ući u kraljevstvo Božje*. Stoga je bilo nužno krstiti djecu, da bi, kao što su po Adamu rađajući se navukla osudu, tako po Kristu preporađajući se postigla spasenje. Bilo je također prikladno da se djeca krste kako bi, odgajana od djetinjstva u onome što pripada kršćanskom životu, u njemu postojanije ustrajala, prema onome iz Izr 22: *Mladić prema svojem putu, ni kad ostari, neće odstupiti od njega*. I taj razlog navodi Dionizije u posljednjem poglavlju djela O crkvenoj hijerarhiji.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da je duhovni preporod, koji se događa po krštenju, na neki način sličan tjelesnom rođenju, u tome što, kao što djeca koja se nalaze u majčinoj utrobi ne primaju hranu sama po sebi, nego se održavaju majčinom hranom, tako i djeca koja nemaju uporabu razuma, kao da se nalaze u utrobi majke Crkve, ne primaju spasenje sama po sebi, nego po činu Crkve. Zato Augustin kaže u knjizi O zaslugama i otpuštenju grijeha: *Majka Crkva pruža maloj djeci majčinska usta, da budu zadojena svetim otajstvima, jer još ne mogu vlastitim srcem vjerovati za pravednost ni vlastitim ustima ispovijedati za spasenje. Ako se pak s pravom nazivaju vjernicima zato što na neki način ispovijedaju vjeru riječima onih koji ih nose, zašto se ne bi smatrala i pokornicima, kad se riječima istih onih koji ih nose pokazuje da se odriču đavla i ovoga svijeta?* I s istoga razloga može se reći da imaju nakanu, ne činom vlastite nakane, budući da se ona sama katkad opiru i plaču, nego činom onih koji ih prinose.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a9.ad2": {
+      "text": "Na drugo treba reći da, kako kaže Augustin pišući Bonifaciju, *u Spasiteljevoj Crkvi mala djeca vjeruju po drugima, kao što su od drugih navukla grijehe koji im se u krštenju otpuštaju*. Niti je njihovo spasenje spriječeno ako su roditelji nevjernici, jer, kako kaže Augustin pišući istom Bonifaciju, *mala se djeca prinose da prime duhovnu milost ne toliko od onih na čijim se rukama nose (premda i od njih, ako su i oni dobri vjernici), koliko od cijele zajednice svetih i vjernika. S pravom se, naime, shvaća da ih prinose svi kojima je drago što se prinose i čijom se ljubavlju pridružuju zajedništvu Duha Svetoga*. A nevjera vlastitih roditelja, čak i ako ih nakon krštenja pokušavaju uvesti u žrtve demonima, ne škodi djeci. Jer, kako ondje kaže Augustin, *dijete, jednom rođeno po volji drugih, odsad ne može biti sputano okovom tuđega bezakonja kad nikakvom svojom voljom ne pristaje, prema onome iz Ez 18: Kao što je moja duša oca, tako je moja i duša sina; duša koja zgriješi, ona će umrijeti. A od Adama je navuklo ono što će se razriješiti milošću onoga sakramenta zato što još nije bilo odijeljena živa duša*. A vjera jednoga, štoviše cijele Crkve, koristi djetetu po djelovanju Duha Svetoga, koji sjedinjuje Crkvu i dobra jednoga priopćuje drugome.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a9.ad3": {
+      "text": "Na treće treba reći da, kao što dijete, kad se krsti, ne vjeruje po samome sebi, nego po drugima, tako ni pitano nije po samome sebi, nego po drugima, i oni koji su pitani ispovijedaju vjeru Crkve u osobi djeteta, koje se toj vjeri pridružuje po sakramentu vjere. A dobru savjest dijete postiže i u samome sebi, doduše ne činom, nego habitusom, po opravdavajućoj milosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da djecu Židova ili drugih nevjernika treba krstiti i protiv volje roditelja. Jer čovjeku više treba pomoći protiv pogibelji vječne smrti nego protiv pogibelji vremenite smrti. A djetetu koje se nalazi u pogibelji vremenite smrti treba pomoći, čak i kad bi mu se roditelji iz zloće opirali. Dakle mnogo više treba pomoći djeci, sinovima nevjernika, protiv pogibelji vječne smrti, i protiv volje roditelja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a10.obj2": {
+      "text": "Osim toga, sinovi robova su robovi i u vlasti su gospodara. A Židovi su robovi kraljeva i knezova, a tako i svi drugi nevjernici. Dakle knezovi mogu bez ikakve nepravde dati krstiti sinove Židova ili drugih robova nevjernika.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a10.obj3": {
+      "text": "Osim toga, svaki čovjek više pripada Bogu, od kojega ima dušu, nego tjelesnom ocu, od kojega ima tijelo. Nije dakle nepravedno ako se djeca, sinovi nevjernika, oduzmu tjelesnim roditeljima i krštenjem posvete Bogu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a10.sc": {
+      "text": "Ali protiv toga jest to što se u Dekretima, u XLV. distinkciji, prema Toledskom saboru, ovako kaže: *O Židovima je sveta sinoda naložila da se odsada nikome ne nanosi sila da bi vjerovao; jer takve ne treba spašavati protiv njihove volje, nego kad to sami hoće, da bi oblik pravednosti ostao netaknut*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a10.resp": {
+      "text": "Odgovaram: treba reći da djeca, sinovi nevjernika, ili imaju uporabu razuma ili je nemaju. Ako je pak imaju, onda s obzirom na ono što pripada božanskom ili naravnom pravu već počinju biti u svojoj vlasti. I zato vlastitom voljom, i protiv volje roditelja, mogu primiti krštenje, kao što mogu i sklopiti ženidbu. Stoga je dopušteno takve poticati i navoditi da prime krštenje. Ako pak još nemaju uporabu slobodnog odlučivanja, po naravnom su pravu pod skrbi roditelja, dokle god se sami ne mogu za sebe brinuti. Zato se i o djeci starih kaže da su se spašavala u vjeri roditelja. I zato bi bilo protiv naravne pravednosti kad bi se takva djeca krstila protiv volje roditelja, kao i kad bi se netko tko ima uporabu razuma krstio protiv svoje volje. Bilo bi također opasno na takav način krstiti djecu nevjernika, jer bi se lako vratila nevjeri zbog naravnog čuvstva prema roditeljima. I zato Crkva nema običaj da se djeca nevjernika krste protiv volje roditelja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da nikoga ne treba izbavljati od tjelesne smrti protivno redu građanskog prava; na primjer, ako netko bude od svoga suca osuđen na smrt, nitko ga ne smije silom oteti smrti. Stoga ni nitko ne smije narušiti red naravnog prava, po kojemu je sin pod skrbi oca, da bi ga oslobodio od pogibelji vječne smrti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a10.ad2": {
+      "text": "Na drugo treba reći da su Židovi robovi knezova građanskim ropstvom, koje ne isključuje red naravnog ili božanskog prava.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a10.ad3": {
+      "text": "Na treće treba reći da je čovjek usmjeren prema Bogu po razumu, po kojemu može spoznati Boga. Stoga je dijete, prije nego što ima uporabu razuma, naravnim redom usmjereno prema Bogu po razumu roditelja, čijoj je skrbi po naravi podložno, i prema njihovu rasporedu treba s njime postupati u božanskim stvarima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da se mogu krstiti oni koji se nalaze u majčinoj utrobi. Jer Kristov je dar djelotvorniji za spasenje nego Adamov grijeh za osudu, kako kaže Apostol u Rim 5. A djeca koja se nalaze u majčinoj utrobi osuđena su zbog Adamova grijeha. Dakle mnogo se više mogu spasiti po Kristovu daru. To se pak događa po krštenju. Dakle se djeca koja se nalaze u majčinoj utrobi mogu krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a11.obj2": {
+      "text": "Osim toga, čini se da je dijete koje se nalazi u majčinoj utrobi nešto majčino. A kad se majka krsti, krsti se sve što je njezino i što se nalazi u njoj. Dakle čini se da se, kad se majka krsti, krsti i dijete koje se nalazi u njezinoj utrobi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a11.obj3": {
+      "text": "Osim toga, vječna je smrt gora od tjelesne smrti. A od dvaju zala treba izabrati manje zlo. Ako se dakle dijete koje se nalazi u majčinoj utrobi ne može krstiti, bolje bi bilo da se majka otvori i da se dijete, silom izvađeno, krsti, nego da dijete bude vječno osuđeno, umrijevši bez krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a11.obj4": {
+      "text": "Osim toga, događa se ponekad da neki dio djeteta izađe prije, kao što se čita u Post 38 da je, kad je Tamara rađala, *upravo dok su djeca izlazila, jedno pružilo ruku, na koju je babica privezala crvenu nit govoreći: „Ovaj će izaći prvi.“ A kad je ono povuklo ruku natrag, izašlo je drugo*. A ponekad u takvu slučaju prijeti pogibelj smrti. Dakle čini se da taj dio treba krstiti dok je dijete još u majčinoj utrobi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a11.sc": {
+      "text": "Ali protiv toga jest to što Augustin kaže u poslanici Dardanu: *Nitko se ne preporađa ako se prije ne rodi*. A krštenje je neko duhovno preporođenje. Dakle nitko se ne smije krstiti prije nego što se rodi iz utrobe.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a11.resp": {
+      "text": "Odgovaram: treba reći da je za krštenje nužno da se tijelo onoga koji se krsti na neki način opere vodom, budući da je krštenje neko pranje, kako je gore rečeno. A tijelo djeteta, prije nego što se rodi iz utrobe, ne može se ni na koji način oprati vodom, osim ako bi se možda reklo da krsno pranje, kojim se pere majčino tijelo, dopire do sina koji je u utrobi. Ali to ne može biti, kako zato što je duša djeteta, na čije je posvećenje usmjereno krštenje, različita od duše majke, tako i zato što je tijelo ploda koje ima dušu već oblikovano, pa je prema tome različito od tijela majke. I zato se krštenje kojim se majka krsti ne prelijeva na potomstvo koje je u utrobi. Zato Augustin kaže, Protiv Julijana: *Kad bi ono što se u majci začinje pripadalo njezinu tijelu tako da bi se smatralo njezinim dijelom, ne bi se krstilo dijete čija je majka bila krštena, u nekoj hitnoj pogibelji smrti, dok ga je nosila u utrobi. A sada, budući da se i ono samo, naime dijete, krsti, zacijelo nije pripadalo majčinu tijelu dok je bilo u utrobi*. I tako preostaje da se oni koji se nalaze u majčinoj utrobi ni na koji način ne mogu krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da djeca koja se nalaze u majčinoj utrobi još nisu izašla na svjetlo da bi provodila život s drugim ljudima. Stoga ne mogu biti podvrgnuta ljudskoj radnji, tako da po njihovu služenju prime sakramente za spasenje. Ali mogu biti podvrgnuta djelovanju Boga, pred kojim žive, tako da nekom povlasticom milosti zadobiju posvećenje, kao što je očito o onima koji su posvećeni u utrobi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a11.ad2": {
+      "text": "Na drugo treba reći da je unutarnji ud majke nešto njezino po neprekinutosti i sjedinjenju tvarnog dijela s cjelinom. A dijete koje se nalazi u majčinoj utrobi nešto je njezino po nekoj povezanosti različitih tijela. Stoga razlog nije isti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a11.ad3": {
+      "text": "Na treće treba reći da *ne treba činiti zlo da dođe dobro*, kako se kaže u Rim 3. I zato čovjek ne smije ubiti majku da bi krstio dijete. Ako je pak majka umrla dok je dijete u utrobi živo, treba je otvoriti da se dijete krsti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a11.ad4": {
+      "text": "Na četvrto treba reći da za krštenje treba čekati potpuni izlazak djeteta iz utrobe, osim ako prijeti smrt. Ako pak najprije izađe glava, u kojoj je utemeljeno osjetilo, dijete treba krstiti kad prijeti pogibelj, a poslije ga ne treba ponovno krstiti ako se dogodi da se potpuno rodi. A čini se da isto treba učiniti ma koji drugi dio izašao, kad prijeti pogibelj. Budući pak da se ni u jednom od vanjskih dijelova cjelovitost ne sastoji toliko kao u glavi, nekima se čini da, zbog sumnje, kad je opran bilo koji drugi dio tijela, dijete nakon potpunog rođenja treba krstiti pod ovom formom: „Ako nisi kršten, ja te krstim“ i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da mahnite i umobolne ne treba krstiti. Jer za primanje krštenja zahtijeva se nakana u onome koji se krsti, kako je gore rečeno. A mahniti i umobolni, budući da nemaju uporabu razuma, ne mogu imati nego neurednu nakanu. Dakle ih ne treba krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a12.obj2": {
+      "text": "Osim toga, čovjek nadilazi nerazumne životinje po tome što ima razum. A mahniti i umobolni nemaju uporabu razuma, a kod njih se ona ponekad i ne očekuje, kao što se očekuje kod djece. Dakle čini se da, kao što se nerazumne životinje ne krste, tako ni takve mahnite i umobolne ne treba krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a12.obj3": {
+      "text": "Osim toga, uporaba razuma više je sputana kod mahnitih ili umobolnih nego kod onih koji spavaju. A krštenje se obično ne daje onima koji spavaju. Dakle ga ne treba davati umobolnima i mahnitima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a12.sc": {
+      "text": "Ali protiv toga jest to što Augustin u IV. knjizi Ispovijesti govori o svome prijatelju koji je, kad se već očajavalo nad njim, bio kršten. Pa ipak je u njemu krštenje imalo djelotvornost. Stoga i onima koji nemaju uporabu razuma ponekad treba dati krštenje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a12.resp": {
+      "text": "Odgovaram: treba reći da glede umobolnih i mahnitih treba razlikovati. Jer neki su takvi od rođenja i nemaju nikakvih svijetlih razdoblja, i kod njih se ne pokazuje nikakva uporaba razuma. A o takvima, što se tiče primanja krštenja, čini se da vrijedi isti sud kao i o djeci, koja se krste u vjeri Crkve, kako je gore rečeno. Drugi su pak umobolni koji su iz zdrave pameti koju su prije imali zapali u umobolnost. I o takvima treba suditi prema volji koju su imali dok su bili zdrave pameti. I zato, ako se tada u njima pokazala volja da prime krštenje, treba im ga podijeliti kad su u mahnitosti ili umobolnosti, čak i ako se tada protive. Inače, ako se u njima, dok su bili zdrave pameti, nije pokazala nikakva volja da prime krštenje, ne treba ih krstiti. Neki su pak koji, iako su od rođenja mahniti i umobolni, ipak imaju neka svijetla razdoblja u kojima se mogu služiti ispravnim razumom. Stoga, ako su tada htjeli biti kršteni, mogu biti kršteni i kad su u umobolnosti. I treba im tada podijeliti sakrament ako se strahuje od pogibelji; inače je bolje pričekati vrijeme kada su zdrave pameti, kako bi s većom predanošću primili sakrament. Ako se pak u vrijeme svijetlog razdoblja u njima ne pokaže volja da prime krštenje, ne treba ih krstiti kad su u umobolnosti. Neki su pak koji, iako nisu sasvim zdrave pameti, ipak se toliko služe razumom da mogu misliti o svome spasenju i shvatiti snagu sakramenta. I o takvima vrijedi isti sud kao i o onima koji su zdrave pameti, koji se krste kad to hoće, a ne protiv svoje volje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da se umobolni koji nikada nisu imali niti imaju uporabu razuma krste po nakani Crkve, kao što po obredu Crkve vjeruju i kaju se, kako je gore rečeno o djeci. A oni koji su u neko vrijeme imali ili imaju uporabu razuma krste se prema vlastitoj nakani, koju imaju ili su imali u vrijeme zdrave pameti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a12.ad2": {
+      "text": "Na drugo treba reći da mahniti ili umobolni nemaju uporabu razuma akcidentalno, naime zbog neke zapreke u tjelesnom organu, a ne zbog nedostatka razumske duše, kao nerazumne životinje. Stoga razlog za njih nije isti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q68.a12.ad3": {
+      "text": "Na treće treba reći da one koji spavaju ne treba krstiti osim ako prijeti pogibelj smrti. U tom ih slučaju treba krstiti ako se prije u njima pokazala volja da prime krštenje, kao što je rečeno i o umobolnima; kao što Augustin u IV. knjizi Ispovijesti pripovijeda o svome prijatelju koji je bio kršten a da to nije znao, zbog pogibelji smrti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    }
+  }
+}

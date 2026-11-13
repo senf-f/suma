@@ -1,0 +1,396 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 67,
+  "units": {
+    "III.q67.pr": {
+      "text": "Zatim treba razmotriti služitelje po kojima se podjeljuje sakrament krštenja. I o tome se pita osam stvari. Prvo, pripada li đakonu krstiti. Drugo, pripada li to prezbiteru ili samo biskupu. Treće, može li laik podijeliti sakrament krštenja. Četvrto, može li to učiniti žena. Peto, može li nekršteni krstiti. Šesto, mogu li više njih istodobno krstiti jednoga te istoga. Sedmo, je li nužno da bude netko tko krštenika prima iz svetoga zdenca. Osmo, obvezuje li se onaj koji nekoga prima iz svetoga zdenca na njegovo poučavanje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da službi đakona pripada krstiti. Gospodin, naime, istodobno nalaže službu propovijedanja i krštavanja, prema onome iz Mt, posljednje poglavlje: *idite, naučavajte sve narode, krsteći ih*, i tako dalje. A službi đakona pripada navješćivati evanđelje. Dakle, čini se da i službi đakona pripada krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a1.obj2": {
+      "text": "Osim toga, prema Dionizijevu V. poglavlju O crkvenoj hijerarhiji, čistiti pripada službi đakona. A čišćenje od grijeha najviše se zbiva po krštenju, prema onome iz Ef 5: *čisteći je kupelji vode u riječi života*. Dakle, čini se da krstiti pripada đakonu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a1.obj3": {
+      "text": "Osim toga, o blaženom Lovri čita se da je, premda je bio đakon, krstio mnoge. Dakle, čini se da đakonima pripada krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a1.sc": {
+      "text": "Ali protiv toga je ono što kaže papa Gelazije, a nalazi se u Dekretima, 93. distinkcija: *određujemo da đakoni obdržavaju svoju vlastitu mjeru*. I niže: *neka se ne usude krstiti bez biskupa ili prezbitera, osim ako ih, kad su spomenuti redovi daleko, ne prisili krajnja nužda*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a1.resp": {
+      "text": "Odgovaram: treba reći da, kao što se svojstva nebeskih redova i njihove službe uzimaju iz njihovih imena, kako kaže Dionizije u VII. poglavlju O nebeskoj hijerarhiji, tako se i iz imena crkvenih redova može uzeti što pripada kojemu redu. A đakoni se nazivaju kao poslužitelji, jer, naime, đakonima ne pripada da glavno i kao iz vlastite službe pružaju neki sakrament, nego da poslužuju druge, veće, pri dijeljenju sakramenata. I tako đakonu ne pripada kao iz vlastite službe podjeljivati sakrament krštenja, nego pri podjeljivanju toga i drugih sakramenata pomagati većima i posluživati ih. Stoga Izidor kaže: *đakonu pripada pomagati i posluživati svećenike u svemu što se čini u Kristovim sakramentima, naime u krštenju, u krizmi, pri pateni i kaležu*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da đakonu pripada čitati Evanđelje u crkvi i propovijedati ga na način katehete; zato i Dionizije kaže da đakoni imaju službu nad nečistima, među koje ubraja katekumene. Ali naučavati, to jest tumačiti Evanđelje, pripada u vlastitom smislu biskupu, čiji je čin usavršavati, prema Dionizijevu V. poglavlju O crkvenoj hijerarhiji; a usavršavati je isto što i naučavati. Stoga ne slijedi da đakonima pripada služba krštavanja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a1.ad2": {
+      "text": "Na drugo treba reći da, kako kaže Dionizije u II. poglavlju O crkvenoj hijerarhiji, krštenje nema samo čistiteljsku snagu nego i prosvjetiteljsku. Zato nadilazi službu đakona, kojemu pripada samo čistiti, naime ili udaljujući nečiste ili raspolažući ih za primanje sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a1.ad3": {
+      "text": "Na treće treba reći da, budući da je krštenje sakrament nužnosti, đakonima je dopušteno krstiti kad nužnost tjera, u odsutnosti većih, kako je jasno iz gore navedenoga Gelazijeva autoriteta. I na taj je način blaženi Lovro, budući da je bio đakon, krstio.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da krstiti ne pripada službi prezbitera, nego samo biskupa. Jer, kako je rečeno, istom se zapovijedi, Mt, posljednje poglavlje, nalaže služba naučavanja i krštavanja. Ali naučavati, što je usavršavati, pripada službi biskupa, kako je jasno iz Dionizija, V. i VI. poglavlje O crkvenoj hijerarhiji. Dakle, i krstiti pripada samo službi biskupa.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a2.obj2": {
+      "text": "Osim toga, po krštenju se netko pribraja kršćanskom narodu, a to se čini da pripada službi samo poglavara. Ali poglavarstvo u Crkvi drže biskupi, kako se kaže u Glosi uz Lk 10, koji drže i mjesto apostola, o kojima se kaže u Psalmu: *postavit ćeš ih za knezove nad svom zemljom*. Dakle, čini se da krstiti pripada samo službi biskupa.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a2.obj3": {
+      "text": "Osim toga, Izidor kaže da *biskupu pripada posveta bazilika, pomazanje oltara i pripravljanje krizme; on dijeli crkvene redove i blagoslivlja posvećene djevice*. Ali sakrament krštenja veći je od svega toga. Dakle, čini se da mnogo više samo službi biskupa pripada krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a2.sc": {
+      "text": "Ali protiv toga je ono što Izidor kaže u knjizi O službama: *poznato je da je krštenje povjereno samo svećenicima*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a2.resp": {
+      "text": "Odgovaram: treba reći da se svećenici posvećuju zato da ostvaruju sakrament Kristova tijela, kako je gore rečeno. A to je sakrament crkvenoga jedinstva, prema onome Apostolovu, 1 Kor 10: *mi mnogi jedan smo kruh i jedno tijelo, svi koji smo dionici jednoga kruha i jednoga kaleža*. A po krštenju netko postaje dionikom crkvenoga jedinstva; zato i prima pravo pristupa Gospodnjem stolu. Zato, kao što svećeniku pripada posvetiti Euharistiju, čemu je svećeništvo ponajprije usmjereno, tako vlastitoj službi svećenika pripada krstiti; čini se, naime, da istome pripada izvršiti cjelinu i raspoložiti dio u cjelini.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je obje službe, naime naučavanja i krštavanja, Gospodin naložio apostolima, čije mjesto zauzimaju biskupi, ali na različit način. Jer im je Krist povjerio službu naučavanja da je oni sami vrše, kao ono najglavnije; zato su i sami apostoli rekli, Dj 6: *nije pravo da mi zapustimo riječ Božju i poslužujemo kod stolova*. A službu krštavanja povjerio je apostolima da je vrše po drugima; zato i Apostol kaže, 1 Kor 1: *nije me Krist poslao krstiti, nego navješćivati evanđelje*. A to stoga što pri krštavanju ništa ne čini zasluga i mudrost služitelja, kao pri naučavanju, kako je jasno iz gore rečenoga. Kao znak toga ni sam Gospodin nije krstio, nego njegovi učenici, kako se kaže u Iv 4. Time se ipak ne isključuje da biskupi mogu krstiti, jer što može niža vlast, može i viša. Zato i Apostol na istome mjestu kaže da je neke krstio.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a2.ad2": {
+      "text": "Na drugo treba reći da u svakoj državi ono što je manje pripada manjim službama, a ono što je veće pridržava se većima, prema onome iz Izl 18: *što god bude veće, iznijet će pred tebe, a oni neka sude samo manje stvari*. Zato manjim poglavarima grada pripada raspoređivati o najnižem puku, a najvišima pripada raspoređivati ono što se tiče većih u gradu. A po krštenju netko postiže samo najniži stupanj u kršćanskom narodu. Zato krstiti pripada manjim poglavarima Crkve, to jest prezbiterima, koji drže mjesto sedamdeset i dvojice Kristovih učenika, kako kaže Glosa uz Lk 10.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a2.ad3": {
+      "text": "Na treće treba reći da je, kako je gore rečeno, sakrament krštenja najodličniji po nužnosti, ali s obzirom na savršenost postoje neki drugi odličniji, koji su pridržani biskupima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da laik ne može krstiti. Krstiti, naime, kako je rečeno, u vlastitom smislu pripada svećeničkom redu. A ono što pripada redu ne može se povjeriti onome tko nema reda. Dakle, čini se da laik, koji nema reda, ne može krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a3.obj2": {
+      "text": "Osim toga, veće je krstiti nego obavljati druge sakramentale krštenja, kao što su katehizirati, egzorcizirati i blagoslivljati krsnu vodu. Ali to ne mogu činiti laici, nego samo svećenici. Dakle, čini se da laici mnogo manje mogu krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a3.obj3": {
+      "text": "Osim toga, kao što je krštenje sakrament nužnosti, tako je i pokora. Ali laik ne može odrješivati u sudištu pokore. Dakle, ne može ni krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a3.sc": {
+      "text": "Ali protiv toga je ono što kažu papa Gelazije i Izidor: *kršćanskim se laicima, kad prijeti nužnost, obično dopušta krstiti*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a3.resp": {
+      "text": "Odgovaram: treba reći da milosrđu onoga koji *hoće da se svi ljudi spase* pripada to da čovjek u onome što je nužno za spasenje lako nađe lijek. A među svim drugim sakramentima najveće je nužnosti krštenje, koje je preporođenje čovjeka za duhovni život, jer se djeci ne može drukčije pomoći; a odrasli ne mogu drukčije nego po krštenju postići potpuno otpuštenje i s obzirom na krivnju i s obzirom na kaznu. Zato je, da čovjek ne bi mogao trpjeti nedostatak u pogledu tako nužnoga lijeka, ustanovljeno da i tvar krštenja bude općenita, naime voda, koju svatko može imati, i da služitelj krštenja bude bilo tko, pa i onaj koji nije zaređen, da čovjek zbog nedostatka krštenja ne bi pretrpio gubitak svojega spasenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da krstiti pripada svećeničkom redu po nekoj prikladnosti i svečanosti, ali to ne pripada nužnosti sakramenta. Stoga, čak i ako laik krsti izvan časa nužnosti, griješi doduše, ali ipak podjeljuje sakrament krštenja, i onoga koji je tako kršten ne treba ponovno krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a3.ad2": {
+      "text": "Na drugo treba reći da ti sakramentali krštenja pripadaju svečanosti, a ne nužnosti krštenja. Zato ih laik ne smije niti može obavljati, nego samo svećenik, kojemu pripada svečano krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a3.ad3": {
+      "text": "Na treće treba reći da, kako je gore rečeno, pokora nije tolike nužnosti kao krštenje; nedostatak svećeničkoga odrješenja, naime, može se nadomjestiti skrušenošću, a ono ni ne oslobađa od cijele kazne, niti se primjenjuje na djecu. Zato s krštenjem nije slično, čiji se učinak ne može nadomjestiti ničim drugim.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da žena ne može krstiti. Čita se, naime, na Kartaškom saboru: *žena, makar bila učena i sveta, neka se ne usudi poučavati muževe na skupu ili krstiti druge*. Ali ženi nikako nije dopušteno poučavati na skupu, prema onome iz 1 Kor 14: *sramotno je ženi govoriti u crkvi*. Dakle, čini se da ženi ni na koji način nije dopušteno krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a4.obj2": {
+      "text": "Osim toga, krstiti pripada službi poglavarstva; zato se krštenje mora primati od svećenika koji imaju brigu za duše. Ali to ne može pristajati ženi, prema onome iz 1 Tim 2: *ženi ne dopuštam da poučava ni da gospoduje nad muževima, nego neka bude podložna*. Dakle, žena ne može krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a4.obj3": {
+      "text": "Osim toga, čini se da u duhovnom preporođenju voda zauzima mjesto majčine utrobe, kako kaže Augustin uz ono iz Iv 3: *Može li čovjek ponovno ući u utrobu svoje majke i iznova se roditi?* A čini se da onaj koji krsti ima više očevu službu. Ali to ne pristaje ženi. Dakle, žena ne može krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže papa Urban, a nalazi se u Dekretima, 30. kauza, 3. pitanje: *O onome o čemu nas je upitala tvoja ljubav, čini nam se da treba odgovoriti ovom odlukom: da to jest krštenje ako žena, kad nužnost prijeti, krsti dijete u ime Trojstva*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a4.resp": {
+      "text": "Odgovaram: treba reći da je Krist onaj koji glavno krsti, prema onome iz Iv 1: *na koga vidiš da Duh silazi i ostaje, on je onaj koji krsti*. A u Kol 3 kaže se da *u Kristu nema ni muškog ni ženskog*. Zato, kao što muškarac laik može krstiti kao Kristov služitelj, tako i žena. Budući pak da je *glava ženi muž, a glava mužu Krist*, kako se kaže u 1 Kor 11, žena ne smije krstiti ako je prisutan muškarac. Kao što ni laik u prisutnosti klerika, ni klerik u prisutnosti svećenika. Ovaj pak može krstiti u prisutnosti biskupa, zato što to pripada službi svećenika.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što ženi nije dopušteno javno poučavati, ali ipak može privatnom poukom ili opomenom nekoga poučiti, tako joj nije dopušteno javno i svečano krstiti, ali ipak može krstiti u času nužnosti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a4.ad2": {
+      "text": "Na drugo treba reći da, kad se krštenje slavi svečano i uredno, netko mora primiti sakrament krštenja od prezbitera koji ima brigu za duše ili od nekoga tko ga zamjenjuje. To se ipak ne zahtijeva u času nužnosti, u kojem žena može krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a4.ad3": {
+      "text": "Na treće treba reći da u tjelesnom rađanju muško i žensko djeluju po snazi vlastite naravi, i zato žensko ne može biti djelatno počelo rađanja, nego samo trpno. Ali u duhovnom rađanju ni jedno ni drugo ne djeluje vlastitom snagom, nego samo oruđno, po Kristovoj snazi. Zato u slučaju nužnosti na isti način mogu krstiti i muškarac i žena. Ako bi pak žena krstila izvan slučaja nužnosti, ne bi trebalo ponovno krstiti krštenoga, kao što je rečeno i o laiku. Ali bi griješila sama ona koja krsti, i drugi koji bi u tome sudjelovali, bilo primajući od nje krštenje, bilo prinoseći joj nekoga da ga krsti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da onaj koji nije kršten ne može podijeliti sakrament krštenja. Nitko, naime, ne daje ono što nema. A nekršteni nema sakramenta krštenja. Dakle, ne može ga podijeliti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a5.obj2": {
+      "text": "Osim toga, netko podjeljuje sakrament krštenja ukoliko je služitelj Crkve. Ali onaj koji nije kršten ni na koji način ne pripada Crkvi, naime ni stvarno ni sakramentom. Dakle, ne može podijeliti sakrament krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a5.obj3": {
+      "text": "Osim toga, veće je podijeliti sakrament nego ga primiti. Ali nekršteni ne može primiti druge sakramente. Dakle, mnogo manje može podijeliti ikoji sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Izidor: *rimski prvosvećenik ne sudi da je čovjek onaj koji krsti, nego da Božji Duh podjeljuje milost krštenja, makar onaj koji krsti bio poganin*. A onaj koji je kršten ne naziva se poganinom. Dakle, nekršteni može podijeliti sakrament krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a5.resp": {
+      "text": "Odgovaram: treba reći da je Augustin ovo pitanje ostavio neodređenim. Kaže, naime, u II. knjizi Protiv Parmenijanove poslanice: *to je doduše drugo pitanje, može li i od onih koji nikada nisu bili kršćani biti dano krštenje, i o tome ne treba ništa nepromišljeno tvrditi bez autoriteta tako svetoga sabora kakav je dovoljan za tako veliku stvar*. A poslije je Crkva odredila da nekršteni, bilo da su Židovi bilo pogani, mogu podijeliti sakrament krštenja, samo ako krste prema formi Crkve. Zato papa Nikola odgovara na upite Bugara: *tvrdite da su u vašoj zemlji mnogi kršteni od nekoga za koga ne znate je li kršćanin ili poganin. Ako su ti kršteni u ime Trojstva, ne treba ih ponovno krstiti*. Ako pak nije bila obdržana forma Crkve, sakrament krštenja se ne podjeljuje. I tako treba shvatiti ono što Grgur II. piše biskupu Bonifaciju: *one za koje si tvrdio da su ih krstili pogani* – naime bez obdržavanja forme Crkve – *nalažemo da iznova krstiš u ime Trojstva*. A razlog je tome što, kao što je s obzirom na tvar, što se tiče nužnosti sakramenta, dovoljna bilo koja voda, tako je i s obzirom na služitelja dovoljan bilo koji čovjek. Zato i nekršteni u času nužnosti može krstiti. Tako bi dvojica nekrštenih mogla krstiti jedan drugoga, tako da najprije jedan krsti drugoga, a potom bude kršten od istoga; i obojica bi postigla ne samo sakrament nego i stvar sakramenta. Ako bi se to pak činilo izvan časa nužnosti, obojica bi teško griješila, naime i onaj koji krsti i krštenik, i time bi se priječio učinak krštenja, premda se ne bi dokinuo sam sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da čovjek koji krsti pruža samo vanjsku službu, ali Krist je onaj koji iznutra krsti, a on se može služiti svim ljudima za što god hoće. Zato nekršteni mogu krstiti, jer, kako kaže papa Nikola, krštenje nije njihovo, naime onih koji krste, nego njegovo, naime Kristovo.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a5.ad2": {
+      "text": "Na drugo treba reći da onaj koji nije kršten, premda ne pripada Crkvi stvarno ili sakramentom, ipak joj može pripadati nakanom i sličnošću čina, ukoliko, naime, smjera učiniti ono što čini Crkva i u krštavanju obdržava formu Crkve; i tako djeluje kao služitelj Krista, koji svoju snagu nije vezao uz krštene, kao ni uz sakramente.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a5.ad3": {
+      "text": "Na treće treba reći da drugi sakramenti nisu tolike nužnosti kao krštenje. Zato se prije dopušta da nekršteni može krstiti nego da može primati druge sakramente.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da više njih može istodobno krstiti. U mnoštvu je, naime, sadržano jedno, ali ne i obratno. Stoga se čini da što god može učiniti jedan, mogu učiniti mnogi, a ne obratno, kao što mnogi vuku lađu koju jedan ne bi mogao vući. A jedan čovjek može krstiti. Dakle, i više njih može istodobno krstiti jednoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a6.obj2": {
+      "text": "Osim toga, teže je da jedan djelatnik djeluje na mnoge nego da više djelatnika istodobno djeluje na jednoga. Ali jedan čovjek može istodobno krstiti mnoge. Dakle, tim prije više njih može istodobno krstiti jednoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a6.obj3": {
+      "text": "Osim toga, krštenje je sakrament najveće nužnosti. Ali čini se da je u nekom slučaju nužno da više njih istodobno krsti jednoga, primjerice kad bi neko dijete bilo na samrti, a bila bi prisutna dvojica, od kojih bi jedan bio nijem, a drugome bi nedostajale šake i ruke; tada bi, naime, trebalo da sakati izgovori riječi, a nijemi da izvrši krštenje. Dakle, čini se da više njih može istodobno krstiti jednoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a6.sc": {
+      "text": "Ali protiv toga je to što jedan djelatnik ima jednu radnju. Kad bi, dakle, više njih krstilo jednoga, čini se da bi slijedilo da ima više krštenja. A to je protiv onoga što se kaže u Ef 4: *jedna vjera, jedno krštenje*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a6.resp": {
+      "text": "Odgovaram: treba reći da sakrament krštenja ponajprije ima snagu od forme, koju Apostol naziva riječju života, Ef 5. Zato treba razmotriti kojom bi se formom služili kad bi više njih istodobno krstilo jednoga. Kad bi, naime, rekli: Mi te krstimo u ime Oca i Sina i Duha Svetoga, neki kažu da se ne bi podijelio sakrament krštenja zato što se ne bi obdržala forma Crkve, koja glasi ovako: *Ja te krstim u ime Oca i Sina i Duha Svetoga*. Ali to se isključuje formom krštavanja kojom se služi Grčka Crkva. Mogli bi, naime, reći: *Krsti se sluga Kristov N. u ime Oca i Sina i Duha Svetoga*, pod kojom formom Grci primaju krštenje, a ta je forma ipak mnogo nesličnija formi kojom se mi služimo nego kad bi se reklo: Mi te krstimo. Ali treba uzeti u obzir da se takvom formom, mi te krstimo, izražava takva nakana da se više njih udružuje da podijele jedno krštenje. A to se čini da je protiv pojma službe; čovjek, naime, krsti samo kao Kristov služitelj i kao onaj koji zauzima njegovo mjesto; stoga, kao što je jedan Krist, tako treba da bude jedan služitelj koji predstavlja Krista. Zbog toga Apostol izričito kaže, Ef 4: *jedan Gospodin, jedna vjera, jedno krštenje*. Zato se čini da protivna nakana isključuje sakrament krštenja. Ako bi pak svaki od njih rekao: *Ja te krstim u ime Oca i Sina i Duha Svetoga*, svaki bi izražavao svoju nakanu kao da sam pojedinačno podjeljuje krštenje. To bi se moglo dogoditi u slučaju u kojem bi svaki od njih, nadmećući se, pokušavao nekoga krstiti. I tada je očito da bi sakrament krštenja dao onaj koji bi prvi izgovorio riječi. A drugi, koliko god imao pravo krštavati, kad bi se i usudio izgovoriti riječi, trebalo bi ga kazniti kao onoga koji ponovno krsti. Ako bi pak posve istodobno izgovorili riječi i uronili ili poškropili čovjeka, trebalo bi ih kazniti zbog neurednoga načina krštavanja, a ne zbog ponavljanja krštenja, jer bi svaki od njih smjerao krstiti nekrštenoga, i svaki bi, koliko je do njega, krstio. I ne bi podjeljivali jedan i drugi sakrament, nego bi Krist, koji je jedini koji iznutra krsti, po obojici podijelio jedan sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da taj razlog ima mjesta kod onih koji djeluju vlastitom snagom. Ali ljudi ne krste vlastitom snagom, nego Kristovom snagom, koji, budući da je jedan, po jednom služitelju dovršava svoje djelo.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a6.ad2": {
+      "text": "Na drugo treba reći da bi u slučaju nužnosti jedan mogao istodobno krstiti više njih pod ovom formom: Ja vas krstim, primjerice kad bi prijetilo urušavanje ili mač ili nešto slično, što nipošto ne bi trpjelo odgodu kad bi se svi krstili pojedinačno. I time se ne bi promijenila forma Crkve, jer množina nije drugo nego udvostručena jednina, osobito budući da se u Mt, posljednje poglavlje, kaže u množini: krsteći ih, i tako dalje. I nije slično s onim koji krsti i s krštenikom. Jer je Krist, koji glavno krsti, jedan, a mnogi po krštenju postaju jedno u Kristu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a6.ad3": {
+      "text": "Na treće treba reći da, kako je gore rečeno, cjelovitost krštenja sastoji se u formi riječi i u uporabi tvari. Zato ne krsti ni onaj koji samo izgovara riječi ni onaj koji uranja. Zato, ako jedan izgovara riječi, a drugi uranja, nikakva forma riječi neće moći biti prikladna. Jer se neće moći reći: Ja te krstim, budući da on sam ne uranja i, prema tome, ne krsti. Niti će se moći reći: Mi te krstimo, budući da ni jedan od njih ne krsti. Ako su, naime, dvojica od kojih jedan piše jedan dio knjige, a drugi drugi, nije vlastiti izričaj: Mi smo napisali ovu knjigu, nego sinegdoha, ukoliko se cjelina stavlja umjesto dijela.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se pri krštenju ne zahtijeva netko tko krštenika podiže iz svetoga zdenca. Naše se, naime, krštenje posvećuje Kristovim krštenjem i njemu se suobličuje. Ali Krista, kad je bio kršten, nitko nije primio iz zdenca, nego, kako se kaže u Mt 3, *kršten Isus odmah izađe iz vode*. Dakle, čini se da se ni pri krštenju drugih ne zahtijeva netko tko krštenika prima iz svetoga zdenca.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a7.obj2": {
+      "text": "Osim toga, krštenje je duhovno preporođenje, kako je gore rečeno. Ali u tjelesnom rađanju zahtijeva se samo djelatno počelo, a to je otac, i trpno počelo, a to je majka. Budući, dakle, da u krštenju mjesto oca zauzima onaj koji krsti, a mjesto majke sama krsna voda, kako kaže Augustin u nekoj propovijedi o Bogojavljenju, čini se da se ne zahtijeva netko drugi tko krštenika podiže iz svetoga zdenca.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a7.obj3": {
+      "text": "Osim toga, u sakramentima Crkve ne smije se činiti ništa smiješno. A čini se smiješnim da odrasle krštenike, koji se mogu sami održati i izaći iz svetoga zdenca, prima netko drugi. Dakle, čini se da se ne zahtijeva netko, osobito pri krštenju odraslih, tko krštenika podiže iz svetoga zdenca.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a7.sc": {
+      "text": "Ali protiv toga je ono što Dionizije kaže u II. poglavlju O crkvenoj hijerarhiji, da *svećenici, uzimajući krštenika, predaju ga kumu i vođi uvođenja*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a7.resp": {
+      "text": "Odgovaram: treba reći da je duhovno preporođenje, koje se zbiva po krštenju, na neki način slično tjelesnom rađanju; zato se kaže u 1 Pt 2: *kao novorođena djeca žudite za razumskim mlijekom bez prijevare*. A u tjelesnom rađanju tek rođenom djetetu potrebni su dojilja i odgojitelj. Zato se i u duhovnom rađanju krštenja zahtijeva netko tko bi vršio službu dojilje i odgojitelja, oblikujući i poučavajući onoga koji je novak u vjeri o onome što pripada vjeri i kršćanskom životu; a tome se crkveni poglavari ne mogu posvetiti, jer su zauzeti općom brigom za puk; djeca, naime, i novaci trebaju posebnu brigu osim opće. Zato se zahtijeva da netko primi krštenika iz svetoga zdenca kao u svoje poučavanje i skrbništvo. I to je ono što Dionizije kaže u posljednjem poglavlju O crkvenoj hijerarhiji: *našim božanskim vođama, to jest apostolima, palo je na pamet i učinilo se dobrim da primaju djecu na ovaj način: da roditelji djeteta predaju dijete nekom odgojitelju upućenom u božanske stvari, i da dijete ostalo provodi pod njim kao pod božanskim ocem i kumom svetoga spasenja*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da Krist nije bio kršten da bi se sam preporodio, nego da bi preporodio druge. Zato mu poslije krštenja nije bio potreban odgojitelj kao djetetu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a7.ad2": {
+      "text": "Na drugo treba reći da se u tjelesnom rađanju nužno zahtijevaju samo otac i majka, ali za lak porod i prikladan odgoj djeteta zahtijevaju se primalja, dojilja i odgojitelj. Njihovu službu u krštenju vrši onaj koji dijete podiže iz svetoga zdenca. Stoga to ne pripada nužnosti sakramenta, nego jedan sam može krstiti u vodi kad prijeti nužnost.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a7.ad3": {
+      "text": "Na treće treba reći da kum ne prima krštenika iz svetoga zdenca zbog tjelesne slabosti, nego zbog duhovne slabosti, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da onaj koji nekoga prima sa svetoga zdenca nije obvezan na njegovu pouku. Jer nitko ne može poučavati ako sam nije poučen. A na to da nekoga prime sa svetoga zdenca pripuštaju se i neki koji nisu poučeni, nego su priprosti. Dakle, onaj koji prima krštenika nije obvezan na njegovu pouku.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a8.obj2": {
+      "text": "Osim toga, sina više poučava otac nego kakav drugi stranac, jer sin od oca ima bitak, hranu i odgoj, kako kaže Filozof u VIII. knjizi Etike. Ako je, dakle, onaj koji prima krštenika dužan poučavati ga, bilo bi prikladnije da tjelesni otac svojega sina primi s krštenja nego netko drugi. To se, međutim, čini zabranjenim, kako stoji u Dekretima, XXX, pit. 1, kan. Pervenit i kan. Dictum est.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a8.obj3": {
+      "text": "Osim toga, više njih može bolje poučavati nego jedan sam. Ako bi, dakle, onaj koji prima nekoga krštenika bio dužan poučavati ga, trebalo bi da ga prima više njih, a ne jedan sam. Ali suprotno tome stoji u dekretu pape Leona: *Neka ne pristupa više njih, kaže, da prime dijete s krštenja, nego jedan, bio to muškarac ili žena*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u nekoj uskrsnoj propovijedi: *Vas prije svega, i muškarce i žene, koji ste primili djecu na krštenju, opominjem da znate da ste postali jamci pred Bogom za one koje ste, kako se vidjelo, primili sa svetoga zdenca*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a8.resp": {
+      "text": "Odgovaram: treba reći da je svatko obvezan izvršavati službu koju prima. A rečeno je da onaj koji nekoga prima sa svetoga zdenca preuzima na sebe službu odgojitelja. I zato je obvezan brinuti se za njega ako bi prijetila nužda, kao u ono vrijeme i na onom mjestu gdje kršteni odrastaju među nevjernicima. Ali gdje odrastaju među katoličkim kršćanima, mogu biti prilično ispričani od te brige, jer se pretpostavlja da ih njihovi roditelji brižno poučavaju. Ako bi pak na bilo koji način opazili suprotno, bili bi dužni, na svoj način, posvetiti brigu spasenju svojih duhovnih sinova.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da bi, gdje prijeti pogibelj, morao onoga koji se krsti primiti sa svetoga zdenca netko učen u božanskim stvarima, kako kaže Dionizije. Ali gdje ta pogibelj ne prijeti, zato što djeca odrastaju među katolicima, na tu se službu pripušta bilo tko, jer je ono što pripada kršćanskom životu i vjeri svima javno poznato. Pa ipak onaj koji nije kršten ne može primiti krštenika, kako je izjavljeno na Mainzskom saboru, premda nekršteni može krstiti, jer osoba onoga koji krsti pripada nužnosti sakramenta, a osoba onoga koji prima ne pripada, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a8.ad2": {
+      "text": "Na drugo treba reći da, kao što je duhovno rađanje drukčije od tjelesnoga, tako i odgoj mora biti drukčiji, prema onome iz Heb 12: *Imali smo očeve svojega tijela kao odgojitelje i poštovali smo ih. Nećemo li se mnogo više pokoravati Ocu duhova i živjeti?* I zato duhovni otac mora biti drugi, a ne tjelesni otac, osim ako nužda zahtijeva suprotno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    },
+    "III.q67.a8.ad3": {
+      "text": "Na treće treba reći da bi u odgoju nastala zbrka kad ne bi bilo jednoga glavnog poučavatelja. I zato na krštenju mora biti jedan glavni kum. Drugi ipak mogu biti pripušteni kao pomoćnici.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:02+00:00"
+    }
+  }
+}

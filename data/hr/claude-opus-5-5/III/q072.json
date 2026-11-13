@@ -1,0 +1,624 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 72,
+  "units": {
+    "III.q72.pr": {
+      "text": "Zatim treba razmotriti sakrament potvrde (krizme). I o tome se pita dvanaest stvari. Prvo, je li potvrda sakrament. Drugo, o njezinoj tvari. Treće, je li nužno za sakrament da krizmu prethodno posveti biskup. Četvrto, o njezinoj formi. Peto, utiskuje li biljeg. Šesto, pretpostavlja li biljeg potvrde krsni biljeg. Sedmo, podjeljuje li milost. Osmo, komu pristaje primiti ovaj sakrament. Deveto, na kojem dijelu. Deseto, zahtijeva li se netko tko drži onoga koji se ima potvrditi. Jedanaesto, podjeljuju li ovaj sakrament samo biskupi. Dvanaesto, o njegovu obredu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da potvrda (krizma) nije sakrament. Sakramenti, naime, imaju djelotvornost iz božanske ustanove, kao što je gore rečeno. Ali ne čita se da je potvrdu ustanovio Krist. Dakle, nije sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a1.obj2": {
+      "text": "Osim toga, sakramenti Novoga zakona bili su predslikani u Starom, kako kaže Apostol u 1 Kor 10: *svi su u Mojsiju kršteni u oblaku i u moru, i svi su jeli istu duhovnu hranu, i svi su pili isto duhovno piće*. Ali potvrda nije bila predslikana u Starom zavjetu. Dakle, nije sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a1.obj3": {
+      "text": "Osim toga, sakramenti su usmjereni prema spasenju ljudi. Ali bez potvrde može biti spasenja, jer se krštena djeca koja umru bez potvrde spašavaju. Dakle, potvrda nije sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a1.obj4": {
+      "text": "Osim toga, po svim se sakramentima Crkve čovjek suobličuje Kristu, koji je začetnik sakramenata. Ali po potvrdi čovjek se ne može suobličiti Kristu, za kojega se ne čita da je bio potvrđen.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a1.sc": {
+      "text": "Ali protiv toga je ono što papa Melhijad piše biskupima Hispanije: *O onome o čemu ste nas zamolili da vas poučimo, to jest je li veći sakrament polaganje ruke biskupâ ili krštenje, znajte da je i jedno i drugo velik sakrament*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a1.resp": {
+      "text": "Odgovaram: treba reći da su sakramenti Novoga zakona usmjereni prema posebnim učincima milosti; i zato, gdje se pojavljuje neki poseban učinak milosti, ondje je određen poseban sakrament. Budući pak da osjetne i tjelesne stvari nose sličnost duhovnih i umljivih, iz onoga što se događa u tjelesnom životu možemo zahvatiti što u duhovnom životu postoji posebno. A očito je da je u tjelesnom životu neka posebna savršenost to što čovjek dođe do savršene dobi i može vršiti savršene radnje čovjeka; zato i Apostol kaže u 1 Kor 13: *A kad sam postao muž, odbacio sam ono što je bilo djetinje*. I odatle je također to da, osim gibanja rađanja, kojim netko prima tjelesni život, postoji gibanje rasta, kojim se netko dovodi do savršene dobi. Tako, dakle, i duhovni život čovjek prima po krštenju, koje je duhovno preporođenje. A u potvrdi čovjek prima kao neku savršenu dob duhovnoga života. Zato papa Melhijad kaže: *Duh Sveti, koji spasonosnim silaskom silazi na vode krštenja, u zdencu daje puninu za nevinost, a u potvrdi daje porast za milost. U krštenju se preporađamo za život, nakon krštenja jačamo se*. I zato je očito da je potvrda poseban sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da o ustanovi ovoga sakramenta postoji trostruko mišljenje. Neki su, naime, govorili da ovaj sakrament nisu ustanovili ni Krist ni apostoli, nego da je ustanovljen poslije, s tijekom vremena, na nekom saboru. Drugi su pak govorili da su ga ustanovili apostoli. Ali to ne može biti, jer ustanoviti novi sakrament pripada vlasti izvrsnosti, koja pristaje samo Kristu. I zato treba reći da je Krist ustanovio ovaj sakrament ne podjeljujući ga, nego obećavajući ga, prema onome Iv 16: *Ako ja ne odem, Branitelj neće doći k vama; ako pak odem, poslat ću ga k vama*. A to zato što se u ovom sakramentu daje punina Duha Svetoga, koju nije trebalo dati prije Kristova uskrsnuća i uzašašća, prema onome Iv 7: *Duh još nije bio dan, jer Isus još nije bio proslavljen*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a1.ad2": {
+      "text": "Na drugo treba reći da je potvrda sakrament punine milosti, i zato nije mogla imati ništa što bi joj odgovaralo u Starom zakonu, jer *zakon ništa nije doveo do savršenosti*, kako se kaže Heb 7.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a1.ad3": {
+      "text": "Na treće treba reći da su, kao što je gore rečeno, svi sakramenti na neki način nužni za spasenje; ali neki tako da bez njih nema spasenja, a neki kao oni koji djeluju prema savršenosti spasenja. I na taj je način potvrda nužna za spasenje, premda bez nje može biti spasenja, samo ako se ne propusti iz prezira prema sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a1.ad4": {
+      "text": "Na četvrto treba reći da se oni koji primaju potvrdu, koja je sakrament punine milosti, suobličuju Kristu utoliko što je on od prvoga trenutka svojega začeća bio *pun milosti i istine*, kako se kaže Iv 1. Ta je punina očitovana na krštenju, kad je *Duh Sveti sišao na njega u tjelesnom obličju*. Zato se i u Lk 4 kaže da se *Isus, pun Duha Svetoga, vratio s Jordana*. A nije pristajalo dostojanstvu Krista, koji je začetnik sakramenata, da puninu milosti primi od sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da krizma nije prikladna tvar ovoga sakramenta. Ovaj je sakrament, naime, kao što je rečeno, ustanovio Krist obećavajući učenicima Duha Svetoga. Ali on im je poslao Duha Svetoga bez pomazanja krizmom. I sami su apostoli podjeljivali ovaj sakrament samim polaganjem ruke, bez krizme; kaže se, naime, u Dj 8 da su *apostoli polagali ruke na krštene, i oni su primali Duha Svetoga*. Dakle, krizma nije tvar ovoga sakramenta, jer je tvar nužna za sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a2.obj2": {
+      "text": "Osim toga, potvrda (krizma) na neki način usavršuje sakrament krštenja, kao što je gore rečeno, pa mu se tako mora suobličiti kao savršenost onome što se može usavršiti. Ali u krštenju je tvar jednostavni element, naime voda. Dakle, prikladna tvar ovoga sakramenta nije krizma, koja se priprema od ulja i balzama.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a2.obj3": {
+      "text": "Osim toga, ulje se uzima kao tvar ovoga sakramenta radi pomazivanja. Ali pomazivati se može bilo kojim uljem, primjerice uljem koje se dobiva od oraha i od bilo kojih drugih stvari. Dakle, za takav sakrament ne bi trebalo uzimati samo maslinovo ulje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a2.obj4": {
+      "text": "Osim toga, gore je rečeno da se voda uzima kao tvar za krštavanje zato što se posvuda lako nalazi. Ali maslinovo se ulje ne nalazi posvuda, a još mnogo manje balzam. Dakle, krizma, koja se od njih priprema, nije prikladna tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a2.sc": {
+      "text": "Ali protiv toga je ono što Grgur kaže u Registru: *Neka se prezbiteri ne usude krštenu djecu označivati na čelu svetom krizmom*. Dakle, krizma je tvar ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a2.resp": {
+      "text": "Odgovaram: treba reći da je krizma prikladna tvar ovoga sakramenta. Kao što je, naime, rečeno, u ovom se sakramentu daje punina Duha Svetoga radi duhovne snage, koja pristaje savršenoj dobi. A čovjek, kad dođe do savršene dobi, počinje već priopćivati svoje radnje drugima, dok prije živi kao pojedinačno sam za sebe. A milost Duha Svetoga označuje se uljem; zato se za Krista kaže da je pomazan uljem radosti, zbog punine Duha Svetoga koju je imao. I zato ulje pristaje tvari ovoga sakramenta. A primiješa se balzam zbog ugodnosti mirisa, koji se razlijeva na druge; zato i Apostol kaže u 2 Kor 2: *Kristov smo dobar miris*, i tako dalje. I premda ima mnogo drugih mirisnih stvari, ipak se ponajprije uzima balzam, zato što ima najodličniji miris i zato što također daje nepropadljivost; zato se kaže u Sir 24: *Moj je miris kao nepomiješani balzam*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Krist, po vlasti koju ima u sakramentima, podijelio apostolima stvar ovoga sakramenta, to jest puninu Duha Svetoga, bez sakramenta, jer su oni *primili prvine Duha Svetoga*, kako se kaže Rim 8. Ipak je apostolima pri podjeljivanju Duha Svetoga osjetno pokazano nešto sukladno tvari ovoga sakramenta. To što je Duh Sveti osjetno sišao na njih u obličju ognja odnosi se, naime, na isto značenje na koje se odnosi i ulje, osim što oganj ima djelatnu silu, a ulje trpnu silu, ukoliko je tvar i hrana ognja. I to je sasvim pristajalo, jer se po apostolima milost Duha Svetoga imala izvoditi na druge. Na apostole je Duh Sveti sišao također u liku jezika. To se odnosi na označivanje istoga što označuje balzam, osim što se jezik drugome priopćuje govorom, a balzam mirisom; naime, apostoli su bili ispunjeni Duhom Svetim kao učitelji vjere, a ostali vjernici kao djelatnici onoga što pripada izgradnji vjernikâ. Slično je i na polaganje ruke apostolâ, pa i na njihovo propovijedanje, punina Duha Svetoga silazila na vjernike pod vidljivim znakovima, kao što je u početku sišla na apostole; zato Petar kaže u Dj 11: *Kad sam počeo govoriti, siđe Duh Sveti na njih kao i na nas u početku*. I zato nije bila potrebna osjetna sakramentalna tvar ondje gdje su se osjetni znakovi čudesno pokazivali od Boga. Ipak su se apostoli obično služili krizmom pri podjeljivanju sakramenta kad se takvi vidljivi znakovi nisu pokazivali. Dionizije, naime, kaže u 4. poglavlju djela O crkvenoj hijerarhiji: *Postoji neko usavršujuće djelovanje koje naši vođe, to jest apostoli, nazivaju žrtvom krizme*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a2.ad2": {
+      "text": "Na drugo treba reći da se krštenje daje radi postizanja duhovnoga života naprosto, i zato tome sakramentu pristaje jednostavna tvar. Ali ovaj se sakrament daje radi postizanja punine Duha Svetoga, čije je djelovanje mnogovrsno, prema onome Mudr 7: *A u njoj je Duh Sveti, jedinstven, mnogostruk*, a u 1 Kor 12 kaže se: *Različite su podjele milosti, a isti Duh*. I zato je prikladno da tvar ovoga sakramenta bude složena.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a2.ad3": {
+      "text": "Na treće treba reći da se svojstva ulja kojima se označuje Duh Sveti više nalaze u maslinovu ulju nego u bilo kojem drugom ulju. Zato i sama maslina, koja uvijek zeleni lišćem, označuje svježinu i milosrđe Duha Svetoga. Također se to ulje u vlastitom smislu naziva uljem i najviše je u uporabi ondje gdje ga se može imati. A svaka se druga tekućina naziva uljem po sličnosti s njim i nije u općoj uporabi, osim kao nadomjestak kod onih kojima nedostaje maslinova ulja. I zato se samo to ulje uzima za uporabu u ovom i u nekim drugim sakramentima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a2.ad4": {
+      "text": "Na četvrto treba reći da je krštenje sakrament apsolutne nužnosti, i zato se njegova tvar mora posvuda nalaziti. A dovoljno je da se tvar ovoga sakramenta, koji nije tolike nužnosti, može lako donijeti u sva mjesta na zemlji.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da za ovaj sakrament nije nužno da krizmu, koja je tvar ovoga sakramenta, prethodno posveti biskup. Krštenje, naime, u kojem biva potpuno otpuštenje grijeha, nije manje djelotvornosti od ovoga sakramenta. Ali premda se na krsnu vodu prije krštenja primjenjuje neko posvećenje, ono ipak nije nužno za sakrament, jer se u slučaju nužde može izostaviti. Dakle, ni za ovaj sakrament nije nužno da krizmu posveti biskup.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a3.obj2": {
+      "text": "Osim toga, isto se ne smije dvaput posvetiti. Ali tvar se sakramenta posvećuje u samom podjeljivanju sakramenta po formi riječi kojom se sakrament podjeljuje; zato i Augustin kaže u Tumačenju Ivanova evanđelja: *Pristupa riječ elementu i nastaje sakrament*. Dakle, krizma se ne bi trebala posvećivati prije nego što se ovaj sakrament podijeli.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a3.obj3": {
+      "text": "Osim toga, svaka posveta koja se vrši u sakramentima usmjerena je prema postizanju milosti. Ali osjetna tvar pripravljena od ulja i balzama nije prijemljiva za milost. Dakle, na nju se ne bi trebala primjenjivati nikakva posveta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže papa Inocent: *Neka bude dopušteno prezbiterima, kad krste, mazati krštene krizmom koju je posvetio biskup, ali ne i istim uljem označivati čelo, što pripada samo biskupima kad predaju Branitelja*; a to se upravo čini u ovom sakramentu. Dakle, za ovaj se sakrament zahtijeva da tvar ovoga sakramenta prethodno posveti biskup.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a3.resp": {
+      "text": "Odgovaram: treba reći da cijelo posvećenje sakramenata proizlazi od Krista, kao što je gore rečeno. Valja pak uočiti da se Krist poslužio nekim sakramentima koji imaju tjelesnu tvar, naime krštenjem i također Euharistijom. I zato su tvari tih sakramenata samom Kristovom uporabom primile prikladnost za dovršenje sakramenta. Zato Zlatousti kaže da *vode krštenja nikada ne bi mogle očistiti grijehe vjernikâ da nisu bile posvećene dodirom Gospodnjega tijela*. I sam je Gospodin isto tako, uzevši kruh, blagoslovio, a isto tako i kalež, kako stoji u Mt 26 i Lk 22. I zbog toga za te sakramente nije nužno da se tvar prethodno blagoslovi, jer je dovoljan Kristov blagoslov. Ako se pak primijeni kakav blagoslov, on pripada svečanosti sakramenta, a ne njegovoj nužnosti. A vidljivim se pomazanjima Krist nije poslužio, da se ne bi nanijela nepravda nevidljivom pomazanju kojim je pomazan više nego njegovi drugovi. I zato se i krizma i sveto ulje i ulje bolesnika blagoslivljaju prije nego što se primijene za uporabu sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a3.ad1": {
+      "text": "Na prvo, dakle, odgovor je jasan iz rečenoga.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a3.ad2": {
+      "text": "Na drugo treba reći da se obje posvete krizme ne odnose na isto. Kao što, naime, oruđe stječe oruđnu snagu na dvostruk način, naime kad prima formu oruđa i kad ga pokreće glavni djelatnik, tako i tvar sakramenta treba dvostruko posvećenje: po jednom postaje vlastita tvar sakramenta, a po drugom se primjenjuje na učinak.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a3.ad3": {
+      "text": "Na treće treba reći da tjelesna tvar nije prijemljiva za milost kao subjekt milosti, nego samo kao oruđe milosti, kao što je gore rečeno. I radi toga se tvar sakramenta posvećuje, bilo od samoga Krista, bilo od biskupa, koji u Crkvi zastupa osobu Krista.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da ovo nije prikladna forma ovoga sakramenta: *Označujem te znakom križa, potvrđujem te krizmom spasenja, u ime Oca i Sina i Duha Svetoga. Amen*. Uporaba sakramenata, naime, potječe od Krista i od apostola. Ali niti je Krist ustanovio ovu formu, niti se čita da su se njome služili apostoli. Dakle, ovo nije prikladna forma ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a4.obj2": {
+      "text": "Osim toga, kao što je sakrament isti kod svih, tako i forma mora biti ista, jer svaka stvar ima jedinstvo, kao i bitak, od svoje forme. Ali ovom se formom ne služe svi; neki, naime, kažu: *Potvrđujem te krizmom posvećenja*. Dakle, ovo nije prikladna forma ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a4.obj3": {
+      "text": "Osim toga, ovaj se sakrament mora suobličiti krštenju kao savršenost onome što se može usavršiti, kao što je gore rečeno. Ali u formi krštenja ne spominje se označivanje biljegom; ni Kristov križ, premda čovjek po krštenju suumire s Kristom, kako kaže Apostol u Rim 6; niti se spominje učinak spasenja, premda je krštenje nužno za spasenje. U formi krštenja također se navodi samo jedan čin; i izražava se osoba onoga koji krsti, kad se kaže: Ja te krstim; a u spomenutoj se formi pokazuje suprotno. Dakle, to nije prikladna forma ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a4.sc": {
+      "text": "Ali protiv toga je autoritet Crkve, koja se općenito služi ovom formom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a4.resp": {
+      "text": "Odgovaram: treba reći da je spomenuta forma prikladna ovome sakramentu. Kao što, naime, forma naravne stvari daje toj stvari vrstu, tako forma sakramenta mora sadržavati sve što pripada vrsti sakramenta. A kao što je jasno iz gore rečenoga, u ovom se sakramentu daje Duh Sveti radi snage za duhovnu borbu. I zato su u ovom sakramentu potrebne tri stvari, koje su sadržane u spomenutoj formi. Prva je od njih uzrok koji podjeljuje puninu duhovne snage, a to je sveto Trojstvo. To se izražava kad se kaže: U ime Oca i tako dalje. Druga je sama duhovna snaga, koja se čovjeku podjeljuje po sakramentu vidljive tvari radi spasenja. Na to se upućuje kad se kaže: Potvrđujem te krizmom spasenja. Treća je znak koji se daje boritelju, kao i u tjelesnoj borbi, kao što se vojnici obilježavaju znakovima svojih vođa. I s obzirom na to kaže se: Označujem te znakom križa, u kojem je, naime, *naš kralj slavio pobjedu*, kako se kaže u Kol 2.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se, kao što je gore rečeno, po službi apostolâ katkad davao učinak ovoga sakramenta, naime punina Duha Svetoga, nekim vidljivim znakovima koje je čudesno učinio Bog, koji može podijeliti učinak sakramenta bez sakramenta. I tada nije bila potrebna ni tvar ni forma ovoga sakramenta. A katkad su ovaj sakrament podjeljivali kao služitelji sakramenata. I tada su se po Kristovu nalogu služili kako tvari tako i formom. Mnogo su, naime, apostoli obdržavali pri podjeljivanju sakramenata što nije predano u Pismima koja su općenito iznesena svima. Zato Dionizije kaže na kraju djela O crkvenoj hijerarhiji: *Dovršiteljske zazive*, to jest riječi kojima se dovršuju sakramenti, *nije pravo da tumači Pisama iz skrivenosti iznose na javu, ni njihovo otajstveno značenje, ni sile koje u njima djeluju od Boga, nego nas njima poučava naša sveta predaja bez pompe, to jest skriveno*. Zato i Apostol, govoreći o slavljenju Euharistije, kaže u 1 Kor 11: *Ostalo ću urediti kad dođem*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a4.ad2": {
+      "text": "Na drugo treba reći da je svetost uzrok spasenja. I zato se svodi na isto kaže li se krizmom spasenja ili krizmom posvećenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a4.ad3": {
+      "text": "Na treće treba reći da je krštenje preporođenje za duhovni život, kojim čovjek živi u sebi samome. I zato se u formi krštenja navodi samo čin koji pripada posvećivanju samoga čovjeka. Ali ovaj sakrament nije usmjeren samo prema tome da se čovjek posveti u sebi samome, nego ga izlaže nekoj vanjskoj borbi. I zato se ne spominje samo unutarnje posvećenje, kad se kaže: Potvrđujem te krizmom spasenja, nego se čovjek i izvana označuje, kao zastavom križa, za vanjsku duhovnu borbu, što se označuje kad se kaže: Označujem te znakom križa. A u samoj riječi krstiti, koja označuje pranje, može se razumjeti i tvar, a to je voda koja pere, i učinak spasenja. To se ne razumije u riječi potvrditi, i zato je to trebalo navesti. Gore je pak rečeno da ono što se kaže „ja“ nije nužno za krsnu formu, jer se razumije u glagolu prvoga lica. Dodaje se ipak radi izražavanja nakane. To nije toliko potrebno u potvrdi (krizmi), koju podjeljuje samo uzvišeni služitelj, kao što će se niže reći.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da sakrament potvrde (krizme) ne utiskuje biljeg. Biljeg, naime, uključuje neki razlikovni znak. Ali po sakramentu potvrde čovjek se ne razlikuje od nevjernika, jer to biva po krštenju; a ni od drugih vjernika, jer je ovaj sakrament usmjeren prema duhovnoj borbi, koja je naložena svim vjernicima. Dakle, u ovom se sakramentu ne utiskuje nikakav biljeg.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a5.obj2": {
+      "text": "Osim toga, gore je rečeno da je biljeg neka duhovna moć. A moć je samo djelatna ili trpna. Djelatna se pak moć u sakramentima podjeljuje po sakramentu reda, a trpna ili prijemna moć po sakramentu krštenja. Dakle, po sakramentu potvrde ne utiskuje se nikakav biljeg.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a5.obj3": {
+      "text": "Osim toga, u obrezanju, koje je tjelesni biljeg, ne utiskuje se nikakav duhovni biljeg. Ali u ovom se sakramentu utiskuje neki tjelesni biljeg, naime kad se čovjek krizmom označuje znakom križa na čelu. Dakle, u ovom se sakramentu ne utiskuje duhovni biljeg.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a5.sc": {
+      "text": "Ali protiv toga: u svakom sakramentu koji se ne ponavlja utiskuje se biljeg. Ali ovaj se sakrament ne ponavlja; Grgur, naime, kaže: *Što se tiče čovjeka kojega bi biskup ponovno potvrdio, takvo ponavljanje treba zabraniti*. Dakle, u potvrdi se utiskuje biljeg.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a5.resp": {
+      "text": "Odgovaram: treba reći da je, kao što je gore rečeno, biljeg neka duhovna vlast usmjerena prema nekim svetim radnjama. A gore je rečeno da, kao što je krštenje neko duhovno rađanje za kršćanski život, tako je i potvrda neki duhovni rast koji promiče čovjeka u savršenu duhovnu dob. A iz sličnosti s tjelesnim životom očito je da je jedna radnja čovjeka tek rođenoga, a druga mu radnja pristaje kad dođe do savršene dobi. I zato se po sakramentu potvrde čovjeku daje duhovna vlast za neke druge svete radnje, osim onih za koje mu se daje vlast u krštenju. U krštenju, naime, prima vlast da čini ono što pripada vlastitom spasenju, ukoliko živi sam za sebe; a u potvrdi prima vlast da čini ono što pripada duhovnoj borbi protiv neprijatelja vjere. To je jasno na primjeru apostolâ, koji su, prije nego što su primili puninu Duha Svetoga, bili u gornjoj dvorani ustrajni u molitvi; a poslije, izišavši, nisu se bojali javno ispovijedati vjeru, čak ni pred neprijateljima kršćanske vjere. I zato je očito da se u sakramentu potvrde utiskuje biljeg.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da duhovna borba protiv nevidljivih neprijatelja pristaje svima. Ali boriti se protiv vidljivih neprijatelja, to jest protiv progonitelja vjere, ispovijedajući Kristovo ime, pripada potvrđenima, koji su već duhovno dovedeni do muževne dobi, prema onome što se kaže u 1 Iv 2: *Pišem vam, mladići, jer ste jaki, i riječ Božja ostaje u vama, i pobijedili ste Zloga*. I zato je biljeg potvrde razlikovni znak, ne nevjernika od vjernika, nego onih koji su duhovno napredovali od onih kojima se kaže: *Kao tek rođena djeca*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a5.ad2": {
+      "text": "Na drugo treba reći da su svi sakramenti neka javna očitovanja vjere. Kao što, dakle, krštenik prima duhovnu vlast da očituje vjeru primanjem drugih sakramenata, tako potvrđeni prima vlast da javno ispovijeda Kristovu vjeru riječima, kao po službi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a5.ad3": {
+      "text": "Na treće treba reći da se sakramenti Staroga zakona nazivaju pravednošću tijela, kao što je jasno iz Heb 9, jer, naime, iznutra nisu ništa izvršavali. I zato se u obrezanju biljeg utiskivao samo u tijelo, a ne u dušu. Ali u potvrdi se s tjelesnim biljegom ujedno utiskuje i duhovni biljeg, jer je ona sakrament Novoga zakona.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da biljeg potvrde (krizme) ne pretpostavlja nužno krsni biljeg. Sakrament potvrde, naime, usmjeren je prema javnom ispovijedanju Kristove vjere. Ali mnogi su i prije krštenja javno ispovjedili Kristovu vjeru, prolijevajući krv za vjeru. Dakle, biljeg potvrde ne pretpostavlja krsni biljeg.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a6.obj2": {
+      "text": "Osim toga, za apostole se ne čita da su bili kršteni, osobito budući da se u Iv 4 kaže da *sam Krist nije krstio, nego njegovi učenici*. Pa ipak su poslije bili potvrđeni dolaskom Duha Svetoga. Dakle, slično se i drugi mogu potvrditi prije nego što budu kršteni.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a6.obj3": {
+      "text": "Osim toga, u Dj 10 kaže se: *Dok je Petar još govorio, siđe Duh Sveti na sve koji su slušali riječ, i čuli su ih gdje govore jezicima*, a poslije je zapovjedio da se krste. Dakle, s jednakim razlogom drugi se mogu prije potvrditi nego krstiti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a6.sc": {
+      "text": "Ali protiv toga je ono što Raban kaže u djelu O odgoju klerika: *Naposljetku vrhovni svećenik polaganjem ruke predaje Branitelja kršteniku, da ga Duh Sveti ojača za propovijedanje*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a6.resp": {
+      "text": "Odgovaram: treba reći da biljeg potvrde nužno pretpostavlja krsni biljeg, i to tako da, kad bi netko nekršten bio potvrđen, ne bi ništa primio, nego bi ga trebalo ponovno potvrditi nakon krštenja. Razlog je tome što se potvrda odnosi prema krštenju kao rast prema rađanju, kao što je jasno iz gore rečenoga. A očito je da nitko ne može biti promaknut u savršenu dob ako se prije nije rodio. Slično tako, ako netko prije nije kršten, ne može primiti sakrament potvrde.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da Božja snaga nije vezana uz sakramente. Zato se čovjeku može podijeliti duhovna snaga za javno ispovijedanje Kristove vjere bez sakramenta potvrde, kao što može postići i otpuštenje grijeha bez krštenja. Ipak, kao što nitko ne postiže učinak krštenja bez želje za krštenjem, tako nitko ne postiže učinak potvrde bez želje za njom. A ta se želja može imati i prije primanja krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a6.ad2": {
+      "text": "Na drugo treba reći da, kao što kaže Augustin, iz toga što Gospodin kaže u Iv 13: *Tko je opran, ne treba nego da opere noge, razumijemo da su Petar i drugi Kristovi učenici bili kršteni, bilo Ivanovim krštenjem, kako neki misle, bilo, što je vjerojatnije, Kristovim krštenjem. Jer on nije odbio službu krštavanja, da bi imao sluge po kojima bi krstio ostale*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a6.ad3": {
+      "text": "Na treće treba reći da su oni koji su slušali Petrovo propovijedanje primili učinak potvrde čudesno, ali ne i sakrament potvrde. A rečeno je da se učinak potvrde može nekome podijeliti prije krštenja, ali ne i sakrament potvrde. Kao što, naime, učinak potvrde, a to je duhovna snaga, pretpostavlja učinak krštenja, a to je opravdanje, tako sakrament potvrde pretpostavlja sakrament krštenja.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se po ovom sakramentu ne podjeljuje milost koja čini ugodnim. Milost koja čini ugodnim, naime, usmjerena je protiv krivnje. Ali ovaj se sakrament, kao što je rečeno, podjeljuje samo krštenima, koji su očišćeni od krivnje. Dakle, po ovom se sakramentu ne podjeljuje milost koja čini ugodnim.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a7.obj2": {
+      "text": "Osim toga, grešnicima je najviše potrebna milost koja čini ugodnim, po kojoj se jedino mogu opravdati. Ako se, dakle, po ovom sakramentu podjeljuje milost koja čini ugodnim, čini se da bi ga trebalo davati ljudima koji su u grijehu. A to ipak nije istina.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a7.obj3": {
+      "text": "Osim toga, milost koja čini ugodnim ne razlikuje se po vrsti, budući da je usmjerena prema jednom učinku. Ali dvije forme iste vrste ne mogu biti u istom subjektu. Budući, dakle, da se milost koja čini ugodnim podjeljuje čovjeku po krštenju, čini se da se po sakramentu potvrde (krizme), koji se podjeljuje samo kršteniku, milost koja čini ugodnim ne podjeljuje.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a7.sc": {
+      "text": "Ali protiv toga je ono što kaže papa Melhijad: *Duh Sveti u krsnom zdencu daje puninu za nevinost, a u potvrdi daje porast za milost*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a7.resp": {
+      "text": "Odgovaram: treba reći da se u ovom sakramentu, kao što je rečeno, kršteniku daje Duh Sveti radi snage, kao što je dan apostolima na dan Pedesetnice, kako se čita u Dj 2, i kao što se davao krštenima polaganjem ruke apostolâ, kako se kaže u Dj 8. A u Prvom je dijelu pokazano da poslanje ili davanje Duha Svetoga biva samo s milošću koja čini ugodnim. Zato je očito da se milost koja čini ugodnim podjeljuje u ovom sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da milosti koja čini ugodnim pripada otpuštenje krivnje, ali ona ima i druge učinke, jer je dovoljna za to da promiče čovjeka kroz sve stupnjeve sve do vječnoga života. Zato je i Pavlu rečeno u 2 Kor 12: *Dosta ti je moja milost*, a on sam o sebi kaže u 1 Kor 15: *Milošću Božjom jesam što jesam*. I zato se milost koja čini ugodnim ne daje samo za otpuštenje krivnje, nego i za porast i čvrstoću pravednosti. I tako se podjeljuje u ovom sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a7.ad2": {
+      "text": "Na drugo treba reći da se, kao što je jasno iz samoga imena, ovaj sakrament daje da potvrdi ono što prije zatekne. I zato se ne smije davati onima koji nemaju milosti. I zbog toga, kao što se ne daje nekrštenima, tako se ne smije davati ni odraslim grešnicima, osim ako su obnovljeni pokorom. Zato se kaže na Orleanskom saboru: *Neka na potvrdu dolaze natašte, neka ih se opomene da se prije ispovjede, kako bi čisti mogli primiti dar Duha Svetoga*. I tada se po ovom sakramentu dovršuje učinak pokore, kao i učinak krštenja, jer će po milosti podijeljenoj u ovom sakramentu pokornik postići potpunije otpuštenje grijeha. A ako pristupi neki odrasli koji je u grijehu kojega nije svjestan, ili koji nije savršeno skrušen, po milosti podijeljenoj u ovom sakramentu postići će otpuštenje grijeha.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a7.ad3": {
+      "text": "Na treće treba reći da, kao što je rečeno, sakramentalna milost dodaje milosti koja čini ugodnim, uzetoj općenito, nešto što proizvodi poseban učinak, prema kojem je sakrament usmjeren. Ako se, dakle, milost podijeljena u ovom sakramentu promatra s obzirom na ono što je zajedničko, tada se po ovom sakramentu ne podjeljuje nikakva druga milost osim one koja se podjeljuje po krštenju, nego se povećava ona koja je već prije bila prisutna. Ako se pak promatra s obzirom na ono posebno što se nadodaje, tada nije iste vrste s onom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da ovaj sakrament ne treba podjeljivati svima. Ovaj se sakrament, naime, daje radi neke izvrsnosti, kao što je rečeno. Ali ono što pripada izvrsnosti ne pristaje svima. Dakle, ovaj se sakrament ne smije davati svima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a8.obj2": {
+      "text": "Osim toga, po ovom sakramentu netko duhovno raste do savršene dobi. Ali savršena se dob protivi dječjoj dobi. Dakle, barem djeci ne bi ga trebalo davati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a8.obj3": {
+      "text": "Osim toga, kao što kaže papa Melhijad, *nakon krštenja potvrđujemo se za borbu*. Ali boriti se ne pristaje ženama, zbog slabosti spola. Dakle, ni ženama se ovaj sakrament ne smije davati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a8.obj4": {
+      "text": "Osim toga, papa Melhijad kaže: *Premda onima koji će odmah preminuti dostaju dobročinstva preporođenja, onima koji će živjeti nužna su dobročinstva potvrde (krizme). Potvrda naoružava i oprema za natjecanja i bitke ovoga svijeta koje im predstoje. A tko nakon krštenja sa stečenom nevinošću neokaljan dođe do smrti, potvrđuje se smrću, jer poslije smrti više ne može griješiti*. Dakle, onima koji će uskoro umrijeti ne treba podjeljivati ovaj sakrament. I tako se ne smije davati svima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Dj 2, da je Duh Sveti, došavši, ispunio svu kuću, kojom se označuje Crkva, a poslije se dodaje da su se svi napunili Duha Svetoga. Ali ovaj se sakrament daje radi postizanja te punine. Dakle, treba ga podjeljivati svima koji su u Crkvi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a8.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, po ovom sakramentu čovjek duhovno promiče u savršenu dob. A nakana je naravi da svatko tko se tjelesno rodi dođe do savršene dobi; ali to je katkad spriječeno zbog propadljivosti tijela, koje smrt preduhitri. A mnogo je više Božja nakana sve dovesti do savršenosti; a narav, oponašajući njega, u tome ima udjela; zato se i u Pnz 32 kaže: *Božja su djela savršena*. A duša, kojoj pripada duhovno rođenje i savršenost duhovne dobi, besmrtna je i može, kao što u vrijeme starosti može postići duhovno rođenje, tako u vrijeme mladosti i djetinjstva postići savršenu dob; jer takve tjelesne dobi ne priječe dušu. I zato se ovaj sakrament mora podjeljivati svima.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ovaj sakrament daje radi neke izvrsnosti, ali ne izvrsnosti jednoga čovjeka nad drugim, kao sakrament reda, nego čovjeka nad samim sobom, kao što isti čovjek, kad je savršen muž, ima izvrsnost nad samim sobom kao djetetom.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a8.ad2": {
+      "text": "Na drugo treba reći da, kao što je rečeno, tjelesna dob ne priječi dušu. Zato čovjek i u dječjoj dobi može postići savršenost duhovne dobi, o kojoj se kaže u Mudr 4: *Časna starost nije ona dugotrajna, niti se računa brojem godina*. I odatle dolazi da su se mnogi u dječjoj dobi, zbog primljene snage Duha Svetoga, hrabro borili za Krista sve do krvi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a8.ad3": {
+      "text": "Na treće treba reći da, kao što kaže Zlatousti u homiliji o Makabejcima, *u svjetovnim se natjecanjima zahtijeva dostojanstvo dobi, izgleda i roda, i zato je robovima i ženama, starcima i djeci pristup k njima uskraćen. A u nebeskim je natjecanjima trkalište otvoreno svakoj osobi, dobi i spolu, s jednakom mogućnošću za sve*. I u homiliji o duhovnoj vojni kaže: *Kod Boga vojuje i ženski spol, jer su mnoge žene muževnim duhom vodile duhovnu vojnu. Neke su se, naime, snagom unutarnjega čovjeka izjednačile s muževima u borbama mučenika, a neke su se pokazale i jačima od muževa*. I zato ženama treba podjeljivati ovaj sakrament.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a8.ad4": {
+      "text": "Na četvrto treba reći da je, kao što je rečeno, duša, kojoj pripada duhovna dob, besmrtna. I zato onima koji umiru treba davati ovaj sakrament, da se u uskrsnuću pokažu savršeni, prema onome Ef 4: *Dok svi ne prispijemo do savršenoga muža, do mjere dobi punine Kristove*. I zato Hugo od Svetoga Viktora kaže: *Bilo bi posve pogibeljno kad bi se dogodilo da netko iz ovoga života otiđe bez potvrde*; ne zato što bi bio osuđen, osim možda zbog prezira, nego zato što bi pretrpio štetu u savršenosti. Zato i potvrđena djeca, kad umru, postižu veću slavu, kao što i ovdje zadobivaju veću milost. A onaj se autoritet razumije s obzirom na to da onima koji umiru ovaj sakrament nije nužan zbog pogibelji sadašnje borbe.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a9.obj1": {
+      "text": "Na deveto se ovako postupa. Čini se da ovaj sakrament ne treba podjeljivati čovjeku na čelu. Ovaj sakrament, naime, usavršuje krštenje, kao što je gore rečeno. Ali sakrament krštenja podjeljuje se čovjeku na cijelom tijelu. Dakle, ovaj se sakrament ne bi trebao podjeljivati samo na čelu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a9.obj2": {
+      "text": "Osim toga, ovaj se sakrament daje radi duhovne snage, kao što je gore rečeno. Ali duhovna se snaga najviše sastoji u srcu. Dakle, ovaj bi se sakrament prije trebao podjeljivati nad srcem nego na čelu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a9.obj3": {
+      "text": "Osim toga, ovaj se sakrament daje čovjeku zato da slobodno ispovijeda Kristovu vjeru. Ali *ustima se ispovijeda na spasenje*, kako se kaže u Rim 10. Dakle, ovaj bi se sakrament prije trebao podjeljivati oko usta nego na čelu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a9.sc": {
+      "text": "Ali protiv toga je ono što Raban kaže u knjizi O odgoju klerika: *Krštenika svećenik označuje krizmom na tjemenu glave, a biskup na čelu*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a9.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, u ovom sakramentu čovjek prima Duha Svetoga radi snage za duhovnu borbu, da i među protivnicima vjere hrabro ispovijeda Kristovu vjeru. Zato se prikladno krizmom označuje znakom križa na čelu, i to zbog dvoga. Prvo, zato što se obilježava znakom križa kao vojnik znakom vođe, a taj znak mora biti razvidan i očit. A od svih mjesta ljudskoga tijela najočitije je čelo, koje se gotovo nikad ne pokriva. I zato se potvrđeni maže krizmom na čelu, da bi javno pokazao da je kršćanin, kao što su se i apostoli, nakon što su primili Duha Svetoga, javno pokazali, oni koji su se prije skrivali u gornjoj dvorani. Drugo, zato što netko biva spriječen u slobodnom ispovijedanju Kristova imena zbog dvoga, naime zbog straha i zbog stida. A znak se i jednoga i drugoga najviše očituje na čelu, zbog blizine mašte i zbog toga što duhovi iz srca izravno uzlaze prema čelu; zato *oni koji se stide crvene, a oni koji se boje blijede*, kako se kaže u 4. knjizi Etike. I zato se označuje krizmom na čelu, da ne bi ni zbog straha ni zbog srama propustio ispovijedati Kristovo ime.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a9.ad1": {
+      "text": "Na prvo, dakle, treba reći da se po krštenju preporađamo za duhovni život, koji pripada cijelom čovjeku. Ali u potvrdi (krizmi) jačamo se za borbu, čiji se znak mora nositi na čelu, kao na razvidnom mjestu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a9.ad2": {
+      "text": "Na drugo treba reći da je počelo jakosti u srcu, ali se znak pokazuje na čelu; zato se kaže u Ez 3: *Evo, učinio sam tvoje čelo tvrđim od njihovih čela*. I zato sakrament Euharistije, po kojem se čovjek u sebi samome učvršćuje, pripada srcu, prema onome iz Psalma: *Kruh da učvrsti srce čovjeka*. Ali sakrament potvrde zahtijeva se kao znak jakosti prema drugima. I zato se podjeljuje na čelu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a9.ad3": {
+      "text": "Na treće treba reći da se ovaj sakrament daje radi slobodnoga ispovijedanja, a ne radi ispovijedanja naprosto, jer to biva i u krštenju. I zato ga ne treba davati na ustima, nego na čelu, gdje se pokazuju znakovi strasti kojima se slobodno ispovijedanje priječi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a10.obj1": {
+      "text": "Na deseto se ovako postupa. Čini se da onoga koji se potvrđuje ne treba netko drugi držati na potvrdi (krizmi). Ovaj se sakrament, naime, ne podjeljuje samo djeci, nego i odraslima. A odrasli mogu stajati sami. Dakle, smiješno je da ih drži netko drugi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a10.obj2": {
+      "text": "Osim toga, onaj koji već pripada Crkvi ima slobodan pristup poglavaru Crkve, a to je biskup. Ali ovaj se sakrament, kao što je rečeno, podjeljuje samo kršteniku, koji je već ud Crkve. Dakle, čini se da ga ne bi trebao netko drugi privoditi biskupu radi primanja ovoga sakramenta.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a10.obj3": {
+      "text": "Osim toga, ovaj se sakrament daje radi duhovne snage. A ona je jača u muževima nego u ženama, prema onome iz posljednjega poglavlja Izreka: *Ženu jaku tko će naći?* Dakle, barem žena ne bi smjela držati muža na potvrdi.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a10.sc": {
+      "text": "Ali protiv toga je ono što kaže papa Inocent, a nalazi se u Dekretima, XXX, pit. 4: *Ako tko od supružnika primi iz svetoga zdenca sina ili kćer drugoga, ili ga drži na krizmi*, i tako dalje. Dakle, kao što se zahtijeva da netko podigne krštenika iz svetoga zdenca, tako i onoga koji prima sakrament potvrde netko mora držati.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a10.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, ovaj sakrament podjeljuje čovjeku radi snage za duhovnu borbu. A kao što onomu tko je tek rođen treba odgojitelj u onome što pripada načinu života, prema onome Heb 12: *Imali smo, doduše, tjelesne očeve za odgojitelje, i pokoravali smo im se*, tako i oni koji se uzimaju za borbu trebaju odgojitelje od kojih će biti poučeni o onome što pripada načinu boja; i zato se u tvarnim ratovima postavljaju vođe i satnici, po kojima se drugima upravlja. I zbog toga onoga koji prima ovaj sakrament drži netko drugi, kao onoga kojega drugi ima poučiti u borbi. Slično tako, budući da se po ovom sakramentu čovjeku podjeljuje savršenost duhovne dobi, kao što je rečeno, onoga koji pristupa ovom sakramentu pridržava netko drugi, kao onoga koji je još duhovno nejak i dijete.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a10.ad1": {
+      "text": "Na prvo, dakle, treba reći da, premda je onaj koji se potvrđuje tjelesno odrastao, ipak još nije duhovno odrastao.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a10.ad2": {
+      "text": "Na drugo treba reći da, premda je krštenik postao ud Crkve, ipak još nije upisan u kršćansku vojsku. I zato ga biskupu, kao vođi vojske, privodi drugi, onaj koji je već upisan u kršćansku vojsku. Ne smije, naime, drugoga držati na potvrdi onaj tko još nije potvrđen.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a10.ad3": {
+      "text": "Na treće treba reći da, kao što se kaže u Kol 3, *u Kristu Isusu nema ni muškoga ni ženskoga*. I zato nije važno drži li nekoga na potvrdi muškarac ili žena.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a11.obj1": {
+      "text": "Na jedanaesto se ovako postupa. Čini se da ne može samo biskup podjeljivati ovaj sakrament. Naime, Grgur, pišući biskupu Januariju, kaže: *Doprlo je do nas da su se neki sablaznili što smo prezbiterima zabranili da krizmom dotiču one koji su kršteni. I mi smo to doduše učinili prema starom običaju naše Crkve; ali ako se neki zbog toga uopće žaloste, dopuštamo da ondje gdje nema biskupa prezbiteri smiju krizmom dotaknuti krštene i na čelima*. Ali ono što pripada nužnosti sakramenata ne smije se mijenjati da bi se izbjegla sablazan. Dakle, čini se da za ovaj sakrament nije nužno da ga podjeljuje biskup.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a11.obj2": {
+      "text": "Osim toga, čini se da je sakrament krštenja veće djelotvornosti nego sakrament potvrde (krizme), jer se po krštenju zbiva potpuno otpuštenje grijeha i glede krivnje i glede kazne, što se ne zbiva u ovom sakramentu. Ali obični svećenik može po svojoj službi podijeliti sakrament krštenja, a u nuždi može krstiti bilo tko, pa i onaj koji nije zaređen. Dakle, za ovaj sakrament nije nužno da ga podjeljuje biskup.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a11.obj3": {
+      "text": "Osim toga, tjeme glave, gdje je prema liječnicima sjedište razuma (naime posebnoga razuma, koji se naziva misaonom silom), plemenitije je od čela, gdje je sjedište maštovne sile. Ali obični svećenik može krštene pomazati krizmom na tjemenu. Dakle, mnogo ih više može krizmom označiti znakom na čelu, što pripada ovom sakramentu.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a11.sc": {
+      "text": "Ali protiv toga je što papa Euzebije kaže: *Sakrament polaganja ruke valja držati u velikom štovanju; njega ne mogu obaviti drugi osim najviših svećenika. Niti se čita ili zna da su ga u vrijeme apostola obavljali drugi osim samih apostola, niti ga ikada mogu ili smiju obavljati drugi osim onih koji drže njihovo mjesto. Jer ako bi se tko drukčije usudio, neka se to smatra ništavnim i praznim, i nikada se neće ubrajati među crkvene sakramente*. Dakle, za ovaj sakrament, koji se naziva sakramentom polaganja ruke, nužno je da ga podijeli biskup.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a11.resp": {
+      "text": "Odgovaram: treba reći da je u svakom djelu posljednje dovršenje pridržano najvišem umijeću ili snazi; tako priprava tvari pripada nižim majstorima, viši pak daje formu, a najviši je onaj kojemu pripada uporaba, koja je svrha umjetnih tvorevina; i pismo koje napiše bilježnik, gospodar zapečati. A Kristovi su vjernici neko božansko djelo, prema onome iz 1 Kor 3: *Božja ste građevina*; oni su i kao neko pismo napisano Duhom Božjim, kako se kaže u 2 Kor 3. A ovaj sakrament potvrde je kao posljednje dovršenje sakramenta krštenja, i to tako da se po krštenju čovjek izgrađuje u duhovnu kuću i ispisuje se kao neko duhovno pismo, a po sakramentu potvrde on se, kao izgrađena kuća, posvećuje za hram Duha Svetoga i, kao ispisano pismo, pečati se znakom križa. Zato je podjeljivanje ovoga sakramenta pridržano biskupima, koji imaju najvišu vlast u Crkvi, kao što se u prvotnoj Crkvi punina Duha Svetoga davala po polaganju ruku apostola, čije mjesto zauzimaju biskupi, kako stoji u Dj 8. Stoga papa Urban kaže: *Svi vjernici trebaju nakon krštenja primiti Duha Svetoga po polaganju ruku biskupa, da bi se pokazali kao potpuni kršćani*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a11.ad1": {
+      "text": "Na prvo, dakle, treba reći da papa u Crkvi ima puninu vlasti, po kojoj može neke stvari koje pripadaju višim redovima povjeriti nekima nižima; tako dopušta prezbiterima da podjeljuju niže redove, što pripada biskupskoj vlasti. I po toj punini vlasti blaženi je papa Grgur dopustio da obični svećenici podjeljuju ovaj sakrament, dok god bi se time otklanjala sablazan.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a11.ad2": {
+      "text": "Na drugo treba reći da je sakrament krštenja djelotvorniji od ovoga sakramenta glede uklanjanja zla, jer je duhovno rađanje, a to je promjena iz nebitka u bitak. A ovaj je sakrament djelotvorniji za napredovanje u dobru, jer je neki duhovni rast od nesavršenoga bitka do savršenoga bitka. Zato je ovaj sakrament povjeren dostojnijem služitelju.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a11.ad3": {
+      "text": "Na treće treba reći da, kako kaže Raban u knjizi O odgoju klerika, *krštenika svećenik označuje krizmom na tjemenu glave, a biskup na čelu, da bi se prvim pomazanjem označio silazak Duha Svetoga na njega, kako bi posvetio prebivalište Bogu, a drugim da bi se objavilo kako sedmerostruka milost istoga Duha Svetoga, sa svom puninom svetosti, znanja i kreposti, dolazi u čovjeka*. Dakle, ovo je pomazanje pridržano biskupima ne zbog dostojnijega dijela, nego zbog jačega učinka.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a12.obj1": {
+      "text": "Na dvanaesto se ovako postupa. Čini se da obred ovoga sakramenta nije prikladan. Naime, sakrament krštenja veće je nužnosti nego ovaj sakrament, kako je gore rečeno. Ali za krštenje su određena stalna vremena, naime Uskrs i Pedesetnica. Dakle, i za ovaj sakrament treba unaprijed odrediti neko stalno vrijeme.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a12.obj2": {
+      "text": "Osim toga, kao što ovaj sakrament zahtijeva predanost i onoga koji daje i onoga koji prima, tako i sakrament krštenja. Ali u sakramentu krštenja ne zahtijeva se da ga natašte primaju ili podjeljuju. Dakle, čini se da je neprikladno određeno na Orleanskom saboru *da na potvrdu (krizmu) dolaze natašte*, i na saboru u Meauxu *da biskupi daju Duha Svetoga polaganjem ruke samo natašte*.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a12.obj3": {
+      "text": "Osim toga, krizma je neki znak punine Duha Svetoga, kako je gore rečeno. Ali punina Duha Svetoga dana je Kristovim vjernicima na dan Pedesetnice, kako stoji u Dj 2. Dakle, krizmu bi prije trebalo pripravljati i blagoslivljati na blagdan Pedesetnice nego na dan Gospodnje večere.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a12.sc": {
+      "text": "Ali protiv toga je praksa Crkve, kojom upravlja Duh Sveti.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a12.resp": {
+      "text": "Odgovaram: treba reći da je Gospodin u Mt 18 obećao svojim vjernicima govoreći: *Gdje su dvojica ili trojica sabrana u moje ime, ondje sam ja među njima*. Zato treba čvrsto držati da se uredbe Crkve ravnaju prema Kristovoj mudrosti. I stoga mora biti izvjesno da su obredi koje Crkva obdržava u ovom i u drugim sakramentima prikladni.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a12.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže papa Miltijad, *ova su dva sakramenta, naime krštenje i potvrda, tako povezana da se nikako ne mogu jedan od drugoga odvojiti, osim ako smrt preduhitri, niti se jedan bez drugoga može propisno obaviti*. Zato su za svečano slavljenje krštenja i za ovaj sakrament unaprijed određena ista vremena. Ali budući da ovaj sakrament daju samo biskupi, koji nisu uvijek nazočni ondje gdje prezbiteri krste, trebalo je, glede opće prakse, sakrament potvrde odgađati i na druga vremena.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a12.ad2": {
+      "text": "Na drugo treba reći da su od one zabrane izuzeti bolesni i oni koji su u smrtnoj pogibelji, kako se čita u odredbi sabora u Meauxu. Zato se, zbog mnoštva vjernika i zbog prijetećih pogibelji, podnosi da se ovaj sakrament, koji mogu davati samo biskupi, daje ili prima i ne natašte, jer jedan biskup, osobito u velikoj biskupiji, ne bi bio dostatan da sve potvrdi kad bi mu vrijeme bilo ograničeno. Ipak, gdje se to može prikladno obdržavati, prikladnije je da se daje i prima natašte.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    },
+    "III.q72.a12.ad3": {
+      "text": "Na treće treba reći da, kako stoji u saboru pape Martina, *u svako je vrijeme bilo dopušteno pripravljati krizmu*. Ali budući da se svečano krštenje, za koje se zahtijeva uporaba krizme, slavi u vigiliji Uskrsa, prikladno je određeno da biskup blagoslovi krizmu dva dana prije, kako bi se mogla razaslati po biskupiji. Za blagoslivljanje tvari sakramenata također je vrlo prikladan onaj dan u koji je ustanovljen sakrament Euharistije, prema kojemu su svi drugi sakramenti na neki način usmjereni, kako je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 24,
+      "created_at": "2026-11-13T09:05:03+00:00"
+    }
+  }
+}
