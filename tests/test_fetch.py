@@ -93,7 +93,7 @@ def test_fetch_part_rejects_unknown_part(tmp_path):
     from suma.fetch import fetch_part
 
     with pytest.raises(ValueError):
-        fetch_part("III", tmp_path, make_client(lambda r: httpx.Response(404)))
+        fetch_part("IV", tmp_path, make_client(lambda r: httpx.Response(404)))
 
 
 def test_fetch_part_prima_secundae_starts_at_its_prologue_page(tmp_path):
@@ -120,3 +120,16 @@ def test_fetch_part_secunda_secundae_starts_at_its_prologue_page(tmp_path):
                        sleep=lambda s: None)
 
     assert [p.name for p in paths] == ["sth3000.html", "sth3001.html"]
+
+
+def test_fetch_part_tertia_pars_starts_at_its_prologue_page(tmp_path):
+    from suma.fetch import fetch_part
+
+    site = {
+        "sth4000.html": nav("sth3189.html", "sth4001.html"),
+        "sth4001.html": nav("sth4000.html", "sth5000.html"),
+    }
+    paths = fetch_part("III", tmp_path, make_client(lambda r: httpx.Response(200, content=site[r.url.path.lstrip("/")])),
+                       sleep=lambda s: None)
+
+    assert [p.name for p in paths] == ["sth4000.html", "sth4001.html"]
