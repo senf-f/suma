@@ -1,0 +1,432 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 31,
+  "units": {
+    "III.q31.pr": {
+      "text": "Zatim treba razmotriti samo Spasiteljevo začeće. I to, prvo, s obzirom na tvar od koje je začeto njegovo tijelo; drugo, s obzirom na tvorca začeća; treće, s obzirom na način i red začeća. Glede prvoga pita se osam stvari. Prvo, je li Kristovo tijelo uzeto od Adama. Drugo, je li uzeto od Davida. Treće, o Kristovu rodoslovlju koje se navodi u Evanđeljima. Četvrto, je li priličilo da se Krist rodi od žene. Peto, je li njegovo tijelo oblikovano od najčišće krvi Djevice. Šesto, je li Kristovo tijelo bilo u drevnim ocima po nečem označenom. Sedmo, je li Kristovo tijelo u ocima bilo podložno grijehu. Osmo, je li dalo desetinu u Abrahamovim bedrima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da Kristovo tijelo nije uzeto od Adama. Apostol naime kaže u 1 Kor 15: *prvi čovjek od zemlje, zemaljski; drugi čovjek s neba, nebeski*. A prvi je čovjek Adam, drugi je čovjek Krist. Dakle, Krist nije od Adama, nego ima podrijetlo različito od njegova.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a1.obj2": {
+      "text": "Osim toga, Kristovo začeće trebalo je biti u najvećoj mjeri čudesno. No veće je čudo oblikovati čovjekovo tijelo od zemljanoga blata nego od ljudske tvari koja potječe od Adama. Dakle, čini se da nije bilo prikladno da Krist uzme tijelo od Adama. Dakle, čini se da Kristovo tijelo nije trebalo biti oblikovano od mase ljudskoga roda izvedene od Adama, nego od neke druge tvari.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a1.obj3": {
+      "text": "*Osim toga, grijeh je ušao u ovaj svijet po jednom čovjeku*, to jest po Adamu, jer su u njemu svi narodi sagriješili po podrijetlu, kako je jasno iz Rim 5. No da je Kristovo tijelo bilo uzeto od Adama, i on bi sam po podrijetlu bio u Adamu kad je ovaj sagriješio. Dakle, bio bi navukao istočni grijeh. A to nije priličilo Kristovoj čistoći. Dakle, Kristovo tijelo nije oblikovano od tvari uzete od Adama.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a1.sc": {
+      "text": "Ali protiv toga je ono što Apostol kaže u Heb 2: *nigdje ne prihvaća anđela*, naime Sin Božji, *nego prihvaća Abrahamovo sjeme*. A Abrahamovo je sjeme uzeto od Adama. Dakle, Kristovo je tijelo oblikovano od tvari uzete od Adama.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a1.resp": {
+      "text": "Odgovaram: treba reći da je Krist uzeo ljudsku narav da bi je očistio od pokvarenosti. A ljudskoj naravi nije bilo potrebno čišćenje osim ukoliko je bila zaražena pokvarenim podrijetlom po kojem je potjecala od Adama. Zato je bilo prikladno da uzme tijelo od tvari izvedene od Adama, kako bi sama narav bila izliječena time što je uzeta.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se za drugoga čovjeka, to jest Krista, kaže da je s neba ne s obzirom na tvar tijela, nego ili s obzirom na oblikotvornu snagu tijela, ili pak s obzirom na samo njegovo božanstvo. A po tvari je Kristovo tijelo bilo zemaljsko, kao i Adamovo tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a1.ad2": {
+      "text": "Na drugo treba reći da je, kako je gore rečeno, otajstvo Kristova utjelovljenja nešto čudesno, ne kao nešto usmjereno na potvrdu vjere, nego kao članak vjere. Zato se u otajstvu utjelovljenja ne traži što je veće čudo, kao u čudesima koja se zbivaju radi potvrde vjere, nego što je prikladnije božanskoj mudrosti i korisnije ljudskom spasenju, što se traži u svemu što pripada vjeri. Ili se može reći da se u otajstvu utjelovljenja čudo ne promatra samo s obzirom na tvar začeća, nego više s obzirom na način začeća i poroda, naime u tome što je djevica začela i rodila Boga.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a1.ad3": {
+      "text": "Na treće treba reći da je, kako je gore rečeno, Kristovo tijelo bilo u Adamu po tjelesnoj supstanciji, jer je, naime, sama tjelesna tvar Kristova tijela izvedena od Adama; ali ondje nije bilo po sjemenom razlogu, jer nije začeto iz muškoga sjemena. Zato on nije navukao istočni grijeh kao ostali, koji potječu od Adama putem muškoga sjemena.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Krist nije uzeo tijelo od Davidova sjemena. Matej naime, tkajući Kristovo rodoslovlje, doveo ga je do Josipa. A Josip nije bio Kristov otac, kako je gore pokazano. Dakle, ne čini se da je Krist potekao od Davidova roda.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a2.obj2": {
+      "text": "Osim toga, Aron je bio iz Levijeva plemena, kako je jasno iz Izl 6, a za Mariju, Kristovu majku, kaže se da je rođakinja Elizabete, koja je Aronova kći, kako je jasno iz Lk 1. Budući da je, dakle, David bio iz Judina plemena, kako je jasno iz Mt 1, čini se da Krist nije potekao od Davidova sjemena.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a2.obj3": {
+      "text": "Osim toga, u Jr 22 kaže se o Jekoniji: *zapiši toga čovjeka kao neplodna, jer od njegova sjemena neće biti čovjeka koji bi sjedio na Davidovu prijestolju*. No o Kristu se kaže u Iz 9: *sjedit će na Davidovu prijestolju*. Dakle, Krist nije bio od Jekonijina sjemena. A posljedično ni od Davidova roda, jer Matej vodi niz naraštaja od Davida preko Jekonije.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a2.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Rim 1: *koji mu je postao iz sjemena Davidova po tijelu*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a2.resp": {
+      "text": "Odgovaram: treba reći da se za Krista kaže da je na poseban način sin dvojice drevnih otaca, naime Abrahama i Davida, kako je jasno iz Mt 1. Za to postoji više razloga. Prvi je zato što je upravo njima na poseban način dano obećanje o Kristu. Abrahamu je naime rečeno u Post 22: *u tvom će se sjemenu blagoslivljati svi narodi zemlje*, što Apostol tumači o Kristu govoreći u Gal 3: *Abrahamu su dana obećanja i njegovu sjemenu. Ne kaže: i sjemenima, kao o mnogima, nego kao o jednome: i tvojem sjemenu, koje je Krist*. A Davidu je rečeno: *od ploda tvoje utrobe postavit ću na tvoje prijestolje*. Zato je i židovsko mnoštvo, primajući ga časno kao kralja, govorilo, Mt 21: *hosana sinu Davidovu*. Drugi je razlog zato što je Krist imao biti kralj, prorok i svećenik. A Abraham je bio svećenik, kako je jasno iz toga što mu je Gospodin rekao u Post 15: *uzmi si trogodišnju junicu*, i tako dalje. Bio je i prorok, prema onome što se kaže u Post 20: *prorok je, i molit će za tebe*. A David je bio kralj i prorok. Treći je razlog zato što je s Abrahamom najprije počelo obrezanje, a u Davidu se najviše očitovao Božji izbor, prema onome što se kaže u 1 Sam 13: *Gospodin je sebi potražio čovjeka po svom srcu*. Zato se za Krista na najposebniji način kaže da je sin obojice, da bi se pokazalo da je on na spasenje i obrezanju i izabranju pogana.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je to bio prigovor maniheja Fausta, koji je htio dokazati da Krist nije Davidov sin, jer nije začet od Josipa, do kojega Matej vodi niz naraštaja. Protiv toga Augustin odgovara u XXIII. knjizi Protiv Fausta: *budući da isti evanđelist kaže da je Josip Marijin muž, i da je Kristova majka djevica, i da je Krist iz sjemena Davidova, što preostaje nego vjerovati da Marija nije bila tuđa Davidovu srodstvu; i da je ne bez razloga nazvana Josipovom suprugom, zbog saveza duša, premda se on s njom nije tjelesno sjedinio; i da se red naraštaja vodi do Josipa radije zbog muškoga dostojanstva? Tako, dakle, i mi vjerujemo da je i Marija bila u Davidovu srodstvu, jer vjerujemo Pismima, koja kažu oboje: i da je Krist iz sjemena Davidova po tijelu, i da je njegova majka Marija djevica, a ne da je lijegala s mužem*. Kako naime kaže Jeronim u tumačenju Mateja, *Josip i Marija bili su iz jednoga plemena, pa ju je stoga po Zakonu bio dužan uzeti kao rodbinu. Zbog toga se i zajedno popisuju u Betlehemu, kao da su potekli od jednoga koljena*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a2.ad2": {
+      "text": "Na drugo treba reći da na taj prigovor odgovara Grgur Nazijanski govoreći da se po višnjoj odredbi dogodilo da se kraljevski rod spoji sa svećeničkim koljenom, kako bi se Krist, koji je kralj i svećenik, po tijelu rodio od obojega. Zato je i Aron, koji je bio prvi svećenik po Zakonu, uzeo za ženu Elizabetu iz Judina plemena, Aminadabovu kćer. Tako se, dakle, moglo dogoditi da je Elizabetin otac imao neku ženu iz Davidova koljena, zbog koje bi Blažena Djevica Marija, koja je bila iz Davidova koljena, bila Elizabetina rođakinja. Ili radije obratno, da je otac Blažene Marije, koji je bio iz Davidova koljena, imao ženu iz Aronova koljena. Ili, kako kaže Augustin u XXIII. knjizi Protiv Fausta, ako je Joakim, Marijin otac, bio iz Aronova koljena (kako je tvrdio heretik Faust na temelju nekih apokrifnih spisa), valja vjerovati da je Joakimova majka bila iz Davidova koljena, ili pak njegova žena, tako da na neki način kažemo da je Marija bila iz Davidova potomstva.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a2.ad3": {
+      "text": "Na treće treba reći da se, kako kaže Ambrozije u tumačenju Luke, tim proročkim autoritetom *ne niječe da će se od Jekonijina sjemena rađati potomci. I zato je Krist od njegova sjemena. A to što je Krist kraljevao nije protiv proroštva; nije naime kraljevao svjetovnom čašću; on je sam rekao: moje kraljevstvo nije od ovoga svijeta*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da evanđelisti neprikladno tkaju Kristovo rodoslovlje. U Iz 53 kaže se naime o Kristu: *rađanje njegovo tko će opisati?* Dakle, Kristovo rađanje nije trebalo opisivati.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.obj2": {
+      "text": "Osim toga, nemoguće je da jedan čovjek ima dva oca. No Matej kaže da je *Jakov rodio Josipa, muža Marijina*, a Luka kaže da je Josip bio Elijev sin. Dakle, pišu protivno jedan drugome.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.obj3": {
+      "text": "Osim toga, čini se da se u nekim stvarima međusobno razlikuju. Matej naime, na početku knjige, počinjući od Abrahama i silazeći do Josipa, nabraja četrdeset i dva naraštaja. A Luka Kristovo rodoslovlje navodi nakon Kristova krštenja, počinjući od Krista i vodeći broj naraštaja sve do Boga, navodeći sedamdeset i sedam naraštaja, računajući oba kraja. Čini se, dakle, da neprikladno opisuju Kristovo rodoslovlje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.obj4": {
+      "text": "Osim toga, u 2 Kr 8 čita se da je Joram rodio Ahaziju; njega je naslijedio Joaš, njegov sin; a ovoga je naslijedio njegov sin Amasja; poslije je kraljevao njegov sin Azarja, koji se zove Uzija; njega je naslijedio Jotam, njegov sin. A Matej kaže da je *Joram rodio Uziju*. Dakle, čini se da neprikladno opisuje Kristovo rodoslovlje, izostavljajući tri kralja u sredini.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.obj5": {
+      "text": "Osim toga, svi koji se opisuju u Kristovu rodoslovlju imali su očeve i majke, a mnogi su od njih imali i braću. A Matej u Kristovu rodoslovlju imenuje samo tri majke, naime Tamaru, Rutu i Urijinu ženu. A od braće imenuje Judinu i Jekonijinu, i opet Peresa i Zeraha. Od toga Luka nije naveo ništa. Dakle, čini se da su evanđelisti neprikladno opisali Kristovo rodoslovlje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.sc": {
+      "text": "Ali protiv toga je autoritet Pisma.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.resp": {
+      "text": "Odgovaram: treba reći da je, kako se kaže u 2 Tim 3, *sve sveto Pismo od Boga nadahnuto*. A ono što biva od Boga, biva najuređenije, prema onome iz Rim 13: *ono što je od Boga, uređeno je*. Zato su evanđelisti Kristovo rodoslovlje opisali prikladnim redom.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Jeronim u tumačenju Mateja, Izaija govori o rađanju Kristova božanstva. A Matej opisuje Kristovo rađanje po čovještvu, ne tumačeći doduše način utjelovljenja, jer je i to neizrecivo, nego nabraja očeve od kojih je Krist po tijelu potekao.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.ad2": {
+      "text": "Na drugo treba reći da na taj prigovor, koji je iznio Julijan Otpadnik, neki odgovaraju na različite načine. Neki naime, kako kaže Grgur Nazijanski, kažu da su isti oni koje nabraja jedan i drugi evanđelist, ali pod različitim imenima, kao da su dvoimeni. Ali to ne može stajati, jer Matej navodi jednoga Davidova sina, naime Salomona, a Luka drugoga, naime Natana, za koje je prema povijesti Knjiga kraljeva poznato da su bili braća. Zato su drugi rekli da je Matej predao pravo Kristovo rodoslovlje, a Luka prividno; zato je i počeo: kako se smatralo, sin Josipov. Bilo je naime nekih Židova koji su, zbog grijeha Judinih kraljeva, vjerovali da će se Krist roditi od Davida ne preko kraljeva, nego preko nekoga drugog njegova koljena, privatnih ljudi. Drugi su pak rekli da je Matej naveo tjelesne očeve, a Luka duhovne očeve, naime pravedne muževe, koji se nazivaju očevima zbog sličnosti u čestitosti. U knjizi pak Pitanja Novoga i Staroga zavjeta odgovara se da ne treba shvatiti da Luka kaže da je Josip Elijev sin, nego da su Eli i Josip u Kristovo vrijeme na različite načine potjecali od Davida. Zato se o Kristu kaže da se smatralo da je Josipov sin, i da je i sam Krist bio Elijev sin; kao da kaže da se Krist, s istoga razloga s kojega se naziva Josipovim sinom, može nazvati sinom Elijevim i sinom svih onih koji potječu iz Davidova koljena; kao što Apostol kaže u Rim 9: od kojih je, naime od Židova, Krist po tijelu. Augustin pak u knjizi Evanđeoska pitanja to rješava na tri načina, govoreći: *nameću se tri razloga, od kojih je evanđelist slijedio neki. Ili je naime jedan evanđelist imenovao Josipova oca od kojega je rođen, a drugi je naveo ili djeda po majci ili nekoga od starijih rođaka. Ili je jedan bio Josipov naravni otac, a drugi ga je posinio. Ili je, po običaju Židova, kad bi tko umro bez sinova, rođak, uzevši njegovu ženu, sina kojega je rodio pripisao umrlom rođaku*, što je također neka vrsta zakonskog posinovljenja, kako sam Augustin kaže u II. knjizi O skladu evanđelista. I taj je posljednji razlog istinitiji; njega navodi i Jeronim u tumačenju Mateja, a Euzebije Cezarejski u Crkvenoj povijesti tvrdi da ga je predao povjesničar Afrikan. Kažu naime da su Matan i Melki u različito vrijeme od jedne te iste žene, imenom Esta, imali svaki po jednoga sina. Jer Matan, koji potječe preko Salomona, najprije ju je bio uzeo za ženu i umro, ostavivši jednoga sina, imenom Jakov; a nakon njegove smrti, budući da Zakon ne brani udovici da se uda za drugoga muža, Melki, koji vodi rod preko Natana, budući da je bio iz istoga plemena, ali ne iz istoga roda, uzeo je za ženu Matanovu udovicu, od koje je i sam dobio sina, imenom Eli; i tako Jakov i Eli, od različitoga roda očeva, postaju braća po majci. Od njih je jedan, naime Jakov, uzevši po odredbi Zakona ženu svoga brata Elija, koji je umro bez djece, rodio Josipa, po naravi roda svoga sina, a po propisu Zakona on postaje Elijev sin. Zato Matej kaže: Jakov rodi Josipa, a Luka, budući da opisuje zakonsko rođenje, ni za koga ne kaže da je koga rodio. I premda Damaščanin kaže da je Blažena Djevica Marija bila u rodu s Josipom po onom podrijetlu po kojem se za njegova oca kaže da je Eli, jer kaže da je ona potekla od Melkija, ipak valja vjerovati da je ona na neki način vukla podrijetlo i od Salomona, preko onih otaca koje nabraja Matej, za kojega se kaže da opisuje Kristovo tjelesno rođenje; osobito budući da Ambrozije kaže da je Krist potekao od Jekonijina sjemena.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.ad3": {
+      "text": "Na treće treba reći da, kako kaže Augustin u knjizi O skladu evanđelista, *Matej je bio naumio u Kristu nagovijestiti kraljevsku osobu, a Luka svećeničku. Zato se u Matejevim naraštajima označuje to što je Gospodin Isus Krist preuzeo naše grijehe*, ukoliko je, naime, po tjelesnom podrijetlu uzeo sličnost grešnoga tijela. *A u Lukinim se naraštajima označuje pranje naših grijeha*, koje biva po Kristovoj žrtvi. *Zato Matej naraštaje nabraja silazeći, a Luka uzlazeći*. Odatle je i to što *Matej silazi od samoga Davida preko Salomona, s čijom je majkom on sagriješio, a Luka uzlazi do samoga Davida preko Natana, preko čijega je imenjaka proroka Bog okajao njegov grijeh*. I odatle je također to što je, budući da je *Matej htio označiti Krista koji silazi u našu smrtnost, same naraštaje od Abrahama do Josipa, i sve do samoga Kristova rođenja, spomenuo silazeći od početka svoga Evanđelja. A Luka ne od početka, nego od Kristova krštenja pripovijeda rodoslovlje, i to ne silazeći, nego uzlazeći, ističući ga više kao svećenika u okajavanju grijeha, ondje gdje je Ivan dao svjedočanstvo govoreći: Evo onoga koji oduzima grijeh svijeta. A uzlazeći, prelazi Abrahama i dolazi do Boga, s kojim se, očišćeni i okajani, pomirujemo. S pravom je on prihvatio i podrijetlo po posinovljenju, jer po posinovljenju postajemo sinovi Božji, a po tjelesnom rađanju Sin Božji postao je sin čovječji. Dovoljno je pak pokazao da nije zato rekao da je Josip Elijev sin što je od njega rođen, nego što ga je on posinio, kad je i samoga Adama nazvao sinom Božjim, budući da ga je Bog načinio*. Broj četrdeset odnosi se i na vrijeme sadašnjega života, zbog četiriju strana svijeta, u kojem živimo smrtni život pod Kristovim kraljevanjem. A četrdeset sadrži četiri puta deset, a i samo se deset dovršuje brojevima koji napreduju od jedan do četiri. Deset bi se moglo odnositi i na Dekalog, a četiri na sadašnji život; ili pak na četiri Evanđelja, prema tome kako Krist kraljuje u nama. Zato je *Matej, ističući Kristovu kraljevsku osobu, naveo četrdeset osoba ne računajući njega samoga*. Ali to treba shvatiti tako ako je isti Jekonija onaj koji se navodi na kraju druge četrnaestice i na početku treće, kako hoće Augustin. On kaže da je to učinjeno da bi se označilo kako se *u Jekoniji dogodio neki zaokret prema tuđim narodima, kad se preselilo u Babilon, što je također predslikovalo da će Krist prijeći od obrezanja k neobrezanju*. Jeronim pak kaže da su bila dva Joakima, to jest Jekonije, naime otac i sin, od kojih se obojica uzimaju u Kristovo rodoslovlje, da bi se održalo razlikovanje naraštaja, koje evanđelist dijeli na tri četrnaestice. To se penje do četrdeset i dvije osobe. Taj broj pristaje i svetoj Crkvi. Taj broj naime nastaje od šest, koje označuje trud sadašnjega života, i sedam, koje označuje mir budućega života: šest puta sedam je naime četrdeset i dva. I sama četrnaestica, koja se sastoji od deset i četiri zbrajanjem, može imati isto značenje koje je pripisano četrdesetici, koja nastaje od istih brojeva množenjem. A broj kojim se Luka služi u Kristovim naraštajima označuje sveukupnost grijeha. *Deset se naime, kao broj pravednosti, pokazuje u deset zapovijedi Zakona. A grijeh je prijestup Zakona. Prijestup pak broja deset jest jedanaest*. Sedam pak označuje sveukupnost, jer se cijelo vrijeme okreće u broju od sedam dana. A sedam puta jedanaest je sedamdeset i sedam. I tako se time označuje sveukupnost grijeha koji se po Kristu oduzimaju.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.ad4": {
+      "text": "Na četvrto treba reći da, kako kaže Jeronim u tumačenju Mateja, *budući da se kralj Joram bio povezao s rodom najbezbožnije Izebele, zato se njegov spomen briše do trećega naraštaja, da ne bi bio stavljen u sveti red rođenja*. I tako, kako kaže Zlatousti, *koliko je velik blagoslov došao na Jehua, koji je izvršio osvetu nad domom Ahabovim i Izebelinim, tolika je kletva na domu Joramovu, zbog kćeri bezakonoga Ahaba i Izebele, da se njegovi sinovi do četvrtoga naraštaja odsijecaju iz broja kraljeva*, kao što je napisano u Izl 20: *vratit ću grijeh roditelja na sinove do trećega i četvrtoga naraštaja*. Treba također uočiti da su i drugi kraljevi koji se navode u Kristovu rodoslovlju bili grešnici, ali njihova bezbožnost nije bila neprekinuta. Jer, kako se kaže u knjizi Pitanja Novoga i Staroga zavjeta, *Salomon je zbog zasluge svoga oca ostavljen u kraljevstvu, Roboam zbog zasluge Ase, sina Abije, svoga sina. A bezbožnost one trojice bila je neprekinuta*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a3.ad5": {
+      "text": "Na peto treba reći da, kako kaže Jeronim u tumačenju Mateja, *u Spasiteljevo se rodoslovlje ne uzima nijedna od svetih žena, nego one koje Pismo kori, da bi onaj koji je došao radi grešnika, rađajući se od grešnika, izbrisao grijehe sviju*. Zato se navodi Tamara, koju se kori zbog općenja sa svekrom; i Rahaba, koja je bila bludnica; i Ruta, koja je bila tuđinka; i Bat-Šeba, Urijina žena, koja je bila preljubnica. Nju se ipak ne navodi vlastitim imenom, nego se označuje imenom muža, kako zbog njezina grijeha, jer je bila suučesnica u preljubu i ubojstvu, tako i zato da bi se, kad se spomene muž, prizvao u sjećanje Davidov grijeh. A budući da Luka smjera označiti Krista kao okajatelja grijeha, takve žene ne spominje. Judinu pak braću spominje da bi pokazao da oni pripadaju Božjem narodu, dok su Jišmael, Izakov brat, i Ezav, Jakovljev brat, bili odvojeni od Božjega naroda; zbog toga se u Kristovu rodoslovlju ne spominju. I također zato da bi isključio oholost zbog plemenitosti roda, jer su mnoga Judina braća bila rođena od sluškinja, ali su svi zajedno bili patrijarsi i poglavari plemena. Peres i Zerah pak imenuju se zajedno, kako kaže Ambrozije u tumačenju Luke, jer se po njima opisuje dvostruki život narodâ: jedan po Zakonu, koji se označuje Zerahom; drugi po vjeri, koji se označuje Peresom. A Jekonijinu braću navodi zato što su svi kraljevali u različita vremena, što se kod drugih kraljeva nije bilo dogodilo. Ili zato što su im i bezakonje i bijeda bili slični.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da tvar Kristova tijela nije trebala biti uzeta od žene. Muški je naime spol plemenitiji od ženskoga. A najviše je priličilo da Krist uzme ono što je savršeno u ljudskoj naravi. Dakle, ne čini se da je trebao uzeti tijelo od žene, nego radije od muškarca, kao što je Eva oblikovana od muškarčeva rebra.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a4.obj2": {
+      "text": "Osim toga, tko god se začne od žene, zatvoren je u ženinu utrobu. A Bogu, *koji ispunja nebo i zemlju*, kako se kaže u Jr 23, ne pristaje da bude zatvoren u malenu ženinu utrobu. Dakle, čini se da nije trebao biti začet od žene.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a4.obj3": {
+      "text": "Osim toga, oni koji se začinju od žene trpe neku nečistoću, kako se kaže u Job 25: *Može li se čovjek opravdati uspoređen s Bogom? Ili se pokazati čistim rođen od žene?* Ali u Kristu nije smjelo biti nikakve nečistoće; on je naime Božja mudrost, o kojoj se kaže u Mudr 7 da *ništa okaljano ne ulazi u nju*. Dakle, ne čini se da je trebao uzeti tijelo od žene.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a4.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Gal 4: *Bog je poslao svoga Sina, nastalog od žene*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a4.resp": {
+      "text": "Odgovaram: treba reći da, premda je Sin Božji mogao uzeti ljudsko tijelo od koje god bi tvari htio, ipak je bilo najprikladnije da tijelo primi od žene. Prvo, zato što je time oplemenjena cijela ljudska narav. Zato Augustin kaže u knjizi Osamdeset i tri pitanja: *oslobođenje čovjeka trebalo se očitovati u oba spola. Dakle, budući da je trebao uzeti muškarca, koji je časniji spol, bilo je prikladno da se oslobođenje ženskoga spola očituje u tome što je taj muškarac rođen od žene*. Drugo, zato što se time potvrđuje istinitost utjelovljenja. Zato Ambrozije kaže u knjizi O utjelovljenju: *mnogo ćeš toga naći po naravi, a i iznad naravi. Po uvjetu naravi naime u utrobi*, naime ženskoga tijela, *bio je; ali iznad uvjeta djevica je začela, djevica je rodila, da bi vjerovao da je Bog bio onaj koji je obnavljao narav, i da je čovjek bio onaj koji se po naravi rađao od čovjeka*. I Augustin kaže u poslanici Volusijanu: *kad svemogući Bog čovjeka, gdje god oblikovana, ne bi stvorio iz majčine utrobe, nego bi ga iznenada iznio pred oči, ne bi li potvrdio mnijenje zablude, i ne bi li se nikako vjerovalo da je uzeo pravoga čovjeka; i, dok sve čini čudesno, ne bi li oduzeo ono što je učinio milosrdno? A sada se pak između Boga i čovjeka posrednik ukazao tako da je, spajajući u jedinstvu osobe obje naravi, i uobičajeno uzvisio neuobičajenim, i neuobičajeno ublažio uobičajenim*. Treće, zato što se na taj način upotpunjuje sva raznolikost ljudskoga nastanka. Prvi je čovjek naime proizveden od zemljanoga blata bez muškarca i žene; Eva je pak proizvedena od muškarca bez žene; a ostali se ljudi proizvode od muškarca i žene. Zato je ovo četvrto preostalo kao vlastito Kristu, da bude proizveden od žene bez muškarca.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je muški spol plemenitiji od ženskoga, pa je zato ljudsku narav uzeo u muškom spolu. A da ženski spol ne bi bio prezren, bilo je primjereno da tijelo uzme od žene. Zato Augustin kaže u knjizi O kršćanskoj borbi: *ne prezirite sami sebe, muškarci: Sin Božji uzeo je muškarca. Ne prezirite same sebe, žene: Sin Božji rođen je od žene*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a4.ad2": {
+      "text": "Na drugo treba reći da, kako kaže Augustin u XXIII. knjizi Protiv Fausta, koji se služio tim prigovorom, *katolička vjera, koja vjeruje da je Krist, Sin Božji, po tijelu rođen od djevice, nipošto, kaže, ne zatvara toga istoga Sina Božjega u ženinu utrobu tako kao da ga izvan nje nema, kao da je napustio upravljanje nebom i zemljom, kao da se udaljio od Oca. Ali vi, manihejci, onim srcem kojim ne možete misliti ništa osim tjelesnih maštovnih slika, to uopće ne shvaćate*. Kako naime kaže u poslanici Volusijanu, *to je shvaćanje ljudi koji ne mogu misliti ništa osim tijela, od kojih nijedno ne može biti posvuda cijelo, jer po bezbrojnim dijelovima nužno ima jedno ovdje, drugo ondje. Narav duše daleko je drukčija od naravi tijela. Koliko više narav Boga, koji je Stvoritelj duše i tijela. On zna biti posvuda cijel i ne biti obuhvaćen nikakvim mjestom; zna doći, ne odlazeći odande gdje je bio; zna otići, ne napuštajući ono kamo je došao*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a4.ad3": {
+      "text": "Na treće treba reći da u začeću čovjeka od žene nema ničega nečistoga ukoliko je to Božje djelo; zato se kaže u Dj 10: *što je Bog stvorio, ti ne nazivaj običnim*, to jest nečistim. Ipak ondje postoji neka nečistoća koja proizlazi iz grijeha, ukoliko se netko začinje s pohotom iz spajanja muškarca i žene. A toga u Kristu nije bilo, kako je gore pokazano. Ali kad bi ondje i bilo neke nečistoće, njome se ne bi okaljala Božja Riječ, koja ni na koji način nije promjenljiva. Zato Augustin kaže u knjizi Protiv pet hereza: *kaže Bog, Stvoritelj čovjeka: Što te to smućuje u mom rođenju? Nisam začet žudnjom pohote. Ja sam stvorio majku od koje ću se roditi. Ako sunčeva zraka zna sušiti nečistoću kloaka, a ne zna se njome okaljati, mnogo više sjaj vječnoga svjetla može očistiti štogod obasja, a sam ne može biti okaljan*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da Kristova put nije začeta od najčišće krvi Djevice. U zbornoj se molitvi naime kaže da je *Bog htio da njegova Riječ od Djevice uzme put*. Ali put se razlikuje od krvi. Dakle, Kristovo tijelo nije uzeto od Djevičine krvi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a5.obj2": {
+      "text": "Osim toga, kao što je žena čudesno oblikovana od muškarca, tako je Kristovo tijelo čudesno oblikovano od Djevice. Ali za ženu se ne kaže da je oblikovana od muškarčeve krvi, nego radije od njegove puti i kostiju, prema onome što se kaže u Post 2: *ovo je sada kost od mojih kostiju i put od moje puti*. Dakle, čini se da ni Kristovo tijelo nije trebalo biti oblikovano od Djevičine krvi, nego od njezine puti i kostiju.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a5.obj3": {
+      "text": "Osim toga, Kristovo je tijelo bilo iste vrste s tijelima ostalih ljudi. Ali tijela ostalih ljudi ne oblikuju se od najčišće krvi, nego od sjemena i menstrualne krvi. Dakle, čini se da ni Kristovo tijelo nije začeto od najčišće krvi Djevice.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin u III. knjizi: *Sin Božji sazdao je sebi samome od čedne i najčišće krvi Djevice put oživljenu razumskom dušom*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a5.resp": {
+      "text": "Odgovaram: treba reći da je, kako je gore rečeno, u Kristovu začeću po uvjetu naravi bilo to što je rođen od žene, a iznad uvjeta naravi to što je rođen od djevice. A naravni uvjet sa sobom nosi to da u rađanju životinje ženka pruža tvar, a sa strane mužjaka je djelatno počelo u rađanju, kako dokazuje Filozof u knjizi O rađanju životinja. A žena koja začne od muškarca nije djevica. Zato nadnaravnom načinu Kristova rađanja pripada to da je djelatno počelo u tom rađanju bila nadnaravna božanska snaga; a naravnom načinu njegova rađanja pripada to da tvar od koje je začeto njegovo tijelo bude sukladna tvari koju druge žene pružaju za začeće djeteta. A ta je tvar, prema Filozofu u knjizi O rađanju životinja, ženina krv, ne bilo kakva, nego dovedena do neke potpunije probave rađalačkom snagom majke, tako da bude tvar prikladna za začeće. I zato je od takve tvari začeto Kristovo tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da, budući da je Blažena Djevica bila iste naravi s ostalim ženama, slijedi da je imala put i kosti iste naravi. A put i kosti u drugim su ženama zbiljski dijelovi tijela, od kojih se sastoji cjelovitost tijela, pa se zato ne mogu oduzeti bez oštećenja ili umanjenja tijela. A Krist, koji je došao popraviti ono što je pokvareno, nije smio nanijeti nikakvo oštećenje ili umanjenje cjelovitosti svoje majke. Zato Kristovo tijelo nije trebalo biti oblikovano od Djevičine puti ili kostiju, nego od krvi, koja još nije u činu dio, nego je u mogućnosti cjelina, kako se kaže u knjizi O rađanju životinja. I zato se kaže da je uzeo put od Djevice, ne zato što je tvar tijela bila u činu put, nego krv, koja je u mogućnosti put.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a5.ad2": {
+      "text": "Na drugo treba reći da je, kako je rečeno u Prvom dijelu, Adam, budući da je bio postavljen kao neko počelo ljudske naravi, imao u svom tijelu nešto puti i kosti što nije pripadalo njegovoj osobnoj cjelovitosti, nego samo ukoliko je bio počelo ljudske naravi. I od toga je oblikovana žena, bez štete za muškarca. Ali u Djevičinu tijelu nije bilo ničega takvoga od čega bi se moglo oblikovati Kristovo tijelo bez oštećenja majčina tijela.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a5.ad3": {
+      "text": "Na treće treba reći da žensko sjeme nije prikladno za rađanje, nego je nešto nesavršeno u rodu sjemena, što se nije moglo dovesti do savršene dovršenosti sjemena zbog nesavršenosti ženske snage. Zato takvo sjeme nije tvar koja se nužno traži za začeće, kako kaže Filozof u knjizi O rađanju životinja. I zato ga u Kristovu začeću nije bilo, osobito zato što se, premda je nesavršeno u rodu sjemena, ipak izlučuje s nekom požudom, kao i muško sjeme; a u onom djevičanskom začeću požuda nije mogla imati mjesta. Zato Damaščanin kaže da Kristovo tijelo nije začeto sjemenom. A menstrualna krv, koju žene izbacuju svakoga mjeseca, ima neku naravnu nečistoću iskvarenosti, kao i ostali suvišci, kojih narav ne treba, nego ih izbacuje. Od takve menstrualne krvi koja je iskvarena, koju narav odbacuje, ne oblikuje se začeće; nego je ona neki otpadak one čiste krvi koja je nekom probavom pripravljena za začeće, kao čišća i savršenija od ostale krvi. Ta ipak ima nečistoću pohote u začeću ostalih ljudi, ukoliko se zbog samoga spajanja muškarca i žene takva krv privlači na mjesto prikladno za rađanje. Ali toga u Kristovu začeću nije bilo, jer je djelovanjem Duha Svetoga takva krv bila sabrana u Djevičinoj utrobi i oblikovana u dijete. Zato se kaže da je Kristovo tijelo *oblikovano od najčednije i najčišće krvi Djevice*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je Kristovo tijelo bilo u Adamu i u drugim praocima po nečemu označenom. Augustin, naime, kaže u X. knjizi O doslovnom tumačenju Knjige postanka da je Kristovo tijelo bilo u Adamu i Abrahamu po tjelesnoj supstanciji. Ali tjelesna supstancija nešto je označeno. Dakle, Kristovo je tijelo bilo u Adamu i Abrahamu i u drugim praocima po nečemu označenom.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a6.obj2": {
+      "text": "Osim toga, u Rim 1 kaže se da je *Krist postao od sjemena Davidova po tijelu*. Ali Davidovo sjeme bilo je u njemu nešto označeno. Dakle, Krist je bio u Davidu po nečemu označenom, a s istog razloga i u drugim praocima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a6.obj3": {
+      "text": "Osim toga, Krist ima srodstvo s ljudskim rodom ukoliko je od ljudskoga roda uzeo tijelo. Ali ako to tijelo nije bilo u Adamu po nečemu označenom, čini se da nema nikakva srodstva s ljudskim rodom, koji potječe od Adama, nego radije s drugim stvarima, odakle je uzeta tvar njegova tijela. Čini se, dakle, da je Kristovo tijelo bilo u Adamu i drugim praocima po nečemu označenom.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u X. knjizi O doslovnom tumačenju Knjige postanka: na koji god je način Krist bio u Adamu i Abrahamu, ondje su bili i drugi ljudi, ali to se ne može obrnuti. A drugi ljudi nisu bili u Adamu i Abrahamu po nekoj označenoj tvari, nego samo po podrijetlu, kao što je rečeno u Prvom dijelu. Dakle, ni Krist nije bio u Adamu i Abrahamu po nečemu označenom, a s istog razloga ni u drugim praocima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a6.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, tvar Kristova tijela nije bila meso i kost Blažene Djevice, ni išta što bi zbiljski bilo dio njezina tijela, nego krv, koja je u mogućnosti meso. A sve što je u Blaženoj Djevici bilo primljeno od roditelja bilo je zbiljski dio tijela Blažene Djevice. Stoga ono što je u Blaženoj Djevici bilo primljeno od roditelja nije bilo tvar Kristova tijela. I zato treba reći da Kristovo tijelo nije bilo u Adamu i drugim praocima po nečemu označenom, tako naime da bi se neki dio tijela Adamova ili kojega drugoga mogao određeno označiti, pa da bi se reklo: od ove će se tvari oblikovati Kristovo tijelo; nego je ondje bilo po podrijetlu, kao i tijelo drugih ljudi. Kristovo, naime, tijelo ima odnos prema Adamu i drugim praocima posredstvom tijela svoje majke. Stoga Kristovo tijelo nije bilo u praocima ni na koji drugi način nego tijelo njegove majke, koje nije bilo u praocima po označenoj tvari, kao ni tijela drugih ljudi, kao što je rečeno u Prvom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kad se kaže da je Krist bio u Adamu po tjelesnoj supstanciji, to ne treba shvatiti tako kao da je Kristovo tijelo u Adamu bilo neka tjelesna supstancija, nego tako da je tjelesna supstancija Kristova tijela, to jest tvar koju je uzeo od Djevice, bila u Adamu kao u djelatnom počelu, a ne kao u tvarnom počelu; jer je, naime, po rađalačkoj snazi Adama i drugih koji su od Adama potekli sve do Blažene Djevice bilo učinjeno da se ta tvar na takav način pripremi za začeće Kristova tijela. Ali ta tvar nije bila oblikovana u Kristovo tijelo snagom sjemena izvedenom od Adama. I zato se kaže da je Krist bio u Adamu po podrijetlu po tjelesnoj supstanciji, ali ne po sjemenom razlogu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a6.ad2": {
+      "text": "Na drugo treba reći da, iako Kristovo tijelo nije bilo u Adamu i u drugim praocima po sjemenom razlogu, ipak je tijelo Blažene Djevice, koje je začeto od muškoga sjemena, bilo u Adamu i u drugim praocima po sjemenom razlogu. I zato se kaže da je Krist po tijelu, posredstvom Blažene Djevice, od sjemena Davidova na način podrijetla.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a6.ad3": {
+      "text": "Na treće treba reći da Krist ima srodstvo s ljudskim rodom po sličnosti vrste. A sličnost vrste ne promatra se prema daljoj tvari, nego prema bližoj tvari i prema djelatnom počelu, koje rađa sebi slično po vrsti. Tako se, dakle, Kristovo srodstvo s ljudskim rodom dostatno čuva time što je Kristovo tijelo oblikovano od krvi Djevice, koja po podrijetlu potječe od Adama i drugih praotaca. Za to srodstvo nije važno odakle god bila uzeta tvar te krvi, kao što to nije važno ni u rađanju drugih ljudi, kao što je rečeno u Prvom dijelu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da Kristovo tijelo u starim praocima nije bilo zaraženo grijehom. U Mudr 7, naime, kaže se da u božansku mudrost ne ulazi ništa okaljano. A Krist je Božja mudrost, kako se kaže u 1 Kor 1. Dakle, Kristovo tijelo nikada nije bilo okaljano grijehom.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a7.obj2": {
+      "text": "Osim toga, Damaščanin kaže u III. knjizi da je *Krist uzeo prvine naše naravi*. Ali u prvom stanju ljudsko tijelo nije bilo zaraženo grijehom. Dakle, Kristovo tijelo nije bilo zaraženo ni u Adamu ni u drugim praocima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a7.obj3": {
+      "text": "Osim toga, Augustin kaže u X. knjizi O doslovnom tumačenju Knjige postanka da je *ljudska narav uvijek imala, uz ranu, i lijek za ranu*. Ali ono što je zaraženo ne može biti lijek za ranu, nego mu je radije samome potreban lijek. Dakle, u ljudskoj je naravi uvijek bilo nešto nezaraženo, od čega je poslije oblikovano Kristovo tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a7.sc": {
+      "text": "Ali protiv toga je to što se Kristovo tijelo ne odnosi prema Adamu i prema drugim praocima osim posredstvom tijela Blažene Djevice, od koje je uzeo tijelo. Ali tijelo Blažene Djevice bilo je cijelo začeto u istočnom grijehu, kao što je gore rečeno, pa je tako, ukoliko je bilo u praocima, bilo i podložno grijehu. Dakle, Kristovo je tijelo, ukoliko je bilo u praocima, bilo podložno grijehu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a7.resp": {
+      "text": "Odgovaram: treba reći da, kad kažemo da je Krist, ili njegovo tijelo, bio u Adamu i u drugim praocima, uspoređujemo njega, ili njegovo tijelo, s Adamom i s drugim praocima. A očito je da je jedno bilo stanje praotaca, a drugo Kristovo: praoci su, naime, bili podložni grijehu, a Krist je bio posve slobodan od grijeha. U toj se usporedbi, dakle, može pogriješiti na dva načina. Na jedan način, ako bismo Kristu, ili njegovu tijelu, pripisali stanje koje je bilo u praocima, primjerice kad bismo rekli da je Krist sagriješio u Adamu jer je na neki način bio u njemu. To je lažno, jer nije u njemu bio na takav način da bi se Adamov grijeh odnosio na Krista; jer ne potječe od njega po zakonu požude, ili po sjemenom razlogu, kao što je gore rečeno. Na drugi se način može pogriješiti ako onome što je zbiljski bilo u praocima pripišemo stanje Krista ili njegova tijela, naime tako da, budući da Kristovo tijelo, ukoliko je bilo u Kristu, nije bilo podložno grijehu, i u Adamu i u drugim praocima bio je neki dio njegova tijela koji nije bio podložan grijehu, od kojega bi se poslije oblikovalo Kristovo tijelo; kao što su neki postavili. To pak ne može biti. Prvo, jer Kristovo tijelo nije bilo u Adamu i u drugim praocima po nečemu označenom, što bi se moglo razlikovati od ostaloga njegova tijela kao čisto od nečistoga, kao što je već gore rečeno. Drugo, jer, budući da ljudsko tijelo biva zaraženo grijehom time što je začeto po požudi, kao što je cijelo tijelo nekoga čovjeka začeto po požudi, tako je i cijelo okaljano grijehom. I zato treba reći da je cijelo tijelo starih praotaca bilo podložno grijehu i da u njima nije bilo ničega slobodnog od grijeha od čega bi se poslije oblikovalo Kristovo tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da Krist nije uzeo tijelo ljudskoga roda podložno grijehu, nego očišćeno od svake zaraze grijeha. I zato *u Božju mudrost ne ulazi ništa okaljano*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a7.ad2": {
+      "text": "Na drugo treba reći da se kaže da je Krist uzeo prvine naše naravi s obzirom na sličnost stanja, naime zato što je uzeo tijelo nezaraženo grijehom, kakvo je bilo tijelo čovjeka prije grijeha. Ali to se ne shvaća po neprekinutosti čistoće, tako naime da bi se ono tijelo čistoga čovjeka sačuvalo slobodnim od grijeha sve do oblikovanja Kristova tijela.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a7.ad3": {
+      "text": "Na treće treba reći da je u ljudskoj naravi prije Krista zbiljski postojala rana, to jest zaraza istočnoga grijeha. A lijek za ranu nije ondje bio zbiljski, nego samo po snazi podrijetla, ukoliko je od onih praotaca imalo poteći Kristovo tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da je Krist u Abrahamovim bedrima dao desetinu. Apostol, naime, kaže u Heb 7 da je Levi, Abrahamov praunuk, dao desetinu u Abrahamu, jer je Levi, kad je ovaj davao desetinu Melkisedeku, još bio u njegovim bedrima. Isto je tako i Krist bio u Abrahamovim bedrima kad je ovaj dao desetinu. Dakle, i sam je Krist dao desetinu u Abrahamu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a8.obj2": {
+      "text": "Osim toga, Krist je od sjemena Abrahamova po tijelu koje je primio od majke. Ali njegova je majka dala desetinu u Abrahamu. Dakle, s jednakog razloga i Krist.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a8.obj3": {
+      "text": "*Osim toga, u Abrahamu je davalo desetinu ono čemu je bilo potrebno liječenje*, kako kaže Augustin u X. knjizi O doslovnom tumačenju Knjige postanka. A liječenje je bilo potrebno svakom tijelu podložnom grijehu. Budući da je, dakle, Kristovo tijelo bilo podložno grijehu, kao što je rečeno, čini se da je Kristovo tijelo u Abrahamu dalo desetinu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a8.obj4": {
+      "text": "Osim toga, čini se da to ni na koji način ne umanjuje Kristovo dostojanstvo. Ništa, naime, ne priječi da, kad otac nekoga velikog svećenika daje desetinu nekom svećeniku, njegov sin, kao veliki svećenik, bude veći od običnog svećenika. Iako se, dakle, kaže da je Krist dao desetinu kad je Abraham davao desetinu Melkisedeku, time se ipak ne isključuje da je Krist veći od Melkisedeka.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a8.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u X. knjizi O doslovnom tumačenju Knjige postanka, da ondje, naime u Abrahamu, *nije dao desetinu Krist, čije tijelo odande nije povuklo žar rane, nego tvar lijeka*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a8.resp": {
+      "text": "Odgovaram: treba reći da, prema Apostolovoj nakani, treba reći da Krist nije dao desetinu u Abrahamovim bedrima. Apostol, naime, dokazuje da je svećeništvo po redu Melkisedekovu veće od levitskoga svećeništva time što je Abraham dao desetinu Melkisedeku dok je još u njegovim bedrima bio Levi, kojemu pripada zakonsko svećeništvo. A kad bi i Krist bio dao desetinu u Abrahamu, njegovo svećeništvo ne bi bilo po redu Melkisedekovu, nego manje od Melkisedekova svećeništva. I zato treba reći da Krist nije dao desetinu u Abrahamovim bedrima, kao Levi. Budući, naime, da onaj koji daje desetinu zadržava sebi devet dijelova, a deseti dodjeljuje drugome, a to je znak savršenosti, ukoliko je deset na neki način granica svih brojeva, koji idu do deset, odatle je da onaj koji daje desetinu očituje da je sam nesavršen i da savršenost pripisuje drugome. A nesavršenost ljudskoga roda postoji zbog grijeha, kojemu je potrebna savršenost onoga koji liječi od grijeha. A liječiti od grijeha pripada samo Kristu: on je, naime, *Jaganjac koji oduzima grijeh svijeta*, kako se kaže u Iv 1. A Melkisedek je bio njegova predslika, kao što Apostol dokazuje u Heb 7. Time, dakle, što je Abraham dao desetinu Melkisedeku, predslikom je naznačio da su on, kao začet u grijehu, i svi koji su od njega imali poteći tako da navuku istočni grijeh, potrebni liječenja koje je po Kristu. A Izak i Jakov i Levi i svi drugi bili su u Abrahamu tako da su od njega potekli ne samo po tjelesnoj supstanciji, nego i po sjemenom razlogu, po kojem se navlači istočni grijeh. I zato su svi u Abrahamu dali desetinu, to jest bili su predslikom naznačeni kao potrebni liječenja koje je po Kristu. A samo je Krist bio u Abrahamu tako da je od njega potekao ne po sjemenom razlogu, nego po tjelesnoj supstanciji. I zato nije bio u Abrahamu kao onaj kojemu je potrebno liječenje, nego radije kao lijek za ranu. I zato nije dao desetinu u Abrahamovim bedrima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a8.ad1": {
+      "text": "I time je jasan odgovor na prvo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a8.ad2": {
+      "text": "Na drugo treba reći da je Blažena Djevica, budući da je bila začeta u istočnom grijehu, bila u Abrahamu kao ona kojoj je potrebno liječenje. I zato je ondje dala desetinu, kao ona koja odande potječe po sjemenom razlogu. S Kristovim tijelom, pak, nije tako, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a8.ad3": {
+      "text": "Na treće treba reći da se kaže da je Kristovo tijelo u starim praocima bilo podložno grijehu po kakvoći koju je imalo u samim roditeljima, koji su dali desetinu, a ne po kakvoći koju ima ukoliko je zbiljski u Kristu, koji nije dao desetinu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q31.a8.ad4": {
+      "text": "Na četvrto treba reći da se levitsko svećeništvo prenosilo po tjelesnom podrijetlu. Stoga nije bilo manje u Abrahamu nego u Leviju. Stoga se time što je Abraham dao desetinu Melkisedeku kao većemu pokazuje da je Melkisedekovo svećeništvo, ukoliko je predslika Krista, veće od levitskoga svećeništva. A Kristovo svećeništvo ne slijedi tjelesno podrijetlo, nego duhovnu milost. I zato je moguće da otac dade desetinu nekom svećeniku kao manji većemu, a da ipak njegov sin, ako je veliki svećenik, bude veći od toga svećenika, ne zbog tjelesnoga podrijetla, nego zbog duhovne milosti, koju ima od Krista.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    }
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 50,
+  "units": {
+    "III.q50.pr": {
+      "text": "Zatim treba razmotriti Kristovu smrt. I o tome se postavlja šest pitanja. Prvo, je li bilo prikladno da Krist umre. Drugo, je li smrću bilo razdvojeno sjedinjenje božanstva i tijela. Treće, je li bilo razdvojeno sjedinjenje božanstva i duše. Četvrto, je li Krist u tri dana smrti bio čovjek. Peto, je li njegovo tijelo, živo i mrtvo, bilo brojčano isto. Šesto, je li njegova smrt išta učinila za naše spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da nije bilo prikladno da Krist umre. Ono, naime, što je prvo počelo u nekom rodu ne biva podložno onome što je protivno tome rodu, kao što vatra, koja je počelo topline, nikada ne može biti hladna. Ali Sin je Božji počelo i izvor svakoga života, prema onome iz Psalma: *U tebe je izvor života*. Dakle, čini se da nije bilo prikladno da Krist umre.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a1.obj2": {
+      "text": "Osim toga, smrt je veći nedostatak od bolesti, jer se po bolesti dolazi do smrti. Ali nije bilo prikladno da Krist pobolijeva od ikakve bolesti, kako kaže Zlatousti. Dakle, nije bilo prikladno ni da Krist umre.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a1.obj3": {
+      "text": "Osim toga, Gospodin kaže u Iv 10: *Ja sam došao da imaju život, i da ga imaju u izobilju*. Ali suprotstavljeno ne vodi k suprotstavljenome. Dakle, čini se da nije bilo prikladno da Krist umre.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iv 11: *Korisno je da jedan čovjek umre za narod, da ne propadne sav narod*, što je Kaifa rekao proročki, kako svjedoči evanđelist.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a1.resp": {
+      "text": "Odgovaram: treba reći da je bilo prikladno da Krist umre. Prvo, da dade zadovoljštinu za ljudski rod, koji je zbog grijeha bio osuđen na smrt, prema onome iz Post 2: *Kojega god dana budete jeli, smrću ćete umrijeti*. A prikladan je način davanja zadovoljštine za drugoga kad se netko podvrgne kazni koju je drugi zaslužio. I zato je Krist htio umrijeti, kako bi, umirući, dao zadovoljštinu za nas, prema onome iz 1 Pt 3: *Krist je jednom umro za naše grijehe*. Drugo, da pokaže istinitost uzete naravi. Jer, kako kaže Euzebije, *kad bi, nakon što je živio s ljudima, iznenada iščeznuo i odletio bježeći od smrti, svi bi ga usporedili s utvarom*. Treće, da nas, umirući, oslobodi straha od smrti. Zato se kaže u Heb 2 da je *postao dionikom tijela i krvi, da smrću uništi onoga koji je imao vlast nad smrću i oslobodi one koji su iz straha od smrti cijeli život bili podložni ropstvu*. Četvrto, da nam, umirući tjelesno sličnosti grijeha, to jest kaznenosti, dade primjer da duhovno umremo grijehu. Zato se kaže u Rim 6: *Jer što je umro, umro je grijehu jednom; a što živi, živi Bogu. Tako i vi smatrajte da ste mrtvi grijehu, a živi Bogu*. Peto, da, uskrsnuvši od mrtvih, pokaže svoju snagu kojom je nadvladao smrt i dade nam nadu da ćemo uskrsnuti od mrtvih. Zato Apostol kaže u 1 Kor 15: *Ako se propovijeda da je Krist uskrsnuo od mrtvih, kako neki među vama govore da nema uskrsnuća mrtvih?*",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Krist izvor života ukoliko je Bog, a ne ukoliko je čovjek. A umro je ne ukoliko je Bog, nego ukoliko je čovjek. Zato Augustin kaže u spisu Protiv Felicijana: *Daleko od toga da je Krist tako osjetio smrt da bi, ukoliko je u sebi život, izgubio život. Kad bi, naime, to bilo tako, presahnuo bi izvor života. Osjetio je, dakle, smrt sudjelovanjem u ljudskom čuvstvu, koje je dragovoljno uzeo, ali nije izgubio moć svoje naravi, kojom sve oživljuje*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a1.ad2": {
+      "text": "Na drugo treba reći da Krist nije podnio smrt koja proizlazi iz bolesti, da se ne bi činilo da umire iz nužnosti zbog slabosti naravi. Nego je podnio smrt nanesenu izvana, kojoj se dragovoljno prinio, da bi se pokazalo da je njegova smrt voljna.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a1.ad3": {
+      "text": "Na treće treba reći da jedno od suprotstavljenoga po sebi ne vodi k drugome, ali katkad vodi akcidentalno, kao što hladno katkad akcidentalno grije. I na taj nas je način Krist svojom smrću doveo do života, jer je svojom smrću uništio našu smrt, kao što onaj koji podnosi kaznu za drugoga uklanja njegovu kaznu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da je u Kristovoj smrti božanstvo bilo odvojeno od tijela. Kako se, naime, kaže u Mt 27, Gospodin je, viseći na križu, zavapio: *Bože, Bože moj, zašto si me ostavio?* Tumačeći to, Ambrozije kaže: *Viče čovjek koji će umrijeti zbog odvajanja božanstva. Jer, budući da je božanstvo slobodno od smrti, smrt ondje svakako nije mogla biti ako se život ne bi udaljio, jer je božanstvo život*. I tako se čini da je u Kristovoj smrti božanstvo bilo odvojeno od tijela.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a2.obj2": {
+      "text": "Osim toga, kad se ukloni sredina, krajnosti se razdvajaju. Ali božanstvo je sjedinjeno s tijelom posredovanjem duše, kao što je gore utvrđeno. Dakle, budući da je u Kristovoj smrti duša bila odvojena od tijela, čini se da je posljedično i božanstvo bilo odvojeno od tijela.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a2.obj3": {
+      "text": "Osim toga, oživljujuća snaga Božja veća je od oživljujuće snage duše. Ali tijelo nije moglo umrijeti a da se duša ne odvoji. Dakle, čini se da je još mnogo manje moglo umrijeti a da se ne odvoji božanstvo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a2.sc": {
+      "text": "Ali protiv toga: ono što pripada ljudskoj naravi ne kaže se o Sinu Božjem osim zbog sjedinjenja, kao što je gore utvrđeno. A o Sinu Božjem kaže se ono što pripada Kristovu tijelu nakon smrti, naime da je pokopan, kao što je jasno iz Vjerovanja, gdje se kaže da je *Sin Božji začet i rođen od Djevice, trpio, umro i pokopan*. Dakle, Kristovo tijelo u smrti nije bilo odvojeno od božanstva.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a2.resp": {
+      "text": "Odgovaram: treba reći da se ono što se daje po Božjoj milosti nikada ne opoziva bez krivnje; zato se kaže u Rim 11 da su *Božji darovi i poziv bez kajanja*. A milost sjedinjenja, po kojoj je božanstvo sjedinjeno s Kristovim tijelom u osobi, mnogo je veća od milosti posinovljenja, kojom se drugi posvećuju, a po svom je pojmu i trajnija, jer je ta milost usmjerena prema osobnom sjedinjenju, a milost posinovljenja prema nekom sjedinjenju u čuvstvu. Pa ipak vidimo da se milost posinovljenja nikada ne gubi bez krivnje. Budući, dakle, da u Kristu nije bilo nikakva grijeha, bilo je nemoguće da se razriješi sjedinjenje božanstva s njegovim tijelom. I zato, kao što je Kristovo tijelo prije smrti bilo sjedinjeno s Riječju Božjom po osobi i hipostazi, tako je ostalo sjedinjeno i nakon smrti, tako naime da nakon smrti nije bila jedna hipostaza Riječi Božje, a druga Kristova tijela, kako kaže Damaščanin u III. knjizi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da se ono ostavljanje ne smije odnositi na razrješenje osobnog sjedinjenja, nego na to što ga je Bog Otac izložio muci. Zato „ostaviti“ ondje nije ništa drugo nego ne zaštititi od progonitelja. Ili kaže da je ostavljen glede one molitve u kojoj je rekao: *Oče, ako je moguće, neka me mimoiđe ova čaša*, kako tumači Augustin u knjizi O milosti Novoga zavjeta.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a2.ad2": {
+      "text": "Na drugo treba reći da se kaže da je Riječ Božja sjedinjena s tijelom posredovanjem duše ukoliko tijelo po duši pripada ljudskoj naravi, koju je Sin Božji namjeravao uzeti, a ne tako da bi duša bila kao sredina koja povezuje ono što je sjedinjeno. A tijelo ima od duše to da pripada ljudskoj naravi i nakon što se duša od njega odvoji, ukoliko, naime, u mrtvom tijelu po Božjoj odredbi ostaje neka usmjerenost prema uskrsnuću. I zato se ne ukida sjedinjenje božanstva s tijelom.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a2.ad3": {
+      "text": "Na treće treba reći da duša ima silu oživljavanja formalno. Zato, kad je ona prisutna i formalno sjedinjena, nužno je da tijelo bude živo. Božanstvo pak nema silu oživljavanja formalno, nego tvorno, jer ne može biti forma tijela. Zato nije nužno da, dok ostaje sjedinjenje božanstva s tijelom, tijelo bude živo, jer Bog ne djeluje iz nužnosti, nego po volji.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da je u Kristovoj smrti došlo do odvajanja božanstva od duše. Gospodin, naime, kaže u Iv 10: *Nitko mi ne oduzima dušu moju, nego je ja polažem i ponovno je uzimam*. A ne čini se da bi tijelo moglo položiti dušu odvajajući je od sebe, jer duša nije podložna vlasti tijela, nego obratno. I tako se čini da Kristu, ukoliko je Riječ Božja, pripada da položi svoju dušu. A to znači odvojiti je od sebe. Dakle, smrću je njegova duša bila odvojena od božanstva.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a3.obj2": {
+      "text": "Osim toga, Atanazije kaže: *Proklet bio tko ne ispovijeda da je cijeli čovjek, kojega je uzeo Sin Božji, ponovno uzet ili oslobođen, treći dan uskrsnuo od mrtvih*. Ali cijeli čovjek nije mogao biti ponovno uzet ako cijeli čovjek nije nekad bio odvojen od Riječi Božje. A cijeli se čovjek sastoji od duše i tijela. Dakle, nekad je došlo do odvajanja božanstva i od tijela i od duše.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a3.obj3": {
+      "text": "Osim toga, zbog sjedinjenja s cijelim čovjekom Sin se Božji uistinu naziva čovjekom. Ako je, dakle, kad je smrću razriješeno sjedinjenje duše i tijela, Riječ Božja ostala sjedinjena s dušom, slijedilo bi da se uistinu moglo reći da je Sin Božji duša. A to je lažno, jer bi, budući da je duša forma tijela, slijedilo da je Riječ Božja bila forma tijela, što je nemoguće. Dakle, u Kristovoj smrti duša je bila odvojena od Riječi Božje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a3.obj4": {
+      "text": "Osim toga, duša i tijelo, odvojeni jedno od drugoga, nisu jedna hipostaza, nego dvije. Ako je, dakle, Riječ Božja ostala sjedinjena i s dušom i s tijelom Kristovim kad su se Kristovom smrću oni odvojili jedno od drugoga, čini se da slijedi da je Riječ Božja, dok je trajala Kristova smrt, bila dvije hipostaze. A to je neprikladno. Dakle, nakon Kristove smrti duša nije ostala sjedinjena s Riječju.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a3.sc": {
+      "text": "Ali protiv toga je ono što kaže Damaščanin u III. knjizi: *Iako je Krist umro kao čovjek i njegova se sveta duša odijelila od neokaljanoga tijela, ipak je božanstvo ostalo neodvojivo od obojega, mislim od duše i tijela*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a3.resp": {
+      "text": "Odgovaram: treba reći da je duša s Riječju Božjom sjedinjena neposrednije i prije nego tijelo, budući da je tijelo sjedinjeno s Riječju Božjom posredovanjem duše, kao što je gore rečeno. Budući, dakle, da Riječ Božja u smrti nije odvojena od tijela, mnogo je manje odvojena od duše. Zato, kao što se o Sinu Božjem pririče ono što pripada tijelu odvojenom od duše, naime da je pokopan, tako se o njemu u Vjerovanju kaže da je sašao nad pakao, jer je njegova duša, odvojena od tijela, sašla nad pakao.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da Augustin, tumačeći onu Ivanovu riječ, pita: *Budući da je Krist i Riječ i duša i tijelo, polaže li dušu po tome što je Riječ, ili po tome što je duša, ili pak po tome što je tijelo*. I kaže: *Ako kažemo da je Riječ Božja položila dušu, slijedilo bi da je ona duša nekad bila odvojena od Riječi. A to je lažno. Smrt je, naime, odvojila tijelo od duše, ali ne kažem da je duša bila odvojena od Riječi. Ako pak kažemo da duša sama sebe polaže, slijedi da se ona sama od sebe odvaja. A to je posve besmisleno*. Preostaje, dakle, da samo tijelo polaže svoju dušu i ponovno je *uzima, ne svojom moći, nego moću Riječi koja prebiva u tijelu*, jer, kao što je gore rečeno, smrću božanstvo Riječi nije odvojeno od tijela.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a3.ad2": {
+      "text": "Na drugo treba reći da Atanazije onim riječima nije mislio da je cijeli čovjek ponovno uzet, to jest svi njegovi dijelovi, kao da je Riječ Božja smrću odložila dijelove ljudske naravi, nego da je cjelovitost uzete naravi u uskrsnuću opet uspostavljena ponovljenim sjedinjenjem duše i tijela.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a3.ad3": {
+      "text": "Na treće treba reći da se Riječ Božja zbog sjedinjenja ljudske naravi ne naziva ljudskom naravlju, nego se naziva čovjekom, a to je onaj koji ima ljudsku narav. A duša i tijelo bitni su dijelovi ljudske naravi. Zato iz sjedinjenja Riječi s jednim i s drugim od njih ne slijedi da je Riječ Božja duša ili tijelo, nego da je ona koja ima dušu ili tijelo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a3.ad4": {
+      "text": "Na četvrto treba reći da, kako kaže Damaščanin u III. knjizi, *time što je u Kristovoj smrti duša odvojena od tijela, jedna hipostaza nije razdijeljena u dvije hipostaze. I tijelo, naime, i duša imali su na isti način od početka postojanje u hipostazi Riječi, i u smrti, odijeljeni jedno od drugoga, svako je od njih ostalo imajući jednu hipostazu Riječi. Stoga je jedna hipostaza Riječi bila hipostaza i Riječi i duše i tijela. Nikada, naime, ni duša ni tijelo nisu imali vlastitu hipostazu osim hipostaze Riječi. Jedna je, naime, uvijek hipostaza Riječi, a nikada dvije*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je Krist u tri dana smrti bio čovjek. Augustin, naime, kaže u I. knjizi O Trojstvu: *Takvo je bilo ono primanje koje je Boga činilo čovjekom i čovjeka Bogom*. Ali to primanje nije prestalo smrću. Dakle, čini se da smrću nije prestao biti čovjek.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a4.obj2": {
+      "text": "Osim toga, Filozof kaže u IX. knjizi Etike da je *svaki čovjek svoj um*. Zato i nakon smrti, obraćajući se Petrovoj duši, kažemo: *Sveti Petre, moli za nas*. Ali nakon smrti Sin Božji nije bio odvojen od umske duše. Dakle, u ona tri dana Sin Božji bio je čovjek.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a4.obj3": {
+      "text": "Osim toga, svaki je svećenik čovjek. Ali u ona tri dana smrti Krist je bio svećenik; inače ne bi bilo istinito ono što se kaže u Psalmu: *Ti si svećenik zauvijek*. Dakle, Krist je u ona tri dana bio čovjek.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a4.sc": {
+      "text": "Ali protiv toga: kad se ukloni nadređeno, uklanja se i podređeno. A živo, ili ono što ima dušu, nadređeno je životinji i čovjeku, jer je životinja osjetna supstancija koja ima dušu. Ali u ona tri dana smrti Kristovo tijelo nije bilo živo niti je imalo dušu. Dakle, nije bio čovjek.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a4.resp": {
+      "text": "Odgovaram: treba reći da je članak vjere da je Krist uistinu bio mrtav. Zato je zabluda protiv vjere tvrditi bilo što čime se ukida istinitost Kristove smrti. Stoga se u Ćirilovu sinodskom pismu kaže: *Ako tko ne ispovijeda da je Božja Riječ trpjela tijelom i bila razapeta tijelom i okusila smrt tijelom, neka bude anatema*. A istinitosti smrti čovjeka ili životinje pripada to da smrću prestaje biti čovjek ili životinja; smrt čovjeka ili životinje, naime, nastaje odvajanjem duše, koja dovršava pojam životinje ili čovjeka. Zato je reći da je Krist u tri dana smrti bio čovjek, govoreći naprosto i apsolutno, pogrešno. Ipak se može reći da je Krist u ona tri dana bio mrtav čovjek. Neki su, međutim, ispovijedali da je Krist u ona tri dana bio čovjek, izgovarajući doduše pogrešne riječi, ali ne imajući pogrešnog smisla u vjeri, kao Hugo od Svetoga Viktora, koji je rekao da je Krist u tri dana smrti bio čovjek s toga razloga što je govorio da je duša čovjek. A to je ipak lažno, kao što je pokazano u Prvom dijelu. I Učitelj Sentencija, u XXII. distinkciji III. knjige, postavio je da je Krist u tri dana smrti bio čovjek, s drugog razloga, jer je vjerovao da sjedinjenje duše i tijela ne pripada pojmu čovjeka, nego da je za to da nešto bude čovjek dovoljno da ima ljudsku dušu i tijelo, bilo spojene bilo nespojene. A i to je očito lažno iz onoga što je rečeno u Prvom dijelu i iz onoga što je rečeno o načinu sjedinjenja.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Riječ Božja primila dušu i tijelo sjedinjene, i zato je to primanje učinilo Boga čovjekom i čovjeka Bogom. To primanje nije prestalo odvajanjem Riječi od duše ili od tijela, ali je prestalo sjedinjenje tijela i duše.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a4.ad2": {
+      "text": "Na drugo treba reći da se za čovjeka kaže da je svoj um ne zato što bi um bio cijeli čovjek, nego zato što je um glavniji dio čovjeka, u kojem virtualno postoji sav raspored čovjeka, kao kad bi se za upravitelja grada reklo da je cijeli grad, jer se u njemu sastoji sav raspored grada.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a4.ad3": {
+      "text": "Na treće treba reći da biti svećenikom pripada čovjeku zbog duše, u kojoj je biljeg reda. Zato čovjek smrću ne gubi svećenički red. A još mnogo manje Krist, koji je izvor svega svećeništva.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da tijelo živoga i mrtvoga Krista nije bilo brojčano isto. Krist je, naime, uistinu umro, kao što umiru i ostali ljudi. Ali tijelo bilo kojega drugog čovjeka nije naprosto brojčano isto mrtvo i živo, jer se razlikuju bitnom razlikom. Dakle, ni Kristovo tijelo nije naprosto brojčano isto mrtvo i živo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a5.obj2": {
+      "text": "Osim toga, prema Filozofu, u V. knjizi Metafizike, što god je različito po vrsti, različito je i po broju. Ali Kristovo tijelo živo i mrtvo bilo je različito po vrsti, jer se oko ili meso mrtvaca tako naziva samo dvoznačno, kao što je jasno kod Filozofa, i u II. knjizi O duši i u VII. knjizi Metafizike. Dakle, Kristovo tijelo nije bilo naprosto brojčano isto živo i mrtvo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a5.obj3": {
+      "text": "Osim toga, smrt je neko propadanje. Ali ono što propada supstancijalnim propadanjem, nakon što je propalo, više ne postoji, jer je propadanje promjena iz bitka u nebitak. Dakle, Kristovo tijelo, nakon što je umrlo, nije ostalo brojčano isto, budući da je smrt supstancijalno propadanje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a5.sc": {
+      "text": "Ali protiv toga je ono što kaže Atanazije u Pismu Epiktetu: *Dok je tijelo bilo obrezano, napajano, dok je jelo i trudilo se i bilo pribijeno na drvo, bila je ondje netrpna i netjelesna Riječ Božja; to je tijelo bilo položeno u grob*. Ali živo je Kristovo tijelo bilo obrezano i pribijeno na drvo, a mrtvo je Kristovo tijelo bilo položeno u grob. Dakle, to isto tijelo koje je bilo živo bilo je i mrtvo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a5.resp": {
+      "text": "Odgovaram: treba reći da se ovo što kažem „naprosto“ može uzeti na dva načina. Na jedan način tako da je naprosto isto što i apsolutno, kao što se, kako kaže Filozof, *naprosto kaže ono što se kaže bez ikakva dodatka*. I na taj je način Kristovo tijelo mrtvo i živo bilo naprosto brojčano isto. Za nešto se, naime, kaže da je naprosto brojčano isto zato što je isto po supozitu. A Kristovo tijelo živo i mrtvo bilo je isto po supozitu, jer ni živo ni mrtvo nije imalo druge hipostaze osim hipostaze Riječi Božje, kao što je gore rečeno. I na taj način govori Atanazije u navedenom navodu. Na drugi način, naprosto je isto što i posve ili potpuno. I tako Kristovo tijelo mrtvo i živo nije bilo naprosto brojčano isto. Jer nije bilo potpuno isto, budući da je život nešto što pripada biti živoga tijela; on je, naime, bitni, a ne akcidentalni pririk; stoga slijedi da tijelo koje prestaje biti živo ne ostaje potpuno isto. A kad bi se reklo da je mrtvo Kristovo tijelo ostalo potpuno isto, slijedilo bi da nije propalo, mislim propadanjem smrti. A to je hereza gajanita, kako kaže Izidor i kako se nalazi u Dekretima, XXIV, pit. 3. I Damaščanin kaže u III. knjizi da *ime propadanja označuje dvoje: na jedan način odvajanje duše od tijela i drugo takvo; na drugi način potpuno raspadanje na elemente. Stoga je bezbožno, s Julijanom i Gajanom, nazivati Gospodinovo tijelo nepropadljivim prije uskrsnuća po prvom načinu propadanja, jer Kristovo tijelo ne bi bilo istobitno s nama, niti bi uistinu bilo mrtvo, niti bismo uistinu bili spaseni. Ali na drugi način Kristovo tijelo nije podleglo propadanju*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da mrtvo tijelo bilo kojega drugog čovjeka ne ostaje sjedinjeno ni s kakvom trajnom hipostazom, kao mrtvo Kristovo tijelo. Zato mrtvo tijelo bilo kojega drugog čovjeka nije isto naprosto, nego u nekom pogledu, jer je isto po tvari, ali nije isto po formi. A Kristovo tijelo ostaje isto naprosto zbog istovjetnosti supozita, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a5.ad2": {
+      "text": "Na drugo treba reći da, budući da se nešto naziva brojčano istim po supozitu, a isto po vrsti jest isto po formi, svugdje gdje supozit samostoji u samo jednoj naravi, nužno je da se, kad se ukloni jedinstvo vrste, ukloni i brojčano jedinstvo. Ali hipostaza Riječi Božje samostoji u dvjema naravima. I zato, premda u drugima tijelo ne ostaje isto po vrsti ljudske naravi, ipak u Kristu ostaje brojčano isto po supozitu Riječi Božje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a5.ad3": {
+      "text": "Na treće treba reći da propadanje i smrt ne pripadaju Kristu zbog supozita, po kojem se gleda brojčano jedinstvo, nego zbog ljudske naravi, po kojoj se u Kristovu tijelu nalazi razlika smrti i života.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da Kristova smrt nije ništa učinila za naše spasenje. Smrt je, naime, neka lišenost: ona je, naime, lišenost života. Ali lišenost, budući da nije nikakva stvar, nema nikakve snage djelovanja. Dakle, nije mogla ništa učiniti za naše spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a6.obj2": {
+      "text": "Osim toga, Kristova je muka djelovala za naše spasenje na način zasluge. Ali tako nije mogla djelovati Kristova smrt, jer se u smrti od tijela odjeljuje duša, koja je počelo zasluživanja. Dakle, Kristova smrt nije ništa učinila za naše spasenje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a6.obj3": {
+      "text": "Osim toga, tjelesno nije uzrok duhovnoga. Ali Kristova je smrt bila tjelesna. Dakle, nije mogla biti duhovni uzrok našega spasenja.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a6.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u IV. knjizi O Trojstvu: jedna smrt našega Spasitelja, naime tjelesna, bila je na spasenje dvjema našim smrtima, to jest smrti duše i smrti tijela.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a6.resp": {
+      "text": "Odgovaram: treba reći da o Kristovoj smrti možemo govoriti na dva načina: na jedan način, ukoliko je u nastajanju; na drugi način, ukoliko je dovršena. Za smrt se pak kaže da je u nastajanju kada netko po nekoj trpnji, bilo naravnoj bilo nasilnoj, ide prema smrti. Na taj je način isto govoriti o Kristovoj smrti i o njegovoj muci. I tako je, prema tom načinu, Kristova smrt uzrok našega spasenja, prema onome što je gore rečeno o muci. Ali kao dovršena smrt se razmatra ukoliko je već nastupilo odjeljivanje tijela i duše. I tako sada govorimo o Kristovoj smrti. Na taj pak način Kristova smrt ne može biti uzrok našega spasenja na način zasluge, nego samo na način djelotvornosti, ukoliko, naime, ni smrću božanstvo nije odijeljeno od Kristova tijela; i zato je sve što se zbilo s Kristovim tijelom, čak i dok je duša bila odijeljena, bilo za nas spasonosno snagom sjedinjenoga božanstva. Učinak nekog uzroka razmatra se pak u vlastitom smislu prema sličnosti s uzrokom. Stoga, budući da je smrt neka lišenost vlastitoga života, učinak Kristove smrti promatra se u uklanjanju onoga što se protivi našemu spasenju, a to su smrt duše i smrt tijela. I zato se kaže da su Kristovom smrću u nama uništene i smrt duše, koja dolazi po grijehu, prema onome iz Rim 4: predan je, naime u smrt, zbog naših prijestupa; i smrt tijela, koja se sastoji u odjeljivanju duše, prema onome iz 1 Kor 15: *proždrta je smrt u pobjedi*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Kristova smrt izvršila naše spasenje snagom sjedinjenoga božanstva, a ne samo po tome što je smrt.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a6.ad2": {
+      "text": "Na drugo treba reći da Kristova smrt, ukoliko se razmatra kao dovršena, premda nije djelovala za naše spasenje na način zasluge, ipak je djelovala na način djelotvornosti, kao što je rečeno.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    },
+    "III.q50.a6.ad3": {
+      "text": "Na treće treba reći da je Kristova smrt doduše bila tjelesna, ali je ono tijelo bilo oruđe božanstva sjedinjenoga s njim, koje je djelovalo njegovom snagom i kad je bilo mrtvo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:43+00:00"
+    }
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 36,
+  "units": {
+    "III.q36.pr": {
+      "text": "Zatim treba razmotriti očitovanje rođenoga Krista. I glede toga postavlja se osam pitanja. Prvo, je li Kristovo rođenje trebalo biti očito svima. Drugo, je li ga trebalo očitovati nekima. Treće, kojima ga je trebalo očitovati. Četvrto, je li ga on sam trebao očitovati ili ga je radije trebalo očitovati po drugima. Peto, po čemu drugome ga je trebalo očitovati. Šesto, o redu očitovanja. Sedmo, o zvijezdi po kojoj je njegovo rođenje bilo očitovano. Osmo, o štovanju mudraca, koji su po zvijezdi spoznali Kristovo rođenje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q36.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da je Kristovo rođenje trebalo biti očito svima. Jer ispunjenje mora odgovarati obećanju. Ali o obećanju Kristova dolaska kaže se u Psalmu: *Bog će doći očito*. A došao je po tjelesnom rođenju. Dakle, čini se da je njegovo rođenje trebalo biti očito svemu svijetu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a1.obj2": {
+      "text": "Osim toga, u 1 Tim 1 kaže se: *Krist je došao na ovaj svijet spasiti grešnike*. Ali to se ne događa osim ukoliko im se očituje Kristova milost, prema onome iz Tit 2: *pojavila se milost Spasitelja našega Boga svim ljudima, poučavajući nas da, odrekavši se bezbožnosti i svjetovnih želja, trijezno, pobožno i pravedno živimo u ovom svijetu*. Dakle, čini se da je Kristovo rođenje trebalo biti očito svima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a1.obj3": {
+      "text": "Osim toga, Bog je iznad svega skloniji smilovanju, prema onome iz Psalma: *njegova su smilovanja nad svim njegovim djelima*. Ali u drugom dolasku, u kojem će suditi pravednosti, doći će očit svima, prema onome iz Mt 24: *kao što munja izlazi s istoka i pokazuje se sve do zapada, tako će biti dolazak Sina Čovječjega*. Dakle, mnogo je više prvi dolazak, u kojem se rodio na svijet po tijelu, trebao biti očit svima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a1.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iz 45: *ti si Bog skriveni, Sveti Izraelov, Spasitelj*. I u Iz 53: *lice mu je kao skriveno i prezreno*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a1.resp": {
+      "text": "Odgovaram: treba reći da Kristovo rođenje nije trebalo biti očito svima zajedno. Prvo, zato što bi time bilo spriječeno ljudsko otkupljenje, koje je izvršeno njegovim križem, jer, kako se kaže u 1 Kor 2, *da su spoznali, nikada ne bi razapeli Gospodina slave*. Drugo, zato što bi to umanjilo zaslugu vjere, po kojoj je došao opravdati ljude, prema onome iz Rim 3: *pravednost Božja po vjeri Isusa Krista*. Jer kad bi se, dok se Krist rađao, njegovo rođenje po očitim znakovima pokazalo svima, već bi se ukinuo pojam vjere, koja je *dokaz onoga što se ne vidi*, kako se kaže u Heb 11. Treće, zato što bi time došla u sumnju istina njegova čovještva. Stoga Augustin kaže u poslanici Volusijanu: *kad ne bi od djetinjstva do mladosti mijenjao dobi, kad ne bi uzimao nikakve hrane, nikakva sna, ne bi li potvrdio mnijenje zablude, te se ne bi vjerovalo da je na bilo koji način uzeo pravoga čovjeka, i, dok sve čini čudesno, ne bi li uklonio ono što je učinio milosrdno?*",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se onaj navod shvaća o Kristovu dolasku na sud, kako ga ondje tumači Glosa.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a1.ad2": {
+      "text": "Na drugo treba reći da je sve ljude trebalo poučiti za spasenje o milosti Boga Spasitelja, ne na samom početku njegova rođenja, nego poslije, kako je vrijeme odmicalo, pošto je izvršio spasenje posred zemlje. Stoga je nakon svoje muke i uskrsnuća rekao učenicima, u Mt 28: *idite, naučavajte sve narode*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a1.ad3": {
+      "text": "Na treće treba reći da se za sud traži da se spozna autoritet suca, i zbog toga treba da Kristov dolazak na sud bude očit. Ali prvi je dolazak bio radi spasenja svih, koje je po vjeri, a vjera je o onome što se ne vidi. I zato je prvi Kristov dolazak trebao biti skriven.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Kristovo rođenje nije trebalo nikome biti očitovano. Jer, kako je rečeno, ljudskom je spasenju bilo prikladno da prvi Kristov dolazak bude skriven. Ali Krist je došao da spasi sve, prema onome iz 1 Tim 4: *koji je Spasitelj svih ljudi, osobito vjernika*. Dakle, Kristovo rođenje nije trebalo nikome biti očitovano.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a2.obj2": {
+      "text": "Osim toga, prije Kristova rođenja Blaženoj Djevici i Josipu bilo je očitovano buduće Kristovo rođenje. Dakle, nije bilo potrebno da se, kad se Krist rodio, to isto očituje drugima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a2.obj3": {
+      "text": "Osim toga, nijedan mudar čovjek ne očituje ono iz čega nastaje uznemirenost i šteta drugih. Ali kad je Kristovo rođenje bilo očitovano, uslijedila je uznemirenost; jer u Mt 2 kaže se da se kralj Herod, čuvši za Kristovo rođenje, uznemirio, i sav Jeruzalem s njime. To se također okrenulo na štetu drugih, jer je tom prigodom Herod *pobio dječake u Betlehemu i u svoj njegovoj okolici od dvije godine naniže*. Dakle, čini se da nije bilo prikladno da se Kristovo rođenje očituje nekima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a2.sc": {
+      "text": "Ali protiv toga je to što Kristovo rođenje nikome ne bi bilo od koristi kad bi bilo skriveno svima. A trebalo je da Kristovo rođenje bude od koristi, inače bi se uzalud rodio. Dakle, čini se da je Kristovo rođenje trebalo nekima biti očitovano.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a2.resp": {
+      "text": "Odgovaram: treba reći da, kako kaže Apostol u Rim 13, *ono što je od Boga, uređeno je*. A pripada redu božanske mudrosti da Božji darovi i tajne njegove mudrosti ne dolaze jednako do svih, nego neposredno do nekih, a po njima se prenose na druge. Stoga se i glede otajstva uskrsnuća kaže u Dj 10 da je Bog dao da uskrsli Krist postane očit *ne svemu narodu, nego svjedocima koje je Bog unaprijed odredio*. Stoga je to trebalo obdržati i glede njegova rođenja: da se Krist ne očituje svima, nego nekima, po kojima bi to moglo doći do drugih.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što bi bilo na uštrb ljudskom spasenju da je Božje rođenje postalo poznato svim ljudima, tako bi bilo i da nije bilo poznato nikome. Jer na oba se načina ukida vjera: kako time što je nešto posve očito, tako i time što to ne spoznaje nitko od koga bi se moglo čuti svjedočanstvo; jer vjera je od slušanja, kako se kaže u Rim 10.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a2.ad2": {
+      "text": "Na drugo treba reći da je Mariju i Josipa trebalo poučiti o Kristovu rođenju prije nego što se rodio, jer im je pripadalo da iskazuju poštovanje djetetu začetom u utrobi i da služe onomu koje se imalo roditi. Ali njihovo bi se svjedočanstvo, zbog toga što je bilo kućno, smatralo sumnjivim glede Kristove veličanstvenosti. I zato je trebalo da se očituje drugima, strancima, čije svjedočanstvo nije moglo biti sumnjivo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a2.ad3": {
+      "text": "Na treće treba reći da je i sama uznemirenost koja je uslijedila nakon što je Kristovo rođenje bilo očitovano bila primjerena Kristovu rođenju. Prvo, zato što se time očituje Kristovo nebesko dostojanstvo. Stoga Grgur kaže u homiliji: *kad se rodio Kralj neba, uznemiruje se kralj zemlje, jer se, dakako, zemaljska visina zbunjuje kad se otkriva nebeska uzvišenost*. Drugo, zato što se time predslikovala Kristova sudačka vlast. Stoga Augustin kaže u nekom govoru na Bogojavljenje: *kakav će biti sudački stolac onoga koji sudi, kad je kolijevka djeteta plašila ohole kraljeve?* Treće, zato što se time predslikovalo rušenje đavlova kraljevstva. Jer, kako kaže papa Leon u govoru na Bogojavljenje, *nije se toliko Herod uznemirio u sebi koliko đavao u Herodu. Jer Herod je u njemu gledao čovjeka, a đavao Boga. I obojica su se bojala nasljednika svojega kraljevstva: đavao nebeskoga, a Herod zemaljskoga*. Ali uzalud, jer Krist nije došao imati zemaljsko kraljevstvo na zemlji, kako kaže papa Leon, obraćajući se Herodu: *ne obuhvaća Krista tvoj dvor, niti se Gospodar svijeta zadovoljava tjesnoćom žezla tvoje vlasti*. A što se uznemiruju Židovi, koji su se ipak radije trebali radovati, to je ili zato što, kako kaže Zlatousti, *bezakonici se nisu mogli radovati dolasku pravednika*, ili zato što su htjeli ugoditi Herodu, kojega su se bojali; *jer narod više nego što je pravo ugađa onima koje kao okrutne podnosi*. A što je Herod pobio dječake, nije se okrenulo na njihovu štetu, nego na njihov probitak. Jer Augustin kaže u nekom govoru o Bogojavljenju: *daleko bilo da Krist, došavši osloboditi ljude, nije ništa učinio za nagradu onih koji će za njega biti ubijeni, on koji je, viseći na drvu, molio za one od kojih je bio ubijan*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da nisu prikladno izabrani oni kojima je Kristovo rođenje očitovano. Jer Gospodin je u Mt 10 naložio učenicima: na put k poganima ne idite, to jest da bi se prije očitovalo Židovima nego poganima. Dakle, čini se da je još mnogo manje Kristovo rođenje od početka trebalo objaviti poganima, koji su došli s istoka, kako stoji u Mt 2.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.obj2": {
+      "text": "Osim toga, očitovanje božanske istine ponajprije treba biti upućeno Božjim prijateljima, prema onome iz Job 37: *navješćuje o njoj svojemu prijatelju*. Ali čini se da su mudraci Božji neprijatelji; jer u Lev 19 kaže se: *ne obraćajte se magima i ne raspitujte se ništa kod vračara*. Dakle, Kristovo rođenje nije trebalo očitovati mudracima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.obj3": {
+      "text": "Osim toga, Krist je došao osloboditi sav svijet od đavlove vlasti; stoga se kaže u Mal 1: *od izlaska sunca do zalaska veliko je ime moje među narodima*. Dakle, nije ga trebalo očitovati samo onima koji su bili na istoku, nego ga je trebalo očitovati nekima posvuda po zemlji.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.obj4": {
+      "text": "Osim toga, svi su sakramenti Staroga zakona bili predslika Krista. Ali sakramenti Staroga zakona dijelili su se službom svećenika Zakona. Dakle, čini se da je Kristovo rođenje prije trebalo očitovati svećenicima u Hramu nego pastirima u polju.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.obj5": {
+      "text": "Osim toga, Krist se rodio od majke djevice i po dobi je bio malo dijete. Dakle, čini se da bi bilo prikladnije da se Krist očituje mladićima i djevicama nego starcima i oženjenima ili udovicama, kao Šimunu i Ani.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Iv 13: *ja znam koje sam izabrao*. A ono što se čini po Božjoj mudrosti, čini se prikladno. Dakle, prikladno su izabrani oni kojima je Kristovo rođenje očitovano.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.resp": {
+      "text": "Odgovaram: treba reći da se spasenje koje je imalo doći po Kristu ticalo svake raznolikosti ljudi, jer, kako se kaže u Kol 3, *u Kristu nema muškoga i ženskoga, pogana i Židova, roba i slobodnjaka*, i tako o drugim takvim razlikama. I da bi se to predočilo već u samom Kristovu rođenju, očitovan je ljudima svakoga stanja. Jer, kako kaže Augustin u govoru o Bogojavljenju, *pastiri su bili Izraelci, mudraci pogani. Oni blizu, ovi daleko. Jedni i drugi pritekoše kao k zaglavnom kamenu*. Među njima je bila i druga raznolikost: mudraci su bili učeni i moćni, a pastiri jednostavni i niska roda. Očitovan je također pravednicima, Šimunu i Ani, i grešnicima, naime mudracima; očitovan je i muškarcima i ženama, naime Ani; da bi se time pokazalo da nijedno stanje ljudi nije isključeno iz Kristova spasenja.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da je ono očitovanje Kristova rođenja bilo neko predokušanje punoga očitovanja koje je imalo doći. I kao što je u drugom očitovanju Kristova milost po Kristu i njegovim apostolima najprije navještena Židovima, a poslije poganima, tako su ka Kristu najprije došli pastiri, koji su bili prvine Židova, kao oni koji su bili blizu; a poslije su izdaleka došli mudraci, koji su bili prvine pogana, kako kaže Augustin.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.ad2": {
+      "text": "Na drugo treba reći da, kako kaže Augustin u govoru o Bogojavljenju, *kao što prevladava neukost u priprostosti pastira, tako prevladava bezbožnost u svetogrđima maga. Ali jedne i druge pripojio je sebi onaj zaglavni kamen, koji je, dakako, došao izabrati ono što je ludo da posrami mudre, i ne zvati pravednike, nego grešnike; da se nijedan veliki ne uzoholi, nijedan slabi ne očajava*. Neki ipak kažu da ti mudraci nisu bili čarobnjaci, nego mudri astrolozi, koji se kod Perzijanaca ili Kaldejaca nazivaju magima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.ad3": {
+      "text": "Na treće treba reći da, kako kaže Zlatousti, *mudraci su došli s istoka, jer odakle se rađa dan, odande je potekao početak vjere, jer je vjera svjetlo duša. Ili zato što svi koji dolaze Kristu, od njega i po njemu dolaze*; stoga se kaže u Zah 6: *evo čovjeka, Istok mu je ime*. A za njih se kaže da su doslovno došli s istoka, ili zato što su došli iz najudaljenijih istočnih krajeva, prema nekima, ili zato što su došli iz nekih susjednih krajeva Judeje, koji ipak leže istočno od zemlje Židova. Ipak je vjerojatno da su se i u drugim dijelovima svijeta pojavili neki znakovi Kristova rođenja, kao što je u Rimu poteklo ulje, a u Španjolskoj su se pojavila tri sunca koja su se postupno stapala u jedno.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.ad4": {
+      "text": "Na četvrto treba reći da, kako kaže Zlatousti, anđeo koji je očitovao Kristovo rođenje nije otišao u Jeruzalem, nije potražio pismoznance i farizeje, jer su bili pokvareni i izjedali su se od zavisti. A pastiri su bili iskreni, njegujući drevni način života patrijarha i Mojsija. Po tim su se pastirima također označivali crkveni naučitelji, kojima se objavljuju Kristova otajstva, koja su bila skrivena Židovima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a3.ad5": {
+      "text": "Na peto treba reći da, kako kaže Ambrozije, *Gospodinovo rođenje trebalo je primiti svjedočanstvo ne samo od pastira nego i od staraca i pravednika*, čijem se svjedočanstvu, zbog njihove pravednosti, više vjerovalo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da je Krist trebao sam po sebi očitovati svoje rođenje. Jer *uzrok koji je po sebi uvijek je jači od onoga koji je po drugome*, kako se kaže u VIII. knjizi Fizike. Ali Krist je svoje rođenje očitovao po drugima, naime pastirima po anđelima, a mudracima po zvijezdi. Dakle, mnogo je više trebao svoje rođenje očitovati sam po sebi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a4.obj2": {
+      "text": "Osim toga, u Sir 20 kaže se: *skrivena mudrost i nevidljivo blago, kakva je korist od jednoga i drugoga?* Ali Krist je od početka svojega začeća u punini imao blago mudrosti i milosti. Ako, dakle, ne bi tu puninu očitovao djelima i riječima, uzalud bi mu bile dane mudrost i milost. A to je neprikladno, jer *Bog i priroda ne čine ništa uzalud*, kako se kaže u I. knjizi O nebu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a4.obj3": {
+      "text": "Osim toga, u knjizi O Spasiteljevu djetinjstvu čita se da je Krist u svojem djetinjstvu učinio mnoga čudesa. I tako se čini da je svoje rođenje očitovao sam po sebi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a4.sc": {
+      "text": "Ali protiv toga je ono što kaže papa Leon, da su mudraci našli dijete Isusa ni po čemu različito od općenitosti ljudskoga djetinjstva. A druga djeca ne očituju sama sebe. Dakle, nije ni dolikovalo da Krist sam po sebi očituje svoje rođenje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a4.resp": {
+      "text": "Odgovaram: treba reći da je Kristovo rođenje bilo usmjereno prema ljudskom spasenju, koje je po vjeri. A spasonosna vjera ispovijeda Kristovo božanstvo i čovještvo. Trebalo je, dakle, Kristovo rođenje očitovati tako da dokazivanje njegova božanstva ne bude na uštrb vjeri u njegovo čovještvo. A to se dogodilo time što je Krist u sebi pokazao sličnost ljudske slabosti, a ipak je po Božjim stvorovima pokazao da je u njemu snaga božanstva. I zato Krist nije svoje rođenje očitovao sam po sebi, nego po nekim drugim stvorovima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da se na putu nastajanja i gibanja mora preko nesavršenoga doći do savršenoga. I zato je Krist najprije bio očitovan po drugim stvorovima, a poslije je sam sebe očitovao savršenim očitovanjem.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a4.ad2": {
+      "text": "Na drugo treba reći da, premda je skrivena mudrost beskorisna, ipak mudromu ne pripada da se očituje u bilo koje vrijeme, nego u prikladno vrijeme; jer u Sir 20 kaže se: *ima tko šuti jer nema smisla za govor, a ima tko šuti jer zna vrijeme prikladnoga vremena*. Tako, dakle, mudrost dana Kristu nije bila beskorisna, jer je samu sebe očitovala u prikladno vrijeme. I upravo to što je u prikladno vrijeme bila skrivena, znak je mudrosti.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a4.ad3": {
+      "text": "Na treće treba reći da je ona knjiga O Spasiteljevu djetinjstvu apokrifna. A Zlatousti, o Ivanu, kaže da Krist nije činio čudesa prije nego što je vodu pretvorio u vino, prema onome što se kaže u Iv 2: *taj početak znamenja učini Isus. Jer da je u ranoj dobi činio čudesa, Izraelcima ne bi bio potreban drugi da ga očituje, a ipak Ivan Krstitelj kaže*, u Iv 1: *da bi se očitovao Izraelu, zato sam došao krstiti vodom. Dolično pak nije počeo činiti znamenja u ranoj dobi. Jer bi smatrali da je utjelovljenje privid, i prije prikladnoga vremena predali bi ga na križ, izjedeni zavišću*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da Kristovo rođenje nije trebalo očitovati po anđelima. Jer anđeli su duhovne supstancije, prema onome iz Psalma: *koji čini anđele svoje duhovima*. Ali Kristovo je rođenje bilo po tijelu, a ne po njegovoj duhovnoj supstanciji. Dakle, nije ga trebalo očitovati po anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a5.obj2": {
+      "text": "Osim toga, pravednici su srodniji anđelima nego bilo kojim drugima, prema onome iz Psalma: *anđeo Gospodnji postavit će se uokolo onih koji ga se boje i izbavit će ih*. Ali pravednicima, naime Šimunu i Ani, Kristovo rođenje nije očitovano po anđelima. Dakle, ni pastirima ga nije trebalo očitovati po anđelima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a5.obj3": {
+      "text": "Isto tako, čini se da ga ni mudracima nije trebalo očitovati po zvijezdi. Jer čini se da je to povod zabludi za one koji smatraju da zvijezde gospodare rođenjima ljudi. A ljudima treba ukloniti povode za grijeh. Dakle, nije bilo prikladno da se Kristovo rođenje očituje po zvijezdi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a5.obj4": {
+      "text": "Osim toga, znak mora biti siguran da bi se po njemu nešto očitovalo. Ali zvijezda, čini se, nije siguran znak Kristova rođenja. Dakle, Kristovo je rođenje neprikladno očitovano po zvijezdi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a5.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Pnz 32: *Božja su djela savršena*. A takvo je očitovanje bilo božansko djelo. Dakle, ostvareno je prikladnim znakovima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a5.resp": {
+      "text": "Odgovaram: treba reći da, kao što se silogističko očitovanje čini po onome što je poznatije onomu kome nešto treba očitovati, tako se i očitovanje koje se čini znakovima mora činiti po onome što je blisko onima kojima se očituje. A očito je da je pravednim ljudima blisko i uobičajeno da ih poučava unutarnji poticaj Duha Svetoga, bez pokazivanja osjetnih znakova, naime po duhu proroštva. Drugi pak, predani tjelesnim stvarima, po osjetnome bivaju dovedeni do umljivoga. Židovi su ipak bili navikli primati božanske odgovore po anđelima, po kojima su primili i Zakon, prema onome iz Dj 7: primili ste Zakon po naredbi anđela. A pogani, i ponajviše astrolozi, navikli su promatrati tijek zvijezda. I zato je pravednicima, naime Šimunu i Ani, Kristovo rođenje očitovano po unutarnjem poticaju Duha Svetoga, prema onome iz Lk 2: *primio je od Duha Svetoga odgovor da neće vidjeti smrti dok prije ne vidi Krista Gospodnjega*. A pastirima i mudracima, kao onima koji su bili predani tjelesnim stvarima, Kristovo je rođenje očitovano vidljivim ukazanjima. A budući da rođenje nije bilo čisto zemaljsko, nego na neki način nebesko, zato se jednima i drugima Kristovo rođenje objavljuje nebeskim znakovima; jer, kako kaže Augustin u govoru o Bogojavljenju, *nebesa nastavaju anđeli, a krase ih zvijezde: dakle jednima i drugima nebesa kazuju slavu Božju*. Razložno je pak pastirima, kao Židovima, kod kojih su se često događala ukazanja anđela, Kristovo rođenje objavljeno po anđelima, a mudracima, naviklima na promatranje nebeskih tijela, očitovano je znakom zvijezde. Jer, kako kaže Zlatousti, *Gospodin ih je htio pozvati po onome na što su navikli, spuštajući se k njima*. Ima i drugi razlog. Jer, kako kaže Grgur, *Židovima je, kao onima koji se služe razumom, trebalo propovijedati razumno živo biće, to jest anđeo. A pogani, koji se nisu znali služiti razumom da bi spoznali Boga, bivaju dovedeni ne glasom, nego znakovima. I kao što su Gospodina, kad je već govorio, poganima navijestili propovjednici koji govore, tako su ga, dok još nije govorio, propovijedale nijeme stihije*. Ima i drugi razlog. Jer, kako kaže Augustin u govoru na Bogojavljenje, *Abrahamu je bilo obećano nebrojeno potomstvo, koje se nije imalo roditi sjemenom tijela, nego plodnošću vjere. I zato je uspoređeno s mnoštvom zvijezda, da bi se nadalo nebeskom potomstvu*. I zato se pogani, označeni zvijezdama, izlaskom nove zvijezde potiču da dođu do Krista, po kojem postaju sjeme Abrahamovo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da očitovanje treba ono što je samo po sebi skriveno, a ne ono što je samo po sebi očito. A tijelo onoga koji se rađao bilo je očito, ali je božanstvo bilo skriveno. I zato je to rođenje prikladno očitovano po anđelima, koji su Božji službenici. Stoga se anđeo i ukazao u sjaju, da bi se pokazalo da je onaj koji se rađao odsjaj Očeve slave.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a5.ad2": {
+      "text": "Na drugo treba reći da pravednicima nije bilo potrebno vidljivo ukazanje anđela, nego im je bio dostatan unutarnji poticaj Duha Svetoga, zbog njihove savršenosti.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a5.ad3": {
+      "text": "Na treće treba reći da je zvijezda koja je očitovala Kristovo rođenje uklonila svaki povod zabludi. Jer, kako kaže Augustin, Protiv Fausta, *nijedan astrolog nije tako podvrgao zvijezdama sudbine ljudi koji se rađaju da bi tvrdio kako je neka od zvijezda, kad se rodio neki čovjek, napustila red svojega kruženja i pošla k onomu koji se rodio*, kako se dogodilo sa zvijezdom koja je pokazala Kristovo rođenje. I zato se time ne potvrđuje zabluda onih koji *smatraju da je udes ljudi koji se rađaju vezan uz red zvijezda, a ne vjeruju da se red zvijezda može promijeniti zbog čovjekova rođenja*. Slično, kako kaže Zlatousti, *nije djelo astronomije iz zvijezda saznati one koji se rađaju, nego iz sata rođenja proricati budućnost. A mudraci nisu spoznali vrijeme rođenja da bi, polazeći odatle, iz gibanja zvijezda spoznali budućnost, nego upravo obrnuto*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a5.ad4": {
+      "text": "Na četvrto treba reći da, kako izvješćuje Zlatousti, u nekim se apokrifnim spisima čita da je neki narod na krajnjem istoku, uz Ocean, imao neki spis, nazvan po Setovu imenu, o toj zvijezdi i o takvim darovima koje treba prinijeti. Taj je narod pomno motrio izlazak te zvijezde, postavivši dvanaest izvidnika, koji su se u određena vremena s predanošću penjali na goru. Na njoj su je poslije ugledali kako u sebi ima kao lik djeteta, a nad sobom sličnost križa. Ili treba reći da su, kako se kaže u knjizi Pitanja Novoga i Staroga zavjeta, *oni mudraci slijedili predaju Balaama, koji je rekao: izaći će zvijezda iz Jakova. Stoga su, vidjevši zvijezdu izvan reda svijeta, shvatili da je to ona za koju je Balaam prorokovao da će biti glasnica kralja Židova*. Ili treba reći, kako kaže Augustin u govoru o Bogojavljenju, da su mudraci od anđela čuli, nekom opomenom objave, da zvijezda označuje rođenoga Krista. I čini se vjerojatnim da su to čuli od dobrih anđela, budući da se njihovo spasenje već tražilo u klanjanju Kristu. Ili, kako kaže papa Leon u govoru o Bogojavljenju, *osim onoga lika koji je potaknuo tjelesni pogled, sjajnija zraka istine poučila je njihova srca o onome što pripada prosvjetljenju vjere*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da je Kristovo rođenje očitovano neprikladnim redom. Jer Kristovo je rođenje trebalo najprije biti očitovano onima koji su bili bliži Kristu i koji su više željeli Krista, prema onome iz Mudr 6: *preteče one koji je žele, da im se prva pokaže*. Ali pravednici su bili najbliži Kristu po vjeri i najviše su željeli njegov dolazak; stoga se u Lk 2 kaže o Šimunu da je *bio čovjek pravedan i bogobojazan, koji je iščekivao otkupljenje Izraelovo*. Dakle, Kristovo rođenje trebalo je prije očitovati Šimunu nego pastirima i mudracima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a6.obj2": {
+      "text": "Osim toga, mudraci su bili prvine pogana koji će vjerovati u Krista. Ali najprije punina pogana ulazi u vjeru, a potom će se sav Izrael spasiti, kako se kaže u Rim 11. Dakle, Kristovo rođenje trebalo je očitovati mudracima prije nego pastirima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a6.obj3": {
+      "text": "Osim toga, u Mt 2 kaže se da je *Herod pobio sve dječake koji su bili u Betlehemu i u svoj njegovoj okolici od dvije godine naniže, prema vremenu koje je točno doznao od mudraca*, i tako se čini da su mudraci došli Kristu dvije godine nakon Kristova rođenja. Dakle, neprikladno je Kristovo rođenje očitovano poganima nakon toliko vremena.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a6.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Dan 2: *on mijenja vremena i razdoblja*. I tako se čini da je vrijeme očitovanja Kristova rođenja raspoređeno prikladnim redom.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a6.resp": {
+      "text": "Odgovaram: treba reći da je Kristovo rođenje najprije očitovano pastirima, na sam dan Kristova rođenja. Jer, kako se kaže u Lk 2, *bijahu u onom kraju pastiri koji su bdjeli i noću čuvali straže nad svojim stadom. I kad su se anđeli od njih vratili na nebo, govorili su jedni drugima: Hajdemo sve do Betlehema. I dođoše žurno*. Drugo, mudraci su došli Kristu trinaestoga dana od njegova rođenja, kojega se dana slavi blagdan Bogojavljenja. Jer da su došli nakon što je prošla godina, ili čak dvije godine, ne bi ga našli u Betlehemu, budući da je u Lk 2 napisano da su se, pošto su izvršili sve po Zakonu Gospodnjem, naime prikazavši dijete Isusa u Hramu, vratili u Galileju, u svoj grad, to jest u Nazaret. Treće, očitovano je pravednicima u Hramu, četrdesetoga dana od rođenja, kako stoji u Lk 2. A razlog je toga reda to što se po pastirima označuju apostoli i drugi vjernici iz Židova, kojima je najprije očitovana vjera u Krista, a među njima nije bilo mnogo moćnih ni mnogo plemenitih, kako se kaže u 1 Kor 1. Drugo, vjera u Krista došla je do punine pogana, koja je predslikana po mudracima. Treće, došla je do punine Židova, koja je predslikana po pravednicima. Stoga im se Krist i očitovao u židovskom Hramu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Apostol u Rim 9, *Izrael, tražeći zakon pravednosti, nije stigao do zakona pravednosti*, a pogani, koji nisu tražili pravednost, općenito su pretekli Židove u pravednosti vjere. I kao predslika toga, Šimun, koji je iščekivao utjehu Izraelovu, posljednji je spoznao rođenoga Krista, a pretekli su ga mudraci i pastiri, koji Kristovo rođenje nisu tako brižno iščekivali.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a6.ad2": {
+      "text": "Na drugo treba reći da su, premda je punina pogana ušla u vjeru prije punine Židova, ipak prvine Židova pretekle u vjeri prvine pogana. I zato je Kristovo rođenje očitovano pastirima prije nego mudracima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a6.ad3": {
+      "text": "Na treće treba reći da o pojavi zvijezde koja se ukazala mudracima postoji dvostruko mnijenje. Jer Zlatousti, o Mateju, i Augustin, u govoru na Bogojavljenje, kažu da se zvijezda ukazala mudracima dvije godine prije Kristova rođenja, i tada su, razmišljajući i pripremajući se za put, iz najudaljenijih istočnih krajeva došli Kristu trinaestoga dana od njegova rođenja. Stoga je i Herod, odmah nakon odlaska mudraca, vidjevši da su ga izigrali, naredio da se pobiju dječaci od dvije godine naniže, sumnjajući nije li se Krist rodio onda kad se ukazala zvijezda, kako je čuo od mudraca. Drugi pak kažu da se zvijezda prvi put ukazala kad se Krist rodio, i da su mudraci, ugledavši zvijezdu, odmah krenuli na put te prevalili vrlo dug put u trinaest dana, dijelom vođeni božanskom snagom, a dijelom brzinom dromedara. I to kažem ako su došli iz krajnjih istočnih krajeva. Neki pak kažu da su došli iz obližnjega kraja, odakle je bio Balaam, čijeg su nauka bili nasljednici. A kaže se da su došli s istoka jer ta zemlja leži na istočnoj strani zemlje Židova. I prema tome, Herod nije pobio dječake odmah po odlasku mudraca, nego nakon dvije godine: ili zato što se kaže da je u međuvremenu, optužen, otišao u Rim, ili da je, uznemiren strahom od nekih opasnosti, u međuvremenu odustao od brige da ubije dijete; ili zato što je mogao vjerovati da su se mudraci, *prevareni lažnim viđenjem zvijezde, pošto nisu našli onoga za kojega su mislili da se rodio, posramili vratiti k njemu*, kako kaže Augustin u knjizi O slozi evanđelista. A nije pobio samo dvogodišnjake nego i mlađe zato što se, kako kaže Augustin u nekom govoru o Nevinoj dječici, *bojao da dijete kojemu služe zvijezde ne preobrazi svoj izgled malo iznad ili ispod te dobi*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da je zvijezda koja se ukazala mudracima bila jedna od nebeskih zvijezda. Augustin, naime, kaže u jednoj propovijedi na Bogojavljenje: *Dok Bog visi na prsima i podnosi bijedne povoje pelena, iznenada je s neba zasjala nova zvijezda*. Bila je, dakle, nebeska zvijezda ona koja se ukazala mudracima.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a7.obj2": {
+      "text": "Osim toga, Augustin kaže u jednoj propovijedi na Bogojavljenje: *Pastirima Krista pokazuju anđeli, mudracima zvijezda. Jednima i drugima govori jezik nebesa, jer je jezik proroka bio umuknuo*. Ali anđeli koji su se ukazali pastirima uistinu su bili od nebeskih anđela. Dakle, i zvijezda koja se ukazala mudracima uistinu je bila od nebeskih zvijezda.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a7.obj3": {
+      "text": "Osim toga, zvijezde koje nisu na nebu, nego u zraku, nazivaju se zvijezdama repaticama; one se ne pojavljuju pri rođenjima kraljeva, nego su prije znakovi njihove smrti. Ali ona je zvijezda označivala rođenje kralja; zato mudraci kažu, Mt 2: *Gdje je novorođeni kralj židovski? Vidjesmo, naime, njegovu zvijezdu na istoku*. Dakle, čini se da je bila od nebeskih zvijezda.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a7.sc": {
+      "text": "Ali protiv toga je ono što Augustin kaže u knjizi Protiv Fausta: *Nije bila od onih zvijezda koje od početka stvorenja čuvaju red svojih putova pod zakonom Stvoritelja, nego se uz novi porod Djevice pojavila nova zvijezda*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a7.resp": {
+      "text": "Odgovaram: treba reći da je, kako kaže Zlatousti u tumačenju Mateja, na mnogo načina očito da ona zvijezda koja se ukazala mudracima nije bila jedna od nebeskih zvijezda. Prvo, zato što nijedna druga zvijezda ne ide tim putem. Ta se zvijezda, naime, gibala od sjevera prema jugu; tako, naime, leži Judeja prema Perziji, odakle su mudraci došli. Drugo, to se vidi iz vremena. Nije se, naime, pojavljivala samo noću, nego i usred dana, a to nije u snazi zvijezde, pa ni mjeseca. Treće, zato što se katkad pokazivala, a katkad skrivala. Kad su, naime, ušli u Jeruzalem, sakrila se; zatim, kad su ostavili Heroda, ponovno se pokazala. Četvrto, zato što nije imala neprekidno gibanje, nego je išla kad je mudracima trebalo ići, a kad je trebalo stati, stajala je, kao što je bilo i sa stupom od oblaka u pustinji. Peto, zato što porod Djevice nije pokazivala ostajući gore, nego je to činila spuštajući se dolje. Kaže se, naime, Mt 2: *Zvijezda koju su vidjeli na istoku išla je pred njima dok nije došla i stala iznad mjesta gdje je bilo dijete*. Iz toga je očito da riječ mudraca koji kažu: *Vidjesmo njegovu zvijezdu na istoku*, ne treba shvatiti tako kao da im se, dok su bili na istoku, ukazala zvijezda koja je bila u judejskoj zemlji, nego da su je vidjeli dok je bila na istoku i da je išla pred njima sve do Judeje (premda neki to ostavljaju upitnim). A ne bi mogla razgovijetno pokazati kuću da nije bila blizu zemlje. I, kako on sam kaže, to se ne čini svojstvenim zvijezdi, nego *nekoj razumskoj snazi. Zato se čini da je ta zvijezda bila nevidljiva snaga preobražena u takvu pojavu*. Zato neki kažu da se, kao što je Duh Sveti sišao na krštenoga Gospodina u obličju goluba, tako ukazao mudracima u obličju zvijezde. Drugi pak kažu da se anđeo koji se pastirima ukazao u ljudskom obličju mudracima ukazao u obličju zvijezde. Ipak se čini vjerojatnijim da je to bila iznova stvorena zvijezda, ne na nebu, nego u zraku blizu zemlje, koja se gibala prema Božjoj volji. Zato papa Leon kaže u propovijedi na Bogojavljenje: *Trima se mudracima u istočnoj zemlji ukazala zvijezda nova sjaja, koja je, sjajnija i ljepša od ostalih zvijezda, k sebi okretala oči i duše onih koji su je promatrali, tako da se odmah opazilo da nije bez svrhe ono što se činilo tako neobičnim*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da se u Svetom pismu nebom katkad naziva zrak, prema onome: *ptice nebeske i ribe morske*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a7.ad2": {
+      "text": "Na drugo treba reći da sami nebeski anđeli po svojoj službi imaju to da silaze k nama, poslani da služe. Ali nebeske zvijezde ne mijenjaju svoj položaj. Stoga razlog nije isti.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a7.ad3": {
+      "text": "Na treće treba reći da, kao što zvijezda nije slijedila gibanje nebeskih zvijezda, tako nije slijedila ni gibanje zvijezda repatica, koje se niti pojavljuju danju niti mijenjaju svoj uređeni tok. Pa ipak joj nije posve nedostajalo značenje kometa. Jer Kristovo nebesko kraljevstvo *satrlo je i dokrajčilo sva zemaljska kraljevstva, a ono će samo stajati dovijeka*, kako se kaže Dn 2.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da mudraci nisu prikladno došli Kristu da mu se poklone i da ga časte. Svakom se, naime, kralju duguje poštovanje od njegovih podanika. A mudraci nisu bili iz židovskoga kraljevstva. Dakle, budući da su iz viđenja zvijezde spoznali da se rodio kralj Židova, čini se da su neprikladno došli k njemu da mu se poklone.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a8.obj2": {
+      "text": "Osim toga, ludo je, dok neki kralj živi, navješćivati tuđega kralja. Ali u judejskom je kraljevstvu kraljevao Herod. Dakle, mudraci su ludo postupili navješćujući rođenje kralja.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a8.obj3": {
+      "text": "Osim toga, nebeska je uputa pouzdanija od ljudske. Ali mudraci su pod vodstvom nebeske upute došli s istoka u Judeju. Dakle, ludo su postupili tražeći, mimo vodstva zvijezde, ljudsku uputu, govoreći: *Gdje je novorođeni kralj židovski?*",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a8.obj4": {
+      "text": "Osim toga, prinošenje darova i poštovanje klanjanja duguju se samo kraljevima koji već kraljuju. Ali mudraci nisu našli Krista kako blista kraljevskim dostojanstvom. Dakle, neprikladno su mu prinijeli darove i iskazali kraljevsko poštovanje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže Iz 60: *Hodit će narodi u tvojem svjetlu i kraljevi u sjaju tvoga izlaska*. Ali oni koje vodi božansko svjetlo ne zalaze u zabludu. Dakle, mudraci su bez zablude iskazali poštovanje Kristu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a8.resp": {
+      "text": "Odgovaram: treba reći da su, kako je rečeno, mudraci prvine pogana koji vjeruju u Krista; u njima su se, kao u nekom nagovještaju, pokazale vjera i predanost pogana koji izdaleka dolaze Kristu. I zato, kao što su predanost i vjera pogana bez zablude po nadahnuću Duha Svetoga, tako treba vjerovati i da su mudraci, nadahnuti od Duha Svetoga, mudro iskazali poštovanje Kristu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kako kaže Augustin u propovijedi na Bogojavljenje, *premda su se rodili i umrli mnogi židovski kraljevi, nijednoga od njih mudraci nisu tražili da mu se poklone. Nisu, dakle, smatrali da oni, daleki, tuđinci i posve strani tome kraljevstvu, duguju tako veliku čast kralju Židova kakvi su ondje obično bivali. Nego su doznali da se rodio takav da nimalo nisu sumnjali da će, klanjajući mu se, postići spasenje koje je po Bogu*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a8.ad2": {
+      "text": "Na drugo treba reći da je onim navješćivanjem mudraca bila predslikana postojanost pogana koji Krista ispovijedaju sve do smrti. Zato Zlatousti kaže u tumačenju Mateja: *Dok su razmatrali budućega kralja, nisu se bojali sadašnjega kralja. Još nisu bili vidjeli Krista, a već su bili spremni za njega umrijeti*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a8.ad3": {
+      "text": "Na treće treba reći da, kako kaže Augustin u propovijedi na Bogojavljenje, *zvijezda koja je mudrace dovela do mjesta gdje je s majkom Djevicom bio Bog dijete mogla ih je dovesti i do samoga grada Betlehema, u kojem se Krist rodio. Ali ipak se povukla, dok i Židovi ne posvjedoče o gradu u kojem se Krist imao roditi*, kako bi, ovako učvršćeni dvostrukim svjedočanstvom, kako kaže papa Leon, *žarčom vjerom tražili onoga koga su objavljivali i sjaj zvijezde i autoritet proroštva*. Tako oni navješćuju Kristovo rođenje i pitaju za mjesto, *vjeruju i traže, označujući one koji hode po vjeri i čeznu za gledanjem*, kako kaže Augustin u propovijedi na Bogojavljenje. A Židovi, pokazujući im mjesto Kristova rođenja, *postali su slični graditeljima Noine korablje, koji su drugima pribavili gdje će se spasiti, a sami su propali u potopu. Tražitelji su čuli i otišli, učitelji su rekli i ostali, slični miljokazima, koji pokazuju put, a sami ne hodaju*. Božjim je migom također učinjeno da su mudraci, kad im je pogled na zvijezdu bio uskraćen, po ljudskoj prosudbi pošli u Jeruzalem, tražeći rođenoga kralja u kraljevskom gradu, kako bi se Kristovo rođenje najprije javno navijestilo u Jeruzalemu, prema onome Iz 2: *Sa Siona će izaći zakon i riječ Gospodnja iz Jeruzalema; i kako bi se i revnošću mudraca koji su došli izdaleka osudila lijenost Židova koji su bili blizu*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    },
+    "III.q36.a8.ad4": {
+      "text": "Na četvrto treba reći da, kako kaže Zlatousti u tumačenju Mateja, *da su mudraci došli tražeći zemaljskoga kralja, bili bi posramljeni, jer bi bez razloga podnijeli napor tako dugoga puta*. Zato se ne bi ni poklonili ni prinijeli darove. *A sada, budući da su tražili nebeskoga kralja, premda u njemu nisu vidjeli ništa od kraljevske uzvišenosti, ipak su se, zadovoljni samim svjedočanstvom zvijezde, poklonili*: vide, naime, čovjeka, a spoznaju Boga. I prinose darove primjerene Kristovu dostojanstvu: *zlato kao velikom kralju; tamjan, koji se stavlja u žrtvu Bogu, žrtvuju kao Bogu; smirna, kojom se balzamiraju tijela mrtvih, daje se kao onome koji će umrijeti za spasenje sviju*. I, kako kaže Grgur, *poučeni smo da novorođenom kralju prinesemo zlato, kojim se označuje mudrost, blistajući pred njim svjetlom mudrosti*; tamjan pak, kojim se izražava predanost molitve, prinosimo Bogu ako revnošću u molitvama možemo Bogu mirisati; smirnu, koja označuje mrtvljenje tijela, prinosimo ako apstinencijom mrtvimo poroke tijela.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:41+00:00"
+    }
+  }
+}

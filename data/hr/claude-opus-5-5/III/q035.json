@@ -1,0 +1,408 @@
+{
+  "model": "claude-opus-5-5",
+  "question": 35,
+  "units": {
+    "III.q35.pr": {
+      "text": "Nakon Kristova začeća slijedi da se raspravi o njegovu rođenju. I to, prvo, što se tiče samoga rođenja; drugo, što se tiče očitovanja rođenoga. U vezi s prvim pita se osam stvari. Prvo, pripada li rođenje naravi ili osobi. Drugo, treba li Kristu pripisati još neko rođenje osim vječnoga. Treće, je li Blažena Djevica njegova majka prema vremenitom rođenju. Četvrto, treba li je nazivati Majkom Božjom. Peto, je li Krist po dvama sinovstvima Sin Boga Oca i Djevice majke. Šesto, o načinu rođenja. Sedmo, o mjestu. Osmo, o vremenu rođenja.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a1.obj1": {
+      "text": "Na prvo se ovako postupa. Čini se da rođenje više pristaje naravi nego osobi. Jer kaže Augustin u knjizi O vjeri, Petru: *Vječna i božanska narav ne bi mogla biti začeta i roditi se iz ljudske naravi, osim prema istini ljudske naravi*. Tako dakle božanskoj naravi pristaje da bude začeta i da se rodi zbog ljudske naravi. Mnogo više, dakle, to pristaje ljudskoj naravi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a1.obj2": {
+      "text": "Osim toga, prema Filozofu u V. knjizi Metafizike, ime natura (narav) uzeto je od nasci (roditi se). A nazivi se daju prema podudarnosti u sličnosti. Dakle, čini se da rođenje više pripada naravi nego osobi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a1.obj3": {
+      "text": "Osim toga, u vlastitom se smislu rađa ono što po rođenju počinje postojati. Ali po Kristovu rođenju nije počela postojati Kristova osoba, nego njegova ljudska narav. Dakle, čini se da rođenje u vlastitom smislu pripada naravi, a ne osobi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a1.sc": {
+      "text": "Ali protiv toga jest ono što Damaščanin kaže u III. knjizi: *Rođenje pripada hipostazi, a ne naravi*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a1.resp": {
+      "text": "Odgovaram: treba reći da se rođenje nečemu može pripisati na dva načina: na jedan način kao subjektu, na drugi način kao završetku. Kao subjektu pripisuje se onome što se rađa. A to je u vlastitom smislu hipostaza, a ne narav. Budući, naime, da je roditi se neko nastajanje, kao što nešto nastaje zato da bude, tako se nešto i rađa zato da bude. A bitak u vlastitom smislu pripada samostojnoj stvari; jer za formu koja ne samostoji kaže se da jest samo zato što je nešto po njoj. A osoba ili hipostaza označuje se na način onoga što samostoji, dok se narav označuje na način forme u kojoj nešto samostoji. Stoga se rođenje, kao subjektu rađanja u vlastitom smislu, pripisuje osobi ili hipostazi, a ne naravi. Ali kao završetku, rođenje se pripisuje naravi. Završetak je, naime, nastajanja i svakog rođenja forma. A narav se označuje na način forme. Stoga se rođenje naziva putem k naravi, kao što je jasno iz Filozofa u II. knjizi Fizike; nakana se naravi, naime, završava u formi ili naravi vrste.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a1.ad1": {
+      "text": "Na prvo, dakle, treba reći da se zbog istovjetnosti koja u Bogu postoji između naravi i hipostaze katkad narav stavlja umjesto osobe ili hipostaze. I u tom smislu Augustin kaže da je božanska narav začeta i rođena, naime zato što je osoba Sina začeta i rođena prema ljudskoj naravi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a1.ad2": {
+      "text": "Na drugo treba reći da se nijedno gibanje ili promjena ne imenuje prema subjektu koji se giba, nego prema završetku gibanja, od kojega dobiva vrstu. I zbog toga se rođenje ne imenuje prema osobi koja se rađa, nego prema naravi u kojoj se rođenje završava.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a1.ad3": {
+      "text": "Na treće treba reći da narav, strogo govoreći, ne počinje postojati, nego prije osoba počinje postojati u nekoj naravi. Jer, kao što je rečeno, narav se označuje kao ono čime nešto jest, a osoba se označuje kao ono što ima samostojni bitak.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a2.obj1": {
+      "text": "Na drugo se ovako postupa. Čini se da Kristu ne treba pripisati nikakvo vremenito rođenje. *Roditi se je, naime, kao neko gibanje stvari koja ne postoji prije nego što se rodi, a koja dobročinstvom rođenja postiže da bude*. Ali Krist je postojao od vječnosti. Dakle, nije se mogao vremenito roditi.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a2.obj2": {
+      "text": "Osim toga, ono što je u sebi savršeno ne treba rođenje. Ali osoba Sina Božjega bila je savršena od vječnosti. Dakle, njoj nije potrebno vremenito rođenje. I tako se čini da on nije vremenito rođen.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a2.obj3": {
+      "text": "Osim toga, rođenje u vlastitom smislu pristaje osobi. Ali u Kristu je samo jedna osoba. Dakle, u Kristu je samo jedno rođenje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a2.obj4": {
+      "text": "Osim toga, tko se rađa dvama rođenjima, rađa se dvaput. Ali čini se da je ova tvrdnja lažna: Krist je dvaput rođen. Jer njegovo rođenje kojim je rođen od Oca ne trpi prekid, budući da je vječno. A to se zahtijeva za prilog dvaput; za nekoga se, naime, kaže da dvaput trči ako trči s prekidom. Dakle, čini se da u Kristu ne treba postavljati dvostruko rođenje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a2.sc": {
+      "text": "Ali protiv toga jest ono što Damaščanin kaže u III. knjizi: *Ispovijedamo dva Kristova rođenja: jedno koje je od Oca, vječno, i jedno koje je u posljednja vremena radi nas*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a2.resp": {
+      "text": "Odgovaram: treba reći da se, kao što je rečeno, narav prema rođenju odnosi kao završetak prema gibanju ili promjeni. A gibanje se razlikuje prema različitosti završetaka, kao što pokazuje Filozof u V. knjizi Fizike. U Kristu su pak dvije naravi, od kojih je jednu primio od vječnosti od Oca, a drugu je primio vremenito od majke. Stoga je nužno Kristu pripisati dva rođenja: jedno kojim je vječno rođen od Oca, drugo kojim je vremenito rođen od majke.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a2.ad1": {
+      "text": "Na prvo, dakle, treba reći da je to bio prigovor nekog heretika Felicijana, koji Augustin u knjizi Protiv Felicijana rješava ovako: *Zamislimo, kaže, kao što mnogi hoće, da u svijetu postoji opća duša koja neizrecivim gibanjem tako oživljuje sva sjemena da nije srasla s rođenim bićima, nego sama pruža život onima koja se imaju roditi. Kad ona, dakako, dođe u utrobu da trpnu tvar oblikuje za svoje potrebe, čini da s njom bude jedna osoba one stvari za koju je poznato da nema istu supstanciju; i tako, dok duša djeluje, a tvar trpi, od dviju supstancija nastaje jedan čovjek. I tako priznajemo da se duša rađa iz utrobe, ne zato što ona, prije nego što se rodila, što se nje same tiče, uopće ne bi bila postojala. Tako se dakle, štoviše još uzvišenije, rodio Sin Božji kao čovjek, na onaj način na koji se uči da se s tijelom rađa i duh: ne zato što bi obojemu bila jedna supstancija, nego zato što od obojega nastaje jedna osoba. Ipak ne kažemo da je Sin Božji počeo s tim početkom, da tko ne bi povjerovao da je božanstvo vremenito. Ne poznajemo tijelo Sina Božjega od vječnosti, da ne bismo pomislili da on nije uzeo istinu ljudskoga tijela, nego neku sliku*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a2.ad2": {
+      "text": "Na drugo treba reći da je to bio Nestorijev razlog, koji Ćiril rješava u jednoj poslanici, govoreći: *Ne kažemo da je Sin Božji radi sebe nužno trebao drugo rođenje nakon onoga koje je od Oca; ludo je, naime, i neuko reći da onaj koji postoji prije svih vjekova i suvjekovječan je s Ocem treba početak da bi postojao po drugi put. Ali budući da je radi nas i radi našega spasenja, sjedinivši sa sobom po samostojnosti ono što je ljudsko, izišao od žene, zbog toga se kaže da se rodio tjelesno*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a2.ad3": {
+      "text": "Na treće treba reći da rođenje pripada osobi kao subjektu, a naravi kao završetku. A moguće je da u jednom subjektu bude više preinaka, koje se ipak nužno razlikuju prema završecima. To ipak ne kažemo kao da bi vječno rođenje bilo preinaka ili gibanje, nego zato što se označuje na način promjene ili gibanja.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a2.ad4": {
+      "text": "Na četvrto treba reći da se za Krista može reći da je dvaput rođen, prema dvama rođenjima. Kao što se, naime, za nekoga kaže da dvaput trči ako trči u dva vremena, tako se može reći da se dvaput rađa onaj koji se jednom rađa u vječnosti, a jednom u vremenu, jer se vječnost i vrijeme mnogo više razlikuju nego dva vremena, premda i jedno i drugo označuje mjeru trajanja.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a3.obj1": {
+      "text": "Na treće se ovako postupa. Čini se da se prema Kristovu vremenitom rođenju Blažena Djevica ne može nazvati njegovom majkom. Kao što je, naime, gore rečeno, Blažena Djevica Marija nije ništa djelatno učinila u Kristovu rađanju, nego je pružila samo tvar. Ali čini se da to nije dovoljno za pojam majke; inače bi se drvo nazivalo majkom kreveta ili klupe. Dakle, čini se da se Blažena Djevica ne može nazvati Kristovom majkom.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a3.obj2": {
+      "text": "Osim toga, Krist je čudesno rođen od Blažene Djevice. Ali čudesno rađanje nije dovoljno za pojam majčinstva ili sinovstva; ne kažemo, naime, da je Eva bila Adamova kći. Dakle, čini se da ni Krista ne treba nazivati sinom Blažene Djevice.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a3.obj3": {
+      "text": "Osim toga, čini se da majci pripada odvajanje sjemena. Ali, kao što kaže Damaščanin u III. knjizi, *Kristovo tijelo nije oblikovano od sjemena, nego stvaralački, od Duha Svetoga*. Dakle, čini se da Blaženu Djevicu ne treba nazivati Kristovom majkom.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a3.sc": {
+      "text": "Ali protiv toga jest ono što se kaže Mt 1: *Rođenje Kristovo bilo je ovako. Kad je Marija, majka Isusova, bila zaručena s Josipom,* i tako dalje.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a3.resp": {
+      "text": "Odgovaram: treba reći da je Blažena Djevica Marija prava i naravna Kristova majka. Kao što je, naime, gore rečeno, Kristovo tijelo nije doneseno s neba, kako je tvrdio heretik Valentin, nego je uzeto od Djevice majke i oblikovano od njezine najčišće krvi. A samo se to zahtijeva za pojam majke, kao što je jasno iz gore rečenoga. Stoga je Blažena Djevica uistinu Kristova majka.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a3.ad1": {
+      "text": "Na prvo, dakle, treba reći da, kao što je gore rečeno, očinstvo ili majčinstvo i sinovstvo ne pripadaju bilo kojem nastajanju, nego samo nastajanju živih bića. Stoga, ako od neke tvari nastanu neke stvari bez duše, ne slijedi zbog toga u njima odnos majčinstva i sinovstva, nego samo u nastajanju živih bića, koje se u vlastitom smislu naziva rođenjem.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a3.ad2": {
+      "text": "Na drugo treba reći da je, kako kaže Damaščanin u III. knjizi, vremenito rođenje, kojim se Krist rodio radi našega spasenja, na neki način prema nama, *jer se rodio kao čovjek od žene i u vrijeme dužno začeću, a iznad nas, jer nije od sjemena, nego od Duha Svetoga i svete Djevice, iznad zakona začeća*. Tako je dakle s majčine strane to rođenje bilo naravno, a sa strane djelovanja Duha Svetoga bilo je čudesno. Stoga je Blažena Djevica prava i naravna Kristova majka.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a3.ad3": {
+      "text": "Na treće treba reći da, kao što je gore rečeno, izlučivanje ženskoga sjemena ne pripada onome što je nužno za začeće. Stoga se izlučivanje sjemena ne zahtijeva nužno da bi netko bio majka.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a4.obj1": {
+      "text": "Na četvrto se ovako postupa. Čini se da Blaženu Djevicu ne treba nazivati Majkom Božjom. Jer o božanskim otajstvima ne treba govoriti ništa osim onoga što se nalazi u Svetom pismu. Ali nigdje se u Svetom pismu ne čita da je ona Majka Božja ili Bogorodica, nego da je Kristova majka ili majka djeteta, kao što je jasno iz Mt 1. Dakle, ne treba govoriti da je Blažena Djevica Majka Božja.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a4.obj2": {
+      "text": "Osim toga, Krist se naziva Bogom prema božanskoj naravi. Ali božanska narav nije primila početak bitka od Djevice. Dakle, Blaženu Djevicu ne treba nazivati Majkom Božjom.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a4.obj3": {
+      "text": "Osim toga, ime Bog zajednički se pririče Ocu i Sinu i Duhu Svetomu. Ako je dakle Blažena Djevica Majka Božja, čini se da slijedi da je Blažena Djevica majka Oca i Sina i Duha Svetoga, što je neprikladno. Dakle, Blaženu Djevicu ne treba nazivati Majkom Božjom.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a4.sc": {
+      "text": "Ali protiv toga jest ono što se čita u Ćirilovim poglavljima, odobrenima na Efeškom saboru: *Ako tko ne ispovijeda da je Emanuel uistinu Bog i da je zbog toga sveta Djevica Bogorodica, jer je tjelesno rodila Riječ iz Boga koja je postala tijelom, neka bude anatema*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a4.resp": {
+      "text": "Odgovaram: treba reći da, kao što je gore rečeno, svako ime koje konkretno označuje neku narav može stajati za bilo koju hipostazu te naravi. A budući da je sjedinjenje utjelovljenja izvršeno u hipostazi, kao što je gore rečeno, očito je da ime Bog može stajati za hipostazu koja ima ljudsku i božansku narav. Stoga se sve što pristaje božanskoj i ljudskoj naravi može pripisati toj osobi, bilo ukoliko za nju stoji ime koje označuje božansku narav, bilo ukoliko za nju stoji ime koje označuje ljudsku narav. A biti začet i roditi se pripisuje se osobi i hipostazi prema onoj naravi u kojoj se začinje i rađa. Budući dakle da je već na samom početku začeća božanska osoba uzela ljudsku narav, kao što je prije rečeno, slijedi da bi se uistinu moglo reći da je Bog začet i rođen od Djevice. A neka se žena naziva nečijom majkom po tome što ga je začela i rodila. Stoga slijedi da se Blažena Djevica uistinu naziva Majkom Božjom. Jedino bi se, naime, moglo zanijekati da je Blažena Djevica Majka Božja kad bi ili čovještvo bilo podvrgnuto začeću i rođenju prije nego što je onaj čovjek bio Sin Božji, kako je tvrdio Fotin, ili kad čovještvo ne bi bilo uzeto u jedinstvo osobe ili hipostaze Božje Riječi, kako je tvrdio Nestorije. A i jedno i drugo od toga je zabludno. Stoga je heretično nijekati da je Blažena Djevica Majka Božja.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a4.ad1": {
+      "text": "Na prvo, dakle, treba reći da je to bio Nestorijev prigovor. On se rješava time što se, iako se u Pismu ne nalazi izričito rečeno da je Blažena Djevica Majka Božja, ipak u Pismu izričito nalazi da je Isus Krist pravi Bog, kao što je jasno iz 1 Iv 5, i da je Blažena Djevica majka Isusa Krista, kao što je jasno iz Mt 1. Stoga iz riječi Pisma nužno slijedi da je ona Majka Božja. Kaže se također Rim 9 da je *od Židova po tijelu Krist, koji je nad svime Bog, blagoslovljen u vijeke*. A on nije od Židova osim posredstvom Blažene Djevice. Stoga je onaj koji je nad svime Bog, blagoslovljen u vijeke, uistinu rođen od Blažene Djevice kao od svoje majke.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a4.ad2": {
+      "text": "Na drugo treba reći da je to Nestorijev prigovor. Ali Ćiril ga u jednoj poslanici protiv Nestorija rješava, govoreći ovako: *Kao što se čovjekova duša rađa s vlastitim tijelom i smatra se jednim; i kad bi netko htio reći da je majka roditeljica tijela, ali ne i roditeljica duše, govorio bi posve suvišno; nešto takvo zapažamo da se zbilo u Kristovu rađanju. Jer iz supstancije Boga Oca rođena je Božja Riječ; a budući da je uzela tijelo, nužno je ispovijedati da je po tijelu rođena od žene*. Treba dakle reći da se Blažena Djevica naziva Majkom Božjom ne zato što bi bila majka božanstva, nego zato što je po čovještvu majka osobe koja ima božanstvo i čovještvo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a4.ad3": {
+      "text": "Na treće treba reći da ime Bog, premda je zajedničko trima osobama, ipak katkad stoji samo za osobu Oca, a katkad samo za osobu Sina ili Duha Svetoga, kao što je gore utvrđeno. I tako, kad se kaže: Blažena Djevica je Majka Božja, ime Bog stoji samo za utjelovljenu osobu Sina.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a5.obj1": {
+      "text": "Na peto se ovako postupa. Čini se da su u Kristu dva sinovstva. Jer rođenje je uzrok sinovstva. Ali u Kristu su dva rođenja. Dakle, i u Kristu su dva sinovstva.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a5.obj2": {
+      "text": "Osim toga, sinovstvo, po kojemu se netko naziva nečijim sinom, kao sinom majke ili oca, na neki način ovisi o njemu, jer bitak odnosa jest na neki način odnositi se prema drugomu; stoga se, kad se ukloni jedan od članova odnosa, ukida i drugi. Ali vječno sinovstvo, po kojemu je Krist Sin Boga Oca, ne ovisi o majci, jer ništa vječno ne ovisi o vremenitome. Dakle, Krist nije sin majke po vječnom sinovstvu. Dakle, ili on nikako nije njezin sin, što je protivno prije rečenome, ili mora biti njezin sin po nekom drugom, vremenitom sinovstvu. Dakle, u Kristu su dva sinovstva.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a5.obj3": {
+      "text": "Osim toga, jedan se član odnosa stavlja u definiciju drugoga, iz čega je jasno da jedan član odnosa dobiva vrstu od drugoga. Ali jedno te isto ne može biti u različitim vrstama. Dakle, čini se nemogućim da jedan te isti odnos završava u posve različitim krajnjim članovima. Ali Krist se naziva sinom vječnoga Oca i vremenite majke, koji su posve različiti završeci. Dakle, čini se da se Krist ne može istim odnosom nazivati sinom Oca i majke. Dakle, u Kristu su dva sinovstva.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a5.sc": {
+      "text": "Ali protiv toga jest to što se, kako kaže Damaščanin u III. knjizi, u Kristu umnožava ono što pripada naravi, a ne ono što pripada osobi. Ali sinovstvo najviše pripada osobi, jer je osobno svojstvo, kao što je jasno iz onoga što je rečeno u Prvom dijelu. Dakle, u Kristu je samo jedno sinovstvo.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a5.resp": {
+      "text": "Odgovaram: treba reći da o tome postoje različita mišljenja. Jedni, naime, gledajući na uzrok sinovstva, a to je rođenje, postavljaju u Kristu dva sinovstva, kao i dva rođenja. Drugi pak, gledajući na subjekt sinovstva, a to je osoba ili hipostaza, postavljaju u Kristu samo jedno sinovstvo, kao i jednu hipostazu ili osobu. Jedinstvo, naime, ili mnoštvo odnosa ne određuje se prema završecima, nego prema uzroku ili subjektu. Kad bi se, naime, određivalo prema završecima, svaki bi čovjek morao u sebi imati dva sinovstva: jedno kojim se odnosi prema ocu, a drugo kojim se odnosi prema majci. Ali onomu tko ispravno razmotri očito je da se svatko istim odnosom odnosi prema svome ocu i majci, zbog jedinstva uzroka. Istim se, naime, rođenjem čovjek rađa od oca i majke, pa se stoga istim odnosom odnosi prema obojima. Isti je razlog i s učiteljem koji istim naukom poučava mnoge učenike, i s gospodarom koji istom vlašću upravlja različitim podložnicima. Ako su pak različiti uzroci koji se razlikuju po vrsti, čini se da se posljedično i odnosi razlikuju po vrsti. Stoga ništa ne priječi da više takvih odnosa bude u istome. Kao kad je netko jednima učitelj u gramatici, a drugima u logici: različit je pojam jednoga i drugoga učiteljstva, i zato jedan te isti čovjek različitim odnosima može biti učitelj bilo različitih ljudi bilo istih, prema različitim naucima. Događa se pak katkad da netko ima odnos prema više njih po različitim uzrocima, koji su ipak iste vrste, kao kad je netko otac različitih sinova po različitim činima rađanja. Stoga se očinstvo ne može razlikovati po vrsti, budući da su čini rađanja iste vrste. A budući da više forma iste vrste ne može istodobno biti u istom subjektu, nije moguće da bude više očinstava u onome koji je otac više sinova naravnim rađanjem. Drukčije bi pak bilo kad bi bio otac jednoga naravnim rađanjem, a drugoga posinovljenjem. Očito je pak da Krist nije jednim te istim rođenjem rođen od Oca od vječnosti i od majke u vremenu. Niti je to rođenje jedne vrste. Stoga bi, što se toga tiče, trebalo reći da su u Kristu različita sinovstva, jedno vremenito, a drugo vječno. Ali budući da subjekt sinovstva nije narav ili dio naravi, nego samo osoba ili hipostaza, a u Kristu nema hipostaze ili osobe osim vječne, u Kristu ne može biti nikakvo sinovstvo osim onoga koje je u vječnoj hipostazi. A svaki odnos koji se od vremena izriče o Bogu ne postavlja u samome vječnom Bogu nešto u stvarnosti, nego samo po pojmu, kao što je utvrđeno u Prvom dijelu. Stoga sinovstvo kojim se Krist odnosi prema majci ne može biti stvarni odnos, nego samo po pojmu. I tako u nečemu oba mišljenja govore istinu. Jer ako gledamo na savršene pojmove sinovstva, treba reći da su dva sinovstva, prema dvojnosti rođenja. Ako pak gledamo na subjekt sinovstva, koji ne može biti drugo nego vječni supozit, u Kristu ne može stvarno biti nikakvo sinovstvo osim vječnoga. Ipak se on relativno naziva sinom u odnosu na majku, odnosom koji se zajedno misli uz odnos majčinstva prema Kristu. Kao što se Bog naziva Gospodinom odnosom koji se zajedno misli uz stvarni odnos po kojemu je stvor podložan Bogu. I premda odnos gospodstva nije stvaran u Bogu, on je ipak stvarno Gospodin, zbog stvarne podložnosti stvora njemu. I slično se Krist stvarno naziva sinom Djevice majke zbog stvarnoga odnosa majčinstva prema Kristu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a5.ad1": {
+      "text": "Na prvo, dakle, treba reći da bi vremenito rođenje prouzročilo u Kristu vremenito stvarno sinovstvo kad bi ondje postojao subjekt sposoban za takvo sinovstvo. A to ne može biti; jer sam vječni supozit ne može biti prijemljiv za vremeniti odnos, kao što je rečeno. Ne može se ni reći da je on prijemljiv za vremenito sinovstvo zbog ljudske naravi, kao što je to i za vremenito rođenje, jer bi tada ljudska narav morala na neki način biti subjekt sinovstva, kao što je na neki način subjekt rođenja; kad se, naime, za Etiopljanina kaže da je bijel zbog zuba, Etiopljaninov zub mora biti subjekt bjeline. A ljudska narav nikako ne može biti subjekt sinovstva, jer se taj odnos izravno odnosi na osobu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a5.ad2": {
+      "text": "Na drugo treba reći da vječno sinovstvo ne ovisi o vremenitoj majci, nego se uz to vječno sinovstvo zajedno misli neka vremenita usmjerenost ovisna o majci, prema kojoj se Krist naziva sinom majke.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a5.ad3": {
+      "text": "Na treće treba reći da jedno i biće slijede jedno drugo, kako se kaže u IV. knjizi Metafizike. Stoga, kao što se događa da je u jednom od krajnjih članova odnos neko biće, a u drugome nije biće, nego samo pojam, kao što Filozof kaže o onome što se može znati i o znanju u V. knjizi Metafizike, tako se također događa da je sa strane jednoga krajnjeg člana jedan odnos, a sa strane drugoga krajnjeg člana mnogo odnosa. Kao što se u ljudi sa strane roditelja nalazi dvostruki odnos, jedan očinstva i drugi majčinstva, koji se razlikuju po vrsti, zato što je otac na jedan način, a majka na drugi način počelo rađanja (a kad bi više njih bilo na isti način počelo jedne radnje, primjerice kad mnogi zajedno vuku lađu, u svima bi bio jedan te isti odnos); sa strane pak potomka samo je jedno sinovstvo u stvarnosti, ali dvostruko po pojmu, ukoliko odgovara obama odnosima roditelja prema dvjema usmjerenostima uma. I tako je i u Kristu u nekom pogledu samo jedno stvarno sinovstvo, koje se odnosi na vječnoga Oca; ali ondje postoji i druga, vremenita usmjerenost, koja se odnosi na vremenitu majku.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a6.obj1": {
+      "text": "Na šesto se ovako postupa. Čini se da se Krist nije rodio bez majčine boli. Jer kao što je smrt ljudi uslijedila iz grijeha praroditelja, prema onome iz Post 2: *koji god dan budete jeli, smrću ćete umrijeti*; tako i porođajna bol, prema onome iz Post 3: *u boli ćeš rađati djecu*. Ali Krist je htio podnijeti smrt. Dakle, čini se da je s istoga razloga i njegov porod morao biti s boli.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a6.obj2": {
+      "text": "Osim toga, svršetak je razmjeran početku. Ali svršetak Kristova života bio je s boli, prema onome iz Iz 53: *uistinu je on ponio naše boli*. Dakle, čini se da je i pri njegovu rođenju bila porođajna bol.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a6.obj3": {
+      "text": "Osim toga, u knjizi O Spasiteljevu rođenju pripovijeda se da su pri Kristovu rođenju pristupile primalje, koje su, čini se, potrebne rodilji zbog boli. Dakle, čini se da je Blažena Djevica rodila s boli.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a6.sc": {
+      "text": "Ali protiv toga je ono što kaže Augustin u govoru o Rođenju, obraćajući se Djevici majci: *niti si, kaže, pri začeću nađena bez čednosti, niti si pri porodu nađena s boli*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a6.resp": {
+      "text": "Odgovaram: treba reći da bol rodilje uzrokuje otvaranje prolaza kroz koje izlazi dijete. A gore je rečeno da je Krist izašao iz zatvorene majčine utrobe, pa ondje nije bilo nikakva otvaranja prolaza. I zbog toga u onom porodu nije bilo nikakve boli, kao ni ikakve povrede, nego je ondje bila najveća milina, zbog toga što se Bog čovjek rodio na svijet, prema onome iz Iz 35: *proklijat će kao ljiljan i klicat će radosna i hvaleći*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a6.ad1": {
+      "text": "Na prvo, dakle, treba reći da porođajna bol u ženi slijedi iz miješanja s mužem. Stoga se u Post 3, pošto je rečeno: u boli ćeš rađati, dodaje: i bit ćeš pod muževom vlašću. Ali, kako kaže Augustin u govoru o Uznesenju Blažene Djevice, od te je presude izuzeta Djevica, Majka Božja, koja je, *budući da je Krista primila bez okaljanosti grijehom i bez štete od muževljeva miješanja, rodila bez boli, bez povrede cjelovitosti, i ostala netaknuta u čednosti djevičanstva*. A Krist je smrt prihvatio dragovoljno, da bi za nas dao zadovoljštinu, a ne kao iz nužnosti one presude, jer on nije bio dužnik smrti.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a6.ad2": {
+      "text": "Na drugo treba reći da je Krist, kao što je *umirući razorio našu smrt*, tako svojom boli nas oslobodio od boli; i tako je htio umrijeti s boli. Ali bol majke rodilje nije se ticala Krista, koji je dolazio dati zadovoljštinu za naše grijehe. I zato nije trebalo da njegova majka rađa s boli.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a6.ad3": {
+      "text": "Na treće treba reći da se u Lk 2 kaže da je Blažena Djevica sama dijete koje je rodila povila u pelene i položila u jasle. I time se pokazuje da je pripovijest te knjige, koja je apokrifna, lažna. Stoga Jeronim kaže, Protiv Helvidija: *ondje nije bilo nikakve primalje, nikakve ženske užurbanosti. Ona je bila i majka i primalja. Povila je, kaže, dijete u pelene i položila ga u jasle. Ta rečenica pobija bulažnjenja apokrifa*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a7.obj1": {
+      "text": "Na sedmo se ovako postupa. Čini se da se Krist nije trebao roditi u Betlehemu. Jer u Iz 2 se kaže: *sa Siona će izaći zakon i riječ Gospodnja iz Jeruzalema*. Ali Krist je uistinu Riječ Božja. Dakle, trebao je iz Jeruzalema izaći na svijet.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a7.obj2": {
+      "text": "Osim toga, u Mt 2 se kaže da je o Kristu napisano da će se zvati Nazarećanin, što je uzeto iz onoga što je napisano u Iz 11: *cvijet će izniknuti iz njegova korijena*; jer Nazaret znači cvijet. Ali netko se ponajviše imenuje po mjestu svojega rođenja. Dakle, čini se da se trebao roditi u Nazaretu, gdje je bio i začet i othranjen.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a7.obj3": {
+      "text": "Osim toga, Gospodin se rodio na svijet zato da navijesti vjeru u istinu, prema onome iz Iv 18: *za to sam rođen i za to sam došao na svijet da svjedočim za istinu*. Ali to se moglo lakše učiniti da se rodio u gradu Rimu, koji je tada imao vlast nad svijetom; stoga i Pavao, pišući Rimljanima, kaže u Rim 1: *vaša se vjera navješćuje po svemu svijetu*. Dakle, čini se da se nije trebao roditi u Betlehemu.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a7.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Mih 5: *a ti, Betleheme Efrato, iz tebe će mi izaći onaj koji će biti vladar u Izraelu*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a7.resp": {
+      "text": "Odgovaram: treba reći da se Krist htio roditi u Betlehemu iz dvaju razloga. Prvo, zato što je *postao od sjemena Davidova po tijelu*, kako se kaže u Rim 1, a Davidu je bilo dano i posebno obećanje o Kristu, prema onome iz 2 Sam 23: *reče muž kojemu je određeno o Kristu Boga Jakovljeva*. I zato se htio roditi u Betlehemu, u kojem se rodio David, da bi se po samom mjestu rođenja pokazalo da je ispunjeno obećanje koje mu je bilo dano. I to označuje Evanđelist govoreći: *zato što je bio iz doma i obitelji Davidove*. Drugo, zato što, kako kaže Grgur u homiliji, *Betlehem znači kuća kruha. Sam je Krist onaj koji kaže: Ja sam kruh živi koji je sišao s neba*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a7.ad1": {
+      "text": "Na prvo, dakle, treba reći da je David, kao što se rodio u Betlehemu, tako izabrao i Jeruzalem da u njemu postavi sjedište kraljevstva i ondje sagradi Božji hram, te da tako Jeruzalem bude grad ujedno kraljevski i svećenički. A Kristovo svećeništvo i njegovo kraljevstvo ponajviše je dovršeno u njegovoj muci. I zato je prikladno za rođenje izabrao Betlehem, a za muku Jeruzalem. Ujedno je time pobio i slavu ljudi koji se diče time što potječu iz plemenitih gradova, u kojima ponajviše i žele biti počašćeni. Krist se, naprotiv, htio roditi u neuglednom gradu, a u plemenitom gradu pretrpjeti poruge.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a7.ad2": {
+      "text": "Na drugo treba reći da je Krist htio procvasti po kreposnom načinu života, a ne po tjelesnom podrijetlu. I zato je htio biti odgojen i othranjen u gradu Nazaretu. A u Betlehemu se htio roditi kao u tuđini, jer, kako kaže Grgur, *po čovještvu koje je uzeo rađao se kao u tuđem, ne po vlasti, nego po naravi*. I, kako kaže i Beda, *time što oskudijeva mjestom u svratištu, pripremio nam je mnoge stanove u domu svojega Oca*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a7.ad3": {
+      "text": "Na treće treba reći da, kako se kaže u nekom govoru Efeškoga sabora, *da je izabrao najveći grad Rim, mislili bi da je promjena svijeta došla od moći građana. Da je bio carev sin, korist bi pripisali vlasti. Ali da bi se spoznalo da je božanstvo preobrazilo svijet, izabrao je siromašnu majku, još siromašniju domovinu. A Bog je izabrao ono što je slabo u svijetu da posrami ono što je jako*, kako se kaže u 1 Kor 1. I zato je, da bi još više pokazao svoju moć, u samom Rimu, koji je bio glava svijeta, postavio glavu svoje Crkve, u znak savršene pobjede, da bi se odatle vjera razlila po svemu svijetu, prema onome iz Iz 26: *ponizit će uzvišeni grad i pogazit će ga noga siromaha*, to jest Kristova, i koraci ubogih, to jest apostola Petra i Pavla.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a8.obj1": {
+      "text": "Na osmo se ovako postupa. Čini se da se Krist nije rodio u prikladno vrijeme. Jer Krist je došao zato da svoje pozove natrag u slobodu. A rodio se u vrijeme ropstva, kad se, naime, po Augustovoj zapovijedi popisivao sav svijet, kao da je postao podložan danku, kako stoji u Lk 2. Dakle, čini se da se Krist nije rodio u prikladno vrijeme.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a8.obj2": {
+      "text": "Osim toga, obećanja o Kristu koji se imao roditi nisu bila dana poganima, prema onome iz Rim 9: *njihova su obećanja*. Ali Krist se rodio u vrijeme kad je vladao tuđinski kralj, kako je jasno iz Mt 2: *kad se Isus rodio u dane kralja Heroda*. Dakle, čini se da se nije rodio u prikladno vrijeme.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a8.obj3": {
+      "text": "Osim toga, vrijeme Kristove prisutnosti u svijetu uspoređuje se s danom, zbog toga što je on svjetlo svijeta; stoga sam kaže u Iv 9: *treba da ja činim djela onoga koji me poslao dok je dan*. Ali ljeti su dani dulji nego zimi. Dakle, budući da se rodio u dubini zime, osmoga dana prije siječanjskih kalenda, čini se da se nije rodio u prikladno vrijeme.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a8.sc": {
+      "text": "Ali protiv toga je ono što se kaže u Gal 4: *kad dođe punina vremena, posla Bog svojega Sina, nastala od žene, podložna Zakonu*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a8.resp": {
+      "text": "Odgovaram: treba reći da je razlika između Krista i drugih ljudi u ovome: drugi se ljudi rađaju podložni nužnosti vremena, a Krist je, kao gospodar i stvoritelj svih vremena, sebi izabrao vrijeme u kojem će se roditi, kao i majku i mjesto. A budući da je ono što je od Boga uređeno i prikladno raspoređeno, slijedi da se Krist rodio u najprikladnije vrijeme.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a8.ad1": {
+      "text": "Na prvo, dakle, treba reći da je Krist došao da nas iz stanja ropstva vrati u stanje slobode. I zato, kao što je uzeo našu smrtnost da bi nas vratio u život, tako se, kako kaže Beda, *udostojao utjeloviti u ono vrijeme kad će, tek rođen, biti upisan u Cezarov popis i, radi našega oslobođenja, sam biti podvrgnut služenju*. U ono vrijeme, kad je sav svijet živio pod jednim vladarom, u svijetu je također vladao najveći mir. I zato je dolikovalo da se u ono vrijeme rodi Krist, koji je naš mir, koji je od obojega učinio jedno, kako se kaže u Ef 2. Stoga Jeronim kaže, o Izaiji: *pregledajmo stare povijesti i naći ćemo da je sve do dvadeset i osme godine Cezara Augusta po svem svijetu vladala nesloga, a kad se rodio Gospodin, prestali su svi ratovi*, prema onome iz Iz 2: *narod neće dizati mača protiv naroda*. Bilo je prikladno i to da se Krist rodi u ono vrijeme kad je jedan vladar gospodovao svijetom, jer je došao svoje *sabrati u jedno, da bude jedno stado i jedan pastir*, kako se kaže u Iv 10.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a8.ad2": {
+      "text": "Na drugo treba reći da se Krist htio roditi u vrijeme tuđinskoga kralja, da bi se ispunilo proroštvo Jakova koji kaže u Post 49: *neće se oduzeti žezlo od Jude ni vođa od njegova bedra dok ne dođe onaj koji ima biti poslan*. Jer, kako kaže Zlatousti o Mateju, *dokle god je židovski narod bio pod židovskim kraljevima, makar i grešnima, proroci su mu bili slani kao lijek. A sada, kad je Božji zakon bio pod vlašću nepravednoga kralja, rađa se Krist, jer je velika i beznadna bolest tražila vještijega liječnika*.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    },
+    "III.q35.a8.ad3": {
+      "text": "Na treće treba reći da se, kako se kaže u knjizi Pitanja Novoga i Staroga zavjeta, *Krist htio roditi onda kad svjetlo dana počinje rasti*, da bi se pokazalo da je on došao kako bi ljudi rasli u božanskom svjetlu, prema onome iz Lk 1: *da obasja one koji sjede u tami i u sjeni smrti*. Slično je za rođenje izabrao i oštrinu zime, da bi otada za nas trpio tjelesnu muku.",
+      "prompt_version": "1",
+      "glossary_version": 23,
+      "created_at": "2026-11-13T08:33:40+00:00"
+    }
+  }
+}
