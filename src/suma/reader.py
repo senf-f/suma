@@ -191,6 +191,41 @@ def _reader_term(term: dict) -> dict | None:
     return view
 
 
+HOME_TITLE = "Suma teologije – hrvatski prijevod (Toma Akvinski)"
+HOME_DESCRIPTION = (
+    "Cjeloviti hrvatski prijevod djela Summa theologiae svetoga Tome Akvinskoga: "
+    "pitanja i članci o Bogu, stvaranju, čovjeku, krepostima, Kristu i sakramentima."
+)
+DESCRIPTION_LIMIT = 155
+
+
+def _description(prefix: str, text: str, limit: int = DESCRIPTION_LIMIT) -> str:
+    """Meta description: prefix plus plain text, cut at a word boundary."""
+    plain = " ".join(_EM.sub(r"\1", text).split())
+    full = prefix + plain
+    if len(full) <= limit:
+        return full
+    return full[: limit - 1].rsplit(" ", 1)[0] + " …"
+
+
+def _first_text(sections: list[dict]) -> str:
+    for section in sections:
+        for unit in section["units"]:
+            for version in unit["translations"]:
+                if version["text"]:
+                    return version["text"]
+    return ""
+
+
+def _sitemap(site_url: str, paths: list[str]) -> str:
+    urls = "".join(f"  <url><loc>{escape(site_url)}/{escape(p)}</loc></url>\n" for p in paths)
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{urls}</urlset>\n"
+    )
+
+
 def _page_of(question: dict) -> tuple[str, str]:
     """Output path and pager label; a Part's prologue (question 0) gets its own small page."""
     if not question["question"]:
@@ -212,6 +247,9 @@ def build(
     env.filters["md_em"] = md_em
     env.globals["contact_email"] = CONTACT_EMAIL
     env.globals["v"] = asset_version(STATIC_DIR)
+    site_url = site_url.rstrip("/")
+    env.globals["site_url"] = site_url
+    env.globals["noindex"] = with_latin  # the Latin review build must never be indexed
     translations = _load_translations(hr_dir)
     if not with_latin:
         translations = {m: t for m, t in translations.items() if m in PUBLIC_MODELS}
@@ -237,9 +275,12 @@ def build(
             for href, label in [_page_of(questions[j])]
         }
         prologue = not question["question"]
+        title = f"{question['part']}, prolog" if prologue else f"{question['part']}, pitanje {question['question']}"
         html = env.get_template("prologue.html" if prologue else "question.html").render(
             root="../",
-            title=f"{question['part']}, prolog" if prologue else f"{question['part']}, pitanje {question['question']}",
+            title=title,
+            path=rel,
+            description=_description(f"Toma Akvinski, Suma teologije, {title}: ", _first_text(sections)),
             models=models,
             with_latin=with_latin,
             part_label=PART_LABELS[question["part"]],
@@ -254,19 +295,26 @@ def build(
         target.write_text(html, encoding="utf-8")
 
     (out_dir / "sadrzaj.html").write_text(
-        env.get_template("contents.html").render(root="", title="Sadržaj", models=[], toc=toc, part_labels=PART_LABELS),
+        env.get_template("contents.html").render(
+            root="", title="Sadržaj", path="sadrzaj.html", models=[], toc=toc,
+            description="Sadržaj Sume teologije Tome Akvinskoga: svi dijelovi, pitanja i članci.",
+            part_labels=PART_LABELS,
+        ),
         encoding="utf-8",
     )
     per_part = Counter(q["part"] for q in questions if q["question"])
     parts = [{"label": PART_LABELS[p], "count": count_questions(per_part[p])} for p in PART_ORDER if per_part[p]]
     (out_dir / "index.html").write_text(
-        env.get_template("index.html").render(root="", title="Početna", models=[], parts=parts, repo=repo),
+        env.get_template("index.html").render(
+            root="", title="Početna", full_title=HOME_TITLE, description=HOME_DESCRIPTION, path="",
+            models=[], parts=parts, repo=repo,
+        ),
         encoding="utf-8",
     )
 
     # Served for any missing path, so its links must be absolute.
     (out_dir / "404.html").write_text(
-        env.get_template("404.html").render(root="/", title="Stranica nije pronađena", models=[]),
+        env.get_template("404.html").render(root="/", title="Stranica nije pronađena", noindex=True, models=[]),
         encoding="utf-8",
     )
 
@@ -275,6 +323,18 @@ def build(
         terms = [_reader_term(t) for t in yaml.safe_load(glossary_path.read_text(encoding="utf-8"))["terms"]]
         terms = [t for t in terms if t is not None]
     (out_dir / "glosar.html").write_text(
-        env.get_template("glossary.html").render(root="", title="Glosar", models=[], terms=terms),
+        env.get_template("glossary.html").render(
+            root="", title="Glosar", path="glosar.html", models=[], terms=terms,
+            description="Glosar pojmova Sume teologije: latinski stručni nazivi i njihov hrvatski prijevod.",
+        ),
         encoding="utf-8",
     )
+
+    if with_latin:
+        (out_dir / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
+    else:
+        pages = ["", "sadrzaj.html", "glosar.html", *(item["href"] for item in toc)]
+        (out_dir / "sitemap.xml").write_text(_sitemap(site_url, pages), encoding="utf-8")
+        (out_dir / "robots.txt").write_text(
+            f"User-agent: *\nDisallow: /pagefind/\n\nSitemap: {site_url}/sitemap.xml\n", encoding="utf-8"
+        )

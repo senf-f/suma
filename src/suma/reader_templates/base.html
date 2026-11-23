@@ -3,7 +3,20 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ title }} · Suma teologije</title>
+{% set page_title = full_title or (title ~ " · Suma teologije") %}
+<title>{{ page_title }}</title>
+{% if description %}<meta name="description" content="{{ description }}">{% endif %}
+{% if noindex or path is not defined %}
+<meta name="robots" content="noindex">
+{% else %}
+<link rel="canonical" href="{{ site_url }}/{{ path }}">
+<meta property="og:type" content="{{ 'website' if path == '' else 'article' }}">
+<meta property="og:site_name" content="Suma teologije">
+<meta property="og:locale" content="hr_HR">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:url" content="{{ site_url }}/{{ path }}">
+{% if description %}<meta property="og:description" content="{{ description }}">{% endif %}
+{% endif %}
 <script>
   // A saved light/dark choice is applied before first paint, so the page never flashes the other theme.
   try { var t = localStorage.getItem("suma.theme"); if (t) document.documentElement.setAttribute("data-theme", t); } catch (e) {}

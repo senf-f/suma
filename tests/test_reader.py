@@ -439,3 +439,59 @@ def test_local_review_build_keeps_untranslated_questions(site_with_prologue, lat
     out = tmp_path / "review"
     build(latin_q2, tmp_path / "hr", tmp_path / "none.yaml", out, with_latin=True)
     assert (out / "I-II" / "q002.html").exists()
+
+
+def test_pages_have_canonical_url_and_open_graph(site):
+    q = (site / "I" / "q002.html").read_text(encoding="utf-8")
+    assert f'<link rel="canonical" href="{DEFAULT_SITE_URL}/I/q002.html">' in q
+    assert f'<meta property="og:url" content="{DEFAULT_SITE_URL}/I/q002.html">' in q
+    assert '<meta property="og:title" content="I, pitanje 2 · Suma teologije">' in q
+    assert '<meta property="og:locale" content="hr_HR">' in q
+    home = (site / "index.html").read_text(encoding="utf-8")
+    assert f'<link rel="canonical" href="{DEFAULT_SITE_URL}/">' in home
+
+
+def test_question_description_comes_from_the_croatian_text(site):
+    q = (site / "I" / "q002.html").read_text(encoding="utf-8")
+    m = re.search(r'<meta name="description" content="([^"]*)">', q)
+    assert m and m.group(1).startswith("Toma Akvinski, Suma teologije, I, pitanje 2: Ali protiv toga: Ja sam koji jesam.")
+    assert f'<meta property="og:description" content="{m.group(1)}">' in q
+
+
+def test_description_is_cut_at_a_word_boundary():
+    from suma.reader import _description
+
+    d = _description("Prefiks: ", "riječ " * 100)
+    assert len(d) <= 160 and d.endswith("riječ …")
+
+
+def test_home_page_title_names_the_work_and_author(site):
+    home = (site / "index.html").read_text(encoding="utf-8")
+    assert "<title>Suma teologije – hrvatski prijevod (Toma Akvinski)</title>" in home
+    assert '<meta name="description"' in home
+
+
+def test_sitemap_lists_every_public_page(site):
+    xml = (site / "sitemap.xml").read_text(encoding="utf-8")
+    for path in ("", "sadrzaj.html", "glosar.html", "I/q002.html"):
+        assert f"<loc>{DEFAULT_SITE_URL}/{path}</loc>" in xml
+    assert "404" not in xml
+
+
+def test_robots_points_to_sitemap(site):
+    robots = (site / "robots.txt").read_text(encoding="utf-8")
+    assert f"Sitemap: {DEFAULT_SITE_URL}/sitemap.xml" in robots
+    assert "Disallow: /pagefind/" in robots
+
+
+def test_404_page_is_not_indexed(site):
+    page = (site / "404.html").read_text(encoding="utf-8")
+    assert '<meta name="robots" content="noindex">' in page and "canonical" not in page
+
+
+def test_latin_review_build_is_never_indexed(site_with_latin):
+    assert "Disallow: /\n" in (site_with_latin / "robots.txt").read_text(encoding="utf-8")
+    assert not (site_with_latin / "sitemap.xml").exists()
+    for page in ("index.html", "I/q002.html"):
+        html = (site_with_latin / page).read_text(encoding="utf-8")
+        assert '<meta name="robots" content="noindex">' in html and "canonical" not in html
