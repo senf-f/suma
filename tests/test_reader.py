@@ -495,3 +495,81 @@ def test_latin_review_build_is_never_indexed(site_with_latin):
     for page in ("index.html", "I/q002.html"):
         html = (site_with_latin / page).read_text(encoding="utf-8")
         assert '<meta name="robots" content="noindex">' in html and "canonical" not in html
+
+
+def test_article_titles_come_from_the_last_numbered_list():
+    from suma.reader import article_titles
+
+    pr = ("Zatim treba razmotriti blaženstvo. Prvo, u čemu se sastoji; drugo, što je ono. "
+          "O prvome se pitaju tri stvari. Prvo, sastoji li se blaženstvo u bogatstvu. "
+          "Drugo: sastoji li se u časti? Treće, o slavi.")
+    assert article_titles(pr, 3) == ["Sastoji li se blaženstvo u bogatstvu?", "Sastoji li se u časti?", "O slavi"]
+
+
+def test_article_titles_accept_najprije_and_ignore_ordinals_inside_an_item():
+    from suma.reader import article_titles
+
+    pr = "Pitaju se dvije stvari. Najprije, je li prvo po pojmu dobro ili biće. Drugo, je li svako biće dobro."
+    assert article_titles(pr, 2) == ["Je li prvo po pojmu dobro ili biće?", "Je li svako biće dobro?"]
+
+
+def test_article_titles_give_up_when_the_list_does_not_match():
+    from suma.reader import article_titles
+
+    assert article_titles("Prvo, jedno. Drugo, drugo.", 3) is None
+    assert article_titles("Prvo, jedno.", 1) is None  # a single article has no list of its own
+    assert article_titles("", 2) is None
+
+
+@pytest.fixture
+def site_with_titles(latin_q2, tmp_path):
+    hr = tmp_path / "hr"
+    write_units(OPUS, "I", 2, {
+        "I.q2.pr": "O tome se pitaju tri stvari. Prvo, je li samo po sebi poznato da Bog jest. Drugo, može li se dokazati. Treće, postoji li Bog.",
+        "I.q2.a3.ad1": "Na prvo",
+    }, "1", 1, hr)
+    out = tmp_path / "dist"
+    build(latin_q2, hr, tmp_path / "none.yaml", out)
+    return out
+
+
+def test_article_heading_carries_its_question(site_with_titles):
+    html = (site_with_titles / "I" / "q002.html").read_text(encoding="utf-8")
+    assert re.search(r"<h2><span class=\"art-num\">Članak 3 <span class=\"of\">od 3</span></span> Postoji li Bog\?</h2>", html)
+    assert '<a href="#I.q2.a3" title="Postoji li Bog?">Članak 3</a>' in html
+
+
+def test_question_description_lists_its_articles(site_with_titles):
+    html = (site_with_titles / "I" / "q002.html").read_text(encoding="utf-8")
+    assert ('<meta name="description" content="Toma Akvinski, Suma teologije, I, pitanje 2: '
+            "Je li samo po sebi poznato da Bog jest? Može li se dokazati? Postoji li Bog?\">") in html
+
+
+def test_contents_shows_article_question_on_hover(site_with_titles):
+    html = (site_with_titles / "sadrzaj.html").read_text(encoding="utf-8")
+    assert 'title="Postoji li Bog?">čl. 3</a>' in html
+
+
+def test_last_article_title_stops_where_the_prologue_moves_on():
+    from suma.reader import article_titles
+
+    pr = ("Prvo, je li sudac. Drugo, proteže li se njegova vlast i na anđele. O izvršenju pak suda "
+          "raspravljat će se poslije. Sada je dosta ovo.")
+    assert article_titles(pr, 2)[1] == "Proteže li se njegova vlast i na anđele?"
+    pr = "Prvo, je li sv. Pavao apostol. Drugo, o definiciji koju daje Augustin u XXII. knjizi."
+    assert article_titles(pr, 2) == ["Je li sv. Pavao apostol?", "O definiciji koju daje Augustin u XXII. knjizi"]
+
+
+def test_italics_in_article_titles(latin_q2, tmp_path):
+    hr = tmp_path / "hr"
+    write_units(OPUS, "I", 2, {"I.q2.pr": "Prvo, a. Drugo, b. Treće, o riječi *grijeh*.", "I.q2.a3.ad1": "x"}, "1", 1, hr)
+    build(latin_q2, hr, tmp_path / "none.yaml", tmp_path / "out")
+    html = (tmp_path / "out" / "I" / "q002.html").read_text(encoding="utf-8")
+    assert "O riječi <em>grijeh</em></h2>" in html and 'title="O riječi grijeh"' in html
+
+
+def test_conditional_article_titles_are_questions_but_topics_are_not():
+    from suma.reader import article_titles
+
+    pr = "Prvo, ako je nešto stvoreno, je li djelovanje. Drugo, o njegovoj snazi, to jest opravdava li."
+    assert article_titles(pr, 2) == ["Ako je nešto stvoreno, je li djelovanje?", "O njegovoj snazi, to jest opravdava li"]

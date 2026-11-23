@@ -107,6 +107,8 @@ h2 { font-size: 1.45rem; line-height: 1.3; margin: 48px 0 12px; }
 .eyebrow { font: 13px var(--sans); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin: 0; }
 .lead { color: var(--muted); margin: 0 0 8px; }
 h2 .of { font: 400 14px var(--sans); color: var(--muted); margin-left: 6px; }
+h2 .art-num { display: block; font: 600 13px var(--sans); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
+h2 .art-num .of { font-weight: 400; text-transform: none; letter-spacing: 0; }
 
 .on-page {
   display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px;

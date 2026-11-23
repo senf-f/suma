@@ -145,6 +145,42 @@ def _load_translations(hr_dir: Path) -> dict[str, dict[str, str]]:
     return result
 
 
+_ORDINALS = ["prvo", "drugo", "treće", "četvrto", "peto", "šesto", "sedmo", "osmo", "deveto", "deseto",
+             "jedanaesto", "dvanaesto", "trinaesto", "četrnaesto", "petnaesto", "šesnaesto", "sedamnaesto",
+             "osamnaesto", "devetnaesto", "dvadeseto"]
+# An ordinal opening a list item: at the start or right after . ; : ? ! (not "je li prvo po pojmu …").
+_ORDINAL = re.compile(r"(?:^|(?<=[.;:?!]\s))(najprije|" + "|".join(_ORDINALS) + r")\b[,:]?\s*", re.IGNORECASE)
+
+# A sentence break: ". " or "? " after a word of 3+ lowercase letters, before a capital (not "sv. Pavao", "XXII. knjizi").
+_SENTENCE_END = re.compile(r"(?<=[a-zčćđšž]{3}[.?])\s+(?=[A-ZČĆĐŠŽ])")
+
+
+def _as_title(item: str) -> str:
+    item = item.strip().rstrip(".;,").strip()
+    # "je li …", "Ako je …, je li …" are questions; "O njegovoj snazi, to jest …" is a topic.
+    if not item.endswith("?") and re.search(r"\bli\b", item) and not re.match(r"[OoUu] ", item):
+        item += "?"
+    return item[:1].upper() + item[1:]
+
+
+def article_titles(prologue: str, count: int) -> list[str] | None:
+    """Article titles from the question's prologue, which ends by listing its articles
+    ("Prvo, je li … Drugo, …"). Earlier, higher-level lists ("prvo, o …; drugo, …") come
+    before it, so the last run of exactly `count` ordinals wins. None if there is no such run."""
+    if count < 2:
+        return None
+    hits = list(_ORDINAL.finditer(prologue))
+    wanted = ["prvo", *_ORDINALS[1:count]]
+    for start in range(len(hits) - count, -1, -1):
+        run = hits[start:start + count]
+        if [("prvo" if m.group(1).lower() == "najprije" else m.group(1).lower()) for m in run] == wanted:
+            ends = [m.start() for m in run[1:]] + [len(prologue)]
+            items = [prologue[m.end():end] for m, end in zip(run, ends)]
+            items[-1] = _SENTENCE_END.split(items[-1], maxsplit=1)[0]  # text after the list is not part of it
+            return [_as_title(item) for item in items]
+    return None
+
+
 def _sections(question: dict, translations: dict, repo: str, page_url: str) -> list[dict]:
     sections: list[dict] = []
     for unit in question["units"]:
@@ -155,6 +191,8 @@ def _sections(question: dict, translations: dict, repo: str, page_url: str) -> l
                 "key": key,
                 "anchor": key if article else None,
                 "heading": f"Članak {article}" if article else "Uvod u pitanje",
+                "article": article,
+                "title": None,
                 "units": [],
             })
         versions = []
@@ -276,17 +314,26 @@ def build(
         }
         prologue = not question["question"]
         title = f"{question['part']}, prolog" if prologue else f"{question['part']}, pitanje {question['question']}"
+        article_count = max((_split(u["id"])[2] or 0 for u in question["units"]), default=0)
+        # Titles come from the Croatian prologue, never the Latin: the first model that has it.
+        intro = next((t[f"{question['id']}.pr"] for t in translations.values() if f"{question['id']}.pr" in t), "")
+        titles = article_titles(intro, article_count)
+        if titles:
+            for section in sections:
+                if section["article"]:
+                    section["title"] = titles[section["article"] - 1]
+        summary = " ".join(titles) if titles else _first_text(sections)
         html = env.get_template("prologue.html" if prologue else "question.html").render(
             root="../",
             title=title,
             path=rel,
-            description=_description(f"Toma Akvinski, Suma teologije, {title}: ", _first_text(sections)),
+            description=_description(f"Toma Akvinski, Suma teologije, {title}: ", summary),
             models=models,
             with_latin=with_latin,
             part_label=PART_LABELS[question["part"]],
             q=question,
             sections=sections,
-            article_count=max((_split(u["id"])[2] or 0 for u in question["units"]), default=0),
+            article_count=article_count,
             prev=neighbours.get("prev"),
             next=neighbours.get("next"),
         )

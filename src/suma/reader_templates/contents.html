@@ -10,7 +10,7 @@
 <div class="toc-q">
   <a class="toc-title" href="{{ entry.href }}">{% if entry.question.question %}Pitanje {{ entry.question.question }}{% else %}Prolog{% endif %}</a>
   <span class="toc-articles">
-    {% for s in entry.sections if s.anchor %}<a href="{{ entry.href }}#{{ s.anchor }}">{{ s.heading|replace("Članak ", "čl. ") }}</a>{% endfor %}
+    {% for s in entry.sections if s.anchor %}<a href="{{ entry.href }}#{{ s.anchor }}"{% if s.title %} title="{{ s.title|replace('*', '') }}"{% endif %}>{{ s.heading|replace("Članak ", "čl. ") }}</a>{% endfor %}
   </span>
 </div>
 {% endfor %}

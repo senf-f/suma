@@ -8,13 +8,13 @@
 {% if articles %}
 <nav class="on-page" aria-label="Na ovoj stranici" data-pagefind-ignore>
   <span class="on-page-label">Na ovoj stranici</span>
-  {% for s in articles %}<a href="#{{ s.anchor }}">{{ s.heading }}</a>{% endfor %}
+  {% for s in articles %}<a href="#{{ s.anchor }}"{% if s.title %} title="{{ s.title|replace('*', '') }}"{% endif %}>{{ s.heading }}</a>{% endfor %}
 </nav>
 {% endif %}
 
 {% for s in sections %}
 <section class="article"{% if s.anchor %} id="{{ s.anchor }}"{% endif %}>
-  <h2>{{ s.heading }}{% if s.anchor %} <span class="of">od {{ article_count }}</span>{% endif %}</h2>
+  {% if s.title %}<h2><span class="art-num">{{ s.heading }} <span class="of">od {{ article_count }}</span></span> {{ s.title|md_em }}</h2>{% else %}<h2>{{ s.heading }}{% if s.anchor %} <span class="of">od {{ article_count }}</span>{% endif %}</h2>{% endif %}
   {% for u in s.units %}
   {% include "unit.html" %}
   {% endfor %}
