@@ -92,25 +92,38 @@ to a temporary file first, so a failed download never replaces the working datab
 0 4 3 * * root curl -fsSL "https://download.db-ip.com/free/dbip-city-lite-$(date +\%Y-\%m).mmdb.gz" | gunzip > /usr/local/share/GeoIP/dbip-city-lite.mmdb.new && mv /usr/local/share/GeoIP/dbip-city-lite.mmdb.new /usr/local/share/GeoIP/dbip-city-lite.mmdb
 ```
 
+### 4. Tools for the city table
+
+```sh
+apt-get install -y jq mmdb-bin
+```
+
 ## Reading the stats
 
-The log is readable only by root and `caddy`, so these commands run as root.
+From the repo on your machine:
 
-Interactive, in the terminal on the VPS (`q` quits):
+```sh
+uv run suma stats
+```
+
+This makes one ssh call, builds the report on the server, and opens it in the browser. The report is
+written to `suma-stats.html` in the temp directory and is never published. The page has two parts:
+
+- **Cities** (click to expand): page views per country and city. GoAccess only shows countries, so
+  this table comes from separate `mmdblookup` lookups. It counts page requests only, without assets,
+  search index files or errors, and drops obvious bots by user agent.
+- **The GoAccess dashboard** below it. Useful panels:
+  - **Requested Files:** the most-read questions.
+  - **Referring Sites:** where visitors came from.
+  - **Not Found URLs:** deep links that people actually followed and that are broken.
+  - **Geo Location:** visitors by continent and country.
+
+The command connects as `root@<site host>`, because only root and `caddy` can read the log. To use a
+different login, pass `--host` or set `SUMA_STATS_HOST`. Use `--out FILE` to keep a copy somewhere
+else and `--no-open` to skip the browser.
+
+For a quick look in the terminal on the VPS instead (`q` quits):
 
 ```sh
 zcat -f /var/log/caddy/suma-access.log* | goaccess - --log-format=CADDY --ignore-crawlers --geoip-database=/usr/local/share/GeoIP/dbip-city-lite.mmdb
 ```
-
-HTML report on Windows (PowerShell). The report is generated on the server, copied down, and never
-published:
-
-```powershell
-ssh root@suma.oprobate.eu "zcat -f /var/log/caddy/suma-access.log* | goaccess - --log-format=CADDY --ignore-crawlers --geoip-database=/usr/local/share/GeoIP/dbip-city-lite.mmdb -o /tmp/suma.html >/dev/null && cat /tmp/suma.html" > $HOME\suma-stats.html; start $HOME\suma-stats.html
-```
-
-Useful panels:
-- **Requested Files:** the most-read questions.
-- **Referring Sites:** where visitors came from.
-- **Not Found URLs:** deep links that people actually followed and that are broken.
-- **Geo Location:** visitors by continent and country.

@@ -102,6 +102,23 @@ def cmd_deploy(args) -> None:
         print(f"Deployed release {release}: {site_url}")
 
 
+def cmd_stats(args) -> None:
+    import tempfile
+    import webbrowser
+    from urllib.parse import urlsplit
+
+    import suma.stats
+    from suma.reader import DEFAULT_SITE_URL
+
+    site_host = urlsplit(os.environ.get("SUMA_SITE_URL") or DEFAULT_SITE_URL).hostname
+    host = args.host or os.environ.get("SUMA_STATS_HOST") or f"root@{site_host}"
+    out = Path(args.out) if args.out else Path(tempfile.gettempdir()) / "suma-stats.html"
+    suma.stats.stats(host, out)
+    print(f"Traffic report written to {out}")
+    if not args.no_open:
+        webbrowser.open(out.resolve().as_uri())
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="suma", description="Summa Theologiae translation pipeline")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -134,6 +151,11 @@ def build_parser() -> argparse.ArgumentParser:
     p_dep.add_argument("--site-url", help="public URL (default: $SUMA_SITE_URL, else suma.oprobate.eu)")
     p_dep.add_argument("--dry-run", action="store_true", help="build and show the upload command without connecting")
     p_dep.set_defaults(func=cmd_deploy)
+    p_stats = sub.add_parser("stats", help="traffic report from the VPS access log (GoAccess + cities), opened in the browser")
+    p_stats.add_argument("--host", help="ssh target that can read the Caddy log (default: $SUMA_STATS_HOST, else root@<site host>)")
+    p_stats.add_argument("--out", help="where to write the HTML report (default: suma-stats.html in the temp directory)")
+    p_stats.add_argument("--no-open", action="store_true", help="write the report without opening a browser")
+    p_stats.set_defaults(func=cmd_stats)
     return parser
 
 
